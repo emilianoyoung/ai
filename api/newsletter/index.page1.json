@@ -1,0 +1,5 @@
+---
+api: newsletter
+page: 1
+permalink: /:path/page1/
+---

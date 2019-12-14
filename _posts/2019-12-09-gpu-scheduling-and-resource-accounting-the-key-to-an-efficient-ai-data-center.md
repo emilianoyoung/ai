@@ -1,0 +1,43 @@
+---
+category: news
+title: "GPU Scheduling and Resource Accounting: The Key to an Efficient AI Data Center"
+excerpt: "Virtually all top HPC and AI applications now provide some form of GPU support, accelerating applications anywhere from 20% to a 1,000-fold[3]. NVIDIA’s CUDA environment makes GPUs easier to program, minimizing the learning curve for developers by ..."
+publishedDateTime: 2019-12-09T17:42:00Z
+sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/gpu-scheduling-and-resource-accounting-the-key-to-an-efficient-ai-data-center/
+type: article
+quality: 50
+heat: 60
+published: true
+
+provider:
+  name: HPCwire
+  domain: hpcwire.com
+
+topics:
+  - AI
+  - AI Hardware
+
+images:
+  - url: https://www.bing.com/th?id=ON.62A7E107D2FB8B1FA02A72309B00631F
+    width: 700
+    height: 430
+    title: "GPU Scheduling and Resource Accounting: The Key to an Efficient AI Data Center"
+
+related:
+  - title: "451 Research: Hitachi Vantara Turns Up the AI in Data Center Management"
+    excerpt: "New approaches to datacenter management are needed to effectively address these pain points. Use AI and machine learning (ML) to help transform your datacenter operations for increased operational efficiencies, improved IT service levels and quickly troubleshoot problems. Read this 451 Research report to find out: How data center management can ..."
+    publishedDateTime: 2019-12-09T15:39:00Z
+    sourceUrl: https://www.networkworld.com/resources/196119/451-research-hitachi-vantara-turns-up-the-ai-in-data-center-management
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.828791AC5211CDAFC7E0B72709222CEB
+        width: 155
+        height: 200
+
+secured: "zFUWCxAQDzzCBszyUSN/2BQPG/+70EvIBMPJuaC8Cp+SpOUA/XbP0iAVS7G5M+LgpJlTx/L6z/UWqLypCdqur4zz7dI6OvPsFRm+TBZ2ymheXGgU/eilTfBvzFfplS6xMMw08cQ1N38jjAa6Y58adt88d+pu3mE18PHQlKcwCLIDOYNtjZ6tDItIWBoGV6POzVlE6tOSOHgy5bOiThFgbDOoRbLuGlSdLtoYQucBkQgAdUa5jYTbiFa0ILiUoIsImDeQ+e1ab6efohye92K8OQ==;0irjFWfT9Rmoknj3XJH57A=="
+---
+

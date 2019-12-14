@@ -1,0 +1,61 @@
+---
+category: news
+title: "Microsoft tech expert warns of bias and sexism in artificial intelligence"
+excerpt: "A senior technology executive has warned the data used to build algorithms driving artificial intelligence can lead to bias and sexism. Emily Rich, managing director of startups at Microsoft Australia, told the Startup Grind conference in Melbourne on Monday that a lack of diversity in the data used for artificial intelligence raised serious ..."
+publishedDateTime: 2019-12-10T02:03:00Z
+sourceUrl: https://www.smh.com.au/business/small-business/microsoft-tech-expert-warns-of-bias-and-sexism-in-artificial-intelligence-20191209-p53i8r.html
+ampUrl: https://amp.smh.com.au/business/small-business/microsoft-tech-expert-warns-of-bias-and-sexism-in-artificial-intelligence-20191209-p53i8r.html
+cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/business/small-business/microsoft-tech-expert-warns-of-bias-and-sexism-in-artificial-intelligence-20191209-p53i8r.html
+type: article
+quality: 60
+heat: 80
+published: true
+
+provider:
+  name: Sydney Morning Herald
+  domain: smh.com.au
+
+topics:
+  - AI
+  - AI Ethics
+  - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.DF598861B0557A1D9C49B0F7414CECD4
+    width: 700
+    height: 393
+    title: "Microsoft tech expert warns of bias and sexism in artificial intelligence"
+
+related:
+  - title: "Experts dwell on use of artificial intelligence in war"
+    excerpt: "With artificial intelligence set to dictate the nature of future battlefields, experts discussed its importance and implications in the Indian context at a seminar on ‘War in the Artificial Intelligence Age’ here today. Experts said artificial intelligence was an emerging technology affecting military and civilian domains alike across the ..."
+    publishedDateTime: 2019-12-09T01:43:00Z
+    sourceUrl: https://www.tribuneindia.com/news/cities/chandigarh/experts-dwell-on-use-of-artificial-intelligence-in-war/872015.html
+    ampUrl: https://m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
+    cdnAmpUrl: https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.9F1D63DEE25CB0A15DEF72A83860660C
+        width: 660
+        height: 307
+  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
+    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
+    publishedDateTime: 2019-12-03T13:11:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
+        width: 300
+        height: 300
+
+secured: "mebDRWckOQHbz0K5Hmu8fpTUq5wRTdbiRYZSx2lLid4fl4oWlmVBxlp6nVMIg5o8L/cM/gCUBqydxk9Ue9Xgf1w9VYweguyPJBKFkOwLlp7EnwUFZ6E8zMD+tXWKk7wwvKw8vGpp4by4G41C8beuZrRrKvWTXQQtEMfyji+h93IVCVmFPt2UHKeYCPaYZfJgBt8AigsxJpIEQED+ZQNqVo5kfxJCt00liXPV2VjRI1xY5ui7zhucxYDaNg2k7kD/0INOALB19LvEe7d9XYsv7Q==;fT0r85tJik0q7BWn/Ld5CA=="
+---
+

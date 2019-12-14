@@ -1,0 +1,45 @@
+---
+category: news
+title: "Opinion: To deploy AI wisely, we need to understand its limitations"
+excerpt: "We should respect and deploy wisely its abilities, without bowing down to imaginary powers. Alice Xiang is a research scientist at the Partnership on AI. Irina Raicu is the director of the Internet Ethics program at Santa Clara University’s Markkula Center for Applied Ethics."
+publishedDateTime: 2019-12-13T14:16:00Z
+sourceUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/
+ampUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
+cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
+type: article
+quality: 59
+heat: 69
+published: true
+
+provider:
+  name: East Bay Times
+  domain: eastbaytimes.com
+
+topics:
+  - AI
+  - AI Ethics
+
+images:
+  - url: https://www.bing.com/th?id=ON.6EDDA49044EDF66542B77011561FF8CA
+    width: 700
+    height: 466
+    title: "Opinion: To deploy AI wisely, we need to understand its limitations"
+
+related:
+  - title: "You don’t need to understand AI to trust it, says German politician"
+    excerpt: "She also demanded that AI developers should consider users’ safety concerns and other basic principles from the beginning. This is very much in line with what has been outlined in the EU’s “Ethics guidelines for trustworthy AI” published in April this year, where, as guideline number one, it is stated “AI systems should empower human ..."
+    publishedDateTime: 2019-12-12T12:13:00Z
+    sourceUrl: https://telecoms.com/501363/you-dont-need-to-understand-ai-to-trust-it/
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
+        width: 300
+        height: 199
+
+secured: "tyvVXVQAcMRduIEoqwK3lqvAboKgUidC3a5FyS4pebihHw2UmgxLtybhgupdAc3zIxZZ3glTbMdVRLce44yKkp8y1lk33U/RNrc6N2TfthVjTJf1EMcohA9qG65j5pWEqzRVLBJ5UXhhwMoMsOtO54wcHjRYOcesLZdLp5IH3nwjL+WyQy5olOurKJNyQUyK7+2j7nnU2zldPxtZeyA+8an6562zjVkquQbAq9jr8r/A35hhBU/9RgqJi9Fg2n9AYlK48Q9eOslNMT8yxUfiNA==;/9pSLZpalcOtMMesqc8xZQ=="
+---
+

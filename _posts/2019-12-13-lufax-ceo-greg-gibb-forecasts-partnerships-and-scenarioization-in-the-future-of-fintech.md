@@ -1,0 +1,46 @@
+---
+category: news
+title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
+excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
+publishedDateTime: 2019-12-13T04:58:00Z
+sourceUrl: https://finance.yahoo.com/news/lufax-ceo-greg-gibb-forecasts-055000912.html
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: YAHOO!
+  domain: yahoo.com
+
+topics:
+  - AI
+  - AI in Finance
+
+related:
+  - title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
+    excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
+    publishedDateTime: 2019-12-11T04:50:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/lufax-ceo-greg-gibb-forecasts-partnerships-and-scenarioization-in-the-future-of-fintech-1028753507
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
+  - title: "Shoosmiths believe Fintech offers a bright future for all"
+    excerpt: "By harnessing the power of artificial intelligence (AI), machine learning and data analytics seen in many fintech products, stand-out lawtech products are steadily finding traction in the legal market. Innovations include legal document reviewing software that at the press of a button can cut by 80% the time spent on important but previously ..."
+    publishedDateTime: 2019-12-09T18:29:00Z
+    sourceUrl: https://www.heraldscotland.com/business_hq/18089920.shoosmiths-believe-fintech-offers-bright-future/
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 24
+    images:
+      - url: https://www.heraldscotland.com/resources/images/10775273/
+        width: 2400
+        height: 1350
+
+secured: "xgDt372BMJKLd40IU3HtlTlJuTl/m2XEKjE0f/S0KRAqT4h206u2KBOXRZ8RB/crNXIVS+Kz8jXpZT9eBx45yyPq84YaXfqfdIsvgRLPKTVq6eMMj8Aq3QKeVUYhi9WBLYTM/+951h/G+E4M/SjzsoIt3+6EkgiBqcjXIAEdifEbQd/qB2Juw8Wv0QQP8/9HOupslHHRLwxV0dLphu28eEhTkUpc0oSOpiEVuzgZVn6UPsnoICC7LaftMoWkuo0EvuiFHSHVMPRHoEhhrt9uUA==;pMYrfBP8J5jnesgruLR7PA=="
+---
+
