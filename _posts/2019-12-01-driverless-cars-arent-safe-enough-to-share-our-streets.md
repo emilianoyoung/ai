@@ -27,8 +27,8 @@ images:
 
 related:
   - title: "Kiwi engineer's AI software tested in driverless cars across London"
-    excerpt: "A Kiwi behind a driverless car pilot in London says he sees a future where it will be illegal for humans to drive cars. Roboticist Alex Kendall co-founded Wayve, a business that creates artificial intelligence software for driverless cars, while working towards his PhD at the University of Cambridge alongside co-founder Amar Shah. Wayve has ..."
-    publishedDateTime: 2019-11-24T22:24:00Z
+    excerpt: "A Kiwi behind a driverless car pilot in London says he sees a future where it will be illegal for humans to drive cars. Roboticist Alex Kendall co-founded Wayve, a business that creates artificial intelligence software for driverless cars, while working ..."
+    publishedDateTime: 2019-11-25T00:00:00Z
     sourceUrl: https://www.stuff.co.nz/business/117626324/kiwi-engineers-ai-software-tested-in-driverless-cars-across-london
     type: article
     provider:
@@ -36,9 +36,9 @@ related:
       domain: stuff.co.nz
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.7D58B9EC562FE201F67F7C376C6FCB7B
-        width: 700
-        height: 394
+      - url: https://resources.stuff.co.nz/content/dam/images/1/y/1/k/t/p/image.related.StuffLandscapeSixteenByNine.1420x800.1y151w.png/1574635065341.jpg
+        width: 1420
+        height: 800
 
 secured: "+0LlVLwgZAXKaOgQrt7sxKQYPFxaHQLv35mOS+tpro4N0yniFfpiMDiIaVr12kwaSkhPDJWaeO13wQzixbjpV6pzyh2DPRtt1X0IT0yB2LNqiYtkm3SYNlsgxmOyHn3y92OF3aVU3Vmjw9QM/0yFrx55Gtv1gGncbFWrMSXUsr63n6lsGpIkNyZyFXi88r3EYbp/BCtsBb2D5wan1mr8ZRW1RW0Hw1v525J+SyLTPy6+CwKX2wdPhgTxN6gO6Yxrmtt7ZHir1dnYMNlHWWf4ig==;ZI+sgDrddnXaHhoB/WpCUA=="
 ---

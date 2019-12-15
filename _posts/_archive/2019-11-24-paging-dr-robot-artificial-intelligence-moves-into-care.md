@@ -8,7 +8,7 @@ ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-i
 cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Paging Dr. Robot: Artificial intelligence moves into care"
 
 related:
-  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
-    excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat."
-    publishedDateTime: 2019-11-25T00:10:00Z
-    sourceUrl: https://abcnews.go.com/Business/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270731
-    ampUrl: https://abcnews.go.com/amp/Business/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270731
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270731
-    type: article
-    provider:
-      name: ABC News
-      domain: go.com
-    quality: 74
-    images:
-      - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
-        width: 992
-        height: 558
   - title: "Paging Dr. Robot: Artificial intelligence moves into health care"
     excerpt: "Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients. It already detects an eye disease tied to diabetes and does other behind-the-scenes work like helping doctors interpret MRI scans and other imaging ..."
     publishedDateTime: 2019-11-25T05:00:00Z
@@ -83,6 +68,6 @@ related:
         width: 700
         height: 466
 
-secured: "y0orBRwYLQ/1y3JQM1tcqiaZD3dreDMXaHlKqXyl40PfdjbtmhBBusomWinjD4DVEq7XDWlpvkkz+AbGc0civZeEcKOyyt8SC2PgUDLH3V36s4HRPGi1eFCDgskdO8xz1TPq1w7BdDojnzgDP+KmZH6xkWwHn5VkCQfumeiJRbGcXIa1HpHUL+N9P03u5Y38yoeXtUDMrDPN7B9c8bYaQjRWBisJHzvIyoe6RtOIU+T81xoKKMsm5tupwxrxSsHM+qzU/y+7CVZXWFl+xUPSYQ==;GW65Xtt1hL8UljdDqXUQMA=="
+secured: "BHXHofdGQiyiUSVdVhsnDSpd3VI8/dNIyiipP1vUVzaAa2PYOk3CBPMgKHAfCG2diF5SEBJg66nkCVDE54oDN2t4d4c1ljtHlh9d8nlNuVogRPZ1bfgs2J/qAWgECfNuTdzIggZrPUC1XbdACayamoA3d0zrxqupqq67H/jdgunBzzYb7HJgJHK7kOR/fFhe9Xp6LlmUtGJklKHz+Q9EEJCwwKAe1h8KERwe3AHgUVM5YmwBK3BjuXFOWH4Dpvp8PxBONE6K/++BjG2AAyOkNA==;bVguhqt1jUcIq+JR+a7V4Q=="
 ---
 

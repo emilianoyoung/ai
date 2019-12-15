@@ -25,31 +25,18 @@ images:
 
 related:
   - title: "For now, Lockport wants facial recognition security system just for guns"
-    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object recognition,\" said Stefanie Coyle, the deputy director of the NYCLU's Education Policy Center."
-    publishedDateTime: 2019-11-25T00:37:00Z
+    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
+    publishedDateTime: 2019-11-24T10:01:00Z
     sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
     type: article
     provider:
-      name: Buffalo News
+      name: The Buffalo News
       domain: buffalonews.com
     quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
-        width: 700
-        height: 525
-  - title: "The Face Recognition Company exits stealth with new multi-camera biometric security offering"
-    excerpt: "A new multi-camera face recognition security product will be introduced by The Face Recognition Company (FRC) at the upcoming International Security Expo in London, bringing the company out of stealth after three years of development. FRC claims its security system is the first “ultra-accurate” technology optimized for commercial businesses ..."
-    publishedDateTime: 2019-11-27T19:17:00Z
-    sourceUrl: https://www.biometricupdate.com/201911/the-face-recognition-company-exits-stealth-with-new-multi-camera-biometric-security-offering
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
-        width: 660
-        height: 300
+      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
+        width: 2000
+        height: 1500
 
 secured: "mRj6L/tR98LBSPeRR0D7Ps9tqJVSC2yaU+8RFL2akAXVlRvmmLP7YcS+Mf/39SYUPclEoj0yi8GL/qbOiLZyI/JCI6aXRJd+kLEdrGzo7pEvXJb8EOUf9RV3Q2yRULSE2xs2DFjPtLQnFnRUVU8vx3aQuB9U4sxZKsx3F+Ih3kf2iWXwOjvFFvbWLhqydxllEaQvrfegCJtGUNrjGtKSKQYVghM0GYU9DCP8GJDM4iyUneFMuSJngRRi1zit5XJYZiHs8bOQepAsLay4Yj1tWw==;y9zfVb6ot0d6j7j1YOqCqw=="
 ---

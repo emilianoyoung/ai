@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3163AD23F5B40F92F0DC8D7BE38F3582
         width: 480
         height: 244
+  - title: "The Face Recognition Company exits stealth with new multi-camera biometric security offering"
+    excerpt: "A new multi-camera face recognition security product will be introduced by The Face Recognition Company (FRC) at the upcoming International Security Expo in London, bringing the company out of stealth after three years of development. FRC claims its security system is the first “ultra-accurate” technology optimized for commercial businesses ..."
+    publishedDateTime: 2019-11-27T19:17:00Z
+    sourceUrl: https://www.biometricupdate.com/201911/the-face-recognition-company-exits-stealth-with-new-multi-camera-biometric-security-offering
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
+        width: 660
+        height: 300
 
 secured: "85xFyn/E3mGhuSt7yCl/vJh/9UDI4DOCIYBZPJ+XCDFl6zJdzuSoSc7CecIKcEI+nm+MtumGL89UC5vXBHdNQEelSzYN91JybRIQPTpTK3lpvagZgKninReC1hiz69p1STwGKNdksuWyybOqDBkQ0x4aUZFtvjLsxaEyhc+XgpowRCigl/hp7gWhor4PxH9PLzuqyHlb4eW/jSh5EUNghPDEDN0nuGNpSyGm5EMaxAq76gO/tmRyXZOLPFZBXEgkTedbon3ZxUaVdsoQYd5/gQ==;7DG4sJncC8pB4mB8s8Ljvw=="
 ---

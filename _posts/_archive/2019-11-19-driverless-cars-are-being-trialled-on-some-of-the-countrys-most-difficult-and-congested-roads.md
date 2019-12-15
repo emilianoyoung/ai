@@ -34,8 +34,12 @@ related:
     provider:
       name: The RAC
       domain: rac.co.uk
-    quality: 19
+    quality: 39
+    images:
+      - url: https://d1ix0byejyn2u7.cloudfront.net/drive/images/uploads/headers/ws_cropper/26_0x114_1200x629_1200x630_wayve-driverless-trial-london.jpg
+        width: 1200
+        height: 630
 
-secured: "40egrIUUYojrsp4P8PwzIQud9e8tJ+x5S5XMp5h/0jMXXLl8VDMgvob0IxsW5wxN7PBwXMmiBESdOpAWniHq8i89le3oAKKSitH2HZMDksxVCWclJ+doHOXWKP24jEtaVt+nTPoM17n23h+IGAexdaezTjqFZNWxFYjR3LLGb0XjgsdyZra0Ym8iGuCuUVr5GENZyATUZJVI0HW9aTfwm+D2FogPuO+boN2ln3pc2w9IprwTKgZPpEHWiH4YK8z1DTrl+EvLKmbRRk27Xd/Kaw==;UHD8VhI80gmtmXxRbWPeHA=="
+secured: "ROK/MUch40WF/pT1UyBfzCjs1N7If6xcUYVYZ17ucDjSgElaQ+vnWytIS1Lj/SCVv6DIcGNJ3HfkYUNBvp1JDHAnPMip+GnG+tYNQzfpU7XASmsv6nvK0slTPxL4S875S2cse+C69aavM2Z33mEPm+Hm6/iQCVwzE1KZQB0dbFQVYiugdu8UfSI3a3jcPClIE5Ogt/mu0Wa1HX4IN4unEpJsIoPO86aTrcryo8zXRsQvG/IJ7tDzTbCPdmx+yNTjFtTrbitj8UyxzwVUlIfk9A==;HVa+RtPsitjWMpYY/ukOWg=="
 ---
 

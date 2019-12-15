@@ -2,38 +2,25 @@
 category: news
 title: "Bizagi Intelligent Automation Platform Integrates RPA and Microsoft Azure Cognitive Services to Deliver Enhanced Customer Experience"
 excerpt: "and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent automation across ..."
-publishedDateTime: 2019-11-19T00:00:00Z
-sourceUrl: https://finance.yahoo.com/news/bizagi-intelligent-automation-platform-integrates-140000676.html
+publishedDateTime: 2019-11-19T14:08:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/bizagi-intelligent-automation-platform-integrates-rpa-and-microsoft-azure-cognitive-services-to-deliver-enhanced-customer-experience-1028700410
 type: article
-quality: 18
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Yahoo Finance
-  domain: yahoo.com
+  name: Markets Insider
+  domain: businessinsider.com
+  images:
+    - url: https://ai.insideout.app/assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Bizagi’s process automation platform gets AI decisioning and Azure Cognitive Services integration"
-    excerpt: "Bizagi now offers its process automation tools and AI capabilities alongside Microsoft Azure Cognitive Services, and its Bizagi Studio Collaboration Services is free to use in the Azure Marketplace, too. This follows news from just a few weeks ago about ..."
-    publishedDateTime: 2019-11-19T13:06:00Z
-    sourceUrl: https://venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/
-    ampUrl: https://venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/11/bizagi-featured.jpg?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
-
-secured: "d5WywL5oqPiqkQsb3n1LjuppVXcUMynBlDvTbofxSof0rpxPUGcoV84sj9MZDD+ceKLV5vmTYKvCI4PscpokxqCck4VjjmSbO1YzJi+qLABIVUaCJdMaqPSXgnsjtQ+7iczzsUXRNP+H7jCO9nyL8sdw3XyJqhN7l2Wjuq7fZ6pn4oSEIuq4VefTqZ/NB5WDkwuRDYW8JxsddxKRrwXl5oo4RgfTPQ/shhVr+VxKQQTnmKOXS2U8r4Ly62vS87zexGXPUxW/oM+UBR+t7jv7lQ==;vU7+kK0ddHLEZpu69s3/jg=="
+secured: "T9etMin7la1n+Rbq+4KGEjzAgVU9tqz0WidVwipdPdwdXMR0X2DfXg9OY2ANuBe3ECGx6ylDMpmR+beTSMpC0lmFsfgUNBvg+bsA6mreB163hpHiJOeb204kGS8BH0SO/mQervmEtonucPEg6GBDfFXcwsjpj1cBXOzIvGMwe7guW9Pczrd93Pq+Q00Gngcz1rvLRrxxykK+/DCjX0P2tNOi8FEgvW/MZluIEv7aKasZERJGA7fPTdy3CK0JmDgxTWeQywCS7a3QNPoeLMkfRw==;cNqjhfuxyBvvhGG4hmZatQ=="
 ---
 

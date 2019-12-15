@@ -70,7 +70,7 @@ related:
         width: 700
         height: 345
   - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-    excerpt: "Linker's machine learning technology delivers end-to-end ... linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-generation-of-customer-experiences ..."
+    excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
     publishedDateTime: 2019-12-01T14:11:00Z
     sourceUrl: https://finance.yahoo.com/news/linker-networks-extends-auto-labeling-140000242.html
     type: article

@@ -3,7 +3,7 @@ category: news
 title: "Speech recognition tech cuts paperwork for police"
 excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
 publishedDateTime: 2019-12-12T20:42:00Z
-sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
+sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
 type: article
 quality: 39
 heat: -1
@@ -93,6 +93,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:00Z
+    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -438,19 +453,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
         width: 700
         height: 466
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z
@@ -524,6 +526,6 @@ related:
         width: 600
         height: 295
 
-secured: "1jv4BdREA8vk25VMKf9vhQB8JD1lrq4H+7Ub9a1Sy1gAYbHoFe8+TC/cX634q5o+GxI5aLgnG+CHOkupvr5+kV+f69BWo2MJfI7mCEeZwkczAKTER58zbtTyOe4XWYLB5kYoFPNniPZXT6qR9fhmCG288HsjeBw9CQiNBl5rDuTG7dgL3a8MUb3wjX1PRSw5IeeVpdAHTst1ab0f7eojWRN/jonC80vRKgFaOYr9PhT/6VMdWlWs751sP6V1K7H6ePVZwKnL+KMGRGkFUN2xZw==;vdGudCYQvuTQXX/akpvM4A=="
+secured: "h01oSTVcIfS+74aLz6W9PGxU3hTrv+nH+9gUkJiG7drERvtfVIqMVM/4+5qoy/X3hOVFbeCa1rZ/WfKstV0J/uKZhO+YM3Q5LBO3N13BPEuStDAoqr1BjYkS1EfWQJ/cFw5s7E/6/euKgCNKs16EzkRkLsMNQRUdsOARuwt39cYRIX9WqJtRwD2Uf7myTtcR83lqFivfPrgBvfZGyU7UYwyIUd/WWLtehC1vnq19rKSWScCSWRXwjphF/NpOcb9YeDXMalHrrFN8akUrlny/kg==;0aeYW47/6m3oTZv+ntIAng=="
 ---
 

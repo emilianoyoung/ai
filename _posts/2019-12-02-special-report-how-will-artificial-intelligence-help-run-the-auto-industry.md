@@ -1,12 +1,12 @@
 ---
 category: news
-title: "‘Special report: How will artificial intelligence help run the auto industry?’"
-excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving aspects of automotive ... Discussion about the use of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a significant place for AI deployment in many other ..."
-publishedDateTime: 2019-12-02T11:04:00Z
-sourceUrl: https://www.automotiveworld.com/news-releases/special-report-how-will-artificial-intelligence-help-run-the-auto-industry-2/
+title: "Special report: How will artificial intelligence help run the auto industry?"
+excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving ... of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a ..."
+publishedDateTime: 2019-12-02T10:07:00Z
+sourceUrl: https://www.automotiveworld.com/research/special-report-how-will-artificial-intelligence-help-run-the-auto-industry/
 type: article
-quality: 15
-heat: 15
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Autos
 
-secured: "dQq6ziD68x1wUqIpgdMVDt1gnyJztZ3mWW6WGp92XQkKIf4zyu8R1zuzxvy5i7PFOFIvh9Y7k03R6RMhXfgFpTGn+LCINYH5apa6Rn5VXhIjyX56u2vdBDFM90SFpOUaw3uQHRWzteLxKqhJGN2hZzQ78tP1MOpiwbkQGzzuInNeQV+TfumJV1rsW/mQqJBGQWJcTPf0QvvOwDeYx57zsiGzUQ/oMJa1E3j99gCNuEMh+GZu1t8jYNQbGEy2rrVP+Lk3P7WM41C73euiWpLwNw==;SHIs7t+5IydHejPL3OhyBA=="
+images:
+  - url: https://www.bing.com/th?id=ON.064747EC3B840865688D9451B3A47F4A
+    width: 179
+    height: 249
+    title: "Special report: How will artificial intelligence help run the auto industry?"
+
+secured: "1rXzBPiw/K4gDCmHgy40wMenZtlJiDzuSYBtOsSC/PjiIa25DVhpXGrVxoI+UhN7P7jJhx3SXhTOelDgZj/JvJwIJOw3y/4tBGXXe9AaLIYZZ35LFpLRxKs9F9IVfK9VCUewb6qJyxkiJTvpbnbmuP59rKxE1J6taKccn+j2lb3V/oKAkbvIL4J/zoUBW22MG1196gSM7UdBatf+quVP1SPpAtCsYY6cvUt4ORiHdFRrRjalu2NhaByrNx27T4IISWzZD/ceP796ciFMcs/k4Q==;npN1HmMPycuBMLUZkG8YbQ=="
 ---
 

@@ -2,16 +2,22 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:48Z
-sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
+publishedDateTime: 2019-12-13T18:44:00Z
+sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
 type: article
-quality: 38
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: https://ai.insideout.app/assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -402,7 +408,7 @@ related:
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
     publishedDateTime: 2019-12-12T20:42:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
+    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
     type: article
     provider:
       name: GCN
@@ -524,6 +530,6 @@ related:
         width: 600
         height: 295
 
-secured: "0MerpgX4pmrLJxg1oS9cnoTMKlvN6bpEufeXP1AmrCUQdxVtyk82cmTBepa9EIBIDC0YqsQruvClEbol3QbGxuLwMDvlziR3Sjifl1vai4Zjn0hpW762vyjYcIho4XbfxiaV83/gy3ATJ9KYlc+0dvMZrb4swlFdrjc6o7e231S32o5ExZ0esD2OoYX/mh6qP0XSzp142PBLD7TeLBLnST+J3GIkgvoM5MTZ4wTHPhwiIL/ilqeaOGvEYQJrM/HRMBvLj0x/rnbHgS01PQgNag==;0oZPbYN+sXjkde43VqkAqA=="
+secured: "5s+jd5x2PaSTK8IllZ9Goet2oQZvFPYN/P5zPuHtAO/54bxICKIKR/AwTugfFl/YH8Wq1ETNJ78Kfo1M2fPRHNxHp6i5816IhLOAxF2yC4k9ENiQHW+hselLeL1Rke2R+36zOnKvWev/03TLBtRL3SJd1pb6UyRy9sEvI2grzHncsFro5T4MjRmoM4/xod+2clgM//AbEafnYD0D7/YlAdW6KHZd2vnyy+Hi4OsyToj0MnMsbeukotGKtLEA3RSm82JP5UcFGPg2nUATEwpEyQ==;VDDPLeJqmweR+cimjMqLAw=="
 ---
 
