@@ -45,21 +45,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
-    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-    publishedDateTime: 2019-12-05T18:58:00Z
-    sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 99
-    images:
-      - url: https://www.bing.com/th?id=ON.66590EE1A6E93F4A98B100F630F134D8
-        width: 700
-        height: 366
   - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
     excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
     publishedDateTime: 2019-12-11T00:12:00Z
@@ -118,6 +103,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C648F2A8F369331B7DE745DD1674969
         width: 700
         height: 367
+  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
+    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
+    publishedDateTime: 2019-12-05T18:58:47Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-moves-to-google-as-the-ai-lab-positions-itself-for-the-future/ar-BBXOWMc
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.66590EE1A6E93F4A98B100F630F134D8
+        width: 700
+        height: 366
 
 secured: "tNJwJLkjgxcv4BHDMijkPig9GGw6+VN41YAMWaeV8d1uFsoXRXPov06rPzidScnpfAkd2FTnHf+2juvLOZfeiNNfCE6DRsObB4TiUIMvDmrU777uJ8vqNSrLD2XQATlMzEV+2qHrV6stkvndOv6GGEzxtc7zaNpDvuT6inIqvE/J5jqfrhVX08p9LPkJ9ybpU0F+qvULfw064iyaHVPwHeZPSezNuCKAAAd17F7BDfP6Do2FAO48KVisHzhdenoBtWoYTGpIcfft2c3gwXVs6g==;+BGe9TPbqIM0kkSq4mZi/g=="
 ---

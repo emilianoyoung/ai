@@ -42,12 +42,12 @@ related:
   - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
     excerpt: "Bots are a lot like humans: Some are cute. Some are ugly. Some are harmless. Some are menacing. Some are friendly. Some are annoying ... and a little racist. Bots serve their creators and society as helpers, spies, educators, servants, lab technicians, and artists."
     publishedDateTime: 2019-12-14T08:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B?li=AA4Zoy
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B?li=BBnb7Kz
     type: article
     provider:
       name: Popular Mechanics on MSN.com
       domain: msn.com
-    quality: 39
+    quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.53C57404C309C95673A11634EB7CF275
         width: 700

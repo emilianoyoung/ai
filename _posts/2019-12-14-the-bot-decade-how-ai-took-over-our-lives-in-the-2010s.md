@@ -3,9 +3,9 @@ category: news
 title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
 excerpt: "Bots are a lot like humans: Some are cute. Some are ugly. Some are harmless. Some are menacing. Some are friendly. Some are annoying ... and a little racist. Bots serve their creators and society as helpers, spies, educators, servants, lab technicians, and artists."
 publishedDateTime: 2019-12-14T08:00:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B?li=AA4Zoy
+sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B?li=BBnb7Kz
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.53C57404C309C95673A11634EB7CF275
@@ -66,6 +65,6 @@ related:
         width: 700
         height: 421
 
-secured: "E2stNde4NMxJ6TFGsDdcWFPDLoA2f1iAN6/HLqFShpMtB71or0N9kwIm0qvYmXPGDswuh2obH2R85QpUV9Xxu5VLYkQ0omhIRmWFqOxVBIuede7fT8G3gDuA/ocdjMu6J52sRRhp65iAMMdDXj8nIdyMcjWIW4YXR4sS8LufAeKsLpyKakvtTcTF/jR8GH6+YTZdJqlM+s4KnGoFBc15PrIy4Dhst0+H3bJf4WBWL2UzRSJh9tUEhqHAsX/nqaHAmFbPCBrjH16wt9m4WSATFw==;K2WtD+K672zo1DrVznHnRw=="
+secured: "5/kR9Pmo21QxkuHrz4do6IaV9UDP7wK2kfzsed78SAwOXYzIdPh/vTg+FdR78X3lAxuhhUyF3ZWPJiTvwW+XEtoXN4+Z85d03qcYjLcQD1A9cYgwhVsq3S8pyXbfbueiU0e/M6HdcADvzVXElWaIyXwREfF9W2rg4q4Y2d2ibTq4NvTUZc0UjJRLZQcTrERNJ2Wfq/66k+bWxpq2xyvJ4Q1Yhns6sQ1rsoefAqlBx3bsDQsGeGdAGE6tI5GnB7MFhkrbeC7NeFyMclK91dPE9g==;+R4P01AZP+g4iwN+T1r4Jw=="
 ---
 

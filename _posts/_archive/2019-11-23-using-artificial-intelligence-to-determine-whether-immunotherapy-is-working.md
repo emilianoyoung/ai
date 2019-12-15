@@ -13,7 +13,7 @@ provider:
   name: Science Daily
   domain: sciencedaily.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/sciencedaily.com-50x50.jpg
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
       width: 50
       height: 50
 
@@ -62,6 +62,6 @@ related:
         width: 690
         height: 400
 
-secured: "CcTPXgo28ultYxsJXbGMWq9UT4YNTrR66HzOBtiw/3309p4gCg9vRBw32ukzQl2FlCFXOgQyfnURk2kba2rZCXwlYh6WBDzf6AFTkiJ9bWp1laSK7uBgoehcGjJg9dwZHOkZhFPRe9j3mL8x6oQbFTeHaItcuv4eWQOiCrhldLl43UwENOo1vezp17BGBzI6My/crBP4Yi4E99ljCfj3J7OZbhBgWf8LaLSE6xnEmjmrqvrMVsrOYw4KyS/eU5wJnat9tZZi2lrNJm1DyBlKrQ==;tDQmnkYNvZ4WgXhF/Hq5Ug=="
+secured: "8dz5eNegWkUMTU7BNH8YlTK7LN7pODb0h/XJ+R9Q2i3SkA4BHdA9Z1ygk+hlzxCYOaB2dNBzElipMOt3dGGPTT4ziNY0SL+8AfQnmX5LEHI9BNvteks5D7tzN45eeqcJ5qt+cQpJmCuGmSkO5tKYnIfPulwkdsfxNdOcpPyVpi+1PLG2dmoxrQgmpeCO9dQ5Plblwk7DgKjL+6obiJITeD0UTng8+qsFfTNedpfiT5dbv4QK/Uh+dUclJwMc36jnVVGcctAzXUcf4HTDCcdv6Q==;hbrdYrhGM7pDjuqa/8DzCw=="
 ---
 

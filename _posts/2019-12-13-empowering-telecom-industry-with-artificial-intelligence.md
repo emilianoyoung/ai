@@ -26,6 +26,6 @@ images:
     height: 233
     title: "Empowering Telecom Industry with Artificial Intelligence"
 
-secured: "ObW5V3Kz68xQwtTcJBhv+1JERJXsglQwpEXBcAZHbSTcLt5PyLPuSqQt874uOMiO410hjvh+4TMyNkk7eozSZ58ARCEbfH1gOW0Uz/+MMw0dBJUorFtBNhC7be9hoqXh30lRO/Ppi1KFgv7tcNW7ivAUimjjFJnhth62mNMkfpdGiIMJyH6cImbTD09ztNy7AI4X7jSs1kmFzOezBcKwWDFoZokrTP7bzgwSUlbLkFhGQxSm5XR/VYOstwbxfGLwOKDzmF/aEtCozsWjUXv33A==;UQ97vdl9o6o6WgZjjQTHEw=="
+secured: "TFbEBPGYxuaOr7LQovmUbwZN8ORbT5zG4rUHaPotxGfwk0evctLVnjf3vczcBG6oqkTixrgvO5T7GHotGWgy9dcEAceB2JKIUgpJCvWFz3XjnA9mEY/Ckt5ujoH9LonDce34kLktJFUU0iI8BFNaTQVwCFiTc/QrPw5jtQlnAQh1aoEZfteTbNjc5H3BqlcllQXNqMpcc5ZQPmBhRiu/m/o0ikmPSXfu0WP3mFKs0mxe22xNWij6rCB/XQKEizyuaTXipSb83yIB3/JZf2FCag==;eMikxWwnQBiZISe6m+xL0Q=="
 ---
 

@@ -13,7 +13,7 @@ provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/zdnet.com-50x50.jpg
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
       width: 50
       height: 50
 
@@ -124,6 +124,6 @@ related:
       domain: telecompaper.com
     quality: 31
 
-secured: "YyIJET34j36Vh0STgrNoHcgunZ7nzNII1GDeQzlwySIb4mT/IIw/+Gx0uCSNS9q2i0QFpGiLsIMt4jTXIknBSt92Q09YC/Uq6K4Q3S/4YzzNLVqIuP4NaKbXMe1po8E9eS7DoasELeii0s0WxyyoIXqNisxbCqyjzzR2eS26W9bmeFYydgZHaJfBovOX9yigRrUEjuMKie/aCIXIXMrrgBW5IC69pMwp+1hJDouXhhJb8bg/Mr2kRZfJJSUgZIFnJhJeDHKmvAQozvvNQrImYA==;w4DgYww79uugWb/asqEudQ=="
+secured: "Mhdnfr0aKbI5tfJ7btBzY/aAHnFQEhznxsqPDAYtonTck0AvmsiTFV1XTHx8Ki3j9xO4e59xS6Px6lyfhyf/5MtuXY9k7SQ9D7bmWJV17fGTLKLY1Mp9VqGgAm0yyT5EpPE/s+85qVXofimZAqKizlV7cSs32pcIf8++AQy0Y+6EFJ3z4p9BZ0bYhtE4pNJkZ+pEHRr/HOBt3z56TEOTJbNY7ZzmFgf1kZj2tXgFnscIV7cqwIOq+EOuO/LxZ494/45FDXJ17tdum+2Qqxnwnw==;CDj3SKKtsUI98NpMowcgrg=="
 ---
 

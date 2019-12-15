@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Watson Health Demonstrates Global Imaging Market Momentum"
-excerpt: "Watson Health™ highlighted its recent clients and collaborations for its IBM Watson Health Imaging artificial intelligence (AI) platform, a leading provider of innovative artificial intelligence, enterprise imaging and interoperability solutions available through multiple products and services trusted by medical professionals worldwide."
-publishedDateTime: 2019-12-01T12:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-watson-health-demonstrates-global-imaging-market-momentum-300966932.html
+excerpt: "Hardin Memorial Health First to \"Go Live\" with IBM Watson Imaging Patient Synopsis Imaging Clinical Review 3.0 and Imaging AI Marketplace Launched CAMBRIDGE, Mass., Dec. 1, 2019 /PRNewswire/ -- Today, at the 105 th RSNA Scientific Assembly and Annual Meeting, IBM (NYSE: IBM) Watson Health™ highlighted its recent clients and collaborations for ..."
+publishedDateTime: 2019-12-01T13:05:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-watson-health-demonstrates-global-130000003.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.630770D6AFB4E5A28A438E3CC9C05A1B
-    width: 700
-    height: 366
+  - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
+    width: 400
+    height: 209
     title: "IBM Watson Health Demonstrates Global Imaging Market Momentum"
 
 related:
@@ -92,6 +92,6 @@ related:
         width: 300
         height: 282
 
-secured: "8Ei+tEVFmV+0a9RJtx+BSPdnvelW8O71I8/sZ2WpleHiXCbdiKZyl6/udpB0Nf6q+kgmR1RkaC5GItxPVCM++AdsHunMcBOU8i6SwppBAYIitehBN7NGLXphwMVPhlWt5z/H5+lP6vBri5wOU2a+RuuAnvMajZNkVkcQTFJaVXRxbP6yZys2fADeQbi36oQu/lQzjruBnmSYPjDYd/4s4qwnxwVqu5+meSDVIkX01s12eyoDnm4oAJz7hlCD+S9wD4Xx0L2R5grnOw/vskXMKg==;GMBVGa67Sy4xwkTtUMKA2Q=="
+secured: "oy18Rd9tzKnLBwLrJCOMv+4cCqWsPg3UUZGlRzNel/TyDcaWUfQ1t8xkyxaiCx47I522737OnXbMIjzs15qGzeqCqmx5zhYqzXu8MbE4Fl67j0SaDdmalP3GM2z6FD0wSaXB336ks5jfDfk1sbDcuLAHGtYLVFKrVkc7YCdd/I5qneEjYNHPfsAc9S+jUVCq7MjgRMKLHdrUOHhJ1Z/6W35EukoBo92pi49wC6Dl7LCGYUMkEnXXKW9YE1HnWGYvfsIoj/RNNR6L/0MqgqvDdQ==;I31fM6BVtortoFiIlxWD2w=="
 ---
 

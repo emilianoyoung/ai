@@ -13,7 +13,7 @@ provider:
   name: Neowin
   domain: neowin.net
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/neowin.net-50x50.jpg
+    - url: /assets/images/organizations/neowin.net-50x50.jpg
       width: 50
       height: 50
 
@@ -27,6 +27,6 @@ images:
     height: 428
     title: "Microsoft To Do on iOS gets a rich entry bar and natural language processing"
 
-secured: "b57rMxixHLJU/2BTrtkvUe4iYFG7Dwdqzt7T9tCSARjxoMR5W7YTjepp2s3lgGce/YdpbzUWORVa/nLFbSsQ/LrBADF7w1tysQurTZ+CRbLnCR1UmMjSpd2eTeUqSo5RIwhxTu5Fq6HTEXeKiZnaesyYd05kiv2THJY78eANhGojB5/xLwLFvzTjQIKvKryfIysBFcMivjZI9iBFxuuo/8RVY2wQE8n0siK2kv9YfmzQm+R10Zwee7ZLL/nAeSMnU/y1gW0M4jMZG4w4PnD4Jg==;9TSSDLLuk3NWhwBe9lN5rA=="
+secured: "fEJ7VD4IFjC49p2BLD+0a32ViOPxJVv95bmmFDGbc2eFNijPS/Vic3bsMOpv56UFF8OVCHBTpCBocp5kB1oHCaN/lDmcwzsg1GtZl0p1S57n+wkodVkk3t4GG8YH+m16DPWGEEP7vfiXhNyhklIix/eSrhq5okC7k4ngaqZoOaQaHM2Is9hIt0v5QV3YSnRKv87yf2RyPDwUTeX7nvalTfDR3N9rZVjSWMJ8dQWrSjoiq4EohCAFNSZzZF/5Kv7vYl4HRT7oJExULj+SySXHqA==;59ND2XPijDGW5xe1sSx85A=="
 ---
 
