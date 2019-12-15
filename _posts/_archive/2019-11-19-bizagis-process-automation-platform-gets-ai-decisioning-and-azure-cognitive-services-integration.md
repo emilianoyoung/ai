@@ -15,7 +15,7 @@ provider:
   name: VentureBeat
   domain: venturebeat.com
   images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+    - url: https://ai.insideout.app/assets/images/organizations/venturebeat.com-50x50.jpg
       width: 50
       height: 50
 
@@ -40,6 +40,6 @@ related:
       domain: yahoo.com
     quality: 18
 
-secured: "26fH3wzzXURbHottmAj0YereauOp+8ldOFqdxUlZKvqOG5LgWRsKWYMKbz4+EaKfByEtcLFUCydzG+I2w8uQVQQBvIVrUVLglzYX4jcCRNuKYMv4C19phM91Lk0fm45jm+l5xQVplIxX0MM+5yGsGmBAf7X6Wx/DzZsyv4ySLLaK3fWdOJs2jHLpXLRI2bEqFF/6I6FtGLnGiid1akWOQGcGY5uC4Ar71puPcl/j7hTkCLC6H7XvTEZzT5ss0rb3lydsaNLS2j2Sl+4diTBSgQ==;km8vMP+vN5Ja5RqOCVCQjA=="
+secured: "kB8ypIGw3MCNSl0GqEOl7SDhoGL8xypNR9L0ZAayFFNLleO0YVezEPg0BZo3V+ZwQCIntX6xH6dM/AU9lMA0vr/BxcA6TU83oJJBZBeK4wa+oQUOa0prQQkfQec6/1jrNiwHCBUuYlG5Rozrsd6F4G/SRgw3Vx218GVcJHOdBAPDNphvA2b3kQWSTFB1akK3aHP2DdPgy1PixQaRYTnIh+Av/sjyQvAOs70N+A0ni+TVK158c4EY+Ly+YGBQKFw5k9gCKeedF0YVE9vwisy3fA==;gJrCJLRPInEIeKeNNZQM3A=="
 ---
 

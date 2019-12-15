@@ -2,22 +2,22 @@
 category: news
 title: "Whether You Get Your Next Job May Be Determined by Artificial Intelligence"
 excerpt: "Artificial intelligence has slowly infiltrated our day to day culture... And now, recruiters are saving time by using AI to determine if you are the best candidate for a job. Veuer's Chandra Lanier has the story."
-publishedDateTime: 2019-12-12T15:39:00Z
-sourceUrl: https://www.kgw.com/video/syndication/veuer/whether-you-get-your-next-job-may-be-determined-by-artificial-intelligence/602-cb2d9b0b-9f33-42c2-8cd1-86cad418cc9e
+publishedDateTime: 2019-12-12T14:39:00Z
+sourceUrl: https://www.khou.com/video/syndication/veuer/whether-you-get-your-next-job-may-be-determined-by-artificial-intelligence/602-cb2d9b0b-9f33-42c2-8cd1-86cad418cc9e
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: KGW8
-  domain: kgw.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.560080E03B426B720A0BC4FAB0F8A8F4
+  - url: https://www.bing.com/th?id=ON.DCD29D16E2345C5694C61B044E9A785A
     width: 700
     height: 393
     title: "Whether You Get Your Next Job May Be Determined by Artificial Intelligence"
@@ -37,6 +37,6 @@ related:
         width: 700
         height: 367
 
-secured: "UhTxjbW6H7as3HGfUHYdjALMKzhmwFYUx5eR6XlLNWDWfWZV8MNXhQdpIrSEPLXPAE9zPjbY5+oWKfTHCBs2+MAu5+AeqSZiQaNFoa92X5AHCGehuOPxujYPNsZdUpd/pxBjrBUFd/YrmpRx1xCL+8AXN+rRH6MoIIyv0fr+ujEJmnnZZNKhGIy2DyQOuh9L1xOUeUi2QHE0zjRZAq20iL0IDMY/cnP9+lLucmzGCZlTf4YHkGqJGod1O/Rers+mwzT67pCB7ZPfHjTB5T9eNw==;iwkle/JSoRXLqRjiRIlsfw=="
+secured: "iRfDnMX4F+c70Q2y57oBoiCOA7r42dgoJVKhZwLOn314mlEZUQyjtUMuwIVZyIth9eDeGd4vz/R1iFAMvTHli0ZazmxfFcBdDj9Oscqgv6msQtGcwBO2WZBmeXKxgOiSE+zJfko9vJcbXju0e+c26caUNAuRJWhJnhZxiH/+lJGD1TdxtZdWNZG+/s6MeOTFFgAfYQlOr9alDKYxmVpQHw3RBlI3Oo1YXNRGVL95HNWg1r8BmPXFjJKzkVuph0+WC7kTwBAlOFo5ks+ZegXPYA==;vFRs5wTyIVhejPWnpyhswg=="
 ---
 

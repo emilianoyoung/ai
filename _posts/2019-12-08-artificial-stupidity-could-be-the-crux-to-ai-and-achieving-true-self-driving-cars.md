@@ -30,134 +30,88 @@ images:
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "As reported by The Guardian, Waymo has bought the UK-based AI company Latent Logic, which specializes in the testing of autonomous vehicles. Latent Logic uses \"imitation learning\" to create simulations of human behavior which can be used in vehicle testing. Most AI training uses reinforcement learning, in which an AI gives answers to problems ..."
-    publishedDateTime: 2019-12-13T10:45:00Z
-    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
-    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+  - title: "Using Artificial Intelligence To Analyze Markets: An Interview With Ainstein CEO Suzanne Cook"
+    excerpt: "To learn more about the use of artificial intelligence at it may be applied to analyzing stocks and markets, I asked the CEO and originator of Ainstein AI about her work in this area. Suzanne Cook is a Wharton School graduate and a seven-time Institutional Investor All Star Analyst. According to her LinkedIn bio, “Mrs. Cook anticipates a new ..."
+    publishedDateTime: 2019-12-07T18:35:00Z
+    sourceUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/
+    ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
-        width: 700
-        height: 367
-  - title: "Self-driving baggage tractor is the latest smart tech for airports"
-    excerpt: "An airport in France has become the first in the world to test an autonomous baggage tractor in a working environment. It’s the latest example of how a growing number of industries are looking to utilize the fast-developing technology. Air France, which has a presence at Toulouse-Blagnac airport where the tractor is being tested, said the ..."
-    publishedDateTime: 2019-12-09T06:10:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/
-    ampUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
+      - url: https://www.bing.com/th?id=ON.BF80CE010E78E2D6487CE877A38E383E
+        width: 600
+        height: 315
+  - title: "Using Artificial Intelligence To Analyze Markets: An Interview With Ainstein AI CEO Suzanne Cook"
+    excerpt: "To learn more about the use of artificial intelligence at it may be applied to analyzing stocks and markets, I asked the CEO and originator of Ainstein AI about her work in this area. Suzanne Cook is a Wharton School graduate and a seven-time Institutional Investor All Star Analyst. According to her LinkedIn bio, “Mrs. Cook anticipates a new ..."
+    publishedDateTime: 2019-12-08T02:34:00Z
+    sourceUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/
+    ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.925E43835218F8D92A8B0CC0674A500B
-        width: 700
-        height: 366
-  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
-    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
-    publishedDateTime: 2019-12-09T23:21:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
+      - url: https://www.bing.com/th?id=ON.BF80CE010E78E2D6487CE877A38E383E
+        width: 600
+        height: 315
+  - title: "Is Artificial Intelligence and Machine Learning really a strong market to invest in?"
+    excerpt: "Dec 11, 2019 (AB Digital via COMTEX) -- An extensive analysis of the Global Artificial Intelligence and Machine Learning market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and a ..."
+    publishedDateTime: 2019-12-11T17:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/is-artificial-intelligence-and-machine-learning-really-a-strong-market-to-invest-in-2019-12-11
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Teams working on autonomous driving projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to-life simulated training environment that enables AI models to learn more efficiently. Waymo didn’t say what exactly the ..."
-    publishedDateTime: 2019-12-12T17:55:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance: Americas Market: Key Facts and Forecast Predictions Presented In 2020"
+    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-06T06:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-06
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
-      - url: https://www.bing.com/th?id=ON.5C3D34CA06B645754AE6139428E6CE54
-        width: 700
-        height: 389
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-14T00:14:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Virtual banks and FinTech to shake up banking industry in Hong Kong in 2020, according to KPMG's outlook"
+    excerpt: "Leading banks will take greater strides in the year ahead to adopt AI and related digital solutions and collaborate closely with FinTech players to achieve longer-term savings. The year 2020 may also see an increased focus on customer intimacy in the corporate market. Banks that are able to leverage the data to predict behaviour and create ..."
+    publishedDateTime: 2019-12-04T23:25:00Z
+    sourceUrl: https://www.yahoo.com/news/virtual-banks-fintech-shake-banking-084400150.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 51
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
+  - title: "Verint Systems to Spin off Cyber Intelligence Unit"
+    excerpt: "CFOs and their companies are becoming inundated with data. Finance teams are continuously incorporating big data sources and tools, Internet of Things technologies, artificial intelligence and machine learning solutions, advanced computing power, and evolving finance software and systems into their work processes. Download this research report ..."
+    publishedDateTime: 2019-12-06T02:11:00Z
+    sourceUrl: https://www.cfo.com/strategy/2019/12/verint-systems-to-spin-off-cyber-intelligence-unit/
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.DAD1949BD46BD4B71D3221FE6CA59A8C
         width: 700
-        height: 388
-  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
-    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
-    publishedDateTime: 2019-12-13T10:05:00Z
-    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
-    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
-        width: 700
-        height: 525
-  - title: "New rules to allow testing of self-driving vehicles on Irish roads"
-    excerpt: "The Government is to introduce legislation to allow for the testing of autonomous vehicles on Irish roads. The Department of Transport say that Cabinet has agreed to support a range of measures to be delivered under the Future Jobs Initiative. The Road Traffic (Miscellaneous Provisions) Bill will be amended in the Oireachtas to allow for ..."
-    publishedDateTime: 2019-12-06T17:25:00Z
-    sourceUrl: https://www.irishtimes.com/business/transport-and-tourism/new-rules-to-allow-testing-of-self-driving-vehicles-on-irish-roads-1.4107190
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.62F27FAF8F10B1849CAF3C52B06A77D3
-        width: 700
-        height: 367
-  - title: "Collaboration is key in the race for UK self-driving success"
-    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
-    publishedDateTime: 2019-12-10T14:55:00Z
-    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
-        width: 360
-        height: 290
-  - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
-    publishedDateTime: 2019-12-12T17:20:35Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
-    type: article
-    provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 19
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+        height: 463
 
 secured: "Aocch98OVU+4reUcoR/RgjH/9o/4uVDzQLkecMZpKoJ0j52nvlOPR8C0XGtCJ/VKgrTyJZ7rkc0iuEJLJik4yVRYF8iCumv8vI7MbHTCSV444BAKRhvh+xW4e3K75QY9BpEYzBrbB7Rt1w1ltq3+b927uKESoIdSKVsa/zdTGJik5wDoVOYUr7dCq6k5CHd9oHpbLZBi8QOV1CZ3JzpT6ltaiWZTs8diShCJD4WCm732d/mYJSil4kI7SbArIlIwhNlyG2+k7bQDw5KgH5XtzA==;6MBX37/bGMtpsWTmYwV2fg=="
 ---

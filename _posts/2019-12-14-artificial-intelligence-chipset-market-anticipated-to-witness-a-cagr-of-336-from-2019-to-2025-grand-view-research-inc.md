@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
-excerpt: "Dec 14, 2019 (AB Digital via COMTEX) -- The global&nbsp;artificial intelligence chipset market&nbsp;size is expected to reach USD 59.2 billion by 2025, according to a new report by Grand View Research, Inc. The artificial intelligence (AI) chipset market is anticipated to expand at a CAGR of 33.6% from 2019 to 2025. An artificial intelligence ..."
-publishedDateTime: 2019-12-14T12:49:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-336-from-2019-to-2025-grand-view-research-inc-2019-12-14
+excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
+publishedDateTime: 2019-12-14T12:50:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14992513/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-33-6-from-2019-to-2025-gr
+ampUrl: https://amp.benzinga.com/amp/content/14992513
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
 type: article
-quality: 41
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
+    width: 600
+    height: 300
     title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
 
 related:
@@ -104,6 +102,6 @@ related:
       domain: yahoo.com
     quality: 9
 
-secured: "tSTM/OnQltNYfRFu2SKSBnydER73rEro8x0XYCMjuGi6w7wEztCKeDxRnAGl+9MaASZpuR8wTD9sqG7eRQtfN38a63Z5L3sRGC0XmpSMq/Fy+hMekdOG9QM8uYSmeQOBIFSiRA7KNdu+3ZNDLiz4RydTPM+4ntF/vyh8JhLOrAQe+I7M19QDod4lsbVEL2AagEVX3C8Z976DKSlNWWWmoJec8rAOXdjR1dDV+ccqskbj6p31aZMxNdHPeHsnmxKrtNNWprKotNRq0pr5Y1SOQA==;YgO0YDmhJ3IwNLL8gfwAqQ=="
+secured: "SsKIpCoHSZIChiEVzebfUhWw0VJJImVt4vsBb/fKHRTjG4HkmtG/NvWtEp6thq6M7AHNxUuPhGkxNvGIEG0hl2q1Q4ozVM9lQIQMqOhfU17H7QRY5hObs1LA+ZlSJ04d0Z2d1M5S9UM1YgYQVHFycXKqmRppB61hquuLudIJPcAWP+5w9XBilzRCsTAZpGUErj55JC71x4F7HI3pIT6sGERPxbOlX/aNwF61ld2r5AvnnfLR++09XiOg/7LUHnyKTq2w0n8wYzVqHV4HCsBVrw==;s8J+M3FjOC6SLSNd2gWewA=="
 ---
 

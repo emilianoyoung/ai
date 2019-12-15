@@ -438,6 +438,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0FF4AD6724AAACCF04D3A065C2039450
         width: 700
         height: 467
+  - title: "Facial Recognition Systems Easily Fooled By Masks And Photos"
+    excerpt: "A new study reveals how Chinese facial recognition terminals are easily fooled Kneron conducted experiments to see if a 3D mask could fool the facial recognition terminals of AliPay and WeChat However, the study has some limitations Nowadays, we view facial recognition as a more secure way to confirm a person’s identity on a device or at ..."
+    publishedDateTime: 2019-12-15T01:13:00Z
+    sourceUrl: https://www.ibtimes.com/facial-recognition-systems-easily-fooled-masks-photos-2885472
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
+        width: 700
+        height: 466
   - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
     excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
     publishedDateTime: 2019-12-13T18:44:48Z
@@ -475,6 +488,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
         width: 700
         height: 367
+  - title: "Emotion recognition technology should be banned, says an AI research institute"
+    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that machines can work out how we’re feeling, emotion recognition is estimated to be at least a $20 ..."
+    publishedDateTime: 2019-12-15T00:03:00Z
+    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
+        width: 700
+        height: 393
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z

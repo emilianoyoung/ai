@@ -1,12 +1,12 @@
 ---
 category: news
 title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
-excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost."
 publishedDateTime: 2019-12-14T13:48:32Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+sourceUrl: https://www.msn.com/en-us/money/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -18,35 +18,26 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
+  - url: https://www.bing.com/th?id=ON.86D949F7F2875B247B460212E963C62B
     width: 700
-    height: 466
+    height: 367
     title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
 
 related:
-  - title: "Australian City Introduces Self-Driving, Electric Bus"
-    excerpt: "&lt;img class=\"styles__noscript__2rw2y\" src=\"https://v.w-x.co/1575924536532_1205_BRIGHT_FIREBALL_BURNS_ACROSS_ALABAMA_SKY_Text.jpg\" srcset=\"undefined\" &gt; &lt;img class=\"styles__noscript__2rw2y\" src=\"https://v."
-    publishedDateTime: 2019-12-10T18:10:00Z
-    sourceUrl: https://weather.com/en-CA/international/videos/video/australian-city-introduces-self-driving-electric-bus
-    type: article
-    provider:
-      name: The Weather Channel
-      domain: weather.com
-    quality: 4
-  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
-    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
-    publishedDateTime: 2019-12-14T14:02:00Z
-    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T23:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/volkswagen-bring-self-driving-electric-225609415.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 2
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
-        width: 400
-        height: 229
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
+        width: 700
+        height: 466
 
-secured: "O/0Podr4ZSqxJjVhZKrKZx1gVnfT/pwYxGgxtBMojVcI1DokwjTc9OwmP0b/rQTBOyBl6ukp217olY8oRQCvCAD4JAi94KKCrYwypfaUIbG14moBykZLs53Uvry0VNtxJeAHHHgzhivI/Sr+bFKk1EaNz3Ro0RolqzysxPamTDZ4/1plrnw8jlpO2bHSokYjWx2QDkP79n3lj+kwcD4MS5/h2s0NTrTe4Udi41qGLxlUSrzha3R7oTjxcr6GySgMenPXxRqcTp+/mKR7OVdilg==;TMeEFB+F7zDirBrFWy9qcQ=="
+secured: "U1L58Wxygmkmg2HH3iCVaTCiXi0VRNlCVWN+6Cd6ZvFw/reYBxNbRmyNi6SRVHQ12c4tftk5Cs5nxiNvW7E5/qGkdnj0AvJcnLBQT3jdE75egyEwL0cEjM61ZRwA+h2loRrfP7O5JxVZDhze2yMKmNs7LmvIVjDojURgFS5OZSnVWBQ2/YgefOfniSWNsxrtwF1WU0Py4Fc7i642RW9QKNHZxvw6lhfxJWjDVsBTLqxhkWo+tPwnp6qB6vvrCvzp4AQiJJDcUMxKLHFGDtdFHw==;OKygCYSJhKzKUgOZPbvBqQ=="
 ---
 

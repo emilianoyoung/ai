@@ -28,6 +28,21 @@ images:
 related:
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat."
+    publishedDateTime: 2019-11-24T17:33:00Z
+    sourceUrl: https://abcnews.go.com/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
+    ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
+    type: article
+    provider:
+      name: ABC News
+      domain: go.com
+    quality: 74
+    images:
+      - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
+        width: 992
+        height: 558
+  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
+    excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat."
     publishedDateTime: 2019-11-25T00:10:00Z
     sourceUrl: https://abcnews.go.com/Business/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270731
     ampUrl: https://abcnews.go.com/amp/Business/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270731

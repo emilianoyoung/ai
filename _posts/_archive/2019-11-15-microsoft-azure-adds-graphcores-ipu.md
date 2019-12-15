@@ -23,6 +23,6 @@ images:
     height: 470
     title: "Microsoft Azure Adds Graphcore’s IPU"
 
-secured: "uJdefW9wcuv02FM+B071mTe8vNGkWFoby0DTbmpklkCNT5VEViORlgBi2FdTpHS4/KCiAKVhuaXdwHCqxUhoF+BwKG0A5sqtxyqyQrBvSMVu3QP9GGbE5UDc/JVibqt916mrEnyCFOZmeFnPRJdzjhBm9UQucnzHy6F7/TOJEMvYXCHhTsmzIrSQOt0MF6gFokaarFUqYa3u19iwgbOVzAQ5IiwIUAi3Izgsd9LZCZf1PRU9BrJwRUwVRINBMmkjoAnRM2Gxxz9MNKpsato6yA==;PaqoP7rJfctH4DzZStAvPg=="
+secured: "k+RkSpGI5VbJV+FaU/fJCYbmip9pjBlh9vgXhliIbPjsJY3A1LI+ofPHrVILoMWQcxT9NI0EB3HvVJHI90ZpGrv3oCl6t7pBMHSU4t9RahO8J5VnKq1fbf4qSuiLifpNdRSSaBo8xsOvtA5ItNJFx19niJ9WwuoONKt8zKOp6bwYJRk5TU5eqB/MKEOqJKgrl81ejDALHjYszXoA/VFsNpOblUrnIeqa26PakQpR5q7qydmdFLjm/7WsTlbCqQJl+OduVjnCt7W2azdHHNy0xg==;k8ivVtUnnuyZZx7S8m+yVw=="
 ---
 

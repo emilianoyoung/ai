@@ -42,6 +42,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-15T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "nXwVvO5VBL9F/78w5Gf+X6dDGHAkcYWvPXi6aaXsz002viaHD28K6idc6B3P9Et0uu66vYuFclcY7FkSvlhT4JeU03yM8OzIqKl5w/+QIHama2n6B5IKCvvRFlj64tx/6/dAeyIlJ/4NdidKrQzouYjlvTXu+UdHWJMN/jks/5SoaztpWQta2Mnam0XDnZgPDis1RI1q4Yc6Ie228tjLK+U5bnjCdxrazSXoFdxQ/746lCM4WQUhd2tBqHiRmJRYAWDYzDVFZqylrrDIuVezpw==;lDI3/CusClmDp6fKfES2HQ=="
 ---

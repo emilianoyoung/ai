@@ -79,18 +79,18 @@ related:
         width: 700
         height: 366
   - title: "IBM Watson Health Demonstrates Global Imaging Market Momentum"
-    excerpt: "Hardin Memorial Health First to \"Go Live\" with IBM Watson Imaging Patient Synopsis Imaging Clinical Review 3.0 and Imaging AI Marketplace Launched CAMBRIDGE, Mass., Dec. 1, 2019 /PRNewswire ..."
-    publishedDateTime: 2019-12-01T13:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-watson-health-demonstrates-global-130000003.html
+    excerpt: "Watson Health™ highlighted its recent clients and collaborations for its IBM Watson Health Imaging artificial intelligence (AI) platform, a leading provider of innovative artificial intelligence, enterprise imaging and interoperability solutions available through multiple products and services trusted by medical professionals worldwide."
+    publishedDateTime: 2019-12-01T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ibm-watson-health-demonstrates-global-imaging-market-momentum-300966932.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
+      - url: https://www.bing.com/th?id=ON.630770D6AFB4E5A28A438E3CC9C05A1B
+        width: 700
+        height: 366
 
 secured: "oo11baO3gsVJMFl1DHsL0yEY5Hp5TeCSltfN5F4eisqaglACK/FCy8NkdpX/zPAlKi9ktXtPWNqOst2SJIWhDdkEC+K9i0UfEgF76I6mbC6d1Nrbve8YLg3uUZPD1h4Cu2A0XlvYADaNySo4A2A5ELHcmv6SfP8NTXu4FrD6U4DTuQuFR9lvabAv7cVxb2A76KdS9WZifk4FcdwMqsiy8LNk6xRy1+vRJfCmjSw9YFVr2x+HcxafvlkhgA2wboUTu2sSs2GhtlektzKatxMnOg==;p9FEoJfrLTi5aFZ9jBH/NA=="
 ---

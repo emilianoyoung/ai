@@ -2,10 +2,10 @@
 category: news
 title: "Russia's Sberbank agrees venture with driverless technology firm"
 excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
-publishedDateTime: 2019-11-28T10:59:00Z
-sourceUrl: https://www.reuters.com/article/us-sberbank-driverless-deal-idUSKBN1Y217X
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Y217X
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Y217X
+publishedDateTime: 2019-11-28T11:07:00Z
+sourceUrl: https://uk.reuters.com/article/us-sberbank-driverless-deal/russias-sberbank-agrees-venture-with-driverless-technology-firm-idUKKBN1Y217X
+ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
+cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
 type: article
 quality: 69
 heat: -1
@@ -15,7 +15,7 @@ provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: https://ai.insideout.app/assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -109,6 +109,6 @@ related:
         width: 700
         height: 393
 
-secured: "XImBAmm1Ypp26fJZKctO3k7WuwfqYsOiV4MzRFYUsfME6pzvELYFQm0NQmOMA0/NBJdioesyJP76FONkSRqqpTCDiUMNWkGOj31RvKvuqeKx9cHsXdj8tNC5XNYLhimP4QKGUKeeN7RmTMvKuNBU4BtTx+SqbG0nAIhsfnCzLKTziFAWEcuDg3oDI8sTNPzmEOPkI0cr4FpNkPcVFCaFtddQN0dvoiFfH36SsXH2JUYPgz7VcZrtd8ImsU3y+tc416jNeA/74P/npBQcNwfx+Q==;MdpZkUbAD39kF9GH2E2/xg=="
+secured: "f9nvCGMMb8VnuBOS5zqKGVe9PeSpO3zwp6VvlZu3rh4AsHlz2koHa1CXUcM3aEBn8wChScuLtyNJlDDpcFsRTivES2Un+S2GG2DW1M95neVQVFCT6GbLHTmgEY8PQnLzx4w3nfpf+Ynw4QJKJBthRUyyBoIUVQAVKbN48OXGxeK+BeFF6VLq6jXE11ouFsxVMacp8ksv5KhJNuA8fZxX7YS+9v5UqMLTeFIY1oH/cISvAtZayohGpEzjMSURPfwfW+XpphbGXpsBGj2Bvbuibg==;usrgTM+85dzMYLmXJr0vwA=="
 ---
 

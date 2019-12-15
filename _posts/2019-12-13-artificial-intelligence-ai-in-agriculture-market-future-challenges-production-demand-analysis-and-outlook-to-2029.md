@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T05:54:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-future-challenges-production-demand-analysis-and-outlook-to-2029-2019-12-13
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
       name: Australian Techworld
       domain: techworld.com.au
     quality: 12
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-15T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "9ZQXLwc/KhUz5p/YtFTqnhJCWoAA/W1Jxnh80t1IfpKqoBU+K30xHKR32KpbFsN6ehf9/pvGnmXbbgJEEGQOBwUi/QBabJTJkYnXiBiFs8LQqLWwZJ8I1Q5oa1FDKtf9lpmmTD9+T3AulVgY6Nq9CKJyZ+O4VHdv9m4QUSxNM4zjd51lACKC5B0ekglPV4um3XszBI/uDPHqM2DJdC8Ul4MIIHgAsx+7E6lZAKIOzH7Gf8/QcaCCesBxQYJMLWTxUo5+jvR+FISjQTgfN3A+nQ==;/5SoZuM6EfqMVN7CYTUlVQ=="
 ---
