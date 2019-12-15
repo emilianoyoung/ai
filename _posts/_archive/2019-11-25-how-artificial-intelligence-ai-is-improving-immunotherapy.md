@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Using artificial intelligence to determine whether immunotherapy is working"
+    excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed ..."
+    publishedDateTime: 2019-11-23T15:03:00Z
+    sourceUrl: https://scienceblog.com/512222/using-artificial-intelligence-to-determine-whether-immunotherapy-is-working/
+    ampUrl: https://scienceblog.com/512222/using-artificial-intelligence-to-determine-whether-immunotherapy-is-working/amp/
+    cdnAmpUrl: https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/512222/using-artificial-intelligence-to-determine-whether-immunotherapy-is-working/amp/
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 72
+    images:
+      - url: https://scienceblog.com/wp-content/uploads/2019/11/Using-artificial-intelligence-to-determine-whether-immunotherapy-is-working.jpg
+        width: 1000
+        height: 469
   - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
     excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
     publishedDateTime: 2019-11-25T05:10:00Z
@@ -35,15 +50,6 @@ related:
       - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
         width: 675
         height: 365
-  - title: "Using artificial intelligence to determine whether immunotherapy is working"
-    excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
-    publishedDateTime: 2019-11-23T19:01:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
   - title: "Artificial Intelligence Predicts Lung Cancer Immunotherapy Success"
     excerpt: "Having an artificial intelligence tool that could match up which patients would best respond to ... “This is important because when a doctor decides based on CT images alone whether a patient has responded to therapy, it is often based on the size of the lesion,” said Mohammadhadi Khorrami, a graduate student working at the CCIPD."
     publishedDateTime: 2019-11-26T17:52:00Z
@@ -58,6 +64,6 @@ related:
         width: 690
         height: 400
 
-secured: "VkLyDpL3Pv7V/Mz7OMnnDeSRE1T2W/sJtwO97pLwljUyZ2M2qspik+Pjcb8edognYhr+H7OPbJdeANVHz0VtoqPhgLstGoyiGqkuCj8Y4aU9ux3SEue3NmhimP/r+hc6LzHUCaNcQrEtch39nhXLrvA1lJwDF1lqVV38sUoISax4YoXJsZWWLNzstuxw+G7bZkk4mgqczQaDC2D+0CyiOThNTDoFQ9aNEb33nVOH9++UfsFCLOWF/L6JYdONCeOARYQrqvypROnC9fMFA0nuXw==;AO+sPI8F+EAK7tPX3NwE7g=="
+secured: "AJpvUQfqwbRy0mphhh8Tcb0HkyLqxcBL5zP/bv6WsJUObIiwm+pfbBx7fzvTUJMeGOr51hCKVqoj78ZmeWuM6g7T6XTK8KGtlWHv4Faj1JVmHr73NwJ3vlUoKNPxFA77GEbyQIHz9lP3/HnaHzQTBMM6eE9dfEWZMU6iZqgTWOS6H0BNIKsPx2dg0P6E7ct4e8WfrwNkK4q06a5SJpcrAwqDGJ6KGuDoOCOTt8MCJbe1ZIFJeiXeNdWkZOHGXlKLNI5b1JfQoxPGz2zCp8wpIQ==;CNoJE1jMNcKLN3y1LBoGEg=="
 ---
 

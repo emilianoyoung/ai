@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-03T00:53:00Z
 sourceUrl: https://www.eweek.com/security/predictions-2020-will-this-be-the-year-of-cybercrime-as-a-service
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: eWeek
@@ -26,6 +26,21 @@ images:
     width: 300
     height: 200
     title: "Predictions 2020: Will This Be the Year of Cybercrime-as-a-Service?"
+
+related:
+  - title: "Opinion: Nvidia will dominate this crucial part of the AI market for at least the next two years"
+    excerpt: "I believe Nvidia (NVDA) will realize better-than-expected growth due to its early lead in AI inferencing hardware accelerator chips. That lead should last for at least the next two years, given industry growth and the company’s current product mix and positioning. Nvidia’s AI business at a glance In most server- and cloud-based applications ..."
+    publishedDateTime: 2019-12-02T17:24:01Z
+    sourceUrl: https://www.msn.com/en-us/money/technologyinvesting/opinion-nvidia-will-dominate-this-crucial-part-of-the-ai-market-for-at-least-the-next-two-years/ar-BBXElhq
+    type: article
+    provider:
+      name: MarketWatch on MSN.com
+      domain: msn.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.603ADD6216484C9CDF53FA55B009BCA1
+        width: 600
+        height: 315
 
 secured: "SyrW98G0WgVranzFJ6xJ0c1+BEYTlTr/GXxSZLmEXtpWFIJWesVfK92OlzrPqmP5PQyAtjV7JnJgWOhaguHOIk/Zqhrj44UH7LzLvKpkkKa8zCmlglAjUhdSZro4PDLKPTnMZa482DEkv7Ehb3GdpNth59jYT2wArLqc8Wr5uZUlXQfoEWhmgSNBxGgmF+Qs770gbob4C5OvWJ/DjOqZhZC8iD/Pj0WhTt1yXfgHWCtozYXapYUp1gZFD1Ls0g5+P64iwHsh2moTQjH6hHrwsQ==;FffkvbwJBqPGe+yx8zJI1w=="
 ---

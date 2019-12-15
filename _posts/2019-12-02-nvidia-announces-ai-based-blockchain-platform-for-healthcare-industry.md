@@ -8,8 +8,8 @@ ampUrl: https://beincrypto.com/nvidia-announces-ai-based-blockchain-platform-for
 cdnAmpUrl: https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/nvidia-announces-ai-based-blockchain-platform-for-healthcare-industry/amp/
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: https//beincrypto.com
@@ -26,32 +26,34 @@ images:
     title: "NVIDIA Announces AI-Based Blockchain Platform for Healthcare Industry"
 
 related:
-  - title: "Can Artificial Intelligence Cure What Ails The Healthcare Industry?"
-    excerpt: "Personal healthcare experiences often spark pioneering cures, and Pinaki Dasgupta, CEO of Hindsait, is no exception. After two immediate family members weathered serious health issues, Dasgupta brought his digital expertise in manufacturing to the healthcare industry. His cloud-based startup is designed to help insurance companies and ..."
-    publishedDateTime: 2019-11-25T16:33:00Z
-    sourceUrl: https://www.forbes.com/sites/sap/2019/11/25/can-ai-cure-what-ails-the-healthcare-industry/
+  - title: "Nvidia Moves Clara Healthcare AI To The Edge"
+    excerpt: "Nvidia has for years made artificial intelligence (AI) and its various subsets – such as machine learning and deep learning – a foundation of future growth and sees it as a competitive advantage against rival Intel and a growing crop of smaller chip maker and newcomers looking to gain traction in a rapidly evolving IT environment."
+    publishedDateTime: 2019-12-02T18:45:00Z
+    sourceUrl: https://www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/
+    ampUrl: https://www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.AE99947CD66284265520ABBD539539A3
-        width: 600
-        height: 315
-  - title: "Healthcare Artificial Intelligence Market Global Industry Trends, Share, Size and 2025 Future Report"
-    excerpt: "Healthcare artificial intelligence application market is further divided into medical imaging and diagnosis, drug discovery, therapy planning, hospital workflow, wearable, virtual assistants. Increasing adoption of artificial intelligence in healthcare globally will augment the growth of healthcare artificial intelligence market. Furthermore ..."
-    publishedDateTime: 2019-12-02T11:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-global-industry-trends-share-size-and-2025-future-report-2019-12-02
+      - url: https://www.bing.com/th?id=ON.427F31B75DDB77DBE28ACB2C5B87ABBE
+        width: 700
+        height: 700
+  - title: "Diamanti Announces Kubernetes Platform with GPU Support"
+    excerpt: "Today, Diamanti announced their first enterprise platform with GPU support for running containerized workloads under Kubernetes. The new platform is targeted at the artificial intelligence and machine learning (AI\\ML) markets. Diamanti was founded in the early 2010s and provides open-source Kubernetes platforms. Despite having already been ..."
+    publishedDateTime: 2019-12-09T12:06:00Z
+    sourceUrl: https://www.storagereview.com/diamanti_announces_kubernetes_platform_with_gpu_support
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: StorageReview
+      domain: storagereview.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.18580ED53CAE5A89B706F6AA34163DDA
+        width: 700
+        height: 476
 
 secured: "hjTiw4k7ipa3HCDcSZH0gOTbVbQhmDiEz9FNEWDo9JiEWzG/Q4OPrXpzuaPbzDOZNolEW9pmzBfz5JkD3GQapUmVjRqDHudPPmNkCd8R2RAahg6JnEGoSMZHFKnEwWioNmKqJh67ZC4BxilpHQwr9FhzQIirarj3+yFjMwnX10PYtJmpTGI2MnJJ6V7kHB7VxTSZmkY0KPG7rguawRBFmzocCtcU5gdySvNmK3ymloigCshtL83ijoUfws4E4sVZHsoELhQGFo0t8eQoAqoeag==;hQrUu/FOamLhh9QFJKL3xQ=="
 ---

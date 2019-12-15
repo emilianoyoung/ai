@@ -39,21 +39,6 @@ related:
       - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
         width: 992
         height: 558
-  - title: "Paging Dr. Robot: Artificial intelligence moves into health care"
-    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
-    publishedDateTime: 2019-11-25T01:02:00Z
-    sourceUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/
-    ampUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 59
-    images:
-      - url: https://www.denverpost.com/wp-content/uploads/2019/11/57d1c38033b5437a8e260895c5674086.jpg?w=1024&amp;h=669
-        width: 1024
-        height: 668
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... \"After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might need."
     publishedDateTime: 2019-11-27T00:10:00Z
