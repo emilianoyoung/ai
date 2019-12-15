@@ -53,8 +53,8 @@ themes:
     header:
       title: AI Inside Out
       description: One-stop hub of all things AI<br />- AI news, learning, events, projects, and many more.
-      banner_app: /assets/images/banner-app.jpg
-      banner_image: /assets/images/banner.jpg
+      banner_app: https://fiona-bi.github.io/ai/assets/images/banner-app.jpg
+      banner_image: https://fiona-bi.github.io/ai/assets/images/banner.jpg
 
 
 #----------------------------------------------------------------------------------
