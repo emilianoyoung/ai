@@ -20,22 +20,9 @@ topics:
   - AWS AI
 
 related:
-  - title: "Announcing Amazon Rekognition Custom Labels"
-    excerpt: "Today, Amazon Web Services (AWS) announced Amazon Rekognition Custom Labels, a new feature of Amazon Rekognition that enables customers to build their own specialized machine learning (ML) based image analysis capabilities to detect unique objects and scenes integral to their specific use case. For example,"
-    publishedDateTime: 2019-11-25T17:08:48Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/announcing-amazon-rekognition-custom-labels/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/25/SiteMerch_Rekognition-Custom-Labels_SocialMedia_2.png
-        width: 800
-        height: 400
   - title: "Amazon now lets customers label and track specific objects with Rekognition"
-    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3, AWS customers will be able to use Rekognition to train models with small sets of labeled ..."
-    publishedDateTime: 2019-11-25T17:05:00Z
+    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
+    publishedDateTime: 2019-11-25T17:06:00Z
     sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
     ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
     cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
@@ -45,9 +32,9 @@ related:
       domain: venturebeat.com
     quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.3E22AF8DFB39F9AB507D8FE655B71162
-        width: 700
-        height: 350
+      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T19:00:00Z
@@ -63,19 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7C13DAF5E4C051E9D1615D7C3E0B6D04
         width: 700
         height: 491
-  - title: "AWS introduces innovative features for Alexa, Amazon Rekognition"
-    excerpt: "Amazon Web Services has made Alexa Voice available on low-powered devices which previously did not have enough processing power to... This is a companion discussion ..."
-    publishedDateTime: 2019-11-28T17:54:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-introduces-innovative-features-for-alexa-amazon-rekognition/190491
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
   - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
     excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images – such as products on a shelf or manufacturing components – even if they aren’t in its knowledge base. AWS is calling the feature Custom Labels. Anushri Mainthia ..."
     publishedDateTime: 2019-11-25T18:53:00Z

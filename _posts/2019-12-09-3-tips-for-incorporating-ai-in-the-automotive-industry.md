@@ -74,6 +74,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F4E04490CA93A44FCBE89B4FE21A482E
         width: 700
         height: 342
+  - title: "The Arms Industry Is Racing To Create Killer Robots: Does Anybody Care?"
+    excerpt: "NGO \"Facing Finance\" to ban what they call killer robots on March 21, 2019 in front of the Brandenburg Gate in Berlin ... Northeastern University’s professor Denise Garcia and Ph.D. candidate Justin Haner in their paper \"The Artificial Intelligence Arms Race Trends and World Leaders in Autonomous Weapons Development\" also point at China ..."
+    publishedDateTime: 2019-12-15T18:33:00Z
+    sourceUrl: https://www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/
+    ampUrl: https://www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.AC922F870F347A026F0E82F1F2C0E33B
+        width: 600
+        height: 315
   - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
     excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
     publishedDateTime: 2019-12-04T17:28:00Z

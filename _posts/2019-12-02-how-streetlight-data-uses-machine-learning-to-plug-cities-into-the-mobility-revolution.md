@@ -59,7 +59,7 @@ related:
         width: 700
         height: 288
   - title: "How Machine Learning Is Changing The Way We Invest"
-    excerpt: "According to research by Autonomous Next, 2.5 million financial service employees are exposed to AI technologies. In addition, AI will have an estimated $1 trillion impact across banking, investment management and insurance. But is the finance industry ready to embrace AI? Machine learning, a branch of AI, is changing the landscape of how ..."
+    excerpt: "2.5 million financial service employees are exposed to AI technologies. In addition, AI will have an estimated $1 trillion impact across banking, investment management and insurance. But is the finance industry ready to embrace AI? Machine learning ..."
     publishedDateTime: 2019-11-23T03:23:00Z
     sourceUrl: https://www.fa-mag.com/news/how-machine-learning-is-changing-the-way-we-invest-52909.html
     type: article

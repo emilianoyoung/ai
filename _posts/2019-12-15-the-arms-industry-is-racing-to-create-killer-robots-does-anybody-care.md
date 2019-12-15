@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
-excerpt: "Dec 10, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-publishedDateTime: 2019-12-10T12:27:00Z
-sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-trends-and-future-opportunities-2019-12-10
+title: "The Arms Industry Is Racing To Create Killer Robots: Does Anybody Care?"
+excerpt: "NGO \"Facing Finance\" to ban what they call killer robots on March 21, 2019 in front of the Brandenburg Gate in Berlin ... Northeastern University’s professor Denise Garcia and Ph.D. candidate Justin Haner in their paper \"The Artificial Intelligence Arms Race Trends and World Leaders in Autonomous Weapons Development\" also point at China ..."
+publishedDateTime: 2019-12-15T18:33:00Z
+sourceUrl: https://www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/
+ampUrl: https://www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/amp/
 type: article
-quality: 55
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-  - Natural Language Processing
+  - AI in Robotics
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
+  - url: https://www.bing.com/th?id=ON.AC922F870F347A026F0E82F1F2C0E33B
+    width: 600
+    height: 315
+    title: "The Arms Industry Is Racing To Create Killer Robots: Does Anybody Care?"
 
 related:
   - title: "How 5G Will Create Opportunities And Challenges For The Robotics Industry"
@@ -73,21 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4E04490CA93A44FCBE89B4FE21A482E
         width: 700
         height: 342
-  - title: "The Arms Industry Is Racing To Create Killer Robots: Does Anybody Care?"
-    excerpt: "NGO \"Facing Finance\" to ban what they call killer robots on March 21, 2019 in front of the Brandenburg Gate in Berlin ... Northeastern University’s professor Denise Garcia and Ph.D. candidate Justin Haner in their paper \"The Artificial Intelligence Arms Race Trends and World Leaders in Autonomous Weapons Development\" also point at China ..."
-    publishedDateTime: 2019-12-15T18:33:00Z
-    sourceUrl: https://www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/
-    ampUrl: https://www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2019/12/15/the-arms-industry-is-racing-to-create-killer-robots-does-anybody-care/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.AC922F870F347A026F0E82F1F2C0E33B
-        width: 600
-        height: 315
   - title: "3 Tips For Incorporating AI In The Automotive Industry"
     excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
     publishedDateTime: 2019-12-09T12:27:00Z
@@ -181,6 +168,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2B4A6E793F553E681EAA60BF075507EA
         width: 700
         height: 393
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-10T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-trends-and-future-opportunities-2019-12-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Vector processing rises to the challenges of AI and machine learning"
     excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
     publishedDateTime: 2019-12-12T16:56:00Z
@@ -307,6 +307,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "vm3JCuzE6jT3Y/vgZK9z9G4r6F0Kaik8hj0PlGhCnnKqWTPkLhtuS0pGxm2a6fohNRXZ/1AhV81szAIbd6c188dDkZvPU03Q/0Ey0LoWBKtTFAQZfSSEpA2YnFdgY+gs7QdAuWVue8xPPyYcIt9S0cQKSe+ubXiMSZtpaJZ+W2ckZpKR+ytFLdmY1ErOgfcBz1sYihpAFWccQJOZbEz2RYPJk9vxB0z95nzFb2MOIrNV/xyfXaqzSX4Binyw4XkJLditIF/tSgxptMX/K2HYbg==;L1qA+maaFhVOx0WsWcnYRA=="
+secured: "9qDCmdMcwAxgNW2osbW0pxLPeHOTx1WdCRaMvJkJDUosFV9QhAgAZPgUj0Ei8NI+3znEbYGqhZ84GqWqZmshEYGQ6zT9pi60LoNoJaMXwAl48MCaNGPUd5UAihp5vJGNTktHbiQcC93/JX1256qgnclcLq1cBGZ1eKyRi782cOTeYEMU9RzwQ+oeZfxqAGwGR79COW9poIaDXonBnwXIgb+tum3NKC9ze/TkxZaq/LG8C0IxEqugHKA4Fmp5V7H98nU2kPKlhUKbz2owKVh1Rw==;fGHT7g14A4NlyO6OpRPqiA=="
 ---
 
