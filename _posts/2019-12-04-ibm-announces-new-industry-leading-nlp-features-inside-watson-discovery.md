@@ -13,7 +13,7 @@ provider:
   name: IBM
   domain: ibm.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/ibm.com-50x50.jpg
+    - url: /assets/images/organizations/ibm.com-50x50.jpg
       width: 50
       height: 50
 

@@ -11,7 +11,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://ai.insideout.app/assets/images/topics/computer-vision.jpg
+  - url: /assets/images/topics/computer-vision.jpg
     width: 1000
     height: 667
     title: Image Recognition

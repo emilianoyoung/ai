@@ -5,10 +5,10 @@ name: deeplearning.ai
 domain: deeplearning.ai
 description: We’re making a world-class AI education accessible to people around the globe so that we can all benefit from an AI-powered future.
 images:
-  - url: https://ai.insideout.app/assets/images/organizations/deeplearning.ai-50x50.jpg
+  - url: /assets/images/organizations/deeplearning.ai-50x50.jpg
     width: 50
     height: 50
-  - url: https://ai.insideout.app/assets/images/organizations/deeplearning.ai-400x400.jpg
+  - url: /assets/images/organizations/deeplearning.ai-400x400.jpg
     width: 400
     height: 400
 ---

@@ -15,7 +15,7 @@ provider:
   name: TechSpot
   domain: techspot.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/techspot.com-50x50.jpg
+    - url: /assets/images/organizations/techspot.com-50x50.jpg
       width: 50
       height: 50
 

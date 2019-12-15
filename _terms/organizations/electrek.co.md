@@ -4,10 +4,10 @@ _id: electrek.co
 name: Electrek
 domain: electrek.co
 images:
-  - url: https://ai.insideout.app/assets/images/organizations/electrek.co-50x50.jpg
+  - url: /assets/images/organizations/electrek.co-50x50.jpg
     width: 50
     height: 50
-  - url: https://ai.insideout.app/assets/images/organizations/electrek.co-400x400.jpg
+  - url: /assets/images/organizations/electrek.co-400x400.jpg
     width: 400
     height: 400
 ---

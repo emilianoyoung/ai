@@ -15,7 +15,7 @@ provider:
   name: Digital Trends
   domain: digitaltrends.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/digitaltrends.com-50x50.jpg
+    - url: /assets/images/organizations/digitaltrends.com-50x50.jpg
       width: 50
       height: 50
 

@@ -16,7 +16,7 @@ provider:
   name: Apache
   domain: apache.org
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/apache.org-50x50.jpg
+    - url: /assets/images/organizations/apache.org-50x50.jpg
       width: 50
       height: 50
       

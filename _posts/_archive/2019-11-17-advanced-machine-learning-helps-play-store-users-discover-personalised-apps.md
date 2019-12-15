@@ -13,7 +13,7 @@ provider:
   name: DeepMind
   domain: deepmind.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/deepmind.com-50x50.jpg
+    - url: /assets/images/organizations/deepmind.com-50x50.jpg
       width: 50
       height: 50
 

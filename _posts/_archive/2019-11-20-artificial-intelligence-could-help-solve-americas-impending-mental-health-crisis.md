@@ -13,7 +13,7 @@ provider:
   name: Time
   domain: time.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/time.com-50x50.jpg
+    - url: /assets/images/organizations/time.com-50x50.jpg
       width: 50
       height: 50
 

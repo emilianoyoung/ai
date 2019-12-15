@@ -17,7 +17,7 @@ provider:
   name: Distill
   domain: distill.pub
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/distill.pub-50x50.jpg
+    - url: /assets/images/organizations/distill.pub-50x50.jpg
       width: 50
       height: 50
 

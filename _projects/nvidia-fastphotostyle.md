@@ -14,7 +14,7 @@ provider:
   name: NVIDIA
   domain: nvidia.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/nvidia.com-50x50.jpg
+    - url: /assets/images/organizations/nvidia.com-50x50.jpg
       width: 50
       height: 50
 

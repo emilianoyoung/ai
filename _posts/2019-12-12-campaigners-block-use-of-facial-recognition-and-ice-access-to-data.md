@@ -15,7 +15,7 @@ provider:
   name: IT Pro
   domain: itpro.co.uk
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/itpro.co.uk-50x50.jpg
+    - url: /assets/images/organizations/itpro.co.uk-50x50.jpg
       width: 50
       height: 50
 

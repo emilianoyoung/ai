@@ -15,7 +15,7 @@ provider:
   name: Berkeley
   domain: berkeley.edu
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/berkeley.edu-50x50.jpg
+    - url: /assets/images/organizations/berkeley.edu-50x50.jpg
       width: 50
       height: 50
 

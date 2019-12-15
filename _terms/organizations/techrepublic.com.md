@@ -5,10 +5,10 @@ name: TechRepublic
 domain: techrepublic.com
 description: Providing IT professionals with a unique blend of original content, peer-to-peer advice from the largest community of IT leaders on the Web.
 images:
-  - url: https://ai.insideout.app/assets/images/organizations/techrepublic.com-50x50.jpg
+  - url: /assets/images/organizations/techrepublic.com-50x50.jpg
     width: 50
     height: 50
-  - url: https://ai.insideout.app/assets/images/organizations/techrepublic.com-400x400.jpg
+  - url: /assets/images/organizations/techrepublic.com-400x400.jpg
     width: 400
     height: 400
 ---

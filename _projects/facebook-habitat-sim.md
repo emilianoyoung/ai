@@ -16,7 +16,7 @@ provider:
   name: Facebook Open Source
   domain: opensource.facebook.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/opensource.facebook.com-50x50.jpg
+    - url: /assets/images/organizations/opensource.facebook.com-50x50.jpg
       width: 50
       height: 50
 

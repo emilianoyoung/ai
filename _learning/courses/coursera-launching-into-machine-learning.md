@@ -14,7 +14,7 @@ provider:
   name: Coursera
   domain: coursera.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/coursera.com-50x50.jpg
+    - url: /assets/images/organizations/coursera.com-50x50.jpg
       width: 50
       height: 50
   publishers:

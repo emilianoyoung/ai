@@ -11,7 +11,7 @@ provider:
   name: LinkedIn Learning
   domain: linkedin.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/linkedin.com-50x50.jpg
+    - url: /assets/images/organizations/linkedin.com-50x50.jpg
       width: 50
       height: 50
 

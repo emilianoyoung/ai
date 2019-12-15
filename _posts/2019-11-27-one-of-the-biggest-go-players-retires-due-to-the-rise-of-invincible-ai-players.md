@@ -13,7 +13,7 @@ provider:
   name: Neowin
   domain: neowin.net
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/neowin.net-50x50.jpg
+    - url: /assets/images/organizations/neowin.net-50x50.jpg
       width: 50
       height: 50
 

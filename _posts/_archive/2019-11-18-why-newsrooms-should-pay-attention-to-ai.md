@@ -13,7 +13,7 @@ provider:
   name: Google
   domain: blog.google
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/blog.google-50x50.jpg
+    - url: /assets/images/organizations/blog.google-50x50.jpg
       width: 50
       height: 50
 

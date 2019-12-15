@@ -15,7 +15,7 @@ provider:
   name: BBC
   domain: bbc.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/bbc.com-50x50.jpg
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
       width: 50
       height: 50
 

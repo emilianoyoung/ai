@@ -15,7 +15,7 @@ provider:
   name: The Motley Fool
   domain: fool.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/fool.com-50x50.jpg
+    - url: /assets/images/organizations/fool.com-50x50.jpg
       width: 50
       height: 50
 

@@ -33,7 +33,7 @@ topics:
   - AI
 
 images:
-  - url: https://ai.insideout.app/assets/images/topics/ai.jpg
+  - url: /assets/images/topics/ai.jpg
     width: 1280
     height: 853
     title: AI

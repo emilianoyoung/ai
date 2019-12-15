@@ -4,10 +4,10 @@ _id: wired.com
 name: WIRED
 domain: wired.com
 images:
-  - url: https://ai.insideout.app/assets/images/organizations/wired.com-50x50.jpg
+  - url: /assets/images/organizations/wired.com-50x50.jpg
     width: 50
     height: 50
-  - url: https://ai.insideout.app/assets/images/organizations/wired.com-400x400.jpg
+  - url: /assets/images/organizations/wired.com-400x400.jpg
     width: 400
     height: 400
 ---

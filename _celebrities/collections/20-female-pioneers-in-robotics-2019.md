@@ -19,7 +19,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://ai.insideout.app/assets/images/topics/ai-in-robotics.jpg
+  - url: /assets/images/topics/ai-in-robotics.jpg
     width: 1000
     height: 720
     title: Robotics

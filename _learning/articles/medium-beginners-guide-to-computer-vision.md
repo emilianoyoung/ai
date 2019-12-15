@@ -11,7 +11,7 @@ provider:
   name: Medium
   domain: medium.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/medium.com-50x50.jpg
+    - url: /assets/images/organizations/medium.com-50x50.jpg
       width: 50
       height: 50
 

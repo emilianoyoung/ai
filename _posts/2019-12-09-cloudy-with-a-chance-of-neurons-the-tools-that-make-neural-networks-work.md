@@ -13,7 +13,7 @@ provider:
   name: Ars Technica
   domain: arstechnica.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/arstechnica.com-50x50.jpg
+    - url: /assets/images/organizations/arstechnica.com-50x50.jpg
       width: 50
       height: 50
 

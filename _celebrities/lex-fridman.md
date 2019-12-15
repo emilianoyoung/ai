@@ -9,7 +9,7 @@ affiliation:
   name: MIT
   domain: mit.edu
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/mit.edu-50x50.jpg
+    - url: /assets/images/organizations/mit.edu-50x50.jpg
       width: 50
       height: 50
 

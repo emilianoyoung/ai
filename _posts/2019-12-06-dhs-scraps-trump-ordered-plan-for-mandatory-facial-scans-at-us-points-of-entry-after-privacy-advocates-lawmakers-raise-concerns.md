@@ -15,7 +15,7 @@ provider:
   name: Fox News
   domain: foxnews.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/foxnews.com-50x50.jpg
+    - url: /assets/images/organizations/foxnews.com-50x50.jpg
       width: 50
       height: 50
 
