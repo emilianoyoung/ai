@@ -15,7 +15,7 @@ provider:
   name: Reuters
   domain: reuters.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: https://ai.insideout.app/assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -120,6 +120,6 @@ related:
       domain: irishexaminer.com
     quality: 19
 
-secured: "Ca+1dStWZhywhDN4C5EI6Mc0bWKa00YgTFT9V4LO3iTEthzW4DlkgFEzE06A3sOrHtw1LjOgn9WYOeQyyRUQ9YtxcdsYEN8yfMnvhR791h+jNhlkuDSxW7lO8vSTi+ROezB+/qYhgV2yL78+HBxVikklIc1HT68K9FCJyvBMm6nxUg+PnFQqXzQnxzdtecqS3UmHhCJxIm20bdE3GS+j+G2I0Ow75KncuB+AmHN4zdfi4Bu+U3OpEG7NnJ/JLVXE5/qbPl6schopBd8kEXYtiQ==;gB9mqJriF5i2fIe+KWhdlg=="
+secured: "ojKi2O2VFyeFsmZVFwgfw5pJFnXYNLaAV9if1AjIogrkk4K9yc0wJMm2XiSf/Wk57LTZMNJwBKynHL6h5DocA7An6FFAj4Fx9FMNQIuSIXlxguZRWLGF+eUoyJHnMsbAynHeZS8JOShifyksPTpOud1/SayrMt9jnInTU+YU4mCLhYKKc5aroMEeWu/nhBAhrzyWzV3H+Itxc6LHREvt+RePwOKjEHehrvhdYYfT9oDpTi77QVDymobo6H8HYOKQmqceDQtgNxPhhSDWAGsGeA==;g2AdODcjN0g/fHGXSAuukw=="
 ---
 

@@ -65,15 +65,6 @@ related:
       - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
         width: 770
         height: 484
-  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-    excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
-    publishedDateTime: 2019-12-01T14:11:00Z
-    sourceUrl: https://finance.yahoo.com/news/linker-networks-extends-auto-labeling-140000242.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
 secured: "0m3/k45aErRGG++Oy2FhjJPpybhscoCOZ85on8w25xCDfk0BAQN97avDXhcFpcd/BkQtDyqTvwVPxxRRcgOG3lRCPumzW2/8V2M2P5WyMB6To3ZzSb87clb6Thy3ErammmCrQhpQeh43YjgzziCN8xJIYLYUU5OJbPqVcmjDtCYL8Fuc2qpa2OngHvtusRneWPmfpFH6KUkMqopFkVvAXrbazNAEE0CmORdSJs+CHxzVREHF2gHbtCRxCieL1kyluC3dKpWV/4gDn9dYCwTkNQ==;cGDbWHfXLdM0e2zv3KuTJw=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 360
     title: "A robot, artificial intelligence, plus peanut butter and jelly"
 
-secured: "OyG5HRjuqcxdFlOyoRs6FWNhEWh90j00ZOMeThI0RAEinESPCq689Y92N2jxfw5BCYQ7MI6Ewj422b9DX4XuYEiuU5+ncoLbGyv9fg/smFM3XPzuNQPOQGlMvDcwKoeQcHlEUP9OxwyEI0TSAYHwnIsPZwX489xArw4+phNxOxCz/3OnK0XjaJFZQbecpANFcyvYpmrDyZHhkaJdhMua0+blpXl2LPPWUGsMxxrZN/Bqa9P5CMKiLyo0BmHZUbWx7aWbaN6mxq5L2+dkS0Nvmg==;VsQupmaK/gGHqRRaoc+whg=="
+secured: "N9rpCT/B5gYVoXC2jtuyOH1Z1ltMlFydYSxaffJVz2iz2kzaBS6oCYOy+AdUrC9W1qgf6U/iTClzK9ifY4NcaKmjpoZx9ivYluC3yDBdGoD2jsg/gm70uNNSQreuI/rATdq5t5SWS5grdqysleWxoIzAmIxFhoFzmpD9R71khgvmPjzoXzZYAUx/FaoNeaE5iEj9wG+byJMxhqZKxAoQvoD57SDDlGiG+MIPtj/wteUzOX4AECNKZGyAKkgMJBllxL8JkHhRdGpwTggVv6tKYg==;pzgRrxIakRkXtTl2eUuEtQ=="
 ---
 

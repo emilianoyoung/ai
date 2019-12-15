@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0ABEA6E1C7F8CDA73CE2619F42CCCEB1
         width: 635
         height: 400
-  - title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
-    excerpt: "In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in ... Calif., parent develops many of its key chips."
-    publishedDateTime: 2019-12-03T13:47:00Z
-    sourceUrl: https://www.thestreet.com/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-    ampUrl: https://www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.5B0F5945DC17E73B96C00FE58E36D8C9
-        width: 700
-        height: 466
   - title: "Intel In Talks To Buy AI Chip Startup Habana Labs: Reports"
     excerpt: "and they stick to it,' one Intel partner says of the report that Intel wants to expand its AI portfolio with another acquisition. By Dylan Martin December 03, 2019, 11:04 AM EST Intel is reportedly in advanced talks to acquire Habana Labs, an Israeli artificial intelligence chip startup that has previously raised funding from the semiconductor ..."
     publishedDateTime: 2019-12-03T16:17:00Z
@@ -87,6 +72,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B02D9F0BD7082827B79CE5116CFDFFFE
         width: 700
         height: 437
+  - title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
+    excerpt: "chip major, is reportedly close to its second-largest acquisition of an Israeli company ... In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs.\" Intel employs 12,000 people in Israel directly and ..."
+    publishedDateTime: 2019-12-03T18:51:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/technologyinvesting/intel-in-advanced-talks-to-buy-israeli-ai-chip-startup-for-241b-to-242b-report/ar-BBXGOnH
+    type: article
+    provider:
+      name: TheStreet.com on MSN.com
+      domain: msn.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.2D7E4195F179C4F9014913A98E4DAF82
+        width: 700
+        height: 466
 
 secured: "BkrIl9BH6SajNkcbCP6t0fss6NwUC34diIcBCK/ZYwGXMxrUneOjRea/SD5/f+LTJvNenv4woruzcoQ9cJufXUpVkefgToRVx3uKnZkFbkIBWmUuXO5Udo+6iwv5I9lUQaYAl05Gssangii9rlDxuCBUHdwHdbYwWqM189oDt2kVY3zbqFqOGA0eibEBNqkRRFwUSeXPTbjcIeWItKTKe3NTWllZa1WmT36aApGnZ/7Ty4XGci5eup0pvH0d7P2+bCjyr7DvZVUYOr3lHy8NzQ==;jRAdNiZOadSP9Q1kD3CREw=="
 ---

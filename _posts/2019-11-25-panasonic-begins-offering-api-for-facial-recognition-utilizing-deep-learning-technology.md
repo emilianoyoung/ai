@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
         width: 660
         height: 300
+  - title: "Sensetime-led consortium to set up standards for facial recognition tech"
+    excerpt: "Details: The working group was established on Nov. 20 and is made up of companies including social media and gaming giant Tencent, Alibaba-affiliate Ant Financial, smartphone maker Xiaomi, voice recognition firm iFlytek, and surveillance equipment manufacturer Dahua Technology, among others. The group is led by Sensetime, the world’s most ..."
+    publishedDateTime: 2019-11-27T09:41:00Z
+    sourceUrl: https://technode.com/2019/11/27/china-tech-facial-recogntion-standards/
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.A2C155CB08A65503E3B906A389B0FFE5
+        width: 700
+        height: 490
 
 secured: "85xFyn/E3mGhuSt7yCl/vJh/9UDI4DOCIYBZPJ+XCDFl6zJdzuSoSc7CecIKcEI+nm+MtumGL89UC5vXBHdNQEelSzYN91JybRIQPTpTK3lpvagZgKninReC1hiz69p1STwGKNdksuWyybOqDBkQ0x4aUZFtvjLsxaEyhc+XgpowRCigl/hp7gWhor4PxH9PLzuqyHlb4eW/jSh5EUNghPDEDN0nuGNpSyGm5EMaxAq76gO/tmRyXZOLPFZBXEgkTedbon3ZxUaVdsoQYd5/gQ==;7DG4sJncC8pB4mB8s8Ljvw=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Although the spokeswoman was unable to say whether gun recognition wou
 publishedDateTime: 2019-11-24T10:01:00Z
 sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -17,27 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
-    width: 2000
-    height: 1500
-    title: "For now, Lockport wants facial recognition security system just for guns"
-
-related:
-  - title: "Sensetime-led consortium to set up standards for facial recognition tech"
-    excerpt: "Details: The working group was established on Nov. 20 and is made up of companies including social media and gaming giant Tencent, Alibaba-affiliate Ant Financial, smartphone maker Xiaomi, voice recognition firm iFlytek, and surveillance equipment manufacturer Dahua Technology, among others. The group is led by Sensetime, the world’s most ..."
-    publishedDateTime: 2019-11-27T09:41:00Z
-    sourceUrl: https://technode.com/2019/11/27/china-tech-facial-recogntion-standards/
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.A2C155CB08A65503E3B906A389B0FFE5
-        width: 700
-        height: 490
-
-secured: "nRIbdbP+Uvu5uHDIaZsiTjM0NlUMDw0JWyRSbpcbSci64Z8uZUrMHdHHAXQkT7uCEci47b0njOdvSwTYvJCgGHtDQhDD4niMUI1OpxKS1yuLKOcQAfYeWKG2VbENRDy4wHT/TgJvoIh6q8KxxF8O3S34Q7GDscWDrydlPqIeIaapoO/50fAW3lKlv2KMb5SWi81dU4Sia3t5sSwRkAhXwC7jjXYl6nvYe9CnaLfOhdXcv4HaKk2oD6aLjD07AYfP9djuj8mDh5BFLqTLg1Lg8g==;BcbFU02nX+uu0ZGpM5cahw=="
+secured: "IF/8YwGP4jLbunx6egt5FAdnpGuJwS83kGAZpPB6ApF9sOlyvsS+FP+2QNAZyohOYbN7h7GmINTeljeYf5Ij4x5DryRxbdH5TU6msgk7LnB8N3bBxLUpeXpa81HJA7G6vIUHjbl8eGJfVQAFGS9HK/JwAlczz0PRZKp768J51T86edkdm160E9NyVgjnYgL0JamFvb/MMMKgMqIdY0odU5m9oHKn/ATIee6ODb79tKXL53fl3ThBd1IBXxTW/KcuZIBql0TV1G8bXNZcmX/39g==;ktromwGhhBXOb9OcG3O60A=="
 ---
 

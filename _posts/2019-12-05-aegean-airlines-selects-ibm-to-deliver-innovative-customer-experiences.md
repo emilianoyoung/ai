@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T13:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/aegean-airlines-selects-ibm-to-deliver-innovative-customer-experiences-2019-12-05
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2B604594CC8A87A7B6DCB5C12ACE5E2
         width: 700
         height: 345
-  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-    excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
-    publishedDateTime: 2019-12-01T14:11:00Z
-    sourceUrl: https://finance.yahoo.com/news/linker-networks-extends-auto-labeling-140000242.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
 secured: "tYngMscxgw6I1B8IJAygguiHPUDp5T+cA4BfePY8bmjMGn18PQ2j4wjkxVKitP0l2YwUaBJPLV3y3R+8yqgiuqOvjf0VoKAySRDL+1/ErYC03Ka2xRUrycXIGcC5QZdUBOAAyXDbB7ed0NBdkyw6Zyis3BHjV6IKziiuYLV6ryOEejdMEM9fzcJtD27YCk+/3yb5ECU6qP/eYSARi5wwVTQeUHBwsWQFozrDWA3T4eSyNZ2LE9zoLw7LxJrZVn/NcyFykK9SZ6B4dC9wxBGwSg==;TkMSqctnumv0HyyAE2lFjQ=="
 ---

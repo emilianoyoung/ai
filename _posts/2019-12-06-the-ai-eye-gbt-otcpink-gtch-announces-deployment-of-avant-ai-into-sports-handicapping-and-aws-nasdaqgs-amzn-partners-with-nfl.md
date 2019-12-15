@@ -103,6 +103,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
+    excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running hybrid applications. This integration enables customers in highly regulated industries ..."
+    publishedDateTime: 2019-12-01T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-generation-of-customer-experiences-1028728025
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "fHyYq5vOrCCJQARONbAR6LKvR/pSccPksZuBjhVM0hhEayKnQeadechHyW4mHq74tCZnHB+kCwsujJ5EGVPKhnNa0JxieT0RDyr1Ma3hXYiHDrfWKz3Zd07syh3LpuThrnIUWfc5K+MG9cBLscId+SRka4P9NrX4CprMs9QJ3N1o+KBVXBm37m5gpfNtUeZjK2idZlYKx0Od44mUBVd9qF/d2Bn76R0M0r3cQbfrIli6MfEdqo1iZP9H4jH17MlTIreWZMy63Z8fxdbB1mv3Lg==;2wDhAfR4Lr3QuyB402MCoQ=="
 ---

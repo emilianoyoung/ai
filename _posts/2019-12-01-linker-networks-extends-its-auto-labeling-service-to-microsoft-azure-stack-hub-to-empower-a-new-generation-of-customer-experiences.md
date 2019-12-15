@@ -1,78 +1,122 @@
 ---
 category: news
 title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
-publishedDateTime: 2019-12-01T14:11:00Z
-sourceUrl: https://finance.yahoo.com/news/linker-networks-extends-auto-labeling-140000242.html
+excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running hybrid applications. This integration enables customers in highly regulated industries ..."
+publishedDateTime: 2019-12-01T13:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-generation-of-customer-experiences-1028728025
 type: article
-quality: 4
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: https://ai.insideout.app/assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
 related:
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-05T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/aegean-airlines-selects-ibm-to-deliver-innovative-customer-experiences-2019-12-05
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "Today, with these launches, we are bringing these concepts to machine learning developers for the very first time.\" Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 102
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
-  - title: "Telecom Innovation | Microsoft Industry"
-    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
-    publishedDateTime: 2019-12-05T23:43:00Z
-    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
+  - title: "Improve cyber supply chain risk management with Microsoft Azure"
+    excerpt: "Azure Sentinel is a cloud-native security information and event manager (SIEM) platform that uses built-in artificial intelligence (AI) to help analyze large volumes of data across an enterprise—fast. Azure Sentinel aggregates data from all sources, including users, applications, servers, and devices running on-premises or in any cloud ..."
+    publishedDateTime: 2019-12-09T16:00:00Z
+    sourceUrl: https://www.microsoft.com/security/blog/2019/12/09/improve-cyber-supply-chain-risk-management-microsoft-azure/
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 39
+    quality: 69
     images:
-      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
-        width: 770
-        height: 484
-  - title: "IBM LivePerson AI Customer Service Chatbot Seems a Bit Too Impersonal to Me"
-    excerpt: "IBM also recently announced enhancements to its Watson ... There’s a growing opportunity to deliver that white-glove customer experience by integrating AI to create a personalized touch.” Watson Assistant’s new features “are designed to provide ..."
-    publishedDateTime: 2019-12-11T19:59:00Z
-    sourceUrl: https://www.commercialintegrator.com/business_resources/operations/ibm-liveperson-ai-customer-service/
+      - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
+        width: 697
+        height: 700
+  - title: "Microsoft and NTT announce multi-year alliance to build digital enterprise solutions on Azure"
+    excerpt: "while Microsoft will bring its trusted Azure cloud platform and AI expertise. NTT has also announced that it has selected Microsoft Azure as its preferred cloud platform. “NTT is committed to helping enterprises realize their digital transformation initiatives to help create a smarter world. We believe that the combination of the Microsoft ..."
+    publishedDateTime: 2019-12-10T15:47:00Z
+    sourceUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/
+    ampUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
     type: article
     provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 37
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 63
     images:
-      - url: https://www.bing.com/th?id=ON.B2B604594CC8A87A7B6DCB5C12ACE5E2
+      - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
+        width: 932
+        height: 537
+  - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
+    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
+    publishedDateTime: 2019-12-11T15:17:00Z
+    sourceUrl: https://winbuzzer.com/2019/12/11/microsoft-and-ntt-corporation-announces-azure-powered-collaboration-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
-        height: 345
+        height: 466
+  - title: "Wipro launches advanced cloud SOC services using Microsoft Azure Sentinel"
+    excerpt: "Wipro Limited, a leading global information technology, consulting and business process services company, announced the launch of advanced cloud Security Operations Centre (SOC) services using Microsoft Azure Sentinel. As part of this integration, Wipro will offer managed cloud SOC services with built in Artificial Intelligence (AI) and ..."
+    publishedDateTime: 2019-12-04T02:01:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2019/12/04/wipro-advanced-cloud-soc/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
+        width: 400
+        height: 200
+  - title: "Macadamian Boosts Digital Health Capabilities, Launches New HealthConnect Platform as a Service on Microsoft Azure"
+    excerpt: "It enables interoperability with a wide range of connected devices and health data platforms, and the integration of AI in to clinical workflows to help deliver clinicians and patients real-time connected insights to improve health outcomes. \"Today finding ways to effectively use technology to connect clinicians and researchers to share ..."
+    publishedDateTime: 2019-12-02T13:01:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/macadamian-boosts-digital-health-capabilities-launches-new-healthconnect-platform-as-a-service-on-microsoft-azure-1028730091
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+    publishedDateTime: 2019-12-10T10:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+  - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
+    excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
+    publishedDateTime: 2019-12-06T18:32:00Z
+    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12061AIEye-GTCH-AMZN.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 2
 
-secured: "7mum0hwd9yHnWvJMHbQCUXC0VlzFNRMz2bXEHMjqisNw6Cu/QjqmiAku+z2bjipNxhZftYCqZZLRBb+L9xyTFNtTwkka3geCJcGNZyrhcivV3nyidU0saqKnwtLb/WAHUpA9KWz8RPEx879iwi2VJhydSo5z7d2ymR37NOuJtGbUArFUJxUrzMkPiMqtDbfjjDjca5f2O4Cq85/oxYid7uB/TMx36VwusACd6r4Jmzf3un8HtC50nvmFI9CbtWAusQeAWI4u2rhpO+pBXDHWBQ==;0NC+pdvc7V9TEIemaMJjxQ=="
+secured: "F6JR+DD/66goIptnGtXnoSmFHU7jUulWraBrwWXX73r+8X8yvFaQq5pbQu0p5IYTEe4J41DcEUSAf2w+AVpvCMWN16cS9hyfsS78xo2sSvNEGZiFxBM3G34iAhy4yDe4T/yCvB2j15c7fCd/AnsJ2FNbIWXVHBeSXWXchavoEvBEsIpITs/zr2z8opGnx9noet1RyWZN2Q5M9Ux1Q2finIrZAb3uyXpbeZuyML1HgJGMs7YCA/IfkuKfxDE39gbd/IqAJ0RBF92lRdjNxviofw==;U7NfJlmAHA8S3Z4h3loKew=="
 ---
 

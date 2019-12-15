@@ -15,7 +15,7 @@ provider:
   name: Bloomberg
   domain: bloomberg.com
   images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+    - url: https://ai.insideout.app/assets/images/organizations/bloomberg.com-50x50.jpg
       width: 50
       height: 50
 
@@ -28,6 +28,6 @@ images:
     height: 466
     title: "TikTok Owner Forms JV With State Media in Blockchain, AI"
 
-secured: "6v8G3EPQ2NtPyKghOdwiqqGUvD1ISF218eyQcdCQnm2snlBsTibILkT3j5l0OAt2TnXQLmyDxGXhnofS29UBwGDxNN6iCDBULPuJFUxxmi4i4T+XntHtOjmz24F46UcQl8rb57T600BjA8TKfniaOR0dp8KZwO2/E4eKplkjLY2TPwLbYpj8Y0csm4CkGgZDmM9Prwj3rmJaLqgQGWpsO/EyC3v/YH8wlRBcAD8TiiZQ2D5dG2Ke+6C1R6Nm7qh1LJ43OOxkbJyTjmEjZd2PMw==;+sdQmdOtatJqeIDoiAnAKQ=="
+secured: "miqzcZIu/WIxCBE1UnJSprr16GVVt6KYp5NDow6N/PhD6014EIExzqFcwS4gJrwxN0Dt/QZsXD2X4uTLOAKB9qibFgefh15S+pGANrLMIppNhhxNaotlUBtj1dVi641R6qepV3T2CJdk8zU9Cmd/DAH9rjtB2JZ+mH8VxhbAdAdnfcV48W7iIIK72f0iKIhQGnA5iQ7+fEfvIXEep1UcYba+9NBsxNIb0zmjeMKUAlKKRDGPBuy70QBdjflIsz/LYBxBiLntQ/B/aNo5mfBZxw==;Rdlfs/gk1Tu6HWFZBOEX/w=="
 ---
 
