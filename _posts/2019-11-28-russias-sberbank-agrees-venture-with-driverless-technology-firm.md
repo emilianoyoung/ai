@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Russia's Sberbank Agrees Venture With Driverless Technology Firm"
-excerpt: "MOSCOW — Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday. Sberbank and Cognitive Technologies have ..."
-publishedDateTime: 2019-11-28T11:06:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/11/28/technology/28reuters-sberbank-driverless-deal.html
+title: "Russia's Sberbank agrees venture with driverless technology firm"
+excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
+publishedDateTime: 2019-11-28T11:07:00Z
+sourceUrl: https://uk.reuters.com/article/us-sberbank-driverless-deal/russias-sberbank-agrees-venture-with-driverless-technology-firm-idUKKBN1Y217X
+ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
+cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: nytimes.com
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -107,6 +109,6 @@ related:
         width: 700
         height: 393
 
-secured: "fvxCZePMcF9NH81OdOsjTit1h7inszHnN4LGoDkAAwsKhg+H2EJuit7wdH3CwyfBsfG9CwdJC9A2afvni3ll94lv/i9jldyNAur68OnwljJh2epQiXbc+YgVpfvxDRQQl4tjvb7XKCfP+QpCJLtn+tRlHY08JNHGUzseX2A5YgO0UG57mHoKZsXYNkbScOCRMDtpWg2V2py9Mm3ow9Fbk44GhxxFr1yHl4TWVYGyNcD4llu5774oiYdw0SYXsiZb53HAGgpdDnfFgbHtw/HPcg==;OphSMiWYtc7H8LG6kzktdw=="
+secured: "M72+U9k+0pz/9sbzSWmCt6bL0jTg+FwO3LyI4m96uZMBhmIU48ytAuoE+Q7QCMsQJfXTOnoYFBXG+kxpWMtM4tp49fRbzRoLtzI3uTrX9/TQM3AnOyllC8bFoGW/SLWKKy4maWIwspaZIRr3AL4QvUHKJ2+41mkmA906PeFPyKSmM73xasHrPTZr08cXOz5c+bxUymFrYpSUjR5LX+mhG58FgUn09Z44eUv+ZuiGkqBzkiC6Anoy+tlTwbDa2qRudflKwg/8JJahA5wcqIxcuw==;Cq7m/rKZR5dDzkRJv/ILAw=="
 ---
 

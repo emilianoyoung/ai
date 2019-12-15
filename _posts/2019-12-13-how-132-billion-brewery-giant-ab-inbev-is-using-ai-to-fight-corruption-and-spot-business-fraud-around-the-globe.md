@@ -5,8 +5,8 @@ excerpt: "The need for an AI-powered compliance platform emerged after AB InBev'
 publishedDateTime: 2019-12-13T19:44:00Z
 sourceUrl: https://www.businessinsider.com/ab-inbev-brewing-artificial-intelligence-to-spot-fraud
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.608FCCD675B0E81D777E4876A75A8F49
