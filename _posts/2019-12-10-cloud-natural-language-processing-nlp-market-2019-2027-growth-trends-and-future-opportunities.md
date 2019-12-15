@@ -151,6 +151,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Minecraft diamond challenge leaves AI creators stumped"
+    excerpt: "Over the summer, Minecraft publisher Microsoft and other organisations challenged coders to create AI agents that could find the coveted gems. Most can crack it in their first session. But out of more than 660 entries submitted, not one was up to the task. The results of the MineRL - which is pronounced mineral - competition are due to be ..."
+    publishedDateTime: 2019-12-12T14:32:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50720823
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50720823
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50720823
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.2B4A6E793F553E681EAA60BF075507EA
+        width: 700
+        height: 393
   - title: "Vector processing rises to the challenges of AI and machine learning"
     excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
     publishedDateTime: 2019-12-12T16:56:00Z

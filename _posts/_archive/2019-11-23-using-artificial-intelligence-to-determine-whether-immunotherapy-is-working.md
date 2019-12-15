@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Using artificial intelligence to determine whether immunotherapy is working"
-excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed ..."
-publishedDateTime: 2019-11-23T15:03:00Z
-sourceUrl: https://scienceblog.com/512222/using-artificial-intelligence-to-determine-whether-immunotherapy-is-working/
-ampUrl: https://scienceblog.com/512222/using-artificial-intelligence-to-determine-whether-immunotherapy-is-working/amp/
-cdnAmpUrl: https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/512222/using-artificial-intelligence-to-determine-whether-immunotherapy-is-working/amp/
+excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
+publishedDateTime: 2019-11-23T19:01:00Z
+sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
 type: article
-quality: 72
-heat: 102
-published: true
+quality: 62
+heat: -1
+published: false
 
 provider:
-  name: ScienceBlog
-  domain: scienceblog.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://scienceblog.com/wp-content/uploads/2019/11/Using-artificial-intelligence-to-determine-whether-immunotherapy-is-working.jpg
-    width: 1000
-    height: 469
-    title: "Using artificial intelligence to determine whether immunotherapy is working"
 
 related:
   - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
@@ -66,6 +62,6 @@ related:
         width: 690
         height: 400
 
-secured: "zo9LBuhKDppq3CROtM9pbIbJzKaq8jhzI1EdcyujQzCqLjbcNnRBxXnm7r7C/ENsOkMEYjegqpXmyCl/zCMMEz8lPgkOlWrcucQXey4idkuTml7JguUauav9YJZJRfKZIcBpqPtLoxrerwJWUn5Owyvs0YVLJSPiYRVa7yezJzkBvUA12Wz0eB0ZkRP1RG9dqh/u/od1YUNDqRWAoy24Dh4jdOFpD8R7z2riibPP7egjJ1PTHaEAU1kiHTwVH1W+3uf09z0kYRwMKwYXpz/96Q==;9udK4LFxexiJiVGzw7tLKA=="
+secured: "2CGLdy/1CTJOs+XUwJwVmvwynPRwanM0BPY/gutPFxbfdc0EYMckNW3lqDZNq9DInEE/3fNgr1+3rXbtvSnRXhCktKN7IqyRhbhJJIn22WuPepanIu9j6ItbfzEgei+LPwaZc9Wnt6cjhwvODfO3KWZ4whww5yfTuUG5b5xB21bSJ/wupVcSY2eFO8w7NXZopMEvTVmfwidxJKXWSV1WCJIV8FI398avm/j0OgR3KUU8evIiu4Iwg4ab0tx4HN/w102PobZnA45nQ14T41ZAgA==;VH28ZdUw+CIowG88HhL6ZQ=="
 ---
 

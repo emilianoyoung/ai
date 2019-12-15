@@ -18,11 +18,11 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: http://customerthink.com/wp-content/uploads/10993632_s.jpg
+  - url: https://customerthink.com/wp-content/uploads/10993632_s.jpg
     width: 450
     height: 450
     title: "Top 6 Applications of Natural Language Processing in Healthcare"
 
-secured: "/kVecMdm/d+904L82xYt+UjyUOAFAnGgpGXm9jf31kYHn6W6eYCBYTn4KXP1z1VJBwoGyYXOLRXW1IJEmCRdKsz226Tix6rKciE8sfJ5ZSIRewoYxOP7trtQJqL9mvaPLB+C2PUDubfRb/yddWqBUmeANaZYlQ1sX1BmD0PAXVboy8hk3Q9xfHIR90FFLMHId0NOf9RRNRptJccAJBgHnVipgrtJgYK6R26PWUiVOINM6il1eTftEJKxfYjntccZ+1qw3OKLRwMn9YFiUx00Iw==;z290qopSJs+65U1S3rZiVw=="
+secured: "7g7ppQ8rIQDC+qiaAu4DEbIhDJps1VQZubtGJqUb5OJNWmiwzJptaKfTYKLAdiqxRxhSwAFx0sJQX3JFGNZJFA28Ewk2+rF5W83TheMgPVClk+ky+jzowAzElcrOZt6Y031qJD4HMfYJ8I7cbE8ydqRU2BksEPtXeuKEA1Feeu9RIhzQuRTsYASEGHapQsGJZjclyeIjJNXz3Bq52VWzg3SQ37GwzStUgOQXDAuS5V8zwenp+vPh9L5vesp+b/80wjJbW9ejT7sxUm9WX8cbug==;XK9UD9f8/2GTe0IhuqhmMA=="
 ---
 

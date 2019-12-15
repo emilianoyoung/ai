@@ -139,6 +139,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Minecraft diamond challenge leaves AI creators stumped"
+    excerpt: "Over the summer, Minecraft publisher Microsoft and other organisations challenged coders to create AI agents that could find the coveted gems. Most can crack it in their first session. But out of more than 660 entries submitted, not one was up to the task. The results of the MineRL - which is pronounced mineral - competition are due to be ..."
+    publishedDateTime: 2019-12-12T14:32:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50720823
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50720823
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50720823
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.2B4A6E793F553E681EAA60BF075507EA
+        width: 700
+        height: 393
   - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
     excerpt: "Dec 10, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
     publishedDateTime: 2019-12-10T12:27:00Z

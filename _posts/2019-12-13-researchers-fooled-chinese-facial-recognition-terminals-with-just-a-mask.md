@@ -2,16 +2,22 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:48Z
-sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
+publishedDateTime: 2019-12-13T18:44:00Z
+sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
 type: article
-quality: 38
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -524,6 +530,6 @@ related:
         width: 600
         height: 295
 
-secured: "ZzLz3PSNM8zg4QYsl65tuLIVXMCyYWDWG81PG8YsbIHttmWUAL33B1L641k0A7rdxfNKOxGl1cX6OzD9itKg4/nsqfxojJx7R90+S0vOSd81FLbs/LLPZ4bwiirr9H+v7ulytaVd0tN04qC7O6MuDXCmm44mDPv4qwRbbSbHfEAu8GGwFFbKSIOWW4KAQABzi8Wpgk1r8BwGUFYGfdH8EEMo0d2kTC8e11hWKgGAe4npdnCcTkNfBm7VnQBoMgIRbjPkBetmReqiLGamizr+EQ==;fi6erTYd2keg0Z+hC9gsmA=="
+secured: "iDa+jPgGR229P+fFRkz2urSdH2T0rTXNDxlavbZIbzz0MK88UEAInTuFP+H9sTW4StC7eeTEcVm4n0VvHslN+VKT509aZqhhmxXRcjm0zMJqSgO7Ru/yB7s33xn82HZD0nyb9UePCXOIK7OowI/NeMkBwJyjZiSeuD4GJWRnwEx5qvPELj9/sIeys6wvtnOA/0TapbCC1NoIh7FKO8oNDufkPBEs67ah5wjjDJ53ITJdQH829Q6LFkQ/8F3f/06DJYDnJQCsDvwA49r9Qy3ggA==;uY8MM5OzTEN+90snyBn5lA=="
 ---
 

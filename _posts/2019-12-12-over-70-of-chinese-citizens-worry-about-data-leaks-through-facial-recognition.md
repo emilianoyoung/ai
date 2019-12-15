@@ -99,6 +99,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:00Z
+    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "San Diego to suspend facial recognition tech program used by police, ICE access blocked"
     excerpt: "A facial recognition platform used by over 30 agencies in San Diego, Calif., will be suspended on January 1, 2020, following a long campaign by civil rights groups. Launched in 2012 and known as the Tactical Identification System (TACIDS), the program involves a database of facial recognition scans shared between local, state, and federal agencies."
     publishedDateTime: 2019-12-12T11:36:00Z
@@ -442,19 +457,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
         width: 700
         height: 466
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z

@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks. Kicking off Juniper's fifth annual customer and partner ..."
 publishedDateTime: 2019-12-07T05:56:00Z
-sourceUrl: https://www.zawya.com/mena/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
-ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_161467497/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_161467497/
+sourceUrl: https://www.zawya.com/uae/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
+ampUrl: https://www.zawya.com/uae/en/story/amp/SNG_161467497/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_161467497/
 type: article
 quality: 55
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 500
         height: 685
 
-secured: "Ns1Xogex9Y0zvQEHlTx7uxojyqnGcVk9TRF00JgOt/y9ED1VvUcBYxHi9cFh7J/EciR6yelhlQPtbf6FtKXFAHuSKxLEzUPWHmf36n6RwmgHz8hVR9+UT3bLrBHRql0jIKw9s5RGoQCIdmADmNUJSWHUz19h7loGgHNGzFsojdI6g4OHvR32J4tpZ+6aHKG1K/jC3x4wi3cEaUkUO6LSDwRRyXGb4nvmcAN1G0+hYth1urkSFKSX4GPyO71RgGPuvtOOQZyLaTZubRtcQBWO+g==;xs7KNRR3tQOeTnJTbDdlFg=="
+secured: "Lq26IKRF1QELIyFuUmJDrz1x/DnM/bEjUhvIz2GOGJYiJnFB7q4el8yLprQIsmPbAaSW7UTcvbdSNkapO37mqwUvKOOg55drswA2XaS/pBspXTb3+Ifnt+jhC6BshtKIGmOwItLu7HNqzLibEkyYiQUaxFr58cqbGO+GTKfHOmqb742qvrsrD1VTwLP2gbhAZgTq+1JJlDVFmCPVQVl/XvufnP89zzZfYb17eQhM/m9RVvlYGYoTx+5Sgpye42NnF9oaJSemxzE/6V7GA20jeg==;euRrLvSqqiR+R5TxUMiuEw=="
 ---
 
