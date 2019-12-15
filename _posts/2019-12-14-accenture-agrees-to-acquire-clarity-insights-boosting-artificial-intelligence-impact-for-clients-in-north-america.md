@@ -40,18 +40,14 @@ related:
         width: 227
         height: 300
   - title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
-    excerpt: "Accenture (NYSE: ACN) has announced that it has entered into an agreement to acquire Clarity Insights, a U.S.-based data consultancy with deep data science, artificial intelligence (AI) and machine learning (ML) expertise. The acquisition will add nearly 350 employees, along with a strong portfolio of accelerators, which can help organizations ..."
-    publishedDateTime: 2019-12-13T18:25:00Z
-    sourceUrl: https://apnews.com/Business Wire/7f626e0a5aa945bdb7fd7e4e1c784e31
+    excerpt: "CHICAGO--(BUSINESS WIRE)--Accenture (NYSE: ACN) has announced that it has entered into an agreement to acquire Clarity Insights, a U.S.-based data consultancy with deep data science, artificial intelligence ... global lead for Applied Intelligence at Accenture. “Their focus on insight-driven transformation for healthcare bolsters Accenture ..."
+    publishedDateTime: 2019-12-13T18:32:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191213005033/en/Accenture-Agrees-Acquire-Clarity-Insights-Boosting-Artificial
     type: article
     provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "PD4NDgF9i3p3FDWqQVZhbsJfnzABjaKmqIqJUxWdO7ELh1LIEM7IEG/hvVqeA9mGkJ+Em7eyNCl96E5uIeq7NEl1PDXRhmHdC3dhKCzWVtHzF2MxUprNoDw8A+/Ge4jS4h6icCl74Uc6fX5Jpvl1nELtLpQ6Glwja7WzC5gnbIZYKcXWxNpBcde5CkNFgZkwcoS9bOA6qVP4u4JW8KKHOGIld6IROj3D96eyXZ2effGUd2I7Wgt019YXmcXOww6xBATpCG2GdIi73QzesEfSWg==;3qj/QSU7yaL1sLxjjv7cqQ=="
 ---

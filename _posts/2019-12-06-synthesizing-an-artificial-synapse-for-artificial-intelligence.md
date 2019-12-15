@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Synthesizing an artificial synapse for artificial intelligence"
-excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
+excerpt: "PITTSBURGH (Dec. 6, 2019) --In science fiction stories from \"I, Robot\" to \"Star Trek,\" an android's \"positronic brain\" enables it ... For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to ..."
 publishedDateTime: 2019-12-06T16:18:00Z
 sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
 type: article
-quality: 43
-heat: 43
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,8 +15,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
-  - AI in Autos
   - AI in Robotics
 
 images:
@@ -25,6 +23,6 @@ images:
     height: 700
     title: "Synthesizing an artificial synapse for artificial intelligence"
 
-secured: "Fd2RR8pLdG7r1rvwl2gtm5oQEhj6HcrhZtztLEBW62AnZre8xKDvMFKHjtDGAvuDT2t5VipEsSkTZeBia1UMwe4DX043yoICV9YgZQ2XHKERweIwdm5w9aiskxCobjwMVfZ9TDjeJeJGz8ny/tyJfE2q5jEHnDMUSRPSC5cJDXkbpfSj6/dXv/T1p5oH+icqI4Oqyfp3w3DsrVwJeCJytTlDVFMgSI4kvZT54OSXrtmoDJvmVWVbaPi+8LG/HeNKCpJplR2tlm34uqmJ8fJqNQ==;rWxrIFyTb82SaeSKVJ6ZOA=="
+secured: "bhhiLGMJPAYvzZXUSsMvChSlh7ybr3ZV5AWSPosI95QtuFZiUbD8UrYwKUEcfG1cGXlO0mE/3gFn007Zi4D6c5mPvnetwBqo7vE6ok9p+qy7x0QS/Lj48LQFAQbIStlX1vi5o17CgmtYtgi7JgIgCNyjqmGGKD2VXJK3V0tgxGXw4soIcfNOYOk6r10zElyEAV3o2qK8Wwf8Rlm1lBcSXoxwNfIBxiQYeGqAiiWGQy6dh4m8Ex5fmImqgjD76lNHy7lj+Ra9MlmrGdpn5pWI+Q==;hmdi3813tZWq1OJrDmsjTg=="
 ---
 

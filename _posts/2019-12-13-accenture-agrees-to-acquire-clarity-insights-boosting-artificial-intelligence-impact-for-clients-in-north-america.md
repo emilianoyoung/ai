@@ -1,26 +1,21 @@
 ---
 category: news
 title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
-excerpt: "Accenture (NYSE: ACN) has announced that it has entered into an agreement to acquire Clarity Insights, a U.S.-based data consultancy with deep data science, artificial intelligence (AI) and machine learning (ML) expertise. The acquisition will add nearly 350 employees, along with a strong portfolio of accelerators, which can help organizations ..."
-publishedDateTime: 2019-12-13T18:25:00Z
-sourceUrl: https://apnews.com/Business Wire/7f626e0a5aa945bdb7fd7e4e1c784e31
+excerpt: "CHICAGO--(BUSINESS WIRE)--Accenture (NYSE: ACN) has announced that it has entered into an agreement to acquire Clarity Insights, a U.S.-based data consultancy with deep data science, artificial intelligence ... global lead for Applied Intelligence at Accenture. “Their focus on insight-driven transformation for healthcare bolsters Accenture ..."
+publishedDateTime: 2019-12-13T18:32:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191213005033/en/Accenture-Agrees-Acquire-Clarity-Insights-Boosting-Artificial
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press News
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-
-images:
-  - url: https://apnews.com/images/PaidContent3.png
-    width: 700
-    height: 450
-    title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
+  - AI in Healthcare
 
 related:
   - title: "Accenture Acquires Clarity Insights for Data Analytics, AI, ML Engineering"
@@ -52,6 +47,6 @@ related:
         width: 1200
         height: 1200
 
-secured: "1o453JPWKjQNYXnO9Ugw3wOQhts6O45X6MNiGvYQzwRb5P1DRJkJC0gQnu2KOqu6RfEoWUt/63Xk6AQX+iy2gE37tkdvK+tliwBhrlHlP13rVWNnIpHX4hJQS/U7kxE8G/t4ETjOUBiToQsRJS4ogIuka1Z+kKaAC0iDAPqcNfHZNQao5cKWDV4ZulMbNYIdVsIApqmPjCEt1F65BeHdjSimkNf8igbzclbxS46jM58j2wHOk2FXeiNLof6Ff+dcU+S4OyUvjJoDoSPjs079Dg==;knj9BnEDRzbf3AR0dU9uNQ=="
+secured: "0nm6F5o/zWcbJaujcrpkPDWAcukmBXm5OJNL7kBjlg5eoysIqhiiWGR2kbUj4IWWJI39y8qq8rcpedTY7JbuelqkdCydTFTH9leaMkdl9/Z2bHmeg8PT9cuczvqLIC6So99+Vy+rn7+43V2+bGw2UUNuBel2LEVHxPdDn+OK+AhjTzenXxs4HT2wXpUSIlMhlUd9mKD0AJQn608qbnEStTVAbhRH3OnhMtym9oLLT/rUbUVhArvExQZzKSQV9gNQeJsBIu4vK7qUj9KDBNjw1g==;TGHr4PH/89H8CHoZduQAvw=="
 ---
 
