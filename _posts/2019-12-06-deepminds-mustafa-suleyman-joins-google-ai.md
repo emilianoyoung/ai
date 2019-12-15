@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-06T00:44:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/06/deepminds-mustafa-suleyman-joins-google-ai/
 type: article
 quality: 84
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -31,16 +31,31 @@ related:
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which gathered data from millions of NHS patients without direct consent. Streams was integrated into ..."
     publishedDateTime: 2019-12-05T18:48:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+    sourceUrl: https://www.bbc.com/news/technology-50679791
+    ampUrl: https://www.bbc.com/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 89
     images:
       - url: https://www.bing.com/th?id=ON.E92139A6E0F7E7EED6BD1DC5851A0E11
+        width: 700
+        height: 393
+  - title: "DeepMind co-founder leaves for policy role at Google"
+    excerpt: "While Mr Hassabis runs the core artificial intelligence research at DeepMind ... infra and [self-driving car company] Waymo,” according to LinkedIn profiles of employees. Mr Hassabis pointed to other examples of collaboration, including research using machine learning to accelerate ecological research in the Serengeti, and work with Waymo ..."
+    publishedDateTime: 2019-12-05T17:22:00Z
+    sourceUrl: https://www.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.6438714A7968955BDFDFE9CC1002A9A4
         width: 700
         height: 393
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
@@ -84,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5F1A059886ED92169EC74D4301DBF52B
         width: 700
         height: 466
+  - title: "DeepMind co-founder leaves for policy role at Google"
+    excerpt: "While Mr Hassabis runs the core artificial intelligence research at DeepMind ... infra and [self-driving car company] Waymo,” according to LinkedIn profiles of employees. Mr Hassabis pointed to other examples of collaboration, including research using machine learning to accelerate ecological research in the Serengeti, and work with Waymo ..."
+    publishedDateTime: 2019-12-06T12:04:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/06/deepmind-co-founder-leaves-for-policy-role-at.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.88E991F1A6D1B05F29BB8CDABBFEAA1A
+        width: 700
+        height: 393
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy over some of the projects he led. In a blog post Thursday, DeepMind said Suleyman is ..."
     publishedDateTime: 2019-12-05T17:00:00Z

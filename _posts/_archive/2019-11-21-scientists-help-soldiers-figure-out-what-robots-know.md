@@ -13,7 +13,7 @@ provider:
   name: Science Daily
   domain: sciencedaily.com
   images:
-    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+    - url: https://ai.insideout.app/assets/images/organizations/sciencedaily.com-50x50.jpg
       width: 50
       height: 50
 
@@ -21,6 +21,6 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "969C2zUGvyUP2duZALwmH4OU0bVrVIJUXhRPCxxES2mlyngCJ1Y0DM+Jape1l9bHOPuI63y4ATBmtHYYOljMmnkiKYkUUJb0euyNgXUJ+TFXeK382/aLfx/1nyPghFYZTDGX5JRo2CoypgcY3DnmdA0x7O0JX4B+0ai888E58poTPH5C07lDRkT0MEOs2fuQh6v4txYcfAwySrHlXIzYRnjNMEsT9ySLiMneheevpVBJSSHdGB9vlO6DwdUVCv+edn39otE7qJ0zi7mwA+drbg==;U6UDg6RrhrLpOskIbH0Spw=="
+secured: "3OMe99lrdmYQ+6SdtTK6julHHMphM2uZo3rKXP6Q/2RbfdrC1eoGD39LraaN1sMfNLJjWspLdpc8QzPl98wpuCVAlzsIrhS3hJe5cCmpe1sl2pqYpE5MnBguwTkV7GOUp3s0ukK0QH0rl1a3qf6b7S68KBoYVpPDEt+wn2h/vuiXe47lubXwGnhd5gN4McyUKYK/cH4De+DNYOGZTtE9PQKhLFEyXViiYG6YZSJWAMujYvRT2ZSVM6PJmjqWNkDUa2MSUkRHe3cvH1S4duuIhg==;MpIDLjvRqBUk60RbV1iPoQ=="
 ---
 

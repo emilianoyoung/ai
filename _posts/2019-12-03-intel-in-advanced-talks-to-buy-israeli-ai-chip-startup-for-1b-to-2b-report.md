@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
-excerpt: "chip major, is reportedly close to its second-largest acquisition of an Israeli company ... In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs.\" Intel employs 12,000 people in Israel directly and ..."
-publishedDateTime: 2019-12-03T18:51:00Z
-sourceUrl: https://www.msn.com/en-us/finance/technologyinvesting/intel-in-advanced-talks-to-buy-israeli-ai-chip-startup-for-241b-to-242b-report/ar-BBXGOnH
+excerpt: "In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in ... Calif., parent develops many of its key chips."
+publishedDateTime: 2019-12-03T13:47:00Z
+sourceUrl: https://www.thestreet.com/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
+ampUrl: https://www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
+cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com on MSN.com
-  domain: msn.com
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.2D7E4195F179C4F9014913A98E4DAF82
+  - url: https://www.bing.com/th?id=ON.5B0F5945DC17E73B96C00FE58E36D8C9
     width: 700
     height: 466
     title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
@@ -88,6 +90,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "jCEbVyUSd3ThXxq2zXLglCs/yQ0QBUfnM9MJJNQNQ1QaiFHzrV5A4M2QpI8E7IunIxgydOQPI9C7oAWoSDO/7gCGRlJJmZQWeW9yZNnsY6GqoaRTOsthReyjJM1i92wu7hSmVxT2Byveic1DSMrJ+EUcakiyJ7RM6A08adgPZFvb0nQbwydqfxZHnwYm2zcUAEbYmWYfWCW12MHQBxPy8fuKAp3B2+w5M0DtMSVqDAQ4a4SwGMiUbu2y8QEbiYUF4mKOfSMq/pkYZENPhMHxCQ==;pmbnM22sl7j8PIW3CL5AYg=="
+secured: "h9+j/DL/3VeFuV9lJJI/0XrxhU8WwSgTllJCDmbQuUKeQCTPZ4eYpwoMCd33St7ALKGOx8DuXvQ5YfRRJKA+OgRWI6F3YfFnruFi6P6LboIqJ5+s4m6awc9vGEEAyckYFTJBzRW/Pymc8GD+u1Rj1MmEDRi2zWB/5Z8UxoCZfCRNR9rVSkjBW5P/DefVZO9WJDRlIw3OcY8G1CicNRFWbdZyaxMs5lvttlqO97o3N9/lSqsJLkS/EAI7J7/cyPcUwYODbHJtGsLzrrTQPq3RBg==;cW5FXNShrR+jmCEeIg8+0w=="
 ---
 

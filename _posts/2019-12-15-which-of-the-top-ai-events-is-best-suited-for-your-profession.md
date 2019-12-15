@@ -3,7 +3,7 @@ category: news
 title: "Which Of The Top AI Events Is Best Suited For Your Profession?"
 excerpt: "In the professional world, perhaps the most effective way to connect with others professionally is conferences. However, not all conferences are created equal - especially when it comes to emerging technologies such as AI. For this reason, I’ve compiled a list of what I believe to be the stand out conferences in this important and ever ..."
 publishedDateTime: 2019-12-15T01:21:00Z
-sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/?ss=ai
+sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/
 ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/amp/
 type: article
@@ -45,6 +45,6 @@ related:
         width: 600
         height: 315
 
-secured: "gGY55XUyHs9UPyo1/CTSoSjVFcfZidfpWM3V1JrVU1vMsj4t1yQA8BMf6QBe9WjjBCH9jeN/QM3dVJqEUgNKoMB4wkhlUf5WtGCvGsEru9q7EGt+x+JNrxtNuML8brJ2/OjL0jMtn8ELX9rrobTqqzufy/ybRNYoFzl27QWSC3HYiQ5k/ha1Wb71v2+CujEVxYBLuO8PfE6PMQNY6/wlpEEVdI7ZlOyGNj/R48KdnWMAvgFZDFtNjhvSQvr1nApy+EAzWXjfHtyY6JlmxJ9xiw==;3OL9S6FP5HFCb+US1MT3XA=="
+secured: "e3xwkBMDFyiUAk2vObpLtH1Yb7mOhs3y4stgqRV166fJ37IWrUeXqFKrIejsFKNcAy3dQJ2uzKsajeOT0XYdgL+ebCAIUB1u4HU/eh+B8A77d5ZFUytofsEeX4WenYnCPFd47ggR6l6dKHHcXx6uoYodMRWEVVEvlj9ewX0aH8fI1cQ2qMkRDI1KkSvcILhuLj9LWnicwTHnDi5OE/bzeABxkl1PVfYT/Mc3sTF9XWgbv+2GwMYvAdNKpQ0lgWGfSlHynhyD0XBMMl5dniWB1Q==;5KFhpqFYA3AoBDKq5aCyyA=="
 ---
 

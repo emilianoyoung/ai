@@ -15,7 +15,7 @@ provider:
   name: Wired
   domain: wired.com
   images:
-    - url: /assets/images/organizations/wired.com-50x50.jpg
+    - url: https://ai.insideout.app/assets/images/organizations/wired.com-50x50.jpg
       width: 50
       height: 50
 
@@ -29,6 +29,6 @@ images:
     height: 1334
     title: "Alphabet's Dream of an 'Everyday Robot' Is Just Out of Reach"
 
-secured: "SrYarPoyLiEQdB5qeb/na+x/K1fl78SXMLZTPzsBxjlV2sb1CaCvJdM5dupZjiif0nOBXJ6fmAGn0gI7F5nzTazxR7BN2Y0jEcplvVoK6Xqd2ainvfRX5DjJQ5kuorwnM/fymUCd8TIfi1O1vrxJlqI5C1uWbr3jJKBMbA4UZyYXfqnNuvF5Ykdo0Dz379jtkAON5xfSFBCJBcqTa+E33ZeHY6qZzJQmaV5lKX8lLLcSs78gbLF9Im9izAVn5Udj0xsri2mEpufgCv+0pB1xEw==;dquSpKFDZNK3UZHcUSv1Tg=="
+secured: "DesMb0IikXFWTspx2HpKc0hvPwH6xkNtZZpMvXs1w3jyFJ3feBPC1v/rMIFBn3x2qFMFy2xnf4mdW2Fp2E5aft9V/eK20rcXP07KD2QkI2lbnoGkMlRlTNnN5Bn9kMTsIanLQ1IKTq/g7ZU0krlHPG+kGaxj4lyYCCS1ouIf1fZ6eX89z4vkQdOm3YgWUagjo4eD34MjQulN69HBo3ajwnNHihfulFy3YQ1XdnukRvn5NainGeotyKQAg57u/U9l79FQe3vzS+K1XLteLYOFmw==;0wsyDOsgsRKAE4P2fb4SKQ=="
 ---
 

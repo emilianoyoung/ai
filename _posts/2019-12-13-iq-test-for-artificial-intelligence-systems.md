@@ -1,9 +1,9 @@
 ---
 category: news
 title: "IQ test for artificial intelligence systems"
-excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how well they learn and adapt to new, unknown environments. Diane Cook, Regents Professor and Huie-Rogers Chair Professor, and Larry Holder, professor in the School of Electrical Engineering and ..."
-publishedDateTime: 2019-12-13T14:43:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
+excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how ... \"We are focused on testing and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he said."
+publishedDateTime: 2019-12-13T14:44:00Z
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
 type: article
 quality: 39
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 700
         height: 466
 
-secured: "cJ5BGr8WOeGb4PAUNpY6Q5sI0hKj8pd9sZL/COAKoNcD0KgGfhcniSYseDNGELGpwuPFs63I8wWAZ50AkboTxh853uiq2uxrOPYDg8iz/yKs3HKyjcSutQPpmMV3gLvY1+rfhtfhNyKxjK9sGO+Lixi7b9/G3GKxmvPnkjqb31kFkTTgsvsx8UQvc5CELAYcH7xoswOjQSjI0xIqsxdl1S3aiIhTIRXg/veugCVHktIRXf6dDU5WKcOLM2ZzkLZtRb0DmjRCI3DojpAV70ryGQ==;3S2Mds+24zRJ4Bj6Ovp78Q=="
+secured: "Jm2K8ZorQrMahj1hluos6pYCr0CXJImWpwfKMliUjZ0Il2jgERsDYJDI0U0Uy7bta2gfDbVap0TD2xeySHpPPOnfqh7rMwcQaKlbWS0bxjkpBz+G/DmSMC6PDSRJzkVuhOrCyJDl4PGAdREjmQKCPewMJTvY2Q2nh8RsHxG9ghw7RBKMCVOeMDqayZh29RnvHBCogNvNWF62GM6JJvB6ZLMcxnB7uvnMv6G7rO3oQV3eV5Nlq8wYTSO7ItzEmG7f4XknT9eZcPVUr7dn+EksFw==;+M2wq6Mn/m499rK2mRh9Pg=="
 ---
 

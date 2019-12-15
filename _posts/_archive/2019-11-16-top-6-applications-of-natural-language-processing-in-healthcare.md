@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Top 6 Applications of Natural Language Processing in Healthcare"
 
-secured: "3vfpGPY5Xy3J7b/y89rs3rwFakDyE62oYyGLtt7J2pO0756SjXHXagzAafvi3Pt7RaiNjHpQHrYGUkAXGaT1e5CWCJI+Ff5QK9c47EVmGdR/SGCwRgpX7yQiiC/coVtEcLkS4h9R+YDRvXpYav/Nz+WoLBuFfYUuF55Ma+qCYCU0qjC/hyCI4Hw3Bv2u+RKbhKhK8Kx2+Gn831XG2gjTWG3S8B7mSfQ3MkJ9k4FMY6laDXzW9GPU78t4vkiI2v+y2SMcT9tsigZ8dDrnj1Hq/w==;4/j3MUfL52W5SLqZdQxR2A=="
+secured: "azhRUFzy5EKK8CLEU/jYf3ilSOGswWPJpe0SBxF79mF6IbGCTIW7IOlrOdV+b1Mz2n9zY7MsdyqWY0g+jCaXZc3pg+BYpuWhitMxG/cRF3SCWMJ/dnKpQYyIGrSYUZcaBbhpboayuA706TKeNf9acLdw6Z3k7L8sP4F1EglMDe2aHa3JQgfoS8bwyDH8NjMY7J+KeWBtR/YF8S6IZuycOZXCdR9P7P6n6avkOByCAXlpBbslk+0dVB5f32etFf8KDscx3oYGw75xiu3uozOnsQ==;JUuM8Z3zw7yK/RjCuFfw3A=="
 ---
 
