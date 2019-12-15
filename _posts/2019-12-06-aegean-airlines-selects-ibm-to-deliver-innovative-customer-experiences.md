@@ -65,6 +65,15 @@ related:
       - url: https://www.bing.com/th?id=ON.B2B604594CC8A87A7B6DCB5C12ACE5E2
         width: 700
         height: 345
+  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
+    excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
+    publishedDateTime: 2019-12-01T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-generation-of-customer-experiences-1028728025
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "9dqSNk5ciP6YbW1Lj6VZ2G8zjq2KhpynPOujnExYGCM+5kdYDksn1WQa2F7R2LgPMmTSNYpnnaIm2+U+xVnRD9VfamW5yJjYr56FkQuU8SAE7iBuOtXJVgyhSwb5awaCf9gim0qXu6y1x/mbpZJpcS5SwFOACYLanD6kMTUQ7gQEieaxaBwrDH4UnA8DEvqDwmWccd+1Tlq9XqHBhXmAfTn4YtJp7VDZmOopbaPZkqjA0h0b4yvh062DJv0rnrhD6JMCAhsWIULynghEEJBtDQ==;qjjTqcy9BBDV+XktEmjU0A=="
 ---

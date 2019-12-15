@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.209A916388BAFB5307007F2CFF915713
         width: 700
         height: 393
+  - title: "The Seattle Seahawks will use AWS to shape NFL game strategy"
+    excerpt: "The idea is to create a “cloud-based video analytics platform” that leverages Amazon Rekognition to identify and track opposing players and give its coaches a better understanding of their opponents’ strategies. The platform will also take advantage of the AWS SageMaker service for building, training and deploying machine learning models ..."
+    publishedDateTime: 2019-11-25T14:26:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/seattle-seahawks-using-aws-shape-nfl-game-strategy/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/74537380_10156528774156722_7610984856591269888_o.jpg
+        width: 1920
+        height: 1080
 
 secured: "M4+9vGILJ1XbqR9ytPN39jJ7tRI78s9sfmyF5CYTa9yXdiyNim6n0ny2D5nmeJ9IMS4/JxiEzmcTpz5mJR0WbDbP+Ii8O7SQIYW2hbUWed3PdApzR3QvYbj+LhBkGq52kboFnDfmlzYrufmpLJ/LybRYJbWOcHCiLYvkOOMpu9e8WIeR4x29sE3ApuPVV30EZ4VOgoLvTE7h3cuGNZWT/Swk4N4lsJ3iQO3HDMzga4eYuEGLNENFIhAmvUwFPJtIAEIZ05qfMehBKKAgOaj0Ww==;/JlaKPQMQ1FYU8Edy7ochQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-i
 cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Paging Dr. Robot: Artificial intelligence moves into care"
 
 related:
+  - title: "Paging Dr. Robot: Artificial intelligence moves into health care"
+    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
+    publishedDateTime: 2019-11-25T01:02:00Z
+    sourceUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/
+    ampUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 59
+    images:
+      - url: https://www.denverpost.com/wp-content/uploads/2019/11/57d1c38033b5437a8e260895c5674086.jpg?w=1024&amp;h=669
+        width: 1024
+        height: 668
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... \"After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might need."
     publishedDateTime: 2019-11-27T00:10:00Z
@@ -53,6 +68,6 @@ related:
         width: 700
         height: 466
 
-secured: "r0yHQdCfBWjJRug7CRn2az6DN/UkE0+zleERKmUMITe3PtNibwUSVzwtgblqMrnJN8T4S2AE6t4RLRHNUZN5Wz8uuKW4ZFWEZAWkVmoAIpxaex6Hu31BHM34g7Be3Ltsnmc7qeFpwVXg04vHy9+ZYUSSC58zLwtQ3rEACo5t/jr+XVTaTZvoEUIAtkgZ3KML9IZpUhhyRllVPWmqx3fXiC4bNqs0jjxE5EIp2Qcs8TJ9Z27+bJqz7OQqOVexCLghLJE4uCuqnmilcnczz30tWQ==;sgwPEul7DyH5WlYXamB66w=="
+secured: "/yIZfID4T4l26lGcVQK/Tg1CV6Ba4dGYNSGoBuv0lk7fwt7vqvs0z7EVqJXxcT+3tP6kMBm0O2oXfQJNsYUhhDHmd0v6LMFuXra9+RarVMwV886m8u6Jq4Dl4d8EbGg05AOKsgFxDM0XyHLlzCQoDFcUaFJjMGwPLKZPedrc3JbNcnhNl81UI5uucqffG0BLWIF/8Ked0zvrVubYKfJIHtmnqhv+cEKR4anlSciv6hSud435EuUfU1Lj+Id+h97laai1epmmGDWvKewOSS0NdA==;4WPoOmJVUNWveA4PM0R0XQ=="
 ---
 

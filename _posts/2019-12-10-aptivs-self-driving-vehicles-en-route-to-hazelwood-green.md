@@ -24,28 +24,21 @@ images:
     title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
 
 related:
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "\"What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world's development of technology that will power self-driving vehicles. We're proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current standing as ..."
-    publishedDateTime: 2019-12-04T18:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green-300969351.html
+  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
+    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
+    publishedDateTime: 2019-12-12T20:02:00Z
+    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
+    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
+      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
         width: 700
-        height: 367
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "New Pittsburgh Technology Center will advance the development of autonomous technology for self-driving cars PITTSBURGH, Dec. 4, 2019 /PRNewswire/ -- Aptiv PLC (NYSE: APTV), a global technology company enabling the future of mobility, announced today that its Pittsburgh Technology Center will relocate to new offices at Mill 19 in Hazelwood Green."
-    publishedDateTime: 2019-12-05T08:55:00Z
-    sourceUrl: https://www.autoblog.com/press-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green_21394/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
+        height: 393
   - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
     excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
     publishedDateTime: 2019-12-09T19:40:00Z

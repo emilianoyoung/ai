@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/seattle-seahawks-select-aws-cloud
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/seattle-seahawks-select-aws-cloud-140000784.html
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.209A916388BAFB5307007F2CFF915713
         width: 700
         height: 393
+  - title: "The Seattle Seahawks will use AWS to shape NFL game strategy"
+    excerpt: "The idea is to create a “cloud-based video analytics platform” that leverages Amazon Rekognition to identify and track opposing players and give its coaches a better understanding of their opponents’ strategies. The platform will also take advantage of the AWS SageMaker service for building, training and deploying machine learning models ..."
+    publishedDateTime: 2019-11-25T14:26:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/seattle-seahawks-using-aws-shape-nfl-game-strategy/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/74537380_10156528774156722_7610984856591269888_o.jpg
+        width: 1920
+        height: 1080
 
 secured: "HO6JWG9fUBuwt4uU5Dcw8DnvCnCyoZInKW9z8tYZDMtBii5EMYp0pL/x1u8/x0YjxdQgwE57qFe1vtcb0xfXhDBsHWM25SjZnsok2B5r9ykxGYPkEyAM1mIp+CaCeVbGaACTUsDBaZyO5zIlM8SwCaLxwEL5X97E0Krl+UzxrYKq2MYre9rkdCH3Me0GI99QlFMb4nLGeUsgOuAh8vEWH6OO6/bodDWfSjiqCzmIqf28MtZ5HQbzLARQR12Yjk7/aYM/M59/mvQOl91Wn6Z+Jw==;UZjEYNwwy5KAJyt43X/DHA=="
 ---

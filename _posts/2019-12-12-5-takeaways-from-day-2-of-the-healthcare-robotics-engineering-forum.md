@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T22:08:00Z
 sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "5 takeaways from Day 2 of the Healthcare Robotics Engineering Forum"
 
 related:
-  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
-    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
-    publishedDateTime: 2019-12-12T07:42:00Z
-    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
-    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
-        width: 700
-        height: 402
   - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
     excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
     publishedDateTime: 2019-12-12T16:18:00Z

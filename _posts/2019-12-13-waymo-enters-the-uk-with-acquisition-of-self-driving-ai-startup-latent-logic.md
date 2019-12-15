@@ -2,22 +2,16 @@
 category: news
 title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
 excerpt: "The company specializes in imitation learning. Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian ..."
-publishedDateTime: 2019-12-13T10:45:00Z
-sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
-ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+publishedDateTime: 2019-12-13T11:45:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/waymo-enters-the-uk-with-acquisition-of-self-driving-ai-startup-latent-logic/ar-AAK5GSb
 type: article
-quality: 101
-heat: 291
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -30,36 +24,6 @@ images:
     title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
 
 related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving and there is no need ... reasoning and in no manner whatsoever has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things ..."
-    publishedDateTime: 2019-12-08T15:57:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
-        width: 1199
-        height: 763
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
-        width: 600
-        height: 315
   - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
     excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
     publishedDateTime: 2019-12-13T11:54:00Z
@@ -73,32 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
-  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
-    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
-    publishedDateTime: 2019-12-09T23:21:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
+  - title: "Google's Waymo chooses Oxford for its first European driverless car hub"
+    excerpt: "Latent Logic builds highly-realistic simulations of roads and cars that can be used train artificial intelligence software for driverless cars. Its technology, known as “imitation learning”, using raw data of real, human driving from CCTV cameras to analyse behaviours."
+    publishedDateTime: 2019-12-12T14:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 54
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Teams working on autonomous driving projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to-life simulated training environment that enables AI models to learn more efficiently. Waymo didn’t say what exactly the ..."
-    publishedDateTime: 2019-12-12T17:55:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.5C3D34CA06B645754AE6139428E6CE54
+      - url: https://www.bing.com/th?id=ON.539669ECD49CD5F0AC27E89764B1B7D3
         width: 700
-        height: 389
+        height: 436
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z
@@ -112,178 +63,7 @@ related:
       - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
         height: 388
-  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
-    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
-    publishedDateTime: 2019-12-13T10:05:00Z
-    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
-    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
-        width: 700
-        height: 525
-  - title: "Ford Expands Self-Driving Business Footprint In Austin"
-    excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
-    publishedDateTime: 2019-12-11T20:05:00Z
-    sourceUrl: https://patch.com/texas/downtownaustin/ford-expands-self-driving-business-footprint-austin
-    ampUrl: https://patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
-    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
-        width: 656
-        height: 492
-  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
-    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
-    publishedDateTime: 2019-12-12T20:02:00Z
-    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
-    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
-        width: 700
-        height: 393
-  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
-    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
-    publishedDateTime: 2019-12-12T14:03:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
-    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
-        width: 700
-        height: 350
-  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
-    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
-        width: 635
-        height: 400
-  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-12T20:20:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
-    publishedDateTime: 2019-12-13T19:04:00Z
-    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
-    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
-        width: 415
-        height: 290
-  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-13T17:32:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
-  - title: "Collaboration is key in the race for UK self-driving success"
-    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
-    publishedDateTime: 2019-12-10T14:55:00Z
-    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
-        width: 360
-        height: 290
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
-        width: 700
-        height: 413
-  - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
-    publishedDateTime: 2019-12-12T17:20:35Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
-    type: article
-    provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 19
-  - title: "How AI shifts enterprise decision-making into self-driving mode"
-    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-    publishedDateTime: 2019-12-12T18:47:00Z
-    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 19
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
-secured: "iZNBB9udWYc8MQoHE/cGFL5orOypXVjNWXUs+fRGnOMIk2ZkiN+Z2X5rH+se9BByrPNPeebkxHHDY/zsQ+is5ZE7+/3lL4puyNJAUNJm7DdpNoKmzkqhTm0dBR7B9OThAUela9SI48CGSRk2rvwLesb6S9t6Wyj1bbl/zFcoA3CwBrNm2AcEEd7bVHhYU+d9CXfh9XCrG4JZlkORXsJCE4oL1PFvUGG0Y/vnOFyHV83kyUxK+UAVbRN3374ri2m6Q4TwBSuKVrlcZNbrxAsJkA==;MfQ7XuhNJ7a9/ztbxZ+TLg=="
+secured: "dqUsGX62IRPG64HXcAAGfS1otJ442QfFvB+jXQJU5+Hv62fYLrVGcxyZ9e5cWa8CHH6SiWW7Gkf21eGGI2+iM0e8hb1mMqMhAPnBq+TOM30j6Y10an8KXAKV7iSAlimXb5kaT8hdWBj7wffs6v91dESaaYYjYU0lcGaELEjw+egtxyMG73hdQ4xjF/3IJHmRI1bZpJXBaxxMmnDVm/wCwZApQJQwfSwEQlmDRsPQJ0s8hxZq6d3IJShSrNhtUkqYF19A7YAwfpQQJrXs55OqMw==;FjXb1Mzfdr8HElufNKO1DQ=="
 ---
 

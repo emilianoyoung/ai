@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0ABEA6E1C7F8CDA73CE2619F42CCCEB1
         width: 635
         height: 400
-  - title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
-    excerpt: "In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in ... Calif., parent develops many of its key chips."
-    publishedDateTime: 2019-12-03T13:47:00Z
-    sourceUrl: https://www.thestreet.com/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-    ampUrl: https://www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.5B0F5945DC17E73B96C00FE58E36D8C9
-        width: 700
-        height: 466
   - title: "Intel In Talks To Buy AI Chip Startup Habana Labs: Reports"
     excerpt: "and they stick to it,' one Intel partner says of the report that Intel wants to expand its AI portfolio with another acquisition. By Dylan Martin December 03, 2019, 11:04 AM EST Intel is reportedly in advanced talks to acquire Habana Labs, an Israeli artificial intelligence chip startup that has previously raised funding from the semiconductor ..."
     publishedDateTime: 2019-12-03T16:17:00Z
@@ -80,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DA66937117B3BDD960F93EF77E49F3ED
         width: 700
         height: 343
+  - title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
+    excerpt: "In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in ... Calif., parent develops many of its key chips."
+    publishedDateTime: 2019-12-03T18:51:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/technologyinvesting/intel-in-advanced-talks-to-buy-israeli-ai-chip-startup-for-241b-to-242b-report/ar-BBXGOnH
+    type: article
+    provider:
+      name: TheStreet.com on MSN.com
+      domain: msn.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.5B0F5945DC17E73B96C00FE58E36D8C9
+        width: 700
+        height: 466
   - title: "Intel in talks to buy Israeli AI chip co Habana Labs - report"
     excerpt: "In June, Habana Labs announced the launch of a new chip called Gaudi. Gaudi is an AI Training Processor for data centres, which the company says will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs."
     publishedDateTime: 2019-12-04T07:50:00Z
