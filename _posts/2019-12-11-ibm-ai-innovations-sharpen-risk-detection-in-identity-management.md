@@ -50,14 +50,16 @@ related:
         width: 700
         height: 366
   - title: "NetEnrich To Launch AI-Driven Solutions For Digital Services Integrity at the 2019 Gartner IT Infrastructure, Operations & Cloud Strategies Conference"
-    excerpt: "NetEnrich will launch outcome-driven AI solutions that not only provide application and infrastructure monitoring ... NetEnrich also specializes in accelerating deployment, migration and management of application workloads on Azure, AWS, and other clouds. Our approach to IT operations drives innovation, provides control, mitigates risk, and ..."
+    excerpt: "NetEnrich will launch outcome-driven AI solutions that not only provide application and ... migration and management of application workloads on Azure, AWS, and other clouds. Our approach to IT operations drives innovation, provides control, mitigates ..."
     publishedDateTime: 2019-12-09T13:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/netenrich-to-launch-ai-driven-solutions-for-digital-services-integrity-at-the-2019-gartner-it-infrastructure-operations-cloud-strategies-conference-1028747544
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14953990/netenrich-to-launch-ai-driven-solutions-for-digital-services-integrity-at-the-2019-gartner-it-infr
+    ampUrl: https://amp.benzinga.com/amp/content/14953990
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14953990
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 9
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "jF8C/Kj9SOu3++1hYIUiY0WHSiXt4MLLZjz2SZRqk2mA8yuy7dV5sNKyYfONFb2Xkeg5GCtWRAanedjIX+Tp6E1xvjssBTHlqL5P/tGv0y2kCTVN9E5KSuh0VFLPHYdRYR23PG/A8hYwJW87se3sdUMgDi8Dxzot7GA+X7LkWgGRU2yyiVsaCivQLdnUtf+/O1bAhs3RbWAs3jQaCHynC36Z0WL5tIfTAiwch6Fjz++WbBQfvLFV4eSeoQuQMnR9ZfPIfm3MmnVLGIWypr1XJA==;arsjyZP64OQRKngVQRk9/A=="
 ---

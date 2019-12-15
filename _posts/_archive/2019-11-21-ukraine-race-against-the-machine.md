@@ -5,8 +5,8 @@ excerpt: "On this episode, Rough Translation travels to the other side of the im
 publishedDateTime: 2019-11-21T00:40:00Z
 sourceUrl: https://www.npr.org/2019/11/19/780959294/ukraine-part-1-race-against-the-machine
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "sh8fF9zWaagp8HDWh8kruUMRGFW0WrgiaV/I6UILML7molpLl+TSpv7AUamuFlTMWEGRKrEUkwOd4P7WVig4I+AhdbVCIyag07Jqpi8MXf/Xd2KEBNPWvWIlPkDOhhSPt/CuhhMUg2C9lLRrPGGp1/MLkFyb4E5AbKZxCKsjkoDS7LhY/4xGH7sQKm7jcqlwMULvmmVeKrANt5J0hTunuP0sRwELqVvu5B4jE9j/oweiE1MaLBRDsV//TMmfu5czzmTbyaxRzKaDbhVrJzsrkw==;qbRRMBs3RPSMpPeP3F3NtQ=="
+images:
+  - url: https://media.npr.org/assets/img/2019/11/20/ukraine-episode-photos---24-of-217_wide-616eabed650dc1b834074b58078a377e610af65b.jpg?s=1400
+    width: 1280
+    height: 720
+    title: "Ukraine: Race Against The Machine"
+
+secured: "Zhw2muxrlipGvQgvJ082/HwI5zrvKQ7v+jqi/S7vICyvJzwmHOOhZMMTsGxJgFNKh7tygdKohDvY558xfcAdddIpbE4b9ewCP57tssLCWPWHu9MihcIc9yOg4IV6X6V4Yk/XoJHX+IbmvzuU+1pvBDPBvDBBLLMMWOaVCEMirFpRiSRh2aRl3/I/3P7q4WaTsMG6YeXtOMEfmKUPXZF9Rlw80wjN74HR8aNTuR0s94zNBzDt7JW8M4bbAf0CUVrY2ohz/puzA7P26xFJaDkAVQ==;i65CpXuugHModSVcPzab4g=="
 ---
 

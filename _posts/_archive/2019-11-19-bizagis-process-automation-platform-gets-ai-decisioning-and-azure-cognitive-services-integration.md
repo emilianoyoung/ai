@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/11/19/bizagis-process-automation-platfor
 ampUrl: https://venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/amp/
 type: article
-quality: 86
-heat: 96
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI
   - Microsoft AI
 
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2019/11/bizagi-featured.jpg?fit=1200%2C600&amp;strip=all
+    width: 1200
+    height: 600
+    title: "Bizagi’s process automation platform gets AI decisioning and Azure Cognitive Services integration"
+
 related:
   - title: "Bizagi Intelligent Automation Platform Integrates RPA and Microsoft Azure Cognitive Services to Deliver Enhanced Customer Experience"
     excerpt: "and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent automation across ..."
@@ -34,6 +40,6 @@ related:
       domain: yahoo.com
     quality: 18
 
-secured: "cNG2/gASxWHDgpxClu1WdI/yf3fVguC3Gux2eBoVhiAbNiadDdvKQrB1yHsYb7sS8qhz9I8N31Qu6gHxJnA1L6zD5Z2xJoBRKgpkHeJ20RlxRa0WH09ycZLX77+Te4tYCV8nKq+F4ohhlQHuGcYo6NSWu4hWtuESTETI5Bic7qAAnmdpUmxd/qpfrf/GMqriMiLOTLLKC0x8l5nRLl1ww/FQgKD5noggLGKc9zewvGADInni/MeGyqNi12be5EMfcnwnZSCDjmLOy//mcxwJ9w==;z9D03btgM8wFdmV1JpSe0Q=="
+secured: "euQFXn1nN57sYlfOoZ5nXclx5vjRRkU/4Q0VoNGV0lRdZZKU+j5NcuLhELkeBv+WcJN+/o3C6f5oT/oUIMMtO5LSTmj0ap8AzHVSaJT/THmNqvt6ibXo9ob1WNvBd/xDpuOrhiwmIWItH0Wi0tC/ZLjlGRx8xD2iKRyaxw8dkPqLv6OEw5mXwUWHMEaTzKDHBSuvZCXs0/mTDjdal6qTztDcBousTKwSRRdilTS8YIw6Nma8DLdO28r0sPqqZ6gLlEH1eV4uZ6lJdffVu4qRhQ==;g3MLUGA9OjuKR9DNjBSHEA=="
 ---
 

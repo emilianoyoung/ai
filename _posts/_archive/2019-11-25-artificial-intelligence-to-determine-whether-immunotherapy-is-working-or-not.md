@@ -7,9 +7,9 @@ sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determi
 ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 71
+heat: 101
+published: true
 
 provider:
   name: TheHealthSite
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
+    width: 675
+    height: 365
+    title: "Artificial Intelligence to determine whether immunotherapy is working or not"
 
 related:
   - title: "How artificial intelligence (AI) is improving immunotherapy"
@@ -54,6 +60,6 @@ related:
         width: 690
         height: 400
 
-secured: "yFUE3Xw4uV+ZxVoac0VJDoUWzRr8MSSzgAcjseEv4W+fNYOFxyiLFQnj+Td/MSRBIxx4bef7np9erSlq4S0a4+yjsCd0MMcmA0nvBp1XXJxFCm/eTa8wf79Yzqq9G7lwSd9YYUqXaul0G9oQKAxvDuO61eEb0Q6chTHUY9JjIdZqK+RslE9aRwTBbGYUzBYtx8C/rI2axGRoXmi/aE7BPnLoDbh25eiyvIQIgBxTUYCqOpkHgNu/RzxJiWVGB/7IFfpp2QRti9oZaGMRxgFAPA==;k4rYKv2aQC2+9Y4EGlLV0A=="
+secured: "J6TV56aucEDpuvGGZJA9RT+ODE7novwOdWXqDQaFndqY9ipMlc/SRW1puhHa4nKiS3NfWlrIw9G1NJUnz8e40DJj7HpL65tOqCoDp1gCBPwIKiWM2AzXFBTT5U4iV/9VHCBVxdUoktV/lFC5MedwMchEICR8wTkloVJ198z/euz+NfAtJ8Smpia2qCnEbANO+eYbftzrzno6fXWmdGlAONpQZQYOLb/FSoo1Ot4Jcqsn6TFZaoTH1QXImpkib7FOtXcIppVMjbj33ZRlNh4jmQ==;csacLKofgdOhdxcEXOCMkw=="
 ---
 

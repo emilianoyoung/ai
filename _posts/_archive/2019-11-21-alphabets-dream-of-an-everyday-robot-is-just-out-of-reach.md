@@ -29,6 +29,6 @@ images:
     height: 1334
     title: "Alphabet's Dream of an 'Everyday Robot' Is Just Out of Reach"
 
-secured: "DesMb0IikXFWTspx2HpKc0hvPwH6xkNtZZpMvXs1w3jyFJ3feBPC1v/rMIFBn3x2qFMFy2xnf4mdW2Fp2E5aft9V/eK20rcXP07KD2QkI2lbnoGkMlRlTNnN5Bn9kMTsIanLQ1IKTq/g7ZU0krlHPG+kGaxj4lyYCCS1ouIf1fZ6eX89z4vkQdOm3YgWUagjo4eD34MjQulN69HBo3ajwnNHihfulFy3YQ1XdnukRvn5NainGeotyKQAg57u/U9l79FQe3vzS+K1XLteLYOFmw==;0wsyDOsgsRKAE4P2fb4SKQ=="
+secured: "ly1LObZAdBYJQq70o58bUlEeDDLeBhRbWD7E4aDO96ja0nZabQuI9LNecPCmpqWwik8/VLdeykNje2Cughj7nwzkwbXw++YhudsCM28xAX5QQ7eSabGg8hWOD1ftuVdwIFlkU6P4t1ahbej4itpp+01j0VmOHVBv0EcG9RwQU5SKFFbep4ZFpZuT8c+K7kyfZdnwcOA6Jj6zNQ5zEJTmZCMZqTQrrIrWsrVopR6a6UY9n0mjxz2Yn3lQTaGkS4pNuVFZxDvMPBrMtbwt6OSh4A==;UqTD1X6dS5HOATGliqx0mQ=="
 ---
 

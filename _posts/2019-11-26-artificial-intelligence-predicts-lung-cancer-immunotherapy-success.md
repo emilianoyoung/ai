@@ -24,6 +24,21 @@ images:
     title: "Artificial Intelligence Predicts Lung Cancer Immunotherapy Success"
 
 related:
+  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
+    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
+    publishedDateTime: 2019-11-25T05:10:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 71
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
+        width: 675
+        height: 365
   - title: "How artificial intelligence (AI) is improving immunotherapy"
     excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
     publishedDateTime: 2019-11-25T14:38:00Z
@@ -44,17 +59,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 62
-  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
-    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
-    publishedDateTime: 2019-11-25T05:10:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 51
 
 secured: "a6JFhtCw71FxKR3b2kjDt7BpWoJrReAI/Mfm8+EA3C5tHwvUttLFsMRWxo8muRCP5JJ2NX1mgeKkpltFq7rBuRFXGbtrPu9g23mBRf94ILlgtkbjs13DZ8v8BVLNNNvVwp2HxKsi7wEqzHLziZWx9paUxwd4j319r53Z4X07LXi/BszFj1xaYx8JX+kWSKFJkzawODYYhzke0AQShE8zg6JUEQ9kq2ngS90CXWpV14Z36lR8ap2f6jF3ERxxN+avg4DpMBl1cP0EkgOAA2am/g==;ft0v7txfHpTj6jVbgzrEYA=="
 ---

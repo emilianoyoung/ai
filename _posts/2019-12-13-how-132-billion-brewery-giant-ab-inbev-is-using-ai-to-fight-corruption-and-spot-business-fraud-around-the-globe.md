@@ -23,6 +23,6 @@ images:
     height: 350
     title: "How $132 billion brewery giant AB InBev is using AI to fight corruption and spot business fraud around the globe"
 
-secured: "pLqDz4Jj1Ak3KyZUKVMwLE5bWkGm8WgiXAHXfIfYwoVj76AuMKTMJ+pG1o7rXmkWF3TZGxsuMjhYixqxGGIxiwWI9Oaxqqbfc2vybk9sMuW37RMeWROkEMAGgen6w8AJawkebiuMAcEAGgjC2PgWoIxAt+/fJRZ9J98nfdf1uMZTgV0DIh4d94B+f92tE4VSk0OoRFmYWRkiyoOigKq32gpxjddNtC9T8t8XM5b0H9h2COsNnj3fBQXhi6H/IbWgbe4w+8roFsCTrcwhFqaQfg==;Lge15LZ88DW2UaRCHqLo3w=="
+secured: "cFcSedhtGk1qMi8OVkl0j662Ml3DKsM+9XCyweBG3MEpvDmcgKPpUmvxal1+AcFhtettQ81NmxeS9a+JJB7D4uXjBX/lD6T4chcDprQJKAzIwJX+M1Ocr1YS0TlQc3TjG3sXjT7eTaec4MtVn24p8uyWRvKja5S9dKabTzXDilbRBQg4/P43i9Za9FZT3SNtKEDrV2xa+TfEhH/EWXmBgOwaDq0dltpTkcYHJhodN2kG9oEkwLMEtrzoup2rdW3O/QrcvZTdP9NvOqfnB/RjTA==;bObXUtx+VLmUpdBtDgQn6g=="
 ---
 

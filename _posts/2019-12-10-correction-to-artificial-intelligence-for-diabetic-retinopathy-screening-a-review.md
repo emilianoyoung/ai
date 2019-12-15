@@ -20,7 +20,7 @@ related:
   - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
     excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
     publishedDateTime: 2019-12-11T18:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5
+    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
     type: article
     provider:
       name: Nature

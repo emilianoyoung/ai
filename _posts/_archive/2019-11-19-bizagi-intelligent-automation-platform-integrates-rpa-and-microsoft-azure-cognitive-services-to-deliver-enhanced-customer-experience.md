@@ -28,8 +28,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 86
+    quality: 106
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/11/bizagi-featured.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
 
-secured: "jVbFbWq2HCbeUp/juO1d471rrhKXzrjGV3Iz7ZdVD9ATZzCVEZvv5AoZjso+DcY+KcCdDNQirk04VVG410gWEtXwC4Bx1C78Y8tYF+a88/UvyI8aC3EvUhvklBCQ8C3xLM3WZe7ycWts131xJyls2JhWdGjA+JmCxodAK9SIO2w9FV3XgFYqeIdSTmbe+vw1tk+8UrDKa8NtDCDVQEqBuo5ALwTs3KacI7+KOHNTkH0FuyS7EqPjdxngvX2xTFo2YXMUyvPA91H19q9oxftelA==;Cq3WNU1SO/mSta0rbhjEEw=="
+secured: "xDh8NHdDHOdlQu65zOpkasoXdc9ngM69/WMqnVRbBsFAWSpY2wlfLKsXiaS2rFh5l6qgrDs3oyn5p9la/wFruIsWE5WFxj1R41YEkL7hekSL+pPoFcwFbcLxF0Y3riUTc0YbCjhHwG1WvI+ixVgB4/W0OS6HGgFIN4o0hj+JymQsIhO0pZCmcWQ/hxkzcACO+7Bf8YGgYi8snN6aaJsYGKtiIm/zvtjuK2Khc6uAckLHC7tztFkjow6M0B8m8O+O/rEYu3Gto5x8ON/J3V0JLg==;HFXmI0B3bqKEqtzlrYWs3A=="
 ---
 
