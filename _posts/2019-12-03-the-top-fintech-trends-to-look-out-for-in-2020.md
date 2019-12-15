@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
         width: 600
         height: 315
+  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
+    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
+    publishedDateTime: 2019-12-14T16:18:00Z
+    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
+    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
+        width: 700
+        height: 466
   - title: "SMAC in the DARQ: the tech trends shaping 2020"
     excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
     publishedDateTime: 2019-12-05T04:27:00Z

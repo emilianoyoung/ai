@@ -70,6 +70,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
         width: 700
         height: 466
+  - title: "Film review: 'Machine' charts the upcoming rise of the robots"
+    excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
+    publishedDateTime: 2019-12-13T13:12:00Z
+    sourceUrl: https://www.afr.com/life-and-luxury/arts-and-culture/film-review-machine-charts-the-upcoming-rise-of-the-robots-20191210-p53iht
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.CD981A85CC2C15BBEC28445EB193750C
+        width: 700
+        height: 393
 
 secured: "n4NnvEQWTYVSe1e5nGdjXOQR2GRFlxV4M6DUxpYrIA+6zT7Whz7FI3Jq9z4MgMl3P1HhSgQWYTQAbN35f3Yd+RVkH5pgCFDLdeetBOvOT49rZwyRrSo6lqq674VA6JEGaFkMx44AfPOjqdb7jMOVlRihLKcGKyrMPz20yj/B5m14Rc/4VvpiKfRxZpkQlqO8oRLdqvklBb1lkxoEY/978Q7P/NUabXsK/Hcxvq3g2jlQeC8UqRiSM1wRVOM5UHmE/K0myMEHiaLw5iXz8gLz8A==;Yp3inBU2tvE1gDESTHwdgA=="
 ---

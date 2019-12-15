@@ -53,19 +53,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
-    excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
-    publishedDateTime: 2019-12-04T17:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/key-opportunities-and-challenges-in-artificial-intelligence-in-healthcare-market-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) Chipset Market Technology Advancement and Business Outlook 2019"
     excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
     publishedDateTime: 2019-12-11T06:19:00Z

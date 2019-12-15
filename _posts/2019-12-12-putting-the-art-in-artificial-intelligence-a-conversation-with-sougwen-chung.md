@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
 
 related:
+  - title: "Significant advances in 5G, AI, and edge computing among the top tech predictions for 2020"
+    excerpt: "Report by GP Bullhound also calls out the rise of data lakes/death of relational databases and the rise of vertical AI SaaS offerings, and XaaS. Companies can expect to see disruption in traditional models of data usage, storage, and analysis next year, with newcomers challenging the dominance of incumbent brands across various markets ..."
+    publishedDateTime: 2019-12-11T17:18:00Z
+    sourceUrl: https://www.techrepublic.com/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 79
+    images:
+      - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
+        width: 700
+        height: 525
   - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
     excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
     publishedDateTime: 2019-12-14T18:27:00Z

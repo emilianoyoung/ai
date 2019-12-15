@@ -38,6 +38,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Autonomous Vehicle Market Size: Global Industry Demand, Growth & Revenue, Opportunity 2019 to 2024"
     excerpt: "Chinese internet service provider, Baidu, and Volvo have collaborated to develop self-driving electric vehicles in China. Volvo will deliver its expertise in advanced technologies in the automotive industry, whereas Baidu offers its advanced autonomous driving platform, Apollo. Complete Report Details @ https://www.wiseguyreports.com/reports ..."
     publishedDateTime: 2019-11-27T14:18:00Z

@@ -38,19 +38,6 @@ related:
       - url: https://1bgnvt3q09toyb96v2ecsygm-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/umlaut-rpa-graphic-300x285.jpg
         width: 300
         height: 285
-  - title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
-    excerpt: "The Dutch bank improves its access to strategic information thanks to the cognitive capabilities of Cogito®, resulting in cost savings, increased efficiency and improved customer experience Rabobank is a bank that is run for clients. Established in the Netherlands, Rabobank has grown to become an international financial services provider ..."
-    publishedDateTime: 2019-12-05T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/rabobank-extends-the-scope-and-scale-of-unstructured-data-management-by-leveraging-expert-systems-artificial-intelligence-300969781.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.41FF7B5F7CBD396559506A9B29C06AB9
-        width: 700
-        height: 367
 
 secured: "TXYnA/tYDSJprcVkGIAVHiM5QQC9Hb3Ojpn9dUmkpdYP7c9wF7aJhHXZPJ3KtyBmw4HAN/kr9Mkx/kXT5qnhAwzD+Jis2/B9RzHQm7jpOK6a9VC8RBDjGgyFdFE35+y3Ph+O9kf4Q9BsUW34N2AFz/72RmOxy5jzjOJuH1GuxKrDj2VFnpCrd9V5ubns9uidRbZ5WroOuNyxfBfUNjH919kpQ+TkT0hBilAGTpTilutpABcjCpFNaHQx6eLTH4GuRTuilmgMaP/q9Pme1VAH5w==;sMDhMfw2qknW2P/AzJNSEg=="
 ---

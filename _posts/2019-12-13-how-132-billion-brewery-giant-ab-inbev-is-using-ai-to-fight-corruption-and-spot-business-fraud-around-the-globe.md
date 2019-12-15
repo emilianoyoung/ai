@@ -2,16 +2,20 @@
 category: news
 title: "How $132 billion brewery giant AB InBev is using AI to fight corruption and spot business fraud around the globe"
 excerpt: "The need for an AI-powered compliance platform emerged after AB InBev's $100 million purchase of rival SABMiller."
-publishedDateTime: 2019-12-13T20:08:29Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/how-24132-billion-brewery-giant-ab-inbev-is-using-ai-to-fight-corruption-and-spot-business-fraud-around-the-globe/ar-AAK6yKw
+publishedDateTime: 2019-12-13T19:44:00Z
+sourceUrl: https://www.businessinsider.com/ab-inbev-brewing-artificial-intelligence-to-spot-fraud
 type: article
-quality: 18
-heat: 18
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Business Insider on MSN.com
-  domain: msn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 350
     title: "How $132 billion brewery giant AB InBev is using AI to fight corruption and spot business fraud around the globe"
 
-secured: "cFcSedhtGk1qMi8OVkl0j662Ml3DKsM+9XCyweBG3MEpvDmcgKPpUmvxal1+AcFhtettQ81NmxeS9a+JJB7D4uXjBX/lD6T4chcDprQJKAzIwJX+M1Ocr1YS0TlQc3TjG3sXjT7eTaec4MtVn24p8uyWRvKja5S9dKabTzXDilbRBQg4/P43i9Za9FZT3SNtKEDrV2xa+TfEhH/EWXmBgOwaDq0dltpTkcYHJhodN2kG9oEkwLMEtrzoup2rdW3O/QrcvZTdP9NvOqfnB/RjTA==;bObXUtx+VLmUpdBtDgQn6g=="
+secured: "EWBqcC0NJvIdW7bTe63LoW/aKUFb2beWtIgzc5/wwmuCh1LwIlipsGYNeF+JTDRFt9lEUxz1B81lCmQypd0/2pzdQ6pId8y5PnsPuTdXJQwVktiWkhuAbMnT7XQqDZ2/HocfkmwvTU3NR2stew0oIFhsYvyXBOn3RnwK3pYxRr5uKoEEPPU5F6fUQnmmT9Pw1mCVsIW28hjO2u4d85iWm5ingukky0G6tIwwrNQdxhIa3gkTK5qJjSVm0DYAC/ClkCP3igyfLPb4o6vStjv0Rg==;eo8ZWr6030QyrCBeoA6iIA=="
 ---
 

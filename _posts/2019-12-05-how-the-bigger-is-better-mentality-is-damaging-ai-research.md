@@ -83,15 +83,6 @@ related:
       name: Retail TouchPoints
       domain: retailtouchpoints.com
     quality: 51
-  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
-    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
-    publishedDateTime: 2019-12-11T18:35:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 2
 
 secured: "FBVe1a7j/oneYNyOrYSGdaSlVTfpuTSugsN9jXCTmJGLJn5Gl3QvuVBvy7/1gL6HkCSkajTu/3ZGv6GkCQtyIpZyA9N5nh6FxnYDzAjO4cNhcNIMCxwHJcAaSZ0MoE/IOesLk37v8EmDU2LgbcUk4cPBLfEzO9SqZLJIYh+JqNZ/2NTfTxhgCcO0K4W3sMta/lVagA9tB67wPfxVR3KU/snL6LFY7NqP19KzG1DKqWTc9AC0zgWEhjS6BumEeX94Y92JBVk+HzJQqaoNUGJOdg==;1WqsyM1J9J1ie4EOp1nPng=="
 ---

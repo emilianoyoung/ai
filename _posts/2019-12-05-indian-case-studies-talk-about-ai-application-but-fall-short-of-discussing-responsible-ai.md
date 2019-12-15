@@ -8,7 +8,7 @@ ampUrl: https://theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-don
 cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/?amp
 type: article
 quality: 50
-heat: 70
+heat: 60
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The rise and fall of MRI studies in major depressive disorder"
-    excerpt: "A critical barrier to the clinical translation of many findings is the reverse inference fallacy ... Next, cellular studies using MRI may also provide insight into the pathological features and etiology of MDD. Lastly, machine learning and artificial intelligence will likely aid in the diagnosis of psychiatric disorders in the near future ..."
-    publishedDateTime: 2019-12-09T17:21:00Z
-    sourceUrl: https://www.nature.com/articles/s41398-019-0680-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FF327A153AB0DC4FA62DB39AD653905D
-        width: 685
-        height: 568
 
 secured: "Brz6yS/76J3/dEp5Vtaz9c4c5o8LrCQa05eL18YSFZpqclqh75ZjDQSxtE7SmnvPTE4CsQSARAdmC8fvgljFtn4AXzFHpKiWKbJVBv/R0PPArH5rMXFhX5NvZAETXnJUhxzesBUBPOaBC4vuDANIwCybA2wgv0X7Sm0iBs30dr04tEDipf7fFR4NlTWMnW69nLF7OW4jGmP93L8MyQI6WCBS3lerurWDiVebHKtAy1321LeY7Ba0+2dWFpXCAalgj7nwoKNyqVQ2dKFniWGfKQ==;UXz6NLbIV8TLiefZuWmVvQ=="
 ---

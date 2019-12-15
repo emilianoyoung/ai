@@ -37,6 +37,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
         width: 700
         height: 543
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
+    publishedDateTime: 2019-12-12T20:54:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
+        width: 600
+        height: 315
   - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
     excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
     publishedDateTime: 2019-12-09T06:17:00Z
@@ -52,19 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
         width: 600
         height: 315
-  - title: "How Robotics and AI Can Make Recycling Facilities Safer"
-    excerpt: "Two growing technologies, robotics and artificial intelligence (AI), have been entering the industry at a more rapid pace. And one of the companies ensuring that recycling facilities across the nation are installing and operating these technologies in a ..."
-    publishedDateTime: 2019-12-11T15:18:00Z
-    sourceUrl: https://www.waste360.com/fleets-technology/how-robotics-and-ai-can-make-recycling-facilities-safer
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.EF1E6017C4BBE9DEB249195CC21C9849
-        width: 700
-        height: 400
   - title: "Emotion recognition, AI for suicide prevention | Read"
     excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
     publishedDateTime: 2019-12-13T09:33:00Z
@@ -121,19 +123,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-10T01:22:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/omron-returning-to-the-consumer-electronics-show-with-next-gen/article_8398498e-51e0-5f48-8c00-e5f2ef92b7dc.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.3AC4AD84AD56D433E02BAB8FEDF96093
-        width: 400
-        height: 271
   - title: "Emotion Recognition Is Creepy As Hell"
     excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
     publishedDateTime: 2019-12-13T21:12:00Z
@@ -156,15 +145,19 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 10
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-11T12:28:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
+  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
+    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
+    publishedDateTime: 2019-12-10T12:34:00Z
+    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
+        width: 335
+        height: 223
 
 secured: "y20SDrR1VladQFAKj4tg5Srv/9mGJ+MpoOOSr6t2BI0HucO72e8QG+/p4lYolN7COw1E2iVUibHIQxWc0DFuhSL5irFoLeKInJ6FZqo5SWbdOSh2UJCKHLsThnR9dT5CUPoR5FFZG0OzcHipVWPl16I+lh5fGO8gN6eOn722vDMlpEYbH39DDlpzG22PMeq3nh1AevZcVHHKf5p8E9GWXS8dZHtJiB3lTzIm5Qk/4dn0PzHWffCG3FW0xF5izyubXQ3uAIF1+hHfTCvJhJljQA==;fziLYph5iMe0KO0CEXYU8Q=="
 ---

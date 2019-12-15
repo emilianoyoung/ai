@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-13T23:51:00Z
 sourceUrl: https://medium.com/@infopulseglobal_9037/empowering-telecom-industry-with-artificial-intelligence-36ad93610e
 type: article
 quality: 67
-heat: 68
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medium
@@ -26,6 +26,21 @@ images:
     height: 233
     title: "Empowering Telecom Industry with Artificial Intelligence"
 
-secured: "QNEvsjZOXNtsnfRwYOiWTS5DpXW1wzpqxZvp6AXDXx7M/DXB35NTgGXPcIkb7kapWW3I3Hl3jrX69icRMg01d2qcpdaVvDDo1SprkyDrhqIAGWWdnh+MhDSSJUJK98knwTLpnykQ+ZlhzBYV5AgjHEVEFSjUdwDIdQoPiZzhRf2A2mPjY1rKORSr6tD3DlGpiveFjH07Juwml25CvnRGwKeT42feF9NMilwFXJGV0r/1SfX+JG+s/gafHAw9T8vCPgmKTHHEARrYZMtIx2GPrQ==;Kbozyz+1NuSZ2DcyGPMUJA=="
+related:
+  - title: "Artificial Intelligence in the Telecom industry"
+    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
+    publishedDateTime: 2019-12-13T18:24:00Z
+    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 67
+    images:
+      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
+        width: 851
+        height: 315
+
+secured: "6hVkW5vWWRxrk7CpYx7s1jAGrWwM3VOEL1ctyxbRXjoP75KmsfTxxbtMFYyOuI9+/kfJ6zEvz4+XHTnr2g2zzMdj2uRsXolQXQPM+0rjTykAtsFD8OZ9QKR2EUMCOFifZrjwh9ftyz2nfZ+R5RLb2kjJjV2f874IJnuwrORhinciFa6gGo5mw3l1+C5Iv674l5CKW22Yt+A4gTSe5vOTCdocmkCkpHWpkZS9pQRC9ao6uGHuat9QIM8aCtSABn/Ijt7AoUu1UdHPO+3Xl9zp3w==;FHPsc4ciw4/6H00LoZSQcQ=="
 ---
 

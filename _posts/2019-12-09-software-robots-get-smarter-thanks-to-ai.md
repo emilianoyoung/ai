@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BBA189E511B3FFDA580BCB9EC5C4B1B5
         width: 600
         height: 315
-  - title: "Understanding Our Future with Robots with the New Center for Robotics and Biosystems"
-    excerpt: "He noted the challenges of creating trustworthy and fair artificial intelligence and robotics, considering the lack of the social and legal norms around robots’ behavior compared to humans’. “Usually when we talk about regulation and law, engineers are especially worried that we’re putting the brakes on innovation, but I think if done ..."
-    publishedDateTime: 2019-12-06T21:03:00Z
-    sourceUrl: https://www.mccormick.northwestern.edu/news/articles/2019/12/understanding-our-future-with-robots-with-the-new-center-for-robotics-and-biosystems.html
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.F4964FBE811459F2EBC2D42E9A288508
-        width: 700
-        height: 367
 
 secured: "86gTzF3vHO1Z8K3/qRfYBcYaNALApjcDEFLw9voa4Ukme/enkTdlzNcoHvoF0kq1s4O/LQn4dt4LltcPxzG3sTPerBS2EdcowoNr6alkTH/73HysWhBev+kio6Eve/atPUEIx6hjUl2wxlLVVPy4edrrive+JPkbjA08FaFNHpThTP2/gwyuTkEozuUEQwdPlYX1XM6oicRe2/2VqbeOqcE+mF7/5uG3PjZ1h4ls+bkcVTuEw4kcvOEBEhm2wQ4erf9UM96Mf/iaDsqCUZRQpQ==;Y5282Tb4rUdlg1fzMXgVMQ=="
 ---

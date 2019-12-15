@@ -29,6 +29,21 @@ images:
     title: "3 Tips For Incorporating AI In The Automotive Industry"
 
 related:
+  - title: "How 5G Will Create Opportunities And Challenges For The Robotics Industry"
+    excerpt: "We are on the cusp of a robotics Golden Age, which I believe will increase our standard of living to the degree that mass production, electricity and transistors did for our ancestors. The term “smart manufacturing” refers to business processes that feature machines in decision making roles. Artificial intelligence (AI) provides the ..."
+    publishedDateTime: 2019-12-10T14:11:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
+        width: 600
+        height: 315
   - title: "Confluence Of AI On The Edge And Computer Vision In The Wood Pallets Industry"
     excerpt: "As the growth of data acquisition accelerates, migration of compute closer to the edge allows more efficient use of data at reduced latency and infrastructure cost. Computer vision is a field of artificial intelligence that trains machines to interpret and understand the visual world. One of the goals of computer vision is for machines to see ..."
     publishedDateTime: 2019-12-13T12:49:00Z
@@ -44,299 +59,222 @@ related:
       - url: https://www.bing.com/th?id=ON.4BE8C4D98D5ABA9A43542ADC99B6480D
         width: 600
         height: 315
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+  - title: "Roundtable series on AI, robotics launches"
+    excerpt: "The series, he explained, help contribute to educating government agencies and private companies about the vital role of Artificial Intelligence and Robotics in creating new business opportunities and economic sectors that are abreast with the rapid changes in many areas. According to the Foundation, the roundtables will focus on three main ..."
+    publishedDateTime: 2019-12-10T06:10:00Z
+    sourceUrl: https://www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028
+    ampUrl: https://www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028?ot=ot.AMPPageLayout
+    cdnAmpUrl: https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028?ot=ot.AMPPageLayout
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
-        width: 600
-        height: 315
-  - title: "IBM GRAF Builds on The Weather Company’s AI and Cloud Capabilities"
-    excerpt: "“You have to know what’s happening everywhere in the atmosphere, right now,” said Cameron Clayton, general manager of IBM Watson Media and Weather. “Supercomputing and AI have had a profound impact on our ability to map the atmosphere and predict the future. The cloud helps us share those forecasts any time, anywhere.” IBM GRAF ..."
-    publishedDateTime: 2019-12-11T17:31:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/11/ibm-graf-builds-on-the-weather-companys-ai-and-cloud-capabilities/
-    ampUrl: https://www.forbes.com/sites/ibm/2019/12/11/ibm-graf-builds-on-the-weather-companys-ai-and-cloud-capabilities/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/11/ibm-graf-builds-on-the-weather-companys-ai-and-cloud-capabilities/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: Emirates247
+      domain: emirates247.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.044B158A16B7DA153D8168E443E2CFC0
-        width: 600
-        height: 315
-  - title: "Meet CIMON-2: The floating A.I. brain that lives on the ISS"
-    excerpt: "“We use our IBM Watson intelligence to do similar things to what Siri ... The main antagonist in 2001: A Space Odyssey, HAL is the calm, conversational artificial intelligence whose job it is to assist the crew and maintain the ship’s functions; only to turn on its crew and begin trying to kill them off. Anyone who builds a smart assistant ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/
-    ampUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.D8A6EFB066E15B0443897DAD43F0DF8C
+      - url: https://www.bing.com/th?id=ON.F4E04490CA93A44FCBE89B4FE21A482E
         width: 700
-        height: 366
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-09T05:29:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
+        height: 342
+  - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
+    excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
+    publishedDateTime: 2019-12-04T17:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/key-opportunities-and-challenges-in-artificial-intelligence-in-healthcare-market-2019-12-04
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
-        width: 1199
-        height: 512
-  - title: "AI Is Central To The Longevity Financial Industry"
-    excerpt: "New types of financial institutions are evolving to satisfy the needs of this aging population. Investment banks, pension funds, and insurance companies are developing new business models, and are using AI to improve the quality of the analytics used to formulate them. In the near future, the synergy between innovative AI and wealth management ..."
-    publishedDateTime: 2019-12-14T03:28:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
-        width: 600
-        height: 315
-  - title: "Significant advances in 5G, AI, and edge computing among the top tech predictions for 2020"
-    excerpt: "Report by GP Bullhound also calls out the rise of data lakes/death of relational databases and the rise of vertical AI SaaS offerings, and XaaS. Companies can expect to see disruption in traditional models of data usage, storage, and analysis next year, with newcomers challenging the dominance of incumbent brands across various markets ..."
-    publishedDateTime: 2019-12-11T17:18:00Z
-    sourceUrl: https://www.techrepublic.com/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 79
     images:
-      - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
-        width: 700
-        height: 525
-  - title: "Computer Vision on the Web with TrackingJS"
-    excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
-    publishedDateTime: 2019-12-13T18:21:00Z
-    sourceUrl: https://medium.com/@Alibaba_Cloud/computer-vision-on-the-web-with-trackingjs-51faa6c55fda
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI, robotics global roundtable series launched in Dubai"
+    excerpt: "The series, he explained, help contribute to educating government agencies and private companies about the vital role of Artificial Intelligence and Robotics in creating new business opportunities and economic sectors that are abreast with the rapid changes in many areas. According to the Foundation, the roundtables will focus on three main ..."
+    publishedDateTime: 2019-12-09T13:49:00Z
+    sourceUrl: https://gulfnews.com/technology/ai-robotics-global-roundtable-series-launched-in-dubai-1.68369090
+    ampUrl: https://gulfnews.com/amp/technology/ai-robotics-global-roundtable-series-launched-in-dubai-1.68369090
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/ai-robotics-global-roundtable-series-launched-in-dubai-1.68369090
     type: article
     provider:
-      name: Medium
-      domain: medium.com
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 69
+  - title: "How Robotics and AI Can Make Recycling Facilities Safer"
+    excerpt: "Two growing technologies, robotics and artificial intelligence (AI), have been entering the industry at a more rapid pace. And one of the companies ensuring that recycling facilities across the nation are installing and operating these technologies in a ..."
+    publishedDateTime: 2019-12-11T15:18:00Z
+    sourceUrl: https://www.waste360.com/fleets-technology/how-robotics-and-ai-can-make-recycling-facilities-safer
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
     quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.810363E95144543A8AF8DCA5A0750EB4
-        width: 534
-        height: 368
-  - title: "Supercomputer will help create the next generation of AI"
-    excerpt: "AiMOS, the 24th most powerful supercomputer worldwide, was recently unveiled at the Rensselaer Polytechnic Institute. Its main job? To find out how to build smarter hardware to support ever-more sophisticated applications of AI."
-    publishedDateTime: 2019-12-12T12:59:00Z
-    sourceUrl: https://www.zdnet.com/video/supercomputer-will-help-create-the-next-generation-of-ai/
+      - url: https://www.bing.com/th?id=ON.EF1E6017C4BBE9DEB249195CC21C9849
+        width: 700
+        height: 400
+  - title: "Can advanced AI and robotics fix the recycling industry?"
+    excerpt: "The problem is especially urgent with recent news that China will no longer be accepting waste from the US."
+    publishedDateTime: 2019-12-04T22:24:00Z
+    sourceUrl: https://www.zdnet.com/video/recycling-robots-make-green-viable-again/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.4A3BE816A93F4ACA7CBBA96A426306E6
+      - url: https://www.bing.com/th?id=ON.69825E93910DE13AD824F9A025315212
         width: 700
         height: 525
-  - title: "Artificial Intelligence in the Telecom industry"
-    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
-    publishedDateTime: 2019-12-13T18:24:00Z
-    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
-        width: 851
-        height: 315
-  - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
-    excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
-    publishedDateTime: 2019-12-12T10:00:00Z
-    sourceUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html
-    ampUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
-        width: 700
-        height: 350
-  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
-    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
-    publishedDateTime: 2019-12-14T16:18:00Z
-    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
-    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
-        width: 700
-        height: 466
-  - title: "AI is helping tackle one of the biggest unsolved problems in maths"
-    excerpt: "Artificial intelligence’s ability to sift through large amounts of data is helping us tackle one of the most difficult unsolved problems in mathematics. Yang-Hui He at the City, University of London in the UK and colleagues are using the help of machine learning to better understand the Birch and Swinnerton-Dyer conjecture, one of the seven ..."
-    publishedDateTime: 2019-12-09T11:51:00Z
-    sourceUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/
-    ampUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.99BAF6171FC373CB30872B6449038250
-        width: 700
-        height: 466
-  - title: "Macron’s €1.5 billion plan to drag France into the age of artificial intelligence"
-    excerpt: "the French officials said that mass collection of personal data for marketing or political purposes was out of the question (France already outlaws political advertising of the type that’s at the center of the Facebook-Cambridge Analytica scandal). All data collection for AI research would have to be done in conformity with the EU’s ..."
-    publishedDateTime: 2019-12-09T21:02:00Z
-    sourceUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/
-    ampUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
-        width: 700
-        height: 366
-  - title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 to reach USD 3823.45 Million by the year 2025. North America region holds the highest ..."
-    publishedDateTime: 2019-12-12T05:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-facts-figures-and-analytical-insights-2019---2025-2019-12-12
+  - title: "AI Robots Market Trends, Growth, Demand, Competitive Landscape, Emerging Opportunities and Industry Analysis"
+    excerpt: "Growth Boosters and Top Barriers Artificially intelligent robots can be described as service and industrial robots, which are integrated with artificial intelligence (AI) technology. AI robots have the ability to certain repetitive tasks with no human intervention and are able to communicate with humans. Sometimes, they are also able to ..."
+    publishedDateTime: 2019-12-09T08:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-robots-market-trends-growth-demand-competitive-landscape-emerging-opportunities-and-industry-analysis-2019-12-09
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 65
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Combine the Power of Video Indexer and Computer Vision"
-    excerpt: "Whereas keyframes were previously exported in reduced resolution compared to the source video, high resolution keyframes extraction gives you original quality images and allows you to make use of the image-based artificial intelligence models provided by the Microsoft Computer Vision and Custom Vision services to gain even more insights from ..."
-    publishedDateTime: 2019-12-11T18:49:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/combine-the-power-of-video-indexer-and-computer-vision/203756
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-10T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-trends-and-future-opportunities-2019-12-10
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Division of Data and Computational Sciences marries AI, social science"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
-    publishedDateTime: 2019-12-13T18:22:00Z
-    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vector processing rises to the challenges of AI and machine learning"
+    excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
+    publishedDateTime: 2019-12-12T16:56:00Z
+    sourceUrl: https://www.datacenterdynamics.com/whitepapers/vector-processing-rises-challenges-ai-and-machine-learning/
     type: article
     provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
-        width: 300
-        height: 200
-  - title: "Joint Artificial Intelligence Center Director Tells Naval War College Audience to 'Dive In' on AI"
-    excerpt: "Saying the most important thing to do is just dive in, Lt. Gen. Jack Shanahan, director of the Department of Defense Joint Artificial Intelligence Center, talked to U.S. Naval War College students and faculty on Dec. 12 about the challenges and opportunities of fielding artificial intelligence technology in the U.S. military. “On one side of ..."
-    publishedDateTime: 2019-12-13T19:17:00Z
-    sourceUrl: https://www.dvidshub.net/news/355634/joint-artificial-intelligence-center-director-tells-naval-war-college-audience-dive-ai
-    type: article
-    provider:
-      name: DVIDSHub
-      domain: dvidshub.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DC3509595FE2F94B7BA9CD790E68150B
+      - url: https://www.bing.com/th?id=ON.81DDB01FF6C524E99D8C0D5575E98E53
         width: 700
-        height: 499
-  - title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
-    excerpt: "More recently, a geometric morphometric approach has been described to study facial expressions of pain in cats. This approach has been proposed as basis for further application of machine learning algorithms for automated pain recognition 26. On the other hand, grimace scales are simple and readily applicable in a clinical context, and the ..."
-    publishedDateTime: 2019-12-13T11:27:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-55693-8
+        height: 367
+  - title: "Understanding Our Future with Robots with the New Center for Robotics and Biosystems"
+    excerpt: "He noted the challenges of creating trustworthy and fair artificial intelligence and robotics, considering the lack of the social and legal norms around robots’ behavior compared to humans’. “Usually when we talk about regulation and law, engineers are especially worried that we’re putting the brakes on innovation, but I think if done ..."
+    publishedDateTime: 2019-12-06T21:03:00Z
+    sourceUrl: https://www.mccormick.northwestern.edu/news/articles/2019/12/understanding-our-future-with-robots-with-the-new-center-for-robotics-and-biosystems.html
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.F4964FBE811459F2EBC2D42E9A288508
+        width: 700
+        height: 367
+  - title: "How 5G Will Power The Industrial Commerce Revolution"
+    excerpt: "US respondents cited connected cars (62 percent), connected secure homes (42 percent), emergency services (42 percent), smart buildings (41 percent), and translation or linguistic services (41 percent). Mobile office (35 percent) was further down on the list.” A scholarly research paper on the subject summed up the issue. “Machine to ..."
+    publishedDateTime: 2019-12-06T20:50:00Z
+    sourceUrl: https://www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/
+    ampUrl: https://www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.3EFCF0AE44207EE6198372D579EAC0F9
+        width: 457
+        height: 199
+  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
+    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
+    publishedDateTime: 2019-12-07T02:20:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
+        width: 700
+        height: 466
+  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
+    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
+    publishedDateTime: 2019-12-10T01:22:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/omron-returning-to-the-consumer-electronics-show-with-next-gen/article_8398498e-51e0-5f48-8c00-e5f2ef92b7dc.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.3AC4AD84AD56D433E02BAB8FEDF96093
+        width: 400
+        height: 271
+  - title: "The rise and fall of MRI studies in major depressive disorder"
+    excerpt: "A critical barrier to the clinical translation of many findings is the reverse inference fallacy ... Next, cellular studies using MRI may also provide insight into the pathological features and etiology of MDD. Lastly, machine learning and artificial intelligence will likely aid in the diagnosis of psychiatric disorders in the near future ..."
+    publishedDateTime: 2019-12-09T17:21:00Z
+    sourceUrl: https://www.nature.com/articles/s41398-019-0680-6
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
-        width: 685
-        height: 274
-  - title: "Film review: 'Machine' charts the upcoming rise of the robots"
-    excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
-    publishedDateTime: 2019-12-13T13:12:00Z
-    sourceUrl: https://www.afr.com/life-and-luxury/arts-and-culture/film-review-machine-charts-the-upcoming-rise-of-the-robots-20191210-p53iht
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.CD981A85CC2C15BBEC28445EB193750C
-        width: 700
-        height: 393
-  - title: "The Challenges Of Fintech Application In Modern Era – A Comprehensive Guide"
-    excerpt: "It is very easy to make decisions in businesses with the fintech as it has increased the usage of AI solutions. It has become very easy for businesses to rely on AI-powered, data-driven insights to shape strategies. It has improved decision making power. One of the visible benefits of fintech is the introduction of transparency. It helps a lot ..."
-    publishedDateTime: 2019-12-09T20:22:00Z
-    sourceUrl: https://customerthink.com/the-challenges-of-fintech-application-in-modern-era-a-comprehensive-guide/
+      - url: https://www.bing.com/th?id=ON.FF327A153AB0DC4FA62DB39AD653905D
+        width: 685
+        height: 568
+  - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
+    excerpt: "Computer vision is helping make queue lines more efficient in the UK, quantum computing for ML is gaining traction, and machine learning frameworks are releasing new iterations: PyTorch 1.0 and TensorFlow 2.0 are new in the last year. Meanwhile, hardware for AI and ML applications is also progressing. Google’s TPUs are in their third ..."
+    publishedDateTime: 2019-12-13T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/algorithmia-machine-learning-2020-report-140010514.html
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.7BFAA361429525266D73ACC5DF0CB49F
-        width: 309
-        height: 657
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 15
+  - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
+    excerpt: "SEATTLE, Dec. 12, 2019 (GLOBE NEWSWIRE) -- Algorithmia, a leader in machine learning deployment, announces the availability of its 2020 State of Enterprise Machine Learning report. The report includes input from 750 people across industries in companies that are actively engaged in building machine learning life cycles. A key takeaway from the ..."
+    publishedDateTime: 2019-12-12T14:05:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/12/1959883/0/en/Algorithmia-Machine-Learning-2020-Report-Challenges-and-Trends-for-the-Enterprise.html
     type: article
     provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 13
+  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
+    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
+    publishedDateTime: 2019-12-11T12:28:00Z
+    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 10
+  - title: "Artificial Intelligence in Medicine Market -Global Opportunity Analysis and Industry Forecast, 2018-2025"
+    excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
+    publishedDateTime: 2019-12-04T12:17:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/36635/artificial-intelligence-in-medicine-market-global/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
     quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
+  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
+    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
+    publishedDateTime: 2019-12-11T18:35:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
 
 secured: "JIgwGdtqYya1EKa4gpZu0MbiHuLESnZSyKAF4R1pJMBNBe10P+bMIetkGv/Z8pMCEhIkM7vu8GygXp2q7mVSP/TKJydUbLInFT+Gzuil8jV4R463/Hk31jYhbZOqKuxjLaem3UhdePiZNuLQbmAconYFNKKoJQsLePnpO2QMSQ3S4smjGao200dGtK8+nGljrUZT4QxIvI42Gr7stPAellx1A4NQSsm722oS906HKEUHkKy+w1GnHJfBCJ77p2niBZj5wJDFlOaiEZY+7xqCtw==;IqBp4N9BsNXvuDVOLOvNtA=="
 ---

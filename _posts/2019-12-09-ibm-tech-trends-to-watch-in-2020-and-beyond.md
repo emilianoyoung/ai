@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "IBM Tech Trends To Watch In 2020 … And Beyond"
 
 related:
+  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
+    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
+    publishedDateTime: 2019-12-14T16:18:00Z
+    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
+    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
+        width: 700
+        height: 466
   - title: "The Top Fintech Trends to Look Out For in 2020"
     excerpt: "AI is capable of identifying fraud, detecting money laundering and making customer ... “One of the trends that everyone should look out for in 2020 is agility, and not only agility in its classic definition. In Fintech, we talk about agility not only as the ability to reconfigure or replace your information technology systems when needed ..."
     publishedDateTime: 2019-12-03T11:28:00Z
