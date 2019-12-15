@@ -7,9 +7,9 @@ sourceUrl: https://abcnews.go.com/Health/wireStory/paging-dr-robot-artificial-in
 ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
   name: ABC News
@@ -19,37 +19,13 @@ topics:
   - AI
   - AI in Robotics
 
+images:
+  - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
+    width: 992
+    height: 558
+    title: "Paging Dr. Robot: Artificial intelligence moves into care"
+
 related:
-  - title: "Paging Dr. Robot: Artificial intelligence moves into health care"
-    excerpt: "Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients. It already detects an eye disease tied to diabetes and does other behind-the-scenes work like helping doctors interpret MRI scans and other imaging ..."
-    publishedDateTime: 2019-11-25T05:00:00Z
-    sourceUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/
-    ampUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A97EFB43F91EE66DB0F7E16047B3FC26
-        width: 700
-        height: 456
-  - title: "Clarification: Health Care-Artificial Intelligence story"
-    excerpt: "Artificial intelligence is spreading into health care ... reality character named “Ellie” that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures like ..."
-    publishedDateTime: 2019-11-27T05:33:00Z
-    sourceUrl: https://mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/
-    ampUrl: https://mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/amp/
-    cdnAmpUrl: https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/amp/
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.7BC9F242A842EA3CF7A19A66F6354F8F
-        width: 700
-        height: 496
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... \"After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might need."
     publishedDateTime: 2019-11-27T00:10:00Z
@@ -63,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0E7C8C6B57AF752E0E32F499D5F5E5B9
         width: 700
         height: 456
-  - title: "Clarification: Health Care-Artificial Intelligence story"
-    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
-    publishedDateTime: 2019-11-26T19:42:00Z
-    sourceUrl: https://apnews.com/49877aba863e4f5199d0a22d68966bcc
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: https://apnews.com/images/ShareLogo2.png
-        width: 700
-        height: 450
   - title: "Artificial intelligence spreading into health care"
     excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
     publishedDateTime: 2019-11-27T07:54:00Z
@@ -90,6 +53,6 @@ related:
         width: 700
         height: 466
 
-secured: "a2jfLcGbFe5janFLepL2zsVPbApmcLTqvXmaePKHAQNoLF9N1qwgKu7hawYuRkRHDH43iECNgcbnR2uMBeVLj6HY2eOIy+RLhIb7ntb2zFwpMZmkaAYX8ORLddsvp80TOjNAHmLHYWLSWXFoc429eFKNUCCSAakTKvFNf+JiAm6lTyIih3Lcl42PY6v9odbxlYdJ33V+2SGSOOP3Kg+GE0h+RPyGhyXmMQCKtBkfz2/W7yjihmHEMpgftZ6LG8bqtPbHjKw1ZiUEkXHHkQ5y/g==;6+g3PE35uJ+F9tW7Klu67w=="
+secured: "BeMe2PdyQOiXb7gDm3ZNXrcJ2AYUg127xZm/sFa/EDG0SZjYELOiZcl8ZMqZ128jNVUCs96hrqpPYbLQheyksQ97WCAdHNU3+5w6WBZMAwoolaz+TNJWnrkizuxGMKvInEO7hITFyxh9nbEjXXPRzzTHHoGyAz6WiQ51C0fwgKWq+hWaB9SvnnA34RmgVmKRdqAioatnDagoOJE1/dR6uNStbTWX6fKiO7nHX+A8kZdniW08rlAhtCnInj2+WViUh9OUy7LtpfjqNu4ri575Lw==;yqHQRyQT6si533pWAgogiA=="
 ---
 

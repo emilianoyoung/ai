@@ -5,7 +5,7 @@ excerpt: "A Cambridge start-up has announced that a fleet of driverless cars wil
 publishedDateTime: 2019-11-20T00:00:00Z
 sourceUrl: https://www.rac.co.uk/drive/news/motoring-news/driverless-cars-to-hit-london-streets-in-new-trial/
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://d1ix0byejyn2u7.cloudfront.net/drive/images/uploads/headers/ws_cropper/26_0x114_1200x629_1200x630_wayve-driverless-trial-london.jpg
+    width: 1200
+    height: 630
+    title: "Driverless cars to hit London streets in new trial"
 
 related:
   - title: "Driverless cars are being trialled on some of the country’s most difficult and congested roads"
@@ -28,8 +34,12 @@ related:
     provider:
       name: The Sun
       domain: thesun.co.uk
-    quality: 27
+    quality: 47
+    images:
+      - url: https://www.thesun.co.uk/wp-content/uploads/2019/11/NINTCHDBPICT000541231387.jpg?strip=all&amp;quality=100&amp;w=1200&amp;h=800&amp;crop=1
+        width: 3531
+        height: 2189
 
-secured: "4QAuSwEalOFvbcCfDQORcQf30gnkSKPZYYcj/D4EGknVAZYvfq5ufygh/I8ikDba5W6UyaqYaOZMbXs/pcHwQaVcik8+fNUK+o7AQuDupyn+s3Vrg9SyXjmGSMEOOYMNULgc8sVC0Lgize+E11JOURde7cN3HnqGXR+wzpYjzjuftyd8Mawndl5zlHIbXBrqv0N7wIJ2hFRXJZUBJrStcV+iGzvc+Zp37yiHOtJxEtRGynnvc8yEpO+LxHtrRVM5WpRTSpbYcrXsQU0NVKoJGQ==;6pgzGx3cLGrUb8lX6oaQPw=="
+secured: "QSiRO7dZ7y/vbeObaHKglSwerXx2+2VNR/JMxSOqJs2sjjBudbnwzO6XgyOrlGJvYW2tFbOnp6TcCJQBgNcLME8XvZYM55XjK1A4yYUF/jK79lD7IJ+ePillzRq+DXLMOuQAXEvfTcMRmaPmHtCADdwoPFW6W/7hXnJxp+hnT55wm7beynhs1X/YFlxqpw7DiDRhARvWrhQhoMadKfFuxPPvMZiP4i82d5pW1V68LtGK/IHFa48cp0sjPAzFDt0a78xj9A75L/y0eejJj5s80A==;CrhCmP38umo2kJ/q4o37SQ=="
 ---
 
