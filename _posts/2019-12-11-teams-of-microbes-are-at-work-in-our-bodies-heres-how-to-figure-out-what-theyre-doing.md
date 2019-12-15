@@ -70,6 +70,15 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC340BE76C9CDCD6E8293D8222090FD
         width: 700
         height: 466
+  - title: "Microbe Communities and Their Functions"
+    excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
+    publishedDateTime: 2019-12-15T07:22:00Z
+    sourceUrl: https://en.farsnews.com/newstext.aspx?nn=13980924000222
+    type: article
+    provider:
+      name: Fars News Agency
+      domain: farsnews.com
+    quality: 4
 
 secured: "LH9Chxe7n+TGrsIrL3MJ29fsdfHQ+Gf6D3T0XEvm6xF0fbSMvu1xs9wF6nNIS5qJdWdePaILT7XgvuImfihtllPI3QPrfE1U1SO34I2YyjK9fSVhimu4iCvWADC/ib0VWqZpJrYp2fC7e+2s+6Jzp51AujJP6eQ+fEiMzUF+rNVY6kJDbHFE2aI3m96YeVAPYNriOh6rlpcE1TvVfJHoRf8XpY/wPfO+FTg0xRRs1cxDd56J5VZp3TgdRaY2NMzxhhmhYxgcSpRa3YuIyvTwBA==;T7rob3BvuUehlqfQzwzmog=="
 ---

@@ -63,6 +63,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 25
+  - title: "Microbe Communities and Their Functions"
+    excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
+    publishedDateTime: 2019-12-15T07:22:00Z
+    sourceUrl: https://en.farsnews.com/newstext.aspx?nn=13980924000222
+    type: article
+    provider:
+      name: Fars News Agency
+      domain: farsnews.com
+    quality: 4
   - title: "Teams of microbes are at work in our bodies. Here's how to figure out what they're doing"
     excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
     publishedDateTime: 2019-12-11T19:04:00Z

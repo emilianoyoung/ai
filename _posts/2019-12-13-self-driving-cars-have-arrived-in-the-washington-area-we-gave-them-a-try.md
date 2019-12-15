@@ -1,21 +1,27 @@
 ---
 category: news
-title: "How AI shifts enterprise decision-making into self-driving mode"
-excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-publishedDateTime: 2019-12-12T18:47:00Z
-sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
+title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
+excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
+publishedDateTime: 2019-12-13T12:21:00Z
+sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
 type: article
-quality: 19
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Harvard Business School
-  domain: hbs.edu
+  name: Washingtonian
+  domain: washingtonian.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+    width: 700
+    height: 413
+    title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
 
 related:
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
@@ -246,19 +252,6 @@ related:
       - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
         width: 360
         height: 290
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
-        width: 700
-        height: 413
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
     publishedDateTime: 2019-12-12T17:20:35Z
@@ -267,6 +260,15 @@ related:
     provider:
       name: The Guardian on MSN.com
       domain: msn.com
+    quality: 19
+  - title: "How AI shifts enterprise decision-making into self-driving mode"
+    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
+    publishedDateTime: 2019-12-12T18:47:00Z
+    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
     quality: 19
   - title: "Uber eyes self-driving car simulation startup"
     excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
@@ -278,6 +280,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "CIX97hJhz3yz/STK8sRGWMnFZAL5WkjhreZmFliQA+efHzu2I+XL+bi3YX9fZWHib154AVSn1KXFXUxLIbBAEQ8RmB2a6HOOGvsHfC34BrPw2IYxsPSNgVkhJQ9AWM4JGRpcioGAEHszntylKTxje1NWjFZLz543KfisWFVafbvcg5s4/dalx87lUzHZOuULNSAfzEKs9JrQK32kXcHRRcDYTBcE2FpA3TEnlSN3kbMSTGwCnNap50rbDazbculGuK3KXySs83TNtcrJLZFLLg==;/xmsupH2JOE+eAX90EcnfA=="
+secured: "B8+H8svD9VGJu4eMJjpB26gDZDDuJJMkjrtEBHxft95fC5biNc041ysxepqxBzpxOihxkFrfog1zsBHzsiwJxpXAo4lr1wEMC+jacnE3QnzqgBOE10VBjZcDGI0Uo7JJwKhOegjDn8HYmn4SN+NZT1seNc5y1jZsW8bV1NJBq8zE1O1o0kRgjIM35nUsD04djtHbX7Xz5upjQVJC3u7RyjAX+Q9NOS8ZMwBWV9nlEBGqa1KqaK7ZiSccswXASWg9u+BY4MfN/27vPJadgfPAGA==;pQTIKGOS6uMRcSPsHYTw6Q=="
 ---
 

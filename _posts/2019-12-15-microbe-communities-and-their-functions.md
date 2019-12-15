@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Teams of microbes are at work in our bodies. Researchers have figured out what they're up to."
+title: "Microbe Communities and Their Functions"
 excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
-publishedDateTime: 2019-12-11T21:02:00Z
-sourceUrl: https://phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.html
-ampUrl: https://phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.amp
-cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.amp
+publishedDateTime: 2019-12-15T07:22:00Z
+sourceUrl: https://en.farsnews.com/newstext.aspx?nn=13980924000222
 type: article
-quality: 33
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Fars News Agency
+  domain: farsnews.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://www.bing.com/th?id=ON.8890970215F6956E7B62E06C0C683F18
-    width: 700
-    height: 494
-    title: "Teams of microbes are at work in our bodies. Researchers have figured out what they're up to."
 
 related:
   - title: "New method reveals how microbial communities function in our bodies"
@@ -41,6 +33,21 @@ related:
       - url: https://www.bing.com/th?id=ON.346F2AE71D2379DAB7C0A905E3937F77
         width: 620
         height: 480
+  - title: "Teams of microbes are at work in our bodies. Researchers have figured out what they're up to."
+    excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
+    publishedDateTime: 2019-12-11T21:02:00Z
+    sourceUrl: https://phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.html
+    ampUrl: https://phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.8890970215F6956E7B62E06C0C683F18
+        width: 700
+        height: 494
   - title: "Teams of microbes are at work in our bodies. Here's how to figure out what they're doing"
     excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
     publishedDateTime: 2019-12-12T03:47:00Z
@@ -63,15 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC340BE76C9CDCD6E8293D8222090FD
         width: 700
         height: 466
-  - title: "Microbe Communities and Their Functions"
-    excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
-    publishedDateTime: 2019-12-15T07:22:00Z
-    sourceUrl: https://en.farsnews.com/newstext.aspx?nn=13980924000222
-    type: article
-    provider:
-      name: Fars News Agency
-      domain: farsnews.com
-    quality: 4
   - title: "Teams of microbes are at work in our bodies. Here's how to figure out what they're doing"
     excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
     publishedDateTime: 2019-12-11T19:04:00Z
@@ -82,6 +80,6 @@ related:
       domain: eurekalert.org
     quality: 0
 
-secured: "gxOnMC4pIp7V2mGsRu8k1Zb6rHNKzao/0TYeIlWh7jWlQWbrhGATUuXV6s5Q/lupBtbZn3oyRxE0Ls9MGTwj69Jxf2pi+qh6cI1oOGdvsbhOx999c6xwq6gib4Y82kcX5JBGeGg2fcuq3gZgHbnN/5pLrwiRakbI32V4DnuWdDPdsKnIheMjQHIUCp5fAcp67x+6Zx/HzKneeRF3oWeplhSbJaEGyDvDbwSIrNexgzGT1/2hk8ew3QzrJc+zrkEmo6nSsHbsNmWUHcNEedzlVw==;WBMobDiqqACIwGPJJhSn/Q=="
+secured: "SDU9/ipK5kdqvTrwClHHQZcrzbDamXqL86fd0jxTCxC80DHMOGPDtg3j9yWvJy6imkGKMDBez4rrNDG+ghdUNmQevZ4PP0QpZzfEIc+KiGDDiYlJ2zVmLIdDXcrmsFvNe72o5ixQgLP9WkaGSUbcs9UofknMQBfVZ4gguk6T/I6PPDpXZu+1swhJ8tGKBr8lhIXSpSsaq86g5Xto5QfDFe/bd39TJr7aO0w5XfxCckG65FuOnBlcsh/IY/UVVx0QloblnqYa+m0UitmUzFKlyQ==;wbdASRBR8jmaXKjEM5BegA=="
 ---
 

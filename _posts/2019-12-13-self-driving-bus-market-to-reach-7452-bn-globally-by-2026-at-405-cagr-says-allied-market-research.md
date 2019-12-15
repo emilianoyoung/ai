@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
-excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
-publishedDateTime: 2019-12-14T12:50:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14992513/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-33-6-from-2019-to-2025-gr
-ampUrl: https://amp.benzinga.com/amp/content/14992513
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
+title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
+excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
+publishedDateTime: 2019-12-13T12:30:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
 type: article
-quality: 31
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
-    width: 600
-    height: 300
-    title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
+  - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
+    width: 700
+    height: 700
+    title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
 
 related:
   - title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
@@ -92,6 +91,21 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
+    excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
+    publishedDateTime: 2019-12-14T12:50:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14992513/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-33-6-from-2019-to-2025-gr
+    ampUrl: https://amp.benzinga.com/amp/content/14992513
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
+        width: 600
+        height: 300
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
     excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
     publishedDateTime: 2019-12-11T00:31:00Z
@@ -101,20 +115,7 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 9
-  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
-    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
-    publishedDateTime: 2019-12-13T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
-        width: 700
-        height: 700
 
-secured: "lAUKd6EMLbjos205jAE1ag6C5VtWJwq9XhEAsqlIAe6LAAb16WetpHPZgKFyNFH8FxkX0qewybQepeTGlqcPWGmmfnTF2jD9gncknIcsvh3m7g/owbvR5bFIOTFGVmMegzUvw/U7y5lVa3jWnPrI0q2TLmHPZIU5+pR6TGQ9MJQsUNOLE8OOBNzLIsuWzTXN6kCByTHz/UD1zbcWWlmh2h887/UCDbijwW8A8YqY9Cq/G8OePfVlutCN9EXzh4RnzbMCKwwHQleVQz0bWUjC+g==;5KVxSZd5ZPrd8/upA1p3nA=="
+secured: "GFAYBhO7QWVKegjkj4bo3OOckS8fsm82cVaLrKJ8BmvT5FGjds9kcBPdR2/dCNX4PjDGWTds9x98++D7UBmBQ3o7x3bQ2Ilnr1GoxVgDqBIHmnREob/GIo9WzXS+dtydM/8MLaBP02W8lygZs0xoKJ3TyAQ810R16GzVZ2ofbTJW5MoqC0q0W1As5HIZjhyb0K4wYl3obfuqH45dCMRgXWlMerJdUymZBmT1TPkByIjh0PkEwlt3YYNyaA4o9zY2repF25U/U3MULAGV03ASbw==;Fg8uhQ4M9LYHTCeNMwDgLQ=="
 ---
 

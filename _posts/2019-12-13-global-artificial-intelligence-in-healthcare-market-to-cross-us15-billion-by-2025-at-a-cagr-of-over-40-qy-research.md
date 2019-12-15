@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T04:21:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-to-cross-us15-billion-by-2025-at-a-cagr-of-over-40---qy-research-2019-12-13
 type: article
 quality: 60
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -106,6 +106,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 9
+  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
+    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
+    publishedDateTime: 2019-12-13T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
+    images:
+      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
+        width: 700
+        height: 700
 
 secured: "2lr2CAGsKih5AYqbrBnlgHCnSM9lGpaLUbRacNqkU+P8ywpMSgpveWkvmoU6a/AabLVht0KVPomF0Jut+1If3xtAy34UhVhhLAWLCHtnpJa5WMOyWvX00opv3872jY6HLwWZsrJJc+z0MUuuOic2hZuavkYu1PDLqEVTlow/bwBDGuGNeURv2bxCJdER5J631oeI7MWC8Fm9LanhU/CR7xzaroYOhaQGncAnVL7WXvAHkqWYxuQoTGB8kt9a+Q+pSQKIfgGEJiMEDcLBAfsVvw==;pixiOtHNJLTRG+n5IF62hw=="
 ---

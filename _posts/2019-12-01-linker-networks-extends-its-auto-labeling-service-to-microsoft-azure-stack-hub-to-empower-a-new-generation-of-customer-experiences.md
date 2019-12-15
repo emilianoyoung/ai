@@ -2,20 +2,16 @@
 category: news
 title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
 excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running hybrid applications. This integration enables customers in highly regulated industries ..."
-publishedDateTime: 2019-12-01T13:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-generation-of-customer-experiences-1028728025
+publishedDateTime: 2019-12-01T14:11:00Z
+sourceUrl: https://finance.yahoo.com/news/linker-networks-extends-auto-labeling-140000242.html
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -117,6 +113,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "F6JR+DD/66goIptnGtXnoSmFHU7jUulWraBrwWXX73r+8X8yvFaQq5pbQu0p5IYTEe4J41DcEUSAf2w+AVpvCMWN16cS9hyfsS78xo2sSvNEGZiFxBM3G34iAhy4yDe4T/yCvB2j15c7fCd/AnsJ2FNbIWXVHBeSXWXchavoEvBEsIpITs/zr2z8opGnx9noet1RyWZN2Q5M9Ux1Q2finIrZAb3uyXpbeZuyML1HgJGMs7YCA/IfkuKfxDE39gbd/IqAJ0RBF92lRdjNxviofw==;U7NfJlmAHA8S3Z4h3loKew=="
+secured: "6/nMO5CkLlsd5MbQg2yehPXJznFkIE1chgLqgSn58ylpb7XqSgiZxLPQDfdHab2sMy5Zx5PVKZ77ANfOyiV5YtCTRdBsvqzvcgmUUBUdSCEOy7cu3TLC2n/xcAA5kqmXeeWwParQRSE8rCtVQxJgkK2VRc57Fo4gD6ii/1KUE0QE/hb41nsC6fd/1sMj6gW06b89v7dHwxOXuTany5aM0tg2ezS1gDdI5IbWKYVUhlZJIfSykz+Nsd7lKbxazbLnGKovFYIuvSp3mqR0Hk3niA==;3dEM9DwfINrYOtGCA+S3JQ=="
 ---
 

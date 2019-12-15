@@ -3,7 +3,7 @@ category: news
 title: "A sobering message about the future at AI’s biggest party"
 excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
 publishedDateTime: 2019-12-14T14:00:00Z
-sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/
+sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/?comments=1
 type: article
 quality: 67
 heat: -1
@@ -58,6 +58,6 @@ related:
         width: 700
         height: 525
 
-secured: "CdGDI8q0uuyD+StDoJNJHdzflvugFV6adKSMTr9lkWC5TpAWUPzPxUUMYqupLYZ8z6/yQyR7y0aYLON80HVLSrqU8ipJBOFk2d8iO4hbzpTkimFKQJPnbGcbmYzSueMAooLsU89lkHaKxt7OIhX8rGDCCnTciO3pVJ/GvTXD6Fm2UGLq4sZxoQxy79lgR28OxYM7zGX3lfKgc/BSh+iM1w4Uoyis3iQZ2Z7mhGsbYsWChPuvKdgvPX3T/Xl6BXtgeGXxQP53/c0VZSm7LkgMSQ==;ufj/aHAxY7I/nLfRKLR/Iw=="
+secured: "6GC0RMEOMHRZTTJGfks9cLQtanu6uqEpoFRwZHLDVFkHUmJtEOzrUcpuep9EiA82dofPwYNHFH7LvjCj8vQYhkgUzik4zdwDKdgCunQdaHqg36OEgOYhd6wU0YyS0ktJ2A6C4KfFv0BI9clZwwwXO6BFZKEJR/BTiMoLAdooJwXPjd/Zf8tdyP4b7pKGbHFQbJ3Parug6gT5JSHOBmn6q1mOG/5fo2D8pYNujKpJfo3e+XlZ2pGTtMO5kGr2dDIhdu602C73+pd70aUNsRB2sA==;ulaOvTvwbA7TEB2Jvf51cw=="
 ---
 

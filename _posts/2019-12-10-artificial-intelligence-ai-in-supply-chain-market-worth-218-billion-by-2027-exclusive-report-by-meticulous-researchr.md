@@ -106,6 +106,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 9
+  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
+    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
+    publishedDateTime: 2019-12-13T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 7
+    images:
+      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
+        width: 700
+        height: 700
 
 secured: "cEw18GBRGmsFPlb6J8Zq60beasb+ETlz0qVhTalqIQ7MdpRddVIAscD2PYOYIts/3Q2B8bzn2jIUgbhikk8WEQ9qoH5jOIa6N1J+woegMScJZbhGRy4AracG7cWh7f26BxIhSMLh20uPkOxNtJ4UyyWFC/bdUw13pysZwFCUApAnJs0+KqJNjCgbac7jCt2F6xtKDtWuXUIh0zmnXaYAZa88z72LYg6gwAVscRYh9NJiIJs+q8nBLNr6RyBT/igxbsJGaRqNetNNkzjmn/sewQ==;BJtGKCpSXO+uQjcWokJ8Rw=="
 ---
