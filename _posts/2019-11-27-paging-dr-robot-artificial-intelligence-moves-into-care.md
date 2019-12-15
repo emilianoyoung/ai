@@ -34,39 +34,7 @@ related:
     provider:
       name: ABC News
       domain: go.com
-    quality: 74
-    images:
-      - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
-        width: 992
-        height: 558
-  - title: "Paging Dr. Robot: Artificial intelligence moves into health care"
-    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
-    publishedDateTime: 2019-11-25T01:02:00Z
-    sourceUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/
-    ampUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 59
-    images:
-      - url: https://www.denverpost.com/wp-content/uploads/2019/11/57d1c38033b5437a8e260895c5674086.jpg?w=1024&amp;h=669
-        width: 1024
-        height: 668
-  - title: "Artificial intelligence spreading into health care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
-    publishedDateTime: 2019-11-27T07:54:00Z
-    sourceUrl: https://www.timesnews.net/Health-Care/2019/11/27/Paging-Dr-Robot-Artificial-intelligence-moves-into-care.html
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5FD12FFF3F19678FC7332FC31964342A
-        width: 700
-        height: 466
+    quality: 54
 
 secured: "Pfk1r8kZUEhdSignpwHL7YE8g7hqigB0rs97Llm7WwgMiYc2clNfoXBbElI3u4MB5PmPOZondE7Hu/gPZNXMZJ8Zfmz5rSOf8EDM7PO7fE/hZ5xY91OTHcSnzU1MzhlBC741iJziI3R8Zm8cV7R1WwkYlCKZaF6kmqr0U+q9cI9mJGBPuesOVbqcAfPBgqx6JpgtZGJi1JcSggoDol139Cf64TejU316k0TjJuEHUWvON/J48mNTc7yiS6ExLsvGA6NQxMrqygqDdNVdz/+MIA==;0E2taj251kSH2X8+3DzkQA=="
 ---

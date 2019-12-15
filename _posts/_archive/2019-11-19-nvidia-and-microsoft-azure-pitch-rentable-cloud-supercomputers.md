@@ -5,9 +5,9 @@ excerpt: "The trend is driven to a large extent by the rapid adoption of machine
 publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
-quality: 54
-heat: 64
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Data Center Knowledge
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/SC19_Microsoft%20Azure.jpg
-    width: 1920
-    height: 1080
-    title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
 related:
   - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
@@ -38,6 +32,6 @@ related:
         width: 850
         height: 478
 
-secured: "JTljMmtOmJXdQ6TJ5d9sysZJNOMdMePYRt7cSzFSclrAd2N4avJCdzdI5KO7o/OVGEyK1T9TIm+omYByUgCtjPty+t8W9PpGj1uRPEmIBzHTHykx4FZU5o6xzfsLE5+WrY8RVqms6HdqUETQpzULr0tER/EG5yLQS8zJrNfRGQ2fETM34+4PGl9liCJ8S21f+jNWxI8sq6IKP8TNT5uYCJi0O3Kaa41miEpJPykEtmbVG+PeEDQ5DxNQPjYAjK3LTrde7fPU3citoSH3VfhXOw==;fVZqhX7tZ4psnVBEEbbZSA=="
+secured: "y2ZmsQNINFjiQd9hh+b8+pW9/VhaKuKBbredcuNGEs7pGDrzdyhhyB0cHVf+Z77gJYUil6XvO2vta5tsm1tiqaLapioY/NV+/bv7ANfmteB2sCtbEQeLgc4f2aL/LcH6xhKPVkrLPDw9703BbHWHXoNLOafJtOnP7N24i+1w8zTUitB2rYP0X02Gddp8zoYcwe6o2qUNlgkoenVLNgXijFYRBxFoVw5XQleO9PZz6Strfg6rj4S61D/zLkqFKepJM9F4vHsrkmCFBJoo83Xk1Q==;r34+DOtFesAzNoHc3Qgqxw=="
 ---
 

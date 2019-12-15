@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T15:38:00Z
 sourceUrl: https://www.personneltoday.com/hr/recruitment-algorithms-often-infected-with-biases-ai-expert-warns/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,13 +26,15 @@ images:
 related:
   - title: "AI expert calls for end to UK use of ‘racially biased’ algorithms"
     excerpt: "Prof Noel Sharkey says systems so infected with biases they cannot be trusted"
-    publishedDateTime: 2019-12-12T14:36:43Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-expert-calls-for-end-to-uk-use-of-e2-80-98racially-biased-e2-80-99-algorithms/ar-AAK3K6j
+    publishedDateTime: 2019-12-12T14:07:00Z
+    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/ai-end-uk-use-racially-biased-algorithms-noel-sharkey
+    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/ai-end-uk-use-racially-biased-algorithms-noel-sharkey
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/ai-end-uk-use-racially-biased-algorithms-noel-sharkey
     type: article
     provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 37
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
       - url: https://www.bing.com/th?id=ON.2396C472A1D4195F451B6EC4066258A8
         width: 700

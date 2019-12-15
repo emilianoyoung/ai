@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-18T00:00:00Z
 sourceUrl: https://www.storagereview.com/nvidia_announces_scalable_gpuaccelerated_supercomputer_in_the_microsoft_azure_cloud
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -32,12 +32,8 @@ related:
     provider:
       name: Data Center Knowledge
       domain: datacenterknowledge.com
-    quality: 54
-    images:
-      - url: https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/SC19_Microsoft%20Azure.jpg
-        width: 1920
-        height: 1080
+    quality: 34
 
-secured: "EOZKZtOu4wsOuji1AdNW68okh37SyrfHRbeNKIQpVF5iZ9UcK6oykS1/zI0iySTs4N3BXK8B5atfuxt4SfD2apzTAK/nE8HiHtgKZIoQOb00H6RSyXkumR0ad1SjQ2uZgBkS73AlBgiT54GTyNoWMPwsiXkGULVLqJPR/XIU/j6oZQCgzcfUdGwWQULaT1pooPGnm6voqDpmiQoWTrdJzrcd94eFUWt7Bv3Ju0uhQpzm26yNsoCO1uJQEDBLoOVqZCpG2SAadwC9Wvna197zIA==;x/BR9mc/Kv5Nlx89W+ZaAA=="
+secured: "0xyJ9Hlgqy6E0DK32gLSAXysRCq9CAJkG+VlELSwmbwS9NvsEAoRLVbkgiIrFzAY9wOMPfPoh+I1ubRg3p/dX5qcYQnRAqMYMO4JruovUsmdBRT9UuZ83zhg8Y1yu7gvMCV83891tNyOyjIhCisBXl6lpB/J7CtnqYCqY8tA2ih1wKVhY5wPRLqP+0+auE161hJQ3j2MbHySYCh9CIOPs0dGB9wff/Y5wRTlPnTjWleuXQsRqMLhJG/6i6/Q4QCXbVfLAM1cm2wnYPYFKpmbFA==;YXkvKtdS1/hWCtmw6USf6Q=="
 ---
 

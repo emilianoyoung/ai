@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/11/19/bizagis-process-automation-platfor
 ampUrl: https://venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/19/bizagis-process-automation-platform-gets-ai-decisioning-and-azure-cognitive-services-integration/amp/
 type: article
-quality: 106
-heat: 116
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -23,23 +23,17 @@ topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2019/11/bizagi-featured.jpg?fit=1200%2C600&amp;strip=all
-    width: 1200
-    height: 600
-    title: "Bizagi’s process automation platform gets AI decisioning and Azure Cognitive Services integration"
-
 related:
   - title: "Bizagi Intelligent Automation Platform Integrates RPA and Microsoft Azure Cognitive Services to Deliver Enhanced Customer Experience"
     excerpt: "and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent automation across ..."
-    publishedDateTime: 2019-11-19T14:08:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/bizagi-intelligent-automation-platform-integrates-rpa-and-microsoft-azure-cognitive-services-to-deliver-enhanced-customer-experience-1028700410
+    publishedDateTime: 2019-11-19T00:00:00Z
+    sourceUrl: https://finance.yahoo.com/news/bizagi-intelligent-automation-platform-integrates-140000676.html
     type: article
     provider:
-      name: Markets Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 18
 
-secured: "M5aEIZUnN5JpTpI/1lGq8Vmv0jPdey9wthLHODelQPBV/8ICtJRVfBKwfKHmp56EbK/fZELwhHPIzSNWUFyrGvODx7AfEaY9LYet7eOYSKGPVYejhjMQfBrLhJlfm2FYO3ROXReD1Y9JDrM/xcQ5Uc7DYLX8qk7wE8F0MCOQKYVmKhMFcT6j/n9AqbYtpyFurzf9tNZ/CPNspZZwVcYbLyhdFeTstJpKxwV88A14PaOfeh0rlzBdeyUuOwuLV/VA3b0cd62tIQW5E0PuTlK8mg==;XgJG/z+T/xMylzrtRF+nZA=="
+secured: "cNG2/gASxWHDgpxClu1WdI/yf3fVguC3Gux2eBoVhiAbNiadDdvKQrB1yHsYb7sS8qhz9I8N31Qu6gHxJnA1L6zD5Z2xJoBRKgpkHeJ20RlxRa0WH09ycZLX77+Te4tYCV8nKq+F4ohhlQHuGcYo6NSWu4hWtuESTETI5Bic7qAAnmdpUmxd/qpfrf/GMqriMiLOTLLKC0x8l5nRLl1ww/FQgKD5noggLGKc9zewvGADInni/MeGyqNi12be5EMfcnwnZSCDjmLOy//mcxwJ9w==;z9D03btgM8wFdmV1JpSe0Q=="
 ---
 

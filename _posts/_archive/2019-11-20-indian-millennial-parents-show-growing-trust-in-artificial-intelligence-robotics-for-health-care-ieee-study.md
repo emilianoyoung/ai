@@ -17,6 +17,6 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "BNHYet7jY26hCk0Wtn39fYH8sSqKPlu7NTgJHMA+yTvB73qxdYCdTnL8jGWeLRlrI8U0GVVSJuC2gqBf5dqGpT+/iKTni07UwusM8bN4Nq55SAB6Dcy6HiviwrGISg282fPxJhw7E2i92ljHSjFCRUS++HMRm7FcEtg5/MLKFccpefO/q3iEpDwy8Imxq0ei5ooiXIrDA+dQ8HLpaFGBNQN0XbgTJ3QKBTv8lKHZQxLWtlhXXq0HgfC6OLTljrbLykkFLJjDXCgj84wWdSW1Sw==;S8JsJxiDbDM5Jfm3E4xtHw=="
+secured: "dkjMRf9BFtAYKobviEWaMbXzrFeUP9Mc8D5n9OWKO6jkX8XVY05Y8tgs6a61ooLjScIs9g16+focvo3zdmLo3THlI87/tmZaRc7mKn7u9uSA6sf6laIhrwo3QGriWkuuow1UsidCFTGzeAmGSRRYC019WqUeFsSXc9q+/uussCte4LOAzoo0NAgXV6+v/zCTlEm2D8+Gbm3y/CcjFUcnXn+XgZHHI+YeO3Ps+AGlVYMqrXeDuzaxbCDWDNT+CQWQQW7RCgIMfaHsiyeKcdtuxw==;mvxZrmOmjQwBf1goS0+5XQ=="
 ---
 

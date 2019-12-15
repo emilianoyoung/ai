@@ -7,8 +7,8 @@ sourceUrl: https://abcnews.go.com/Health/wireStory/paging-dr-robot-artificial-in
 ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 type: article
-quality: 74
-heat: 104
+quality: 54
+heat: 64
 published: true
 
 provider:
@@ -19,28 +19,7 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
-    width: 992
-    height: 558
-    title: "Paging Dr. Robot: Artificial intelligence moves into care"
-
 related:
-  - title: "Paging Dr. Robot: Artificial intelligence moves into health care"
-    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
-    publishedDateTime: 2019-11-25T01:02:00Z
-    sourceUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/
-    ampUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 59
-    images:
-      - url: https://www.denverpost.com/wp-content/uploads/2019/11/57d1c38033b5437a8e260895c5674086.jpg?w=1024&amp;h=669
-        width: 1024
-        height: 668
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... \"After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might need."
     publishedDateTime: 2019-11-27T00:10:00Z
@@ -54,20 +33,7 @@ related:
       - url: https://www.bing.com/th?id=ON.0E7C8C6B57AF752E0E32F499D5F5E5B9
         width: 700
         height: 456
-  - title: "Artificial intelligence spreading into health care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
-    publishedDateTime: 2019-11-27T07:54:00Z
-    sourceUrl: https://www.timesnews.net/Health-Care/2019/11/27/Paging-Dr-Robot-Artificial-intelligence-moves-into-care.html
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5FD12FFF3F19678FC7332FC31964342A
-        width: 700
-        height: 466
 
-secured: "/yIZfID4T4l26lGcVQK/Tg1CV6Ba4dGYNSGoBuv0lk7fwt7vqvs0z7EVqJXxcT+3tP6kMBm0O2oXfQJNsYUhhDHmd0v6LMFuXra9+RarVMwV886m8u6Jq4Dl4d8EbGg05AOKsgFxDM0XyHLlzCQoDFcUaFJjMGwPLKZPedrc3JbNcnhNl81UI5uucqffG0BLWIF/8Ked0zvrVubYKfJIHtmnqhv+cEKR4anlSciv6hSud435EuUfU1Lj+Id+h97laai1epmmGDWvKewOSS0NdA==;4WPoOmJVUNWveA4PM0R0XQ=="
+secured: "ICyIPP78OP2j9AGyD+nuwwOfMuam1X5RKwt3G+uAnKoMKMqBjXXlwHAPnzOSIc8lr16MJQhmW/GfgNCDkpgkoesXSl5AZzc307/KhrrjNL8fhcePrxo7dR4QaQfInihrT/iJlKpHM/JkmuKm8Z2z6UUr+86lNwzfyBLeyDeb9TaYpuruo/eaIdXHWfqNPdzeV49q1ZwQCC1re3FougXstTOjRqHEy47R9gY6i8gfZmsf1klIbK20jT9H02QQA1j9JvoypPS7RPnBx21Y38OBow==;99uhij0oiehPTNw7J5kDRA=="
 ---
 

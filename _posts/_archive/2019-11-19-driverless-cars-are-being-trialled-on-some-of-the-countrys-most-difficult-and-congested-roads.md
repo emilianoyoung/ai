@@ -7,8 +7,8 @@ sourceUrl: https://www.thesun.co.uk/motors/10377082/driverless-cars-trial/
 ampUrl: https://www.thesun.co.uk/motors/10377082/driverless-cars-trial/amp/
 cdnAmpUrl: https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/10377082/driverless-cars-trial/amp/
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://www.thesun.co.uk/wp-content/uploads/2019/11/NINTCHDBPICT000541231387.jpg?strip=all&amp;quality=100&amp;w=1200&amp;h=800&amp;crop=1
-    width: 3531
-    height: 2189
-    title: "Driverless cars are being trialled on some of the country’s most difficult and congested roads"
-
 related:
   - title: "Driverless cars to hit London streets in new trial"
     excerpt: "A Cambridge start-up has announced that a fleet of driverless cars will hit the capital’s roads. A trial of eight autonomous Jaguar I-Pace SUVs will take to streets across Zones 1–3 in London to improve their learning process. Artificial intelligence ..."
@@ -34,12 +28,8 @@ related:
     provider:
       name: The RAC
       domain: rac.co.uk
-    quality: 39
-    images:
-      - url: https://d1ix0byejyn2u7.cloudfront.net/drive/images/uploads/headers/ws_cropper/26_0x114_1200x629_1200x630_wayve-driverless-trial-london.jpg
-        width: 1200
-        height: 630
+    quality: 19
 
-secured: "4LvtUvSJtCM4DHXiTXike3MIIiAseLZNmN7LKFmoiFeqbzTOqIw0F+sJ5cNyfY60ClgCrBHP27ft/IIdTDx4/hEHbe7MLvGck6cudTBcQ8LJ/CUK/Pc9ee1k6UYu0dF0YcEDTV+Rem3Ke2nEW/Zm1fSfIqu3ccrbVrkKTB4IS3M+CviHfm1mYK4xcYLIUfNv8RqsrXZDRlXaAMqQnUa9bmfZVXzaNu3Z7ZIVNQFiB78CCtQ/zWl1aqRrcBEuVvRi758XPOic54XIT0GbHcAk+Q==;i7aaPyyxbBMmCMM6Oqu3OA=="
+secured: "K/WwbtARoGG+1p5tU5N7axCsb1daL0isjdU/gK87/sm9jio1B//DWJGnxHwUKunBrqsnayE0Ry++9YH5XeYdvCvjSIb99skUsz+Ax2hYe+JqkjzBA0QOSXWN1MnZIICvz2dh8yN4XWjONOVg42VmXTEgxM26ceB++WWLutbyPeW1Y04Z9v/ELOSqF7PQzSwxZpieEh3dCiIfs8D7kkrMo24WgFK3M3ipoUWlDLFLLZAYSVDsVr7ho4ReGVUP9iDkhFO/ywQru1BIYg1rifs8Bw==;XRj/HTCmGDLMTv+VtmQbOw=="
 ---
 

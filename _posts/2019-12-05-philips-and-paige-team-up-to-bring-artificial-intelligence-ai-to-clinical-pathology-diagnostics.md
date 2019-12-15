@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Philips and Paige team up to bring Artificial Intelligence (AI) to clinical pathology diagnostics"
-excerpt: "Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy ... up focused on building the best artificial intelligence in clinical medicine to transform ..."
+excerpt: "Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring ... Paige.AI is the leading start-up focused on building the best artificial intelligence in clinical medicine to transform how doctors diagnose and treat cancer. Based in New York, Paige.AI is bringing together the world ..."
 publishedDateTime: 2019-12-05T08:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/philips-and-paige-team-up-to-bring-artificial-intelligence-ai-to-clinical-pathology-diagnostics-1028739590
 type: article
@@ -21,6 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "wEpqMdYhZqEOZtzs0u90GHUckPaJXbBnd5UE1QCneEY5XIczPCX2fwRUJFYY9i0W+C6PiRlzpngW5YqLOYnFP2ueZj+NWbxqNmBgW89nEQ+wgsyP6050h7tViYybQsFPdbxcsl1GgegGPHioUTuzSJ7qvBpsrGgT68N1fRaa5qrBbmh3MEfXBpq2xUCCR+4DBoBlcE32ATsMcVCQlyTnHcneCUCixW0VKCV1IKPuslvm+kTFWHSqa3OhSJXk+Wu5GsKxB4x1uGB2PLfkFfj2xw==;IPzsiW0IeNe9QzJN2Jk8bQ=="
+secured: "pihoRJlbZnxfIpfWHytByKxqXNIwnZx3WIdIrc3sUacMVIA86mQ/6A50TMYq+5cGUMEAZcUwDbcyVG5UC0QGctB5kEhHnGDJnPRrsYREd9BE3KfAqE+KLseLyqetURzRpviJxFcEtFCST9LxQ2BZpMJBRQBjz8lyub6fnJAkffLb1Gp95WoiVC1lshxDM8QNUP7D8bLEfKcZ0NxVdOuquZJie4VuzWyykaUqOvg5UG2yBvhbo5jOedZQTlyDGSJ0DsJV4Ky7WaRQOAuwKddmlg==;1aXZMxeOO38Zky/DkqpREA=="
 ---
 

@@ -34,11 +34,7 @@ related:
     provider:
       name: Stuff.co.nz
       domain: stuff.co.nz
-    quality: 54
-    images:
-      - url: https://resources.stuff.co.nz/content/dam/images/1/y/1/k/t/p/image.related.StuffLandscapeSixteenByNine.1420x800.1y151w.png/1574635065341.jpg
-        width: 1420
-        height: 800
+    quality: 34
 
 secured: "+0LlVLwgZAXKaOgQrt7sxKQYPFxaHQLv35mOS+tpro4N0yniFfpiMDiIaVr12kwaSkhPDJWaeO13wQzixbjpV6pzyh2DPRtt1X0IT0yB2LNqiYtkm3SYNlsgxmOyHn3y92OF3aVU3Vmjw9QM/0yFrx55Gtv1gGncbFWrMSXUsr63n6lsGpIkNyZyFXi88r3EYbp/BCtsBb2D5wan1mr8ZRW1RW0Hw1v525J+SyLTPy6+CwKX2wdPhgTxN6gO6Yxrmtt7ZHir1dnYMNlHWWf4ig==;ZI+sgDrddnXaHhoB/WpCUA=="
 ---
