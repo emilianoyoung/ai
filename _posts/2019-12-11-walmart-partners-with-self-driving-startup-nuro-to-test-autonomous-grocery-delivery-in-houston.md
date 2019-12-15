@@ -307,6 +307,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DF1A69D494C4D49D8A3ADADD409BEB63
         width: 700
         height: 457
+  - title: "Volkswagen Takes Stake In Self-Driving Startup"
+    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+    publishedDateTime: 2019-12-15T18:34:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+        width: 600
+        height: 375
   - title: "Chinese AV startup AutoX applies for fully self-driving permits in California"
     excerpt: "Chinese self-driving startup AutoX has applied to test autonomous vehicles (AV) without human safety drivers in California, Reuters has reported. Why it matters: AutoX’s move is the latest example of Chinese autonomous driving companies stepping onto the global stage in the race for dominance in driverless mobility. AutoX is seeking to ..."
     publishedDateTime: 2019-12-05T10:24:00Z

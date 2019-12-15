@@ -2,7 +2,7 @@
 category: news
 title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
 excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
-publishedDateTime: 2019-11-25T19:00:00Z
+publishedDateTime: 2019-11-25T18:59:00Z
 sourceUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/
 ampUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
@@ -24,9 +24,9 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.7C13DAF5E4C051E9D1615D7C3E0B6D04
-    width: 700
-    height: 491
+  - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
+    width: 630
+    height: 442
     title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
 
 related:
@@ -46,8 +46,8 @@ related:
         width: 1200
         height: 600
   - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images – such as products on a shelf or manufacturing components – even if they aren’t in its knowledge base. AWS is calling the feature Custom Labels. Anushri Mainthia ..."
-    publishedDateTime: 2019-11-25T18:53:00Z
+    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
+    publishedDateTime: 2019-11-25T18:50:00Z
     sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
     type: article
     provider:
@@ -55,7 +55,7 @@ related:
       domain: siliconangle.com
     quality: 50
     images:
-      - url: https://www.bing.com/th?id=ON.004DD93580ACC7DAD8619D5A7E3D0211
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
         width: 671
         height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
@@ -83,6 +83,6 @@ related:
       domain: pymnts.com
     quality: 39
 
-secured: "tQOkO6RRkYkfyABdPHjtN20TOyPoakYp5iqMp1jucZWCkdzgo1+rR/2oSV1Vn5Tu9PMb3d5iJhv1eHDHqVAE+3Q2ZckXdNPY+PD5tao0j2dnCAd3QzzHt/GtU/XjRrhlqRSN2bJQaBod1CrYAZT8Ou6v+b9utJzq9J2w2Aa2SpTjKM7dPgakWkt0j/CEFPOWAPDA9Zo8X3mHei5GOCs7mzDEprypsZ442bMi30mNtmoYl55KR6r18REz+WaxQT6Xnuz/e3NZYDlBGCqtqCw+HQ==;Z/fvXn1LaYxAEQ2jyhh3Cw=="
+secured: "VXMNGLOyg2F4NbHfgTGja4E5d0729p0ytVv7DcuiqjarOKBHa3KQMJ5PHyudk6EtApQyHQaUR7lCrYQp5TFWHpQRo7gaTAH21kaSqieaFd4zdHY+4o/FxYGUw6eTjoPsoDt7hvoSM1fbogk9TGC7JspDor5O6cVMcb/ebsuH+GfxjvPBqgVGaK1F7eevF9Fhux8ISv39qe+xAaPQKUDZLDmged06arKgtgNCsUDEo51mCKAiVtNJ6GBRHTJPynX+e6LTNIEOKAFgzYqC+9HXLw==;n5W8BjN66z6/AWoOGJwe4Q=="
 ---
 

@@ -58,15 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B56987B5EBB058261D64E7693DCBDCAE
         width: 700
         height: 288
-  - title: "How Machine Learning Is Changing The Way We Invest"
-    excerpt: "2.5 million financial service employees are exposed to AI technologies. In addition, AI will have an estimated $1 trillion impact across banking, investment management and insurance. But is the finance industry ready to embrace AI? Machine learning ..."
-    publishedDateTime: 2019-11-23T03:23:00Z
-    sourceUrl: https://www.fa-mag.com/news/how-machine-learning-is-changing-the-way-we-invest-52909.html
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 4
 
 secured: "hMMGdQvrNbQfU/IgCJWUu0tN1oIyS3ZJ6UWbcAEEJHo6QxiUj0ek/wg2OJErz0sKKIACa1CuOvrOECtE3bSgWeBqZio4ECIX07K1QuM7OlhlpTgOrQ+083JIsHdUHP8d2Pej1KI3tzNwaE4E44T+Cky+6MjJgM+8yVrLB5gRHD2eUyuNrejEVbFCn+q1kuHoWHylmW1TRz8HJWtbmmCBlsb6kpyI9y5OdWURlD+sdx4EmnmaVO3beuQ9HIMqgX1RMxq7cJGrwhjsT2Pu3sNh3g==;KkWjGqnpv+15WdmMW6qJiA=="
 ---

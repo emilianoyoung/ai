@@ -129,21 +129,6 @@ related:
       - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
         width: 636
         height: 382
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
-    publishedDateTime: 2019-12-13T19:04:00Z
-    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
-    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
-        width: 415
-        height: 290
 
 secured: "y+x6eo2lDNMl+DayUaj4X0c8AygFEe6YT5mTaLT0rpgJyFK0b8rUZrQ+3jq5vPeMhDoqys/mXprEHxyOx3f2xjc18HkNERDYejYzw0tSTe4qyraKlLcanRd5uiyFr/vo7hVPekrUPNVPsbQ0HLPEYm+Tfihu6vUl1B5YFg1taIAYQZO20hmp9Ztm3cOuQLEujUCU4e2rv9QgCYvT9LKQ8AgpFpfpeZ2YuAtZ6EC3PEC8+8HRovvWJxMcmauYGA7kHwym+APgT/x1jbJKv1N3Ew==;WDnbZkPYmrzNSY/wBldUEg=="
 ---

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Alibaba-financed AutoX wants to test self-driving cars without humans"
-excerpt: "According to the report, there are 60 companies that test self-driving cars in California with backup drivers. It's not clear if any other units are currently in the process of applying for and securing a permit to remove the human backup driver. The move is obviously, a major step and vote of confidence in a company's technology. Waymo has ..."
-publishedDateTime: 2019-12-04T20:13:00Z
-sourceUrl: https://www.cnet.com/roadshow/news/china-self-driving-cars-alibaba-autox/
-ampUrl: https://www.cnet.com/google-amp/news/china-self-driving-cars-alibaba-autox/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/china-self-driving-cars-alibaba-autox/
+title: "Volkswagen Takes Stake In Self-Driving Startup"
+excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+publishedDateTime: 2019-12-15T18:34:00Z
+sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: MediaPost
+  domain: mediapost.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.783185E2BFDE8EBDCB5803DEF2AE690E
-    width: 700
-    height: 367
-    title: "Alibaba-financed AutoX wants to test self-driving cars without humans"
+  - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+    width: 600
+    height: 375
+    title: "Volkswagen Takes Stake In Self-Driving Startup"
 
 related:
   - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
@@ -56,6 +50,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
         width: 700
         height: 412
+  - title: "Alibaba-financed AutoX wants to test self-driving cars without humans"
+    excerpt: "According to the report, there are 60 companies that test self-driving cars in California with backup drivers. It's not clear if any other units are currently in the process of applying for and securing a permit to remove the human backup driver. The move is obviously, a major step and vote of confidence in a company's technology. Waymo has ..."
+    publishedDateTime: 2019-12-04T20:13:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/china-self-driving-cars-alibaba-autox/
+    ampUrl: https://www.cnet.com/google-amp/news/china-self-driving-cars-alibaba-autox/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/china-self-driving-cars-alibaba-autox/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.783185E2BFDE8EBDCB5803DEF2AE690E
+        width: 700
+        height: 367
   - title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
     excerpt: "The autonomous luxo-barges are part of a test program that hopes to develop a true Level 4/5 autonomous vehicle. Many companies working on self-driving car projects seem to think that people want to be wafted about between destinations in some kind of living room-like pod thing. Sure, that idea will appeal to some consumers but I think there is ..."
     publishedDateTime: 2019-12-09T13:03:00Z
@@ -312,19 +321,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DF1A69D494C4D49D8A3ADADD409BEB63
         width: 700
         height: 457
-  - title: "Volkswagen Takes Stake In Self-Driving Startup"
-    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
-    publishedDateTime: 2019-12-15T18:34:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
-        width: 600
-        height: 375
   - title: "Chinese AV startup AutoX applies for fully self-driving permits in California"
     excerpt: "Chinese self-driving startup AutoX has applied to test autonomous vehicles (AV) without human safety drivers in California, Reuters has reported. Why it matters: AutoX’s move is the latest example of Chinese autonomous driving companies stepping onto the global stage in the race for dominance in driverless mobility. AutoX is seeking to ..."
     publishedDateTime: 2019-12-05T10:24:00Z
@@ -339,6 +335,6 @@ related:
         width: 700
         height: 467
 
-secured: "1AvvgWKtwEQZeS8JqwnnRlaB/SKQ+/J0Vjbq9wgXSLO9WeVAPr5eyDwqoYh5T7BWKDuPEan5nr2NwJfX+Nun60qMdN3KZLsNYXspxccrdcz3Zm8fk4LIO4JEs/laXP6lfUiLLGkKXXfZVRtzeoHf1pwRMNhd/T/cvy1gQwrmJmGylL4HSe53YmQsJ0GvG3hU46zuSkzQeAE+T4HXyCAcnXgtsgYHVf1oS86B2mUr1XiynS4u0wyo49doxz93jZHb9KWNoazyF2pLk/5Gcgp2hw==;Xh25fghf+Jpo6PmraSgUPA=="
+secured: "OysKnH6LgAqTlp7L5O+lYPIFn4VbkHRyIPsA4Ji/7JLJNFqWwHoBaolNWaw1J8rgwU6KtFSnzejvjEBBjge3A2vcagSSSS0dGvYP8ZSitz25eJW6ze9hhL+/L1UC48oJ6urP8y6dSfT4tmOqyobMyTCNFEChVa1X27NvwVnC7i+ceV5AmTFgR9m4i6xo26NS1iMuhgvG5tbgFlQl4vYpGLaf6bOPrH6t/4CE19B4Ivo99nwnHZJvB1tER/modppiMK3fakw3REMktSbrPyP8Aw==;BEVJZwMX89NsWGt04HiHZw=="
 ---
 

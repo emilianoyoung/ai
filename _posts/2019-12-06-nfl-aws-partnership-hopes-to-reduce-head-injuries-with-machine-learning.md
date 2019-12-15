@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
-excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS' VP of artificial intelligence, Matt Wood says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then use the AWS SageMaker toolset to help make sense of it and produce safer outcomes. Story ..."
-publishedDateTime: 2019-12-06T00:00:00Z
-sourceUrl: https://news.yahoo.com/nfl-aws-partnership-hopes-reduce-222422979.html
+excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS's VP of artificial intelligence, Matt Wood, says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then use the AWS SageMaker toolset to help make sense of it and produce safer outcomes."
+publishedDateTime: 2019-12-06T00:07:00Z
+sourceUrl: https://www.yahoo.com/now/nfl-aws-partnership-hopes-reduce-222422979.html
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.34F1CC9919F8CD3D45196F11E672FCDD
+  - url: https://www.bing.com/th?id=ON.B53B6861EBCDEFB70D320D6369F0FD41
     width: 700
     height: 525
     title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
@@ -64,6 +64,6 @@ related:
         width: 700
         height: 393
 
-secured: "ePADzmoFtk4Vroh1ezAVC8XENDTZg3GE3OiFxEO9bpLT0MP3LM/aUoZiK7SWJxtC3OvvKrkRPeO+AlYAUTHUK1AJr//hHgC6BihS/tUYilgHC+P8ta5QcAfe/C8RxBGmyGzhA2AYdmdbryL9mnim6tfbkS8m1XqlMcQ/CFqEXESjd2RBFtSdZqVb+eAw4mqvCb8pWDtFDr1fIcIuJuyO/OFe5KB8UfJAkUvDfci6AdIb/YIqe5pEi9kO5N0sI8b0K/BNXy8wJp1ZmddRdwIDEw==;N4sIV0oCVSS9qlqY/f+Emw=="
+secured: "wwgWK+2C2ci/PP0CEnjgYpdcd+sXG+R/w2vX0DgEpgUqNXUahvOCJ/awCvWMfuKUMdn94viS1irn292KI3lKr/0OMnJYcj5gMs+o6sbLktM7HnQ24dl6iapdshwHwG49ftFldmSJ6sc06C3d8ixHZLUhz4UWIrVM64lKagZ649IaiJlR7/6w39CN1GkZlxh111xPXF168eXxME5CjlhtXtnKL2w+U+eItVJlodf3Kf0gGMpKbHLEXeXluUKrGyDcWkur2+/3i5WFyiAQaeAGrg==;SU/xeoSvBA304H3592Iebg=="
 ---
 

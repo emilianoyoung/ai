@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/11/27/how-rossum-is-using-deep-learning-to-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/27/how-rossum-is-using-deep-learning-to-extract-data-from-any-document/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B56987B5EBB058261D64E7693DCBDCAE
         width: 700
         height: 288
-  - title: "How Machine Learning Is Changing The Way We Invest"
-    excerpt: "2.5 million financial service employees are exposed to AI technologies. In addition, AI will have an estimated $1 trillion impact across banking, investment management and insurance. But is the finance industry ready to embrace AI? Machine learning ..."
-    publishedDateTime: 2019-11-23T03:23:00Z
-    sourceUrl: https://www.fa-mag.com/news/how-machine-learning-is-changing-the-way-we-invest-52909.html
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 4
 
 secured: "77j2VlNwmyy+EodZ1MdnXITYv2+MFXcd4bxL40AV0C4HyZ0zKaSq/Ebi1VK+gCvVPyAtu+mW0Rv/09FsSWMX2GlS7P2RD63WOT7NNHl+dgBlRICS5aqvG2qMhTghWibHReFmVgP+jB22VfVBaH/hddF4+L4zR51Ix1s8VQt4EuB+W1xLB0UkHx7GY0DZhSubz2JzRbjOs6q/FFn+J2UIAvCWeiCSEVm8mcdPr5eQKoxjQwOlPeTRdTHZ+gsZcTYi55q+XdjI2tfIIxTumUNxTA==;W4t8k+350UodgQvX8xvkvQ=="
 ---

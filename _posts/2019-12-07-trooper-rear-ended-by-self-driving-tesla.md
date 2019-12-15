@@ -189,19 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
         width: 700
         height: 390
-  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
-    excerpt: "A Honda (NYSE:HMC) self-driving car is going to show up on roads next summer, but not in the U.S. Source: Jonathan Weiss / Shutterstock.com Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and ..."
-    publishedDateTime: 2019-12-13T18:19:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/honda-self-driving-car-debuting-next-summer-1028763245
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F8461042852C94EE82D23636855D5136
-        width: 300
-        height: 169
   - title: "Advocates rally on Capitol Hill for self-driving car legislation"
     excerpt: "The push comes as lawmakers are circulating draft legislation on self-driving cars among stakeholders after long delays but with no bills formally introduced in Congress. The advocates, brought together by the Coalition for Future Mobility, warned of the danger of falling behind the rest of the world in creating and testing these cars ..."
     publishedDateTime: 2019-12-03T22:48:00Z
@@ -262,21 +249,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
         width: 656
         height: 492
-  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
-    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
-    publishedDateTime: 2019-12-12T14:03:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
-    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
+  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
+    excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
+    publishedDateTime: 2019-12-13T20:19:00Z
+    sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
+    ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
+      name: InvestorPlace
+      domain: investorplace.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
+      - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
         width: 700
-        height: 350
+        height: 393
   - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-11T20:24:00Z
@@ -460,36 +447,6 @@ related:
       - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
         width: 700
         height: 466
-  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-12T20:20:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
-  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-13T17:32:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
   - title: "25 MPH Self-Driving Bus Moving Too Fast for Spokane"
     excerpt: "Three of Spokane’s city council members voted against the slow-moving, self-driving bus, Olli, on Monday, which halted the pilot program’s progress. Now, the fate of the two shuttles is uncertain. (TNS) — The Spokane City Council hit the brakes Monday on a proposal that would have brought a self-driving bus to Riverfront Park. Had the ..."
     publishedDateTime: 2019-12-03T22:36:00Z
@@ -553,19 +510,6 @@ related:
       - url: https://www.bing.com/th?id=ON.720095D5EECFE46B168B1A01DCF224B2
         width: 700
         height: 367
-  - title: "Collaboration is key in the race for UK self-driving success"
-    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
-    publishedDateTime: 2019-12-10T14:55:00Z
-    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
-        width: 360
-        height: 290
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z
@@ -618,28 +562,6 @@ related:
       - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
         width: 700
         height: 319
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
-        width: 700
-        height: 413
-  - title: "How AI shifts enterprise decision-making into self-driving mode"
-    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-    publishedDateTime: 2019-12-12T18:47:00Z
-    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 19
   - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
     excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
     publishedDateTime: 2019-12-10T18:56:00Z
@@ -666,15 +588,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9F62A2BD3E5ABB4AE173F4F5BCF764C
         width: 700
         height: 393
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
     excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
     publishedDateTime: 2019-12-14T13:41:00Z

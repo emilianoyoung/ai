@@ -321,6 +321,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DF1A69D494C4D49D8A3ADADD409BEB63
         width: 700
         height: 457
+  - title: "Volkswagen Takes Stake In Self-Driving Startup"
+    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+    publishedDateTime: 2019-12-15T18:34:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+        width: 600
+        height: 375
 
 secured: "E0x6b4wXNat9bZoHdOOakZd3G68HMrLjp58ChAYoqOQTgh0HIUplbohCUe2zIi42qbQTneir9wsKPNAvgdosChsntUmAE1ecUAnUAU8wEORfaMYCZsYI/jaTh/g43T5fYerqPFBTVrOaEgBM47UHyfe2YzABpnuNv80GIzlh4rkRImiblITYkxxeCwrDAETR/JuyVnqNd0uhDAZII5L2eOeePp3Y2/W4tCSPUiksT0LHO4bO2UB7r3ZZVtDM+T48CD4QIJtQ745V79LY2Mc1ng==;/s3dKVZdkSwpj9fsDoKCGw=="
 ---
