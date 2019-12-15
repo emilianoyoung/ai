@@ -2,22 +2,16 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:00Z
-sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+publishedDateTime: 2019-12-13T18:44:48Z
+sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
 type: article
-quality: 88
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -74,6 +68,19 @@ related:
   - title: "Emotion recognition technology should be banned, says AI research institute"
     excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
     publishedDateTime: 2019-12-13T12:16:00Z
+    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 135
+    images:
+      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
+        width: 700
+        height: 393
+  - title: "Emotion recognition technology should be banned, says an AI research institute"
+    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that machines can work out how we’re feeling, emotion recognition is estimated to be at least a $20 ..."
+    publishedDateTime: 2019-12-15T00:03:00Z
     sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
     type: article
     provider:
@@ -481,19 +488,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
         width: 700
         height: 367
-  - title: "Emotion recognition technology should be banned, says an AI research institute"
-    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that machines can work out how we’re feeling, emotion recognition is estimated to be at least a $20 ..."
-    publishedDateTime: 2019-12-15T00:03:00Z
-    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
-        width: 700
-        height: 393
   - title: "UOB app-only bank TMRW introduces fingerprint and facial recognition for account opening"
     excerpt: "For example, a small percentage of customers using fingerprint biometrics to authenticate their account at TMRW kiosks found the experience not seamless enough so we enhanced this with the latest facial recognition technology to ensure a smoother account opening process for all.” TMRW enhances its suite of features beyond biometrics TMRW’s ..."
     publishedDateTime: 2019-12-09T15:41:00Z
@@ -530,6 +524,6 @@ related:
         width: 600
         height: 295
 
-secured: "iDa+jPgGR229P+fFRkz2urSdH2T0rTXNDxlavbZIbzz0MK88UEAInTuFP+H9sTW4StC7eeTEcVm4n0VvHslN+VKT509aZqhhmxXRcjm0zMJqSgO7Ru/yB7s33xn82HZD0nyb9UePCXOIK7OowI/NeMkBwJyjZiSeuD4GJWRnwEx5qvPELj9/sIeys6wvtnOA/0TapbCC1NoIh7FKO8oNDufkPBEs67ah5wjjDJ53ITJdQH829Q6LFkQ/8F3f/06DJYDnJQCsDvwA49r9Qy3ggA==;uY8MM5OzTEN+90snyBn5lA=="
+secured: "xLENuw0jt4kAG0H3pJdSf71uieQgqnprBI50JlbTXHEBEQNGCbwaVZ33Ty3mjgDcDd2Y8JAgAWk+mAJEi7xWgYs40gyBGMykxr0No11UlBc35WEQIZmdawWdDoA1EGG6hYDAdyysUSVlcnsra5SDSCb633dhRBkMlUbeeaDm94X6GT3PCZp6X0VJHPW7totT2uvMlY7mZ3o6AyEYr4h5YHQgJqedWr7kDQR69j/EZNHNhE+x19D99Tw3vj/71EDpAufmNGFKSvJcePXgqnmdwQ==;FEhwJQ0aAZBU595uRr7PrQ=="
 ---
 

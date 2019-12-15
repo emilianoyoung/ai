@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7E12091C26627051A004EF4FF4482BC5
         width: 700
         height: 466
-  - title: "Financial services take lessons from machine learning"
-    excerpt: "Together with developments in machine learning (ML), markets are changing ... A 2018 Deloitte study outlined concerns around analytics and AI in financial services: “The heightened ethical responsibilities for use of data includes how data is interpreted via algorithms. This requires an understanding of any unintended consequences and ..."
-    publishedDateTime: 2019-11-25T13:36:00Z
-    sourceUrl: https://www.bobsguide.com/guide/news/2019/Nov/25/financial-services-take-lessons-from-machine-learning/
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D6EB2930F1925580CE25A8277F05AFCC
-        width: 500
-        height: 375
 
 secured: "zTmkT4nWRe/DwHrhA8IK9n1YAv0CnDp1kfMUTIr8ERFCYo7pFQAmasrSvGhNjdJD0bLzG4+VUYRbsjQuwvG9ldRGZDF9QNedd1JDpc2yCBw05+rPFQEURwPfvepMeAvqTe1Iwr120UzKtONWLCn5Aoxu5lgRWR/VNlhY+vLb/hQiybYGCiE9v79zTlNfRuGYv+q9iyiP0RBKDd2m7c6AbDPSyPUXvRGIPB6mWs1fJB9PaQOf7z59oc5vF4+R3q4UwG9CrVIWKhg3o/wxljQyQw==;vidAR/V8N1RzqBiSsPbXQg=="
 ---

@@ -37,19 +37,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Introduction to Intel Distribution of OpenVINO toolkit for Computer Vision Applications"
-    excerpt: "Welcome to the Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications course! This course provides easy access to the fundamental concepts of the Intel Distribution of OpenVINO toolkit. Throughout this course, you will be introduced to demos, showcasing the capabilities of this toolkit. With the skills you ..."
-    publishedDateTime: 2019-11-25T13:29:00Z
-    sourceUrl: https://www.sakshieducation.com/Story.aspx?nid=250368
-    type: article
-    provider:
-      name: Sakshi Education
-      domain: sakshieducation.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.FA7BA0DDE03133E3069AE59F52AE0F24
-        width: 200
-        height: 150
 
 secured: "nedqMCw1Rac8Yy919/28uqZgHfN70qp1z16q2aMhCi1/yfQR0Nv4T0/S0k+HI/759tqlR0rHMM8434HtXGukI+Iv08IngbOYQ2o1oTa0ZDhr+nX6TZHv9fZLLqzilsiC51zpL09bfFzr2cggNkLGfYv6XLG1Sgc2Xlk0uvGJd4TMpjPllsov3OdwWdZTKs8ZTPffrKb2IMYsa5enPt6rPAkGmYfCsXknR+Qqu4X1B0vcZpUmyLPSvueetaTZcwfU+zMjOCbR5qne1BM7Q2q+FA==;9qS4vXODqslRc4PrLLqOOw=="
 ---

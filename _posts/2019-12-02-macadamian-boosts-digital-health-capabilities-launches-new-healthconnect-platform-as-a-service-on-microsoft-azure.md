@@ -90,14 +90,16 @@ related:
         width: 400
         height: 200
   - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+    excerpt: "Paladion's full-service MDR solution for Azure now offers automated support for a rich set of sources, including AI models with this product update. Paladion, a global leader in AI-Driven Managed Detection and Response, today announced that it is expanding service offerings to include fully automated zero-touch onboarding with Microsoft Azure."
     publishedDateTime: 2019-12-10T10:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
+    ampUrl: https://amp.benzinga.com/amp/content/14960691
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
   - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
     excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running hybrid applications. This integration enables customers in highly regulated industries ..."
     publishedDateTime: 2019-12-01T14:11:00Z

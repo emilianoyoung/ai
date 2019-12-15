@@ -5,7 +5,7 @@ excerpt: "There’s little scientific basis to emotion recognition technology, s
 publishedDateTime: 2019-12-15T00:03:00Z
 sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
 type: article
-quality: 35
+quality: 135
 heat: -1
 published: false
 
@@ -93,21 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:00Z
-    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -466,6 +451,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
         width: 700
         height: 466
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:48Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z
@@ -526,6 +524,6 @@ related:
         width: 600
         height: 295
 
-secured: "cgkgeHa5ExIFCL9zZ89BCbd2XVNmQVBp94zmsZzHgGxp1fnYd7k2BpAIk112G+QkaFSIt8yt+OAC2MazeC2Fq58bJ2tFVPqEiZGhLAgeCoYjI0exwZ5rUHE0WdUsgxYIHz+wAAHhj/O0UR+BjgxNkc2AXEv17pA+uPS1rBcY3EQ2G0OxmLcanb/9MGwp+qnGApc71wvRAlBOBajWUeIClKuNqhwXlcBNbMWzJqMrrr4CUDi3EH7ql6R3wgOwlbLLTsZBEmQdkVtfERcz5btpZQ==;bRyKqcrGx2895L8R3wAmaw=="
+secured: "mE9E1NEqDjkTAtBWDN1ewvj1g+tJyucDTNiQvNrJf1OdQb24S2qNxzQKIRQLz6u7iuTGWwWmN/THyNOdg0oI/6LIrmbiYIae3gp4KRNAf2cP55ug3p++VKxABHK7USTtTHret5nIu15HvSpft0aFARRBQalLqEv3oUKwHOQioCbFCUzE7nmWURi+OVMWgc9lDnLNCCmGJojFhkrwdNtoIbz3GC8o2ij9JAKJZsLlla10bz3cZrZCG5q2ujjuFbHEZFj4GrI5IjLyrGpRN70+I1nG/lopWNV7U9LjCBps0ps=;uCQFtgFXzxCugrs8NjxXuw=="
 ---
 

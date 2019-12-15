@@ -111,6 +111,6 @@ related:
       domain: telecompaper.com
     quality: 31
 
-secured: "pPFyA4D7AQULLs15Kv9kUcRjja8IZmANrQbYEx0GxnUy7nRnvLiisaRObJElmpdTNM06TTE5FISUUaqCooAX/fPIoPoWonHZmZqtS2zs6SV67vWVgCVMVHxupn3qb4WUP6u2l3LtXrhmL0rbvi4BP+j60ae3bA000S76WSq7TbgQah9r6xy8guTw/rPMWrNgjXUQ0avFZeUT2mazO3/5bOnJ+mONsHZBLAqZ1HtMap7vOnyKcXfu+52KUaoA2zFAeTusIbTDAaT5sdZcre/Fsg==;8uHZTYTX1XO5fux2UAujuw=="
+secured: "7kfiMRzz/Os2q0iCisow5x7L/ZgW3mBf+6hXCTqaPi2W2dIGvvg2Tdh8vA4Hu0sHMFq+ehshhCNyF3zxVxDm8WMDVP90Y+81bvI31BgJc5fR5zXra9/R0ZsWOuSJTWwfR151k1eIxGOnBZOkne0xSt0EhjQdtwwItbdMmWxvcBC8JIG2Nc6PTp4Oo4UGSRGpv5bU7VZ2wED+Op1pbDAltQa2B1lGsmQ6bYo6mzoeR09Nw44INnW7MA3Xhz/Ief2MXWbsv0quP54kPZLBLznIWw==;+y7de2YZDLaSV1sxrS+vVg=="
 ---
 

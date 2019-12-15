@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "NTT takes enterprise aim with Microsoft Azure as preferred cloud platform"
-    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cyber security and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” From a ..."
+    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cyber security and hybrid cloud, as we work to ..."
     publishedDateTime: 2019-12-11T22:38:00Z
-    sourceUrl: https://www.arnnet.com.au/article/669630/ntt-takes-enterprise-aim-microsoft-azure-preferred-cloud-platform/
+    sourceUrl: https://www.arnnet.com.au/article/669630/ntt-takes-enterprise-aim-microsoft-azure-preferred-cloud-platform/?fp=2&fpid=1
     type: article
     provider:
       name: ARN

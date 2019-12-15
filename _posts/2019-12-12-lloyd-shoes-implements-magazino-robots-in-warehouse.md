@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T12:55:00Z
 sourceUrl: https://roboticsandautomationnews.com/2019/12/12/lloyd-shoes-implements-magazino-robots-in-warehouse/27374/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 700
     height: 398
     title: "Lloyd Shoes implements Magazino robots in warehouse"
+
+related:
+  - title: "6 noteworthy developments in mobile robots from 2019"
+    excerpt: "Although the agriculture sector was not among the early adopters of mobile robots, that started to change in 2019. A prototype robot called Mamut uses artificial intelligence to collect data to keep farmers better-informed. The machine can make real-time route changes based on things such as changes in crop growth. Since the robot operates ..."
+    publishedDateTime: 2019-12-15T13:44:00Z
+    sourceUrl: https://www.therobotreport.com/mobile-robots-6-noteworthy-developments-2019/
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.E36226926A0858375C018F4FE5C761AE
+        width: 700
+        height: 494
 
 secured: "CItiAXdx9y8jZNQkNqZDw7gvjWR48VVC4nTo0bj716pZji7r8sQiLQbLUBEpLnIfU0gjrJMOXsbgCBRWYShzIXbb+V3EF58hAf1UsK8lBNqrDCXNT5K3/k8qEz/FlnfscA1N/GWy7/wOqxvCXZM0Nc8CN36rkQiqhq+KolWaEwEr46qJQiiyKnRhDy+yophZGi90Bb5VjLT2NQRQKnoo8hGCKI3ayv2T/5cBBJj36LQQdBNhws4FJtzGZ2DrFE5y0N0JuGL4clJi6/Ofvr5LLw==;g7TYI0Ggd1PxmQVUzK8NfA=="
 ---

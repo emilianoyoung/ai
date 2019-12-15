@@ -26,17 +26,6 @@ images:
     title: "Russia’s Sberbank pushes into driverless cars with AI joint venture"
 
 related:
-  - title: "Russia's Sberbank agrees venture with driverless technology firm"
-    excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
-    publishedDateTime: 2019-11-28T11:07:00Z
-    sourceUrl: https://uk.reuters.com/article/us-sberbank-driverless-deal/russias-sberbank-agrees-venture-with-driverless-technology-firm-idUKKBN1Y217X
-    ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
-    cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
   - title: "Russia’s Sberbank moves into driverless cars with joint venture"
     excerpt: "computer vision and artificial intelligence,” the pair said. Financial terms of the deal, which is expected to complete in December, have not been disclosed. The new venture will be headed by Cognitive Technologies founder Olga Uskova. Read more: O2 steps into 5G driverless car testing in London as it grows mobile customer base Sberbank has ..."
     publishedDateTime: 2019-11-28T17:49:00Z
@@ -52,6 +41,15 @@ related:
       - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
         width: 700
         height: 455
+  - title: "Russia's Sberbank Agrees Venture With Driverless Technology Firm"
+    excerpt: "MOSCOW — Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday. Sberbank and Cognitive Technologies have ..."
+    publishedDateTime: 2019-11-28T11:06:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/11/28/technology/28reuters-sberbank-driverless-deal.html
+    type: article
+    provider:
+      name: nytimes.com
+      domain: nytimes.com
+    quality: 49
   - title: "Sberbank partners with Cognitive Technologies for self-driving technology"
     excerpt: "computer vision and artificial intelligence. New Delhi: Russian state-owned banking and financial service provider Sberbank has joined hands with Cognitive Technologies, a software developer for machine vision and autonomous driving, to develop self-driving technology, informs the company in a release. Sberbank and Cognitive Technologies have ..."
     publishedDateTime: 2019-11-29T06:38:00Z

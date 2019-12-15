@@ -5,8 +5,8 @@ excerpt: "The need for an AI-powered compliance platform emerged after AB InBev'
 publishedDateTime: 2019-12-13T19:44:00Z
 sourceUrl: https://www.businessinsider.com/ab-inbev-brewing-artificial-intelligence-to-spot-fraud
 type: article
-quality: 48
-heat: 48
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,7 +19,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.608FCCD675B0E81D777E4876A75A8F49
@@ -27,6 +26,6 @@ images:
     height: 350
     title: "How $132 billion brewery giant AB InBev is using AI to fight corruption and spot business fraud around the globe"
 
-secured: "EWBqcC0NJvIdW7bTe63LoW/aKUFb2beWtIgzc5/wwmuCh1LwIlipsGYNeF+JTDRFt9lEUxz1B81lCmQypd0/2pzdQ6pId8y5PnsPuTdXJQwVktiWkhuAbMnT7XQqDZ2/HocfkmwvTU3NR2stew0oIFhsYvyXBOn3RnwK3pYxRr5uKoEEPPU5F6fUQnmmT9Pw1mCVsIW28hjO2u4d85iWm5ingukky0G6tIwwrNQdxhIa3gkTK5qJjSVm0DYAC/ClkCP3igyfLPb4o6vStjv0Rg==;eo8ZWr6030QyrCBeoA6iIA=="
+secured: "VSlODWS8kcUgfASPQL/FjslWgqusukF0uVY4s06NJ+9MaBe5O8jUWgyy0+9RRYnTM+HBgxkKHTN6RefiD12eX2PxI8bgvA/lHEJYAKRGIi5Pc5xHqksaEl6DIYszSgIPfw1nlmWF7otl7FcurWlJdZLOWEc5EKm6t35ZcDGi4Jt/0XHngAUGkPqRXYTMhDYAmFEdmkRuzl4iZTKkqq5KQJgMRtApo13TeTnmimPm6vujeKBuDIpS0T0QY3LrJzBYOzlPDlnk9+vCHdOMQWGzJQ==;ayu1ekWXezk4bOUkv2RAPg=="
 ---
 

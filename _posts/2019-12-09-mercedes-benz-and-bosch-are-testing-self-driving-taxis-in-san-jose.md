@@ -679,6 +679,19 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
+    publishedDateTime: 2019-12-14T13:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.8A417CEB957C4E0F0F58FC2620E4FE61
+        width: 400
+        height: 229
 
 secured: "VQpvbK6xApdiLEwlmprpr5q+ilDvSDxO2p+DF+kqAxXYA6llmxQ0gPCTWknpvWj4m2BdUhnz7+cI2pFzZVvjjrGdScc3MwikpSHdm4PAjAdr2LSw7Pwjl4yIRzaLUlFUIEslfBGA9yymqsZIpu4ItVvUw4v3j7BwFmmyQMfndK5LIxRop7KINcDQnh3wctbRoqNPgPvF16dqRECqCZUNj7n5svK6qckhlV2NAyGAh6KzkYA+CtLWsbkPr8UM4GqFb5IgA0ibSiEvADNL83kfbg==;UZ306g1QiTh5GxmH6x9ZJQ=="
 ---
