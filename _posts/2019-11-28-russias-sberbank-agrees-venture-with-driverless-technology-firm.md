@@ -13,7 +13,7 @@ provider:
   name: nytimes.com
   domain: nytimes.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/nytimes.com-50x50.jpg
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
       width: 50
       height: 50
 

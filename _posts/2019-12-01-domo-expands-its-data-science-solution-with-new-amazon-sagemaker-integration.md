@@ -13,7 +13,7 @@ provider:
   name: Bloomberg L.P.
   domain: bloomberg.com
   images:
-    - url: https://ai.insideout.app/assets/images/organizations/bloomberg.com-50x50.jpg
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
       width: 50
       height: 50
 
