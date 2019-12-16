@@ -3,7 +3,7 @@ category: news
 title: "Synthesizing an artificial synapse for artificial intelligence"
 excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain ... The application could lead to the wide use of AI and revolutionary advances in cognitive computing, self-driving vehicles, and autonomous manufacturing. In addition to the research component of the project ..."
 publishedDateTime: 2019-12-06T16:18:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/uop-saa120619.php
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
 type: article
 quality: 39
 heat: 39
@@ -51,6 +51,6 @@ related:
         width: 685
         height: 505
 
-secured: "X9EjiqsUvEbNhdjYlY9hDy3ipo4z433jlRsm/um33Bg90uDQJSmC5FVGkbZwo9faXQVNMzl4DE+cPzcW0bfJtnTRbZEyc8P7M3rW2wZhlqhkziiQk9hHa1FAVa70VTJkTTL4LCNshG7LSiRA/Fz5DUZJyfLZhzy3XfB9cBEOVdQk3qizeI5uVAhfLv87zgdAcISQRi1Te+Zrp6gQOS3bGVe/27tOLcblKFqGjQCwwlTajOXNwxIp8LQRYi8RPD435ZuZ2KDObPWtsdq1dWchdg==;00x5aSg6trj8bb093rQ2bA=="
+secured: "h9rmmXBzp+ppXYYXqpg6MLZevLDOWS0DbVZkMklgBHTjqkIBh+CcOaCwE/waVN5+EpeoMQhKhMP5zYmKQJDYYDxElQaSCVJET1lmrUTM5CyiSGdiHKsQEoP41JZO8v3V+boHR/bPvdU0+E5PL8EN85FMF0wHx1UGAW7EGt9cNgIao1bPiJlP/hKKXBaLZkWlaO/lEqpgqaZ6ls0q+07GEMNhy7Jlrf/5WTDrHDnVy70eLVSWUGqZLqe+l0RgYY6CICdEJFbYKaXBQs+AgCdg5Q==;hzmDwFUT+IJglCnAi80Qew=="
 ---
 

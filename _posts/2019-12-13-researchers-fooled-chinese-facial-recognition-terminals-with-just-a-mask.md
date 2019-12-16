@@ -2,22 +2,16 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:00Z
-sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+publishedDateTime: 2019-12-13T18:44:48Z
+sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
 type: article
-quality: 88
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -511,6 +505,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
         width: 700
         height: 466
+  - title: "Push to rein in facial recognition stalls"
+    excerpt: "Facial recognition freeze: House lawmakers say the bipartisan effort in Congress to limit federal use of facial recognition technology has stalled because of impeachment and the passing of Elijah Cummings. — Industry ready for next U.S.-China deal: The preliminary U.S.-China trade deal isn’t soothing the tech sector’s worries about ..."
+    publishedDateTime: 2019-12-16T15:00:00Z
+    sourceUrl: https://www.politico.com/newsletters/morning-tech/2019/12/16/push-to-rein-in-facial-recognition-stalls-783738
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
+        width: 300
+        height: 250
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z
@@ -592,6 +599,15 @@ related:
       name: Morning Call PA
       domain: mcall.com
     quality: 18
+  - title: "Research: Students of color at greatest risk for facial recognition errors"
+    excerpt: "As more schools adopt or test facial recognition software, an MIT Media Lab study calls the technology's accuracy into question, finding only 35% accuracy when scanning females with darker skin, District Administration reports. The schools using and testing the technology include Lockport City School District in New York, which uses the systems ..."
+    publishedDateTime: 2019-12-16T15:15:00Z
+    sourceUrl: https://www.educationdive.com/news/research-students-of-color-at-greatest-risk-for-facial-recognition-errors/569115/
+    type: article
+    provider:
+      name: Education Dive
+      domain: educationdive.com
+    quality: 17
   - title: "Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID"
     excerpt: "When Apple introduced Face ID with iPhone X using their new TrueDepth Camera, they instantly leapfrogged their smartphone competitors that were relying on 2D facial recognition as the biometric standard. Only larger bulkier systems like RealSense or Xbox's Kinect were using 3D depth methods. Apple was able to shrink the technology to actually ..."
     publishedDateTime: 2019-12-13T21:18:00Z
@@ -606,6 +622,6 @@ related:
         width: 600
         height: 295
 
-secured: "00fIweOhdgR6QkuR5qXZcqtP5gFxQEAKHMFLe9Y8wm3LZgNFf1a9cVmEoDT8Y0cONEWuyqwvclAiKkV9qKEomEK6Yq1s4wrXpVick4vmuEicWoDY4ywRq6GhuAQtuhzxSvs3TXWggfoj+Zz9jY1F6TjMsRS+bFpoT3pJBORVjeUoGQYSw22dIju5GIJoMQeEYI7KltvZTjrgPmgiVNmFwxmByrBPLCiNEcPpZPVCPQZxQpkqOr9EzoFGzwsTLltIXdyfLXs47pPF+YhNLuRPAw==;4Gi7EAc3bsnQPgeTGXqtMw=="
+secured: "yXQgRai5P47EVT6i7t1UDUHXnFNhED8BIwAkvWBvuPCMpowxvpWYRw6BKEd6AtFF6xjtCIWNkWGmIy5Lx6r+TxgMng3xvNQcfIQx+IvQUo8tVAQEox1rM2e+urK3/wO846QkYKD8/la6GZ6vYr4FTfDkJ9vpOgZcaYuAuREnOLlCgUQZfLeiujv0NDsCuFGQOR8/HzGpgtS0yK5RnzgDYGUCwuqRilC4TuXwtdEEzE6rRDB2SO0DkP9YO112zq5Vf6rx5gtigev0RnciHvHaTA==;oG+8OwrKKE72hvjCK2yvlg=="
 ---
 

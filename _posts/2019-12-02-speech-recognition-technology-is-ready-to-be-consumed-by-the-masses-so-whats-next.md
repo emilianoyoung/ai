@@ -23,6 +23,21 @@ images:
     height: 393
     title: "Speech recognition technology is ready to be consumed by the masses – so, what’s next?"
 
+related:
+  - title: "Sensetime-led consortium to set up standards for facial recognition tech"
+    excerpt: "Details: The working group was established on Nov. 20 and is made up of companies including social media and gaming giant Tencent, Alibaba-affiliate Ant Financial, smartphone maker Xiaomi, voice recognition firm iFlytek, and surveillance equipment manufacturer Dahua Technology, among others. The group is led by Sensetime, the world’s most ..."
+    publishedDateTime: 2019-11-27T09:41:00Z
+    sourceUrl: https://technode.com/2019/11/27/china-tech-facial-recogntion-standards/
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.A2C155CB08A65503E3B906A389B0FFE5
+        width: 700
+        height: 490
+
 secured: "ByAoG/BRSRoJpB3kCmgkoORpLC0zq+txzj60jrN5+8yBbgwrycIOOjKVnDXBoY4Fe2f5ULppnS1zL2Mt8NFhFjnUQMJ5j1wIEWZyLAD/dRKVMO+8Mr4Azr1U6kJI9GVWqaV4i/ToO/YCWA0ZGKPiUrSMWPu+2Oc9It2MLKS3rMvfKfsjR5UqqC6c9eI5+ioch7mEM52cI1+XbSRfZNMdOc8Wybxx8bgF0gN6J15W6yZpX36pIS7DdaNUdXcQKc/It8RHXKuvLicgP0SwQfAshA==;TTnHYB79vNCbIQQ7pWU83w=="
 ---
 

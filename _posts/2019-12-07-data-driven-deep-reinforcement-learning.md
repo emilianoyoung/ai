@@ -179,6 +179,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AECC42FCED6EB1A44F43EE080F9A2206
         width: 700
         height: 466
+  - title: "Concordia researcher applies machine learning to financial risk management"
+    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
+        width: 700
+        height: 558
 
 secured: "M/rOvGnZXO84KysU9kb20trlA1zV7wJFM2h/ZxXIk/ntvi/uM+tuMuYy3BQq/4gWIC6hloQKxkJt92ikrkO7SxrT47G1CEFNivuC0kRmZNMKwS78q84Rfdx8FC+TcCyBCw0knYosgj0C/lu/KjzxIsKMyYUZ60uaPYiEM0uHums++Q7B7t4OiO6VP5lhtEyme2YaYGclC9tFi/EIAczMn5IF4FQcLE3t6bwRAdiZ9GlPylRkyTlf3vF0h1IINpUEMf/r1SjbxNt9w3Wwlvq/Rg==;zRq+zaYASmR+flC6x4vqEw=="
 ---

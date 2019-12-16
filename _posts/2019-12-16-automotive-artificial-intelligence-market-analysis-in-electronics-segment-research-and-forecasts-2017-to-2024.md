@@ -2,16 +2,16 @@
 category: news
 title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-publishedDateTime: 2019-12-16T06:43:00Z
-sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+publishedDateTime: 2019-12-16T06:02:00Z
+sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: CSO
-  domain: cso.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - AI
@@ -131,6 +131,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
+    publishedDateTime: 2019-12-16T14:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -299,6 +312,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "AisQZqU9n8lFq939FUajUyAUTslzt6pQQzL+NWrgw1cVApZ5+T7Q97vSijlRXfaeErDd5LrcQvjBmCoHhQUO42gsuBb0Lwy7/abd7q53DGTLdjtx8qI/gtf3JOadU0o/GnE/PByFwPoQsncFRC0VF1bBAPppVCb2EnEwD3ndSjW/6lbyG9xDjM8kworCBlssMkACXInBfohpJxcf9RyneLZdpo7NgZmAiMkHho8bAKceMVWHUmyWsf/Frv9GDUTJQNgp17Yv0+Bo6PLQIKJmFA==;+V/lQsXY8GsuOkidS2y5+A=="
+secured: "QbS/pBJbg9yQbvimQFmSobrh8q/Tl5xx2KEf+j7E1edFhzzYmJX+EXrQLWaDYUsOyOmV8SATAM6V1C+aSN3ElOco1WI0mYOC2F+1KEJ4SxldfurksnDBGqvWwKg1PJ35T6oB2gKNtTff3w+w9ZDTReXeIxhI1g4KA+NaLOjr1J/s1Xir/KeqiW8zw1N04RKgG56XdjRjyPNEUgzBefyDmeFlsC7yisEd8F/98Q41N3O0mcCYYCZUzEBtheWgQXWmOgwTd6i56+5jCXt+/mEjZQ==;NRQRScizuVmote/mO8wm6Q=="
 ---
 

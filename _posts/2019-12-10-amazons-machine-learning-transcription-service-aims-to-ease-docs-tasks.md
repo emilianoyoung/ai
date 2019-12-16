@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-10T04:22:00Z
 sourceUrl: https://www.healthdatamanagement.com/news/amazons-machine-learning-transcription-service-aims-to-ease-docs-tasks
 type: article
 quality: 53
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Health Data Management
@@ -24,45 +24,34 @@ images:
     title: "Amazon’s machine learning transcription service aims to ease docs’ tasks"
 
 related:
-  - title: "Which Engines Work for Me? Machine Translation as a Managed Service at One Hour Translation"
-    excerpt: "Yaron Kaufman, Co-founder and Chief Marketing Officer of One Hour Translation, invited the audience at SlatorCon Amsterdam 2019 to imagine a world in which machine translation (MT) has already been perfected. It is free, automated, and equal in quality to human translation. Kaufman painted the scene: Websites flawlessly localized into hundreds ..."
-    publishedDateTime: 2019-12-06T07:20:00Z
-    sourceUrl: https://slator.com/sponsored-content/which-engines-work-for-me-machine-translation-as-a-managed-service-at-one-hour-translation/
+  - title: "Fireflies.ai, An MIT And Penn Voice Transcription Startup, Raises $5M From Canaan Partners To Automatically Take Meeting Notes"
+    excerpt: "Without these complete records, decision-making among stakeholders is slow and inefficient. Fortunately, Sam Udotong and Krish Ramineni have created Fireflies.ai, a meeting and recording transcription software-as-a-service (SaaS) company, to provide users with automatically generated transcripts of their conversations. The San Francisco-based ..."
+    publishedDateTime: 2019-12-16T15:39:00Z
+    sourceUrl: https://www.forbes.com/sites/frederickdaso/2019/12/16/firefliesai-an-mit-and-penn-voice-transcription-startup-raises-5m-from-canaan-partners-to-automatically-take-meeting-notes/
+    ampUrl: https://www.forbes.com/sites/frederickdaso/2019/12/16/firefliesai-an-mit-and-penn-voice-transcription-startup-raises-5m-from-canaan-partners-to-automatically-take-meeting-notes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2019/12/16/firefliesai-an-mit-and-penn-voice-transcription-startup-raises-5m-from-canaan-partners-to-automatically-take-meeting-notes/amp/
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 29
+      name: Forbes
+      domain: forbes.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.45DF06F468188DFC5F5C9D566578C3AB
+      - url: https://www.bing.com/th?id=ON.1A022BB3B8A8874ED753D7D2D6C91012
+        width: 600
+        height: 315
+  - title: "AI provider, automation company merge and move HQ to Atlanta"
+    excerpt: "Exponential Machines, a software company that specializes in AI, has merged with automation company PurpleLogic Inc. The combined entities rebranded under the name Exponential AI and will relocate its headquarters to Atlanta, according to company representatives. Prior to the merger, Exponential Machines was based in San Francisco and provided ..."
+    publishedDateTime: 2019-12-16T11:28:00Z
+    sourceUrl: https://www.bizjournals.com/atlanta/news/2019/12/16/ai-provider-automation-company-merge-and-move-hq.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.5AB0F6BF75938E1E7F7F483732CD834C
         width: 700
-        height: 466
-  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
-    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
-    publishedDateTime: 2019-12-04T18:01:00Z
-    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 20
-    images:
-      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
-        width: 460
-        height: 460
-  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
-    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
-    publishedDateTime: 2019-12-16T07:08:00Z
-    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
-        width: 700
-        height: 466
+        height: 394
 
 secured: "UmFkTwtXBwoRPXkx8yDRNKJEnU2VsyU0UXW1wSFdHfsr/OpYg2jgJmfgTZycM98mKF8Ba0Lxc7mb1fQR8+bOtpCg8YVy087ERynq5u4r9xmPzGqU1zbqIO2dDBe4USuFYaODOQmjffwA/FQyc9MGykRafJboeXdZlkpKxay94OA+/lyJo1UTY+BhytWbBFuVRzXugsaa2sF0OXlHhqsViYs0c1EZGNt+9AniHy6J/VsCKxJmA8AGNfVAXpJ92octkKYQr9wksjsH5gfIJ2QGIw==;kAH9hrhUFYAfLLNYr1oAaQ=="
 ---

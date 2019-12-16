@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
-excerpt: "The anti-bullying notice is available now in \"select countries,\" and should be available elsewhere in the \"coming months.\" Whether or not this proves effective is uncertain. Instagram said that its efforts to reduce bullying in comments have been \"promising,\" but that doesn't guarantee similar performance for the posts themselves. Someone ..."
-publishedDateTime: 2019-12-16T14:40:00Z
-sourceUrl: https://www.entrepreneur.com/article/343895
-ampUrl: https://www.entrepreneur.com/amphtml/343895
-cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343895
+title: "Instagram is using AI to alert bullies to offensive captions"
+excerpt: "Instagram's anti-bullying efforts now extend to discouraging abusive behavior in posts, not just comments. It's introducing a feature that warns people when their post captions might be offensive, using AI to detect language similar to posts that have previously been reported. In theory, this makes bullies second-guess their vitriol ..."
+publishedDateTime: 2019-12-16T14:20:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/instagram-is-using-ai-to-alert-bullies-to-offensive-captions/ar-BBY2XIS
 type: article
-quality: 87
-heat: 107
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: /assets/images/organizations/entrepreneur.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.36D9B280365C9CC6D73EFADD1176EB9A
+  - url: https://www.bing.com/th?id=ON.B8958EB51AAB9E014925FE376B7E136F
     width: 700
-    height: 466
-    title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
+    height: 367
+    title: "Instagram is using AI to alert bullies to offensive captions"
 
 related:
   - title: "Instagram uses AI to warn users before they post offensive captions"
@@ -60,6 +54,6 @@ related:
         width: 700
         height: 393
 
-secured: "kdy96kf9vjMIQfvPNKsHti/SQx217rSUKHCAACEm8UV2Hc2rn58HEMPoauaCLOlYHsKGnYKP4F9X61fmONJiElt9kXPqbI4gdaDFjmTcGzT/a0MKhaa1YUWGM+0tR7tDnNUnE4pkVaJso+FLENPqAWjiXfHL7mBfDpnW7ArNcwCw2oMqfdA+Cx+rw2UXXUsYHkjJmE2MksMffxbMPQyGymaNFXKqGod6jmvFQmEBA+MTWIxxQGdhy/uN34zqNqHWy+nJ2crCgcFc5ZvWxdNYdQ==;fNq3OPH67SBQlidNnTCyEg=="
+secured: "NXJcg4wMd/qiWUt6G8BnZUzuZJTxHzu29G+kPvdzZ7+vwWypXo2jGCIOpZGyZ2zHcIBxfle7DHPPli2XEwbHytB6pBEKpf4ifGiJzhP8vCDkKoqfbwDbzQ6hicbMqzkcC/Hb7KgRMQZ6AyDhNQYfMqntio5YxgJ4o5atVhZlZPEnvXm3YTzIK80dq7ANlsCckNnUlj7JH2YGfFbi/FRBBUIEdSMZoqDYH4HaLLsWkhl8C7UAozmWL9zg/3wSABrAF3EzPnqyrqBZEm/pZzf4fA==;C+MUGkVbIkhTl5Vo4pHCug=="
 ---
 

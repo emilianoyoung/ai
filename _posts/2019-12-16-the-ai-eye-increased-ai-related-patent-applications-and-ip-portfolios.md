@@ -5,8 +5,8 @@ excerpt: "As Artificial Intelligence (AI) becomes increasingly visible in the po
 publishedDateTime: 2019-12-16T13:21:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-increased-ai-related-patent-applications-and-ip-portfolios-2019-12-16
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI in Autos
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png

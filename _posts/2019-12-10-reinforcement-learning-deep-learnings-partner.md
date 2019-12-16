@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-lea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -170,6 +170,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AECC42FCED6EB1A44F43EE080F9A2206
         width: 700
         height: 466
+  - title: "Concordia researcher applies machine learning to financial risk management"
+    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
+        width: 700
+        height: 558
   - title: "Data-driven deep reinforcement learning"
     excerpt: "One of the primary factors behind the success of machine learning approaches in open world settings, such as image recognition and natural language processing, has been the ability of high-capacity deep neural network function approximators to learn generalizable models from large amounts of data. Deep reinforcement learning methods ..."
     publishedDateTime: 2019-12-07T20:00:00Z

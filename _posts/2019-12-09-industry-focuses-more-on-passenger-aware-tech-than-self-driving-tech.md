@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A9FE0456B43E086285D0B2EFB53A99E9
         width: 678
         height: 381
+  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
+    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
+    publishedDateTime: 2019-12-04T18:01:00Z
+    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 20
+    images:
+      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
+        width: 460
+        height: 460
 
 secured: "RzaArJ9R7SAoH4pB/RIumb0cB23/E5vGSiXRc5UMUweIY7WzdEmwikYP/mS4lEMxHOn2w9DCni/WWTTbgUYGplUeC/NVysKNui0Mh+U6CYLqRhr934ejHvUjWf1oXjXcjV9O/cshE5irqdWRbJdc/4IfKRaCdAVQa0cIY+vyBq1P/njjB5MTRGPID+Cz2TZpdLysJzR08qSi6ChApQU0mLBJkpk/XIPTCpIl6jNJujRgDmD7kPgB4wOKD+zCnLj93JIvCia0h/H7WIsaKmz+gQ==;AloyuSP7VnrHTGNN8eQ4+w=="
 ---

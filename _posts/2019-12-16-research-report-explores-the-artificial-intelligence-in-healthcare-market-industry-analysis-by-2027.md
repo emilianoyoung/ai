@@ -54,6 +54,15 @@ related:
       - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
         width: 700
         height: 323
+  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
     excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
     publishedDateTime: 2019-12-16T09:09:00Z

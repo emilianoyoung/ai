@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-14T13:42:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
 type: article
 quality: 81
-heat: 301
+heat: 311
 published: true
 
 provider:
@@ -128,6 +128,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
+    publishedDateTime: 2019-12-16T14:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -297,12 +310,12 @@ related:
     quality: 19
   - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
     excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:43:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    publishedDateTime: 2019-12-16T06:02:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
     type: article
     provider:
-      name: CSO
-      domain: cso.com.au
+      name: cmo.com.au
+      domain: cmo.com.au
     quality: 0
 
 secured: "hYj38Hx6Nwsl/IRtYWHkXDv8x1pmFaoWpuxzaCWz/xJnHpo71CLeAtDfpFC+mMna7hFOFldK8BwJFnEQdEB8XbZ/xwKFUwNvpID5NgqCv0VFG9VZOy32vRVWoh/iSE02+AbzP/y0j1gQ9VhGUleEDkRuZiLxS/VS6lygcqWHa6uxNd1Gud7uE8L9c+n2C49rtCDBQFkvvBIiJj0BAsad9I1w+yWUE0gcomJVnErQZvzvz6W68mo2BBSSYXpEHPiKMQT6vB/oaOgma5lqj+CdRw==;6a6rbMYc8NGOGF//Oe19Ag=="

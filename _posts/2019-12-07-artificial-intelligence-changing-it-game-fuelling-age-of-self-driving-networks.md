@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks. Kicking off Juniper's fifth annual customer and partner ..."
+excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
 publishedDateTime: 2019-12-07T05:56:00Z
-sourceUrl: https://www.zawya.com/uae/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
-ampUrl: https://www.zawya.com/uae/en/story/amp/SNG_161467497/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_161467497/
+sourceUrl: https://www.zawya.com/mena/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
+ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_161467497/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_161467497/
 type: article
 quality: 55
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 500
         height: 685
 
-secured: "bJNiUHwhwU8rKsBBbhJxv7lecZzOpamH8ByOCmlAhf46/xthpw488Ea4Bw79wfVhL6ijV9iD01aZ3dvgTi6yTlyZCrJHB5RzRHskgyRgOwPNiVcF2Al3MIPJI8X/5oS0O4xfE0CkrfjRMgPNt9yh1AkayJXaL9OhL3Kcu7QN+WbBOdxIB54to5c+K5N2P5ZVLUC3sNfJXziIaJQ27kso70Ts39Iw2dI5umI+9LpElFoJpi5rB8LRs1RyMiigWhsqpKnBJNcLu89vcAEjl+G0cw==;FPm6qR9uHwDW6jqElGnYng=="
+secured: "RHzOED1ZA90J2SHBjFt6/QCbVgiZOoRpWELEGv7vWfNtfAWRM5Q4ZkF2oqdcazqJabGd5jNxpf/3R1uZBjSZ2QVRj0Wb9649pGrbIppBJ0zMfcPDkFRKg7P4RABUuS4Uu9qjygNueHkQWfixrrwIaaVZjhQ8MIKy+CzoI+hnLCvMkINu/RuxO3iZwvF6QVFozpjjd7EDti//Pgh0sJH3Bg7cCFlhVUl6RMjGQqFtxe+m+rM6qTsK/weOk+SlHrUXTu88mtjUPfj9OdxzVQmBbQ==;PoSdCMIPQpj5nbjZnYT+Rg=="
 ---
 

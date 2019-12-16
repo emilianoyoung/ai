@@ -24,45 +24,34 @@ images:
     title: "Which Engines Work for Me? Machine Translation as a Managed Service at One Hour Translation"
 
 related:
-  - title: "Amazon’s machine learning transcription service aims to ease docs’ tasks"
-    excerpt: "Amazon Web Services is rolling out an electronic health record-supported machine learning transcription service that uses speech recognition applications to ease physician documentation. The product is Amazon Transcribe Medical, which automatically translates audio streams into medical speech, enabling affordable, secure and accurate note ..."
-    publishedDateTime: 2019-12-10T04:22:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/amazons-machine-learning-transcription-service-aims-to-ease-docs-tasks
+  - title: "Google Assistant Gains Real-Time Translation for 44 Languages"
+    excerpt: "Google has updated its Google Translate service and made it possible to generate higher-quality translations for a handful of new languages. Specifically, Google has applied its neural machine translation technique to Hindi, Russian, and Vietnamese. Apple today debuts iOS 11, its next-generation mobile operating system. Starting with messages ..."
+    publishedDateTime: 2019-12-12T15:30:00Z
+    sourceUrl: https://www.phonescoop.com/articles/article.php?a=22002
     type: article
     provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 53
+      name: Phone Scoop
+      domain: phonescoop.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.167ADFF8C569B35E3F753C017AED444F
+      - url: https://www.bing.com/th?id=ON.B65DDDCB92A9202839E6FBDD308A2BF0
+        width: 401
+        height: 700
+  - title: "Google brings ‘Interpreter Mode’ language translation to the Assistant on smartphones"
+    excerpt: "This is just a more elegant and enhanced presentation of Google’s underlying machine translation capabilities. ‘Help me speak [language].’ In order to invoke Interpreter Mode, users say something along the lines of “Hey Google, help me translate [foreign language].” It will then enable real-time translation. Google also says the ..."
+    publishedDateTime: 2019-12-12T17:20:00Z
+    sourceUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380
+    ampUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.F846D0A1A61FF7F0B0571B444BF775E3
         width: 700
-        height: 367
-  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
-    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
-    publishedDateTime: 2019-12-04T18:01:00Z
-    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 20
-    images:
-      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
-        width: 460
-        height: 460
-  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
-    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
-    publishedDateTime: 2019-12-16T07:08:00Z
-    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
-        width: 700
-        height: 466
+        height: 393
 
 secured: "EyCthPRfWZEZnivJj6YLVotVa1w0F0Zkli0k18EkcdtmOu9CcuCo+cXzXcvzG6Fr5UmQXwNYjPUwTcpK5HTt9U2lwSpwk9rd6/RP7TkXH/JHs8qGNNn+uKSr0uLzgbjM17t+q6YgV10Arwt0l1aYIaPseSX+GUur6dfKXpG1sJnTVbmgP9ieAS2k8C5LFKoAkkFX2NyGIUbCUsRCCZLdxbFy/0XaK8QQT3OWZtC1YcE6Nk+f1mn4Jn+5n9ovO6zXadk5l7mcsq2KduSlIMl/gw==;OIPu/i+nmVDIrbDh2bpnNA=="
 ---

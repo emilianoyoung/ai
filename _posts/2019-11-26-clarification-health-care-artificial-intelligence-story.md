@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7BC9F242A842EA3CF7A19A66F6354F8F
         width: 700
         height: 496
-  - title: "Artificial intelligence spreading into health care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
-    publishedDateTime: 2019-11-27T07:54:00Z
-    sourceUrl: https://www.timesnews.net/Health-Care/2019/11/27/Paging-Dr-Robot-Artificial-intelligence-moves-into-care.html
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5FD12FFF3F19678FC7332FC31964342A
-        width: 700
-        height: 466
 
 secured: "8NqW/j978opab++y1qVdGDfG8tlxNYcNkZdY/xi27BVp7siceVs5IRo0+2OfY7Z5TfjIl+UIl2gYyCDp5D9/xmN/cZL4hJw+MDIms+4Izm4CdeRd/XrogFHKbnaSfamh1SdXVtoj+YObyTfAz3x0uhu8C4Gb+n2LdKz2bKvk/lyB+9xiCaeqEqt6+QZmoLETvKyNmQ8EhgyrmSU3jtHZjndIYuZLgee8kUSusTdbcbfmMHKlfCCxYRpif5A+NGkid2LGhtBT0VN/jwJXpZyLFA==;k2m619O4jTS9epC4TwZJPA=="
 ---

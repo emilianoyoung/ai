@@ -24,45 +24,36 @@ images:
     title: "Ford discontinues medical transportation service to focus on self-driving tech"
 
 related:
-  - title: "Amazon’s machine learning transcription service aims to ease docs’ tasks"
-    excerpt: "Amazon Web Services is rolling out an electronic health record-supported machine learning transcription service that uses speech recognition applications to ease physician documentation. The product is Amazon Transcribe Medical, which automatically translates audio streams into medical speech, enabling affordable, secure and accurate note ..."
-    publishedDateTime: 2019-12-10T04:22:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/amazons-machine-learning-transcription-service-aims-to-ease-docs-tasks
+  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
+    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
+    publishedDateTime: 2019-12-09T16:13:00Z
+    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
+    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
+    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
     type: article
     provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 53
+      name: thenewswheel.com
+      domain: thenewswheel.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.167ADFF8C569B35E3F753C017AED444F
-        width: 700
-        height: 367
-  - title: "Which Engines Work for Me? Machine Translation as a Managed Service at One Hour Translation"
-    excerpt: "Yaron Kaufman, Co-founder and Chief Marketing Officer of One Hour Translation, invited the audience at SlatorCon Amsterdam 2019 to imagine a world in which machine translation (MT) has already been perfected. It is free, automated, and equal in quality to human translation. Kaufman painted the scene: Websites flawlessly localized into hundreds ..."
-    publishedDateTime: 2019-12-06T07:20:00Z
-    sourceUrl: https://slator.com/sponsored-content/which-engines-work-for-me-machine-translation-as-a-managed-service-at-one-hour-translation/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.45DF06F468188DFC5F5C9D566578C3AB
+      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
         width: 700
         height: 466
-  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
-    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
-    publishedDateTime: 2019-12-16T07:08:00Z
-    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
+  - title: "Self-Driving Trucks are Here – What are the Economic Consequences?"
+    excerpt: "Despite all the advantages of self-driving technology in the cargo industry, its widespread adoption is not as close as many people would like it to be. Uber has been testing unmanned delivery on Arizona’s highways for several months now. However, it is still too early for drivers to worry. Even Uber, in such a sensitive matter, points out ..."
+    publishedDateTime: 2019-12-09T13:55:00Z
+    sourceUrl: https://techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/
+    ampUrl: https://techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/amp/
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
-        width: 700
-        height: 466
+      - url: https://www.bing.com/th?id=ON.A9FE0456B43E086285D0B2EFB53A99E9
+        width: 678
+        height: 381
 
 secured: "wnmieVtTlxilk3EIPZVoUuCYK4HwkNRF9sPB2I8r09WtTkjwmoK5xZ45fIYfLmQLwSLJTqP8pjrk/iKKYjjCB26KCfs/nlt512JXwWlfzvVaEv4Z96sqDqMeTt9Zvr5OHCodm8W8vs5HhME9cwOJcLJRnFXHAQOtBAOl4VbWmEM8lG45y0HtE10F82GaB02naPDnKOgZ4saiWvn86HzrXT/TsLc2FkzvU3+tamx1ck5e5Hod6kyabNqQSa+VPaxiaNXq96ijDwbxhAUqg59QpQ==;NR6cJfGBAldwnVDw4N+3qA=="
 ---

@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visibl
 ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
-quality: 104
-heat: 134
+quality: 121
+heat: 151
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.BD7714A0883815F5E2D58F3325D23506

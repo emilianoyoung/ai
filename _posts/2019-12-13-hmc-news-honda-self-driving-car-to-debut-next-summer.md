@@ -1,30 +1,28 @@
 ---
 category: news
 title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
-excerpt: "A Honda (NYSE:HMC) self-driving car is going to show up on roads next summer, but not in the U.S. Source: Jonathan Weiss / Shutterstock.com Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and ..."
-publishedDateTime: 2019-12-13T18:19:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/honda-self-driving-car-debuting-next-summer-1028763245
+excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
+publishedDateTime: 2019-12-13T20:19:00Z
+sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
+ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
 type: article
-quality: 54
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.F8461042852C94EE82D23636855D5136
-    width: 300
-    height: 169
+  - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
+    width: 700
+    height: 393
     title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
 
 related:
@@ -562,6 +560,21 @@ related:
       - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
         width: 700
         height: 319
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
+    publishedDateTime: 2019-12-14T13:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/project-qatar-mobility-self-driving-234200164.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/project-qatar-mobility-self-driving-234200164.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.8A417CEB957C4E0F0F58FC2620E4FE61
+        width: 400
+        height: 229
   - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
     excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
     publishedDateTime: 2019-12-10T18:56:00Z
@@ -589,6 +602,6 @@ related:
         width: 700
         height: 393
 
-secured: "s7ahZRX/ywrPePzwXOPf4QucOaCV4OW54OCthzKelswLxTy1Xmqj5veHDlWJq7+YWi3o0gKUe+3pHxeB3gxo0gOus0FvweTh+6j+imDDnb9QqwQcbyg2InOMVBtcA4tdU7imwNT5NYsesZFQ3qTMoKJWcMNhbi8r1pcHbOfUM32e0sQ4MVtCj2H+khmK4WDYmLmaQF1s/M9ZbJ7nzuZ7GLSJy7XJ7lYma+9/RXHnGeqT1qbv5iYJivzqbJ80AlCNOeeGdKBZME7/kF5JMwnc+w==;D2gejRDCw/lFRi2Ms1Eomw=="
+secured: "qg8sQnzII4Yu2uz7aEj+rIXKCu9XyOkMybmT6Zx9bi79Uh0IdD6sorzwvs6bsK52KJ6PXUGffINAWxgEDIpIspCat1bA5Bp0YsBEg8arF1rQW0x5/aOsJtUt4X8z0vVVXzBWLvVwtoovu7jzOKZc/aMn8B3UL6ikUHCPB7wOm7vGns8kg80ywUlq6Mni84E3d4aL+K417EBkitZLMP7uX7CohMHT0AUD8A8quQsWKZUxseujOnwPIu/Ny9q7qEqshLNqGXNrAeUGCcnmUwOZrQ==;a1zW7kjdcRXMc7QaQzOQOw=="
 ---
 

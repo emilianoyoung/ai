@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "... takes different road to skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https ..."
-publishedDateTime: 2019-12-11T15:10:00Z
-sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
-ampUrl: https://amp.detroitnews.com/amp/4396982002
-cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
+excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG ( VOWG_p."
+publishedDateTime: 2019-12-11T11:19:00Z
+sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
 type: article
-quality: 44
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
+  - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
     width: 700
-    height: 393
+    height: 466
     title: "Argo takes different road to skirt self-driving challenges"
 
 related:
@@ -102,15 +106,15 @@ related:
         width: 700
         height: 466
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
+    excerpt: "PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial ..."
+    publishedDateTime: 2019-12-11T16:26:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNBC
+      domain: cnbc.com
     quality: 54
   - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
     excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
@@ -288,6 +292,6 @@ related:
         width: 700
         height: 466
 
-secured: "eMQLlfkhP5gq68X31uaNDDOKuO/mpWmjCfg83rZMX+rVnXdiHPjajeau8BDqCqNuvINJBrCGJw17j70VRfXsgHxGSRL5GCYUVHdbTxUsuSviGpP2iWF1N/8ZRlllr5PO2U7hJR4UzTLcRS1eRnxJsk+W9hvu76KqJzk/Kcw0BHdrEoQu9jWeODdamJKIgs5O/cqBYtJ37dbpHxShg5HhZVRQLo1e2MTs7dZdbPGXiuTzykgLUiyBqGZxU9W7zWEoqrtucQNn7bka2jU+RCJVkw==;II7GCxnKSoAwzhNWDkGqEg=="
+secured: "lI76wfl5C3tic5kn4m2XQO5b6FLDRkkhmgOMYfd1lBKaIQvd5nkG+uQETnK+zKGp7B/+OQl2fXJfU/sPsoLWturEuzVm6ipZTdDH7HWjNK5WSnsV0hIB+muvZ1Lf+4QmBbBl8xB7eOziQkKaTloldN9hdXQIb5K/Z7db64vkyPKgn0pdvDNA53JBlJNKJlu7JRNgFhm1I8WoJwcfKl9EtCm+eVMzi98AEcfu9KIJy6R1/osvhYwKqisUQ32kd+ywSjmTkekTWly2euwKqTp2/w==;eN3Wyb+3BKp6cKLfchWOHQ=="
 ---
 

@@ -34,6 +34,15 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Artificial intelligence boosts MRI detection of ADHD"
+    excerpt: "Deep learning, a type of artificial intelligence, can boost the power of MRI in predicting attention deficit hyperactivity disorder (ADHD), according to a new study. Researchers said the approach could also have applications for other neurological conditions. Deep learning, a type of artificial intelligence, can boost the power of MRI in ..."
+    publishedDateTime: 2019-12-16T15:28:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191211145609.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "Artificial intelligence boosts MRI detection of ADHD"
     excerpt: "Deep learning, a type of artificial intelligence, can boost the power of MRI in predicting attention ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook, Ill. (RSNA.org)"
     publishedDateTime: 2019-12-11T15:04:00Z
     sourceUrl: https://eurekalert.org/pub_releases/2019-12/rson-aib120919.php

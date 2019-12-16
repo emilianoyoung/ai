@@ -1,21 +1,21 @@
 ---
 category: news
 title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-11T11:06:00Z
-sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
-ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
+excerpt: "PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial ..."
+publishedDateTime: 2019-12-11T16:26:00Z
+sourceUrl: https://www.cnbc.com/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+ampUrl: https://www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/cnbc.com-50x50.jpg
       width: 50
       height: 50
 
@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
         height: 490
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG ( VOWG_p."
+    publishedDateTime: 2019-12-11T11:19:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
+        width: 700
+        height: 466
   - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
     excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
     publishedDateTime: 2019-12-14T14:03:00Z
@@ -114,21 +129,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0FEA5044765B11AFDAE3E38D0A506AE3
         width: 600
         height: 450
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "... takes different road to skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https ..."
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
-    ampUrl: https://amp.detroitnews.com/amp/4396982002
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
-        width: 700
-        height: 393
   - title: "Ford makes Austin epicenter of its self-driving vehicle business"
     excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
     publishedDateTime: 2019-12-12T20:02:00Z
@@ -290,6 +290,6 @@ related:
         width: 700
         height: 466
 
-secured: "xRNxl0HFBgvykE+4eOveJkemvQec989jR0qbuLqeVGMnrpuGC/zTM/NccQNvG1uK+0sqB0/okgR0ArGyTUnLv87zFN/sMhfX9DhS8lBlKSFissmxWA/QWemNsnnQzMb08Q7ytMkDoil7EIbrLV2tFgnFO9gnfrA9Wn5rUYwlwRz1Lpcaimv9xKjKnPDSTgH7uwGBpbJm1qu4RbG/dgUYqyXhvhMt5bTHHjG7dqQU+EOvhpZdwltQOQ5RgU3F+EtpGWamvNa4Bz3wobzjD9JGVw==;qceSxLD5q9XeWxX5GAn1iA=="
+secured: "Il4iJmuSNCIb/4m4fQIgPj4fZM5Uamr/nrgVFROeerowzEtmIbjqvgVC0ehbMcHPZDf+6yv5RnGEWR8jiZV+5JsirmSmGVkNqKJEleCAYq05rNex5BKa8iWIwl9eUNuwrzYWLXK6RQO6QrMv2cDAdz+YJ+GSZGl4xCF5vU+SnXbarwjb+Ty3Q2nzCU+eSqjRzPdD69c0fjVV7RWzZ6TnP34E3oknuyT6Kk6uXasy40slpv1cYv49zEtBQPuBtpsT7Y9y452SsbX/TadzOCAuxg==;sU53aSNG6w/OKMnfHdocXQ=="
 ---
 

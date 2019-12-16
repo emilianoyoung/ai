@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
+    excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-growth-demand-and-developments-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
     excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
     publishedDateTime: 2019-12-10T10:48:00Z
