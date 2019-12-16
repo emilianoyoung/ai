@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Robot debates humans about the dangers of artificial intelligence"
-excerpt: "An artificial intelligence has debated the dangers of AI – narrowly convincing audience members that the technology will do more good than harm. Project Debater, a robot developed by IBM, spoke on both sides of the argument, with two human teammates for each side helping it out. Talking in a female American voice to a crowd at the University ..."
+excerpt: "An artificial intelligence has debated the dangers of AI – narrowly convincing audience members that the technology will do more good than harm. Project Debater, a robot developed by IBM, spoke on both sides of the argument, with two human teammates for ..."
 publishedDateTime: 2019-11-24T08:13:00Z
 sourceUrl: https://www.newscientist.com/article/2224585-robot-debates-humans-about-the-dangers-of-artificial-intelligence/
 ampUrl: https://www.newscientist.com/article/2224585-robot-debates-humans-about-the-dangers-of-artificial-intelligence/amp/
@@ -25,6 +25,6 @@ images:
     height: 466
     title: "Robot debates humans about the dangers of artificial intelligence"
 
-secured: "oJAWjlXLLOOcWy42MmDw0V7EVtWbq1NK2lJZRAI+JF4FV95EEn400SqKhpMjEzfxnddvprIh9floCJNXfKU8O9pY3BKzW5umq7fINCX3v+V+/0vvdJFsUQAvza62Z+x7yKJkR/sBWE/CL5pzMIfLfEPR/qffXYHOlgCluNRJVQRGUEAyT7yHZqJkk3jac824wNl/nrBvV9GH4tFwbLG7TAW3NbQqobh1B+FaEzrQXU4cmGy01WwshTwcxi7Oa7v67CyD4FnwgBfeaJXKrdE69g==;Kuf9Bl06Kn+aRSrPcgdEXg=="
+secured: "dsnYXDAsILLW0ekkcWF7G66oTemgCEgZHP/AP8wDokZTgdTlxZRSzTlc8dHwb1UoNONFXasIbE2gxPVFZ2SjJ9NyL3FD2teMwd4CEeFgegZ1xtjft0VAvSMo1PcNOOrplKoBvR18UAGjvbgTZlxmK/q0Vy9xkv4caT0OiO980ify4SwsxHiec11yrVDo0P6geue8OgIaFdRJE/VsuK2kGkt8VNrXXub1NRVlpaELC2oRa4PZnQvWUGeeUF6uVp9VL15OKj4K5mX27UmH49Aq0g==;QU23hALdKS/Tom+Bed1l8w=="
 ---
 

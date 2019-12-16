@@ -56,6 +56,15 @@ related:
       - url: https://www.bing.com/th?id=ON.F0BFD66651D8BA6D62143481B7B2537B
         width: 700
         height: 393
+  - title: "Google's self-driving car project buys British AI firm Latent Logic"
+    excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
+    publishedDateTime: 2019-12-12T17:20:35Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
+    type: article
+    provider:
+      name: The Guardian on MSN.com
+      domain: msn.com
+    quality: 19
 
 secured: "sLPK0MTeDAd36kyiX+36jb6ib+8lfDiF3CERKRyc5t7VmcWWfcdDZOWS4s/6taM/xMaYTTr45NJmqEcXEEqKSps1LI47jZ3nLqml+PU/JDsnEjtOFPlixA/W+tnp8EqgToTTqwCGuFSKI0MQw1vE4KqvZZBq3z+B1tVNoVzuih0LJIjH7Vp4VxDbn3/8dyruw4sTG55bVbwCHSuzIY+pnkfRBUv029zcXsFjOXXGXO3JuvcNVKACE6TG/ssFBnr4Tv5HqeMB/Xtwban5qLrgUQ==;zIatAteGoYNJQnAzutVwbQ=="
 ---

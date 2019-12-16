@@ -1,26 +1,21 @@
 ---
 category: news
 title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-excerpt: "As reported by The Guardian, Waymo has bought the UK-based AI company Latent Logic, which specializes in the testing of autonomous vehicles. Latent Logic uses \"imitation learning\" to create simulations of human behavior which can be used in vehicle testing. Most AI training uses reinforcement learning, in which an AI gives answers to problems ..."
-publishedDateTime: 2019-12-13T10:45:00Z
-sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
-ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+publishedDateTime: 2019-12-13T11:45:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/waymo-enters-the-uk-with-acquisition-of-self-driving-ai-startup-latent-logic/ar-AAK5GSb
 type: article
-quality: 84
-heat: 134
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
@@ -29,32 +24,32 @@ images:
     title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
 
 related:
-  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
-    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
-    publishedDateTime: 2019-12-09T23:21:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
+  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
+    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
+    publishedDateTime: 2019-12-13T11:54:00Z
+    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Teams working on autonomous driving projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to-life simulated training environment that enables AI models to learn more efficiently. Waymo didn’t say what exactly the ..."
-    publishedDateTime: 2019-12-12T17:55:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.5C3D34CA06B645754AE6139428E6CE54
+      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
-        height: 389
+        height: 350
+  - title: "Google's Waymo chooses Oxford for its first European driverless car hub"
+    excerpt: "Latent Logic builds highly-realistic simulations of roads and cars that can be used train artificial intelligence software for driverless cars. Its technology, known as “imitation learning”, using raw data of real, human driving from CCTV cameras to analyse behaviours."
+    publishedDateTime: 2019-12-12T14:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.539669ECD49CD5F0AC27E89764B1B7D3
+        width: 700
+        height: 436
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z
@@ -68,31 +63,7 @@ related:
       - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
         height: 388
-  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
-    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
-    publishedDateTime: 2019-12-13T10:05:00Z
-    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
-    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
-        width: 700
-        height: 525
-  - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
-    publishedDateTime: 2019-12-12T17:20:35Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
-    type: article
-    provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 19
 
-secured: "rpQSU9kuCYH0p5X7C0BZQLmviTrKwFK11rAZu7DwWvIUVjmeMIHOlPExVnjdJmrq44Y0cI/wuSQeqg+qtXHyYY5g15rf9Qvd+ErlEH3Amw6zoZ27C6mPaImS511DRGwR61g3z1ulb0uiD52rE78qwvQ8aq0UPP6na3VtdfpseaF4W2OSIbFnOcWnOaMA1zl+EnMJH8kNWeXxrS+fBCLEughPRYLpebLxJd07HJEgGTyV1YZVpLpXx6uBAPLCWOjNc0E+phn6K4FFRN9yvx/Dxw==;dzbvE4Tp54bpcL3RvEzxbQ=="
+secured: "XXur9vsHimiyfczuYwhYIHTsAB3cEv2G3UxsAV027jz7t7tHWz5W7m4ozRtOJ43GcZikiPJcPM0AzdCk+HUozr8hkbcrZrYCmfyg8TjlM23b+o5nSI3cnviquasMggEEuLficQziiBrLQL2yRDU2vMNsXdjkdP7Nac/DUwRbNlcKtF8/CbXQDdE8bO3rGOMIFR0LFDXWEB3Jv2MfPC3SonDcF5Q5dAYW8I5Jnrw+XkQkzNl8cHvYJVeW+HuJ1ZJ1t6zzxsGTdtvpRlsnjL5dJg==;x6+BNBZny/CRrEjSc2AkRg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T11:54:00Z
 sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
 type: article
 quality: 57
-heat: 67
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,32 @@ related:
       - url: https://www.bing.com/th?id=ON.539669ECD49CD5F0AC27E89764B1B7D3
         width: 700
         height: 436
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-13T11:45:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/waymo-enters-the-uk-with-acquisition-of-self-driving-ai-startup-latent-logic/ar-AAK5GSb
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
+        width: 700
+        height: 367
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-14T00:14:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
+        width: 700
+        height: 388
 
 secured: "IVoi90FoZuZHvETmTaaqi7Cxn/nCs1iMF5Sb3g4KEGl+n6dBp474pMKS6J6286PuoGUwXTGYGzQ9SJocu+viBVveL97xi3XN3kEnryC8F8MDzZmYBq5cIPiAE153x+NomKTYUjUI2yyXso9kayV6vZXGS8/Kn4vVNlWxoZMKv/7C0aBIFRIV5yv6noUgoTvPGbGFhoq+Ef8b7xcUDI8lbcbmHpsO7+v1bNCpKKPulInHPAE2kauZ3MlYHml9GJZ9WMzmxSQAVXBFoxeDxs1LZQ==;bwBO/IErx640IRWRZmPB4w=="
 ---
