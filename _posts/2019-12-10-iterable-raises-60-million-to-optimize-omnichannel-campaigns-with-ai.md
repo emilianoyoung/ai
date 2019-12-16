@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimiz
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.53A91E1D5097A32744DCD5D59DD800E3
         width: 700
         height: 350
+  - title: "CallMiner raises $75 million to derive insights from phone calls with AI"
+    excerpt: "“We are revolutionizing the way brands and people interact and conduct business — and it all starts with AI-driven customer insights and intelligence,” he said in a statement. Above: CallMiner’s analytics dashboard. CallMiner’s marquee product is Eureka, an analytics suite delivering speech and text analytics for customer call center"
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.5CE6062B44EE7E9FF8DB259E9B533E2F
+        width: 700
+        height: 367
 
 secured: "dK9rskj7MPKwxmObagcAHE8yiod0sgrByh8C25X9J4IP/J+umkdi6k6hi2RbQF1u6Cfy+WFLSQEOAv9C/gSS7x18B8EFTHr2dqmdqJf9EJwT6DyKiqP9LjSrfF++E6lJ3WkZj+63dRJdv2gCRZRBm3MOQAfXY6LMMdGbRmLbfS6bb4iLEXB7urc1KewQIHhrSA1TATOjwmo3XOeVpm8UFo/XYFZytrEA/Z0VAkgMARO3i6ROl7YcsHUvs5xhM/9TON6+CtmNYwZztzMEIz54RQ==;uYBcPNA3h3+UMCSAWO4/YQ=="
 ---

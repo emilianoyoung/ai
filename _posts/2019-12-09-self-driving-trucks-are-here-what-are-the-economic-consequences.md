@@ -8,7 +8,7 @@ ampUrl: https://techbullion.com/self-driving-trucks-are-here-what-are-the-econom
 cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/amp/
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     title: "Self-Driving Trucks are Here – What are the Economic Consequences?"
 
 related:
-  - title: "From a self-driving bus to a pocket HIV test, here are this year's Beazley Award winners"
-    excerpt: "Users can operate the pocket- sized device in three easy steps in privacy. A collaboration between minimalist Japanese lifestyle company Muji and Finnish autonomous driving company Sensible 4, Gacha is a “self-driving” bus that functions under all weather conditions. The gently rounded, square-shaped bus has no defined front or back and ..."
-    publishedDateTime: 2019-12-16T04:05:00Z
-    sourceUrl: https://www.thestar.com.my/lifestyle/living/2019/12/16/londons-design-museum-honours-six-inspiring-creations-with-the-beazley-award-for-improving-peoples-lives
+  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
+    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
+    publishedDateTime: 2019-12-09T16:13:00Z
+    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
+    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
+    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 15
+      name: thenewswheel.com
+      domain: thenewswheel.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.7898594F811E58317026581915BE97BD
+      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
         width: 700
-        height: 280
+        height: 466
 
 secured: "Ipp9XWElgTrS8Oxo04dngQgEtcX5AB8PehPkQyr4Fm7LIMzLHXX1PxeZ/TQEQgYEO3szyAioCvksc0S6Hbs/PRodjUB+aAFUFv4mmbdT2nMXGfji+u76X/Nzjry+j+JWFt2SzZZKMdesRxAtjGTg0fEW+yDAP+ixHr80g6RZ9Lttwv3qaw1FfniqfMrgSNk5/VAJLckpa1345bRRXcM6EKNHfkRvFUPQwPhLQ8a5AsraiCDwOhePJ7M7rUdR2Kn1s3uWKHcoBZ1Xe0y7mn5XQQ==;JKFkdMjYQqeJFAhXmnOGvA=="
 ---

@@ -41,15 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CDE31A775B70BF476AD1F16510FDF3A0
         width: 700
         height: 350
-  - title: "What WON'T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
-    excerpt: "As 2019 winds down, predictions abound on the technology advancements and innovations expected in the year ahead. However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research ..."
-    publishedDateTime: 2019-12-16T13:08:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-what-wont-happen-2020-5g-wearables-quantum-computing-/2019/12/16/9069965.htm
+  - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
+    excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
+    publishedDateTime: 2019-12-16T12:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005038/en/WON’T-Happen-2020-5G-Wearables-Quantum-Computing
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.80CB2605DE5CE780152AE8EFDEC4A8B7
+        width: 700
+        height: 365
 
 secured: "JoAXZBx5+qUrVOQEatiIPcEqhSpRh8ipEQfBFTOsLGRzxG/0B/aFJG83H8HpjArNKCy+uibfOH7R8chkV7oOKPxWhKUo6ih3xUMInyfewZSVb3ytmIaocaHvT/kusu+oOuu860ql69bob5uqWWc7XJXvKyRp0rwnXLs7buurBPT2ktcpBYJiEFRTOOIkqEK+Le/d0c9DQ6h5T2qbUu5OItKRKYLxPjsNaRl2s6L/gfC+ZNto00H/qRjZIxNHiiET0JhWfnjOqYKn3si575MPDA==;vbXJYn8z0/hU8Vbqgytxlg=="
 ---

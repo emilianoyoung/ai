@@ -2,16 +2,22 @@
 category: news
 title: "AI has bested chess and Go, but it struggles to find a diamond in Minecraft"
 excerpt: "But can artificial intelligence learn the same way? A new challenge teaching AI agents to play Minecraft suggests it’s much trickier for computers. Announced earlier this year, the MineRL competition asked teams of researchers to create AI bots that could successfully mine a diamond in Minecraft. This isn’t an impossible task, but it does ..."
-publishedDateTime: 2019-12-13T15:59:04Z
-sourceUrl: https://www.msn.com/en-us/news/technology/ai-has-bested-chess-and-go-but-it-struggles-to-find-a-diamond-in-minecraft/ar-AAK6kye
+publishedDateTime: 2019-12-13T15:59:00Z
+sourceUrl: https://www.theverge.com/2019/12/13/21020230/ai-minecraft-minerl-diamond-challenge-microsoft-reinforcement-learning
+ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020230/ai-minecraft-minerl-diamond-challenge-microsoft-reinforcement-learning
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020230/ai-minecraft-minerl-diamond-challenge-microsoft-reinforcement-learning
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -22,6 +28,6 @@ images:
     height: 366
     title: "AI has bested chess and Go, but it struggles to find a diamond in Minecraft"
 
-secured: "Ct1S1MbYOhO+0IbJ3/B9cSje8PQm3uDLEteLrZ7hRQ6lamLOBojZn1eNGLNg69kqfPpGwr31XX68dSoyD22xS6nEbeEQ5JWeXc2iWyaPTuQE4PMc1/vAxHlkuX7ewSYTPgB29ASkzKvuzXvj1J4Ue1zQzGYFkdu3D4j24MlTtMxtXJbrSIhAbQnFQC0ZubHTua5d1t3JMGBn7ot1iMfkifZ2hLfLnqtkIRWLXnJZ6TvX3cwHkJZNElJ3BV3rdB4nYxpAwsaxsCOztb++t4WYYA==;jae10TMexXsepQb9xZhSRQ=="
+secured: "/PZM6nzQDPaPlOqvlbIpIEnPILglsCr/PCl0kr5WUiZfa2lC3t5aoEZkXKq+qaCn3EDGT/25diUPAtyErEie0gONohl1C+ROEXDpoMLImPtWrN46KBoH2qvEhO0ON9z29q7HBba7MPNUFM766dfmX8nyg63BGMYyXicp0IFM85IkYuRum+29qNPWUSWpnofL0eIVYZ4LyYzV1Is8UYNSrArr92SG6/WAIhX40JbZDtKqZV6BQJRGmr7P/mMrZiYPxdD4XaoOHaKMmpkYTV0FjA==;PIpdXmZudr/Ju1ayY7uEXQ=="
 ---
 

@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.53A91E1D5097A32744DCD5D59DD800E3
         width: 700
         height: 350
+  - title: "CallMiner raises $75 million to derive insights from phone calls with AI"
+    excerpt: "“We are revolutionizing the way brands and people interact and conduct business — and it all starts with AI-driven customer insights and intelligence,” he said in a statement. Above: CallMiner’s analytics dashboard. CallMiner’s marquee product is Eureka, an analytics suite delivering speech and text analytics for customer call center"
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.5CE6062B44EE7E9FF8DB259E9B533E2F
+        width: 700
+        height: 367
 
 secured: "Iq3QfhUrSFj+owPrw1SxBgbUGkGlv89XcnB+vzddaiYABBwdmXk3XJdvzL/jb1mjtGwS9WsQtJ9v3Wc277553mH6I+/IYTLZZ7H+oE6TEnfTJw19sFUzVUg0d9GX5j0ecj3YwKkPJdgefbOhofvfEb0jIXwGeZlyLUFMCFSEbrEt9AmfpkMQTt3I/1Fp72e9Ehm1IBZ4MOYECZ8U61lRzHfn29qXANZMWePv73/MrlZB6BOhSGPO8aXEjtuD+A8y8HL8YCGUT41ZmlzF5JyiXg==;HapEyDyIfaeGMdrEx7yfmg=="
 ---

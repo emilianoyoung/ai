@@ -25,6 +25,21 @@ images:
     title: "Instagram will now use artificial intelligence to help stop bullying"
 
 related:
+  - title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
+    excerpt: "The anti-bullying notice is available now in \"select countries,\" and should be available elsewhere in the \"coming months.\" Whether or not this proves effective is uncertain. Instagram said that its efforts to reduce bullying in comments have been \"promising,\" but that doesn't guarantee similar performance for the posts themselves. Someone ..."
+    publishedDateTime: 2019-12-16T14:40:00Z
+    sourceUrl: https://www.entrepreneur.com/article/343895
+    ampUrl: https://www.entrepreneur.com/amphtml/343895
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343895
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.36D9B280365C9CC6D73EFADD1176EB9A
+        width: 700
+        height: 466
   - title: "Instagram uses AI to warn users before they post offensive captions"
     excerpt: "This is essentially an extension of a similar feature Instagram rolled out back in July aimed at the comment section — again, Instagram uses AI to detect language, warn the user, and ultimately “encourage positive interactions.” Above: Abuse alert for captions in Instagram Of course, there is nothing stopping the user from going against ..."
     publishedDateTime: 2019-12-16T12:32:00Z

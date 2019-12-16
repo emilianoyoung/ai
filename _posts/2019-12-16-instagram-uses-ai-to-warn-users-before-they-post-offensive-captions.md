@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-befor
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,21 @@ images:
     title: "Instagram uses AI to warn users before they post offensive captions"
 
 related:
+  - title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
+    excerpt: "The anti-bullying notice is available now in \"select countries,\" and should be available elsewhere in the \"coming months.\" Whether or not this proves effective is uncertain. Instagram said that its efforts to reduce bullying in comments have been \"promising,\" but that doesn't guarantee similar performance for the posts themselves. Someone ..."
+    publishedDateTime: 2019-12-16T14:40:00Z
+    sourceUrl: https://www.entrepreneur.com/article/343895
+    ampUrl: https://www.entrepreneur.com/amphtml/343895
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343895
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.36D9B280365C9CC6D73EFADD1176EB9A
+        width: 700
+        height: 466
   - title: "Instagram will now use artificial intelligence to help stop bullying"
     excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. How It Works If a user writes a caption on a photo or video that the AI deems offensive, that user will ..."
     publishedDateTime: 2019-12-16T13:16:00Z

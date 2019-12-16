@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
 type: article
 quality: 102
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
         width: 700
         height: 367
+  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
+    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
+    publishedDateTime: 2019-12-16T14:13:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
 
 secured: "q5CIM9U7FER3eo+pHq9j7REOdaoU5unwi+Qg6+2A+odZ/1CuLwuEaAJx9ZuqlfrvLe3t0vfP/IMHik7QV1S9yz7iVdlLlynkRXsUlhJOOrepEAGxZd2Mt5ZJ6o8ZAw7JDWFA1u58wY7LyXMiSGa8gaSmy62hLwpuGdSLzBvb6hBUwLxNliyQaU+JMTxTYXeoA5RhCLJ8FzPWuCoXMEhjrLjFF4TUCsXaEGebikr7baMtlLIzl3jlknMK3xzxMI6TkhkiqwvTNnQ6RHYldvChhg==;EKmrzzX2WPin42Rt1sK6PQ=="
 ---

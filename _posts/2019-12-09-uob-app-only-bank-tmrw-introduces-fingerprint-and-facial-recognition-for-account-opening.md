@@ -91,6 +91,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:00Z
+    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -241,6 +256,21 @@ related:
       - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
         width: 700
         height: 466
+  - title: "3D mask or photo fools airport and payment face-recognition, but not Face ID"
+    excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
+    publishedDateTime: 2019-12-16T14:02:00Z
+    sourceUrl: https://9to5mac.com/2019/12/16/3d-mask/
+    ampUrl: https://9to5mac.com/2019/12/16/3d-mask/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/12/16/3d-mask/amp/
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
+        width: 700
+        height: 349
   - title: "Homeland Security wants to use facial recognition on traveling US citizens, too"
     excerpt: "(CNN) -- The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed ..."
     publishedDateTime: 2019-12-10T13:25:00Z
@@ -490,19 +520,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
         width: 700
         height: 466
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z
@@ -540,6 +557,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
         width: 700
         height: 367
+  - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
+    excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
+    publishedDateTime: 2019-12-16T14:46:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/an-ai-company-test-demonstrated-how-easy-it-is-to-fool-most-facial-recognition-applications-but-not-apples-face-id.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
+        width: 600
+        height: 263
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z

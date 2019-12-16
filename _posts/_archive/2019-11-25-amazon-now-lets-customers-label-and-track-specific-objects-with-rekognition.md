@@ -45,19 +45,6 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
-  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
-    publishedDateTime: 2019-11-25T18:50:00Z
-    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
-        width: 671
-        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch, which requires specialized machine learning expertise and millions of high-quality labeled ..."
     publishedDateTime: 2019-11-26T16:37:00Z
@@ -71,7 +58,18 @@ related:
       - url: https://www.bing.com/th?id=ON.E687F96B53629E961E30AE533918307C
         width: 589
         height: 558
+  - title: "Amazon Rekognition Custom Labels"
+    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
+    publishedDateTime: 2019-11-26T03:02:00Z
+    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
+    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    type: article
+    provider:
+      name: pymnts
+      domain: pymnts.com
+    quality: 39
 
-secured: "VucRQmqf5JGNOvJXxfssb/dKLQnTo7D2eaMvzu1ujcQSUeZaXkGcQwhT9napOg7bNk9uBxhGqCWdgxDdQniWnZ5yuZ8awIi5yrvaeUHp379L7Tb/uqFcuCNqynbDSsutJSVKjW728M+R/WeBz9cYILQuJJY30hSvH7Kkd44CiHUGxL5TSLH8SpI/UhE26zItStgA9RKQFXR26t1RWAKiRcUB5R/VruYgBxEk6SD7X5/thDbVqo1fXlI5TZOxsJ2PCTSaHGKfgYoTKpptri303g==;+k93wt7UXiI+dgOg4MJy7A=="
+secured: "xUT/RlvisxD2P4cMDo0xG+VKH9hwie22LQHyZt1k5zCwgfc79lTQtVinBagKCmhMt7UA6Y6MrFT3nguv8bwJoiILuloPpPCiDkJx5SrZoCyFdnTcHxL/hTw7uO8yK1k5Rqj1MR1AagAnUwR2xQIS2/WYd/Bhzu8gz9DZ8ojXQWFYdiPyX4qWtce1kZw/svifIZhDjnMRPUL3tcJlIcJFH1twmABK1KwD7qqE2mylGcYnlUWk9VyvGJCsj7K+4wD9QcVgWhwf+hGhk6QmhcM4Sw==;3aZxOTDt3/ZzvJnJ+Ws9ew=="
 ---
 

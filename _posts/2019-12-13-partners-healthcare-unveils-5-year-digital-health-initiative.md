@@ -78,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D903242659D42EF9976F0992B412785A
         width: 480
         height: 320
+  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
+    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
+    publishedDateTime: 2019-12-16T14:13:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
 
 secured: "WxUWZhqQZUQg8vRKGFSP2Y9VpmBF3DOrHk/0HQSn/UGPnzTBIX/2VeaoYNCrBwWLqjKmsw2MfS7mtafY073xENtLMvXsKhqY7NBiyV7DQXjjVERWRfTt7nY/oL3F2YfQueUp3TJumwqDsR7Fsvqpkc/qmkbyp541GRA5ZTspPvw/j0v2B5M3JRrvI2bAuzTx4K4h58s4Rl1qQ+QrKf03kyPAkpCxiXnw9M4CPNJ9G4wUME4hc/jLpAzAJpSAalfijn4NYlLo3dnyOSnfYWhQAw==;OllDpWUVHwhn9NwN5Y9Rdg=="
 ---

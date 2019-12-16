@@ -153,19 +153,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E86AE4AE67233D5CD9D0EE76BF3D5CEC
         width: 700
         height: 525
-  - title: "UGA researchers receive grant to study self-driving cars"
-    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and machine learning techniques to try to make the system learn from data and identify patterns."
-    publishedDateTime: 2019-11-26T13:06:00Z
-    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
-    type: article
-    provider:
-      name: The Red & Black
-      domain: redandblack.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.EA24382FC5DE25CB0E80CD6C6C1B5E47
-        width: 700
-        height: 567
   - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
     excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
     publishedDateTime: 2019-11-27T20:54:00Z

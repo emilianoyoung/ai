@@ -37,6 +37,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "Top Companies in the Global Artificial Intelligence in Accounting Market: Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP (US), UiPath (US), Kore.ai (US), AppZen (US), YayPay (US), IBM (US), Google (US), EY (UK), Deloitte (US), PwC (UK), KPMG (Netherlands), SMACC (Germany), OneUp (US), Vic.ai (US), Hyper Anna ..."
+    publishedDateTime: 2019-12-16T13:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Division of Computational and Data Sciences marries AI, social science"
     excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
     publishedDateTime: 2019-12-13T18:22:00Z

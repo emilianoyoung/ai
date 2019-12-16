@@ -45,15 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B35420889D2ACB7EC3BF468B9E935E81
         width: 700
         height: 525
-  - title: "What WON'T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
-    excerpt: "As 2019 winds down, predictions abound on the technology advancements and innovations expected in the year ahead. However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research ..."
-    publishedDateTime: 2019-12-16T13:08:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-what-wont-happen-2020-5g-wearables-quantum-computing-/2019/12/16/9069965.htm
+  - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
+    excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
+    publishedDateTime: 2019-12-16T12:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005038/en/WON’T-Happen-2020-5G-Wearables-Quantum-Computing
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.80CB2605DE5CE780152AE8EFDEC4A8B7
+        width: 700
+        height: 365
 
 secured: "CO+RyV6rQLslEExX2el2w6mLQUu25W3qf56ZqjofFE73TNhtbNRZDI5u/po0+UZdS+oJjmg+QG7rmbXNcJW71UqL9vnayzRsbK32laiictTdzdUauygzApfrCSCctI9WxkZOrPF4lw3A7HilMGFgdDoCHnaWhI0UQw5l2hpOXv0Tx8mOFwx1cKb+MvrLnftFEiLKuKBG89CJ8UtIQPmwjPMRSkAZolzDHB8GzVTgw9vcMDRhEG/1Pj9wPI/9L6ikCcE8lCvJKpIT0WlQrKoLqA==;MV70194x+0rFdIAMjF+90w=="
 ---

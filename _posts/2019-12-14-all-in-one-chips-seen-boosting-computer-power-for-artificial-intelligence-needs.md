@@ -24,19 +24,32 @@ images:
     title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
 
 related:
-  - title: "Combine the Power of Video Indexer and Computer Vision"
-    excerpt: "Whereas keyframes were previously exported in reduced resolution compared to the source video, high resolution keyframes extraction gives you original quality images and allows you to make use of the image-based artificial intelligence models provided by the Microsoft Computer Vision and Custom Vision services to gain even more insights from ..."
-    publishedDateTime: 2019-12-11T18:49:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/combine-the-power-of-video-indexer-and-computer-vision/203756
+  - title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
+    excerpt: "Researchers and companies working with AI technologies have had to make do with off-the-shelf hardware that was not originally built for the massive amount of computational power required to perform these tasks. The available standard digital platforms, the chips and the processors, are “not suited for this,” Kvatinsky said. “The hardware ..."
+    publishedDateTime: 2019-12-11T14:20:00Z
+    sourceUrl: https://www.timesofisrael.com/all-in-one-chips-seen-boosting-computer-power-for-artificial-intelligence-needs/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 39
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 52
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://www.bing.com/th?id=ON.6A2E19F791698445A0054FCF0B0985DD
+        width: 700
+        height: 437
+  - title: "Battery-Free Computer Input at Your Fingertips | IDTechEx Research Article"
+    excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Researchers created the prototype of Tip-Tap as part of a ..."
+    publishedDateTime: 2019-12-05T08:53:00Z
+    sourceUrl: https://www.idtechex.com/en/research-article/battery-free-computer-input-at-your-fingertips/19005?donotredirect=true
+    type: article
+    provider:
+      name: IDTechEx
+      domain: idtechex.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.8E6B6E89B70DACAD4B5E5D42C38A189A
+        width: 700
+        height: 365
 
 secured: "xmvKXqIhRJt0x7clcIqXUThykxTFmjOi5xXe0TKsyPUnaoC7gUlZC0L+FyXygR/xsbomdq/o+BmacT7B3UYj8pJujice9T7+LbA20vwOzC7NZ/v88wXHzfLCu7UgYP35HkJJyoo9XVEYKA0/dS8EoCJ0F+XkLnKHf7MfjTOW5okXfNvweU5EoCtn1HeiD/eOlEP525BkSILX/4pgESDB2VTka1LZ66FE0igOEDAmkJGKwwZvEWWd0nO7Vbu8lf25f78nxORPPMSFeNCeseWSFQ==;Qn/niCywe5Knh97uxLdpSg=="
 ---

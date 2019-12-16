@@ -24,34 +24,32 @@ images:
     title: "Battery-Free Computer Input at Your Fingertips | IDTechEx Research Article"
 
 related:
-  - title: "Novel battery-free device enables discrete fingertip computer input"
-    excerpt: "If the surgeon tries to navigate it themselves using a touchscreen or a mouse, it's problematic because it would require constant sterilization, and current alternatives such as big gestures tracked by computer vision can get very tiring. The idea is if ..."
-    publishedDateTime: 2019-12-02T16:49:00Z
-    sourceUrl: https://www.news-medical.net/news/20191202/Novel-battery-free-device-enables-discrete-fingertip-computer-input.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191202/Novel-battery-free-device-enables-discrete-fingertip-computer-input.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191202/Novel-battery-free-device-enables-discrete-fingertip-computer-input.aspx
+  - title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
+    excerpt: "Researchers and companies working with AI technologies have had to make do with off-the-shelf hardware that was not originally built for the massive amount of computational power required to perform these tasks. The available standard digital platforms, the chips and the processors, are “not suited for this,” Kvatinsky said. “The hardware ..."
+    publishedDateTime: 2019-12-11T14:20:00Z
+    sourceUrl: https://www.timesofisrael.com/all-in-one-chips-seen-boosting-computer-power-for-artificial-intelligence-needs/
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 52
     images:
-      - url: https://www.news-medical.net/image.axd?picture=2018%2f7%2f91ddc6498ae046de959ddcfb662105d8-620x480.jpg
-        width: 620
-        height: 480
-  - title: "New device enables battery-free computer input at the tip of your finger"
-    excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. \"The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Researchers created the prototype of Tip-Tap as part of a ..."
-    publishedDateTime: 2019-12-02T14:25:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-11/uow-nde112719.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.455EBE19B4A786408A482E92ACDAC7E2
+      - url: https://www.bing.com/th?id=ON.6A2E19F791698445A0054FCF0B0985DD
         width: 700
-        height: 345
+        height: 437
+  - title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
+    excerpt: "This will help provide the computing power needed for artificial intelligence-based applications, the researchers said. The new device enables the creation of a “hardware neural network” inspired by the operation of the human brain, and will “significantly” accelerate the operation of AI-based computing, the Technion said in a statement."
+    publishedDateTime: 2019-12-14T03:31:00Z
+    sourceUrl: https://journal.com.ph/technology/other-technologies/all-one-chips-seen-boosting-computer-power-artificial-intelligence
+    type: article
+    provider:
+      name: Journal
+      domain: journal.com.ph
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.25DAA1E450A83043AEC8F80E5E44F942
+        width: 700
+        height: 467
 
 secured: "YCp1loTEaWRhgdTXLRoO3cn0kZ0ac6LAcCuyKRnb/ajtJMZX1XhmbAk9+5E55fynUUgwKU6/IBby8UVtO3JwiRuPdWN/lNVj4qRLCgK39ybZcRu28M3fOoNCKXsOGggNSmith4fU3LwMynqnsbUEeHDbuHPbqhfaPS8sTIEhbqHfqTqWzZjBl10lLLOm07kHXMFU3rOmSALCge0SJX7vlKuX2klY+F5vVUoFGgutJ2iThZYezhYBB5hy27G+v4mo+SYzVfR5//COrmwBaHEVJA==;otY42uyFF+gV+tpI7Ugzlg=="
 ---

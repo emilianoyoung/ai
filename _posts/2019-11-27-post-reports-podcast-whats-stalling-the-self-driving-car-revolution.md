@@ -153,19 +153,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E86AE4AE67233D5CD9D0EE76BF3D5CEC
         width: 700
         height: 525
-  - title: "UGA researchers receive grant to study self-driving cars"
-    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and machine learning techniques to try to make the system learn from data and identify patterns."
-    publishedDateTime: 2019-11-26T13:06:00Z
-    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
-    type: article
-    provider:
-      name: The Red & Black
-      domain: redandblack.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.EA24382FC5DE25CB0E80CD6C6C1B5E47
-        width: 700
-        height: 567
   - title: "What’s stalling the self-driving car revolution"
     excerpt: "Clear analysis. Every weekday afternoon. For years, engineers have raced to program artificial intelligence to recognize the scenarios that human drivers understand implicitly — like the difference between a shadow, a puddle and a pothole. But their efforts to propel self-driving cars into the mainstream have sometimes had disastrous results ..."
     publishedDateTime: 2019-11-27T17:34:00Z

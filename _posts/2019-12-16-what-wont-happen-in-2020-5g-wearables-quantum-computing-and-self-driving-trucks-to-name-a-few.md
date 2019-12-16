@@ -1,21 +1,27 @@
 ---
 category: news
-title: "What WON'T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
-excerpt: "As 2019 winds down, predictions abound on the technology advancements and innovations expected in the year ahead. However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research ..."
-publishedDateTime: 2019-12-16T13:08:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-what-wont-happen-2020-5g-wearables-quantum-computing-/2019/12/16/9069965.htm
+title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
+excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
+publishedDateTime: 2019-12-16T12:00:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191216005038/en/WON’T-Happen-2020-5G-Wearables-Quantum-Computing
 type: article
-quality: 0
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.80CB2605DE5CE780152AE8EFDEC4A8B7
+    width: 700
+    height: 365
+    title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
 
 related:
   - title: "ProBeat: AWS and Azure are generating uneasy excitement in quantum computing"
@@ -49,6 +55,6 @@ related:
         width: 700
         height: 525
 
-secured: "g+IXaPqfYsGGadR50S7BtrD64dr1a9K2bP9Y7vGiyQdyABYGuzz5CEtWdkqOVwHgl5r+bsjR00o0tOPxWhdZRRTTE0QFuO/RkhCiNILnQX291VIuumcbVxq9P3D6VFd/rrf8HK5P5zZThF4aFiFCdsPM7PSpPXJZQoHKcN2ko0dbA/Vn56U1uuC5IMqnJiwPteJPaSuDtfIDWRIpQ6CMW/53823ey4MXlgZqKOff93lftaL/SirLvOrCIz0NWoUaa6nFkseGnIfJ/vwffQaQLw==;9VJkEkrONIJ/40icfAcRnQ=="
+secured: "yH0+oDmOaOx575JghZSyE6mkv3xARl5NF83u0+Yxvop3USDtSCYXWNR/RSbm/cJzZT36QMZ/I5bxcjPCZ/5BcVppcLtOhIypgBGGG8AtHuV2H3WakVUk3VX/roiYHlLWFs41ELeDMre1Vq8wV3FdLcLHbnl7TBbAckSXhNjq2pGCKl2gF2VHsHEkW/nz+359HBoSfScDn40ekHMmo0v2ktXSe93z0ASDkP2TMmgNbGeMyutdi2nBEFYywr8ei1WZYwaF1zJCrRKVD21vIRblMw==;xgqvksMjWmtECEX9qmMulQ=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/12/11-often-ove
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/12/11-often-overlooked-ways-to-leverage-machine-learning-for-advertising/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "11 Often-Overlooked Ways To Leverage Machine Learning For Advertising"
 
 related:
+  - title: "How Machine Learning Is transforming Video Advertising"
+    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
+    publishedDateTime: 2019-12-16T14:08:00Z
+    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
+        width: 600
+        height: 314
   - title: "Sandline Discovery Leverages NexLP's Cognitive AI to Deliver Leading Behavioral and Linguistic Intelligence"
     excerpt: "WASHINGTON, Dec. 10, 2019 /PRNewswire/ -- Sandline Discovery, a premier litigation support and eDiscovery service provider, has selected NexLP's cognitive AI platform to assist in delivering new innovative analysis services to its growing global client base. Leveraging powerful data analytics and machine-learning driven tools are at the heart ..."
     publishedDateTime: 2019-12-10T17:41:00Z
