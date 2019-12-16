@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY(TM), an AI Assisted Polyp Detector"
-    excerpt: "PENTAX Medical is committed to continuously exploit the use of Artificial Intelligence in additional medical fields ... From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve their efficiency ..."
-    publishedDateTime: 2019-12-16T08:57:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hoya-group-pentax-medical-cleared-ce-mark-for-discovery-tm/article_23fa6dfc-62fc-5c68-b179-758dcd89c66c.html
+    excerpt: "PENTAX Medical is committed to continuously exploit the use of Artificial Intelligence in additional medical fields ... dedicated to their needs. From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve their efficiency and minimize their healthcare costs. Enriching patient and ..."
+    publishedDateTime: 2019-12-16T07:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/hoya-group-pentax-medical-cleared-ce-mark-for-discoverytm-an-ai-assisted-polyp-detector-300975091.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 29
     images:
-      - url: https://www.bing.com/th?id=ON.FE8A1A66503C811648FED8667018BB57
-        width: 400
-        height: 267
+      - url: https://www.bing.com/th?id=ON.A0830A366C811D1D176DFE0A601760A5
+        width: 700
+        height: 366
 
 secured: "YcyZw6qYp3nyohdUMedsu3jer+Nk3+lByeNdoSMX6NkWfPGC3ywdPlFDhTrcdUADzupxnj6sHeDQA+2lbnEYhzwBWqNpFuSNflEF+TkBMw41WGsKoTKz48UtgIlgL+Kcu/kSuDlCFrsZ/IaAvvEsoyZG4kIMOTYE33UyNfBVUE20O1NsfFx31dFu/EYJPHVqPh2lVkUWIJeN8uHzCMWHlffIhNne/uzn1Ib26YZFFTY/pCQSOQPIOBhtOlKwRi39PiflWVkb4fyjH0dnMtrT4g==;aVEzTrjw80MocUIFvCXtJQ=="
 ---

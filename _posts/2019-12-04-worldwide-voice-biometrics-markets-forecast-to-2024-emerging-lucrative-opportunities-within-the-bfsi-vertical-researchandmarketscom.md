@@ -24,19 +24,19 @@ images:
     title: "Worldwide Voice Biometrics Markets, Forecast to 2024 - Emerging Lucrative Opportunities Within the BFSI Vertical - ResearchAndMarkets.com"
 
 related:
-  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
-    publishedDateTime: 2019-12-09T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
+  - title: "Global Robotics and Automation Markets 2019-2024 in Industrial, Enterprise, Military, and Consumer Segments - ResearchAndMarkets.com"
+    excerpt: "Adoption and usage is anticipated to rapidly increase with improvements to artificial intelligence, robotic form factors, and fitness for use, cloud computing and related business models, such as robotics as a service. The global robotics market is broadly segmented into enterprise, industrial, military, and consumer robotics. Major market ..."
+    publishedDateTime: 2019-12-03T11:27:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191203005553/en/Global-Robotics-Automation-Markets-2019-2024-Industrial-Enterprise
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
-        width: 669
-        height: 229
+      - url: https://www.bing.com/th?id=ON.84394F7BC5D1CEA7721D120511082191
+        width: 700
+        height: 365
 
 secured: "W4iQFG7FSTb5Nw87E68HjUtKbVoYdhKYg9C4fJG2l330GYZ2o01dMMbJy3kw7vMYHe7XbdZT8ucOAsvcQwP1bdff4SAuz7T6NSxPJgCKh6aJ5Udru4AOWA38WVbAbA/l9rTQghKd4vQIuSgv4KPY4jRfEAPKtb18bljNvuT9hMlAdu/QNcmu9eoQiM8TLfJkZCgkZVOeZKmVgZfmiJQdtrwD7i9LQ9tzmrvbclgunzVwbCNmsCMPDGv1l5mIuUyONBFC5lUi5Wx9lSZD44qesw==;gG9sjJWv86f6Duvhp4wOnA=="
 ---

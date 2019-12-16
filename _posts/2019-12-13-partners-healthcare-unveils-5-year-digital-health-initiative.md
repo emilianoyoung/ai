@@ -54,6 +54,17 @@ related:
       - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
         width: 700
         height: 323
+  - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
+    excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
+    publishedDateTime: 2019-12-16T09:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 50
   - title: "Partners HealthCare launches five-year $100M digital health initiative"
     excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
     publishedDateTime: 2019-12-13T17:05:00Z

@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/14985917
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14985917
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -19,19 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market : Future Challenges, Production, Demand Analysis And Outlook To 2029"
-    excerpt: "Dec 13, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence (AI) in Agriculture Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence (AI) in Agriculture marketers and ..."
-    publishedDateTime: 2019-12-13T05:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-future-challenges-production-demand-analysis-and-outlook-to-2029-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
     excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
     publishedDateTime: 2019-12-10T11:43:00Z

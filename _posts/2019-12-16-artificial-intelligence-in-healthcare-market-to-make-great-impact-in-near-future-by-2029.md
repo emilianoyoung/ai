@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
-excerpt: "Dec 13, 2019 (Global Research Wire via COMTEX) -- QY Research recently published a research report, titled, \"Global Artificial Intelligence in Healthcare Market Report, History and Forecast 2014-2025, Breakdown Data by Companies, Key Regions, Types and Application\". The expanding horizons of artificial intelligence (AI) have entered the ..."
-publishedDateTime: 2019-12-13T04:21:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-to-cross-us15-billion-by-2025-at-a-cagr-of-over-40---qy-research-2019-12-13
+title: "Artificial Intelligence in Healthcare Market To Make Great Impact In Near Future By 2029"
+excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
+publishedDateTime: 2019-12-16T08:24:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
 type: article
-quality: 60
-heat: -1
-published: false
+quality: 75
+heat: 105
+published: true
 
 provider:
   name: MarketWatch
@@ -25,18 +25,18 @@ images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
+    title: "Artificial Intelligence in Healthcare Market To Make Great Impact In Near Future By 2029"
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market To Make Great Impact In Near Future By 2029"
-    excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
-    publishedDateTime: 2019-12-16T08:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
+  - title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
+    excerpt: "Dec 13, 2019 (Global Research Wire via COMTEX) -- QY Research recently published a research report, titled, \"Global Artificial Intelligence in Healthcare Market Report, History and Forecast 2014-2025, Breakdown Data by Companies, Key Regions, Types and Application\". The expanding horizons of artificial intelligence (AI) have entered the ..."
+    publishedDateTime: 2019-12-13T04:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-to-cross-us15-billion-by-2025-at-a-cagr-of-over-40---qy-research-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -68,6 +68,6 @@ related:
         width: 1200
         height: 630
 
-secured: "2lr2CAGsKih5AYqbrBnlgHCnSM9lGpaLUbRacNqkU+P8ywpMSgpveWkvmoU6a/AabLVht0KVPomF0Jut+1If3xtAy34UhVhhLAWLCHtnpJa5WMOyWvX00opv3872jY6HLwWZsrJJc+z0MUuuOic2hZuavkYu1PDLqEVTlow/bwBDGuGNeURv2bxCJdER5J631oeI7MWC8Fm9LanhU/CR7xzaroYOhaQGncAnVL7WXvAHkqWYxuQoTGB8kt9a+Q+pSQKIfgGEJiMEDcLBAfsVvw==;pixiOtHNJLTRG+n5IF62hw=="
+secured: "aV6hc1o3+4+JeIed1JyHxvFWtuu0gE2363DOjEemw6gZJxwndPFIz9mRAdd+5jh5c9ggm53Kl3GVlOtY1KAV8EQCAH47rUia+4+8K0XNqh/kc+e/m9UW+STDZqdhFDS6k3a966rBaBebChfSFIseE8zpgh8bjxsvq294kPUxwHd6nsyWwLl1lCy9IZzNOPvjmMkVppyzPirLIt8kvHjFqEIpLOy/IsBoE/YAYMx+c5/XZ4ssZem9BZzANkN3R7I5HCVUXuHspl4ADwJxTRQL2w==;0xOQTGV756SNBSAcPuq/IA=="
 ---
 

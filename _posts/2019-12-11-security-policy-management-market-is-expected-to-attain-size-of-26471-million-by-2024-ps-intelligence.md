@@ -17,19 +17,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Energy Market to see Booming Worldwide | IBM, Siemens & Grid4C"
-    excerpt: "Dec 13, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Artificial Intelligence in Energy Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-to-see-booming-worldwide-ibm-siemens-grid4c-2019-12-13
+  - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
+    excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
+    publishedDateTime: 2019-12-14T12:50:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14992513/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-33-6-from-2019-to-2025-gr
+    ampUrl: https://amp.benzinga.com/amp/content/14992513
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
+        width: 600
+        height: 300
 
 secured: "Y4T16ShilNPuZLzbI2o0tZoGtNrkJeMybAdIv4Kg2NPOi2DnGpl4WpLGrsneS2MK2Xckc3dIEOnXdumbJMXuLnykfIEv7ogEAfcJDtJNBk41jd4FNfIi1S8q+C0Fw21e97qzolEzHTC1LpdGCqjMT0Bny2kToWC5KimPSc4qgE+MDl6qpsNp2D+Ysh86HVVrcGE5XB4rOGZeR143bZFi3AqHaGwo+aFF+IoGRB5i7iM/QgIwMoWlq6zzL8g7NITVIoGLRodYVMIXd4qsnyxOHw==;iXfN4cDVh+VNFltyKoxZeA=="
 ---

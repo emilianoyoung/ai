@@ -26,32 +26,36 @@ images:
     title: "China’s artificial intelligence market to reach US$11.9 billion by 2023"
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
-    excerpt: "Dec 13, 2019 (Global Research Wire via COMTEX) -- QY Research recently published a research report, titled, \"Global Artificial Intelligence in Healthcare Market Report, History and Forecast 2014-2025, Breakdown Data by Companies, Key Regions, Types and Application\". The expanding horizons of artificial intelligence (AI) have entered the ..."
-    publishedDateTime: 2019-12-13T04:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-to-cross-us15-billion-by-2025-at-a-cagr-of-over-40---qy-research-2019-12-13
+  - title: "Memory chip market to rebound in 2020: Report"
+    excerpt: "artificial intelligence (AI), deep learning and virtual reality will also drive demand for NAND flash and DRAM. The forecast suggests South Korea's two major chipmakers -- Samsung Electronics Co. and SK hynix Inc. -- can make a turnaround in sales next year and maintain their firm grip on the global memory chip market. As of the third quarter ..."
+    publishedDateTime: 2019-12-07T08:58:00Z
+    sourceUrl: https://telecom.economictimes.indiatimes.com/news/memory-chip-market-to-rebound-in-2020-report/72414031
+    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
+    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research(R)"
-    excerpt: "https://www.meticulousresearch.com/product/artificial-intelligence-in-retail-market-4979/ Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography - Global Forecast to 2025 ..."
-    publishedDateTime: 2019-12-10T10:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027--exclusive-report-by-meticulous-researchr-2019-12-10
+      - url: https://www.bing.com/th?id=ON.EED161642E757683C00E68107424DAF9
+        width: 700
+        height: 379
+  - title: "Memory chip market to rebound in 2020: Report"
+    excerpt: "artificial intelligence (AI), deep learning and virtual reality will also drive demand for NAND flash and DRAM. The forecast suggests South Korea's two major chipmakers -- Samsung Electronics Co. and SK hynix Inc. -- can make a turnaround in sales next year and maintain their firm grip on the global memory chip market. As of the third quarter ..."
+    publishedDateTime: 2019-12-08T05:58:00Z
+    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
+    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
+    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.231EB6EEDFA9BACD565039A3556B5B18
+        width: 700
+        height: 379
   - title: "AI in BFSI Market to Reach $247.36 Bn, Globally, by 2026 at 38.0% CAGR: Allied Market Research"
     excerpt: "Natural Language Processing, and Context Aware Processing) : Global Opportunity Analysis and Industry Forecast, 2019–2026.\" According to the report, the global AI in BFSI industry was estimated at $17.76 billion in 2018 and is expected to hit $247.36 billion by 2026, registering a CAGR of 38.0% during the estimated period. Drivers ..."
     publishedDateTime: 2019-12-06T08:34:00Z
@@ -67,39 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
-  - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
-    excerpt: "Dec 14, 2019 (AB Digital via COMTEX) -- The global&nbsp;artificial intelligence chipset market&nbsp;size is expected to reach USD 59.2 billion by 2025, according to a new report by Grand View Research, Inc. The artificial intelligence (AI) chipset market is anticipated to expand at a CAGR of 33.6% from 2019 to 2025. An artificial intelligence ..."
-    publishedDateTime: 2019-12-14T12:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-336-from-2019-to-2025-grand-view-research-inc-2019-12-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
-    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
-    publishedDateTime: 2019-12-10T10:59:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14961035/artificial-intelligence-ai-in-supply-chain-market-worth-21-8-billion-by-2027-exclusive-report-by-m
-    ampUrl: https://amp.benzinga.com/amp/content/14961035
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14961035
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
-    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
-    publishedDateTime: 2019-12-11T00:31:00Z
-    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-ai-supply-chain-115931747.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 9
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
     publishedDateTime: 2019-12-13T12:30:00Z

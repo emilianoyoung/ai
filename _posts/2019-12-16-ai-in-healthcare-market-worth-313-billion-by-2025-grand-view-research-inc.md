@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
-excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
-publishedDateTime: 2019-12-09T05:43:00Z
-sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
-ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
-cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
+title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
+excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
+publishedDateTime: 2019-12-16T09:09:00Z
+sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
+ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
 type: article
-quality: 65
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Proactiveinvestors UK
-  domain: proactiveinvestors.com.au
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
-    width: 700
-    height: 323
-    title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
 
 related:
   - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
@@ -41,17 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
         width: 700
         height: 525
-  - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
-    excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
-    publishedDateTime: 2019-12-16T09:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
+  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
+    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
+    publishedDateTime: 2019-12-09T05:43:00Z
+    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
+    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
+    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 50
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
+        width: 700
+        height: 323
   - title: "Partners HealthCare launches five-year $100M digital health initiative"
     excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
     publishedDateTime: 2019-12-13T17:05:00Z
@@ -79,6 +77,6 @@ related:
         width: 700
         height: 367
 
-secured: "WF0ZNz+OsHcwSaXacUTaKBXSqvFRZoJjTGeGVIGiDTE6MOfqSYwuqwl4fpsfH549fMEk+5B3q3cAyrZECAVzhohnKhacbS7KZOZ8vhMFwfKP6hXAJUBho+EsBlj/WoNuRaJUzZbuaCavovifnQW7zli8wxjrMHzOJ70ZdmWuF0W1XTYZ/s0Lz47CDPteX34DjK99QZBbyoDSTaKBnN0yjNIJB5KBI+yl37vuHNLwETBbtbLl5GTLt/9AUqjkqZf4a8aObByc8K8FMVNLMVJUOg==;WOsnQVDN7u8JwJmiJmCv8A=="
+secured: "jcE8HE4KFnIuPRTcTYEPxFG90iZLRyK/Hi381YYrDOYgRKnBoskxAQ4XhZevsIoTpYCaEtUlkd/uZf9Km+oDJW4qL1GiM1/XNnD6VHNxIJ6RyzjX8Zv4DFrEGn71vOGAvcEvc+visQDK/Nwzsw3vkCey627aD1J2sa8Z0DcAHOeoeJEDimqxJ8L2WC8/qlpWo+YvoeXWWx4V+6sp0lxqLn5ctCZBJBmlVHwjkEc89UqY90yv/znPfQe+jwgR6fQ4ZbwgVXPHk88f/C7/HbpMZA==;otUdiUKB8xImmsEPalnutA=="
 ---
 

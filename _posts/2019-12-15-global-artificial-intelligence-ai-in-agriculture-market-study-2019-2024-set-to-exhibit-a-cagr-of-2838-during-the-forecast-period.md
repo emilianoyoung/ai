@@ -17,19 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market : Future Challenges, Production, Demand Analysis And Outlook To 2029"
-    excerpt: "Dec 13, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence (AI) in Agriculture Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence (AI) in Agriculture marketers and ..."
-    publishedDateTime: 2019-12-13T05:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-future-challenges-production-demand-analysis-and-outlook-to-2029-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
     excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
     publishedDateTime: 2019-12-13T08:58:00Z

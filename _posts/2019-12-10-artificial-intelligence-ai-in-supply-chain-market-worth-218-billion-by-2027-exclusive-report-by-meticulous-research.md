@@ -21,34 +21,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
-    excerpt: "Dec 13, 2019 (Global Research Wire via COMTEX) -- QY Research recently published a research report, titled, \"Global Artificial Intelligence in Healthcare Market Report, History and Forecast 2014-2025, Breakdown Data by Companies, Key Regions, Types and Application\". The expanding horizons of artificial intelligence (AI) have entered the ..."
-    publishedDateTime: 2019-12-13T04:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-to-cross-us15-billion-by-2025-at-a-cagr-of-over-40---qy-research-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "China’s artificial intelligence market to reach US$11.9 billion by 2023"
-    excerpt: "The artificial intelligence (AI) market in China is expected to reach 11.9 billion ... The potential areas of China’s AI market will focus on the fields such as service sector, health care and telecommunications. According to the white paper, the lack of AI technicians and high-quality data sets are the primary challenges of AI development."
-    publishedDateTime: 2019-12-08T07:52:00Z
-    sourceUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/
-    ampUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
-    cdnAmpUrl: https://newsghana-com-gh.cdn.ampproject.org/c/s/newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
-    type: article
-    provider:
-      name: News Ghana
-      domain: newsghana.com.gh
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E101638180B74A5E5B8E2EC84CDCD6D1
-        width: 544
-        height: 334
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research(R)"
     excerpt: "https://www.meticulousresearch.com/product/artificial-intelligence-in-retail-market-4979/ Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography - Global Forecast to 2025 ..."
     publishedDateTime: 2019-12-10T10:59:00Z
@@ -62,34 +34,45 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in BFSI Market to Reach $247.36 Bn, Globally, by 2026 at 38.0% CAGR: Allied Market Research"
-    excerpt: "Natural Language Processing, and Context Aware Processing) : Global Opportunity Analysis and Industry Forecast, 2019–2026.\" According to the report, the global AI in BFSI industry was estimated at $17.76 billion in 2018 and is expected to hit $247.36 billion by 2026, registering a CAGR of 38.0% during the estimated period. Drivers ..."
-    publishedDateTime: 2019-12-06T08:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-bfsi-market-reach-247-083000189.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
+    excerpt: "BIS Research Report: https://bisresearch.com/industry-report/artificial-intelligence-agriculture-market.html Some of the popular use cases of AI in agriculture include predictive analytics, robotics, unmanned aerial vehicles, and autonomous farm vehicles. As per agricultural applications, crop protection, weather forecasting, farm machinery ..."
+    publishedDateTime: 2019-12-05T10:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-to-reach-2-015-7-million-by-2024--300969688.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.EADC4EFC848C08E651CC3B2E6F2086B1
+        width: 700
+        height: 439
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
+    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in agriculture market is estimated at $578.0 million in 2019 and is projected to reach $2,015.7 ..."
+    publishedDateTime: 2019-12-06T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-113000263.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 47
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
+      - url: https://www.bing.com/th?id=ON.B29BF5305630D9A2599CBFBC3F6556A1
         width: 400
-        height: 400
-  - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
-    excerpt: "Dec 14, 2019 (AB Digital via COMTEX) -- The global&nbsp;artificial intelligence chipset market&nbsp;size is expected to reach USD 59.2 billion by 2025, according to a new report by Grand View Research, Inc. The artificial intelligence (AI) chipset market is anticipated to expand at a CAGR of 33.6% from 2019 to 2025. An artificial intelligence ..."
-    publishedDateTime: 2019-12-14T12:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-336-from-2019-to-2025-grand-view-research-inc-2019-12-14
+        height: 251
+  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
+    publishedDateTime: 2019-12-09T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
+        width: 669
+        height: 229
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
     excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
     publishedDateTime: 2019-12-11T00:31:00Z
@@ -99,19 +82,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 9
-  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
-    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
-    publishedDateTime: 2019-12-13T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
-        width: 700
-        height: 700
 
 secured: "ltCqC+iE2Fj1UZFq8HfisT/DWrMzysyydpWeErVz2lhHvcl6uhY5WJdkKBDKNCgyRudm9LWOgTKGtypUBQab8sqm3CkA0WFSFhfUnB93HaYHVEHNNs7lx34a6FQRL6ZoBWsGFBoRqyzuPYA8ly4h4pOVWkV/XNL9FEhjhZ+/gCKlTZb/ULdJagQ4tqj4R8iQIOFOZwmjBu08bYBP66VFrhOuco+EzXCHVMFoQk43YHZOBdiOG9AUNjXdgPajRcseUMMnc9Y0PYObkVYFA3IX/w==;BgIs7tVKibv2bBWih/X3Jw=="
 ---

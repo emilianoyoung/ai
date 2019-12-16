@@ -31,13 +31,17 @@ images:
 related:
   - title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
     excerpt: "HOUSTON, Dec. 12, 2019 /PRNewswire/ -- United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, followed a strong appearance at the annual meeting of the Radiological Society of North America (RSNA) with a win in a competition jointly organized by Facebook AI Research and NYU Langone Health. The company's United ..."
-    publishedDateTime: 2019-12-12T13:12:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-united-imagings-artificial-intelligence-subsidiary-wins-facebook-ai-/2019/12/12/9068712.htm
+    publishedDateTime: 2019-12-12T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/united-imagings-artificial-intelligence-subsidiary-wins-in-facebook-ai-research--nyu-school-of-medicine-global-competition-300973788.html
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
 secured: "aImvruCQ9GvWTHmg2FY013QECv7+yTNgqYAdCfkCZPUUeR6d8vfo9tHPWUg0j0edz32fsjZHYjZuBE092z2TX7047NusFQhTPTLEbWzTtWEpkIPhacKSXDGeDu0ZPHGhP4eWJ3alvWQPsNfgss15IRvPpsdgiiglZtlqlaqHD2c8TQ+QBXeujVew6Kx2QOAVzdP2yvMdB7ReXaAnH657iJS4Mb+rbdjLzrxhtjjb0wXbf3uEh/Mm/nPT8DBWn7pZ1E+m1RvwnMP1e35lhDrZag==;8wlPGxmr1xJHPq81UzboHw=="
 ---
