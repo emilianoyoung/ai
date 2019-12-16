@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AWS expands DeepRacer league, announces car updates"
-excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with ..."
-publishedDateTime: 2019-11-27T14:48:00Z
-sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
-cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
+publishedDateTime: 2019-11-27T14:37:00Z
+sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
+ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-    width: 700
-    height: 554
-    title: "AWS expands DeepRacer league, announces car updates"
 
 related:
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
@@ -103,6 +101,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "yNMJEjsRWywEUiJBsSq6j4SQVupqopfDTYte76a40SAbhG1B2Dtd2S7vuRWrg0Ia4yRHuDP/QKIEZp/6EbPjih890C0IMnvGHxXmEuJ7K5pa37FcdbCiJF7gIu+5jVeNXcRWbICBnuC+t5wF4YZ23tEqbuwq89KtpiX6zVGZg374SjbIWZXCW9rbgA6l1W/U4sjh7hyKldNVUuI6ZhBecmhEOOit3HJjvHtSDZH+ppFHMdzsgyyqpPenjdmsNunOsgnR1kEBEFI4LfDOPLfS1Q==;1l4DuhpSxPZQYZYIPKu44A=="
+secured: "0OJWng9o0r3b2rb6fMRcYIU8UOCwBkG7asooMLDzZUBBm/UyXgGwQYhyuGjH2EQZQHn94R9xprtHUUDIXmoVhLdDtB9tQty7UmuVzJIqWx6Z/9IScqTcbAgMag4QrCtwh0JK/npJNDLmNs+4GUmnwdjf/SKoxUCD2ntoZklJDU87BCTcQVfmRlADrkzOiIRLcaUK0ueqv9jNamci5q8rvtT8dQUs6fTH7Uq+o1xkSx8wN/mwPzSpH94P80/7sa8FS1jP9ck8T0Lw/N1XI/Cbsw==;7YL/WoTYMzhqaOSnGlhddw=="
 ---
 

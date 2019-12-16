@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Using artificial intelligence to determine whether immunotherapy is working"
-excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
-publishedDateTime: 2019-11-23T19:01:00Z
-sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
+excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. \"Even though immunotherapy has changed ..."
+publishedDateTime: 2019-11-23T07:43:00Z
+sourceUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.html
+ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 72
+heat: 102
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
+    width: 2557
+    height: 1199
+    title: "Using artificial intelligence to determine whether immunotherapy is working"
 
 related:
   - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
@@ -62,6 +66,6 @@ related:
         width: 690
         height: 400
 
-secured: "2Rlqt6YgxHRzGpv/hN0vL3JnDoQI4ddlOzNTV/MV2Bg40id/tRdmCjNCKOjGJpyG2eiG5C7qa0MvlrnC4WUUtc5nQOLC1BuQWmKH7YSHrrzzbYUO8ykVGkmQ8Gs5HJgKLN1btqIK2kiwzk9a+HJr/p17/WGOkjvb/xJwWSXRM8/HO2kF9TSO5Yljwhi7MWEaDRZGpbAMid0PXR08yWRnpIiL21ZVTO6v2xMsRQAfm4lNL3/+7BYiJLtYVnPexJ9cSXzCbMoGKtuqhz62yDoYVg==;UYX8BWPXBVfc4WHiceu4XA=="
+secured: "eG9bRsdE2n/6/FWBiF2ZUwheD6MwpFvTQenJr2vu3ZAoRVYwoeSHgUKOVT2EFdORTcNawhkytXQKEF0CuuxPfF7GUAlK2tZOAis9tHw1wv0T6U87hUrGzI8dK9wLO4TDyjQOSx12KmWQ2akYUhQcdDkoWssMfIx8tWDnVOI2NOokvhUElKHqpNVr2C9Hg0RDm5MRB7d72IPqSCWL0gQgTO2MMcZk5WCqjrAPKrJADiYygdM8zxte3G15BBLUjMXkHhfx76SNhei1Rmi9yecxcg==;y8HLTcpesirDzhWgGOdFiA=="
 ---
 

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
-excerpt: "The autonomous luxo-barges are part of a test program that hopes to develop a true Level 4/5 autonomous vehicle. Many companies working on self-driving car projects seem to think that people want to be wafted about between destinations in some kind of living room-like pod thing. Sure, that idea will appeal to some consumers but I think there is ..."
-publishedDateTime: 2019-12-09T13:03:00Z
-sourceUrl: https://www.cnet.com/roadshow/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-ampUrl: https://www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
+title: "Walmart to offer self-driving delivery service"
+excerpt: "HOUSTON, Texas (KTRK) -- Walmart plans to partner with the technology company Nuro to offer a pilot program that delivers groceries with self-driving vehicles. The program will use Nuro's R2 vehicle that allows customers to access their deliveries with a code on their phone. The retail chain said the pilot program will begin with a small group ..."
+publishedDateTime: 2019-12-16T03:08:00Z
+sourceUrl: https://abc13.com/technology/walmart-to-offer-self-driving-delivery-service/5758120/
+ampUrl: https://abc13.com/amp/technology/walmart-to-offer-self-driving-delivery-service/5758120/
+cdnAmpUrl: https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/technology/walmart-to-offer-self-driving-delivery-service/5758120/
 type: article
-quality: 74
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: abc13.com
+  domain: abc13.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.00927AD32E841ABE9883CD7684A4E91C
+  - url: https://www.bing.com/th?id=ON.A8C7669B034E27302C3BFB76975ED252
     width: 700
     height: 393
-    title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
+    title: "Walmart to offer self-driving delivery service"
 
 related:
   - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
@@ -71,6 +67,21 @@ related:
       - url: https://www.bing.com/th?id=ON.783185E2BFDE8EBDCB5803DEF2AE690E
         width: 700
         height: 367
+  - title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
+    excerpt: "The autonomous luxo-barges are part of a test program that hopes to develop a true Level 4/5 autonomous vehicle. Many companies working on self-driving car projects seem to think that people want to be wafted about between destinations in some kind of living room-like pod thing. Sure, that idea will appeal to some consumers but I think there is ..."
+    publishedDateTime: 2019-12-09T13:03:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
+    ampUrl: https://www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.00927AD32E841ABE9883CD7684A4E91C
+        width: 700
+        height: 393
   - title: "Nuro Self-Driving Robots Will Deliver Walmart Groceries In Houston"
     excerpt: "Nuro, based in Mountain View, California, was founded by engineers who once worked at Google’s self-driving vehicle project in 2016. Nuro has so far raised over a billion dollars from investors like the SoftBank Vision Fund and Greylock for its ambitious plans to get as many deliveries as possible out of human hands and into robots."
     publishedDateTime: 2019-12-10T21:29:00Z
@@ -221,21 +232,6 @@ related:
       - url: https://www.bing.com/th?id=ON.112FFA02A105E6FA7F04CBAB8BCF3369
         width: 700
         height: 455
-  - title: "Walmart to offer self-driving delivery service"
-    excerpt: "HOUSTON, Texas (KTRK) -- Walmart plans to partner with the technology company Nuro to offer a pilot program that delivers groceries with self-driving vehicles. The program will use Nuro's R2 vehicle that allows customers to access their deliveries with a code on their phone. The retail chain said the pilot program will begin with a small group ..."
-    publishedDateTime: 2019-12-16T03:08:00Z
-    sourceUrl: https://abc13.com/technology/walmart-to-offer-self-driving-delivery-service/5758120/
-    ampUrl: https://abc13.com/amp/technology/walmart-to-offer-self-driving-delivery-service/5758120/
-    cdnAmpUrl: https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/technology/walmart-to-offer-self-driving-delivery-service/5758120/
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A8C7669B034E27302C3BFB76975ED252
-        width: 700
-        height: 393
   - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
     excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
     publishedDateTime: 2019-12-10T19:00:00Z
@@ -369,6 +365,6 @@ related:
         width: 700
         height: 467
 
-secured: "m/0U5UWk8m+ENVFLGSVUhr1ISHAUDjTN/owEhK3efWn3DyELYrm+Rq/MfOBEW3Ql6Ppyn+ZNrcN4QPZyIuaRvdJlBAOtRc+6HoCPM32vh6VQlHQM1u0NU8+wiu+pPPHFmNwXl0KIk0F9Pl+S0JusQJvqZ3PC7rRIrOHhArPx2nSuJnnN4J54YvnHACJ/YtevqFxi6oraMvuzJlRqdFpTdpbicSjmDA7dkj4FUPu5w/eQWWyMba0kaTn9PisFmuxV7qMiF4IjVaKtw7m5kmz8yQ==;+vBO/G4f42lHMhFkOe/ibg=="
+secured: "Eib8JafB6q+BXYq3NKUg1cUwJZzoN4rXGxlEsFc+QFAiTGnNTjYosXCmnkeJCA/UUVKVbXLr+j86nIPQUHevxMCcoh4haKVMCq2h2aFvciKa4Xism/XeW9y1Yrvs2XneMxvXQZyKnckUSNn2ROvngy0fyM1Wn6sZ62AteKdKuAQAB24Qr/fYb4N2oYgM2jODoowGNiG6Nr94jbteUMBuGsViZobkDBThY7BsN0OcHDjrwRKiupYUUTMVjfZVNFH5/cdT8VAkGnATbhtZ2gb/UA==;1VfVyIo+LL/lSZlMGkGQmw=="
 ---
 
