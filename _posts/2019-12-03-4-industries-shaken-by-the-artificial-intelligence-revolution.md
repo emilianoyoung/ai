@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-03T20:34:00Z
 sourceUrl: https://www.smartdatacollective.com/4-industries-shaken-by-artificial-intelligence-revolution/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 700
     height: 466
     title: "4 Industries Shaken By The Artificial Intelligence Revolution"
+
+related:
+  - title: "How 5G Will Power The Industrial Commerce Revolution"
+    excerpt: "US respondents cited connected cars (62 percent), connected secure homes (42 percent), emergency services (42 percent), smart buildings (41 percent), and translation or linguistic services (41 percent). Mobile office (35 percent) was further down on the list.” A scholarly research paper on the subject summed up the issue. “Machine to ..."
+    publishedDateTime: 2019-12-06T20:50:00Z
+    sourceUrl: https://www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/
+    ampUrl: https://www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.3EFCF0AE44207EE6198372D579EAC0F9
+        width: 457
+        height: 199
 
 secured: "qHMLl2rsxy5RF4QEjwQk5gZXzkhlCWX3u0mmi/wcoMngxnsqZgaQD/F28pmDeBx5mSetbWjX3RH6NE9nxdw9jGB8XDNyEef/gNl2zQHt6uPCWLA0WD0+pLgsOCJpPIKs8WLuUPgbOqTGOzGIHL6txJvpypsNxO9dNqTrwOIA6M//GoMGP4McNtSV0+xh/77fRAvp1uFJ5fL0L5E6H/frnRNfrgcmrq0w2X9c208IUknK0CSnjRCPSynVDeVlyfUcLtXbOu3n5VKQ/Dk6Sal9NQ==;QvGa+aBJ//z6CrS1vIMVvA=="
 ---

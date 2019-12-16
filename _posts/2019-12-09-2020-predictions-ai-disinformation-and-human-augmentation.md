@@ -29,125 +29,90 @@ images:
     title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
 
 related:
-  - title: "On eve of British election, robotics and automation remains on sidelines"
-    excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
-    publishedDateTime: 2019-12-11T16:48:00Z
-    sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 98
-    images:
-      - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
-        width: 700
-        height: 543
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+  - title: "When It Comes To Automation And AI, Failure Is Not An Option"
+    excerpt: "CEO of Accelirate Inc., the largest niche RPA and AI Service organization in the United States. Share to facebook Share to twitter Share to linkedin At my previous company, we grew from 10 employees to over 1,000 in five years. The growth put a strain on our small business accounting system, since it was not designed for larger organizations."
+    publishedDateTime: 2019-12-03T13:53:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
+      - url: https://www.bing.com/th?id=ON.BB52E4AB9A870E53C131D804CEF2CAA2
         width: 600
         height: 315
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+  - title: "Kuwait's Aybiz Uses Crowdsourcing And AI Curation Techniques To Give You The Best Recommendations In MENA"
+    excerpt: "Launched in 2016, Aybiz utilizes crowdsourcing and AI curation techniques to provide an interactive local business search engine that will allow users to easily explore the largest list of places to go in Kuwait and soon across the region. Its founding team consists of Mohammad AlEisa, Chief Executive Officer, Talal AlMousherji, Chief Operating ..."
+    publishedDateTime: 2019-12-04T03:00:00Z
+    sourceUrl: https://www.entrepreneur.com/article/343384
+    ampUrl: https://www.entrepreneur.com/amphtml/343384
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343384
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
-  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
-    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
-    publishedDateTime: 2019-12-13T14:45:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
+      - url: https://www.bing.com/th?id=ON.ADF155EF5A3288A132B7310ACDE1AADC
         width: 700
         height: 466
-  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
-    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
-    publishedDateTime: 2019-12-10T13:25:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+  - title: "Collaboration is the key to making AI and IoT work"
+    excerpt: "1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Special report: Blockchain in business: Where are we now, and predictions for the next decade Microsoft Ignite 2019: Azure Arc, HoloLens 2, Edge, Quantum and Teams Year-round IT budget template Digital Transformation ebook: Guide to becoming a digital transformation ..."
+    publishedDateTime: 2019-12-04T20:24:00Z
+    sourceUrl: https://www.techrepublic.com/videos/collaboration-is-the-key-to-making-ai-and-iot-work/
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 48
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+      - url: https://www.bing.com/th?id=ON.B1CBB183AA7DB1C8027452D9881B99BB
         width: 700
-        height: 446
-  - title: "Artificial Intelligence Market - Global Industry Trends, Size, Share, Statistics, Competition Strategies, Application, Region and Analysis 2026"
-    excerpt: "Dec 06, 2019 (The Expresswire) -- Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9.72 Bn in 2018."
-    publishedDateTime: 2019-12-06T11:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market---global-industry-trends-size-share-statistics-competition-strategies-application-region-and-analysis-2026-2019-12-06
+        height: 525
+  - title: "What the US and allies can do to fashion an AI future more consistent with shared interests"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill Congress asked us to serve on a bipartisan commission of tech leaders, scientists, and national security professionals to explore the relationship between artificial intelligence (AI) and national security. Our work is not complete, but our initial assessment is ..."
+    publishedDateTime: 2019-12-05T23:00:00Z
+    sourceUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more
+    ampUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: The Hill
+      domain: thehill.com
+    quality: 47
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Emotion Recognition Is Creepy As Hell"
-    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
-    publishedDateTime: 2019-12-13T21:12:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
+      - url: https://www.bing.com/th?id=ON.BB5D36A211D35839F0D632A1FD4B3BD3
         width: 700
-        height: 366
-  - title: "TDK showcases record breadth of solutions for automotive, 5G, IoT, mobile, robotics, wearables and wellness at CES 2020"
-    excerpt: "artificial intelligence, 5G cells, IoT and computing enterprise. Solutions for Energy: TDK envisions a future that is powered completely by clean energy. Its film capacitor, and isolated bi-directional DC-DC converters EZA series contribute to the generation and transmission of renewable energy. Personal robots can support the daily lives of ..."
-    publishedDateTime: 2019-12-10T14:00:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/10/tdk-showcases-record-breadth-of-solutions-for-automotive-5g-iot-mobile-robotics-wearables-and-wellness-at-ces-2020/14534/
+        height: 514
+  - title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
+    excerpt: "The tools in the flow support the company’s Intelligent System Design ™ strategy, enabling advanced-node system-on-chip (SoC) design excellence for AI and HPC applications. About Cadence Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play."
+    publishedDateTime: 2019-12-10T06:04:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191209005160/en/Global-Unichip-Corporation-Cadence-Digital-Implementation-Signoff
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 2
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
     images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
+      - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
+        width: 700
+        height: 365
+  - title: "Bizagi Intelligent Automation platform to make it easier for business and IT to collaborate"
+    excerpt: "Bizagi is releasing a combined solution that brings together process automation tools, artificial intelligence, and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent ..."
+    publishedDateTime: 2019-11-27T17:03:00Z
+    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135468
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 14
+    images:
+      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
+        width: 772
+        height: 594
 
 secured: "Xfcu41kHOhzW3OrRXyyECVrrZVg4a9VAbSjQCtRWC4egBqZ83oM2yh/ugR8Vt5q6z9hiXtHA/+Jo0Uno1GWFz2m/1K95p4dmz3XLfzQLmHscuKFL8GGI2HdZER6N1Rcf2c/wqwfU0qBpWJpezxnz/SEdgFKlQMs/75KWw5ud7IgAt3pwqT+7Z6YTl+LYvZupABNdjR12LCcj+Uqti904yIjR1I4HM2Cfmq6V2nGki5N1FR1JfJZpd8mfd1zBMpIA1IyD9A7Tgbqptq6PO2ERUw==;gFDSoLVxH0paHgEuOtbBzw=="
 ---

@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BB52E4AB9A870E53C131D804CEF2CAA2
         width: 600
         height: 315
+  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
+    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
+    publishedDateTime: 2019-12-09T06:17:00Z
+    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
+    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
+        width: 600
+        height: 315
   - title: "Kuwait's Aybiz Uses Crowdsourcing And AI Curation Techniques To Give You The Best Recommendations In MENA"
     excerpt: "Launched in 2016, Aybiz utilizes crowdsourcing and AI curation techniques to provide an interactive local business search engine that will allow users to easily explore the largest list of places to go in Kuwait and soon across the region. Its founding team consists of Mohammad AlEisa, Chief Executive Officer, Talal AlMousherji, Chief Operating ..."
     publishedDateTime: 2019-12-04T03:00:00Z

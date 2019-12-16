@@ -104,6 +104,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
         width: 700
         height: 466
+  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
+    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
+    publishedDateTime: 2019-12-07T02:20:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
+        width: 700
+        height: 466
 
 secured: "EEZVWvhGQzLXoZ2YGlS9m4oYPGfOVmcM7GRNi0YYFF0ntvljOYr2kqfYM3Vvhz4YAv6mq/0CvEdH9+5F0IQminDl1Czl1oQdWeUEfFn61iLRv8+13PBXq+i48T6sihnEN7bWsRUDEksLPzsQ9qGOoxp7wQ7p0jdFEm+wZt73bvoewMnbwcjXRx340gyz2I2Crnu5n99Tj0Lry4SI6cfzkt5M7XtDUha/qxfMcg9GCBc/BtaajCqC+4RvL3hlG6sQngK7Hcu+ciHaIgFyrwlzVQ==;ImpeIbuiM9YgpvqLbvk8eg=="
 ---

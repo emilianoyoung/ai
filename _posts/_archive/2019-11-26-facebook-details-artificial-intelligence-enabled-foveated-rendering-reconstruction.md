@@ -25,6 +25,6 @@ images:
     height: 640
     title: "Facebook Details Artificial Intelligence-Enabled Foveated Rendering Reconstruction"
 
-secured: "nLZ+G1JN10c+PFknmxWmphI9fnaf6cTfcmm9RYKdTZIED7aRmsZ9Uh9htlwtpRaEC092esbEH+VzzV8DA0GdVAh/oEk8q7n21MT5OwOz7cLlcqWwRZpyxj2LJv24aUHvsYBpywwn83TwecjUpOOi7lI7GD6/zeiatJrKDgUQTzfhtrgvRVuosNVZNSPS1GNeiPw7MvgoDRAR+q8VEzMpi83ZiAjvInclbnHgjyH1s3bXnRhJoXbj/ak1jzhcGIn2GSnWqFkvq/vAOnrZ5IRq6g==;6zxWCwA1GUAbSgMv07503g=="
+secured: "HelTiuHtaUQruhPn58A+Ptc6uaTVkHfWqbC+Pw6J91KeCHjeGLxud+ZTrBlsOJv6InP4o9eNwRbc5m5egmQM3JKECDdzhoK3y/mWPHBAHwyf5vo7lXd0uB/4SUoBE/soPu2dJ6+12RmfHqu2gMrLS0tu2yBjkeMbiQ2e0VH3rvbK65/jDVg/JWNUqnsogL6LHgH79kVF14GUkDyP20ohgi/mVzVuvad9L9pqff4KPr8tWRVcSJHTgaKBEfYMNBwgfYrQkufVZy++K1nABF+yPg==;s3oBAfCaV6VKGWohHyW11Q=="
 ---
 

@@ -20,37 +20,112 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "\"What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world's development of technology that will power self-driving vehicles. We're proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current standing as ..."
-    publishedDateTime: 2019-12-04T18:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green-300969351.html
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG ( VOWG_p."
+    publishedDateTime: 2019-12-11T11:19:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
+        width: 700
+        height: 466
+  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
+    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
+    publishedDateTime: 2019-12-14T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
+        width: 600
+        height: 315
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial ..."
+    publishedDateTime: 2019-12-11T16:26:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
+  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-09T18:36:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
+      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
         width: 700
-        height: 367
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "New Pittsburgh Technology Center will advance the development of autonomous technology for self-driving cars PITTSBURGH, Dec. 4, 2019 /PRNewswire/ -- Aptiv PLC (NYSE: APTV), a global technology company enabling the future of mobility, announced today that its Pittsburgh Technology Center will relocate to new offices at Mill 19 in Hazelwood Green."
-    publishedDateTime: 2019-12-05T08:55:00Z
-    sourceUrl: https://www.autoblog.com/press-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green_21394/
+        height: 393
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-12T10:05:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
-  - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
-    excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
-    publishedDateTime: 2019-12-09T19:40:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
+        width: 700
+        height: 466
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-11T10:22:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
     type: article
     provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 4
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
+        width: 700
+        height: 525
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
+    publishedDateTime: 2019-12-12T08:12:00Z
+    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+        width: 700
+        height: 419
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
 
 secured: "9SUkGIHM0RRogD2q78aEtugP0QKB4M6aHCXjo1aaAkKOsQIR0PDSvlX5ol5mAlbgDJD6SJ/XqlbltGoG9WkesAHnJE77gAjPamFbtrtULYvhZi2BZv5WXPhUasFD6ms/GzaOZb0eU1vdg5uG1dBA8Siye+xncSWiE64uxdAGaqfPpsq53Z0lO+mI6RzlZPNvah/kiRgOmr1Luq0zA52JLI21FMH5eSKOmbcm4iIAFTovORSA5KyhQakS1xgpIeyVy77Uydp0ivq9PMwDrHdKcA==;zO1Rnhfz1C2Dq3j41qrxNQ=="
 ---

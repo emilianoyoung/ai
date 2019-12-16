@@ -101,6 +101,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
         width: 700
         height: 466
+  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
+    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
+    publishedDateTime: 2019-12-07T02:20:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
+        width: 700
+        height: 466
   - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
     excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
     publishedDateTime: 2019-12-07T00:09:00Z
@@ -111,6 +124,6 @@ related:
       domain: telecompaper.com
     quality: 31
 
-secured: "x9EPfj3OjmuLFPVPh1HczrJE0wxw1JO5VQhF8hYAEfq4jD1ACDtPCI55tKUwp4ZBnZh2kYntlA5L3WC85LaGHI5XX8QCrdDVcg0z6xj5rtcvICh3slT1r2SrbX7BHMuzCqJuykCkSv9stLYDi+Ei0n4eVB/JMhcKNDsQERssYCDIWLC0sBwojTjYQotqoeyWkTdnCBmpe5F31pRGxaT10sUcuggFgGP93pYHKyYgreABRlfCJKAWexs+HDzeZOumfLxxo99bv3cQXBbZp5NFZg==;Z1Gym+mXo9hAS/Sbli7KOA=="
+secured: "1CCggCVQaSNnYlWCCd8jY9C73EgEbW/UgQT7m+oDD5tPube95EEfhQs2YHn44XAnGF2KzNnym2fsSslUn1UWT6dgVK19kTXspllvSSQrnVcRTDnLFaYIGhywvhfcWIl+MGppr6NlRL78LoWvyCaZDYkZbsx9H8mxZhxlatDgdxZ9fp6GK3K+3eF2b2XYrKEqHeArfkWoeNJo46MRXwwXx3HdepDpLtTmAHsVnl+V8Bkq9ya9IwEr6Ikk8YkoOcPTjrMSWGkJuPXJNPZCiU//VQ==;t+/GoE3t2Q4zPmF3j1eRCA=="
 ---
 

@@ -18,28 +18,30 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
-    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
-    publishedDateTime: 2019-12-16T06:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
+  - title: "Machine Power And Human Judgment: How AI Fuels Marketing"
+    excerpt: "It may still be in its infancy, but artificial intelligence (AI) is on the path to transform marketing. AI and automation can free marketers from routine tasks, enabling them to be more productive and focus on creative work. Algorithms can predict customer preferences and behavior, allowing for hyper-personalization on a previously unimaginable ..."
+    publishedDateTime: 2019-12-16T16:40:00Z
+    sourceUrl: https://www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/
+    ampUrl: https://www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Language Translation Software & Services Market Study 2020 with Professional Survey & Competitive Scenario Till 2029"
-    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
-    publishedDateTime: 2019-12-11T07:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-study-2020-with-professional-survey-competitive-scenario-till-2029-2019-12-11
+      - url: https://www.bing.com/th?id=ON.A8FDBDD475B976CFBB7DCCF6479B7114
+        width: 600
+        height: 315
+  - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
+    excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-growth-demand-and-developments-by-2025-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

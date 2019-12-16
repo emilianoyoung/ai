@@ -264,6 +264,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Medicine Market -Global Opportunity Analysis and Industry Forecast, 2018-2025"
+    excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
+    publishedDateTime: 2019-12-04T12:17:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/36635/artificial-intelligence-in-medicine-market-global/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 2
 
 secured: "E5ovwkR/hNY9so+HDaPJKQMlzsujoCzHq1vIX0DbAhjpgNGKPFv+oSxxm8iGWiVoOo3N1KrN+z7VWF6eGFtRSG80GrAHLc1Bq2xOZJsMvfrFzivgATVwBBTnsZxjenJlLDRFsgnG682/LrfGEs1Tv0Hw1xDgIC1ol/mUNEAWwWg3/VVG3ConyIkraqvpFZoLDHpDZJaMvvlk1E8alQ+4eibrKxtaL5sAT/Q/GcbYHf93NZ0Mqs9Mi4WG8l+GuUJw82/04nWi4gJ2WyKzm8iW9A==;ZIPuyh3uYJYGjCn5Dnuwvw=="
 ---

@@ -25,6 +25,36 @@ images:
     title: "Instagram will now use artificial intelligence to help stop bullying"
 
 related:
+  - title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
+    excerpt: "The anti-bullying notice is available now in \"select countries,\" and should be available elsewhere in the \"coming months.\" Whether or not this proves effective is uncertain. Instagram said that its efforts to reduce bullying in comments have been \"promising,\" but that doesn't guarantee similar performance for the posts themselves. Someone ..."
+    publishedDateTime: 2019-12-16T14:40:00Z
+    sourceUrl: https://www.entrepreneur.com/article/343895
+    ampUrl: https://www.entrepreneur.com/amphtml/343895
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343895
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.36D9B280365C9CC6D73EFADD1176EB9A
+        width: 700
+        height: 466
+  - title: "Instagram trains AI to detect offensive captions"
+    excerpt: "Instagram is to warn users when their captions on a photo or video could be considered offensive. The Facebook-owned company says it has trained an AI system to detect offensive captions. The idea is to give users \"a chance to pause and reconsider their words\". Instagram announced the feature in a blog on Monday, saying it would be rolled out ..."
+    publishedDateTime: 2019-12-16T16:14:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50813086
+    ampUrl: https://www.bbc.com/news/amp/technology-50813086
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50813086
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.28330A8E0DE064B556ADEF168633C083
+        width: 700
+        height: 393
   - title: "Instagram uses AI to warn users before they post offensive captions"
     excerpt: "This is essentially an extension of a similar feature Instagram rolled out back in July aimed at the comment section — again, Instagram uses AI to detect language, warn the user, and ultimately “encourage positive interactions.” Above: Abuse alert for captions in Instagram Of course, there is nothing stopping the user from going against ..."
     publishedDateTime: 2019-12-16T12:32:00Z
@@ -40,19 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.79D6451CF41D0133D7F671FC56F70772
         width: 700
         height: 452
-  - title: "Instagram is using AI to alert bullies to offensive captions"
-    excerpt: "Instagram's anti-bullying efforts now extend to discouraging abusive behavior in posts, not just comments. It's introducing a feature that warns people when their post captions might be offensive, using AI to detect language similar to posts that have previously been reported. In theory, this makes bullies second-guess their vitriol ..."
-    publishedDateTime: 2019-12-16T14:20:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/instagram-is-using-ai-to-alert-bullies-to-offensive-captions/ar-BBY2XIS
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.B8958EB51AAB9E014925FE376B7E136F
-        width: 700
-        height: 367
 
 secured: "yo6pTEfRY5l8K/tUvahzuhyxo66fyZJlDcwSVRlnlMemFSOVr4ll55L+ENnjp3WeTDxDK1+r/45LejahaLZOhuKg/vSoXSd5jjOdIJUNMSqWMogJrVi68QqScsmxouKnfvGugMVwcBIXT5aJ1/nnj7PLw7DJCgbCu5L6SqK6lHOSUgrVhV/PaTbjZDR8dB5X8TMDumH0kCxEJD0uQdeCdS/Fq7GUnTPjOp6cdCjkPlLMW4jTems+/gQHYIhTEhp+kNHkpdlNcbS33+XBzBkH0A==;W5TPelM5jO7sFw8lrKVakA=="
 ---

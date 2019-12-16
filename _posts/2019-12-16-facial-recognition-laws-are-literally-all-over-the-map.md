@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-ov
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
         width: 320
         height: 180
+  - title: "Emotion Recognition Is Creepy As Hell"
+    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
+    publishedDateTime: 2019-12-13T21:12:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
+        width: 700
+        height: 366
 
 secured: "jUXO09f2XYOqm32BxZmAqfBlBSVMCzG107hXVbw7FkTosxuAaAxvdWstNhiIdJI++5i1pN8KVSRao2ndtNqwTV2oVwrr6O1NnuUVPCPhuCgc75x4+jcpnl+sEnKEU4PnRk5W5z17RSfJ/SbyO1J2ipapVBa47XiRwZiJeT2V8VmtScA6hs/k9pkb6AgUG1Y6Xd1PwpMMpUVC5Bm9rPkGf+YEBvkU/C8gAUyX7psG8p5mAyAkZ3Gr0Wu8gpljM8L3wP3slM100CPheAgWQiG5/g==;YiTtcpDlF+W/aWdcY1bJ9w=="
 ---

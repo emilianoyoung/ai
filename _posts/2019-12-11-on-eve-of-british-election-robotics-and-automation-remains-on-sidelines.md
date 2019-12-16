@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-11T16:48:00Z
 sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
 type: article
 quality: 98
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Robot Report
@@ -24,127 +24,92 @@ images:
     title: "On eve of British election, robotics and automation remains on sidelines"
 
 related:
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+  - title: "Gecko Robotics raises $40 million for industrial inspection robots"
+    excerpt: "However, Gecko positions itself more as a software company, with robots merely serving as the tools that capture the all-important data that could potentially avert dangerous equipment failures in the future. This predictive analytics leans heavily on artificial intelligence (AI), machine learning, and deep learning techniques. “We are ..."
+    publishedDateTime: 2019-12-16T16:52:00Z
+    sourceUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/
+    ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
+    images:
+      - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
+        width: 700
+        height: 350
+  - title: "Prediction 2020: The future of robotics next year and beyond"
+    excerpt: "Industrial robots are no longer the exclusive domain of heavy industry or huge factories ... In the midterm, Harlow cautions that the regulatory environment could slow down the pace of progress. \"In the 2020s,\" he says, \"the artificial intelligence and machine learning technology landscape will move from the 'Wild West' where almost anything ..."
+    publishedDateTime: 2019-12-11T12:00:00Z
+    sourceUrl: https://www.zdnet.com/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
+    ampUrl: https://www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.B887204DB63C0A73A2A7AE9376B28153
+        width: 700
+        height: 525
+  - title: "How 5G Will Create Opportunities And Challenges For The Robotics Industry"
+    excerpt: "We are on the cusp of a robotics Golden Age, which I believe will increase our standard of living to the degree that mass production, electricity and transistors did for our ancestors. The term “smart manufacturing” refers to business processes that feature machines in decision making roles. Artificial intelligence (AI) provides the ..."
+    publishedDateTime: 2019-12-10T14:11:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 103
     images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
+      - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
         width: 600
         height: 315
-  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
-    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
-    publishedDateTime: 2019-12-09T06:17:00Z
-    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
-    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+  - title: "Watch experts discuss the future of construction at TC: Sessions Robotics+AI"
+    excerpt: "This March at TC Sessions: Robotics+AI, we’ll be bringing together a trio of companies that have the industry and investors buzzing. Noah Campbell-Ready is the founder and CEO of Built Robotics, a startup that has developed a heavy-duty autonomous bulldozer. The system has already been piloted for 7,500 hours, with a perfect safety record."
+    publishedDateTime: 2019-12-09T17:05:00Z
+    sourceUrl: https://techcrunch.com/2019/12/09/watch-experts-discuss-the-future-of-construction-at-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2019/12/09/watch-experts-discuss-the-future-of-construction-at-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/09/watch-experts-discuss-the-future-of-construction-at-tc-sessions-roboticsai/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
-        width: 600
-        height: 315
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
-  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
-    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
-    publishedDateTime: 2019-12-13T14:45:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
+      - url: https://www.bing.com/th?id=ON.69C6ACB0B6BDCFC646A11AB238E4D51C
         width: 700
-        height: 466
-  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
-    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
-    publishedDateTime: 2019-12-10T13:25:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+        height: 381
+  - title: "Rovenso raises $2.3M in funding for safety, security robots"
+    excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
+    publishedDateTime: 2019-12-13T19:50:00Z
+    sourceUrl: https://www.therobotreport.com/rovenso-raises-2_3m-funding-safety-security-robots/
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 48
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+      - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
         width: 700
-        height: 446
-  - title: "Artificial Intelligence Market - Global Industry Trends, Size, Share, Statistics, Competition Strategies, Application, Region and Analysis 2026"
-    excerpt: "Dec 06, 2019 (The Expresswire) -- Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9.72 Bn in 2018."
-    publishedDateTime: 2019-12-06T11:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market---global-industry-trends-size-share-statistics-competition-strategies-application-region-and-analysis-2026-2019-12-06
+        height: 435
+  - title: "AI-equipped robots active in precision welding"
+    excerpt: "Vision sensors are placed on the robot and used in conjunction with artificial intelligence. That allows the robot's motions to be tracked in real time using visual feedback. Minyue Tech's technology offers three advantages. First, SmartEye uses structured light to perform 3D measurements. By combining vision with deep learning, various parts ..."
+    publishedDateTime: 2019-12-16T14:18:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/AI-equipped-robots-active-in-precision-welding
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 56
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Emotion Recognition Is Creepy As Hell"
-    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
-    publishedDateTime: 2019-12-13T21:12:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
+      - url: https://www.bing.com/th?id=ON.372D82F4C365FFEC0818C03DE10F822D
         width: 700
-        height: 366
-  - title: "TDK showcases record breadth of solutions for automotive, 5G, IoT, mobile, robotics, wearables and wellness at CES 2020"
-    excerpt: "artificial intelligence, 5G cells, IoT and computing enterprise. Solutions for Energy: TDK envisions a future that is powered completely by clean energy. Its film capacitor, and isolated bi-directional DC-DC converters EZA series contribute to the generation and transmission of renewable energy. Personal robots can support the daily lives of ..."
-    publishedDateTime: 2019-12-10T14:00:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/10/tdk-showcases-record-breadth-of-solutions-for-automotive-5g-iot-mobile-robotics-wearables-and-wellness-at-ces-2020/14534/
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
+        height: 350
 
 secured: "LC7p477uWPaUME+uRHA2fCbTs7GrmAEi9MZUM+1Sf42ZiVuzC/bJxH/xLDjalxYSMz/HAJkjteHtYWZCfWFKLJ+dyf69dSTUyen0NqLY4hev3Khf+lTgnmu87F7Tj11LhAz2Lxo982RtImWcZwS1edt1Hu5IhFz3wRax4SYw9GgGO7bbmO65NqH+z3ZxqRF9o3kxOBZ7sUvKCzbGnUryyeQZe1xLPR2/IUuaYexxqQAo4Fof8Alwusqi4IAlyNvxAcamudaUecahgPqusZwuMQ==;p42OswK94L8bjTNj+Zl9Ig=="
 ---

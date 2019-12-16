@@ -52,6 +52,15 @@ related:
       - url: https://www.bing.com/th?id=ON.368F94E40CA41B4E65484E372C57CB4A
         width: 400
         height: 400
+  - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
+    excerpt: "SEATTLE, Dec. 12, 2019 (GLOBE NEWSWIRE) -- Algorithmia, a leader in machine learning deployment, announces the availability of its 2020 State of Enterprise Machine Learning report. The report includes input from 750 people across industries in companies that are actively engaged in building machine learning life cycles. A key takeaway from the ..."
+    publishedDateTime: 2019-12-12T14:05:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/12/1959883/0/en/Algorithmia-Machine-Learning-2020-Report-Challenges-and-Trends-for-the-Enterprise.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 13
 
 secured: "1LKWE3REwOTVMv1kZqeKQhM53RYA1xlSOICnpw23ftMLgVPJIwSSVT9+XFDXExZZ4NuQKN0q+EdyW3y0BX7jUWQIIYJRClKVrpuZMMjiJMBJqKDm5UHC845zw3nmM12FYxph0a4/luRKuXUO4RAUlRf/I25KBq1EdA5yjNoqzFkU/lOAFTy64QMgMiLqGZzSYGi8REHEDNpXmnsz39MGMoy2Q4x4yiW9OINt+ZV9HYwXIOjsAyJZJ+ZtTVe7XBtsMEdjOXL0cnAf6aNomNYbAQ==;HD1EbWQwa8NshOIRhZKsNA=="
 ---

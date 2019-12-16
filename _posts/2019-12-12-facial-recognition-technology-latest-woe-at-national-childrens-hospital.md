@@ -93,6 +93,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
         width: 320
         height: 180
+  - title: "Emotion Recognition Is Creepy As Hell"
+    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
+    publishedDateTime: 2019-12-13T21:12:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
+        width: 700
+        height: 366
 
 secured: "+P/BYIqY+jm7mkgcLBDvL6tfrTlPzoDWcMHOdyt/qlG9pdwH4TnUAD4vn+eFcYn6qVuRimwmMcJpGhCnaL3j0jiA6/0DHo/I2uOxlNn7lKCj0q9kp7KtczYJ9IWirfUwfBfDgsJFz5hZ0hQwBRgCi4fMKh3RAp6wjATOmj4n7t+34XqKzADICrOw4FctYL1UYxVtyiC/8boXqe8haDXWRjY1lgVWrSP1Bg6LoWegcfgLxJhOzylWw/sJ8cr08+aO8sIwRd+KSrrt+BpqnRoPiA==;m3txnM/lELnT4ed5dNEV1g=="
 ---

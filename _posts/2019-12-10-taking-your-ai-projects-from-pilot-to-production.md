@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6B180AD41B2D04AD2D9DFA801D293585
         width: 700
         height: 349
-  - title: "AI research and big tech"
-    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
-    publishedDateTime: 2019-12-16T15:03:00Z
-    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
-        width: 700
-        height: 700
 
 secured: "K5JAV+TfcoD/q7pLQZ1nL7qfMAtKxPh2IDGRXTQYJ5r7Yc41CZr3hvDawcQkf9cGBThnET4qKmkEGJ2nEYUt8AqXIxb1V1aDmpPQ4eZxA9t5I+ywZEM7c2iWBykMOhyif0UmTt0Bcn/F6ZkKpYQiI9qy0JPQOxFBT4i6YqPJRkI1ZzRQcdHeidGSyEVXESq93J0jKihTtQlxjjnK2S53UWXRE05niYPBPIWPd1S4aJxzT2QnOD5f8pfCvc9wBY6GpuIYZNzotAwj6L4JeLJnGw==;Tw8toZeyfUIyswHuzzriVQ=="
 ---

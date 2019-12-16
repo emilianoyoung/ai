@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T04:40:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-technology-advancements-and-business-outlook-2019-2019-12-05
 type: article
 quality: 85
-heat: 405
+heat: 415
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 83
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
+    excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
+    publishedDateTime: 2019-12-04T17:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/key-opportunities-and-challenges-in-artificial-intelligence-in-healthcare-market-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

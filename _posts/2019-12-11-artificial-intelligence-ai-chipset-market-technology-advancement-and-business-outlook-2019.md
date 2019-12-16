@@ -53,6 +53,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
+    excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
+    publishedDateTime: 2019-12-04T17:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/key-opportunities-and-challenges-in-artificial-intelligence-in-healthcare-market-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Healthcare Artificial Intelligence Market Global Industry Trends, Share, Size and 2025 Future Report"
     excerpt: "Healthcare artificial intelligence application market is further divided into medical imaging and diagnosis, drug discovery, therapy planning, hospital workflow, wearable, virtual assistants. Increasing adoption of artificial intelligence in healthcare globally will augment the growth of healthcare artificial intelligence market. Furthermore ..."
     publishedDateTime: 2019-12-02T11:12:00Z

@@ -39,6 +39,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2018%2f7%2f91ddc6498ae046de959ddcfb662105d8-620x480.jpg
         width: 620
         height: 480
+  - title: "Battery-Free Computer Input at Your Fingertips | IDTechEx Research Article"
+    excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Researchers created the prototype of Tip-Tap as part of a ..."
+    publishedDateTime: 2019-12-05T08:53:00Z
+    sourceUrl: https://www.idtechex.com/en/research-article/battery-free-computer-input-at-your-fingertips/19005?donotredirect=true
+    type: article
+    provider:
+      name: IDTechEx
+      domain: idtechex.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.8E6B6E89B70DACAD4B5E5D42C38A189A
+        width: 700
+        height: 365
 
 secured: "5aEQTlWFhk651pNyGOhTeEj8jVKqyv19MufL/IyWMTY06ovs355ux6GFYS5KG6x7mbl4te/lrFHsgUAggno1PNmMN4LyqD+MrtvQplkveAGBJ8NTKWYEPsDiHfuyLcEtXe3tCt0htsP8b3gv43gzU4fwrKQvIE0RKggieYAkohtGvtOSkC4fwBuPzPwrfbKyT9TZIG1LZ2rnAw6bCz14XA0+p9kk2xHLnbmCHFfvsxNG0oKouVnwus+ipQoVz0XE9UhoiGstG2Ro/6SiNdV0Gw==;3HOegNv7uNiFnzuEDzBrtQ=="
 ---

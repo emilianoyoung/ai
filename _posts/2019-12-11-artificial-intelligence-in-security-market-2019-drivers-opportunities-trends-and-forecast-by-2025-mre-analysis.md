@@ -183,19 +183,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 to reach USD 3823.45 Million by the year 2025. North America region holds the highest ..."
-    publishedDateTime: 2019-12-12T05:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-facts-figures-and-analytical-insights-2019---2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Oil And Gas Market 2019 Disclosing Latest Trend and Advancement Outlook 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Oil And Gas Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Oil And Gas Market\". The report provides ..."
     publishedDateTime: 2019-12-13T17:48:00Z
@@ -309,12 +296,12 @@ related:
     quality: 19
   - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
     excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:02:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
+      name: CSO
+      domain: cso.com.au
     quality: 0
 
 secured: "ZxjPymdmamip7qsTPuuO1gckdHPfG1HLIcLYxe7UYCwmN8Bs2YvXFCEL8iR+YUCoILP/nwBwSd936o7i+Pd1VjT3WiPKyHmPrDybDrcgQLqpqMkXboe0GKdbpqdRhjn7nO5RYnR86jsjcp7YYC8emDKf7TEgOCJ+BmK4CuTgcXdPxPYaksuXdtWJ5Y15XA+kAKMN2TiTk+gGaKMydRINNJc/fpHt/6xQ0QodROxXOK7ZPqAcPATH4tsypCqW9IvUkwPIaAd9eg1MhZaWiOyGfw==;R7f/EufCe5IyyugeL8db9A=="

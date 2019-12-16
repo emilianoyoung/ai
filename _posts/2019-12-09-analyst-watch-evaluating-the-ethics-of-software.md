@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7ED73C34B7A7BB3C416C184065472433
         width: 700
         height: 366
+  - title: "Vector processing rises to the challenges of AI and machine learning"
+    excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
+    publishedDateTime: 2019-12-12T16:56:00Z
+    sourceUrl: https://www.datacenterdynamics.com/whitepapers/vector-processing-rises-challenges-ai-and-machine-learning/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.81DDB01FF6C524E99D8C0D5575E98E53
+        width: 700
+        height: 367
 
 secured: "JnwQy1bG9YsKeuQOW04Lb4p72mNEgm9rkgJbznXRtRJ50vztIXNdudmYONy5MCOCx2M56ulErCebwPY4Yu92dx5bnVVH1UHE42h3jGbXD6lQUb3bb2IYeuoRFbK/gC1mrng4q6NxZI08qud9c8T4ZMmYmH98PvgpOqyxJ7FayUsuF2J7CLNXgY2atLfEtHjRXca89C1zduJQ3kwf+qkN17OxeJLHhXYPq6zbX3Fd23aqx+lYJ5naQiCqkaydO0rX/o1q8xbtc7EZ8itMSUZchg==;XKYcqlLEAjimZUWipBgnDQ=="
 ---

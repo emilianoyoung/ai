@@ -1,28 +1,49 @@
 ---
 category: news
-title: "Instagram is using AI to alert bullies to offensive captions"
-excerpt: "Instagram's anti-bullying efforts now extend to discouraging abusive behavior in posts, not just comments. It's introducing a feature that warns people when their post captions might be offensive, using AI to detect language similar to posts that have previously been reported. In theory, this makes bullies second-guess their vitriol ..."
-publishedDateTime: 2019-12-16T14:20:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/instagram-is-using-ai-to-alert-bullies-to-offensive-captions/ar-BBY2XIS
+title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
+excerpt: "The anti-bullying notice is available now in \"select countries,\" and should be available elsewhere in the \"coming months.\" Whether or not this proves effective is uncertain. Instagram said that its efforts to reduce bullying in comments have been \"promising,\" but that doesn't guarantee similar performance for the posts themselves. Someone ..."
+publishedDateTime: 2019-12-16T14:40:00Z
+sourceUrl: https://www.entrepreneur.com/article/343895
+ampUrl: https://www.entrepreneur.com/amphtml/343895
+cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343895
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 117
+published: true
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: /assets/images/organizations/entrepreneur.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.B8958EB51AAB9E014925FE376B7E136F
+  - url: https://www.bing.com/th?id=ON.36D9B280365C9CC6D73EFADD1176EB9A
     width: 700
-    height: 367
-    title: "Instagram is using AI to alert bullies to offensive captions"
+    height: 466
+    title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
 
 related:
+  - title: "Instagram trains AI to detect offensive captions"
+    excerpt: "Instagram is to warn users when their captions on a photo or video could be considered offensive. The Facebook-owned company says it has trained an AI system to detect offensive captions. The idea is to give users \"a chance to pause and reconsider their words\". Instagram announced the feature in a blog on Monday, saying it would be rolled out ..."
+    publishedDateTime: 2019-12-16T16:14:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50813086
+    ampUrl: https://www.bbc.com/news/amp/technology-50813086
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50813086
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.28330A8E0DE064B556ADEF168633C083
+        width: 700
+        height: 393
   - title: "Instagram uses AI to warn users before they post offensive captions"
     excerpt: "This is essentially an extension of a similar feature Instagram rolled out back in July aimed at the comment section — again, Instagram uses AI to detect language, warn the user, and ultimately “encourage positive interactions.” Above: Abuse alert for captions in Instagram Of course, there is nothing stopping the user from going against ..."
     publishedDateTime: 2019-12-16T12:32:00Z
@@ -54,6 +75,6 @@ related:
         width: 700
         height: 393
 
-secured: "NXJcg4wMd/qiWUt6G8BnZUzuZJTxHzu29G+kPvdzZ7+vwWypXo2jGCIOpZGyZ2zHcIBxfle7DHPPli2XEwbHytB6pBEKpf4ifGiJzhP8vCDkKoqfbwDbzQ6hicbMqzkcC/Hb7KgRMQZ6AyDhNQYfMqntio5YxgJ4o5atVhZlZPEnvXm3YTzIK80dq7ANlsCckNnUlj7JH2YGfFbi/FRBBUIEdSMZoqDYH4HaLLsWkhl8C7UAozmWL9zg/3wSABrAF3EzPnqyrqBZEm/pZzf4fA==;C+MUGkVbIkhTl5Vo4pHCug=="
+secured: "8uLC6GULW33R5WJs3RmsAacUV08OGov+7/eWg1C60jMWT9rXGhBSZv2CBpPm0wcGNALPsfJ25ZbVN4aat/QWAhU6daBSTJkd42lZAUJpSONTZcGqmjkLHKHx8Xcux9M9v0TttVplbOLU9UhQEKG8LPpL0ypr8OEbSPtEDMaSvSjsCtlYQrUCnuECfagfiXXmdDtany354yskhGLpIB6y9b68gMQv+ZulDJbsj8VQiuuItzs0hJ5x5bufwZ0As87xx9Eqr3eO101OuK4Y9Dfrxg==;b1zS99EQJe6Z/+bV9TOtYA=="
 ---
 

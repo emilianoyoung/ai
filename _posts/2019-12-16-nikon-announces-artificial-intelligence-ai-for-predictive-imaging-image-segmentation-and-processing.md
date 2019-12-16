@@ -26,6 +26,6 @@ images:
     height: 142
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
 
-secured: "l+nxjuXxHVD751muTuv/+iaTecSXPsoou3+uzbjyMJIk9MXoopW/8bF7l0KeWDvgUABYuiIGLRsrQ9j4C7AKONsu4XozbqQl3S1v0gMO6U1xv25UN+EN4BHr0XBBryDwrAXfNwZaUg0CxZW/rt1497Yc07FfCuDvbpzSYwMnCDOpTh9wlOFI07s6fb/66R1oCcghdahAvJwbcB9TGfTbdPqFZ4KpTXXlv6Ra4lGhTLwfUARuMdcYYkGEDhMW6bmyH+fnv5EU4qu5Ej5/qmbUAw==;Bl6+Ci9VQ1w2swA5KIpGvw=="
+secured: "w1wLJPX59TLwniLXAbNJryow+x6Ngk5uRYvWjXdUULRKnAKECwSJgtUtAp/2QtvF4PfFWEeWcy5RmMQoaHKe8y8V/CI4FNgUWQ8bwkUodW3GIp9ANQRUvrBGWEI92LtPFYKJOjII4whlaE1IEAgQGnqwWOwngLhzzKWuF7RNOdv4zM/VnQ++pMPxwuxaYvVoW7bmzaF1NkyFnSSaSDWbe2ivOquST5QHi+2pwi53UPoxc29oTMlmXeJcG+c2z+Zqzd11xsxHkcGvNSydF+cH1w==;ikuo4jNO80TW6Qn3L6bdcw=="
 ---
 

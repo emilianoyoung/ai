@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T16:59:54Z
 sourceUrl: https://blogs.microsoft.com/ai/mona-lisa-translation-research-products/
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1189A094A449509B39C8DDCD18CF9887
         width: 700
         height: 363
-  - title: "AI research and big tech"
-    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
-    publishedDateTime: 2019-12-16T15:03:00Z
-    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
-        width: 700
-        height: 700
 
 secured: "kImdk2U8LNCdrgPdIxBsQohy1BApq59U4TZDgJI/UGgzteZwN6PNGl9hyZqTr5DAZXMREM7LkrQyulcnEe8kPiJWN8B8lqqhhHo3OiJfQw9JrfwWWot8mEQTSw2WBICxswXICOMf0AeBd2AxKVl/fh3n/pJVrPMkL9fodfn/i/lyL4JG/3NEw9RUgFEhIEYpKKN/wKv8Q5X6JAxWhvOxhwjhb1hlXaruBgk9m3frT9+H0UVrIiKaV1mF2dtR3Hu6MHpNw0aKi5KGDCpxLN1vhA==;2cw3cyK+luvreHuU5WWntA=="
 ---

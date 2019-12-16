@@ -77,6 +77,24 @@ related:
       name: Retail TouchPoints
       domain: retailtouchpoints.com
     quality: 51
+  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
+    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
+    publishedDateTime: 2019-12-11T12:28:00Z
+    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 10
+  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
+    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
+    publishedDateTime: 2019-12-11T18:35:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
 
 secured: "0iGZD+em0SXng1boD8Oem+Hy2UZQWKF0orbmCh/cKRXqdBBro/tEEslvQMHc9TtjFXDuO4oVXxQgZEOYnJ/1+dQ1i5aKk/CHt02eQuALI/L1ZWsZjfJc1NUh46nltK+F4OjtxdBq2X2dZagk3J8st3q3/5zDj0/fs+G6D3C9mxtYcDOpIt4ghb8O24drTOgePeFBCJomfxeHlJ+uGcOdkaLk2BCJ5VclzvZlClHPED1iT27rsd6dfqbY3ozWP3KjRD9Bf96TDcuHgX6ViNE5pg==;vzcLTSsqa/KoaezSJ0IGBQ=="
 ---

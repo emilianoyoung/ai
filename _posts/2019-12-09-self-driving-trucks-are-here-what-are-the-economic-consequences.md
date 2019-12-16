@@ -8,7 +8,7 @@ ampUrl: https://techbullion.com/self-driving-trucks-are-here-what-are-the-econom
 cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/amp/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,34 +26,19 @@ images:
     title: "Self-Driving Trucks are Here – What are the Economic Consequences?"
 
 related:
-  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
-    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
-    publishedDateTime: 2019-12-09T16:13:00Z
-    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
-    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
+  - title: "From a self-driving bus to a pocket HIV test, here are this year's Beazley Award winners"
+    excerpt: "Users can operate the pocket- sized device in three easy steps in privacy. A collaboration between minimalist Japanese lifestyle company Muji and Finnish autonomous driving company Sensible 4, Gacha is a “self-driving” bus that functions under all weather conditions. The gently rounded, square-shaped bus has no defined front or back and ..."
+    publishedDateTime: 2019-12-16T04:05:00Z
+    sourceUrl: https://www.thestar.com.my/lifestyle/living/2019/12/16/londons-design-museum-honours-six-inspiring-creations-with-the-beazley-award-for-improving-peoples-lives
     type: article
     provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
+      name: The Star
+      domain: thestar.com.my
+    quality: 15
     images:
-      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
+      - url: https://www.bing.com/th?id=ON.7898594F811E58317026581915BE97BD
         width: 700
-        height: 466
-  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
-    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
-    publishedDateTime: 2019-12-04T18:01:00Z
-    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 20
-    images:
-      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
-        width: 460
-        height: 460
+        height: 280
 
 secured: "Ipp9XWElgTrS8Oxo04dngQgEtcX5AB8PehPkQyr4Fm7LIMzLHXX1PxeZ/TQEQgYEO3szyAioCvksc0S6Hbs/PRodjUB+aAFUFv4mmbdT2nMXGfji+u76X/Nzjry+j+JWFt2SzZZKMdesRxAtjGTg0fEW+yDAP+ixHr80g6RZ9Lttwv3qaw1FfniqfMrgSNk5/VAJLckpa1345bRRXcM6EKNHfkRvFUPQwPhLQ8a5AsraiCDwOhePJ7M7rUdR2Kn1s3uWKHcoBZ1Xe0y7mn5XQQ==;JKFkdMjYQqeJFAhXmnOGvA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.politico.eu/article/ethics-interview-for-ai-print-special/am
 cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ethics-interview-for-ai-print-special/amp/
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1EB508FEFED6F7730FEA6029DF2024FC
         width: 640
         height: 452
+  - title: "Vector processing rises to the challenges of AI and machine learning"
+    excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
+    publishedDateTime: 2019-12-12T16:56:00Z
+    sourceUrl: https://www.datacenterdynamics.com/whitepapers/vector-processing-rises-challenges-ai-and-machine-learning/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.81DDB01FF6C524E99D8C0D5575E98E53
+        width: 700
+        height: 367
 
 secured: "rWKpufxyjCp7gjqMIL9grNHnyDQ20QQOPBxKW64Z2sPjJQPBvioMx7QB/FuPAME7egOTz2oTLsqR40NX8QR49vvmL3VCRGXOc0N8bb/i2B2anci362QtCx3pk5pPX2LHQ5yJWm4prpmZvi8/5Xg/LF1o7TBLQjs2Zsve4gHGg5o8rNVo739wGAdlkxpqMOzlQigQ9WaeY1kQFSuDSRWBLaVau0OK56tJAERQRwWC8nUq1HfWL3oSCGsXHVKh3U/+uY/LqIXXNlgGgnVYzUaBHw==;0fUuoC9/fm6/FIdeOVrUYA=="
 ---

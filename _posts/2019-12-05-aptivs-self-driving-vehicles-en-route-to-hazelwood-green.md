@@ -31,26 +31,6 @@ related:
       - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
         width: 700
         height: 367
-  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
-    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
-    publishedDateTime: 2019-12-06T19:32:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 19
-  - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
-    excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
-    publishedDateTime: 2019-12-09T19:40:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 4
 
 secured: "LM2HSkqFbLWLtHNyCsQpLAUbk1GNl9uHKtZsMumuhNbL7BEg56t7j3jev0/X8v7CL0sO39TYk/nnsgbHO/j5Ynd1yViPhZ0hQjgbaH2Mt1l7/xWxv95BW2YGHTfeztObH3nrZhLSPkCtWxKd5SyC/m2Bh+D1Hw0bwvoA2ujQWnmJlc5WSQUcYs8tAT3Td0U7LHnj1+dkRDFKAPoOMTi4FERFBxHim6lDPVlgdwRHBQyM3/4PL0BEctMuEaOHWRwpaHHDF6usztUZhEroNvh7ew==;u9zlt80LPFKlV66+jhAKzQ=="
 ---

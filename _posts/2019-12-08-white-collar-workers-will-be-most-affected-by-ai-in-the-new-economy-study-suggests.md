@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.439499C56EFA21DF6E63CAE420608335
         width: 600
         height: 315
-  - title: "AI Is Central To The Longevity Financial Industry"
-    excerpt: "New types of financial institutions are evolving to satisfy the needs of this aging population. Investment banks, pension funds, and insurance companies are developing new business models, and are using AI to improve the quality of the analytics used to formulate them. In the near future, the synergy between innovative AI and wealth management ..."
-    publishedDateTime: 2019-12-14T03:28:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
-        width: 600
-        height: 315
   - title: "Why AI Will Be the Best Tool for Extending Our Longevity"
     excerpt: "“At that time, it was considered too futuristic that artificial intelligence and data science … might be more accurate compared to any hypothesis of human doctors,” said Kaminskiy, co-founder and managing partner at Deep Knowledge Ventures, an investment firm that is betting big on AI and longevity. How times have changed. Artificial ..."
     publishedDateTime: 2019-12-08T14:00:00Z

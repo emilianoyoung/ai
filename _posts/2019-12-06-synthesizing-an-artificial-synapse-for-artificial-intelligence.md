@@ -5,8 +5,8 @@ excerpt: "For that reason, researchers are turning to neuromorphic computer and 
 publishedDateTime: 2019-12-06T16:18:00Z
 sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F

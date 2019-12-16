@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -73,19 +73,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
         width: 400
         height: 400
-  - title: "Film review: 'Machine' charts the upcoming rise of the robots"
-    excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
-    publishedDateTime: 2019-12-13T13:12:00Z
-    sourceUrl: https://www.afr.com/life-and-luxury/arts-and-culture/film-review-machine-charts-the-upcoming-rise-of-the-robots-20191210-p53iht
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.CD981A85CC2C15BBEC28445EB193750C
-        width: 700
-        height: 393
 
 secured: "gXXWVNnkNhobQN4oLht7ygUIUNSNUnY8CXJVwjt+7Pal6p5AC/Lg76IesCBdCZqgmouu93YPk2FU7bHqdJa6uFVxym0SarXKGm9R2NK1KJoIjVB/b51KLTv2c95zQDObJoS4p9XlxPxyo8mVq3EhLCpOUAJcRPh6walpJ5j0x9bJ2DYxjBF77KhiFeT0uy0nGH4w0ysGpYhus05+a/7iO8EXR2J/0RrIhh7Q+7SIiIf/Q26wwWsCt9zyLkLiszLnHJnZYn/r4lSEYSTogvpIlQ==;gIMpEZU1To+2BfVUyhjDjg=="
 ---

@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
         width: 700
         height: 393
+  - title: "People are open to biometric retina recognition"
+    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
+    publishedDateTime: 2019-12-16T16:19:00Z
+    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
+        width: 700
+        height: 369
   - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
     excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
     publishedDateTime: 2019-12-05T23:58:00Z

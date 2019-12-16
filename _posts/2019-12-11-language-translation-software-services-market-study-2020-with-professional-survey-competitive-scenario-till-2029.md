@@ -28,28 +28,19 @@ images:
     title: "Language Translation Software & Services Market Study 2020 with Professional Survey & Competitive Scenario Till 2029"
 
 related:
-  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
-    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
-    publishedDateTime: 2019-12-16T06:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
+  - title: "Natural Language Processing (NLP) Market Insights Covering Dynamics and Competitive Scenario through 2025"
+    excerpt: "Dec 13, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2019-12-13T09:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-insights-covering-dynamics-and-competitive-scenario-through-2025-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024. This market report is related to globe report, Market Share, Size, and Trends, and forecast data ..."
-    publishedDateTime: 2019-12-16T09:02:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "07eAYjNHk+05DtNvAgV7OunXJCuoCm9SeLz9BK/P5Hlqu6PpkgIFLJFQtksSA8n+/4zLrJ4NDZWn41A+S7i2FliFK+yVQugS0hluedOGOa4+7rl2x+2S5+8qxpZfTLONVIVdOCfuwrjyj7AxqtymCcBdtsYduhl9mCnwyFg+ZBI/Sj4RK1k4hLg8U+5z6H/+uKlyBYjZOBj1LIeXKDICww8QPJSnB7tO6apF6Yh/C3Ly4rCiRmsal6elIMrFjal3MNl2f4oyJPEekNfvvMmPFA==;76vAwRT8kwZHlz2qoocM2A=="
 ---

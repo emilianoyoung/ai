@@ -26,125 +26,105 @@ images:
     title: "Emotion recognition, AI for suicide prevention | Read"
 
 related:
-  - title: "On eve of British election, robotics and automation remains on sidelines"
-    excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
-    publishedDateTime: 2019-12-11T16:48:00Z
-    sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 98
-    images:
-      - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
-        width: 700
-        height: 543
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+  - title: "How AI Is Making It Easier For Healthcare Practitioners To Serve Up Nutrition To Patients"
+    excerpt: "As the CTO of a company that creates daily supplement regimens using artificial intelligence, I've seen firsthand how AI is making it even easier for healthcare practitioners to serve up nutrition to their patients right in their offices and at the patients’ homes. Nutrition discussions led by AI Three-quarters of Americans take dietary ..."
+    publishedDateTime: 2019-12-09T12:17:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 97
     images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
+      - url: https://www.bing.com/th?id=ON.CDC1F7424B4E2A043047EF0B623DDA4E
         width: 600
         height: 315
-  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
-    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
-    publishedDateTime: 2019-12-09T06:17:00Z
-    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
-    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
+    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
+    publishedDateTime: 2019-12-12T18:42:00Z
+    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
-        width: 600
-        height: 315
-  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
-    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
-    publishedDateTime: 2019-12-13T14:45:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
+      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
+        width: 300
+        height: 200
+  - title: "Public opinion lessons for AI regulation"
+    excerpt: "Political debates around these applications touch on central themes articulated in numerous AI ethics principles, including fairness, privacy, and safety. As shown in the figure below, Americans predict some of these governance challenges as more likely to impact Americans in the next decade than others. The issues thought to be the most likely ..."
+    publishedDateTime: 2019-12-10T04:01:00Z
+    sourceUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/
+    ampUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
+      - url: https://www.bing.com/th?id=ON.DDE3C6C398E1B1BF6C8D2E38B0C8568B
         width: 700
         height: 466
-  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
-    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
-    publishedDateTime: 2019-12-10T13:25:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+  - title: "How artificial intelligence is making health care more human"
+    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
+    publishedDateTime: 2019-12-12T22:52:00Z
+    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
+    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 48
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
         width: 700
-        height: 446
-  - title: "Artificial Intelligence Market - Global Industry Trends, Size, Share, Statistics, Competition Strategies, Application, Region and Analysis 2026"
-    excerpt: "Dec 06, 2019 (The Expresswire) -- Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9.72 Bn in 2018."
-    publishedDateTime: 2019-12-06T11:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market---global-industry-trends-size-share-statistics-competition-strategies-application-region-and-analysis-2026-2019-12-06
+        height: 393
+  - title: "Cigna to use AI to track whether patients are taking their medication"
+    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
+    publishedDateTime: 2019-12-13T21:52:00Z
+    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Emotion Recognition Is Creepy As Hell"
-    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
-    publishedDateTime: 2019-12-13T21:12:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
+      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
         width: 700
-        height: 366
-  - title: "TDK showcases record breadth of solutions for automotive, 5G, IoT, mobile, robotics, wearables and wellness at CES 2020"
-    excerpt: "artificial intelligence, 5G cells, IoT and computing enterprise. Solutions for Energy: TDK envisions a future that is powered completely by clean energy. Its film capacitor, and isolated bi-directional DC-DC converters EZA series contribute to the generation and transmission of renewable energy. Personal robots can support the daily lives of ..."
-    publishedDateTime: 2019-12-10T14:00:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/10/tdk-showcases-record-breadth-of-solutions-for-automotive-5g-iot-mobile-robotics-wearables-and-wellness-at-ces-2020/14534/
+        height: 367
+  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
+    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
+    publishedDateTime: 2019-12-12T20:25:00Z
+    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 2
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
+      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
+        width: 700
+        height: 457
+  - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
+    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized reports that counsel patients from diverse demographics about their probability of having a baby."
+    publishedDateTime: 2019-12-09T15:03:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/univfy-to-present-at-digital-medicine--medtech-showcase-2020-on-how-ai-and-fintech-make-ivf-easier-to-navigate-for-patients-and-providers-300971455.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
 secured: "M060gBwZZqMETVhqWAUleDH51jYPrVhKdQYoelcErzFZppS1D5yMfksBfJDFSiNCU/q4obNLOuB6PXLMxc1bGzQ9yg/7nThrkMcx0ggCqgaANP+qI7Cxz2cbYLECKv6ux/PVyl1amLJIc4vqMTvWfOnpdxOZWsqV466iuuxumPIIjfjX0Nuply0Tv5cqpGIJKXLnvu6jYArTpBhOyfrvRq+UdbtpxuSzj9Y+oNRngV9TrlVw1K1Ublxt+RCmlHec3kTGej9Yyo66dvNes0Ce0w==;MONorxt01g4zvr2jjiADiw=="
 ---

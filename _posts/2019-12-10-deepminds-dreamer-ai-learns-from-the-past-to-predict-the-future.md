@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     title: "DeepMind’s Dreamer AI learns from the past to predict the future"
 
 related:
-  - title: "Prediction 2020: The future of robotics next year and beyond"
-    excerpt: "Industrial robots are no longer the exclusive domain of heavy industry or huge factories ... In the midterm, Harlow cautions that the regulatory environment could slow down the pace of progress. \"In the 2020s,\" he says, \"the artificial intelligence and machine learning technology landscape will move from the 'Wild West' where almost anything ..."
-    publishedDateTime: 2019-12-11T12:00:00Z
-    sourceUrl: https://www.zdnet.com/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    ampUrl: https://www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
+  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
+    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
+    publishedDateTime: 2019-12-05T18:58:00Z
+    sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: The Verge
+      domain: theverge.com
+    quality: 99
     images:
-      - url: https://www.bing.com/th?id=ON.B887204DB63C0A73A2A7AE9376B28153
+      - url: https://www.bing.com/th?id=ON.66590EE1A6E93F4A98B100F630F134D8
         width: 700
-        height: 525
+        height: 366
   - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
     excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
     publishedDateTime: 2019-12-11T00:12:00Z
@@ -104,19 +104,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2C648F2A8F369331B7DE745DD1674969
         width: 700
         height: 367
-  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
-    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-    publishedDateTime: 2019-12-05T18:58:47Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-moves-to-google-as-the-ai-lab-positions-itself-for-the-future/ar-BBXOWMc
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.66590EE1A6E93F4A98B100F630F134D8
-        width: 700
-        height: 366
 
 secured: "k8z/AO24ItOflwBcYi/QekY17Oc4sG4RBPSAVUy0cFLKb1/3ymVpjCFlrGuGUXnbXngP6B+KAL3JACZV3t4o1QjwpN2Z26mQdpdD32DVX3S2VaDTY+ZGO9Tw5aQsvWvmMytnnKL4bK8F3k1kdadYtX92MBIJy77a+uSd+kmFCrBv0bZ6HI34kMp9UVSW97y4AobebVAJvddalN0ZFIFATxxSrpadQ8JbsGtHC4Aa0Sq58EZIll9iH0wwKvirpfkkS59w7E4qa8K9TD8T6Z9Tyg==;bcMrGX3kvCkfCufQS/HLjg=="
 ---

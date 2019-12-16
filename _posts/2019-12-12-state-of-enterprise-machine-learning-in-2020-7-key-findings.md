@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/state-of-enterprise-mach
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/state-of-enterprise-machine-learning-in-2020-7-key-findings/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       - url: https://www.bing.com/th?id=ON.368F94E40CA41B4E65484E372C57CB4A
         width: 400
         height: 400
+  - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
+    excerpt: "SEATTLE, Dec. 12, 2019 (GLOBE NEWSWIRE) -- Algorithmia, a leader in machine learning deployment, announces the availability of its 2020 State of Enterprise Machine Learning report. The report includes input from 750 people across industries in companies that are actively engaged in building machine learning life cycles. A key takeaway from the ..."
+    publishedDateTime: 2019-12-12T14:05:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/12/1959883/0/en/Algorithmia-Machine-Learning-2020-Report-Challenges-and-Trends-for-the-Enterprise.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 13
 
 secured: "L4KCXOr8xUw6bg+jSp1YTE6uHXu1+PEGKfGnvZumnaooVcpdKdyyeRdnf0gym0Ia1lslsCL5bHvkRML1fQMO0LijxPL0miQsjPJQPIxycdPoCTXcvdq5jRkN6ki4ShkMyHkIf71+aqjSiDgCkdDq0/0o/K87EsMs3rmPG1hJzszTbetu4ehNzXYwsNyPd+p+R47qH5ZduzlVtSM1jEuigB2pqIUQW0BLQzzLiL2NukRjALvDzhxp6U3kH1Vf5QZ5GdubXBqWSbdmxa2hdwLbSA==;NWW+MDzGU0KDvg9RjSxeZg=="
 ---

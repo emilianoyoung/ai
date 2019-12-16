@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BB52E4AB9A870E53C131D804CEF2CAA2
         width: 600
         height: 315
+  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
+    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
+    publishedDateTime: 2019-12-09T06:17:00Z
+    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
+    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
+        width: 600
+        height: 315
   - title: "Collaboration is the key to making AI and IoT work"
     excerpt: "1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Special report: Blockchain in business: Where are we now, and predictions for the next decade Microsoft Ignite 2019: Azure Arc, HoloLens 2, Edge, Quantum and Teams Year-round IT budget template Digital Transformation ebook: Guide to becoming a digital transformation ..."
     publishedDateTime: 2019-12-04T20:24:00Z

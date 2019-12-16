@@ -32,7 +32,7 @@ related:
   - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
     excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
     publishedDateTime: 2019-12-16T12:56:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/
+    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
     type: article
     provider:
       name: Business Wire

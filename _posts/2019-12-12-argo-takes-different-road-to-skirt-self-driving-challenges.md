@@ -24,21 +24,6 @@ images:
     title: "Argo takes different road to skirt self-driving challenges"
 
 related:
-  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
-    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
-    publishedDateTime: 2019-12-16T14:39:00Z
-    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
-        width: 700
-        height: 490
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG ( VOWG_p."
     publishedDateTime: 2019-12-11T11:19:00Z
@@ -69,51 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
         width: 600
         height: 315
-  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
-    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
-    publishedDateTime: 2019-12-16T05:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
-    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
-        width: 700
-        height: 350
-  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
-    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
-    publishedDateTime: 2019-12-13T22:32:00Z
-    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
-    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
-        width: 700
-        height: 393
-  - title: "Ex-Apple engineers cook up cheaper, more powerful tech for self-driving cars, and Volkswagen is interested"
-    excerpt: "The start-up has improved the capability of its technology. Porsche has invested an unspecified amount of money in Aeva. A Silicon Valley start-up called Aeva is inching closer to its goal of making self-driving technology more affordable. The start-up has a smaller and more capable version of its hardware, which collects and processes real ..."
-    publishedDateTime: 2019-12-11T14:07:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.64F16B514DFEBCC1ED35A8E532FDD3DC
-        width: 700
-        height: 466
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial ..."
     publishedDateTime: 2019-12-11T16:26:00Z
@@ -125,64 +65,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 54
-  - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
-    excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
-    publishedDateTime: 2019-12-10T11:44:00Z
-    sourceUrl: https://www.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
-    ampUrl: https://amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.0FEA5044765B11AFDAE3E38D0A506AE3
-        width: 600
-        height: 450
-  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
-    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
-    publishedDateTime: 2019-12-12T20:02:00Z
-    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
-    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
-        width: 700
-        height: 393
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
-  - title: "Abu Dhabi airport completes self-driving wheelchair trial"
-    excerpt: "Dozens of passengers took part in a trial using self-driving wheelchairs at Abu Dhabi airport. Personal electric mobility vehicles made by Japanese company Whill helped users with disabilities to navigate crowded areas, lounges and gates during the five-day pilot. The devices are fitted with sensors that detect obstructions and have an ..."
-    publishedDateTime: 2019-12-16T13:20:00Z
-    sourceUrl: https://www.thenational.ae/uae/transport/abu-dhabi-airport-completes-self-driving-wheelchair-trial-1.952319
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E09F33C15A1798249D52672D7D22B3A5
-        width: 700
-        height: 393
   - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
     publishedDateTime: 2019-12-09T18:36:00Z
@@ -196,58 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
         width: 700
         height: 393
-  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
-    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
-    publishedDateTime: 2019-12-10T13:14:00Z
-    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 24
-    images:
-      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
-        width: 600
-        height: 300
-  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
-    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost."
-    publishedDateTime: 2019-12-14T13:48:32Z
-    sourceUrl: https://www.msn.com/en-us/money/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.86D949F7F2875B247B460212E963C62B
-        width: 700
-        height: 367
-  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
-    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
-    publishedDateTime: 2019-12-15T20:34:00Z
-    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
-        width: 700
-        height: 367
-  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
-    excerpt: "Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each on semi ..."
-    publishedDateTime: 2019-12-16T00:03:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
-        width: 700
-        height: 466
   - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-11T10:22:00Z
@@ -287,6 +117,17 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
+  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
+    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
+    publishedDateTime: 2019-12-06T19:32:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
 secured: "N1qk/0lNOudq5y7UVGAgSEbNVppX10prx1Dc2Tfg1VFojzzKIVyU9UNOzhkkAox+iNF+fo90RA9ed/jQXk8sGfIxDb39C/Z3Uw2Kqa41QtIUCVspWeytSj7VL+HhpORPPjI6CGKbrcQ418DfOC4TIPpwjvI2lVaLVF/XSP53gV5FOf5X+gB04wCKA3NxyY0mskjPyBxfMMoo6eCAq8jFS/KCDW5gNo7FdZjY7CPKsREe98hcVrViGc/r/GFMtEn7LnjKvXgMn7aX14eQu+/8Fw==;7dC12EYx/5gFIBt3hXUxTw=="
 ---

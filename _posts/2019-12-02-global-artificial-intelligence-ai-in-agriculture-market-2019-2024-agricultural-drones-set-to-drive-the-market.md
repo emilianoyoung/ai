@@ -46,6 +46,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
+    excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
+    publishedDateTime: 2019-12-04T17:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/key-opportunities-and-challenges-in-artificial-intelligence-in-healthcare-market-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Chipset Market Technology Advancement and Business Outlook 2019"
     excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
     publishedDateTime: 2019-12-11T06:19:00Z
@@ -425,6 +438,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "KIzqgyByLvwgEQYjoxB/VQEJXe8Uz6dCfO6x7F9qIO6Fk2ypen5BetvYIH5DWN76LHcjJu0lcshy7YqiMa8FsYTsJoecygVJYxjGU9SaP3jK/crSVN8uWcyOjXmJc5Gocuj/u9EAW8Bgu8f8BCULLi5a/yoK39AijvetjJxpJVnf1WQQDhVlD12+/vuNB1ygKCfE2507/MjCHfVCKAKPKqT2WRztIIG/u8XsJJ1odXOZ55pl346kcGVCMDtnUDPwVyfuEh1/ivN2nPhYOrCJOQ==;tv/V+zGWYSSoJ9AF132Twg=="
+secured: "PAaXYT2DdIV3R1HCU2a3taeGl8Vm9vxWgRJjqDPfx8m4GWB44NDf1iEUBNf46c1s46JYoRYCOXWD6NLL7BXTWSign9wr6M5+vG1X9ciS1G+NqeuM5UlXcy0yXklccGwr2t1pEkCkol8cj+ho6bTNpqFqNR2n6eDvgH9R/72rlYlH+lR0jnf5H215ElPwXZtNoSTOcIaP+J11D4DRzxNF6SbdZ9GCQC125Us4XJW1Xr7Vuwz2mQzu5kNVLSuw9HfcxLtZHMrfx6ria5zdEmEYAw==;pzz2EMemnkbutohRKA/upw=="
 ---
 

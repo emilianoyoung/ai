@@ -24,19 +24,28 @@ images:
     title: "Worldwide Voice Biometrics Markets, Forecast to 2024 - Emerging Lucrative Opportunities Within the BFSI Vertical - ResearchAndMarkets.com"
 
 related:
-  - title: "Global Robotics and Automation Markets 2019-2024 in Industrial, Enterprise, Military, and Consumer Segments - ResearchAndMarkets.com"
-    excerpt: "Adoption and usage is anticipated to rapidly increase with improvements to artificial intelligence, robotic form factors, and fitness for use, cloud computing and related business models, such as robotics as a service. The global robotics market is broadly segmented into enterprise, industrial, military, and consumer robotics. Major market ..."
-    publishedDateTime: 2019-12-03T11:27:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191203005553/en/Global-Robotics-Automation-Markets-2019-2024-Industrial-Enterprise
+  - title: "Global Voice Biometrics Market Report, 2019-2024 - Security Concerns Pertaining to Third Party (Cloud) Data Storage Hampers Growth"
+    excerpt: "This factor has led to the rapid growth of real-time voice recognition-based biometric solutions. Voice recognition is being extensively used in Banks and Call Centers to prevent frauds. Several players like Verint have developed solutions that use voice biometrics to verify callers in real-time passively, without the use of any password making ..."
+    publishedDateTime: 2019-12-04T11:58:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14928322/global-voice-biometrics-market-report-2019-2024-security-concerns-pertaining-to-third-party-cloud-
+    ampUrl: https://amp.benzinga.com/amp/content/14928322
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14928322
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.84394F7BC5D1CEA7721D120511082191
-        width: 700
-        height: 365
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
+  - title: "Global Voice Biometrics Market Report, 2019-2024 - Security Concerns Pertaining to Third Party (Cloud) Data Storage Hampers Growth"
+    excerpt: "This factor has led to the rapid growth of real-time voice recognition-based biometric solutions. Voice recognition is being extensively used in Banks and Call Centers to prevent frauds. Several players like Verint have developed solutions that use voice biometrics to verify callers in real-time passively, without the use of any password making ..."
+    publishedDateTime: 2019-12-05T00:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-voice-biometrics-market-report-125852239.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-biometrics-market-report-125852239.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-biometrics-market-report-125852239.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 9
 
 secured: "W4iQFG7FSTb5Nw87E68HjUtKbVoYdhKYg9C4fJG2l330GYZ2o01dMMbJy3kw7vMYHe7XbdZT8ucOAsvcQwP1bdff4SAuz7T6NSxPJgCKh6aJ5Udru4AOWA38WVbAbA/l9rTQghKd4vQIuSgv4KPY4jRfEAPKtb18bljNvuT9hMlAdu/QNcmu9eoQiM8TLfJkZCgkZVOeZKmVgZfmiJQdtrwD7i9LQ9tzmrvbclgunzVwbCNmsCMPDGv1l5mIuUyONBFC5lUi5Wx9lSZD44qesw==;gG9sjJWv86f6Duvhp4wOnA=="
 ---
