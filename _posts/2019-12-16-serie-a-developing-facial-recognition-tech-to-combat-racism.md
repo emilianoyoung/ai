@@ -2,16 +2,16 @@
 category: news
 title: "Serie A developing facial recognition tech to combat racism"
 excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
-publishedDateTime: 2019-12-16T16:45:00Z
-sourceUrl: https://www.chron.com/sports/article/Serie-A-developing-facial-recognition-tech-to-14909864.php
+publishedDateTime: 2019-12-16T17:02:00Z
+sourceUrl: https://www.sfgate.com/sports/article/Serie-A-developing-facial-recognition-tech-to-14909864.php
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
@@ -563,6 +563,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
         width: 300
         height: 250
+  - title: "When facial recognition goes wrong"
+    excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
+    publishedDateTime: 2019-12-16T18:40:00Z
+    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5
+    type: article
+    provider:
+      name: Newsroom on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
+        width: 700
+        height: 367
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z
@@ -667,6 +680,6 @@ related:
         width: 600
         height: 295
 
-secured: "b71aHEGHs1//WNKQXpajkjqXc4l86q3UFTXJgg/0/U1xMca5q8gWRvHVhYy2kftpsywJFSwJ7SQgQ9HBbCvvKFbjz9h4GfnxhXcONR6tyxRe+bxiDwbHRzGRVXThLIlp9zyxm6nV4aqPBHWY4pZ+HoSwNWOOJ1hZa23r/fozFUS69tXQw8H3xcCE5GM9gGACITR7GDu+6fyNZBLvpc8gzx68VcsRVndU2wELH55RhMZsKioSNfOcz9Xf90a7T7Abk7sG8pO2o3mwmNERxkNmlQ==;djdf2i5XhW7utOH9ewrhRA=="
+secured: "XhVQW9FwLJGBc3wpxX2Pz19yYc7IotrNpj2AMl+NlKhJOx30XD/0U/rGokRxbVOPnTWt7ND08SaellYus8M+uU8wCOPhEtNg2i6NcMmrOBeUWGeilI+Wpzv54BkhHulelYNa5S7FjLufK4Ej8PmNXntMjmouk9adbLVyCOhD7tp9feGBWfqyQM3OPTjb/6S2O20SG1K7lHJySkj9w12NAjVlPhvUSPQyzr54YaOzb6r07NPM4I8znCdqtFq65J+XpDM4Ksy4++94bqi+a9lcjQ==;uc1GKzi9+DSIgvpDGCFXiw=="
 ---
 

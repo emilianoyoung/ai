@@ -1,21 +1,21 @@
 ---
 category: news
 title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-publishedDateTime: 2019-12-03T18:13:00Z
-sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+publishedDateTime: 2019-12-03T18:08:00Z
+sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
 type: article
 quality: 104
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.AFCDAF6FDA20A0CCC32046174C4952FB
-    width: 533
-    height: 399
+  - url: https://www.bing.com/th?id=ON.BC48C7557EC6E6ABCFB14DDE026510AD
+    width: 700
+    height: 525
     title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
 
 related:
@@ -239,6 +239,6 @@ related:
         width: 700
         height: 365
 
-secured: "NJiZMZEO/oNO6/uLa7Pae5Le0n6QnzkLwJm/HplJlPsppdITUkLIfJh0QCM9hyEn5YAGmnf4ByomcGEkYiao6BkRA+mhqjga82rkyPxnZlJLvyLXWNY3yA6gxECNeZxtlrW7lO18UjymTz+30svaLdRE4W88o62yMwoe6UegR2f7hmbbL0k/9Af7JR3R0zH185diO+GllUFpBOe2Tv756Q8ffAN3CRaV2cmWlJOBugEsP+oLhSW5JmgMvk15G3K0NuxF2/wMpMhKHT+nUxW6qg==;gJvbWfl3b6/a6a+HdOmwhQ=="
+secured: "0/g0SM+EPYdaMUONC3yLitg+tzx3cQDVJGo4+gmAHubg8O7sME68i9AcK2NV31rhpDAAjiXEi9scPfAFjrXiTCHBgtDT5/rQ3nyWTOxbWS+AptYFIY92fwIengF/cvCnSiUpAUcpbtMxbM4XchPcuhPm8e7KxPfQ+6+00r5Ne7dtzAa77irnQYOFYKLGbHYvWPXtKf44c2dGCroDPMkUTdOL7LBOB0chmwMxKNfx8xpMEg2WZxF+GhmtyNSfnad92gpUyxbTnAF93a8PeSE7vQ==;ay6dZM425pX8i0wSs0u4JA=="
 ---
 

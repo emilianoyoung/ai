@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
         width: 700
         height: 350
-  - title: "AWS blames Trump for its loss in the JEDI bid"
-    excerpt: "AWS concluded its introduction by saying that it was “impossible to shield ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
-    publishedDateTime: 2019-12-09T19:28:00Z
-    sourceUrl: https://www.defensenews.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7ECFC7138165B95AFD7FF9E47F273001
-        width: 700
-        height: 367
   - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
     excerpt: "Bots are a lot like humans: Some are cute. Some are ugly. Some are harmless. Some are menacing. Some are friendly. Some are annoying ... and a little racist. Bots serve their creators and society as helpers, spies, educators, servants, lab technicians, and artists."
     publishedDateTime: 2019-12-14T08:00:00Z

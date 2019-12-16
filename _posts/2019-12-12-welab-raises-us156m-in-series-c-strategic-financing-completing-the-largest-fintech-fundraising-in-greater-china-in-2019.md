@@ -3,7 +3,7 @@ category: news
 title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
 excerpt: "fintech has gradually been integrated into our daily lives over the last decade, transforming the traditional world of banking as we know it. 2020 marks the inflexion point where the calls for supervision and governance are necessary, starting with regulated digital banks.\" Using its proprietary risk management technology and advanced AI ..."
 publishedDateTime: 2019-12-12T07:49:00Z
-sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-072400654.html
+sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-073600991.html
 type: article
 quality: 14
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.368F94E40CA41B4E65484E372C57CB4A
+  - url: https://www.bing.com/th?id=ON.C7FDD2BED166CC598D2B4510ADC767EA
     width: 400
     height: 400
     title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
@@ -62,6 +62,6 @@ related:
       domain: globenewswire.com
     quality: 13
 
-secured: "Lb5Ft9l/7yY1IvqEP6+/zkkOLeY5jd7uWT+xPgGe5iatjXeUyECP/hSpxGDFsz2AlIfLZjtbwvSkdemABMHhFmT9k5LIrqGagiI4cMuo7/sLAzklGtb5LhewKGt7cWa0k0thbDNB9TUr88KxnbHPXdPp4c0nLlHNukRNPkndPq+BvbCK7G5mWm9+rtMob5n2s9IisTaPq6Fh+gz089OPmOdPUYHHrawfKwEithq2hjoMmo5fPrnjDu3l5Y0A5HHBO26EbM88O0/WO1RbtTRanw==;u9Sxh393SqmXheV/xB6DoQ=="
+secured: "bbtg3xN1dvHdsawEqWiO371NwQ9U1Oyd9UVCJK3rsPrRVzlFIBusr1UguvAGkuOR0Hl6wZPYSvi1VIy1IN6BNOHrH7ldOSHUCqSpiubqmVrphm0HwTM34sJjwAP1jauVbQs96SazUY5s85jhSrvIVXTvKR/IXwFNNC6F65uJGEFMzv+GLpMC4xMeS+u/Idmf8M2bemqNQWdOTNNKbGN7X7Rigg7PADTAX7brDFWuAWJIz5gfqOZs70ZOjqS1wZBFYbtnQxLfBF5ibGTAE8G+OQ==;HFPMk22DkiMhSUUq3N1FTQ=="
 ---
 

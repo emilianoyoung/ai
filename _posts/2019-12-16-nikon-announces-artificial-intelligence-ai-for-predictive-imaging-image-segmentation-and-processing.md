@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
+excerpt: "MELVILLE, N.Y., Dec. 16, 2019 /PRNewswire/ -- Nikon Instruments Inc., innovator of advanced microscope systems, today announced NIS.ai, a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural ..."
 publishedDateTime: 2019-12-16T14:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
 type: article
-quality: 68
-heat: -1
-published: false
+quality: 66
+heat: 66
+published: true
 
 provider:
   name: Business Insider
@@ -19,7 +19,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
@@ -27,23 +26,6 @@ images:
     height: 142
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
 
-related:
-  - title: "Intel previews AI advances in software testing, sequence models, and explainability"
-    excerpt: "This week marks the kickoff of Neural Information Processing Systems (NeurIPS), one of the largest AI and machine learning conferences globally. NeurIPS 2017 and NeuIPS 2018 received 3,240 and 4,854 research paper submissions, respectively, and this year’s event — which takes place from December 8 to December 14 in Vancouver — is on track ..."
-    publishedDateTime: 2019-12-09T16:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/09/intel-previews-ai-advances-in-software-testing-sequence-models-and-explainability/
-    ampUrl: https://venturebeat.com/2019/12/09/intel-previews-ai-advances-in-software-testing-sequence-models-and-explainability/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/intel-previews-ai-advances-in-software-testing-sequence-models-and-explainability/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.D5135828891828E6C42AE1187D9BC459
-        width: 700
-        height: 409
-
-secured: "rJDURPu4Rs3nUY2kUGAAeGar4MILkrXTSVGagmtkrBpb5KUq3m7zuegmEVqini/0ik7kVfA5Bkh30ArotMxdRq3JxVolOThsE9cF/0yeXNkAzkZt9dPmBfxAvfm99qLxBW1KhhfeQ1QlDtSIfASi8eTk9vPJQkRtrKFNAbzuV3IeiiJOrnEri7COIsgyjuHenzX7x3e3f9xijwpNusu9m3Jop4Atvx5QP4A6gbIS34A6S+AAJX40azXRlxU9rq3inh3YnTuYaLAxJaCYKyyF2w==;L7cnaucX+efcMvw0+Haj0w=="
+secured: "T77thxwMvaRyNjiq0w2wMvF5yL5SlL/E6HV3YG7s1lAKj9gmSzKXVfG8fmVrzpDn5nvhEfYMo3bNEgHqLe4XZ/a+hHN42kb/eWv74PPVBzfZT9Er+qpuzgfIcpKOYaSotaPmasjWGYtS7F1V75B9xc1o5GfqBz17wWmOAg/lG0QwN32eD2rA9bVVBv6rFzGWgT90SZWXvx5Xxr5ih8/OoG7pBR9BmQU3wfJ0D6BJtxoiJ/IB7kTl/nCuD66fLbApsrlNFA8bu61xUdtpcbyNVg==;EVxbu3rS6KtLnhqdoFBIkw=="
 ---
 

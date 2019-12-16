@@ -565,17 +565,30 @@ related:
         height: 250
   - title: "Serie A developing facial recognition tech to combat racism"
     excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
-    publishedDateTime: 2019-12-16T16:45:00Z
-    sourceUrl: https://www.chron.com/sports/article/Serie-A-developing-facial-recognition-tech-to-14909864.php
+    publishedDateTime: 2019-12-16T17:02:00Z
+    sourceUrl: https://www.sfgate.com/sports/article/Serie-A-developing-facial-recognition-tech-to-14909864.php
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: SFGate
+      domain: sfgate.com
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.4A9635F1A5527B161EAD41E9FEE847A2
         width: 700
         height: 476
+  - title: "When facial recognition goes wrong"
+    excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
+    publishedDateTime: 2019-12-16T18:40:00Z
+    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5
+    type: article
+    provider:
+      name: Newsroom on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
+        width: 700
+        height: 367
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z

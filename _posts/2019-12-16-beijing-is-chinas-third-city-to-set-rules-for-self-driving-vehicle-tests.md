@@ -53,9 +53,9 @@ related:
         width: 700
         height: 367
   - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
-    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost."
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. © Bloomberg A fleet of new Volkswagen AG (VW) e-Crafter electric trucks stand parked in Hamburg, Germany, on Tuesday, Aug."
     publishedDateTime: 2019-12-14T13:48:32Z
-    sourceUrl: https://www.msn.com/en-us/money/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+    sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
     type: article
     provider:
       name: Bloomberg on MSN.com
