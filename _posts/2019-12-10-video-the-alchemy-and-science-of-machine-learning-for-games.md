@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CD944CF00FB2940F871C09183FBD964A
         width: 700
         height: 367
-  - title: "10 predictions for data science and AI in 2020"
-    excerpt: "You could call machine learning APIs and develop an ‘AI product’ if you are a software engineer. You could build and deploy the same model on cloud platforms such as AWS Sagemaker or Azure ML Studio if you have familiarity with cloud offerings. And the list goes on. The net result may be fertile ground for misunderstanding and turf wars due ..."
-    publishedDateTime: 2019-12-10T16:08:00Z
-    sourceUrl: https://thenextweb.com/syndication/2019/12/10/10-predictions-for-data-science-and-ai-in-2020/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/1-copy-1-796x417.jpg
-        width: 796
-        height: 417
 
 secured: "DdYhdHWNgsH5JQEfK2bn3QnWHrXn8KUJmeimCLBjUUIo/pQom4BJ/G1j0iUKdLWBn4nTD2IHbTu+iXENqVA4kHmr3C+kO31Nxgn/z+urJFmRjsI0b/dq6dza1MFrJECDXbTNtEN2qC8pe5woaI3DuGl9Q+4hanm0ylJs/xwIwCVqU0ALKhRrcp76qW7TMwRSPyv2Z3gTWJq2ncZHrdxrwfCjc7dLYhqha9TrohxWDngdDsU4d5hlD4/ctDVlj8FqE0JIYlz2DOC96n8BvMKd3w==;/6AA6QjBXAMOV/zsLQi/hg=="
 ---

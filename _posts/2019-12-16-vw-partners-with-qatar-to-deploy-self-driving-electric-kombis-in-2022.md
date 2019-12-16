@@ -1,28 +1,48 @@
 ---
 category: news
-title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-publishedDateTime: 2019-12-10T15:12:00Z
-sourceUrl: https://news.yahoo.com/walmart-partners-self-driving-startup-151221887.html
+title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
+excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
+publishedDateTime: 2019-12-16T01:08:00Z
+sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
+ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
 type: article
-quality: 110
-heat: 340
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: New Atlas
+  domain: newatlas.com
+  images:
+    - url: /assets/images/organizations/newatlas.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.62EE305FA562210566F4FECDE994AC50
+  - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
     width: 700
-    height: 412
-    title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
+    height: 367
+    title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
 
 related:
+  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
+    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
+    publishedDateTime: 2019-12-10T15:12:00Z
+    sourceUrl: https://news.yahoo.com/walmart-partners-self-driving-startup-151221887.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 110
+    images:
+      - url: https://www.bing.com/th?id=ON.62EE305FA562210566F4FECDE994AC50
+        width: 700
+        height: 412
   - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
     excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
     publishedDateTime: 2019-12-11T00:09:00Z
@@ -111,21 +131,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
         width: 700
         height: 350
-  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
-    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
-    publishedDateTime: 2019-12-16T01:08:00Z
-    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
-    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
-        width: 700
-        height: 367
   - title: "Walmart teams with Nuro’s robot cars to deliver groceries in Houston"
     excerpt: "Though the current delivery system relies on the company’s employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
     publishedDateTime: 2019-12-12T03:24:00Z
@@ -349,6 +354,6 @@ related:
         width: 700
         height: 467
 
-secured: "p5rHpAXycz9uIdjmE2rQIzAznBa2RVUl5f+9sSiXvL7OuGdy3WAIK3sfKoExpqQt4evqVEA1t1Z5tLZF8Pg8ZyIHODUJ+Bid9AT3teIBzZ9JLpaTyMQB2TuPpefSyUXAnAj61wsj234hZIZwLuqcwppskRdxZHLIHn9UA27p24OsFztJaT0rGBTDI6JqW6twd8lu+VIkB/UUX9k5OX1GIGB1xrWnlARXX5W97M4iD0BUoPEkO46Em4OxC2a0YmUeaPY5S4+fAJZvnZwYWlzrqA==;SJApK/YGJAZUVEEWMxRRdg=="
+secured: "zG7XfioP+wDFlyMR/Ej6JvJC2mLBV3+0WOtDK0ulP0cuCcBVASVu6PH8SLvMGLr0sJGOI1pg/hcqmeD68Vy6nAKk0XuNiiGaymlRd1BGOT8sr1zWuxhTOrgcE/pXTcISCnn40FAWLXRv5LhDtlTfdhXEOurhp4bC4simtmJ0CV9hZ2zljiYhfklEEUvTuy1dWaMuDE4q7UyUVAF6w72/SnxP4aiPB0BIZV2klbJJ4alcHlk3MeuwbfpdKuOzhI1ltYxQ67Nifpw1IVMa07N8BA==;LKyiQrXSbhZrZmsx/KoTrQ=="
 ---
 

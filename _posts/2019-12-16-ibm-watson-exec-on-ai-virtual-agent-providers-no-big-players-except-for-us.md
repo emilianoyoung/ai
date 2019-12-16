@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/15/ibm-watson-exec-on-ai-virtual-agen
 ampUrl: https://venturebeat.com/2019/12/15/ibm-watson-exec-on-ai-virtual-agent-providers-no-big-players-except-for-us/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/ibm-watson-exec-on-ai-virtual-agent-providers-no-big-players-except-for-us/amp/
 type: article
-quality: 85
-heat: 85
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - AI
   - Google AI
+  - Microsoft AI
+  - IBM AI
 
 images:
   - url: https://www.bing.com/th?id=ON.4BE35316D23E34066A0BDFF57413061C

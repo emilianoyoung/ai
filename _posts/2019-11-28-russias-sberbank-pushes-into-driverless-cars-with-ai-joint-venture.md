@@ -27,20 +27,16 @@ images:
 
 related:
   - title: "Russia's Sberbank agrees venture with driverless technology firm"
-    excerpt: "The new company will be engaged in developing \"digital economy projects in transport, agriculture, computer vision and artificial intelligence,\" the statement said. Russian internet giant Yandex currently leads the way in Russia's driverless car market ..."
-    publishedDateTime: 2019-11-28T11:05:00Z
-    sourceUrl: https://ca.news.yahoo.com/russias-sberbank-agrees-venture-driverless-105932004.html
-    ampUrl: https://ca.news.yahoo.com/amphtml/russias-sberbank-agrees-venture-driverless-105932004.html
-    cdnAmpUrl: https://ca-news-yahoo-com.cdn.ampproject.org/c/s/ca.news.yahoo.com/amphtml/russias-sberbank-agrees-venture-driverless-105932004.html
+    excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
+    publishedDateTime: 2019-11-28T11:07:00Z
+    sourceUrl: https://uk.reuters.com/article/us-sberbank-driverless-deal/russias-sberbank-agrees-venture-with-driverless-technology-firm-idUKKBN1Y217X
+    ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
+    cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
     type: article
     provider:
-      name: Yahoo News Canada
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/4dwg.8hWC8gOt5bg5_6Lnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04MjIuNA--/https://s.yimg.com/uu/api/res/1.2/cr3Ienp.RsMqd8L721i4WA--~B/aD01MTQ7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/b69c3558d67cffd0e9a9dc3713aa0db8
-        width: 800
-        height: 514
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "Russia’s Sberbank moves into driverless cars with joint venture"
     excerpt: "computer vision and artificial intelligence,” the pair said. Financial terms of the deal, which is expected to complete in December, have not been disclosed. The new venture will be headed by Cognitive Technologies founder Olga Uskova. Read more: O2 steps into 5G driverless car testing in London as it grows mobile customer base Sberbank has ..."
     publishedDateTime: 2019-11-28T17:49:00Z

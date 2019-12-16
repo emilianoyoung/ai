@@ -25,6 +25,21 @@ images:
     height: 2189
     title: "Driverless cars are being trialled on some of the country’s most difficult and congested roads"
 
-secured: "2Ugs3URtE3XpIhKeT7pMbtQYJ0WLJqDs8bpPwszqzarqr+WYPCrHp9vt8Cw+ufMDQTHBRdCY2G2gkVmXZbCen+r3Kh8U4FGdOrJN5h4QTA0qEklL1Ou5S1ZR8OC5BalNsuhf5NuwdF8HWudarAuTjYTK11JLMW7NMvlOMTy+ucbAU3b+nZ2z3iKSmSMf/AYdag9PZiLLxcDc7xl1fl39wRB317n8T340w7YJTnF10dC0+ZXTF8oUX7X6OS/NiSK02V4Q+ZUVYNgvlSD3oId8ow==;yCfZc5tD77tAjCmIVLZ/AQ=="
+related:
+  - title: "Driverless cars to hit London streets in new trial"
+    excerpt: "A Cambridge start-up has announced that a fleet of driverless cars will hit the capital’s roads. A trial of eight autonomous Jaguar I-Pace SUVs will take to streets across Zones 1–3 in London to improve their learning process. Artificial intelligence ..."
+    publishedDateTime: 2019-11-20T00:00:00Z
+    sourceUrl: https://www.rac.co.uk/drive/news/motoring-news/driverless-cars-to-hit-london-streets-in-new-trial/
+    type: article
+    provider:
+      name: The RAC
+      domain: rac.co.uk
+    quality: 39
+    images:
+      - url: https://d1ix0byejyn2u7.cloudfront.net/drive/images/uploads/headers/ws_cropper/26_0x114_1200x629_1200x630_wayve-driverless-trial-london.jpg
+        width: 1200
+        height: 630
+
+secured: "BcmNR8EHQnkuSok2S3mZCUeCgxQ767ZROoDexU0phwFpXfXXaT06UJ2ZcW9syWFFOUqNUZ5WfXGtIVewezgRDwk/c3tmBfDeUCp18NoHx5q8g4ARkRPdFMWzQpWgLOxysXWY4l3QYBD1f+Sv+/NYXOlhZ6kQsCoohfq6+1QyLr8rmfcXtgFmAgPHd+wuTqiiVafsPcOmRRb/PzVyGN22XaRHegIaYbcrewZpZvFlk7vQ49iII5V0HEPuPNFCMI+sN6ISfHTAAZRyUgFXXI8H3g==;/scZszutfyobxVde6mAhYw=="
 ---
 

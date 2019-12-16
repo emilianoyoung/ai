@@ -127,6 +127,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
         width: 700
         height: 350
+  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
+    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
+    publishedDateTime: 2019-12-16T01:08:00Z
+    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
+    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
+        width: 700
+        height: 367
   - title: "VW parent buys stake in Apple vets’ Mountain View self-driving sensor startup"
     excerpt: "Porsche Automobil Holding SE, the parent of Volkswagen, on Wednesday said it has acquired a minority stake in Aeva Inc., a Mountain View self-driving tech startup founded by a pair of former Apple Inc. engineers. The financial details weren't disclosed but the auto giant reportedly plans to use Aeva's lidar sensors on Volkswagen ID Buzz buses ..."
     publishedDateTime: 2019-12-12T12:13:00Z

@@ -28,17 +28,17 @@ images:
 related:
   - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
     excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
-    publishedDateTime: 2019-12-15T20:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Engadget on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
         width: 700
-        height: 466
+        height: 367
   - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
     excerpt: "Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each on semi ..."
     publishedDateTime: 2019-12-16T00:03:00Z

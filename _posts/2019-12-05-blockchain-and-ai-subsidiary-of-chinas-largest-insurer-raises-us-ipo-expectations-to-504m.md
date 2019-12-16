@@ -25,21 +25,6 @@ images:
     height: 300
     title: "Blockchain And AI Subsidiary Of China's Largest Insurer Raises US IPO Expectations To $504M"
 
-related:
-  - title: "Blockchain And AI Subsidiary Of China's Largest Insurer Raises US IPO Expectations To $504M"
-    excerpt: "In an updated filing with the U.S. Securities and Exchange Commission, OneConnect Financial Technology Limited, a blockchain and AI subsidiary of Chinese insurer Ping An Insurance (Group) Co of China Ltd’s (OTC: PNGAY) increased the amount it hopes to raise as part of its initial public offering. Come again? The fintech company, which has the ..."
-    publishedDateTime: 2019-12-06T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/blockchain-ai-subsidiary-chinas-largest-110438046.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.3E86C7E8607B69F4149E5371B9705D33
-        width: 600
-        height: 400
-
 secured: "NGF1v+vs6AkhmeXNbciZmOkqkf9kQ9KJdyieD2PFQdPDZeRs2CCRn+FCSxw60hg/23y+vJ39t6PgB6CQB5UgdX19ehWBDvTqQidB8pg/9NIreqPEWOqyTqu/KRGnCAoSUiK3yajVFoVlsvToBE6OAQNttOAp8k+U8QKgjYWK3NlKyAk4VHJLumNHoFbqoEc/ghXux2nJZTnSAK4OM2hR5Hmkfms23H8DjSZU9ufFf701n5dAQjuYuLk4fzweEvwNVFA9Q80vnytza8A7FXyGUQ==;1TVzl3JeJxvBQPDNt7URbw=="
 ---
 

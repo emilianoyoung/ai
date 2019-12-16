@@ -2,18 +2,16 @@
 category: news
 title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
 excerpt: "In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in ... Calif., parent develops many of its key chips."
-publishedDateTime: 2019-12-03T13:47:00Z
-sourceUrl: https://www.thestreet.com/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-ampUrl: https://www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
-cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/amp/investing/stocks/intel-in-advanced-talks-to-buy-israeli-start-up-for-1-2-billion-15187882
+publishedDateTime: 2019-12-03T18:51:00Z
+sourceUrl: https://www.msn.com/en-us/finance/technologyinvesting/intel-in-advanced-talks-to-buy-israeli-ai-chip-startup-for-241b-to-242b-report/ar-BBXGOnH
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: TheStreet.com on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -90,6 +88,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "37jdOoD2Plx9SXkivjNXjP546zaHHcMewlCLWVTsSpmUotfwhhzYtnnvh/mj+DL5cY7ILehaH//y/BouxjyvbkXUhGQMGd5epuvTihwQgQctvKw3m8A0iEL1GH/xVA6mJxhL45Yl+XxX2orngGYJKnexYZFFtrolhg1pOkqDcIfZEHUITgF7DoBGiTLWtOwimuRFTQ/Cxx4OvButzL3UvXtxk6yeHYfp58I5Xf1J4ZnBRxNgq4gyYSZ+aUXQjj8oWeoZ4h95Mvwa0oTzGmqjkA==;qe6tMDVmpZKU9fX8c6ORPA=="
+secured: "2RrC+Vl/gt6YzxGz9yAFT/xKt4ctu3S0+2+4lBO7twXUEifrvXF/i+qDGqfy4QznVTinOnvJWctCBH9ILtPMeNF4t4Zs/6SnEQE1s2q8Ld1U97JNnvY0CHBKN/LOmEE2zqINd3b3o4g7rbR2dBT1OzCDsnPzutNw9N8tul/pAiWazsVaeML7gDJeaIfYMXA7TrunVgFBXl5AC0QjoLWBwGlvsfMCvNG9JYozawoFiCo90Vx0h+mUcy7lcHAMIMcMaFntYBnymkFjr1lc2osfvA==;T5EeOtQE1AGcyDt+is50HQ=="
 ---
 

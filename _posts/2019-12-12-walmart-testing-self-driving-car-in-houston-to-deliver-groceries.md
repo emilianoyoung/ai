@@ -125,6 +125,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
         width: 700
         height: 350
+  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
+    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
+    publishedDateTime: 2019-12-16T01:08:00Z
+    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
+    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
+        width: 700
+        height: 367
   - title: "Walmart teams with Nuro’s robot cars to deliver groceries in Houston"
     excerpt: "Though the current delivery system relies on the company’s employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
     publishedDateTime: 2019-12-12T03:24:00Z

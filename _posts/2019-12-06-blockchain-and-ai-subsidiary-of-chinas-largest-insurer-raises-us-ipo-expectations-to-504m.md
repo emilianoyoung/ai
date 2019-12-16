@@ -24,19 +24,19 @@ images:
     title: "Blockchain And AI Subsidiary Of China's Largest Insurer Raises US IPO Expectations To $504M"
 
 related:
-  - title: "Blockchain And AI Subsidiary Of China's Largest Insurer Raises US IPO Expectations To $504M"
-    excerpt: "In an updated filing with the U.S. Securities and Exchange Commission, OneConnect Financial Technology Limited, a blockchain and AI subsidiary of Chinese insurer Ping An Insurance (Group) Co of China Ltd’s (OTC: PNGAY) increased the amount it hopes to raise as part of its initial public offering. The fintech company, which has the second ..."
-    publishedDateTime: 2019-12-05T10:04:00Z
-    sourceUrl: https://www.benzinga.com/markets/cryptocurrency/19/12/14935831/blockchain-and-ai-subsidiary-of-chinas-largest-insurer-raises-us-ipo-expectations-to-504m
-    ampUrl: https://amp.benzinga.com/amp/content/14935831
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14935831
+  - title: "China's Largest Insurer Blockchain And AI Subsidiary Slashes IPO Expectations — Again"
+    excerpt: "In an updated filing with the U.S. Securities and Exchange Commission on Wednesday, fintech company OneConnect Financial Technology Ltd changed the amount it is expecting to raise as part of its initial public offering — for the second time in December. The subsidiary of China’s largest insurer Ping An Insurance (Group) Co of China Ltd (OTC ..."
+    publishedDateTime: 2019-12-12T10:18:00Z
+    sourceUrl: https://www.benzinga.com/markets/cryptocurrency/19/12/14977654/chinas-largest-insurer-blockchain-and-ai-subsidiary-slashes-ipo-expectations-again
+    ampUrl: https://amp.benzinga.com/amp/content/14977654
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14977654
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 49
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.28397D5EB2BBE227BAAD477BF9D7FE81
+      - url: https://www.bing.com/th?id=ON.2B2ADC394D08F8AC6F1F83B006040FF7
         width: 400
         height: 300
 

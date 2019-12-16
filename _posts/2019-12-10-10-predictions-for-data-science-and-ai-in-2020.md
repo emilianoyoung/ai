@@ -28,32 +28,21 @@ images:
     title: "10 predictions for data science and AI in 2020"
 
 related:
-  - title: "Learn Python for data science and machine learning for just $10"
-    excerpt: "TL;DR: Whether you're a programming beginner or expert, you can grab the Python for Data Science and Machine Learning Bootcamp for $9.99, a 94% savings. Both beginners and experienced coders are becoming more interested in data science and machine learning, and there's no better place to start than with Python. This Python for data science and ..."
-    publishedDateTime: 2019-12-08T10:00:00Z
-    sourceUrl: https://mashable.com/shopping/dec-8-python-data-science-online-course/
+  - title: "IBM’s ‘elite’ data science squad has kickstarted AI for more than 100 companies"
+    excerpt: "“Within that time frame, you’re going to have a great AI success story and a model in production,” says Thomas, who is general manager of data and Watson AI at IBM. “These are some of the best data scientists in the world.” Here’s the step-by-step recipe, according to Seth Dobrin, VP of IBM Data and AI, chief data officer of IBM ..."
+    publishedDateTime: 2019-12-16T01:17:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kickstarted-ai-for-more-than-100-companies/
+    ampUrl: https://venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kickstarted-ai-for-more-than-100-companies/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kickstarted-ai-for-more-than-100-companies/amp/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.CD944CF00FB2940F871C09183FBD964A
+      - url: https://www.bing.com/th?id=ON.15EB4F3E21E5569BAA895BF37AA7EBEA
         width: 700
-        height: 367
-  - title: "Video: The alchemy and science of machine learning for games"
-    excerpt: "In this 2019 GDC talk, Ubisoft Montreal's Yves Jacquier explains Ubisoft's strategy for incorporating modern AI and machine learning in big-budget triple-A games. Jacquier's presentation shed light on how Ubisoft incorporates these new technologies into its production process for making games like Assassin's Creed Odyssey, Rainbow Six ..."
-    publishedDateTime: 2019-12-10T20:36:00Z
-    sourceUrl: https://gamasutra.com/view/news/355473/Video_The_alchemy_and_science_of_machine_learning_for_games.php
-    type: article
-    provider:
-      name: Gamasutra
-      domain: gamasutra.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.18AFA56F56AF81B426D5AB4ECFF18D3A
-        width: 200
-        height: 200
+        height: 450
 
 secured: "VDwo7rR4/BEITPl91FSg8O8dIYaP39ExJM4Rn7V2BfAlycaVHEhi7jBP1VwABqckqCc2GSkz4B/43WeMM6Q3O7YmqjdLner0SEVg5fwN1aPmd9N1BNL9VQUc5Nz20JL1idsPxsffpYxTYw387nJJ8BiF6jwTr6d6ayKmmv4SNmMMuxLjMxY0/YWjPx3IRW2M309/HUWUxEoJ40yxRaHKGop04toDii6OmcUYSoEXgqd9Ul7mldeje0EK4kJAY7GTltr+TVDVRwvA06vg8rZp5w==;7AO+CIq+tlFYmjmrgQL8FQ=="
 ---

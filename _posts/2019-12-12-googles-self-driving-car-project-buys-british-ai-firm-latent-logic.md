@@ -18,47 +18,75 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Self-driving car firms rooted in U.S. government competition"
-    excerpt: "Bryan Salesky had little way of knowing in 2007 that his teammates and rivals in a U.S. Defense Department-sponsored competition were laying the foundations for future self-driving businesses now valued at billions of dollars."
-    publishedDateTime: 2019-12-11T11:09:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-darpa/self-driving-car-firms-rooted-in-u-s-government-competition-idUSKBN1YF18Y
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "As reported by The Guardian, Waymo has bought the UK-based AI company Latent Logic, which specializes in the testing of autonomous vehicles. Latent Logic uses \"imitation learning\" to create simulations of human behavior which can be used in vehicle testing. Most AI training uses reinforcement learning, in which an AI gives answers to problems ..."
+    publishedDateTime: 2019-12-13T10:45:00Z
+    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
+    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: Engadget
+      domain: engadget.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
+      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
-        height: 466
-  - title: "Latin America Self-driving Car Market Size Competition, Status, and Forecast, Market 2019-2024"
-    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- Latin America self-driving car market The Latin America self-driving car market is expected to expand at a CAGR of 28.5%, leading to global revenue of USD 3.75 Bn by 2024. A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-size-competition-status-and-forecast-market-2019-2024-2019-12-05
+        height: 367
+  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
+    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
+    publishedDateTime: 2019-12-09T23:21:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
-  - title: "Toyota Research Institute's Kuffner on Self-Driving Car Ambitions"
-    excerpt: "Dec.05 -- James Kuffner, chief executive of Toyota Research Institute - Advanced Development, discusses his work on self-driving car technology, competition in the industry and the timetable for delivering software to consumer vehicles. He spoke with Bloomberg's Erik Schatzker in Tokyo. (Toyota Research Institute-Advanced Development's capital ..."
-    publishedDateTime: 2019-12-06T04:34:00Z
-    sourceUrl: https://finance.yahoo.com/video/toyota-research-institutes-kuffner-self-043437717.html
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Teams working on autonomous driving projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to-life simulated training environment that enables AI models to learn more efficiently. Waymo didn’t say what exactly the ..."
+    publishedDateTime: 2019-12-12T17:55:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5C3D34CA06B645754AE6139428E6CE54
+        width: 700
+        height: 389
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-14T00:14:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 24
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.F0BFD66651D8BA6D62143481B7B2537B
+      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
-        height: 393
+        height: 388
+  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
+    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
+    publishedDateTime: 2019-12-13T10:05:00Z
+    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
+    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
+    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
+    type: article
+    provider:
+      name: London Free Press
+      domain: lfpress.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
+        width: 700
+        height: 525
 
 secured: "1syHBwVtE8jslFK3pygAAG0i5SneiLiyxsQ1iqMbD2WFypu0Lrgzh1L68v62j1bsnZCUmaAfPMJq41YFUIfQAas8QbbvZS8Uzi//93ZY0lfN5SR/HrzJZxBycoqlbol+XXLlAQTD1cWEg3hjE/TWKv8CN0zlZSb5fgsZNGjLgCB5W1lxPOXLV/uxFWQqNOq2M4N1lxG+1DQeUZ73PIeelW5CoE3bC9Xv/8hQXzbBoYD6CIVzkoNu8QMGqZDD6V2HXclCm5gOqU392TcZ09nGjg==;anlD7eBh+lvx+gNpN04PYw=="
 ---
