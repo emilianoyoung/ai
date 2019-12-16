@@ -80,19 +80,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Face recognition tech is everywhere at China’s new mega airport"
-    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
-    publishedDateTime: 2019-12-13T07:32:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
+    publishedDateTime: 2019-12-09T09:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
+      - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
+        width: 320
+        height: 180
+  - title: "Emotion Recognition Is Creepy As Hell"
+    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
+    publishedDateTime: 2019-12-13T21:12:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
         width: 700
-        height: 445
+        height: 366
   - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
     excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
     publishedDateTime: 2019-12-12T22:39:00Z

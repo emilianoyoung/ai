@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tec
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tech-talent-hinder-wider-ai-adoption-china
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,62 @@ images:
     width: 700
     height: 367
     title: "Lack of quality data, tech talent hinder wider AI adoption in China"
+
+related:
+  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
+    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
+    publishedDateTime: 2019-12-10T00:19:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
+        width: 700
+        height: 367
+  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
+    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
+    publishedDateTime: 2019-12-09T18:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "62% of Brits would trial retina recognition identification - Equifax"
+    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
+    publishedDateTime: 2019-12-16T12:14:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
+  - title: "People are open to biometric retina recognition"
+    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
+    publishedDateTime: 2019-12-16T16:19:00Z
+    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
+        width: 700
+        height: 369
 
 secured: "R4gRBkATKy9QSZj3q+Hyiom8Clvy1QU747mFVCGm4+0MVVjF4U4t6oCIgPKwgOt7UrLslRPEMLs//S5VxxrnlTFmFvTwBXKyL0WZErRaVvhgWEiNG4qbucQtpDWLfomjSjoXsFBROQ3R0fFYkF27ctAdV+OZ/OPeHF043Olfe1UUHNBj4HL9h7+yaeRynpi57Twy7Qi/DN3MpxuyF+e3ugGpxyvO51d+5our+WaBrP53j5bAxiB+wdkNkoZjwa0I13jDi3ctCnik7bdJNkfmRA==;cNr3z5bMg5YQMhllvDW/VQ=="
 ---

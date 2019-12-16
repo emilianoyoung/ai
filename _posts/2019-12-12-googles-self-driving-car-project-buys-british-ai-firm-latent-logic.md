@@ -74,6 +74,19 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Teams working on autonomous driving projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to-life simulated training environment that enables AI models to learn more efficiently. Waymo didn’t say what exactly the ..."
+    publishedDateTime: 2019-12-12T17:55:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5C3D34CA06B645754AE6139428E6CE54
+        width: 700
+        height: 389
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z

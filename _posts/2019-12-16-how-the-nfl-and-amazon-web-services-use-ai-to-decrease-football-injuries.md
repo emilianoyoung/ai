@@ -2,20 +2,16 @@
 category: news
 title: "How the NFL and Amazon Web Services use AI to decrease football injuries"
 excerpt: "Jeff Miller, NFL executive vice president, joins 'The Exchange' to discuss the NFL-AWS partnership and how it will help increase safety in the sport."
-publishedDateTime: 2019-12-16T19:31:00Z
-sourceUrl: https://www.cnbc.com/video/2019/12/16/how-the-nfl-and-amazon-web-services-use-ai-to-decrease-injuries.html
+publishedDateTime: 2019-12-16T20:09:46Z
+sourceUrl: https://www.msn.com/en-us/sports/nfl/how-the-nfl-and-amazon-web-services-use-ai-to-decrease-football-injuries/vi-BBY3FrG
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 36
+heat: 36
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: CNBC on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -41,6 +37,6 @@ related:
         width: 700
         height: 450
 
-secured: "aw5WnDDsnFPcrbZkcoK8/Ij+++B8gXoDxOcr2Gj24UF3kPcwxWTATI3fBLWTKEUd1rtI7xfMkrVJ8NASo588X8jC0UBibdOz8rZbUQpLHQaFgqokAOXfAqvlpjvWC/AW8sI5sSFkSD0NoAGth+rHwFD3A9+CvpVXTA7LBiOkJ4qR3xFggJeu0dT55Idb609hviZ+D9nVJ+qalpOCufBJSwGJSIfiypa1ldHAKOPDDu5ocxq+pw4b6X8XSTdj5a6INzmlijL/0vEV84taSWUVZQ==;6rBawcex8eqnofIoyZ4VJg=="
+secured: "4NtNPlayG+FYhtmBmR8UKpKdsIFuPsOGhpZhjcO6KVXTX6UlRzvVKI6x2dVBnHC0rNUnMbm7R08XRxvyO+wEXTnSUtJ9PZE6OW1172XvgRSijo6vnkTnxk2bBCDLFWS3ZFsCjJOr1Odag/i1b7ALjUqAMAyENfQ2RWeayWGhZPtroOBp9jsch5Im6Zu1B6g48fW0FlwjfWmtxIgfsaym1KCN0MVUa5gz7SagKsyoRX7eb3N1sGZwKIDdt28uEAPDGOqRpj/gaO+N9gylyJ1svA==;sHQmhO4iibjke7n3/T2NJA=="
 ---
 

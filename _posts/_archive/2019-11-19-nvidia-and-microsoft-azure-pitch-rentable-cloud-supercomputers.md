@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: Data Center Knowledge
@@ -23,6 +23,21 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-secured: "1VsmQtWQg0qbH0cP55nP8X2i/Gdw7MZllJ6oIJSyVl6lYvjq94vjhdafF7XXFE07E0onrFRQfo2FSWK6DhTxD/oBqqqu9uxe95THL26jmN/8keS0jWgmYXFOBRdjbtElDsC7AEwywdBvqHb2/8LmBWJeVZjNCwCGsuwWlaQltAr4jKwM+HV/eaGmm/Y8P7ZogY/fMAbXJSzU4K7sgWReNmzGbbsgviaZRl4aNwddUTdiNA8pepA2t7tZBQsd0tb76K5+GVvURqLwHn2ubSuASQ==;ysw6I3FPc4MvgQoPYl2kFw=="
+related:
+  - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
+    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
+    publishedDateTime: 2019-11-18T00:00:00Z
+    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 47
+    images:
+      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df2b31e8baf1-76219803_dspace_san_jose_office_exterior.jpeg&size=1&version=1576186784&sig=fafa31b4f3deb62bd8547b9d271cc295&default=hubs%2Ftilebg-blogs.jpg
+        width: 500
+        height: 272
+
+secured: "TSX3pHy0mzLJWEgRMuIU/RRuJjEYgmgDMTGTmWo38Na1443zHMlNp2Uf+2xaGkl5YAxmgTH8ODBE3OruomYaZgq8zRlN1XKQmAV7wSU71A11Jb4r5VmY+BgZXAWBAX3Uky+JWI7YYXM+wDpbqntf32WXOD7wrpPhwIfWxSKiIbtYoWHGQgDIIRgVMjICIl5HsTcUWTBZxbXgrHmqi5gbrvR7oePgDeEkwQckJv6Zs2rAO7u8FvjuDHj6aX3OOTARZTeFTX6Kpt/5BFwc7uQnug==;BMiS5Vj5wZ6d8aC0R1nJcg=="
 ---
 

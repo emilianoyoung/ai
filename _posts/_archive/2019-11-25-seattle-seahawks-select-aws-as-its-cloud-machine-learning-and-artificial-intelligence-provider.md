@@ -23,6 +23,6 @@ images:
     height: 393
     title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
 
-secured: "5HnQUXEfTOsckVZ0FFWQ9PnGjIMR/5xfVpICyNDDDsP26v+lR8PSonVjdgOTaTJpdOTMwaYBeA7ughWJoJYfMqWtK+ZQY8TUGaNmX6GlQBLJG3aSwtx+fuVVFjdhO3OxG0p1MR/Nh8jr+ESidggMlfXuzh+5kWOGke5YDbdRuzw9ncZeZhfqWS/M/u9SlPESisit/FKUprrNxberxtqH2cRmgRxliQTuP1fjfpEN/xLgjqmLHGMH/8LhljN+mkPk8Ez27uawQhRLO2DlRYf6uw==;y2BmD1AZBcp9n9yCWjDLOQ=="
+secured: "0e8ofY+DTdthbJf7lAM58Xr2aW+mxgXxuXr5ErzDAKnS6KmqGF/nPf8PrNtOj6ivqo/V3teqvaNmETYY0eQY9ozhDw5btril9ub8pgHbl/tjIFlllXH6erle7aqW2/s1oPW3I4nXibXwTXq/O6W2ECA/v9Kp3j92Xx4d+HzVcpq2GeTUSYejMansLurTDPyHvpHCnCgAgxGGgfzBT6ijzaZToCi6uPS0l8dCv0B833Kc8fVs0pPG4C4mxZ+jVkgFxFr8Sw6tF13qd9R70MDJWA==;lldUCUAwq54ApIIi3qUvGQ=="
 ---
 

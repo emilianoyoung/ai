@@ -38,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CEE9C0B02AD33AD0F55369FAA3E57975
         width: 700
         height: 350
+  - title: "Researchers built AI technology that uses algae to fight climate change, and they're planning on releasing the design so anyone can build one"
+    excerpt: "Algae absorbs carbon dioxide from the atmosphere. With help from AI, a new bioreactor could draw out more greenhouse gas than trees."
+    publishedDateTime: 2019-12-16T20:51:00Z
+    sourceUrl: https://www.businessinsider.com/algae-carbon-dioxide-climate-change-hypgergiant-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.0BB9960FF6AC6E9BE9ADCC19D06AFB6C
+        width: 700
+        height: 350
 
 secured: "Mp5LODRfri0mj6Oe0qYmW+OVRLpzwyO1Q8ELvYMp+xORXCmvtWpdsgZCgYRdnTetIWSSpN+A0xqcJGlUObUVoR/EKvi3V22aFRPpykTt4WUVIlq1cuZLNYZCD3gGykS+ZtWmRprMDDudq4FipZ+6Ur8p6V32I8OxUEng2nqb7LXxd0YxENMWOAsXTD5J/cTf+ynlkhxozkRH9KkKw4ORTnXKKphCGSlGY3Bui3g5IG0r1I7ZY01zHX0e7AV47h6iNhkFlnUAJk+KZOOxQRUSnQ==;E5gE5W09eAqyTmFvedttHQ=="
 ---

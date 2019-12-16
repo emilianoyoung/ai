@@ -38,7 +38,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 187
     images:
       - url: https://www.bing.com/th?id=ON.15EB4F3E21E5569BAA895BF37AA7EBEA
         width: 700

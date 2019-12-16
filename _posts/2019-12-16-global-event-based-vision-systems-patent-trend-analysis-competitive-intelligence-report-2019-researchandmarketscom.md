@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T09:56:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191216005311/en/Global-Event-Based-Vision-Systems-Patent-Trend-Analysis
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 700
     height: 365
     title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+
+related:
+  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
+    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
+    publishedDateTime: 2019-12-16T12:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
+        width: 700
+        height: 365
 
 secured: "3nGHBcfbu1KJmm7LcFg/lP09P7h3L0vuoB3PLN8ZVomQLlX0rKw4uGji/aNtJRGvo6DR31wwdqyGoWpZveuGU/nN4Q+eNr8Kgtg7JBwsexBgqo8WVryahuKTHKwFs6gqJdgYfKov2GWnAOeg7T4+2xjXR1M51xxJYeCR7crUghNdC2rV9x7IM/iu9M3aIL77pwya9pigWbv10owxdGFrXjFTSKJQsPjkYjgGph4pmbuIwmtx0mbhec5sMO23MTD8AxZxJ/v9sgrVX3YDaSBZYA==;DnbUcJN9SM6K3MEn+mbQFg=="
 ---

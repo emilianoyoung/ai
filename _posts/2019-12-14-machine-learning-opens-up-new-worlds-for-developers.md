@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/machine-learning-means-expanded
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-means-expanded-job-roles-for-developers/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 700
     height: 525
     title: "Machine learning opens up new worlds for developers"
+
+related:
+  - title: "Intel snaps up deep learning accelerator firm for $2bn"
+    excerpt: "Intel has acquired Habana Labs, an Israel-based developer of deep learning AI accelerators. Rumours about the possible deal, which has just been officially confirmed, were swirling at the start of the month. The $2bn deal is Intel's largest since its acquisition of MobilEye in 2017 (for the sum of $15.3bn). Bolstered by the absorption of Habana ..."
+    publishedDateTime: 2019-12-16T15:41:00Z
+    sourceUrl: https://hexus.net/business/news/general-business/137903-intel-snaps-deep-learning-accelerator-firm-2bn/
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7F805FCEAF027FB4A989557B8D8D6FDB
+        width: 515
+        height: 221
 
 secured: "1WA6WvHkF/7PWTd9M0Lqrh8ShhDYteWyHBf2pOvCCmLp38wDfMuLsg/zALaf2vrONPnL7CDd0nxV1AOPm+QK1PWaafxDENtNgwr9oXspys/xjyQbfqHsWYQADGNJ7kaYb8ppZajT/lu0YuOSsmwOqoFZQ6QvOZEbH+J/p6C2oreqnQZ+f1zRrVLa4f8yIc7N0dTM/y9wvF0NIQNFelufy1A9BZSu0oS3UsVEO2BWhemqaumto+oodDtc9nfp/vVEwPthHsdBtXvpR3MoqAdyOg==;YHzXQVZO/LGythAHbsOOKw=="
 ---

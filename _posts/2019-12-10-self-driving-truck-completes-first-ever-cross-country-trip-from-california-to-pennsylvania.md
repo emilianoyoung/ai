@@ -129,19 +129,6 @@ related:
       - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
         width: 1200
         height: 627
-  - title: "How self-driving car tech could help drones monitor power lines to prevent wildfires"
-    excerpt: "So far, the (very inconvenient) solution has been to just shut off electricity entirely during days with high wind. But a Bay Area company says they have another answer, and it uses the same technology that lets self-driving cars “see” their surroundings. Quanergy is most well known for building the LiDAR sensors that help power autonomous ..."
-    publishedDateTime: 2019-12-16T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90442316/how-self-driving-car-tech-could-help-drones-monitor-power-lines-to-prevent-wildfires?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-90442316-the-same-tech-that-helps-self-driving-cars-see-could-help-prevent-wildfires.jpg
-        width: 1280
-        height: 720
 
 secured: "YLVtlZZiLLGz13LhetBNzF7G3Im67CrsJvD3lS/ChPEWcZjVumOBDxKHGoBPJ2FzyDWUBkWQoWhtkGxF0L8Y2fsVYvTrSJ3/yVL30entC1FpnvMMM+hYNhwPbuSEAYBqll48yA1/28/zDnnmdSx3dZTCbYNwBQyBW1iNIQHPVfSYm1EdLrOP3Ni/RK84bt+YWerVlhqci+EegJvMmYhW+82DTggXfO7enqXqEqgIkERWFNkVFWbDFHPVR7WkV4eiRGpZ31axS4UU52WRvmjnWw==;Nqi1R30yhAALvWjVUFYpgQ=="
 ---

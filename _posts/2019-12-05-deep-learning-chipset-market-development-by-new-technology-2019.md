@@ -65,19 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "GBT Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
     excerpt: "AI, for both mobile and fixed solutions, announced new microchip architectures aimed at expanding GBT’s AI go-to-market strategy. The new architectures, now in development, are targeted to leverage world-class, on-chip AI technologies for the benefit of IC design houses. GBT is focusing on advanced manufacturing processes for the creation of ..."
     publishedDateTime: 2019-12-03T00:29:00Z

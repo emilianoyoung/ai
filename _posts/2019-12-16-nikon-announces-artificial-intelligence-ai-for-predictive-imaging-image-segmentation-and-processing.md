@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-excerpt: "MELVILLE, N.Y., Dec. 16, 2019 /PRNewswire/ -- Nikon Instruments Inc., innovator of advanced microscope systems, today announced NIS.ai, a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural ..."
+excerpt: "To learn more about NIS.ai, visit: https://www.microscope.healthcare.nikon.com/nis-ai About Nikon Instruments Inc. Nikon Instruments Inc. is the US microscopy arm of Nikon Healthcare, a world leader in the development and manufacture of optical and digital imaging technology for biomedical applications. Cutting-edge instruments include ..."
 publishedDateTime: 2019-12-16T14:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
+sourceUrl: https://www.prnewswire.com/news-releases/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-300975257.html
 type: article
-quality: 66
-heat: 66
-published: true
+quality: 38
+heat: 38
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
-    width: 400
-    height: 142
+  - url: https://www.bing.com/th?id=ON.BB65E0FEF2F1065EE34911B74C434D7C
+    width: 700
+    height: 367
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
 
-secured: "T77thxwMvaRyNjiq0w2wMvF5yL5SlL/E6HV3YG7s1lAKj9gmSzKXVfG8fmVrzpDn5nvhEfYMo3bNEgHqLe4XZ/a+hHN42kb/eWv74PPVBzfZT9Er+qpuzgfIcpKOYaSotaPmasjWGYtS7F1V75B9xc1o5GfqBz17wWmOAg/lG0QwN32eD2rA9bVVBv6rFzGWgT90SZWXvx5Xxr5ih8/OoG7pBR9BmQU3wfJ0D6BJtxoiJ/IB7kTl/nCuD66fLbApsrlNFA8bu61xUdtpcbyNVg==;EVxbu3rS6KtLnhqdoFBIkw=="
+secured: "VviOzG33MUGBpRKfM6wDXzvEe+xQ4Fyiq64tii+DnUd0sH2ntTxEEWycLPjTyj9a0W+8QOkZqC+aPbr882hQ2ooGoDkT4dR12wRuw1QgDVBNri5rB+7sILH/Oxxv7mJai5aDnCFrp5lNfD6ebM9ubjtbAq4XiXsS3kIgl+rd68woAFu7AJIieBYQZ3lhuxfbGlfQ9PE0JzHmk4eHkiF0O0CPfSdrDs7GceyQh0maQotN5JqyNHOz4QaCpjHIQW9s7foHYR8GnuQQX/8UCOzSJg==;fc1DWaSKcDBZ9Pp35UoX4w=="
 ---
 

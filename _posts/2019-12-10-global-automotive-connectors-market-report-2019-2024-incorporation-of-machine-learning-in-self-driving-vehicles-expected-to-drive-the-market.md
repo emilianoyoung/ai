@@ -72,6 +72,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Service Market Expect Massive Growth (2020-2029) | International Business Machines and SAP"
+    excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- Market.us Prominent Research Firm has added the latest report on “Artificial Intelligence Service Market Scope and Opportunities Analysis 2020 to 2029” to its Massive Report Online Store. The purpose of artificial intelligence service research document is to depict the exact information to the user ..."
+    publishedDateTime: 2019-12-16T11:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-service-market-expect-massive-growth-2020-2029-international-business-machines-and-sap-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "QsIeX4lTDheGON6Q6Rub0ArCXyS4suTMmzMP5721nD8J4GwLmDLTzyrKCW3VfT2Fh3gNOlQnc2XiZVVdMdN3Vq2t/W63jD2Gu+akSYQNFJZVaSfezW8b8AyY+/KfNZeNz+VP/SVy2SpnqaKcCcZh+B6fg6GvyAWvX1lvNbh9wrsfoNew8Uze/pW6bw54lhGAyds2sOye7rQgiZyMZ9Cqk73UaqnQsKI9aipVK2WprUVQK3XEpfNdH3bJO1XkX6K2dKAosIvc+ZmvSWQ5rO7V8Q==;aseF8W3S2njRhVbV2aHb+g=="
 ---

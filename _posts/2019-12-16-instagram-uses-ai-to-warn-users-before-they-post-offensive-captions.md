@@ -7,9 +7,9 @@ sourceUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-be
 ampUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 187
+heat: 227
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +29,21 @@ images:
     title: "Instagram uses AI to warn users before they post offensive captions"
 
 related:
+  - title: "Instagram AI Will Shame Users Before They Post Offensive Captions"
+    excerpt: "The feature relies on AI that detects language similar to phrases and words that have been reported. When it notices “potentially offensive” captions, it warns the poster with a prompt that gives them the option to “edit caption,” “learn more,” or “share anyway.” So, while it doesn’t censor users, it lets them know they might ..."
+    publishedDateTime: 2019-12-16T17:02:00Z
+    sourceUrl: https://gizmodo.com/instagram-ai-will-shame-users-before-they-post-offensiv-1840459912
+    ampUrl: https://gizmodo.com/instagram-ai-will-shame-users-before-they-post-offensiv-1840459912/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/instagram-ai-will-shame-users-before-they-post-offensiv-1840459912/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.DC5E66B6ABDA8BB44C15691D5A9E5872
+        width: 700
+        height: 393
   - title: "Instagram is using AI to alert bullies to offensive captions"
     excerpt: "Instagram's anti-bullying efforts now extend to discouraging abusive behavior in posts, not just comments. It's introducing a feature that warns people when their post captions might be offensive, using AI to detect language similar to posts that have previously been reported. In theory, this makes bullies second-guess their vitriol ..."
     publishedDateTime: 2019-12-16T13:20:00Z
@@ -59,7 +74,22 @@ related:
       - url: https://www.bing.com/th?id=ON.28330A8E0DE064B556ADEF168633C083
         width: 700
         height: 393
+  - title: "Instagram will now use artificial intelligence to help stop bullying"
+    excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. How It Works If a user writes a caption on a photo or video that the AI deems offensive, that user will ..."
+    publishedDateTime: 2019-12-16T13:16:00Z
+    sourceUrl: https://abcnews.go.com/GMA/Living/instagram-now-artificial-intelligence-stop-bullying/story?id=67751631
+    ampUrl: https://goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    cdnAmpUrl: https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    type: article
+    provider:
+      name: ABCNews
+      domain: go.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
+        width: 700
+        height: 393
 
-secured: "FmUDDSPxodJsh7gppH0ct+TU1Y6YOa4jO769dp6tZ01f6lcIaugL4B2uvTOJKLH8RcTakXQX1ejpp9dJGcp8oprWUUL6HiXl2GFhMNPkdzqHOy4W1bOqtbKatvO+dt3BnKt7RyW3wbTBO0l2gMcAUqS8agYGTJBLKhXkNLpW0Xswi9T4GVqa/hpq060VxXDkqvMeOuwbf61TuKXWrBsQ/rPczha6InRCGTuBBYtiUIuGFIT3FAV6bLgluuVvvl/df9hZsI+izLOT8AA+piHJOA==;ISYyAHsTCvzA2nQ/yODTHw=="
+secured: "VwdpaGE4++yjj196f6A054VgYfMpUrbGWujpRwq6QBU5sU1JjmZXA9E/N+S8L4tHQVkhpHra8yHy8+ijjbKa/Tc19GNptKhZcB/hw5sPp/kyiqcQjp2Qaxp7rrb+XU3kYjzMUdwXPypurSjNd8Lid261ttrPDVu+Sx/xipzCBKBvk6Ld/ig8jGPwILpj2tXL+c7CpR2nXJU+B7m0B1XvdbBWERx14fMHh9IrT37fThgw+J3HI6EzXGIr3ICkwO89Gwcu+NQB84gXNa45HEQpzNfgWetccJ0ttqR/H7s6c+c=;GcRmMj9v7aGCmU25f4bDCg=="
 ---
 

@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-
 ampUrl: https://venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kickstarted-ai-for-more-than-100-companies/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kickstarted-ai-for-more-than-100-companies/amp/
 type: article
-quality: 87
-heat: 97
+quality: 187
+heat: 197
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         width: 796
         height: 417
 
-secured: "w7qruIB2dhIqF0AxfpLfNJ7uIeFz18uabF0KXnQeaoQwS9gitAnTNcQP7Z6tlFJbrdJoedQypKgsDzaNlkkVqL5aQkDpvNOlWhpvd8gf1LhtV9kjc9wzIj90Nbmq4DDo20svlbWWO2SEnPPvbBJuGCbRBrHp9LdLdTTlMfYQXamQUVf+rYz17Z+lHiG5yW1dRJvAvuF61x7W+PKzR8lcwLMP9EDGWgx0hhQLTRQrlbrTuasdP2RqKsjI2xpDNtTynWigbhtjGhXOUeJHtUG7ww==;O062UdT4h19BX+oQ354SmQ=="
+secured: "x1fQvbRcL70RgOepM91BR87Dr/1JjUaw/cYtmpQE3FNJ7her5MDmsbni3CnZFXHIsRf9LXRAEfw16+SIWtrNsy9Xfjod6EvrMuOWQaAmPrRAJz29iwQDftS3z0aT9WTM4Fmq6Wwd2pGgv0t4Qj4xLKXMAIGIi3jJ19Hg8RBYK+HZoSyZ6BSx6i3oUvNhmIpjxehZqu08OGrPmCgXlUgUvTuMkuMKcn5g1UDUZ19crUrp4eHBf8OafMDJWwi6T/sX54vGt/nzRCZx6nMmQH+5gLDfnpDU1ZouD5cy1OGFR4o=;rxUOCxJx1NE4u3dobNL66A=="
 ---
 

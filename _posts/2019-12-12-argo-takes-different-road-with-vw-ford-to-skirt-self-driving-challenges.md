@@ -24,6 +24,21 @@ images:
     title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
 
 related:
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG ( VOWG_p."
+    publishedDateTime: 2019-12-11T11:19:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
+        width: 700
+        height: 466
   - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
     excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
     publishedDateTime: 2019-12-14T14:03:00Z
@@ -39,21 +54,17 @@ related:
       - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
         width: 600
         height: 315
-  - title: "Let’s Not Butter Up Those Self-Driving Truck Highway Stunts"
-    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
-    publishedDateTime: 2019-12-16T17:29:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial ..."
+    publishedDateTime: 2019-12-11T16:26:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/reuters-america-focus-argo-takes-different-road-to-skirt-self-driving-challenges.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
-        width: 600
-        height: 315
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
     publishedDateTime: 2019-12-16T18:07:00Z
@@ -67,21 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
         width: 640
         height: 427
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-09T18:36:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
+      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
+        width: 700
+        height: 393
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -95,6 +104,43 @@ related:
       - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-11T10:22:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
+        width: 700
+        height: 525
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
+  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
+    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
+    publishedDateTime: 2019-12-06T19:32:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
 secured: "1lK2jQPlF1VDdztYAM4YGQKGRKnjcCF0jCxhKo4kWj6BVyWnhk5vChwnvocSUP5GMIiLGYjBrR2JPosp5gHUXtk43VwD692+0BoLbc4kbW+Ya6xfhKnuonn36zYgmiRg/QHM0RA50OwSfQ0eGz1urNYYJ2M0ziwVIYJhusKZfJVIpWtY38qpq3SSi3AMZgp8DHff1PIRwzCAv4UgkZEFw+fyZHnjApITs+BvTvxNLw/PGLHx40Y/aYuz5j+NN2Q58O6EVNj9oBi1DVaa1ljsLA==;JDpwcUJG1YnGSIJm75fsQw=="
 ---

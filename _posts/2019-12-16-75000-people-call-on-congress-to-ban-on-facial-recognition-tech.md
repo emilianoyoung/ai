@@ -7,7 +7,7 @@ sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-cong
 ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
 cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
 type: article
-quality: 59
+quality: 159
 heat: -1
 published: false
 
@@ -93,21 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:00Z
-    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -368,6 +353,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9987564357E5E31A184285EA3AF5F981
         width: 300
         height: 300
+  - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
+    excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
+    publishedDateTime: 2019-12-16T20:00:00Z
+    sourceUrl: https://asia.nikkei.com/Spotlight/Tokyo-2020-Olympics/Narita-Haneda-and-Kansai-to-allow-facial-recognition-boarding
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.BE8EFDDC859B9CB78E42229A7F5C2EA0
+        width: 700
+        height: 350
   - title: "Smile! 3D facial recognition is raising kiosk value"
     excerpt: "But it's even better when they know your face — and in countries around the world, consumers are eagerly using retail kiosks embedded with 3D facial recognition to confirm their identities and improve their shopping experience. 3D technology is changing the way we interact with retail. Wherever you look, from inventory robots to customer ..."
     publishedDateTime: 2019-12-16T10:00:00Z
@@ -550,23 +548,10 @@ related:
       - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
         width: 300
         height: 250
-  - title: "Serie A developing facial recognition tech to combat racism"
-    excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
-    publishedDateTime: 2019-12-16T17:02:00Z
-    sourceUrl: https://www.sfgate.com/sports/article/Serie-A-developing-facial-recognition-tech-to-14909864.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4A9635F1A5527B161EAD41E9FEE847A2
-        width: 700
-        height: 476
   - title: "When facial recognition goes wrong"
     excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
     publishedDateTime: 2019-12-16T18:40:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5
+    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5?li=BBS2yio
     type: article
     provider:
       name: Newsroom on MSN.com
@@ -576,6 +561,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
         width: 700
         height: 367
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:48Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z
@@ -680,6 +678,6 @@ related:
         width: 600
         height: 295
 
-secured: "PcTyvsLRKo/0lX0W3gGcnjSr5Apxx5ChTTRXaXQ+8F8LF0+RjJyu4HK98HAE6kc3OCk5T1Y3mGSU1wymPjFcj41x0osStO66BjfXXdLQj2ILZ9DWhjWxdgouxaHV4RBAR3e5rioARg2Bn3vM8wtjjXYQd7c+124Q+fC8ECN56kA5l6rXTgCePRozLK0x/3dfKCkxFDTI1dqfyPax86FWu33oQ4Ie/ZXafAEOwNsVtOLSm8nGlJSAeZU+zziJNORxf21vkAWSEuKscRstr1f1Lw==;yEyiVXgW+cmBu4bwXJyKwg=="
+secured: "oCIB+83EO5nmQpfJqxyvnEY5SW+2IDjHb1sIq2cG//MxIZi4Ze3FAh4MzePj6rbR2ZuoK51AGPVKqvmyUmfH061hDD+I9FD4KzqBhhhvvxabd+v7WDI0PkQkDFPTpjq+EmzoC9r7qYn5Z1J1Nq+wvxIq4tJ8MG7u1UCtRmwvcJIxGbTHCZPotpmwAmVYZ1GLy/5zBmy14aW9Cg/pDBeeB0YLYV3BxtdUR8pDarbqHv5Y+OfJZzeGMlri0VHEc6H4oUW4QhCZLDVKZ1TcM2YiylhUGcRGS1dXz00niO34a74=;kbSU6qsEf1HbKD6f906VaQ=="
 ---
 

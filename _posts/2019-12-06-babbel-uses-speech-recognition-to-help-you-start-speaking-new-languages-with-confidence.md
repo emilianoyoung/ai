@@ -37,19 +37,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "eH11k8o2eUCxyY+ITE+ItgvnP6OqvizbPsJcrtW3hslq5N8mjoG/MxOdIM/58U0c88GPDKE7BfF+YIDQ+EYzj/PGbiZXKhvxdV2fV9CElxz/X4TiLpVIqB0vaLcZyG4Bhm1vgGW6NuHBITJBKATo70rlLyweIQfV9m5YyzQ25Fk8/gfoj1XFZF/gGYwVpf3LVDY6DA5vW0X0kYUzIbaVre6j2BtvRma1WCwCWI3B/YszqWCpPhl2qRfuFsxrWWIlMG1uC1avOdi7Tbv21xWvDg==;uB+6FWfBXkDRl8xZ63abOg=="
 ---

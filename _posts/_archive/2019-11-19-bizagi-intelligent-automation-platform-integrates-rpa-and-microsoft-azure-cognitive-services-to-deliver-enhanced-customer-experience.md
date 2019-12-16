@@ -2,25 +2,21 @@
 category: news
 title: "Bizagi Intelligent Automation Platform Integrates RPA and Microsoft Azure Cognitive Services to Deliver Enhanced Customer Experience"
 excerpt: "and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent automation across ..."
-publishedDateTime: 2019-11-19T14:08:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/bizagi-intelligent-automation-platform-integrates-rpa-and-microsoft-azure-cognitive-services-to-deliver-enhanced-customer-experience-1028700410
+publishedDateTime: 2019-11-19T00:00:00Z
+sourceUrl: https://finance.yahoo.com/news/bizagi-intelligent-automation-platform-integrates-140000676.html
 type: article
-quality: 48
-heat: 48
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Markets Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "cIwmb+f+E3qgkj0wXHa49SzkVxIXk/e8uLHUS+I0OdNJPBPt7IXeVO/oe98eU5JMpkeNkl8F963uUgUiK5bt7Gl5tJHKsnCXZotB3tZdI+c5BrY1voSatGTHCvaDVgPuq9gmvyB4vxljWyrtveS6Va4McVjvg7RLtMeibJP52bxNpZLUEXI8IwZxi9dUlO6jSiql+LZUQyi/X4WIbzhQc5YK4Rw/UMIEM9m9AXbeu9Yzfrwp8FL8WkxtY5E14nHKgY0+BG2fxVEbNzTU7UjsCQ==;ATkjxTYskz2J6dRREXTePw=="
+secured: "UXvXwwuXs68vjtUxR9KRbf7pZTDknw5PKN3gtbgA/Tb83/8sswslZ43bTKFl1UwVu/Re5hqvo/Oh6YPVnvyhIkUB3DFbGnrh/m3yW3EMRpzv1mSrAssDApu4opUvZUY3dANuF8uvraOTW9CF5p3+dsbgq8T1JinVKVF2OFOOknwOkSNnznojt/88OezhVeJyVSORZ4BKG1v+2g3/RwYIpurMXU58AxFooYP7sSOzHtiszonHyKJhSaMfdVreFnLEKn2SZkt3eC3uU1guBWKJPA==;Z4/6WwW7Y3Kp1fFmgAUs/g=="
 ---
 

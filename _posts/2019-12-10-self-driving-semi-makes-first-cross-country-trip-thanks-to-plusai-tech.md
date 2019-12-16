@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-cou
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
 type: article
 quality: 88
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -133,19 +133,6 @@ related:
       - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
         width: 1200
         height: 627
-  - title: "How self-driving car tech could help drones monitor power lines to prevent wildfires"
-    excerpt: "So far, the (very inconvenient) solution has been to just shut off electricity entirely during days with high wind. But a Bay Area company says they have another answer, and it uses the same technology that lets self-driving cars “see” their surroundings. Quanergy is most well known for building the LiDAR sensors that help power autonomous ..."
-    publishedDateTime: 2019-12-16T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90442316/how-self-driving-car-tech-could-help-drones-monitor-power-lines-to-prevent-wildfires?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-90442316-the-same-tech-that-helps-self-driving-cars-see-could-help-prevent-wildfires.jpg
-        width: 1280
-        height: 720
 
 secured: "H0KgErKhNhFFw/L0PjXiU7ycYsJ9SyRzm+w0sq3/cnMc+AX0JNmfVNvVG94U0GkNoYTJCsuWER+wUFa0SS/ubCJcxrX4erzsvDPZaqHtpcOkz55+oF2PEFU7BpljDaBa+LPa75JzeUlAs5SVYHTdoZqZmS3Zh1kJ2TH0BQVUraDCJfM7iIK8PD7v4LtWW09ShMizefUyZqq3BKHjdUZEAFoXQ0fu/lQ/lgLe7cbXPYniAhceFZPnwtiLkhnRDoCMeqJ2aJofSPsPhSXwF+G2ew==;0zL+Em908XOP/f0vlb++Gg=="
 ---

@@ -2,22 +2,16 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:00Z
-sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+publishedDateTime: 2019-12-13T18:44:48Z
+sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
 type: article
-quality: 88
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -41,6 +35,21 @@ related:
     quality: 170
     images:
       - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
+        width: 700
+        height: 350
+  - title: "75,000 people call on Congress to ban on facial recognition tech"
+    excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
+    publishedDateTime: 2019-12-16T16:30:00Z
+    sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/
+    ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 159
+    images:
+      - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
         width: 700
         height: 350
   - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
@@ -247,21 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
         width: 700
         height: 466
-  - title: "75,000 people call on Congress to ban on facial recognition tech"
-    excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
-    publishedDateTime: 2019-12-16T16:30:00Z
-    sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/
-    ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
-        width: 700
-        height: 350
   - title: "3D mask or photo fools airport and payment face-recognition, but not Face ID"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-16T14:02:00Z
@@ -372,6 +366,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9987564357E5E31A184285EA3AF5F981
         width: 300
         height: 300
+  - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
+    excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
+    publishedDateTime: 2019-12-16T20:00:00Z
+    sourceUrl: https://asia.nikkei.com/Spotlight/Tokyo-2020-Olympics/Narita-Haneda-and-Kansai-to-allow-facial-recognition-boarding
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.BE8EFDDC859B9CB78E42229A7F5C2EA0
+        width: 700
+        height: 350
   - title: "Smile! 3D facial recognition is raising kiosk value"
     excerpt: "But it's even better when they know your face — and in countries around the world, consumers are eagerly using retail kiosks embedded with 3D facial recognition to confirm their identities and improve their shopping experience. 3D technology is changing the way we interact with retail. Wherever you look, from inventory robots to customer ..."
     publishedDateTime: 2019-12-16T10:00:00Z
@@ -554,23 +561,10 @@ related:
       - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
         width: 300
         height: 250
-  - title: "Serie A developing facial recognition tech to combat racism"
-    excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
-    publishedDateTime: 2019-12-16T17:02:00Z
-    sourceUrl: https://www.sfgate.com/sports/article/Serie-A-developing-facial-recognition-tech-to-14909864.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4A9635F1A5527B161EAD41E9FEE847A2
-        width: 700
-        height: 476
   - title: "When facial recognition goes wrong"
     excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
     publishedDateTime: 2019-12-16T18:40:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5
+    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5?li=BBS2yio
     type: article
     provider:
       name: Newsroom on MSN.com
@@ -684,6 +678,6 @@ related:
         width: 600
         height: 295
 
-secured: "fPWvOrwbXFKDZFOBSYS1rZnZUKCZ8TalnFLcHxzCRoUtHMU1ZGVodwmX7KqBlvaghKuQHxzW/v0//Nqq41DcKClVBIwlA1H2wymHv0YiHNzUembXn6y7IAvo+qraVxosK/W4ojbQxK9yi+VRZWLkWzhG21s4V0y9i9xrlPqLcoRg7sQIXindlFI8E61o0YZ7YxUlIJls9SIh/+BicaSkFNu7J8xpmDTi3PHcrWqQpK9WxeLS0Fz1zEiDJBg56CTtNMav9xsGyZNZiaDkamDoxw==;89uik0iWg2U7VplzR4JZTg=="
+secured: "N79D1WprcNHIRfGdT8sZYhZpBYpXlS+dpQxGdySTsMKNzzRgfZ4QVX7PCxh7JnvvYM/DvmLV99wHjk2PopaxfWpvFcSXTCokU6xs+b/5oOYmVc7Cb3c503h7idJmESS/qPc96QL2wP+4F3nkfidp3RU12ZV7U4P0Gu7wm6qM5g/2iyxoyhcj+jFKKpk/eVkJaPX95FK/ye47YakvQNdHUMHdYhRPPSjOm6x8K9k//U/WAuoCrRbw62N/gmmHQqbFtKyu475qqGjHGG7zXQo4bw==;nYPwhyvLeecTM408SeGWOQ=="
 ---
 
