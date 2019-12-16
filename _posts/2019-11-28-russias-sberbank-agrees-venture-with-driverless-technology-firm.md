@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Russia's Sberbank agrees venture with driverless technology firm"
-excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
-publishedDateTime: 2019-11-28T11:07:00Z
-sourceUrl: https://uk.reuters.com/article/us-sberbank-driverless-deal/russias-sberbank-agrees-venture-with-driverless-technology-firm-idUKKBN1Y217X
-ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
-cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Y217X
+excerpt: "The new company will be engaged in developing \"digital economy projects in transport, agriculture, computer vision and artificial intelligence,\" the statement said. Russian internet giant Yandex currently leads the way in Russia's driverless car market ..."
+publishedDateTime: 2019-11-28T11:05:00Z
+sourceUrl: https://ca.news.yahoo.com/russias-sberbank-agrees-venture-driverless-105932004.html
+ampUrl: https://ca.news.yahoo.com/amphtml/russias-sberbank-agrees-venture-driverless-105932004.html
+cdnAmpUrl: https://ca-news-yahoo-com.cdn.ampproject.org/c/s/ca.news.yahoo.com/amphtml/russias-sberbank-agrees-venture-driverless-105932004.html
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo News Canada
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://s.yimg.com/ny/api/res/1.2/4dwg.8hWC8gOt5bg5_6Lnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04MjIuNA--/https://s.yimg.com/uu/api/res/1.2/cr3Ienp.RsMqd8L721i4WA--~B/aD01MTQ7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/b69c3558d67cffd0e9a9dc3713aa0db8
+    width: 800
+    height: 514
+    title: "Russia's Sberbank agrees venture with driverless technology firm"
 
 related:
   - title: "Russia’s Sberbank pushes into driverless cars with AI joint venture"
@@ -109,6 +111,6 @@ related:
         width: 700
         height: 393
 
-secured: "9RBq4n3yH+SREsVtL7gHYbV0XJfhi2CAhLS+Uzym/mYHCmyufYvvrSBD2SifpN9ZCDY01SuCwYh7w2IPozGswNgVr4YzDCDLAOcQvWuWTtHDAwVIUV0fR3oeG568WQQuctfkS1CI+zeq5G3scyNomxRm/04RGBXwzOXSMxmoJ4cT8FKx1i63rxt1K23PPQKuTWNYwFACnXoG2bal5T/f9vsYo8pRX8ZJ0Q/3YpEIwAsnRJNHk09oL1P+9dF8G12uu7z/r//yVH2mFQbzrA4pXg==;22dVd6nIcXo9adXtX+AHkA=="
+secured: "0E702eLgNK31Xt3e++qKzriIhFSU8BUZE6YMmLBwP9c435hGmu02MCyJpdOFrJIimRfkd2S5K4I3s6WPL1y3EQ5FJ2DjN9PgLZAQJkEoTkpc1ajkeGEG2vN89vfzN+6R9BELL4KqUnxzT/cixBiSlZsd/9FLh1NzI5ZFZ5frSBOmYoYK29LGPLmn/r0qScBKa1x9byeJl4fo+vXvikaqKiwYlsT8TRhYv9MNLjGt0fuyksIGLlzJQ/nSQUL9GJesBgzljm7K6vcA4bt6nB8Ilg==;/I9CK0liJzCUFiY8nDSorw=="
 ---
 

@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6FF447E6483A0E9AB299F28CCA4ED5DD
         width: 700
         height: 350
+  - title: "Self-driving baggage tractor is the latest smart tech for airports"
+    excerpt: "An airport in France has become the first in the world to test an autonomous baggage tractor in a working environment. It’s the latest example of how a growing number of industries are looking to utilize the fast-developing technology. Air France, which has a presence at Toulouse-Blagnac airport where the tractor is being tested, said the ..."
+    publishedDateTime: 2019-12-09T06:10:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/
+    ampUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.925E43835218F8D92A8B0CC0674A500B
+        width: 700
+        height: 366
   - title: "Mind Tricks: How Digital Nudging By In-Car AI Will Shape Where Your Self-Driving Car Takes You"
     excerpt: "Here’s an interesting question: With true self-driving cars, will you always be taken to whatever destination you’ve indicated, or might the AI system attempt to digitally nudge you to go to a different endpoint? Most people assume that the AI system that’s driving the self-driving car will strictly do whatever you’ve specified and be ..."
     publishedDateTime: 2019-12-05T16:29:00Z
@@ -362,16 +377,18 @@ related:
         width: 700
         height: 392
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
-    excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
-    publishedDateTime: 2019-12-13T18:58:00Z
-    sourceUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.html
-    ampUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
-    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
+    excerpt: "A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
+    publishedDateTime: 2019-12-13T18:05:00Z
+    sourceUrl: https://www.msn.com/en-us/news/us/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/ar-AAK6HkI
     type: article
     provider:
-      name: AZFamily
-      domain: azfamily.com
+      name: KPHO Phoenix on MSN.com
+      domain: msn.com
     quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.538FD1FD8467DA331A631B2CC49A65EF
+        width: 700
+        height: 367
   - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-10T14:03:00Z
@@ -497,6 +514,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "New rules to allow testing of self-driving vehicles on Irish roads"
+    excerpt: "The Government is to introduce legislation to allow for the testing of autonomous vehicles on Irish roads. The Department of Transport say that Cabinet has agreed to support a range of measures to be delivered under the Future Jobs Initiative. The Road Traffic (Miscellaneous Provisions) Bill will be amended in the Oireachtas to allow for ..."
+    publishedDateTime: 2019-12-06T17:25:00Z
+    sourceUrl: https://www.irishtimes.com/business/transport-and-tourism/new-rules-to-allow-testing-of-self-driving-vehicles-on-irish-roads-1.4107190
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.62F27FAF8F10B1849CAF3C52B06A77D3
+        width: 700
+        height: 367
   - title: "Irish potholes and poor road markings great test for self-driving cars"
     excerpt: "The Government is to amend road traffic legislation to allow for the testing of self-driving vehicles on Irish roads. So what has the State got to give the autonomous driving world? Rain and poor road-markings. It seems that Irish motorists’ pain is the automotive industry’s potential gain. Self-driving vehicles use a combination of video ..."
     publishedDateTime: 2019-12-07T06:09:00Z
@@ -536,6 +566,19 @@ related:
       - url: https://www.bing.com/th?id=ON.720095D5EECFE46B168B1A01DCF224B2
         width: 700
         height: 367
+  - title: "Collaboration is key in the race for UK self-driving success"
+    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
+    publishedDateTime: 2019-12-10T14:55:00Z
+    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
+    images:
+      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
+        width: 360
+        height: 290
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z
@@ -588,6 +631,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
         width: 700
         height: 413
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
+    publishedDateTime: 2019-12-14T13:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/project-qatar-mobility-self-driving-234200164.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/project-qatar-mobility-self-driving-234200164.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.8A417CEB957C4E0F0F58FC2620E4FE61
+        width: 400
+        height: 229
   - title: "How AI shifts enterprise decision-making into self-driving mode"
     excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
     publishedDateTime: 2019-12-12T18:47:00Z
@@ -623,19 +681,15 @@ related:
       - url: https://www.bing.com/th?id=ON.D9F62A2BD3E5ABB4AE173F4F5BCF764C
         width: 700
         height: 393
-  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
-    excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
-    publishedDateTime: 2019-12-14T13:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+  - title: "Uber eyes self-driving car simulation startup"
+    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
+    publishedDateTime: 2019-12-10T10:47:00Z
+    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.8A417CEB957C4E0F0F58FC2620E4FE61
-        width: 400
-        height: 229
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "LRjRnuOnuGhtXo2VIxNAA+GBFeF03yG4FrszfbuitXl7giWS5ypXAMJwMzlaDzrL9sbIOoMWpZP598huCzyizS+4GaI8QC2MEuhe9FRJf0I9uGvszIsPTTPGO/TDa97S4isYFbLi104tMs8huEoFqADmxK5ht1vmt+GnSk5zZK2AoGtXbgqkuE+eWgVJht71J0ZDXOt9gDr1sm10NjT1Exl2jul9XQK4ii5/J2TM9zRPG5gntVkprh2yV2AE0ebrqC23NUNEyvdpppVy8jZ/VA==;C3PSxVQ3aU4Y0eqs4XPoZw=="
 ---

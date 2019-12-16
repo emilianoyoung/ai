@@ -28,21 +28,6 @@ images:
     title: "Seattle Seahawks Select Amazon In Utilizing Artificial Intelligence To Help Make Smarter Decisions On The Field"
 
 related:
-  - title: "Seattle Seahawks Select AWS as Its Cloud, Machine Learning, and Artificial Intelligence Provider"
-    excerpt: "Inc. (AWS), an Amazon.com company (AMZN), announced that AWS is now a cloud, machine learning (ML), and artificial intelligence (AI) provider for the Seattle Seahawks. In addition to moving the vast majority of its infrastructure to AWS, the National Football League (NFL) team will use the breadth and depth of AWS’s services, including ..."
-    publishedDateTime: 2019-11-26T00:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/seattle-seahawks-select-aws-cloud-140000784.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/seattle-seahawks-select-aws-cloud-140000784.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/seattle-seahawks-select-aws-cloud-140000784.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 61
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "Seattle Seahawks Shift From Microsoft Azure to Amazon Web Services"
     excerpt: "Amazon Web Services will provide its cloud computing, machine learning and artificial intelligence capabilities to the Seattle Seahawks ... Sports Media Production & Consumption Seattle’s internal IT systems previously ran on Microsoft Azure but will now operate on AWS as part of a five-year contract with Amazon, according to The Seattle ..."
     publishedDateTime: 2019-11-26T12:59:00Z

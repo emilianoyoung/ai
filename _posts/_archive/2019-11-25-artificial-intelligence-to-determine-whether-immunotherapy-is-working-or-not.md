@@ -8,8 +8,8 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: TheHealthSite
@@ -26,21 +26,6 @@ images:
     title: "Artificial Intelligence to determine whether immunotherapy is working or not"
 
 related:
-  - title: "Using artificial intelligence to determine whether immunotherapy is working"
-    excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. \"Even though immunotherapy has changed ..."
-    publishedDateTime: 2019-11-23T07:43:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.html
-    ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 72
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
-        width: 2557
-        height: 1199
   - title: "How artificial intelligence (AI) is improving immunotherapy"
     excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
     publishedDateTime: 2019-11-25T14:38:00Z
@@ -52,6 +37,15 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 69
+  - title: "Using artificial intelligence to determine whether immunotherapy is working"
+    excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
+    publishedDateTime: 2019-11-23T19:01:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 62
   - title: "Artificial Intelligence Predicts Lung Cancer Immunotherapy Success"
     excerpt: "Having an artificial intelligence tool that could match up which patients would best respond to ... “This is important because when a doctor decides based on CT images alone whether a patient has responded to therapy, it is often based on the size of the lesion,” said Mohammadhadi Khorrami, a graduate student working at the CCIPD."
     publishedDateTime: 2019-11-26T17:52:00Z
@@ -66,6 +60,6 @@ related:
         width: 690
         height: 400
 
-secured: "yFUE3Xw4uV+ZxVoac0VJDoUWzRr8MSSzgAcjseEv4W+fNYOFxyiLFQnj+Td/MSRBIxx4bef7np9erSlq4S0a4+yjsCd0MMcmA0nvBp1XXJxFCm/eTa8wf79Yzqq9G7lwSd9YYUqXaul0G9oQKAxvDuO61eEb0Q6chTHUY9JjIdZqK+RslE9aRwTBbGYUzBYtx8C/rI2axGRoXmi/aE7BPnLoDbh25eiyvIQIgBxTUYCqOpkHgNu/RzxJiWVGB/7IFfpp2QRti9oZaGMRxgFAPA==;k4rYKv2aQC2+9Y4EGlLV0A=="
+secured: "B16/pc9OTkwMZ1QJYDGS2BQvSf+ze3u1XrDf7wlImQ61orRutoQNDyOTzg1aerg9KZNwx4jrqFJKuoJFs1tVXFw4/jolG92hL8dvty+gAFAjpe2DdsDNszyrZ3UYVa/XF1bIQWMjrB8r44GSN+heHjghiK6atXZDRU1Z3zCICpHFIcj0a/0Zi7YifUsK/7LxUlthJRfhum6kwYTzwa9xK97E9IIvyY7RUwfXCmSo2cBo08szCugICdRDSYBr64Jq1zZHtVia++34ivjaknP7Ew==;FHCjiBM8x3mkjAdyS5L5zA=="
 ---
 

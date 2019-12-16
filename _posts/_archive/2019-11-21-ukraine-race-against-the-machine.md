@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Ukraine: Race Against The Machine"
 
-secured: "sh8fF9zWaagp8HDWh8kruUMRGFW0WrgiaV/I6UILML7molpLl+TSpv7AUamuFlTMWEGRKrEUkwOd4P7WVig4I+AhdbVCIyag07Jqpi8MXf/Xd2KEBNPWvWIlPkDOhhSPt/CuhhMUg2C9lLRrPGGp1/MLkFyb4E5AbKZxCKsjkoDS7LhY/4xGH7sQKm7jcqlwMULvmmVeKrANt5J0hTunuP0sRwELqVvu5B4jE9j/oweiE1MaLBRDsV//TMmfu5czzmTbyaxRzKaDbhVrJzsrkw==;qbRRMBs3RPSMpPeP3F3NtQ=="
+secured: "4zWEoeVDjICn3LLQH32vSo0MwLRX29TAv9NQ5Sxv6Z3oOpV1M6oXQkR+QCrRko+g2GHr/bScQ5QVKU6a4kCf2s1GXn9isn2dGHTiXHZ4tuF2iPaLG08jNfTnc+VlzNSRBXhbkj2/MSFoAkOu+qIgDowJN8UTAnMzdjbOJeo6Ke/dF2re8WG+RT3k3lEZw50gRGcSmdLgH97KNNh+XtYaatq8gRyG3bvZ+XZuQiruXxU/AJzCdcnI9oW8nWeVQZWHolZP+StlrBV3bk7f72Nsmg==;SUn9zi1ldjoYSMwSq2DZUA=="
 ---
 

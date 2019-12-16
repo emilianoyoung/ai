@@ -3,19 +3,15 @@ category: news
 title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy over some of the projects he led. In a blog post Thursday, DeepMind said Suleyman is ..."
 publishedDateTime: 2019-12-05T17:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-leaves-to-join-owner-google-in-new-role/ar-BBXOK9U
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -111,6 +107,6 @@ related:
         width: 580
         height: 358
 
-secured: "fx4zfhfr665OzsmVp9FaQwOFDWVfIPQwze7WVl+aNAHWiBy5zhMkBDdeXXU+MpKkikIsallglfG7LHwi0+qFiiaBunajJV5+6ryO2zrUp4OrMOzzCCoyks+zmbWc7SgPiCfbiTSf7lbx0PXfn6b4qd/hB8YNjuiODLj3oDql1Cj9UPfYxejFoQmvLnhC47uGQzv47PIZCGmic8SkagMzU3dbYA0AMi822/43v0IlYBiYGKxmDy1GYw2oc4ubq2S7RmPhduPXyR2Ws5pML8+Aaw==;NbpGjbORUpgPiWRtky8M7g=="
+secured: "+LmHEMVA7VTumbrzp6HiZOYU7dfxY7MisULhof7fWYhdfhBnlrgUc0g8sz2njudUe/kw6WylyICGN6s0rb+UiiyijXTx+xI/r+KdVVE7MI4EJFhcgK81CSNhvb4+Y/3iPC4vZBfgdNScSZNkczVdtdvFYFBojug0s5uUPgyTuTEu27rFoeXXP1N7SL2WJyFteLI9TlRbdjGhms96NOU7eDLJttwb9Hk/taSHBvwarqudG9yqUEva8/AEzsbbm/hH4SSWFrNjxpcULW49ptzBUw==;+Cx2XPqBnhI/R2in/R93Ug=="
 ---
 

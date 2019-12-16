@@ -2,16 +2,22 @@
 category: news
 title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-publishedDateTime: 2019-12-05T18:58:47Z
-sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-moves-to-google-as-the-ai-lab-positions-itself-for-the-future/ar-BBXOWMc
+publishedDateTime: 2019-12-05T18:58:00Z
+sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 type: article
-quality: 49
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -113,6 +119,6 @@ related:
         width: 700
         height: 367
 
-secured: "tTtrfoZfY+6EHMg7D89AdLkKN8lkQqzWLfG0/YNPc45gL6GEZW8NoW1pi2Rr6V3YH0hkgy5Vz3rp+gRBiLKqfviPvUBfw0b8t2SVavAtwilPOU7beJGVDYDl9K1eHFIgjgQoIw8WMGfW4y077TSKG/hMvob/1UFYIb2QkGgWpVqHzxrzXEskfOsjGPGfgMkLOojDf6rxcnkKhNbtiM9/1j1W59xm8/UNHqLisPfhhUW459Xng9huTWuASPVcq+gCpNRek568w5oFhJiXgwbJQw==;YDytPaLCIwnHYWabmHbg/Q=="
+secured: "ENuq7pKn/1xNvlPL51SXMLxReuRDjdACvU7bnMKQfpcEuFhKmd7wT4x51IVID62d1JLS+iqDVAlnf+jIEIVmsN6BC/Deyc6G9WqKbzdogRN9g1ct2QV7rGz3UY7nhkV3GEHMSTx9iQ26EkRZClCD0kY6ZIhxYQAljtOGvRjCowCKRgwUxA9H9svLjYvzh9+BkDxzN7P5pkTdV49Oh1LWZiuQVY+h97nSYJ1y+ZcHaOnZf3C8wtfmz8XYQpp+8T6q6npzGVz0f3nuh7kJM/3Tag==;AfJ8smbAaovmcP8HR/Lnag=="
 ---
 
