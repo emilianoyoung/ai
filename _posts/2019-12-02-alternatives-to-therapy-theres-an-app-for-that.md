@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A7D07FC44822B64A5AA586B5A1742E47
         width: 480
         height: 270
-  - title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
-    excerpt: "Dyno Therapeutics, a biotechnology company pioneering use of artificial intelligence in gene therapy, today announced a publication in the journal Science that demonstrates the power of a comprehensive machine-guided approach to engineer improved capsids for gene therapy delivery. The research was conducted by Dyno co-founders Eric D."
-    publishedDateTime: 2019-12-02T11:12:00Z
-    sourceUrl: https://apnews.com/Business Wire/bf2bd09854f349039e828034a6df2c19
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
 
 secured: "Gw1uRfNhwzx2DsXoc5fk7U7bCMsIi2hVa+PvM8IG02rTfvOj8gWGTC2nqV/d0ZCIm3n6F/r3ZnrQseXQN0GvUpcY0VmXJY7Z7LzKhgQuqdXmYQyiqBs+REE2/RU3dwg4xjKT3cb8kTFktf9j3K4yU2nXhD76IhiHyG5vuNGbwuIE3VYXzhlyZMWCvgl3RIFpjM3pUMuje5bsFlrvcCnm+xPh/m9/sLJRDAPfXNVwGixSPqKeVcrLtDwo1Yo8bRQsK2aBINSGOLctGx2KRHf4tA==;M16fSy4w9JoblHZt9sABtw=="
 ---

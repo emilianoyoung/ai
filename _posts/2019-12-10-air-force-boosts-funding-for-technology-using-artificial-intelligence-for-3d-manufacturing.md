@@ -17,30 +17,62 @@ topics:
   - AI
 
 related:
-  - title: "Considering AI In Hiring? As Its Use Grows, So Do The Legal Implications For Employers"
-    excerpt: "Hiring managers are using increasingly sophisticated AI solutions to streamline large parts of the hiring process. The tools scrape online job boards and evaluate applications to identify the best fits. They can even stage entire online interviews and scan everything from word choice to facial expressions before recommending the most qualified ..."
-    publishedDateTime: 2019-12-05T17:06:00Z
-    sourceUrl: https://www.forbes.com/sites/alonzomartinez/2019/12/05/considering-ai-in-hiring-as-its-use-grows-so-do-the-legal-implications-for-employers/
-    ampUrl: https://www.forbes.com/sites/alonzomartinez/2019/12/05/considering-ai-in-hiring-as-its-use-grows-so-do-the-legal-implications-for-employers/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alonzomartinez/2019/12/05/considering-ai-in-hiring-as-its-use-grows-so-do-the-legal-implications-for-employers/amp/
+  - title: "What Machine Learning Means For The Future Of SEO"
+    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
+    publishedDateTime: 2019-12-16T11:05:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 79
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.068B466332EB542B74CAB2653C023D8B
+      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
         width: 600
         height: 315
-  - title: "Machine learning can help us understand conversations about death"
-    excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
-    publishedDateTime: 2019-12-10T14:41:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209102028.htm
+  - title: "A Sobering Message About the Future at AI's Biggest Party"
+    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
+    publishedDateTime: 2019-12-13T09:00:00Z
+    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
+    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
+        width: 700
+        height: 366
+  - title: "What will be the growth rate of the Global Deep Learning Market by 2024"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
+    publishedDateTime: 2019-12-10T12:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/what-will-be-the-growth-rate-of-the-global-deep-learning-market-by-2024-2019-12-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "A sobering message about the future at AI’s biggest party"
+    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
+    publishedDateTime: 2019-12-14T14:00:00Z
+    sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/?comments=1
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.E6C24EF77EBE6ED174C1F0C8A0D6F082
+        width: 700
+        height: 350
 
 secured: "Kwp5VCbCkoSKJBjx5XpN4DllkYCo/QKpglKUFRkcLz7zZBj3ASdN/m/U9JehRq8xQADAAy+Lpg8Bdkpuj5RiTXWF9/nJIrSbK3Rrg98v0Yo5P8WgJu3CEW5hrqZf05NqhUI8EM8/fvENJEG3sS9Szt9u4/HljEhYC7cWmVUOof+hLSEBi4aQ5+05QMFxellEIY4h+fbcrHjR3I0HNjEi4GCQyEQ4K8a93m6LCiNCEjsYvEt9/3CF2Ejz2XTRe98ITaUkugnfDpjg+vWkaAKnmw==;UCvTc0md8ymynjGHLF5ykg=="
 ---

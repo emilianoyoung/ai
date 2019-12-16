@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-16T09:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005311/en/Global-Event-Based-Vision-Systems-Patent-Trend-Analysis
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.D42937E6FA9B2FAD8028F84BBFE31D77
+        width: 700
+        height: 365
 
 secured: "3A9DJPmOcE6DLUY4ftkn37x7siPU5niiCuRiBK72AksRLCuKnzqVpSwWLr5U6xgJdlUoywSapVIyFlh0KSrmnnwcA9mtPqUfxQk4eztWKc4p11JDkyMkAaH6wCERN+lE1gXKKD461FdjBXp59X7aI+Yj49YyaFM1a1QRLMazFUNkKv6rSdxya//7DI8rSi9V3dJNwHvEeJm8Wp/sqoFJ4JF47G8irQMm/GtF6unbDawO+BMzCTtIgMwdmd0dqkrsmDe4XZvJacgUvrOrhK5GtA==;z4eVI3NSJaF1AdZTY+Fnpw=="
 ---

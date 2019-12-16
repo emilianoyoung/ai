@@ -93,6 +93,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
+  - title: "Researchers bypass airport and payment facial recognition systems using masks"
+    excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
+    publishedDateTime: 2019-12-16T10:35:00Z
+    sourceUrl: https://www.engadget.com/2019/12/16/facial-recognition-fooled-masks/
+    ampUrl: https://www.engadget.com/amp/2019/12/16/facial-recognition-fooled-masks/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/facial-recognition-fooled-masks/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 101
+    images:
+      - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
+        width: 700
+        height: 367
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -293,6 +308,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9987564357E5E31A184285EA3AF5F981
         width: 300
         height: 300
+  - title: "Smile! 3D facial recognition is raising kiosk value"
+    excerpt: "But it's even better when they know your face — and in countries around the world, consumers are eagerly using retail kiosks embedded with 3D facial recognition to confirm their identities and improve their shopping experience. 3D technology is changing the way we interact with retail. Wherever you look, from inventory robots to customer ..."
+    publishedDateTime: 2019-12-16T10:00:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/blogs/smile-3d-facial-recognition-is-raising-kiosk-value-2/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
+        width: 300
+        height: 170
   - title: "CaixaBank debuts facial recognition system for payments at Nestle Market"
     excerpt: "CaixaBank, based in Spain, announced the launch of a payments system trial at a Nestle Market, marking the first time that a grocery or retail store uses facial recognition technology in that country, according to a company release. The payments system, developed with backers of the Payment Innovation Hub, which includes Visa, Samsung ..."
     publishedDateTime: 2019-12-06T10:00:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: Data Center Knowledge
@@ -23,21 +23,6 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-related:
-  - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
-    publishedDateTime: 2019-11-18T00:00:00Z
-    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 47
-    images:
-      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df2b31e8baf1-76219803_dspace_san_jose_office_exterior.jpeg&size=1&version=1576186784&sig=fafa31b4f3deb62bd8547b9d271cc295&default=hubs%2Ftilebg-blogs.jpg
-        width: 500
-        height: 272
-
-secured: "jvkYReleUa6wO6ROyPirlxL4WDpwsIoj2ZFhlsvmNWG5V82BrfT1Etk+ExW+6uMgY2tRdhdcLZSuNCFuyBhyGTr/GgUVKaeD0LdWONJy9IHK7NuPCYDGmRgFnqsgUpSeMmzXGftAORLG/UeAmObwpSupdXA9P44OJ0XScArUYRfNIzkQC6/aHCasVPCdAAdxQfLA7T3j0Oi178/MpB6mx8KAd3M9YcgXAAkf+8hk9XX7juYMXus/Gv5v5AIXlh+SNiBMcFtUoRjorqpHwis9Xg==;BNVIOWzivJ68+HtPGK9r1Q=="
+secured: "grTHAewSooiwjS1NEVPEyDxlc1tFbWZlDl4F+Gwip9tqASSN7k9eacEUvm2Xjk2sEEHF80Wc8rBs5mOWPN3wcEVvxIamdHcma4UVf3eEs5SgeV+yhkV2XCPS+xA55MyOPGA9wU70ss+petL0XgXKRV2KiczMkkxJRg+zf0makCDlX/t9/svJQeDmNN0V6y+6Ui/z8nRwkBW1q/2THWLXFEYxxcbmkrHp0dvqazAKUe/l7reM4XQaLhJOmVRuK+S+2RPraKZRfEDGXCVGBA5l8A==;GNrXpN2L3q97FVOB7srWlQ=="
 ---
 

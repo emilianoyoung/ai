@@ -27,6 +27,21 @@ images:
     title: "A sobering message about the future at AI’s biggest party"
 
 related:
+  - title: "What Machine Learning Means For The Future Of SEO"
+    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
+    publishedDateTime: 2019-12-16T11:05:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
+        width: 600
+        height: 315
   - title: "A Sobering Message About the Future at AI's Biggest Party"
     excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
     publishedDateTime: 2019-12-13T09:00:00Z
@@ -42,21 +57,28 @@ related:
       - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
         width: 700
         height: 366
-  - title: "LinkedIn's Azure move is less about scale and more about the speed of innovation"
-    excerpt: "Those are things that we want to start leveraging on our way to Azure.\" LinkedIn uses very large graph databases; there's a lot of Kafka (which was developed at LinkedIn and was handling over a trillion events a day there by 2015), and the Samza stream-processing systems built on top of Kafka such as offline compute and machine learning."
-    publishedDateTime: 2019-12-10T11:02:00Z
-    sourceUrl: https://www.techrepublic.com/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
+  - title: "What will be the growth rate of the Global Deep Learning Market by 2024"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
+    publishedDateTime: 2019-12-10T12:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/what-will-be-the-growth-rate-of-the-global-deep-learning-market-by-2024-2019-12-10
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.BE5836D1B55B6F2E42218548FC17C84B
-        width: 700
-        height: 525
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
 
 secured: "6GC0RMEOMHRZTTJGfks9cLQtanu6uqEpoFRwZHLDVFkHUmJtEOzrUcpuep9EiA82dofPwYNHFH7LvjCj8vQYhkgUzik4zdwDKdgCunQdaHqg36OEgOYhd6wU0YyS0ktJ2A6C4KfFv0BI9clZwwwXO6BFZKEJR/BTiMoLAdooJwXPjd/Zf8tdyP4b7pKGbHFQbJ3Parug6gT5JSHOBmn6q1mOG/5fo2D8pYNujKpJfo3e+XlZ2pGTtMO5kGr2dDIhdu602C73+pd70aUNsRB2sA==;ulaOvTvwbA7TEB2Jvf51cw=="
 ---

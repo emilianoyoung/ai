@@ -29,69 +29,58 @@ images:
     title: "What will be the growth rate of the Global Deep Learning Market by 2024"
 
 related:
-  - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
-    publishedDateTime: 2019-12-10T15:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
+  - title: "What Machine Learning Means For The Future Of SEO"
+    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
+    publishedDateTime: 2019-12-16T11:05:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market 2018-2023| Growth Rate, Industry Size, Share, Trends, Growth Factors"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The Deep Learning Market report provides an in-depth analysis of the Deep Learning Market during the forecast period 2018-2023 which consists of the industry overview including the market size, volume, growth rate and recent trends and developments in the market based on historical and current data. The report ..."
-    publishedDateTime: 2019-12-04T11:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2018-2023-growth-rate-industry-size-share-trends-growth-factors-2019-12-04
+      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
+        width: 600
+        height: 315
+  - title: "A Sobering Message About the Future at AI's Biggest Party"
+    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
+    publishedDateTime: 2019-12-13T09:00:00Z
+    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
+    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
-    excerpt: "Dec 13, 2019 (Innovative Reports via COMTEX) -- According to the latest report by Big Market Research, theArtificial Intelligence (AI) in Agriculture Market size is projected to grow in the upcoming years. This research reveals a distinguished approach about impactful factors directly or indirectly impacting the growth of the Artificial ..."
-    publishedDateTime: 2019-12-13T08:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-growth-hampering-due-to-high-cost-of-systems-and-services-2019-12-13
+      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
+        width: 700
+        height: 366
+  - title: "A sobering message about the future at AI’s biggest party"
+    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
+    publishedDateTime: 2019-12-14T14:00:00Z
+    sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/?comments=1
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Edge AI Market 2019| Analysis, Revenue, Price, Market Share, Growth Rate, Forecast to 2025 | Market Research Engine"
-    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Edge AI market for each region is further segmented for major countries including the U.S., Canada, Germany, the U.K., France ..."
-    publishedDateTime: 2019-12-09T03:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/edge-ai-market-2019-analysis-revenue-price-market-share-growth-rate-forecast-to-2025-market-research-engine-2019-12-08
+      - url: https://www.bing.com/th?id=ON.E6C24EF77EBE6ED174C1F0C8A0D6F082
+        width: 700
+        height: 350
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
-    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
-    publishedDateTime: 2019-12-10T10:48:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14960988/global-automotive-connectors-market-report-2019-2024-incorporation-of-machine-learning-in-self-dri
-    ampUrl: https://amp.benzinga.com/amp/content/14960988
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960988
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
 
 secured: "CP726C1wgRiHiv1DiY94HFc6h5XMrX+7AmFmmPtIB7ApBXKV+L8vX8bUcEhU3qu/8chfEWQTvsDI2WQ7tSQ6zIssdAu/rqrLa1+eutqaE1v+MKeFdHbXy/XfuxJXdk3lniFz9cSGZxDevpuGr06J+Mp3xN0S8WmOk0EUWPHXgG8KJ4eS2J7ZjclRVjVDGr3Pr9s8sDNHytNuJYgnxWA6THygjcl2vo8NdBmty2nZ8wp5T10cfIdEvjadcA2Op06uXaScEZrrq5Gz8K4bbDS7KA==;uN/ZaER0Itm7yaV5GSmbVQ=="
 ---

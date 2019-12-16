@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
-publishedDateTime: 2019-12-14T16:00:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B
+excerpt: "Bots are a lot like humans: Some are cute. Some are ugly. Some are harmless. Some are menacing. Some are friendly. Some are annoying ... and a little racist. Bots serve their creators and society as helpers, spies, educators, servants, lab technicians, and artists."
+publishedDateTime: 2019-12-14T08:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B?li=AA4Zoy
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,10 +15,9 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+  - url: https://www.bing.com/th?id=ON.53C57404C309C95673A11634EB7CF275
     width: 700
     height: 350
     title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
@@ -66,6 +65,6 @@ related:
         width: 700
         height: 421
 
-secured: "/zdhf2o979iAqUOLKrgKRTdRFIcjCsUR4B0GxDVy04ID7hgJILViM3XZMO3GayhKRNh1vTcTGtaugASzvaUNs3rx1pDDvkcG5+sS1ai2DBUUO6yavpix/iKk8+T7H8AsFcRl4XiP6tTARCgq4cKZvrydmQ9//xrnIOBWQw6V//jsoSxdNcnRywN8/rqX7I79nR1dFU2FcQiVJVSpvVqeHwqVyRFXO8Bzfr2bFfrG6EKr8v4M2tZTXJYfTGUCI2laOliouucygWV5JgeoyaAIUA==;HAdlSch38NmQ8ccqfEf99Q=="
+secured: "Yg8ssmrU2yK/alhgBLJmMsreW9PasD0BkRTUAinbN25ju7lMqAiFwryy9vvSf9EuwaTahIg6dge2KRkSVCuE0G1pAKBbNZ5Mb3nuy6J5imjpjOdu5kScuVyb5UAQdrEwZKNgzYNvtjWKnIOlkzIGA6lGHQICrHOxVu5xSvNgLNAmPMh8ctFELLJ73wiVypZHNOSbo+yM9fky+OP5xakrcd0UTo6FbiWpMznqgM9BAycq/ErVWGlSyb7nA3/l7iRjjx0Rm888QkZU+3LXDSfzvg==;bTrsmaj9iSmnb8cRs0zbxg=="
 ---
 
