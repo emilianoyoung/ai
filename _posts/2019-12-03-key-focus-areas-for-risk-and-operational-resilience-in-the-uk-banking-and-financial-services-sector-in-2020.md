@@ -52,19 +52,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Education Market 2019: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "The Artificial Intelligence in Education market for each region is further segmented for major countries including the U.S., Canada, Germany, the U.K., France, Italy, China, India, Japan, Brazil, South Africa, and others. Competitive Rivalry Pearson, IBM, AWS, Nuance Communications, Cognizant, Quantum Adaptive Learning, Google Inc., Third Space ..."
-    publishedDateTime: 2019-11-26T09:04:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2019-11-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "c1Ly67UikDcUmFQSOcCI22Vzr6eFBrWdacFr0Zr4I2sIKMjORP5tQ+pC6d3LT8xRXtTZTWlSGNUImIupZO7JJQeAGvrQMbe7HE1616x7R8+T0knLly00KYzN20/Z66FvoVxi7oPoMr+MGR+zGNYVw3Gk20x7NdDooohpXkWKeH+CTTQi7BjLCqz9M7r5JTet+6qPKtqWqToJ13mcgQK41uIUhNySIohTgQ66kHGu+5IMF8RIkf+WQ/pnC4CpyHCju+Njfa15aDUFokPM5K8eLA==;lUa+MTxvUiN0NpNfFn8bXg=="
 ---

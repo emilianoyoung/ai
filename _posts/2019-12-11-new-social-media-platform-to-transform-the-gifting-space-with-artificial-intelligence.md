@@ -82,21 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F567C0B480BB82C988935A3621180B6F
         width: 700
         height: 393
-  - title: "New technologies to transform healthcare in 2020"
-    excerpt: "The global medical robotics market is expected to be valued at $20 billion by 2023 Image Credit: Shutterstock There’s never been a more exciting time for the healthcare industry than right now. Technology is set to transform the medical field like never before. Driven by mobile technology, artificial intelligence (AI), robotics, 3D imaging ..."
-    publishedDateTime: 2019-12-16T08:39:00Z
-    sourceUrl: https://gulfnews.com/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
-    ampUrl: https://gulfnews.com/amp/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
-        width: 540
-        height: 405
   - title: "Inside Intel’s billion-dollar transformation in the age of AI"
     excerpt: "Intel began integrating its own GPUs with its CPUs years ago, and next year it will release a free-standing GPU for the first time, Swan tells me. That same thinking also applies to AI models. A certain number of AI processes can be handled by the CPU within a data center server, but as the work scales up, it’s more efficient to offload it to ..."
     publishedDateTime: 2019-12-07T14:00:00Z
@@ -110,6 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.62B84114BC256F8C73983139F50C79CB
         width: 700
         height: 393
+  - title: "New technologies to transform healthcare in 2020"
+    excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
+    publishedDateTime: 2019-12-16T09:00:36Z
+    sourceUrl: https://www.msn.com/en-ae/news/other/new-technologies-to-transform-healthcare-in-2020/ar-AAKamG5
+    type: article
+    provider:
+      name: Gulf News on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
+        width: 540
+        height: 405
   - title: "The AI Eye: NVIDIA Develops AI That Predicts 3D Properties of 2D Images and Baidu Registers Most AI Patent Applications of the Year in China"
     excerpt: "Baidu, Inc. (NasdaqGS:BIDU) has filed the most AI-related patent applications in China, according to a recent study from the research unit of China's Ministry of Industry and ... Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
     publishedDateTime: 2019-12-09T17:15:00Z

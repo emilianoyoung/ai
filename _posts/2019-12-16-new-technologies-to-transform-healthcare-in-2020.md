@@ -1,19 +1,17 @@
 ---
 category: news
 title: "New technologies to transform healthcare in 2020"
-excerpt: "The global medical robotics market is expected to be valued at $20 billion by 2023 Image Credit: Shutterstock There’s never been a more exciting time for the healthcare industry than right now. Technology is set to transform the medical field like never before. Driven by mobile technology, artificial intelligence (AI), robotics, 3D imaging ..."
-publishedDateTime: 2019-12-16T08:39:00Z
-sourceUrl: https://gulfnews.com/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
-ampUrl: https://gulfnews.com/amp/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
-cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
+excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
+publishedDateTime: 2019-12-16T09:00:36Z
+sourceUrl: https://www.msn.com/en-ae/news/other/new-technologies-to-transform-healthcare-in-2020/ar-AAKamG5
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Gulf News on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -146,6 +144,6 @@ related:
         width: 640
         height: 423
 
-secured: "82lD8YeDCzExEaVio8sUAkiQMbTVhOgSrAQx3oYwvMhsnFt4afy2SFQs2V55VvYOowEgJnSxIMR5/QIyd0pY0XtJA6icihcxsBy3RmZCuvLh/51KPGhraj4aomQc2NszQ/Sgsg/gC2Dqgt1DODh+zviTd4LjDfhtsQmKiOs4wSfv3S7DbOmj+2yo4+owEWZTWqajVr+wC5aPXMlndZF3Uz+nyTO4G1hzMrYX1K8r8CSRGWRbhGlDX/7jvS23kGX3X2MPO6hu1bUakZ5cDcl0wA==;J5GERBxnkOul86+xsiDYlw=="
+secured: "CN7ettJBHjaSRnD1kQCThUbgweIGi8tXUm1D7ut3M/Y8d83IsY2tJgO1jZdbkSrb1dMSiLXC2r+TgopUYyTvezdSvAP+MPwWs+nz0sMtsurRlkJkLS+IabQBFWZEtmpUh4WKpbWPqWuIygBlBhCs274mTKdu2OQo4PxliBJ2T1/tt4ZURx5GKDlDzpRDniy66muzm/qCD7Ilmg1Lb0DEUIO6Mb/HaetUHlvMstAA7bw243Z93vXPS+mdtfk7LG8OD3JZ0dBqr1mcRMrwr/8R6A==;LA6ckNiPTmo4K2xiQOx4Bg=="
 ---
 

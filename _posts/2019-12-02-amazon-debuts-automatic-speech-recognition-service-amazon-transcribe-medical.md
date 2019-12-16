@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Amazon debuts automatic speech recognition service, Amazon Transcribe Medical"
-excerpt: "Amazon is expanding its automatic transcription service for AWS, Amazon Transcribe, to include support for medical speech, the company announced this morning at its AWS re:Invent conference. The new machine learning-powered service, Amazon Transcribe Medical, will allow physicians to quickly dictate their clinical notes and speech into accurate ..."
-publishedDateTime: 2019-12-02T15:57:00Z
-sourceUrl: https://techcrunch.com/2019/12/02/amazon-debuts-automatic-speech-recognition-service-amazon-transcribe-medical/
-ampUrl: https://techcrunch.com/2019/12/02/amazon-debuts-automatic-speech-recognition-service-amazon-transcribe-medical/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/amazon-debuts-automatic-speech-recognition-service-amazon-transcribe-medical/amp/
+excerpt: "... not alone in working with speech recognition in the healthcare space -- this is an area Google is working in as well, with Google Brain, plus Microsoft, established players like Nuance and Philips, and a wide range of startups. Amazon Transcribe Medical is initially available in the U.S. East (North Virginia) and U.S. West (Oregon) regions."
+publishedDateTime: 2019-12-02T16:04:00Z
+sourceUrl: https://finance.yahoo.com/news/amazon-debuts-automatic-speech-recognition-155149727.html
+ampUrl: https://finance.yahoo.com/amphtml/news/amazon-debuts-automatic-speech-recognition-155149727.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/amazon-debuts-automatic-speech-recognition-155149727.html
 type: article
-quality: 86
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.E63F2F1F57F0741C995E1936679B3A1E
-    width: 600
-    height: 400
+  - url: https://www.bing.com/th?id=ON.F07D9AF60EE9B983D1B3E1850E18B913
+    width: 700
+    height: 466
     title: "Amazon debuts automatic speech recognition service, Amazon Transcribe Medical"
 
 related:
@@ -150,6 +146,6 @@ related:
         width: 500
         height: 500
 
-secured: "m+3H6pMciv23IW7hwYJ8dUzkGptSBmKr8j3JSEBaP+1KkxPBXF6EL/X6OUBDTmTrjISQz6EXZmKuYroims5st7/GhAfOE7odIM8K07Qts61xhtURM/npbBdLAV7+sGFFOb8A1FMPRbY9MUJnsWAXC+GdgPHzr9+FDBqV2/fvEEnZy9kwPPS/+qhps6JiFTe+kQ4deEzpxcgn+c3ttp4dqaOhT7ISKE0kqn/q38W+yOBOGqAiNiBpCZA5fQjpaL+nbKswXpz7dNbhgtlwrAG8kw==;9x2ipp+zhDzGnspJuT56ag=="
+secured: "ha7zG/e96zvju1Np9fG0k4Ge24N5yLnV+MH/uiaMHoIWrGEaR/BsyPeL3WFe4RzFhG+3LaXo+lqDM+rT30l57Y/JTgZdKQFE3Q29AA1iI58icwZLl2Q2v79h1VbrYhv20CRFIylbMYM8Dtbq98wAETEnt95GcZOrzVc0/2cbQtgXiM1PdPyr04xI03Dx3w2ibEr7DHOHKPKKcTD2NewquHQyzLYz1Vlocq+z8z1pxAjqfDN+jOb5yuLvEn7u0kiXBv7wQHUSUFIzrCM3H+Hr1g==;70x5GeSGuKzRrg0TXCTnrw=="
 ---
 

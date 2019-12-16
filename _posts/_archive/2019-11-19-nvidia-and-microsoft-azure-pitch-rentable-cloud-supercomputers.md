@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-    excerpt: "NVIDIA has announced the availability of a new cloud-based, GPU-accelerated supercomputer available on Microsoft Azure. Built to handle demanding AI, machine learning and high-performance computing applications, NVIDIA indicates that their new offering ..."
+    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
     publishedDateTime: 2019-11-18T00:00:00Z
-    sourceUrl: https://www.storagereview.com/nvidia_announces_scalable_gpuaccelerated_supercomputer_in_the_microsoft_azure_cloud
+    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
     type: article
     provider:
-      name: StorageReview
-      domain: storagereview.com
+      name: Embedded Computing Design
+      domain: embedded-computing.com
     quality: 47
     images:
-      - url: https://www.storagereview.com/images/SC19_Microsoft%20Azure.jpg
-        width: 850
-        height: 478
+      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df2b31e8baf1-76219803_dspace_san_jose_office_exterior.jpeg&size=1&version=1576186784&sig=fafa31b4f3deb62bd8547b9d271cc295&default=hubs%2Ftilebg-blogs.jpg
+        width: 500
+        height: 272
 
-secured: "y5mSQdWhHfZq61+k/ohKvtcxYpoD8dLGUbzBJw0EFVu76pxkqwfL4Kk9n+YrLzBV43SZqGuz28QrudO+nNFhbepVkQBrv5NJYuLZzZbI10JAORwOOHenfp4bD5KUKYUJX4/ImhQi6dzH4aV272DVrAoNipnzFHoybXjNxKvvWoT4ys0r5A3v/kpX7bbKGhxeB6jVoZm243v1pyG7WHo8A1LL/Q6tAzA0YL8X0ov1IPXy/v+PzPiqeHM6FCLoRQBFCcAgqZ5i1+tYgJlfOWe18w==;/GnLsiSC7aL50iJHGXZkWA=="
+secured: "jvkYReleUa6wO6ROyPirlxL4WDpwsIoj2ZFhlsvmNWG5V82BrfT1Etk+ExW+6uMgY2tRdhdcLZSuNCFuyBhyGTr/GgUVKaeD0LdWONJy9IHK7NuPCYDGmRgFnqsgUpSeMmzXGftAORLG/UeAmObwpSupdXA9P44OJ0XScArUYRfNIzkQC6/aHCasVPCdAAdxQfLA7T3j0Oi178/MpB6mx8KAd3M9YcgXAAkf+8hk9XX7juYMXus/Gv5v5AIXlh+SNiBMcFtUoRjorqpHwis9Xg==;BNVIOWzivJ68+HtPGK9r1Q=="
 ---
 

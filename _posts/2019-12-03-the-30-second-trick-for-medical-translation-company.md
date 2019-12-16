@@ -82,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8828D0F89225C2C8A3DA0A1E9F83DBFF
         width: 480
         height: 270
-  - title: "Machine Translation and ASR Provider AppTek Buys Speech Tech Firm Ignite-Tek"
-    excerpt: "Virginia, US-based AppTek’s core offering is providing machine translation (MT) and automatic speech recognition (ASR) to media entertainment customers and call centers. Ignite-Tek is a long-term partner of AppTek and was founded more than 10 years ago. AppTek Co-founder and CEO Mudar Yaghi told Slator that buying Ignite-Tek will expand their ..."
-    publishedDateTime: 2019-11-26T09:51:00Z
-    sourceUrl: https://slator.com/ma-and-funding/machine-translation-and-asr-provider-apptek-buys-speech-tech-firm-ignite-tek/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
-        width: 210
-        height: 297
   - title: "BLEU Has Measured Machine Translation Quality Since 2002. It’s Fast Becoming Useless"
     excerpt: "In the world of machine translation (MT), human evaluation remains the de facto gold standard for assessing translation quality. But for researchers and developers cycling through hundreds of MT system iterations, human evaluation is simply too slow and too expensive to use for each incremental tweak. The solution: automated metrics ..."
     publishedDateTime: 2019-12-02T13:20:00Z
