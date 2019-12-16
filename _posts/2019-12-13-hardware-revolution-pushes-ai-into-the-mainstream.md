@@ -8,7 +8,7 @@ ampUrl: https://amp.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
 cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Hardware revolution pushes AI into the mainstream"
 
 related:
+  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
+    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
+    publishedDateTime: 2019-12-16T08:56:00Z
+    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
+        width: 700
+        height: 367
   - title: "Big Brain Revolution: Artificial Intelligence - Spy or Saviour?"
     excerpt: "New book from psychiatrist, therapist and business woman examines the good, the bad, and the potentially ugly effects of machine learning on the human mind Released today, The Big Brain Revolution shows the impact of Artificial Intelligence (AI ... in everything from restoring memory loss to robot parents. Readers will also discover ..."
     publishedDateTime: 2019-12-12T15:24:00Z

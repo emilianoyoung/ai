@@ -23,6 +23,17 @@ images:
     height: 365
     title: "RSIP Vision Introduces AI-Based Multiplex IF Image Analysis Solution for Precise Results in Tissue Diagnosis"
 
+related:
+  - title: "RSIP Vision Introduces AI-Based Multiplex IF Image Analysis Solution for Precise Results in Tissue Diagnosis"
+    excerpt: "Solution Uses Deep Learning Technology Allowing Hospitals, Pharmaceutical Companies, and Cancer Centers to Offer Better and Quicker Diagnoses While Developing More Effective Drugs and Therapeutic Interventions TEL AVIV, Israel, Dec. 3, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision ..."
+    publishedDateTime: 2019-12-04T00:10:00Z
+    sourceUrl: https://finance.yahoo.com/news/rsip-vision-introduces-ai-based-133900778.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+
 secured: "zoxExth+TuqXkVVC0zysvt8kdU6QxQRu2WDAxFbbH/4+WdUuIz5DujWA5b19tHVBkWOfo3dmN16pU+acm1Zoa+57DCDBv4ogyzIUJEMXILgAeNGrb+V81RLLnlhjN90kZoFU7qaQ9CGEZIyRVO6BFqVFQjV5dmSymHL3SWTorQNafc1tw48ID7G9rLBGq4vSV+Km9fYjtChWYJXdx8kdfbBbpUsw+pOfXWAbwUpg2fd8geWtTOrpkV21P6OJ6kjUfT8M9AtBj5W7tKrCvThvlg==;nIeAtQ1YnV0DPqPww1G8tA=="
 ---
 

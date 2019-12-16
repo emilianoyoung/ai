@@ -73,7 +73,7 @@ related:
         width: 700
         height: 437
   - title: "Intel in Advanced Talks to Buy Israeli AI-Chip Startup for $1B to $2B: Report"
-    excerpt: "chip major, is reportedly close to its second-largest acquisition of an Israeli company ... In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs.\" Intel employs 12,000 people in Israel directly and ..."
+    excerpt: "In June, the company announced Gaudi, an AI training processor, which the company said \"will deliver an increase in ... Calif., parent develops many of its key chips."
     publishedDateTime: 2019-12-03T18:51:00Z
     sourceUrl: https://www.msn.com/en-us/finance/technologyinvesting/intel-in-advanced-talks-to-buy-israeli-ai-chip-startup-for-241b-to-242b-report/ar-BBXGOnH
     type: article
@@ -82,7 +82,7 @@ related:
       domain: msn.com
     quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.2D7E4195F179C4F9014913A98E4DAF82
+      - url: https://www.bing.com/th?id=ON.5B0F5945DC17E73B96C00FE58E36D8C9
         width: 700
         height: 466
 

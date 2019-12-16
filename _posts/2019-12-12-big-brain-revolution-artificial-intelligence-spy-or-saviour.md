@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0328DFC95E890D65EA9FCBCE3D956C1F
         width: 700
         height: 393
+  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
+    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
+    publishedDateTime: 2019-12-16T08:56:00Z
+    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
+        width: 700
+        height: 367
 
 secured: "QeWyNLdXcgDVntdNBWP9t7eOOZsbzOMndeyeWdUDCs5w16tJOoYkVkRPvNcQu2Jvdq6fob2iFb4uRws2cuUCULKAltZyUKGWldx6WwHmk/DPbaDxGu6sBhUR0iGpza063c6ftyfDluRIDuu62Tbbnhf6xuaemhowl0ILaLPgEkNqHNJ6Q1Llpb6TXdH28W1b2hn+cqN59p/X4YU0svJ2Bx+LlZxP8elBCf2OOqTcmLn281h9wFpxFQmgrVcq0EyWRfX9DvB/Dpfo+9ElMMKddw==;JbFjYSRwt96LLp4velqRtQ=="
 ---

@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.45DF06F468188DFC5F5C9D566578C3AB
         width: 700
         height: 466
+  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
+    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
+    publishedDateTime: 2019-12-16T07:08:00Z
+    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
+        width: 700
+        height: 466
 
 secured: "wnmieVtTlxilk3EIPZVoUuCYK4HwkNRF9sPB2I8r09WtTkjwmoK5xZ45fIYfLmQLwSLJTqP8pjrk/iKKYjjCB26KCfs/nlt512JXwWlfzvVaEv4Z96sqDqMeTt9Zvr5OHCodm8W8vs5HhME9cwOJcLJRnFXHAQOtBAOl4VbWmEM8lG45y0HtE10F82GaB02naPDnKOgZ4saiWvn86HzrXT/TsLc2FkzvU3+tamx1ck5e5Hod6kyabNqQSa+VPaxiaNXq96ijDwbxhAUqg59QpQ==;NR6cJfGBAldwnVDw4N+3qA=="
 ---

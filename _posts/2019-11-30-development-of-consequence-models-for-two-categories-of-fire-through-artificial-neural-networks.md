@@ -32,7 +32,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 41
+    quality: 43
     images:
       - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
         width: 500

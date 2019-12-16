@@ -23,19 +23,6 @@ images:
     title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
 
 related:
-  - title: "Why Fintech Mobile Apps Are Role Models for Any Industry"
-    excerpt: "Fintech applications also assist in improving spending habits and making good financial choices. Some of the more innovative apps went beyond that and implemented AI for evaluating users’ financial health, advising on how to improve it or warning against reckless actions. For instance, Status Money gives users spending recommendations and ..."
-    publishedDateTime: 2019-12-12T13:47:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18243/why-fintech-mobile-apps-are-role-models-for-any-industry
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.CC0BD10071F3D3375B4525B0FA0024CE
-        width: 200
-        height: 200
   - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
     excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
     publishedDateTime: 2019-12-09T15:06:00Z

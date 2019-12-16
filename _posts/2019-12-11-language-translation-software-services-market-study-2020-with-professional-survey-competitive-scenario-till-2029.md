@@ -28,15 +28,15 @@ images:
     title: "Language Translation Software & Services Market Study 2020 with Professional Survey & Competitive Scenario Till 2029"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Insights Covering Dynamics and Competitive Scenario through 2025"
-    excerpt: "Dec 13, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2019-12-13T09:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-insights-covering-dynamics-and-competitive-scenario-through-2025-2019-12-13
+  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
+    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
+    publishedDateTime: 2019-12-16T06:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

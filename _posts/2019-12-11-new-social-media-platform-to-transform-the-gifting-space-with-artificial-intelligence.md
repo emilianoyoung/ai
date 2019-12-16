@@ -82,6 +82,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F567C0B480BB82C988935A3621180B6F
         width: 700
         height: 393
+  - title: "New technologies to transform healthcare in 2020"
+    excerpt: "The global medical robotics market is expected to be valued at $20 billion by 2023 Image Credit: Shutterstock There’s never been a more exciting time for the healthcare industry than right now. Technology is set to transform the medical field like never before. Driven by mobile technology, artificial intelligence (AI), robotics, 3D imaging ..."
+    publishedDateTime: 2019-12-16T08:39:00Z
+    sourceUrl: https://gulfnews.com/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
+    ampUrl: https://gulfnews.com/amp/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/new-technologies-to-transform-healthcare-in-2020-1.1576486067662
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
+        width: 540
+        height: 405
   - title: "Inside Intel’s billion-dollar transformation in the age of AI"
     excerpt: "Intel began integrating its own GPUs with its CPUs years ago, and next year it will release a free-standing GPU for the first time, Swan tells me. That same thinking also applies to AI models. A certain number of AI processes can be handled by the CPU within a data center server, but as the work scales up, it’s more efficient to offload it to ..."
     publishedDateTime: 2019-12-07T14:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T04:22:00Z
 sourceUrl: https://www.healthdatamanagement.com/news/amazons-machine-learning-transcription-service-aims-to-ease-docs-tasks
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
         width: 460
         height: 460
+  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
+    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
+    publishedDateTime: 2019-12-16T07:08:00Z
+    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
+        width: 700
+        height: 466
 
 secured: "UmFkTwtXBwoRPXkx8yDRNKJEnU2VsyU0UXW1wSFdHfsr/OpYg2jgJmfgTZycM98mKF8Ba0Lxc7mb1fQR8+bOtpCg8YVy087ERynq5u4r9xmPzGqU1zbqIO2dDBe4USuFYaODOQmjffwA/FQyc9MGykRafJboeXdZlkpKxay94OA+/lyJo1UTY+BhytWbBFuVRzXugsaa2sF0OXlHhqsViYs0c1EZGNt+9AniHy6J/VsCKxJmA8AGNfVAXpJ92octkKYQr9wksjsH5gfIJ2QGIw==;kAH9hrhUFYAfLLNYr1oAaQ=="
 ---

@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "Unlearn.AI Announces Results Generated from First-of-its-Kind Machine Learning Platform to Accelerate Alzheimer’s Drug Development"
-    excerpt: "Unlearn.AI, developer of the first machine-learning (ML) platform that creates Digital Twins to populate Intelligent Control Arms in clinical studies, today presented results generated from the company’s latest Alzheimer’s disease model at the Clinical Trials on Alzheimer’s Disease (CTAD) meeting in San Diego. The results presented during ..."
+    excerpt: "Unlearn.AI, developer of the first machine-learning (ML) platform that creates Digital Twins to populate Intelligent Control Arms in clinical studies, today presented results generated from the company’s latest Alzheimer’s disease model at the Clinical ..."
     publishedDateTime: 2019-12-13T18:25:00Z
-    sourceUrl: https://apnews.com/Business Wire/5dc52889e1d44880904a35878b8e2cf3
+    sourceUrl: https://apnews.com/5dc52889e1d44880904a35878b8e2cf3
     type: article
     provider:
       name: Associated Press News

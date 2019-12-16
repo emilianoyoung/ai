@@ -50,6 +50,19 @@ related:
       - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
         width: 460
         height: 460
+  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
+    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
+    publishedDateTime: 2019-12-16T07:08:00Z
+    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
+        width: 700
+        height: 466
 
 secured: "EyCthPRfWZEZnivJj6YLVotVa1w0F0Zkli0k18EkcdtmOu9CcuCo+cXzXcvzG6Fr5UmQXwNYjPUwTcpK5HTt9U2lwSpwk9rd6/RP7TkXH/JHs8qGNNn+uKSr0uLzgbjM17t+q6YgV10Arwt0l1aYIaPseSX+GUur6dfKXpG1sJnTVbmgP9ieAS2k8C5LFKoAkkFX2NyGIUbCUsRCCZLdxbFy/0XaK8QQT3OWZtC1YcE6Nk+f1mn4Jn+5n9ovO6zXadk5l7mcsq2KduSlIMl/gw==;OIPu/i+nmVDIrbDh2bpnNA=="
 ---

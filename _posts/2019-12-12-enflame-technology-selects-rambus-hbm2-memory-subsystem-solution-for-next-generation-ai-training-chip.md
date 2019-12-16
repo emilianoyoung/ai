@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Enflame leverages Mentor's Tessent DFT solutions for innovative cloud AI chip targeting neural network training"
+    excerpt: "December 16, 2019 -- Mentor, a Siemens business, today announced that leading artificial intelligence (AI) solution provider Enflame Technology recently used Mentor’s Tessent™ software product family to successfully meet silicon test requirements and achieve rapid test bring-up for its new Deep Thinking Unit (DTU) chip. Introduced earlie ..."
+    publishedDateTime: 2019-12-16T07:32:00Z
+    sourceUrl: https://www.design-reuse.com/news/47271/enflame-mentor-tessent-dft-cloud-ai-chip.html
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 31
 
 secured: "HXIyGgMW6Qw4a+tKBa6vN0t+OL5bxVc/RWxbflBLYSp01mtN+Q/2+FP5sruSVfyvjnEFp5BuZ/Cr4LIvBOc/7WDKQSXngRhIAWn0lAmQ0raXoUO/YgX4UeVstSjgXG6Jo+n4cusdV5VvyG1ZGa8QUZNenQXJnL3Ld89Nx/AxJjIDh9fRXL/EfxVONC+xa1Qylcjg2xoPsBRjsQW+RH1JpzQ7NIyXO8ifjjS7veuYlTh4v64qq5J2kNOWyOG5P8Mj+oyltJWfzvk/gNblIlcCyA==;i7I7dMfNJb04nPfeJXDiOg=="
 ---

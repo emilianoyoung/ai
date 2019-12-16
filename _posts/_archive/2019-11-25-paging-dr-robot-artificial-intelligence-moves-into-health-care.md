@@ -8,8 +8,8 @@ ampUrl: https://www.denverpost.com/2019/11/24/artificial-intelligence-health-car
 cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/11/24/artificial-intelligence-health-care/amp/
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Denver Post
@@ -26,21 +26,21 @@ images:
     title: "Paging Dr. Robot: Artificial intelligence moves into health care"
 
 related:
-  - title: "Clarification: Health Care-Artificial Intelligence story"
-    excerpt: "Artificial intelligence is spreading into health care ... reality character named “Ellie” that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures like ..."
-    publishedDateTime: 2019-11-27T05:33:00Z
-    sourceUrl: https://mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/
-    ampUrl: https://mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/amp/
-    cdnAmpUrl: https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/amp/
+  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
+    excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat."
+    publishedDateTime: 2019-11-24T17:33:00Z
+    sourceUrl: https://abcnews.go.com/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
+    ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
+      name: ABC News
+      domain: go.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.7BC9F242A842EA3CF7A19A66F6354F8F
-        width: 700
-        height: 496
+      - url: https://s.abcnews.com/images/Health/WireAP_40a5c56b89bd4386acc7d423d5af3222_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... \"After the first or second question, you kind of forget that it's a robot,\" said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might need."
     publishedDateTime: 2019-11-27T00:10:00Z
@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0E7C8C6B57AF752E0E32F499D5F5E5B9
         width: 700
         height: 456
-  - title: "Clarification: Health Care-Artificial Intelligence story"
-    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
-    publishedDateTime: 2019-11-26T19:42:00Z
-    sourceUrl: https://apnews.com/49877aba863e4f5199d0a22d68966bcc
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: https://apnews.com/images/ShareLogo2.png
-        width: 700
-        height: 450
   - title: "Artificial intelligence spreading into health care"
     excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
     publishedDateTime: 2019-11-27T07:54:00Z
@@ -81,6 +68,6 @@ related:
         width: 700
         height: 466
 
-secured: "TOUQKvVzt7UV8VrncNP1ApH5lu1jYUF5moT7SARZbUAnbGPjD5F9Ib5hpQJu+xnJpJ7Pe17kLfuf5Fnepx6OH9jxdhDTdlvjWhggeX/rc3z/tcRYWO9FGB+wtyYuVW2pBkLKwCZHSw95Tz6YYuQm9tNXZakG3NTy6CIFb1qTXge2b9oLgDKYcpzkCmDam6eRL+CkQleoyZISmxgHtat3hu6MC/lMLMIuHirTrpe32ognaV52PZY9Oeas0Q/id7WBAAD3IvwlN+9Zl04PoAkSXA==;qiOcdnoeagAQ63J1xQP5Sg=="
+secured: "FrYQN/ueK3n3ryCi7r+IeOgK29h5C6jiY+15vCjSHkpePad50S7YnsceOTGecs7dj5+Ap47Jb4u1rXq7fqqH1YEq2ggksLP0j1ux3MqbS4kKu3WfX8d5qbEywfEkUSZItEPVdOzJJuBZip2iME0webNyfTNRs7b0Dx3+ZM4YrxwBTaSptpJYb4Fwia7/Q+5VFJQnNUSkJWKyMJot1Y3WZIoVoG8iK5URAQOGoPq/J7OeDluGbiQ4Bsse2iBhWfWR51VoFgIgA+l7QtAXhsizmA==;w1KBWbdi64hf1TK/eqbdGQ=="
 ---
 
