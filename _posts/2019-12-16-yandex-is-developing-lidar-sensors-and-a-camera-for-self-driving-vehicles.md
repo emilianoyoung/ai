@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-an
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.86D949F7F2875B247B460212E963C62B
         width: 700
         height: 367
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
 
 secured: "hZQMnXvnxtF4wRR0vsSY+YN4RF6AcTTEE/RZz7uCvVAMgMR5TWjb7j4yKovAyvm829y/5HqV8t4aIRYjOQnPi46pos2exVjq5p2Xdg2/f/V3XJpworF6T1mG3Qd5DYG9JKxtpe9CDBdibxgb8Xfixq55GWU3K7vCpZsbRIm48kXjyXFtFz3bzNwwpRuLr+a6vhVauQMTwq9Np5R42kP1B5NXWehHEnJ3bc0WdpX9piQMGWVGOZ6IPbx6pl2MOJ72F2hsM+dJa6dIMnn2+wEVFw==;QbMQcBC5X+YXJQekpz4fHg=="
 ---

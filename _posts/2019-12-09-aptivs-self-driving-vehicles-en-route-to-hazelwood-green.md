@@ -46,6 +46,17 @@ related:
       - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
         width: 600
         height: 300
+  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
+    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
+    publishedDateTime: 2019-12-06T19:32:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
 secured: "9PoYctZrt38tS4chRzdZb8FmmdI7moierYia8gKx8r6KoO1NgJ779bM531YG5o1Elcu66u2nM++eJIYdUGPLV6ab3lXoNyBy3bZP8CC9jFE9R77fy1RI4tHxQPMRSQcTLNMztRuuy0d7BmknFUN97HDjhyw+HNnatrp7gWrlPnS458zAC/lYdW+wpeBXkaCKe+XXZHfzI3l2mONSz3zuj2f6oCfszwmDx5FnhvMGWKi9f7ZclabPci51kTqWnBx8f4ZyW1y8IRZmalZeS5pl0Q==;PTm2lFOISr0OZQ3MlJNsDA=="
 ---

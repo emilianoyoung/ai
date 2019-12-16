@@ -2,16 +2,22 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:48Z
-sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
+publishedDateTime: 2019-12-13T18:44:00Z
+sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
 type: article
-quality: 38
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -395,7 +401,7 @@ related:
   - title: "Researchers bypass airport and payment facial recognition systems using masks"
     excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
     publishedDateTime: 2019-12-16T11:35:00Z
-    sourceUrl: https://www.msn.com/en-gb/news/offbeat/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2Il8
+    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2SlE
     type: article
     provider:
       name: Engadget on MSN.com
@@ -665,6 +671,6 @@ related:
         width: 600
         height: 295
 
-secured: "yXQgRai5P47EVT6i7t1UDUHXnFNhED8BIwAkvWBvuPCMpowxvpWYRw6BKEd6AtFF6xjtCIWNkWGmIy5Lx6r+TxgMng3xvNQcfIQx+IvQUo8tVAQEox1rM2e+urK3/wO846QkYKD8/la6GZ6vYr4FTfDkJ9vpOgZcaYuAuREnOLlCgUQZfLeiujv0NDsCuFGQOR8/HzGpgtS0yK5RnzgDYGUCwuqRilC4TuXwtdEEzE6rRDB2SO0DkP9YO112zq5Vf6rx5gtigev0RnciHvHaTA==;oG+8OwrKKE72hvjCK2yvlg=="
+secured: "fPWvOrwbXFKDZFOBSYS1rZnZUKCZ8TalnFLcHxzCRoUtHMU1ZGVodwmX7KqBlvaghKuQHxzW/v0//Nqq41DcKClVBIwlA1H2wymHv0YiHNzUembXn6y7IAvo+qraVxosK/W4ojbQxK9yi+VRZWLkWzhG21s4V0y9i9xrlPqLcoRg7sQIXindlFI8E61o0YZ7YxUlIJls9SIh/+BicaSkFNu7J8xpmDTi3PHcrWqQpK9WxeLS0Fz1zEiDJBg56CTtNMav9xsGyZNZiaDkamDoxw==;89uik0iWg2U7VplzR4JZTg=="
 ---
 

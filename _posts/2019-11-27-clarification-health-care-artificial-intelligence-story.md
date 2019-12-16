@@ -8,7 +8,7 @@ ampUrl: https://mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-
 cdnAmpUrl: https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/amp/
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Clarification: Health Care-Artificial Intelligence story"
 
 related:
-  - title: "Artificial intelligence moves into health care"
-    excerpt: "Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients. It already detects an eye disease tied to diabetes and does ..."
-    publishedDateTime: 2019-11-24T21:55:00Z
-    sourceUrl: https://triblive.com/news/health-now/artificial-intelligence-moves-into-health-care/
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 39
-    images:
-      - url: https://triblive.com/wp-content/uploads/2019/11/1985589_web1_1985589-10b5f6e5954d46b2ba425e758a40bd66.jpg
-        width: 640
-        height: 427
   - title: "Clarification: Health Care-Artificial Intelligence story"
     excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
     publishedDateTime: 2019-11-26T19:42:00Z

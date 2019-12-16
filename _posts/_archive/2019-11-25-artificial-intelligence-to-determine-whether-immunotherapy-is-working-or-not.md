@@ -8,7 +8,7 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -46,20 +46,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 62
-  - title: "Artificial Intelligence Predicts Lung Cancer Immunotherapy Success"
-    excerpt: "Having an artificial intelligence tool that could match up which patients would best respond to ... “This is important because when a doctor decides based on CT images alone whether a patient has responded to therapy, it is often based on the size of the lesion,” said Mohammadhadi Khorrami, a graduate student working at the CCIPD."
-    publishedDateTime: 2019-11-26T17:52:00Z
-    sourceUrl: https://healthitanalytics.com/news/artificial-intelligence-predicts-lung-cancer-immunotherapy-success
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3E13B4DA686A88EABB44B5B7A964ED33
-        width: 690
-        height: 400
 
-secured: "LLuCDjsgn6k5CsIa7XTbvft7l7aJlNZP3Z2GdjTnGtKaz7j/NH+k0ZZD1LNukSkY0UFDDsG0jyKAONkx70ooU9ttA2Jv8LXhCqx2j2wHYBS5lylJZUNeyheRcwNCpJ/1sqztFZZhXLR5P5mqIK+BW0YtqyZ2bdfp7teCe7CMnMkTsRbObhVRJgVgez4Ly1X+oHoN4Ua9oG6LYGQV64RUIML9FVcEsZEpY0dwq9mgUQVe6MuyhWQQW6Srrv/e5BHNc2RFE2Mx6iWmhyTjw2jAAw==;iNAfXiONbryYjHprX3QD4Q=="
+secured: "dg2sVJ6+mW1pf/riFxJ8HMt8CFTaMnp788MrwPH+LHQs7nWa1w8tvUI/0nfmNzMwn0qdb3w2FIkXDPzoehn0ANb2+gc/P9pKH4IdstlX2OtZ4qE4KEZdfCvxIGFnZigppAintPJH3m1MCtaxuFnBF5pLOzM9IUs4GzeTuzLOqvweSRSKiYR3smnHfG71GM6xiN2nHj2Mu8Zg8FR24cqGF1/765FB5uAR5IroPO5Xs0iwOECI2wbP/wXpohwGB5ErXuDixF0nz61ykQlT8Io4nw==;PfGsl6slovGPBuE75kycIg=="
 ---
 

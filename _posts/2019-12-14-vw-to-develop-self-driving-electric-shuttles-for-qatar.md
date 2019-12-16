@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
         height: 367
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
 
 secured: "Z/NtGkgIw9jFOSa7ixxyz+coNM2WxMpX1OoHuISUHrLecnuSSLFxIpm8hoY70bCV6edPv0sCc5Dxj6Or4hegnGe3EolBbHSSH9HjqahjVUzDmXYp+EJ+UeAa99GrTo8ESCvC3GFhCOblpH1e3tL2oCs770gLBu3pd8Ad+wOz3tN5H0oJUVyIiBzoGXYG2xBcTauY/zsM+9CHsu0OoQF92108XSfL7epL1EinMkYY+xzwxTc+P0RlQwnSAh9+5czgjSGniV6yIZcTZhwBEjhMJQ==;4Z/PmDK20VevKKqXONwQFg=="
 ---

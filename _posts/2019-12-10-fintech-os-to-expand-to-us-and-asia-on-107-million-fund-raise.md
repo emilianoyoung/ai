@@ -93,6 +93,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 20
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
+    publishedDateTime: 2019-12-16T18:09:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "V3pZZwmXL7biYbCqZB7y+d2y/3Aun6P4PVf+vS3vA4uNdXUEJvM0dla0FEaNzq/SB0n4dGImD6YGpDwIaVLFUfiXmyAHfVWYtY6Lsol30Z5ig49bb4zIJV2yJvkTC8jifYY9KHZbnDKTS/m36jm7PtM7Bchloo9Ee6IV9oFhMWvAUN4zIPeUxQJ9M1/G3tPtYZSCWEn6Wm2diSyPvY5U+dp1jxIUFl0A/TPitODmFmojKUZGuBTQE+BQRCcqVGg8deNgJNqMLg+Wr3i8+fRnQg==;+EhHnD7RivNIs9DAV5u0fw=="
 ---

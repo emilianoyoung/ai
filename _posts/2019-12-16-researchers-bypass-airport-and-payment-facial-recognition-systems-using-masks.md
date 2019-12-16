@@ -3,7 +3,7 @@ category: news
 title: "Researchers bypass airport and payment facial recognition systems using masks"
 excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
 publishedDateTime: 2019-12-16T11:35:00Z
-sourceUrl: https://www.msn.com/en-gb/news/offbeat/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2Il8
+sourceUrl: https://www.msn.com/en-us/news/technology/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2SlE
 type: article
 quality: 51
 heat: -1
@@ -91,6 +91,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:00Z
+    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -548,19 +563,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A9635F1A5527B161EAD41E9FEE847A2
         width: 700
         height: 476
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z
@@ -665,6 +667,6 @@ related:
         width: 600
         height: 295
 
-secured: "2pCnPU+XQTNQe3vjGkMjEiafehpEeSuN8N3O+XbCdf3rraUgpm3Z5McFEvUWjAq/KzJPMAqpOcyrLhlNeEDFUuKnuMH5of0NSJnQXkIzUVQZz7H4FfdzPYoMKz+lgG3lRKv5NplAo0zSc6E/Gd+Z41K/CsfESVUkzAVd+MKoDpur2/rL/AHBsKdKEjfcu/CGAE/bgDj6DF7Gqwbq4YTFyDWl1PYbUfIJrcOoLDiY4eH+5R4EkVBbEWeFVtvX55VMwsc0rnYqc2DlsDIib/eVIw==;c9lPzDE+HDAO59jsRKFN/w=="
+secured: "0aWrGfsQ5g9s1BnWjx5pnxjzCJWTLRQlK7spAGwTz6f3a9uXvsSSqT+HRwv/DjKhQFw00CMn/SMqlhhbKuLHq5oMYlRhD0QGSsl7eaF1RUacgnVBYsmfhVdaORzSSw7IqzxZtVyrl0lSSULUq1HUabrMiFx1E8JCTeJU4t8VRY455vVcCgCF0YTbZITru1Vlqar/fVPPBxwIjzcVVWw6sAhKPL8nEpKsEsfw9xP4nJzb1pIMorJA7g2lM+IFNCFrJIpvaWAn8SGEqZ4b6Xm8Xw==;gi4CcHZmhXKAjD4eihOK/Q=="
 ---
 

@@ -48,20 +48,7 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 69
-  - title: "Artificial Intelligence Predicts Lung Cancer Immunotherapy Success"
-    excerpt: "Having an artificial intelligence tool that could match up which patients would best respond to ... “This is important because when a doctor decides based on CT images alone whether a patient has responded to therapy, it is often based on the size of the lesion,” said Mohammadhadi Khorrami, a graduate student working at the CCIPD."
-    publishedDateTime: 2019-11-26T17:52:00Z
-    sourceUrl: https://healthitanalytics.com/news/artificial-intelligence-predicts-lung-cancer-immunotherapy-success
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3E13B4DA686A88EABB44B5B7A964ED33
-        width: 690
-        height: 400
 
-secured: "A8G3YYZBm0t1kJAveeurhlsyi3ixN20882UhcXMGn2iabc7xDU2IM69fGA3aUyZjY26/tKb7DM2jEV+HKkKzZr/Z5cyMdp1aVGswCA49mLVdgKA+WPwonsgj1sZFQzkVQgDT6JK04SfuzgEOPZ61tFEeqIGHyqdEzIDLrmolDtB/9mBp/Zr5mkzQlceKjB/KKXGcZJ4WseGwW8CIgkfpi+UMtJhmbR9xd5wftI+5CCsMqMfbl1JLqFVNYrBFfn8ijWrYFB7s8FNOlsWr8O+Yhw==;m+SVUPDSCSCkCIPzZsM1eQ=="
+secured: "nWPTqZd3ZbjudF5q7BgS36Kn04zyIsxQTyphLekZdqDJfCNLGqOg89QrpJWeNNBg9KHYnTdlFVgky6wPB3/MQ5BU2/vztwXdmPsu1xp22VSS2PEsPAB9A0c6SD5yYuNzHkGnB28cf2WRO3I49+HnmnfPw4+hMpAad7GIvnfonzJQxc6z18mKkHFvNoGsGLKwM1F9Xm8EKcL6BALpcyURnoPzyvCVnhp1rG/Id6hq2PROMieFL/Tc8uybUqMRJP347B/KQk8TX1Rreu9IPX7vRw==;noTn13HuvfCjP6Oe6Elvsw=="
 ---
 

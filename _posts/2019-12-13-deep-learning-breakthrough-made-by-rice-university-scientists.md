@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
         width: 700
         height: 393
+  - title: "Introducing Farrago A.I. the best way to experience AWS Sagemaker"
+    excerpt: "One of the reasons this technology has such high potential for impact right now is the massive computing power required to build machine learning models is provided by tools like the AWS Sagemaker. These cloud-based machine learning tools have the ..."
+    publishedDateTime: 2019-12-02T18:57:00Z
+    sourceUrl: https://medium.com/@farrago_ai/introducing-farrago-a-i-the-best-way-to-experience-aws-sagemaker-ba91d53c2a78
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
+    images:
+      - url: https://miro.medium.com/max/401/1*AogQdSortRjcbS4BZcUXsg.jpeg
+        width: 401
+        height: 327
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z

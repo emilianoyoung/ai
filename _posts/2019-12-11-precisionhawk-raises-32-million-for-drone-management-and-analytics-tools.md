@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/11/precisionhawk-raises-32-million-for-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/precisionhawk-raises-32-million-for-drone-management-and-analytics-tools/amp/
 type: article
 quality: 186
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 20
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
+    publishedDateTime: 2019-12-16T18:09:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "yQXT8nBSH4B1Va0TrxK3+lCI2WT/klfef4MkbbH/cWPMXzZqYHuLLAK4RU8dSIwhiUGM9AsLnsXHSgMRQp9vyRmX47hsT7AF8lIMa6dtjNn7vz4IDGBaXgJSaCl1XGB/m/Qo7ote7iUqWn4nxYM16O8msaYhDAG2B6+S/iVcxTtLiOP26JUY/mnptLjLu8fmRch6MC4ANNOU2AYXezr8SwIFhy5X7flno5cFIR4Wm4PatKIRPXh9PoRmTGA3OqMGs0CMUDg7o/cQMQP85IsMzQ==;+tzXTSRoa6SyY8mZfWz30g=="
 ---

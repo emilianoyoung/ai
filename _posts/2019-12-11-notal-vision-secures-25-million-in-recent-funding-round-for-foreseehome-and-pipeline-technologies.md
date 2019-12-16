@@ -95,6 +95,15 @@ related:
       - url: https://www.finextra.com/finextra-images/top_pics/xl/data_04.jpg
         width: 480
         height: 270
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
+    publishedDateTime: 2019-12-16T18:09:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "u+AeXxQCzcHKKnpTBhbIKkbqq3zGMAInbt+8nqkGqr+5Mvnc9o4A2t9cNGMfcR09DAq5VFF4hNbLKt+tJpjSz8odiqWiqFqmJsS3udRIqtrXMlv62ERkdqJcON1oe5zeyccPOWMm9vbHo+GC8ynYwYKzvJnl81EZhuEE6AO2GzurrDOESDAdgv+jpQ50Lxw10kc8/q6t8tnYzbtWngBPVLz/aVt3Ibb41qaVowHOnf69wMnKfxaz6PLcyW64uOd+aPWx24z7Ptzpn9HqAXUAGw==;vbk9i+cNkimIaGlkal3VJA=="
 ---
