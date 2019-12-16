@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Waymo self-driving vehicle struck by another car in Tempe"
-excerpt: "A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
-publishedDateTime: 2019-12-13T18:05:00Z
-sourceUrl: https://www.msn.com/en-us/news/us/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/ar-AAK6HkI
+excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
+publishedDateTime: 2019-12-13T18:58:00Z
+sourceUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.html
+ampUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
+cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KPHO Phoenix on MSN.com
-  domain: msn.com
+  name: AZFamily
+  domain: azfamily.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://www.bing.com/th?id=ON.538FD1FD8467DA331A631B2CC49A65EF
-    width: 700
-    height: 367
-    title: "Waymo self-driving vehicle struck by another car in Tempe"
 
 related:
   - title: "Self-driving Tesla slams into a cop car — and the driver blames his dog"
@@ -691,6 +687,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "sL0bsYXXdWX6KN+0ftFMn8Zc2UagWKXWIeZDpxGIoApKZyn5YMCVUbC7b6LvcAbTaCtHkW3qBIrotInzeiLN8YGu8yh1tQVKpZygG2TmpUqqI8yrkc/g7TnicCNCJE7QeZzZ7w18c6dpYVoWDAKrfPmX8yVh1Vn6KpYS0puPkGhL6WAI6+3LbYQY3EcgCJ6knbE6QRDiEPMMBmMTj28C+3ohLd+rGuIsm4Zog1BW4J1eTx/JA/FzAQPsb9UhqNtaRJN1J/LwzgF4WnLopfSUNw==;5Pvbm3LS4FsqeV1d35A2lA=="
+secured: "UjBAKcJ5Vl2jLHCcC+0ye9gFOEs4gcFyt5ceqqzy4b6nhqDx0py2q8CisVysHgfaPU7bDSMkZrJOLY7y1t33nGsVniLp6dwCovScvvDgC2/hxC8+JduxgQSyC6+6Eh6lbJlwiFBTf5auz8Ni2cFRMSADMsDSK6UGpIkBu8Xz8iwK+G7iAEw80TKjLQyOX28p6PONiWnNSfhNuYS8txsJr9GcjKbqhA//WWbgqKbaYTVKvcCYwIvOl/ER7zGDPGf+MTjf3XPs2+tS5dH5Y5xJhQ==;T2F7h0xlrb4udHL/gKCVhA=="
 ---
 

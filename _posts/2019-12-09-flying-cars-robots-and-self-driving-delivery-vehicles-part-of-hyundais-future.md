@@ -372,18 +372,16 @@ related:
         width: 700
         height: 392
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
-    excerpt: "A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
-    publishedDateTime: 2019-12-13T18:05:00Z
-    sourceUrl: https://www.msn.com/en-us/news/us/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/ar-AAK6HkI
+    excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
+    publishedDateTime: 2019-12-13T18:58:00Z
+    sourceUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.html
+    ampUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
+    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
     type: article
     provider:
-      name: KPHO Phoenix on MSN.com
-      domain: msn.com
+      name: AZFamily
+      domain: azfamily.com
     quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.538FD1FD8467DA331A631B2CC49A65EF
-        width: 700
-        height: 367
   - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-10T14:03:00Z
