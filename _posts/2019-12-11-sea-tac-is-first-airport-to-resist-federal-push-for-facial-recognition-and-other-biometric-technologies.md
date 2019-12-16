@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
-excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program. After hours of impassioned public comment Tuesday, much of it from people calling facial ..."
-publishedDateTime: 2019-12-11T01:56:00Z
-sourceUrl: https://www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/
-ampUrl: https://www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/?amp=1
-cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/?amp=1
+excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
+publishedDateTime: 2019-12-11T15:36:00Z
+sourceUrl: https://www.mcall.com/business/sns-tns-bc-cpt-facialrecognition-seatac-20191211-story.html
 type: article
-quality: 158
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.05832F5857A4AFBB6D0083174E2F38D0
-    width: 700
-    height: 449
-    title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
 
 related:
   - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
@@ -93,6 +85,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
+  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+    publishedDateTime: 2019-12-13T18:44:00Z
+    sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
+        width: 700
+        height: 366
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -451,19 +458,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
         width: 700
         height: 466
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z
@@ -524,6 +518,6 @@ related:
         width: 600
         height: 295
 
-secured: "PouMzbH5saQM/kmrPCpCurPWWsAUvuQaP3coZGpG58CXMr77kpjxOJcQV2+PqosaKgT2XOYOXt7dErqOXJCR+zxAKs71lgs2P0QV8OGlpiMugVANa9iiy1Rruym8xIELPNdTLS71eH203jNGC5dvAdScnk6nU88aHBfVhKKpbjDbOE5AIJ4MPj3DTiSqR9xjQnrN5iTCSqONld2nJysGszDT/bjBkJvwC/Hmiyx68+vJKotIKTEGwMyMBbg3ewTB4AvTAVz41LxWCM2c+UWpuUl4RM4EDUsmT168IDnK5fc=;dfGKdAFRsc+GO+PPiGfxHA=="
+secured: "GfGsdNDanUAXyG1xxCQVUE599x7NPHuaF/mkv4HwPcwuCPY7hc4W5KQEUGg972EDaJH+SRyzgZCjSPHiuixA2JbEWz/S3OWzxWQnw+uE9rku7jSx6kvXzZ2T8rEXkY3+QQEXqHnHeKyVeA5LZZg6kpdtvNZENvun6d8LDAMb4VagvSmWGBDz0NkOSxKvDX7vTKedg2/Us2HG65fY1fCcbQbIUFr5PPHfymSa9bzQeOoBC+ENsRcI6iulW9iEvUMkOqwImYKmkBnH8Zt6VLymeA==;X7P3sxHGDqWo1Jg9j3S3UA=="
 ---
 

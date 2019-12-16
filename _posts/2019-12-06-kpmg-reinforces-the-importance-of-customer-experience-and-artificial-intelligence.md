@@ -36,19 +36,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3867A8EC503ED0076A82B409019EA7A0
         width: 400
         height: 198
-  - title: "FreshLime Announces AI-Driven Messenger Chat Platform for Small Business Enabling a New Buying Experience Between Local Businesses and Consumers"
-    excerpt: "Instant customer connection saves small businesses time and money in developing strong relationships at the exact moment consumers have high intent to purchase LEHI, Utah, Dec. 10, 2019 /PRNewswire/ -- FreshLime, a leading Customer Connection Platform for small businesses, announced the release of its Messenger Chat Platform this week, an AI ..."
-    publishedDateTime: 2019-12-11T00:11:00Z
-    sourceUrl: https://finance.yahoo.com/news/freshlime-announces-ai-driven-messenger-153000959.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.B227423BC482F667A96F925DE72D9CEE
-        width: 400
-        height: 300
 
 secured: "5bCz+2vA161OALW8qLKgV+16aRTISYDKyVGeIepvkCQ3zO3k3R3yf2958Gw5IcEUwx7IsTxewd+aTBxpKNmD49PQ8ppbPR/R6zR0pHhxjhNjWr4+64gYEpyiPyonKJOzoN+9wFfJyQHy5pNcE1/OMVJur3K/QOUPvmBgsheqThic2pmZLlZOxXHg2SoiS7daOY14fhvkrrDEdpBMswgZJNVCSf0ISFkKnJYBiaqVh/XIjMkH91GzpHnBgwZjox3tHtmF5A99R46cPvy7KpP55Q==;vh6dgeudlzZppWMPNJ8Xmg=="
 ---

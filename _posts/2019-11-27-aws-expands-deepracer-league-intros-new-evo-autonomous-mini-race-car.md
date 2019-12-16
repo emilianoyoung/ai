@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-in
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: ZDNet
@@ -31,8 +31,8 @@ images:
 
 related:
   - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with ..."
-    publishedDateTime: 2019-11-27T14:27:00Z
+    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-27T14:37:00Z
     sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
     ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
     cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
@@ -40,11 +40,20 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 104
+    quality: 84
+  - title: "Ottawa DeepRacer League – Start Your AI Engines"
+    excerpt: "it has been brought to my attention that five cars and five tracks are on their way to Ottawa. There is going to be an Ottawa DeepRacer League! About six months ago I was at a technology conference in Washington DC full of, you guessed it, US government ..."
+    publishedDateTime: 2019-12-02T01:57:00Z
+    sourceUrl: https://medium.com/@scottnlevac/ottawa-deepracer-league-start-your-ai-engines-f684b4d6b93e
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.93D60A5B42C5CB983490975EB0E9CAA3
-        width: 505
-        height: 399
+      - url: https://miro.medium.com/max/494/1*_cpV4IOzc-nb2ZkmCDgqoA.png
+        width: 494
+        height: 338
   - title: "AWS’ new DeepRacer Evo is an AI-powered RC car with a serious mission"
     excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed an enhanced, LIDAR-powered model along with new initiatives meant to boost user ..."
     publishedDateTime: 2019-11-27T17:58:00Z

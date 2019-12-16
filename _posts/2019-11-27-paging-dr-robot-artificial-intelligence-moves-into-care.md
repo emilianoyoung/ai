@@ -54,6 +54,19 @@ related:
       - url: https://www.denverpost.com/wp-content/uploads/2019/11/57d1c38033b5437a8e260895c5674086.jpg?w=1024&amp;h=669
         width: 1024
         height: 668
+  - title: "Artificial intelligence moves into health care"
+    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
+    publishedDateTime: 2019-11-24T21:55:00Z
+    sourceUrl: https://triblive.com/news/health-now/artificial-intelligence-moves-into-health-care/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 39
+    images:
+      - url: https://triblive.com/wp-content/uploads/2019/11/1985589_web1_1985589-10b5f6e5954d46b2ba425e758a40bd66.jpg
+        width: 640
+        height: 427
   - title: "Artificial intelligence spreading into health care"
     excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
     publishedDateTime: 2019-11-27T07:54:00Z

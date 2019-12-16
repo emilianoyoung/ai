@@ -23,6 +23,6 @@ images:
     height: 249
     title: "Special report: How will artificial intelligence help run the auto industry?"
 
-secured: "h99GtGZC4stL9DsGhRFRmA22FaInJpzytmlf2B19ZKoZXPihEFAk6aPf4UU/B72ixAXRW6xCrqmfeCUo0HMxpsD9Vjel2pn0Pb0FwqYWzgcEtSxtsbqwV25NpT1/sm6dnlD0NunmjerFMt88vXK4ZguFb1KojXYHRA0It3cd/FTq8Fv1UzKk1S7My3e7VhlFtlObo+zWHDDWdA/HuR4kRBTzhcRs3T1Dq2jov/uozf3VLjaMTE+Hy1LJZK/waB9JVJ/lHIJ+BVmuqf/L3MRw4Q==;w4CBtmw07ym5b6q4Te68SQ=="
+secured: "UY2+FQq/6hRGIbB+YQt0OHnwA4ukTP2Tlnu7eMsXFwBUbrXDxpAELOBjGtOzWW6JaQnL1kLafDSB5NsAXpEdfKQDUZ3tOfS+bS91FamYgU1Z/wofyq/qffMM1YISkbLZJhGps3FFP12TY+figUk7ZjaFUkVLymDj7c1C/ny2CrLjxMkmVwFgykyZKT8Ho3KnREIThde7dQYoH0bmsDoctXOV3iudCAxSvYDm2SEkfleSC6SQ7iPcGDSHBKw+oWoeC1qXsUMoU06mPj+jy0fv+w==;Il32Wm5P3L/PX3RoLQmsTg=="
 ---
 

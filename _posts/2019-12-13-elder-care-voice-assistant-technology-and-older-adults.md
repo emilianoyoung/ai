@@ -67,6 +67,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8B92A4C84AC5D1B3507BA3640F020165
         width: 700
         height: 490
+  - title: "How do I activate Google Voice assistant?"
+    excerpt: "Here is how you can activate the Google Assistant Voice Recognition feature. Steps to activate Google Voice Assistant on your phone Note: If the voice search is available in your language and country, you can make use of some commands in your own language. Some commands are not available in all languages."
+    publishedDateTime: 2019-12-15T22:30:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/articleshow/72697529.cms
+    ampUrl: https://www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/amp_articleshow/72697529.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/amp_articleshow/72697529.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B8E3ADCF41C4DCD94649674B96615389
+        width: 267
+        height: 188
 
 secured: "Qn7eo4piwi2dntihydCu3kPGvK9+rtbHBryCYj2xomSslD+07yrvVMJp19SfYLe/l81TZTNE24ssxTnMR7/Q2xiDcK3abo/0aygZrhB4J/0tr0aXu+hCqHdWh9ghMv75mLrEKMOkXBWNPqMx6W7bUNU3gInL6NIhOBj2VDcThoLIQn9+ZxamPCSHI3C67YByo5yXxANrfYoriaIZhAB+mpv9dq/KoYM2ADAmSHayZUTXcPA7QtN3J3w1mAPmEnkyz4yB4UMBUr9iI/4LA7p6Yg==;DbqhM2JpPgqzOwqGrkcPuw=="
 ---

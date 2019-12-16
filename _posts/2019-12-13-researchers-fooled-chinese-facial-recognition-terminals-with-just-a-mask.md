@@ -2,16 +2,22 @@
 category: news
 title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-publishedDateTime: 2019-12-13T18:44:48Z
-sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
+publishedDateTime: 2019-12-13T18:44:00Z
+sourceUrl: https://www.theverge.com/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020575/china-facial-recognition-terminals-fooled-3d-mask-kneron-research-fallibility
 type: article
-quality: 38
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -37,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
         width: 700
         height: 350
-  - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
-    excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program. After hours of impassioned public comment Tuesday, much of it from people calling facial ..."
-    publishedDateTime: 2019-12-11T01:56:00Z
-    sourceUrl: https://www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/
-    ampUrl: https://www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/boeing-aerospace/sea-tac-is-first-airport-to-resist-federal-push-for-facial-recognition-and-other-biometric-technologies/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 158
-    images:
-      - url: https://www.bing.com/th?id=ON.05832F5857A4AFBB6D0083174E2F38D0
-        width: 700
-        height: 449
   - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
     excerpt: "Researchers fooled facial recognition across three continents, but were unable to fool some software, including Apple's Face ID."
     publishedDateTime: 2019-12-12T16:54:15Z
@@ -510,6 +501,15 @@ related:
       name: Access Now
       domain: accessnow.org
     quality: 19
+  - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
+    excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
+    publishedDateTime: 2019-12-11T15:36:00Z
+    sourceUrl: https://www.mcall.com/business/sns-tns-bc-cpt-facialrecognition-seatac-20191211-story.html
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 18
   - title: "Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID"
     excerpt: "When Apple introduced Face ID with iPhone X using their new TrueDepth Camera, they instantly leapfrogged their smartphone competitors that were relying on 2D facial recognition as the biometric standard. Only larger bulkier systems like RealSense or Xbox's Kinect were using 3D depth methods. Apple was able to shrink the technology to actually ..."
     publishedDateTime: 2019-12-13T21:18:00Z
@@ -524,6 +524,6 @@ related:
         width: 600
         height: 295
 
-secured: "zapFHkMHk8zQoDQh3tsafdcLzFd7gteG1c0VZ0LfidDqdQyogkGTN3DSsgPuVfYBU7Mh9ntdL+3rovq8sVU9k9cp1MQ8dx1i7YddyRqfmwfzBbZd8ghHNIj9Ia8FIshWRqucZZcPAgzrimnVja9RMWj7/I/y+S2V2FpIm4sqyaY4OWL8u8/zA1DGo+njY6upfaR0XphgxnxpG4cHZuL/o9Eer2BKdAJWNUcqj7fduKskPdr2Q61sUqwcx2cOMGHKbWWy754MkB1twaOf73Y4ng==;E5I7LyWeQMGWZhlXE3oHoQ=="
+secured: "rWoUl1k/nepPggVCLJ8NSLWNLlK6SHPXWa3czaRGvBA7tBl+W631DKcAiNll3yUeMXqwE4d1KwKSFw509/OWYN19Df4d4QQxI/QupPmLH9tQCF+n/hCvuIYu8oFcCFCgG8PyUzI4FwswEtPFSpQiMbLzrLrCERpNtg2SrvmiFnnidXgiZ7x4HxMzC6VCCeuCVScO5tkH3xaxgs2murHJg/ouN33/o7Ab1JAxSMcSftWtaPFiJ7sRFxt4p+vglEkEdcwaWfoUFVWdGxzOTU5FrA==;Sv5YGIgzXnEIyhsi1GXbEg=="
 ---
 

@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0E7C8C6B57AF752E0E32F499D5F5E5B9
         width: 700
         height: 456
+  - title: "Artificial intelligence moves into health care"
+    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
+    publishedDateTime: 2019-11-24T21:55:00Z
+    sourceUrl: https://triblive.com/news/health-now/artificial-intelligence-moves-into-health-care/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 39
+    images:
+      - url: https://triblive.com/wp-content/uploads/2019/11/1985589_web1_1985589-10b5f6e5954d46b2ba425e758a40bd66.jpg
+        width: 640
+        height: 427
 
 secured: "j7AAzmOrv53cgl5wIq5bD9sg9UZRyYEkPDDOPfw5/8oyoRw+LWWN6Ckoz6raqD5QdR5/HsOa0MwywF5bvpmeCMghVQcZDcMhGtNpa1KiP/sP9nzqEZTh6T1L25UUW4u1LsCrP+kwTLXVAFtj0bOcdSdpmAgVXomlgY0u7Te5F1q9rGdVjk8Ns9BkKzmUscvC+pUDMxxmVZCxU9J7P+CHtaQUnsYJgsM2MYdXcvrDZ0qZpv40qCgnffImrKTF3UiYDqdx1K08G2EKZe1yfcyoKg==;eyUpRfQpP7IOwBlSF5/XEw=="
 ---

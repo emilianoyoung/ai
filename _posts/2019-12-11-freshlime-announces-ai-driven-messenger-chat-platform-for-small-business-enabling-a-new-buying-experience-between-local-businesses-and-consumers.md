@@ -23,32 +23,21 @@ images:
     title: "FreshLime Announces AI-Driven Messenger Chat Platform for Small Business Enabling a New Buying Experience Between Local Businesses and Consumers"
 
 related:
-  - title: "Confirmit announces AI-driven digital experience solutions"
-    excerpt: "The major developments include: new partnerships with Brandwatch and Tealium, a new Digital Feedback module for easily configuring web and app intercepts, and enhanced, AI-driven text analytics. This combination enables businesses to intelligently analyze and act on digital feedback across key digital channels of social, app and online."
-    publishedDateTime: 2019-12-10T19:43:00Z
-    sourceUrl: https://finance.yahoo.com/news/confirmit-announces-ai-driven-digital-140300579.html
+  - title: "AWS Cloud: Making businesses work better"
+    excerpt: "developers can quickly spin up apps that run at AWS scale, performance and security. Our customers have 2,500 integration apps at their disposal and we see about 200 million app invocations a month.” Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). “We have leveraged ..."
+    publishedDateTime: 2019-12-15T23:00:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/
+    ampUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.3867A8EC503ED0076A82B409019EA7A0
-        width: 400
-        height: 198
-  - title: "KPMG reinforces the importance of customer experience and artificial intelligence"
-    excerpt: "KPMG in Nigeria launches a publication titled ‘AI-Powered Transformation’ to reinforce customer experience and artificial intelligence at its 2019 Digital Summit in Lagos The KPMG Digital Summit 2019 is part of series of events by KPMG to provide insights to organisations on how to leverage digital to create transformational value ..."
-    publishedDateTime: 2019-12-06T14:20:00Z
-    sourceUrl: https://www.pulse.com.gh/bi/tech/kpmg-reinforces-the-importance-of-customer-experience-and-artificial-intelligence/x667qwv
-    type: article
-    provider:
-      name: pulse.com.gh
-      domain: pulse.com.gh
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.0D4626CBDDD879266B24AF66861BC791
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.26A47844F34C03C9CB6928A18EF7EAD3
+        width: 660
+        height: 440
 
 secured: "154rUb6gCu1rB5T16R4t/nX99DBu+mLvvDyDzV3UPkR7vAayZHlxE1kNWce5ia5807e0+/1sOVabEbuFHItDayJxCQtfpFbrXoyzgwSUO0wIl3hTXarNjoX6YNpOqWQttTyxKFNreU7FQOGO2Y0RMN0dWmtAD7cuSz1OG1srg4UADPfh1D82cB/7BicUzGkqQp48CmsgG2fd5AWN4XawcEBRhjvkz+nhLIkT86AiziGDgYcGFeOXKmrzvKjEkTBgI0hGsqxnlDl3gpZ+JMNGpw==;65YdRlofrLVwMrHzAAcEvA=="
 ---

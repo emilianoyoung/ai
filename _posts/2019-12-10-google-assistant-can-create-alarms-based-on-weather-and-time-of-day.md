@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/10/lenovo-smart-clock-google-ai-sma
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/10/lenovo-smart-clock-google-ai-smart-alarm-ringtones/
 type: article
 quality: 152
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -68,6 +68,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A39A5FD5FB7140807EB8D43DF2C9E24F
         width: 540
         height: 304
+  - title: "How do I activate Google Voice assistant?"
+    excerpt: "Here is how you can activate the Google Assistant Voice Recognition feature. Steps to activate Google Voice Assistant on your phone Note: If the voice search is available in your language and country, you can make use of some commands in your own language. Some commands are not available in all languages."
+    publishedDateTime: 2019-12-15T22:30:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/articleshow/72697529.cms
+    ampUrl: https://www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/amp_articleshow/72697529.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/amp_articleshow/72697529.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B8E3ADCF41C4DCD94649674B96615389
+        width: 267
+        height: 188
 
 secured: "LfaDu+2G5I/kGUjlDusZfAkuJVeVpUvOpNtjhXAHbuZmyHwVoSYcm4nKiX1fFd2ingZ2inmF9g4eeLzB0SCA/IyO7atzHGDga8pIY5w8te3xztilLsW0HjUK0mvJW4PJM+c3KPhcbLAnzvg8+76AK6r+kFI0Ewyc5ieK8sLpYzAiRl8ka4ol/e1KKmunHi/67iua6jQ8lNoYNTz+soaDl2GNDKE4T/Xte+FObJDqyqammU5QRB4RTsWAAY3gWD+jJGPXAWCTO5o9sgyq+ERRtg==;gu/bZ5VRO1V94IwsPaFKDQ=="
 ---

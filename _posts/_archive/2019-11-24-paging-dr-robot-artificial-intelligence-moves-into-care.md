@@ -8,7 +8,7 @@ ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-i
 cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0E7C8C6B57AF752E0E32F499D5F5E5B9
         width: 700
         height: 456
+  - title: "Artificial intelligence moves into health care"
+    excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
+    publishedDateTime: 2019-11-24T21:55:00Z
+    sourceUrl: https://triblive.com/news/health-now/artificial-intelligence-moves-into-health-care/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 39
+    images:
+      - url: https://triblive.com/wp-content/uploads/2019/11/1985589_web1_1985589-10b5f6e5954d46b2ba425e758a40bd66.jpg
+        width: 640
+        height: 427
   - title: "Artificial intelligence spreading into health care"
     excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
     publishedDateTime: 2019-11-27T07:54:00Z
@@ -68,6 +81,6 @@ related:
         width: 700
         height: 466
 
-secured: "jPp1aZYuDJrq5sPRzwSJrKzaywyEO/DpmP13H06347FHF7YWkCISe5coyddXTfPiYgeer0tX3exNyh1L1SSQN5wTx4maLCUcu0XpFklvdjyYEIiGcKUzdWXeU5DTJa2CKqX/QWrXtN9HljqGkSMbs0GXYAdHVtQumMl7u4EnC5Uh9stI2TfU83MrIjQ3jFRpvdSjh9bJ6UZZRWG5n2sexwkRDiWcQkkJBV71YYprzdD60Ug/xn/GxSus7RhPj3szr6nEQ4TL9frLXZgBhKSOxQ==;cDX1iIAkiPcSwsclG8wRsw=="
+secured: "ICyIPP78OP2j9AGyD+nuwwOfMuam1X5RKwt3G+uAnKoMKMqBjXXlwHAPnzOSIc8lr16MJQhmW/GfgNCDkpgkoesXSl5AZzc307/KhrrjNL8fhcePrxo7dR4QaQfInihrT/iJlKpHM/JkmuKm8Z2z6UUr+86lNwzfyBLeyDeb9TaYpuruo/eaIdXHWfqNPdzeV49q1ZwQCC1re3FougXstTOjRqHEy47R9gY6i8gfZmsf1klIbK20jT9H02QQA1j9JvoypPS7RPnBx21Y38OBow==;99uhij0oiehPTNw7J5kDRA=="
 ---
 
