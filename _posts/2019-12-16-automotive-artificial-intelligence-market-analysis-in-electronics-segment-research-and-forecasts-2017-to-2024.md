@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
-excerpt: "Dec 14, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients ..."
-publishedDateTime: 2019-12-14T05:03:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-analysis-by-recent-developments-and-business-outlook-2019-2019-12-14
+title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
+publishedDateTime: 2019-12-16T06:02:00Z
+sourceUrl: https://www.cio.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
-quality: 56
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com.au
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
+  - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
+    width: 600
+    height: 300
+    title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 
 related:
   - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
@@ -140,6 +137,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
+    excerpt: "Dec 14, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients ..."
+    publishedDateTime: 2019-12-14T05:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-analysis-by-recent-developments-and-business-outlook-2019-2019-12-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -294,20 +304,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:02:00Z
-    sourceUrl: https://www.cio.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com.au
-    quality: 19
-    images:
-      - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
-        width: 600
-        height: 300
 
-secured: "q6A1Wm9gNX+zDM+XpjrqPFONthO43bjViivEBtHKcC9DACmCJvIMh8FzFPvNH9JciDfWXhC8nx5ycnZXvVuYRHDNM5VC1114nweTRO4ag25ZhQh9L8MgMdt4L1z2EpmICPwfWjhvTLFzSltb+G3p0EIGb4sgS4eoP83OwWSp7vOVChgOdw3HVd59UNALVDNsXS4HwgToLUhE12r1TqWE5TOyAb4qHF5JetztuVqyYq3hbqd8EgZfoM+wJ/j5CnfYJOEzqp/7bewIKORoFrdBRw==;v+tTJshWx0VeldvtF+hfEw=="
+secured: "3i3cIiz4hsyW44OaGy32Y5cfQXl81VYL4gyzgCT3c+xaYT7miSFFlWJDgkO0j6SkxS5lmQTRmzUTfTOqHDujW2bc/WlOYpBpgSXwXoB81+1cHRBTODcPA7+dyM2fBE6L1Ir5PwHryVRJ+vd4wm94mrpkGdfodJXJCQ/MY0Fnx3bIOW8YjYMhfKTG8cHzTF0dkOLZoqDZTSjV+ekH74D6Ak5lVQ76G9LpS1nEV7AWvRnQjxWMFm9HSpjDeQnWVpeQl2YsnlgAeZ38zzTB/Y3GMg==;CT8tymJUroaHvapKEQn6vQ=="
 ---
 

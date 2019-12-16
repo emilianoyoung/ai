@@ -198,6 +198,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
         width: 700
         height: 390
+  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
+    excerpt: "A Honda (NYSE:HMC) self-driving car is going to show up on roads next summer, but not in the U.S. Source: Jonathan Weiss / Shutterstock.com Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and ..."
+    publishedDateTime: 2019-12-13T18:19:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/honda-self-driving-car-debuting-next-summer-1028763245
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F8461042852C94EE82D23636855D5136
+        width: 300
+        height: 169
   - title: "Advocates rally on Capitol Hill for self-driving car legislation"
     excerpt: "The push comes as lawmakers are circulating draft legislation on self-driving cars among stakeholders after long delays but with no bills formally introduced in Congress. The advocates, brought together by the Coalition for Future Mobility, warned of the danger of falling behind the rest of the world in creating and testing these cars ..."
     publishedDateTime: 2019-12-03T22:48:00Z
@@ -258,21 +271,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
         width: 656
         height: 492
-  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
-    excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
-    publishedDateTime: 2019-12-13T20:19:00Z
-    sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
-    ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
-        width: 700
-        height: 393
   - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-11T20:24:00Z

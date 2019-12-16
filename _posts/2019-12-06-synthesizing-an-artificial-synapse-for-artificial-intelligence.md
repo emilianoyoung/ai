@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Synthesizing an artificial synapse for artificial intelligence"
-excerpt: "PITTSBURGH (Dec. 6, 2019) --In science fiction stories from \"I, Robot\" to \"Star Trek,\" an android's \"positronic brain\" enables it ... For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to ..."
+excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain ... The application could lead to the wide use of AI and revolutionary advances in cognitive computing, self-driving vehicles, and autonomous manufacturing. In addition to the research component of the project ..."
 publishedDateTime: 2019-12-06T16:18:00Z
 sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
 type: article
-quality: 43
-heat: 43
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
-  - Machine Learning
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
@@ -25,6 +24,34 @@ images:
     height: 700
     title: "Synthesizing an artificial synapse for artificial intelligence"
 
-secured: "bhhiLGMJPAYvzZXUSsMvChSlh7ybr3ZV5AWSPosI95QtuFZiUbD8UrYwKUEcfG1cGXlO0mE/3gFn007Zi4D6c5mPvnetwBqo7vE6ok9p+qy7x0QS/Lj48LQFAQbIStlX1vi5o17CgmtYtgi7JgIgCNyjqmGGKD2VXJK3V0tgxGXw4soIcfNOYOk6r10zElyEAV3o2qK8Wwf8Rlm1lBcSXoxwNfIBxiQYeGqAiiWGQy6dh4m8Ex5fmImqgjD76lNHy7lj+Ra9MlmrGdpn5pWI+Q==;hmdi3813tZWq1OJrDmsjTg=="
+related:
+  - title: "Development of consequence models for two categories of fire through artificial neural networks"
+    excerpt: "Find more information on the Altmetric Attention Score and how the score is calculated. This paper demonstrates the successful implementation of an artificial neural network to accurately predict the designated thermal radiation distance for jet fire, early pool fire and late pool fire hazard consequence analysis. Specifically, integrated ..."
+    publishedDateTime: 2019-11-30T21:22:00Z
+    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acs.iecr.9b05032
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.FE6DF5BC8E80657F0C29A204E5AB005F
+        width: 560
+        height: 283
+  - title: "Organic molecular crystal-based photosynaptic devices for an artificial visual-perception system"
+    excerpt: "Recreating the visual-perception properties using organic electronic devices is highly desired for visual prosthetics and artificial intelligence. Although the integration of organic light-sensing components with synaptic devices can realize the recognition and memory functions for perceived images, complicated problems in device integration ..."
+    publishedDateTime: 2019-12-12T23:09:00Z
+    sourceUrl: https://www.nature.com/articles/s41427-019-0182-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.C0FDCA759F8CA35BB774CF3BA5603C09
+        width: 685
+        height: 505
+
+secured: "YbS9qZ5mty8m6V4OS9hV3tb89YhhsFvl+TOna8TOIenhROop1gX3ZuXxRcolXha9KUf8kqPFsJj/PjA+lYT1XSWP5IsZwWOc1z3667iHviIe0K9ZS41xtlsLEhPcvXzcVNR5/Wkp1A9ifgVihCiQZXk/NUcFfJIoni5jyIQwOLX2OJVE8fMjaPyXLCDW9NRrxsV2pKwURsUrlWQL4pNGBYjepkGmz9BY2mzKeXhIMYor2TQKsOLBlxWsx4k3L/pZIJjhNsmxoYzhBzxSZ+dvag==;n0IHkBa1fsR3ziYJJKvtJA=="
 ---
 

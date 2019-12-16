@@ -1,28 +1,30 @@
 ---
 category: news
 title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
-excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
-publishedDateTime: 2019-12-13T20:19:00Z
-sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
-ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
-cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+excerpt: "A Honda (NYSE:HMC) self-driving car is going to show up on roads next summer, but not in the U.S. Source: Jonathan Weiss / Shutterstock.com Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and ..."
+publishedDateTime: 2019-12-13T18:19:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/honda-self-driving-car-debuting-next-summer-1028763245
 type: article
-quality: 44
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
-    width: 700
-    height: 393
+  - url: https://www.bing.com/th?id=ON.F8461042852C94EE82D23636855D5136
+    width: 300
+    height: 169
     title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
 
 related:
@@ -602,6 +604,6 @@ related:
         width: 700
         height: 393
 
-secured: "9+Sbz3nu/2xZHL4Tfx0P0/HTQdr08xvn1oiLZeICTG0iU/OkK7szoiyAh/GXzHJN11SJwkplRX2WSkYo364rW7GG8Vj9vLX7JtogNwjCk2avVozFn352qVxLchYW4WSxXNFt/yP4wza3dzu6Xoav9lQcrLaUA+HTsvmt0HvUhJKbU8hCpH0FqU0nkyjMXqmWe/1TGJ6LcyXHRk75Wjc+R6uL8i6GnGy1ILbeRgxQb3LjVFpPxiFUGW1QbekywrruOSIpVxOyg6thNQcjkhOILQ==;skmyW2fhSfM0ru9LdCvWvw=="
+secured: "s7ahZRX/ywrPePzwXOPf4QucOaCV4OW54OCthzKelswLxTy1Xmqj5veHDlWJq7+YWi3o0gKUe+3pHxeB3gxo0gOus0FvweTh+6j+imDDnb9QqwQcbyg2InOMVBtcA4tdU7imwNT5NYsesZFQ3qTMoKJWcMNhbi8r1pcHbOfUM32e0sQ4MVtCj2H+khmK4WDYmLmaQF1s/M9ZbJ7nzuZ7GLSJy7XJ7lYma+9/RXHnGeqT1qbv5iYJivzqbJ80AlCNOeeGdKBZME7/kF5JMwnc+w==;D2gejRDCw/lFRi2Ms1Eomw=="
 ---
 
