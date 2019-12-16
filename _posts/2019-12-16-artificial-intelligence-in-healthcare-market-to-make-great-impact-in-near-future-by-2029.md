@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T08:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Artificial Intelligence in Healthcare Market To Make Great Impact In Near Future By 2029"
 
 related:
+  - title: "Artificial Intelligence in Stadium Market to Witness Excellent Growth by 2025"
+    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Stadium Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides ..."
+    publishedDateTime: 2019-12-16T16:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-to-witness-excellent-growth-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
     excerpt: "Dec 13, 2019 (Global Research Wire via COMTEX) -- QY Research recently published a research report, titled, \"Global Artificial Intelligence in Healthcare Market Report, History and Forecast 2014-2025, Breakdown Data by Companies, Key Regions, Types and Application\". The expanding horizons of artificial intelligence (AI) have entered the ..."
     publishedDateTime: 2019-12-13T04:21:00Z

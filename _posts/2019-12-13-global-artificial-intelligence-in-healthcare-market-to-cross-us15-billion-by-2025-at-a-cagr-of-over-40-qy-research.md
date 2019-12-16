@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Stadium Market to Witness Excellent Growth by 2025"
+    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Stadium Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides ..."
+    publishedDateTime: 2019-12-16T16:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-to-witness-excellent-growth-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
     excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
     publishedDateTime: 2019-12-16T12:01:00Z

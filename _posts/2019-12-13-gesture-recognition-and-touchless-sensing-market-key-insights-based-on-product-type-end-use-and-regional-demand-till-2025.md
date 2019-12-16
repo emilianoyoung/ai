@@ -297,12 +297,12 @@ related:
     quality: 19
   - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
     excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:43:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    publishedDateTime: 2019-12-16T06:02:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
     type: article
     provider:
-      name: CSO
-      domain: cso.com.au
+      name: cmo.com.au
+      domain: cmo.com.au
     quality: 0
 
 secured: "k3EVOZRxUharQDi7M9Th6o2oRSzfSbjs65mmTo1LOT/5rz6hbV3hYo2QtsNDHF+6w+p4aZfG4YyZqe/OS4hzV2t0qNgXtJQregWxKWCKTCFscGH3tTQYDcHAZtMmUsJqOMy+QoFIjW8kxPTnZZjp6jGU8uD/tHSVLNxLLC/shTMR8a7XIKaES/iiJfKjPJTnxKC/c2uglO4l06NCxdH9sn8nOYIllsTn3Y2d4S2Ap0K+r9IV9O4OlGPy1B6tG6YaRLKWSLlpWkZJUGx1XKVxMw==;GXBIHbQXLFqeAmZjDAsk+A=="

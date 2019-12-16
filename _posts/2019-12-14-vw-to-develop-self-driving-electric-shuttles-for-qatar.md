@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
         width: 700
         height: 350
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
   - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
     excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
     publishedDateTime: 2019-12-11T14:02:13Z

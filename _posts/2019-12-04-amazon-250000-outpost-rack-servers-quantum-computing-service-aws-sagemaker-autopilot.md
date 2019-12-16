@@ -24,6 +24,21 @@ images:
     title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
 
 related:
+  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it ..."
+    publishedDateTime: 2019-12-03T18:24:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
+    images:
+      - url: https://www.bing.com/th?id=ON.BD7714A0883815F5E2D58F3325D23506
+        width: 600
+        height: 400
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility in automated machine learning model creation, known as AutoML. This new tool is ..."
     publishedDateTime: 2019-12-03T19:15:00Z
@@ -54,21 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
         width: 700
         height: 466
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially, but that is a total black box. If you want to improve a mediocre model or just evolve it for your ..."
-    publishedDateTime: 2019-12-03T18:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/aws-autopilot-gives-more-visible-182248355.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/aws-autopilot-gives-more-visible-182248355.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aws-autopilot-gives-more-visible-182248355.html
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
+    publishedDateTime: 2019-12-03T21:24:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
     images:
-      - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
+      - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
         width: 700
-        height: 466
+        height: 391
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-03T18:44:00Z

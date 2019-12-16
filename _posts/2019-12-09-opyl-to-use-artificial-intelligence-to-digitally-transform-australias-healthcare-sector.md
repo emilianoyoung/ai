@@ -42,18 +42,18 @@ related:
         width: 700
         height: 525
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team collaboration to ..."
-    publishedDateTime: 2019-12-16T15:15:00Z
-    sourceUrl: https://apnews.com/Business Wire/5b2c9fb58ed045539de9389ded74a61e
+    excerpt: "CHICAGO & LONDON--(BUSINESS WIRE)--Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on ..."
+    publishedDateTime: 2019-12-16T15:59:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005182/en/
     type: article
     provider:
-      name: Associated Press News
-      domain: apnews.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 53
     images:
-      - url: https://apnews.com/images/PaidContent3.png
+      - url: https://www.bing.com/th?id=ON.C0163F599F31648066814883783D13A6
         width: 700
-        height: 450
+        height: 365
   - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
     excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
     publishedDateTime: 2019-12-16T09:09:00Z

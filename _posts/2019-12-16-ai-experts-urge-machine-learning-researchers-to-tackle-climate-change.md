@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/16/ai-experts-urge-machine-learning-r
 ampUrl: https://venturebeat.com/2019/12/16/ai-experts-urge-machine-learning-researchers-to-tackle-climate-change/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/ai-experts-urge-machine-learning-researchers-to-tackle-climate-change/amp/
 type: article
-quality: 106
-heat: 116
+quality: 108
+heat: 118
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - Facebook AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.CEE9C0B02AD33AD0F55369FAA3E57975

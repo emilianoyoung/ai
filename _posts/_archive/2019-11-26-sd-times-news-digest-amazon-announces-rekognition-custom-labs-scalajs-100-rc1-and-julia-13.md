@@ -1,8 +1,8 @@
 ---
 category: news
 title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
-excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch, which requires specialized machine learning expertise and millions of high-quality labeled ..."
-publishedDateTime: 2019-11-26T16:37:00Z
+excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
+publishedDateTime: 2019-11-26T16:35:00Z
 sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
 type: article
 quality: 41
@@ -22,7 +22,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.E687F96B53629E961E30AE533918307C
+  - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
     width: 589
     height: 558
     title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
@@ -59,6 +59,6 @@ related:
         width: 630
         height: 442
 
-secured: "YcqTz0xAhBQY7mPVgaDTNcD71St2itNP9bZjtSn7Y9I6ATA2cBVJFdHMNByVImB/RrwSzA8T8xyfbkRHq/zi+odPpyPZO68f5B5NMmSnVNDbta3gUPQTCunxcG3417+kCTYpCHrobLDw5MxqenTyiLvJb/Riw4WyB6bcTpJdyvCiuZ5ZtFS42tYgauA0GM4f5b2mUNCRS7yMzX8IlWb3M29IeUFeeDMU72jLG2VIoDzg4n3VGg8DkkNceuRRkjgSdxIXkuhaHrgBjqWjo46o1Q==;1dg2/ePPkLuKxUUd4WP+Wg=="
+secured: "E+sHaatyEMyJLTtxDkO0V0wBB672QeFwEC2ORzFmKkJ/ylUhZ69SaCeHgOIvD88FN8gWS9PO8LY8614Ug+aTi7X5Ui/CsxXcCBObD6jwqwZZ/5xtrwkZTSrjSy/xt9Kcdsmdnh7pzjVXCQMmbqwLiDSvTpPKc03gxltdo4+Op1SVizgSj63jvJZxCHeTxmB+jGzto6Z22Z8+xKU+jPxAtW+QNyc4MzlRFwgCkfZiU1Yv0u8WkRM9oQ15d3Lris0Ox4+Z+MU483kIXONi+b1zBQ==;6BUjtToq/4tt5aehcm+a0A=="
 ---
 

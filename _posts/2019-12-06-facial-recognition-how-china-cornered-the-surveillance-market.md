@@ -228,6 +228,21 @@ related:
       - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
         width: 700
         height: 466
+  - title: "75,000 people call on Congress to ban on facial recognition tech"
+    excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
+    publishedDateTime: 2019-12-16T16:30:00Z
+    sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/
+    ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
+        width: 700
+        height: 350
   - title: "3D mask or photo fools airport and payment face-recognition, but not Face ID"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-16T14:02:00Z
@@ -243,6 +258,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
         width: 700
         height: 349
+  - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
+    excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
+    publishedDateTime: 2019-12-16T16:50:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.FE85ED1461D677FB16F2974DDA6D119E
+        width: 636
+        height: 382
   - title: "Homeland Security wants to use facial recognition on traveling US citizens, too"
     excerpt: "(CNN) -- The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed ..."
     publishedDateTime: 2019-12-10T13:25:00Z

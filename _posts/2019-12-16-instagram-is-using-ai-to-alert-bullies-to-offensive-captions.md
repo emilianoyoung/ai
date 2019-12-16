@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
-excerpt: "The anti-bullying notice is available now in \"select countries,\" and should be available elsewhere in the \"coming months.\" Whether or not this proves effective is uncertain. Instagram said that its efforts to reduce bullying in comments have been \"promising,\" but that doesn't guarantee similar performance for the posts themselves. Someone ..."
-publishedDateTime: 2019-12-16T14:40:00Z
-sourceUrl: https://www.entrepreneur.com/article/343895
-ampUrl: https://www.entrepreneur.com/amphtml/343895
-cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343895
+title: "Instagram is using AI to alert bullies to offensive captions"
+excerpt: "Instagram's anti-bullying efforts now extend to discouraging abusive behavior in posts, not just comments. It's introducing a feature that warns people when their post captions might be offensive, using AI to detect language similar to posts that have previously been reported. In theory, this makes bullies second-guess their vitriol ..."
+publishedDateTime: 2019-12-16T13:20:00Z
+sourceUrl: https://www.engadget.com/2019/12/16/instagram-warns-about-bullying-captions/
+ampUrl: https://www.engadget.com/amp/2019/12/16/instagram-warns-about-bullying-captions/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/instagram-warns-about-bullying-captions/
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: /assets/images/organizations/entrepreneur.com-50x50.jpg
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
       width: 50
       height: 50
 
@@ -23,12 +23,27 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.36D9B280365C9CC6D73EFADD1176EB9A
+  - url: https://www.bing.com/th?id=ON.B8958EB51AAB9E014925FE376B7E136F
     width: 700
-    height: 466
-    title: "Instagram Is Using AI to Alert Bullies to Offensive Captions"
+    height: 367
+    title: "Instagram is using AI to alert bullies to offensive captions"
 
 related:
+  - title: "Instagram AI Will Shame Users Before They Post Offensive Captions"
+    excerpt: "The feature relies on AI that detects language similar to phrases and words that have been reported. When it notices “potentially offensive” captions, it warns the poster with a prompt that gives them the option to “edit caption,” “learn more,” or “share anyway.” So, while it doesn’t censor users, it lets them know they might ..."
+    publishedDateTime: 2019-12-16T17:02:00Z
+    sourceUrl: https://gizmodo.com/instagram-ai-will-shame-users-before-they-post-offensiv-1840459912
+    ampUrl: https://gizmodo.com/instagram-ai-will-shame-users-before-they-post-offensiv-1840459912/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/instagram-ai-will-shame-users-before-they-post-offensiv-1840459912/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.DC5E66B6ABDA8BB44C15691D5A9E5872
+        width: 700
+        height: 393
   - title: "Instagram trains AI to detect offensive captions"
     excerpt: "Instagram is to warn users when their captions on a photo or video could be considered offensive. The Facebook-owned company says it has trained an AI system to detect offensive captions. The idea is to give users \"a chance to pause and reconsider their words\". Instagram announced the feature in a blog on Monday, saying it would be rolled out ..."
     publishedDateTime: 2019-12-16T16:14:00Z
@@ -75,6 +90,6 @@ related:
         width: 700
         height: 393
 
-secured: "8uLC6GULW33R5WJs3RmsAacUV08OGov+7/eWg1C60jMWT9rXGhBSZv2CBpPm0wcGNALPsfJ25ZbVN4aat/QWAhU6daBSTJkd42lZAUJpSONTZcGqmjkLHKHx8Xcux9M9v0TttVplbOLU9UhQEKG8LPpL0ypr8OEbSPtEDMaSvSjsCtlYQrUCnuECfagfiXXmdDtany354yskhGLpIB6y9b68gMQv+ZulDJbsj8VQiuuItzs0hJ5x5bufwZ0As87xx9Eqr3eO101OuK4Y9Dfrxg==;b1zS99EQJe6Z/+bV9TOtYA=="
+secured: "fd9a5cFYK3AmYsCdwNP4YSxmUFVJZ2fr8uSmOd1hGA0lrGziE2KwqdajV7Nd8hROLe2hN9jZYdjfZyfQFU9/aeK5ya7kb5HjvO0MlEiac0e+kchL5tfTdCNinj3XrDzG2nGaVuprwP0Z2wGm6RRY8XFcRzXqVTBoZyWD7K+FqjKg2q6dDSJVsQHiwGb1+eNtYzSWRxRah2gt9/FcQDaxvkzt/fdQb7GrXJxvvzp6Onh1sC+myTE2nk3HUAON7c4jOvz5I5rpu/ZObS35NxfNbw==;I2NiaNp05j6+E7s9kxOpqg=="
 ---
 

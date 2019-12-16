@@ -1,26 +1,26 @@
 ---
 category: news
 title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team collaboration to ..."
-publishedDateTime: 2019-12-16T15:15:00Z
-sourceUrl: https://apnews.com/Business Wire/5b2c9fb58ed045539de9389ded74a61e
+excerpt: "CHICAGO & LONDON--(BUSINESS WIRE)--Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on ..."
+publishedDateTime: 2019-12-16T15:59:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191216005182/en/
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Associated Press News
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://apnews.com/images/PaidContent3.png
+  - url: https://www.bing.com/th?id=ON.C0163F599F31648066814883783D13A6
     width: 700
-    height: 450
+    height: 365
     title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
 
 related:
@@ -105,6 +105,6 @@ related:
         width: 1200
         height: 448
 
-secured: "Kq8x2wcWFpc+Qo8AK7jz+2nk31L7ArQhZO8jv8tCbZWCLNOsBz9fRy9Li2Vh5xD1QwNpnU4Cwml53qQXP/JkiJBpjM4LR7qj0Sc1WfMMkwkjKiewiX8u17U4ut3SKluF2cB7a8AaSY9gWWBHWzTKvU7Pr2Ro54gtElI9Sk9haS1IKLHaL3KOdLqqOHi9pTTyyqaR8IJ76eH7O7K2+t8dHXJYJcPJyLT12LZ2ZhnskaQqTXVT/Cy1VcfMOtyKojyzzafA7ClyvOYldqMIMIJCtA==;NIsZcTaYzHfcKqLYTGzp0Q=="
+secured: "K0fdCA0WuByxPPsKlxqVgEMTFSRyBT0f6mtMR+ppq/tWxwsChFtzen9zXS8hx2orjO7kj1F2p50tOpsuTjRSPZrBE/MzjTgi9w8etHJYFsS/Mc05y7KyILiUuhbLcJBbnv9nQLquOA2PYqPZuLFViwODmOdErpfmsMqtORhyprF5ElkI1Y0tpKuoIYW/wc9QPgEJ8cSoTppxLFWLhjqsYh4RdS6aCYHhZSmPfmazkEIVDPHxGmcnzOqUp2PxDbxmYBhgcW7ZbnVJeEhQb0VFNw==;092TUiiV/qm6b6mftx5bQA=="
 ---
 
