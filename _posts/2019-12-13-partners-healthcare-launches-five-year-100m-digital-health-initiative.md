@@ -24,65 +24,49 @@ images:
     title: "Partners HealthCare launches five-year $100M digital health initiative"
 
 related:
-  - title: "Current Health raises $11.5 million for AI-powered remote health monitoring"
-    excerpt: "Systems that monitor vital signs are critically important in any health system with seriously ill patients; it’s estimated that about 53% of U.S. hospitals have computerized remote patient monitoring systems. Perhaps unsurprisingly, the remote patient monitoring market is anticipated to be worth more than $31.3 billion by the end of 2023, up ..."
-    publishedDateTime: 2019-12-10T09:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/current-health-raises-11-5-million-to-predict-diseases-with-ai-and-remote-monitoring/
-    ampUrl: https://venturebeat.com/2019/12/10/current-health-raises-11-5-million-to-predict-diseases-with-ai-and-remote-monitoring/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/current-health-raises-11-5-million-to-predict-diseases-with-ai-and-remote-monitoring/amp/
+  - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
+    excerpt: "The federal government on Monday announced it will invest AU$7.5 million for research into the use of artificial intelligence (AI) in healthcare. \"Artificial intelligence will be critical in transforming the future of healthcare through improved preventive, diagnostic, and treatment approaches,\" a statement from acting Minister for Health Anne ..."
+    publishedDateTime: 2019-12-16T05:04:00Z
+    sourceUrl: https://www.zdnet.com/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+    ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
     images:
-      - url: https://www.bing.com/th?id=ON.2B2D4D0BECF3B99986D81F5BF349E49E
+      - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
         width: 700
-        height: 350
-  - title: "Bamboo Learning Raises $1.4 Million to Build Voice-Powered Content for Alexa"
-    excerpt: "The company has not disclosed the amount raised in that pre-seed round. Other fundraises this year for companies that bring voice recognition technology to education include Amira Learning’s $5 million Series A round and Google’s investment in GradeSlam. Get our email newsletterSign me up Keep up to date with our email newsletterSign me up ..."
-    publishedDateTime: 2019-12-05T23:40:00Z
-    sourceUrl: https://www.edsurge.com/news/2019-12-05-bamboo-learning-raises-1-4-million-to-build-voice-powered-content-for-alexa
+        height: 525
+  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
+    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
+    publishedDateTime: 2019-12-09T05:43:00Z
+    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
+    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
+    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
     type: article
     provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 36
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 65
     images:
-      - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
-        width: 480
-        height: 480
-  - title: "In 5 years, 30 percent of the healthcare workforce will be digital — Is your health system ready?"
-    excerpt: "Sean Lane, CEO of Olive, discussed how health systems are deploying artificial intelligence to improve operational efficiency and free employees to interact more meaningfully with patients. Why should health systems focus on adopting an A.I. workforce? The healthcare sector is the top employer in the United States, with 16 million employees."
-    publishedDateTime: 2019-12-11T21:37:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/in-5-years-30-percent-of-the-healthcare-workforce-will-be-digital-is-your-health-system-ready.html
+      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
+        width: 700
+        height: 323
+  - title: "Partners HealthCare unveils 5-year digital health initiative"
+    excerpt: "Customized patient communication options, including text, email, call or direct mail. Last month, Partners HealthCare announced the creation of an Artificial Intelligence and Digital Translation Fund with an initial investment of $30 million over the next five years. The fund will be used to support ventures that develop new technologies based ..."
+    publishedDateTime: 2019-12-13T05:52:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/partners-healthcare-unveils-five-year-digital-health-initiative
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 26
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 39
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
-        width: 400
-        height: 300
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented ..."
-    publishedDateTime: 2019-12-06T21:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/06/1957454/0/en/Throne-speech-recognition-of-mental-health-and-addiction-support-applauded-by-pan-Canadian-health-organizations.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
-    publishedDateTime: 2019-12-07T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/throne-speech-recognition-mental-health-210431884.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
+        width: 700
+        height: 367
 
 secured: "ulDa98VW9hFHrmo08gR49aMSCsLRSaoNhIY28E+lgx/nHpfVl69GcTpeS6BEABFI01rjjXNFEmcan00D6FOhtG6A3IrWktUsLucsq1kf6mVFbZIHasFe4umqUZt1ff4Ry5jnAOfxXS7Mgq8eX6z32pWPT+keWR7ezzanIyUQ0OQWoyueEpdHsI9giu9NHIfdcLZRBXKxZI5V65gZaLuPBt8mhQTktxQQBLsXXiq+8DND3PkCe9LlAbnx+HfC7bFXjct/Oepl0kMNRlhp7vL8NQ==;RMpTR2stwDs3vtfM8GPJgw=="
 ---

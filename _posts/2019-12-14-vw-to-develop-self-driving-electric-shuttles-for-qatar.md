@@ -24,45 +24,49 @@ images:
     title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
 
 related:
-  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
-    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
-    publishedDateTime: 2019-12-14T23:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/volkswagen-bring-self-driving-electric-225609415.html
+  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
+    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
+    publishedDateTime: 2019-12-16T05:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
+        width: 700
+        height: 350
+  - title: "UAE belts up for self-driving journey"
+    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
+    publishedDateTime: 2019-12-16T04:33:00Z
+    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
+    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
+        width: 540
+        height: 405
+  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
+    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
+    publishedDateTime: 2019-12-11T14:02:13Z
+    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
+    type: article
+    provider:
+      name: Reuters on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
+      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
-        height: 466
-  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
-    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
-    publishedDateTime: 2019-12-15T00:05:00Z
-    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
-        width: 700
-        height: 466
-  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
-    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
-    publishedDateTime: 2019-12-15T05:11:00Z
-    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 12
-    images:
-      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
-        width: 668
-        height: 355
+        height: 367
 
 secured: "W1JZclm3F90UaFoiWxIn+Ab7+QrRyQY3d8yZpp9o+KMYiD4SXuDZZNeMMRWRGA/sLi8tb6TtXBBfCZfKc71MWry35JiEO2VJ9W66hnIq6D14O/4cT/5/aXu7jmDgtfutchYorRM16dWP6Enay5IRp/3y/PpUP01640UfYShJufrivTv4ctlZ79y1WfFPBAmGwKuhl5f7RV9hXau4hhNUpH/miWlyKzQhUQIZ7SMaHRjXFQDe2vwlU2jeYa+YFLFDFv3DBWLZKui946W4oPBfmg==;asJW9O+ga1R2sSwgIWKnug=="
 ---

@@ -121,6 +121,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 32
+  - title: "$7.5 million for artificial intelligence research has potential to transform health care"
+    excerpt: "The Morrison Government is investing $7.5 million for research into the use of artificial intelligence in health care. Artificial intelligence (AI) will be critical in transforming the future of health care through improved preventive, diagnostic and treatment approaches. Research into the use of AI is likely to provide significant benefits ..."
+    publishedDateTime: 2019-12-16T05:07:00Z
+    sourceUrl: https://www.miragenews.com/75-million-for-artificial-intelligence-research-has-potential-to-transform-health-care/
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 30
+    images:
+      - url: https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg
+        width: 640
+        height: 423
 
 secured: "41pdLeDZCIsvDa8dwO4xyAhiGuwwLRAg4Hta9m84qUtLMOxxJpEpKCr4J5fc6ZTWxIgfvK2Hyzww/lrQ24xxat9m8w5F7/O/eewzcOxFAcItox6NHNYcDeeZylpwSdPBEr6qXJIzBuZvIQpl8V80ibqBcUBwM1FqjMcMKSattsZL4BXFF6Clfxb2owdJx6K2DOapWv9EQEynFRCurrsUy8nQwSrDb3ySILVmtiu/AWOtAE01pez8pb+u/ofljIpOMCiRT0gfngOELr0kH2DiNA==;QftKjloS64XkMKA15M7UPA=="
 ---

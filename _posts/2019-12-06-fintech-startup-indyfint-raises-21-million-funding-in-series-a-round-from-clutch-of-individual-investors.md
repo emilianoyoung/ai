@@ -26,32 +26,19 @@ images:
     title: "Fintech startup Indyfint raises $2.1 million funding in series A round from clutch of individual investors"
 
 related:
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-09T05:29:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
+  - title: "Sproutt raises $12 million to find your best life insurance policy with AI"
+    excerpt: "Dubbed Sproutt Insurance, it’s the brainchild of insurance tech company Akitbo CEO Yoav Shaham, who nearly two years ago set out to blend analytics and health insights with AI to match people with life insurance providers. Sproutt officially launched today with $12 million in series A funding, which was furnished by State of Mind Ventures ..."
+    publishedDateTime: 2019-12-11T19:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/11/sproutt-raises-12-million-to-find-your-best-life-insurance-policy-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/11/sproutt-raises-12-million-to-find-your-best-life-insurance-policy-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/sproutt-raises-12-million-to-find-your-best-life-insurance-policy-with-ai/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
-        width: 1199
-        height: 512
-  - title: "The Ethical Threat of Artificial Intelligence in Practice"
-    excerpt: "\"But if you input data that are biased, your output will also inherently be biased.\" Evidence of this was shown in a report — published in Science — that demonstrated racial bias in a public healthcare algorithm used to measure levels of risk in the population. Because the algorithm identified that less money was spent on black patients ..."
-    publishedDateTime: 2019-12-02T17:00:00Z
-    sourceUrl: https://www.medscape.com/viewarticle/921985
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.53ECD1ECAD7BCFF7D66245A86CF10BF8
+      - url: https://www.bing.com/th?id=ON.9CDC38FCCA74C7DF20CC75630C9FF768
         width: 700
         height: 393
 

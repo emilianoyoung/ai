@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/09/nvidia-trains-ai-to-transform-2d-imag
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/nvidia-trains-ai-to-transform-2d-images-into-3d-models/amp/
 type: article
 quality: 189
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -121,6 +121,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 32
+  - title: "$7.5 million for artificial intelligence research has potential to transform health care"
+    excerpt: "The Morrison Government is investing $7.5 million for research into the use of artificial intelligence in health care. Artificial intelligence (AI) will be critical in transforming the future of health care through improved preventive, diagnostic and treatment approaches. Research into the use of AI is likely to provide significant benefits ..."
+    publishedDateTime: 2019-12-16T05:07:00Z
+    sourceUrl: https://www.miragenews.com/75-million-for-artificial-intelligence-research-has-potential-to-transform-health-care/
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 30
+    images:
+      - url: https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg
+        width: 640
+        height: 423
 
 secured: "47I+uvSl9YysdH8eXxGMt2hT3fUAiff2Iz5pxlOzfdhFbBv/fcckrJRnTjIqYa2Bu3wPMzAU7+4XeKhPzGZxtECWjbY/g0dqhmoRUOf9NbsSDNW8hTweUwOUP6VeN+gJaY08VJurnBYwtL/Lz9lhsm18Gq8kgkLAMReWWh5mzmEL0fpJzgTp5Jbudv455DCKchZ4C70cwPusvmozSw7GA6+prs9UpqOBZh1wcq5wAwY7OSCW/cNs4jnhv/YINltTMRb+KsqLlXJzZYzWXAVlEXzBkReiwA5mF9Qj3Kh+9GM=;Gp7zsDI94b9UZQrrYWj6xQ=="
 ---

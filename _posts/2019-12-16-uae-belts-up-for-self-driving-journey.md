@@ -26,77 +26,47 @@ images:
     title: "UAE belts up for self-driving journey"
 
 related:
-  - title: "Ex-Apple engineers cook up cheaper, more powerful tech for self-driving cars, and Volkswagen is interested"
-    excerpt: "The start-up has improved the capability of its technology. Porsche has invested an unspecified amount of money in Aeva. A Silicon Valley start-up called Aeva is inching closer to its goal of making self-driving technology more affordable. The start-up has a smaller and more capable version of its hardware, which collects and processes real ..."
-    publishedDateTime: 2019-12-11T14:07:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
+  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
+    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
+    publishedDateTime: 2019-12-16T05:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.64F16B514DFEBCC1ED35A8E532FDD3DC
+      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
         width: 700
-        height: 466
-  - title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
-    excerpt: "Researchers and companies working with AI technologies have had to make do with off-the-shelf hardware that was not originally built for the massive amount of computational power required to perform these tasks. The available standard digital platforms, the chips and the processors, are “not suited for this,” Kvatinsky said. “The hardware ..."
-    publishedDateTime: 2019-12-11T14:20:00Z
-    sourceUrl: https://www.timesofisrael.com/all-in-one-chips-seen-boosting-computer-power-for-artificial-intelligence-needs/
+        height: 350
+  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
+    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
+    publishedDateTime: 2019-12-11T14:02:13Z
+    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 52
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.6A2E19F791698445A0054FCF0B0985DD
+      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
-        height: 437
-  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
-    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
-    publishedDateTime: 2019-12-09T16:13:00Z
-    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
-    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
+        height: 367
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. © Bloomberg A fleet of new Volkswagen AG (VW) e-Crafter electric trucks stand parked in Hamburg, Germany, on Tuesday, Aug."
+    publishedDateTime: 2019-12-14T13:48:32Z
+    sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
     type: article
     provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
+      - url: https://www.bing.com/th?id=ON.86D949F7F2875B247B460212E963C62B
         width: 700
-        height: 466
-  - title: "CORRECTED-Western, Chinese consumers divided on electric, self-driving cars -survey"
-    excerpt: "(Corrects name to \"OC&C Consultants\" from \"OC&C Consulting\" in second paragraph) By Tina Bellon Dec 5 (Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/western-chinese-consumers-divided-electric-110000422.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110000422.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110000422.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-06T10:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.E248EDABDEB196AC217A8CF3C64CC034
-        width: 700
-        height: 525
+        height: 367
 
 secured: "UJCICt0AluIccKZt7t1QRBVZft1FTkt81zMnuYGk/JgNaGx8UNI81+b3uwAQP3CTG752C7JKEv+mRBDmy4GOxH24OrPTxV6EoHgrB6B+PvuJOAMrAz3R9YwTKwnxaTdNRY8NKLW4Hf+bUd3DbfB18n+gmmhuNwymhdq6+TQH1LjpMp87wriNYfuxGw+4XRpQg3OJujyw7et5dCaWuf+cW/ot3mrQYQPIdlhAZ3gaiHfWu8vzFt4LoA8CnKxM/vxlUhOv0wl9jVh0eiPhKKK0kQ==;eBvZ++/UpCivwcYw9/vQCw=="
 ---

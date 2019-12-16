@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-maki
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
 type: article
 quality: 97
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -87,19 +87,6 @@ related:
     quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
-        width: 700
-        height: 367
-  - title: "Partners HealthCare unveils 5-year digital health initiative"
-    excerpt: "Customized patient communication options, including text, email, call or direct mail. Last month, Partners HealthCare announced the creation of an Artificial Intelligence and Digital Translation Fund with an initial investment of $30 million over the next five years. The fund will be used to support ventures that develop new technologies based ..."
-    publishedDateTime: 2019-12-13T05:52:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/partners-healthcare-unveils-five-year-digital-health-initiative
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
         width: 700
         height: 367
   - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"

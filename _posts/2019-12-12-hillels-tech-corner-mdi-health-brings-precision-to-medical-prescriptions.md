@@ -97,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
         width: 700
         height: 367
-  - title: "Partners HealthCare unveils 5-year digital health initiative"
-    excerpt: "Customized patient communication options, including text, email, call or direct mail. Last month, Partners HealthCare announced the creation of an Artificial Intelligence and Digital Translation Fund with an initial investment of $30 million over the next five years. The fund will be used to support ventures that develop new technologies based ..."
-    publishedDateTime: 2019-12-13T05:52:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/partners-healthcare-unveils-five-year-digital-health-initiative
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
-        width: 700
-        height: 367
   - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
     excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized reports that counsel patients from diverse demographics about their probability of having a baby."
     publishedDateTime: 2019-12-09T15:03:00Z

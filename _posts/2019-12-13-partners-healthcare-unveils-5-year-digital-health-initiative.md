@@ -24,105 +24,49 @@ images:
     title: "Partners HealthCare unveils 5-year digital health initiative"
 
 related:
-  - title: "How AI Is Making It Easier For Healthcare Practitioners To Serve Up Nutrition To Patients"
-    excerpt: "As the CTO of a company that creates daily supplement regimens using artificial intelligence, I've seen firsthand how AI is making it even easier for healthcare practitioners to serve up nutrition to their patients right in their offices and at the patients’ homes. Nutrition discussions led by AI Three-quarters of Americans take dietary ..."
-    publishedDateTime: 2019-12-09T12:17:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
+  - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
+    excerpt: "The federal government on Monday announced it will invest AU$7.5 million for research into the use of artificial intelligence (AI) in healthcare. \"Artificial intelligence will be critical in transforming the future of healthcare through improved preventive, diagnostic, and treatment approaches,\" a statement from acting Minister for Health Anne ..."
+    publishedDateTime: 2019-12-16T05:04:00Z
+    sourceUrl: https://www.zdnet.com/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+    ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
     images:
-      - url: https://www.bing.com/th?id=ON.CDC1F7424B4E2A043047EF0B623DDA4E
-        width: 600
-        height: 315
-  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
-    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
-    publishedDateTime: 2019-12-12T18:42:00Z
-    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
-        width: 300
-        height: 200
-  - title: "Public opinion lessons for AI regulation"
-    excerpt: "Political debates around these applications touch on central themes articulated in numerous AI ethics principles, including fairness, privacy, and safety. As shown in the figure below, Americans predict some of these governance challenges as more likely to impact Americans in the next decade than others. The issues thought to be the most likely ..."
-    publishedDateTime: 2019-12-10T04:01:00Z
-    sourceUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/
-    ampUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.DDE3C6C398E1B1BF6C8D2E38B0C8568B
+      - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
         width: 700
-        height: 466
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2019-12-12T22:52:00Z
-    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
-    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+        height: 525
+  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
+    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
+    publishedDateTime: 2019-12-09T05:43:00Z
+    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
+    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
+    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 65
     images:
-      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
+      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
         width: 700
-        height: 393
-  - title: "Cigna to use AI to track whether patients are taking their medication"
-    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
-    publishedDateTime: 2019-12-13T21:52:00Z
-    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+        height: 323
+  - title: "Partners HealthCare launches five-year $100M digital health initiative"
+    excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
+    publishedDateTime: 2019-12-13T17:05:00Z
+    sourceUrl: https://www.fiercehealthcare.com/tech/partners-healthcare-launches-100m-five-year-digital-health-initiative
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
-        width: 700
-        height: 367
-  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
-    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
-    publishedDateTime: 2019-12-12T20:25:00Z
-    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
-        width: 700
-        height: 457
-  - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized reports that counsel patients from diverse demographics about their probability of having a baby."
-    publishedDateTime: 2019-12-09T15:03:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/univfy-to-present-at-digital-medicine--medtech-showcase-2020-on-how-ai-and-fintech-make-ivf-easier-to-navigate-for-patients-and-providers-300971455.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 5
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.D903242659D42EF9976F0992B412785A
+        width: 480
+        height: 320
 
 secured: "WxUWZhqQZUQg8vRKGFSP2Y9VpmBF3DOrHk/0HQSn/UGPnzTBIX/2VeaoYNCrBwWLqjKmsw2MfS7mtafY073xENtLMvXsKhqY7NBiyV7DQXjjVERWRfTt7nY/oL3F2YfQueUp3TJumwqDsR7Fsvqpkc/qmkbyp541GRA5ZTspPvw/j0v2B5M3JRrvI2bAuzTx4K4h58s4Rl1qQ+QrKf03kyPAkpCxiXnw9M4CPNJ9G4wUME4hc/jLpAzAJpSAalfijn4NYlLo3dnyOSnfYWhQAw==;OllDpWUVHwhn9NwN5Y9Rdg=="
 ---

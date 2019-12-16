@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0B51D913DAC9D2383F419AB653E1C507
         width: 600
         height: 315
-  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
-    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
-    publishedDateTime: 2019-12-09T05:43:00Z
-    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
-    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
-    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
-        width: 700
-        height: 323
   - title: "King’s College London to deliver healthcare AI model"
     excerpt: "King’s College London (KCL) is partnering up with two companies to deliver an artificial intelligence model in the healthcare and life sciences sector. KCL is joining forces with Owkin, a company that develops AI algorithms for cancer centres and pharmaceutical companies, and American technology company, NVIDIA, to provide Federated Learning ..."
     publishedDateTime: 2019-12-09T00:45:00Z

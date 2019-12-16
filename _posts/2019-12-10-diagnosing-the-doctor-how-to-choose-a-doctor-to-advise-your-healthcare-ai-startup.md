@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing-the-doctor-how-to-choose-a-doctor-to-advise-your-healthcare-ai-startup/amp/
 type: article
 quality: 98
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Diagnosing The Doctor: How To Choose A Doctor To Advise Your Healthcare AI Startup"
 
 related:
-  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
-    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
-    publishedDateTime: 2019-12-09T05:43:00Z
-    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
-    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
-    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
-        width: 700
-        height: 323
   - title: "AHA: Four building blocks are critical for AI in healthcare"
     excerpt: "Artificial intelligence has the potential to transform care delivery ... However, to realize this promise, hospitals and health systems must build a clinical AI infrastructure based on four building blocks that are critical in healthcare. People: Hospitals and health systems will need to set up organizational charts and assign responsibilities ..."
     publishedDateTime: 2019-12-04T05:08:00Z

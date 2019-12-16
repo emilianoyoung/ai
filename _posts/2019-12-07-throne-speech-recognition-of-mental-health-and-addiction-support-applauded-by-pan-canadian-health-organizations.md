@@ -33,19 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2B2D4D0BECF3B99986D81F5BF349E49E
         width: 700
         height: 350
-  - title: "Partners HealthCare launches five-year $100M digital health initiative"
-    excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
-    publishedDateTime: 2019-12-13T17:05:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/partners-healthcare-launches-100m-five-year-digital-health-initiative
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D903242659D42EF9976F0992B412785A
-        width: 480
-        height: 320
   - title: "Bamboo Learning Raises $1.4 Million to Build Voice-Powered Content for Alexa"
     excerpt: "The company has not disclosed the amount raised in that pre-seed round. Other fundraises this year for companies that bring voice recognition technology to education include Amira Learning’s $5 million Series A round and Google’s investment in GradeSlam. Get our email newsletterSign me up Keep up to date with our email newsletterSign me up ..."
     publishedDateTime: 2019-12-05T23:40:00Z

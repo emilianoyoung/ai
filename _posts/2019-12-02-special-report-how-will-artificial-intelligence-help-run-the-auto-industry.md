@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Special report: How will artificial intelligence help run the auto industry?"
+title: "‘Special report: How will artificial intelligence help run the auto industry?’"
 excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving aspects of automotive ... Discussion about the use of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a significant place for AI deployment in many other ..."
-publishedDateTime: 2019-12-02T10:07:00Z
-sourceUrl: https://www.automotiveworld.com/research/special-report-how-will-artificial-intelligence-help-run-the-auto-industry/
+publishedDateTime: 2019-12-02T11:04:00Z
+sourceUrl: https://www.automotiveworld.com/news-releases/special-report-how-will-artificial-intelligence-help-run-the-auto-industry-2/
 type: article
-quality: 36
-heat: 36
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://www.bing.com/th?id=ON.064747EC3B840865688D9451B3A47F4A
-    width: 179
-    height: 249
-    title: "Special report: How will artificial intelligence help run the auto industry?"
-
-secured: "UY2+FQq/6hRGIbB+YQt0OHnwA4ukTP2Tlnu7eMsXFwBUbrXDxpAELOBjGtOzWW6JaQnL1kLafDSB5NsAXpEdfKQDUZ3tOfS+bS91FamYgU1Z/wofyq/qffMM1YISkbLZJhGps3FFP12TY+figUk7ZjaFUkVLymDj7c1C/ny2CrLjxMkmVwFgykyZKT8Ho3KnREIThde7dQYoH0bmsDoctXOV3iudCAxSvYDm2SEkfleSC6SQ7iPcGDSHBKw+oWoeC1qXsUMoU06mPj+jy0fv+w==;Il32Wm5P3L/PX3RoLQmsTg=="
+secured: "luEsayKMtG6t526o712nrguN4LNyYaVCgySn73MKOcL4QdMJBx27Cyu2TVms+wg8uREeIudlX/rzUPtQBgO6B8NyNcYEMzh0W/8V+KA7bYiYgXPpxrFz5gZrEr8fAnquyIph/iBWZjPQmvn+K1CJRZ5Wgqo6psWGhtrNvT7PI+1Wen3rtbuDtZs+pq6BkCapZQSKFTvjTIJWiT64X3wi5FAdfrghTIw5VUqCRMPNzRCDwKrVI6ogRco5bOfAAx70ZM2Fis0idxBf2MuHAtidKA==;oPgNNhRHNKErrTZ4LKOtsQ=="
 ---
 
