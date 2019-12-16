@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+excerpt: "Azure's capabilities reduce manual operations while making ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR ..."
 publishedDateTime: 2019-12-10T10:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
+ampUrl: https://amp.benzinga.com/amp/content/14960691
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -108,6 +106,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "pfcFd9zevsAXD2wazmGGAK+9XBR39IWzZ58yxDMk0ykWILtgQkGBygwkzw1SaRyGcfN3qb1Il9Osq1LQMI7YgthdxUEZG8LtYCx5+etkaCJP5QSZ6MQmH/LRdgtyEA5JZlL7uDErd9ykXct2VAPDZ6C9G2b+ixPZtZ/gK9Bq72LC+eKMfZoDnrBqIZU5gJ2EhsxPu7BrTaTi5gwCyyGwFKw3DYSQ5xYffuD6aOjNMfsoy5pdMnPZMr+GFiNuy20yuI6F8sNfvEfBfjw+nqPZWQ==;1AL+RTPPKWrIQqIG3YzmXg=="
+secured: "po0QasBzdvOxMEZzgpskavugOjNdxUvisRpOsbZdCZ0ckZhR26Cy1OFoMncRotB+oDwkfDJlDZOJ2eeEvFcSeCZ3rDGZYlwTEmGGTSZG/y6O93zFRxVcWqkmekbMdDqBXM+ilNNdi6zrtSoSkbTUhomgAt1BEqDztqa77zXUImMOIKtt7wEEpyDJo0BZJI1447tZAGQM5C+0wo5Gdc9w8ilVUHKuny79N9tUm4tUq1j+SAApGkYij9tWEry1qn3y34pcNAebTcFaQxx8i5ZuQw==;KAMGAFD1ya44W5/jRjWZkg=="
 ---
 

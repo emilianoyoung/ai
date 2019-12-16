@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
-excerpt: "\"If our artificial intelligence detects potential bullying in a caption, we will give people the option to pause and reconsider the post before it is shared with the community.” \"As our community grows, so does our investment in technology,\" Instagram says on their website. \"This is especially crucial for teens since they are less likely to ..."
-publishedDateTime: 2019-12-16T20:19:00Z
-sourceUrl: https://www.refinery29.com/en-us/2019/12/9026816/instagram-artificial-intelligence-anti-bullying-comments
-ampUrl: https://www.refinery29.com/amp/en-us/2019/12/9026816/instagram-artificial-intelligence-anti-bullying-comments
-cdnAmpUrl: https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-us/2019/12/9026816/instagram-artificial-intelligence-anti-bullying-comments
+excerpt: "Instagram is trying to change that. Earlier this year, Instagram rolled out a feature powered by artificial intelligence that warns users when their comments may be considered harmful or offensive and gives them a chance to delete or reword the remark (or leave it unchanged). Now, the app is expanding this feature to include warnings for in ..."
+publishedDateTime: 2019-12-16T21:36:00Z
+sourceUrl: https://www.yahoo.com/lifestyle/instagram-start-using-artificial-intelligence-200257944.html
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Refinery29
-  domain: refinery29.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.646A54D86B218D3BC013ADD10C8AD37B
-    width: 700
-    height: 367
+  - url: https://www.bing.com/th?id=ON.839E58ED686E90DB535FC33BC4B517D5
+    width: 583
+    height: 700
     title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
 
 related:
@@ -41,6 +39,6 @@ related:
         width: 700
         height: 393
 
-secured: "AByBLt8cExSifKf7pTL6RXWh4irhsFHsTCnGugMKlSUXMFPyxeOu3Ehji2+Q+pWLj4TDO0ClE9nntp6XLuidlUSDdxlrrVnv2V5hdugwKIUW57z5lkgXPjUEPSMNTX74CSVfhh8wPezy10hgRalLbsn5s4pE3yb9G63n2ue9nqmrJWKXiB2gWyoQr6ef2cKJ8ln8QIDAwZAkCDGuwOe7XlA52/Ecw2Hv5NycfX/Fa0or6bIBxNcQ9BCV1BgcMCx6cN+yQfBXC36Z5/ioVCh9ZA==;FUEfCJm0lRjG6OB8VscV9g=="
+secured: "EjKO4s1XScDrgu7eT12l6DT0TSlo8+GE3BNGXNJQQZhYAm4ZEdBg1y47VBy7piZoJt0z6WSsjzcjcdPtzXRIwuBXUb79e0wT+EVhhFS5+c+J3pzQOieg3YvJXRiih1Rar5yfnFNP9h7HiWOZWDAqVFvBUL7CB1OIGwRpu2TwT1Mc6Ror6Woezga7IuvT8MTD/YYTLQeXFCJlfVxgwCxpYVxEq3x5HQxCjlyc6GPwTxljVAZnPFJHEU0LZYY4NnltaGVoQVCT7/y5vCFkyxUp7g==;I6vLjRIO+pZbvSsPo84PKQ=="
 ---
 

@@ -55,8 +55,8 @@ related:
         width: 630
         height: 442
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
-    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch, which requires specialized machine learning expertise and millions of high-quality labeled ..."
-    publishedDateTime: 2019-11-26T16:37:00Z
+    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
+    publishedDateTime: 2019-11-26T16:35:00Z
     sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
     type: article
     provider:
@@ -64,10 +64,10 @@ related:
       domain: sdtimes.com
     quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.E687F96B53629E961E30AE533918307C
+      - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
 
-secured: "gNlFcjLWJrsTARf1wbhq0TWO9XAK2fTfnBwlp0OJ3WlA5dC9dhovQnGjsz8lWNCbLcXxPefapXBn09tAIQKgOIj43CJiMyx0KznfIj2nThOcga2idY4tOLko6Rw7r0BkeCe1QSWJ3kMKFesDNQjoArlAjT5QdGZMWzuOBiAZ9/Nkt0ZrEIvXEp2Jgq2AzlriUl86Hd/rGZXWcuq1ADl7M1Fq7/BB5zAXUYpLTXOf05nRh3gAw6YXoYAV1ZfMoT16ZTVpxZSliX3KPvhW5LrHAg==;RgGnOc6WwUxW7bk4VUd1WQ=="
+secured: "PJ9U6NQ2xMHl8M60EWHS9oDkxm+axO8Zc4opmnF0IMswwGZkj+aa6+/PkLbZ7enT8n/d46n6ZgcXhq9zJrJbN+02RfXoaDCTSi+DZ83Pyr6Ni9Zo1p6C3vKnWLdGn45HGqXisK96qyX5GnSa/mIwfSr0NiCdABfLgD85IwbiRtarqVac11JQHO3iswbTDtnQJvE2w3BRGTVQU2ESysTSIFNYV+mhICevm10x9yFvwu+0hfc/uFEQT0mATOwPLE8rSzsPHkZgdhzM9TwVcRefGw==;zc4axNCpL7Awmx3foGCp/w=="
 ---
 

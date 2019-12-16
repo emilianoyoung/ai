@@ -3,7 +3,7 @@ category: news
 title: "When facial recognition goes wrong"
 excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
 publishedDateTime: 2019-12-16T18:40:00Z
-sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5?li=BBS2yio
+sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5?li=BBqdk7Q
 type: article
 quality: 39
 heat: -1
@@ -256,6 +256,21 @@ related:
       - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
         width: 700
         height: 466
+  - title: "Serie A developing facial recognition tech to combat racism"
+    excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
+    publishedDateTime: 2019-12-16T15:43:00Z
+    sourceUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/
+    ampUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
+        width: 700
+        height: 367
   - title: "3D mask or photo fools airport and payment face-recognition, but not Face ID"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-16T14:02:00Z
@@ -678,6 +693,6 @@ related:
         width: 600
         height: 295
 
-secured: "jO0Y9xvxQgZisf5e9BoJVHzEbevNflV3gAtEYfUbO88TIHL2bwC7fcXjtgUFyNJ7AnQSOZcR9zqiQmv+a/G+bMGNSiSzdoC1pq1HtA9XOPG97wFKK6EFjH0+ecxzaTabQq0sdXDMVZLg09ZL2G+KmF8B5GE9gjFaRunW80FG7Q+BLruuzkVMELeqxsDAsumCr7ch8GKfiMVa1nGjI3cL7nf0T6dKuD6V5FKzd/IhxN+hE4ojV2nUXSD7EUdMRIfD3hdh+pguweW134GLuic5PA==;8hWn8+YpqD77OXbq6bsqhQ=="
+secured: "ss+8FXB2dokcIQW+cK66o1g9qyZSTZDAQKnVluAYCST+B7e263dEYAh9nWNJbD5dh8qPOcYF9XYOsWph/eSccTo4ird3RxLXtYxU+UHI8IIvnfyvb/iItvyjnTfgvdTpzC2jJ4Zdwb6Oih0XQHhOPzlAVhz9YnB1wAqVn1ry2P4xCgp4VUnRzfd/zVlcbiem9vXDfgtELf4+RZPDCbAXL+uXXgfF+cxMCora6QmyAighdy9xolNPFVXn1Vb4fFdFi2PqWg1oXj8sh9zU373NPQ==;zWIAtmLErSvfzwVm9X9HQA=="
 ---
 

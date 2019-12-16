@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.69C6ACB0B6BDCFC646A11AB238E4D51C
         width: 700
         height: 381
+  - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
+    excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
+    publishedDateTime: 2019-12-16T21:00:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/16/gecko-robotics-raises-40-million-in-funding-for-energy-infrastructure-inspection-robots/27564/
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.7FC084780B0FE0217E388D3DFA83A37A
+        width: 700
+        height: 393
   - title: "AI-equipped robots active in precision welding"
     excerpt: "Vision sensors are placed on the robot and used in conjunction with artificial intelligence. That allows the robot's motions to be tracked in real time using visual feedback. Minyue Tech's technology offers three advantages. First, SmartEye uses structured light to perform 3D measurements. By combining vision with deep learning, various parts ..."
     publishedDateTime: 2019-12-16T14:18:00Z

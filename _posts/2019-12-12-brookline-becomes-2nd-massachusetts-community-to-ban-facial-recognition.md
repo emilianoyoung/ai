@@ -26,21 +26,19 @@ images:
     title: "Brookline becomes 2nd Massachusetts community to ban facial recognition"
 
 related:
-  - title: "Serie A developing facial recognition tech to combat racism"
-    excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday ... inside the stadiums,” De Siervo said on Monday as he unveiled anti-racism initiatives by the league. “We’re still awaiting authorization ..."
-    publishedDateTime: 2019-12-16T16:55:00Z
-    sourceUrl: https://www.usatoday.com/story/sports/soccer/2019/12/16/serie-a-developing-facial-recognition-tech-to-combat-racism/40835439/
-    ampUrl: https://amp.usatoday.com/amp/40835439
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/40835439
+  - title: "Federal Bill Would Constrain Some Police Use of Facial-Recognition Tools"
+    excerpt: "A 72-hour limit on tracking individuals would become the first, and somewhat arbitrary, federal line in the sand. Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s ..."
+    publishedDateTime: 2019-12-07T13:32:00Z
+    sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 142
+      name: Defense One
+      domain: defenseone.com
+    quality: 138
     images:
-      - url: https://www.bing.com/th?id=ON.BD44F70A7F1C9F2E429AC6C37F423A4E
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.81C68FE83F2CF81A50BFA71FD6C90506
+        width: 400
+        height: 400
   - title: "Privacy advocates raise alarms about growing use of facial recognition by U.S. government"
     excerpt: "Let’s face it – facial recognition isn’t going anywhere. Whether we realize it or not, most of use some type of facial technology software every day. It’s being widely used in shopping, home security, and law enforcement, and millions of us use it constantly to open our smart phones. But privacy advocates and civil libertarians ..."
     publishedDateTime: 2019-12-11T20:39:00Z
@@ -71,34 +69,64 @@ related:
       - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
         width: 700
         height: 430
-  - title: "Facial Recognition Laws Are (Literally) All Over the Map"
-    excerpt: "The current state of rules for use of facial recognition technology is literally all over the map. Next month, the city council in Portland, Oregon will hold a public meeting about blocking use of the technology by private companies, as well as by the ..."
-    publishedDateTime: 2019-12-16T08:00:00Z
-    sourceUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/
-    ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
+  - title: "Galaxy S11 face recognition speculation would be a miracle if true"
+    excerpt: "One of those may relate to Samsung’s choice for the Galaxy S11’s primary or only biometrics security feature. And no, it’s almost next to impossible that it would use face recognition. It’s not that face recognition isn’t that secure. Apple proved that with the right mix of hardware and software, it could be both as secure and as ..."
+    publishedDateTime: 2019-12-03T10:33:00Z
+    sourceUrl: https://www.slashgear.com/galaxy-s11-face-recognition-speculation-would-be-a-miracle-if-true-03602008/
+    ampUrl: https://www.slashgear.com/galaxy-s11-face-recognition-speculation-would-be-a-miracle-if-true-03602008/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s11-face-recognition-speculation-would-be-a-miracle-if-true-03602008/amp/
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.AA7565A68A8E9EFA63AAB0BBCC0BA70D
+      - url: https://www.bing.com/th?id=ON.4929284E69CB43D8F42CEB2694C6DB3D
         width: 700
-        height: 366
-  - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
-    excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
-    publishedDateTime: 2019-12-16T19:44:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
+        height: 437
+  - title: "Chinese residents worry about rise of facial recognition"
+    excerpt: "A survey by a Beijing research institute indicates growing pushback against facial recognition in China. Some 74% of respondents said they wanted the option to be able to use traditional ID methods over the tech to verify their identity. Worries about the biometric data being hacked or otherwise leaked was the main concern cited by the 6,152 ..."
+    publishedDateTime: 2019-12-05T19:56:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50674909
+    ampUrl: https://www.bbc.com/news/amp/technology-50674909
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50674909
     type: article
     provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 61
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
+      - url: https://www.bing.com/th?id=ON.D1ABB53A48DA57CF9E1B4A496ECEA589
+        width: 700
+        height: 393
+  - title: "Facial recognition needs a wider policy debate"
+    excerpt: "In his dystopian novel 1984, George Orwell warned of a future under the ever vigilant gaze of Big Brother. Developments in surveillance technology, in particular facial recognition, mean the prospect is no longer the stuff of science fiction. In China, the government was this year found to have used facial recognition to track the Uighurs ..."
+    publishedDateTime: 2019-12-04T10:00:00Z
+    sourceUrl: https://www.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.CE1D62F650AF8E58E5AA156119E04F18
+        width: 700
+        height: 393
+  - title: "China survey shows high concern over facial recognition abuse"
+    excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
+    publishedDateTime: 2019-12-05T10:12:00Z
+    sourceUrl: https://www.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.F6339ACFD9DC037CCB7BC6006DA09BC5
         width: 700
         height: 393
   - title: "Brookline Passes Ban On Municipal Use Of Facial Recognition Tech"
@@ -116,77 +144,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A801412C01A69F0ADA21AF2D886FD905
         width: 700
         height: 434
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+  - title: "Facial recognition to monitor sanitary workers in Andhra's Ongole district"
+    excerpt: "ONGOLE: As per the directives of the State government, the Ongole Municipal Corporation (OMC) authorities are planning to monitor the activities of sanitation staff via facial recognition using CCTV cameras installed across the city. At present, all municipal bodies in the district including OMC use biometric thumb impression system for ..."
+    publishedDateTime: 2019-12-08T05:04:00Z
+    sourceUrl: https://www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.html
+    ampUrl: https://www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.amp
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
-  - title: "Facebook’s privacy push stumbles over EU rollout of facial recognition technology"
-    excerpt: "Facebook’s move to roll out previously banned facial recognition technology in Europe — just when new privacy rules are coming into force — is causing an uproar. LONDON — Mark Zuckerberg promised to extend Europe's revamped privacy rules across all of Facebook's global empire. That pledge is already running into trouble. Amid an ..."
-    publishedDateTime: 2019-12-09T23:16:00Z
-    sourceUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/
-    ampUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.D3C3077441691692070F991362C62B79
-        width: 700
-        height: 366
-  - title: "Face recognition tech is everywhere at China’s new mega airport"
-    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
-    publishedDateTime: 2019-12-13T07:32:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
-        width: 700
-        height: 445
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Serie A to tackle racism in Italy with facial recognition, says CEO Luigi De Siervo"
-    excerpt: "Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behaviour with racist chants aimed at Romelu Lukaku, Franck Kessie, Dalbert Henrique ..."
-    publishedDateTime: 2019-12-16T17:34:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.5727B12614FDFAC2E7FBE963E7045D39
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
+        width: 600
+        height: 390
   - title: "Brookline bans facial recognition technology, becomes second municipality in Mass. to do so"
     excerpt: "Town Meeting voted 178-8 to ban the technology, according to WGBH. Somerville’s city council passed an ordinance in June banning the use of the facial recognition software, becoming the second known U.S. city to do so, after San Francisco. In a statement, Kade Crockford, director of the Technology for Liberty Program at the ACLU of ..."
     publishedDateTime: 2019-12-12T16:39:00Z
@@ -202,21 +174,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
         width: 700
         height: 464
-  - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T19:57:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
-        width: 700
-        height: 394
   - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
     excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
     publishedDateTime: 2019-12-11T20:44:00Z
@@ -245,19 +202,58 @@ related:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
         height: 360
-  - title: "Osaka Metro unveils ticket gate with facial recognition tech"
-    excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
-    publishedDateTime: 2019-12-10T04:07:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/10/business/corporate-business/osaka-metro-facial-recognition/
+  - title: "Like San Francisco, Chicago Should Ban Facial Recognition Technology"
+    excerpt: "Facial recognition technology has been used by cities across the U.S., however, it is often for controversial purposes. A landlord for in Brooklyn had planned to replace the key fobs with facial recognition. Amazon was reported to have sold its facial recognition software to immigration officials. Police departments in both Chicago and Detroit ..."
+    publishedDateTime: 2019-12-04T22:05:00Z
+    sourceUrl: https://goodmenproject.com/featured-content/like-san-francisco-chicago-should-ban-facial-recognition-technology/
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
+      name: Good Men Project
+      domain: goodmenproject.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
+      - url: https://www.bing.com/th?id=ON.15C70DE6589F2814DBB9CFA98FF6DFD2
+        width: 600
+        height: 350
+  - title: "Why I Opt Out of Facial Recognition"
+    excerpt: "To get it delivered daily to your in-box, sign up here. When Fortune employees moved into a new office building in Manhattan a few months ago, we had the option to sign up for facial recognition scanning. This meant we could access the premises without showing an authorized ID badge. I ruminated on the convenience for some time. Imagine ..."
+    publishedDateTime: 2019-12-04T11:56:03Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/why-i-opt-out-of-facial-recognition/ar-BBXLWuY
+    type: article
+    provider:
+      name: Fortune on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.43C8CCC66AA3FA252081FF4407A20BD3
         width: 700
-        height: 569
+        height: 367
+  - title: "Chinese worry about rise of facial recognition"
+    excerpt: "A survey by a Beijing research institute indicates growing pushback against facial recognition in China. Some 74% of respondents said they wanted the option to be able to use traditional ID methods over the tech to verify their identity."
+    publishedDateTime: 2019-12-05T19:50:23Z
+    sourceUrl: https://www.msn.com/en-sg/news/other/chinese-worry-about-rise-of-facial-recognition/ar-BBXPvCT?li=BBr8Mkh
+    type: article
+    provider:
+      name: BBC News on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6B094EBD6C9526BC62A4310C734A833D
+        width: 600
+        height: 315
+  - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
+    excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
+    publishedDateTime: 2019-12-06T13:47:00Z
+    sourceUrl: https://www.meritalk.com/articles/sens-coons-lee-argue-for-facial-recognition-technology-warrant-act/
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
+        width: 700
+        height: 392
   - title: "Police use of automated facial recognition technology lawful"
     excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
     publishedDateTime: 2019-12-10T23:01:00Z
@@ -271,32 +267,32 @@ related:
       - url: https://www.bing.com/th?id=ON.2396353B89F822C2281C5574D23B668A
         width: 685
         height: 385
-  - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
-    excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
-    publishedDateTime: 2019-12-15T08:34:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools/161736/
+  - title: "Police facial recognition: Privacy commissioner not consulted on new system"
+    excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
+    publishedDateTime: 2019-12-07T22:09:00Z
+    sourceUrl: https://www.stuff.co.nz/national/crime/118011375/police-facial-recognition-privacy-commissioner-not-consulted-on-new-system
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.2925D8A0EFB7D7ABC1EBB666A9C65C33
-        width: 400
-        height: 400
-  - title: "Facial recognition technology latest woe at national children’s hospital"
-    excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
-    publishedDateTime: 2019-12-12T06:46:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/facial-recognition-technology-latest-woe-at-national-children-s-hospital-1.4112451
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.0011F70D041993C645CEF87AF14A4EE2
+      - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
         width: 700
-        height: 367
+        height: 394
+  - title: "Privacy concerns over police's new 'state of the art' facial recognition system"
+    excerpt: "NZ Police has enlisted the services of an American company to design a \"state of the art\" facial recognition system. Stuff can exclusively reveal Dataworks Plus has been selected to upgrade the existing outmoded police biometric system. The law enforcement ..."
+    publishedDateTime: 2019-12-05T04:59:00Z
+    sourceUrl: https://www.stuff.co.nz/national/117957684/privacy-concerns-over-polices-new-state-of-the-art-facial-recognition-system
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.725132A3A9F71FC335477CA8E1A6191A
+        width: 700
+        height: 394
   - title: "Communities come face-to-face with the growing power of facial recognition technology"
     excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
     publishedDateTime: 2019-12-09T23:13:00Z
@@ -310,17 +306,41 @@ related:
       - url: https://www.bing.com/th?id=ON.7947F2488B16ACD9DD185E4ADCC44197
         width: 700
         height: 393
-  - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T12:53:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+  - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
+    excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
+    publishedDateTime: 2019-12-05T20:01:00Z
+    sourceUrl: https://www.aclu.org/news/immigrants-rights/a-border-officer-told-me-i-couldnt-opt-out-of-the-face-recognition-scan-they-were-wrong/
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
+      name: Aclu.org
+      domain: aclu.org
+    quality: 29
+    images:
+      - url: https://www.aclu.org/news/images/share/default_fb_share.png
+        width: 1200
+        height: 630
+  - title: "Children’s Hospital buys potentially illegal face-recognition technology"
+    excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
+    publishedDateTime: 2019-12-08T01:07:00Z
+    sourceUrl: https://www.businesspost.ie/ireland/childrens-hospital-buys-potentially-illegal-face-recognition-technology-a4d6b09e
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.1D37F73B7AC7DE95A59FE43A68D8F10E
+        width: 647
+        height: 340
+  - title: "Portland's facial recognition ban could be the strictest yet"
+    excerpt: "As Portland, Oregon and other cities ban facial recognition technology, Mutale Nkonde warns of companies using biometric data. “The capturing and encoding of our biometric data is going to probably be the new frontier in creating value for companies in terms of AI,” says Mutale Nkonde"
+    publishedDateTime: 2019-12-04T17:17:00Z
+    sourceUrl: https://cyber.harvard.edu/story/2019-12/portlands-facial-recognition-ban-could-be-strictest-yet
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 19
 
 secured: "TIqQejvKxc54PXa71QPWb0XP4Pja1LS+FvIQ9T/fWbSmaGRl3I/ET/d3pOYJe8nBH0/OUY+FkxA3wl6Xke6QFBKzfJa6/wGQfS7kkuj8JiWfglivDmOB2uZUP5w7oDELUscsimDrP6iO5vyvi871uj2lxgXrxxEcId33b77ju06Skk8e4CEazbckJcovV0WFcKPi+Pgcycu9vJkwlD53rH3vv7OQaNo+vw+ExQvyQhbym0ijO1Y48yUeiMoYL2fjnI34q9pXRz77+UsVx1EYNA==;52Su9S+jc8inIWpArDPf2Q=="
 ---

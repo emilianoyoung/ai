@@ -45,6 +45,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
+    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
+    publishedDateTime: 2019-11-25T18:50:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
+        width: 671
+        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
     publishedDateTime: 2019-11-26T16:35:00Z
@@ -59,6 +72,6 @@ related:
         width: 589
         height: 558
 
-secured: "YWLqgMYcrY7MajnEz/PUdxcOHLU8L1prysWAWzEV6X8ULwOHKH7Kyj+Bd9Yxa71+6sTVVXbSr4t6DCQi2pIUs3F4eU94aP2GxbSpDSaOcHbxGc3KmhR4VUQCkGnl6zETW7WAYZmDdX8iDRzUKMVNfby3c+y91Y0mi8H8AZH0NhVHVTCOC2EB/4qNEGzTv8R+2IpgpRGXG4EqXEcRpFwL3r+16QH+29tqZJYVLCzSClA6NMPBmbHQEzb/6QOrLonerUXickwqYvahjoKfXCr/GA==;SZeE4Q4Ni6oCCG/mTAWNrw=="
+secured: "MdiY1EfHdd2Wro1w6YhABoTkA/yExI+TtwiepFX2Lim5RkMHj2q9ZPJHzbRBNvn2r0lxVMjjHlUuLkBk1/NNktjLaEj13mC48bj13pqRDDDr5AaIX3e+rZpvbSQqQyA0kl3l2J1/UfUmGGYlzl6eRdLFyEkGvrL6QxlNIeFbrzuA8ofiSRSq15hm1Odjt/tdGa2puUNx2BjPyDhUfVkL/YO8bF9rB0Gw4jypd5mOeE6AqiCtoMRSmPyus2tkhm0wHCSZSes1vPLKutags90qzQ==;M9FLWP3VDyHHOamwuyT4yw=="
 ---
 

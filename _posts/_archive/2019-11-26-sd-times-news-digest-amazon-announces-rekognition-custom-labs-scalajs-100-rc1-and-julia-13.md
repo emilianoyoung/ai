@@ -58,7 +58,20 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
+  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
+    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
+    publishedDateTime: 2019-11-25T18:50:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
+        width: 671
+        height: 386
 
-secured: "4dF19TR/CEFf7pznI0dH6C0AWaCjVeEKiekgym1S6iSJht7NX6wGvLYHNDyHV9Y+VX/dnjpZE3oqvwOWb+7bCOFuboaf/WJ7tLQtZGpuwFBBiFeVsfs9HBa7tFkrNOIUmJJ/1Rc1E5gubzQNMxMvT5UGvOYNYWJ2C2dN9NyziZBrWUIvYiOvRxfeEsjMWd/cN5+ZeM0g70UleobPHKNCzK9VDkuEbbYxZnTIf6RvNyv3xwMgozPbJqYKhmIDjw1dWi94Oz3Ia9yepDKkCeD9cQ==;nub/Hq/XuOBDBXsRG4z7fg=="
+secured: "MWJ45KJ/Cpj4796UrSPfdSIq9NJpTk1bXqwbDC5NwLTK7hHeOaR33lQlekB0F8PVik/E2W9IsUR/rFG/W7FWk4Sb60fI93YXJGkCxdkHeNwRCle5OBIyAuq/FRo88WuBGABYWz+PvhJCwMqP93D46EiS903EEH28qcVT09BodiPTcS8C7RYm+/TAKdYzIG8EUx/xr9getnnk6k0v6M6GsavfePVowM3gXn/TDeOqCvHf5Y9+etN1d3jOM/XCyXC+sXjKHxqf/PriEA/duZEZJw==;fc8BXQ3FQn7imyZGjdmvRQ=="
 ---
 

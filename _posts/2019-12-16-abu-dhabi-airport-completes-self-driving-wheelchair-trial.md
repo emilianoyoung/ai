@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7136DD9AAD3E7F66C9E53AFBE942731C
         width: 600
         height: 315
+  - title: "Foreign passengers sought for world’s first MaaS self-driving taxi trial from Haneda, Narita"
+    excerpt: "A consortium of seven companies is accepting reservations from foreign travelers to take part in a trial run using an MaaS (Mobility as a Service) self-driving vehicle from either Haneda and Narita airports to Tokyo’s Marunouchi business district between Jan 20 and Feb 1, 2020. The seven companies are Airport Transport Service Co Ltd ..."
+    publishedDateTime: 2019-12-16T21:56:00Z
+    sourceUrl: https://japantoday.com/category/tech/foreign-passengers-sought-for-world’s-first-maas-autonomous-driving-taxi-trial-from-haneda-narita
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.0933C2E4E40E9CCFB2D8E660DA3DED08
+        width: 700
+        height: 248
 
 secured: "9g68rPi9qrHV/jMk8ewesLfFFjq2OFRbAjhfUhB9/ihp5bPZ+z6AQtXdsbWNSKL5WL4a6f6HbsHL4IUp+6YvH5Z04/X/X2Zy93vqR7x3nA1Tvy32UpJA4Q4Lmf43Z8hmdiUsB6uXEApK0xLfB1pwzuun8FIQcI2ar7mVWFGlUsaA9mPZ1OL7mGXHxPIglrFdXkjmbYbiVTmDLcIWIDV1B2YEqBcHgpw4fQVD4iYeDGznpnsdiJAWAPSGC1qfrQCiGLrSYr85lnFiPq/Ho/iMPQ==;nC3qDP41a9eqlQ4tMC68BA=="
 ---

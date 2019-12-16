@@ -28,60 +28,30 @@ images:
     title: "Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio"
 
 related:
-  - title: "Automating financial decision making with deep reinforcement learning"
-    excerpt: "Machine learning (ML) is routinely used in every sector to make predictions. But beyond simple predictions, making decisions is more complicated because non-optimal short-term decisions are sometimes preferred or even necessary to enable long-term, strategic goals. Optimizing policies to make sequential"
-    publishedDateTime: 2019-11-26T20:18:55Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/automated-decision-making-with-deep-reinforcement-learning/
+  - title: "Deep Learning works: OCSB students and educators recognized internationally"
+    excerpt: "They developed a sense of citizenship and a deep understanding of diverse values and world views. Deep Learning is why. “It’s learning in action,” says Debbie Lewis, an educator at St. James. Lewis is one of several educators at St. James co-creating this learning activity with their students. “Deep Learning takes into account the ..."
+    publishedDateTime: 2019-12-04T05:05:00Z
+    sourceUrl: https://ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally
+    ampUrl: https://ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally/amp
+    cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally/amp
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 57
     images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/11/automated-decision-making-5.gif
-        width: 800
-        height: 299
-  - title: "Brain age prediction using deep learning uncovers associated sequence variants"
-    excerpt: "Recently, deep learning (DL) methods have garnered much interest 9. These methods learn features that are important without a priori bias or hypothesis. Convolutional neural networks (CNNs) 10 are deep learning techniques that are especially powerful for image processing and computer vision. Previously, they have been applied to brain age ..."
-    publishedDateTime: 2019-11-27T10:18:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13163-9
+      - url: https://www.bing.com/th?id=ON.600AF0881B4334112E40ACE8365AB24E
+        width: 700
+        height: 466
+  - title: "Machine learning that works like a dream"
+    excerpt: "Tsukuba, Japan - Researchers at the University of Tsukuba have created a new artificial intelligence program for automatically classifying the sleep stages of mice that combines two popular machine learning methods. Dubbed \"MC-SleepNet,\" the algorithm achieved accuracy rates exceeding 96% and high robustness against noise in the biological signals."
+    publishedDateTime: 2019-12-03T14:33:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uot-mlt120219.php
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.DAE75B26F8026799955B1564DF771D4A
-        width: 685
-        height: 457
-  - title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
-    excerpt: "RNA and DNA are among the four major macromolecules in lifeforms. The team employed the use of deep learning—a subset of artificial intelligence used to create complex, numerical functions to approximate specific tasks automatically without explicit human instructions—to build a more accurate model of the relationship between RNA sequence ..."
-    publishedDateTime: 2019-11-27T14:34:00Z
-    sourceUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.html
-    ampUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-11-deep-method-delve-rna-world.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.1F6E8459A0B5450E77401AB46E1E61D3
-        width: 379
-        height: 700
-  - title: "Machine learning in financial services"
-    excerpt: "The financial services industry is using machine learning to revolutionize its processes and rapidly improve financial outcomes, and its potential seems limitless. That’s why the University of Delaware’s Institute for Financial Services Analytics (IFSA ..."
-    publishedDateTime: 2019-11-27T01:01:00Z
-    sourceUrl: https://www.udel.edu/udaily/2019/november/machine-learning-financial-services-ifsa/
-    type: article
-    provider:
-      name: University of Delaware
-      domain: udel.edu
-    quality: 24
-    images:
-      - url: https://www.udel.edu/content/dam/udelImages/udaily/2019/november/fb-info-dark-datae-GettyImages-1156834914_dark-800x420.jpg
-        width: 800
-        height: 420
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "gozDUPi4SpiVzKkzq1XkgqlDpO2rfoEJnkyN9rHxDwaGPFIWhAmiDvPyG09mAqQxdwVGBJlJvovk0HQECqDIRLXqvhlJMhYef0JgHV8cXzRqDD/1MdkDaK7LgeHFqiB257bIbFRfpu/CBUanWkSQg/ED1vZ5eAXsbWut5kYvE1I5YpiGP//0Pu56gWWu15nYakObUL4WMGcGY56r8GiexnITDZOa4ZMJbr8fpiI/x02BjhSTD8PubdCNY5KH0UnfDUBUykNjd6Uz7xsyiEaJrw==;8UM0x4OgT3C+j3Jwc8uSQA=="
 ---

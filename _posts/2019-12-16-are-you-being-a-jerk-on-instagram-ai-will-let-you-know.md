@@ -30,20 +30,18 @@ images:
 
 related:
   - title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
-    excerpt: "\"If our artificial intelligence detects potential bullying in a caption, we will give people the option to pause and reconsider the post before it is shared with the community.” \"As our community grows, so does our investment in technology,\" Instagram says on their website. \"This is especially crucial for teens since they are less likely to ..."
-    publishedDateTime: 2019-12-16T20:19:00Z
-    sourceUrl: https://www.refinery29.com/en-us/2019/12/9026816/instagram-artificial-intelligence-anti-bullying-comments
-    ampUrl: https://www.refinery29.com/amp/en-us/2019/12/9026816/instagram-artificial-intelligence-anti-bullying-comments
-    cdnAmpUrl: https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-us/2019/12/9026816/instagram-artificial-intelligence-anti-bullying-comments
+    excerpt: "Instagram is trying to change that. Earlier this year, Instagram rolled out a feature powered by artificial intelligence that warns users when their comments may be considered harmful or offensive and gives them a chance to delete or reword the remark (or leave it unchanged). Now, the app is expanding this feature to include warnings for in ..."
+    publishedDateTime: 2019-12-16T21:36:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/instagram-start-using-artificial-intelligence-200257944.html
     type: article
     provider:
-      name: Refinery29
-      domain: refinery29.com
-    quality: 57
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.646A54D86B218D3BC013ADD10C8AD37B
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.839E58ED686E90DB535FC33BC4B517D5
+        width: 583
+        height: 700
 
 secured: "vaAMsAUaN807XR9r4qZcK3oAJkQGGCMdgKHJeM5CeAYPolrQM18VxYSHEP+3RQJ7Q3IN01IM5Y/2YHITwdC7RhYPesh4Lj/eJjQtXfSHkkOuJ4KtQBkn9Dg1wJ9xWJJNYQb1VDhmfwAIkrHVvb+rMVh0hhqMmdJysqnArT1V9HjhrQ3+Sf6W0rs0RUvhINtBgt77nklhfugLdv3NDpePwPjGP+7KnnLIV3Ld8OqsslEFKvrW18LkDyKXeXHsF/BIV3173qDvIrk/5fPxPZVPxw==;ajxfJ+294U3pPqzDLyNtIw=="
 ---

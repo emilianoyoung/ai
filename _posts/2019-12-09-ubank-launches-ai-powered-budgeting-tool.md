@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T20:31:00Z
 sourceUrl: https://www.cio.com.au/article/669519/ubank-launches-ai-powered-budgeting-tool/
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -63,19 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7E12318590574D5F6BECFA030DDD6506
         width: 700
         height: 393
-  - title: "UBank uses machine learning in new spending tracker"
-    excerpt: "UBank is embracing the industry shift to open data banking through a partnership with Australian fintech, Basiq, leveraging machine learning (ML) to give customers a more complete picture of their finances. The partnership hopes to offer customers predictions of future spending behaviours just by using their UBank app by 2020. This follows ..."
-    publishedDateTime: 2019-12-10T00:38:00Z
-    sourceUrl: https://www.cmo.com.au/article/669577/ubank-uses-machine-learning-new-spending-tracker/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7B5777393EA401D3D8E358F7F3DEFDA6
-        width: 670
-        height: 431
 
 secured: "+FrPUiq3F6NBAG+SEDcM7tRgKgWtLgPotMye8UlaIxITbGqzTrFtxllaZNcmG48pj3cekk4iWj1i0jfuahgtAuFg+f3Z3X8exbYU87sCdoOQnnOHLoSl36f0LwVMDhWYA7CU+VOEIxXiy2C/xSoe+EKUcqVEOE1/72gL2ea3mU7J6Ue6EainEpNxrMD8+0ST3AWOOjArjlJOTOjUSIelIm3E4KHASJm0Uk0fB71fFYn6n1/YBv7wU+XycurjKnsgBXh8pk409aMgGHtyvu2krQ==;RZuOLPO5gmTvXkyzQAUVFw=="
 ---

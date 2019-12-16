@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D5C3E41F44FD8638295CD97A323EB106
         width: 700
         height: 393
+  - title: "Intel Buys AI Chip Firm That Claims 4x Higher Throughput Than GPUs"
+    excerpt: "Intel Capital, the chipmaker’s venture capital arm, was an investor in Habana before the transaction. Related: Cerebras Aims at Nvidia With AI Hardware Powered by World’s Largest Chip Intel has been enjoying a near-monopoly in the server CPU market, but the quickly growing market for machine-learning hardware has seen Nvidia emerge as king ..."
+    publishedDateTime: 2019-12-16T21:02:00Z
+    sourceUrl: https://www.datacenterknowledge.com/intel/intel-buys-ai-chip-firm-claims-4x-higher-throughput-gpus
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.18999D1F46B5DD65A85BF0D0E9F95862
+        width: 450
+        height: 300
   - title: "Intel buys Israeli AI chip co Habana Labs for $2b"
     excerpt: "Intel Corp. (Nasdaq: INTC) today announced that it has acquired Israeli AI chip developer Habana Labs for $2 billion. Habana Labs develops programmable deep learning accelerators for data centers. Intel EVP and general manager Data Platforms Group Navin ..."
     publishedDateTime: 2019-12-16T14:58:00Z

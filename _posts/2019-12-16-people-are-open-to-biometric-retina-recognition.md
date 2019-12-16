@@ -24,62 +24,43 @@ images:
     title: "People are open to biometric retina recognition"
 
 related:
-  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
-    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
-    publishedDateTime: 2019-12-10T00:19:00Z
-    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+  - title: "Google Wants People With Down Syndrome to Help Improve Voice Recognition"
+    excerpt: "This is in order to train its voice-recognition AI to understand unique speech patterns. Currently, Google’s aim is to get at least 500 voice recording donations from people with DS. Voice computing is considered the future of technology, however, it can be slightly inconvenient for people with mental and physical disabilities. In order to ..."
+    publishedDateTime: 2019-12-12T12:22:00Z
+    sourceUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/
+    ampUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
+    cdnAmpUrl: https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
+      - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
         width: 700
-        height: 367
-  - title: "Lack of quality data, tech talent hinder wider AI adoption in China"
-    excerpt: "The lack of high-quality data and shortage of hi-tech talent are preventing wider adoption of artificial intelligence (AI) in China, which has become the world’s second largest market for the technology amid a tech and trade war with the US. China, which has laid out plans to become the global AI leader by 2030 , is projected to have an AI ..."
-    publishedDateTime: 2019-12-09T10:35:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tech-talent-hinder-wider-ai-adoption-china
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tech-talent-hinder-wider-ai-adoption-china
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tech-talent-hinder-wider-ai-adoption-china
+        height: 393
+  - title: "Google wants people with Down syndrome to record themselves speaking to help train its AI to recognize unique speech patterns"
+    excerpt: "Voice technology has historically struggled to understand people with unique speech patterns, like those with Down syndrome."
+    publishedDateTime: 2019-12-05T17:04:40Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/google-wants-people-with-down-syndrome-to-record-themselves-speaking-to-help-train-its-ai-to-recognize-unique-speech-patterns/ar-BBXO3rt
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 57
+      name: Business Insider on MSN.com
+      domain: msn.com
+    quality: 12
     images:
-      - url: https://www.bing.com/th?id=ON.5C61FC3230729FA3907122EBA731C3A6
+      - url: https://www.bing.com/th?id=ON.2F124284393207F8E7CE9092BCA112AB
         width: 700
-        height: 367
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
+        height: 350
+  - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
+    excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
+    publishedDateTime: 2019-12-05T23:58:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/google-wants-voice-assistants-more-231539010.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "62% of Brits would trial retina recognition identification - Equifax"
-    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "sTkWUNBKcnotRkWo25iKYu/kElYv9KKmCMzRjrVKEaYKMtkfjnXwEJemvsLLkDUvVkr5z/Ye+phBjGgwzl200BlO673DkNGH3WkPClInZy5299toqArZuuKY2SRbigRc6AwSxlkEf2jzLiYrrbl11LGLYvoJyn7htPXldkKvUoCt653elX4npGXZLbpja2NUMgxrQr5qyEzP84NQRuJHJzBTzrttX3PfdgPeHRzijmU+RuGHILdBmZqCk+2xdWrKDPLbY7BFte8MkgRE8+g/Yw==;mdTPs+wrS771mNMffy9XSA=="
 ---

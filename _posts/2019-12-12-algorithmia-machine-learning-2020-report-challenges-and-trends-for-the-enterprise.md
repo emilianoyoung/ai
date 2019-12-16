@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9FB13ACE21C15CAC180DB6F25BFFB336
         width: 685
         height: 462
-  - title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
-    excerpt: "fintech has gradually been integrated into our daily lives over the last decade, transforming the traditional world of banking as we know it. 2020 marks the inflexion point where the calls for supervision and governance are necessary, starting with regulated digital banks.\" Using its proprietary risk management technology and advanced AI ..."
-    publishedDateTime: 2019-12-12T07:49:00Z
-    sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-073600991.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.C7FDD2BED166CC598D2B4510ADC767EA
-        width: 400
-        height: 400
 
 secured: "HKtF69RMWe13WdWEhqfb6c8l9l4jMN2OCKHw5nv0bibR43PXrBf2LXy98x6QbDo1eIUBuIsyLtCOCt1JvCdUUYyGS3zSYG7nThslf2CL3CdpH0SNcnTrvVTR4To2+FzuRndkuSKWdS+wsGNVe4EHNXgVhw8wf9vbYenFrnOsT/q+DPagkAYdUmAwVU1UmaVRx0IXsFxiWahEuvoPPM/BTLR3IVnwT+AzQkZ6tVkhhB3gLMJgnRbkJIoIlGW9wuyCNJp0xNyNkq7mAJh6dKTgYA==;IbOrkyuWfiatlnBhxjtPHw=="
 ---

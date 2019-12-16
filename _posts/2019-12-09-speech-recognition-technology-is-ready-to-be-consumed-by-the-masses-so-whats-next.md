@@ -24,71 +24,103 @@ images:
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
 
 related:
-  - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
-    excerpt: "Facebook can now identify and map 98% of its images correctly to the ... in Asia-Pacific. Singapores National Research Foundation has invested about USD 107.64 million in the AI. SG initiative, to uplift the artificial intelligence technology. Artificial intelligence offers the region massive opportunities for growth, innovation, and ..."
-    publishedDateTime: 2019-12-13T03:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
+  - title: "Facial Recognition Laws Are (Literally) All Over the Map"
+    excerpt: "The current state of rules for use of facial recognition technology is literally all over the map. Next month, the city council in Portland, Oregon will hold a public meeting about blocking use of the technology by private companies, as well as by the ..."
+    publishedDateTime: 2019-12-16T08:00:00Z
+    sourceUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/
+    ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market : Investigation and Growth Forecasted until the End of 2025"
-    excerpt: "Artificial Intelligence Market Segmentation: By Industrial Vertical *Media & advertising *BFSI *IT & telecom *Retail *Healthcare *Automotive & transportation *Others By Technology *Machine learning *Natural language processing *Image processing *Speech recognition"
-    publishedDateTime: 2019-12-12T05:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-investigation-and-growth-forecasted-until-the-end-of-2025-2019-12-12
+      - url: https://www.bing.com/th?id=ON.AA7565A68A8E9EFA63AAB0BBCC0BA70D
+        width: 700
+        height: 366
+  - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
+    excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
+    publishedDateTime: 2019-12-16T19:44:00Z
+    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
+    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
+    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Sky Sports
+      domain: skysports.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
+        width: 700
+        height: 393
+  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
+    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
+    publishedDateTime: 2019-12-10T00:19:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
     quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "49.8%+ growth for AI in Telecommunication Market Size raising to USD 3880 million by 2024"
-    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- The newly Added research report at Market Study Report titled \"2019-2024 Global AI in Telecommunication Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years. According to this study, over the next five years the AI In ..."
-    publishedDateTime: 2019-12-06T03:55:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/498-growth-for-ai-in-telecommunication-market-size-raising-to-usd-3880-million-by-2024-2019-12-05
+      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
+        width: 700
+        height: 367
+  - title: "Osaka Metro unveils ticket gate with facial recognition tech"
+    excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
+    publishedDateTime: 2019-12-10T04:07:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2019/12/10/business/corporate-business/osaka-metro-facial-recognition/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-10T12:27:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-trends-and-future-opportunities-2019-12-10
+      - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
+        width: 700
+        height: 569
+  - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
+    excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
+    publishedDateTime: 2019-12-15T08:34:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools/161736/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
-    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
-    publishedDateTime: 2019-12-06T12:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
+      - url: https://www.bing.com/th?id=ON.2925D8A0EFB7D7ABC1EBB666A9C65C33
+        width: 400
+        height: 400
+  - title: "How China Is Using Facial Recognition Technology"
+    excerpt: "Facial recognition technology became part of the fabric of life in China in 2019. Enabled by a vast network of cameras across the country, the government is using the technology for surveillance."
+    publishedDateTime: 2019-12-16T20:24:00Z
+    sourceUrl: https://www.npr.org/2019/12/16/788597818/how-china-is-using-facial-recognition-technology
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: NPR
+      domain: npr.org
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400
+        width: 1400
+        height: 787
+  - title: "Facial recognition technology latest woe at national children’s hospital"
+    excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
+    publishedDateTime: 2019-12-12T06:46:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/facial-recognition-technology-latest-woe-at-national-children-s-hospital-1.4112451
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.0011F70D041993C645CEF87AF14A4EE2
+        width: 700
+        height: 367
   - title: "Emotion Recognition Is Creepy As Hell"
     excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
     publishedDateTime: 2019-12-13T21:12:00Z
@@ -102,52 +134,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
         width: 700
         height: 366
-  - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
-    excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
-    publishedDateTime: 2019-12-12T22:39:00Z
-    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/the-tech-initiative-that-saved-inspira-health-1m-voice-recognition-says-cio-tom-pacek.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 15
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
-        width: 400
-        height: 300
-  - title: "Far-Field Speech and Voice Recognition Market"
-    excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
-    publishedDateTime: 2019-12-12T06:44:00Z
-    sourceUrl: https://www.openpr.com/news/1878439/far-field-speech-and-voice-recognition-market-worth-4950-36
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-14T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "hSJ4n5cGewmDpGw9BN9ns/vRFrSlmxRGtGuCOHQNx9K+agRNHoq7t4/1StT/7RoBPNmAgfGYw2DsUdqj5SERvw7TRnwj0Pu9ZfzddqvQ3gplmi8mLK26lnILiy13Lb/RVDr5uI0UUT1DiF38YgMkcGGX011gOncXPJ5dhIILBUIH3q+qiS0cSZw+vLLKP0r0NQ/muEL0y5YByP3hrS7FLZCcowOUe0tzdUJN4FFohIvHrya8oXwkyidaujusCdBC1rHT8TcWPb7LrjG7Liav8Q==;IqkfjR8dZlC3biXWQphYbQ=="
 ---

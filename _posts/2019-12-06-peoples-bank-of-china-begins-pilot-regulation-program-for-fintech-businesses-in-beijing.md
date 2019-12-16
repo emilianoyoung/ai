@@ -8,7 +8,7 @@ ampUrl: https://www.crowdfundinsider.com/2019/12/154874-peoples-bank-of-china-be
 cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/154874-peoples-bank-of-china-begins-pilot-regulation-program-for-fintech-businesses-in-beijing/amp/
 type: article
 quality: 50
-heat: 60
+heat: 70
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5049A9FFD793670277FA339B6E8337B4
         width: 700
         height: 466
+  - title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
+    excerpt: "The entity was also granted a fintech license by the Indonesian Financial ... Using its proprietary risk management technology and advanced AI capabilities in, WeLab effectively analyzes ..."
+    publishedDateTime: 2019-12-12T07:49:00Z
+    sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-072400654.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.368F94E40CA41B4E65484E372C57CB4A
+        width: 400
+        height: 400
 
 secured: "Xp/7ySv7IrIjohGVQbJZ2kXd/e9gIKxteRu6IDeF9UbDzC009GRWqd4TbOYabdiPPFevqfHjN06/vhn4MHas33exrgq/mqnwyn0h1Co+sl1wKyCvLxALUGTV5cE+kLKzak9Gik3z9FaHlLgkhqgCm6Hp06mF3ADZHH9fqN+/ZkuxGLlcALkMaOjRDfKVeshspCwb+Qz6qlG/U8aKM1t7/ubjBgF6YkrNZY9vuLuYJDnSznMobKuVkRtozHXUzOpZPidNMsOBssU9E0m1Ww9PDw==;hbT+rZhwTxarxCKZ56e4bg=="
 ---

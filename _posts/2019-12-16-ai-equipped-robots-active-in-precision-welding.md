@@ -111,6 +111,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
         width: 700
         height: 435
+  - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
+    excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
+    publishedDateTime: 2019-12-16T21:00:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/16/gecko-robotics-raises-40-million-in-funding-for-energy-infrastructure-inspection-robots/27564/
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.7FC084780B0FE0217E388D3DFA83A37A
+        width: 700
+        height: 393
 
 secured: "K3p8FkQvFKZJ00irRVNHFyhInxAJG3T40cMa9Pb42zaRgHPsnEz8u+lqgulxjVUU+VYGF6HaBEtlpC65JugQcJ8HGnlP48f6sYxk1IeRydhA866nrDcVJA55amkuGjDCPavf//VaNwVDxgIAY+C86mq42gEz6HIdxl+MDJaEJ2egkhxkr99BRBiJKpuWjVMAzeI0k15OtR246X59rV7/CzIygVbGao3ulGEmRgZUcmRLAQih+0IMOR7yrsf/k8YEaY3MLwAeM3HRHkijs7x06Q==;7U1Go1CpeeG7AF5CLZCQ6A=="
 ---

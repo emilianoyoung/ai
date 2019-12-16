@@ -69,6 +69,36 @@ related:
       - url: https://www.bing.com/th?id=ON.762BC36345583577511D6912D6FA6484
         width: 600
         height: 325
+  - title: "Facebook’s privacy push stumbles over EU rollout of facial recognition technology"
+    excerpt: "Facebook’s move to roll out previously banned facial recognition technology in Europe — just when new privacy rules are coming into force — is causing an uproar. LONDON — Mark Zuckerberg promised to extend Europe's revamped privacy rules across all of Facebook's global empire. That pledge is already running into trouble. Amid an ..."
+    publishedDateTime: 2019-12-09T23:16:00Z
+    sourceUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/
+    ampUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.D3C3077441691692070F991362C62B79
+        width: 700
+        height: 366
+  - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
+    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
+    publishedDateTime: 2019-12-10T19:57:00Z
+    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
+    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
+        width: 700
+        height: 394
   - title: "State recommends facial recognition policy changes"
     excerpt: "The district did not move ahead with its planned launch, previously set for Monday, of the object recognition portions of its Aegis software system. The system is capable of detecting 10 different types of firearms. A school official said in a statement the district has \"no definite date\" for launching the system. The school district did not ..."
     publishedDateTime: 2019-11-27T22:20:00Z
@@ -82,6 +112,17 @@ related:
       - url: https://www.bing.com/th?id=ON.F24C90B4D75D2EBE2AC960E127DA8F1E
         width: 700
         height: 467
+  - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
+    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
+    publishedDateTime: 2019-12-10T12:53:00Z
+    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
+    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "7SgdS4ileDdH4lZTv/7rwWaHOX7pFUmLDflPQQjTzVDf1FmwxciR6jvHP7daswcN95jpoLWSjEgSjFnRfUcAkj47JYOk2cnq8q+RpWpbiYZYC2CBDPclO8uvJgP+gYKq8znxoyW3Zn+YZlmWWnNLNTJbbyUDHE/qAtwmvIOR3wAHScuK87iSEXS1yXOApxqGJPV49eIV1UAdBl8iBvnRWwJNe7jhYLSo0dMzDHfuXa5lCTFmo2OeLZy2EOWyPBJ5nu4nYwIi5ZgmLvwO1f52mQ==;/gP5EWfFlY2DzsplPQ2pZw=="
 ---

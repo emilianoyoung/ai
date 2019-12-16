@@ -63,19 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7E12318590574D5F6BECFA030DDD6506
         width: 700
         height: 393
-  - title: "UBank uses machine learning in new spending tracker"
-    excerpt: "UBank is embracing the industry shift to open data banking through a partnership with Australian fintech, Basiq, leveraging machine learning (ML) to give customers a more complete picture of their finances. The partnership hopes to offer customers predictions of future spending behaviours just by using their UBank app by 2020. This follows ..."
-    publishedDateTime: 2019-12-10T00:38:00Z
-    sourceUrl: https://www.cmo.com.au/article/669577/ubank-uses-machine-learning-new-spending-tracker/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7B5777393EA401D3D8E358F7F3DEFDA6
-        width: 670
-        height: 431
 
 secured: "eRt2+2wN+lxockWU1u6JIg0E0P4kxINm461owTTxsA4I/XCgRMN5tQMjDzpN4XBWA24lmoaYI2AoApw1gGEknYJIduKaBgeggixeCFpUPGyR2jhhQIs3DHwOah2/QXS46ZVksrjUrAk4cUxQk6imN4Tv55Uvv92AsGrfyhLRyiZmgX7q1HUt3pipFlPEbjzs2G18woQVoevLJ5UBfzG/rL/lR+Cz6bIu3YwjuZ6m75y+aVWhNLjQD0vs9UgBFzLBMQWc4+mdiQWPSa/kxZYXoQ==;gAF0Gphd1IVIOIufLJB/zA=="
 ---

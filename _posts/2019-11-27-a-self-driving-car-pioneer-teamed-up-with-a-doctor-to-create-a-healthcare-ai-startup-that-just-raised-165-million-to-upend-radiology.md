@@ -27,21 +27,6 @@ images:
     height: 525
     title: "A self-driving car pioneer teamed up with a doctor to create a healthcare AI startup that just raised $16.5 million to upend radiology"
 
-related:
-  - title: "Advanced Navigation raises $13 million to ‘transform’ robotics and self-driving cars"
-    excerpt: "Robotics and artificial intelligence sensor developer Advanced Navigation has raised $13 ... “making transformative new technologies possible for the first time”, including self-driving cars, robotics, autonomous drones and submersibles, as well as new capabilities in aerospace, automotive, defence, marine and subsea. Xavier Orr, co-founder ..."
-    publishedDateTime: 2019-11-26T20:35:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/11/26/advanced-navigation-raises-13-million-to-transform-robotics-and-self-driving-cars/26987/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.1F791949AF63E5A1421650853AE37154
-        width: 700
-        height: 582
-
 secured: "ytSnkADqFVtdumQqOcMAHFvGuPxGJNzdeXknYTf7fh7AyqHLtqA+aQoa/WEfWbFFw2bLtg6cLHB1zSFac1GwifkZHd4yJ3mnxogZPL/HSwlfHFPboY9D+pWl5iBGuxUCsXqXXm4vVePs25CBkUTyP6nXXPiiA0b/XGk2K26s81u5l0G9u7smz0mUKZQvqXtWoENTzJ95BdpM2qmmqmOmjRSqmjuauRGhIRBugFrU3ncStVv1T0sUbKasYPYuxj9f0etdX2b0uWwwScSOpbN1qg==;ODerTCdWQytPn83cTGY22A=="
 ---
 
