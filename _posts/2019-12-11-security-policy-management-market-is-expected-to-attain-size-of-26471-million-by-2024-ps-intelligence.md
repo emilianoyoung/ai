@@ -17,6 +17,19 @@ topics:
   - AI
 
 related:
+  - title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
+    excerpt: "Inception of exponential technologies such as sensors, robotics, virtual reality, and artificial intelligence in the retail industry has enabled the retailers to enhance their interactions with consumers and transformed the way retail operations were performed. This change in the industry is prominently driven by the seismic shift in the ..."
+    publishedDateTime: 2019-12-16T12:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
     excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
     publishedDateTime: 2019-12-14T12:50:00Z

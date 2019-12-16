@@ -2,26 +2,20 @@
 category: news
 title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
 excerpt: "HOUSTON, Dec. 12, 2019 /PRNewswire/ -- United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, followed a strong appearance at the annual meeting of the Radiological Society of North America (RSNA) with a win in a competition jointly organized by Facebook AI Research and NYU Langone Health. The company's United ..."
-publishedDateTime: 2019-12-12T12:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/united-imagings-artificial-intelligence-subsidiary-wins-in-facebook-ai-research--nyu-school-of-medicine-global-competition-300973788.html
+publishedDateTime: 2019-12-12T13:12:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-united-imagings-artificial-intelligence-subsidiary-wins-facebook-ai-/2019/12/12/9068712.htm
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Facebook AI
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
 
 related:
   - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
@@ -40,6 +34,6 @@ related:
         width: 700
         height: 350
 
-secured: "GnIYSXvfLlw9FT4kPp5F2Ny2bAQg8DMxuYdvx2RFdGHuUpcnGA1KBIw0NA0BWVcHN1EyB1Jga2bgbtZe8BPP/1hK2Lk+zwZaGIq+gEMg9aWxKXyXKJrWkQCJFzuMq/z+Y+rOFLL6/skZzwFpQkKxabef9hYIaZjAFaw9Tx624bdxNLewNT8xjfWzxyZrjVqU/uTjtlNy3vaInDXX/l5HZXkdy8iSmAfQh+0E6PsZH1Zhoq/LxQLybMA3TOD5IALIcxvuuogXtcfpCeJM/y5xPA==;f4UHLWp8Urc/Kjs2hEfolA=="
+secured: "QpkAhyG0wPb0m01pGmVnecqJdeodeLj5pIqXo4vzlXFaWVq9LxEcuWbynXYzDiMnwilvO7dYH58sVfiDQNX5D7DdRUsq5gbai8gM0VrlcDGWRMhvdQtRy8tSJICOcRHllfl/9dkrDiotMOxmOJ0Hm+qJrXhfLEm/C5rXQ+K+dyss+g0t9xGKdP+Y8MLlOr1n0bY/lrHf/KBxlzm3teshBGmkCxjp9HUcfI454ghWr9Bz3H3JsOSc0hw7RsPcftu27Ud9nlGwJW2TCL1H0kibjA==;URohOK9V/rPaC2E925tEAQ=="
 ---
 

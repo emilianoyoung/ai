@@ -40,6 +40,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5defd3a4f4f45f0006d19be3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2846%26cropY1%3D243%26cropY2%3D1844
         width: 1199
         height: 675
+  - title: "Augmented Intelligence: Empowering Humans, Not Replacing Them"
+    excerpt: "It is nearly impossible to talk about technology today without some mention of artificial intelligence (AI ... From smartphone applications to healthcare diagnoses and self-driving vehicles, technology continues to automate more aspects of our everyday work and life. Perhaps this is why many have an irrational fear of AI, worrying that ..."
+    publishedDateTime: 2019-12-16T13:35:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.59422FADB267C081BC6E716D991A896E
+        width: 600
+        height: 315
 
 secured: "BDiHyOQuSkUyM2tUCQADOOP5H4AL/YC0t/0BfWm1jqi/bPcs2TtNvg+cb4jDHCv1Kdv9Ib3km05a+KlxOPu3ZLWtYjGUkspEJuxp+onxlhVjlYZia+HvK26iQSwxnm98qr/n9VhY3TAKFU+wphsCAdFZtezErPZNmUz6z4kTmoxOR6FChxZ1Fc71QkEVh9/obcHKW2MJ6LJK/o2EuAPhTghrrVX1nCBsC7EvYw2T5M3Ggdp3goUytZYoNk8eoOM9hnoOYaRfejr7fPgE1FnAEQ==;eaxnOT8rA5Oeb1Kl9I5jvg=="
 ---

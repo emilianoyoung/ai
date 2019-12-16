@@ -200,6 +200,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "'Very worrying': Call for AI, facial recognition reforms to prevent discrimination"
+    excerpt: "The Australian Human Rights Commission has unveiled draft proposals to prevent discrimination driven by artificial intelligence (AI) and intrusive facial recognition. Human Rights Commissioner Edward Santow said there were concerning developments in Australia and abroad that underscored the need for reform in the digital space. Human Rights ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://www.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
+    ampUrl: https://amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
+        width: 700
+        height: 393
   - title: "Facial recognition: how China cornered the surveillance market"
     excerpt: "What do Uganda’s police force, a Mongolian prison and Zimbabwean airports have in common? All three are in the process of testing facial recognition systems and all three have used Chinese technology to do it. At least 52 governments are doing the same thing according to research by the Carnegie Endowment for International Peace. Chinese ..."
     publishedDateTime: 2019-12-06T19:10:00Z

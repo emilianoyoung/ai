@@ -3,17 +3,21 @@ category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which gathered data from millions of NHS patients without direct consent. Streams was integrated into ..."
 publishedDateTime: 2019-12-05T18:48:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+sourceUrl: https://www.bbc.com/news/technology-50679791
+ampUrl: https://www.bbc.com/news/amp/technology-50679791
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 169
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -52,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.28A3294418918B7ECE3E4E7AFB516472
         width: 700
         height: 503
+  - title: "DeepMind co-founder leaves for policy role at Google"
+    excerpt: "While Mr Hassabis runs the core artificial intelligence research at DeepMind ... infra and [self-driving car company] Waymo,” according to LinkedIn profiles of employees. Mr Hassabis pointed to other examples of collaboration, including research using machine learning to accelerate ecological research in the Serengeti, and work with Waymo ..."
+    publishedDateTime: 2019-12-05T17:22:00Z
+    sourceUrl: https://www.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.6438714A7968955BDFDFE9CC1002A9A4
+        width: 700
+        height: 393
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
     excerpt: "If you want an example of how user concerns do not drive how software gets made, check out this Google-backed API Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work ..."
     publishedDateTime: 2019-12-06T11:16:00Z
@@ -93,6 +112,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5F1A059886ED92169EC74D4301DBF52B
         width: 700
         height: 466
+  - title: "DeepMind co-founder leaves for policy role at Google"
+    excerpt: "While Mr Hassabis runs the core artificial intelligence research at DeepMind ... infra and [self-driving car company] Waymo,” according to LinkedIn profiles of employees. Mr Hassabis pointed to other examples of collaboration, including research using machine learning to accelerate ecological research in the Serengeti, and work with Waymo ..."
+    publishedDateTime: 2019-12-06T12:04:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/06/deepmind-co-founder-leaves-for-policy-role-at.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.88E991F1A6D1B05F29BB8CDABBFEAA1A
+        width: 700
+        height: 393
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly unscathed and will now take up a role involving AI at Google. It's not clear exactly what ..."
     publishedDateTime: 2019-12-06T10:39:00Z
@@ -107,6 +139,6 @@ related:
         width: 580
         height: 358
 
-secured: "TK0YWxhKCTzRb7vEdGZa48mRi07yeSPtjzbq9PxULsg5TIkJoWANMfLS5SJXTznpQZaxF6E/uHMhIxYKCHuj/B4VOgckQ5xiS/5fEEvwrVlv50fC5vAzNZqZgAiLjRGF+ZtYA19aPK9+cNN/FqLw/i+TIoMGWDvsNSCLojSvHP/3Afz5YMnXGuiD1EaCVhe5tq5TcoIpKYk3/uA3/lW4urX6ZbOYa2ULeL5AAQ+xfVRcRRd0padoYo17mofyuzQER0Bpyjn/OTLSNcLBRMQ2aQ==;d62h6DJZK1LXKW4gOzHn2A=="
+secured: "FmUvsMQk/NM721jytlrMHxophoAYHm/L2zu4lsiqL9bf6oH97otb8+M/xBpgBOYyEO0zWMfSl87GlsCKqCA4ST2rF4Sw9HdI1y7utXt/psRjREwlqFmaswnkS9RlFXb1EpM+ETOgfkv5ynazB+hX+Dk6ZlMl9+KmA+cxsVhF9333YX5+siOROslBfh8JbmC72ctE5I7aA8JeXmOr/g8pKYiWpVhU+GSW/hmlcQEvTRVdAlK0pTCoQPPBegQLBAeXqGrtI8JGUPlc2qANhSQrAw==;zMZ5eHel9OJ2TrCkiKGozw=="
 ---
 

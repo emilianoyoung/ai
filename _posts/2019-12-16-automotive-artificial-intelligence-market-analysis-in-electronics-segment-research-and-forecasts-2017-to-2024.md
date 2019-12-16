@@ -2,20 +2,26 @@
 category: news
 title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-publishedDateTime: 2019-12-16T06:05:00Z
-sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+publishedDateTime: 2019-12-16T06:02:00Z
+sourceUrl: https://www.cio.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: CSO
-  domain: cso.com.au
+  name: CIO
+  domain: cio.com.au
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
+    width: 600
+    height: 300
+    title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 
 related:
   - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
@@ -299,6 +305,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "NNzR9wjzokcoWzxy6vjIGac43UnJYRSUjoIN7wYpHyjPdrBSyDqwUNAWUaBmy0EfAcAGY6zJ/ceMbhOC3KGnC/bErcsFMrhG9fpv2C2pZHbh/kIvhrHNESjLjDP4D2Uw3XvhARlImItFHC9xOjQB0SHuhxJetzJ44VTso4erJFKylsZ66RLN4RTJMvfpwPsLy31w1RTXqW8TWqINnKLlJVPXHmrV68AzE3DMs4cK+7iZo+5cJo75hnxiS4zKWy4ED3JdmKKXSMY1d/HdZpi+oA==;3jn0gaOcVsp4rJNbU3zNAA=="
+secured: "iGDuIUKYIv9CYEYDu3KIY7YTtYG4jb2kvQt+WIqHTBAKI41A5MR1n1k/cHED8iyfPf432YjdUN2c7djV29aSM3ZQVBubhgcPZ5U2GWfa1DRQ6tuQP5RDE/BpheELoh2UPDD5lPRvzNCNzdkYNfAUijfevykQ/IgLyhPbxGnJjGluss4D99MYbXVTcKqR4m6/RIp79TfdgJQ47QTM+xvCh9OX/WyzFJt4BHbs/FqjltD5SiGYepR9GhgcsUWfffkWXLLX5VzXrYGBOu7KsOMDtg==;JHamvw1x5nTYIMuAt2WDiA=="
 ---
 

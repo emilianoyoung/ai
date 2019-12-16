@@ -8,7 +8,7 @@ ampUrl: https://www.bostonglobe.com/business/2019/12/11/ready-for-robot-boss/Hs8
 cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/11/ready-for-robot-boss/Hs8158Erm6zuQPnTyWHXfI/story.html?outputType=amp
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Are you ready for a robot boss? Many workers say that yes, they are"
 
 related:
+  - title: "Top Artificial Intelligence Books Released In 2019 That You Must Read"
+    excerpt: "While there are some people who still think AI is only robots and chatbots, it is important that they know of the advancements in the field. There are many online courses and books on artificial intelligence that give a comprehensive understanding to the reader whether it is a professional or an AI enthusiast. In this article, we have compiled ..."
+    publishedDateTime: 2019-12-16T13:04:00Z
+    sourceUrl: https://analyticsindiamag.com/top-artificial-intelligence-books-released-2019-that-you-must-read/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.1839BC9A954565A3DB030F0AB0ACC361
+        width: 700
+        height: 525
   - title: "Are you ready for a robot boss? Many workers say that yes, they are"
     excerpt: "Artificial intelligence is everywhere. In our Google searches, in our mobile banking apps, in our thermostats and refrigerators and endless requests for Alexa. At work, AI tells sales reps which accounts they should pursue and helps lawyers analyze piles of contracts."
     publishedDateTime: 2019-12-11T23:51:03Z

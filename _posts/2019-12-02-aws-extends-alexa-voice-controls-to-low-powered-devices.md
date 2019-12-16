@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS extends Alexa voice controls to low-powered devices"
-excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3."
-publishedDateTime: 2019-12-02T03:10:00Z
-sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
-ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
-cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+publishedDateTime: 2019-12-02T08:27:00Z
+sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: India Times
+  name: telecom.economictimes.indiatimes.com
   domain: indiatimes.com
 
 topics:
@@ -20,9 +20,9 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.C0A3D57DF9B9A43894D74AE601CDBE96
-    width: 700
-    height: 379
+  - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
+    width: 800
+    height: 434
     title: "AWS extends Alexa voice controls to low-powered devices"
 
 related:
@@ -57,6 +57,6 @@ related:
         width: 600
         height: 337
 
-secured: "5Q8Z9cbaVygf7amwXxqB0nhcYAAqRBaMQ+VTz5CJymJFLUN75ArOGxFTaNJVDo0AX5Xw9PQNYFvi3GI0qwUt6LSJuGawhSeEAgxuYjtDeNu1jJYzD76BBgJxgDFsWFnxeNKzUqKbjhmmrK2OrCNRxJFqRgO0l0KgqLw037PkSo6XSZSXKLoKUgufG9Z2E7pefnpaM1oXIceudF/kbtjfY/uqjwaNoH2se8aMhZ7AFPsLd+XO7gwD3uGrlr1EZQGb3POzE/MVR2Xx0ekh0uRsxA==;ieXAC/kExH3tZ+RmJoFSYg=="
+secured: "uEgy8zvr7JP0t+w3x1tcSNW87PuXjmE8bjs3cLWoeh7UOP7BmPzQem+TUhxL7EOZIXxr9nj7pkkImnLqRg2rcDYgqtn43kkWwehv38ynVNZYwPm3USE0JK1thLJ5LmpNcdhKm21Zjrf/i+R0yYsbwUaJYcvKX1ZABc1X2FHWOOjSdDKeKoe0oX3npzGlRj1Q/K6cGQO2yZeWm5mTeSf/P9oBYpxQ6OATg/p3/ZsTPyAmwR30ImK3hrZE1q9wB5Wf9XCCT0y+Rq/VkQa9K2zq+g==;a2S1LtwIYnvSFKCPbnNENQ=="
 ---
 

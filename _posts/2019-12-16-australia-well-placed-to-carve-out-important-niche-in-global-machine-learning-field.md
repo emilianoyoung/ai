@@ -2,8 +2,8 @@
 category: news
 title: "Australia well placed to carve out ‘important niche’ in global machine learning field"
 excerpt: "Australia has an opportunity to carve an important niche in the global machine learning field, according to a report into the sector’s patent filings launched by the Minister for Science, Karen Andrews on the Gold Coast on Monday. The report, prepared by the Australian Computer Society, the professional association for Australia's technology ..."
-publishedDateTime: 2019-12-16T12:47:00Z
-sourceUrl: https://itwire.com/strategy/australia-well-placed-to-carve-out-‘important-niche’-in-global-machine-learning-field.html
+publishedDateTime: 2019-12-16T12:45:00Z
+sourceUrl: https://www.itwire.com/strategy/australia-well-placed-to-carve-out-‘important-niche’-in-global-machine-learning-field.html
 type: article
 quality: 32
 heat: 32
@@ -23,6 +23,6 @@ images:
     height: 281
     title: "Australia well placed to carve out ‘important niche’ in global machine learning field"
 
-secured: "tZ1ft7j1joJu8p9RUZV9T27Qr2c0vs2iaGncwKsERuNP4YBdJlzehzBxznLRwdt8VZXJCvzYw/hGKn00WQ+kWHugcoa09gdkpI70pJ9ah+YUxNESJByPjqvHpok76aBsACgrtGfOsfHkgBFPBWfjNcKTODUCrzEl1LsYPGhXQfRoDfFlEBUJ6qTfBkGETUj1sR/nS+gFxRKli2mBJASKcdi8FRDudD13WCbcdJwq44UPsxiplEOVTO9i1PRE+VgVzoC4zev9i+2guDINd6hQvg==;T+twWdpMXl3sjKp9MbPr1w=="
+secured: "MNm5RcXn5eg4nCeDPScFO7COsgq5hyFOct+b3aHDbww7eMT37SBZ+fce29iWSD3XqnkQ5bvrS40WPfeOcucGkPxnO0Ai5AnOgFYF10oaVSnwOhbSWVlphJZPYGzxIXLlFZr4smnuhOxPcGjGB2SjyQJhCJ28yBawcyQNe/KY6/KPBYbfd2m315D/Tj7cYiJYNgpzLNRB6G36PSrFvJnGR5P8gLZrprwTnFaISbbUM3VIbuCuUU3aa/5ZE9rBkQdLRTcJwxjShedRyLicc8tD3w==;vv31mHtq3axDhHgiUvMV8g=="
 ---
 

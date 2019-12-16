@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/14992513
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
 
 related:
+  - title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
+    excerpt: "Inception of exponential technologies such as sensors, robotics, virtual reality, and artificial intelligence in the retail industry has enabled the retailers to enhance their interactions with consumers and transformed the way retail operations were performed. This change in the industry is prominently driven by the seismic shift in the ..."
+    publishedDateTime: 2019-12-16T12:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
     excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
     publishedDateTime: 2019-12-11T08:30:00Z

@@ -24,19 +24,6 @@ images:
     title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
 
 related:
-  - title: "Seattle Seahawks Shift From Microsoft Azure to Amazon Web Services"
-    excerpt: "Amazon Web Services will provide its cloud computing, machine learning and artificial intelligence capabilities to the Seattle Seahawks ... Sports Media Production & Consumption Seattle’s internal IT systems previously ran on Microsoft Azure but will now operate on AWS as part of a five-year contract with Amazon, according to The Seattle ..."
-    publishedDateTime: 2019-11-26T12:59:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-seattle-seahawks-amazon-web-services
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 54
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
   - title: "Seattle Seahawks Select Amazon In Utilizing Artificial Intelligence To Help Make Smarter Decisions On The Field"
     excerpt: "The company announced it will be expanding its services within the NFL, after partnering with the Seattle Seahawks to provide the team with its cloud and machine learning/artificial intelligence offerings. In the comprehensive partnership, the company will move the vast majority of its infrastructure to AWS and will also provide wide-ranging ..."
     publishedDateTime: 2019-11-26T14:35:00Z
@@ -51,6 +38,6 @@ related:
         width: 600
         height: 315
 
-secured: "0ke2idSoufrO3EhaMNaMSIos7YGWeyuNe9QpsuxzDTMq97FQjmbOctnsRc4JspOe2S+1U5Ix4Sl4+nfXg/uoRiqIlRgHq+YWzPZTMpQGoh/d0G7dIwQo+5ab3QHsjiIbNVGSKCdyLU2HZZhCbhROfhpB8VKlchenpErCt1Sl+/sVV0lCU2whYap34OhwtN+BmxL7ZFeU6o+yVM2Xi2ibafvg+X3hsF6egl6pM3vfglNY06QHrb3Csed+OQ5yWzV+B31YWhEoQmq37gWHhDEA+Q==;JyviqZvJ4y8LBt+eBZUA4A=="
+secured: "+4vivAJtdOFnvT/ImZ+Mgmq8fpFQGam+0PzoHLk4yvReRVryOzP1Fx0OeYfMnejrvCm3yk7nnqPRZTj+8InvyZf/EO9zXH8YEc3dInUFxTC8hDD/PqU+T/vFt5rzeph8SJgaIBg2RRgZreS+4XypCvGi9NGfOC0n5XibecdNznDbeSyuw2psSzTMIS8+qIZ/sNeQh7Gv3ccIjvCO7MAxjtA8ZeL+pyVUYYVWjUYtx55MhZ+BIOxNXz7pMtaCFWsyHONOdpK1fmX9R0grqDaJQA==;DKlZ9TlxnXzKqFLi+/5uOQ=="
 ---
 

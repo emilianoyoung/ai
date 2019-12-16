@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-26T20:18:55Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/automated-decision-making-with-deep-reinforcement-learning/
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: AWS
@@ -27,21 +27,60 @@ images:
     title: "Automating financial decision making with deep reinforcement learning"
 
 related:
-  - title: "Buguroo raises $11 million to detect banking fraud with deep learning and behavioral biometrics"
-    excerpt: "Buguroo, a Spanish cybersecurity startup that leverages deep learning and behavioral biometrics to help banks spot fraudulent activity, has raised $11 million in a series A round led by Silicon Valley’s Ten Eleven Ventures and Spain’s Seaya Ventures, with participation from Conexo Ventures and Inveready Technology Investment Group."
-    publishedDateTime: 2019-11-26T12:32:00Z
-    sourceUrl: https://venturebeat.com/2019/11/26/buguroo-raises-11-million-to-detect-banking-fraud-with-deep-learning-and-behavioral-biometrics/
-    ampUrl: https://venturebeat.com/2019/11/26/buguroo-raises-11-million-to-detect-banking-fraud-with-deep-learning-and-behavioral-biometrics/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/26/buguroo-raises-11-million-to-detect-banking-fraud-with-deep-learning-and-behavioral-biometrics/amp/
+  - title: "Brain age prediction using deep learning uncovers associated sequence variants"
+    excerpt: "Recently, deep learning (DL) methods have garnered much interest 9. These methods learn features that are important without a priori bias or hypothesis. Convolutional neural networks (CNNs) 10 are deep learning techniques that are especially powerful for image processing and computer vision. Previously, they have been applied to brain age ..."
+    publishedDateTime: 2019-11-27T10:18:00Z
+    sourceUrl: https://www.nature.com/articles/s41467-019-13163-9
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 92
+      name: Nature
+      domain: nature.com
+    quality: 50
     images:
-      - url: https://www.bing.com/th?id=ON.FFB4051C928A7C06A4CF5C7372E24351
-        width: 700
-        height: 390
+      - url: https://www.bing.com/th?id=ON.DAE75B26F8026799955B1564DF771D4A
+        width: 685
+        height: 457
+  - title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
+    excerpt: "RNA and DNA are among the four major macromolecules in lifeforms. The team employed the use of deep learning—a subset of artificial intelligence used to create complex, numerical functions to approximate specific tasks automatically without explicit human instructions—to build a more accurate model of the relationship between RNA sequence ..."
+    publishedDateTime: 2019-11-27T14:34:00Z
+    sourceUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.html
+    ampUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-11-deep-method-delve-rna-world.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.1F6E8459A0B5450E77401AB46E1E61D3
+        width: 379
+        height: 700
+  - title: "Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio"
+    excerpt: "In this article, you learn how to create, explore, and deploy automated machine learning experiments in Azure Machine Learning studio without a single line of code. Automated machine learning automates the process of selecting the best algorithm to use for your specific data, so you can generate a machine learning model quickly. Learn more ..."
+    publishedDateTime: 2019-11-27T20:43:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-portal-experiments
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "Machine learning in financial services"
+    excerpt: "The financial services industry is using machine learning to revolutionize its processes and rapidly improve financial outcomes, and its potential seems limitless. That’s why the University of Delaware’s Institute for Financial Services Analytics (IFSA ..."
+    publishedDateTime: 2019-11-27T01:01:00Z
+    sourceUrl: https://www.udel.edu/udaily/2019/november/machine-learning-financial-services-ifsa/
+    type: article
+    provider:
+      name: University of Delaware
+      domain: udel.edu
+    quality: 24
+    images:
+      - url: https://www.udel.edu/content/dam/udelImages/udaily/2019/november/fb-info-dark-datae-GettyImages-1156834914_dark-800x420.jpg
+        width: 800
+        height: 420
 
 secured: "nOg6iDfYRmNYTf04zZPZGCfBXQrraW2nkCOxVYRVXUQRlouOErBUn+t1Nd9SFpmcclQVNbmCBVcKBYr8j5fHSBe8rEKFTs3OYrp/k7NmY1uCQUb0CwtbOD4rFlo9L3cDoHzyB1QPS8hSAcHeBBfSE3gI5dmezT7dTENsHxHAJ6FxWBNaJebk5JfmjoaY5tL0jpWrAUzXgcHmgYHWq9T/1KP4N2Nm0+4f8l/1xmVrcvTIlvP8A1nx7JoYg8egCT7gDy5ouDtKSB0DQb08uRrqkQ==;ktzg4xwk96PbawtJU319uA=="
 ---

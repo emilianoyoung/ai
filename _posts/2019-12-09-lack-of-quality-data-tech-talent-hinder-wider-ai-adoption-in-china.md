@@ -8,8 +8,8 @@ ampUrl: https://amp.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tec
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041254/lack-quality-data-tech-talent-hinder-wider-ai-adoption-china
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 67
+published: true
 
 provider:
   name: South China Morning Post
@@ -25,60 +25,19 @@ images:
     title: "Lack of quality data, tech talent hinder wider AI adoption in China"
 
 related:
-  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
-    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
-    publishedDateTime: 2019-12-10T00:19:00Z
-    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
+  - title: "The Challenges Of Fintech Application In Modern Era – A Comprehensive Guide"
+    excerpt: "It is very easy to make decisions in businesses with the fintech as it has increased the usage of AI solutions. It has become very easy for businesses to rely on AI-powered, data-driven insights to shape strategies. It has improved decision making power. One of the visible benefits of fintech is the introduction of transparency. It helps a lot ..."
+    publishedDateTime: 2019-12-09T20:22:00Z
+    sourceUrl: https://customerthink.com/the-challenges-of-fintech-application-in-modern-era-a-comprehensive-guide/
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
-        width: 700
-        height: 367
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Osaka Metro unveils ticket gate with facial recognition tech"
-    excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
-    publishedDateTime: 2019-12-10T04:07:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/10/business/corporate-business/osaka-metro-facial-recognition/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
-        width: 700
-        height: 569
-  - title: "62% of Brits would trial retina recognition identification - Equifax"
-    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
+      - url: https://www.bing.com/th?id=ON.7BFAA361429525266D73ACC5DF0CB49F
+        width: 309
+        height: 657
 
 secured: "R4gRBkATKy9QSZj3q+Hyiom8Clvy1QU747mFVCGm4+0MVVjF4U4t6oCIgPKwgOt7UrLslRPEMLs//S5VxxrnlTFmFvTwBXKyL0WZErRaVvhgWEiNG4qbucQtpDWLfomjSjoXsFBROQ3R0fFYkF27ctAdV+OZ/OPeHF043Olfe1UUHNBj4HL9h7+yaeRynpi57Twy7Qi/DN3MpxuyF+e3ugGpxyvO51d+5our+WaBrP53j5bAxiB+wdkNkoZjwa0I13jDi3ctCnik7bdJNkfmRA==;cNr3z5bMg5YQMhllvDW/VQ=="
 ---

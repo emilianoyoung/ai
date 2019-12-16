@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/jackkelly/2019/12/10/artificial-intelligenc
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2019/12/10/artificial-intelligence-is-superseding-well-paying-wall-street-jobs/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Artificial Intelligence Is Superseding Well-Paying Wall Street Jobs"
 
 related:
+  - title: "Augmented Intelligence: Empowering Humans, Not Replacing Them"
+    excerpt: "It is nearly impossible to talk about technology today without some mention of artificial intelligence (AI ... From smartphone applications to healthcare diagnoses and self-driving vehicles, technology continues to automate more aspects of our everyday work and life. Perhaps this is why many have an irrational fear of AI, worrying that ..."
+    publishedDateTime: 2019-12-16T13:35:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.59422FADB267C081BC6E716D991A896E
+        width: 600
+        height: 315
   - title: "AI on Wall Street: Robots in finance could wipe out some of its highest-paying jobs"
     excerpt: "During the almost two-hour hearing, lawmakers asked experts about racial and gender bias in AI, competition for highly skilled technology workers, and the challenges of regulating increasingly complex, data-driven financial markets."
     publishedDateTime: 2019-12-07T10:40:00Z

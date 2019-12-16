@@ -24,36 +24,60 @@ images:
     title: "Machine learning in financial services"
 
 related:
-  - title: "NZ financial services must urgently embrace AI, report argues"
-    excerpt: "... a report on artificial intelligence for the financial and insurance sectors that calls for NZ to urgently increase its focus on AI, particularly investment, skills and talent, research, trusted data, ethics and regulation. AI Forum executive director Emma Naji said the rapid development of AI technologies presented major opportunities and ..."
-    publishedDateTime: 2019-11-28T03:03:00Z
-    sourceUrl: https://www.computerworld.com/article/3482124/nz-financial-services-must-urgently-embrace-ai-report-argues.html
-    ampUrl: https://www.computerworld.com/article/3482124/nz-financial-services-must-urgently-embrace-ai-report-argues.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3482124/nz-financial-services-must-urgently-embrace-ai-report-argues.amp.html
+  - title: "Automating financial decision making with deep reinforcement learning"
+    excerpt: "Machine learning (ML) is routinely used in every sector to make predictions. But beyond simple predictions, making decisions is more complicated because non-optimal short-term decisions are sometimes preferred or even necessary to enable long-term, strategic goals. Optimizing policies to make sequential"
+    publishedDateTime: 2019-11-26T20:18:55Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/automated-decision-making-with-deep-reinforcement-learning/
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.39CB88F580CC2D5285994214E6D5170B
-        width: 700
-        height: 466
-  - title: "Financial Platform as a Service: Tarya Fintech Looks to Eliminate Middlemen Banks from the Equation"
-    excerpt: "Tarya Fintech says that by using AI and deep machine learning technology they can equip businesses and institutions with the tools to administer fair, fast, and easy end-to-end, financial services for customers, increasing retention and opening avenues for customer acquisition through these solutions: Retail banking: Providing a full-suite ..."
-    publishedDateTime: 2019-11-27T18:37:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/11/154567-financial-platform-as-a-service-tarya-fintech-looks-to-eliminate-middlemen-banks-from-the-equation/
-    ampUrl: https://www.crowdfundinsider.com/2019/11/154567-financial-platform-as-a-service-tarya-fintech-looks-to-eliminate-middlemen-banks-from-the-equation/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/11/154567-financial-platform-as-a-service-tarya-fintech-looks-to-eliminate-middlemen-banks-from-the-equation/amp/
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/11/automated-decision-making-5.gif
+        width: 800
+        height: 299
+  - title: "Brain age prediction using deep learning uncovers associated sequence variants"
+    excerpt: "Recently, deep learning (DL) methods have garnered much interest 9. These methods learn features that are important without a priori bias or hypothesis. Convolutional neural networks (CNNs) 10 are deep learning techniques that are especially powerful for image processing and computer vision. Previously, they have been applied to brain age ..."
+    publishedDateTime: 2019-11-27T10:18:00Z
+    sourceUrl: https://www.nature.com/articles/s41467-019-13163-9
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 45
+      name: Nature
+      domain: nature.com
+    quality: 50
     images:
-      - url: https://www.bing.com/th?id=ON.7E12091C26627051A004EF4FF4482BC5
-        width: 700
-        height: 466
+      - url: https://www.bing.com/th?id=ON.DAE75B26F8026799955B1564DF771D4A
+        width: 685
+        height: 457
+  - title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
+    excerpt: "RNA and DNA are among the four major macromolecules in lifeforms. The team employed the use of deep learning—a subset of artificial intelligence used to create complex, numerical functions to approximate specific tasks automatically without explicit human instructions—to build a more accurate model of the relationship between RNA sequence ..."
+    publishedDateTime: 2019-11-27T14:34:00Z
+    sourceUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.html
+    ampUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-11-deep-method-delve-rna-world.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.1F6E8459A0B5450E77401AB46E1E61D3
+        width: 379
+        height: 700
+  - title: "Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio"
+    excerpt: "In this article, you learn how to create, explore, and deploy automated machine learning experiments in Azure Machine Learning studio without a single line of code. Automated machine learning automates the process of selecting the best algorithm to use for your specific data, so you can generate a machine learning model quickly. Learn more ..."
+    publishedDateTime: 2019-11-27T20:43:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-portal-experiments
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
 
 secured: "zTmkT4nWRe/DwHrhA8IK9n1YAv0CnDp1kfMUTIr8ERFCYo7pFQAmasrSvGhNjdJD0bLzG4+VUYRbsjQuwvG9ldRGZDF9QNedd1JDpc2yCBw05+rPFQEURwPfvepMeAvqTe1Iwr120UzKtONWLCn5Aoxu5lgRWR/VNlhY+vLb/hQiybYGCiE9v79zTlNfRuGYv+q9iyiP0RBKDd2m7c6AbDPSyPUXvRGIPB6mWs1fJB9PaQOf7z59oc5vF4+R3q4UwG9CrVIWKhg3o/wxljQyQw==;vidAR/V8N1RzqBiSsPbXQg=="
 ---

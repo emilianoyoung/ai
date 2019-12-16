@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7187A8BE02E9C977B00B1160C62BE9BE
         width: 506
         height: 552
+  - title: "Top Artificial Intelligence Books Released In 2019 That You Must Read"
+    excerpt: "While there are some people who still think AI is only robots and chatbots, it is important that they know of the advancements in the field. There are many online courses and books on artificial intelligence that give a comprehensive understanding to the reader whether it is a professional or an AI enthusiast. In this article, we have compiled ..."
+    publishedDateTime: 2019-12-16T13:04:00Z
+    sourceUrl: https://analyticsindiamag.com/top-artificial-intelligence-books-released-2019-that-you-must-read/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.1839BC9A954565A3DB030F0AB0ACC361
+        width: 700
+        height: 525
 
 secured: "XmyrIB+1oLFSQXTc4FwME+qRJSkiA+KKmvxMub81wTO1PPqEhle1Aj+9vOOgQDsonqwHD6mfo51R7Jr52maUHzhT1FcCp6lRgKzmmC2hkXCEPUjvkdw4NaifNDH9yEqRvWtJzb1GZIgFAjsOmjAyxpI0z6lUOpkDzw3Xsh/1YT6AWKW4uyldMsEnoLA7KXHyA6EEqGjnTgfVrCQ5l76+FBBqV4cqiXcgrOOX9yKkbrBKXvJ5qJSK7pSjHsFE/vKhSNrVG5KxAsimhRWfaexgog==;xtpOYdrTZY98T0HvmJEoRA=="
 ---

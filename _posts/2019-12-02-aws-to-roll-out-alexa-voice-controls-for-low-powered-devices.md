@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "AWS extends Alexa voice controls to low-powered devices"
-    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3."
-    publishedDateTime: 2019-12-02T03:10:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T08:27:00Z
+    sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
     type: article
     provider:
-      name: India Times
+      name: telecom.economictimes.indiatimes.com
       domain: indiatimes.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.C0A3D57DF9B9A43894D74AE601CDBE96
-        width: 700
-        height: 379
+      - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
+        width: 800
+        height: 434
   - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
     excerpt: "... called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range of connected devices. This might be anything from smart vacuum cleaners to something as huge as construction excavators."
     publishedDateTime: 2019-12-02T06:41:00Z

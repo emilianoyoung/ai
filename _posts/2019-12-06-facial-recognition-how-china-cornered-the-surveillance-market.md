@@ -198,6 +198,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "'Very worrying': Call for AI, facial recognition reforms to prevent discrimination"
+    excerpt: "The Australian Human Rights Commission has unveiled draft proposals to prevent discrimination driven by artificial intelligence (AI) and intrusive facial recognition. Human Rights Commissioner Edward Santow said there were concerning developments in Australia and abroad that underscored the need for reform in the digital space. Human Rights ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://www.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
+    ampUrl: https://amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
+        width: 700
+        height: 393
   - title: "Homeland Security rolls back its expansion of facial recognition"
     excerpt: "Facial recognition has become a rather touchy subject. Earlier this year, a $35 billion class action lawsuit was filed against Facebook over claims that it harvested consumer biometric data without consent. In San Francisco, the subject is so ripe that the city is considering banning all facial recognition technology within city limits."
     publishedDateTime: 2019-12-12T18:38:00Z

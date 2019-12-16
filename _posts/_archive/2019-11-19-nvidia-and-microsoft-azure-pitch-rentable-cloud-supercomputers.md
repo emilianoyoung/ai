@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: Data Center Knowledge
@@ -23,6 +23,21 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-secured: "NI3yPnazfvr/1RIXTRbXf65o/D6jSN91VuPoPREexf/9gj7j0mNYAp4yHKlC+djvYw91EnQOyWyacjcpOkEtCUPiPabyvEzxeWgECRGbxoq4qX+0dQcx6yceW3RkgZN4cMzoTD4CxddwpkLMDHSvnxQ3Z8wDwq8r9hRJeRToRzXKKNlf+VzeLxj6V27EMLHeJvUQrsXYOaJz4Sl+q+Z44NorAgX9Ag01aGIMwoxjNVQLMefBE8Hzvy31YZ+/9y8JQVagRPl0N7nwYN1cfNq5/g==;H1RNr9izhwR0n36dkOIbFA=="
+related:
+  - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
+    excerpt: "NVIDIA has announced the availability of a new cloud-based, GPU-accelerated supercomputer available on Microsoft Azure. Built to handle demanding AI, machine learning and high-performance computing applications, NVIDIA indicates that their new offering ..."
+    publishedDateTime: 2019-11-18T00:00:00Z
+    sourceUrl: https://www.storagereview.com/nvidia_announces_scalable_gpuaccelerated_supercomputer_in_the_microsoft_azure_cloud
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 47
+    images:
+      - url: https://www.storagereview.com/images/SC19_Microsoft%20Azure.jpg
+        width: 850
+        height: 478
+
+secured: "q+4SVULhrTm/fAUaTmn35X1fE6Z/+OZle6JvLkqEp9Y9wRjaxhyv5nKrPeYWa3K9I2Ja9/1iosY5I9tlrsErJ1Wk9Kyw0exmmc2IGGXO+3+7hWp1DmXzekxbusgAGe6NC/Mw+w5zMrWnAOlurAaGc8qwlDz/PoYOZtesFj90yzjnqQg/CXUIOGZrAIYPWBan+SyEgIXLyNHFpdSiopt7L3aGRFmaThSaQu4jr9BPe3ES3yv1D/TjtUkbF9Tut6e99imiRJlZl/gsU3d7q+treA==;96PJXowxnMxdzeLZUqHfEg=="
 ---
 

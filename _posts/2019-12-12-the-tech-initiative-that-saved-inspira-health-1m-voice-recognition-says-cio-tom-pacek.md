@@ -89,32 +89,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Facial recognition technology latest woe at national children’s hospital"
-    excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
-    publishedDateTime: 2019-12-12T06:46:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/facial-recognition-technology-latest-woe-at-national-children-s-hospital-1.4112451
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.0011F70D041993C645CEF87AF14A4EE2
-        width: 700
-        height: 367
-  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
-    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
-    publishedDateTime: 2019-12-09T09:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
-        width: 320
-        height: 180
   - title: "Far-Field Speech and Voice Recognition Market"
     excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
     publishedDateTime: 2019-12-12T06:44:00Z

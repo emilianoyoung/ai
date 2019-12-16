@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/13/probeat-aws-and-azure-are-generating-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/probeat-aws-and-azure-are-generating-uneasy-excitement-in-quantum-computing/amp/
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       - url: https://www.bing.com/th?id=ON.B35420889D2ACB7EC3BF468B9E935E81
         width: 700
         height: 525
+  - title: "What WON'T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
+    excerpt: "As 2019 winds down, predictions abound on the technology advancements and innovations expected in the year ahead. However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research ..."
+    publishedDateTime: 2019-12-16T13:08:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-what-wont-happen-2020-5g-wearables-quantum-computing-/2019/12/16/9069965.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "CO+RyV6rQLslEExX2el2w6mLQUu25W3qf56ZqjofFE73TNhtbNRZDI5u/po0+UZdS+oJjmg+QG7rmbXNcJW71UqL9vnayzRsbK32laiictTdzdUauygzApfrCSCctI9WxkZOrPF4lw3A7HilMGFgdDoCHnaWhI0UQw5l2hpOXv0Tx8mOFwx1cKb+MvrLnftFEiLKuKBG89CJ8UtIQPmwjPMRSkAZolzDHB8GzVTgw9vcMDRhEG/1Pj9wPI/9L6ikCcE8lCvJKpIT0WlQrKoLqA==;MV70194x+0rFdIAMjF+90w=="
 ---

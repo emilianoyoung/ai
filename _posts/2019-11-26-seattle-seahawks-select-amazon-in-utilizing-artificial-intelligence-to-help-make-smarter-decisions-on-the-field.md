@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-26T14:35:00Z
 sourceUrl: https://www.forbes.com/sites/simonogus/2019/11/26/seattle-seahawks-select-amazon-in-utilizing-artificial-intelligence-to-help-make-smarter-decisions-on-the-field/
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Seattle Seahawks Select Amazon In Utilizing Artificial Intelligence To Help Make Smarter Decisions On The Field"
 
 related:
-  - title: "Seattle Seahawks Shift From Microsoft Azure to Amazon Web Services"
-    excerpt: "Amazon Web Services will provide its cloud computing, machine learning and artificial intelligence capabilities to the Seattle Seahawks ... Sports Media Production & Consumption Seattle’s internal IT systems previously ran on Microsoft Azure but will now operate on AWS as part of a five-year contract with Amazon, according to The Seattle ..."
-    publishedDateTime: 2019-11-26T12:59:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-seattle-seahawks-amazon-web-services
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 54
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
   - title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
     excerpt: "The system will use Amazon Rekognition, a deep learning image and video analysis service, to identify and track players, and give the organization a better understanding of their opponents’ defensive and offensive strategies. Using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, the Seahawks can analyze the ..."
     publishedDateTime: 2019-11-25T18:16:00Z

@@ -40,6 +40,6 @@ related:
       domain: yahoo.com
     quality: 18
 
-secured: "1uf7GbFNY9rVCKUIaaEjbqscdEdR/RJ42CoJr7c4vJBMwHyzyPA5a4Pqi4JrcpLt6YR3qFqaY8ezy81HEqzx0zPPrO8kwoZt1OdCw6C5MN+8ijbnG0LiPxa5rBptOsNN+TQu7wXvenYx7bMmmz+NDd6SWZ9jKAej/9AKFi71Nc48GRGn7PUeNM7K8t17gIVpR98x3Ai2gfoFEjafMVSAv/v0rMtpQoTpA4LbnCnMP0XNV/rDbmSIhjzHZhap9Z+DOe5nfeh7J18Y8cIxTN7CTw==;drvHGScAqlc7szMDPDwLig=="
+secured: "UTcAiz6HIGBpfopRL+2UjgOcwdttlf898XAazxwjhParzUd48ld9m2a9NCMC7rcpnUVV9T5lwHqlA9UHkMyeTclEjA/V7vBzaKuS4S9hjiphc3M8M65GzIHLaihcsM2oj6S5Z4rNRGlNQ3XIcbSPynwKYTJZNvJ5H9foatJIek4MiUTuIAUkyIzTvi7fCYe1QkOlVwOvtZG3iqSuePt4TxpMMFo8vHzwr1po2mOT3/efAITg3m4l58linjpWjsmlDygbfeMxJffEvPjXVZCwIg==;X5NLDwy0MBaO1AHMTvy+fA=="
 ---
 
