@@ -123,19 +123,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor ..."
-    publishedDateTime: 2019-12-09T23:39:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/09/9066563.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.139D907EBC676118B60019BDEFDFF229
-        width: 400
-        height: 271
   - title: "TDK showcases record breadth of solutions for automotive, 5G, IoT, mobile, robotics, wearables and wellness at CES 2020"
     excerpt: "artificial intelligence, 5G cells, IoT and computing enterprise. Solutions for Energy: TDK envisions a future that is powered completely by clean energy. Its film capacitor, and isolated bi-directional DC-DC converters EZA series contribute to the generation and transmission of renewable energy. Personal robots can support the daily lives of ..."
     publishedDateTime: 2019-12-10T14:00:00Z

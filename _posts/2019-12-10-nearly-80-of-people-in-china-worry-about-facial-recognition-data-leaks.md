@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-a
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
         width: 700
         height: 569
+  - title: "62% of Brits would trial retina recognition identification - Equifax"
+    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
+    publishedDateTime: 2019-12-16T12:14:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
 
 secured: "vLom1N2ceXEYvZjM1OJrvowXrPAZ2EwSxKnhfhRQe/RRcUoZzuUzBAdbpCBvtzcAWvNoAjeYWg9Or5dj4rFpzyoArwDNypBKUzOtLl/r6uCy/D7JjpCzi0tslT3HyMlz53afRODBEKfW7gCzuut70MD+eNzrKsoufdtVyVjrYcu4OVu9UaSqM0olxV7YwOHeY40w3U1Rzm2wlEhODijyWrg3oD8fGBMzGbmhhRpzDnbeT+l6NA3iB5lKFm5ZLBIegHTJZK0F8XEbIbJMkuNJlg==;Kq/mRfNsZclr1mnEM0bxRw=="
 ---

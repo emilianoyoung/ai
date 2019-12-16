@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
         width: 700
         height: 569
+  - title: "62% of Brits would trial retina recognition identification - Equifax"
+    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
+    publishedDateTime: 2019-12-16T12:14:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
 
 secured: "4CE7eMVe0pxuvWga8Vce4rheW2d243kvPmqKU6xyfIg7PzK/8uUqsW4+EDXjlDRnHIFJdyzoNtiyFYmkBqd0eAgi6siIWXE8EQ3YdSezUZHpPJ4zbOKCBaa5vmjGLKeS+ZXEDuCHWRJldgJMt8TV1GQOTHsztmaxIioHu4NynrVLM7LNTeohPk7jE3su+1qYvcdq0RpJFIsOdNQrtO7FySLGHXyMmobIQJ6IKccbIgl5i4c238K0eezNPIO0crrDyJ2Ltg5xvMH3zS8W7rP5nQ==;s9ttAk/C/oOsRkvk7A2tQw=="
 ---

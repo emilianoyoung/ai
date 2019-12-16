@@ -571,21 +571,6 @@ related:
       - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
         width: 700
         height: 319
-  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
-    excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
-    publishedDateTime: 2019-12-14T13:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/project-qatar-mobility-self-driving-234200164.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/project-qatar-mobility-self-driving-234200164.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.8A417CEB957C4E0F0F58FC2620E4FE61
-        width: 400
-        height: 229
   - title: "Founder of self-driving truck firm calls truckers' long workdays a 'tarnish on the glory of humanity'"
     excerpt: "The founder of self-driving truck firm TuSimple, Xiaodi Hou, says that truck drivers being required to work long hours on the road is a \"tarnish on the glory of humanity.\" Hou is the founder, president and chief technology officer of TuSimple, which develops technology for automating long-haul truck journeys. The self-driving trucks still have ..."
     publishedDateTime: 2019-12-08T16:42:00Z

@@ -2,22 +2,16 @@
 category: news
 title: "Researchers bypass airport and payment facial recognition systems using masks"
 excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
-publishedDateTime: 2019-12-16T10:35:00Z
-sourceUrl: https://www.engadget.com/2019/12/16/facial-recognition-fooled-masks/
-ampUrl: https://www.engadget.com/amp/2019/12/16/facial-recognition-fooled-masks/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/facial-recognition-fooled-masks/
+publishedDateTime: 2019-12-16T11:35:00Z
+sourceUrl: https://www.msn.com/en-gb/news/offbeat/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2Il8
 type: article
-quality: 101
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -481,6 +475,19 @@ related:
       - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
         width: 700
         height: 366
+  - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
+    excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
+    publishedDateTime: 2019-12-16T12:36:00Z
+    sourceUrl: https://www.ibtimes.com/microsoft-preps-apple-face-id-rival-more-advanced-facial-recognition-2886277
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.72B09EB6E5DCB0EE8B8662AAD8D53666
+        width: 700
+        height: 466
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z
@@ -550,6 +557,6 @@ related:
         width: 600
         height: 295
 
-secured: "rjmopH4P0befnxmI4/wTcMoJ+QQq/oQ53GVep9gLXGDTXWSB9qrrYWaFjAo4R4SIjcfNOGZUL12Vmn6ULD3GLV01GbAspkCfB5zqalyvr22/uvx1li3JgnfieX8fEUwbKqvFJBYlbasUuDv9J+wxXUVYCPiXy9P3bpU1UEt6LmKR0deVBTmc1omBYgnuT1nfJRDL9fJ0R7qBAsM98K6WLtKQpO9AZs3tM3COw2OT7//DcY4qzd9q/saEnQkV2t3GD/fCf9tpDTZyoJceDQmYdQ==;4zK/01c6XCUtFGMVUPRgyQ=="
+secured: "2pCnPU+XQTNQe3vjGkMjEiafehpEeSuN8N3O+XbCdf3rraUgpm3Z5McFEvUWjAq/KzJPMAqpOcyrLhlNeEDFUuKnuMH5of0NSJnQXkIzUVQZz7H4FfdzPYoMKz+lgG3lRKv5NplAo0zSc6E/Gd+Z41K/CsfESVUkzAVd+MKoDpur2/rL/AHBsKdKEjfcu/CGAE/bgDj6DF7Gqwbq4YTFyDWl1PYbUfIJrcOoLDiY4eH+5R4EkVBbEWeFVtvX55VMwsc0rnYqc2DlsDIib/eVIw==;c9lPzDE+HDAO59jsRKFN/w=="
 ---
 

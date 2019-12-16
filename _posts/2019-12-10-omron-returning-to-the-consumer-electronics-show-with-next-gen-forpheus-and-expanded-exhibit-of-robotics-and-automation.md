@@ -244,6 +244,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
         width: 700
         height: 466
+  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
+    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
+    publishedDateTime: 2019-12-09T23:39:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-omron-returning-the-consumer-electronics-show-with-next-/2019/12/09/9066563.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.139D907EBC676118B60019BDEFDFF229
+        width: 400
+        height: 271
   - title: "The rise and fall of MRI studies in major depressive disorder"
     excerpt: "A critical barrier to the clinical translation of many findings is the reverse inference fallacy ... Next, cellular studies using MRI may also provide insight into the pathological features and etiology of MDD. Lastly, machine learning and artificial intelligence will likely aid in the diagnosis of psychiatric disorders in the near future ..."
     publishedDateTime: 2019-12-09T17:21:00Z

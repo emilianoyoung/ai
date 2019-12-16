@@ -364,6 +364,19 @@ related:
       - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
         width: 600
         height: 375
+  - title: "Self-driving bus goes for a test ride in Osaka"
+    excerpt: "OSAKA – Osaka City Bus Corp. took media representatives for a test ride on a self-driving bus Monday. The affiliate of subway operator Osaka Metro Co. aims to start autonomous bus services in fiscal 2020, which starts April 1, in the city’s waterfront area. A French-made Navya Arma autonomous bus was used in the test. When manual driving is ..."
+    publishedDateTime: 2019-12-16T12:13:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2019/12/16/business/self-driving-bus-goes-test-ride-osaka/
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8B3953AC5574BA956B27E2F0709E0B0D
+        width: 700
+        height: 466
 
 secured: "E0x6b4wXNat9bZoHdOOakZd3G68HMrLjp58ChAYoqOQTgh0HIUplbohCUe2zIi42qbQTneir9wsKPNAvgdosChsntUmAE1ecUAnUAU8wEORfaMYCZsYI/jaTh/g43T5fYerqPFBTVrOaEgBM47UHyfe2YzABpnuNv80GIzlh4rkRImiblITYkxxeCwrDAETR/JuyVnqNd0uhDAZII5L2eOeePp3Y2/W4tCSPUiksT0LHO4bO2UB7r3ZZVtDM+T48CD4QIJtQ745V79LY2Mc1ng==;/s3dKVZdkSwpj9fsDoKCGw=="
 ---

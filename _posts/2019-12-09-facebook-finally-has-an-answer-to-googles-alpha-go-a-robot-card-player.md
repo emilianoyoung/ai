@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Facebook Finally Has an Answer to Google’s Alpha Go: A Robot Card Player"
-excerpt: "Four years ago, Google’s then independent artificial intelligence (AI) arm, DeepMind Technologies, stunned the world when its robot chess player, AlphaGo, defeated the world’s best players of the board game Go—by a far margin. Now, Google’s big tech rival, Facebook, has built a similar AI that’s about to dethrone human players in a ..."
-publishedDateTime: 2019-12-09T16:53:00Z
-sourceUrl: https://observer.com/2019/12/facebook-artificial-intelligence-card-game-hanabi-robot-google-alphago/
-ampUrl: https://observer.com/2019/12/facebook-artificial-intelligence-card-game-hanabi-robot-google-alphago/amp/
-cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/12/facebook-artificial-intelligence-card-game-hanabi-robot-google-alphago/amp/
+excerpt: "arm, DeepMind Technologies, stunned the world when its robot chess player, AlphaGo, defeated the world’s best players of the board game Go—by a far margin. Now, Google’s big tech rival, Facebook, has built a similar AI that’s about to dethrone human players in a more complicated game."
+publishedDateTime: 2019-12-09T17:53:52Z
+sourceUrl: https://www.msn.com/en-us/news/technology/facebook-finally-has-an-answer-to-google’s-alpha-go-a-robot-card-player/ar-BBXZWou
 type: article
-quality: 45
-heat: 45
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Observer
-  domain: observer.com
+  name: OBSERVER on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-  - Google AI
   - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.0ED354684E641FD422A96E1F2BC597CF
-    width: 700
-    height: 463
+  - url: https://www.bing.com/th?id=ON.ABA740137E01035746AF0B5714F6460D
+    width: 600
+    height: 315
     title: "Facebook Finally Has an Answer to Google’s Alpha Go: A Robot Card Player"
 
-secured: "8+/YuVj5WvV2Iqv0E75W9W1fR05745htTU40ySF4F+h2ybX/IfwJGWb3RrZ3bw1pbck1AchPDSGww57yTSNBHYrSXewVAsbg0nOq8uH3y8YAvwTVrxnORdVfzVQC39bYs1EttHggp2DOsdqarUkZXb8ZAaqML5dultgH6dErba/omgU+SyTskApccXH+w6h9wIM3PdkdbKZPGvNd5efz52LGcANaAhTekvtJa89WUVqZt9XImfb/MRGPzMW4RxJCW9efT8w09SPCpJ2yKs0Dcg==;7xiQjbYJyYekWH9Ot3KWJg=="
+secured: "09UpBrsk8nkHdQM2xWAP+lQZDfEPeTsmsn8Jp19wi0KpYtqVUMkpUeOEVuZ8Q+XtdN+iCxIBx+hWL+HDEK3RPFfRKQTke94ZMdZNbQ3HFDlyCBI5mVQKm+xCwy/SXPmYiF0wG4Ka56xRnQQumM4/pGvXx6iYKk9aLw5J0Vp11ksf4eypsaplcqXUratdYsY/fzjVXE1R7Uu6MJhO0Mc3I3FYjSur/N9VoFl9YPNPrqzeHgfBfUswL0lqfJm0yDuV+CFMu8R6AMBiI78/wzQuCw==;37BVGIPF2z+5N9+6d9OF5g=="
 ---
 

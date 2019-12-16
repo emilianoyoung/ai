@@ -97,21 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
-  - title: "Researchers bypass airport and payment facial recognition systems using masks"
-    excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
-    publishedDateTime: 2019-12-16T10:35:00Z
-    sourceUrl: https://www.engadget.com/2019/12/16/facial-recognition-fooled-masks/
-    ampUrl: https://www.engadget.com/amp/2019/12/16/facial-recognition-fooled-masks/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/facial-recognition-fooled-masks/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
-        width: 700
-        height: 367
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -338,6 +323,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F2C2B074ED47818D6E2FE830FACBE09D
         width: 300
         height: 170
+  - title: "Researchers bypass airport and payment facial recognition systems using masks"
+    excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
+    publishedDateTime: 2019-12-16T11:35:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2Il8
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
+        width: 700
+        height: 367
   - title: "Voice Recognition Market : Key Facts and Forecast Predictions Presented Until 2025"
     excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. The major factors driving the growth are rising need for Voice Recognition worldwide, aim to enhance security in ..."
     publishedDateTime: 2019-12-10T12:16:00Z
@@ -481,6 +479,19 @@ related:
       - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
         width: 700
         height: 366
+  - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
+    excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
+    publishedDateTime: 2019-12-16T12:36:00Z
+    sourceUrl: https://www.ibtimes.com/microsoft-preps-apple-face-id-rival-more-advanced-facial-recognition-2886277
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.72B09EB6E5DCB0EE8B8662AAD8D53666
+        width: 700
+        height: 466
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z

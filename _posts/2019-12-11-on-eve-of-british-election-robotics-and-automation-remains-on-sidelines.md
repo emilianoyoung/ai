@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T16:48:00Z
 sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
 type: article
 quality: 98
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -110,19 +110,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor ..."
-    publishedDateTime: 2019-12-09T23:39:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/09/9066563.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.139D907EBC676118B60019BDEFDFF229
-        width: 400
-        height: 271
   - title: "Emotion Recognition Is Creepy As Hell"
     excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
     publishedDateTime: 2019-12-13T21:12:00Z

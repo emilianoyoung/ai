@@ -3,7 +3,7 @@ category: news
 title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
 excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
 publishedDateTime: 2019-12-13T11:54:00Z
-sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12/
+sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
 type: article
 quality: 57
 heat: -1
@@ -239,6 +239,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "wWfYKziEW1N1mBZ1b3vU8BW6o18i5sMkFTwTm5Mz9cKgHP7NdLMX3L2jWrMFanA54PiNgE7GiNQk1uNPPaOuUzO1z82g/nEH3zflGoYk4MZBXpq6L6AqxqzJUS6gSFjY8N4qW34WTqXnplLjC2q16sJIuiTy7hwyyrMdtnDaHvhKlyj7O7mTKXjE3JcGyJrplQsr0l+gtIrcacvr816JcrnTBSs+d1JuYD+ATTMzCC29XHInOdZjY8R1bslxoL6am3hau3+4ttAmZQoTpFPdrw==;GH+SXSR9tRkBOXbbJ8H6HA=="
+secured: "BRwhJBMyT0d+j8pmarZ0EoBjUITk5djD6ImROwJfOcsVj2udlA1dcO0NZgJsckSh/U15utX1QHcaYmGNonZfB/8vc5rDKP91wlBf90lr2bS/zxNnDoxd2nd2Uk6qC8IE17AdasxkRavEQoexaYxDRfxxItcGikbXY6V0GmS3W7kiOWJkquQC5VpO5YgjdCX5HZc/VDwBLufKpynyYyWad4t2uusQX9XumjaJPR5AalHpPm0jqkfCpBKm6giOtdPbHcck55XGPs7GZFy6zgiQ/Q==;esdIFwo2desJQCPnf4KEhw=="
 ---
 
