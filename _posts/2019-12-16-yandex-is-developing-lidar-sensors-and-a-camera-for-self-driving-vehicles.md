@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-an
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
     quality: 24
     images:
       - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
+        width: 700
+        height: 367
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost."
+    publishedDateTime: 2019-12-14T13:48:32Z
+    sourceUrl: https://www.msn.com/en-us/money/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+    type: article
+    provider:
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.86D949F7F2875B247B460212E963C62B
         width: 700
         height: 367
 

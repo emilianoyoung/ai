@@ -104,6 +104,19 @@ related:
       - url: https://www.bing.com/th?id=ON.739097A0A6F7F29656C58B1FE4F38D34
         width: 700
         height: 389
+  - title: "Intel Beefs Up AI Portfolio With $2B Purchase Of Israeli Startup Habana Labs"
+    excerpt: "Intel said it expects the purchase to strengthen its AI portfolio and accelerate its efforts to capitalize on the fast-growing AI chip market, which it estimates will exceed $25 billion by 2024. \"More specifically, Habana turbo-charges our AI offerings for the data center with a high-performance training processor family and a standards-based ..."
+    publishedDateTime: 2019-12-16T21:51:29Z
+    sourceUrl: https://www.msn.com/en-us/finance/news/intel-beefs-up-ai-portfolio-with-242b-purchase-of-israeli-startup-habana-labs/ar-BBY3RLL
+    type: article
+    provider:
+      name: Benzinga.com on MSN.com
+      domain: msn.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.6A21AA074E08AEF67015BD38D9AF2505
+        width: 400
+        height: 300
   - title: "Intel buys Israeli AI chip specialist Habana Labs for USD 2 bln"
     excerpt: "Intel has bought Israeli AI chip startup Habana Labs for USD 2 billion, following reports the sale would run to USD 1 billion. The startup, which develops programmable deep learning accelerators, will become part of Intel’s artificial intelligence (AI) portfolio and push the company’s efforts in the AI silicon market, which Intel expects ..."
     publishedDateTime: 2019-12-16T15:02:00Z

@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
-excerpt: "Intel expects the fast-growing AI chip market to exceed $25 billion by 2024, with its own AI-driven revenues this year seen rising 20% from 2018 to more than $3.5 billion. Intel has increasingly been depending on sales to data centers as PC sales stagnate. \"Habana turbo-charges our AI offerings for the data center with a high-performance ..."
-publishedDateTime: 2019-12-16T16:46:00Z
-sourceUrl: https://finance.yahoo.com/news/intel-acquires-israel-based-habana-141109669.html
-ampUrl: https://finance.yahoo.com/amphtml/news/intel-acquires-israel-based-habana-141109669.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/intel-acquires-israel-based-habana-141109669.html
+excerpt: "Intel Corp has bought Israel-based artificial intelligence (AI) firm Habana Labs for about $2 billion, the chipmaker said on Monday, seeking to expand its AI portfolio to bolster its data-center business."
+publishedDateTime: 2019-12-16T20:51:00Z
+sourceUrl: https://www.reuters.com/article/us-habana-labs-m-a-intel-idUSKBN1YK1BU
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YK1BU
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YK1BU
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.2293434E8267F89AA450123B74348FE1
+  - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
     width: 700
     height: 466
     title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
@@ -249,6 +252,6 @@ related:
         width: 600
         height: 592
 
-secured: "58Yi28T6jZzTfKHxt8cC/lAnWCwe+AWAQ3K6FNe8As3P9p0rJNom4NxeseldsQZn1sKxA+YJblEMV/ToJ+P6N2kMa477pPfuVOKLOUjWhkWsiJ/4dStkHYJkowGZEk+2pAyAJ19/P4dO2juW76V/M9LUuSBvQfkhPHbvhj0ftrZ5R0XlYUm2DkCmtVHIQuezI5YeGloK0OptCq0PbbmpmU5WvZ7hVcH9/68qj5oVqd7Rs/IoLV0N6ek7kri9C9Y0rqkOhCNE6lcNvhMjdfdfQg==;ojU/RxXW4nM9FfNDLx3YaA=="
+secured: "FZN3Sqo+u9/ZICRZldjh1ZHvSLEHTbyq7erqeGM8fFeKk6HoPEtZO0jsBoFHoTE4S3pFeeh7Qpz8mne4/bqrjRuATdP4vts/jzj/Jrx4jINr1MQGNh3UcOUzQ+7zP89veQfxIhjreyZVW561Xe5p4bx5CRGxTj7zG8A/I4tX22OVpce0pwdVqozPuawkNNZoDxez1I1R+Z6QhjyL5TIybBLUc9uaBioBHorYP4aDFve/J6T58hR5xQ6mPwYbmG3rWVxCDoEf200cM34oSq07/g==;P603WxA/OAzEG67UGECbtQ=="
 ---
 

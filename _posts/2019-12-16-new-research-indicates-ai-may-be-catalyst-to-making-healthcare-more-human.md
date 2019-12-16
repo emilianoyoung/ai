@@ -1,27 +1,25 @@
 ---
 category: news
 title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-excerpt: "CHICAGO & LONDON--(BUSINESS WIRE)--Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on ..."
-publishedDateTime: 2019-12-16T15:59:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191216005182/en/
+excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+publishedDateTime: 2019-12-16T14:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
 type: article
-quality: 53
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.C0163F599F31648066814883783D13A6
-    width: 700
-    height: 365
-    title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
 
 related:
   - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
@@ -105,6 +103,6 @@ related:
         width: 1200
         height: 448
 
-secured: "v1cSQs2lB651micYD2Fi2MoVtd9FjOhcjBv9eFJxipeStU3yvr6Ly8sTQ2Y+VddfgfX7HOV1zGRbYGHatRWyAOUHG5z+PMkH2sK0cd+aETUoEA9OJ+dwO3AL9QRisbJwQnYVmD4/CowHmZQT+Kk+iQcXG3DsVbziJdp6oMoZZCDJ9hUyBq+RpA9y4RZxjcZKxhQmBDojENmgYTLCDb8djBKUjh3p4ts9Z7n7MtPG/yGfn/qPExL85xnybJHfZbIf9FrVwPCmALGSBi6W3auyhg==;D1THHjbmXiOW0T1Proi4ZA=="
+secured: "wBL+gsrdpIWUWu2ISmC5UeYzrru/CE9wO1FrKgIG+FttUQczwnATXkNNK96BZkeGehaqeSvzHTvXxWkHSQxQjQt7khb8YZxAmL6y8Dzy16HZ4e37cgHXp7SXaAXDBPDV58l2tWYMSpDKknxLXRRut/PcyJSX/6oyq2RmdaKleiVt/RY69zrVN7ZOH9+46R+MrL+6W8ytVksVMNASFlGvCzDk2LHwAKiO5TWfxlwQiL5sBdFUYtWK9um3AC9Y6j5K15HijaYJQPpgzIS9/eTzPg==;V/uHjS8EMu/4JVmqHxahog=="
 ---
 

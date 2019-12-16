@@ -1,8 +1,8 @@
 ---
 category: news
 title: "UGA researchers receive grant to study self-driving cars"
-excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and machine learning techniques to try to make the system learn from data and identify patterns."
-publishedDateTime: 2019-11-26T13:06:00Z
+excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
+publishedDateTime: 2019-11-26T13:04:00Z
 sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
 type: article
 quality: 24
@@ -18,9 +18,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.EA24382FC5DE25CB0E80CD6C6C1B5E47
-    width: 700
-    height: 567
+  - url: https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/d/e5/de52d844-1001-11ea-b8e2-afd13556e3e0/5ddca470088fa.image.jpg?resize=777%2C630
+    width: 777
+    height: 630
     title: "UGA researchers receive grant to study self-driving cars"
 
 related:
@@ -219,6 +219,6 @@ related:
         width: 700
         height: 393
 
-secured: "qHUCDb3r+pIZZyNWLvNSCh8GMdBOVKr/LAgyCE5sL+xwn8BFuZcougZ6qp8qETxxFox0XfsV1XvZVfktcqIeEkAXxlAl6m2O7eLpHFzcoenb1fTR1x1TLKMsVRyqPvKal5VQemTSvEVg/96qQ0l8j2JC+RwIywGEHAblOl6DVPNrEYa4PD1KWTSZ0CUkzZMDPxFBQRLuCgZi3poTcJ3nJL2QZhBXrveCZm3sfI6X69kg1HBlIG8lhmsmEio+Nq5W7+0SUdZ7oqqK1BTcf/9c2g==;I+andudboSf4Bnn1/rBPfg=="
+secured: "tWHf+oADGHeqynWrs2kU+n0VxRkU6gzrNP7NC2vc3o3pPSDipMTdQAxvnbj7fUWXMfe0dyUtNjqmW5vQtNGYfXumn2gnt5NqnVZzfiwI7hV+lP6fhaYPZr3keZl2Fa61dTL+QKHpIyhhlmvVgi1YeTVs3W2a32z3/dz/yRRl4qgp+FXnMXIoTfwbTfX6wiG2M+jpXAlUieFDqSrjL88UrEJvsneiDpS+ElTqcJ44gtz+2uxm1BGVOT7TRhIVjxQfnlrE1qKr0KVN6ciAALbhlw==;8qry+aH9G04n/T9mk4PI3w=="
 ---
 

@@ -31,21 +31,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2CF993488DD1E8A9225C51DE4D9AA43A
         width: 700
         height: 479
-  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
-    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
-    publishedDateTime: 2019-12-12T07:42:00Z
-    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
-    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
-        width: 700
-        height: 402
 
 secured: "tLuW8cVASmkBTiLMEYDGuNrraM5H1tN9ix5KQblfTc0IDBjFRTmHzHPEl32Z/GxSz97UkjQCcqPj3Sd1ISfZJ/HqgjLUvOQEgK/2HlQtpEN87t0/cBGrmuX+xvN26Igb7FBOBZ/zeh3DVxXo31JdABNgprP8kggdkH4YK9DRmStLm6g5DuTzyisn6xOh6fYbX4J+x3PrCUnn4S1AdNkabuTh5nt/TDYFYgQq62HA4pkk+pW7uvX8oG5Aqg8QDAsGLcQoDtoyoYdSHMmSmgZbKA==;cBlmXee7AspvWMHvkyWXeg=="
 ---

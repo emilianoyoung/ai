@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C7F25CCA3C9834CA2A53752ED198614E
         width: 700
         height: 367
+  - title: "Google is developing AI to do more with 'much less data'"
+    excerpt: "Though Facebook's vice president of artificial intelligence predicted researchers attempting to scale AI solutions will soon \"hit the wall,\" the head of Google's AI research group recently countered with many ways to get through, over and around that wall. In an interview with Wired, Google's Jeff Dean, PhD, said that much of AI's potential ..."
+    publishedDateTime: 2019-12-16T22:05:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/google-is-developing-ai-to-do-more-with-much-less-data.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
+        width: 400
+        height: 300
 
 secured: "Ndn/uXpWDpPfMdrHcGLXfF+W8JeOL8BAdhsiUcvlWic78KtY14bvk+BJN27o/dTfd265/Un90JKFxzz2p/TGmmwzd1zaZKZqLsNC6wna0wMoRB4mxvVeyhNO1H5G73gnVQnrs3czztn6XcPPpzrMwR8LIgg2ZCfxoDo4Abdval+OzmH2Uau3zH8FsTlSAMzXHZbcNoFtvmK5cY5HYFqmy3asrlExUviBJrV3J3ly7YRl9X/0xgDlUgOevisc564nTSuTZDvBNlbOKmc/0jv2Mg==;0oXT4vOk1PSWyAYj3VsMZQ=="
 ---

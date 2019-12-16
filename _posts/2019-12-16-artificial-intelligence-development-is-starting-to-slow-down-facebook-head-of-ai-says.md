@@ -8,7 +8,7 @@ ampUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to
 cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
         width: 700
         height: 525
+  - title: "Google is developing AI to do more with 'much less data'"
+    excerpt: "Though Facebook's vice president of artificial intelligence predicted researchers attempting to scale AI solutions will soon \"hit the wall,\" the head of Google's AI research group recently countered with many ways to get through, over and around that wall. In an interview with Wired, Google's Jeff Dean, PhD, said that much of AI's potential ..."
+    publishedDateTime: 2019-12-16T22:05:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/google-is-developing-ai-to-do-more-with-much-less-data.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
+        width: 400
+        height: 300
 
 secured: "FrS600F2dzo86/TiXrFzUUW58LMEz9IgMbKV4a2yVmQS2G95ZnkoMMVvOQRrHDgSwMfkTXdQudwXPN+0rgBBLyJd6ClUks+rGs71hRCkY3Zq1ggGZoMG4lq4aWuPf3qka/1idE9FFhXCovE4Og7Ig6JIOBhUxl1JNTqgS1UlNbOPv5SKfweFhUxjo/xx11UcppFxRHzeTdQh+zAj0KPuwxmbDt+61Z5gz1OrjZY9LD6Hz/G2QrmT/lR19HyKLNqenmdFmT3Yz9NZavgOrPmhRA==;CSHU1vBhsPelAQF5E196qA=="
 ---
