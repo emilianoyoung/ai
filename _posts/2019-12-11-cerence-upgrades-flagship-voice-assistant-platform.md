@@ -24,35 +24,50 @@ images:
     title: "Cerence Upgrades Flagship Voice Assistant Platform"
 
 related:
-  - title: "Gosu.ai’s AI-driven voice assistant coaches gamers as they play League of Legends"
-    excerpt: "Gosu.ai, the AI-driven video game coach, unveiled its plans for a desktop voice assistant that proactively offers strategy, tactics, and feedback to gamers as they play League of Legends. Previously, Gosu.ai’s virtual assistant used machine learning to offer detailed post-match analysis with recommendations regarding training matches ..."
-    publishedDateTime: 2019-12-05T14:02:00Z
-    sourceUrl: https://venturebeat.com/2019/12/05/gosu-ai-creates-ai-driven-voice-assistant-for-coaching-as-you-play-league-of-legends/
-    ampUrl: https://venturebeat.com/2019/12/05/gosu-ai-creates-ai-driven-voice-assistant-for-coaching-as-you-play-league-of-legends/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/05/gosu-ai-creates-ai-driven-voice-assistant-for-coaching-as-you-play-league-of-legends/amp/
+  - title: "Resemble AI launches voice synthesis platform and deepfake detection tool"
+    excerpt: "AI and machine learning are powerful tools for the synthesis of speech. As countless studies have demonstrated, only a few minutes — and in the case of state-of-the-art models, a few seconds — are required to imitate a subject’s prosody and intonation with precision. Baidu’s latest Deep Voice service can clone a voice with just 3.7 ..."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/
+    ampUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 86
     images:
-      - url: https://www.bing.com/th?id=ON.CE613AE75EBCE5D857CFF4653FA43F49
+      - url: https://www.bing.com/th?id=ON.EB3C3B1774FDCC76E6F0ABC58F35821B
         width: 700
-        height: 328
-  - title: "Gosu.ai’s raises $2.8 million for AI-based coaching for gamers in League of Legends"
-    excerpt: "Gosu.ai, the AI-driven video game coach, has raised $2.8 million for its AI-based video coach that helps players get better at playing League of Legends. The news comes after the company last week unveiled its plans for a desktop voice assistant that proactively offers strategy, tactics, and feedback to gamers as they play League of Legends."
-    publishedDateTime: 2019-12-10T21:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-based-coaching-for-gamers-in-league-of-legends/
-    ampUrl: https://venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-based-coaching-for-gamers-in-league-of-legends/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-based-coaching-for-gamers-in-league-of-legends/amp/
+        height: 350
+  - title: "Facebook, Microsoft, and others launch Deepfake Detection Challenge"
+    excerpt: "The data set — which contains 100,000-plus videos in total — was tested through a targeted technical working session in October at the International Conference on Computer Vision, said Facebook AI Research Manager Christian Ferrer. It doesn’t include any user data and it features only participants who’ve entered into usage agreements so ..."
+    publishedDateTime: 2019-12-11T17:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/
+    ampUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 81
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1A6F347AD2B3E9B696545C159F9CE9C6
+      - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
         width: 700
+        height: 350
+  - title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
+    excerpt: "the company has also announced a partnership with US-based tech giant Microsoft to bring AI-powered coaching and conversational insights to clients of both the companies through Microsoft’s Azure marketplace. Swapnil Jain, CEO and cofounder of Observe.AI said that today’s customer service agents have a unique ability to emotionally connect ..."
+    publishedDateTime: 2019-12-10T15:38:00Z
+    sourceUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/
+    ampUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
+    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.745B2FB17D491C35EA9D06A77539B52E
+        width: 490
         height: 360
 
 secured: "gJXKy3jeEzmD+ptojFNNbNse0N2shANA1qYyI9Tgd/95EHvJgxnYuLNgCkI/gPDx8QNB68I+YVTQJ1ruucm2sEF+If7aAZh1mKb53Pd+LvMOt+P5spn5Q169X4cSTaoPLn37shiW5FgY6ShkJbKrxO4lSaRFqShvKbTL4okQBpd3AtFKn13DAWemS+Sn/5gI3g1r1LnOybBhukjibsY54lgbHAnNGVDzPi7Wz3GbMPpH8Ci6jBam37Mlt87cJNzBWK/VO3odBUu45V3TpkPkbA==;hrD3qcSHjdKQ53hMRU4mOQ=="

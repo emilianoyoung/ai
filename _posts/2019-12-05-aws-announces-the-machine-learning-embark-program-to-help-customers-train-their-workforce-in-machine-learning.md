@@ -183,6 +183,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
         width: 700
         height: 558
+  - title: "How machine learning is enabling smart trading"
+    excerpt: "Machine learning plays an active role in acquiring real and actionable insights ... As the costs of ML hardware falls, even smaller financial services companies are making a beeline to adopt such solutions. Trading, which essentially involved understanding and reacting to patterns across financial markets will not remain the same ever again."
+    publishedDateTime: 2019-12-04T07:36:00Z
+    sourceUrl: https://www.dqindia.com/machine-learning-enabling-smart-trading/
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B56987B5EBB058261D64E7693DCBDCAE
+        width: 700
+        height: 288
   - title: "Data-driven deep reinforcement learning"
     excerpt: "One of the primary factors behind the success of machine learning approaches in open world settings, such as image recognition and natural language processing, has been the ability of high-capacity deep neural network function approximators to learn generalizable models from large amounts of data. Deep reinforcement learning methods ..."
     publishedDateTime: 2019-12-07T20:00:00Z

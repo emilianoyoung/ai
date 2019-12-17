@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A4046261FC6E71237042435BCF6388B2
         width: 700
         height: 350
+  - title: "Voximplant raises $10 million to automate call campaigns with AI"
+    excerpt: "Can the cloud-based unified communications market, which is anticipated to reach $167.1 billion by 2025, be materially transformed by AI? Alexey Aylarov, Andrey Kovalenko, and Sergey Poroshin firmly believe so. They’re the founders of Voximplant, a startup developing products that imbue web and mobile apps with voice, text, and video chat."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.53900F1B8FD2F370F0BF607AC7B8965F
+        width: 700
+        height: 350
   - title: "LeanTaaS raises $40 million to optimize health clinic operations with AI"
     excerpt: "It’s not without competitors — University of Washington spinout Perimatics offers an AI system that uses data on patients and surgeons to predict the length of surgeries, as do Tagnos and Qventus — but LeanTaaS has market momentum on its side. “LeanTaaS’ iQueue represents a rare nexus of product leadership, robust ROI, and fast time ..."
     publishedDateTime: 2019-12-12T11:00:00Z

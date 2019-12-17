@@ -24,21 +24,6 @@ images:
     title: "Microsoft Joins Facebook’s Deepfake Detection Challenge"
 
 related:
-  - title: "Facebook, Microsoft, and others launch Deepfake Detection Challenge"
-    excerpt: "The data set — which contains 100,000-plus videos in total — was tested through a targeted technical working session in October at the International Conference on Computer Vision, said Facebook AI Research Manager Christian Ferrer. It doesn’t include any user data and it features only participants who’ve entered into usage agreements so ..."
-    publishedDateTime: 2019-12-11T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/
-    ampUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
-        width: 700
-        height: 350
   - title: "Facebook, Microsoft, AWS: We want you to take up the deepfake detection challenge"
     excerpt: "Facebook has announced the launch of the Deepfake Detection Challenge, an effort backed by several universities, AWS, and Microsoft. The organizations announced the challenge in September, committing $10m in grants and rewards for research that could help create detection systems for AI-generated deepfake videos. Facebook said at the time ..."
     publishedDateTime: 2019-12-12T13:41:00Z

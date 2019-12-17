@@ -35,19 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1B9FF573E76A9C08206C719AEF144FBD
         width: 620
         height: 480
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal Life Science Alliance. Colorectal tumors are extremely varied in how they ..."
-    publishedDateTime: 2019-12-02T16:59:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/mdcf-dli120219.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.43905F972D43FC881D7EBF5C44D37F5D
-        width: 700
-        height: 437
   - title: "Machine learning, imaging technique may boost colon cancer diagnosis"
     excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method’s accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report using this ..."
     publishedDateTime: 2019-12-04T14:39:00Z
@@ -87,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.97D82C94774429217496A98861EFE52D
         width: 650
         height: 508
-  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
-    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical coherence tomography (OCT) system that automates image processing and identified tumors with ..."
-    publishedDateTime: 2019-12-06T04:03:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.14F902C26C0B219B3C401AB2C0CE2F4D
-        width: 700
-        height: 367
 
 secured: "5W8ABZd3WwXYm4ERyVKDEoL7fhF1uPMglNYnmV6tLpo35Q8jGIgxMRrOkggWG4c5KXVzEWuuDSzx+Hhx5YJeDhFqexhRj8o4GL+xq+lf35ZNhH9J6cDilezCFoN/h3cu1WzXxZVD33ltjsgfDBwGICy8QGea1pEUGuwjh6F1Kz7wruk0qY301wDSkYBrb4JRzDtsqUuzV9cq4yntyk0mUzCGUuXcztF51YBGd/SuSdPa9vyGUgQsd+zTIPQOlelu+wvGNmCfWCk4YTVEA0ataQ==;Wvc+YqLyqABLY8yudgv5rA=="
 ---

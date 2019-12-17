@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CE613AE75EBCE5D857CFF4653FA43F49
         width: 700
         height: 328
-  - title: "Cerence Upgrades Flagship Voice Assistant Platform"
-    excerpt: "Cerence Drive provides car manufacturers with speech and voice recognition tech that can serve as a foundation for cloud-based and embedded conversational assistants. The latest iteration of the platform makes improvements to the company’s natural language understanding (NLU) engine, which is built on one central technology stack and is ..."
-    publishedDateTime: 2019-12-11T18:55:00Z
-    sourceUrl: https://mobileidworld.com/cerence-upgrades-flagship-cerence-drive-voice-assistant-platform-121107/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
-        width: 700
-        height: 490
 
 secured: "SBDKHjiFAA02ukgdXzs7gPaqzkwlh3xOi81VAOUnBt3UnipnzZO16BjMRBdEdL0RALvOsSlXBUQ3xmzBUXc/oJLoTz48+wX2ZQ/wIuPYGNlr1cR6UK++6MihpLvUPPQ4DgKakhPjbfd3nhhCkvDTybToVd9Dfk/V3zpNac1v5IwOMo6NpvLl9Dd4yzPh3UcvLFohNiCDU94i30cAkwsWi/ynJVnjciThR9f2jm9IuOgGzWK2tH4+fXFNBqY2m8w6+wOGJrKyzPksa5cLRWCZtg==;L3wt8HxzasOxf5hA4NFSTg=="
 ---

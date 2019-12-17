@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.91AF421CD45A630818614B04A70E3BBB
         width: 700
         height: 350
+  - title: "Voximplant raises $10 million to automate call campaigns with AI"
+    excerpt: "Can the cloud-based unified communications market, which is anticipated to reach $167.1 billion by 2025, be materially transformed by AI? Alexey Aylarov, Andrey Kovalenko, and Sergey Poroshin firmly believe so. They’re the founders of Voximplant, a startup developing products that imbue web and mobile apps with voice, text, and video chat."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.53900F1B8FD2F370F0BF607AC7B8965F
+        width: 700
+        height: 350
   - title: "CallMiner raises $75 million to derive insights from phone calls with AI"
     excerpt: "“We are revolutionizing the way brands and people interact and conduct business — and it all starts with AI-driven customer insights and intelligence,” he said in a statement. Above: CallMiner’s analytics dashboard. CallMiner’s marquee product is Eureka, an analytics suite delivering speech and text analytics for customer call center"
     publishedDateTime: 2019-12-16T14:00:00Z

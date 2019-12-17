@@ -26,47 +26,49 @@ images:
     title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
 
 related:
-  - title: "Observe.AI Raises $26M; Leverages Artificial Intelligence To Optimize Voice Customer Service"
-    excerpt: "Observe.AI also announced a long-term strategic partnership with Microsoft. With this partnership, Microsoft customers can leverage Observe.AI’s platform through its Azure marketplace. “At Microsoft, we're thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI ..."
-    publishedDateTime: 2019-12-11T11:52:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
+  - title: "Resemble AI launches voice synthesis platform and deepfake detection tool"
+    excerpt: "AI and machine learning are powerful tools for the synthesis of speech. As countless studies have demonstrated, only a few minutes — and in the case of state-of-the-art models, a few seconds — are required to imitate a subject’s prosody and intonation with precision. Baidu’s latest Deep Voice service can clone a voice with just 3.7 ..."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/
+    ampUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 63
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: https://www.bing.com/th?id=ON.FB81E033B7F6B87FDB6017BEF2CF4B89
+      - url: https://www.bing.com/th?id=ON.EB3C3B1774FDCC76E6F0ABC58F35821B
         width: 700
-        height: 672
-  - title: "Voice Customer Service Observe.AI Closes $26 Million In Funding"
-    excerpt: "Through this relationship, Microsoft customers will be able to leverage Observe.AI’s platform through its Azure marketplace. “At Microsoft, we’re thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI continues to define how AI can transform the customer ..."
-    publishedDateTime: 2019-12-11T23:24:00Z
-    sourceUrl: https://pulse2.com/observe-ai-26-million-funding/
+        height: 350
+  - title: "Facebook, Microsoft, and others launch Deepfake Detection Challenge"
+    excerpt: "The data set — which contains 100,000-plus videos in total — was tested through a targeted technical working session in October at the International Conference on Computer Vision, said Facebook AI Research Manager Christian Ferrer. It doesn’t include any user data and it features only participants who’ve entered into usage agreements so ..."
+    publishedDateTime: 2019-12-11T17:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/
+    ampUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.FA0F794A55B2EEC03F9AAB5711C9D47C
+      - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
         width: 700
-        height: 680
-  - title: "Observe.AI Raises $26 Million to Digitally Transform the $300 Billion Voice Customer Service Market with Artificial Intelligence"
-    excerpt: "With this relationship, Microsoft customers can leverage Observe.AI's platform through its Azure marketplace. \"At Microsoft, we're thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI continues to define how AI can transform the customer experience, impacting ..."
-    publishedDateTime: 2019-12-10T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/observeai-raises-26-million-to-digitally-transform-the-300-billion-voice-customer-service-market-with-artificial-intelligence-300971971.html
+        height: 350
+  - title: "Cerence Upgrades Flagship Voice Assistant Platform"
+    excerpt: "Cerence Drive provides car manufacturers with speech and voice recognition tech that can serve as a foundation for cloud-based and embedded conversational assistants. The latest iteration of the platform makes improvements to the company’s natural language understanding (NLU) engine, which is built on one central technology stack and is ..."
+    publishedDateTime: 2019-12-11T18:55:00Z
+    sourceUrl: https://mobileidworld.com/cerence-upgrades-flagship-cerence-drive-voice-assistant-platform-121107/
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
+        width: 700
+        height: 490
 
 secured: "q4aA0ChwFOr1BQYbiwDOsR+BW3qSNKyB5qeanQhPvjQtBOtygiAcWTH+taQhxwMhKr69YRN+dEc0mN9G3egJJTnvVe+kJeL94AMYCxZuUNzFR8/alVklo122uyxwIbBKtz1ia/sh9mcTcqkMJL5Hedmv7cF+zONZEA8H/sqjotuKC72UtSuZLOKSHMDi5UWfAzUfL4/G2/GSaYMkuQ3YPSAc+t0Jb2/Wykz4GEpL5xuxR07X7e9xjQkbFretms7RglohEKHvZJvrcuPgrL5bYQ==;XsL9usietlWAEI7ohbStxQ=="
 ---

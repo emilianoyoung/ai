@@ -30,34 +30,62 @@ images:
     title: "How StreetLight Data uses machine learning to plug cities into the mobility revolution"
 
 related:
-  - title: "How Rossum is using deep learning to extract data from any document"
-    excerpt: "The equivalent of over 100 human lifetimes is spent globally each day on data entry from invoices alone, according to Czech AI startup Rossum. And that is why the company is using deep learning technology to help businesses ditch manual data entry altogether, freeing up humans to focus on more complex or creative tasks. The problem Rossum is ..."
-    publishedDateTime: 2019-11-27T12:19:00Z
-    sourceUrl: https://venturebeat.com/2019/11/27/how-rossum-is-using-deep-learning-to-extract-data-from-any-document/
-    ampUrl: https://venturebeat.com/2019/11/27/how-rossum-is-using-deep-learning-to-extract-data-from-any-document/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/27/how-rossum-is-using-deep-learning-to-extract-data-from-any-document/amp/
+  - title: "China's facial recognition rollout reaches into mobile phones, shops and homes"
+    excerpt: "China on Sunday put into effect new regulations that require Chinese telecom carriers to scan the faces of users registering new mobile phone services, a move the government says is aimed at cracking down on fraud."
+    publishedDateTime: 2019-12-03T00:09:00Z
+    sourceUrl: https://www.reuters.com/article/us-china-technology-explainer-idUSKBN1Y60MN
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Y60MN
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Y60MN
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 85
     images:
-      - url: https://www.bing.com/th?id=ON.09535EDA133250EF59C375B86CD2887D
+      - url: https://www.bing.com/th?id=ON.94E85C2847777DA2D9EA9F140F028D09
         width: 700
-        height: 364
-  - title: "How machine learning is enabling smart trading"
-    excerpt: "Machine learning plays an active role in acquiring real and actionable insights ... As the costs of ML hardware falls, even smaller financial services companies are making a beeline to adopt such solutions. Trading, which essentially involved understanding and reacting to patterns across financial markets will not remain the same ever again."
-    publishedDateTime: 2019-12-04T07:36:00Z
-    sourceUrl: https://www.dqindia.com/machine-learning-enabling-smart-trading/
+        height: 466
+  - title: "Facial recognition revisited - can it save lives and actually protect privacy?"
+    excerpt: "Facial recognition technology has an ominous reputation - and for good reason. But are there beneficial applications? Athena Security and D-ID believe the answer is yes. Here's my take on our recent discussions. If you are a little bit optimistic, even truly awful initiatives tend to be moderated over time (except maybe workout clothes)."
+    publishedDateTime: 2019-12-03T10:30:00Z
+    sourceUrl: https://diginomica.com/facial-recognition-revisited-can-it-save-lives-and-actually-protect-privacy
+    ampUrl: https://diginomica.com/facial-recognition-revisited-can-it-save-lives-and-actually-protect-privacy?amp
+    cdnAmpUrl: https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/facial-recognition-revisited-can-it-save-lives-and-actually-protect-privacy?amp
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 24
+      name: Diginomica
+      domain: diginomica.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.B56987B5EBB058261D64E7693DCBDCAE
+      - url: https://www.bing.com/th?id=ON.FA46E4D6DAB07F487949EAD06ED357AF
         width: 700
-        height: 288
+        height: 404
+  - title: "ZKTeco’s industry leading wireless facial recognition terminal now available in Bangladesh"
+    excerpt: "Horus series leads the way with high speed visible light facial recognition for making your life run smooth and easy ZKTeco has recently launched the second-generation facial recognition terminal–Horus series, named after an Egyptian god, who has the legendary ‘all-seeing eye’ that can observe everything, a press release said. Horus is ..."
+    publishedDateTime: 2019-12-07T09:36:00Z
+    sourceUrl: https://www.dhakatribune.com/feature/2019/12/07/zkteco-s-industry-leading-wireless-facial-recognition-terminal-now-available-in-bangladesh
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.587EB0C11D437DF42752F4DFE2A9E7DB
+        width: 443
+        height: 249
+  - title: "Critics call China's mandatory facial recognition tech in cellphones a 'wake up call'"
+    excerpt: "Critics call China's mandatory facial recognition tech in cellphones a 'wake up call' originally appeared on abcnews.go.com China's requirement that all new mobile phone users submit a facial scan went into effect, as international critics wary of the new tech called the move a \"wake up call to people everywhere.\" The new regulations were ..."
+    publishedDateTime: 2019-12-02T21:18:00Z
+    sourceUrl: https://www.yahoo.com/gma/critics-call-chinas-mandatory-facial-recognition-tech-cellphones-195600572--abc-news-topstories.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.59B31D3CCD8C45113AF17654BB450988
+        width: 700
+        height: 393
 
 secured: "hMMGdQvrNbQfU/IgCJWUu0tN1oIyS3ZJ6UWbcAEEJHo6QxiUj0ek/wg2OJErz0sKKIACa1CuOvrOECtE3bSgWeBqZio4ECIX07K1QuM7OlhlpTgOrQ+083JIsHdUHP8d2Pej1KI3tzNwaE4E44T+Cky+6MjJgM+8yVrLB5gRHD2eUyuNrejEVbFCn+q1kuHoWHylmW1TRz8HJWtbmmCBlsb6kpyI9y5OdWURlD+sdx4EmnmaVO3beuQ9HIMqgX1RMxq7cJGrwhjsT2Pu3sNh3g==;KkWjGqnpv+15WdmMW6qJiA=="
 ---

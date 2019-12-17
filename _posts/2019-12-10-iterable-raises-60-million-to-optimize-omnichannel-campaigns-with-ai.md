@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimiz
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -42,6 +42,21 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.91AF421CD45A630818614B04A70E3BBB
+        width: 700
+        height: 350
+  - title: "Voximplant raises $10 million to automate call campaigns with AI"
+    excerpt: "Can the cloud-based unified communications market, which is anticipated to reach $167.1 billion by 2025, be materially transformed by AI? Alexey Aylarov, Andrey Kovalenko, and Sergey Poroshin firmly believe so. They’re the founders of Voximplant, a startup developing products that imbue web and mobile apps with voice, text, and video chat."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.53900F1B8FD2F370F0BF607AC7B8965F
         width: 700
         height: 350
   - title: "LeanTaaS raises $40 million to optimize health clinic operations with AI"

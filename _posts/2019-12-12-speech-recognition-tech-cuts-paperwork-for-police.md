@@ -3,7 +3,7 @@ category: news
 title: "Speech recognition tech cuts paperwork for police"
 excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
 publishedDateTime: 2019-12-12T20:42:00Z
-sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
+sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
 type: article
 quality: 39
 heat: -1
@@ -667,6 +667,15 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
+  - title: "Swedish law would have to change to allow facial recognition testing at Skavsta airport"
+    excerpt: "The Swedish Data Inspection Authority said it has responded to police query by saying there would need to be a change in legislation if the force were to test facial recognition at Skavsta airport, which serves Stockholm. The idea is to set up a pcamera at border control to take photographs of passengers. This would be compared with the one on ..."
+    publishedDateTime: 2019-12-17T13:06:00Z
+    sourceUrl: https://www.telecompaper.com/news/swedish-law-would-have-to-change-to-allow-facial-recognition-testing-at-skavsta-airport--1320265
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 26
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z
@@ -708,6 +717,6 @@ related:
         width: 600
         height: 295
 
-secured: "Ow6lRchL1zFG/D5VQ2dynXYb9SzkfyWVYRZfP4vrxZuw3/B2CPj7IpXrSbda5GmhHWO4gymXV/MP8aArI/jQTKNdh8eBVOtW2WNQnPImJeMHEXmFtfe7vnBznLWgPK//PvbUNd7ajDJGqX+bGjODp2K6upXGT45tJbHVRYt28ambl+5goGkCvFYcYz3VCZ4dlIY9pqfS9YsKQPryxQh0BzeZo6cH3R0hDjnN5CvDratA3TXg9iGTUWFVAeZuxl53lpSANXpEKcNLTX4hfmxpFA==;HdMbvj+2eYA/DSoDhRtVQQ=="
+secured: "FzNEOw07bfNNH1+awm/srGUGj1MjR3bZ5RYuN3Euu1lucAQlwftsSjV/RqWyXk4idPYX2vC6c+5ZT+qz8TfYUAoRFv4Jo0bzTANHEHKbqV/wec4Eu2GA9qZb0vsTJpK5rbeF1UksJOf0sVf7crI5gSM6xwUR1D3Z5mSXqedwnzkDXqwKHes5LjZmhkdTVhtLYKIV8b3Gc9jKshepCHIYJEKiMEn1CusrC5QzjapPufBa+RIALGu0KsXcZCgS/0ozdmrEoLbS3e2RHK6yJJktYA==;C3FOek6TsKxl1jP1a7nz0Q=="
 ---
 
