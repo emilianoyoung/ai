@@ -24,19 +24,21 @@ images:
     title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
 
 related:
-  - title: "2 Nigerian AI engineers develop world’s first pidgin-to-English translation model"
-    excerpt: "it was hard finding data for a decent translation project which proved to be the first major hindrance. She said that the challenge led them to train an Unsupervised Neural Machine Translation (UNMT) model. READ ALSO: Science minister seeks adoption of nuclear technology to fight mosquitoes “Essentially, they created a pidgin-English ..."
-    publishedDateTime: 2019-12-17T08:55:00Z
-    sourceUrl: https://www.ripplesnigeria.com/2-nigerian-ai-engineers-develop-worlds-first-pidgin-to-english-translation-model/
+  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
+    excerpt: "who identifies himself as a doctoral student of machine learning at the University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app would draw associations between the flag ..."
+    publishedDateTime: 2019-12-17T07:55:00Z
+    sourceUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/
+    ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
     type: article
     provider:
-      name: All protocol(s) observed
-      domain: ripplesnigeria.com
-    quality: 34
+      name: Quartz
+      domain: qz.com
+    quality: 68
     images:
-      - url: https://www.bing.com/th?id=ON.4F28EE3181FCE1F9468BE41AE0B40630
-        width: 650
-        height: 350
+      - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
+        width: 700
+        height: 395
 
 secured: "7mvB1BM06tDORovlm39wNfb+3z+o1xKrwzzBu8e8vxWxmDVTUTV9BjVDbPHIicGklbu5XcK+WIn1XXjec/odx/RIgU+sB2qEvoFjw3QN0dXyoWWsxewBUHPaDK0TF5ZmPEKrsW5k8ECN6h3nK/OYI/VeJAG105EHdMbSBzcn+jfSB4lepcBitYX6gyyoc1f2g6EMxM9w1NkXHO3HfdnuAgO/f73mmXrkxEX0ubDc7YqEE2UpaRbrZ97IEdjSOvB+RAvtbq5mhdzZTBRtFXWF8g==;g1toJbv8Ka5/lIifO/ziVw=="
 ---

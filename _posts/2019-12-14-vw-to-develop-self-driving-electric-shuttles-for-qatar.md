@@ -1,9 +1,9 @@
 ---
 category: news
 title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
-excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost."
+excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. © Bloomberg A fleet of new Volkswagen AG (VW) e-Crafter electric trucks stand parked in Hamburg, Germany, on Tuesday, Aug."
 publishedDateTime: 2019-12-14T13:48:32Z
-sourceUrl: https://www.msn.com/en-us/money/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
 type: article
 quality: 24
 heat: -1
@@ -128,7 +128,20 @@ related:
       name: The Weather Channel
       domain: weather.com
     quality: 4
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
-secured: "0O413M7oIXZ1bin62+MuHA32GrpFWQFDsK+LwzaB6G5T0SLHByyHpYTwIlqT5RRSKsfUfv90avN/o7cU4OIBE0lci2+Z/eGPTxkKrridd+WemEW/4eBAhOrkm/cOLs8EuSjaOw3pLgloBQ+glEfX5LfXe1fTR6msjgvqeAypUI6YnkznT07ZII5WoKngAQ/Gy5NrUtJgnAaJ6OQK3yyKSa1g85fOnsN7UPgBC5TA+Lts9z6yNjgmQM+68iapRtXQT6Mo6rWTZPht1dTqJ4QxLw==;0JSNjXxQcsFYdkTIykcOWw=="
+secured: "gBTpodY2Gn19be+gM6yPsdRcNUC5tAxov7U8HOLFmWn6Yxla9JMuLgcKHHtFO5RMGY1jv4tAVMY011ffe7IPpfqxe+tRgKE0hu/Jv16lEVEKL3Xid3OPW315+rgUEww+rvUu+enbS3GdgXpAeeuHGsaUAfsXdIb4oiWjdcaO5qR4w7N/2lDZkqLYq+E34iFrNd8ilC+8M57gm+8dC+yx6PAet2px1BWmJE2AmDUWMGWBpcHV5+AcsWVgoTD4zriGeC4riHfleHvVffuVshRxsA==;SqHgNG91SMaTR3Uya9ZqGw=="
 ---
 

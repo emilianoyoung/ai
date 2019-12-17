@@ -26,99 +26,36 @@ images:
     title: "Regtech: Transforming The Fintech Landscape"
 
 related:
-  - title: "The NFL And Amazon Want To Transform Player Health Through Machine Learning"
-    excerpt: "Injury prevention in sports is one of the most important issues facing a number of leagues. This is particularly true in the NFL, due to the brutal nature of that punishing sport, which leaves many players sidelined at some point during the season. A number of startups are utilizing technology to address football injury issues, specifically ..."
-    publishedDateTime: 2019-12-06T15:40:00Z
-    sourceUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/
-    ampUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
+  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
+    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
+    publishedDateTime: 2019-12-05T12:59:00Z
+    sourceUrl: https://leaderpost.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
+    ampUrl: https://leaderpost.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
+    cdnAmpUrl: https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Leader-Post
+      domain: leaderpost.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.F31F367EAA39078CD85AC1EAF8DA2227
-        width: 600
-        height: 315
-  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
-    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
-    publishedDateTime: 2019-12-12T07:42:00Z
-    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
-    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
-        width: 700
-        height: 402
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
-    publishedDateTime: 2019-12-06T14:41:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
+      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
         width: 700
         height: 525
-  - title: "NFL and AWS using data to improve player health"
-    excerpt: "They are combining AWS' cloud and its capabilities in machine learning and artificial intelligence with NFL data to improve player health and safety."
-    publishedDateTime: 2019-12-05T21:26:00Z
-    sourceUrl: https://www.zdnet.com/video/nfl-and-aws-using-data-to-improve-player-health/
+  - title: "Qatar Central Bank’s Governor Reveals Country is Developing Nationwide Fintech Strategy for Banking Sector"
+    excerpt: "Qatar’s Fintech strategy is being created in cooperation with local ... quickly and heading towards a new historical turning point. Artificial intelligence (AI) and blockchain have the potential to fundamentally transform the financial industry, Saoud ..."
+    publishedDateTime: 2019-12-11T04:55:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2019/12/155007-qatar-central-banks-governor-reveals-country-is-developing-nationwide-fintech-strategy-for-banking-sector/
+    ampUrl: https://www.crowdfundinsider.com/2019/12/155007-qatar-central-banks-governor-reveals-country-is-developing-nationwide-fintech-strategy-for-banking-sector/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155007-qatar-central-banks-governor-reveals-country-is-developing-nationwide-fintech-strategy-for-banking-sector/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
+      - url: https://www.bing.com/th?id=ON.B52929C76FB8566AF957BBC694281478
         width: 700
-        height: 525
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-    publishedDateTime: 2019-12-06T15:34:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
-    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
-    publishedDateTime: 2019-12-07T02:20:00Z
-    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
-        width: 700
-        height: 466
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
+        height: 586
 
 secured: "j7kcesRlfQvV1XbayqgmWzEgjR5k1DpIydDtIzTh+mBNDm/QQpUtqzAd7TVKJcYvogL6Cy/w+foTTHGjsUScaG0Ax3AnayQH8nxwxaE1Y4hEXRJ8LMo9d8/k1A8Y/OmKwypfqLXZLanbzXw05gCNDFQHNu52I2M1M8dISSqRMEUZ5yXlotG1VlMViB5u2NGW2iaH96+c11vV3AsZ0vvbywrfEoACEyOa6rSv14LGRPZNJ0Q/jHC9wJZw1xJ3+8zcrLtmETliiz/x54ivarTATw==;z0Qi3ElZPCNvEibJ20Ui1g=="
 ---

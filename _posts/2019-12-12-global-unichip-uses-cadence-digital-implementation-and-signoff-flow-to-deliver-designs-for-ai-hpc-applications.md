@@ -23,6 +23,21 @@ images:
     height: 224
     title: "Global Unichip uses Cadence digital implementation and signoff flow to deliver designs for AI, HPC applications"
 
+related:
+  - title: "Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation"
+    excerpt: "Data is foundational to high-quality artificial intelligence (AI). Given that a substantial amount of clinically relevant information is embedded in unstructured data, natural language processing (NLP) plays an essential role in extracting valuable information that can benefit decision making, administration reporting, and research. Here ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.nature.com/articles/s41746-019-0208-8
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 32
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-019-0208-8/MediaObjects/41746_2019_208_Fig1_HTML.png
+        width: 685
+        height: 502
+
 secured: "5siIjMMqAwcXHqwp/IOsRPezBxusGxg+CKrt1q/8CZVkwIC8qpBBWdRvKKYAd2jlMUhFFli3xVaiY1WhPACeDP7qSGtKnr22+xNXIGAhWKap9nZt0VEujf0yBjQsbAQ6y7n8RnP/JiJj2OcRCmg8RC8jT9S79lRZgK5mHGqeD+UrrKPzmJt1Ezsw88Wi2Z4glDLYIbVRlrD6LXfv6clr6FtanYVdTWbnEQVU5dF6DagkhcQ7vTdvEqFVJDFjB8TmLfhlWGTsOBkx4Wq/0HZurw==;2Gv+ZTszrA2oOLKkx7ND3A=="
 ---
 

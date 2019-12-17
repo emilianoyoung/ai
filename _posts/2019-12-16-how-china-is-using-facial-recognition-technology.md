@@ -134,6 +134,17 @@ related:
       - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
         width: 320
         height: 180
+  - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
+    excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
+    publishedDateTime: 2019-12-17T10:06:00Z
+    sourceUrl: https://www.usatoday.com/story/opinion/voices/2019/12/17/artificial-intelligence-facial-recognition-technology-black-african-american-column/2664575001/
+    ampUrl: https://amp.usatoday.com/amp/2664575001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2664575001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 30
   - title: "Emotion Recognition Is Creepy As Hell"
     excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
     publishedDateTime: 2019-12-13T21:12:00Z

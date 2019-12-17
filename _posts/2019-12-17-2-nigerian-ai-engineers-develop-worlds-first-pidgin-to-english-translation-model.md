@@ -23,21 +23,6 @@ images:
     height: 350
     title: "2 Nigerian AI engineers develop world’s first pidgin-to-English translation model"
 
-related:
-  - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
-    excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
-    publishedDateTime: 2019-12-16T14:56:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/erc-uot121619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
-        width: 700
-        height: 493
-
 secured: "FDJVfGDmjqq35+8uRPP1syHKBOKB2RHIAizuJJXgJPfStICJl62xLmJ9iv/CD8Qw6ej1JZ6Mp4IzvQwhMME2m9VP2y2fu3pp3KnhH+u7la6+/o+Fo+Dkam7JY+3SZVcyldOA7HEmnuVKgfUE/Y8Zn32ZX3n+8g1bf4C8r4oTbZbrHwWA8belJVpw1w77Tcwm7kGjSbUTz2H3APYY90AxpBoN5aXYHaVRPIvBklfj6BOp7/HSBpSkdnYC2A+i1uU+DvazZbIaL04bFfwFwhUQnQ==;C9FP2Za+x033/jl59gM71g=="
 ---
 

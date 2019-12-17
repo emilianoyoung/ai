@@ -63,19 +63,6 @@ related:
       - url: https://miro.medium.com/max/494/1*_cpV4IOzc-nb2ZkmCDgqoA.png
         width: 494
         height: 338
-  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
-    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your existing skills and building new ones. This is a companion discussion topic for the ..."
-    publishedDateTime: 2019-11-27T09:30:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-11-28T00:03:00Z

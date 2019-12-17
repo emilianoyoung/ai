@@ -7,8 +7,8 @@ sourceUrl: https://www.technologyreview.com/s/614929/facebook-has-a-neural-netwo
 ampUrl: https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/amp/
 cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/amp/
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Facebook AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.BDBDE3DD2EEACAF09C20D3B7AD07312E

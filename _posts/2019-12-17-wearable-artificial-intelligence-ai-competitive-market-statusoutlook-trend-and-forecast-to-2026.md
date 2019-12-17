@@ -2,16 +2,16 @@
 category: news
 title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
 excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
-publishedDateTime: 2019-12-17T09:58:00Z
-sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
+publishedDateTime: 2019-12-17T09:52:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
@@ -325,6 +325,6 @@ related:
         width: 300
         height: 300
 
-secured: "IRNOC6jSUoiYPBVRMrafd9haFcCaX8StFKf3VElbb6nuz29VXTQH7/5LymB/B+AQooMctY9JLo9Jf4S0etFZMMERtBYpJz5RjnQa+u0Bj07ht8GcX3CL+QG5feVs+hr2CNPu+STrbaOCR+zZj7QPBcPeYrm1ysMwj4UfSDpqh6zTnn2shZPImhaKn/islWVg8DYR7Ll0B/cnnarwkzLmev4iupxrkadwbPPWYAabdD93eZmH7aUYIueSed+T7tgxcPSTAoMNODaVQBcrTx1H7g==;APcVAsKRLLJKsv+csViJlw=="
+secured: "8Uv+ZR75yNGdI0E5sJVp7krQ93VjZHKvyq7lDKA50xz7DTRWL/d1Vi+bkcBwWTU0K3NNpOtoUiUn1sDGJSyZl0re/gH5DgYiBHz4v3V4gBvRkIl2d6lIakqrKmRmrG06rj03hI0ANTA+RAbabIcqj+iI+6/Lz5ESlSgmIJB4N4eLsB6uReIvjDKi7wpgViy0YlPzrCWbbVbQlZ4I1HTLjFurHuGhwDT1TFWaSpW0QbJFquxH/h0wgYYMrxmfLYfGQuJLBMSuKN7D+H2HnPw+vQ==;V0hoCB1G+8vqg+I8ouTU1g=="
 ---
 

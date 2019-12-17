@@ -295,12 +295,12 @@ related:
         height: 630
   - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
     excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
-    publishedDateTime: 2019-12-17T09:58:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
+    publishedDateTime: 2019-12-17T09:52:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Australian Techworld
+      domain: techworld.com.au
     quality: 20
   - title: "Educational Robot Market Growth | Industry Analysis Report, 2019-2025"
     excerpt: "Increasing expenditure in educational R&D activities and the popularity of these systems as a learning tool will drive the educational robot market growth. These activities will support the development of innovative and affordable products, which will suffice the growing demand. The implementation of artificial intelligence technologies in new ..."
