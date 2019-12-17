@@ -286,6 +286,28 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-17T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
+    excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
+    publishedDateTime: 2019-12-17T09:58:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
   - title: "Educational Robot Market Growth | Industry Analysis Report, 2019-2025"
     excerpt: "Increasing expenditure in educational R&D activities and the popularity of these systems as a learning tool will drive the educational robot market growth. These activities will support the development of innovative and affordable products, which will suffice the growing demand. The implementation of artificial intelligence technologies in new ..."
     publishedDateTime: 2019-12-13T16:28:00Z
@@ -296,16 +318,16 @@ related:
       domain: openpr.com
     quality: 19
   - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:43:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
+    publishedDateTime: 2019-12-16T06:02:00Z
+    sourceUrl: https://www.cio.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
     type: article
     provider:
-      name: CSO
-      domain: cso.com.au
+      name: CIO
+      domain: cio.com.au
     quality: 19
     images:
-      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+      - url: https://idge.staticworld.net/cio/CIO_logo_300x300.png
         width: 300
         height: 300
 

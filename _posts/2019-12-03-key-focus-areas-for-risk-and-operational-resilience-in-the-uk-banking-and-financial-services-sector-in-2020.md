@@ -24,34 +24,58 @@ images:
     title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
 
 related:
-  - title: "The Artificial Intelligence Industry and Global Challenges"
-    excerpt: "From China's point of view, artificial intelligence is an important tool for strong foreign policy, military dominance, economic success and for controlling one's own population. The USA benefits from a strong research cluster and the super corporations Google, Microsoft, Facebook and Amazon, each of which is in the lead of the AI development."
-    publishedDateTime: 2019-11-27T08:11:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/11/27/the-artificial-intelligence-industry-and-global-challenges/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/11/27/the-artificial-intelligence-industry-and-global-challenges/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/11/27/the-artificial-intelligence-industry-and-global-challenges/amp/
+  - title: "Artificial Intelligence Is Watching Us and Judging Us"
+    excerpt: "Don’t look now, but artificial intelligence is watching you. Artificial intelligence has tremendous power to enhance spying, and both authoritarian governments and democracies are adopting the technology as a tool of political and social control. The potential of AI surveillance is the subject of the third installment of the Sleepwalkers podcast."
+    publishedDateTime: 2019-12-01T08:00:00Z
+    sourceUrl: https://www.wired.com/story/artificial-intelligence-watching-us-judging-us/
+    ampUrl: https://www.wired.com/story/artificial-intelligence-watching-us-judging-us/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-watching-us-judging-us/amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.BEB2BACF1F84E847EADA6195EA4FB09E
-        width: 600
-        height: 315
-  - title: "Latin America Machine Learning market 2023 | Global Industry Demand Status with Recent Trends, Size and Share Analysis"
-    excerpt: "Based on application, the market is divided into the sub-segments, banking, financial services and insurance (BFSI), automotive, healthcare, government and others.A notable trend of using machine learning in the health service sector is observed. The doctors use machine learning technologies to measure the likelihood of patients suffering from ..."
-    publishedDateTime: 2019-12-04T06:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-2019-12-04
+      - url: https://www.bing.com/th?id=ON.9E5C80EA5A490EF0EEBB742E34C5778B
+        width: 700
+        height: 366
+  - title: "Digital health interventions: Predicting individual success using machine learning"
+    excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
+    publishedDateTime: 2019-12-04T14:20:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.html
+    ampUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.63183DB0F4514DFE4F5E973D21C9858B
+        width: 700
+        height: 350
+  - title: "How Is Artificial Intelligence Changing Web Hosting?"
+    excerpt: "The potential applications for AI are limitless and can be applied to every industry. Health care, education, and retail are some of the sectors that benefit from the adoption of AI. Artificial Intelligence brings several key benefits to the web hosting industry. Security is always a major concern in any industry. With the prevalence of cyber ..."
+    publishedDateTime: 2019-12-02T06:28:00Z
+    sourceUrl: https://www.hostreview.com/blog/191202-how-is-artificial-intelligence-changing-web-hosting
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 39
+    images:
+      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
+        width: 400
+        height: 400
+  - title: "How Artificial Intelligence Is Changing Accounting"
+    excerpt: "Among the many fields that have been impacted by artificial intelligence, accounting is showing strong signs that it could be one of the most important boiling points for the development of this technology. We’ve already seen various positive impacts on the accounting market thanks to advances in AI, and there are many reasons to believe that ..."
+    publishedDateTime: 2019-12-04T15:01:00Z
+    sourceUrl: https://www.finextra.com/blogposting/18220/how-artificial-intelligence-is-changing-accounting
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "c1Ly67UikDcUmFQSOcCI22Vzr6eFBrWdacFr0Zr4I2sIKMjORP5tQ+pC6d3LT8xRXtTZTWlSGNUImIupZO7JJQeAGvrQMbe7HE1616x7R8+T0knLly00KYzN20/Z66FvoVxi7oPoMr+MGR+zGNYVw3Gk20x7NdDooohpXkWKeH+CTTQi7BjLCqz9M7r5JTet+6qPKtqWqToJ13mcgQK41uIUhNySIohTgQ66kHGu+5IMF8RIkf+WQ/pnC4CpyHCju+Njfa15aDUFokPM5K8eLA==;lUa+MTxvUiN0NpNfFn8bXg=="
 ---

@@ -7,9 +7,9 @@ sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial
 ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.0D7E8886982F40E58026CB4D19C2E645

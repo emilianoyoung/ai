@@ -33,6 +33,19 @@ related:
       - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
         width: 700
         height: 367
+  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
+    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
+    publishedDateTime: 2019-12-10T13:14:00Z
+    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
+    images:
+      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
+        width: 600
+        height: 300
   - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
     excerpt: "New Pittsburgh Technology Center will advance the development of autonomous technology for self-driving cars PITTSBURGH, Dec. 4, 2019 /PRNewswire/ -- Aptiv PLC (NYSE: APTV), a global technology company enabling the future of mobility, announced today that its Pittsburgh Technology Center will relocate to new offices at Mill 19 in Hazelwood Green."
     publishedDateTime: 2019-12-05T08:55:00Z

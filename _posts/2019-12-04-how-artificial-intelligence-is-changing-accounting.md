@@ -60,6 +60,19 @@ related:
       - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
         width: 400
         height: 400
+  - title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
+    excerpt: "Alongside this, with the availability of advanced machine learning/artificial intelligence-led tools ... the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA); is demanding demonstrable operational resilience of every conceivable aspect of business across firms’ operation. This is in addition to the abundance ..."
+    publishedDateTime: 2019-12-03T09:35:00Z
+    sourceUrl: https://www.continuitycentral.com/index.php/news/erm-news/4679-key-focus-areas-for-risk-and-operational-resilience-in-the-uk-banking-and-financial-services-sector-in-2020
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 21
+    images:
+      - url: https://www.continuitycentral.com/images/banners/fortressjuly2019-650.jpg
+        width: 270
+        height: 670
 
 secured: "SD72X57fLJXJW0nhVH5xWn9FTbYG+YiHep6AEgqgHlg/X8xprRWZcLwoOfuD+BVJRiNVn7iRde5i1Y6Auy3qjWV6iyePty90I9GTzjnQtEFecJTeHDddp5gEDEQnBJJ0q6zpo2VsDwtQgsSI7W1HOwqDsndXoLlfD2GQ3iyJnmlwL6ToUSmpga1bB3I98+6HTazebNDeGo1fJDA82jFCIvy5ySP9ZQ9MrNW+cl8Atx0cMXYF+3jS1LMPwwuZJCijNC0vQNcfOls8EgldXkck0g==;yi8LTdYoT949WFT3ZjrmfA=="
 ---

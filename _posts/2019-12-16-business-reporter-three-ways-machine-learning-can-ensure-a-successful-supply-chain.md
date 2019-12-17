@@ -2,21 +2,25 @@
 category: news
 title: "Business Reporter: Three Ways Machine Learning Can Ensure a Successful Supply Chain"
 excerpt: "This can be achieved through machine learning, which can help improve the success of a supply chain by: Shifting from a reactive to a preventive approach to quality Enabling dynamic risk-based interventions Optimizing prescriptive decision making \"The ultimate goal is to provide every member of a supplier network with the opportunity to be ..."
-publishedDateTime: 2019-12-16T10:05:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-business-reporter-three-ways-machine-learning-ensure-successful-/2019/12/16/9069831.htm
+publishedDateTime: 2019-12-16T09:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/business-reporter-three-ways-machine-learning-can-ensure-a-successful-supply-chain-1028764710
 type: article
-quality: 28
-heat: 28
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
-secured: "3iC2J6JmWh6V+uE18sseb9mBli+2B5eKmpp+Kv+G32rSHuNXminFAr1Ld7yPwGhEEnh2TGiXbl/AasLHCYn3F7wLcwbvbs1z5/TOMbivdM8eX5U96mDgTVxcSzs09A/XeRnRA2c78yMHLtLLf95VVwBatWsvCQvlUDDuZqbRoxTaNgt6ZL+rb1W0Xkb9Vwhojs9n83AWbUIQH8pLLhzadA8wvLCfGoBwV52cWMO/X3HVioqhs0Nprb2JVsyBy3ha1PzGjk1kcR/bCeGMqM9anA==;cb7FHDz2C7j/DG7zJ7DQxg=="
+secured: "GQ70JAkjRzdf+Ee0yf+lDNIZCDMFH/OgTjwKmAb06IKuIY3RUcQYr5UDQ+wiECTgrBqE1+8GcHy17Fr1Mr+dfwFilr1Fl6anWNYo4OLTEzcb/epUmT9JzHdZ1BLvIiXdK/HSAJxKbLj43ywo5erPz7/tPyuEqAqRjboKmIp92rulenmmEHYXpEIRNuhcdrM2IeVNKShrcgxOcXnao3hmyG/YwF2pZgTRy5XGr1tHMihQhT/H5/vz8e/xFg5mzYNKjrSxcffvn+MVPSlufimg3w==;brs4GZHr1AgPtnLydJdl+w=="
 ---
 

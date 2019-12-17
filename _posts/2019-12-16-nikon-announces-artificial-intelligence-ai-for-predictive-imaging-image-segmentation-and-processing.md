@@ -36,7 +36,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 38
+    quality: 40
     images:
       - url: https://www.bing.com/th?id=ON.8B4262B73D262D18F6BFA1B2C41F7239
         width: 400

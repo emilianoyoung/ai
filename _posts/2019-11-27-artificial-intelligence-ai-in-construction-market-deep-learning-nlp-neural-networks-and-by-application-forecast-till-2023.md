@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-27T13:17:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-deep-learning-nlp-neural-networks-and-by-application---forecast-till-2023-2019-11-27
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Latin America Machine Learning market 2023 | Global Industry Demand Status with Recent Trends, Size and Share Analysis"
+    excerpt: "Based on application, the market is divided into the sub-segments, banking, financial services and insurance (BFSI), automotive, healthcare, government and others.A notable trend of using machine learning in the health service sector is observed. The doctors use machine learning technologies to measure the likelihood of patients suffering from ..."
+    publishedDateTime: 2019-12-04T06:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

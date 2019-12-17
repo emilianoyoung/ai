@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/artificial-intelligence-watching-us-judging-
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-watching-us-judging-us/amp
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -57,6 +57,19 @@ related:
       - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
         width: 400
         height: 400
+  - title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
+    excerpt: "Alongside this, with the availability of advanced machine learning/artificial intelligence-led tools ... the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA); is demanding demonstrable operational resilience of every conceivable aspect of business across firms’ operation. This is in addition to the abundance ..."
+    publishedDateTime: 2019-12-03T09:35:00Z
+    sourceUrl: https://www.continuitycentral.com/index.php/news/erm-news/4679-key-focus-areas-for-risk-and-operational-resilience-in-the-uk-banking-and-financial-services-sector-in-2020
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 21
+    images:
+      - url: https://www.continuitycentral.com/images/banners/fortressjuly2019-650.jpg
+        width: 270
+        height: 670
   - title: "How Artificial Intelligence Is Changing Accounting"
     excerpt: "Among the many fields that have been impacted by artificial intelligence, accounting is showing strong signs that it could be one of the most important boiling points for the development of this technology. We’ve already seen various positive impacts on the accounting market thanks to advances in AI, and there are many reasons to believe that ..."
     publishedDateTime: 2019-12-04T15:01:00Z

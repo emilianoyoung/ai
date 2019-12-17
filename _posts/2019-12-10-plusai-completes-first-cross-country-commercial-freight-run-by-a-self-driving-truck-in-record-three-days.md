@@ -142,6 +142,19 @@ related:
       - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
         width: 636
         height: 382
+  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and vehicles Toyota is ..."
+    publishedDateTime: 2019-12-17T08:31:00Z
+    sourceUrl: https://europe.autonews.com/automakers/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.83853B7EC87FFE3DFC60327EB926F971
+        width: 700
+        height: 525
   - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
     excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
     publishedDateTime: 2019-12-14T03:33:00Z

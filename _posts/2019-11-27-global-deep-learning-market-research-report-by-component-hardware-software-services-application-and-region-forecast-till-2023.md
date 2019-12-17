@@ -55,6 +55,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Latin America Machine Learning market 2023 | Global Industry Demand Status with Recent Trends, Size and Share Analysis"
+    excerpt: "Based on application, the market is divided into the sub-segments, banking, financial services and insurance (BFSI), automotive, healthcare, government and others.A notable trend of using machine learning in the health service sector is observed. The doctors use machine learning technologies to measure the likelihood of patients suffering from ..."
+    publishedDateTime: 2019-12-04T06:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Data management in the construction sector by means of artificial intelligence"
     excerpt: "Karlsruhe Institute of Technology (KIT) successfully participated in the innovation competition on the use of artificial intelligence (AI) launched by the Federal Ministry for Economic Affairs and Energy (BMWi). The KIT-coordinated research project SDaC - Smart Design and Construction will be funded. With the help of the new AI platform ..."
     publishedDateTime: 2019-12-03T15:40:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-se
 cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/amp/
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,34 @@ images:
     title: "Chinese Fintech WeLab Secures $156 Million Through Series C Financing Round"
 
 related:
-  - title: "Greg Gibb: CEO of Wealth Management Firm Lufax Says Chinese Fintech Sector Is “Restructuring Dramatically”"
-    excerpt: "He notes that Fintech has a relatively small base, however, it’s large enough in the global context and remains on track for substantial growth from “unmet needs.” Gibb says the key behind the growth will likely be artificial intelligence (AI), led by chatbots, which will allow financial services to “leave the screen of an app and ..."
-    publishedDateTime: 2019-12-12T20:07:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155119-greg-gibb-ceo-of-wealth-management-firm-lufax-says-chinese-fintech-sector-is-restructuring-dramatically/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155119-greg-gibb-ceo-of-wealth-management-firm-lufax-says-chinese-fintech-sector-is-restructuring-dramatically/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155119-greg-gibb-ceo-of-wealth-management-firm-lufax-says-chinese-fintech-sector-is-restructuring-dramatically/amp/
+  - title: "Alibaba-backed fintech firm WeLab secures $156m in series C round"
+    excerpt: "Hong Kong fintech unicorn WeLab today announced it has raised US$156 million in a series C ... Founded in 2013, WeLab is a virtual bank that uses risk management technology and AI to analyze unstructured mobile big data within seconds and provide financial services. It operates in Hong Kong, China, and Indonesia under different brands."
+    publishedDateTime: 2019-12-17T09:19:00Z
+    sourceUrl: https://www.techinasia.com/welab-secures-156m
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 26
+      name: Techinasia
+      domain: techinasia.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.A33D2C44AE5DD3994AFB2C3E730B6E8C
+      - url: https://www.bing.com/th?id=ON.93C52664F635A7C18ECD64E74E8E8F12
         width: 700
-        height: 495
+        height: 428
+  - title: "LV-backed fintech firm seeks £30m to fund expansion"
+    excerpt: "The fundraising, on which Wyvern Partners is advising, comes during a period of rapid growth for fintech providers which use chatbots to advise customers on ... Its search for new funding comes as British-based AI companies in other sectors attract huge sums of funding. Babylon Health, which provides medical advice, raised hundreds of millions ..."
+    publishedDateTime: 2019-12-16T11:55:00Z
+    sourceUrl: https://news.sky.com/story/lv-backed-fintech-firm-seeks-30m-to-fund-expansion-11888129
+    ampUrl: https://news.sky.com/story/amp/lv-backed-fintech-firm-seeks-30m-to-fund-expansion-11888129
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/lv-backed-fintech-firm-seeks-30m-to-fund-expansion-11888129
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0DEA9F3D6424673313A7443D7738200F
+        width: 700
+        height: 393
 
 secured: "xrEh5d3RzHiJzhZoCVvhVYh09/2fkW+0SKRYTmguOP4VoUelg5TDeUJamHFS7srOvuH9aNAV4CemxkJvZFPv9wWd+MetV/y0VZIzkJh3j8w79cZzJ9NKXtvNQq4BCriC8ZxL26eIJOS0msEy/p4fOH8nBDtFNTOI1add4jEH0MtLwzZxQsX81OFPMN4UfKP4pR7dWG544FLarafxfldezA3mzrPr5aUKJyBvUqP4TBwQc42U9PYlN27uUdXvOWiLqokR92mwPBhnxkzHw64m2A==;5E3gdGTYfWy68BchsUtMsw=="
 ---

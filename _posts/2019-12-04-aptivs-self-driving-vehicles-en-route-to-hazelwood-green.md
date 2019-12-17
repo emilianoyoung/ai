@@ -24,6 +24,19 @@ images:
     title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
 
 related:
+  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
+    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
+    publishedDateTime: 2019-12-10T13:14:00Z
+    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
+    images:
+      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
+        width: 600
+        height: 300
   - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
     excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
     publishedDateTime: 2019-12-06T19:32:00Z

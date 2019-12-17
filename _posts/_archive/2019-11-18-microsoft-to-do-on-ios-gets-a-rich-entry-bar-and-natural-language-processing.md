@@ -27,6 +27,6 @@ images:
     height: 428
     title: "Microsoft To Do on iOS gets a rich entry bar and natural language processing"
 
-secured: "egZ++Lc3SICYBpSI7b2vGmWALb6hk92qDtdp8atTYMdhficKfWsvDvPGP6BLmecU7BskE4StIWgX35AiK1lEjxLmDLe6+8pCyklI/jBTUVmKnSsfBICJteaOxyyZi6yglUxIvTlByIHh9SzeeqxYEMDD0tYKNO61LiU/xqc8iyVcCSSlrIPVM7UxD0KAII5eXjgQsm+3gZ9D4XH6o/MHZi75E1axrghGTE9rMg27z7kTcfAl+NBLzuitl4PHDd9VYZrfFaFTK1aOjzi5mhu2Rg==;HVV/UV7nPSznEIovyul7MQ=="
+secured: "ZHDO47Zw8sAa4tgJViiGp/ANuzRVzLfRkSL9WAcgT6nZU6TWL5zl3bOKTCSEfbjypUM5jWDI7LGDGvh732xifwD3XLRvHCMdL94VB4T2a/0C1JTHOeJ3gvbITFpKdUPUrEisEA+5nr3cwcdx3PWfc/DfOhWxkHERfbrll+mu6Kzj8JL8r3IvWJAo6BvrY+a+Sr7bMbZttkJ4OnLYQ/Cig/7hQeRNfsEmGShBXSJdQfUWeg1OUV1nedM7X5PpnJ1Z8t/TvheVJ1DFjWHoR4rPAA==;0TCrqlIDsGkToh9VF3kAgg=="
 ---
 

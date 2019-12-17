@@ -5,7 +5,7 @@ excerpt: "a powerful image analysis and processing module for NIS-Elements that 
 publishedDateTime: 2019-12-17T00:06:00Z
 sourceUrl: https://finance.yahoo.com/news/nikon-announces-artificial-intelligence-ai-150000482.html
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.8B4262B73D262D18F6BFA1B2C41F7239

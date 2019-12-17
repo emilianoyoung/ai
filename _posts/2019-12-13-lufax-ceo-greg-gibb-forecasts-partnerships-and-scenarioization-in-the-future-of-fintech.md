@@ -27,6 +27,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "Greg Gibb: CEO of Wealth Management Firm Lufax Says Chinese Fintech Sector Is “Restructuring Dramatically”"
+    excerpt: "He notes that Fintech has a relatively small base, however, it’s large enough in the global context and remains on track for substantial growth from “unmet needs.” Gibb says the key behind the growth will likely be artificial intelligence (AI), led by chatbots, which will allow financial services to “leave the screen of an app and ..."
+    publishedDateTime: 2019-12-12T20:07:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2019/12/155119-greg-gibb-ceo-of-wealth-management-firm-lufax-says-chinese-fintech-sector-is-restructuring-dramatically/
+    ampUrl: https://www.crowdfundinsider.com/2019/12/155119-greg-gibb-ceo-of-wealth-management-firm-lufax-says-chinese-fintech-sector-is-restructuring-dramatically/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155119-greg-gibb-ceo-of-wealth-management-firm-lufax-says-chinese-fintech-sector-is-restructuring-dramatically/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.A33D2C44AE5DD3994AFB2C3E730B6E8C
+        width: 700
+        height: 495
   - title: "Shoosmiths believe Fintech offers a bright future for all"
     excerpt: "By harnessing the power of artificial intelligence (AI), machine learning and data analytics seen in many fintech products, stand-out lawtech products are steadily finding traction in the legal market. Innovations include legal document reviewing software that at the press of a button can cut by 80% the time spent on important but previously ..."
     publishedDateTime: 2019-12-09T18:29:00Z
