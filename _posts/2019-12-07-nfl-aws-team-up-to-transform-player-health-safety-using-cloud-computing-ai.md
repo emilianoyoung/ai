@@ -18,21 +18,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "NFL and AWS using data to improve player health"
-    excerpt: "The Digital Athlete will apply AWS's AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL's data sets, including from historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury information. \"It is hard to ..."
-    publishedDateTime: 2019-12-05T21:08:00Z
-    sourceUrl: https://www.zdnet.com/article/nfl-and-aws-using-data-to-improve-player-health/
-    ampUrl: https://www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.743838F033411C1735CFD1101E535B07
-        width: 700
-        height: 525
   - title: "The NFL And Amazon Want To Transform Player Health Through Machine Learning"
     excerpt: "Injury prevention in sports is one of the most important issues facing a number of leagues. This is particularly true in the NFL, due to the brutal nature of that punishing sport, which leaves many players sidelined at some point during the season. A number of startups are utilizing technology to address football injury issues, specifically ..."
     publishedDateTime: 2019-12-06T15:40:00Z
@@ -48,6 +33,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F31F367EAA39078CD85AC1EAF8DA2227
         width: 600
         height: 315
+  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
+    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
+    publishedDateTime: 2019-12-12T07:42:00Z
+    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
+    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
+        width: 700
+        height: 402
   - title: "NFL turns to Amazon for help addressing player injuries"
     excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
     publishedDateTime: 2019-12-06T14:41:00Z
@@ -63,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
         width: 700
         height: 525
+  - title: "NFL and AWS using data to improve player health"
+    excerpt: "They are combining AWS' cloud and its capabilities in machine learning and artificial intelligence with NFL data to improve player health and safety."
+    publishedDateTime: 2019-12-05T21:26:00Z
+    sourceUrl: https://www.zdnet.com/video/nfl-and-aws-using-data-to-improve-player-health/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
+        width: 700
+        height: 525
   - title: "Amazon Partners National Football League For Player Health, Safety"
     excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
     publishedDateTime: 2019-12-06T15:34:00Z
@@ -76,28 +89,34 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "NFL, AWS to use player digital twins to model scenarios and combat injury"
-    excerpt: "The National Football League is partnering with Amazon Web Services to apply artificial intelligence and machine learning to derive insights about player safety and treatment, the organizations announced Thursday. The underlying goal is to \"predict the risk of player injuries\" to make way for prevention. AWS and the NFL will analyze data on ..."
-    publishedDateTime: 2019-12-06T15:07:00Z
-    sourceUrl: https://www.ciodive.com/news/NFL-AWS-AI-ML-safety/568619/
+  - title: "Regtech: Transforming The Fintech Landscape"
+    excerpt: "from AI to the Internet of Things, and it’s not surprising that we are seeing the regulatory technology (RegTech) space advancing at an exponential rate. Everything from facial recognition technology to NFC passport chip reading is aiding FinTech businesses in their quest for compliance, bolstered by the added security that assets like cloud ..."
+    publishedDateTime: 2019-12-06T01:55:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    ampUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 38
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
     images:
-      - url: https://www.ciodive.com/user_media/cache/02/e8/02e8239a620be54bbad472344ff9db22.jpg
-        width: 770
-        height: 363
-  - title: "Global Bioinformatics Partnering Directory 2019: Deals and Agreements by the World's Leading Healthcare Companies"
-    excerpt: "The Global Bioinformatics Partnering Terms and Agreements 2014 to 2019 report provides comprehensive understanding and unprecedented access to the bioinformatics partnering deals and agreements entered into by the worlds leading healthcare companies ... web technologies, artificial intelligence, information and computation theory, software ..."
-    publishedDateTime: 2019-12-05T19:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-bioinformatics-partnering-directory-2019-deals-and-agreements-by-the-worlds-leading-healthcare-companies-300970043.html
+      - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
+        width: 700
+        height: 466
+  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
+    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
+    publishedDateTime: 2019-12-07T02:20:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
+        width: 700
+        height: 466
 
 secured: "EEZVWvhGQzLXoZ2YGlS9m4oYPGfOVmcM7GRNi0YYFF0ntvljOYr2kqfYM3Vvhz4YAv6mq/0CvEdH9+5F0IQminDl1Czl1oQdWeUEfFn61iLRv8+13PBXq+i48T6sihnEN7bWsRUDEksLPzsQ9qGOoxp7wQ7p0jdFEm+wZt73bvoewMnbwcjXRx340gyz2I2Crnu5n99Tj0Lry4SI6cfzkt5M7XtDUha/qxfMcg9GCBc/BtaajCqC+4RvL3hlG6sQngK7Hcu+ciHaIgFyrwlzVQ==;ImpeIbuiM9YgpvqLbvk8eg=="
 ---

@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1F6E8459A0B5450E77401AB46E1E61D3
         width: 379
         height: 700
+  - title: "Deploy a machine learning model to Azure Functions (preview)"
+    excerpt: "While both Azure Machine Learning and Azure Functions are generally available, the ability to package a model from the Machine Learning service for Functions is in preview. With Azure Machine Learning, you can create Docker images from trained machine learning models. Azure Machine Learning now has the preview functionality to build these ..."
+    publishedDateTime: 2019-11-27T23:09:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-functions
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
 
 secured: "AA2xBVDD1pe4fAy+uP2tHglq9706heilgsxTJvXBh1BQM4aLcy9p6WhWt5uIEXxvv7YbQbyMZOLVIg/HG5OyUDKQi53P/q1jrhBz5HAvghcOBDre35RaUlMRG00/4mFtjWsHoHEW2QEP8kgiUITN5XWaPBX5fY3nk+AUQZR3BbVTSYGQCMY6ZZU3tIiGJX4cOrz7V2ZZT77Im46De+MJZ7Y36tMbotI7aGwbFeuk1JIIzjCeiemIZmP4vF9Dotxm74iIRf6nDVXVG2/VAf38Ig==;nF2uq6Z9rlg7bQWq8MgtVg=="
 ---

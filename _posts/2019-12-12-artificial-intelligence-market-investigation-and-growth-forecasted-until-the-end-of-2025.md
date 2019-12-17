@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Deep Learning Chipset Market Overview, Scope and Technology Advancement Outlook till 2025"
+    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Deep Learning Chipset Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2026 Deep Learning Chipset Market report contains a forecast of the next 5 years, starting 2019 and ending 2026 with a host of metrics like supply-demand ratio, Deep Learning Chipset market frequency ..."
+    publishedDateTime: 2019-12-17T10:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-overview-scope-and-technology-advancement-outlook-till-2025-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "49.8%+ growth for AI in Telecommunication Market Size raising to USD 3880 million by 2024"
     excerpt: "Dec 05, 2019 (AmericaNewsHour) -- The newly Added research report at Market Study Report titled \"2019-2024 Global AI in Telecommunication Market Report\" provides data, information, brief analysis, company profiles, statistics for past years and forecasts for next few years. According to this study, over the next five years the AI In ..."
     publishedDateTime: 2019-12-06T03:55:00Z

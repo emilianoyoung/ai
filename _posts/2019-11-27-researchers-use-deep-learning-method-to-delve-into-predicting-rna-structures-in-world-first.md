@@ -26,6 +26,19 @@ images:
     title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
 
 related:
+  - title: "Deploy a machine learning model to Azure Functions (preview)"
+    excerpt: "While both Azure Machine Learning and Azure Functions are generally available, the ability to package a model from the Machine Learning service for Functions is in preview. With Azure Machine Learning, you can create Docker images from trained machine learning models. Azure Machine Learning now has the preview functionality to build these ..."
+    publishedDateTime: 2019-11-27T23:09:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-functions
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Army Grant Supports Machine Learning Research"
     excerpt: "Share on Facebook ... is developing a method that employs artificial intelligence to clearly understand the electrical brain activity data conveyed through electroencephalogram monitoring. Vasileios Maroulas’s method has applications in neuroscience and is of interest to the US Army Research Laboratory’s Brain-Computer Interface initiative."
     publishedDateTime: 2019-12-03T17:58:00Z

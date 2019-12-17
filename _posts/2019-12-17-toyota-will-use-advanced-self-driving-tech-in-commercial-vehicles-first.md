@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Toyota will use advanced self-driving tech in commercial vehicles first"
-excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and vehicles Toyota is ..."
-publishedDateTime: 2019-12-17T08:31:00Z
-sourceUrl: https://europe.autonews.com/automakers/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+publishedDateTime: 2019-12-17T10:27:00Z
+sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.83853B7EC87FFE3DFC60327EB926F971
+  - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
     width: 700
     height: 525
     title: "Toyota will use advanced self-driving tech in commercial vehicles first"
@@ -165,6 +165,6 @@ related:
       domain: msn.com
     quality: 0
 
-secured: "yIU02wleeCOrTCBu+f/6U2YnGmHNIGTJqmfLPy2QzsrVjIRBHHFwzF6GOiQC19I0QU7US0wXiXuflwxHi1DX/XDdnprhp17f2Uuy1oFf6WWEX2fQb6t/HLomailTnS8A2kwjk1jdO4+pC+GHA6tRICVDTglUIy7H1kFbT5Ulgdhp90duAfyT/oyr7WgSHwVmPDZV7F1YMJMZ4fKgcjSlPWipzlUXg0QYZ5vi8y1KTQinMohtKspVy3ArPPDVBuVU1+FTOzi+Cmsjh6wV3Q5fiw==;rP6oPJaF75mHIoIYKpCnJw=="
+secured: "vGc12pIekWL/kfoE1YqKoPtnCkMzbAB/t9I5xzpVoY6nS6T4UJqHPI9QkN4ELQvWWM9I0ZKupWMuUEFHrmxDA5/al68CSOJx47IaA0I3LphGIgcNlknYGg6/FFv5E5B/i9ZUbc3jX5d8WiqnXceqq2Wa535Og4ltnZ/pWZacrN04znn8ZGC159gKyIk1UagZ60V8JrdrNdQlu+7OCubytFyntUeqeS1zdjWG7DLaGfFiuqVt+vOmBo+dC8NOxw4HsFOEcDbQaZpkrn8N31CqrQ==;WNXu8Yxo58y9GHBuCv8Osg=="
 ---
 

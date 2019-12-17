@@ -1,23 +1,17 @@
 ---
 category: news
 title: "Intel's latest acquisition is a $2 billion push into AI"
-excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
-publishedDateTime: 2019-12-16T14:39:00Z
-sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
-ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+excerpt: "Intel hopes to use its AI capabilities to do things like reconnect damaged spinal nerves in paralyzed patients and create wheelchairs that can be controlled with facial expressions. It has experimented with neuromorphic chips, or AI chips that mimics the human brain, and it says its ultra-efficient AI chips can power everything from prosthetics ..."
+publishedDateTime: 2019-12-16T15:39:00Z
+sourceUrl: https://www.msn.com/en-gb/finance/technology/intels-latest-acquisition-is-a-242-billion-push-into-ai/ar-BBY30Ch
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -553,6 +547,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "fsbl8aPxBZPmwdsn1LghZCajvvEJvbf3OnJQdwiBuVvUMMZukL1kJSZDI8THEFwexbbKDLYZjLamirj5ilCkJaiQ39lZ6zj56wgSkm0kWo6ClBXxOCuiw+/TTvJPgPlRm36FErqLh3yNPqMFedzmvf2o455gp1k262KJ8dXoOp4U+ecvNE6xdhCjF2hkb15rGaa26+I7YtavOZ6zq/jDm/oybdCqV9ghh9Ldk+IPB37CBE7h5w+pXnowxAgPnKTxpvRrSVs3sbBAnh2d0B2fFg==;9Tk4XnTLIgDI8wqxpfkK6g=="
+secured: "1g8cUOWsrYokrV6XqVIOgVoPZNck/7OJwVAKnHNO8XNEmrM7VV234314qESplhOWswQoykNPSipfkdJPr44mYWK/SeGkUdI7aUP7zsNEzieZNm3Y2yV3KOshgZIRfskT7TGDXwU7DTrRXOrZpf4i2JBN7Hr7kKNEzv6ny/oR/glX7e+3bYwTLcseDI6SX1890F/+9MDXzfFQ+mZu2Q04pAfpj4ftHtfPlAxdD6Ma7Cam6R95gC5waYxekITcY2to07jtkrvVNu0uy/PHUtpWxw==;XuBpNdcea3g6/UFvlxMzng=="
 ---
 

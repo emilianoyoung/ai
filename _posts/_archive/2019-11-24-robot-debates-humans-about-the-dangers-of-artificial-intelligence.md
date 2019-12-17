@@ -25,6 +25,6 @@ images:
     height: 466
     title: "Robot debates humans about the dangers of artificial intelligence"
 
-secured: "RCW0xr3ecLBqTJYZPo8iY4quUdKH4eFULAWSHFgksG23hSolBTRsI0hDDRAyLVEebhLP/vwZnFVjW8Onm2FMsSR7o8rjuPFupmkXWcClAp9G8ayiPTp+3/wSm7USCCh14fpPgnTF+CnZwcxNrPf8bnffEmMc0r/d9Q/TcrMJ8rYt6LD25+KpKCL0WKNYCGMyd9Pmh5avSZfhHQtTZMwVFlh/xe+RQEj/CuSrsL8hgaLhYmkNCwTTQ9SGxPgPFdds6wZYa+1RnAVuNnG9u+g4Bw==;dm3aipfzBRLwx/0Pk3GLVQ=="
+secured: "JGKeOgH0UP1OjGxRaVuufxSvLhIDb/NRreVTyFjnEs7Zr/xHD4cNzltEnf2tJAl9C3zULvYKCk1kw2aluniuYuDLs/UnLzfbMdyBgxceNte3P/nqeVygQTgN3hFXSO1U3QPsLZn3SlDqVKVb+TTeYjyrcHiBW0xCZFTdYFSgDPGP63B3awqjNQ4+B2I7SsCIechcz3MTG/uaOqOjsXGBaPPxrYHp08/NH1RRUhOecGJdYJoRh0qyjKo1JKk8wbTfdy00cg4u5VOEAc1yLFA0vg==;y5EmKvrNudLlmGPL8K45uw=="
 ---
 

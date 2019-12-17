@@ -134,15 +134,6 @@ related:
       - url: https://www.bing.com/th?id=ON.599495EC5362E26B6744D939D0ADCC81
         width: 307
         height: 217
-  - title: "NICE Actimize Honored by Regulation Asia With Two Excellence Awards, Citing Innovation in Trade Surveillance, AI & Machine Learning"
-    excerpt: "The AI & Machine Learning award recognizes technology firms that have successfully used artificial ... \"Today’s regulations have created a state of constant change for financial services organizations, elevating the importance of effective compliance monitoring and trade-related surveillance technology,” said Bradley Maclean, Co-founder ..."
-    publishedDateTime: 2019-11-27T10:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/nice-actimize-honored-by-regulation-asia-with-two-excellence-awards-citing-innovation-in-trade-surveillance-ai-machine-learning-1028721195
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
   - title: "New Artificial Intelligence and Machine Learning Platform for Reconciliation, Matching and Exception Management Operations Introduced by Broadridge"
     excerpt: "Improving the Process and Experience The machine learning ... Financial Solutions, Inc. (NYSE: BR), a $4 billion global Fintech leader, is a leading provider of investor communications and technology-driven solutions to banks, broker-dealers, asset and wealth managers and corporate issuers. Broadridge's infrastructure underpins proxy voting ..."
     publishedDateTime: 2019-12-03T06:00:00Z
