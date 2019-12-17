@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/state-of-enterprise-mach
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/state-of-enterprise-machine-learning-in-2020-7-key-findings/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "State of enterprise machine learning in 2020: 7 key findings"
 
 related:
+  - title: "AI and Compliance Offerings Power Insightful Engineering at Enterprise Scale"
+    excerpt: "with Watson for IBM Engineering Requirements Management DOORS to help engineering teams improve the quality of their requirements, minimize risk and improve time to market – while they’re being written—by using the power of artificial intelligence to evaluate requirements against industry standards. After all, a product is only as strong ..."
+    publishedDateTime: 2019-12-16T23:08:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21118617/ai-and-compliance-offerings-power-insightful-engineering-at-enterprise-scale
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.C1DBEEE1F6ACAB124B794E2E7377E122
+        width: 700
+        height: 363
   - title: "Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach"
     excerpt: "Here we develop a deep learning approach to successfully predict disease-associated mutations that occur at the metal-binding sites of metalloproteins. We generate energy-based affinity grid maps and physiochemical features of the metal-binding pockets (obtained from different databases as spatial and sequential features) and subsequently ..."
     publishedDateTime: 2019-12-10T00:39:00Z

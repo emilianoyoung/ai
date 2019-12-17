@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Intel Buys Israeli AI Chipmaker Habana Labs for $2 Billion"
-excerpt: "Intel Corp. bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
-publishedDateTime: 2019-12-16T19:23:00Z
-sourceUrl: https://www.industryweek.com/leadership/article/21118559/intel-buys-israeli-ai-chipmaker-habana-labs-for-2-billion
+excerpt: "Intel Corp. bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon."
+publishedDateTime: 2019-12-16T17:15:55Z
+sourceUrl: https://www.msn.com/en-us/news/technology/intel-buys-israeli-ai-chipmaker-habana-labs-for-dollar2-billion/ar-BBY3qo4
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IndustryWeek
-  domain: industryweek.com
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.2143425CE6243678CB219528793CC166
+  - url: https://www.bing.com/th?id=ON.36C738A85DBDBFC95984228AC0FFE4D0
     width: 700
-    height: 469
+    height: 367
     title: "Intel Buys Israeli AI Chipmaker Habana Labs for $2 Billion"
 
 related:
@@ -85,18 +84,18 @@ related:
         width: 700
         height: 466
   - title: "Intel spends $2 billion for Israeli AI chipmaker"
-    excerpt: "Intel is putting its money where its mouth is when its comes to the market for artificial intelligence by saying its has reached a deal to acquire AI chip technology developer Habana Labs for $2 billion. Intel announced the acquisition early Monday morning, saying that Habana will help it make progress in the market for AI that is used in cloud ..."
-    publishedDateTime: 2019-12-16T18:13:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/
-    ampUrl: https://www.mercurynews.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    excerpt: "Intel is putting its money where its mouth is when its comes to the market for artificial intelligence by saying its has reached a deal to acquire AI chip technology developer Habana Labs for $2 billion. Intel announced the acquisition early Monday morning ..."
+    publishedDateTime: 2019-12-16T18:29:00Z
+    sourceUrl: https://www.siliconvalley.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/
+    ampUrl: https://www.siliconvalley.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    cdnAmpUrl: https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: Silicon Valley
+      domain: siliconvalley.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.5B25E998AAC089B03351CB2B8BF374F2
+      - url: https://www.bing.com/th?id=ON.C333D860EEF9E2331F224CCB9E38E561
         width: 700
         height: 466
   - title: "Intel Buys AI Chip Firm Habana Labs For $2 Billion In High Stakes Race Against NVIDIA"
@@ -249,6 +248,6 @@ related:
         width: 600
         height: 592
 
-secured: "ZH2X3SXxlyNAnlh2UF2zWOLN4q/EYSJcLr7FWtzKb/Sx4WcFOyIMoXr7TouTYMC52SPJ0vr1oSjNowO4d1GRDTAtifa/hdtkKqv0790+WG9iG8bDjRwDQzDz8Ktp5FoYenUb1TvQQ4njevpI084OuMbcVCBzueDNYAIuOkQ7O4s0laSsNOzNqqJZd9V8HK3ZLFg183stoAWG1CXACFAPiey7nUTWHs7w6UGwkyOLOFC/ASOlDqouyR9VPgl2KVZPt5V32644v4hJja43ujeDVw==;3qJ+iwvj7DAVOmYkS5ieJA=="
+secured: "jb2uRcA2Xx2oS3rKXnE2WzkpkD9oJw6KY6wXzoA/N0wLFRJE2Kz6euscNQuKkC50QpJdYxf6O1CTqTAlWrGV/VdrKDI2fN00GpZQSLe/axzFsrIyYkGL/7PzOuWcJFh7scgCR5Fgc2IpK88a/j1PudWco9/ObAZzArWp8eq5ywmwdC6Ly2zbb9avwHbgfNr8T2wKlHEpmWm2PIvxh6iaOW6eep6Uy3rr3yA4KbfDvxsDvrTvbaPGBO3mzPfl1/p5PXnTodYE23zvzamufkUhnQ==;sLlnsD8j8bjSEKNvSvBcoQ=="
 ---
 

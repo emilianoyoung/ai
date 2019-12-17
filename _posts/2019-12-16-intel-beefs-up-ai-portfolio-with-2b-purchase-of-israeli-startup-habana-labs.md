@@ -2,16 +2,18 @@
 category: news
 title: "Intel Beefs Up AI Portfolio With $2B Purchase Of Israeli Startup Habana Labs"
 excerpt: "Intel said it expects the purchase to strengthen its AI portfolio and accelerate its efforts to capitalize on the fast-growing AI chip market, which it estimates will exceed $25 billion by 2024. \"More specifically, Habana turbo-charges our AI offerings for the data center with a high-performance training processor family and a standards-based ..."
-publishedDateTime: 2019-12-16T21:51:29Z
-sourceUrl: https://www.msn.com/en-us/finance/news/intel-beefs-up-ai-portfolio-with-242b-purchase-of-israeli-startup-habana-labs/ar-BBY3RLL
+publishedDateTime: 2019-12-16T20:51:00Z
+sourceUrl: https://www.benzinga.com/m-a/19/12/14997600/intel-beefs-up-ai-portfolio-with-2b-purchase-of-israeli-startup-habana-labs
+ampUrl: https://amp.benzinga.com/amp/content/14997600
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14997600
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com on MSN.com
-  domain: msn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -95,6 +97,19 @@ related:
       - url: https://images.globes.co.il/images/NewGlobes/big_image_800/2019/AE068399877A6207E6D036C89C1E2781_800x392.20191216T161444.jpg
         width: 800
         height: 392
+  - title: "Intel forks out $2B for Habana Labs to bolster AI chip standing"
+    excerpt: "Intel has bought artificial intelligence (AI) firm Habana Labs for about US$2 billion, with the chip-maker seeking to expand its AI portfolio to bolster its data-center business. Intel expects the fast-growing AI chip market to exceed US$25 billion by 2024, with its own AI-driven revenues this year seen rising 20 per cent from 2018 to more than ..."
+    publishedDateTime: 2019-12-16T23:18:00Z
+    sourceUrl: https://www.arnnet.com.au/article/669744/intel-forks-2b-habana-labs-bolster-ai-chip-standing/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.50C095F2A6A4E6BD6EC74F4A23A28F35
+        width: 700
+        height: 466
   - title: "Intel Inks $2B Deal For AI Chipmaker Habana Labs"
     excerpt: "The deal stands to strengthen Intel’s AI portfolio by adding to it a company in Habana Labs that was founded in 2016 and develops programmable, deep learning chips and other AI products to boost operations at data centers and cloud-related areas of businesses. Intel expects to generate more than $3.5 billion AI-driven revenue this year alone ..."
     publishedDateTime: 2019-12-16T18:06:00Z
@@ -129,6 +144,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "q+7Gul3WRrwsdF4AEu3A6OyB2v9wR+z+msDlqA+vpGFdcuVAKXFIM2XLTXQcta+xChKEEJGXgipdjOt8RaWv7Rd7ZCZweQ3K9nuMOOKYQIOZTYuecqp+TN3ZvMu5x0Xm1WVb9/Gx07g5/PYS9W5kNcVfLP20l0TNkzLvEvsu4ILKtNZbSUzq5UmcX1gYeVkrFbI5A1kPiaAHc4r5AjDthBnj7DqoPYvFcv02Ea6kaQRnyUEH7Ghug1r5YZVOL1nfPzJTY50LErep7e+cenECqQ==;jBRFuE9sJjKdpLIluSm6hQ=="
+secured: "Z1A1q18OPgOO2MGXxkKXZXjHR7ji21P4DYIJFFRHaawUubkYrtsOmNSfefbBs/Tt68eKpf1WPvR/J6L7G+WEbRW/v7cBfz76h8F0rw4Q8ah8//dbEeW56GQSCt9+0US0R6bIYm1nAURHJuAT3Q9inRXNifmYiYnZWWHfSa/FnLALOKhRG4OwIVT1DUrzOgVMc4NVeSVXQWYKCjpvtQcJbJJD7jl/PiXm57bKQxvGBSABBSmgFDWwzEP9G6HT8cquE3ObKWO0xAOUAvFvDFfEwg==;y25or0bIDan1dwwcsDgZEg=="
 ---
 

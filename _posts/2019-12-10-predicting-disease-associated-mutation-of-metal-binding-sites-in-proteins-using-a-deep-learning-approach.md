@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.98091CBB19574183C8D930B015EE8432
         width: 700
         height: 525
+  - title: "AI and Compliance Offerings Power Insightful Engineering at Enterprise Scale"
+    excerpt: "with Watson for IBM Engineering Requirements Management DOORS to help engineering teams improve the quality of their requirements, minimize risk and improve time to market – while they’re being written—by using the power of artificial intelligence to evaluate requirements against industry standards. After all, a product is only as strong ..."
+    publishedDateTime: 2019-12-16T23:08:00Z
+    sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21118617/ai-and-compliance-offerings-power-insightful-engineering-at-enterprise-scale
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.C1DBEEE1F6ACAB124B794E2E7377E122
+        width: 700
+        height: 363
   - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
     excerpt: "SEATTLE, Dec. 12, 2019 (GLOBE NEWSWIRE) -- Algorithmia, a leader in machine learning deployment, announces the availability of its 2020 State of Enterprise Machine Learning report. The report includes input from 750 people across industries in companies that are actively engaged in building machine learning life cycles. A key takeaway from the ..."
     publishedDateTime: 2019-12-12T14:05:00Z
