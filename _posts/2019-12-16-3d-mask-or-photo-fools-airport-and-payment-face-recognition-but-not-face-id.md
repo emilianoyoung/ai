@@ -273,6 +273,21 @@ related:
       - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
         width: 700
         height: 367
+  - title: "3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac"
+    excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
+    publishedDateTime: 2019-12-17T00:15:00Z
+    sourceUrl: https://9to5mac.com/2019/12/16/3d-mask/
+    ampUrl: https://9to5mac.com/2019/12/16/3d-mask/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/12/16/3d-mask/amp/
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
+        width: 700
+        height: 349
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
     excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
     publishedDateTime: 2019-12-16T16:50:00Z

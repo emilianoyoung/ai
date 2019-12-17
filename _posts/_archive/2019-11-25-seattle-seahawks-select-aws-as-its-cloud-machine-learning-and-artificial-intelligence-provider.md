@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-25T18:16:00Z
 sourceUrl: https://www.seahawks.com/news/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelli
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     height: 393
     title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
 
-secured: "0e8ofY+DTdthbJf7lAM58Xr2aW+mxgXxuXr5ErzDAKnS6KmqGF/nPf8PrNtOj6ivqo/V3teqvaNmETYY0eQY9ozhDw5btril9ub8pgHbl/tjIFlllXH6erle7aqW2/s1oPW3I4nXibXwTXq/O6W2ECA/v9Kp3j92Xx4d+HzVcpq2GeTUSYejMansLurTDPyHvpHCnCgAgxGGgfzBT6ijzaZToCi6uPS0l8dCv0B833Kc8fVs0pPG4C4mxZ+jVkgFxFr8Sw6tF13qd9R70MDJWA==;lldUCUAwq54ApIIi3qUvGQ=="
+related:
+  - title: "Seattle Seahawks beef up AI tools with Amazon deal"
+    excerpt: "In addition, Amazon Rekognition, a deep learning image and video analysis service, will help the team track and categorize offensive and defensive strategies of other teams. \"Data has become a competitive differentiator for sports franchises, but these organizations need the most complete and fully featured set of machine learning and ..."
+    publishedDateTime: 2019-11-27T14:06:00Z
+    sourceUrl: https://www.techrepublic.com/article/seattle-seahawks-beef-up-ai-tools-with-amazon-deal/
+    ampUrl: https://www.techrepublic.com/google-amp/article/seattle-seahawks-beef-up-ai-tools-with-amazon-deal/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/seattle-seahawks-beef-up-ai-tools-with-amazon-deal/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
+        width: 700
+        height: 525
+
+secured: "DSs4cUFp9Wps++A47Bgst2AbMMD3MMMqnvq550RP5WUtQr4o26MStr82TF7PA5oULglh4MzbDcOPnj6Dl3aZoeyA0bcTveZqPow5Sm+XGI8MeXeXWCkJi6nio3iQYEl2I5nCdmX8u2ZZ7CeKSdOSGikbAGsjkbQWMrcRivJVDb15PldaZaaQs1BJtpy0aMi4OXF7EkBpu93lngPDi/6Ab0MiiYJixbmQF+9P7lNhVckNR7eM0U9Ubx5/x+Le6BE7t4Ri75W2cPxQN42QFQ432Q==;H+OeMLvU8dJlj/NcEQMRLQ=="
 ---
 

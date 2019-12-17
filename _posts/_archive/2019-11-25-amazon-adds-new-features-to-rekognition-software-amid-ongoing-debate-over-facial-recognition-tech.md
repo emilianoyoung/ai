@@ -45,19 +45,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
-    publishedDateTime: 2019-11-25T18:50:00Z
-    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
-        width: 671
-        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
     publishedDateTime: 2019-11-26T16:35:00Z
@@ -72,6 +59,6 @@ related:
         width: 589
         height: 558
 
-secured: "oI3K0cRKfoenHef+X2jkVAwB7dGJC/KFwpOoD4RekV4qVJg+24JD2AOV0db04eazOptN2Fb/7dAwHfUkXBF31e+rpSpv9cteNUQpzarK6+aR09ufqpmgBvlFuP6Z2Rp6fOVEc8F7iL+mfpE3jGk1HweIvNXQWFZCG42zCJlBjHqWTcB4M1acNu0iSjwP7d4pF+319vBV+WGedmk5/bRl2PlQwJ10cTQHvxze/ZjjOK8BE4XVdI8R12cfret71oRBEaULr54RwJ4LlVKT9Sel1g==;T6gyw2DTKZk+vIdlRrxCqg=="
+secured: "mcE3u1KGrs2hVOgR7456J5THfy8Z0sORBz/gBnZCL6i7HN4g/5EhaipQ6cKspzJ6fkncspY1XEZV37VgGbTzkS1/ET1CDw4BVAwLVeguesuecSCVyytDZtzKfXlyMInepscuufAlYbYb/JAcaEw4Iqx2d37/uyNbCdLAFpWpceGOPIWHvUOF8mpPO3b/DcXASYoIzhKd2pPG5LycRVB7HU4NcA1sY7uvFmM0+D5zft5tiAW9xbvvTXG1nmq+g7cnJGtbeW+xFzA/iZPF/Hiclw==;ZuWUKDyDijv7avFz583Xeg=="
 ---
 

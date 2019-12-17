@@ -8,7 +8,7 @@ ampUrl: https://www.emirates247.com/business/technology/roundtable-series-on-ai-
 cdnAmpUrl: https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028?ot=ot.AMPPageLayout
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ADFADAC1235C5E236FE8DDAD7A63D7A7
         width: 700
         height: 284
+  - title: "Japanese-Israeli partnership launches 'job agency for robots'"
+    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
+        width: 700
+        height: 457
 
 secured: "shh7Df3PXr52kGWYF/RPCsQ369T6uU4kHpcK1rSsDacPmZPWtIZyLJv5A4J3HZlAS51HFGUkSeGBwEcQPXOpdyadvnDF/B1aszKm+oQ4zbHanh9aZGNwA9ghTh6lb4OW8BmyQWSoG8qcFuj2Dm6SimOwzUWbfQVZbnt1fp1vgYZxdc7aciBy6l/s4MP8A46E01Knardv9ydb/vYjqSrHToQx49LGruE1rOYMb5hKMLGh1i9xcNPDimED3hvkO+dYhaaIaRaDeOHcrZW49KYnVg==;9hrzc3Fsi/dGAoUVSJQCQg=="
 ---

@@ -25,6 +25,6 @@ images:
     height: 2189
     title: "Driverless cars are being trialled on some of the country’s most difficult and congested roads"
 
-secured: "GKT4tyglFHlt3DxraqAtEIrzJ0nVtqa9Uih8gMaV0YTWzelYH7CG4C9vGV4Vv0BpDAUePhwGbTRgwTswJM2oGOWOPg0OaorJEGog23+3Xv0m83cjIDeGOb9sjH92pA4H26vh04iq8p/ngf7C8DQfMnqxGvllaKxClrdJJY8MDRiItuw8iE++99G/sxjqVFZ8Migo6wG7RHVHDf3Z++PHUDT9Pbqoe5UR5ExDPkfGkh5UDLcdTGnP/G4BKHtUF+2z/dnXPodRs8Cuk3fLze4Oeg==;yA7lI2kRyvzOAYgqFYaCUA=="
+secured: "hzeHCZweT7Mvt9ji6rGJf7CxuFsSo5aXaSwdjat4NkiDLktq6T5Z7slU7ritSrRpT0OC8Ys4LGc8y1A1WAyUVspJQUw5Nvwwab69Z+XCinZQWAWEnURcIaXlaRy74CKspOjMHQ6evP7o75KhDKYF+dfdw5vgqyL4q7faswnm3+ZgazCv/eNX4OWhDTreaTVCdZ3bK1r8VpDUbOIsc9uNhyPYuEHSRXR1JN+BF3RQvVAh+LRTTEg2ov1DOf6ZQqWAdtJCtTjLmRczp24/3Yct1g==;GDGR9lGrBViHNEyNov1I4g=="
 ---
 

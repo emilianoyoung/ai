@@ -128,19 +128,6 @@ related:
       name: The Weather Channel
       domain: weather.com
     quality: 4
-  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
-    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
-    publishedDateTime: 2019-12-14T14:02:00Z
-    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
-        width: 400
-        height: 229
 
 secured: "6CoUYhDFhydlfILn8RZHRWuPaZIv58v7itcDjsMgSW4tC1xgyQJqWfoFcO0ih6iW2kJnGA5MurlD2QGnOdFymzy1OO9r0+jOMQ+ZBlTn2uVUvH6utrw9fyJzHKYomSRsicLIf2pZddboItUQ7qi4wRunfIN0reU2asxII/dvnbAUPKqXGDOgFP8i1zHDIfU1K4XOFR1OKTDsykA/GJ6X8doeeo9kGD7TB+y2uslBnmdpsECMdw9HgBJGQ2jRm/7mBP6w9a3kioIIeueZT3dajA==;+MZHXaoT1eStLwul4E3dMQ=="
 ---
