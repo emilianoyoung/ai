@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
         width: 600
         height: 315
+  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
+    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
+    publishedDateTime: 2019-12-17T12:16:00Z
+    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
+    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
+        width: 600
+        height: 315
   - title: "What will be the growth rate of the Global Deep Learning Market by 2024"
     excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
     publishedDateTime: 2019-12-10T12:16:00Z

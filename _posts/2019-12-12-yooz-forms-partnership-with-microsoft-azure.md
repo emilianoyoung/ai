@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CA9200079A73BA5DFB3A877A641AE88C
         width: 700
         height: 437
+  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
+    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
+    publishedDateTime: 2019-12-17T12:35:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
+        width: 700
+        height: 365
   - title: "Microsoft Signs Multi-Year Alliance Deal With Japan’s NTT Corporation For Enterprise Solutions On Azure Cloud Platform"
     excerpt: "While Microsoft will offer the trusted Azure cloud platform and AI expertise, NTT will bring its ICT infrastructure, managed services, and cybersecurity expertise. Incidentally, NTT confirmed that Microsoft Azure is its preferred cloud platform. This partnership should bring in multiple new innovations in the field of wireless communication ..."
     publishedDateTime: 2019-12-11T07:00:00Z

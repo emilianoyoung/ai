@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-14T13:42:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
 type: article
 quality: 81
-heat: 341
+heat: 331
 published: true
 
 provider:
@@ -271,19 +271,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Enterprise Artificial Intelligence Market Future, Demand, Growth Forecast, Emerging Audience, Segments, Sales, Profits and Statistics"
-    excerpt: "The rate of changes in the industrial technology is largely driven by the inception of artificial intelligence. Artificial intelligence is not considered as a single entity but an amalgamation of a different set of technologies and building blocks that create the base for various industrial solutions. The market for Enterprise Artificial ..."
-    publishedDateTime: 2019-12-17T09:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-future-demand-growth-forecast-emerging-audience-segments-sales-profits-and-statistics-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

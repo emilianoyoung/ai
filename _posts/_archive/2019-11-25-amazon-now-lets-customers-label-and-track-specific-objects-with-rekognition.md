@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detec
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
+  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
+    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
+    publishedDateTime: 2019-11-25T18:50:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
+        width: 671
+        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
     publishedDateTime: 2019-11-26T16:35:00Z
@@ -59,6 +72,6 @@ related:
         width: 589
         height: 558
 
-secured: "LIi1wNS5T/phe8t8TG4j3ypy2ecNKbLDRwipEe7uruXiFizb/ezNGqs1boMf3yLY3njIhdMfnvkuH1+ZjuYjGNtK2Ca6lkNb2HXe34tugOqlYxaf/rgvaJS6qGy4cJz7kYSeTgYtmIlrFCGmstInGY6t5X7h2DwVWOwHMaozaJL/7sLTpiJOjnN2h3j11CtRcwmUjDx8WFbjxWrcuTzQM7fydOdh15wf3U/x5qOAG+2gkA9uiRni/+DwcVJuSzOsu6dYRaILtx0mc0bfRjtdHQ==;vNL/KECy7GL6zzhmL8rtLw=="
+secured: "JBrd/rcUAM4W7CRNX8XjaQXNEvHawALSVXTT8F6qchwo2rcnja+bDJf2/7BTUfGfaWFuaBw08Q2pNhuvfuApkZXhtgMMaTIzSp543lK8REh6y53/AueI9C7PehSZvEBc7kBjaXIS8HcF4rqP2YdlXecU3/wyylA7aP0vPG9nIJXIZeL/Vtp49kRRfvEQlKczx5uoluVI78AZbSt4sIGPwv3C2aGkTWikvHl9GygUzC/h6BynA3QLqWCj45z0MfI8ryOgmnlyKosmoslA7ZGyqQ==;mLFygcdG6SSoH+QwO7cKaA=="
 ---
 

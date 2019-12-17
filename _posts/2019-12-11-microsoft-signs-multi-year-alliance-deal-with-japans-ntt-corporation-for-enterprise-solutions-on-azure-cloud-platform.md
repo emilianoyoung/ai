@@ -50,6 +50,19 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
+  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
+    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
+    publishedDateTime: 2019-12-17T12:35:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
+        width: 700
+        height: 365
 
 secured: "TzcnNyAwnMHZw+NYJA1CxUnxF5lqJ1N8sAme8FGTM+QQV8dAO1nNQN5IQY7iezeAReGpoaee7SjS6uMD5cGk+79iTWRXNT2pySH6iqY2nZS0HenRXX6y1UqoR1kDDY8+IaW3hKQP4aNjLOXQyAdtsQepiMb4JzBkSwJuOGf6MNGfsBOkkF1o/OsaWPMvfqhxaqdCKnAXU8QmOE0jthPSS25eaeSbb30ayl5nANXRCk012As5z2rZhSlQJKBm6gAwstZ0vRaasYo1VDLw5qSiCg==;23GuKLKDs8Qf68EWbx/uwQ=="
 ---

@@ -1,21 +1,26 @@
 ---
 category: news
 title: "Intel's latest acquisition is a $2 billion push into AI"
-excerpt: "Intel hopes to use its AI capabilities to do things like reconnect damaged spinal nerves in paralyzed patients and create wheelchairs that can be controlled with facial expressions. It has experimented with neuromorphic chips, or AI chips that mimics the human brain, and it says its ultra-efficient AI chips can power everything from prosthetics ..."
-publishedDateTime: 2019-12-16T15:39:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/intels-latest-acquisition-is-a-242-billion-push-into-ai/ar-BBY30Ch
+excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
+publishedDateTime: 2019-12-16T14:39:00Z
+sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
+ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
@@ -189,6 +194,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6257571D4925C083503B6E8A8918AD25
         width: 700
         height: 393
+  - title: "Intel spends $2 billion for Israeli AI chipmaker"
+    excerpt: "Intel is putting its money where its mouth is when its comes to the market for artificial intelligence by saying its has reached a deal to acquire AI chip technology developer Habana Labs for $2 billion. Intel announced the acquisition early Monday morning, saying that Habana will help it make progress in the market for AI chips used in cloud ..."
+    publishedDateTime: 2019-12-17T01:10:00Z
+    sourceUrl: https://www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/
+    ampUrl: https://www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DEE1B6087BBA23E82C690C475DDE05AE
+        width: 700
+        height: 466
   - title: "Intel Buys AI Chip Firm Habana Labs For $2 Billion In High Stakes Race Against NVIDIA"
     excerpt: "Habana Labs currently products the Gaudi AI Training Processor, which can be adopted in large-node training systems (a la the Habana Labs’ HLS-1) and is sampling at the moment to select hyperscale customers. Compared to GPU-based solutions, Habana Labs claims that its solution offers a 4x uplift in throughput. “We have been fortunate to get ..."
     publishedDateTime: 2019-12-16T16:23:00Z
@@ -547,6 +567,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "1g8cUOWsrYokrV6XqVIOgVoPZNck/7OJwVAKnHNO8XNEmrM7VV234314qESplhOWswQoykNPSipfkdJPr44mYWK/SeGkUdI7aUP7zsNEzieZNm3Y2yV3KOshgZIRfskT7TGDXwU7DTrRXOrZpf4i2JBN7Hr7kKNEzv6ny/oR/glX7e+3bYwTLcseDI6SX1890F/+9MDXzfFQ+mZu2Q04pAfpj4ftHtfPlAxdD6Ma7Cam6R95gC5waYxekITcY2to07jtkrvVNu0uy/PHUtpWxw==;XuBpNdcea3g6/UFvlxMzng=="
+secured: "JhxdlmjXvZqJqfu26BXmMr60XdPiu2IkPIN4xt4U08r2pT8wg6Kru9+PUdhsYWpGQK+cRMLsXCytrxMa+wK2fZ/vZevvyuNPD7UwEhYSwKPHTpMoRGg2fs+wi9/eZNQ+/yZiYpDCxK6hN3ORK0acD5QFUaC7PkMzP+oip0p9y3Sk5mbeE3VVI0Wcze4HsNB4YVXwPYhvB1qXVE7fND5dYIR9a9RZx07bkCFIfpF88rE06OxNc2HUxFfRe+GRV8sPvuEp2a200GJ8qTKdrE5FhQ==;5gPyet86YXh/6i78g1aQGw=="
 ---
 

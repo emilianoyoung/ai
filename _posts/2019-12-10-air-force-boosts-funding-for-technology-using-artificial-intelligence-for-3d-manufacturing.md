@@ -32,6 +32,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
         width: 600
         height: 315
+  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
+    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
+    publishedDateTime: 2019-12-17T12:16:00Z
+    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
+    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
+        width: 600
+        height: 315
   - title: "A Sobering Message About the Future at AI's Biggest Party"
     excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
     publishedDateTime: 2019-12-13T09:00:00Z

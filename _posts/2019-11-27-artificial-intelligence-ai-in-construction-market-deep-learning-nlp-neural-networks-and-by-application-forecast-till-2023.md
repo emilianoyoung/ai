@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-27T13:17:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-deep-learning-nlp-neural-networks-and-by-application---forecast-till-2023-2019-11-27
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -50,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application and Region - Forecast till 2023"
-    excerpt: "Nov 27, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
-    publishedDateTime: 2019-11-27T11:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-deep-learning-market-research-report-by-component-hardware-software-services-application-and-region---forecast-till-2023-2019-11-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

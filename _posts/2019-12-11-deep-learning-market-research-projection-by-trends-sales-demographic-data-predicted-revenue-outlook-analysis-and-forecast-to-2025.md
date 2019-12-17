@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T10:52:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-research-projection-by-trends-sales-demographic-data-predicted-revenue-outlook-analysis-and-forecast-to-2025-2019-12-11
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     title: "Deep Learning Market Research Projection by Trends, Sales, Demographic Data, Predicted Revenue, Outlook Analysis and Forecast To 2025"
 
 related:
-  - title: "Robot-Assisted Surgical Systems: Precision to Make it the Premier Force| Detailed Study by Market Research Future with Upcoming Trends"
-    excerpt: "It may sound like a science fiction film but the inclusion of robot-assisted surgical systems is gaining momentum across the myriad segments of the healthcare sector. This is due to the constant rise in the demand for precision, technological progress, high intake of artificial intelligence (AI), better technological progress, and the rising ..."
-    publishedDateTime: 2019-12-06T13:55:00Z
-    sourceUrl: https://www.medgadget.com/2019/12/robot-assisted-surgical-systems-precision-to-make-it-the-premier-force-detailed-study-by-market-research-future-with-upcoming-trends.html
+  - title: "Deep Learning Ecosystem Market Outlook, Comprehensive Insights, Growth and Forecast 2023"
+    excerpt: "Dec 17, 2019 (The Expresswire) -- Global Deep Learning Ecosystem Market 2019-2023 Trends & Forecast Report, Consistent with our stated policy of making available the best research and analysis report. Deep learning is an integral subset of machine learning that has networks capable of learning from unstructured data. Several companies across ..."
+    publishedDateTime: 2019-12-17T11:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-ecosystem-market-outlook-comprehensive-insights-growth-and-forecast-2023-2019-12-17
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 22
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: https://www.bing.com/th?id=ON.6C582DCAF886D3702D747D1E33266DD0
-        width: 700
-        height: 518
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "OifBePglwcjQdkaBltD4Qx6v4dZMh9TJ2g00J5KPRwe43Z/gatOzytLU1StfR9nc0f4CPh09EusU9mAn6MwNWn59ILQa2YVCoBUlFN445zpGxRAFCZjtU+j8Pq3G80KnVyAtjTl5Y5Y2wNbFlF8pa9DPOjzihdiVkywRsuX4lobue9NYJXiInQ+0z42YfJmknyLjDmDvS5U7Yeuuc+2dgqmgxJVPTehOnHYHUPx7699nhBQ0lI7qDcUyPM0sgCwdEYUDL2ILAoQInrRbdIGaLw==;sIF5jdXIUeKK+cI1GlNKeQ=="
 ---

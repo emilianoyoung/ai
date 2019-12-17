@@ -8,7 +8,7 @@ ampUrl: https://abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-i
 cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/paging-dr-robot-artificial-intelligence-moves-care-67270729
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 558
     title: "Paging Dr. Robot: Artificial intelligence moves into care"
 
-related:
-  - title: "Artificial intelligence spreading into health care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
-    publishedDateTime: 2019-11-27T07:54:00Z
-    sourceUrl: https://www.timesnews.net/Health-Care/2019/11/27/Paging-Dr-Robot-Artificial-intelligence-moves-into-care.html
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5FD12FFF3F19678FC7332FC31964342A
-        width: 700
-        height: 466
-
-secured: "7FgNjLMRUxS9ASiJ9LdhrXt/MlNlZ7vhduvEhsrtTxhSstSkxMPKSjJHNOliC1McTImh59/m/h3fDOEB89SSZWcP4DBHfWqCFUCCVqPZqriYtW7WIZ1RBtdz6Hc510cNmahJgNW3Dut8W2Ifkk3Dll2tvqBSu8XJhoiPpP/kMN8/G0tuOcAbjpEZ2EvyIKsvxrJ+lYN6GJQJoVQ6KfRAdZY+H54H1af5xR5WEqQERVIHZ3FNlAxJW1IHVS8aNFBJPab+o6iIQUfzgDXQMJKdNg==;ORQ2YRj2VBk3EJpg86KTzQ=="
+secured: "YvX4jGJs/ON6LYCRaVTN3SUXvZZCuekOfWy1doiFmsQH98mp01bNYKashv2MAdR99L7te/V+gx7V3CV9Z/RmydyH7cJeQM26F686dhpYTQSPc4qxFmLx/eDue3fB3u+Cg8ULF1tcbAasIKzzRRy3xCia87AtdYVWgx88RISciiZTKHarL1qyDeC63UhgFYyw9k2Beo5tC4w45z1tIb2PDhsoLrZM6/TfxSkXb5OcjQvPIocatVcuvaxlYytmXJM/Jm6wC+XZXpJRzCEnNFJRlg==;hqd7PxGUEUniaNRo0Tt4uA=="
 ---
 

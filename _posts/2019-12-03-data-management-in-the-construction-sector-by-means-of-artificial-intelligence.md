@@ -62,19 +62,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application and Region - Forecast till 2023"
-    excerpt: "Nov 27, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
-    publishedDateTime: 2019-11-27T11:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-deep-learning-market-research-report-by-component-hardware-software-services-application-and-region---forecast-till-2023-2019-11-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Radiology Market 2019 Size, Share, Upcoming Trends, Segmentation and Forecast to 2025 | CAGR of 35.9%"
     excerpt: "The artificial intelligence in radiology market by region is segmented into North America, Europe, Asia-Pacific, Latin America, Middle East and Africa. North America has captured the largest market share and is expected to continue the same over the forecast period owing to the well-established healthcare and medicine systems that supports the ..."
     publishedDateTime: 2019-12-02T09:42:00Z
