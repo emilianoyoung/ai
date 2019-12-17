@@ -560,6 +560,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
         height: 445
+  - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
+    excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
+    publishedDateTime: 2019-12-14T02:05:00Z
+    sourceUrl: https://www.industryweek.com/operations/safety/article/22028606/uber-selfdriving-car-units-safety-culture-slammed-by-ntsb
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
+        width: 700
+        height: 364
   - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
     excerpt: "BUZZ AD shuttles from Volkswagen Commercial Vehicles and of Scania buses to operate on a SDS (self-driving system) with zero emissions MOIA ride hailing app is used to run the service, AID delivers SDS knowledge Autonomous Driving Roadmap pulled forward Earlier today at the Doha Forum in Qatar, in the presence of His Excellency the Deputy Prime ..."
     publishedDateTime: 2019-12-14T13:41:00Z

@@ -2,16 +2,22 @@
 category: news
 title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-publishedDateTime: 2019-12-05T18:58:47Z
-sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-moves-to-google-as-the-ai-lab-positions-itself-for-the-future/ar-BBXOWMc
+publishedDateTime: 2019-12-05T18:58:00Z
+sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 type: article
-quality: 49
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -98,6 +104,6 @@ related:
         width: 700
         height: 367
 
-secured: "2wtImwe7rpfSds5filGpvegTd2WcpimKuTnLRSns3hjXAtff24Ufah5Yl/YHISanSVGo4YAQwj02I9qMfkl49651KjQzUkzq211bQBC24vbUtwgUNl9TbacQ0c1NLsr3uw7avoGIpL1rlsQ6FvycUqCCJLAq9Th94a/uO4FXB3iSATCdy0NjUPwYTnrGtLQP97wmtt7B0LWl2ScHUynL12/XU2lY30YVvbmauvoUz4amV6CFZupsEnezdYsjT6QnFYEQ/fUw6my66tDtmmc0Tg==;xVt37iUbHoToQClnGyUK2w=="
+secured: "z6iESHRWvUKBgN6IMBTdgeXZvwLjAJ25pTuGDr1X2Iw2e794pLrhyXuiDGBPHm4Wlc7Gii+VsP0P2mrabv0alM0pd4UmyAxeUZiEA0d0zSOLoqipaiBOGOq818RhXNpzemIwpilLgtSQG+r3uk35tBHQkaN+AvUKcBVdAjxcaVwmGbwTVFFzS5TjAXG/gH+KcgWf4reRpKhA3QvYxkE5hkPTGfQzO9u654cnCgP8+qUlkJqCM7tIuh4ND2LFMRFAIqg3ZvLHzRv15GnlwfeIUA==;KR5DGV7DIBKy9dgkN7wqvA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-ma
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "SoftBank’s Son Makes a Pitch for Japan-Led Asia AI Superpower"
 
 related:
+  - title: "SoftBank CEO: Japan should make AI mandatory subject for college entrance exams"
+    excerpt: "(Reuters) – SoftBank Chief Executive Masayoshi Son said on Tuesday Japan should make artificial intelligence (AI) a mandatory subject for college entrance exams, to counter the yawning gap with the United States and China in the nascent field. Japanese students “don’t study if they are not asked… let’s put it as mandatory, then ..."
+    publishedDateTime: 2019-12-17T07:17:00Z
+    sourceUrl: https://venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-mandatory-subject-for-college-entrance-exams/
+    ampUrl: https://venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-mandatory-subject-for-college-entrance-exams/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-mandatory-subject-for-college-entrance-exams/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: https://www.bing.com/th?id=ON.E481515479160FBD353FE671CA8A8FCD
+        width: 700
+        height: 393
   - title: "SoftBank's Son says Japan should make AI mandatory subject for college students"
     excerpt: "SoftBank Group Corp <9984.T> Chief Executive Masayoshi Son said on Tuesday Japan should make artificial intelligence (AI) a mandatory subject for college entrance exams, to counter the yawning gap with the United States and China in the nascent field."
     publishedDateTime: 2019-12-17T03:40:12Z

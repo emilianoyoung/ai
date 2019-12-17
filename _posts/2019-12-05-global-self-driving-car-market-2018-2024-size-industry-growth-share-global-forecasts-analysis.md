@@ -28,62 +28,111 @@ images:
     title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
 
 related:
-  - title: "Cloud Natural Language Processing (NLP) Market 2018-2027 / Trends, Share, Size And Forecast"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-04T10:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2018-2027-trends-share-size-and-forecast-2019-12-04
+  - title: "Why You’ll Be Thankful And Leave A Tip After Riding In A Self-Driving Car"
+    excerpt: "Here’s an interesting question to consider: Will we give out tips when ridesharing is being performed by true self-driving cars? Your first thought might be that it makes absolutely no sense whatsoever to give a tip to a self-driving car. A true self-driving car is being driven by an AI system, and there’s no human driver, so it seems crazy ..."
+    publishedDateTime: 2019-11-28T15:49:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.CD318BFAD82EF6386F2E70FB91CBDF7D
+        width: 600
+        height: 315
+  - title: "Self-driving cars were supposed to be here already — here's why they aren't and when they should arrive"
+    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn't exist. And it's not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline but ..."
+    publishedDateTime: 2019-11-30T19:02:00Z
+    sourceUrl: https://www.cnbc.com/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
+    ampUrl: https://www.cnbc.com/amp/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
+        width: 700
+        height: 393
+  - title: "Why we don't have self-driving cars yet"
+    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before, but a truly autonomous vehicle still doesn't exist. It's not clear if, or when, our driverless future will arrive. Where exactly are we with self-driving cars, and when can we expect them to be a part of our daily lives?"
+    publishedDateTime: 2019-11-30T19:00:00Z
+    sourceUrl: https://www.cnbc.com/video/2019/11/30/why-we-dont-have-self-driving-cars-yet.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
+        width: 700
+        height: 393
+  - title: "Europe Self-driving Car Market Share, Size 2019-2024 Top Leading Countries, Companies"
+    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- The Europe self-driving car market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. A self-driving car also known as the driverless car or an autonomous car, a robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/europe-self-driving-car-market-share-size-2019-2024-top-leading-countries-companies-2019-12-05
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 47
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Insight Series Market 2018-2023 |Recent Trends, Size and Share Analysis"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The application of Artificial Intelligence (AI) is growing exponentially. This rapid expansion of AI software development, therefore, calls for a focused effort to build new hardware that can process the emerging AI algorithms. Future of AI hardware will be defined by biologically-inspired neuromorphic ..."
-    publishedDateTime: 2019-12-04T11:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2018-2023-recent-trends-size-and-share-analysis-2019-12-04?mod=mw_quote_news
+  - title: "Self-driving cars just around corner"
+    excerpt: "The autonomous vehicle era is ­approaching faster than most people realise, but the pace of the transition to driverless cars will be driven more by economics than advancements in machine learning and artificial intelligence ... “The future of driving is autonomous. We believe it’s going to happen a lot sooner than most others do ..."
+    publishedDateTime: 2019-11-27T13:03:00Z
+    sourceUrl: https://www.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
+    ampUrl: https://amp.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
+    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market Projections And Future Opportunities Recorded for the Period until 2025"
-    excerpt: "Nov 28, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2019-11-28T05:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projections-and-future-opportunities-recorded-for-the-period-until-2025-2019-11-28
+      - url: https://www.bing.com/th?id=ON.A66C1467A467A20A8FC2A7358F2A9A28
+        width: 700
+        height: 393
+  - title: "Wheels begin to turn on self-driving car legislation"
+    excerpt: "Congress has yet to roll out comprehensive legislation that would create federal standards for self-driving cars this year, but the wheels have started turning on new efforts to draw up policy. Movement on the issue follows pressure from industry groups and agencies that have been pushing for government guidelines to address the testing and ..."
+    publishedDateTime: 2019-12-01T14:00:00Z
+    sourceUrl: https://thehill.com/policy/transportation/automobiles/472341-wheels-begin-to-turn-on-self-driving-car-legislation
+    ampUrl: https://thehill.com/policy/transportation/automobiles/472341-wheels-begin-to-turn-on-self-driving-car-legislation?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/transportation/automobiles/472341-wheels-begin-to-turn-on-self-driving-car-legislation?amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: The Hill
+      domain: thehill.com
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market Insights Covering Market Dynamics and Competitive Scenario through 2025"
-    excerpt: "Dec 11, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2019-12-11T06:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-insights-covering-market-dynamics-and-competitive-scenario-through-2025-2019-12-11
+      - url: https://www.bing.com/th?id=ON.E50B1D6DE5D1F3CC7AFF038E1874AFC1
+        width: 700
+        height: 393
+  - title: "Self-Driving Cars Were Supposed to Be Here Already — Here’s Why They Aren’t"
+    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn’t exist. And it’s not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline ..."
+    publishedDateTime: 2019-12-01T01:17:00Z
+    sourceUrl: https://www.nbcnewyork.com/news/national-international/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html
+    ampUrl: https://www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
+    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 42
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- AI in Social Media Market Research Report, by Technology (Deep Learning ... Key players Some prominent players in the AI Social Media market are Google (US), Facebook (US), AWS (US), IBM (US), Adobe Systems (US), Baidu (China), Salesforce (US), Twitter (US) and Snap (US). Other emerging players in the AI ..."
-    publishedDateTime: 2019-12-10T12:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-2023-competition-status-and-forecast-market-by-players-regions-2019-12-10
+      - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
+        width: 700
+        height: 393
+  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
     type: article
     provider:
       name: MarketWatch
@@ -93,32 +142,71 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-driving Car Market Size 2018-2023 Global Industry Size, Outlook, Share, Demand, Manufacturers and Forecast Research"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate ..."
-    publishedDateTime: 2019-12-04T12:47:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-2018-2023-global-industry-size-outlook-share-demand-manufacturers-and-forecast-research-2019-12-04
+  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
+    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
+    publishedDateTime: 2019-11-27T20:54:00Z
+    sourceUrl: https://www.chron.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Automated Material Handling Equipment Market 2019 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
-    publishedDateTime: 2019-12-09T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2019-12-08
+      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
+        width: 700
+        height: 700
+  - title: "What’s stalling the self-driving car revolution"
+    excerpt: "Clear analysis. Every weekday afternoon. For years, engineers have raced to program artificial intelligence to recognize the scenarios that human drivers understand implicitly — like the difference between a shadow, a puddle and a pothole. But their efforts to propel self-driving cars into the mainstream have sometimes had disastrous results ..."
+    publishedDateTime: 2019-11-27T17:34:00Z
+    sourceUrl: https://www.washingtonpost.com/podcasts/post-reports/whats-stalling-the-selfdriving-car-revolution/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20191127/t_1574868036478_name_AEWBHERSABEMXNM2YX3UHZRL6U.jpeg&amp;w=1484&amp;op=resize&amp;opt=1&amp;filter=antialias&amp;t=20170517
+        width: 1484
+        height: 834
+  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
+    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
+    publishedDateTime: 2019-11-28T04:38:00Z
+    sourceUrl: https://www.sfgate.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
+        width: 700
+        height: 700
+  - title: "Wayve unveils self-driving car trials in central London"
+    excerpt: "Wayve believes that the complexity of self-driving cars will be solved by better artificial intelligence “brains,” not by more physical sensors and hand-coded rules. Launched in Cambridge, arguably the birthplace of modern computing and artificial intelligence and recently relocated to London, this is the first time a European self-driving ..."
+    publishedDateTime: 2019-11-29T10:15:00Z
+    sourceUrl: https://www.cambridgenetwork.co.uk/news/wayve-unveils-self-driving-car-trials-central-london
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D092B84E8AC4D24C8341BFE2C6092221
+        width: 550
+        height: 304
+  - title: "Teaching a Self-Driving Car to Know if its Passengers are Happy or Nervous"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to ..."
+    publishedDateTime: 2019-12-04T02:58:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-know-if-its-passengers-are-happy-or-nervous-4111141
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.A7AD3E49EDAFCA94C0440BD2F891F247
+        width: 700
+        height: 393
 
 secured: "hpLhrnfMTdi8lK+ke0fi0lXPOFyqDM8D0vhg+d8Z+hLGvK57nfcqEitpiDMmMO6HGhNlY4/BF6+ZRN3NWc7qogIp3iga2Gf0j1JQCCXgatkwQz/1duCAXRSGc2eGxqHMvBvc+J70tf2ALSiZO+QS2kuUHs7vZdPC32BUVrxARYDkh/XxCz+pQOggBD3ziOWmFBhAtQEuh6pC4KGw/TYmERGHuoorzAfAwyxI2+jjMQJUZv/lkQx9bRZMnbxM52gG5ETJJDorAWdvHM0OdxzOBA==;lu/4YANk5BVCr35etVxYZw=="
 ---

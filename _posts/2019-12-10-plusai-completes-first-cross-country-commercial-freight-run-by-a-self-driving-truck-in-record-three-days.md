@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.21CA96CA192544391CE95B6279DED84E
         width: 700
         height: 367
+  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
+    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
+    publishedDateTime: 2019-12-17T07:29:00Z
+    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
+        width: 450
+        height: 274
   - title: "Self-driving truck completes cross-country butter haul"
     excerpt: "Breaker, breaker, the big rig freight industry is a little closer to saying 10-4 to driver-less trucks after an autonomous truck completed a cross-country run to deliver a shipment of butter. According to autonomous trucking company Plus.ai, one of the trucks in its fleet recently completed a coast-to-coast run for Land O’Lakes butter ..."
     publishedDateTime: 2019-12-10T15:44:00Z
@@ -129,6 +142,15 @@ related:
       - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
         width: 636
         height: 382
+  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
+    excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
+    publishedDateTime: 2019-12-14T03:33:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/other/road-warrior-self-driving-truck-hauls-20-tons-of-butter-on-cross-country-trek-no-regulations-required/ar-AAK6psa
+    type: article
+    provider:
+      name: Allentown Morning Call on MSN.com
+      domain: msn.com
+    quality: 0
 
 secured: "y+x6eo2lDNMl+DayUaj4X0c8AygFEe6YT5mTaLT0rpgJyFK0b8rUZrQ+3jq5vPeMhDoqys/mXprEHxyOx3f2xjc18HkNERDYejYzw0tSTe4qyraKlLcanRd5uiyFr/vo7hVPekrUPNVPsbQ0HLPEYm+Tfihu6vUl1B5YFg1taIAYQZO20hmp9Ztm3cOuQLEujUCU4e2rv9QgCYvT9LKQ8AgpFpfpeZ2YuAtZ6EC3PEC8+8HRovvWJxMcmauYGA7kHwym+APgT/x1jbJKv1N3Ew==;WDnbZkPYmrzNSY/wBldUEg=="
 ---

@@ -24,21 +24,6 @@ images:
     title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
 
 related:
-  - title: "Who's Regulating Self-Driving Cars? Often, No One"
-    excerpt: "A few hundred self-driving cars are undergoing testing on American roads today, using advanced technology to journey down highways, stop at red lights, and avoid pedestrians and cyclists—except when they don’t. More than 60 companies are registered to test in California alone, though just 28 tested on state roads last year. Exactly how many ..."
-    publishedDateTime: 2019-11-27T07:00:00Z
-    sourceUrl: https://www.wired.com/story/regulating-self-driving-cars-no-one/
-    ampUrl: https://www.wired.com/story/regulating-self-driving-cars-no-one/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/regulating-self-driving-cars-no-one/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F9881AD79D463870F14B97CAA55C3DDD
-        width: 700
-        height: 366
   - title: "Why You’ll Be Thankful And Leave A Tip After Riding In A Self-Driving Car"
     excerpt: "Here’s an interesting question to consider: Will we give out tips when ridesharing is being performed by true self-driving cars? Your first thought might be that it makes absolutely no sense whatsoever to give a tip to a self-driving car. A true self-driving car is being driven by an AI system, and there’s no human driver, so it seems crazy ..."
     publishedDateTime: 2019-11-28T15:49:00Z
@@ -69,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
         width: 700
         height: 393
-  - title: "MIT refines self-driving cars' algorithm to make them drive like humans"
-    excerpt: "The MIT's AI tech rates how selfish you are on the road."
-    publishedDateTime: 2019-11-27T16:05:00Z
-    sourceUrl: https://www.zdnet.com/video/bad-drivers-beware-mits-self-driving-car-ai-rates-how-selfish-you-are-on-the-road/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.E97B70595462E511D6A5EFC25C6EEA3A
-        width: 700
-        height: 525
   - title: "Why we don't have self-driving cars yet"
     excerpt: "More companies are trying to bring self-driving cars to the masses than ever before, but a truly autonomous vehicle still doesn't exist. It's not clear if, or when, our driverless future will arrive. Where exactly are we with self-driving cars, and when can we expect them to be a part of our daily lives?"
     publishedDateTime: 2019-11-30T19:00:00Z
@@ -95,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
         width: 700
         height: 393
+  - title: "Europe Self-driving Car Market Share, Size 2019-2024 Top Leading Countries, Companies"
+    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- The Europe self-driving car market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. A self-driving car also known as the driverless car or an autonomous car, a robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/europe-self-driving-car-market-share-size-2019-2024-top-leading-countries-companies-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-driving cars just around corner"
     excerpt: "The autonomous vehicle era is ­approaching faster than most people realise, but the pace of the transition to driverless cars will be driven more by economics than advancements in machine learning and artificial intelligence ... “The future of driving is autonomous. We believe it’s going to happen a lot sooner than most others do ..."
     publishedDateTime: 2019-11-27T13:03:00Z
@@ -140,31 +125,31 @@ related:
       - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
         width: 700
         height: 393
-  - title: "Daimler starts pilot testing of self-driving Mercedes S-class taxis"
-    excerpt: "FRANKFURT -- Daimler is testing robotaxis in the U.S. despite new CEO Ola Kallenius saying that the automaker will \"rightsize\" its spending level on self-driving technologies. Daimler's autonomous-driving technology will more likely be apply to commercial vehicles for freight companies on long haul routes than taxis, Kallenius told journalists ..."
-    publishedDateTime: 2019-12-02T09:55:00Z
-    sourceUrl: https://europe.autonews.com/automakers/daimler-starts-pilot-testing-self-driving-mercedes-s-class-taxis
+  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.E86AE4AE67233D5CD9D0EE76BF3D5CEC
-        width: 700
-        height: 525
-  - title: "UGA researchers receive grant to study self-driving cars"
-    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
-    publishedDateTime: 2019-11-26T13:04:00Z
-    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T10:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-2018-2024-size-industry-growth-share-global-forecasts-analysis-2019-12-05
     type: article
     provider:
-      name: The Red & Black
-      domain: redandblack.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/d/e5/de52d844-1001-11ea-b8e2-afd13556e3e0/5ddca470088fa.image.jpg?resize=777%2C630
-        width: 777
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
         height: 630
   - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
     excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."

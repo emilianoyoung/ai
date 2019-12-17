@@ -1,29 +1,27 @@
 ---
 category: news
-title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
-excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient's T-cells —part of their immune ... Machine learning — what we most commonly mean when talking about \"artificial intelligence\" — came into its own in the 2010s. Using statistics to identify patterns in vast datasets, machine learning today powers ..."
-publishedDateTime: 2019-12-17T04:08:00Z
-sourceUrl: https://www.thehindu.com/sci-tech/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/article30326438.ece
-ampUrl: https://www.thehindu.com/sci-tech/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/article30326438.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/article30326438.ece/amp/
+title: "CRISPR, Gravity Waves, Water On Mars: A Decade Of Discoveries"
+excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient's T-cells -- part of their immune ... Machine learning -- what we most commonly mean when talking about \"artificial intelligence\" -- came into its own in the 2010s. Using statistics to identify patterns in vast datasets, machine learning today powers ..."
+publishedDateTime: 2019-12-17T02:55:00Z
+sourceUrl: https://www.ibtimes.com/crispr-gravity-waves-water-mars-decade-discoveries-2886824
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.8DC6BAAB8F39AF01AE6161CA214D0C74
-    width: 615
-    height: 384
-    title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
+  - url: https://www.bing.com/th?id=ON.D3658B589EF8B3CCDC34B5B1FD48C092
+    width: 700
+    height: 438
+    title: "CRISPR, Gravity Waves, Water On Mars: A Decade Of Discoveries"
 
 related:
   - title: "Decade-ender: Six major scientific discoveries from artificial intelligence to CRISPR era"
@@ -40,6 +38,6 @@ related:
         width: 556
         height: 370
 
-secured: "nZiKY7JNN9nuJwRKtsgeK9j1NYxNtliXN4u+a4mtkaiRxSV2XomOYNawHV9IiE6d1XjMuLvqPmtgbfs8yd8+UULRZwTPZMEKlZwmGqby90PsIGX/YhahvzCE/Xqxd9vbVRiK8SOtzP2UAfsj68hLMUU89ezoqtDMdYPb+uRleylg5E7m7BMg9kD+LtCo+fMUMuYmc8jNwzFojOCEQzMuDMYeeC5S7htowr+9y7h8+D2wsKU78JAWq9Z1kmQv7AA9hqCCS/Yug5Re6acM7p/Xmg==;mxYR3QeiiGh4QHZMo13JKw=="
+secured: "TaPd6mkCyfZV96UdYE+mBgwc6QU8S8yY8CBAbt9MB5BI7ZgVVmFGJUEb5wTp3Ti9cnSKY70dmRpp5Ycb5yiXDU5NcBn6gYhm2Wk7XnhR/woQlnvrX4m4bDRBcK737x7bDBGQl3FXRfcdHJ8SfenY1Y0C8+7KAgDZfD5Pzm+1fkwp6A2X3eQZkOezreufzTIA6WVDgUHg44pjrQBr7lvkidGbM/kO2mGyLS1jyr8Owb8K7hUMBmF1bCC+AWgKzS/x74vE1lSG7y9NebzMo7veew==;3fHrlgOINIyOO9tjMpE16Q=="
 ---
 

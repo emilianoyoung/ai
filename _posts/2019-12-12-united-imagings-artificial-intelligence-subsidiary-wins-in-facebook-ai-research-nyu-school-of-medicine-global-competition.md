@@ -2,27 +2,21 @@
 category: news
 title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
 excerpt: "HOUSTON, Dec. 12, 2019 /PRNewswire/ -- United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, followed a strong appearance at the annual meeting of the Radiological Society of North America (RSNA) with a win in a competition jointly organized by Facebook AI Research and NYU Langone Health. The company's United ..."
-publishedDateTime: 2019-12-12T12:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/united-imagings-artificial-intelligence-subsidiary-wins-in-facebook-ai-research--nyu-school-of-medicine-global-competition-300973788.html
+publishedDateTime: 2019-12-12T13:12:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-united-imagings-artificial-intelligence-subsidiary-wins-facebook-ai-/2019/12/12/9068712.htm
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
-
-secured: "S6/CfFj0JlpA3+LIQeuzFiz0LHMzy3Gi90bgjHsBbyN6Vtrv6zv7jUhyjKKTrHwNhKq671EK6ZGkb4WmROrQgyQC9QwJoySnKB0Ly8kjmSkEWTuSrshpLaiaIvJxrUZVpvWuavD1UVmolnP16CVbfmsnj2SslfY6lp8V7absDPaNkkj98H3kXR0j+rI7v5RD99JBtomMuMjjz2A2lHkl60YB91UCu3yYusVxPMxQUYW1JAhY/cG2BeIVVRUNbn4l8i5n08bFdaKzZ6GmbJQZFw==;C4oSlm6oeFv5DE8MGDmiIA=="
+secured: "IL1fPV3wdRha76+30bjRTtfxFKXlT7lvzjzRjf7T6R/QyW43rtwgD7f+eP5uQic4jSKU74zxOF8h+wtGtulE0Kv4AUuD1km3gJI4hl80/EAY64JAYEFhZgrHni2wEH32BdzZ7tIQm3w0Kng+lEWF7o5ub+j1urJIDysY7CnBfImXfa1IDLPUJmO2dUYfO24Fnc+OHauwi+6fJL0LDaHZmRtswq/WRm60K5dWgtpT8pOb+H+CQ64IUTw72pjxWs32MrHh4Qs3oAbLgMpl8fOeSw==;93RNxZ2ADPEMVhwpq33JrQ=="
 ---
 

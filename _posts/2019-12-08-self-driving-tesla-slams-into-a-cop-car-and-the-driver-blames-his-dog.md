@@ -8,7 +8,7 @@ ampUrl: https://www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850
 cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
 type: article
 quality: 89
-heat: 499
+heat: 509
 published: true
 
 provider:
@@ -551,6 +551,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
         height: 445
+  - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
+    excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
+    publishedDateTime: 2019-12-14T02:05:00Z
+    sourceUrl: https://www.industryweek.com/operations/safety/article/22028606/uber-selfdriving-car-units-safety-culture-slammed-by-ntsb
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
+        width: 700
+        height: 364
   - title: "CES 2020: Embedding lidar into automotive headlamps for self-driving cars"
     excerpt: "SiLC Technologies Inc. and Varroc Lighting Systems will demonstrate a new lighting and electronics system that will integrate lidar into automotive headlamps. The demonstration will take place at the upcoming CES 2020 in Las Vegas. Varroc’s light emitting diode (LED) headlamp will be integrated with four silicon photonics frequency-modulated ..."
     publishedDateTime: 2019-12-09T13:34:00Z

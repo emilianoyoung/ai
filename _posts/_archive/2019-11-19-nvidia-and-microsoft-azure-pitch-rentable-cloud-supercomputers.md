@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: Data Center Knowledge
@@ -23,6 +23,21 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-secured: "568WS+GkZL0AYnoYC/yYyPwE2F+2fGMJ1Kgpn70bpaZDS7dxLniLPNNO1rSzYOB3ypKjlGcH4H2BjQ9cv8NggJ2WZduplPTg8zVn2OXlwMb+PFrxKEaQ81+4ol6BdgjwWQVlZK4SVZsylRSsvaYOrZywVwfwX1eJ6ClIflvEsMHgLxyv7IJ36TVoDlCgOKgZpqD+cNq8jCd6StCUqBMWKfO0ihHjUfGnLNLu1hHZwJYKou2zgzEgwpLjsnqaJQ54KzsWwZcgnp8KkWC+RnZYFg==;JknjQA2b9hr1D7O3wkMldQ=="
+related:
+  - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
+    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
+    publishedDateTime: 2019-11-18T00:00:00Z
+    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 47
+    images:
+      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df2b31e8baf1-76219803_dspace_san_jose_office_exterior.jpeg&size=1&version=1576186784&sig=fafa31b4f3deb62bd8547b9d271cc295&default=hubs%2Ftilebg-blogs.jpg
+        width: 500
+        height: 272
+
+secured: "56RvPmApSTdWnwtIre6ych5WVbPmR/m0kXz2oYQnNeh7aIP3Q3Yx+90djFbdcnd8q6H5UGOWPqL2dRFf6IC7/ego5iVhQN9W8Mm0TLQA7vIXRFGJ3iPD9L3RApc9ekX0OWSJHGy/2wwY9EIb4guraIFV79OUbslIkHf638GqQ4cntovT0EEkbhO5UVIWU4Z7YwAoEG6tTJPL3Ftkq9cu0m7QB1Ha6b4ZM7oVZFQf3x6Wl6bN+DcSOjkwfd4A+emminTAN2Va90eIrAhGUnEkEw==;61L3ltcMgBRhF68XYTKy1A=="
 ---
 

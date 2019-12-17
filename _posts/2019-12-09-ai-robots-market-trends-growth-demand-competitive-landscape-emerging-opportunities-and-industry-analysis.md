@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T08:02:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-robots-market-trends-growth-demand-competitive-landscape-emerging-opportunities-and-industry-analysis-2019-12-09
 type: article
 quality: 65
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -63,19 +63,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
