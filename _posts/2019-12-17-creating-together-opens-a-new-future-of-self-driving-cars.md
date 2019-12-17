@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7A35A61AF7FFCB5599E751A18B825C90
         width: 700
         height: 525
-  - title: "Intel snaps up deep learning accelerator firm for $2bn"
-    excerpt: "Intel has acquired Habana Labs, an Israel-based developer of deep learning AI accelerators. Rumours about the possible deal, which has just been officially confirmed, were swirling at the start of the month. The $2bn deal is Intel's largest since its acquisition of MobilEye in 2017 (for the sum of $15.3bn). Bolstered by the absorption of Habana ..."
-    publishedDateTime: 2019-12-16T15:41:00Z
-    sourceUrl: https://hexus.net/business/news/general-business/137903-intel-snaps-deep-learning-accelerator-firm-2bn/
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7F805FCEAF027FB4A989557B8D8D6FDB
-        width: 515
-        height: 221
 
 secured: "9Jz6ZKx8Nww6o38r5P32uN+6U78XX8ZK87iOcSzGC2wIrWFZcWSFdCo2Mt+1r8bMl9E0Yzoyc4kMe+JEjMRMZrwFN6QhtFY6X7e30w/Ximf6+B0eem3lD2ln9mIgQB1H5zcptueEbPXZXWYhlzd9vab6+A+RgLXISInzdi/fGAO4qersuBud0qEew/DlbAtavE6wrcmWlKhvKlLTyUhJeTF5NlJGK2RMCO1n2v4yCFwE4mcdGqsSClaGeXEluQvfg45wrIcoo8WVprT6nFwdYQ==;Bbdu6sLQdqpxlp1zbtdCdA=="
 ---

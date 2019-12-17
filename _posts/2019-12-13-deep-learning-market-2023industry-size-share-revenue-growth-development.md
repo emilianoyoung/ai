@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T11:46:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2023industry-size-share-revenue-growth-development-2019-12-13
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
+  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
+    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
+    publishedDateTime: 2019-12-17T13:21:00Z
+    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "SB6zutY8zyXted5pbYAT2+ihpUKnb9D5VI7Mc5os5DVkQtHA5pNP+jIRt45/ClOOmxUYO6NDm2wa2RyDiAGigKqgrDYqQpjUhGlueYHmP7UJbpHlEw4a/56E6+3RRTSTG28f//cPjqfgdmiKJN9n+kdsnaUhA94Y/idlGycG98gaxzopNWl/9QJdtPga4usKF2CYQU5zhU5Hy6f2jzlbYKkcoOGCyTWT/6hxS2+T/aJV3CSzVaKD1YgYrIC2j0U4seLqWsNo9PM1xnm2MkTILQ==;idHoB427DuzNslW1KfRelw=="
 ---

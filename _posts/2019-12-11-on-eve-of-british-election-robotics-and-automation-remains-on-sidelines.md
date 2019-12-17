@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
         width: 600
         height: 315
+  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
+    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
+    publishedDateTime: 2019-12-17T15:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
+    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
+        width: 1198
+        height: 599
   - title: "Watch experts discuss the future of construction at TC: Sessions Robotics+AI"
     excerpt: "This March at TC Sessions: Robotics+AI, we’ll be bringing together a trio of companies that have the industry and investors buzzing. Noah Campbell-Ready is the founder and CEO of Built Robotics, a startup that has developed a heavy-duty autonomous bulldozer. The system has already been piloted for 7,500 hours, with a perfect safety record."
     publishedDateTime: 2019-12-09T17:05:00Z

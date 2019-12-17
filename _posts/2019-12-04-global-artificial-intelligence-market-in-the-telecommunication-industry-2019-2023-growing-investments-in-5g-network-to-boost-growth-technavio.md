@@ -38,19 +38,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Autonomous Vehicle Market Size: Global Industry Demand, Growth & Revenue, Opportunity 2019 to 2024"
-    excerpt: "Chinese internet service provider, Baidu, and Volvo have collaborated to develop self-driving electric vehicles in China. Volvo will deliver its expertise in advanced technologies in the automotive industry, whereas Baidu offers its advanced autonomous driving platform, Apollo. Complete Report Details @ https://www.wiseguyreports.com/reports ..."
-    publishedDateTime: 2019-11-27T14:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/autonomous-vehicle-market-size-global-industry-demand-growth-revenue-opportunity-2019-to-2024-2019-11-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "dULpJMs7g2Ls+echgJAKILxAx6Cckm0lvO4VBN8C/wqShwVRVFQy83ybcm4Pxv16s3KUzLxQtLJAPxMuOymXgZWGK2NKIOdapayOuQ4GcsbHevWwGx7XHwyIdnosAIGUX31hfOjtI3Xk45PMwDoGDjClbxuwn3MwRdZkk2nSPMWdy4YTfRHkh22iVeZl2jxoKk1I7bQoabDm8TnFSfBxjbCcYezb8BVpSZj+ZdYDlEFN1Bvt3HWfN1zHUUFSsAaR4oFgK5DvMaDRX3luyI9Lrg==;Iqkm7k9PM7sFb0AXBl7pjg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: Data Center Knowledge
@@ -23,21 +23,6 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-related:
-  - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
-    publishedDateTime: 2019-11-18T00:00:00Z
-    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 47
-    images:
-      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df2b31e8baf1-76219803_dspace_san_jose_office_exterior.jpeg&size=1&version=1576186784&sig=fafa31b4f3deb62bd8547b9d271cc295&default=hubs%2Ftilebg-blogs.jpg
-        width: 500
-        height: 272
-
-secured: "bwil9WYGFof31L9g1OcO+QVIqJMfM6mipuHM/Qtt4WvF5vdwYycnhOS1M+/Uw23PSOpIydFrPnZHYojVfVGiUWCzPsJb6v+Ozm6gB3QtSt9Se9yLL81hhdRNCp8y+zs4dpOhz+WUzd3BK77fuoOt/1m7DBTD0rXH8RCgkVwsWKP7QFHDAj8ZOnF5sfjbRX728gQ+ZXFhTJcB8sIx6bwVG/elyMh/x9kt8mI4Qwa1mWjoxEBWMp0btPG6+vRE2GiGr2naepZhU0Nsj4Y1MJEyvw==;IucDwhzlGbsLZBvI2S3o5g=="
+secured: "oDUC0jYqBi05PrjauXZX5D3KoHZrmggfmKKj4sZ4PHUTwhgcQ281vmISFizP9DerZPbLCdUdMrh8zDm2+P1vTAUILO60BclARlR5DHwMGWU1Cp8gdp+wGWvrMNwXpSmf8c6nf1TjIq9m7v1+NI58ArAovF8v/WU8Y8KFeuj6PFQ2+csJk/ypw2xsUMP07l0DN0sDt59EzvLUKzNej4hL9mPA/hVO+E1XF5YjkERpVO4VdYBIM3rU8o7HQedi4ijH8rvA6re6lX0HJDVp3joPNQ==;+aBb5ayT6B4UwvhANdS1Qw=="
 ---
 

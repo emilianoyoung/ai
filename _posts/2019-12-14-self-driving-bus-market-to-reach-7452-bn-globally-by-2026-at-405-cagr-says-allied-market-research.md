@@ -117,6 +117,15 @@ related:
       - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
         width: 400
         height: 137
+  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
+    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
+    publishedDateTime: 2019-12-17T13:21:00Z
+    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "THga6eeabtAs6Spu3wnabDyy4vNnteeQLdJdRO3QmkgBogoSljPT5g2aUQ6fO4ISHsS8xTZ8HPjECFEo4MItIlFY2tSR4iPFrwlcszKSWLPXbmdM8fPBtoTNmeD38DFXh9M0dYBB08wDmkq8tAr8B5zb5avymeWtS9pIYwwxEAzB++ramcY7qnZFyz3RMu8dp0Y2sXUGNro0j6l37c40W/sFowXkXgFL3UBxRDtOJ4Wt3MV/NOkVHZ/QU0GgcQcd9ZfVfSnMUyDYFglDn7TB+w==;QoBrBuxtMJnGmbC2O+/HoA=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Imagia Partners with Top US and Canadian Hospitals to Facilitate AI Accelerated Healthcare Discoveries"
-excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
-publishedDateTime: 2019-12-17T14:12:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-imagia-partners-with-top-us-canadian-hospitals-facilitate-/2019/12/17/9070966.htm
+excerpt: "MONTRÉAL--(BUSINESS WIRE)--Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre ..."
+publishedDateTime: 2019-12-17T15:01:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191217005309/en/Imagia-Partners-Top-Canadian-Hospitals-Facilitate-AI
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "H6R1fD58n9C1D8rj7hnBJLlyU2U4lJW7lPXdzyKnGPyxMvFhTEwMCZinjJ0X0OnwrjGtA/ffskNZ14wYSxR4sF23vjW4vvdxyJbRp5nnJtDN0S/GoGJdp5kwEoTgojveBO2SbAfueD8IfIjM0iM+B78yk64qXxTk8OGZtCxRkWMYMPA8PwU8sTtKvwB+tKOFCqo7mUBiCNKE9CqxWHG+E31Y4WZvhW6BrBreOz5nGxgcXriooH5tb9aM8gMPifoRp/hI7HDan6w5jtNxGdvnRg==;Bfds0wIbJj+HEIPs9xVAkQ=="
+images:
+  - url: https://www.bing.com/th?id=ON.4103127B4B9FEA6FE9CB4E98FEDF9B05
+    width: 700
+    height: 365
+    title: "Imagia Partners with Top US and Canadian Hospitals to Facilitate AI Accelerated Healthcare Discoveries"
+
+secured: "j0R0GRTemkgay3tk8ZZZY7Q+8BqnIkBJPrXYjiyAr4S8OIz0zN4VApjZY+SfCcMnkdZgmiXLGirFUcgEPBFCh/ALK24MCLERZrPyTtiAdD0dAzzp5LsukOJcCC+qvBrZoLPh28FMgsrt+/gLNfE7xovcTM4oCLCCTYoGNRROiuCdJVYryP/RNd7/kEuV0MSGxBf4Pnw6xfWN6Bpzl3jgXTmevRXbKdlQHmUD2GBjEdODiWBxcg7dXSsZCY2og+l5RR8wK1yWBj2t+onb9SqsWQ==;43DMaC5dUJjjuw5niVL2dg=="
 ---
 

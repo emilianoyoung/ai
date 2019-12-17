@@ -527,9 +527,9 @@ related:
         width: 600
         height: 315
   - title: "Speech recognition tech cuts paperwork for police"
-    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
+    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
     publishedDateTime: 2019-12-12T20:42:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
+    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
     type: article
     provider:
       name: GCN
@@ -716,6 +716,15 @@ related:
       name: Education Dive
       domain: educationdive.com
     quality: 17
+  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
+    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
+    publishedDateTime: 2019-12-17T15:53:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 16
 
 secured: "EUFscjvdaLO5bD1G5ZcKjBSBTgMqG4ZQYgILvT09brTvMLLNiXYJ+xQnoT7k+oC9IQfLlxFuoiW8MPEfr8PFIe6WCpxbp+l0q0zF676Ab+2OJ8EIyn3COApeoW7uhXIWrR9UEkHqRN00t3O79jZPoINj40h4yOvAC33r3TUnvgD/mzTNe/t5+K5VsO8EeS6Oi+Z4ia4AH/YxgBnz8ZVGCgfRgxuYlblmAGn9ns3B3FJ8aBgKDExkVBo7b6oTr0lvVhRXZw1tqHfDtKOMtD3tlA==;67J0WXwxe9NG9Gm5PIMeAQ=="
 ---

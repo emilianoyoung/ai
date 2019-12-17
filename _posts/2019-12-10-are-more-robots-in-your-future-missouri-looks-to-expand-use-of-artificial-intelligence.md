@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DAF766C9E7ABC9C8D8E2A59EF630AAC2
         width: 700
         height: 366
+  - title: "Will AI Take Your Job—or Make It Better?"
+    excerpt: "The episode explores how work and society will change as AI begins to take over more tasks that people currently do, whether in apple orchards or psychiatry offices. Some of the portents are scary. Kai-Fu Lee, an AI investor and formerly Google’s top executive in China, warns that AI advances will be much more disruptive to workers than other ..."
+    publishedDateTime: 2019-12-16T08:00:00Z
+    sourceUrl: https://www.wired.com/story/will-ai-take-your-job-or-make-it-better/
+    ampUrl: https://www.wired.com/story/will-ai-take-your-job-or-make-it-better/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/will-ai-take-your-job-or-make-it-better/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.FC56F0A04160C02875027BD32A511682
+        width: 700
+        height: 366
   - title: "Save $100 On The iRobot Braava Jet M6 Robot Mop"
     excerpt: "It also has Imprint Smart Mapping, which enables the robot to learn, map and adapt to your home. Thanks to artificial intelligence, it remaps your home each time. So it gets a better map every single time, and knows where everything is. So it doesn't run into your furniture or the walls. Nearly $400 for a robot mop might still seem like a lot ..."
     publishedDateTime: 2019-12-13T21:28:00Z

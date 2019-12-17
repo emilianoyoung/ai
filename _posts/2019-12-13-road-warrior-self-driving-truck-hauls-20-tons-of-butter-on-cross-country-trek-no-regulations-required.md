@@ -26,159 +26,201 @@ images:
     title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
 
 related:
-  - title: "Self-driving semi makes first cross-country trip, thanks to Plus.ai tech"
-    excerpt: "Shoppers in Quakertown, Pennsylvania, may like to know that the next stick of butter they buy may have come off a self-driving semi truck. Plus.ai announced on Tuesday that the startup completed a cross-country trip from Tulare, California, to Pennsylvania to deliver a truckload of Land O'Lakes butter. According to the announcement, the trip ..."
-    publishedDateTime: 2019-12-10T14:24:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-semi-plus-ai-cross-country/
-    ampUrl: https://www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-13T10:45:00Z
+    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
+    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
+      name: Engadget
+      domain: engadget.com
+    quality: 101
     images:
-      - url: https://www.bing.com/th?id=ON.21CA96CA192544391CE95B6279DED84E
+      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
         height: 367
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
+    excerpt: "These are self-driving cars that have an AI system doing the driving and there is no need ... reasoning and in no manner whatsoever has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things ..."
+    publishedDateTime: 2019-12-08T15:57:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+        width: 1199
+        height: 763
+  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
+    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
+    publishedDateTime: 2019-12-13T11:54:00Z
+    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
+        width: 700
+        height: 350
+  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
+    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
+    publishedDateTime: 2019-12-09T23:21:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
-  - title: "Self-driving truck completes cross-country butter haul"
-    excerpt: "Breaker, breaker, the big rig freight industry is a little closer to saying 10-4 to driver-less trucks after an autonomous truck completed a cross-country run to deliver a shipment of butter. According to autonomous trucking company Plus.ai, one of the trucks in its fleet recently completed a coast-to-coast run for Land O’Lakes butter ..."
-    publishedDateTime: 2019-12-10T15:44:00Z
-    sourceUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html
-    ampUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
-    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.6C150788C23785B68783697705F4198B
-        width: 700
-        height: 489
-  - title: "Self-driving truck completes first cross-country trip from CA to PA"
-    excerpt: "CUPERTINO, Calif. (KTVU) - A self-driving truck completed the first ever cross-country run by an autonomous commercial freight truck. Cupertino based startup Plus.ai announced Tuesday its truck drove 2,8000 from Tulare, California to Quakertown, Pennsalvation in just three days. The commercial truck hauled a fully-loaded refrigerated ..."
-    publishedDateTime: 2019-12-10T19:51:00Z
-    sourceUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa
-    ampUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    cdnAmpUrl: https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B6155EB377E0C115BCC6F8F2F86D6FD9
-        width: 700
-        height: 393
-  - title: "Self-driving truck completes first cross-country freight delivery"
-    excerpt: "Well, at least that's what it delivered. Silicon Valley startup Plus.ai announced this week that a self-driving semi-truck packed with a payload of 40,000 pounds of Land O'Lakes butter successfully made an over 2,800 mile trip from cross-country trip from Tulare, California to Quakertown, Pennsylvania. The trip took place over the course of ..."
-    publishedDateTime: 2019-12-11T18:44:00Z
-    sourceUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102
-    ampUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
-        width: 700
-        height: 367
-  - title: "Self-Driving Truck Goes From California to Pennsylvania"
-    excerpt: "Dec.11 -- Shawn Kerrigan, Plus-AI co-founder and COO, talks about the evolution of driverless trucks and the technology. One of his self-driving trucks went from California to Pennsylvania with no problems. He appears on \"Bloomberg Technology.\""
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-truck-goes-california-151009303.html
-    ampUrl: https://finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-14T00:14:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 44
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.686C082B1A97F94AE068DA62ED006E89
+      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
-        height: 393
-  - title: "A Self-Driving Freight Truck Just Drove Across the Country to Deliver Butter"
-    excerpt: "If you happen to live in Quakertown, Pennsylvania, some 50 miles outside of Philadelphia, your next stick of creamy butter just may have been delivered via self-driving freight truck. It's believed to be the first time an autonomous freight vehicle has made a cross-country trip, let alone a commercial delivery. Plus.ai, the company behind the ..."
-    publishedDateTime: 2019-12-11T22:30:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/infrastructure/a30196644/self-driving-truck-cross-country/
-    ampUrl: https://www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
+        height: 388
+  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
+    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
+    publishedDateTime: 2019-12-13T10:05:00Z
+    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
+    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
+    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 41
+      name: London Free Press
+      domain: lfpress.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
-        width: 700
-        height: 350
-  - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
-    excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
-    publishedDateTime: 2019-12-10T17:13:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 34
-    images:
-      - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
-        width: 636
-        height: 382
-  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
-    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
-    publishedDateTime: 2019-12-17T10:27:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
+      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
         width: 700
         height: 525
-  - title: "Plus.ai Completes First Cross-Country Commercial Freight Run by a Self-Driving Truck in Record Three Days"
-    excerpt: "CUPERTINO, Calif.--(BUSINESS WIRE)--Plus.ai (www.plus.ai), a leading provider of self-driving trucking technology, today announced that it has completed the first coast-to-coast commercial freight run with an autonomous truck on behalf of Land O’Lakes, Inc. Spanning 2,800 miles, Plus.ai’s L4 autonomous truck completed the hub-to-hub trip ..."
-    publishedDateTime: 2019-12-10T13:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191210005309/en/
+  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
+    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
+    publishedDateTime: 2019-12-12T14:03:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
+    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
+        width: 700
+        height: 350
+  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
+    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
+    publishedDateTime: 2019-12-13T17:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
+        width: 635
+        height: 400
+  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
+    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
+    publishedDateTime: 2019-12-12T20:20:00Z
+    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
+    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
+        width: 700
+        height: 350
+  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
+    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
+    publishedDateTime: 2019-12-13T17:32:00Z
+    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
+    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
+        width: 700
+        height: 350
+  - title: "Collaboration is key in the race for UK self-driving success"
+    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
+    publishedDateTime: 2019-12-10T14:55:00Z
+    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
+    images:
+      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
+        width: 360
+        height: 290
+  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
+    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
+    publishedDateTime: 2019-12-13T12:21:00Z
+    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
     quality: 22
     images:
-      - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
-        width: 1200
-        height: 627
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
-    publishedDateTime: 2019-12-14T03:33:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/other/road-warrior-self-driving-truck-hauls-20-tons-of-butter-on-cross-country-trek-no-regulations-required/ar-AAK6psa
+      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+        width: 700
+        height: 413
+  - title: "Google's self-driving car project buys British AI firm Latent Logic"
+    excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
+    publishedDateTime: 2019-12-12T17:20:35Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
     type: article
     provider:
-      name: Allentown Morning Call on MSN.com
+      name: The Guardian on MSN.com
       domain: msn.com
-    quality: 0
+    quality: 19
+  - title: "How AI shifts enterprise decision-making into self-driving mode"
+    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
+    publishedDateTime: 2019-12-12T18:47:00Z
+    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 19
+  - title: "Uber eyes self-driving car simulation startup"
+    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
+    publishedDateTime: 2019-12-10T10:47:00Z
+    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "4z1CnoNiIoSq1zkwPqi82djby0h8SqgqJZfSUPKLoGHvenL3dMynOsOnQ/x0GOXLnQkwL3eUrPMW3LzHzL3XLyeS22327S5qId5q330EWNkO+D2f1isTL1znscI5cjTEhZKzQcT1fq0EUCaNOy0s3UlUX/gadbBQdquLRxgLl5hijId4ZwlNtzj9MFMFH6rVkBLHCKIwEZTQ/CAOnqMD8tpfQ3M3bjAfaiE6U5WbRMLvkfu5C9mHXnh2GLrpTylav0WM/zaSjb1/A+PvU/5J4A==;UU5Ci50yrptkfTHnZ9dxUg=="
 ---

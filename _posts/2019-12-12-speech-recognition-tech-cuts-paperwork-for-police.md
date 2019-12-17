@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Speech recognition tech cuts paperwork for police"
-excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
+excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
 publishedDateTime: 2019-12-12T20:42:00Z
-sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
+sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
 type: article
 quality: 39
 heat: -1
@@ -703,6 +703,15 @@ related:
       name: Education Dive
       domain: educationdive.com
     quality: 17
+  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
+    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
+    publishedDateTime: 2019-12-17T15:53:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 16
   - title: "Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID"
     excerpt: "When Apple introduced Face ID with iPhone X using their new TrueDepth Camera, they instantly leapfrogged their smartphone competitors that were relying on 2D facial recognition as the biometric standard. Only larger bulkier systems like RealSense or Xbox's Kinect were using 3D depth methods. Apple was able to shrink the technology to actually ..."
     publishedDateTime: 2019-12-13T21:18:00Z
@@ -717,6 +726,6 @@ related:
         width: 600
         height: 295
 
-secured: "FzNEOw07bfNNH1+awm/srGUGj1MjR3bZ5RYuN3Euu1lucAQlwftsSjV/RqWyXk4idPYX2vC6c+5ZT+qz8TfYUAoRFv4Jo0bzTANHEHKbqV/wec4Eu2GA9qZb0vsTJpK5rbeF1UksJOf0sVf7crI5gSM6xwUR1D3Z5mSXqedwnzkDXqwKHes5LjZmhkdTVhtLYKIV8b3Gc9jKshepCHIYJEKiMEn1CusrC5QzjapPufBa+RIALGu0KsXcZCgS/0ozdmrEoLbS3e2RHK6yJJktYA==;C3FOek6TsKxl1jP1a7nz0Q=="
+secured: "k+jPm9zuW6IY672bwEWEBtWej0QMazXZKGsI3qIdoRPqTUvdr8AOr/4vyyV+RQf+dplsdy650VjvaZ+wFCzjEBq4etdoSX8SAyFxKjWz7u667UmVJm/hmWa/4Xis+/wJlT1m3OAEofxuBZyMbj/7mBMOZb9jbx6Hnb05FkqeNoJX2qMJDmvPMmHeEHqIgDfDE3+ooFZ2awhz6jUY0Ulv5useh/K9PiPlLdX8m9ARlfXsuFa3K22i+3H8oAvo/qh8TvQG66ZxF/POoMzlf9gbIg==;oJyVFe4bj1GXtfP+ybgUvQ=="
 ---
 
