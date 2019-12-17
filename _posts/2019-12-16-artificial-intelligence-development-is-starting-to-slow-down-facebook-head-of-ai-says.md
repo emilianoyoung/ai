@@ -8,7 +8,7 @@ ampUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to
 cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
 type: article
 quality: 68
-heat: 88
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,6 @@ related:
         width: 400
         height: 300
 
-secured: "FrS600F2dzo86/TiXrFzUUW58LMEz9IgMbKV4a2yVmQS2G95ZnkoMMVvOQRrHDgSwMfkTXdQudwXPN+0rgBBLyJd6ClUks+rGs71hRCkY3Zq1ggGZoMG4lq4aWuPf3qka/1idE9FFhXCovE4Og7Ig6JIOBhUxl1JNTqgS1UlNbOPv5SKfweFhUxjo/xx11UcppFxRHzeTdQh+zAj0KPuwxmbDt+61Z5gz1OrjZY9LD6Hz/G2QrmT/lR19HyKLNqenmdFmT3Yz9NZavgOrPmhRA==;CSHU1vBhsPelAQF5E196qA=="
+secured: "sdLDOmDCsKcFoSOnjHGIQj0YCuZVIpURB8EFebxx4sUOwK8nBBK/XfA+vi6nXf6KN7WvxMBzljEXTpv53rBLUsRkCeW+KqWK6/HLhNQ6uNTeiM1/Q6HDptZPAa5uk5rrIc8kK+r2euTDMfoMpVcexje/jQS/FiMn8Yaw0vl6Svm+0UHI4LZKyWGLJNXQhviaYt2TYS29QMiD4Z7Y3HMZF4C95WOq6n89ggxUXsH3lPJSptD9yPY8AAxNcd8n1lNaLKZpMeFk5YswNuFOAJvbzA==;6Q4SOwv7UJV6/b4iMW5i6w=="
 ---
 

@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Intel Inks $2B Deal For AI Chipmaker Habana Labs"
-excerpt: "The deal stands to strengthen Intel’s AI portfolio by adding to it a company in Habana Labs that was founded in 2016 and develops programmable, deep learning chips and other AI products to boost operations at data centers and cloud-related areas of businesses. Intel expects to generate more than $3.5 billion AI-driven revenue this year alone ..."
-publishedDateTime: 2019-12-16T18:06:00Z
-sourceUrl: https://www.law360.com/articles/1228586/intel-inks-2b-deal-for-ai-chipmaker-habana-labs
-ampUrl: https://www.law360.com/amp/articles/1228586
-cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1228586
+title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
+excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
+publishedDateTime: 2019-12-17T22:45:00Z
+sourceUrl: https://www.businessinsider.com/habana-labsi-startup-intel-2-billion-ai-strategy-2019-12
 type: article
-quality: 54
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Law360
-  domain: law360.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
+    width: 700
+    height: 350
+    title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
 
 related:
   - title: "Intel acquires AI chip startup Habana Labs for $2 billion"
@@ -415,6 +423,17 @@ related:
       - url: https://www.bing.com/th?id=ON.50C095F2A6A4E6BD6EC74F4A23A28F35
         width: 700
         height: 466
+  - title: "Intel Inks $2B Deal For AI Chipmaker Habana Labs"
+    excerpt: "The deal stands to strengthen Intel’s AI portfolio by adding to it a company in Habana Labs that was founded in 2016 and develops programmable, deep learning chips and other AI products to boost operations at data centers and cloud-related areas of businesses. Intel expects to generate more than $3.5 billion AI-driven revenue this year alone ..."
+    publishedDateTime: 2019-12-16T18:06:00Z
+    sourceUrl: https://www.law360.com/articles/1228586/intel-inks-2b-deal-for-ai-chipmaker-habana-labs
+    ampUrl: https://www.law360.com/amp/articles/1228586
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1228586
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
   - title: "Intel shells out $2B for high-speed AI chip startup Habana Labs"
     excerpt: "In June, the startup debuted Gaudi, an eight-core processor designed for the sole purpose of training AI models. Habana showed in an internal benchmark test that Gaudi managed to train a popular machine learning model 3.8 times faster than Nvidia’s flagship V100 graphics card for data centers. The startup has a second chip called Goya ..."
     publishedDateTime: 2019-12-16T19:31:00Z
@@ -484,19 +503,6 @@ related:
       - url: https://www.bing.com/th?id=ON.87FCCD92D017648445EA931E94DA8448
         width: 700
         height: 466
-  - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
-    excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
-    publishedDateTime: 2019-12-17T22:45:00Z
-    sourceUrl: https://www.businessinsider.com/habana-labsi-startup-intel-2-billion-ai-strategy-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
-        width: 700
-        height: 350
   - title: "Intel Acquires Artificial Intelligence Chipmaker Habana Labs"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
     publishedDateTime: 2019-12-16T14:03:00Z
@@ -677,6 +683,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "ZmKze2NoZXcPAAQ5uwdUo8y14jsfYfdyikzq4g1oW5ukA2R4shhliBpt/YBghQSlxX4fljPqPnw6K3t7AAKWyORTwPhWvjqJej/oU6MJNgkAHxs6m70RyZNOug669plxPMBp5laBoP9QFUxoxmQLZMK0yHPWTagY3EMTOmQrilqw//BAxPp0fZs0cAKPbExNexNU5aBjXoahUcYjxdmBXZ4Q3nDRRDKuJZtOo9/tV/IoTIXXeyIjEpJtbRhQtHrOMQrMsrIiwyS6BML3q3YNwA==;W+kWM3ye3uHHg0lWXvqFsw=="
+secured: "hKdzi4K6diK0optMKdgKBfgetA+/8iajNyp7/d/Vz+T+gQyhpQp2rE34pIrQ9K8EH2fY3RC1ASUBVTtKzYgCJj62JHYNvo9UEA/uSsofAA+BwD6HmP8zUtsuFS4olgOR4/sHagW5OnzfezUoQ5VHSe1CA1xi6UDccNMrGY3crbYahyJ6v7c7VjC37ovOvQQYnXmJRMlTUYPbx7PQqe9cOUqv4FJWLoeyjcfG42g55HEqVenZ1ZLMMKachz0wz3ik1+BEFJpNMAGEtccIPpHPhQ==;PWMM9SFC9nz1t24CFef/BQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T09:19:00Z
 sourceUrl: https://www.techinasia.com/welab-secures-156m
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         width: 700
         height: 428
 
-secured: "9pDHk7Rd5e5Am7IyFA4dlFvMxYzDEDUe7z0vqMEjepXjaH0MwSLwcWGn34deeMKv4HV41BWXKzSlT5YJ2EQEy2isvIOYFkYlN9EKHBEBNl4MEr6cj7baZAoO9JdVIVhzlgXz2e+IC02aZxOq9IQVpdC/zVGuB9EngabuVTYAdalRbaR1RLr/7qw69XEk2CPRhfHi45DwMp77uofM5nnDsHvfXpcyGk0dtC0XuSEVqbzuhimoycwAVmWq70jRAHSZE5RmYISSslfsqwHDbbkosA==;XJlVn8+F2gQxig2y4iXGng=="
+secured: "uGmftGs+VR97a1+rzlmSvLT7V88Uo2FkBZH8RL5JEi88wBcwIaS64rqsfNonFkrKFPhS6+eRq/0AoGZcttZU8Awi9JKSMRFoRarR2iheEix5/JlxR3HnQNoaUWhtZGVIg0hDU3jR0CvmnA68s74EDddNJ8hAUIAN8Y/RPhReDkJ+/VNwN0W6vb7lww+QhJ3Hfgf3P9JlVHxpLrJDfdF5+K7ZPzyLDhGT/gtG7fhMrsb2OVHaDeylupHTr61bTSmBcbSIf3fMze7ckViUXqEf0A==;LYI3uIIl+/TqurTRlCAE/w=="
 ---
 

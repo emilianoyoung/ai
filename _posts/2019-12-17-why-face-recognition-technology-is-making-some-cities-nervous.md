@@ -1,29 +1,23 @@
 ---
 category: news
-title: "China Continues Facial Recognition Adoption With Airport Scanners"
-excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
-publishedDateTime: 2019-12-11T23:25:00Z
-sourceUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/
-ampUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
+title: "Why face recognition technology is making some cities nervous"
+excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Continue Reading Below GET FOX BUSINESS ON THE GO BY CLICKING HERE Are fears ..."
+publishedDateTime: 2019-12-17T22:07:00Z
+sourceUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous
+ampUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
+cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
-    width: 457
-    height: 305
-    title: "China Continues Facial Recognition Adoption With Airport Scanners"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -129,6 +123,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
         width: 700
         height: 525
+  - title: "China Continues Facial Recognition Adoption With Airport Scanners"
+    excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
+    publishedDateTime: 2019-12-11T23:25:00Z
+    sourceUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/
+    ampUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
+        width: 457
+        height: 305
   - title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
     excerpt: "The commission’s vote halts plans by Delta Air Lines to roll out facial-recognition cameras at its Sea-Tac this year. (Shutterstock) SEATTLE (AP) — At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the ..."
     publishedDateTime: 2019-12-11T19:51:00Z
@@ -657,17 +666,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
         width: 700
         height: 367
-  - title: "Why face recognition technology is making some cities nervous"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Continue Reading Below GET FOX BUSINESS ON THE GO BY CLICKING HERE Are fears ..."
-    publishedDateTime: 2019-12-17T22:07:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous
-    ampUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -831,6 +829,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "JUDPoynqsX34meEjluPlig7J9gveLNNFbZspx/53sih+T07KVoz0WyaHQgDotXsY4SU9EMtXGQF/kD7XMD21aCm2ci4slAOmDlAL7Gg9kh0LLzi2a4CbKzMk9zqCyjQCvSGQaf12fUcWV2oRGPt30xDjKpQOo4tqmFcS/WAEUPc3damAV7hTxuuDDeH6TZYDCbiR43kWrt4pNuRVA3Q13S5x1bJQgn8sION91Lxo6aC8bgX5F3l/PRmtVLFw5O7DIKU/TZMmRyxUJXJXk01icQ==;UeAE+UnC2+6nZ7GPX2N5lw=="
+secured: "tJSfYyhxmx+FnFIS4sPL7GX8sEs69UoRv73uf2bBaH3ARBxGy8phswAvPH9Pwh01i3xjzh9TT8e0XneovPTA7uTFGQ1r06vB2ipS6hnYXzLsC8IGjLWbWl4jo0ePyepQ+e31kuNOV0ldEc3J38OD29bGJ4cv2jIPi6ABO4gT3oUOk08w3fvRHTC0RicqwHnH1PtARGu6n7wXGTNbJXLT9TXOOYABS9qL+DkY4fYHV69chthmhH6Agd0m5NpDpiTbqo7IzL5zXMPJAAaJgf85wQ==;3qvYvRPr3wKYAuW4p9nSeA=="
 ---
 

@@ -2,22 +2,16 @@
 category: news
 title: "Google AI tool helps conservationists (and the public) track wildlife"
 excerpt: "Google is quickly putting its wildlife-spotting AI to good use. The internet giant has launched a Wildlife Insights tool that helps conservationists track wildlife by not only parsing their photos, but sharing them in a searchable public website. The AI automatically tosses out photos that are highly unlikely to include animals and tries to ..."
-publishedDateTime: 2019-12-17T13:10:00Z
-sourceUrl: https://www.engadget.com/2019/12/17/google-wildlife-insights/
-ampUrl: https://www.engadget.com/amp/2019/12/17/google-wildlife-insights/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/17/google-wildlife-insights/
+publishedDateTime: 2019-12-17T14:10:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/google-ai-tool-helps-conservationists-and-the-public-track-wildlife/ar-BBY5bP9
 type: article
-quality: 187
-heat: 197
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -45,6 +39,6 @@ related:
         width: 578
         height: 289
 
-secured: "E4hPhUpX/0Q93mjgiHl2mbldLBFF3CyzW7nXKLE5Fe+ayNxKEdzGdYkMgRN/lwErHfCc7SYH+TTbY7LsDCVgb6PKi2GVUEocg6PBGPchfiIYAu0NJHzaQpAtW4OoQFFmKnkfRWrHpFjZFkELxo2WN6weBIM0l8SVVPPaC6bGOjEv77fFuuhWfVPwgNsexkzDvwFbrf7yBEnUEp+7lOGcRHE/h9CTTtBikH3MKtNhzKAHF94ys+FIHIpHGhsFNtxivO8qEgXpgZgbykc/Ln6utplRxd6CtA80G+cfTwlRM6Q=;NBezDOBhmHm7BO37sRo5Ew=="
+secured: "OBwEYRLoRuMMAvQcNfO6Q5/eehRIYl6l96zVq1scoWjbRW8aYzyqc7QXaD0xNMfJSKi6mx8KjjEWMx33N7qNjI1Yr4eJ6m4qAYfcZW3m76sDsMOArH3a1nUCEXcJzhOoirM3iJksNVSjazN2ATROZ9YNF8KrZ37IqiefsrwBQ0FfJM76i2Ex2/2j7SfMqeR7YyihTp6K1pIvbB5hRZKEUCKZdTTaF2yX52vFTKXeBmTxKVzv2ktqurcFQ6j+je/97AxM6fdulsvj98gJCxqJAA==;e1OHynS3AvjRBjY3TBrMNQ=="
 ---
 

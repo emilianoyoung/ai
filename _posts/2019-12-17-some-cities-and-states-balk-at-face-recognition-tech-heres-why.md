@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
-excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
-publishedDateTime: 2019-12-17T15:53:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
+title: "Some cities and states balk at face recognition tech, here’s why"
+excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+publishedDateTime: 2019-12-17T22:20:00Z
+sourceUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/
+ampUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
+cdnAmpUrl: https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
 type: article
-quality: 16
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: WTTV
+  domain: cbs4indy.com
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI in Robotics
-  - Natural Language Processing
+  - Computer Vision
+
+images:
+  - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
+    width: 4030
+    height: 2498
+    title: "Some cities and states balk at face recognition tech, here’s why"
 
 related:
   - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
@@ -117,21 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0C85F059FE379405C21387AC3F31961
         width: 700
         height: 393
-  - title: "Some cities and states balk at face recognition tech, here’s why"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-17T22:20:00Z
-    sourceUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/
-    ampUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
-    cdnAmpUrl: https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 59
-    images:
-      - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
-        width: 4030
-        height: 2498
   - title: "3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-17T00:15:00Z
@@ -277,6 +268,15 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
+  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
+    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
+    publishedDateTime: 2019-12-17T15:53:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 16
   - title: "Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID"
     excerpt: "When Apple introduced Face ID with iPhone X using their new TrueDepth Camera, they instantly leapfrogged their smartphone competitors that were relying on 2D facial recognition as the biometric standard. Only larger bulkier systems like RealSense or Xbox's Kinect were using 3D depth methods. Apple was able to shrink the technology to actually ..."
     publishedDateTime: 2019-12-13T21:18:00Z
@@ -291,6 +291,6 @@ related:
         width: 600
         height: 295
 
-secured: "Kj8tDLfkie0cB0BCgku4EFTvDxOGqM4YS4x94FQSLg7QCZTewLwljNG94xlEw4v1fbI1qcEgMGvHeTN4hzxal3KvEY7DvsI8jbzJLq5NrRDIYEfOZjq7ssK/U/Z6LcnXRqRkorp+A/irP1KXrN9OUz2sS9vDgpZTeEqEB2hI3z6Y7O+B6eC39vtSUkCapntppcqCKr+Fdp4ai7gQ37gm1qVpaLPCPv5dQMd4TYN1BTjjtwOyLIyN7jmByXqD5YEsO2EGf1lbg/cD9Q8y5w1WlQ==;vvXVVWqJYsaVBpKd3flsOQ=="
+secured: "9ny6xHvPrbkRgzxLvJXVWtfzYK0dCqsGSG0bRLIjxwwTfJoDX2ywg0/Gtk3ZkRcBxZBfUvyywNGZv/S9I28YCxXodm5Oz0tYmuz0iV06uoDAYDrA/j2Q/F33oNzgUuTJay4iFKkfen5BKZot4UexQrdkmID7hWasSONqp8NvFTLGVYCjXHeYgkHCgFAvM7NXOOjhww4qygXt/qhZREolH+kEw4aBekssmqwG3NpZZ2lVb3yynErJlVE7nC8Yi4k/NvmAFilhWzCHAfPF1/k3fQ==;omL0ua0A/VXFAO74tFHnog=="
 ---
 

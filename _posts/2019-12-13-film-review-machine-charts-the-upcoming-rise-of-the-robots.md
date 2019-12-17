@@ -362,19 +362,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
         width: 685
         height: 274
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "At the technical level, Squirrel AI Learning fully uses more than ten kinds of artificial intelligence algorithm technologies, such as knowledge space theory, Bayesian theory, logistic regression, genetic algorithms and deep learning, and initiates the nanoscale knowledge point decomposition, the decomposition of MCM system (Model of Thinking ..."
-    publishedDateTime: 2019-12-17T07:41:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-shines-the-ieeeiros-2019-conference-/2019/12/17/9070510.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.C84582B39B93D85671E1890C65A462F4
-        width: 400
-        height: 300
   - title: "The Challenges Of Fintech Application In Modern Era – A Comprehensive Guide"
     excerpt: "It is very easy to make decisions in businesses with the fintech as it has increased the usage of AI solutions. It has become very easy for businesses to rely on AI-powered, data-driven insights to shape strategies. It has improved decision making power. One of the visible benefits of fintech is the introduction of transparency. It helps a lot ..."
     publishedDateTime: 2019-12-09T20:22:00Z

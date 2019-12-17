@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T20:47:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-retrain-designer
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Retrain models with Azure Machine Learning designer (preview)"
 
-secured: "2qIaoDt7HycRoa1FrOTAHu9Q1IEdo1YXAKRpSCcYi0QHCMfa40V6hKqFkXorJgmjrVz/9o9Mbc343ZjW0wNA8kEENRvArk8pR8gveUcBTLApo3kHnwBlbzDGAFUWXvadp56kbxtWwtXujjmiR5lu3WOsPxCwsvGJelBObXM6d2yKUEb7at2iDFkQU0bCQPdwvMTjC4uv498w5FwGA9FKADzamIAyKDiU4wMz73RqosCedBiH0zxLXL0IUGvVwjpCAmr6pfmbQTgFcCKOO+2b4g==;i6KeVJgrK+UYsu0HLWQ8BA=="
+secured: "CEb0fSAqF9nmCSuyBP2xGUFdUmeji0DN+zsXU+hSytTLtQTD93jFqoWEvcAo8IshNQV7VNpMfJ4VXtuZu0Hqz3em/Pe2IgtReyBeEOV7T+ZKMzB5d81fPvrFNhKcqpaUt86MbQedFGnQhd7t2f6UHBtstr53QrN0JQE4ocLFTo9XKZnuQ3GJnbeQpAnHF3tVpKiCwuLAooHUe+9Nx0bQ+72ARnn9GLcNdxK9AVov9aUo0eJRnbw/QBKcqNuAPCXvTV9vRSSxmstSLyVbfNdtIQ==;On9o6juJWlRFty7kzac9Yg=="
 ---
 

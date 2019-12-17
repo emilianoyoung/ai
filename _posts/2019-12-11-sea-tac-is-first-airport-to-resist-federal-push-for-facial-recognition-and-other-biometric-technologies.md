@@ -664,6 +664,17 @@ related:
       - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
         width: 700
         height: 367
+  - title: "Why face recognition technology is making some cities nervous"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Continue Reading Below GET FOX BUSINESS ON THE GO BY CLICKING HERE Are fears ..."
+    publishedDateTime: 2019-12-17T22:07:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous
+    ampUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 39
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

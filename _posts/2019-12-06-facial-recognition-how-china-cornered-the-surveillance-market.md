@@ -108,6 +108,21 @@ related:
       - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
         width: 700
         height: 393
+  - title: "Some cities and states balk at face recognition tech, here’s why"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+    publishedDateTime: 2019-12-17T22:20:00Z
+    sourceUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/
+    ampUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
+    cdnAmpUrl: https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 59
+    images:
+      - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
+        width: 4030
+        height: 2498
   - title: "3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-17T00:15:00Z
