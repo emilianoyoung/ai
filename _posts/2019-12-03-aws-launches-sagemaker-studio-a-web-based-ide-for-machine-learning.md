@@ -1,27 +1,33 @@
 ---
 category: news
-title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
-excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
-publishedDateTime: 2019-12-03T00:00:00Z
-sourceUrl: https://uk.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data ..."
+publishedDateTime: 2019-12-03T18:13:00Z
+sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Yahoo!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
-    width: 4032
-    height: 3024
-    title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
+  - url: https://www.bing.com/th?id=ON.AFCDAF6FDA20A0CCC32046174C4952FB
+    width: 533
+    height: 399
+    title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
 
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
@@ -246,6 +252,6 @@ related:
         width: 700
         height: 365
 
-secured: "fl83xzqT0/I9DLF1Sw8gQFnfecvAuYXLs2L7xf0QODxYFRq4uZCF7H881m6sfiOTZw6wuj8Ti+wxmf9jAMMqZ3z71Lbj27ueQUGbUvQJVfsNDo+QNqKUKkCZjEAAJRaSKxR6I8tBMVZJT7JD8S4YQ6qGNhbFh1I+Kc5Wtid2pX+FCRgLpSZLcqCt2tW05JCOBZ3tZp0AVt3jJ/NtuJBfz4LxtoXOpq978ga5alWUtmA8vN2I83omOheaYgmBqR9Swnc4fGoylRZ/z32MNstW3g==;4so7n2oTLvG4BHiIqPpl2Q=="
+secured: "lgYoy7CqzQLzsaHFohQDiQ2sW/HhIF6F74KOic6MWgfvtc+srfhCwo8Thg5RVov4k2Omt4uARzbg8f4QZOwcWmW4WakrBZYgSZR2SyVaM5q4Dz/b6uEZh11FWVOB8xvw1n1rASIovYBAg28BAdAbD34QZF/wv6YaagQYpYHpwfEJOfoJuiWNel2eWPvRBKuJgP14nDlUfHBL7KpWuPhvUtvAsnzLsWOa9XFZ4j3gxrjbZi2NHlGjHgWXfVhR5vtjCMnRp7gOKIfIBXfgywdAfw==;LuxkpsuZPfRhz177It6v6A=="
 ---
 

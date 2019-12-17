@@ -70,6 +70,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B8958EB51AAB9E014925FE376B7E136F
         width: 700
         height: 367
+  - title: "Instagram trains AI to detect offensive captions"
+    excerpt: "Instagram is to warn users when their captions on a photo or video could be considered offensive. The Facebook-owned company says it has trained an AI system to detect offensive captions. The idea is to give users \"a chance to pause and reconsider their words\". Instagram announced the feature in a blog on Monday, saying it would be rolled out ..."
+    publishedDateTime: 2019-12-16T16:14:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50813086
+    ampUrl: https://www.bbc.com/news/amp/technology-50813086
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50813086
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.28330A8E0DE064B556ADEF168633C083
+        width: 700
+        height: 393
   - title: "Instagram AI Tool To Flag Offensive, Bullying Captions. But What About Facebook?"
     excerpt: "A phone screen displays the 'like' button of Instagram application in Ankara, Turkey on December 10, ... [+] 2019. On Monday, Facebook, Instagram’s parent company, announced their AI system will begin to detect and flag potentially offensive comments that could be bullying. If a caption is flagged as offensive, the AI will send a notification ..."
     publishedDateTime: 2019-12-17T00:39:00Z
@@ -85,21 +100,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EDC4C688E81828A853B997D4E24FF7C
         width: 600
         height: 315
-  - title: "Instagram trains AI to detect offensive captions"
-    excerpt: "Instagram is to warn users when their captions on a photo or video could be considered offensive. The Facebook-owned company says it has trained an AI system to detect offensive captions. The idea is to give users \"a chance to pause and reconsider their words\". Instagram announced the feature in a blog on Monday, saying it would be rolled out ..."
-    publishedDateTime: 2019-12-16T16:16:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50813086
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50813086
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50813086
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.28330A8E0DE064B556ADEF168633C083
-        width: 700
-        height: 393
   - title: "Instagram will now use artificial intelligence to help stop bullying"
     excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. How It Works If a user writes a caption on a photo or video that the AI deems offensive, that user will ..."
     publishedDateTime: 2019-12-16T13:16:00Z

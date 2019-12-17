@@ -23,21 +23,6 @@ images:
     title: "SoftBank's Son says Japan should make AI mandatory subject for college students"
 
 related:
-  - title: "SoftBank’s Son Makes a Pitch for Japan-Led Asia AI Superpower"
-    excerpt: "Not surprisingly, it involves artificial intelligence. Japan can boost growth by joining with India and Southeast Asian countries in creating a common AI platform, Son told scientists and government bureaucrats who gathered in Tokyo on Tuesday for the government’s Moonshot symposium. He envisions Japan taking a leading role and believes the ..."
-    publishedDateTime: 2019-12-17T04:51:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.E9AFEE1B5FF7EA63E66E4F711A4E4866
-        width: 700
-        height: 466
   - title: "SoftBank CEO: Japan should make AI mandatory subject for college entrance exams"
     excerpt: "(Reuters) – SoftBank Chief Executive Masayoshi Son said on Tuesday Japan should make artificial intelligence (AI) a mandatory subject for college entrance exams, to counter the yawning gap with the United States and China in the nascent field. Japanese students “don’t study if they are not asked… let’s put it as mandatory, then ..."
     publishedDateTime: 2019-12-17T07:17:00Z
@@ -53,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E481515479160FBD353FE671CA8A8FCD
         width: 700
         height: 393
+  - title: "SoftBank’s Son Makes a Pitch for Japan-Led Asia AI Superpower"
+    excerpt: "SoftBank Group Corp. founder Masayoshi Son has a solution to Japan’s decades-long economic malaise. Not surprisingly, it involves artificial intelligence. Japan can boost growth by joining with India and Southeast Asian countries in creating a common AI platform, Son told scientists and government bureaucrats who gathered in Tokyo on Tuesday for the government’s Moonshot symposium."
+    publishedDateTime: 2019-12-17T06:12:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/softbank-e2-80-99s-son-makes-a-pitch-for-japan-led-asia-ai-superpower/ar-BBY4kKi
+    type: article
+    provider:
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.1DC54DCE0388288B6F089E9970B2E2F4
+        width: 700
+        height: 367
 
 secured: "ik5VK2SZ2a3o4mvRw5Df3wmi1eNLvOp11EEtMoUShe2cdxSugoEs5f6qGpDgvOeTrmjp7d6r29/mjCjojmuOLtPPjWQwErXWUm8fmm69LdN6RHaHyVXgwxIi2QErrq7n+8nNeIPKe01ZYROMFdzePuMR2ORB3BNSahDJIwuAvEMavghMciBAjkyTbixDxJaCdJFwp76uAq/x7KqeFbCDZXZXezyPtJpxkyYffzTn+zhDC/v3v+5De18hMvtDgFZFmcdOWFxWCSWhVrv0jVfggA==;kV24gmMgZXFYXgUsTlaxJg=="
 ---

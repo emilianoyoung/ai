@@ -1,27 +1,29 @@
 ---
 category: news
-title: "CRISPR, Gravity Waves, Water On Mars: A Decade Of Discoveries"
-excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient's T-cells -- part of their immune ... Machine learning -- what we most commonly mean when talking about \"artificial intelligence\" -- came into its own in the 2010s. Using statistics to identify patterns in vast datasets, machine learning today powers ..."
-publishedDateTime: 2019-12-17T02:55:00Z
-sourceUrl: https://www.ibtimes.com/crispr-gravity-waves-water-mars-decade-discoveries-2886824
+title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
+excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient's T-cells—part of their immune system ... Machine learning—what we most commonly mean when talking about \"artificial intelligence\"—came into its own in the 2010s. Using statistics to identify patterns in vast datasets, machine learning today powers ..."
+publishedDateTime: 2019-12-17T08:25:00Z
+sourceUrl: https://phys.org/news/2019-12-crispr-gravity-mars-decade-discoveries.html
+ampUrl: https://phys.org/news/2019-12-crispr-gravity-mars-decade-discoveries.amp
+cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-crispr-gravity-mars-decade-discoveries.amp
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.D3658B589EF8B3CCDC34B5B1FD48C092
+  - url: https://www.bing.com/th?id=ON.6AEB38415D628984FB19CA2F957D6F85
     width: 700
-    height: 438
-    title: "CRISPR, Gravity Waves, Water On Mars: A Decade Of Discoveries"
+    height: 420
+    title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
 
 related:
   - title: "Decade-ender: Six major scientific discoveries from artificial intelligence to CRISPR era"
@@ -38,6 +40,6 @@ related:
         width: 556
         height: 370
 
-secured: "TaPd6mkCyfZV96UdYE+mBgwc6QU8S8yY8CBAbt9MB5BI7ZgVVmFGJUEb5wTp3Ti9cnSKY70dmRpp5Ycb5yiXDU5NcBn6gYhm2Wk7XnhR/woQlnvrX4m4bDRBcK737x7bDBGQl3FXRfcdHJ8SfenY1Y0C8+7KAgDZfD5Pzm+1fkwp6A2X3eQZkOezreufzTIA6WVDgUHg44pjrQBr7lvkidGbM/kO2mGyLS1jyr8Owb8K7hUMBmF1bCC+AWgKzS/x74vE1lSG7y9NebzMo7veew==;3fHrlgOINIyOO9tjMpE16Q=="
+secured: "4Up5jcNWM0S3tGXAWeQAoId1zYQLQ3oH0csWSYTQoQFY68lwaAAC9jGTdvKbZi+KvZfNkeTomQWAZ62p0ipu6npJwMcZfSwMEQJQWslHYXWNLnQ1XvpcIkuPRH3VdUEakh++HIZWqwe1c9TIg2PHAPqh64j+dbWPEWmw6nmXpcFoxqTl+cfLc9g7sdigtVX/vV6Ujs5GONJUjqnzT8jtDVyoVwZH4fBtVfyTEObvBfnlVW0rA5viOsC324L/LeeE+r+5eK6wyUEvNtKiCHCYtQ==;3wEo7F188c/iE0uKjDNbWw=="
 ---
 

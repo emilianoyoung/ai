@@ -337,6 +337,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+    publishedDateTime: 2019-12-02T13:25:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive-the-market-1028729846
+    type: article
+    provider:
+      name: Markets Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Artificial Intelligence as a Service Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Based on End-User Industry the global Artificial Intelligence as a Service market is segmented in Retail and E-commerce, Healthcare and Life Sciences, BFSI, Government & Defense, Telecom, Manufacturing, and Energy & Power. Competitive Rivalry AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are ..."
     publishedDateTime: 2019-12-09T02:33:00Z
@@ -426,15 +435,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CE487D7226F561728E206E9A2AED3F18
         width: 700
         height: 365
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    publishedDateTime: 2019-12-02T13:15:00Z
-    sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 13
 
 secured: "Z9iEpTWfJICr3G2JtfXZivvzebFqanGsOVEnE0pN44QA/pBZS5O0qp63dE1xQHQAygDrvZav7gTlzoXmTztwCvq0MuB4wBH8Wn099HXzdBvJUCR1cTpFZWEDgclEfsmzQgOyfRwnlB/CTI8pJgdgMSHjrN4enYnY5nxkoaoB5bpQSg1t1lQCxLHt2bzyQVp/LL9aLgMXBvmFklEPnF9K8V52D2I4SSzQWOs5VHThtin1RTCJjLlafvBhNTf1WFOpxCLtaJzWsop/YjY02UGQFQ==;WcxZ/tuw9Rj97zYw4iiXQA=="
 ---

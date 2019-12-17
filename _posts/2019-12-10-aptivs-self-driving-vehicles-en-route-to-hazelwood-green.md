@@ -24,48 +24,49 @@ images:
     title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
 
 related:
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "\"What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world's development of technology that will power self-driving vehicles. We're proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current standing as ..."
-    publishedDateTime: 2019-12-04T18:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green-300969351.html
+  - title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
+    excerpt: "Toyota Motor Corp’s automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in mobility service vehicles before it does so in personal-use vehicles. “‘Level 4’ (driving capabilities) is really what we’re striving for to first appear in mobility as a service,” James Kuffner, CEO of Toyota Research Institute-Advanced Development, told reporters at the opening of its new offices in Tokyo."
+    publishedDateTime: 2019-12-17T06:29:00Z
+    sourceUrl: https://www.reuters.com/article/us-toyota-autonomous-idUSKBN1YL0G9
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YL0G9
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YL0G9
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
+      - url: https://www.bing.com/th?id=ON.F3C6B884E46201A263463EDFD2AA1E3A
         width: 700
-        height: 367
-  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
-    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
-    publishedDateTime: 2019-12-06T19:32:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+        height: 453
+  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
+    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
+    publishedDateTime: 2019-12-12T20:02:00Z
+    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
+    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
     type: article
     provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 19
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "New Pittsburgh Technology Center will advance the development of autonomous technology for self-driving cars PITTSBURGH, Dec. 4, 2019 /PRNewswire/ -- Aptiv PLC (NYSE: APTV), a global technology company enabling the future of mobility, announced today that its Pittsburgh Technology Center will relocate to new offices at Mill 19 in Hazelwood Green."
-    publishedDateTime: 2019-12-05T08:55:00Z
-    sourceUrl: https://www.autoblog.com/press-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green_21394/
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
+        width: 700
+        height: 393
+  - title: "Abu Dhabi airport completes self-driving wheelchair trial"
+    excerpt: "Dozens of passengers took part in a trial using self-driving wheelchairs at Abu Dhabi airport. Personal electric mobility vehicles made by Japanese company Whill helped users with disabilities to navigate crowded areas, lounges and gates during the five-day pilot. The devices are fitted with sensors that detect obstructions and have an ..."
+    publishedDateTime: 2019-12-16T13:20:00Z
+    sourceUrl: https://www.thenational.ae/uae/transport/abu-dhabi-airport-completes-self-driving-wheelchair-trial-1.952319
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
-  - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
-    excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
-    publishedDateTime: 2019-12-09T19:40:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 4
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E09F33C15A1798249D52672D7D22B3A5
+        width: 700
+        height: 393
 
 secured: "yNW3DziwIdBdjBS+wOV7klD3bITCvreo1XwgxME9eNpNRcR6//ToMiBLBZ+abS+58OIpyIokdF0zWppR68/bG/piwFzwltDw2bKJKwIgXvHYZjGDdFF4AwfyDa9bo0fiqioMpwXb2WdiCT7UfLrHibK/tYMhL1wLzpl+jfhEpLjBN5cPVADt+uTglQdlIn25uI1QufhW307m4Qx5nG8vQYli9YKauU5Yi/7Y5Q4M+4nJhsg86MbPpFXKxUpaTkZv7q5O+EqxNWen30laPjfKJQ==;/4zm9rl1gUKcmoeqr7R8fw=="
 ---

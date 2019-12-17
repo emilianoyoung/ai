@@ -99,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C648F2A8F369331B7DE745DD1674969
         width: 700
         height: 367
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Gathering of Big Names to Discuss the Changes Brought by the Latest Technology Although the concept of artificial intelligence is hot, the specific empowerment of artificial intelligence in all walks of life cannot be accomplished at one stroke. At the \"Davos Forum of Tech-geeks\", many guests shared wonderful perspectives, and expressed their ..."
+    publishedDateTime: 2019-12-17T06:58:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-attends-the-web-summit-to-talk-about-the-application-and-breakthrough-of-artificial-intelligence-in-the-field-of-education-300975867.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.B327FF64EEE1BC4F30615674A332F7BC
+        width: 700
+        height: 365
 
 secured: "RyvOkfGGNCwqmgA3atNx0hcVSk8BzIMLOJoANA6S3gzX+DD3DTDHi+w9EQILiJXQHzjlSETrLBc5Nk5QU+sHFeXmQ42Aj+/3ll6C9oB03VsDmvAfXtSsxsKLunXcZ/3+nr4Q56o32foz4KSpw9PEo2jyqZ+NoDWVl5EBvousFyBUcpy4Yh7qw3GWNes0QZP2b8zw75/Nr0rpv0oZWbs9qYx2oSUA1jf6gsMfuzWM14RRFn7pttoca22SQ0yZ5+ZiiSzaiIa5JrWlHoCGSza8nw==;Bj+7GmSvFrywvTZOIc4htA=="
 ---

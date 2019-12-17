@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Can Artificial Intelligence Increase Our Morality?"
-excerpt: "Source: May Hill Design with support from Templeton World Charity Foundation and Now You Know Media In discussions of AI ethics, there’s a lot of talk of designing “ethical” algorithms, those that produce behaviors we like. People have called for ..."
+excerpt: "Source: May Hill Design with support from Templeton World Charity Foundation and Now You Know Media In discussions of AI ethics, there’s a lot of talk of designing “ethical” algorithms, those that produce behaviors we like. People have variously called for software that treats people fairly, that avoids violating privacy, that cedes to ..."
 publishedDateTime: 2019-12-09T07:38:00Z
-sourceUrl: https://www.psychologytoday.com/ca/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
-ampUrl: https://www.psychologytoday.com/ca/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
+ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
 type: article
 quality: 59
 heat: 59
@@ -25,6 +25,6 @@ images:
     height: 280
     title: "Can Artificial Intelligence Increase Our Morality?"
 
-secured: "mdH8NWjC76n+W40AzEEhl0UXu2oEUXQxzhv18FMQkZov51GBOQT3F7b6ZTEfMJg/hgUS2l7gsjjo8ZnauPHYqOrjZf9p/e4cUhbEHU7eUtOZBunufOiS7UQg5/bUhZlMxf0cZSKEVmsdbM81yGbulfYnqs0Qdo+qBAyNDKESB7285CXPVrerAQd5pTcVAmHKGpr17AXsMhB1cObqDDGJvZnDyrv8UogN8YpajmEMEDP33NzM9c3xJQ59hfYy4pQxzNEaH8hNtYH9wh6OO+KURA==;1adJdjzt533PneMCPlTvUg=="
+secured: "aa/d7AvWYCa9wlZz/fBvIQMuvVJRxzerhV7AkrpSVUvVgrjWxaHxTqLADnEZQvUonWJJgrAgxnzQrawmYecxxDqCauChNPLlpokFoSNOk6SuDHoBWt+qoPQpibzPHsXGhCfe0f4N2u+cUMSy+wxVYL7swBOac+qIKpwyXzCAAl8MNcH1eEa+gruYviq2RG1tYHVS6eQnD1TcbXGE9nYKBGj20nYSwIAXd7xT7Xs8EDqY8JuBDnGPxIH8ZD85Eaf1sW1d7NH6hc/d9pSLVgrrHw==;F5XC9qCTskYB44eS35RNSQ=="
 ---
 

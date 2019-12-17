@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -104,6 +104,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C648F2A8F369331B7DE745DD1674969
         width: 700
         height: 367
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Gathering of Big Names to Discuss the Changes Brought by the Latest Technology Although the concept of artificial intelligence is hot, the specific empowerment of artificial intelligence in all walks of life cannot be accomplished at one stroke. At the \"Davos Forum of Tech-geeks\", many guests shared wonderful perspectives, and expressed their ..."
+    publishedDateTime: 2019-12-17T06:58:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-attends-the-web-summit-to-talk-about-the-application-and-breakthrough-of-artificial-intelligence-in-the-field-of-education-300975867.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.B327FF64EEE1BC4F30615674A332F7BC
+        width: 700
+        height: 365
 
 secured: "k8z/AO24ItOflwBcYi/QekY17Oc4sG4RBPSAVUy0cFLKb1/3ymVpjCFlrGuGUXnbXngP6B+KAL3JACZV3t4o1QjwpN2Z26mQdpdD32DVX3S2VaDTY+ZGO9Tw5aQsvWvmMytnnKL4bK8F3k1kdadYtX92MBIJy77a+uSd+kmFCrBv0bZ6HI34kMp9UVSW97y4AobebVAJvddalN0ZFIFATxxSrpadQ8JbsGtHC4Aa0Sq58EZIll9iH0wwKvirpfkkS59w7E4qa8K9TD8T6Z9Tyg==;bcMrGX3kvCkfCufQS/HLjg=="
 ---

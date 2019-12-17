@@ -113,6 +113,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
         width: 700
         height: 367
+  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
+    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
+    publishedDateTime: 2019-12-17T08:02:00Z
+    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
 
 secured: "Jd/E7wtjQkEjFLo1lCSzNS2EzfKESi2HGrgjIteXimdR0O/qnOnVOwAlA4r54MKlLBUzAWXe1cVL3UaRGXNywV0tIvA6kqTuQikIQzuxjN53WBk4T+vKXBKc1YqD/TUq9wLoUE0rwYCMNM27IrSdeS5TOUJhUmFnjUVSkIavw4giVSoUgnZOzmkHgKUNwVN7bqgffcOv1sQjE7Bc9zs2cL71TxAyPSkGGqzTfx5nricsg+NnIW7lMDR/EgCfxyMHYk9lqlBd+fkM+bOyB2dPLA==;6xbVdOrVqsTi2XoNy4lz7w=="
 ---

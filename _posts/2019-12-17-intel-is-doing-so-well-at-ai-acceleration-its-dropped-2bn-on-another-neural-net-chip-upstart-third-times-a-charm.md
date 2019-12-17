@@ -87,6 +87,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BCA48C47DEEE781682555EE8B921AD2F
         width: 700
         height: 393
+  - title: "Intel's latest acquisition is a $2 billion push into AI"
+    excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
+    publishedDateTime: 2019-12-16T14:39:00Z
+    sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
+    ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
+        width: 700
+        height: 367
   - title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
     excerpt: "Intel Corp has bought Israel-based artificial intelligence (AI) firm Habana Labs for about $2 billion, the chipmaker said on Monday, seeking to expand its AI portfolio to bolster its data-center business."
     publishedDateTime: 2019-12-16T20:51:00Z
@@ -102,21 +117,6 @@ related:
       - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
         width: 700
         height: 466
-  - title: "Intel's latest acquisition is a $2 billion push into AI"
-    excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
-    publishedDateTime: 2019-12-16T14:39:00Z
-    sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
-    ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
-        width: 700
-        height: 367
   - title: "Intel acquires Israel-based Habana Labs for $2B to \"turbo-charge\" AI efforts"
     excerpt: "What just happened? Intel is bolstering its AI efforts with the purchase of the Israeli-based startup for $2 billion. The bold move goes in line with the company's new strategy of looking for growth outside the CPU space. Intel has been struggling to hold its chip dominance as of late, so much so that it even asked rival Samsung to make some of ..."
     publishedDateTime: 2019-12-17T00:32:00Z
@@ -192,6 +192,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E322D761B2025606E2EB1596D2AF511E
         width: 700
         height: 466
+  - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
+    excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
+    publishedDateTime: 2019-12-17T08:15:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL.html
+    ampUrl: https://m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.6257571D4925C083503B6E8A8918AD25
+        width: 700
+        height: 393
   - title: "Intel Buys AI Chip Firm Habana Labs For $2 Billion In High Stakes Race Against NVIDIA"
     excerpt: "Habana Labs currently products the Gaudi AI Training Processor, which can be adopted in large-node training systems (a la the Habana Labs’ HLS-1) and is sampling at the moment to select hyperscale customers. Compared to GPU-based solutions, Habana Labs claims that its solution offers a 4x uplift in throughput. “We have been fortunate to get ..."
     publishedDateTime: 2019-12-16T16:23:00Z
