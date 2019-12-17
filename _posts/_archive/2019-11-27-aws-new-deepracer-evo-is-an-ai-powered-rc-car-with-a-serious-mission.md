@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AWS’ new DeepRacer Evo is an AI-powered RC car with a serious mission"
-excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed an enhanced, LIDAR-powered model along with new initiatives meant to boost user ..."
-publishedDateTime: 2019-11-27T17:58:00Z
+excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
+publishedDateTime: 2019-11-27T17:56:00Z
 sourceUrl: https://siliconangle.com/2019/11/27/aws-new-deepracer-evo-ai-powered-rc-car-serious-mission/
 type: article
 quality: 69
@@ -18,74 +18,28 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.F622921364F120792D201C32F1531521
-    width: 700
-    height: 393
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
+    width: 860
+    height: 484
     title: "AWS’ new DeepRacer Evo is an AI-powered RC car with a serious mission"
 
 related:
-  - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
-    excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to build and race fully autonomous 1/18th scale race cars using code and simulation."
-    publishedDateTime: 2019-11-27T17:15:00Z
-    sourceUrl: https://www.zdnet.com/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
-    ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
+  - title: "AWS intros DeepComposer, an AI-powered piano keyboard for developers"
+    excerpt: "The DeepComposer keyboard is a 32-key, 2-octave keyboard designed to give developers hands on experience with Generative AI, without the complexities of computer science, code, and infrastructure. Using either the physical keyboard or a virtual one in the console, DeepComposer lets developers create original melodies with pre-trained genre ..."
+    publishedDateTime: 2019-12-02T17:36:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-intros-deepcomposer-an-ai-powered-piano-keyboard-for-developers/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-intros-deepcomposer-an-ai-powered-piano-keyboard-for-developers/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-intros-deepcomposer-an-ai-powered-piano-keyboard-for-developers/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.939B2C917DD5B5BBD00358F78CECBC90
+      - url: https://www.bing.com/th?id=ON.055F455E5D9966CD366B615D18F605E2
         width: 700
         height: 525
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-27T14:37:00Z
-    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-  - title: "Ottawa DeepRacer League – Start Your AI Engines"
-    excerpt: "it has been brought to my attention that five cars and five tracks are on their way to Ottawa. There is going to be an Ottawa DeepRacer League! About six months ago I was at a technology conference in Washington DC full of, you guessed it, US government ..."
-    publishedDateTime: 2019-12-02T01:57:00Z
-    sourceUrl: https://medium.com/@scottnlevac/ottawa-deepracer-league-start-your-ai-engines-f684b4d6b93e
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: https://miro.medium.com/max/494/1*_cpV4IOzc-nb2ZkmCDgqoA.png
-        width: 494
-        height: 338
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-28T00:03:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/aws-expands-deepracer-league-announces-142424047.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-12-02T00:01:00Z
-    sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 34
 
-secured: "ak7vDhK0p6iXF6u1f39dYHpvRqDo0WbE5gUmlnejcEgX8eWP7qDo6xygOsjf1vAkZdicns/Jp+f3lgay2KZ64/Q8e3xdRTlS9LdUPCUBZ66yGSVzRPu3VPmaFw4xlcMi3gAykVdB6jNJQRrWuzpE+9hJgMpuTKq2SZFjz1Aiz7lwabTIykLaIvx5Rf7yPyNDuJDgvXgZC6rLkoOBJYgDWHnfVDzNovOd/Fj1Sg9n2rR1LJedTXRO754ybPUSjPQ+mnYwhOeFr7JAIyqkaP5qsg==;oEcWaxZ+k2CCFkKaN0efUw=="
+secured: "AJvOYcwGBuqM/3N4aGlpcHZohzKy1ZV32y5GEr8GQmYM7XmlyAVDm+lHXdUCBGfWiP+otScDQxwDf9/YVBp2Cr9XR0uz3DOOIGIPtAoFLs/WXBd6kpvmGKDHAn/bUlKhowIzpf0HzOvCyqgrU6GhOTL0dbizAAytWa/6SmNU0bDeG35tl7F4hbkAm5tXsH2Q34h8AjsjUUSLYz5P1hA8vtXEtIH+82d0Op+ylbWCvlmojcEG/9p4WdG0h1LAr26ftA4HWgogS/EXrIdHi3SHGQ==;RjykquxLEgDEDlRsTQtaZw=="
 ---
 

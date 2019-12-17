@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
         width: 600
         height: 315
-  - title: "The Top Fintech Trends to Look Out For in 2020"
-    excerpt: "AI is capable of identifying fraud, detecting money laundering and making customer ... “One of the trends that everyone should look out for in 2020 is agility, and not only agility in its classic definition. In Fintech, we talk about agility not only as the ability to reconfigure or replace your information technology systems when needed ..."
-    publishedDateTime: 2019-12-03T11:28:00Z
-    sourceUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/
-    ampUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.40E62D361A27E92F0522C8A46E4DEA41
-        width: 700
-        height: 420
   - title: "SMAC in the DARQ: the tech trends shaping 2020"
     excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
     publishedDateTime: 2019-12-06T00:06:00Z

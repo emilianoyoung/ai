@@ -26,58 +26,49 @@ images:
     title: "The Top Fintech Trends to Look Out For in 2020"
 
 related:
-  - title: "IBM Tech Trends To Watch In 2020 … And Beyond"
-    excerpt: "But for now, here is IBM’s preview of the year and decade ahead. Artificial intelligence technology probably won’t take your job. But it will change how you work. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will ..."
-    publishedDateTime: 2019-12-09T14:59:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/
-    ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
+  - title: "3 Top Stocks in Artificial Intelligence"
+    excerpt: "Every day, companies are using more artificial intelligence (AI) in their businesses. From the recommendation algorithms you see on e-commerce or streaming video sites, to fraud detection at major banks, to training doctors and performing breakthrough medical research, AI is driving some of the most exciting innovation in the world today."
+    publishedDateTime: 2019-12-03T16:52:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/03/3-top-stocks-in-artificial-intelligence.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial-intelligence.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial-intelligence.aspx
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
-        width: 600
-        height: 315
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
-    publishedDateTime: 2019-12-05T04:27:00Z
-    sourceUrl: https://news.yahoo.com/smac-darq-tech-trends-shaping-2020-042708248.html
-    ampUrl: https://news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B17CB274803069B75A006F02A6D2E6B
+      - url: https://www.bing.com/th?id=ON.12591F442B77066A207C0BB8EDD24AB3
         width: 700
-        height: 474
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
-    publishedDateTime: 2019-12-06T00:06:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
+        height: 387
+  - title: "AI Needs Intelligent HPC infrastructure"
+    excerpt: "Fortunately, some existing technologies have adapted well to the growing need to process multimedia data types for AI use cases, most notably – graphics processing units (GPU). A GPU performs the vector and matrix computations that underlie neural network layers. GPUs do so in a parallel way, providing vastly improved training speeds with ..."
+    publishedDateTime: 2019-12-02T18:01:00Z
+    sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/ai-needs-intelligent-hpc-infrastructure/
     type: article
     provider:
-      name: Relaxnews (AFP) on MSN.com
-      domain: msn.com
-    quality: 24
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
-        width: 700
-        height: 367
-  - title: "Artificial Intelligence, Digital Assets, Enabled Customers and Advisor Platforms are WealthTech Trends to Watch in 2020"
-    excerpt: "NEW YORK, Dec. 4, 2019 /PRNewswire-PRWeb/ -- Xtiva has compiled a collection of insights from 20 top WealthTech and finance industry influencers identifying trends that wealth management firms and advisors should pay attention to in 2020 and beyond. Key insights identified in the WealthTech Trends 2020 report include: AI and data-driven ..."
-    publishedDateTime: 2019-12-04T10:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-digital-assets-enabled-customers-and-advisor-platforms-are-wealthtech-trends-to-watch-in-2020-1028736316
+      - url: https://www.bing.com/th?id=ON.E02AE587EB70A5B12DCB94D684FCFEE2
+        width: 412
+        height: 274
+  - title: "Fintech startup Indyfint raises $2.1 million funding in series A round from clutch of individual investors"
+    excerpt: "The company Indyfint majorly relies on AI algorithms to analyse the transaction history of ... In addition, as per the reports the shift of the fintech landscape in India from payment to include other verticals — like lending tech and insurance ..."
+    publishedDateTime: 2019-12-06T02:45:00Z
+    sourceUrl: https://www.theindianwire.com/startups/fintech-startup-indyfint-raises-2-1-million-funding-in-series-a-round-from-clutch-of-individual-investors-238669/
+    ampUrl: https://www.theindianwire.com/startups/fintech-startup-indyfint-raises-2-1-million-funding-in-series-a-round-from-clutch-of-individual-investors-238669/?amp
+    cdnAmpUrl: https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/startups/fintech-startup-indyfint-raises-2-1-million-funding-in-series-a-round-from-clutch-of-individual-investors-238669/?amp
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.075D54BAB1C03B60F1D4B4424015FD91
+        width: 700
+        height: 393
 
 secured: "o5sNsSUvqNRajy+gvUIpgCXLRBTFPJtjc8g6C9ThEkwHlEX7XkPPZxOUr1XxpIvsKJTb1TZczE+i9KI2hipbxZeK7fUt7isfgbpVr2hT9SHL+kdZGfARYlC/15p9GFUYIr5tv0CIJWUJB7REjrDwNSRgFw1/FmOooamPLaok/6gDwd6ewlVBM/J0zI+kCjVcNlMD/3qxOY1QC6rWvgKoSgq+kt6QKbx4D8vNjNAJTKO3jj7wBDUjwkB1CraWtapUjjtE1wJ6KJBIc9lTm8v41w==;lARcP2nfvEpUo5j98030hw=="
 ---

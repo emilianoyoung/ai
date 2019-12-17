@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C4F5AFEA35FE3DF63C0F4DD639F1B0F9
         width: 690
         height: 388
-  - title: "Korean Go Champion Hangs Up His Stones, Retires Over Invincible Google DeepMind AI"
-    excerpt: "Google's DeepMind division has been demolishing human opponents left in right in traditional games like Go (also called Baduk), and even more modern fare like Starcraft. However, one human Go player is calling it quits years after he was defeated by DeepMind AlphaGo AI. Lee Se-dol, a South Korean Go champion told the Yonhap News Agency that he ..."
-    publishedDateTime: 2019-11-27T17:55:00Z
-    sourceUrl: https://hothardware.com/news/korean-go-champion-google-deepmind-ai-alphago
-    ampUrl: https://amp.hothardware.com/news/korean-go-champion-google-deepmind-ai-alphago
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/korean-go-champion-google-deepmind-ai-alphago
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.64A4E5D8F4BDC5A828CFC8D9CBBA02EF
-        width: 700
-        height: 393
   - title: "See the exact moment the retiring world champion of Go realised DeepMind's machine was 'an entity that cannot be defeated'"
     excerpt: "He gets up from his chair and walks away from the board!"
     publishedDateTime: 2019-11-28T11:47:00Z

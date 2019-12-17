@@ -23,32 +23,19 @@ images:
     title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
 
 related:
-  - title: "AI Needs Intelligent HPC infrastructure"
-    excerpt: "Fortunately, some existing technologies have adapted well to the growing need to process multimedia data types for AI use cases, most notably – graphics processing units (GPU). A GPU performs the vector and matrix computations that underlie neural network layers. GPUs do so in a parallel way, providing vastly improved training speeds with ..."
-    publishedDateTime: 2019-12-02T18:01:00Z
-    sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/ai-needs-intelligent-hpc-infrastructure/
+  - title: "Artificial intelligence extends average life expectancy: Expert"
+    excerpt: "KAZINFORM Artificial Intelligence (AI) offers acceleration in the treatment process of patients ... The system is intended to make significant contributions to doctors and patients in stem cell therapy and DNA sequencing methods in treatment processes after diagnosis. «In the academic studies, genomics and DNA sequencing studies become more ..."
+    publishedDateTime: 2019-12-08T07:06:00Z
+    sourceUrl: https://www.inform.kz/en/artificial-intelligence-extends-average-life-expectancy-expert_a3592552
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.E02AE587EB70A5B12DCB94D684FCFEE2
-        width: 412
-        height: 274
-  - title: "Artificial intelligence gets to work in the automotive industry"
-    excerpt: "Is automotive manufacturing one of the faster ones or would it be among the last? Artificial intelligence (AI) encompasses various technologies including machine learning (ML), deep learning (neural network), computer vision and image processing, natural language processing (NLP), speech recognition, context-aware processing, and predictive APIs."
-    publishedDateTime: 2019-12-02T10:34:00Z
-    sourceUrl: https://www.automotiveworld.com/articles/artificial-intelligence-gets-to-work-in-the-automotive-industry/
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
+      name: Kazinform
+      domain: inform.kz
     quality: 39
     images:
-      - url: https://1bgnvt3q09toyb96v2ecsygm-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/umlaut-rpa-graphic-300x285.jpg
-        width: 300
-        height: 285
+      - url: https://www.bing.com/th?id=ON.74C894EFCC25D75A492B025CBC0A2446
+        width: 320
+        height: 240
 
 secured: "Unl5cF7s1o/LZFRNK6uNvMeoUCIWSh+E3palhJbOhQ93exWsE7J78IP5L5mvhP1v0KmZ3C2uaqijUpo5zKbSXiKbs+Hs3e8oSpMrfftgg73s8AYp86Fg3ow1t3DCW/jyh49JQdCMOLFR/N79u43L3pvQtcgttJQRqaAiVUKCU7n7U10O+NL2VxjTqBCNT7h89V6bL3QE4ePyASR7PIUyMyP4m+cgr1oOGS3R+UuoTnWjJ1dpQS6HSP6xEse6bAoEHxXLu37shSObBtWpXzo+GQ==;crLAPWjqZkW6PyX3BITskg=="
 ---

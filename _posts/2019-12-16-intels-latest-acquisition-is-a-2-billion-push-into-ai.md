@@ -1,21 +1,26 @@
 ---
 category: news
 title: "Intel's latest acquisition is a $2 billion push into AI"
-excerpt: "Intel hopes to use its AI capabilities to do things like reconnect damaged spinal nerves in paralyzed patients and create wheelchairs that can be controlled with facial expressions. It has experimented with neuromorphic chips, or AI chips that mimics the human brain, and it says its ultra-efficient AI chips can power everything from prosthetics ..."
-publishedDateTime: 2019-12-16T15:39:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/intels-latest-acquisition-is-a-242-billion-push-into-ai/ar-BBY30Ch
+excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
+publishedDateTime: 2019-12-16T14:39:00Z
+sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
+ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
@@ -636,6 +641,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "MIyfHS2SCiy+A6gLXAce1n6tc2hK+RjIKIDM7rh3I/i5Ut3vy8MTGevtcO+0BXAI1M3StO7UvABvN4OT6rRyfpQV+SWb0SVnVH+Gise3zX/uqktQXw4b8Uo6YRTIoPUS5fr1HT1m/GF8Vu1W4HWuVTSONX581VdLDltWp9N8gn2RPhBpQcHJzAtmK9XOUyo5p6e5KObO9M+nSekYTtwfZCTToYdG9cq3nsSmu6VZqpQConY/SmLVbM2a6UWgNk9i7i6hHt2q2x5l78RDE/mmTQ==;ncUtfmE6PFeK3J/I3OBFBw=="
+secured: "1DHRCVbp7KLGiv5k8/wc4WbT0BZrPTkaxZZeoOtlIgvh0Pc6TFNmZNmdZ9n1UYDpg5iTMXkmkNnucJoqxZ19mz5AQdSHmIvn40Vyqfyp+JF93sZCUILE2YrWOcj8SsNn73qo5cFwIC7SBRWi9XpGRD11mhgEfHIbz+LxB9RC5slYOHSDoXhFoGrXfgURbbPTh8ENawfLnNidNHHTlMLj16h7H5aqpzUPgcQWvrshCz9G0UtIwWWcp8QxoV9niBzq7Co7FNvqz4/nTp1a8jxrGQ==;3t3ejLwFXkGgLFrocFei7g=="
 ---
 

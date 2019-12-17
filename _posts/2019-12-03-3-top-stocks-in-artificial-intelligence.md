@@ -8,8 +8,8 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial-intelligence.aspx
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: The Motley Fool
@@ -29,36 +29,49 @@ images:
     title: "3 Top Stocks in Artificial Intelligence"
 
 related:
-  - title: "The Best Artificial Intelligence Stocks of 2019 -- and The Top AI Stock for 2020"
-    excerpt: "Spending on AI systems will increase by more than two and a half times between 2019 and 2023, from $37.5 billion to $97.9 billion, for a compound annual growth rate of 28.4%, according to estimates by research firm IDC ... iPhone maker Apple (NASDAQ:AAPL), social media leader Facebook (NASDAQ:FB), video-streaming king Netflix, and Stitch ..."
-    publishedDateTime: 2019-11-27T17:15:00Z
-    sourceUrl: https://www.fool.com/investing/2019/11/27/the-best-artificial-intelligence-stocks-of-2019-an.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/11/27/the-best-artificial-intelligence-stocks-of-2019-an.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/11/27/the-best-artificial-intelligence-stocks-of-2019-an.aspx
+  - title: "The Top Fintech Trends to Look Out For in 2020"
+    excerpt: "AI is capable of identifying fraud, detecting money laundering and making customer ... “One of the trends that everyone should look out for in 2020 is agility, and not only agility in its classic definition. In Fintech, we talk about agility not only as the ability to reconfigure or replace your information technology systems when needed ..."
+    publishedDateTime: 2019-12-03T11:28:00Z
+    sourceUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/
+    ampUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 99
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.11D70BC8D75B0B55783FCF79C03CF08F
+      - url: https://www.bing.com/th?id=ON.40E62D361A27E92F0522C8A46E4DEA41
         width: 700
-        height: 466
-  - title: "AI Skills Among The Most In-Demand For 2020"
-    excerpt: "TensorFlow is the most popular tech skill of the last three years, exponentially increasing between 2016 and 2019 based on Udemy’s data. Udemy sees robust demand for AI and data science skills, in addition to web development frameworks, cloud computing, and IT certifications, including AWS, CompTIA & Docker. SAP expertise is projected to be ..."
-    publishedDateTime: 2019-11-28T01:24:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2019/11/27/ai-skills-among-the-most-in-demand-for-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/11/27/ai-skills-among-the-most-in-demand-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/11/27/ai-skills-among-the-most-in-demand-for-2020/amp/
+        height: 420
+  - title: "AI Needs Intelligent HPC infrastructure"
+    excerpt: "Fortunately, some existing technologies have adapted well to the growing need to process multimedia data types for AI use cases, most notably – graphics processing units (GPU). A GPU performs the vector and matrix computations that underlie neural network layers. GPUs do so in a parallel way, providing vastly improved training speeds with ..."
+    publishedDateTime: 2019-12-02T18:01:00Z
+    sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/ai-needs-intelligent-hpc-infrastructure/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.CB4890720EA9018E224EB9D4A30726A2
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.E02AE587EB70A5B12DCB94D684FCFEE2
+        width: 412
+        height: 274
+  - title: "Fintech startup Indyfint raises $2.1 million funding in series A round from clutch of individual investors"
+    excerpt: "The company Indyfint majorly relies on AI algorithms to analyse the transaction history of ... In addition, as per the reports the shift of the fintech landscape in India from payment to include other verticals — like lending tech and insurance ..."
+    publishedDateTime: 2019-12-06T02:45:00Z
+    sourceUrl: https://www.theindianwire.com/startups/fintech-startup-indyfint-raises-2-1-million-funding-in-series-a-round-from-clutch-of-individual-investors-238669/
+    ampUrl: https://www.theindianwire.com/startups/fintech-startup-indyfint-raises-2-1-million-funding-in-series-a-round-from-clutch-of-individual-investors-238669/?amp
+    cdnAmpUrl: https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/startups/fintech-startup-indyfint-raises-2-1-million-funding-in-series-a-round-from-clutch-of-individual-investors-238669/?amp
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.075D54BAB1C03B60F1D4B4424015FD91
+        width: 700
+        height: 393
 
 secured: "DwMrtvnfm1dIenV0O0/lXtltMkeXkccIefHVXnszHWLyYFLRsBpO3rbtB6LKiuIuuIbZh8bwO2455XMb33CPPgn3WE4+Ab9MS3uEk9XRxgww+axw4b4S5XTSKqcXFNbw8d0jXxq/mnyNAGhErgG8rgGLGz3hFWLGU1OlYr1Le6YPaWcBW4tUbU41RnxiPZWdeJu40VbDzNK5atjJHNXn2x2Djk2ZHlWT/nrEEDvpMoPgVf+ihSnXsBPvognQSLXlz3C1b+keKbSkvHqMlH4fJQ==;y6vZRrSRLb7gLJ3CExkfig=="
 ---

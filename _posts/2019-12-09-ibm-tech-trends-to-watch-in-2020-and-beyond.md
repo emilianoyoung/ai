@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "IBM Tech Trends To Watch In 2020 … And Beyond"
 
 related:
-  - title: "The Top Fintech Trends to Look Out For in 2020"
-    excerpt: "AI is capable of identifying fraud, detecting money laundering and making customer ... “One of the trends that everyone should look out for in 2020 is agility, and not only agility in its classic definition. In Fintech, we talk about agility not only as the ability to reconfigure or replace your information technology systems when needed ..."
-    publishedDateTime: 2019-12-03T11:28:00Z
-    sourceUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/
-    ampUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.40E62D361A27E92F0522C8A46E4DEA41
-        width: 700
-        height: 420
   - title: "SMAC in the DARQ: the tech trends shaping 2020"
     excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
     publishedDateTime: 2019-12-05T04:27:00Z

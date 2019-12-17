@@ -8,7 +8,7 @@ ampUrl: https://in.mobile.reuters.com/article/amp/idINL8N28K2E8
 cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N28K2E8
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
         width: 700
         height: 393
+  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
+    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
+    publishedDateTime: 2019-12-17T17:52:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
+    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
+        width: 1200
+        height: 674
 
 secured: "54NKA4OYk+EeiSiEcgL6uLpMaMnnvxwtjCBVbVyGS8EVI/i57ZWqwnJGxv4gNz3Z9jUi2gcyXUkUcz9je/QbiVJx0c5LOmfR0Z9BY+S4fYcHfkRnsvp0Vr7+r9HpEYTcJkO7Bgfm/VJkMZbC1OdcHNUXSf3EW8No2ECCwz7x23sMM8301IYUB+Mt3ejDfCp0M2hvsfhgegbmYKlCbqJz7kPFegMjCJWXl+lj8QAYWLUj4tnXRt6r9GWxA4KRtFUZ1bZJYkXBiTvMBdrOQlYBTg==;ybKncn1FJ6GLVuv1qhVvcA=="
 ---

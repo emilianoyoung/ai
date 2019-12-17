@@ -108,19 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
         width: 700
         height: 700
-  - title: "What’s stalling the self-driving car revolution"
-    excerpt: "Clear analysis. Every weekday afternoon. For years, engineers have raced to program artificial intelligence to recognize the scenarios that human drivers understand implicitly — like the difference between a shadow, a puddle and a pothole. But their efforts to propel self-driving cars into the mainstream have sometimes had disastrous results ..."
-    publishedDateTime: 2019-11-27T17:34:00Z
-    sourceUrl: https://www.washingtonpost.com/podcasts/post-reports/whats-stalling-the-selfdriving-car-revolution/
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20191127/t_1574868036478_name_AEWBHERSABEMXNM2YX3UHZRL6U.jpeg&amp;w=1484&amp;op=resize&amp;opt=1&amp;filter=antialias&amp;t=20170517
-        width: 1484
-        height: 834
   - title: "The 30-Second Trick for Medical Translation Company"
     excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
     publishedDateTime: 2019-12-03T09:14:00Z

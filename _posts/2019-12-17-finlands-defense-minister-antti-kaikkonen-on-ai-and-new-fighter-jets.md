@@ -23,6 +23,21 @@ images:
     height: 367
     title: "Finland’s Defense Minister Antti Kaikkonen on AI and new fighter jets"
 
+related:
+  - title: "Infinite text adventure AI Dungeon is now available on iOS and Android"
+    excerpt: "Earlier this month we told you about AI Dungeon, an AI-powered text adventure with near infinite possibilities. You can type what you want into the game, and the AI will generate a response on the fly, creating a freewheeling experience that encourages cooperation and imagination. Now, AI Dungeon is available on iOS and Android as well ..."
+    publishedDateTime: 2019-12-17T17:20:39Z
+    sourceUrl: https://www.msn.com/en-us/entertainment/gaming/infinite-text-adventure-ai-dungeon-is-now-available-on-ios-and-android/ar-BBY5Br2
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.1EE177E365F919A71DA63C4E36A797E2
+        width: 700
+        height: 366
+
 secured: "1m5rV2h5xHq7wOaXtUggMZTpDEeRL5puexg27ETzCprdbG8D1+0V4a90/tcpHCa8jtzuS4gF90oBhyoq11dboKBq9ODSTy497st7zpcz0zHhYrtVaP9qoQUrrJsZ9Xdv97xXUP1nOd0WqSJiWWyG7h+/t+ZqZ8MAZNG9EktpmLo0mSvLuETbXwDPZdQ1ugzJdBb+PlnVelY7Od46LHsTdKyIRTQMf50Dej+f5mKBQsv9+8IEh/UHg+3NLaweh56XmFah0ZdvMBrwGHeH8fPrSg==;EFZMCsioUBO4LV3nXDtp4g=="
 ---
 
