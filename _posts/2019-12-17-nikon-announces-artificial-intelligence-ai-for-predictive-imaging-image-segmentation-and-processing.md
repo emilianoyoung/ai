@@ -26,33 +26,16 @@ images:
 
 related:
   - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "Hugging Face has raised a $15 million funding round led by Lux Capital. The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications ... is a useful brick to build upon."
-    publishedDateTime: 2019-12-17T16:26:00Z
-    sourceUrl: https://news.yahoo.com/hugging-face-raises-15-million-162619121.html
+    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
+    publishedDateTime: 2019-12-17T16:50:00Z
+    sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
+    ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 127
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/unfX1u5XIUboHEKni5gJiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bVUJ.SO2J9aNY5z.Sw8swQ--~B/aD0xMTUyO3c9MTUzNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/c29cbf4f09c90508e4af2e17b3199a23
-        width: 1280
-        height: 960
-  - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
-    excerpt: "The amount of compute for the largest AI applications has doubled every three to four months since 2012 ... Companies have to hire specialized engineers to build this architecture, linking things like AWS or Azure cloud instances with Spark and distribution management tools like Kubernetes. “The tools required for this have been kind of ..."
-    publishedDateTime: 2019-12-17T14:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/
-    ampUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
-        width: 1100
-        height: 550
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
 
 secured: "abQJc4IQLVj7DVC9Hkq269obfu3VVhe33EkCaHya4m7SmBSf7InyOf1biYAg+YmHcrkjGjaAmAycVauPSnNg5S26O3x28JOCAvY3OooE/ur/SiOTpp+6IWc/IiJIA+L/z01m3p/K1upMe02nP+7DnqpcM+FsCtvU9HBG80BSUufds36gNHsSme1iM35FneCj4fZ3ceeY8hdPYdoLT0K40QJaEDVE6KiNk8FNEHP+a/VwV9wv5LmRYCmsGqJg9u2sisYfhYwxME5oGUpqhi+f9A==;gH1xS9e8+pJTVz5JpxRIqg=="
 ---

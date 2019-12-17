@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.523AA138DAC56DCC6F584E3B683D8B4C
         width: 700
         height: 351
+  - title: "Intel Acquires Artificial Intelligence Chip Maker Habana for $2 Billion"
+    excerpt: "Intel has announced the acquisition of Israeli chip startup Habana for approximately $2 billion. As Intel’s press release states, the focus is on accelerating data center inference. That is a large market and Intel is still trying to figure out how to play. While much is being discussed about moving some artificial intelligence (AI ..."
+    publishedDateTime: 2019-12-17T21:36:00Z
+    sourceUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/
+    ampUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df93d7ae961e10007394ce4%2F0x0.jpg
+        width: 876
+        height: 548
   - title: "Will Amazon's New Chip Cause Headaches for Intel?"
     excerpt: "The move wasn't surprising since it acquired ARM-based chipmaker Annapurna Labs in 2016 to develop its own first-party CPUs and artificial intelligence (AI) chips. This was clearly bad news for Intel (NASDAQ:INTC), the world's largest maker of data center CPUs, but the first-generation Graviton couldn't match the performance of Intel's ..."
     publishedDateTime: 2019-12-10T15:09:00Z

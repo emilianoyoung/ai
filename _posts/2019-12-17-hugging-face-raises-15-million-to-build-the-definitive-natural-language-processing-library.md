@@ -1,43 +1,29 @@
 ---
 category: news
 title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-excerpt: "Hugging Face has raised a $15 million funding round led by Lux Capital. The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications ... is a useful brick to build upon."
-publishedDateTime: 2019-12-17T16:26:00Z
-sourceUrl: https://news.yahoo.com/hugging-face-raises-15-million-162619121.html
+excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
+publishedDateTime: 2019-12-17T16:50:00Z
+sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
+ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
 type: article
-quality: 127
-heat: 147
+quality: 74
+heat: 84
 published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: https://s.yimg.com/ny/api/res/1.2/unfX1u5XIUboHEKni5gJiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bVUJ.SO2J9aNY5z.Sw8swQ--~B/aD0xMTUyO3c9MTUzNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/c29cbf4f09c90508e4af2e17b3199a23
-    width: 1280
-    height: 960
-    title: "Hugging Face raises $15 million to build the definitive natural language processing library"
+  - Natural Language Processing
 
 related:
-  - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
-    excerpt: "The amount of compute for the largest AI applications has doubled every three to four months since 2012 ... Companies have to hire specialized engineers to build this architecture, linking things like AWS or Azure cloud instances with Spark and distribution management tools like Kubernetes. “The tools required for this have been kind of ..."
-    publishedDateTime: 2019-12-17T14:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/
-    ampUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
-        width: 1100
-        height: 550
   - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
     excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
     publishedDateTime: 2019-12-17T00:06:00Z
@@ -52,6 +38,6 @@ related:
         width: 400
         height: 142
 
-secured: "w24W20Tvsx6CRKivpytHkfP3dKyKFt+F6phckgTIX0J6iPcdXxzBoqvkxAVcJmG/6TBEpHv/Asx41+Nq1DiY4FEMCq50dXBku20BZTxXDF1BvLV8YWwvdDJfWyfMKb05C7pjhBluwJpXfoxv3L9J2sXFIBfK8IN1+1HnpaYY5KiN0ZgGQV9riqTpv9YIPxu/oS7zhgtVXMmt5LmQcmQGiwCShmzmTv4OuUklP9sEgVT6OVDX7SQq5ohLwzKFTsJxq8C8udggJFm0KGGWSeoOpg==;XBIZgFtLTDPuHFP+SPFirQ=="
+secured: "MQiY4ru+Df9GNsWpq+LGsDe37C83Np6rtGSxKW3BoGe3nGyHm7Xhb8WPYGwCb0cYbFaLC7Wmg7ozs9X6zv59bf1L6/R4Kme7La8lmRis9eTLtMiJ2CZNKcMOY6lQMS4qUqh3BVfL4w1bF0yzwGUr/DA+j1VHWzE8JgtmW/qo2tazK541zOXTniNEQHwnP8RfiMQ21w2e/UPkRk9JBlqhT8DZUAcFZtmoHHPxz/tfb9K09YViL3NUO4EVunrBVB/JLscnmq9Vhmx4M+QKx3wcqw==;XSO8Ur7crr2RW8l+eWdPkA=="
 ---
 

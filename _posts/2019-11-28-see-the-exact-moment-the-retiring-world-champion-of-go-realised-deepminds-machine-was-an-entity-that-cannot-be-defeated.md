@@ -30,21 +30,6 @@ images:
     title: "See the exact moment the retiring world champion of Go realised DeepMind's machine was 'an entity that cannot be defeated'"
 
 related:
-  - title: "Go champion retires from professional play, cites undefeatable AI as the reason"
-    excerpt: "In context: We've seen Google's DeepMind AI reach some pretty impressive milestones over the years. It's beaten some of the best DOTA 2 players, it can diagnose eye diseases with the accuracy of 'world-leading' doctors, and DeepMind's AlphaGo system managed to unseat the top Go champions throughout the world. That last set of victories is the ..."
-    publishedDateTime: 2019-11-27T20:43:00Z
-    sourceUrl: https://www.techspot.com/news/82951-go-champion-retires-professional-play-cites-undefeatable-ai.html
-    ampUrl: https://www.techspot.com/amp/news/82951-go-champion-retires-professional-play-cites-undefeatable-ai.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/82951-go-champion-retires-professional-play-cites-undefeatable-ai.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.5CE912AE051B28D354E0CECA1405D22D
-        width: 700
-        height: 490
   - title: "Former Go Champ Retires From Game: AI ‘Cannot Be Defeated’"
     excerpt: "Former Go champion Lee Se-dol has retired from professional competition—because artificial intelligence. The South Korean Go master gained global fame in 2016 as the only human to defeat DeepMind’s AlphaGo computer program. Now he’s bowing out of the sport due to the “invincibility” of AI Go programs. “With the debut of AI in Go ..."
     publishedDateTime: 2019-11-28T11:06:00Z
@@ -58,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C4F5AFEA35FE3DF63C0F4DD639F1B0F9
         width: 690
         height: 388
-  - title: "World champion Go player quits because AI has become too powerful"
-    excerpt: "Lee Se-dol from South Korea lost to an AI algorithm called AlphaGo that had been programmed to play the game by Google's DeepMind in 2016. Despite being the only player to ever win a game against AlphaGo under tournament conditions, the match finished 4-1 in the computer program's favour. \"With the debut of AI in Go games, I've realised that I ..."
-    publishedDateTime: 2019-11-28T11:30:54Z
-    sourceUrl: https://www.msn.com/en-gb/news/offbeat/world-champion-go-player-quits-because-ai-has-become-too-powerful/ar-BBXstwt
-    type: article
-    provider:
-      name: The Independent on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F58C18BCAA68E9455C07DF3ED6BACE0C
-        width: 700
-        height: 367
 
 secured: "sQbFjkHD2Oe7WlXOYKjB2+vsM8abyJfM/hHeQRgsq05SNx90Yeua5HmLjWtxTia+aHS9MQsVNm1WYsn1+rHTGIEE6JFmHXt4fK1Q9HVMTz0PYmDEsIViv6agqQWe5bdeUfaPC8Axokq1UbpgW6LM5NTEuwsDgYRVFzR9z57dPbEvG7WF8332f5+vE2wsQ9CDOSiJPIfP2Onzz1DwxXGOtIdPlE+rNhNY9wJ7RPLvch9NaEWgFF7/ZEXAM52z7Ovzv0ZylOjbrgDwiqO7ioYxjw==;FTJHNPSEMSVd17tpWaQODA=="
 ---

@@ -89,6 +89,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5CE6062B44EE7E9FF8DB259E9B533E2F
         width: 700
         height: 367
+  - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
+    excerpt: "The amount of compute for the largest AI applications has doubled every three to four months since 2012 ... Companies have to hire specialized engineers to build this architecture, linking things like AWS or Azure cloud instances with Spark and distribution management tools like Kubernetes. “The tools required for this have been kind of ..."
+    publishedDateTime: 2019-12-17T14:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/
+    ampUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
+        width: 1100
+        height: 550
 
 secured: "Iq3QfhUrSFj+owPrw1SxBgbUGkGlv89XcnB+vzddaiYABBwdmXk3XJdvzL/jb1mjtGwS9WsQtJ9v3Wc277553mH6I+/IYTLZZ7H+oE6TEnfTJw19sFUzVUg0d9GX5j0ecj3YwKkPJdgefbOhofvfEb0jIXwGeZlyLUFMCFSEbrEt9AmfpkMQTt3I/1Fp72e9Ehm1IBZ4MOYECZ8U61lRzHfn29qXANZMWePv73/MrlZB6BOhSGPO8aXEjtuD+A8y8HL8YCGUT41ZmlzF5JyiXg==;HapEyDyIfaeGMdrEx7yfmg=="
 ---

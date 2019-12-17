@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/amp/
 type: article
 quality: 73
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -127,19 +127,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
-    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
-    publishedDateTime: 2019-11-27T20:54:00Z
-    sourceUrl: https://www.chron.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
-        width: 700
-        height: 700
   - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
     excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
     publishedDateTime: 2019-11-28T04:38:00Z

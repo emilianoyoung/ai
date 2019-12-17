@@ -118,6 +118,21 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
         width: 1200
         height: 674
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:53:00Z
+    sourceUrl: https://www.financialexpress.com/opinion/fintech-offers-an-opportunity-to-indian-start-ups-to-turn-unicorns-heres-how/1797008/
+    ampUrl: https://www.financialexpress.com/opinion/fintech-offers-an-opportunity-to-indian-start-ups-to-turn-unicorns-heres-how/1797008/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/fintech-offers-an-opportunity-to-indian-start-ups-to-turn-unicorns-heres-how/1797008/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 40
+    images:
+      - url: https://images.financialexpress.com/2019/12/1-473.jpg
+        width: 620
+        height: 413
 
 secured: "peT312QQU+qpDKGZ7fx5Zgf/BSV95g0UOHoPGk02Eam5fjxHFv13AOWaFyMfwPpZlkpHLx06ThA2LB9LvnX4a5uEp2LMNrB2Ot7bKMqupdKe+wPy6J30SIoe/AX92QoB4T05PqoM1wviDgGU+hrNotXDhXYQlQn4l4ZhjwamuxjhNRXDBI9yiRgKlUCYYfGEA85bRrTRNaXmCmzkZvHRzev0T+1+DuumtoGFiXoGFIhGQBM2m5ltkRDxar6jcRvY5RAFdaxoi+IkCdpYMeIRwA==;yxmaV1tGq6FEuBBmCohYOw=="
 ---

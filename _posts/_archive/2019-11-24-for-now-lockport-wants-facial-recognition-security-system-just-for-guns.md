@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-24T10:01:00Z
 sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,32 +23,6 @@ images:
     height: 1500
     title: "For now, Lockport wants facial recognition security system just for guns"
 
-related:
-  - title: "All the ways that facial recognition can be fooled — and even hacked"
-    excerpt: "It is difficult to avoid a facial recognition system unless one keeps under a low light or stays home or hides somewhere. However, over the past few years, researchers are looking out for new and innovative ways of doing so. This could pose a hurdle for ..."
-    publishedDateTime: 2019-11-22T10:26:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/articleshow/72153390.cms
-    ampUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
-  - title: "Facebook had a face recognition app that can identify its staff"
-    excerpt: "Battling several privacy issues, Facebook experimented with a face recognition app among its employees that allowed them to identify their colleagues and friends by pointing smartphone cameras at them. The social networking platform admitted it built such ..."
-    publishedDateTime: 2019-11-23T14:59:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191123/ARTICLE/191129709/AR/0/AR-191129709.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 773
-
-secured: "QOEKCwzfs2/RFbLUqALeWqwAlJjhDqbO5nh6CDmwgRo4KFJarci5wwQsLChvNdcZpSeHY5cdSmxzlh0v8GoPleX9OrcjPPUF0Jap8nTwPNOEWgySwICZycR+7uEKYy9l8GGTr16zHRNyidFChKaV8sMvqdQvnayXb1+lbXCHqCQLrXcvMuOqEvhWfsRl2sqTGLRDpPvexyi15EbnU8VQ0+i4xpwmJogK2lCDvKhy+Cg2xc4U4TtCyatLpZ2l73a1nypkhNfyuiMxvLKO9zkElg==;1SEioyNlPO1MOI9UnhFBVQ=="
+secured: "xiqRl66sQluYh4aIG6eW4T0i2WEsegHRn69H/gzYVOeeEO447YHISgWtnRUd7zmq1q6kqmLgUeUv9sJ/n7PTjcruZlihIKYjASmi/lEMXjp/EjMkEH8rVLdWGLKR4GoBav1TPLsYU5X6khijntUwx7gvGc6F+3rg19cSOS7ojI27U/RpAWJNPm3PZ84vJ9tS7VhpOOevFdZI5O3nSTHVPg4Gx/mZX6ruDudrdFWUByEGvt4LrNFv56+HEcSEqQDQ0ebK5RW6NzPtyxlTncHGZg==;ayEqQMDZ61bGEOEqMEo0hQ=="
 ---
 

@@ -39,17 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
         width: 700
         height: 393
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
-    publishedDateTime: 2019-12-17T09:39:00Z
-    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
-    ampUrl: https://amp.benzinga.com/amp/content/15000614
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
   - title: "Toyota takes self-driving program in commercial direction"
     excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
     publishedDateTime: 2019-12-17T13:07:00Z

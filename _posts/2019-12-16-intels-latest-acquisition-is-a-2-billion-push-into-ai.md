@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.523AA138DAC56DCC6F584E3B683D8B4C
         width: 700
         height: 351
+  - title: "Intel Acquires Artificial Intelligence Chip Maker Habana for $2 Billion"
+    excerpt: "Intel has announced the acquisition of Israeli chip startup Habana for approximately $2 billion. As Intel’s press release states, the focus is on accelerating data center inference. That is a large market and Intel is still trying to figure out how to play. While much is being discussed about moving some artificial intelligence (AI ..."
+    publishedDateTime: 2019-12-17T21:36:00Z
+    sourceUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/
+    ampUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df93d7ae961e10007394ce4%2F0x0.jpg
+        width: 876
+        height: 548
   - title: "Dow Jones News: Boeing Could Slash Production; Intel Acquires AI Chip Company"
     excerpt: "The stock is now barely up since the start of the year. While Intel's core business is providing the general-purpose processors that power PCs and servers, demand for specialty chips aimed at artificial intelligence workloads is growing. Intel expects the market for AI chips to exceed $25 billion by 2024. In 2019, the company plans to generate ..."
     publishedDateTime: 2019-12-16T19:37:00Z
@@ -656,6 +671,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "YtCXLE8iweKyWtRK9X2J+/HXeag2mODUUY2KmsWH5MWhnjzSpEeTagG5xEkeyw2gY/kp2VBOQP1PO8aoM/m/ZwMhDPv5z3evLX1Dn7YWmcji8Pf4nidRhvVe9tFUTGLHcEtwOuGFa5SG//rC621m4zyC63hDj0cK2Iy/zkIfNBsr60nyI6kZIa4y/77WUDfqTwaMxJtYWWCqDYGbEWaCaeYEehoi8TVVZ9fp7VYWFKEJnnKgsf0LszECfQiHlNk11cquFpBg7nQ230AVcvOkKQ==;x7VN7X1oJzep5YAi0ZQ3ag=="
+secured: "dQ5JXuxtJG7ZUXYeKOcwNBWjx+hq24aNJ+En2oF5aUNawICktXiVFsiCNAmzcvmwCse9GyNDsr9A/Gl8eTBP/qOAENVnE45epwGLUXRM2vx3Yd/eS/z59Ymg92ihy+1jplFPSyIladsBcoVnWyJRYvBCxluPtmov7P3nIZ7yV6HnegHUwcQzPrvtnvmK4T7f4sMwm53aLVgSfWLXlZmqt/3byjzgoVqlWPj5R9GeKzfFq6FDwhZkifgYpf0WCxbnPOq9XT5xiFunv3/6bxLbWA==;HZXN5gncOyzBBXJmHkm5fA=="
 ---
 

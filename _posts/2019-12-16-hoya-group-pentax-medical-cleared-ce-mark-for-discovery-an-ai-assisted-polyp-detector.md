@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T07:01:00Z
 sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48427347-hoya-group-pentax-medical-cleared-ce-mark-for-discovery-an-ai-assisted-polyp-detector-008.htm
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,20 +25,16 @@ images:
 
 related:
   - title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY(TM), an AI Assisted Polyp Detector"
-    excerpt: "PENTAX Medical is committed to continuously exploit the use of Artificial Intelligence in additional medical fields ... From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve their efficiency ..."
-    publishedDateTime: 2019-12-16T07:00:00Z
-    sourceUrl: https://www.benzinga.com/node/14993238
-    ampUrl: https://amp.benzinga.com/amp/content/14993238
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14993238
+    excerpt: "Our vision was to bring Artificial Intelligence into the operating room ... From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve ..."
+    publishedDateTime: 2019-12-16T09:19:00Z
+    sourceUrl: https://tass.com/press-releases/1099677
+    ampUrl: https://tass.com/press-releases/1099677/amp
+    cdnAmpUrl: https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1099677/amp
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.D3E829350AC2A593BA84C30D1BD2275C
-        width: 400
-        height: 267
+      name: TASS
+      domain: tass.com
+    quality: 29
 
 secured: "YcyZw6qYp3nyohdUMedsu3jer+Nk3+lByeNdoSMX6NkWfPGC3ywdPlFDhTrcdUADzupxnj6sHeDQA+2lbnEYhzwBWqNpFuSNflEF+TkBMw41WGsKoTKz48UtgIlgL+Kcu/kSuDlCFrsZ/IaAvvEsoyZG4kIMOTYE33UyNfBVUE20O1NsfFx31dFu/EYJPHVqPh2lVkUWIJeN8uHzCMWHlffIhNne/uzn1Ib26YZFFTY/pCQSOQPIOBhtOlKwRi39PiflWVkb4fyjH0dnMtrT4g==;aVEzTrjw80MocUIFvCXtJQ=="
 ---

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY(TM), an AI Assisted Polyp Detector"
-excerpt: "PENTAX Medical is committed to continuously exploit the use of Artificial Intelligence in additional medical fields ... From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve their efficiency ..."
-publishedDateTime: 2019-12-16T07:00:00Z
-sourceUrl: https://www.benzinga.com/node/14993238
-ampUrl: https://amp.benzinga.com/amp/content/14993238
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14993238
+excerpt: "Our vision was to bring Artificial Intelligence into the operating room ... From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve ..."
+publishedDateTime: 2019-12-16T09:19:00Z
+sourceUrl: https://tass.com/press-releases/1099677
+ampUrl: https://tass.com/press-releases/1099677/amp
+cdnAmpUrl: https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1099677/amp
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TASS
+  domain: tass.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.D3E829350AC2A593BA84C30D1BD2275C
-    width: 400
-    height: 267
-    title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY(TM), an AI Assisted Polyp Detector"
 
 related:
   - title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY, an AI Assisted Polyp Detector"
@@ -40,6 +34,6 @@ related:
         width: 400
         height: 267
 
-secured: "TTbxvB/uPfko/AyEYLW+KqAQ+maB9aKiRkIA2YBgvhbWC2W2eAFXPiNIzDXlqSXCBzUqLr9f0AmDSj60+Nhzz+LlxQrK4zHZZH0NhfwO+q+jNAXjkwW1ojnbrPjXhid03yT+rc3+Yt5HApcenHKT2UpuOtu+vjcaMxl/HbViBVc4uz4yTenOhSYN3QoBenKJ+UwEn9WtJzk0ajjlGnRgIYt78VEQ5ZTbi6QTJLOIoDF+VOSiVBBwDzzW+fPBoBYC+/u3Cs978B3y37PKSUyQ9Q==;3n2TvX7MZPOVjWRZSrmaoA=="
+secured: "RTZ0wNsLEl3qHdzkZDZxDJYAvnDcCyLZ10twL1s+GuRgr1xZ/M/I/KRQ5bogOd7jTtMCDlsocuAf0V1OtFhQe4fHpZs5d218biQEuLHKojneE9WJquaiyFEzS/yu2n9Cc1WSBqfuueAQCslsAmlAXE7aEhatG85S8nsfMWiW1MTh5uxD+B6q03UoCIc8vJVYOTdzhCxuZ6IVntNX4mFYqJAGfdc7V9hyfcJf2uFOJafZj4O02680hKkOOSD5n54xqdoWFz/iyV7eWy5Kg7xrxQ==;oShNN2Y574aRyqe3QttqPw=="
 ---
 

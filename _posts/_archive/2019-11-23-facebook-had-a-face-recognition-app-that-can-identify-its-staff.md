@@ -24,6 +24,17 @@ images:
     title: "Facebook had a face recognition app that can identify its staff"
 
 related:
+  - title: "Amazon has considered facial recognition in Ring doorbell cameras"
+    excerpt: "Amazon has considered adding facial recognition technology to its Ring doorbell cameras, according to a letter to a U.S. senator defending its video-sharing partnerships with police. The company told Sen. Ed Markey that facial recognition is a ..."
+    publishedDateTime: 2019-11-20T10:18:00Z
+    sourceUrl: https://www.king5.com/article/tech/amazon-has-considered-facial-recognition-in-ring-doorbell-camera/281-3f54f054-acb2-42e5-a2c0-a341824007ed
+    ampUrl: https://www.king5.com/amp/article/tech/amazon-has-considered-facial-recognition-in-ring-doorbell-camera/281-3f54f054-acb2-42e5-a2c0-a341824007ed
+    cdnAmpUrl: https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/amazon-has-considered-facial-recognition-in-ring-doorbell-camera/281-3f54f054-acb2-42e5-a2c0-a341824007ed
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 39
   - title: "All the ways that facial recognition can be fooled — and even hacked"
     excerpt: "It is difficult to avoid a facial recognition system unless one keeps under a low light or stays home or hides somewhere. However, over the past few years, researchers are looking out for new and innovative ways of doing so. This could pose a hurdle for ..."
     publishedDateTime: 2019-11-22T10:26:00Z
@@ -35,20 +46,18 @@ related:
       name: Business Insider India
       domain: businessinsider.in
     quality: 39
-  - title: "For now, Lockport wants facial recognition security system just for guns"
-    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
-    publishedDateTime: 2019-11-24T10:01:00Z
-    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
+  - title: "Chaayos’ face recognition system gets caught in the privacy storm, company responds"
+    excerpt: "Popular tea store chain Chaayos is drawing flak over its facial recognition system set up at its outlets. The system, which is said to be aimed at replacing the OTP process, involves customers checking in using facial recognition. According to a MediaNama ..."
+    publishedDateTime: 2019-11-21T16:00:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK.html
+    ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 38
-    images:
-      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
-        width: 2000
-        height: 1500
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 33
 
-secured: "L60XdbYAWjOKaPsEkdK1lSJ9VYink4fci0ypmFhoN/mP+EOZImVhZvf5QAx/87JsDKwdFHlGpRDzslCM+/jMttJP4/OjCc9fB5iaBL7eIJGcw7Rbk3tupczVDMx+SN7+bSCTG3OVi2loYSBCGf/FMCi0CoCH+ZHjdi0UllehGK/JgPRCfKRiIo8/AztfA0pTiSpAsqxsZgL682TVhoj5R0wR5PbVq99pi7jBtIyY/Lw9lHCrcNLPtjbUYiHjJFQtxCGRATV7xdBftiHLr4upyg==;InKTxAKAtuQ490pwOMdVwA=="
+secured: "2e5qnrfIoiBafGHBLC37YiGZiZjIC562kxNv9crzXSMw/XMW2Enwq4J5YJy70OpVMPjRopSpOumGclEIdLxM92l8Hx3wSHKI4iHrXGIp/VCWetGWe5hDPgtaJ0AUZJYwjB5UWU8Qr1HVUHM8ZIf/VeP45A6ej9eGFgCgfOWg2ETMjbmcNIHdPLDmdG8+hM2v2tOSRVoGtQh7LTNTqsMoSxBEgY2/7CxNFks9vT+vauIBVGruuwnETdbpl/m/QRfQAqnG3H1qiLN0xSIWG3sP8A==;ns/GV/WHNG2FxgEDIDnyBw=="
 ---
 

@@ -30,32 +30,81 @@ images:
     title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
 
 related:
-  - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "Hugging Face has raised a $15 million funding round led by Lux Capital. The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications ... is a useful brick to build upon."
-    publishedDateTime: 2019-12-17T16:26:00Z
-    sourceUrl: https://news.yahoo.com/hugging-face-raises-15-million-162619121.html
+  - title: "Iterable raises $60 million to optimize omnichannel campaigns with AI"
+    excerpt: "There’s also Kustomer, a software-as-a-service (SaaS) provider that automates repetitive processes by applying analytics atop data from multiple sources; RedPoint, which offers products that analyze customer data with AI; and Punchh, a startup leveraging machine learning and omnichannel integrations to create customer journeys. But despite ..."
+    publishedDateTime: 2019-12-10T15:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 127
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/unfX1u5XIUboHEKni5gJiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bVUJ.SO2J9aNY5z.Sw8swQ--~B/aD0xMTUyO3c9MTUzNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/c29cbf4f09c90508e4af2e17b3199a23
-        width: 1280
-        height: 960
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
-    publishedDateTime: 2019-12-17T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/nikon-announces-artificial-intelligence-ai-150000482.html
+      - url: https://www.bing.com/th?id=ON.A4046261FC6E71237042435BCF6388B2
+        width: 700
+        height: 350
+  - title: "Augury raises $8 million more to predict mechanical breakdowns with AI"
+    excerpt: "Its wireless Halo sensors — which attach to commercial refrigerators, industrial-scale heaters, and practically everything in between — record readings like vibration, temperature, and magnetism and upload it to the cloud, where AI algorithms ingest it to make predictions about the machines’ health. Augury counts Johnson Controls ..."
+    publishedDateTime: 2019-12-12T14:10:00Z
+    sourceUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.8B4262B73D262D18F6BFA1B2C41F7239
-        width: 400
-        height: 142
+      - url: https://www.bing.com/th?id=ON.91AF421CD45A630818614B04A70E3BBB
+        width: 700
+        height: 350
+  - title: "Voximplant raises $10 million to automate call campaigns with AI"
+    excerpt: "Can the cloud-based unified communications market, which is anticipated to reach $167.1 billion by 2025, be materially transformed by AI? Alexey Aylarov, Andrey Kovalenko, and Sergey Poroshin firmly believe so. They’re the founders of Voximplant, a startup developing products that imbue web and mobile apps with voice, text, and video chat."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.53900F1B8FD2F370F0BF607AC7B8965F
+        width: 700
+        height: 350
+  - title: "LeanTaaS raises $40 million to optimize health clinic operations with AI"
+    excerpt: "It’s not without competitors — University of Washington spinout Perimatics offers an AI system that uses data on patients and surgeons to predict the length of surgeries, as do Tagnos and Qventus — but LeanTaaS has market momentum on its side. “LeanTaaS’ iQueue represents a rare nexus of product leadership, robust ROI, and fast time ..."
+    publishedDateTime: 2019-12-12T11:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.53A91E1D5097A32744DCD5D59DD800E3
+        width: 700
+        height: 350
+  - title: "CallMiner raises $75 million to derive insights from phone calls with AI"
+    excerpt: "“We are revolutionizing the way brands and people interact and conduct business — and it all starts with AI-driven customer insights and intelligence,” he said in a statement. Above: CallMiner’s analytics dashboard. CallMiner’s marquee product is Eureka, an analytics suite delivering speech and text analytics for customer call center"
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/
+    ampUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.5CE6062B44EE7E9FF8DB259E9B533E2F
+        width: 700
+        height: 367
 
 secured: "NuIMMtbEE+ECfK3T1/cRw/18vUGkjZqP87lCyAUpRV9pB8qfLS+RQA2tU85oREExkV+jbHZTwo4BpPvPFk1A+Tfw+Qi/iLplPymrSsm8Juy85kWMPTrZcA+8Mva7IvjO2EgBDN0GJ8wiw6a6ZhuAaGigggGNnBvB6Z0SLSNj8JrvsUgF5RhQdG/vUlLUCTGX4UREZFgQIc4qGiZ4b6ms7SvlZblPN4UbpJaKI9U06i3QM48xelJD9laLa8nYqDt47fA/EUOChB1e0he3Sh33eg==;qQqpBbUfeW8YFwlfQ6V3VA=="
 ---

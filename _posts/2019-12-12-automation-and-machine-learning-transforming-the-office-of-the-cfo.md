@@ -354,6 +354,19 @@ related:
       - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
         width: 685
         height: 274
+  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
+    excerpt: "At the technical level, Squirrel AI Learning fully uses more than ten kinds of artificial intelligence algorithm technologies, such as knowledge space theory, Bayesian theory, logistic regression, genetic algorithms and deep learning, and initiates the nanoscale knowledge point decomposition, the decomposition of MCM system (Model of Thinking ..."
+    publishedDateTime: 2019-12-17T07:41:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-shines-the-ieeeiros-2019-conference-/2019/12/17/9070510.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.C84582B39B93D85671E1890C65A462F4
+        width: 400
+        height: 300
   - title: "Film review: 'Machine' charts the upcoming rise of the robots"
     excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
     publishedDateTime: 2019-12-13T13:12:00Z
