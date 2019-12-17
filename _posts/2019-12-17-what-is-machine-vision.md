@@ -34,14 +34,18 @@ related:
       domain: businessinsider.com
     quality: 47
   - title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
-    excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise ..."
-    publishedDateTime: 2019-12-17T13:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/17/9070871.htm
+    excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise, automated 3D structure of the patients' hip for physicians to better plan surgery. The new ..."
+    publishedDateTime: 2019-12-17T12:38:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/rsip-vision-launches-ai-based-total-hip-replacement-solution-300975757.html
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: https://mma.prnewswire.com/media/1055531/RSIP_Vision_Logo.jpg?p=facebook
+        width: 883
+        height: 461
 
 secured: "qjy/IrcuPFghNokpElqD50T7i3RPQPVpvjlJJXRHVelXY68DjIBiyr+WQJgGrZROFqQ3fwEWLo+zUM2NLz5LFK7tGPaE0PY01SPW7nY2QV5M3qNfMHY4QaqBg+hVEK/V86ZeBJWLfVYgpbAJLaHIfd7N+v1aydsr94ano+lurq6ctT48nWGMQnDbt/0UMYB1iJw5ogvuVnHJ02W/IKEnUm2mBmxhMqpEKcHDStvwyU6b4XAMokiVCdBfReaFASE8mnrftAYpQtnd1JyLN+pv0A==;Pb3uCV1HxCjVVSvyB2j/PQ=="
 ---

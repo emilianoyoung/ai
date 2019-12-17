@@ -23,21 +23,21 @@ images:
     title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
 
 related:
-  - title: "Improving personalization with machine learning"
-    excerpt: "And in order to become a market leader you are expected to work seriously on personalization but doing this at scale because you must focus on the global market, must require automation and that is where machine learning comes in ... In the research by PWC titled ‘Financial Services Technology 2020 and Beyond: Embracing disruption ..."
-    publishedDateTime: 2019-12-06T15:16:00Z
-    sourceUrl: https://www.searchenginewatch.com/2019/12/06/improving-personalization-with-machine-learning/
-    ampUrl: https://www.searchenginewatch.com/2019/12/06/improving-personalization-with-machine-learning/amp/
-    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/06/improving-personalization-with-machine-learning/amp/
+  - title: "Conversational AI — a new wave of voice-enabled computing"
+    excerpt: "Moving beyond simply voice commands and by combining the latest in voice recognition and language parsing technology with text-based smarts of interactive chatbots that has been developing rapidly over the last few years, Conversational AI promises to be a rich new vein of technology innovation. A range of new digital services are emerging as ..."
+    publishedDateTime: 2019-12-17T14:01:00Z
+    sourceUrl: https://www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai---a-new-wave-of-voice-enabled-computing/
+    ampUrl: https://www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai---a-new-wave-of-voice-enabled-computing/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai---a-new-wave-of-voice-enabled-computing/amp/
     type: article
     provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.F83729EDDD4FABE3C4BEC0D985EC3139
-        width: 360
-        height: 240
+      - url: https://www.bing.com/th?id=ON.C3B0C54BDD5CEFD7EC421F620831C5B9
+        width: 600
+        height: 315
 
 secured: "8HN+DcwhwAbrvzjIMoKPYQajOjDExyuhI3hhhu38k1QLh8r6JdPxOosfGuNK2/08w2C4brFVfU8oGl95pCdoGwoE/jQ1tepQPU2jNxi/Fhk9/mU+iBJg3ZW6PmdTrI9TgwtCBWhY70i/nNarLJ/+D6XCWVNXARqSTN/ToHYJ+MmF+aBAQf3bHdWXnHgfK/IuxH5+2c8UqlbGyCc+ps/zQFbW6T/vwyOopPi07hgUTI2xPcQLle2lyyfLXBUjInf7G3DwedQe1F0FymilyMk+FA==;C/qRJrjLlIu6eKobuEdBtg=="
 ---

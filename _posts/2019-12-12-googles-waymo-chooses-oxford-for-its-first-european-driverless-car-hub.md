@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-12T14:00:00Z
 sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
 type: article
 quality: 54
-heat: 64
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Daily Telegraph
@@ -24,21 +24,19 @@ images:
     title: "Google's Waymo chooses Oxford for its first European driverless car hub"
 
 related:
-  - title: "Why Silicon Valley has its sights set on the UK as its European driverless car hub"
-    excerpt: "Software, simulations and artificial intelligence are seen as increasingly vital to the future of safer autonomous vehicles. And it is this field - building sufficiently intelligent ‘brains’ for driverless cars so they are smart enough to make decisions on their own - where Britain has been quietly proving..."
-    publishedDateTime: 2019-12-17T07:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
+  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
+    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
+    publishedDateTime: 2019-12-13T11:54:00Z
+    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.CD259D4068B2D6781860AAC33722A53C
+      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
-        height: 437
+        height: 350
 
 secured: "GZyL7YPjuaxZCpXoOKCIY745mApz45+uLbqU9LwNKPpO5TPbFWnMdJ0P2Dsze4zpYkPfCa32j4wb3ZqPjgnSmNczZF++Xn51tM1SodfUqro/8EbDeAKo7ISo4E1ijw81EKXifmaovf6AG6ZMKJ+QX4Eodn2XosteA0NgvyASOIti66dUChZ4lqav+MlXqXc/Hc6PdaZe9Rw36TkUOvc1j46Mjqoh0h15Qnc1WwcJ93ipdNX82oTrjs4PhzOiL9bpgUx00/nR1Tpl6YYVm9nFAw==;iQ+1PNOSOX3QhtJyU0zwNg=="
 ---

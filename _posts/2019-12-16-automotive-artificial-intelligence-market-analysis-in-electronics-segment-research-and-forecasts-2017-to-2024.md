@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
-publishedDateTime: 2019-12-16T06:02:00Z
-sourceUrl: https://www.cio.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
+publishedDateTime: 2019-12-16T06:43:00Z
+sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com.au
+  name: CSO
+  domain: cso.com.au
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://idge.staticworld.net/cio/CIO_logo_300x300.png
+  - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
     width: 300
     height: 300
     title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
@@ -340,6 +340,6 @@ related:
       domain: openpr.com
     quality: 19
 
-secured: "6hZqWovyFI1jSayoGqrn9h+J+oBKnPPpYybml0rsjNgZ/ZzwF62c6kJjgxYqhSPfYQWMvTe3TirFMrwZosSaDZXyZ4F7KL60hN4OcN5SVQIJZlbSQvirgs8jaKby+AuBuWaQIg/gkyGQAtfyyZcB+kkC2hYSFcLq19tStu265zVc4qsgRofbdSAF2AIW1da0LH4QBSW3F+y2P7yYp+ZtArO8n3b2+5Mmfz69I1RoeIOc+cunwCMEbwqMz23WU6ylz3OcNiMYWuY+8DwleJ045Q==;1Qw+34L5wxP8ubMEKV2wzA=="
+secured: "d+HTUmxCrwDHfFky3eCw7d8gimojEGWrqx0W/gKtu5FWldNXT3GvukRMgordzW6pMJPiHS90yklNvAzKBWZHiwfVL3ArQBBhN4+fCEed5ynMdC3No6szMmwfmbzlb5b3qdnh6SgC46X9uSU0vrOEBm5nZC/h3WKZ85mjgIxpPEOuS9CFRB7IwHyK2/fo1pq614pJYiXCqJHIxbGXUqAXl4aP5xUUmx0kdydzIJTZq/ZeLJy0WR7JcaWqwsfuxINbKv8tGlagCJ4y1Zt6F0VPSA==;Kj9yHyXLCqD95cDiOLVyKw=="
 ---
 

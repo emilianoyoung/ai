@@ -165,6 +165,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 0
+  - title: "Acuant on Track for Record Year, Citing Double-Digit Revenue Growth and Continued Industry Recognition"
+    excerpt: "2019 saw the launch of new products including Acuant Face™, which offers three classes of biometric facial recognition to catch even the most sophisticated fraud when it comes to image spoofing and video replay; Acuant Review™, manual review when you need 100% certainty in real time; and InfinitID™, the plug and play solution with scanner ..."
+    publishedDateTime: 2019-12-17T14:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/acuant-track-record-citing-double-140000237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "vm3JCuzE6jT3Y/vgZK9z9G4r6F0Kaik8hj0PlGhCnnKqWTPkLhtuS0pGxm2a6fohNRXZ/1AhV81szAIbd6c188dDkZvPU03Q/0Ey0LoWBKtTFAQZfSSEpA2YnFdgY+gs7QdAuWVue8xPPyYcIt9S0cQKSe+ubXiMSZtpaJZ+W2ckZpKR+ytFLdmY1ErOgfcBz1sYihpAFWccQJOZbEz2RYPJk9vxB0z95nzFb2MOIrNV/xyfXaqzSX4Binyw4XkJLditIF/tSgxptMX/K2HYbg==;L1qA+maaFhVOx0WsWcnYRA=="
 ---

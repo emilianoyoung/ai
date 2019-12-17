@@ -49,7 +49,11 @@ related:
     provider:
       name: University of Delaware
       domain: udel.edu
-    quality: 4
+    quality: 24
+    images:
+      - url: https://www.udel.edu/content/dam/udelImages/udaily/2019/november/fb-info-dark-datae-GettyImages-1156834914_dark-800x420.jpg
+        width: 800
+        height: 420
 
 secured: "YImlmPw35hg3D4xsOAat0wS84d9d9H1gPH1MXKChWc2+N0+Z+yvqjsUsRG4JzCsSDZdraT947e6EaU62mLeI87cQolDUe6N5MGW7ocKxtUXWMPnvO0OGHO5kgfZxy7yyVNs5FthL+AOYanaNoIcx6kVYsNG7WASg0MNfs9Z5RfKz90hq+/Q4IJizgpnifow/zYSukPBnMQaoNE1z/jEMIyoVvoKUSoRxRVRHOH8E82g1b5rVLp+42r6F4b6NzE0qFwO9P4sZykPOb8TzLFwOhQ==;oYkxwz1ke4y2IJrF+WMIkg=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "ITRI Exhibits Artificial Intelligence (AI) & Robotics and Digital Health Technology Innovations at CES 2020"
-excerpt: "learn about breakthroughs in baby monitoring technology with GenkiCam (stop by to see if the camera can read your emotions); have your picture taken by MARS (mobile arm robot system); and explore ITRI’s nine innovative technology introductions in artificial intelligence (AI) & robotics and digital health, including two CES 2020 Innovation ..."
-publishedDateTime: 2019-12-03T14:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191203005703/en/ITRI-Exhibits-Artificial-Intelligence-AI-Robotics-Digital
+excerpt: "learn about breakthroughs in baby monitoring technology with GenkiCam (stop by to see if the camera can read your emotions); have your picture taken by MARS (mobile arm robot system); and explore ITRI's nine innovative technology introductions in artificial intelligence (AI) & robotics and digital health, including two CES 2020 Innovation ..."
+publishedDateTime: 2019-12-03T15:10:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-itri-exhibits-artificial-intelligence-ai-robotics-digital-health-/2019/12/03/9063382.htm
 type: article
 quality: 66
 heat: 96
 published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.2C8ECFCFF68A9A59BB8444A6D849786C
-    width: 700
-    height: 365
+  - url: https://www.bing.com/th?id=ON.9F09D96F769812F0BD4F7BC0D4C95CF4
+    width: 480
+    height: 305
     title: "ITRI Exhibits Artificial Intelligence (AI) & Robotics and Digital Health Technology Innovations at CES 2020"
 
 related:
@@ -60,6 +60,6 @@ related:
       domain: yahoo.com
     quality: 1
 
-secured: "ObYY5BH7bLS6RzzURHs755LHv2IltKwjwmf/3gXxZ6gmoC3eovEUMn2ZwMcNvvcqoYycy/jFKcMDDCFBl/S/Eq8juxjR0XorgA3pN6jTzjDsqb2ZDDLwFYiU/nBCAqttN4z1ikLGY9NxImtdFhbnCdh1dVEYoPumUhyXsxjyRcN9r1Oux7TdtgSzQwaiNjZXuZaEewGe7pjFwzisxUFb1EkRD3bpoJke9NIoVkEssMs9dxKeLpE0kIop5HiPQvEZ7T0BiUbEV75yTP0PWjrcBw==;cELbBdBKz/T7LN/7xVzPEg=="
+secured: "pEecdStVVCWZihokeFfRf3uvWBsd7EKVY6+b0B6OXw3MyL0NxBB2rn8qUiQPn51xazunfRmujL2/Dxk4zEemHgHxjp0PlaYQdNJJzn70KEa3TmCqm/Go1HULmzKxPjI52M04w8KDufPwC4UlmWd3PPvZdvJgYbaOzHZheT/etDH43vkmT46MV9ABOdjPSV/OUubUjmnm+Tou6vD4vpSOKwExkXi5kkdnaBlbMJowRwr2bZFi1BLASZpd4YqR8BchTGzDOpAr/9fAhB+DhvP7mA==;5jlfJRqOTj/yp1rEbrYmKA=="
 ---
 

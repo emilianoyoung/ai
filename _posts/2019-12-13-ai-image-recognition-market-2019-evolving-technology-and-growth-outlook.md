@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -160,6 +160,15 @@ related:
     sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
     ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
     cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Acuant on Track for Record Year, Citing Double-Digit Revenue Growth and Continued Industry Recognition"
+    excerpt: "2019 saw the launch of new products including Acuant Face™, which offers three classes of biometric facial recognition to catch even the most sophisticated fraud when it comes to image spoofing and video replay; Acuant Review™, manual review when you need 100% certainty in real time; and InfinitID™, the plug and play solution with scanner ..."
+    publishedDateTime: 2019-12-17T14:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/acuant-track-record-citing-double-140000237.html
     type: article
     provider:
       name: YAHOO!

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/amp/
 type: article
 quality: 73
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -71,21 +71,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-driving cars just around corner"
-    excerpt: "The autonomous vehicle era is ­approaching faster than most people realise, but the pace of the transition to driverless cars will be driven more by economics than advancements in machine learning and artificial intelligence ... “The future of driving is autonomous. We believe it’s going to happen a lot sooner than most others do ..."
-    publishedDateTime: 2019-11-27T13:03:00Z
-    sourceUrl: https://www.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
-    ampUrl: https://amp.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
-    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A66C1467A467A20A8FC2A7358F2A9A28
-        width: 700
-        height: 393
   - title: "Wheels begin to turn on self-driving car legislation"
     excerpt: "Congress has yet to roll out comprehensive legislation that would create federal standards for self-driving cars this year, but the wheels have started turning on new efforts to draw up policy. Movement on the issue follows pressure from industry groups and agencies that have been pushing for government guidelines to address the testing and ..."
     publishedDateTime: 2019-12-01T14:00:00Z

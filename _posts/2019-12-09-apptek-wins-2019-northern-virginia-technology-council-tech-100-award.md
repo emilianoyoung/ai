@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.21DF90204FA7A0E8F3CEE2F57FD6A5B9
         width: 700
         height: 473
+  - title: "Data management in the construction sector by means of artificial intelligence"
+    excerpt: "Karlsruhe Institute of Technology (KIT) successfully participated in the innovation competition on the use of artificial intelligence (AI) launched by the Federal Ministry for Economic Affairs and Energy (BMWi). The KIT-coordinated research project SDaC - Smart Design and Construction will be funded. With the help of the new AI platform ..."
+    publishedDateTime: 2019-12-03T15:40:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/kift-dmi120319.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.6BC3D2420E208FAF0D80762C7E79859C
+        width: 700
+        height: 466
   - title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
     excerpt: "and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking companies, leaders and innovators within the Greater Washington, D.C. technology community. AppTek utilizes ..."
     publishedDateTime: 2019-12-10T00:06:00Z

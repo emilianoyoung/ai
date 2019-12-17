@@ -129,6 +129,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
         width: 700
         height: 350
+  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
+    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
+    publishedDateTime: 2019-12-13T19:04:00Z
+    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
+    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
+        width: 415
+        height: 290
   - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
     excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
     publishedDateTime: 2019-12-17T10:27:00Z

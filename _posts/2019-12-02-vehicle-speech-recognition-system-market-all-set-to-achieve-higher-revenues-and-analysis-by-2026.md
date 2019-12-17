@@ -41,6 +41,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Europe Machine Learning market Share, Size 2018-2023 Competition, Status, and Forecast, Market"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others. The trend of supporting, educating, enforcing and steering the economy towards a machine learning-friendly environment is seen to be followed throughout Europe.European countries are successfully bridging the gap between additional renewable energy and ..."
+    publishedDateTime: 2019-12-04T06:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/europe-machine-learning-market-share-size-2018-2023-competition-status-and-forecast-market-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Latin America Machine Learning market 2023 | Global Industry Demand Status with Recent Trends, Size and Share Analysis"
+    excerpt: "Based on application, the market is divided into the sub-segments, banking, financial services and insurance (BFSI), automotive, healthcare, government and others.A notable trend of using machine learning in the health service sector is observed. The doctors use machine learning technologies to measure the likelihood of patients suffering from ..."
+    publishedDateTime: 2019-12-04T06:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latin-america-machine-learning-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine learning as a Service Market: Meticulous Research Reveals Why This Market is Growing at a CAGR of 41.5% to Exceed $13.5 Billion by 2025"
     excerpt: "Dec 05, 2019 (Heraldkeepers) -- Machine learning as a service is a set of services that offers machine learning tools and algorithms as an integral part of cloud computing services in order to reduce the time and cost required to set up a professional machine learning team in an organization. Services such as data visualization, natural ..."
     publishedDateTime: 2019-12-05T13:06:00Z

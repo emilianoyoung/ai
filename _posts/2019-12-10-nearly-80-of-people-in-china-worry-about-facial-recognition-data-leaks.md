@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AA7565A68A8E9EFA63AAB0BBCC0BA70D
         width: 700
         height: 366
-  - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
-    excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
-    publishedDateTime: 2019-12-16T19:44:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
-        width: 700
-        height: 393
   - title: "Osaka Metro unveils ticket gate with facial recognition tech"
     excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
     publishedDateTime: 2019-12-10T04:07:00Z

@@ -29,15 +29,15 @@ images:
     title: "Latin America Machine Learning market 2023 | Global Industry Demand Status with Recent Trends, Size and Share Analysis"
 
 related:
-  - title: "Artificial Intelligence (AI) in Construction Market, Deep learning, NLP, Neural Networks), and by Application - Forecast till 2023"
-    excerpt: "Artificial intelligence is used to sort and respond a plethora of information ... On the basis of technology, the market is segregated into neural networks, machine learning & deep learning, and natural learning programming (NLP). Additionally, on the basis of deployment, the market is bifurcated into on-cloud and on-premise."
-    publishedDateTime: 2019-11-27T13:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-deep-learning-nlp-neural-networks-and-by-application---forecast-till-2023-2019-11-27
+  - title: "Machine learning market analysis 2018 Application, Revenue, Excessive Growth 2023"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others.The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector are widespread. The world is moving towards a connected business world to make data-powered decisions. Key growth factors A large amount of data that ..."
+    publishedDateTime: 2019-12-04T06:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-analysis-2018-application-revenue-excessive-growth-2023-2019-12-04
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 66
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -55,32 +55,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Data management in the construction sector by means of artificial intelligence"
-    excerpt: "Karlsruhe Institute of Technology (KIT) successfully participated in the innovation competition on the use of artificial intelligence (AI) launched by the Federal Ministry for Economic Affairs and Energy (BMWi). The KIT-coordinated research project SDaC - Smart Design and Construction will be funded. With the help of the new AI platform ..."
-    publishedDateTime: 2019-12-03T15:40:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/kift-dmi120319.php
+  - title: "Vehicle Speech Recognition System Market All Set to Achieve Higher Revenues and Analysis by 2026"
+    excerpt: "Dec 02, 2019 (Market Prediction via COMTEX) -- Vehicle Speech Recognition System Market Report is a comprehensive study on current state of Vehicle Speech Recognition System Industry along with competitive and comparative analysis of key players, demand for products and segmentation by type, applications and investment opportunities for ..."
+    publishedDateTime: 2019-12-02T08:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-all-set-to-achieve-higher-revenues-and-analysis-by-2026-2019-12-02
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine learning as a Service Market: Meticulous Research Reveals Why This Market is Growing at a CAGR of 41.5% to Exceed $13.5 Billion by 2025"
+    excerpt: "Dec 05, 2019 (Heraldkeepers) -- Machine learning as a service is a set of services that offers machine learning tools and algorithms as an integral part of cloud computing services in order to reduce the time and cost required to set up a professional machine learning team in an organization. Services such as data visualization, natural ..."
+    publishedDateTime: 2019-12-05T13:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-meticulous-research-reveals-why-this-market-is-growing-at-a-cagr-of-415-to-exceed-135-billion-by-2025-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.6BC3D2420E208FAF0D80762C7E79859C
-        width: 700
-        height: 466
-  - title: "Artificial Intelligence in Radiology Market 2019 Size, Share, Upcoming Trends, Segmentation and Forecast to 2025 | CAGR of 35.9%"
-    excerpt: "The artificial intelligence in radiology market by region is segmented into North America, Europe, Asia-Pacific, Latin America, Middle East and Africa. North America has captured the largest market share and is expected to continue the same over the forecast period owing to the well-established healthcare and medicine systems that supports the ..."
-    publishedDateTime: 2019-12-02T09:42:00Z
-    sourceUrl: https://www.medgadget.com/2019/12/artificial-intelligence-in-radiology-market-2019-size-share-upcoming-trends-segmentation-and-forecast-to-2025-cagr-of-35-9.html
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 10
-    images:
-      - url: https://www.bing.com/th?id=ON.7AF33C1ABD51F4A61C4F819A27602848
-        width: 700
-        height: 450
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "kuwF3Ljkh2gIdP7OcOWHjRuMY98eVg/504W5/FlM07hi7492EoXEP1zrnEuRDydJochyiMhhsjzWkZUcRn9WVrZYvXkj3+WCj+0hUaD4jUH1ABXRp8RZlov/d05r8MpoPIUklu7/vTAQi6lCrlvR4DZ1Fhw3AMVVKLzZnYsKMA0pCZLRUscEmH9r0znKqaJTZ6wYfmIaGn9O50GLnySCSjNdkSH+lznkxR34o6xWhqL7QFxJ/QArM9h7M1TPAMcI1QFFiIea0vH5gkUY8Hz3RQ==;3pUITe7GqJaMCpIr3YtpSw=="
 ---

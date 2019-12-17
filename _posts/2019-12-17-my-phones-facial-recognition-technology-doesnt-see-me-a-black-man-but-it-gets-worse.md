@@ -35,21 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AA7565A68A8E9EFA63AAB0BBCC0BA70D
         width: 700
         height: 366
-  - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
-    excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
-    publishedDateTime: 2019-12-16T19:44:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
-        width: 700
-        height: 393
   - title: "Nearly 80% of people in China worry about facial recognition data leaks"
     excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
     publishedDateTime: 2019-12-10T00:19:00Z

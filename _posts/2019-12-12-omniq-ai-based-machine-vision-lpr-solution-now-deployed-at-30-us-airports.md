@@ -22,6 +22,19 @@ topics:
   - Computer Vision
 
 related:
+  - title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
+    excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise, automated 3D structure of the patients' hip for physicians to better plan surgery. The new ..."
+    publishedDateTime: 2019-12-17T12:38:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/rsip-vision-launches-ai-based-total-hip-replacement-solution-300975757.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: https://mma.prnewswire.com/media/1055531/RSIP_Vision_Logo.jpg?p=facebook
+        width: 883
+        height: 461
   - title: "What is Machine Vision?"
     excerpt: "Machine vision is the capability of a computer to perceive the environment. One or more video cameras are used with analog-to-digital conversion and digital signal processing. The image data is sent to a computer or robot controller. Human eyes are responsive to electromagnetic wavelengths from 390 to 770 nanometers, while video cameras can ..."
     publishedDateTime: 2019-12-17T12:46:00Z
@@ -35,15 +48,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C52FBE59E170DA72D7B8ACABE29ACAD8
         width: 150
         height: 150
-  - title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
-    excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise ..."
-    publishedDateTime: 2019-12-17T13:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/17/9070871.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "cT2DcxZPv+HrF9/cCZNT0U5u5rOgVwlZWxkWpwynQQuqQlnDdvJaePfd3+XDWZT0TaqwmfGK3VqsiIvoH6ufeOW6l45ORAPyJFYvOGf2mMgCR3inzSMgdAKJW+r0wsPiYtvNqSJy7rILFSfekb633QxFhjw/Zg0LwtPDYdOic+RxoI7gjqQtopf4/ptWbSY7lNaQ3CS1eomh8Jy8sNCqTNo2DEixuLmMT/GvA0aqxmAR0NuHoyv9aiHkQ6tvHKamODtEWcR74PUFhQRIXRkS/w==;YJorCotbWn4wK8gHcJ5zGg=="
 ---

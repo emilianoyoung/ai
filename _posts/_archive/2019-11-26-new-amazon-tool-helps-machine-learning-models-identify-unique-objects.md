@@ -1,7 +1,7 @@
 ---
 category: news
 title: "New Amazon tool helps machine learning models identify unique objects"
-excerpt: "Amazon announced a new capability today called Amazon Rekognition Custom Labels to help customers train machine learning models to understand a set of objects when there is a limited set of information. Typically, machine learning models have to work on large data sets to learn something like what's a picture of a dog, as opposed to some other ..."
+excerpt: "Amazon announced a new capability today called Amazon Rekognition Custom Labels to help customers train machine learning models to understand a set of objects when there is a limited set of information. Typically, machine learning models have to work on ..."
 publishedDateTime: 2019-11-26T00:01:00Z
 sourceUrl: https://www.yahoo.com/now/amazon-tool-helps-machine-learning-195711792.html
 type: article
@@ -39,18 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.5449032495EB29EACE7EC46B986EF118
         width: 529
         height: 400
-  - title: "New Amazon tool helps machine learning models identify unique objects"
-    excerpt: "Amazon announced a new capability today called Amazon Rekognition Custom Labels to help customers train machine learning models to understand a set of objects when there is a limited set of information. Typically, machine learning models have to work on ..."
-    publishedDateTime: 2019-11-25T20:03:00Z
-    sourceUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/
-    ampUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
 
-secured: "a63lh0yRUsoZXQgEj6MrlHsbwKVsumqNd1akGDyA5NBIKelnki2+WkB6+BptAESROMaBrXn9yZDfvoK4w8oN3MXFVIFnZBaYL9rn8u3fwb+TOmg8RHl4WdI1wW+Luwa21Kc1mwe6/l99U9rUzsP9W3Oxl8jwjG3pX5eWvRhrSINGu3SZZMTmZthgNIT3wDuPi3Iq6IUQrYYVd+b0RB24TjZuGUi/3yqpikcaFnl7AN+cWFp9SPrtfexco4viWH/Rn//dz2ezdoCFRD8a74aRzw==;j3WaO1q6Af9K4u4vqVupXQ=="
+secured: "e0txYExLDmXIfjoy8nKbBooHXClCyeRpI/wTJxd3z8Y4//a51dMiKJQgqQq7ceoxen7VP85SpHQxRfNTsLY1qtl6r5w6YyMsW9BPQK7kQbtEO1B6AQtsDVckC/EOUxGNykAuDyPSen1/FGuVWEuMEXZgUd1mAm6obkQpympWU0sSC5oi9sJcQ3qhTO2zUuAetv9zkefUkQgUodne5qvu92OnYrMYLap9qdwNLsdxSWt931dLF8g6a1s3lVc3TN2wcWP2kvVTqpbWo7ov3hE8zw==;BLMDIslTsjBuSTpl27jWtg=="
 ---
 

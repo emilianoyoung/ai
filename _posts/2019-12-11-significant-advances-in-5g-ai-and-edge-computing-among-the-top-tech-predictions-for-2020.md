@@ -135,6 +135,21 @@ related:
       - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
         width: 600
         height: 315
+  - title: "The Perils and Promise of Artificial Conscientiousness"
+    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
+    publishedDateTime: 2019-12-17T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
+    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
+        width: 2400
+        height: 1800
   - title: "Computer Vision on the Web with TrackingJS"
     excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
     publishedDateTime: 2019-12-13T18:21:00Z
@@ -204,6 +219,21 @@ related:
       - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
         width: 700
         height: 466
+  - title: "Robot arrives on the space station to keep astronauts company"
+    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
+    publishedDateTime: 2019-12-17T14:28:00Z
+    sourceUrl: https://www.kmov.com/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.html
+    ampUrl: https://www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
+    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
+    type: article
+    provider:
+      name: KMOV
+      domain: kmov.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.E052F39DFD642392DB92D6AD4DE04770
+        width: 700
+        height: 394
   - title: "AI is helping tackle one of the biggest unsolved problems in maths"
     excerpt: "Artificial intelligence’s ability to sift through large amounts of data is helping us tackle one of the most difficult unsolved problems in mathematics. Yang-Hui He at the City, University of London in the UK and colleagues are using the help of machine learning to better understand the Birch and Swinnerton-Dyer conjecture, one of the seven ..."
     publishedDateTime: 2019-12-09T11:51:00Z

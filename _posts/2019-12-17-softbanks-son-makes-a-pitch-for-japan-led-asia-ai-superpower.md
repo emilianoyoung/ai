@@ -1,25 +1,31 @@
 ---
 category: news
 title: "SoftBank’s Son Makes a Pitch for Japan-Led Asia AI Superpower"
-excerpt: "SoftBank Group Corp. founder Masayoshi Son has a solution to Japan’s decades-long economic malaise. Not surprisingly, it involves artificial intelligence. Japan can boost growth by joining with India and Southeast Asian countries in creating a common AI platform, Son told scientists and government bureaucrats who gathered in Tokyo on Tuesday for the government’s Moonshot symposium."
-publishedDateTime: 2019-12-17T06:12:00Z
-sourceUrl: https://www.msn.com/en-us/finance/other/softbank-e2-80-99s-son-makes-a-pitch-for-japan-led-asia-ai-superpower/ar-BBY4kKi
+excerpt: "Not surprisingly, it involves artificial intelligence. Japan can boost growth by joining with India and Southeast Asian countries in creating a common AI platform, Son told scientists and government bureaucrats who gathered in Tokyo on Tuesday for the government’s Moonshot symposium. He envisions Japan taking a leading role and believes the ..."
+publishedDateTime: 2019-12-17T04:51:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.1DC54DCE0388288B6F089E9970B2E2F4
+  - url: https://www.bing.com/th?id=ON.E9AFEE1B5FF7EA63E66E4F711A4E4866
     width: 700
-    height: 367
+    height: 466
     title: "SoftBank’s Son Makes a Pitch for Japan-Led Asia AI Superpower"
 
 related:
@@ -52,6 +58,6 @@ related:
         width: 700
         height: 367
 
-secured: "xL3rc44lgyXKBZUH5/qXfkG75GarM7WrsYK10MffawVIHuoXP4Yhp3U2cJZYftsM+LOeODFw0miyaRWqrpG32lwwKAyorCVQPKFeCmSytldv3KTyOVERHjlUS6YOWDQJ+xS/CKAN3MrFu6NGpLcpH/dSHtxvFkPfRMoWU2tz6WOy8Hc3q62isb+kYDK6n4nuaFPPpim0E8quHMdbAC8fsSofIxvuCNoXSjpi3TpQ8idv3JVJX14k/+UU1fU55sbvZZXre47M1Jt8QQ61+xDC4A==;bWYRy2hZNHrtOioauc8m+A=="
+secured: "M4h0AfNShjH0wp0cKcKAoDCv2RhD8d/4jvBuKaALVXz85MVAUpFW2/yoV+4yEybklWDj93DouMxg9jX/geQTcqQgb944NW2KMholwQ8akI/ZulvCT+JbZCcD9lIrKAvoTmVlN/o48lHRxaGiIvUUiJ4JMETtg44cWXERh2eaqtedoiFkO5bMJOu+CFtN2q0fd/COzXllTxEnTU51ZtDZCLlISL3PYxImC3ElmmfAeWVUGYdd67nM6eIorULEYGB5GLP+6Ro7lhOEJYAn4QzB8A==;8jFAw0rch9giI/NvVyNHTA=="
 ---
 

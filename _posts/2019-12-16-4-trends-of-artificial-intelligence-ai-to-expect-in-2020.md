@@ -24,21 +24,19 @@ images:
     title: "4 Trends of Artificial Intelligence (AI) to Expect in 2020"
 
 related:
-  - title: "Artificial Intelligence Trends to look at in the year 2020"
-    excerpt: "Through futuristic technologies like ‘Decision Moments’, which includes an upgrade of the conventional data-engineering toolkit, or Einstein, an integrated set of AI technologies that includes advanced machine learning, deep learning, predictive analytics, natural language processing and smart data discovery all within Salesforce ..."
-    publishedDateTime: 2019-12-17T05:38:00Z
-    sourceUrl: https://www.ciol.com/artificial-intelligence-trends-look-year-2020/
-    ampUrl: https://www.ciol.com/artificial-intelligence-trends-look-year-2020/amp/
-    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-trends-look-year-2020/amp/
+  - title: "8 biggest AI trends of 2020, according to experts"
+    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
+    publishedDateTime: 2019-12-17T14:18:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
     type: article
     provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.C78514CFDB4EC2E608F3FF107D05631F
-        width: 700
-        height: 329
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
+        width: 796
+        height: 417
 
 secured: "kpOXvLuwA+HhHJHVPAXnsMufECwzcEBnABq9oL8YgTW/FaTM4cqcAozIH7ZmCsaUuIAUBJwrw/JSYCpLhupTGROFaSe0/Yv4BQIqLLGF1wI2J44g8Y3LTP/KgGplQnvYDIsK4FXoYvbw5kXgY9aiaAMBvEJrYe40tECwe0U805aMCe/qiuayumWjW/v1DXFE0mjeT7z4b74w8IWGp/ta7nb8ylnf7zY9FH0aKbnz4K/ctX07H5bDqVVEX6s1w1EVJlzFMWEy9ER3a8vNawgsAg==;uLLWy6zYW40IUnq906SSQg=="
 ---

@@ -18,18 +18,18 @@ topics:
 
 related:
   - title: "ITRI Exhibits Artificial Intelligence (AI) & Robotics and Digital Health Technology Innovations at CES 2020"
-    excerpt: "learn about breakthroughs in baby monitoring technology with GenkiCam (stop by to see if the camera can read your emotions); have your picture taken by MARS (mobile arm robot system); and explore ITRI’s nine innovative technology introductions in artificial intelligence (AI) & robotics and digital health, including two CES 2020 Innovation ..."
-    publishedDateTime: 2019-12-03T14:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191203005703/en/ITRI-Exhibits-Artificial-Intelligence-AI-Robotics-Digital
+    excerpt: "learn about breakthroughs in baby monitoring technology with GenkiCam (stop by to see if the camera can read your emotions); have your picture taken by MARS (mobile arm robot system); and explore ITRI's nine innovative technology introductions in artificial intelligence (AI) & robotics and digital health, including two CES 2020 Innovation ..."
+    publishedDateTime: 2019-12-03T15:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-itri-exhibits-artificial-intelligence-ai-robotics-digital-health-/2019/12/03/9063382.htm
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 66
     images:
-      - url: https://www.bing.com/th?id=ON.2C8ECFCFF68A9A59BB8444A6D849786C
-        width: 700
-        height: 365
+      - url: https://www.bing.com/th?id=ON.9F09D96F769812F0BD4F7BC0D4C95CF4
+        width: 480
+        height: 305
   - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
     excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
     publishedDateTime: 2019-12-09T23:39:00Z

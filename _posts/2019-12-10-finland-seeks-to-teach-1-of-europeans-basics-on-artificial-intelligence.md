@@ -43,11 +43,11 @@ related:
         width: 1200
         height: 630
   - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "HELSINKI -- Finland is offering a free-of-charge online course in artificial intelligence for European Union citizens in their own language, officials said Tuesday. The Nordic nation, headed by the world's youngest head of government, will mark the end of its rotating presidency of the EU with a highly ambitious goal. Finland is aiming to give ..."
+    excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, headed by the world's youngest head of government, is marking the end of its rotating presidency of the EU with a highly ..."
     publishedDateTime: 2019-12-17T13:26:00Z
-    sourceUrl: https://abcnews.go.com/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
-    ampUrl: https://abcnews.go.com/amp/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
+    sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+    ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
     type: article
     provider:
       name: ABC

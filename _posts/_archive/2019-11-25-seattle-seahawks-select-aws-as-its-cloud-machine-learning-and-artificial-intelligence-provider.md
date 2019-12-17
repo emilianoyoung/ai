@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
-excerpt: "The system will use Amazon Rekognition, a deep learning image and video analysis service, to identify and track players, and give the organization a better understanding of their opponents’ defensive and offensive strategies. Using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, the Seahawks can analyze the ..."
+excerpt: "The system will use Amazon Rekognition, a deep learning image and video analysis service, to identify and track players, and give the organization a better understanding of their opponents’ defensive and offensive strategies. Using Amazon SageMaker ..."
 publishedDateTime: 2019-11-25T18:16:00Z
 sourceUrl: https://www.seahawks.com/news/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelli
 type: article
@@ -40,6 +40,6 @@ related:
         width: 700
         height: 525
 
-secured: "s81ZIwk9rDd5Ejb+hbxzr8vzHMqhttffyQjsnb9IoVT5bG4sBVzCx8QfeD+eBLY1YRIMks+hs/c+V2niMd/pDjkKF4u0svyPOr9kNbpQ7UDdlmJDw23NQOeUKZHutdkJ8jSa1q0CV7yKF4gEKEVLZIheHvj0ftXLBxHda/2unNndbqo6ZIdca0n29dVvyi4BUXI2S5ob+daKv7nyMtN9Mz0Imnd8bKEWlnjihRwOwYfc1hBy2vOQ8/kuq8hI/sunMf8RldggHagYKmmv80w8tA==;FoIutgKxN47Vv3AA1bl1uA=="
+secured: "gcDR13OATwPPpxDi+yX77rvVD+c9SNAbuulN6kZcU1l4tKM4R3E5OasO7iaIk+F734BcHv5HOYQavlKO0DoHC7WpAHMmq5zK/e8udZU2LwjhWHSVVdJI1zr5dRqEUP1xfeIGhz1b1WFzL6teCm3PljeV8Q3IP6XlooXb6JrQxQE3hTYHGeE7zssEfjc2zEHBUnXjCi9IleVIPnvx+wiKDQ+bNBFh42rJt4BXfSpkvmDDb49WgWlkzkFHSoCTj/eQn0aBnPd/6fSYaB0wRVRG0g==;SvrNLrPOU6micCEWg1hxXA=="
 ---
 

@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D3CE5A5AAC9A439DF7AB8D3692EC90CB
         width: 700
         height: 366
-  - title: "The Impact Of VR, AI And AR In The Workplace"
-    excerpt: "Share to facebook Share to twitter Share to linkedin Along with artificial intelligence (AI) and machine learning ... Well, according to 2018 research by Capgemini (via PR Newswire), \"82% of companies that are currently in the process of implementing ..."
-    publishedDateTime: 2019-11-27T13:04:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2019/11/27/the-impact-of-vr-ai-and-ar-in-the-workplace/
-    ampUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2019/11/27/the-impact-of-vr-ai-and-ar-in-the-workplace/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2019/11/27/the-impact-of-vr-ai-and-ar-in-the-workplace/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.54C982140F9C2247C9970AE08C38B907
-        width: 600
-        height: 315
   - title: "From algae to AI, the 12 themes experts predict will shape the world in 50 years"
     excerpt: "From their 550 answers, some clear themes emerged: AI will be transformative, climate change will dominate, the genetic revolution will be in full swing. When taken together, these themes paint a fascinating picture of our future world, from the perspective of people who have laid the groundwork to shape it. The themes show that, while experts ..."
     publishedDateTime: 2019-12-03T15:34:00Z

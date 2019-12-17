@@ -82,21 +82,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-driving cars just around corner"
-    excerpt: "The autonomous vehicle era is ­approaching faster than most people realise, but the pace of the transition to driverless cars will be driven more by economics than advancements in machine learning and artificial intelligence ... “The future of driving is autonomous. We believe it’s going to happen a lot sooner than most others do ..."
-    publishedDateTime: 2019-11-27T13:03:00Z
-    sourceUrl: https://www.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
-    ampUrl: https://amp.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
-    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/selfdriving-cars-just-around-corner/news-story/f76228c23ba5dd1d414bde6e7394a50d
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A66C1467A467A20A8FC2A7358F2A9A28
-        width: 700
-        height: 393
   - title: "Self-Driving Cars Were Supposed to Be Here Already — Here’s Why They Aren’t"
     excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn’t exist. And it’s not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline ..."
     publishedDateTime: 2019-12-01T01:17:00Z

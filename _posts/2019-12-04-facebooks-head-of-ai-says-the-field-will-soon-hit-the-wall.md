@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
 type: article
 quality: 191
-heat: 271
+heat: 261
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
 
 related:
-  - title: "The Impact Of VR, AI And AR In The Workplace"
-    excerpt: "Share to facebook Share to twitter Share to linkedin Along with artificial intelligence (AI) and machine learning ... Well, according to 2018 research by Capgemini (via PR Newswire), \"82% of companies that are currently in the process of implementing ..."
-    publishedDateTime: 2019-11-27T13:04:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2019/11/27/the-impact-of-vr-ai-and-ar-in-the-workplace/
-    ampUrl: https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2019/11/27/the-impact-of-vr-ai-and-ar-in-the-workplace/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2019/11/27/the-impact-of-vr-ai-and-ar-in-the-workplace/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.54C982140F9C2247C9970AE08C38B907
-        width: 600
-        height: 315
   - title: "Qualcomm’s big Snapdragon 2020: The 5G, the chips, the wildcard"
     excerpt: "The week-long event kicked off with new chipsets for smartphones before hitting AR/VR and finally computing, with 5G and AI ever-present themes along the way. Read on for the big news you need to know. Qualcomm was so enthused by the prospect of talking all things Snapdragon, it invited SlashGear along with hundreds of other global media to ..."
     publishedDateTime: 2019-12-07T20:05:00Z

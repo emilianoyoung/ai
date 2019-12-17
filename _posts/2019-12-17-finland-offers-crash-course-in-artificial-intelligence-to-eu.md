@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Finland offers crash course in artificial intelligence to EU"
-excerpt: "HELSINKI -- Finland is offering a free-of-charge online course in artificial intelligence for European Union citizens in their own language, officials said Tuesday. The Nordic nation, headed by the world's youngest head of government, will mark the end of its rotating presidency of the EU with a highly ambitious goal. Finland is aiming to give ..."
+excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, headed by the world's youngest head of government, is marking the end of its rotating presidency of the EU with a highly ..."
 publishedDateTime: 2019-12-17T13:26:00Z
-sourceUrl: https://abcnews.go.com/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
-ampUrl: https://abcnews.go.com/amp/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
+sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
 type: article
 quality: 37
 heat: -1
@@ -48,6 +48,6 @@ related:
         width: 1200
         height: 630
 
-secured: "HpBPRGMiBuTZTxOiXhwkNL+u7iUvCRGRegDZiBHYMY/8nEFvkvN7rTQGJTuKaXNK1CSBrYuafMIVX5qeZt474m+UKHlIeVqweXZCC4RrlPRi6fXkQCfNmBvaROuLM0usMahXUnuCdyCg9HHZlVMC9ktfUc1p7Rj4yb9VSnF8UJjzoo9GRwkdubhsjRIP/OiDLCuwnkipccBemsNdF8CDVJEZZlspkMNJMQ+bHTYs6SeH1szC4NxcOMT51xyrsjwodUthaeDnHrNjnQn1jCo8MQ==;peV+QCbGk3cH6Gqrd+Vk8w=="
+secured: "IpDktOFIZzY1S5PI+cNE4Vq8qXbjoXZL2lkuNTL6dFdr+XxENdMh9ctUCRnOD0rPoJJg+zOzBVEOboN7DclJlpCYyEWNdqHalCKyLEAUfesw8d3UggoD4Xcqvx4uLvd15jcP5Y2HE53DYQmMSnxMbRZsCVxAyRJ9oykTW7uKrNtSYCtRVDb+wKWRhIFTG+zjPmDvyEkt4etA4Y9fTNc1algauST/y8VGb5HX/iGzNd+MKGNyFXnSAT6j7kbURqULiQY3gz9+4ps8b/j4BtqbLQ==;gaojnJXGxcqrQQi0QyIGfQ=="
 ---
 

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
-excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise ..."
-publishedDateTime: 2019-12-17T13:44:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/2019/12/17/9070871.htm
+excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise, automated 3D structure of the patients' hip for physicians to better plan surgery. The new ..."
+publishedDateTime: 2019-12-17T12:38:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/rsip-vision-launches-ai-based-total-hip-replacement-solution-300975757.html
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://mma.prnewswire.com/media/1055531/RSIP_Vision_Logo.jpg?p=facebook
+    width: 883
+    height: 461
+    title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
 
 related:
   - title: "OMNIQ AI-based Machine Vision LPR Solution Now Deployed at 30 U.S. Airports"
@@ -41,6 +47,6 @@ related:
         width: 150
         height: 150
 
-secured: "HTGy5gw8FEgQM2kCOLmKmFdwkI3tVM6gRgoOkuOIs2fo9FtdE6OX14BAHN0F1Lx+wAZ2qJnoKgCcfq9U3WN8EqdQ9FO/0me9xulLcIplEdUA47ntpbcf6hax4PX//GvrOyHHF/FtxAAyLEzG3WdIJ4Rfo5NwnI+LV6Roh2LlcnjedopbstfZ2fqKBBLeFSQPdfKALS8YE58xmitBWVVenkJfFOiYMG0obZLqgBwn1r2LttFWS/An6e7UfwIIk4UTupDgvHFaozuM0vK+qeUlVg==;SXhLDMROFLtGc5S6kHOevg=="
+secured: "hIaDVrpeCB0XKMAVlexWWNGE+tM9CnvqWnxRb4wqod2/3rkTGAPnNjYoB55J7t+B6AziETZlbuVo3UsKP0TY5yzLJe0cKen6EFh1QmTDo208zfsdrKpW+Kodeun+UlQgLNmz6ZvGRI0SfsnJbbUZRXsUFU5npBe0QRj5H3NEuKCbm1dlaxhLJCMQyonzwnpGIPUezqDsEHh8F9GrB/juEl7Go0Uw2LUdlcjnDkE2z/R6GOoZKgqEegnfZJ1bOGZZgFBM2FKhs90OQ7Sb4c+VDw==;KPQjHhozeZTMr6hQ66B5Hw=="
 ---
 

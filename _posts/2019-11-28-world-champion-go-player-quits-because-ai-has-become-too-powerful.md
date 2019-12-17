@@ -24,21 +24,6 @@ images:
     title: "World champion Go player quits because AI has become too powerful"
 
 related:
-  - title: "Former Go champion beaten by DeepMind retires after declaring AI invincible"
-    excerpt: "“Even if I become the number one, there is an entity that cannot be defeated.” Lee lost 4-1 to DeepMind’s AlphaGo in 2016 For years, Go was considered beyond the reach of even the most sophisticated computer programs. The ancient board game is famously complex, with more possible configurations for pieces than atoms in the observable univers"
-    publishedDateTime: 2019-11-27T13:42:00Z
-    sourceUrl: https://www.theverge.com/2019/11/27/20985260/ai-go-alphago-lee-se-dol-retired-deepmind-defeat
-    ampUrl: https://www.theverge.com/platform/amp/2019/11/27/20985260/ai-go-alphago-lee-se-dol-retired-deepmind-defeat
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/11/27/20985260/ai-go-alphago-lee-se-dol-retired-deepmind-defeat
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 102
-    images:
-      - url: https://www.bing.com/th?id=ON.996750D0B5976FF2503E63D8548CAD55
-        width: 700
-        height: 366
   - title: "Go champion retires from professional play, cites undefeatable AI as the reason"
     excerpt: "In context: We've seen Google's DeepMind AI reach some pretty impressive milestones over the years. It's beaten some of the best DOTA 2 players, it can diagnose eye diseases with the accuracy of 'world-leading' doctors, and DeepMind's AlphaGo system managed to unseat the top Go champions throughout the world. That last set of victories is the ..."
     publishedDateTime: 2019-11-27T20:43:00Z
@@ -112,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.71E1595F3C15B578C3F85C5B3E3162E3
         width: 700
         height: 367
-  - title: "Behringer DeepMind 12 - This is the one!"
-    excerpt: "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging. Taxes are charged in the following regions either by the seller, per their tax policy, or by Reverb as a Marketplace ..."
-    publishedDateTime: 2019-11-28T00:54:00Z
-    sourceUrl: https://reverb.com/item/30083660-behringer-deepmind-12-this-is-the-one
-    type: article
-    provider:
-      name: Reverb.com
-      domain: reverb.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.460CEB10A29574EAD12B505D604C1D5B
-        width: 128
-        height: 128
   - title: "Go Champion Realises AI Has Rendered His Life Meaningless: 'There Is An Entity That Cannot Be Defeated'"
     excerpt: "South Korean Go player Lee Sedol gained international notoriety in March 2016 when he took on Google Deepmind’s artificial intelligence AlphaGo. The machine won four out of five matches against Sedol, proving that AI is advanced enough to beat humanity at one of its most complex abstract strategy games. Sedol did not hide his sense of failure ..."
     publishedDateTime: 2019-11-27T19:06:00Z
