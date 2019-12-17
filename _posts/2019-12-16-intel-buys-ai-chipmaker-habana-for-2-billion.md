@@ -7,7 +7,7 @@ sourceUrl: https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-
 ampUrl: https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/amp/
 type: article
-quality: 104
+quality: 87
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.2E9FA08E7A770632EC9EF23421CE43A7
@@ -508,6 +507,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "cWsaYDiOxgxCUzb2oHvv3e6nzDlVikUVB7t57GGh5WIvas8xskk9OAWcaAJRv6b6iuRkr9QayExCU2OFnN7ATMP9M8Fh61d2GATU042Zwqp02c9qwY5K8VOnohPvl3+6I8qtIin5lD2GKWmVft8MMI5/dWPYSJlKQ3G+sUBWyfiSKR2KXaJ/eEOwEmeW+GTuMMUCkkzKrK4vLn+GNAvJAvXe3oRSaCI4nbjQQUaNe4CoLLBjI394l5h957WjtRN3I+xQlOfr6hYN9aW+rNXBnA==;v5vONH3q5rlJVe5UQAQKjQ=="
+secured: "vjPsLSjIYvxeiz9jl+QoiOVA3En0i7v5Le0ciOmmFRu2RIRaqH/kq1NC0rqkEgUr5x+uY2nEE6eZfQo+cGVE8+s7PGHWUc6lSTNF442jwvX5Vnn8G6o2suiWTMrSoD9zyIHo2WU23x5eo63yRvBJSfROb0YB5lmjRHI0hUgXropSF1JErPG/c9bIQCt5r/m9iGNYvkIKAFrBcRY+IMI3k0xZFqD/G6PnPx2c6EqkFXVhDfhiNI+4ywF5Jqdh4nD3SI9345UdIVpNiu6yNSf0bA==;rX1cqPiU26idoBwkCvj9OA=="
 ---
 

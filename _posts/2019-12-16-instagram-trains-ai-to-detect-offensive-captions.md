@@ -115,6 +115,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
         width: 700
         height: 393
+  - title: "Instagram using new artificial intelligence to help stop bullying"
+    excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. If a user writes a caption on a photo or video that the AI deems offensive, that user will receive a ..."
+    publishedDateTime: 2019-12-17T06:42:00Z
+    sourceUrl: https://www.goodmorningamerica.com/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    ampUrl: https://www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    cdnAmpUrl: https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    type: article
+    provider:
+      name: GMA
+      domain: goodmorningamerica.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
+        width: 700
+        height: 393
 
 secured: "2/CXQRKnrPEY2TbAaHWZKjGg9gGC9KvKAfV9maXVtwrMFiXDUKAi1STimLYr00Q00H+Jz/3L9CV8OltZ+FeQ2WMGsh9tp2AqI5k7aPbbAVW7X6zSZBMv9aWn0cmXIceakKznhy2YGk2uV7j2WXkbdduh7u2hdwPIG9wg7UqXbWcv+tWcqClfVNTG25GaeDgNXf4KV0NS8P+KkPcjuKxKj85gDfAV2qFaKNR6FclpCJy1CTobXmCoTipVou1I6ov4S1ZFpAaBkizA/9eGWM84Kg==;C/X+YT7FN7pXPoG0KUncFw=="
 ---

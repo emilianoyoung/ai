@@ -1,34 +1,45 @@
 ---
 category: news
-title: "Instagram uses AI to warn users before they post offensive captions"
-excerpt: "This is essentially an extension of a similar feature Instagram rolled out back in July aimed at the comment section — again, Instagram uses AI to detect language, warn the user, and ultimately “encourage positive interactions.” Above: Abuse alert for captions in Instagram Of course, there is nothing stopping the user from going against ..."
-publishedDateTime: 2019-12-16T12:32:00Z
-sourceUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/
-ampUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
+title: "Instagram using new artificial intelligence to help stop bullying"
+excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. If a user writes a caption on a photo or video that the AI deems offensive, that user will receive a ..."
+publishedDateTime: 2019-12-17T06:42:00Z
+sourceUrl: https://www.goodmorningamerica.com/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+ampUrl: https://www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+cdnAmpUrl: https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
 type: article
-quality: 187
-heat: 257
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GMA
+  domain: goodmorningamerica.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.79D6451CF41D0133D7F671FC56F70772
+  - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
     width: 700
-    height: 452
-    title: "Instagram uses AI to warn users before they post offensive captions"
+    height: 393
+    title: "Instagram using new artificial intelligence to help stop bullying"
 
 related:
+  - title: "Instagram uses AI to warn users before they post offensive captions"
+    excerpt: "This is essentially an extension of a similar feature Instagram rolled out back in July aimed at the comment section — again, Instagram uses AI to detect language, warn the user, and ultimately “encourage positive interactions.” Above: Abuse alert for captions in Instagram Of course, there is nothing stopping the user from going against ..."
+    publishedDateTime: 2019-12-16T12:32:00Z
+    sourceUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/
+    ampUrl: https://venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/instagram-uses-ai-to-warn-users-before-they-post-offensive-captions/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 187
+    images:
+      - url: https://www.bing.com/th?id=ON.79D6451CF41D0133D7F671FC56F70772
+        width: 700
+        height: 452
   - title: "Instagram AI Will Shame Users Before They Post Offensive Captions"
     excerpt: "The feature relies on AI that detects language similar to phrases and words that have been reported. When it notices “potentially offensive” captions, it warns the poster with a prompt that gives them the option to “edit caption,” “learn more,” or “share anyway.” So, while it doesn’t censor users, it lets them know they might ..."
     publishedDateTime: 2019-12-16T17:02:00Z
@@ -119,22 +130,7 @@ related:
       - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
         width: 700
         height: 393
-  - title: "Instagram using new artificial intelligence to help stop bullying"
-    excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. If a user writes a caption on a photo or video that the AI deems offensive, that user will receive a ..."
-    publishedDateTime: 2019-12-17T06:42:00Z
-    sourceUrl: https://www.goodmorningamerica.com/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
-    ampUrl: https://www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
-    cdnAmpUrl: https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
-    type: article
-    provider:
-      name: GMA
-      domain: goodmorningamerica.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
-        width: 700
-        height: 393
 
-secured: "VwdpaGE4++yjj196f6A054VgYfMpUrbGWujpRwq6QBU5sU1JjmZXA9E/N+S8L4tHQVkhpHra8yHy8+ijjbKa/Tc19GNptKhZcB/hw5sPp/kyiqcQjp2Qaxp7rrb+XU3kYjzMUdwXPypurSjNd8Lid261ttrPDVu+Sx/xipzCBKBvk6Ld/ig8jGPwILpj2tXL+c7CpR2nXJU+B7m0B1XvdbBWERx14fMHh9IrT37fThgw+J3HI6EzXGIr3ICkwO89Gwcu+NQB84gXNa45HEQpzNfgWetccJ0ttqR/H7s6c+c=;GcRmMj9v7aGCmU25f4bDCg=="
+secured: "Dde2CPwtrWpUTIQaF/dWNTC0QHILX6s3Yc/BDn8FEeVHA/DjOwq0qbwLAqq36dGhffnkLEb8osY4Vxw2wJCSFKUt7qkNOQqhp0M2XkWqYGzTdE0S2LoNNpM+db4FXLXbsmhSVo0Zo8PxEMC9xme4k4koF2u9q/kv30zjHxXnX9I1f6QYnO3nDvLquOA0lrIrvTFq4GbesZl+T8r00rpRg5k6D2nRHKakvHxm1ttEng70hKHYSJ9rtqo1NsKkeESgXZyW/cChONKRmusCUIOijA==;pmFFyUfRDT/zRb0Zt9FnyQ=="
 ---
 

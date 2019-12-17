@@ -1,17 +1,21 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-publishedDateTime: 2019-12-02T13:15:00Z
-sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
+excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+publishedDateTime: 2019-12-02T13:25:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive-the-market-1028729846
 type: article
-quality: 13
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Markets Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -436,6 +440,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "WxpssHZLVRQ2C37HoY+TsnIZbZnGphSoqGBI3qiaDjILBchp2mPINvG5H9Pd1U7llf9YWgh43XEQe2dVn+YLvYdHynbYR35SpeZJ2IUwAgnONbS3ip85jw5iURdruP61QqhZDEwWLKpkcP12n5hPdVNs+D4qQhwUTm+8t0CzJzVeXi202Aoxh+y+OP4FUBQC0NoOhTgE22naZhNCF6ouOs5YsY9vfd+UWOIcWNuVER3T8eAf/qfnWEfrG59OVbmCkx+o4e8vSpIEXO4YMTBDPA==;8VvW/92xbNVBOD7XE/6PWg=="
+secured: "CGF/9WT9Mxr9g+jdqZTqE20F1LIBCd323kix6ZTLfYR07i0mNxlMi8k8r1IPdcl2TYcCq/xqc9Wi2OJpCunaxh9eCpGgZFXUSDSMFoUJcwcewN5dGuyJR+AqDj8/X0lGgFP3BfXqni88K1za3z0utVDytPI9bYU0uidnOHD9tNVBcTxX0jZJwQNoimPo7bU51jJyVJUD5IiXBgMOCGYjyNCrYCxkvbvVxvnz2PKxNirOIMjTPikeeioxjMX78HdpjlP2x2HUZKbhTJlK26tZLQ==;zAWPSdLqpDwzx0ySGUEQJg=="
 ---
 

@@ -20,6 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Using artificial intelligence to determine whether immunotherapy is working"
+    excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. \"Even though immunotherapy has changed ..."
+    publishedDateTime: 2019-11-23T07:43:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.html
+    ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 72
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
+        width: 2557
+        height: 1199
   - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
     excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
     publishedDateTime: 2019-11-25T05:10:00Z
@@ -35,16 +50,7 @@ related:
       - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
         width: 675
         height: 365
-  - title: "Using artificial intelligence to determine whether immunotherapy is working"
-    excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
-    publishedDateTime: 2019-11-23T19:01:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
 
-secured: "K/wm380gGxAgg+YE2Go9RLklBxw/rMfoT9+z5EwtRe7a0cNJ2UAZM0sMVb6mPEU7okjR91Ci1cc7ksfZ/rXN9Bljp4LLfuPwekmhgGhQeef7wagzIowmBgb9QRJPhHChLLAiLIqKSV+b8sX5Z1MpY7oEyXLbvCeiDMsTBl3QHRaKRG25rtpd5U+jP4PtnTz3xV4akMB6cIR01tJCOtMXCN0HUndHvcPeFZGCdfGalbqZMSXZoK4hrH07/tmYa6QYsS4lmslAFnww5Pe4p3IO/w==;W1GcxDiDYwX6i17B1Ona2A=="
+secured: "HtRqBbL7zA70fQDC6hFPy0nraxRueWZKxZjymWVN7UHQeGtNzyNeEe7OArQw/QckWGnZW0aQ5pdiOASt3AirpEmHc1q8Xkq3h09md85p2apmqnDRl37vl7TJdGl4dZDF02pVtsmAgbZfA/I9CqQ1sh7ezZOArzs0drVnAWtqORfcGgG6OLhfAKIZspD9l2OwW5oeQ0N6k6+lT881IPyqONFoZyosso5ZytEVDYi8U46xu6RSVnAE5OiMUobX9fcKdEyNBkX5uDVC+b6KWKaObQ==;yvOjF4jlmOirjWnfwMoN6w=="
 ---
 
