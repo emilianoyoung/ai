@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-ov
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Facial Recognition Laws Are (Literally) All Over the Map"
 
 related:
+  - title: "Backlash against facial recognition in Beijing"
+    excerpt: "A security check at a Beijing subway station. Photo via China Daily. Facial recognition technology is coming to the Beijing subway system, and not everyone is okay with that. Jeff Ding of the ChinAI Newsletter has translated an essay by Professor Láo Dōngyàn 劳东燕 of Tsinghua University, originally posted to WeChat (in Chinese), in ..."
+    publishedDateTime: 2019-12-17T00:54:00Z
+    sourceUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/
+    ampUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
+    cdnAmpUrl: https://supchina-com.cdn.ampproject.org/c/s/supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
+    type: article
+    provider:
+      name: SupChina
+      domain: supchina.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
+        width: 700
+        height: 525
   - title: "Nearly 80% of people in China worry about facial recognition data leaks"
     excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
     publishedDateTime: 2019-12-10T00:19:00Z

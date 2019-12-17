@@ -32,7 +32,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 11
+    quality: 13
     images:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/05171026/biometric-iris-recognition-for-healthcare.jpg
         width: 950

@@ -5,7 +5,7 @@ excerpt: "The financial services industry is using machine learning to revolutio
 publishedDateTime: 2019-11-27T01:01:00Z
 sourceUrl: https://www.udel.edu/udaily/2019/november/machine-learning-financial-services-ifsa/
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: https://www.udel.edu/content/dam/udelImages/udaily/2019/november/fb-info-dark-datae-GettyImages-1156834914_dark-800x420.jpg
+    width: 800
+    height: 420
+    title: "Machine learning in financial services"
 
 related:
   - title: "NZ financial services must urgently embrace AI, report argues"
@@ -33,22 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.39CB88F580CC2D5285994214E6D5170B
         width: 700
         height: 466
-  - title: "Financial Platform as a Service: Tarya Fintech Looks to Eliminate Middlemen Banks from the Equation"
-    excerpt: "Tarya Fintech says that by using AI and deep machine learning technology they can equip businesses and institutions with the tools to administer fair, fast, and easy end-to-end, financial services for customers, increasing retention and opening avenues for customer acquisition through these solutions: Retail banking: Providing a full-suite ..."
-    publishedDateTime: 2019-11-27T18:37:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/11/154567-financial-platform-as-a-service-tarya-fintech-looks-to-eliminate-middlemen-banks-from-the-equation/
-    ampUrl: https://www.crowdfundinsider.com/2019/11/154567-financial-platform-as-a-service-tarya-fintech-looks-to-eliminate-middlemen-banks-from-the-equation/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/11/154567-financial-platform-as-a-service-tarya-fintech-looks-to-eliminate-middlemen-banks-from-the-equation/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.7E12091C26627051A004EF4FF4482BC5
-        width: 700
-        height: 466
 
-secured: "JLMyqVecL6MECqb4RzkPAYS6adGtXt/dn6WttQB/xUmXDlPy//ePrbl3E6HSb+R62qyqf29mGeLGD1jS2mM/ZIq1kAxFYB4X62E2fs8Ri4jPH2WEyx4bNFnw6MDAMSO830X9vH2SyXCCSGx8TrQr2sS7tOY7rBQTx3Hx77vU9IYVAn0lAwjGDioGDY/v6qC7ANsYQz0oajKTInT8nu+5EZ2IbzSU2CLaN1cy3HUCj5pSAG1c7WgeTbNOvY2sftr6kQ/rc9LPLivgBboXX62AVw==;Dqasq9exEJambv9pF9hqog=="
+secured: "TlNTGKkgRB1edh1/WsRL2b3Q2a2kN3hTIlSXLE5+5r+uW2azl6uzMXJhWaaEXPfFGFbiwY7bqp8oayZHjI9+B7AYWid2/4ploDhG7JOt69v578bm4iidZ4uxtqy8RurJoIWPg6ZOZQL90tYTDXZvB7oZ7jRa05M49WLcevqYPiqdCbAIE1AaFOYHqhFBvIg6AIzuyb0JBHPchtMOCPg3/DKuTVtAbfatg4H4RQrVbsXipGrnFWlOxxrX6BIDf8ZDr40nB8L7Q6/4G1WSpaqK8w==;HM1vJE/B91bx6rMs7eqJLA=="
 ---
 

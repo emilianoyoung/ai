@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AA7565A68A8E9EFA63AAB0BBCC0BA70D
         width: 700
         height: 366
+  - title: "Backlash against facial recognition in Beijing"
+    excerpt: "A security check at a Beijing subway station. Photo via China Daily. Facial recognition technology is coming to the Beijing subway system, and not everyone is okay with that. Jeff Ding of the ChinAI Newsletter has translated an essay by Professor Láo Dōngyàn 劳东燕 of Tsinghua University, originally posted to WeChat (in Chinese), in ..."
+    publishedDateTime: 2019-12-17T00:54:00Z
+    sourceUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/
+    ampUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
+    cdnAmpUrl: https://supchina-com.cdn.ampproject.org/c/s/supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
+    type: article
+    provider:
+      name: SupChina
+      domain: supchina.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
+        width: 700
+        height: 525
   - title: "Osaka Metro unveils ticket gate with facial recognition tech"
     excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
     publishedDateTime: 2019-12-10T04:07:00Z

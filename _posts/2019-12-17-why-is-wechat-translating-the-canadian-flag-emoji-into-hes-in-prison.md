@@ -26,34 +26,54 @@ images:
     title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
 
 related:
-  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
-    excerpt: "who identifies himself as a doctoral student of machine learning at the University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app would draw associations between the flag ..."
-    publishedDateTime: 2019-12-17T07:55:00Z
-    sourceUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/
-    ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 68
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
-        width: 700
-        height: 395
-  - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
-    excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
-    publishedDateTime: 2019-12-16T14:56:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/erc-uot121619.php
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "Are flying taxis finally coming?"
+    excerpt: "One company believes advances in artificial intelligence and 5G technology will help launch a fleet of flying taxis ... You tap an app on your smartphone and summon a driverless flying taxi that safely whisks you to your destination in minutes, relaxed and with only a slight dent in your net worth. This isn’t an episode of the old cartoon ..."
+    publishedDateTime: 2019-12-11T14:34:00Z
+    sourceUrl: https://thehill.com/changing-america/sustainability/infrastructure/473936-are-flying-taxis-finally-coming
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
+      name: The Hill
+      domain: thehill.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
+      - url: https://www.bing.com/th?id=ON.7A79D507F2947482AC1063339D201DC0
         width: 700
-        height: 493
+        height: 427
+  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
+    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
+    publishedDateTime: 2019-12-17T09:39:00Z
+    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
+    ampUrl: https://amp.benzinga.com/amp/content/15000614
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "+uOHA3KDfYsalwaoS+wqVR+v9VkgXDZRh+67vKQqWj1Sp07srwvTxUiiaC+wHeiSPMNUJTdhlOzC1WXeLgbyejdKkgS1lbh61dk+ZMRj8lbzX+kF10CZpEUST853zO7dC0+/yTXtYW2++spCTht7MLw4f9qIwxz0MPPkfPVB1jiRiWS0IsDa2FY7amFprfk2KeeYxJ647Yfk2RLUTH2U8jmMbuHkVYVQdOHtxBV7sOtIDCQXJvGUGPEkGg7lgRjZsaiX4JTTUqeaP0iPci57tg==;xIZGLfRB/YOMlA7dJADvWA=="
 ---

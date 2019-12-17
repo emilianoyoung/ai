@@ -365,6 +365,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A9014920D53CC8285F6D1B5154D835D1
         width: 700
         height: 393
+  - title: "Face recognition is changing how we unlock phones, authenticate transactions"
+    excerpt: "In India, a bunch of financial services apps, from ICICI to Paytm Money and HDFC Bank, have started using face recognition, negating the need to enter a PIN for transactions In Philip Pullman’s fantasy trilogy ‘His Dark Materials’, every character ..."
+    publishedDateTime: 2019-12-03T04:29:00Z
+    sourceUrl: https://www.financialexpress.com/opinion/face-recognition-is-changing-how-we-unlock-phones-authenticate-transactions/1782392/
+    ampUrl: https://www.financialexpress.com/opinion/face-recognition-is-changing-how-we-unlock-phones-authenticate-transactions/1782392/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/face-recognition-is-changing-how-we-unlock-phones-authenticate-transactions/1782392/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: https://images.financialexpress.com/2019/12/1-75.jpg
+        width: 660
+        height: 440
   - title: "DHS proposal to require U.S. citizens undergo airport facial scans draws fire"
     excerpt: "The use of facial recognition technology at U.S. airports is growing more widespread as a means of identification, but citizens are allowed to opt out. Now officials with the Department of Homeland Security want to make the scans mandatory for all travelers, including citizens. In a filing, the agency said that to “facilitate the ..."
     publishedDateTime: 2019-12-05T00:37:00Z

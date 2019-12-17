@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
+  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
+    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
+    publishedDateTime: 2019-12-17T19:43:00Z
+    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
     excerpt: "Yokogawa's AI empowers customers with an advanced understanding of your current situation, allow them to correctly predict future event, and adapt accordingly."
     publishedDateTime: 2019-12-06T16:56:00Z

@@ -5,7 +5,7 @@ excerpt: "After face and palm recognition, voice recognition is palatable to 55 
 publishedDateTime: 2019-12-16T21:12:00Z
 sourceUrl: https://www.biometricupdate.com/201912/iris-recognition-edges-fingerprint-face-and-palm-biometrics-for-most-willing-use-by-uk-consumers
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Computer Vision
 
 images:
   - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/05171026/biometric-iris-recognition-for-healthcare.jpg

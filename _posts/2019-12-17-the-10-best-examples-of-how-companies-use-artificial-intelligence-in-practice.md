@@ -291,6 +291,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
+    publishedDateTime: 2019-12-17T06:58:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/squirrel-ai-learning-attends-the-web-summit-to-talk-about-the-application-and-breakthrough-of-artificial-intelligence-in-the-field-of-education-1028767630
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
+        width: 400
+        height: 267
   - title: "Combine the Power of Video Indexer and Computer Vision"
     excerpt: "Whereas keyframes were previously exported in reduced resolution compared to the source video, high resolution keyframes extraction gives you original quality images and allows you to make use of the image-based artificial intelligence models provided by the Microsoft Computer Vision and Custom Vision services to gain even more insights from ..."
     publishedDateTime: 2019-12-11T18:49:00Z
@@ -369,19 +382,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
         width: 685
         height: 274
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "At the technical level, Squirrel AI Learning fully uses more than ten kinds of artificial intelligence algorithm technologies, such as knowledge space theory, Bayesian theory, logistic regression, genetic algorithms and deep learning, and initiates the nanoscale knowledge point decomposition, the decomposition of MCM system (Model of Thinking ..."
-    publishedDateTime: 2019-12-17T06:31:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-shines-at-the-ieeeiros-2019-conference-the-era-of-ai--education-has-arrived-300975855.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.875DFEFC5592241F90CCC2CD0A52D54C
-        width: 700
-        height: 366
   - title: "Film review: 'Machine' charts the upcoming rise of the robots"
     excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
     publishedDateTime: 2019-12-13T13:12:00Z

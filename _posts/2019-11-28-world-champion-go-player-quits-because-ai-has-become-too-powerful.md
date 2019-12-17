@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C55FD46EF856E38D979F8A2644150168
         width: 700
         height: 350
-  - title: "Human Go Champion Who Lost to AI Says Machines Cannot Be Defeated"
-    excerpt: "Lee Se-dol, the Go champion who famously lost to DeepMind’s artificial intelligence player AlphaGo, has thrown in the towel for good. “With the debut of AI in Go games, I’ve realized that I’m not at the top even if I become the number one through frantic efforts,” he told Yanhap. “Even if I become the number one, there is an entity ..."
-    publishedDateTime: 2019-11-27T18:20:00Z
-    sourceUrl: https://futurism.com/the-byte/go-champion-lost-ai-machines-defeated
-    ampUrl: https://futurism.com/go-champion-lost-ai-machines-defeated/amp
-    cdnAmpUrl: https://futurism-com.cdn.ampproject.org/c/s/futurism.com/go-champion-lost-ai-machines-defeated/amp
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.71E1595F3C15B578C3F85C5B3E3162E3
-        width: 700
-        height: 367
   - title: "Go Champion Realises AI Has Rendered His Life Meaningless: 'There Is An Entity That Cannot Be Defeated'"
     excerpt: "South Korean Go player Lee Sedol gained international notoriety in March 2016 when he took on Google Deepmind’s artificial intelligence AlphaGo. The machine won four out of five matches against Sedol, proving that AI is advanced enough to beat humanity at one of its most complex abstract strategy games. Sedol did not hide his sense of failure ..."
     publishedDateTime: 2019-11-27T19:06:00Z

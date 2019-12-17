@@ -287,6 +287,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F842CDAB45E1AA744A1F7AC85A3AD5E2
         width: 700
         height: 393
+  - title: "Intel bolsters AI push with $2B acquisition"
+    excerpt: "Navin Shenoy, Intel EVP and data platforms group general manager, told Reuters Intel’s AI chips will be used in self-driving cars as well as training machine-learning algorithms in data centres. Habana Labs will remain an independent company run by the same management team, reporting to Intel’s Data Platform Groups division. The newly ..."
+    publishedDateTime: 2019-12-17T12:33:00Z
+    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/
+    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/amp/
+    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/amp/
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7D11C39C2DD185398ECE525FE4B34311
+        width: 650
+        height: 399
   - title: "Intel Hedges Its AI Bets With Habana Labs Buy"
     excerpt: "First a little historical context. Habana was one of the first AI chip startups to make its silicon available to datacenter customers. Goya, the inference chip, was released in January 2018, followed by Gaudi, the training processor, in June 2019. The Gaudi training chip is currently sampling with unnamed hyperscale customers. Goya is also ..."
     publishedDateTime: 2019-12-17T17:34:00Z

@@ -213,6 +213,19 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Why Some Cities and States Balk at Face Recognition Tech"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-17T19:30:00Z
+    sourceUrl: https://www.nytimes.com/aponline/2019/12/17/business/bc-us-facial-recognition-curbing-surveillance.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "Facial recognition: how China cornered the surveillance market"
     excerpt: "What do Uganda’s police force, a Mongolian prison and Zimbabwean airports have in common? All three are in the process of testing facial recognition systems and all three have used Chinese technology to do it. At least 52 governments are doing the same thing according to research by the Carnegie Endowment for International Peace. Chinese ..."
     publishedDateTime: 2019-12-06T19:10:00Z
@@ -667,6 +680,19 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
+  - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
+    excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
+    publishedDateTime: 2019-12-17T19:04:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/ipvm-opens-dedicated-video-testing-facility-to-research-facial-recognition-and-other-technologies
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183331/video-analytics.jpg
+        width: 960
+        height: 520
   - title: "Swedish law would have to change to allow facial recognition testing at Skavsta airport"
     excerpt: "The Swedish Data Inspection Authority said it has responded to police query by saying there would need to be a change in legislation if the force were to test facial recognition at Skavsta airport, which serves Stockholm. The idea is to set up a pcamera at border control to take photographs of passengers. This would be compared with the one on ..."
     publishedDateTime: 2019-12-17T13:06:00Z

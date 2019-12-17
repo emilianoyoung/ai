@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FF3FC5F9B9CB6E058D10CF700D800115
         width: 700
         height: 400
+  - title: "How to train computers faster for 'extreme' datasets"
+    excerpt: "A new approach could make it easier to train computer for “extreme classification problems” like speech translation and answering general questions, researchers say. The divide-and-conquer approach to machine learning can slash the time and computational resources required. Online shoppers typically string together a few words to search ..."
+    publishedDateTime: 2019-12-17T19:49:00Z
+    sourceUrl: https://gcn.com/articles/2019/12/17/machine-learning-extreme-classificaton.aspx
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/December/SANSnetworkthreats.png
+        width: 620
+        height: 300
 
 secured: "fFfcqriNvYRD/CHKTZHAuc5ws3O1Y+d0TE0ASgdflF/ZwJsaTiA7rqpR8gV5eznjT0PrD3vFgt6/e7T8/VPdUK+ZVBaAanP2z6jG5zR8AU+kvLZjHgEtlPWt7p4piveO61hSj30cTqzMf893XjDPOtaZaHmONLOouI24nCgoKxf6E3Ds3BDOIJBwutW/6i9a+fIVXldSXxTpTxNZz0gfQ6qX/2A0vXTZh1DazrOd0mqQGmMiG8Wqk5XKCBs3uwPczEe1B0zzcMsOW3klCb0FGQ==;blF/+28CREuudKTIk/m+XQ=="
 ---

@@ -380,6 +380,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A9014920D53CC8285F6D1B5154D835D1
         width: 700
         height: 393
+  - title: "Face recognition is changing how we unlock phones, authenticate transactions"
+    excerpt: "In India, a bunch of financial services apps, from ICICI to Paytm Money and HDFC Bank, have started using face recognition, negating the need to enter a PIN for transactions In Philip Pullman’s fantasy trilogy ‘His Dark Materials’, every character ..."
+    publishedDateTime: 2019-12-03T04:29:00Z
+    sourceUrl: https://www.financialexpress.com/opinion/face-recognition-is-changing-how-we-unlock-phones-authenticate-transactions/1782392/
+    ampUrl: https://www.financialexpress.com/opinion/face-recognition-is-changing-how-we-unlock-phones-authenticate-transactions/1782392/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/face-recognition-is-changing-how-we-unlock-phones-authenticate-transactions/1782392/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: https://images.financialexpress.com/2019/12/1-75.jpg
+        width: 660
+        height: 440
   - title: "U.S. Customs was right to reverse course on mandatory facial recognition scans"
     excerpt: "The Post reported Wednesday that the Department of Homeland Security had proposed a regulation that would make facial recognition scans mandatory not only for noncitizens entering and exiting the country but for citizens as well. Advocates were alarmed, and, after some outcry, officials not only appeared to reverse course: They also insisted ..."
     publishedDateTime: 2019-12-07T18:07:00Z

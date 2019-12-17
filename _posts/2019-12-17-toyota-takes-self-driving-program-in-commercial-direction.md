@@ -18,34 +18,49 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
-    excerpt: "Toyota Motor Corp's automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in mobility service vehicles before it does so in personal-use vehicles. TOKYO, Dec 17 (Reuters) - Toyota Motor Corp's 7203.T automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in ..."
-    publishedDateTime: 2019-12-17T05:39:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-deploy-advanced-self-driving-capabilities-in-mobility-service-vehicles-first
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 46
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
-  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
-    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
-    publishedDateTime: 2019-12-12T20:02:00Z
-    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
-    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
+    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
+    publishedDateTime: 2019-12-17T12:58:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
+      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
         width: 700
-        height: 393
+        height: 367
+  - title: "Are flying taxis finally coming?"
+    excerpt: "One company believes advances in artificial intelligence and 5G technology will help launch a fleet of flying taxis ... You tap an app on your smartphone and summon a driverless flying taxi that safely whisks you to your destination in minutes, relaxed and with only a slight dent in your net worth. This isn’t an episode of the old cartoon ..."
+    publishedDateTime: 2019-12-11T14:34:00Z
+    sourceUrl: https://thehill.com/changing-america/sustainability/infrastructure/473936-are-flying-taxis-finally-coming
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.7A79D507F2947482AC1063339D201DC0
+        width: 700
+        height: 427
   - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
     excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
     publishedDateTime: 2019-12-17T09:39:00Z

@@ -24,6 +24,19 @@ images:
     title: "How to train computers faster for ‘extreme’ datasets"
 
 related:
+  - title: "How to train computers faster for 'extreme' datasets"
+    excerpt: "A new approach could make it easier to train computer for “extreme classification problems” like speech translation and answering general questions, researchers say. The divide-and-conquer approach to machine learning can slash the time and computational resources required. Online shoppers typically string together a few words to search ..."
+    publishedDateTime: 2019-12-17T19:49:00Z
+    sourceUrl: https://gcn.com/articles/2019/12/17/machine-learning-extreme-classificaton.aspx
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/December/SANSnetworkthreats.png
+        width: 620
+        height: 300
   - title: "IEEE Computer Society's Top 12 Technology Trends for 2020"
     excerpt: "We predict that recent breakthroughs in large-scale simulations, deep reinforcement learning, and computer vision, collectively will bring forth a basic level of cognitive abilities to robots that will lead to significant improvements in robotic applications over the next few years.AI/ML applied to cybersecurity. Cybersecurity is one of the key ..."
     publishedDateTime: 2019-12-10T11:33:00Z

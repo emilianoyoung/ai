@@ -22,6 +22,6 @@ images:
     height: 301
     title: "Artificial Intelligence Will Help to Solve the USPTO’s Patent Quality Problem"
 
-secured: "EaHaeCz4ZtVOtaynIhkLHETXb6dVEcnvjO795muKUcyrTVsTxlpIkb1AoAacb3faopEf/xNX3fY72FaSeYeEsLIrPuCqy4d7vitfnJHOW1d63K16BMVGzcrlEcW7lqXyxxRaIANtnSVzMw9QQ1bDxQfiwqizMT2IKGQroU+xFoar/l/7sZT1fo0ytBWH/VqzqW1Gtoctxqr13+P9/6w5C0zmRUE7g2Js59MufK7jujQF9dkrbbTGtTUkuArNcwfO0HTPZ6loLEcEuvKPOO4MxQ==;9UoYCoylcN38s/I0diIOyA=="
+secured: "bDjVEFoAgx2RYdtIS6Xd95X8GpwTCAhrLDt36BQd1/6k3TBWX4aZT0Fm7XnXl1WdxElBhlsXAqCsV71BuqpFuJawBluaQANHnESnYcdfztkySvr9GVtbdXySKArguf2rc1Oy/Rk2rGQa3kEGx/BzgzCe0dCw/AA+ASAz/3o07suX0InAVAkqohyKeIeQVqz3LTrMOTuJ6h+VmyKUfZ1GGwmFCLgmGOZ1ODn4D7MrPJS6OoYzq0tEJ2FCFTZrQLFQfC1wPFDf9RiHe4v3SsZiyg==;bnl7rAGuvU11jIvR/LKdng=="
 ---
 

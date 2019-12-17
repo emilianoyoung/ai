@@ -1,28 +1,26 @@
 ---
 category: news
 title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY(TM), an AI Assisted Polyp Detector"
-excerpt: "PENTAX Medical is committed to continuously exploit the use of Artificial Intelligence in additional medical fields ... From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve their efficiency ..."
+excerpt: "PENTAX Medical is committed to continuously exploit the use of Artificial Intelligence in additional medical fields ... dedicated to their needs. From screening through to therapy with full scalabilities. Ensuring values by supporting the customers to improve their efficiency and minimize their healthcare costs. Enriching patient and ..."
 publishedDateTime: 2019-12-16T07:00:00Z
-sourceUrl: https://www.benzinga.com/node/14993244
-ampUrl: https://amp.benzinga.com/amp/content/14993244
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14993244
+sourceUrl: https://www.prnewswire.com/news-releases/hoya-group-pentax-medical-cleared-ce-mark-for-discoverytm-an-ai-assisted-polyp-detector-300975091.html
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.D3E829350AC2A593BA84C30D1BD2275C
-    width: 400
-    height: 267
+  - url: https://www.bing.com/th?id=ON.A0830A366C811D1D176DFE0A601760A5
+    width: 700
+    height: 366
     title: "HOYA Group PENTAX Medical Cleared CE Mark for DISCOVERY(TM), an AI Assisted Polyp Detector"
 
 related:
@@ -40,6 +38,6 @@ related:
         width: 400
         height: 267
 
-secured: "jfaQIuV6TGYhDwGw3PaJcsgVZ2/oWsymqXJ7fqxxO2Wis7lfMhs2OWs2PRxSbISd+TUR38IAlit2HZEBxC4iZY/76ftOdyN0knZBUgK2DRC6ZpKAbHzKYojqRuIC167hVgxStQAvoe6kdngpahNyW2z9tbnpk+XG7B4zp9nrJNvOTzRtsAk+i14a9IBQefUk2pzUukCaFjXU4Mu6A8eH4vRYpH9HUIZsr9zaedfkYEYBlmXAOUTy9EjXpVdBYJiMHXOpNKu+aOXtG+ezBSdKkQ==;5Kuj/wsRas/ne9AIVkA1qw=="
+secured: "R6fx3QsO1MZo9dKeJ8EkGKHhXa1piUGADc6De3P1N/DdkvSeyu+VZZAqaktX24QEFD56TBzcshMEXIG4xwgQtJM/zUPGYiKGtMBXwFKsnpnDJWwZvSljXvt9pfPumYn1bAZtcP3+smjyN+2mnDWsJ4uSqM3Pn5HHJ+tbVSAghhJpYtsMEiXrrm3vs/Fu+kdbBW2L2tZISyFxcW4hBuiUU+CZdUdhG2X50cv8GtjSRPGR6Insa6jJoYVGt7W8zfzfgWosoPYl8O2jl3d4oEixnQ==;mmayFX/NEbLhMLPs/3VFIA=="
 ---
 

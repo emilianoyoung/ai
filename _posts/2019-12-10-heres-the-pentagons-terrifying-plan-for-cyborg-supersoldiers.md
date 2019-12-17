@@ -60,6 +60,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
         width: 700
         height: 466
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-1028770153
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
     excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
     publishedDateTime: 2019-12-13T14:47:00Z
