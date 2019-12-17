@@ -71,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F58C18BCAA68E9455C07DF3ED6BACE0C
         width: 700
         height: 367
-  - title: "Go Champion Realises AI Has Rendered His Life Meaningless: 'There Is An Entity That Cannot Be Defeated'"
-    excerpt: "South Korean Go player Lee Sedol gained international notoriety in March 2016 when he took on Google Deepmind’s artificial intelligence AlphaGo. The machine won four out of five matches against Sedol, proving that AI is advanced enough to beat humanity at one of its most complex abstract strategy games. Sedol did not hide his sense of failure ..."
-    publishedDateTime: 2019-11-27T19:06:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/11/go-champion-realizes-ai-has-rendered-his-life-meaningless-there-is-an-entity-that-cannot-be-defeated/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.ADE4683146D629AD8C8F098510B8E6AB
-        width: 700
-        height: 366
 
 secured: "sQbFjkHD2Oe7WlXOYKjB2+vsM8abyJfM/hHeQRgsq05SNx90Yeua5HmLjWtxTia+aHS9MQsVNm1WYsn1+rHTGIEE6JFmHXt4fK1Q9HVMTz0PYmDEsIViv6agqQWe5bdeUfaPC8Axokq1UbpgW6LM5NTEuwsDgYRVFzR9z57dPbEvG7WF8332f5+vE2wsQ9CDOSiJPIfP2Onzz1DwxXGOtIdPlE+rNhNY9wJ7RPLvch9NaEWgFF7/ZEXAM52z7Ovzv0ZylOjbrgDwiqO7ioYxjw==;FTJHNPSEMSVd17tpWaQODA=="
 ---

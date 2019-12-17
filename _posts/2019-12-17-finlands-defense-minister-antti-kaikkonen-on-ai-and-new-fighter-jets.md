@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T11:15:00Z
 sourceUrl: https://www.defensenews.com/smr/nato-2020-defined/2019/12/17/finlands-defense-minister-antti-kaikkonen-on-ai-and-new-fighter-jets/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: The Verge on MSN.com
       domain: msn.com
-    quality: 37
+    quality: 137
     images:
       - url: https://www.bing.com/th?id=ON.1EE177E365F919A71DA63C4E36A797E2
         width: 700

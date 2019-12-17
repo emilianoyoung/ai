@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T11:46:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2023industry-size-share-revenue-growth-development-2019-12-13
 type: article
 quality: 67
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -129,6 +129,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 0
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "SB6zutY8zyXted5pbYAT2+ihpUKnb9D5VI7Mc5os5DVkQtHA5pNP+jIRt45/ClOOmxUYO6NDm2wa2RyDiAGigKqgrDYqQpjUhGlueYHmP7UJbpHlEw4a/56E6+3RRTSTG28f//cPjqfgdmiKJN9n+kdsnaUhA94Y/idlGycG98gaxzopNWl/9QJdtPga4usKF2CYQU5zhU5Hy6f2jzlbYKkcoOGCyTWT/6hxS2+T/aJV3CSzVaKD1YgYrIC2j0U4seLqWsNo9PM1xnm2MkTILQ==;idHoB427DuzNslW1KfRelw=="

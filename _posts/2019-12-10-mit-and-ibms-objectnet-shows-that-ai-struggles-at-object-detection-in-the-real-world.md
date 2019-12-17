@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
         width: 700
         height: 367
-  - title: "One of the biggest Go players retires due to the rise of invincible AI players"
-    excerpt: "Referring to AlphaGo, which is an AI system built by Alphabet Inc.'s DeepMind, in an interview with the South Korean Yonhap News Agency, Lee stated: \"With the debut of AI in Go games, I’ve realized that I’m not at the top even if I become the number one through frantic efforts. Even if I become the number one, there is an entity that cannot ..."
-    publishedDateTime: 2019-11-27T19:34:00Z
-    sourceUrl: https://www.neowin.net/news/one-of-the-biggest-go-players-retires-due-to-the-rise-of-invincible-ai-players
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.442A151979245191E60D3E4CC3155D7F
-        width: 700
-        height: 394
   - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
     excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
     publishedDateTime: 2019-12-04T16:07:00Z

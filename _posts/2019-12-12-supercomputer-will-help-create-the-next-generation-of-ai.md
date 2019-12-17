@@ -147,21 +147,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
         width: 700
         height: 525
-  - title: "The Perils and Promise of Artificial Conscientiousness"
-    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
-    publishedDateTime: 2019-12-17T09:00:00Z
-    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
-    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
-        width: 2400
-        height: 1800
   - title: "Computer Vision on the Web with TrackingJS"
     excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
     publishedDateTime: 2019-12-13T18:21:00Z
@@ -276,19 +261,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-    publishedDateTime: 2019-12-17T06:58:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/squirrel-ai-learning-attends-the-web-summit-to-talk-about-the-application-and-breakthrough-of-artificial-intelligence-in-the-field-of-education-1028767630
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
-        width: 400
-        height: 267
   - title: "Combine the Power of Video Indexer and Computer Vision"
     excerpt: "Whereas keyframes were previously exported in reduced resolution compared to the source video, high resolution keyframes extraction gives you original quality images and allows you to make use of the image-based artificial intelligence models provided by the Microsoft Computer Vision and Custom Vision services to gain even more insights from ..."
     publishedDateTime: 2019-12-11T18:49:00Z
@@ -406,6 +378,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7BFAA361429525266D73ACC5DF0CB49F
         width: 309
         height: 657
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
+    publishedDateTime: 2019-12-17T08:07:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
+        width: 400
+        height: 267
   - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
     excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
     publishedDateTime: 2019-12-10T12:34:00Z

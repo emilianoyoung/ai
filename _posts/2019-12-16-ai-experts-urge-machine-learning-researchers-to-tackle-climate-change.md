@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/16/ai-experts-urge-machine-learning-rese
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/ai-experts-urge-machine-learning-researchers-to-tackle-climate-change/amp/
 type: article
 quality: 108
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -32,19 +32,6 @@ images:
     title: "AI experts urge machine learning researchers to tackle climate change"
 
 related:
-  - title: "AI research and big tech"
-    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
-    publishedDateTime: 2019-12-16T15:03:00Z
-    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
-        width: 700
-        height: 700
   - title: "Researchers built AI technology that uses algae to fight climate change, and they're planning on releasing the design so anyone can build one"
     excerpt: "Algae absorbs carbon dioxide from the atmosphere. With help from AI, a new bioreactor could draw out more greenhouse gas than trees."
     publishedDateTime: 2019-12-16T20:51:00Z
@@ -53,7 +40,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 32
+    quality: 132
     images:
       - url: https://www.bing.com/th?id=ON.0BB9960FF6AC6E9BE9ADCC19D06AFB6C
         width: 700

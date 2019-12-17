@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-p
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
 type: article
 quality: 68
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
 
 related:
+  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
+    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
+    publishedDateTime: 2019-12-17T12:58:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
+        width: 700
+        height: 367
   - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
     excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
     publishedDateTime: 2019-12-16T14:56:00Z
@@ -44,6 +59,6 @@ related:
         width: 700
         height: 493
 
-secured: "RjnOAPmaqcCXPuZMplIIgWM3/a1gO/HSphpPUHxkWdsTG5uV1hkL61o+PszKEJ1GFBtHa/59MFVnzOxK/LRmyyK8nxp/9Z8aRk04ikxQNhSoZ97N6wuHeljrI0xIAv3FZRQUijl7q2qFuzhGYXlYkZcbzO+7VIpwsUrMyuk1mqfE9wcQHX/1TAmVjRMPbGd21ld3ef8ZQkEKXsQo6Sj/ksNLJ2Pi5GmSdVHXI1FdN3R8OIw+/lpqQ5kXLsHpxdt1Ri2YC2hr5d25XjiUHEHWng==;nXU0UNLHUxS/P96jQja6Dw=="
+secured: "39exIn5nHRSd+DJXN3OcS8G+B00H1Jsst7n6XPBCawZ9XELejsRV4wJ+kMBo8hYQ/l8d5ga1EIM7KTFq3/FKuN0EkZeX23w+dWavDdI/N8TRqBC22qNQZ8EJX4boqKCXsyOSj6RZQYO7ki5+UiyPYxmXnKN4Lww0i2WXPdBY1QqNBKjYy6yFQLy9sfNoZrjaJiPubCbrsT9K35F75N2z8Lw7AzAwIS37rtrLUe/pJiFzC/32DWtQsQOej2Yi6evkKTl8vhtE8n/JteBampPxzg==;kmlQAG0c7Spbi3KTa9z0Nw=="
 ---
 

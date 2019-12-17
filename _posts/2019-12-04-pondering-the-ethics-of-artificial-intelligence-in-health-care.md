@@ -56,19 +56,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "One of the biggest Go players retires due to the rise of invincible AI players"
-    excerpt: "Referring to AlphaGo, which is an AI system built by Alphabet Inc.'s DeepMind, in an interview with the South Korean Yonhap News Agency, Lee stated: \"With the debut of AI in Go games, I’ve realized that I’m not at the top even if I become the number one through frantic efforts. Even if I become the number one, there is an entity that cannot ..."
-    publishedDateTime: 2019-11-27T19:34:00Z
-    sourceUrl: https://www.neowin.net/news/one-of-the-biggest-go-players-retires-due-to-the-rise-of-invincible-ai-players
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.442A151979245191E60D3E4CC3155D7F
-        width: 700
-        height: 394
   - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
     excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
     publishedDateTime: 2019-12-04T15:05:00Z

@@ -8,7 +8,7 @@ ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-c
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -20,33 +20,20 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facebook had a face recognition app that can identify its staff"
-    excerpt: "Battling several privacy issues, Facebook experimented with a face recognition app among its employees that allowed them to identify their colleagues and friends by pointing smartphone cameras at them. The social networking platform admitted it built such ..."
-    publishedDateTime: 2019-11-23T14:59:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
+  - title: "Face recognition systems active at Chaayos outlets without opt-out feature; some questions"
+    excerpt: "Chaayos, a popular tea store chain in India, has installed facial recognition systems at its outlets to replace mobile number OTP. MediaNama encountered one such system installed at one of Chaayos’ Delhi outlets. The interface did not display any terms ..."
+    publishedDateTime: 2019-11-20T12:24:00Z
+    sourceUrl: https://www.medianama.com/2019/11/223-chaayos-face-recognition/
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
     images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191123/ARTICLE/191129709/AR/0/AR-191129709.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 773
-  - title: "The Face Recognition Company exits stealth with new multi-camera biometric security offering"
-    excerpt: "A new multi-camera face recognition security product will be introduced by The Face Recognition Company (FRC) at the upcoming International Security Expo in London, bringing the company out of stealth after three years of development. FRC claims its security system is the first “ultra-accurate” technology optimized for commercial businesses ..."
-    publishedDateTime: 2019-11-27T19:17:00Z
-    sourceUrl: https://www.biometricupdate.com/201911/the-face-recognition-company-exits-stealth-with-new-multi-camera-biometric-security-offering
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
-        width: 660
-        height: 300
+      - url: https://i1.wp.com/www.medianama.com/wp-content/uploads/Screenshot-2019-11-20-at-3.45.09-PM.png?fit=1440%2C723&#038;ssl=1
+        width: 1440
+        height: 723
 
-secured: "CDKckDmgg0Q/fygFjnFqL15x7dKEI+TxJll6Ah49nBNt7BEw9FBkncH3irB+iph9BZYctRF3FoH1UN9AP7jYv5kId9Le3ug5w5xSFyJkdEEtm5iLoMR6xWS41v6uqQxq6YnB/jBN7B9PC5XLofhXvLNNBpJ84jdGsIXIGoo4Cg8eTY8ZP8wJrKhvV6+VQhRK9Sldpz5AlGFjJR+xCbaK6bi6PvYvHuFkXGPFLLoCUX4LlNoiaxSExS8CIoZOLpgmtKbM9XUmF7iBDCO4vMEirg==;zkjHnH/3YqgE85DHtWlcrA=="
+secured: "ghF3a5htS8owgrqc5lfh3XTSjtab0a9MQ7m8l8CpgrbQe339AGBXqQXfOvmO3ufF1wftldWzt3E23HNA1a0sBpeOMOYJIPdr0dgtB+tbgU2ohtgjabNRHbDULXAKkbI2vN7UEy3dl5gVp2N7ihuR8YU8Kk+IM55YUbnlNY3ZX9rm/jaC2TZcS+CfcDxIg7d8Wlxss4oSrLytTt3GgEjnMh0vkUdZ3NSjj9HoGYLZ9FHv//GHGVLHhLmf6magLvs48cvEHkYQF0yKEH0si3JjEQ==;u7kgB7CBhhGAl6Wly1AyuQ=="
 ---
 

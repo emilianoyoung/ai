@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
         width: 210
         height: 297
+  - title: "Straker Translations to provide AI-driven translations to US TV studio for Latin America markets"
+    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
+    publishedDateTime: 2019-11-28T03:41:00Z
+    sourceUrl: https://www.cio.com.au/mediareleases/36471/straker-translations-to-provide-ai-driven/
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com.au
+    quality: 26
+    images:
+      - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
+        width: 600
+        height: 300
   - title: "5 Tools To Help On Game Translation"
     excerpt: "SmartCat has all features a translation tool must have: a glossary, translation memory, machine translation, automatic proofreading and spell check, terminology. This service takes care of your confidentially and allows limiting access to your files. Working as a team from various spots on the planet is a great advantage for freelancers."
     publishedDateTime: 2019-12-03T16:08:00Z
@@ -50,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2A8535D3A158E9BD29D9AC0050491FE0
         width: 85
         height: 85
+  - title: "The 30-Second Trick for Medical Translation Company"
+    excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
+    publishedDateTime: 2019-12-03T09:14:00Z
+    sourceUrl: https://adnews.com.br/sem-categoria/the-truth-about-medical-translation-company/
+    type: article
+    provider:
+      name: Ad News
+      domain: adnews.com.br
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.599495EC5362E26B6744D939D0ADCC81
+        width: 307
+        height: 217
 
 secured: "XOqf4YV/rkqnHYLQ3aC6reAbX6K/5/mPp9KLzEOb8bUMFiDOUOb7PCJmuQuapR0uAduPBuizAnHz5oVirkCSw2vMc2weeBULqZgmK4e5YLt3SlSBzfDXHlDiu3kIJja3iRuYLNv53Xa6m7Da9D9XsgoYdFKzGd3Y4VheZwXEcT/SM/sVT5q+tjlh7pfujngB3FtIn2IN8j4FLt6G12tfFeTl6gIggUuC52nZoLEhKtUt5Q8gqgwQ1EI79vhaLdxQAXuy6aR6vcc8uZQ97tY6zg==;lJSy7lxy+zEazvK497CinQ=="
 ---

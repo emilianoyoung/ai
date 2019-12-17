@@ -126,6 +126,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "SfW9QWFFk4Fv3P8hJLI9yzAIMrIVQViRNlGcnh1zp5PUWpJOwmG9TkKOy7Q273QQf2NktK11yTWp05pQ9rBPVIM4ApumdvTwlMj5L9zqavqXRDoE4gOXkT4xZne7+5oWqwl8QUtuvBPEsIccCtzTL3pIj1ME2r1/KXhxLou9/HgnwN+hLosmR8lbIuoBIG3tUzcF/94LosryZENKQjToGxLkSX4Z4uYno1Y5aeYW4etlMpCZCAT9JScPIAEa/vLeR3M2/HyaCmkQDq6vVW5K4Q==;WLtbjPRFqPBsk+vMfB4T2Q=="
 ---

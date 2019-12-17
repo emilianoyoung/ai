@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
         width: 700
         height: 525
+  - title: "In the new bot economy, cloud robotics and AI transform work and society in far-reaching ways"
+    excerpt: "software and services will propel global revenue in the cloud robotics field from single digits to in excess of $170 billion within the next five years. The popular TV series “The Blacklist” even devoted a recent episode’s plotline to the use of artificial intelligence for murdering a scientist who was seeking to use computers that would ..."
+    publishedDateTime: 2019-12-03T18:15:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/in-the-new-bot-economy-cloud-robotics-and-ai-transform-work-and-society-in-far-reaching-ways-serviceexperiencereimagined/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.5E4D51F2F53FA46CB041B4EC724BD11D
+        width: 700
+        height: 466
   - title: "Amazon Partners National Football League For Player Health, Safety"
     excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
     publishedDateTime: 2019-12-06T15:34:00Z

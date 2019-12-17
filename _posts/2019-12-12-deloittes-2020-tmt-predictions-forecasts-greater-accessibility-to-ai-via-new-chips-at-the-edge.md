@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
+  - title: "Software predictions for 2020 from around the industry"
+    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
+        width: 640
+        height: 426
   - title: "IBM Research AI Predictions for 2020"
     excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
     publishedDateTime: 2019-12-17T17:08:00Z
@@ -45,7 +58,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 41
+    quality: 43
     images:
       - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
         width: 1010

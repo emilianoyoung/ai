@@ -5,9 +5,9 @@ excerpt: "Algae absorbs carbon dioxide from the atmosphere. With help from AI, a
 publishedDateTime: 2019-12-16T20:51:00Z
 sourceUrl: https://www.businessinsider.com/algae-carbon-dioxide-climate-change-hypgergiant-2019-12
 type: article
-quality: 32
-heat: -1
-published: false
+quality: 132
+heat: 142
+published: true
 
 provider:
   name: Business Insider
@@ -42,20 +42,7 @@ related:
       - url: https://www.bing.com/th?id=ON.CEE9C0B02AD33AD0F55369FAA3E57975
         width: 700
         height: 350
-  - title: "AI research and big tech"
-    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
-    publishedDateTime: 2019-12-16T15:03:00Z
-    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
-        width: 700
-        height: 700
 
-secured: "eKIt683xsoEWEb4Eh+2K7Q7FLGSM2IU8K+7tQuYvtOJruAZWnekO3KXjMmtga+bnLrD7yO1D+7bJDkEfoFCjV45gK/+B3yr7Z8ebVAIuT41yyplOnES+YbwlPLim0OdU5AqIJp6wutAbSz7vkqcIeT/pOcjijCZ5DfXDOZGvEBFuNHO0SNAYtc84W+iWVG9VLx8px0lNSwv/v4qxTmIkw4ZMWv6xZHoRu4gkPK/hRS224UsAo94BaSoJZ206tXe+Hyrny1/4pyWTUcOs85/2Ag==;mUXhDsBO2YURSgTgSd5juQ=="
+secured: "kMRT19ZwVUMVuFCcwSz047bn96jbEwVkyUe896j2Z43OJZStcpmFoSIuiDLHrotNy8zFUQeI8Yt67beFzJfyYQ+rrbCFVgzv8u+AfmA0fs8D/mlgaSfDWZsUViBmsYlVZ73BSxDV4yGEMUrcSA2ZLSpXMNIJfezWNmgxsQm7k/hU9lOBr/IHHE99NX7JJbcJpqW0I9URLS7JtLlH1IxO+pJUTI1Hz0UTy+5DXdOeiI1X2s7vO6Z6RmNiWnMme0fGx2MmGIE1fJ4hDOJIrpw5O+dD6uYFmjOwsirM5XvvJKU=;4XG9SE+M7bPCMpAwqXeq5Q=="
 ---
 

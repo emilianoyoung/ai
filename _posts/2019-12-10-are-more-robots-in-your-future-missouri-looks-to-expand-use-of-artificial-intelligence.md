@@ -26,66 +26,94 @@ images:
     title: "Are more robots in your future? Missouri looks to expand use of artificial intelligence"
 
 related:
-  - title: "Would You Let a Robot Take Care of Your Mother?"
-    excerpt: "At stake is the future of what it means to be human, and what it means to care. Issues of freedom and dignity are most urgently raised by robots that are built to befriend, advise and monitor seniors. This is Artificial Intelligence with wide, blinking eyes and a level of sociability that is both the source of its power to help and its greatest ..."
-    publishedDateTime: 2019-12-13T11:00:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/13/opinion/robot-caregiver-aging.html
-    ampUrl: https://www.nytimes.com/2019/12/13/opinion/robot-caregiver-aging.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/13/opinion/robot-caregiver-aging.amp.html
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T14:46:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 157
     images:
-      - url: https://www.bing.com/th?id=ON.6957325C5FC706C39E6CF8C5052966D6
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
         width: 700
-        height: 366
-  - title: "eBay Motors’ AI-powered tools will let you list a car in minutes"
-    excerpt: "eBay Motors is a new app from the auction site aimed at streamlining the process of buying and selling used cars, and it includes a couple of AI-powered features that eBay claims will help sellers list a car in under five minutes. The app is available in the US for both iOS and Android, and replaces the old eBay Motors app that was discontinued ..."
-    publishedDateTime: 2019-12-13T10:59:00Z
-    sourceUrl: https://www.theverge.com/2019/12/13/21020187/ebay-motors-ai-powered-app-image-categorization-video-upload-buying-selling-cars
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/13/21020187/ebay-motors-ai-powered-app-image-categorization-video-upload-buying-selling-cars
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/13/21020187/ebay-motors-ai-powered-app-image-categorization-video-upload-buying-selling-cars
+        height: 393
+  - title: "Finland seeks to teach 1% of Europeans basics on artificial intelligence"
+    excerpt: "TALLINN, Dec 10 (Reuters) - Finland, which holds the rotating EU presidency until the end of the year, said on Tuesday it aims to teach 1% of all Europeans basic skills in artificial intelligence through a free online course it will now translate into all official EU languages. The European Union is pushing for wide deployment of artificial ..."
+    publishedDateTime: 2019-12-11T00:15:00Z
+    sourceUrl: https://in.reuters.com/article/finland-education-ai-idINL8N28K2E8
+    ampUrl: https://in.mobile.reuters.com/article/amp/idINL8N28K2E8
+    cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N28K2E8
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 88
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
+  - title: "AI R&D is booming, but general intelligence is still out of reach"
+    excerpt: "Trying to get a handle on the progress of artificial intelligence is a daunting task, even for those enmeshed in the AI community. But the latest edition of the AI Index report — an annual rundown of machine learning data points now in its third year — does a good job confirming what you probably already suspected: the AI world is booming ..."
+    publishedDateTime: 2019-12-12T05:01:00Z
+    sourceUrl: https://www.theverge.com/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
     type: article
     provider:
       name: The Verge
       domain: theverge.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.DAF766C9E7ABC9C8D8E2A59EF630AAC2
+      - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
         width: 700
         height: 366
-  - title: "Will AI Take Your Job—or Make It Better?"
-    excerpt: "The episode explores how work and society will change as AI begins to take over more tasks that people currently do, whether in apple orchards or psychiatry offices. Some of the portents are scary. Kai-Fu Lee, an AI investor and formerly Google’s top executive in China, warns that AI advances will be much more disruptive to workers than other ..."
-    publishedDateTime: 2019-12-16T08:00:00Z
-    sourceUrl: https://www.wired.com/story/will-ai-take-your-job-or-make-it-better/
-    ampUrl: https://www.wired.com/story/will-ai-take-your-job-or-make-it-better/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/will-ai-take-your-job-or-make-it-better/amp
+  - title: "The Perils and Promise of Artificial Conscientiousness"
+    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
+    publishedDateTime: 2019-12-17T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
+    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
     type: article
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.FC56F0A04160C02875027BD32A511682
-        width: 700
-        height: 366
-  - title: "Save $100 On The iRobot Braava Jet M6 Robot Mop"
-    excerpt: "It also has Imprint Smart Mapping, which enables the robot to learn, map and adapt to your home. Thanks to artificial intelligence, it remaps your home each time. So it gets a better map every single time, and knows where everything is. So it doesn't run into your furniture or the walls. Nearly $400 for a robot mop might still seem like a lot ..."
-    publishedDateTime: 2019-12-13T21:28:00Z
-    sourceUrl: https://www.androidheadlines.com/2019/12/sale-irobot-braava-jet-m6
-    ampUrl: https://www.androidheadlines.com/2019/12/sale-irobot-braava-jet-m6/amp
-    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/sale-irobot-braava-jet-m6/amp
+      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
+        width: 2400
+        height: 1800
+  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
+    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
+    publishedDateTime: 2019-12-17T17:52:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
+    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.162E6DC054F4401A02A391443AA0D19E
-        width: 700
-        height: 466
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
+        width: 1200
+        height: 674
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-17T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "aQTL8zYjkiR5TKrLaNGRg/3c6/7IOEBVUhd9IlM6vpz+YCtJEHk/E1RwRKwF51ex7V5nRIMaFFIrUvEzf3xBn/u/CMGqOpVyjFVyjTW7ga6lfuVRPfp+kiDFo+ED5m8s76VhXZUN5vSS+59+QO3qKsyGaMEVGAE6FdpnmYGNyQ/3dpUFeXpUso5Q6L/pvN2M3MyfBYME3Tu/QVOayj4bfEfvsMwZwSlpj+K/hhSHk6+RCRDZ6k+6vDYwUZ6zbOFshvJtZxI6+4Wrb97pKi0dqw==;n/BnejiBgNZsXftl9BX/Nw=="
 ---

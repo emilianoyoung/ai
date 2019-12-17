@@ -38,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
+  - title: "Software predictions for 2020 from around the industry"
+    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
+        width: 640
+        height: 426
   - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
     excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO, Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
     publishedDateTime: 2019-12-12T09:00:00Z
@@ -55,7 +68,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 41
+    quality: 43
     images:
       - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
         width: 1010

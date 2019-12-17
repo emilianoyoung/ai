@@ -5,9 +5,9 @@ excerpt: "Earlier this month we told you about AI Dungeon, an AI-powered text ad
 publishedDateTime: 2019-12-17T17:20:39Z
 sourceUrl: https://www.msn.com/en-us/entertainment/gaming/infinite-text-adventure-ai-dungeon-is-now-available-on-ios-and-android/ar-BBY5Br2
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
   name: The Verge on MSN.com
@@ -37,6 +37,6 @@ related:
         width: 700
         height: 367
 
-secured: "ksrkRUW94quFqpDMdz8jpYepgR0f+V33raZxja7jFxtrzL23rAu57mpuLlUBCc8mRVhZlqwayE4qaFjQ8R2Vgbaf+PsUk+sU7tS7ORrKDHjTLgA/Bqer26P70hjlTZKJgmaJHcDOdPM1MDO+/mhC6WnH/ZY96DFrNJLv6kAfd6AO3c68v9Q2ROBsYZUln7CfQqaMsT4bV2dE4G7t4qNtmRavJmyURApTtu0XdZEcWsfRFvqO1qhUWPsEZddXWyFXqhQ3PgrjDLEJcMNmfwwZLQ==;cZ6gECj3Cy3wWf9T5qebyQ=="
+secured: "FcFnOIOcBsu6N6SqxAol+cCXupR0qxP0VC3jI9a4aoPSxY9g95NI07lYyFo+H+/iVdf+sKDuCI51GOZvHOSdD4UcOsNPDyjJdY4LygAM+G6oD6TvTYT6tfGOS/491C0Xz5SaqG8WiNMQ/j0wv3Zv4CPN5FXFLMY2OrB080nF5l3eAsS6MrnPPpTqvh7Mf/iqNSte573iF6MtFXOqL0np95+niWJildotPsjiXzm7YVza2giDiWH58upa+5uNJ+RFXcfJ2AfsgfklhnkxNh60YGyrWv9Y65XHle69NMMw7Co=;ZWJXhIAbOTa68COQeifHYQ=="
 ---
 

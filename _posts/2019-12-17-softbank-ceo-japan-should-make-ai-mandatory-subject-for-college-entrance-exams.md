@@ -7,9 +7,9 @@ sourceUrl: https://venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-
 ampUrl: https://venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-mandatory-subject-for-college-entrance-exams/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-mandatory-subject-for-college-entrance-exams/amp/
 type: article
-quality: 83
-heat: -1
-published: false
+quality: 183
+heat: 203
+published: true
 
 provider:
   name: VentureBeat
@@ -58,6 +58,6 @@ related:
         width: 700
         height: 367
 
-secured: "BRp587/EhuI/QMcSvwh93I8DvjMDsaBMdmKzTGpQLiNfkFy4Fk0A7+n8kxah3JsWjh0pFG3Wo5JnQyRSkb9ThAU1p0Q9NoIKNrUMxQjVSYjqRBAZn5xRSl/wRGVTxJmEQVh0p1/R94otn2qnbCIVjUUjZdaCY8OqYHpnG4djLkXro4PO0ifQQWRrEEv+m15Jcpw/PW5uDUDGW0Sfihv/zgzZPYiQFwFB4iAvsMcxDbsvH+PK/+umHKH6b0MysIk2++M8jTk8xAmo7UPCmWWHQA==;/3YmLlDB7mD/WmFw2wxIkw=="
+secured: "1cTFc2N8421IxMbZ7Us/CQVKnktWN//PfiTz/mxWH+5PDlliMm5lLaHaSF2bT3J/mPC4Cw25mopqauUXZB/PSWe+KHW9A4MRNSt5o9rnC3XR11TMvW2BtkbIL5DOnrCxt3c7EgnbmxxJBhLjH7JCqOSlitAshHV2E/Bq1T/EyYHOhZ6wrPHJ6fwWusAhQQQgAnfk8ECvpLHy0gOOrUI5mAeHwv0dfAMgZpwk3TJ7jnadwkAp5zE6BZtHH/3oh/eyV1wESJN6FqvxP96G8TSNCbMqHW5DIjBn0vYH0JT0HYU=;VEIGVpkT7BCODqBUrb9JkQ=="
 ---
 

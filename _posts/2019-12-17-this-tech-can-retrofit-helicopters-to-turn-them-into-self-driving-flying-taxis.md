@@ -8,8 +8,8 @@ ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
 type: article
 quality: 70
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -30,54 +30,129 @@ images:
     title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
 
 related:
-  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
-    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
-    publishedDateTime: 2019-12-17T12:58:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
     quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
-        width: 700
-        height: 367
-  - title: "Are flying taxis finally coming?"
-    excerpt: "One company believes advances in artificial intelligence and 5G technology will help launch a fleet of flying taxis ... You tap an app on your smartphone and summon a driverless flying taxi that safely whisks you to your destination in minutes, relaxed and with only a slight dent in your net worth. This isn’t an episode of the old cartoon ..."
-    publishedDateTime: 2019-12-11T14:34:00Z
-    sourceUrl: https://thehill.com/changing-america/sustainability/infrastructure/473936-are-flying-taxis-finally-coming
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
+    publishedDateTime: 2019-12-17T18:55:00Z
+    sourceUrl: https://www.newsobserver.com/news/local/education/article238467493.html
+    ampUrl: https://amp.newsobserver.com/news/local/education/article238467493.html
+    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/education/article238467493.html
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 38
+    images:
+      - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
+        width: 1280
+        height: 720
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T23:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/volkswagen-bring-self-driving-electric-225609415.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.7A79D507F2947482AC1063339D201DC0
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
         width: 700
-        height: 427
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
-    publishedDateTime: 2019-12-17T09:39:00Z
-    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
-    ampUrl: https://amp.benzinga.com/amp/content/15000614
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+        height: 466
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+    publishedDateTime: 2019-12-14T13:48:32Z
+    sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
+        width: 700
+        height: 466
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-15T00:05:00Z
+    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
+        width: 700
+        height: 466
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
+        width: 700
+        height: 367
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "sppKOfRJqlIPQBfd5gC34ui5WOV3DPwopzOGMiT9Qp0cjK9rzVdCGSbWEVixAEd7Ja8vgKnxQ5C5iBXShq+s6qLFyAgA7hmrdh/cL/fzr+AsA5Fjoli8wxT1wT1TuUrGRWo0micaeUBvNGVMwmp4Cmar5UVzf96csy9qhQ6A1Q6zJSTiaa9ygqdm5297q+pFUTEgUm+tM4YTCufJJgMC0OVCqHA62Oa6GhAaAh/lqsyr811xDGqyCvj+W+vUYWYZJAWGm0dhAe/kZn24UhXyqA==;fLcUww5ftv38xLlq+Dgmxg=="
 ---

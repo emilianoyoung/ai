@@ -8,8 +8,8 @@ ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-ma
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -39,7 +39,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 183
     images:
       - url: https://www.bing.com/th?id=ON.E481515479160FBD353FE671CA8A8FCD
         width: 700

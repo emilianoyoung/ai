@@ -71,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC56F0A04160C02875027BD32A511682
         width: 700
         height: 366
-  - title: "Are more robots in your future? Missouri looks to expand use of artificial intelligence"
-    excerpt: "JEFFERSON CITY — Missourians seeking information about their taxes or their welfare benefits soon could be contacting a robot rather than a real person ... about a third of the states are engaged in pilot programs to increase the use of artificial intelligence to provide services. The budget request says the Missouri Department of Revenue ..."
-    publishedDateTime: 2019-12-10T19:20:00Z
-    sourceUrl: https://www.stltoday.com/news/local/govt-and-politics/are-more-robots-in-your-future-missouri-looks-to-expand/article_5e87dd09-29ef-5bc2-adaa-514ca8c91393.html
-    ampUrl: https://www.stltoday.com/news/local/govt-and-politics/are-more-robots-in-your-future-missouri-looks-to-expand/article_5e87dd09-29ef-5bc2-adaa-514ca8c91393.amp.html
-    cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/local/govt-and-politics/are-more-robots-in-your-future-missouri-looks-to-expand/article_5e87dd09-29ef-5bc2-adaa-514ca8c91393.amp.html
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 66
-    images:
-      - url: https://www.bing.com/th?id=ON.3981FEED7E3DE3D1223652DFC504F01E
-        width: 700
-        height: 393
 
 secured: "1s07UDFauz8bYh5uwClfYLPOI/YKNtlxLeN1UfHC2w8n0oIVfOrCIArhG5QxmNEwZv/ImXkPBS0hGT7qT/CByilSI2LE9ytSZcbsDQphd5xFHDeJ0tqvI5tdd5Xk9gWvCycN3Y91X71ozq9HHbPFjH3Tg+Q8z08dtImQgtqEPHuDm+A0MQNvb4gWvjzadL/DQSq9vDjgXimJGOL3P3cVRBHRpjfFAIKbh3Y9Mlg0WnlRaiJBFzWqcAaIkXSoT6NSAnB9jkLbLkOy8+qy1HDTGg==;s2STniwkxzNAkXsuSvCzJQ=="
 ---

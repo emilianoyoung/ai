@@ -24,129 +24,114 @@ images:
     title: "In the new bot economy, cloud robotics and AI transform work and society in far-reaching ways"
 
 related:
-  - title: "The Surprising Way Artificial Intelligence Is Transforming Transportation"
-    excerpt: "To achieve full autonomy, the onboard computers on self-driving cars need to make use of cameras and radar sensors to generate a 3D view of the vehicle’s surroundings. One of the challenges to this lies in getting the information needed to make split-second decisions in real-time. Eventually, 5G and artificial intelligence will be leveraged ..."
-    publishedDateTime: 2019-11-27T19:20:00Z
-    sourceUrl: https://www.forbes.com/sites/quora/2019/11/27/the-surprising-way-artificial-intelligence-is-transforming-transportation/
-    ampUrl: https://www.forbes.com/sites/quora/2019/11/27/the-surprising-way-artificial-intelligence-is-transforming-transportation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2019/11/27/the-surprising-way-artificial-intelligence-is-transforming-transportation/amp/
+  - title: "The NFL And Amazon Want To Transform Player Health Through Machine Learning"
+    excerpt: "Injury prevention in sports is one of the most important issues facing a number of leagues. This is particularly true in the NFL, due to the brutal nature of that punishing sport, which leaves many players sidelined at some point during the season. A number of startups are utilizing technology to address football injury issues, specifically ..."
+    publishedDateTime: 2019-12-06T15:40:00Z
+    sourceUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/
+    ampUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.9C85A769A224466CEB1B822EEDADD6FA
+      - url: https://www.bing.com/th?id=ON.F31F367EAA39078CD85AC1EAF8DA2227
         width: 600
         height: 315
-  - title: "Five Ways Artificial Intelligence Could Transform The In-Room Hotel Experience"
-    excerpt: "Share to facebook Share to twitter Share to linkedin Artificial intelligence (AI) is upending many industries and transforming everything around us. Self-driving cars, drones that deliver packages and AI assistants that provide instant and accurate responses to your questions would have been considered science fiction just a few years ago."
-    publishedDateTime: 2019-12-02T13:36:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/02/five-ways-artificial-intelligence-could-transform-the-in-room-hotel-experience/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/02/five-ways-artificial-intelligence-could-transform-the-in-room-hotel-experience/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/02/five-ways-artificial-intelligence-could-transform-the-in-room-hotel-experience/amp/
+  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
+    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
+    publishedDateTime: 2019-12-12T07:42:00Z
+    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
+    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.B27A160FB820C71E3C27F796BB17896F
-        width: 600
-        height: 315
-  - title: "Digital health interventions: Predicting individual success using machine learning"
-    excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
-    publishedDateTime: 2019-12-04T14:20:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.html
-    ampUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.63183DB0F4514DFE4F5E973D21C9858B
+      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
         width: 700
-        height: 350
-  - title: "Straker Translations to provide AI-driven translations to US TV studio for Latin America markets"
-    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
-    publishedDateTime: 2019-11-28T03:41:00Z
-    sourceUrl: https://www.cio.com.au/mediareleases/36471/straker-translations-to-provide-ai-driven/
+        height: 402
+  - title: "NFL turns to Amazon for help addressing player injuries"
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
+    publishedDateTime: 2019-12-06T14:41:00Z
+    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     type: article
     provider:
-      name: CIO
-      domain: cio.com.au
-    quality: 26
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
-        width: 600
-        height: 300
-  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
-    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
-    publishedDateTime: 2019-11-27T20:54:00Z
-    sourceUrl: https://www.chron.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
+      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
         width: 700
-        height: 700
-  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
-    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
-    publishedDateTime: 2019-11-28T04:38:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
+        height: 525
+  - title: "NFL and AWS using data to improve player health"
+    excerpt: "They are combining AWS' cloud and its capabilities in machine learning and artificial intelligence with NFL data to improve player health and safety."
+    publishedDateTime: 2019-12-05T21:26:00Z
+    sourceUrl: https://www.zdnet.com/video/nfl-and-aws-using-data-to-improve-player-health/
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 24
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
+      - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
         width: 700
-        height: 700
-  - title: "The 30-Second Trick for Medical Translation Company"
-    excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
-    publishedDateTime: 2019-12-03T09:14:00Z
-    sourceUrl: https://adnews.com.br/sem-categoria/the-truth-about-medical-translation-company/
+        height: 525
+  - title: "Amazon Partners National Football League For Player Health, Safety"
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
+    publishedDateTime: 2019-12-06T15:34:00Z
+    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
     type: article
     provider:
-      name: Ad News
-      domain: adnews.com.br
-    quality: 24
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.599495EC5362E26B6744D939D0ADCC81
-        width: 307
-        height: 217
-  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
-    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
-    publishedDateTime: 2019-12-04T18:01:00Z
-    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
+  - title: "Regtech: Transforming The Fintech Landscape"
+    excerpt: "from AI to the Internet of Things, and it’s not surprising that we are seeing the regulatory technology (RegTech) space advancing at an exponential rate. Everything from facial recognition technology to NFC passport chip reading is aiding FinTech businesses in their quest for compliance, bolstered by the added security that assets like cloud ..."
+    publishedDateTime: 2019-12-06T01:55:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    ampUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 20
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
     images:
-      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
-        width: 460
-        height: 460
-  - title: "NICE Actimize Honored by Regulation Asia With Two Excellence Awards, Citing Innovation in Trade Surveillance, AI & Machine Learning"
-    excerpt: "The AI & Machine Learning award recognizes technology firms that have successfully used artificial ... “Today’s regulations have created a state of constant change for financial services organizations, elevating the importance of effective compliance monitoring and trade-related surveillance technology,” said Bradley Maclean, Co-founder ..."
-    publishedDateTime: 2019-11-28T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/nice-actimize-honored-regulation-asia-113000420.html
+      - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
+        width: 700
+        height: 466
+  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
+    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
+    publishedDateTime: 2019-12-07T02:20:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 9
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
+      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
+        width: 700
+        height: 466
+  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
+    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
+    publishedDateTime: 2019-12-07T00:09:00Z
+    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
 
 secured: "H/5A6Ze2BellmWJ1ZI/0zzSa26xAvD+LrMtBKwJ0nrwjfQ659yGWO8Y6XUiifmydprxEo39J6Do+CzApkXyx5T1siAIjwEbvmYWx7wdzm3WxKzCr3iVtuHY2NkZ4Zdo4joC3yoxKucuOMyQVtAnFivK6wUMKCWx+xNyhshaFYgihYX1HVvjJGyvPPBEPWnOrD7o0RYfpPndaFHK4FloRZzbQYAWDizVKdPuZDf8ly1M1pAYq9gJ1bS0KaeqPKmmhuVwo1Bkn9BZSxKiIeK7ZOA==;ihl10KcSopBsggbHPXU/pg=="
 ---

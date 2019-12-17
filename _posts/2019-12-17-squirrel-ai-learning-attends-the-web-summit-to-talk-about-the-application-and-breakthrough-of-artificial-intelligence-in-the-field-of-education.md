@@ -2,20 +2,16 @@
 category: news
 title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
 excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-publishedDateTime: 2019-12-17T06:58:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/squirrel-ai-learning-attends-the-web-summit-to-talk-about-the-application-and-breakthrough-of-artificial-intelligence-in-the-field-of-education-1028767630
+publishedDateTime: 2019-12-17T08:07:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
 type: article
-quality: 48
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -148,21 +144,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
         width: 700
         height: 525
-  - title: "The Perils and Promise of Artificial Conscientiousness"
-    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
-    publishedDateTime: 2019-12-17T09:00:00Z
-    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
-    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
-        width: 2400
-        height: 1800
   - title: "Computer Vision on the Web with TrackingJS"
     excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
     publishedDateTime: 2019-12-13T18:21:00Z
@@ -421,6 +402,6 @@ related:
         width: 335
         height: 223
 
-secured: "tsEICYbCxccTqm7O3g1juw4GcJT74dR2cxaP7/IXtn3Iqyfci73nkcHGgXUpCf1FLkFAdP+d+E+EdzcFoFnPU7vTGHhcdSTkloopMqW81JfZfHNGdjXY2nyx5YgRCnOgayBHu5CSbMF9aF+0tyQm5SFhYlqJjwVrZBL+gGzJXeJvi8Xc0QA3YkiDQMi1rmcIO6CcYLZfYV/xStMbWl5Kulod65UCNpOupm2Ey2bE1IZjtR9PTv9LkGXORCRubDnlzSj1vveLHBdIT8RawPexnw==;rmwuSrmQ9ykJl0Tg44h71w=="
+secured: "H/mS4XktAdt2pkSxOLBkIdIidxOpXk5W6qD+ULmzzvvgHiG3n2Es4l+cnT6i93UpjTZ1VWLyI5DH6xb9JrpFmkSn6EgnZbQH1TMeug10DuvhzM+83OAAy6ujNuLYIbXF6seR+J0BXOycr5zOKVcnm06CzPr9FIGjdCU15NBnQQsdjwFCULpg2ZqqpO3j04zSGxOEGZFltocDqcIf5lgb7XMoIOg34spWL2cFQY20LgFbBS7/Iu6+VTd1rhJlj9KuB8P9psmyiQflbS5h+hxtMw==;opHNoTXRF7Lz2dsGd2eYUg=="
 ---
 

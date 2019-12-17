@@ -123,6 +123,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "hlVgNG3HXp74tkKeKyB+Ju6+V0kXxw8DNAOL35ydT+mvqls4iAfXtjCcnGcRlB5ZHM0AEech1jpz/PuoZtt46U4ZO+6mm23ZLrqLwk2qpSG77TlIT1WSIFkrOGw1GdbIp4uDAixNjTUyRAwCM4wZNhJG4oaRnkgpV6/mxiKtxtriPinoo3SEnoB4GC66c0kVBHtc9N0n1zMjVq0jqmm8WwoGVW9fsIaJUxBiG4pjIXORRz+ER7nPFidzBMRK1Cmz4v5bKMgw/S/je98qFI2F9g==;FTbqo/wCBBdRKSSLXHsUhw=="
 ---

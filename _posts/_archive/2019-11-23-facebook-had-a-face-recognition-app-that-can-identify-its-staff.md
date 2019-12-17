@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-23T14:59:00Z
 sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,31 +24,31 @@ images:
     title: "Facebook had a face recognition app that can identify its staff"
 
 related:
-  - title: "Chaayos’ face recognition system gets caught in the privacy storm, company responds"
-    excerpt: "Popular tea store chain Chaayos is drawing flak over its facial recognition system set up at its outlets. The system, which is said to be aimed at replacing the OTP process, involves customers checking in using facial recognition. According to a MediaNama ..."
-    publishedDateTime: 2019-11-21T16:00:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK.html
-    ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
+  - title: "All the ways that facial recognition can be fooled — and even hacked"
+    excerpt: "It is difficult to avoid a facial recognition system unless one keeps under a low light or stays home or hides somewhere. However, over the past few years, researchers are looking out for new and innovative ways of doing so. This could pose a hurdle for ..."
+    publishedDateTime: 2019-11-22T10:26:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/articleshow/72153390.cms
+    ampUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
-  - title: "The Face Recognition Company exits stealth with new multi-camera biometric security offering"
-    excerpt: "A new multi-camera face recognition security product will be introduced by The Face Recognition Company (FRC) at the upcoming International Security Expo in London, bringing the company out of stealth after three years of development. FRC claims its security system is the first “ultra-accurate” technology optimized for commercial businesses ..."
-    publishedDateTime: 2019-11-27T19:17:00Z
-    sourceUrl: https://www.biometricupdate.com/201911/the-face-recognition-company-exits-stealth-with-new-multi-camera-biometric-security-offering
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 39
+  - title: "For now, Lockport wants facial recognition security system just for guns"
+    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
+    publishedDateTime: 2019-11-24T10:01:00Z
+    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
-        width: 660
-        height: 300
+      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
+        width: 2000
+        height: 1500
 
-secured: "VF1MQ7maSZy3x9tnSTCKCV4m/d7buTg/oSqzkdfdsygYzAbGaNWb1EMYyOOUoAAi5GdvCt/NNEdeisBjeS1rTW7jBxq4IeS/iJtAxBCGqPcwgkqqLEW4x7w4RfPxSDG4Cjex7Q1m0L07RgdSC7ykm94yzu9MKwojqjqhcRCj1nJGNOMPa3cMh2Fcc/+794kNyJYbpkYkPpFTWHftnPaGkhlQYMG9EG3Hdkq49WqWXjVYYBSzGWBHqeRahs6fyacp1buY4yt6QIUqGzs2HmRHGA==;MrBGZ+jaoNU++ugCbra92w=="
+secured: "L60XdbYAWjOKaPsEkdK1lSJ9VYink4fci0ypmFhoN/mP+EOZImVhZvf5QAx/87JsDKwdFHlGpRDzslCM+/jMttJP4/OjCc9fB5iaBL7eIJGcw7Rbk3tupczVDMx+SN7+bSCTG3OVi2loYSBCGf/FMCi0CoCH+ZHjdi0UllehGK/JgPRCfKRiIo8/AztfA0pTiSpAsqxsZgL682TVhoj5R0wR5PbVq99pi7jBtIyY/Lw9lHCrcNLPtjbUYiHjJFQtxCGRATV7xdBftiHLr4upyg==;InKTxAKAtuQ490pwOMdVwA=="
 ---
 
