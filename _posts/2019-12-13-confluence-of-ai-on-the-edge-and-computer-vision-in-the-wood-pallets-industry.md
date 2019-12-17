@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
 type: article
 quality: 103
-heat: 343
+heat: 353
 published: true
 
 provider:
@@ -300,6 +300,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DC3509595FE2F94B7BA9CD790E68150B
         width: 700
         height: 499
+  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
+    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
+    publishedDateTime: 2019-12-17T05:47:00Z
+    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
+        width: 700
+        height: 265
   - title: "Human Rights Commission calls for regulation of artificial intelligence"
     excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
     publishedDateTime: 2019-12-17T03:28:00Z

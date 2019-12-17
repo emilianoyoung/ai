@@ -132,19 +132,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Neural Network Software Market 2019 Opportunity Analysis and Industry Forecast by 2025- MRE"
-    excerpt: "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and machine learning. The major driving factors of Neural Network Software Market are as ..."
-    publishedDateTime: 2019-11-27T03:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2019-opportunity-analysis-and-industry-forecast-by-2025--mre-2019-11-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market 2019 Opportunity Analysis and Industry Forecast by 2025- MRE"
     excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
     publishedDateTime: 2019-12-09T03:13:00Z
@@ -210,21 +197,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Software 2019 Global Trends, Market Size, Share, Status, SWOT Analysis and Forecast to 2024"
-    excerpt: "Forecast to 2024\" New Document to its Studies Database Artificial intelligence (AI) software is a software that is built using computerized neural networks in order to train the computer to mimic the human brain. Artificial intelligence (AI) software deals with various kinds of supervised and unsupervised data and provides useful insights and ..."
-    publishedDateTime: 2019-11-27T04:35:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/11/ab14892151/artificial-intelligence-ai-software-2019-global-trends-market-size-share-status-swot-analysis-and
-    ampUrl: https://amp.benzinga.com/amp/content/14892151
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14892151
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.F0C8F456DD439659E100A5A18CD00ED5
-        width: 164
-        height: 230
   - title: "AI in Social Media Market Trends, Demand, Benefits, Size, Share, Key Players, Future Prospects and Industry Analysis"
     excerpt: "Reports that review the information and communication technology industry has been presented by Market Research Future, which produces reports on industry ... The eminent competitors in the AI in social media market are Facebook (US), AWS (US), Baidu (China), IBM (US), Adobe Systems (US), Google (US), Salesforce (US), Snap (US), Clarabridge ..."
     publishedDateTime: 2019-12-04T11:09:00Z

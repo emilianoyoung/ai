@@ -1,27 +1,25 @@
 ---
 category: news
 title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-excerpt: "CHICAGO & LONDON--(BUSINESS WIRE)--Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on ..."
-publishedDateTime: 2019-12-16T15:59:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191216005182/en/
+excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+publishedDateTime: 2019-12-16T14:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
 type: article
-quality: 53
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.C0163F599F31648066814883783D13A6
-    width: 700
-    height: 365
-    title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
 
 related:
   - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
@@ -54,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
         width: 700
         height: 323
+  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+    publishedDateTime: 2019-12-17T05:34:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 53
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
   - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
     excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
     publishedDateTime: 2019-12-16T09:09:00Z
@@ -105,6 +116,6 @@ related:
         width: 1200
         height: 448
 
-secured: "S/6HAyR2/u6TNI1HgK4t02qsyf9ehQ6VcV3JgMyY1sYETYvaYRGKoLZlCHxPHwMYTiJk/1yQDD+NUQYat3/ML2aLvolqpQ/naum/lgnygbLpaEDbYu6D77WlIYKB8ewuUBi9lu9HAjy9rV/xRdwb/MDWtS+FByODFoscYzABbJ2rnuuJV0HV7h7URNIfcx7YI/VyThx3d9CiBD9FSsCztFRUXUJ7jCJCkBaQDviy/cyTYKUp8KVZElwkAN73KBjfdvYrZV6Vae+UnkpkqsNQRA==;aVAMkAP4/RvJ4katyr4eUQ=="
+secured: "AnyWQkQwKJypaZMvVSucfdRj/YnxFL+3G1vcerHrwS3TtBSC8ybbXnI70452gWjAexyU9CT5smIEG0FAOn+pDiaVlhuCVjhWp0NAvCHvMd5grh4Ke/wTogjVrasKddCYFf4rQxklJ4Drc9W23bE9a2BDE/HqLqmp/KsIRjrSl139jAdtdQXnTE3FW9FJyE73/SGM9+k3Mir/l2inxDTZMrKIMO9YSHSx1Dqti1cN0X5tKO3EuknOMHN/thkznQ8qrcI0jW5RPU+Bj1Z7TM4ekg==;LzsyYM1ab41F5GfCNs2gkg=="
 ---
 

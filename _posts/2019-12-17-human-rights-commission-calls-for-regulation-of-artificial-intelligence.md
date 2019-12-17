@@ -307,6 +307,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DC3509595FE2F94B7BA9CD790E68150B
         width: 700
         height: 499
+  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
+    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
+    publishedDateTime: 2019-12-17T05:47:00Z
+    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
+        width: 700
+        height: 265
   - title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
     excerpt: "More recently, a geometric morphometric approach has been described to study facial expressions of pain in cats. This approach has been proposed as basis for further application of machine learning algorithms for automated pain recognition 26. On the other hand, grimace scales are simple and readily applicable in a clinical context, and the ..."
     publishedDateTime: 2019-12-13T11:27:00Z

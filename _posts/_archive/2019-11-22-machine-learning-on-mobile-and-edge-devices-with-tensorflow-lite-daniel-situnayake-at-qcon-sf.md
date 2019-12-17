@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Machine Learning on Mobile and Edge Devices with TensorFlow Lite: Daniel Situnayake at QCon SF"
 
-secured: "rfhi6XtkCHcvpCasmrMBywF5+nw1g1NqnkE23So1Ha3fzaRqH8tKF9Sk1KDSDGa/OUqIVfpbKy7E/RkLM8WG5MhM3D886Ydvow5Zu6nVjUZwVIgz7sOhE1QyByq3Cw6pG3fJHSCHSLG4nxPOfJj6E+QiGCGqM2lqMD4+JTLHh+wvmO052Qu0Sx8UlmspZzKrUZggij4HSVUGuzKxnlvPPtNfdNpHFLxvokmke0XqeOAjOLj42sgxldYSdPKWSm9nwwummcR0Fa1+45laJ3sArw==;oAWOu0R+YKS6KlM32fhZeg=="
+secured: "FT9BP8BQ9b733gMyDk97kERe8apxwBVuBdY9W4Bfe53oby7SnyFJTW2/pxMzKpYCxFTZjXBGC2RaJnon29QXbVQ0RdDtwD2culgv0Cmywbvx8Nht6ixpAATKvm6c8arj3D0TBVSLQVGeAUHPalNEZTpBuJZQVKh/cus1XShoKyToisUQK+QjZzqOk+CfUIcX6MaD7OPl/+AQxmj3nbmEEtMvoC+3jCfzz+MLFakm7/Nc4HzD6g6JEMcIY5+fQ3KnLGyW1RA5lLda7mVgLMKq1A==;wJ9xome3lI838YDI9f+ZnQ=="
 ---
 

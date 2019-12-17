@@ -8,8 +8,8 @@ ampUrl: https://mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-
 cdnAmpUrl: https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/1613609/paging-dr-robot-artificial-intelligence-moves-into-care/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: MyNorthwest.com
@@ -24,21 +24,6 @@ images:
     width: 700
     height: 496
     title: "Clarification: Health Care-Artificial Intelligence story"
-
-related:
-  - title: "Artificial intelligence spreading into health care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of ..."
-    publishedDateTime: 2019-11-27T07:54:00Z
-    sourceUrl: https://www.timesnews.net/Health-Care/2019/11/27/Paging-Dr-Robot-Artificial-intelligence-moves-into-care.html
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5FD12FFF3F19678FC7332FC31964342A
-        width: 700
-        height: 466
 
 secured: "/a0brT4ntq+WaCBzDGQCezC8aGy76gLmmofcbroGwKKi16PmsXZ5+7QwMj1U439gGSwks3SxbtAGcqDdMz69vAnejR9kn3o7je/IEkw1hlFZJScLopQaPv4oJUuOg3S7Bbqp2QDy5TXj5nAj+jXzT3+B6W+ScQ5ZB0sWdYZTY8icqFrrmRpEiJtMDfC9tD+sZJl2h7Rvzm6k4wlNvnHQNKS1pRQxk120EFNp+V3m2pC1QwAwFQBEURrpIAHVQAwK6hPMhRuhMAMF4qea1GZpnQ==;G1GwvnGQc3AI0dlaXgj0EQ=="
 ---

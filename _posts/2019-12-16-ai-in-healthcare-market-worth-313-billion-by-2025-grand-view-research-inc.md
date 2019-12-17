@@ -51,18 +51,27 @@ related:
         width: 700
         height: 323
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "CHICAGO & LONDON--(BUSINESS WIRE)--Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human. Benefits range from increasing the amount of time clinicians can spend with patients and on ..."
-    publishedDateTime: 2019-12-16T15:59:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005182/en/
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+    publishedDateTime: 2019-12-17T05:34:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
     quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.C0163F599F31648066814883783D13A6
-        width: 700
-        height: 365
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
   - title: "Partners HealthCare launches five-year $100M digital health initiative"
     excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
     publishedDateTime: 2019-12-13T17:05:00Z

@@ -130,19 +130,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Neural Network Software Market 2019 Opportunity Analysis and Industry Forecast by 2025- MRE"
-    excerpt: "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and machine learning. The major driving factors of Neural Network Software Market are as ..."
-    publishedDateTime: 2019-11-27T03:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2019-opportunity-analysis-and-industry-forecast-by-2025--mre-2019-11-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market 2019 Opportunity Analysis and Industry Forecast by 2025- MRE"
     excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
     publishedDateTime: 2019-12-09T03:13:00Z
