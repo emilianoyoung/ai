@@ -2,7 +2,7 @@
 category: news
 title: "Machine Learning on Mobile and Edge Devices with TensorFlow Lite: Daniel Situnayake at QCon SF"
 excerpt: "At QCon SF, Daniel Situnayake presented \"Machine Learning on Mobile and Edge Devices with TensorFlow Lite\". TensorFlow Lite is a production-ready, cross-platform framework for deploying ML on mobile devices and embedded systems, and this was the main topic ..."
-publishedDateTime: 2019-11-22T19:00:00Z
+publishedDateTime: 2019-11-22T19:06:00Z
 sourceUrl: https://www.infoq.com/news/2019/11/tensorflow-lite-edge-qconsf/
 type: article
 quality: 27
@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Machine Learning on Mobile and Edge Devices with TensorFlow Lite: Daniel Situnayake at QCon SF"
 
-secured: "eM7FFgFL2nJnasjhmEUX9Pcmj0tt5qIoB1XirSSHu90sAJK4AnKppoaVfbOsZzuzN0Tax7WirkmgZ0J+Qtgt1403LhV91CRn1HMSHv8xLzFFBHkepigvXToxRCWyu1CobQOALSegFHMosWWBgkHKPT1L4Tp5Wf7QGJiy+0f3gsEOthlcqfeh4DxOiVMKEkMr/aMgVmszn2jONmSl6RfZ4fEvwwEh7//kHbfWfmY/YDu/DST80AJlyjKfyZwBoz13zE8BNQv6jH8sV99tvo7Yaw==;IoA21mjSgS7xU8vOnKe5lw=="
+secured: "rfhi6XtkCHcvpCasmrMBywF5+nw1g1NqnkE23So1Ha3fzaRqH8tKF9Sk1KDSDGa/OUqIVfpbKy7E/RkLM8WG5MhM3D886Ydvow5Zu6nVjUZwVIgz7sOhE1QyByq3Cw6pG3fJHSCHSLG4nxPOfJj6E+QiGCGqM2lqMD4+JTLHh+wvmO052Qu0Sx8UlmspZzKrUZggij4HSVUGuzKxnlvPPtNfdNpHFLxvokmke0XqeOAjOLj42sgxldYSdPKWSm9nwwummcR0Fa1+45laJ3sArw==;oAWOu0R+YKS6KlM32fhZeg=="
 ---
 

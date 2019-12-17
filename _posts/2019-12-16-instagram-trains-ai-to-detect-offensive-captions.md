@@ -2,22 +2,18 @@
 category: news
 title: "Instagram trains AI to detect offensive captions"
 excerpt: "Instagram is to warn users when their captions on a photo or video could be considered offensive. The Facebook-owned company says it has trained an AI system to detect offensive captions. The idea is to give users \"a chance to pause and reconsider their words\". Instagram announced the feature in a blog on Monday, saying it would be rolled out ..."
-publishedDateTime: 2019-12-16T16:14:00Z
-sourceUrl: https://www.bbc.com/news/technology-50813086
-ampUrl: https://www.bbc.com/news/amp/technology-50813086
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50813086
+publishedDateTime: 2019-12-16T16:16:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-50813086
+ampUrl: https://www.bbc.co.uk/news/amp/technology-50813086
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50813086
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -120,6 +116,6 @@ related:
         width: 700
         height: 393
 
-secured: "sByXoYvpfoyDolhkDZYHebihOcAvoMdOgzyBq3FCgqqSnYAe2j5gnQg+GbA/PCoc8zvruRWbPphJBuchTylaGzN+Twq05/WftHYqB9IhCPjiJYoNT/Yy8H8VTuXKUUp0CW4vEhkF3q4aIMO/tkuQah3kMihTk80qwMyaYavb8E6jLO0nH2x34e4/B6bFfiePLqSq2vwprgw5fo4HLiVZdm+2qDrCDw3hN9rpbQMj6AwfSdO+lgUyJdjiUD/DJQLHNZg/hLZldpy33p4PEVmlJQ==;4e6+D8E3WYTeHq/UviDIkA=="
+secured: "2/CXQRKnrPEY2TbAaHWZKjGg9gGC9KvKAfV9maXVtwrMFiXDUKAi1STimLYr00Q00H+Jz/3L9CV8OltZ+FeQ2WMGsh9tp2AqI5k7aPbbAVW7X6zSZBMv9aWn0cmXIceakKznhy2YGk2uV7j2WXkbdduh7u2hdwPIG9wg7UqXbWcv+tWcqClfVNTG25GaeDgNXf4KV0NS8P+KkPcjuKxKj85gDfAV2qFaKNR6FclpCJy1CTobXmCoTipVou1I6ov4S1ZFpAaBkizA/9eGWM84Kg==;C/X+YT7FN7pXPoG0KUncFw=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence and how it applies to outbound sales"
-excerpt: "I think the way @frank-germany is using AI, is by many defined as Machine Learning, a branch, or perhaps more accurately an application, of Artificial Intelligence. \"Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly ..."
+excerpt: "While artificial intelligence is being used by retailers like Amazon to target prospects ... I believe I know enough about sales and marketing in general to provide credible input to make more domain sales to the real estate industry, the healthcare industry, and the food/restaurant industries. Final questions...what, if anything do you ..."
 publishedDateTime: 2019-12-16T10:06:00Z
-sourceUrl: https://www.namepros.com/threads/artificial-intelligence-and-how-it-applies-to-outbound-sales.1168396/page-2
+sourceUrl: https://www.namepros.com/threads/artificial-intelligence-and-how-it-applies-to-outbound-sales.1168396/
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -15,7 +15,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "Rk1WxofTEwLIEPx1MS0NS8MK7AcyHlZanx17gXyoDLRZb8328RbstSuYN53x1IWn52Av7vuAG/NUg+aFitWhzR3/rzNWgCc5lLNI66mvcu5aPiRCZqw2VRXNupAKlUZ0eCTD4/xU5TuW/efPHIEbbUybQywqAPiXLRIFFzOLjPlFJbdtwBD0kdNDjSOaOdJK3lg46AmGZ3ny0k/2C+HfgVInw0do2o9fHRjmRJ2c5j1jhBnNAd/gcTaZGp7rnxx4VJ/JmN5y1YL52l1+sVTwAg==;GeRLWJGEQ8aMJdTxbWFi/g=="
+secured: "eISRCRlornllA/FHcU8R6nxgoDn9NSXo0tGfg8U2DnF+/oOyxW+otF/p8VIZnQFKifDZf4TPBnwLaUZzQ2PI4Lde9Nmu+SaB9WAg6CNLgCHPBSb1VYW4/DhToBma3svaclXa0K+JFnnfyhh9TJR30AkRTICS06b0at9kKZAs5zAunxt1dOYUWb2sAJTYoJRYbJVsMnzYQ7xmLqIkfGvLyXljOG7KeLIUFpZfPT1mXwMlAecQdh++jqa8BfE2RPncqx7UvIMU7hOV4EiC8kI0kg==;gDqzYYTSyw+FeFF9HSXv1A=="
 ---
 

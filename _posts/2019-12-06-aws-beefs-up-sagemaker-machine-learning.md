@@ -156,6 +156,19 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
         width: 932
         height: 377
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    publishedDateTime: 2019-12-04T00:14:00Z
+    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.52955C3AB42254C636E380E50047BF5A
+        width: 700
+        height: 525
   - title: "Amazon SageMaker Experiments – Organize, Track And Compare Your Machine Learning Trainings"
     excerpt: "Today, we’re extremely happy to announce Amazon SageMaker Experiments, a new capability of Amazon SageMaker that lets you organize, track, compare and evaluate machine learning (ML) experiments and model versions. This is a companion discussion topic for the original entry at https://aws.amazon.com/blogs/aws/amazon-sagemaker-experiments ..."
     publishedDateTime: 2019-12-03T18:45:00Z

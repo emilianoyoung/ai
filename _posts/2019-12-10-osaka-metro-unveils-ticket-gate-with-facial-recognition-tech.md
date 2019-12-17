@@ -108,6 +108,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0011F70D041993C645CEF87AF14A4EE2
         width: 700
         height: 367
+  - title: "Human Rights Commission wants moratorium on expanding facial recognition"
+    excerpt: "Australia’s human rights watchdog has taken a bite out of the rapidly expanding facial recognition and biometric matching market, proposing the government institute an interim ban on using the controversial technology for decision making because it is flaky and struggles with people of colour. In a sharply critical assessment of unregulated ..."
+    publishedDateTime: 2019-12-17T02:42:00Z
+    sourceUrl: https://www.itnews.com.au/news/human-rights-commission-wants-moratorium-on-expanding-facial-recognition-535684
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.1FA6849529092323AC8C641DF9BAD140
+        width: 700
+        height: 437
   - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
     excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
     publishedDateTime: 2019-12-09T09:00:00Z

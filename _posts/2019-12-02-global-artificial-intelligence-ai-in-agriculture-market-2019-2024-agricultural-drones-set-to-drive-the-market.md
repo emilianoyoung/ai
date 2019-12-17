@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-excerpt: "DUBLIN, Dec. 2, 2019 /PRNewswire/ -- The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) market in agriculture is ..."
-publishedDateTime: 2019-12-02T13:31:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
-ampUrl: https://amp.benzinga.com/amp/content/14911193
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
+excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+publishedDateTime: 2019-12-02T13:25:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive-the-market-1028729846
 type: article
-quality: 33
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: benzinga.com
-  domain: benzinga.com
+  name: Markets Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -438,6 +440,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "izJOUr7oh8dG3ULNhw5tAA5ZUqhbnMLmbNEQW2Xt3gfXkDUKEUbsYG9CNNwlbxE3j4Z2/3cfJPwGTzW67A9VyystGb+0LjmBa+3UR0k0h5m3/WLq4mvCVNuYyN+P75RF8uvChWyFBRNjWWwompFF/0yo38lEPb9euUKwgzVGRN2tyY0oWE+KQrMl/fpoLe3JY2+/SCzAtgTHUcmlmQ7mmMynuuAraM4ltkBylHT4CELoq+KhOzevU5cRcJVWIyG73Qzk3/gByjmB1mcsRkcY3Q==;HZdFn6UdFjS8BH70oyTWlg=="
+secured: "qfYZie1bkTlwNWJ5+nbfwEyUkR5VWQW1aF2uuorNQ6XHOgEP9UG5rgV9g2KGtfz82Nn8Z3i5rUkRDB9lynm/40C/isBvhasmdwSwekIzl7v8FvK/ly/CHNzwzo4Nm7NQG8H/acRMZxyJgktDVCgoKvLU9qB2ytgzBVQ1RsPidtywdPtEpJScCWa2Yj7V63of2yrqfwsrZu/Shd+Tv6qar2OKViJMl2FTZuA918Es2jwGWn8LvNa1jLccdDrcWm4fJQltOHplXbEX8PraByC7Rw==;ajiVmv5WmPta0u0CO4Q3hg=="
 ---
 
