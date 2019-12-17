@@ -115,6 +115,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 3
+  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
+    publishedDateTime: 2019-12-17T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/computer-vision-microscopy-image-analysis-100600604.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
 
 secured: "YwqDpVsj+bK0cqwCh1RypvXq0TH5WCK2MQ8DLECKJudFx0FL3NNty5CSp6nfZgYLw8g98az0xJVaYbllZPEiygNSwdh2GSnoGfgxlehUk+z/2eJHivhGoATgfItcpemIgK6a5xeSyvoA1ek2pn1dl5bFmR6MwKSFk3mSgq2bJmCD1FoS2PdBPtbDICQtXL3fxangD4b0AWiMzDPYbciLY4JynkDY0MQJHchB4FGEBNgjaarr0wZjflrm1p0cwK2xSYqDzpWwoh6ABFdoV7vQ7g==;W0eWCkiCd69Av6ooF4VNSA=="
 ---

@@ -308,6 +308,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DC3509595FE2F94B7BA9CD790E68150B
         width: 700
         height: 499
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
   - title: "Film review: 'Machine' charts the upcoming rise of the robots"
     excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
     publishedDateTime: 2019-12-13T13:12:00Z

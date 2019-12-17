@@ -295,6 +295,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DC3509595FE2F94B7BA9CD790E68150B
         width: 700
         height: 499
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
   - title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
     excerpt: "More recently, a geometric morphometric approach has been described to study facial expressions of pain in cats. This approach has been proposed as basis for further application of machine learning algorithms for automated pain recognition 26. On the other hand, grimace scales are simple and readily applicable in a clinical context, and the ..."
     publishedDateTime: 2019-12-13T11:27:00Z

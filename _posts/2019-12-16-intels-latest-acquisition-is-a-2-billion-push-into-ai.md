@@ -1,21 +1,26 @@
 ---
 category: news
 title: "Intel's latest acquisition is a $2 billion push into AI"
-excerpt: "Intel hopes to use its AI capabilities to do things like reconnect damaged spinal nerves in paralyzed patients and create wheelchairs that can be controlled with facial expressions. It has experimented with neuromorphic chips, or AI chips that mimics the human brain, and it says its ultra-efficient AI chips can power everything from prosthetics ..."
-publishedDateTime: 2019-12-16T15:39:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/intels-latest-acquisition-is-a-242-billion-push-into-ai/ar-BBY30Ch
+excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
+publishedDateTime: 2019-12-16T14:39:00Z
+sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
+ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
@@ -157,6 +162,21 @@ related:
     quality: 74
     images:
       - url: https://www.bing.com/th?id=ON.5B25E998AAC089B03351CB2B8BF374F2
+        width: 700
+        height: 466
+  - title: "Intel buys Israeli AI chip startup Habana for $2B"
+    excerpt: "(AP) — Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business."
+    publishedDateTime: 2019-12-17T03:36:00Z
+    sourceUrl: https://www.sfgate.com/business/article/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
+    ampUrl: https://www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E322D761B2025606E2EB1596D2AF511E
         width: 700
         height: 466
   - title: "Intel Buys AI Chip Firm Habana Labs For $2 Billion In High Stakes Race Against NVIDIA"
@@ -489,6 +509,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "lRyofvoctyw5BhuTOYdVIPCINczdligx1CDB8vh0FSauTS2TGh8B8q9+GZa/lMlpkxJT3t+67c3eVbPNnKLH4ALN8uBj77cmjGTfPJn6WJKnNtVcO1KlOjDZAUgGSvZwMgaUKH/8KOO1qNOEvaLB9S4ZpXkeFRdVVr8hW6tQDqj3J+Dxe/HJR35TDXA4D81txJJ27xq6BhKaFKr+AoXoM0tiHQEyFHMfPbnSmFe0Hu4HJprHy42BbKkH582pgOFWHYMHF7z516HNYOVFa3vxBQ==;gn8QaPcGdVlee9BYZprxxg=="
+secured: "AxawlsqnlHVk9EZWsuHro3crAYAA7yaMEHcO1stYzp3MOpJRl/e+OWWA86dwmWNnDz2447i+mZ5ykIPTtE6T7agI8VcqFGVsVmDynfRxdlIM4roxoV1bXb7wKgrw+eu/N4ASfBno844aklAE7iMBwiPQoq4CpTfGFx+PMVj6QJVk73I2RdA4q4c4JufUs00UA8ArybHy2cNPFaZv4a4QFM7BtKA64ETIi4oyT9YqMSyOCRiNrbPOk7m4U2eD04sqY3rT6J1FKIFRp9H+sszKCw==;MiGy0qnzaKb9nOm6lG13gA=="
 ---
 

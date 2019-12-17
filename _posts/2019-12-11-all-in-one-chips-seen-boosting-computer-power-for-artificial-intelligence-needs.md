@@ -25,77 +25,132 @@ images:
     title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
 
 related:
-  - title: "Ex-Apple engineers cook up cheaper, more powerful tech for self-driving cars, and Volkswagen is interested"
-    excerpt: "The start-up has improved the capability of its technology. Porsche has invested an unspecified amount of money in Aeva. A Silicon Valley start-up called Aeva is inching closer to its goal of making self-driving technology more affordable. The start-up has a smaller and more capable version of its hardware, which collects and processes real ..."
-    publishedDateTime: 2019-12-11T14:07:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
+  - title: "AI is breathing new life into artificial limbs for India’s amputees"
+    excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
+    publishedDateTime: 2019-12-17T03:54:00Z
+    sourceUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/
+    ampUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 56
+      name: Quartz
+      domain: qz.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.64F16B514DFEBCC1ED35A8E532FDD3DC
+      - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
         width: 700
-        height: 466
-  - title: "Israelis develop 'self-healing' cars powered by machine learning and AI"
-    excerpt: "The company’s Line-Of-Code Behavior technology, powered by machine learning and artificial intelligence, creates a deep understanding of what software is installed on over 100 vehicle Engine Control Units (ECU), and the relationship between them. In addition to detecting software faults, the technology can enable remote, over-the-air software ..."
-    publishedDateTime: 2019-12-16T14:42:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Israeli-entrepreneurs-develop-self-healing-cars-powered-by-machine-learning-and-AI-611023
+        height: 393
+  - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
+    excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it’s a robot,” said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might ..."
+    publishedDateTime: 2019-12-10T22:27:00Z
+    sourceUrl: https://www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/
+    ampUrl: https://www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 54
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.CD9C792AB54FD2CAB1F366BB8A83BEEA
+      - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
-        height: 457
-  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
-    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
-    publishedDateTime: 2019-12-09T16:13:00Z
-    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
-    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
+        height: 393
+  - title: "Accountability is the key to ethical artificial intelligence, experts say"
+    excerpt: "Artificial intelligence (AI) needs to be more accountable but ethical considerations ... and we shouldn’t care about the internal workings of AI neural networks either,” he said. Instead, O’Neill says we should be focusing on outcomes. John Buyers, chair of the AI and Ethics panel and a partner at law firm Osborne Clark, points to the ..."
+    publishedDateTime: 2019-12-16T16:22:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say
+    ampUrl: https://www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say?amp=1
     type: article
     provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 75
     images:
-      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
+      - url: https://www.bing.com/th?id=ON.3F66B2689EC2788F048943268DD2A8E5
         width: 700
-        height: 466
-  - title: "CORRECTED-Western, Chinese consumers divided on electric, self-driving cars -survey"
-    excerpt: "(Corrects name to \"OC&C Consultants\" from \"OC&C Consulting\" in second paragraph) By Tina Bellon Dec 5 (Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/western-chinese-consumers-divided-electric-110000422.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110000422.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110000422.html
+        height: 233
+  - title: "Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger"
+    excerpt: "(Washington, D.C.) Fighter jets will control attack drones from the cockpit, bombers will avert air defenses and real-time intelligence data will be available to attacking forces more quickly -- all due to new iterations of fast-evolving Artificial Intelligence technologies. Faster computer processors, AI-infused algorithms able to merge or ..."
+    publishedDateTime: 2019-12-14T19:30:00Z
+    sourceUrl: https://news.yahoo.com/artificial-intelligence-going-americas-f-193000508.html
+    ampUrl: https://news.yahoo.com/amphtml/artificial-intelligence-going-americas-f-193000508.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/artificial-intelligence-going-americas-f-193000508.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 38
+    quality: 54
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-06T10:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
+      - url: https://www.bing.com/th?id=ON.D8EB78CDAB26273E5699B19237716B3C
+        width: 700
+        height: 560
+  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
+    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
+    publishedDateTime: 2019-12-11T14:44:00Z
+    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.E248EDABDEB196AC217A8CF3C64CC034
+      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
+        width: 200
+        height: 124
+  - title: "Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger"
+    excerpt: "(Washington, D.C.) Fighter jets will control attack drones from the cockpit, bombers will avert air defenses and real-time intelligence data will be available to attacking forces more quickly -- all due to new iterations of fast-evolving Artificial Intelligence technologies. Faster computer processors, AI-infused algorithms able to merge or ..."
+    publishedDateTime: 2019-12-15T00:50:00Z
+    sourceUrl: https://nationalinterest.org/blog/buzz/artificial-intelligence-going-make-americas-f-35-and-b-2-even-stronger-104967
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.BAF16C112AB552E889C1A7A86DCEF4A1
         width: 700
-        height: 525
+        height: 560
+  - title: "Tip: Seven recommendations for introducing artificial intelligence to your newsroom"
+    excerpt: "Artificial intelligence is now commonly used in journalism for anything from combing through large datasets to writing stories. To help you prepare for the future, the Journalism AI team at Polis, London School of Economics and Political Science (LSE), put together a training module seven things to consider before adopting AI in your news ..."
+    publishedDateTime: 2019-12-16T17:43:00Z
+    sourceUrl: https://www.journalism.co.uk/tip-of-the-day/tip-seven-recommendations-for-introducing-artificial-intelligence-to-your-newsroom/s419/a748911/
+    type: article
+    provider:
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.C7F7A0A60E733AC20199FF419CE7087E
+        width: 620
+        height: 413
+  - title: "Artificial Intelligence and how it applies to outbound sales"
+    excerpt: "While artificial intelligence is being used by retailers like Amazon to target prospects ... I believe I know enough about sales and marketing in general to provide credible input to make more domain sales to the real estate industry, the healthcare industry, and the food/restaurant industries. Final questions...what, if anything do you ..."
+    publishedDateTime: 2019-12-16T10:06:00Z
+    sourceUrl: https://www.namepros.com/threads/artificial-intelligence-and-how-it-applies-to-outbound-sales.1168396/
+    type: article
+    provider:
+      name: NamePros
+      domain: namepros.com
+    quality: 19
+  - title: "A Breakthrough in Artificial Intelligence Technology in Trial for Detecting Polyps"
+    excerpt: "The clinical trial is using Artificial Intelligence (AI) specifically designed for the colon to assist ... as well as for identifying existing colorectal cancers early - which can improve survival. AMSURG, an Envision Healthcare Solution and partner with Raleigh Endoscopy Center, performs nearly 1 million colonoscopies a year and is committed ..."
+    publishedDateTime: 2019-12-10T05:41:00Z
+    sourceUrl: https://www.medindia.net/health-press-release/A-Breakthrough-in-Artificial-Intelligence-Technology-in-Trial-for-Detecting-Polyps-443162-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 13
+  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
+    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
+    publishedDateTime: 2019-12-11T18:34:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
 
 secured: "ardpB+xutvIjBEwqlolTeuegCzAyasRn95eaOSc+a7OZVcfmIvBa4Z7lX8ms7TcjhbKRSxaClJEdc6fkx2w+AL40HpYFRd/v2pn2idhSV91mdenX5AbZQdyLF7hdlXdQpkNMaKvlI+kJisZLOksh9Fxj24/vwSKXJ8MD/k0cTzgZB4fedpKJs/oYHMQpB899h2j+FftJwHNC07fsOLUAynB5KxK7p57diRTisLHM59CPdK0lSfGGsLfWyWhvt0yRUaSQaDHgFFbqgXUMQofm4A==;abNBNBLSFySsxkU/H5ILdw=="
 ---

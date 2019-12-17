@@ -8,7 +8,7 @@ ampUrl: https://www.itproportal.com/amp/features/artificial-intelligence-promise
 cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-promise-vs-reality-in-energy-tech-an-oilfield-perspective/
 type: article
 quality: 53
-heat: 73
+heat: 63
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
         width: 600
         height: 315
-  - title: "A Breakthrough in Artificial Intelligence Technology in Trial for Detecting Polyps"
-    excerpt: "The clinical trial is using Artificial Intelligence (AI) specifically designed for the colon to assist ... as well as for identifying existing colorectal cancers early - which can improve survival. AMSURG, an Envision Healthcare Solution and partner with Raleigh Endoscopy Center, performs nearly 1 million colonoscopies a year and is committed ..."
-    publishedDateTime: 2019-12-10T05:41:00Z
-    sourceUrl: https://www.medindia.net/health-press-release/A-Breakthrough-in-Artificial-Intelligence-Technology-in-Trial-for-Detecting-Polyps-443162-1.htm
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 13
 
 secured: "H7zwwPq21kKCZBF/zv2MKYZOWzXPvkNqjd6d3BaQhM5GGdiyZEDihoAY9f9KJW/aqL+5CMwTGih3IMcYTLbDYexXKMDqU1xZ9mVWGqq1BvfDOjsDQnym/Q3V7QcDJWqIsxlYYNJbHETKKRWmPElag2uQgut3tGtwa5nZbs7UJCl1yWqvulS6Ces66n5+4Bhe8brm+mnh4IDqR8WC7nzCoKguCr2KTWhRiJQ3QE0Ba0G8AmG6S3KGa4QFiBmNVzlhQbimNgHoe6KREmiKlBEaqw==;xnBXpDo6kW8auFsFDNoVNw=="
 ---
