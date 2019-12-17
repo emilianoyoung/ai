@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-p
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
 type: article
 quality: 68
-heat: 88
+heat: 89
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         width: 700
         height: 493
 
-secured: "2xRVQL6PzBSUmRq+9fX6e7c0pNkoLJ5fjtbU4G4Uq4myQZpr13w93VIQtOELlLMTTolfV+w/XVfxoOTJxhnfFCFrcAOlnOvbBPMcBTep17mTulXFnJgkHSzXNRMC97msF5qEXr8Z++e55W9pzZLQIZK2IPNBVwzsEcXkNxY0hear8wfZZwxbsflffvXo0hyBYxs88flRmTsi6XBfmbOf8vNplKxMblXnZaNgFmeMCN1Wj3LnGeeW+VhfzC6zWhPBFRu4YJWOvjLilpWR4iXbMg==;6voTwX01cq6LS6JupF29Xg=="
+secured: "z3vdNbQ71jeMcdRAUdraNfXqWW6Nx6f2DHAfwLI/eCQX0FL2s0+KgK4A5kWJEObT6l2WBc4jOmZoIcujpJfLCg0HAluFO+pw2DzlLv4jo11fCu6fJ2vGGdqqPu/7Lx5w9DJDf86CpwGmFFnaVlVo0EV2yJNY8zh81CznUiyvf5XHWPNzdt/SgxeMsTagC856vAH31LRPG9o9FwZ3QeK4bZLXI9oOBQhf/S614LVIV9jjz+uSh4QwueFK3SSDnczMe6t+I4/wDm7xEKIJsSCwiA==;Iz8hHh+w2Ph/Z2aHTDY0Rw=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/10-mobility-predictions-
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "IBM Research AI Predictions for 2020"
+    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
+    publishedDateTime: 2019-12-17T17:08:00Z
+    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 41
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
+        width: 1010
+        height: 1003
   - title: "KYOCERA to Showcase AI, 5G, and Mobility Technologies at CES 2020"
     excerpt: "Many innovations will be shown in the U.S. for the first time including new AI and camera-LIDAR fusion sensors for ADAS and autonomous driving; a rugged 5G smartphone, router, and tablet; a smart carbohydrate monitoring system; clean energy innovations, and more. Kyocera’s booth will be located in the AI & Robotics marketplace, Las Vegas ..."
     publishedDateTime: 2019-12-10T16:29:00Z

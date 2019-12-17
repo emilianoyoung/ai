@@ -18,19 +18,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Maximizing the digital workplace with new technologies and techniques"
-    excerpt: "Discovering the value in corporate knowledge is amplified by new technologies, such as text analytics, cognitive search, machine learning, natural language processing, mobile email management, and new policy efforts. The road to cognitive computing is ..."
-    publishedDateTime: 2019-12-04T19:42:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135593
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 24
-    images:
-      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
-        width: 772
-        height: 594
   - title: "BrainChip and Tata Consultancy Services (TCS) jointly Present a Demonstration Featuring Its Akida Neuromorphic Technology Platform at NeurIPS 2019"
     excerpt: "This will showcase the fast and lightweight unsupervised live learning capability of the spiking neural network (SNN) and the Akida neuromorphic chip ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable."
     publishedDateTime: 2019-12-05T00:05:00Z

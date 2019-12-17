@@ -28,58 +28,54 @@ images:
     title: "Telecom Innovation | Microsoft Industry"
 
 related:
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-05T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/aegean-airlines-selects-ibm-to-deliver-innovative-customer-experiences-2019-12-05
+  - title: "The Power Of Purpose: How Saqib Shaikh And Microsoft Are Turning Disability Into An Engine For Innovation (Part 2)"
+    excerpt: "“Computer vision is a broad field and a lot of these technologies that our scientists work on are put it into Microsoft Cognitive services, which any customer can put into whichever business they're in to solve their particular problems. Sometimes they use the term “democratizing AI.” So that could be detecting faults on an assembly line ..."
+    publishedDateTime: 2019-12-03T16:23:00Z
+    sourceUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/
+    ampUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
+      - url: https://www.bing.com/th?id=ON.AA3ECC92B8D0344CD67EE38DFBFD0FA3
+        width: 600
+        height: 315
+  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
+    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
+    publishedDateTime: 2019-12-03T13:11:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
+        width: 300
+        height: 300
+  - title: "GBT Technologies’ AI Engine to Improve Microchip Production and Create Expert Smart Apps"
+    excerpt: "and GBT is implementing its AI engine with its work on EDA technology to create IC analysis software. GBT says this software will analyze microchips during their design process to ensure the ultimate reliability, optimal power consumption and fast performance, creating clean-by-construction chips. Salomon Ocon says, “When it comes to ..."
+    publishedDateTime: 2019-12-04T00:10:00Z
+    sourceUrl: https://finance.yahoo.com/news/gbt-technologies-ai-engine-improve-140010607.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/gbt-technologies-ai-engine-improve-140010607.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/gbt-technologies-ai-engine-improve-140010607.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
-  - title: "IBM LivePerson AI Customer Service Chatbot Seems a Bit Too Impersonal to Me"
-    excerpt: "IBM also recently announced enhancements to its Watson ... There’s a growing opportunity to deliver that white-glove customer experience by integrating AI to create a personalized touch.” Watson Assistant’s new features “are designed to provide ..."
-    publishedDateTime: 2019-12-11T19:59:00Z
-    sourceUrl: https://www.commercialintegrator.com/business_resources/operations/ibm-liveperson-ai-customer-service/
+    quality: 45
+  - title: "Microsoft Tactical Vehicle Takes Center Stage at NSWC Dahlgren Innovation Day"
+    excerpt: "Microsoft experts discussed their technologies, including DevOps, artificial intelligence, machine learning, as well as Azure and computing at the tactical edge. Mark Bolz – principal engineering architect for Microsoft’s Azure Data – explained Azure in his Dahlgren Innovation keynote speech, entitled, “Adaptive and Aligned systems ..."
+    publishedDateTime: 2019-12-03T20:30:00Z
+    sourceUrl: https://www.navy.mil/submit/display.asp?story_id=111579
     type: article
     provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.B2B604594CC8A87A7B6DCB5C12ACE5E2
-        width: 700
-        height: 345
-  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-    excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
-    publishedDateTime: 2019-12-01T13:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
-    ampUrl: https://amp.benzinga.com/amp/content/14908555
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14908555
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: United States Navy
+      domain: navy.mil
+    quality: 16
 
 secured: "Y3+N1igBbSxorGcnxi5lJvkJW6k9jRsUJpUlNbpKhNBdHnDPxUGZd+eIEsaRizbfCQ/gI0EC/F0/GN8hnxWWIi5uqErhGesCgwfKT7iLBJZEyIVkWXgqZBntq0B2a9+kdSsg7cdQhNMUi4JklKO2gqJjmhF7uNmTYXAloMtmVPQZQorapRqluzHg9vsqPJjCIHCSnNu2wLcFwePbkU61IJJi9Wla8udyOmAlOpCxjl6bDImkzykHOHb5STTPo70QPdQ81ds00+J8AdyRCSqznw==;j+2WsFeqd+8q2VlgjDygfw=="
 ---

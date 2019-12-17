@@ -8,7 +8,7 @@ ampUrl: https://amp.smh.com.au/business/small-business/microsoft-tech-expert-war
 cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/business/small-business/microsoft-tech-expert-warns-of-bias-and-sexism-in-artificial-intelligence-20191209-p53i8r.html
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9F1D63DEE25CB0A15DEF72A83860660C
         width: 660
         height: 307
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
 
 secured: "mebDRWckOQHbz0K5Hmu8fpTUq5wRTdbiRYZSx2lLid4fl4oWlmVBxlp6nVMIg5o8L/cM/gCUBqydxk9Ue9Xgf1w9VYweguyPJBKFkOwLlp7EnwUFZ6E8zMD+tXWKk7wwvKw8vGpp4by4G41C8beuZrRrKvWTXQQtEMfyji+h93IVCVmFPt2UHKeYCPaYZfJgBt8AigsxJpIEQED+ZQNqVo5kfxJCt00liXPV2VjRI1xY5ui7zhucxYDaNg2k7kD/0INOALB19LvEe7d9XYsv7Q==;fT0r85tJik0q7BWn/Ld5CA=="
 ---

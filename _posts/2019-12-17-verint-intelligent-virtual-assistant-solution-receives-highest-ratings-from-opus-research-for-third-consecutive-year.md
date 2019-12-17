@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
-excerpt: "The report is the most comprehensive assessment of today's leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint's Intelligent Virtual Assistant ™ solutions, part of its self-service cloud, surpassed other ..."
-publishedDateTime: 2019-12-17T13:43:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-verint-intelligent-virtual-assistant-solution-receives-highest-ratings-/2019/12/17/9070845.htm
+excerpt: "The report is the most comprehensive assessment of today's leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant ™ solutions, part of its self-service cloud, surpassed other ..."
+publishedDateTime: 2019-12-17T14:54:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191217005208/en/Verint-Intelligent-Virtual-Assistant-Solution-Receives-Highest
 type: article
-quality: 0
-heat: 0
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Natural Language Processing
 
-secured: "HWCfpcs4DdRpGZm8F93u/ZFzG9ApTYoEpvBKiUwiFHsOtLqlAdUPCuuIQRdeKI23fCGROc8UXrWPT1Wn0yArKkbq4M9aB2Nlk4aNOUiumeR68Av+6l5LvE2jWahR/0nQ9zuQymYKXKuBwRnxm9xW6EI7tOgIBA5KptFUNvD5q6lqmra3Aim0M6NQ7J+16JDTz+6a2/7nnDFxd5Cr+y21Q4J3yQspeADQoIpmYRgo5yDwCfcsKPaMVlM0k/NRPknS0ide2+YFNr+1VPHvF36fdg==;ST+48xYGi9b9+OO+9RR8Dw=="
+images:
+  - url: https://mms.businesswire.com/media/20191217005208/en/638510/23/Verint_Logo_Blue_RGB_High-Res.jpg
+    width: 1200
+    height: 627
+    title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
+
+secured: "hoCGP5zVUgQJsmPEohbVaC0f73/2g04S1GK5QXRTJpCas3QXf7W73mE3JsRtS7PxjwlcgXCdXIlS0GBTdbWFdoyHnRZa7NtpjadvZcVZVd5ePFgrUj4hxbqJLZ+0yN0yaEUfK/RjYQAJAboYieexdcEbsI/PauMvQPYhyfir8PMSbUuh+WfsqY48UJrHoyw+TFUi0aggmiUt25BZ/4SZKQ9Kc2jiSglb0rxhA2mpqxQA7kULj2KYKtuixOy38jyVSLxHmm7Bca8mAB0NcvV+Og==;rPqgobjixkkvB2VKemJnyg=="
 ---
 

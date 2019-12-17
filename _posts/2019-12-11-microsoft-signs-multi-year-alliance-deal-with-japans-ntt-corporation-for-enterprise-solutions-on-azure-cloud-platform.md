@@ -63,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
         width: 700
         height: 365
+  - title: "Microsoft and CCN-CERT take a giant step in securing cloud environments aimed at Spanish Public Government agencies"
+    excerpt: "Microsoft Cognitive Services, Microsoft Exchange Online, Microsoft SharePoint Online, Microsoft Kubernetes and Microsoft Azure SQL. The ease and immediacy with which Microsoft’s cloud services can be made available in the configuration officially considered by the Cryptologic Center as HIGH Level, according to the criteria established in the ..."
+    publishedDateTime: 2019-12-12T11:03:00Z
+    sourceUrl: https://news.microsoft.com/es-es/2019/12/12/microsoft-and-ccn-cert-take-a-giant-step-in-securing-cloud-environments-aimed-at-spanish-public-government-agencies/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.3659594A369EDE81FE2F83933C8DB639
+        width: 700
+        height: 394
 
 secured: "TzcnNyAwnMHZw+NYJA1CxUnxF5lqJ1N8sAme8FGTM+QQV8dAO1nNQN5IQY7iezeAReGpoaee7SjS6uMD5cGk+79iTWRXNT2pySH6iqY2nZS0HenRXX6y1UqoR1kDDY8+IaW3hKQP4aNjLOXQyAdtsQepiMb4JzBkSwJuOGf6MNGfsBOkkF1o/OsaWPMvfqhxaqdCKnAXU8QmOE0jthPSS25eaeSbb30ayl5nANXRCk012As5z2rZhSlQJKBm6gAwstZ0vRaasYo1VDLw5qSiCg==;23GuKLKDs8Qf68EWbx/uwQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/alonzomartinez/2019/12/05/considering-ai-in
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alonzomartinez/2019/12/05/considering-ai-in-hiring-as-its-use-grows-so-do-the-legal-implications-for-employers/amp/
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
+  - title: "New Artificial Intelligence and Machine Learning Platform for Reconciliation, Matching and Exception Management Operations Introduced by Broadridge"
+    excerpt: "Improving the Process and Experience The machine learning ... Financial Solutions, Inc. (NYSE: BR), a $4 billion global Fintech leader, is a leading provider of investor communications and technology-driven solutions to banks, broker-dealers, asset and wealth managers and corporate issuers. Broadridge's infrastructure underpins proxy voting ..."
+    publishedDateTime: 2019-12-03T06:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/new-artificial-intelligence-and-machine-learning-platform-for-reconciliation-matching-and-exception-management-operations-introduced-by-broadridge-1028732039
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "1q+u0xDlxTKXuSAWxdKvO9GNdUmO3BBg2723GNlhhgEuzPoER8xo4j6JiQTw/VyyMSYaIuCZdZEpdaV7F/h2/3F74x2tj4SzkDB3Feyd8SwaxyQMytSWc3vWB+4uiQHzfj7MXoYD2ODjVGHWubSqx0fKYhiPMH+Rb3HOQ5xpAZmasUq1Lmeh0eR142nUjEPSYQJvVI1KV7rwRJHPwcSNfi2P8rQtSyTdK7yk79Jl1wGRR6NPj0iNGH6/3Htg8u4SsjkvjRE/vpRyTjTeDQjq0g==;XlyKbQDSHK8rmBWuRmcfog=="
 ---

@@ -18,19 +18,19 @@ topics:
   - Computer Vision
 
 related:
-  - title: "In-Cab Monitoring Uses Machine Vision to Detect Fatigued, Distracted Driving"
-    excerpt: "(Bison Transport) Seeing Machines’ driver processor employs computer vision algorithms to assess the drivers’ visual attention to their environment, assess their degree of drowsiness and, ultimately, determine the threshold of risk. In-cabin sensors monitor the driver’s level of fatigue and distraction in real time based on factors such ..."
-    publishedDateTime: 2019-12-06T14:15:00Z
-    sourceUrl: https://www.ttnews.com/articles/cab-monitoring-uses-machine-vision-detect-fatigued-distracted-driving
+  - title: "Netradyne Launches Driveri® Artificial Intelligence Vision-Based Safety Solution on the Geotab Marketplace"
+    excerpt: "SAN DIEGO, Dec. 4, 2019 /PRNewswire/ -- Netradyne, a leader in artificial intelligence technology focusing on driver and fleet safety, today announced the availability of the Driveri ® vision-based driver recognition safety program on the Geotab Marketplace, a growing portfolio of mobile apps, software Add-Ins and hardware Add-Ons that ..."
+    publishedDateTime: 2019-12-04T16:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/netradyne-launches-driveri-artificial-intelligence-vision-based-safety-solution-on-the-geotab-marketplace-300969050.html
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
     images:
-      - url: https://www.bing.com/th?id=ON.03A830555C5934E2D0B0CBDD1E3BF907
-        width: 470
-        height: 246
+      - url: https://www.bing.com/th?id=ON.1F48CE18FE27491BB2DDC873C4AE3C69
+        width: 700
+        height: 366
 
 secured: "a6eu8vmKnOg3H6VxeSG4EsL9vuxAXGF95V2wt7NITKG6nG3KCWHUtE3W8npgSI53LNTjTxlG7C0ZIKE+4CZZQ8u+zNjB/tNZUF+EAbYvRd+E2QKdLJ6QxdpXTFQldibwuppW2YjEuH7YcofGVpjqrX1a3UMOPVBHDPiYcuQ8ZCCgVBPEbCIkvReDOz+CLFF6l7kcdFg5cF2JruLWyo0hadjBeES3wBRQUYFulKWBOtuCLF+wwPCqM1y2ttOa+EQj4ceRqPfZcBqOh3ZVrHBz+A==;MvwJMMNoYQ9vnA/S9LvI6g=="
 ---

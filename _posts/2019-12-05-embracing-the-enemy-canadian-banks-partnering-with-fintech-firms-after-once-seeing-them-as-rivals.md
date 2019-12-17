@@ -26,6 +26,21 @@ images:
     title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
 
 related:
+  - title: "Regtech: Transforming The Fintech Landscape"
+    excerpt: "from AI to the Internet of Things, and it’s not surprising that we are seeing the regulatory technology (RegTech) space advancing at an exponential rate. Everything from facial recognition technology to NFC passport chip reading is aiding FinTech businesses in their quest for compliance, bolstered by the added security that assets like cloud ..."
+    publishedDateTime: 2019-12-06T01:55:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    ampUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
+        width: 700
+        height: 466
   - title: "Qatar Central Bank’s Governor Reveals Country is Developing Nationwide Fintech Strategy for Banking Sector"
     excerpt: "Qatar’s Fintech strategy is being created in cooperation with local ... quickly and heading towards a new historical turning point. Artificial intelligence (AI) and blockchain have the potential to fundamentally transform the financial industry, Saoud ..."
     publishedDateTime: 2019-12-11T04:55:00Z

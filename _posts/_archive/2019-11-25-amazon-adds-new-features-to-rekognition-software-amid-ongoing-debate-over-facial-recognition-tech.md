@@ -71,7 +71,18 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
+  - title: "Amazon Rekognition Custom Labels"
+    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
+    publishedDateTime: 2019-11-26T03:02:00Z
+    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
+    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    type: article
+    provider:
+      name: pymnts
+      domain: pymnts.com
+    quality: 39
 
-secured: "uUynr8yXZXKvxWi5QwySsvE++Bw/8VJz5/3LcYiVG0fYhHXj4CdhBzQJa6kupsMDbSLKjlkrt5rAHoRTxPTX0DhRTMJGi3Z8F0npEu1ROXymnNzMnGUWHvVbQOyrMX2+mWMvIZA398bgd8PgJi6p/2D/BXDElU5iT0Kp5Z0sEvOysacl6yNAeGiFXHcSf0i2ypAU9GJ40AN/Xd+U8tQKPBgV9tKNgP72XjVobqCRnLENsB4bBR86jRh77+MFG5jGjnEooA4Ek7iAskLE5RkszQ==;bN5fxShAqruoj/O0IPKo6g=="
+secured: "Eo4NGzLqQXYrcGccXnZjKT3Z2H8AVj+AJcNHO+VeVYll/xuz/7t+3JoBQplwind4MZqMZC/+is5CQ71NazyzoDKdaO9s3kNBPj6cdZJc8Tieo0a+8oe9rzz028TQpp2LyorQwqucOFTKJpoMbWpDlGcblJLqr09cxvrJvjW/1Dx7j7ADllg458txgfWYg90sQIZ6RXJqfWbyr4so6dRXhOPIctHLPuxV2/L1dgm7dU3pHTqZkZ1Dxl+c2XbUj6ixpw3FFEBsyKPPpuXfDOQXNw==;Rx+uBRIVZdo/VoqxVXeCXg=="
 ---
 

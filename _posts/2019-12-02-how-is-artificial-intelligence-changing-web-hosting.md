@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9E5C80EA5A490EF0EEBB742E34C5778B
         width: 700
         height: 366
-  - title: "Digital health interventions: Predicting individual success using machine learning"
-    excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
-    publishedDateTime: 2019-12-04T14:20:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.html
-    ampUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.63183DB0F4514DFE4F5E973D21C9858B
-        width: 700
-        height: 350
   - title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
     excerpt: "Alongside this, with the availability of advanced machine learning/artificial intelligence-led tools ... the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA); is demanding demonstrable operational resilience of every conceivable aspect of business across firms’ operation. This is in addition to the abundance ..."
     publishedDateTime: 2019-12-03T09:35:00Z

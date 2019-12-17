@@ -50,9 +50,22 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
+  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
+    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
+    publishedDateTime: 2019-11-25T18:50:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
+        width: 671
+        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
-    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch, which requires specialized machine learning expertise and millions of high-quality labeled ..."
-    publishedDateTime: 2019-11-26T16:37:00Z
+    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
+    publishedDateTime: 2019-11-26T16:35:00Z
     sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
     type: article
     provider:
@@ -60,10 +73,10 @@ related:
       domain: sdtimes.com
     quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.E687F96B53629E961E30AE533918307C
+      - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
 
-secured: "CrN8YZA2YLHzlbTZrJyo/VZXnIMuBFy2GQyFuzE/X3nBW1S4JLJWHQgtgAx8O4XtguuMxYBzsPfXECf64g9rSg6bAjJUP/LRJxJpDEDMRgJbpcCuxtD4KalkGN3w4LTo9hu8ginkQqQNwB69ckTjB1vvBrvFgwiAf71kBVEY8AgPfkjeK4bJXRrrPyvytnkZoX+FPQWSaqcf5Ig34cqn5w2EtGVDJfm1eiaH4USsMVdd7Da+NhSKch8IV7FqijOFirXzCCsWoWuDvPDcwmGvaw==;k5ltNouJt5AAC8jYHKpRFA=="
+secured: "tTQEHooJTq6jP4SRp2au/MibqtMwBGOJiBtf6XkvWwE7XL6VHuPX5GkSuLD1GyMNba9xrNn5AkX0y+TSHTd4pkKZHif69nhaZQYFm3AuiIor2q7E8JaUWgSRIkm6W8NPQzI5H3Qwff8tOY4T0fYf7tQEZBL8zfcjzjPa9Gq4sSeXLNgreb/x5/D9OinLt+gjhW8sPUca5gF/2U017rwgJsY+xVV8GRoe4QvcZIZKhgkCkV30azv3VVUW20NkW18/wqGvI2IDxY26G897HdNWiA==;EBTaYwulTJdX3+12XOyWVg=="
 ---
 

@@ -38,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5A257805B4F38CE66066F1BC2AEB5442
         width: 700
         height: 525
+  - title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
+    excerpt: "Machine translation engines are a good tool, but they are unable to break down language barriers. In the development of machine translation, the next step is to improve the translation of audiovisual material. Many of us are familiar with Google Translate, translation applications for travellers’ smartphones and the instruction manuals of ..."
+    publishedDateTime: 2019-12-02T08:55:00Z
+    sourceUrl: https://www.helsinki.fi/en/news/language-culture/machine-translation-no-match-for-humans-machines-translate-words-humans-the-underlying-message
+    type: article
+    provider:
+      name: Helsinki
+      domain: helsinki.fi
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.96A941A359B3A63A671F1147FE486BF6
+        width: 700
+        height: 367
   - title: "AWS Announces Strategic Collaboration with Novartis to Accelerate Digital Transformation of Its Business Operations"
     excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
     publishedDateTime: 2019-12-04T14:53:00Z

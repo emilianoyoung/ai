@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Finland offers crash course in artificial intelligence to EU"
-excerpt: "HELSINKI — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
-publishedDateTime: 2019-12-17T15:48:00Z
-sourceUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html
-ampUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
-cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+publishedDateTime: 2019-12-17T14:46:00Z
+sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
+    width: 700
+    height: 393
+    title: "Finland offers crash course in artificial intelligence to EU"
 
 related:
   - title: "Finland seeks to teach 1% of Europeans basics on artificial intelligence"
@@ -48,6 +54,6 @@ related:
         width: 1200
         height: 630
 
-secured: "3VY4B0dzsHn2IywTT4M+El5NL8MNaWzpMLKFglYt6xJQ2lAcq/ebgMwaik92S1h+75TXVMNUdgiJeqbegfAc09ZbekuJIV8peC/S8gDZ/Z+21eiOhGGNfiOCrKJGM2gtfMWpOzutaW/wIVN9G5KMNioa6YlhvMPbESgolQ/McHbFVpuq6oVOe1N3TN2o+lgirgJCOlnvL6YgyeqfodKd3cPRaLcUCc9W+r0M5duIxeflEBeM4AdTh1ZZUmQqxaC4ZLp3l0MaWT9Vvim+rMD7bw==;OFWpmWCNxnGvvBqvDj9ccQ=="
+secured: "qFoxGscG4qX4aYUcUn2GYtvXe/C25SZATJ6I7ey59FKdbo82vr8UNZl3aY7geDEuc6O6xBbT8TY7IYKP1TEh1l+yofnYHZ9Np/n+hCNidQ5+wGg3g/NLcpHqiEJUynHNJJZeY3QDeAXUwnzZoqalETDMByu+zcDFCIe7Ye8t+9uzyULkAvHZdquG4Km7Cj+Zp/UxCHpn+s6WcANk4sogycvhKBPoIwPZEnKKyoptRwbjidpg3KL+fDQaXdVysqZGKmmyAJ6/WuOcdhpjaTd1zA==;KXqyl3sei0XvNn7SQtsM9Q=="
 ---
 

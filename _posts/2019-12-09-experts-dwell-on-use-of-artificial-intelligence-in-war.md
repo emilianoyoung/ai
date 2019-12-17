@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DF598861B0557A1D9C49B0F7414CECD4
         width: 700
         height: 393
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
 
 secured: "yVVvZG5az6TLmW58/dTwJ2vcyR0rlma7jpbMSesugNVcpu6VSbTYf5WzFQRs71nJ48gN+52rUF58iTuof0zKLdT0Xxhhc1dB6UalDBeR3VHd/rHFnE6fuPmVmOyEhi1or9p9/GYSpwhYIVXBCfaU8WA6NOc3jMVcC7VSThAqMsndQ0aedJtDu5OB0qx9COujpHWPoJl9T6SFytDYiqQ+oavLcEP87B/mvmIZi7IAwnKsR8cKBXOJwzcE1zXfKECaHKSOXksVd61JnFTrgiF5nw==;7gmDk4RBMU8atYtpFnhMxA=="
 ---

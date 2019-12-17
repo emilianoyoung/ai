@@ -38,6 +38,15 @@ related:
       - url: https://www.bing.com/th?id=ON.068B466332EB542B74CAB2653C023D8B
         width: 600
         height: 315
+  - title: "New Artificial Intelligence and Machine Learning Platform for Reconciliation, Matching and Exception Management Operations Introduced by Broadridge"
+    excerpt: "Improving the Process and Experience The machine learning ... Financial Solutions, Inc. (NYSE: BR), a $4 billion global Fintech leader, is a leading provider of investor communications and technology-driven solutions to banks, broker-dealers, asset and wealth managers and corporate issuers. Broadridge's infrastructure underpins proxy voting ..."
+    publishedDateTime: 2019-12-03T06:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/new-artificial-intelligence-and-machine-learning-platform-for-reconciliation-matching-and-exception-management-operations-introduced-by-broadridge-1028732039
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "JD4SUVjOERuD8v6mgKQWicIY7oisTN0Gt4+KnzSlkyeGVbjfu9BpS4N91tD8y7GajwMyN72TWKkDa4o9azyZUNol1qITmt0Ovp5+HeJGfy5HaP62yYG2i7TePw96zdA+QncV0fpEs6XsIORyCveuQYjyp3LaY+fAuMgi2AT/AV11CWzFqQtIXsdtXut1jae9gW3G8Irc+X9JW/auQbrlavc0vDZywcY4g/vvox91Hn/pltfe+DINlWAREXNDPeb1kyRH6ic77EUq2DeHkLpFLg==;ySlCG2dgkbYM/di3DSLakw=="
 ---

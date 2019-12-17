@@ -50,6 +50,19 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
+  - title: "Microsoft and CCN-CERT take a giant step in securing cloud environments aimed at Spanish Public Government agencies"
+    excerpt: "Microsoft Cognitive Services, Microsoft Exchange Online, Microsoft SharePoint Online, Microsoft Kubernetes and Microsoft Azure SQL. The ease and immediacy with which Microsoft’s cloud services can be made available in the configuration officially considered by the Cryptologic Center as HIGH Level, according to the criteria established in the ..."
+    publishedDateTime: 2019-12-12T11:03:00Z
+    sourceUrl: https://news.microsoft.com/es-es/2019/12/12/microsoft-and-ccn-cert-take-a-giant-step-in-securing-cloud-environments-aimed-at-spanish-public-government-agencies/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.3659594A369EDE81FE2F83933C8DB639
+        width: 700
+        height: 394
   - title: "Microsoft Signs Multi-Year Alliance Deal With Japan’s NTT Corporation For Enterprise Solutions On Azure Cloud Platform"
     excerpt: "While Microsoft will offer the trusted Azure cloud platform and AI expertise, NTT will bring its ICT infrastructure, managed services, and cybersecurity expertise. Incidentally, NTT confirmed that Microsoft Azure is its preferred cloud platform. This partnership should bring in multiple new innovations in the field of wireless communication ..."
     publishedDateTime: 2019-12-11T07:00:00Z

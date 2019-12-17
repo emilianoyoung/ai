@@ -270,6 +270,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F842CDAB45E1AA744A1F7AC85A3AD5E2
         width: 700
         height: 393
+  - title: "Intel Hedges Its AI Bets With Habana Labs Buy"
+    excerpt: "First a little historical context. Habana was one of the first AI chip startups to make its silicon available to datacenter customers. Goya, the inference chip, was released in January 2018, followed by Gaudi, the training processor, in June 2019. The Gaudi training chip is currently sampling with unnamed hyperscale customers. Goya is also ..."
+    publishedDateTime: 2019-12-17T17:34:00Z
+    sourceUrl: https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/
+    ampUrl: https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D5A8039508FDA88DED2E706254450A95
+        width: 326
+        height: 245
   - title: "Intel Beefs Up AI Portfolio With $2B Purchase Of Israeli Startup Habana Labs"
     excerpt: "Intel said it expects the purchase to strengthen its AI portfolio and accelerate its efforts to capitalize on the fast-growing AI chip market, which it estimates will exceed $25 billion by 2024. \"More specifically, Habana turbo-charges our AI offerings for the data center with a high-performance training processor family and a standards-based ..."
     publishedDateTime: 2019-12-16T20:51:00Z

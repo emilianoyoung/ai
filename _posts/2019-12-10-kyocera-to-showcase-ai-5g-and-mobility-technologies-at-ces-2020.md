@@ -47,6 +47,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "IBM Research AI Predictions for 2020"
+    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
+    publishedDateTime: 2019-12-17T17:08:00Z
+    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 41
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
+        width: 1010
+        height: 1003
   - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
     excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
     publishedDateTime: 2019-12-13T00:24:00Z

@@ -24,21 +24,6 @@ images:
     title: "In the new bot economy, cloud robotics and AI transform work and society in far-reaching ways"
 
 related:
-  - title: "The Masakhane project wants machine translation and AI to transform Africa"
-    excerpt: "This can stand in the way of communication as well as commerce, and earlier this year such concerns led to the creation of the Masakhane open source project, an effort being undertaken by African technologists to translate African languages using neural machine translation. Kathleen Siminyu is a member of the Luhya tribe in Kenya. Although ..."
-    publishedDateTime: 2019-11-27T16:15:00Z
-    sourceUrl: https://venturebeat.com/2019/11/27/the-masakhane-project-wants-machine-translation-and-ai-to-transform-africa/
-    ampUrl: https://venturebeat.com/2019/11/27/the-masakhane-project-wants-machine-translation-and-ai-to-transform-africa/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/27/the-masakhane-project-wants-machine-translation-and-ai-to-transform-africa/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.73A3916F1EB36538BF5C081500B9AC0B
-        width: 700
-        height: 414
   - title: "The Surprising Way Artificial Intelligence Is Transforming Transportation"
     excerpt: "To achieve full autonomy, the onboard computers on self-driving cars need to make use of cameras and radar sensors to generate a 3D view of the vehicle’s surroundings. One of the challenges to this lies in getting the information needed to make split-second decisions in real-time. Eventually, 5G and artificial intelligence will be leveraged ..."
     publishedDateTime: 2019-11-27T19:20:00Z
@@ -54,34 +39,36 @@ related:
       - url: https://www.bing.com/th?id=ON.9C85A769A224466CEB1B822EEDADD6FA
         width: 600
         height: 315
-  - title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
-    excerpt: "The global machine translation market is expected to post a CAGR of more than 19% during the period 2020-2024, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191202005413/en/ The expansion of ..."
-    publishedDateTime: 2019-12-03T00:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-2020-113000351.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
+  - title: "Five Ways Artificial Intelligence Could Transform The In-Room Hotel Experience"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Artificial intelligence (AI) is upending many industries and transforming everything around us. Self-driving cars, drones that deliver packages and AI assistants that provide instant and accurate responses to your questions would have been considered science fiction just a few years ago."
+    publishedDateTime: 2019-12-02T13:36:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/02/five-ways-artificial-intelligence-could-transform-the-in-room-hotel-experience/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/02/five-ways-artificial-intelligence-could-transform-the-in-room-hotel-experience/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/02/five-ways-artificial-intelligence-could-transform-the-in-room-hotel-experience/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: https://www.bing.com/th?id=ON.8828D0F89225C2C8A3DA0A1E9F83DBFF
-        width: 480
-        height: 270
-  - title: "BLEU Has Measured Machine Translation Quality Since 2002. It’s Fast Becoming Useless"
-    excerpt: "In the world of machine translation (MT), human evaluation remains the de facto gold standard for assessing translation quality. But for researchers and developers cycling through hundreds of MT system iterations, human evaluation is simply too slow and too expensive to use for each incremental tweak. The solution: automated metrics ..."
-    publishedDateTime: 2019-12-02T13:20:00Z
-    sourceUrl: https://slator.com/technology/bleu-has-measured-machine-translation-quality-since-2002-its-fast-becoming-useless/
+      - url: https://www.bing.com/th?id=ON.B27A160FB820C71E3C27F796BB17896F
+        width: 600
+        height: 315
+  - title: "Digital health interventions: Predicting individual success using machine learning"
+    excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
+    publishedDateTime: 2019-12-04T14:20:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.html
+    ampUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 32
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
-        width: 210
-        height: 297
+      - url: https://www.bing.com/th?id=ON.63183DB0F4514DFE4F5E973D21C9858B
+        width: 700
+        height: 350
   - title: "Straker Translations to provide AI-driven translations to US TV studio for Latin America markets"
     excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
     publishedDateTime: 2019-11-28T03:41:00Z
@@ -95,32 +82,45 @@ related:
       - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
         width: 600
         height: 300
-  - title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
-    excerpt: "Machine translation engines are a good tool, but they are unable to break down language barriers. In the development of machine translation, the next step is to improve the translation of audiovisual material. Many of us are familiar with Google Translate, translation applications for travellers’ smartphones and the instruction manuals of ..."
-    publishedDateTime: 2019-12-02T08:55:00Z
-    sourceUrl: https://www.helsinki.fi/en/news/language-culture/machine-translation-no-match-for-humans-machines-translate-words-humans-the-underlying-message
+  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
+    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
+    publishedDateTime: 2019-11-27T20:54:00Z
+    sourceUrl: https://www.chron.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
     type: article
     provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.96A941A359B3A63A671F1147FE486BF6
-        width: 700
-        height: 367
-  - title: "5 Tools To Help On Game Translation"
-    excerpt: "SmartCat has all features a translation tool must have: a glossary, translation memory, machine translation, automatic proofreading and spell check, terminology. This service takes care of your confidentially and allows limiting access to your files. Working as a team from various spots on the planet is a great advantage for freelancers."
-    publishedDateTime: 2019-12-03T16:08:00Z
-    sourceUrl: https://www.godisageek.com/2019/12/5-tools-to-help-on-game-translation/
-    type: article
-    provider:
-      name: Godis A Geek
-      domain: godisageek.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.2A8535D3A158E9BD29D9AC0050491FE0
-        width: 85
-        height: 85
+      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
+        width: 700
+        height: 700
+  - title: "What’s stalling the self-driving car revolution"
+    excerpt: "Clear analysis. Every weekday afternoon. For years, engineers have raced to program artificial intelligence to recognize the scenarios that human drivers understand implicitly — like the difference between a shadow, a puddle and a pothole. But their efforts to propel self-driving cars into the mainstream have sometimes had disastrous results ..."
+    publishedDateTime: 2019-11-27T17:34:00Z
+    sourceUrl: https://www.washingtonpost.com/podcasts/post-reports/whats-stalling-the-selfdriving-car-revolution/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20191127/t_1574868036478_name_AEWBHERSABEMXNM2YX3UHZRL6U.jpeg&amp;w=1484&amp;op=resize&amp;opt=1&amp;filter=antialias&amp;t=20170517
+        width: 1484
+        height: 834
+  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
+    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
+    publishedDateTime: 2019-11-28T04:38:00Z
+    sourceUrl: https://www.sfgate.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
+        width: 700
+        height: 700
   - title: "The 30-Second Trick for Medical Translation Company"
     excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
     publishedDateTime: 2019-12-03T09:14:00Z
@@ -134,15 +134,19 @@ related:
       - url: https://www.bing.com/th?id=ON.599495EC5362E26B6744D939D0ADCC81
         width: 307
         height: 217
-  - title: "New Artificial Intelligence and Machine Learning Platform for Reconciliation, Matching and Exception Management Operations Introduced by Broadridge"
-    excerpt: "Improving the Process and Experience The machine learning ... Financial Solutions, Inc. (NYSE: BR), a $4 billion global Fintech leader, is a leading provider of investor communications and technology-driven solutions to banks, broker-dealers, asset and wealth managers and corporate issuers. Broadridge's infrastructure underpins proxy voting ..."
-    publishedDateTime: 2019-12-03T06:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/new-artificial-intelligence-and-machine-learning-platform-for-reconciliation-matching-and-exception-management-operations-introduced-by-broadridge-1028732039
+  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
+    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
+    publishedDateTime: 2019-12-04T18:01:00Z
+    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 20
+    images:
+      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
+        width: 460
+        height: 460
   - title: "NICE Actimize Honored by Regulation Asia With Two Excellence Awards, Citing Innovation in Trade Surveillance, AI & Machine Learning"
     excerpt: "The AI & Machine Learning award recognizes technology firms that have successfully used artificial ... “Today’s regulations have created a state of constant change for financial services organizations, elevating the importance of effective compliance monitoring and trade-related surveillance technology,” said Bradley Maclean, Co-founder ..."
     publishedDateTime: 2019-11-28T00:06:00Z

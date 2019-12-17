@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
         width: 700
         height: 410
-  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
-    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
-    publishedDateTime: 2019-12-04T18:01:00Z
-    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 20
-    images:
-      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
-        width: 460
-        height: 460
   - title: "Data released about Providence self-driving shuttle service"
     excerpt: "PROVIDENCE, R.I. (AP) — A self-driving shuttle service has taken more than 25,000 trips during its first six months of operating in Rhode Island, according to the state Department of Transportation. The Boston Globe reports Wednesday that transportation officials released data for the first six months of Providence's “Little Roady” one-year pilot program, with an average of 146 free shuttle trips daily in November."
     publishedDateTime: 2019-12-04T20:13:01Z

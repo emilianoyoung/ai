@@ -22,6 +22,6 @@ images:
     height: 345
     title: "Artificial intelligence will affect Salt Lake, Ogden more than most areas in the nation, study shows"
 
-secured: "yzyxIm7j18+zF7nK1EFoTXiTPOSbc6WvBj5NZWLtlEPHJp7l12nvRvgDngMI9+F1NTwCoPKl1xeFwvyazQfIgcBFzM5rSPQe9X6CzaekDRCD66G2/QkzVblUtGTLc7KBKMxu4//H1RaOLyKV+WhndAk9OIusxesKFHFcZrZfVyhAln7+AH6yDDdZ57bDLYMu+5vvu1j/DsCcMAvN0JsV6CbTVFcNszTN8oBhktTNOWOUc9/MbBqtD3XH1nk7XHNa2st8qFtii6Lv2PaZNHM2ng==;i6p2Q7dVozngMlP345LLkw=="
+secured: "tFgCJytIIiYHjCcGQCsNNfir5TZgshZQnOZPP2IBajFIbrFBFaCZIq9TrNlXBfixozJz8ZgoAwVS4kQRQZmor4BOYcpqqseNfz/QxJTNeNMSX1cxcLoCtP9RiTZAHEsgDqhIATgNisiu09A5dKJ53tjOLWK3BzZHL27PQykzDmncer6mk8A3Epui+AjyEBd6mRO919TdaWBWtFI5QNoMPPJG/XAMqpA6zJDlOl5yPZ6d8SNMaptxBH311bTQ2rndGVEAp4fwgKvJPQHnEDS3Cg==;+Sq2FG0adiWDRFHDpz1mgQ=="
 ---
 

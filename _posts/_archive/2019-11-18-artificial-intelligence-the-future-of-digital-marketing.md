@@ -22,6 +22,6 @@ images:
     height: 537
     title: "Artificial Intelligence- The future of Digital Marketing"
 
-secured: "yGilAaXqMOozQXeiEwaL8sLrZZNlMfpgEmhvvQrGuiqtDFHHyQWa8EfMVttMCaNa0IsfaMB+f+gKE3kWARTh2AzS/wOldTX5TEMc6dCI6nQiviO0OGVB8TyGCaKTBHXyBChgj6bkYJ67dEB3zI2Mac7pcW1KqgWdHqiWx3AIN/0Ewpdu5Vof527qf1xZXmWvbhrGXU9K94VhNtPctzHAJq/KtgJ6IrUGgW5PDIcZmEFXHyarvU5378Umz7wPozH7bQA6BENjqIEZmGY6P+Py+A==;DizHsbaN5aj4cmqFosIxhQ=="
+secured: "h1ClfUIE0xY8FfEZVT6kI6uM9ULiEFwt9+APmBkf9+51L+iIkn2CMGpaIm1C13ajlwGeLPLtM1Fi06FnCoNhFp7q1oPvyIsQwezOlwANeVS2OOAjgp53UTZwkPQA/UpoioDJ54ZNYsfiURU+EHnyANKb0nzNxx1Ee1Mb9VAWqr6c/vy5ImKZ2hMWZufsgWOIv8ifpLUyNcsWqDKz2Xh+kDadiOKiM3uKcoV2jqimcjvu7JuWMitqtn5cXYnGTudMTFerSgx5UOt8uRkVsahdVw==;GZY03rGivoPQqq+ncjQpcA=="
 ---
 

@@ -136,45 +136,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
-    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
-    publishedDateTime: 2019-11-27T20:54:00Z
-    sourceUrl: https://www.chron.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
-        width: 700
-        height: 700
-  - title: "What’s stalling the self-driving car revolution"
-    excerpt: "Clear analysis. Every weekday afternoon. For years, engineers have raced to program artificial intelligence to recognize the scenarios that human drivers understand implicitly — like the difference between a shadow, a puddle and a pothole. But their efforts to propel self-driving cars into the mainstream have sometimes had disastrous results ..."
-    publishedDateTime: 2019-11-27T17:34:00Z
-    sourceUrl: https://www.washingtonpost.com/podcasts/post-reports/whats-stalling-the-selfdriving-car-revolution/
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20191127/t_1574868036478_name_AEWBHERSABEMXNM2YX3UHZRL6U.jpeg&amp;w=1484&amp;op=resize&amp;opt=1&amp;filter=antialias&amp;t=20170517
-        width: 1484
-        height: 834
-  - title: "'Post Reports' podcast: What's stalling the self-driving car revolution"
-    excerpt: "Everything you've come to expect from the newsroom of The Post - for your ears. In this episode: Faiz Siddiqui explains the engineering challenge behind training self-driving cars. Madhulika Sikka shares the story of an author and filmmaker excavating the experiences of black Americans. Plus, Matt Viser unpacks a Dukakis family tradition."
-    publishedDateTime: 2019-11-28T04:38:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Post-Reports-podcast-What-s-stalling-the-14867447.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.AC576DAD1A235B7F3D38796227656486
-        width: 700
-        height: 700
   - title: "Teaching a Self-Driving Car to Know if its Passengers are Happy or Nervous"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to ..."
     publishedDateTime: 2019-12-04T02:58:00Z

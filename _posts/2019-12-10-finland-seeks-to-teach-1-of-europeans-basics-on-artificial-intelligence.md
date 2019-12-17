@@ -43,16 +43,20 @@ related:
         width: 1200
         height: 630
   - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
-    publishedDateTime: 2019-12-17T15:48:00Z
-    sourceUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html
-    ampUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T14:46:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
+        width: 700
+        height: 393
 
 secured: "gzm4J4sZN5x7vCNshwvqQ1agYZjsuXNC8U0XNRLFIpprYf27MSITSSyNR35N0LK0xCM5KZD3eRzg2laxf5PQAptD2+LQeRykgWej0pGvz7TPm9MgAtbagA+LlzZgA5VZNBR+gTupm6PwANY4xpUmtKJLsgWD3MnGTH6KsaeGrI8qVu7B3sGXX44a20nx3nl5XCQtGTFaedzRrd5GMPKWI32mqWhWrXGqeA5iugJ7ybm5DGqvxWBiohyx+VmsVXtIc8BJLW7bBLGjX2tNIcPUHw==;BymWQCP51C9S3JFMxlR1tw=="
 ---
