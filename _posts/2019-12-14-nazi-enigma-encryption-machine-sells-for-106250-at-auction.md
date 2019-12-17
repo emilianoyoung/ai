@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.91610043CF3DAC4C41158A3E5FA96A5D
         width: 700
         height: 466
+  - title: "Nazi Enigma Encrypting Machine Sold for $106,250 at Heritage Auctions"
+    excerpt: "Dallas, TX – A rare encryption machine used by Nazi German forces to communicate without interception and translation by opposing nations sold for more than four times its opening bid to end at $106,250. The cypher device was offered at a public auction ..."
+    publishedDateTime: 2019-12-17T16:49:00Z
+    sourceUrl: https://www.finebooksmagazine.com/news/nazi-enigma-encrypting-machine-sold-106250-heritage-auctions
+    type: article
+    provider:
+      name: Fine Books & Collections
+      domain: finebooksmagazine.com
+    quality: 24
+    images:
+      - url: https://www.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2019-12/enigma-machine-ha-copy.jpg?itok=Gd8saBdN
+        width: 480
+        height: 750
 
 secured: "r9biChvVvCPF5zM9/AmJoJTNYfCN1sKafjqMlBcRQEVGeL/E84aolJeIBadpB63X52KDIfbNpxk6IZCJab1RrH79WSsgaZk4iD/3lZAzJgUfEpkpRXU/TGtm0ufwKvJeVX5kuDu/pIzUDvA84JYBQ1lYQiGMEDtBWYwTEyiDegrwBLrjMwkLtzq8MT3im9ormtklMhrzVS9IuRlL96ynfN9UFZomcda35bo2TkO8d4d4aRpa2VtT9vhgiEBhZTKT4+2CoD335O9RBo/Jj9Vumg==;IfkY6SuSLDG+cnqFVBSZWQ=="
 ---

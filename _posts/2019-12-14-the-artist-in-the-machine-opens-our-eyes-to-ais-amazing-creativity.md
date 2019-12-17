@@ -68,6 +68,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
         width: 400
         height: 400
+  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
+    excerpt: "At the technical level, Squirrel AI Learning fully uses more than ten kinds of artificial intelligence algorithm technologies, such as knowledge space theory, Bayesian theory, logistic regression, genetic algorithms and deep learning, and initiates the ..."
+    publishedDateTime: 2019-12-17T06:31:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-shines-at-the-ieeeiros-2019-conference-the-era-of-ai--education-has-arrived-300975855.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.875DFEFC5592241F90CCC2CD0A52D54C
+        width: 700
+        height: 366
 
 secured: "DYRae6LyYPxizHpsamzCplXukuJoTPSyVpPugRwvMnwCWvLQxIic5ADzvUHy6I31mCfsYwHa6oJ3WsBvF0v1feMug9avE4tK3qJZODCuwtz+RE486ekcis0IWKLjfotRtzjRvhc0YquoLuqexFVl68heQRf0JdampjyBRL7EmAdVFYyuQItQ4YsU4BvNkd0F3p0/W6RNyMLsFgOaZpvs7vn9Pg3ue3Z5Kg4PB/93Sk34rq11UH6e+ve3psvhY7ruo5E2tuQud6caO6VsPcVPUw==;PiZ6M2QUI9eKmyKAKvDkHg=="
 ---

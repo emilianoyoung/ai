@@ -1,9 +1,9 @@
 ---
 category: news
 title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
+excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor ..."
 publishedDateTime: 2019-12-09T23:39:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-omron-returning-the-consumer-electronics-show-with-next-/2019/12/09/9066563.htm
+sourceUrl: https://www.tmcnet.com/usubmit/2019/12/09/9066563.htm
 type: article
 quality: 30
 heat: -1
@@ -60,6 +60,6 @@ related:
       domain: yahoo.com
     quality: 1
 
-secured: "7UwpAbZkNntaVSlutxPMBN8zbhTLyp9EX2StAazRRAxHIR4lHAh9ZLB6SUXqwS3OjrDTaYN3tebWaKsxD0yLCHlHzmyXNnIiGaIFs/xwOPSebKZP68N3yyXDUt+lKkMWwVNnCZa09QT/zGwy8SZIpfiIbHTeuk331Rb286cq7EWNpbv5Te4xFKZZ+bYbN/7E0FK/1j064c1pMivQqsEefDdSs96oecWBmiptF1qtvXSg1c/ifBnPtsS/9THT2IZhVMhEL5y0BPT1sZLFlwnvRA==;7MiFscRAKmFQeWHqSn05Lw=="
+secured: "zb3yaG5GLdUkOkizOLMnFWCzzKuOBtaLONH29wkAEweybaI65p1Wpv0E2TbNNpjDHFGLC0cC2o3Qs5ZPFYTGrL/XEDwMAYgv9uBYgP5X94pOlDKFzIPO5bOeIO9nMHLSDhb0NNhBhXpkfSzRVRWzFInMmUoxHMRq/0wZrvg9ggCVEULq+EuRUbyaSl9zkqK17sGEKr9QwNjtLzLDw1yZ2YaQsLn37gWkqfYyn7mbG3xnX5bN2liIOZP6Gxw3gPLOJmyOsemHaUumVRy/LgmBOQ==;xS33kddSg0fcnMvoMAe9jQ=="
 ---
 

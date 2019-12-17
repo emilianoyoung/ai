@@ -515,6 +515,19 @@ related:
       - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
         width: 700
         height: 367
+  - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
+    excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
+    publishedDateTime: 2019-12-17T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
+        width: 635
+        height: 400
   - title: "Intel snaps up Israeli AI startup Habana Labs for $2bn"
     excerpt: "Intel has bought Habana Labs in a bid to expand its AI portfolio on the data centre arm of its business, likely by making use of the startup's programmable deep learning accelerators. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need - from the intelligent edge to the data ..."
     publishedDateTime: 2019-12-17T09:20:00Z

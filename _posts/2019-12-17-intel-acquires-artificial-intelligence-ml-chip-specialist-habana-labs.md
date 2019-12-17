@@ -509,6 +509,19 @@ related:
       - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
         width: 700
         height: 367
+  - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
+    excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
+    publishedDateTime: 2019-12-17T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
+        width: 635
+        height: 400
   - title: "Intel Purchases Habana Labs in a $2B Push into AI"
     excerpt: "Habana Labs has demonstrated its Gaudi AI processor, which it claims can outperform a GPU by a factor of 4x. Let’s assume, for the moment, that this is true. It makes sense for Intel to buy a company with a credible product that can challenge Nvidia or Google’s TPU in this space, but what does it say about the performance of the compute ..."
     publishedDateTime: 2019-12-17T13:29:00Z

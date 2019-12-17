@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Finland offers crash course in artificial intelligence to EU"
-excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, headed by the world's youngest head of government, is marking the end of its rotating presidency of the EU with a highly ..."
-publishedDateTime: 2019-12-17T13:26:00Z
-sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+excerpt: "HELSINKI — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
+publishedDateTime: 2019-12-17T15:48:00Z
+sourceUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html
+ampUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
@@ -48,6 +48,6 @@ related:
         width: 1200
         height: 630
 
-secured: "IpDktOFIZzY1S5PI+cNE4Vq8qXbjoXZL2lkuNTL6dFdr+XxENdMh9ctUCRnOD0rPoJJg+zOzBVEOboN7DclJlpCYyEWNdqHalCKyLEAUfesw8d3UggoD4Xcqvx4uLvd15jcP5Y2HE53DYQmMSnxMbRZsCVxAyRJ9oykTW7uKrNtSYCtRVDb+wKWRhIFTG+zjPmDvyEkt4etA4Y9fTNc1algauST/y8VGb5HX/iGzNd+MKGNyFXnSAT6j7kbURqULiQY3gz9+4ps8b/j4BtqbLQ==;gaojnJXGxcqrQQi0QyIGfQ=="
+secured: "3VY4B0dzsHn2IywTT4M+El5NL8MNaWzpMLKFglYt6xJQ2lAcq/ebgMwaik92S1h+75TXVMNUdgiJeqbegfAc09ZbekuJIV8peC/S8gDZ/Z+21eiOhGGNfiOCrKJGM2gtfMWpOzutaW/wIVN9G5KMNioa6YlhvMPbESgolQ/McHbFVpuq6oVOe1N3TN2o+lgirgJCOlnvL6YgyeqfodKd3cPRaLcUCc9W+r0M5duIxeflEBeM4AdTh1ZZUmQqxaC4ZLp3l0MaWT9Vvim+rMD7bw==;OFWpmWCNxnGvvBqvDj9ccQ=="
 ---
 

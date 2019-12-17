@@ -25,21 +25,32 @@ images:
     title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
 
 related:
-  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
-    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object recognition. Amazon Rekognition will help users train their machine learning models more ..."
-    publishedDateTime: 2019-12-17T09:49:00Z
-    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
-    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+  - title: "Running distributed TensorFlow training with Amazon SageMaker"
+    excerpt: "TensorFlow is an open-source machine learning (ML) library widely used to develop heavy-weight deep neural networks (DNNs) that require distributed training using multiple GPUs across multiple hosts. Amazon SageMaker is a managed service that simplifies the ML workflow, starting with labeling data using"
+    publishedDateTime: 2019-12-17T16:48:35Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/running-distributed-tensorflow-training-with-amazon-sagemaker/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.EF2A7E68393C36D9BA3EF865974415FB
-        width: 600
-        height: 315
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/17/tensorflow-sagemaker-social.png
+        width: 800
+        height: 530
+  - title: "Auto-segmenting objects when performing semantic segmentation labeling with Amazon SageMaker Ground Truth"
+    excerpt: "Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning (ML) quickly. Ground Truth offers easy access to third-party and your own human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, Ground Truth"
+    publishedDateTime: 2019-12-12T16:49:03Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/auto-segmenting-objects-when-performing-semantic-segmentation-labeling-with-amazon-sagemaker-ground-truth/
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 72
+    images:
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/11/auto-segmenting-sgt-2.gif
+        width: 800
+        height: 417
 
 secured: "/xv6arQ42Ai59VKSnYvYA0GZvobvlw4efrHhFRFPCnft3Fim9Ibn9DrkBhgwJiQKjoSiE6PiNMnC7Q1cYIGPbTeT1A1F90F/LoXzvbDMLNv3x+wD4kesAqSEO7UG2Qy8OrToaDsGahDpIn1gEO4WbAgF9gqghdWUXgXSTvtWaiauChwRkwHLDllfUtIktEiDwh5XLuRlwmxpfJJuhL56GmvDroXKXSZ1ZT9+26vqcHlZZoWEyUFSCVVXExdv6O1U+qlmhRqQor6aLSp3+HOJHA==;5v9KysGTXwaCTclMLDfY3Q=="
 ---

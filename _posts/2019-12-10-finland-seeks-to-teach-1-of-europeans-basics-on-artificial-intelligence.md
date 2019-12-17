@@ -43,15 +43,15 @@ related:
         width: 1200
         height: 630
   - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, headed by the world's youngest head of government, is marking the end of its rotating presidency of the EU with a highly ..."
-    publishedDateTime: 2019-12-17T13:26:00Z
-    sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-    ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
+    publishedDateTime: 2019-12-17T15:48:00Z
+    sourceUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html
+    ampUrl: https://www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/finland-offers-crash-course-in-artificial-intelligence-to-eu/2019/12/17/a2ddde1e-20e4-11ea-b034-de7dc2b5199b_story.html?outputType=amp
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 37
 
 secured: "gzm4J4sZN5x7vCNshwvqQ1agYZjsuXNC8U0XNRLFIpprYf27MSITSSyNR35N0LK0xCM5KZD3eRzg2laxf5PQAptD2+LQeRykgWej0pGvz7TPm9MgAtbagA+LlzZgA5VZNBR+gTupm6PwANY4xpUmtKJLsgWD3MnGTH6KsaeGrI8qVu7B3sGXX44a20nx3nl5XCQtGTFaedzRrd5GMPKWI32mqWhWrXGqeA5iugJ7ybm5DGqvxWBiohyx+VmsVXtIc8BJLW7bBLGjX2tNIcPUHw==;BymWQCP51C9S3JFMxlR1tw=="

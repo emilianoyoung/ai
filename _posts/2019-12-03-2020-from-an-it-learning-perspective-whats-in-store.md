@@ -3,7 +3,7 @@ category: news
 title: "2020 from an IT learning perspective: what’s in store?"
 excerpt: "These cloud capabilities — particularly artificial intelligence (AI) and machine learning — will increase demand for ... can more easily monitor their cloud infrastructure, including Azure and AWS through a single pane of glass. Also Microsoft has ..."
 publishedDateTime: 2019-12-03T08:00:00Z
-sourceUrl: https://www.itwire.com/education/2020-from-an-it-learning-perspective-what’s-in-store.html
+sourceUrl: https://www.itwire.com/sponsored-announcements/2020-from-an-it-learning-perspective-what’s-in-store-2.html
 type: article
 quality: 24
 heat: 24
@@ -18,11 +18,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.E8EAAD751F852C85C0C95AC5F08255D2
+  - url: https://www.bing.com/th?id=ON.8440C8095D86BA7C69161CAAA8C62BCA
     width: 80
     height: 80
     title: "2020 from an IT learning perspective: what’s in store?"
 
-secured: "fs5a7SJqgitFJVdoIwAVSa1e2NoFT5ltkSd/JDNj0sdAS0wa2jAmGhtmHm/Ka+5cBWeiNAiP7ZfPAIGbbA9q4tSDyN243NP+hXLikIZSgzxOQoQ4BMBo84d8U71Dc/ln+cOHUe017ZDX/aHvKTdtiSKII6YSxTsjz4TDhsMYYcwdDNxPdxLe5eNlXgy/fBdwCPpNdIp9ds9sWksNs8BdaM+ptNeuAZMnoFnRtQmJWNjtBDN0Yo6ipBYmQWsnqevowNVatOAFAGDPzgVU5VTx1w==;FJb9HeMHPIMxze9OAy+jLw=="
+secured: "20KDrut84AD5OomyCt1M4F7M4tfimhRCTljTJpAr1sC2ISEE2XAUNoJXJhKmi7HVb//olU1+4yevWJdZzNMLD+2ZOaIgyqpnUXK4ESDO+SUo7OCOgTW36JOQFm5E+rliVUkdAVFBonXjY9LrWHvZ3cCzwbAwYO3TqjU15XLKqmdVprEZj8M15INFBGCq+iwE3CuHkcdU7l6PnNuQbfImKxiwQQHB/Z81OBfoNeDBWUTW7Jfg6XapeUSe1aO0kgar7o5kgGFQBDTPMantzJFdiA==;avQtK2kxlRenIvDsPdFulQ=="
 ---
 

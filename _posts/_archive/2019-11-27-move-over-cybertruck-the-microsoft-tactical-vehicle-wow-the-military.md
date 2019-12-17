@@ -36,6 +36,6 @@ related:
       domain: navy.mil
     quality: 16
 
-secured: "0uuY4knfamQHzGx8RqjYrloyeNtA3sAwA7yxRybAO6Yi/OfLg2wtz3MeGncq7HSNHOQ8woQLX1Hp94jojdf1iyZDjfSfgchAq3eDrKVD45UL+FwDAgICGqnG6K/c99v35yPjz5dC5kwktJk1gqU6tw4lbYxip0tC4QwvVzVYCgMfVKwoEU+3dg75c1yaqXwZTxHFG0QaGvRTx0FliX3wjHe24sfVXjZ+/rPm8UELm7t2OFR+22t8o/785/5wPmYnxjNTQK88W5giYg5wVLK98w==;MvKnj66zXvprjLmjEmqAIg=="
+secured: "5Lt/zjUsOPdFoCh/JuUZbI88KfSTO9G8k2jvlbIh7UTwKvGE71qRroikaZcjPdGj7H8Wfc96xBNxtQDv7v3M3hZNW9Yz/4eanSeybY+UexMNf9LPVxMkjSsPNu1SqJdZdKZe+6wi2IPeeMvhFqGGi3j8vdCaGqBltGQrh1Z80GFrMH9U2vva75A4LE0v15kQBtszKZSXSAOBRY75uU6y2aUFhIt/z78smMixTYaitkBThd2Hh2PHgVOJpI6cKTeuX4Mq/qFT6I1cNpfBztSqpA==;r7nD5T7Uk3nsCKtkOW6mKw=="
 ---
 

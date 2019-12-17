@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
         width: 400
         height: 400
+  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
+    excerpt: "At the technical level, Squirrel AI Learning fully uses more than ten kinds of artificial intelligence algorithm technologies, such as knowledge space theory, Bayesian theory, logistic regression, genetic algorithms and deep learning, and initiates the ..."
+    publishedDateTime: 2019-12-17T06:31:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-shines-at-the-ieeeiros-2019-conference-the-era-of-ai--education-has-arrived-300975855.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.875DFEFC5592241F90CCC2CD0A52D54C
+        width: 700
+        height: 366
 
 secured: "gXXWVNnkNhobQN4oLht7ygUIUNSNUnY8CXJVwjt+7Pal6p5AC/Lg76IesCBdCZqgmouu93YPk2FU7bHqdJa6uFVxym0SarXKGm9R2NK1KJoIjVB/b51KLTv2c95zQDObJoS4p9XlxPxyo8mVq3EhLCpOUAJcRPh6walpJ5j0x9bJ2DYxjBF77KhiFeT0uy0nGH4w0ysGpYhus05+a/7iO8EXR2J/0RrIhh7Q+7SIiIf/Q26wwWsCt9zyLkLiszLnHJnZYn/r4lSEYSTogvpIlQ==;gIMpEZU1To+2BfVUyhjDjg=="
 ---

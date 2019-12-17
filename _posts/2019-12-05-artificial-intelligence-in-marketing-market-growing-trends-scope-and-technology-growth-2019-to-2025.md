@@ -222,6 +222,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Education Market 2019: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "Nov 26, 2019 (Heraldkeepers) -- New York, November 26, 2019: The global Artificial Intelligence in Education market is segregated on the basis of Model as Learner model, Pedagogical model, and Domain model. Based on Technology the global Artificial ..."
+    publishedDateTime: 2019-11-26T10:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2019-11-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-driving Car Market Market 2023 |Global Industry Demand Status with Recent Trends, Size and Share Analysis by with Top Players Forecast"
     excerpt: "Dec 04, 2019 (AmericaNewsHour) -- A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate ..."
     publishedDateTime: 2019-12-04T04:38:00Z
