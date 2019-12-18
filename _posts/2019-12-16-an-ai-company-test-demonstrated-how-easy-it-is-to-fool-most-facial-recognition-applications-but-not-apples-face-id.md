@@ -255,6 +255,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
         width: 700
         height: 367
+  - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
+    excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
+    publishedDateTime: 2019-12-18T08:11:00Z
+    sourceUrl: https://www.sporttechie.com/italian-soccer-league-serie-a-facial-recognition-technology-fans-racist-chants-taunts
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 33
+    images:
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
   - title: "UOB app-only bank TMRW introduces fingerprint and facial recognition for account opening"
     excerpt: "For example, a small percentage of customers using fingerprint biometrics to authenticate their account at TMRW kiosks found the experience not seamless enough so we enhanced this with the latest facial recognition technology to ensure a smoother account opening process for all.” TMRW enhances its suite of features beyond biometrics TMRW’s ..."
     publishedDateTime: 2019-12-09T15:41:00Z

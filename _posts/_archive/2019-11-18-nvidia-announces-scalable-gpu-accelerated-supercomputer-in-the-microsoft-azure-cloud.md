@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
+excerpt: "NVIDIA has announced the availability of a new cloud-based, GPU-accelerated supercomputer available on Microsoft Azure. Built to handle demanding AI, machine learning and high-performance computing applications, NVIDIA indicates that their new offering ..."
 publishedDateTime: 2019-11-18T00:00:00Z
-sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
+sourceUrl: https://www.storagereview.com/nvidia_announces_scalable_gpuaccelerated_supercomputer_in_the_microsoft_azure_cloud
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Embedded Computing Design
-  domain: embedded-computing.com
+  name: StorageReview
+  domain: storagereview.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df9082743e3a-EL6oxqmXUAAC0be.jpeg&size=1&version=1576601649&sig=0d5c87908427813cd0eb527a07b3e395&default=hubs%2Ftilebg-blogs.jpg
-    width: 500
-    height: 272
+  - url: https://www.storagereview.com/images/SC19_Microsoft%20Azure.jpg
+    width: 850
+    height: 478
     title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "rowAYqL0xgAlpBG4PTTynCgPC0eagrwosvm8ZRHwOTsdGMce6HGXTrHqCESR5d2Elu7uoH8oqFI2k2VGVxaOLd8uMoL3mRw7ZVN5HWVHFmT706CbpRgEbPj+fsV57vFh/4kwdkg/+9gj9PaQV24umr3ZHiI3BmHLOWTrzLw4VVoJLiZVZy80PJKxzqvrq/gjipDH6PVSfldNEmiioVNNqUC2rQHrQCkkNstCufwHKpyPIH/UYiVQe0T7G/xHrte4WWaZvYAddWJu2eQpkZWBlQ==;cQSZjl+ILrGyP+s4vjjtLw=="
+secured: "dPmly0wTxcc+HGdKZda/wmyiF7rsEMZndp1iOBHopupUo2eAtVrmgaf105bpafhKNmnd8+G+iWw/X9ldZU5y7T+VsNyrRTCrXcwQRtgYgfxs+phZuf2QlDMjDufuG/LeUs/FOyvHJ0YnBNSUWywpuT6BclUeuSRhSjKG0WHIflulTK6+zyhIMCbAatOGpCErQ4xklYlwFeebagivlj1thkVb957nyjg3bQfA9UVK4CQfeVtc5iLjzYeu4De7a4mGVxiByq8Db9OH7wRdhJ/5CA==;71cwnRkac/4cwCX8/1vzMg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-23T14:59:00Z
 sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,18 +24,31 @@ images:
     title: "Facebook had a face recognition app that can identify its staff"
 
 related:
-  - title: "Chaayos’ face recognition system gets caught in the privacy storm, company responds"
-    excerpt: "Popular tea store chain Chaayos is drawing flak over its facial recognition system set up at its outlets. The system, which is said to be aimed at replacing the OTP process, involves customers checking in using facial recognition. According to a MediaNama ..."
-    publishedDateTime: 2019-11-21T16:00:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK.html
-    ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
+  - title: "All the ways that facial recognition can be fooled — and even hacked"
+    excerpt: "It is difficult to avoid a facial recognition system unless one keeps under a low light or stays home or hides somewhere. However, over the past few years, researchers are looking out for new and innovative ways of doing so. This could pose a hurdle for ..."
+    publishedDateTime: 2019-11-22T10:26:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/articleshow/72153390.cms
+    ampUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 39
+  - title: "For now, Lockport wants facial recognition security system just for guns"
+    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
+    publishedDateTime: 2019-11-24T10:01:00Z
+    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 38
+    images:
+      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
+        width: 2000
+        height: 1500
 
-secured: "be2Zc8tm5Nght+J6N2SQ38O0VAk/H6z7RdefSN3sm5vhUEdAY8Qlxa0fwCHJKO1clPmLjFaKeXfe/Iqhwj60aE/W2QNH1zYnbSonEAUGLmuhVyu2aU1mxbv/RtVsuxGu4cPyXF6CEyS+nfepAZBbjQW+57d5iSIqYDPdADarGN/r7DVXudk4HNCHVq9i6krm+G3pvIygGEmKlS4b3ZmI0qWK/7QCeQE7wjgMI9ugD7bk/Fk+DuvN9SCZSbzbWzgUUGT3AbWaP2ev9CWE28KkeQ==;jFa/BxbrZAcdWJl4IR+q7Q=="
+secured: "9ei+VRnkxbXfDNCtRSwfMBAs/MjxUGWtPAdRipTNwaQfMUWdAfYpQgeYihUKSfU5uBvOSi798L/0nNoQzJdTfC2TBIEMjf5T6vYryDcehxm4elERn/66FKqbyG8XT+6LodoT/i7ixFJJi/wM9P+ANCqtKluE0+39PePXhtKo1WcDUqQvQWy2CE3mE7FZlRZC0iueRMMSrKbu+o5CA+KqWdJrw752lXRWxu6mHvbTFC7DH/lgjVckMnwzlhgkUanchdgGdC/rLwxcW+WmQMOEbA==;7T9Fx4qMqLf6kMAQJ5o2Ng=="
 ---
 

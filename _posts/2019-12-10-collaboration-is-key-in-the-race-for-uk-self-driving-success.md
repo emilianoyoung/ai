@@ -136,6 +136,19 @@ related:
       - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
         width: 635
         height: 400
+  - title: "Hungarian self-driving developer wins AI competition"
+    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
+    publishedDateTime: 2019-12-18T07:00:00Z
+    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
+    type: article
+    provider:
+      name: Budapest Business Journal
+      domain: bbj.hu
+    quality: 39
+    images:
+      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
+        width: 1200
+        height: 800
   - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
     excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
     publishedDateTime: 2019-12-12T20:20:00Z

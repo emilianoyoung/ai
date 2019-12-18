@@ -138,6 +138,19 @@ related:
       - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
         width: 635
         height: 400
+  - title: "Hungarian self-driving developer wins AI competition"
+    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
+    publishedDateTime: 2019-12-18T07:00:00Z
+    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
+    type: article
+    provider:
+      name: Budapest Business Journal
+      domain: bbj.hu
+    quality: 39
+    images:
+      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
+        width: 1200
+        height: 800
   - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
     excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
     publishedDateTime: 2019-12-13T19:04:00Z

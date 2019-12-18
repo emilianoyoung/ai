@@ -98,6 +98,19 @@ related:
       name: Retail TouchPoints
       domain: retailtouchpoints.com
     quality: 51
+  - title: "The World Is Changing Too Fast"
+    excerpt: "“2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imagin"
+    publishedDateTime: 2019-12-18T08:53:00Z
+    sourceUrl: https://jewishjournal.com/newsroom/tech/the-world-is-changing-too-fast/
+    type: article
+    provider:
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 24
+    images:
+      - url: https://jewishjournal.com/wp-content/uploads/2017/11/jjsplash_a_1200x1920.png
+        width: 1198
+        height: 675
   - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
     excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
     publishedDateTime: 2019-12-11T18:35:00Z

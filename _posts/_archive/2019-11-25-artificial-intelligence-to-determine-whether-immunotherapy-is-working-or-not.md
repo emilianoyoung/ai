@@ -53,6 +53,6 @@ related:
       domain: labroots.com
     quality: 69
 
-secured: "GmxrtVw8NiXLRsp10DvGKWczuGz9JR5DEmaNq9PEU+gkWCF+UMD8MbKXNkO9ttVhOnTDzuXHUT+5fyf9+t6J1zZMxPsRZt6HZiqUrVL6rb3spjRVxv8A4vr0KfIPPlgUy1cXURNzMIXd0O3L02s+etGdq4ZMfguxQTHVBO2NLQeH3uJnqzdpHmS8DFSUJ+riQTwzzaSDTF4XndfKFvtug1uSraCkO01wRHubMNRn2wad2oo6qiTzBDgidJ4k3KdsvTDEYp5PFRW3a1Sqii41tg==;BpAFEmD5jcu6kTArerYDcg=="
+secured: "VMaKrcGTaJu4ayCat/HqaWzVFybFeIcZTQuoLhpaFCaEvPelB/FAEwDWWhHUM82Qr6sMmjwEdiFMHsfR6Cs7PcxqZ1UYkt6UizRI+t1qRlsHu49ASJ+jsQtdyOAbOmPOBtN+UAiX5YhlFBP4fGUadfEl1x2ttxlWYwJIWzqt3KOCgmTIf3SP4Yzf5wa/qbLCR5GKcTc/FRA1CDJjUW2P69kHMU2IYt6/xg2t2jtsCakcJNTJQUUU6i2OZztpWnNgMrLKCxz4yVHCLNiZ9rFs/Q==;IHfzoKQ+vtBiQop0TTSmMg=="
 ---
 

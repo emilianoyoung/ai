@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
+    excerpt: "NVIDIA has announced the availability of a new cloud-based, GPU-accelerated supercomputer available on Microsoft Azure. Built to handle demanding AI, machine learning and high-performance computing applications, NVIDIA indicates that their new offering ..."
     publishedDateTime: 2019-11-18T00:00:00Z
-    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
+    sourceUrl: https://www.storagereview.com/nvidia_announces_scalable_gpuaccelerated_supercomputer_in_the_microsoft_azure_cloud
     type: article
     provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
+      name: StorageReview
+      domain: storagereview.com
     quality: 47
     images:
-      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df9082743e3a-EL6oxqmXUAAC0be.jpeg&size=1&version=1576601649&sig=0d5c87908427813cd0eb527a07b3e395&default=hubs%2Ftilebg-blogs.jpg
-        width: 500
-        height: 272
+      - url: https://www.storagereview.com/images/SC19_Microsoft%20Azure.jpg
+        width: 850
+        height: 478
 
-secured: "PQU9PUAbdwZtMRqcoGmsYF/Sp7vh4c9WOUuvXfHcXd3SCmw/WvLwfXJKdbP/tDTDCp4uKcmFA350haXpQMNqubxIo5UsXKZZENV81iVEql1mIZWSLpwsbMwkyyYDJ2+5ExPNdJZZ2WsHSeD09keSNy/z/rzWTWdI36f52VOLon6MG8vxHOd/OxRx6AkCcHUqmpL3qKVBw0bEvrptJnqU5mx5YDDJ9oO1xoympLploo93yV5UZLva1TsAqYzpIo+2dqR4oiB+mumHIMyXUlsxDw==;xCnyn9UU7tyG9kIS2BR+xg=="
+secured: "AoXm/Ivi0fUXdsG2qhHVcSgl/VfnefFJQU4hILVHZm9CZArsS7Ph8TmHpd5mE0twDM7+VD54gUEbLs01C7b/Tht57LFeYZGLEztEkq6GaH0O9AQ2oMFhfagJSwFfiJ3LhpEdP/tOf5lZkyCD9/KkgrlXyCYr19JFWijq0VcV0ZI+pP1PPm7/ix5mEqjI9PsPzsbItSvG8EUtxPXYHPWEZrMDEceI4jOce5FLsHP/HDXXZM9t3bOyCiK0CD/eATyYDXs/rkNLWLkX/Z8h1epbyQ==;MbDJFsGd+WC6KM/xSwkedA=="
 ---
 

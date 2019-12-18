@@ -40,6 +40,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
+    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
+    publishedDateTime: 2019-11-27T09:30:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "TZ8UJhM0g0XAUcyjC4Q37MbcnQVrge1OU/6GdrLIn4TR0akYGoiiQjeoHFXoprv4wU4xzZnF878qYr7GXy3moCcoRoVBmZ3+gLjMLnWmP8kMfJkg8AhcVQa15CKHYrKirnnrjIpjef9dcmnHCQPyjYiA/mzD9SezcDgSjxMVTXEymj2VNcqNMQ+yMwOi7z/oZVnLtI4zp8jVMSIVmS21qxrLr9NfWtMWPskg1PrURqvs/b76VuZDddeLW/2vvl60Q/Kt7Al/rOy817t9P0yi2Q==;0vaGVl5CpDvUFQlN0nZrIw=="
 ---

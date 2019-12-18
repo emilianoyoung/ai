@@ -2,23 +2,23 @@
 category: news
 title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
 excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
-publishedDateTime: 2019-12-17T21:53:00Z
-sourceUrl: https://www.msn.com/en-in/news/other/fintech-offers-an-opportunity-to-indian-start-ups-to-turn-unicorns-heres-how/ar-BBY6nJ1
+publishedDateTime: 2019-12-17T21:59:00Z
+sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: The Financial Express on MSN.com
-  domain: msn.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.3373C0ED2EC88CA76E57385FA25F563A
+  - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
     width: 620
     height: 413
     title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
@@ -40,6 +40,6 @@ related:
         width: 1200
         height: 1200
 
-secured: "Xr5W3zZI3JmZKTgfAtxoH72dmwU7OvXBJ9h+GbCONCf4lIJdrfVSbI/ur1VpjUd/cbO2DdRmBPMDsECNwL6sEydW0MQsWq/sdIp0H8W95x9c5PspCsTcy+nblCaL5iUfZnnjO/Gtn2fSZXj0VakczmqpUhTcoAsJj+ZKBZrIKl7Un1GNPp+bNNed5nAoUVLzFcjvHjXPIecynUMBYmRoeFpqRkLZH4b+6caQEE8Byv2b4wtD6LXpb6+sBVmQbcV5oXAQcrJznp4+pEpAuoqguQ==;MPMSurNK5ABmcOR3edcEYA=="
+secured: "sBLw9QJLvA6SuycSJPnjjUrAYxYGo1Bm8vJZpH6rSx5kkvuCuF3iZ0b70i6sufeFP1Ou63JQJCl5RSCe1OvUsJIylIoVNdidiFQhiwa1RO5UOZGxQXRZ9ZNbCKX/rmadrK0L7MZM2+BVd7t4lT5TW3ms1436Edf8S2nEXCd8cRvgkQie7sHWMmr4Kgn3oDZ6mxxwaX/4AoHkgM+knp3iDDz/WFdHCzM5eYrZe3AiMCeZlTy1e7ERhDmgmxrw3hqk6yEeu7GfPOCroWFq9cIKZw==;lbGX8VC92FPM5+MjJ/mKjg=="
 ---
 

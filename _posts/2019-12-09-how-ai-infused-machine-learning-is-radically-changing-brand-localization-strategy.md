@@ -90,6 +90,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0E85B743ACE325A0148BE0562FA62BE5
         width: 700
         height: 393
+  - title: "The World Is Changing Too Fast"
+    excerpt: "“2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imagin"
+    publishedDateTime: 2019-12-18T08:53:00Z
+    sourceUrl: https://jewishjournal.com/newsroom/tech/the-world-is-changing-too-fast/
+    type: article
+    provider:
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 24
+    images:
+      - url: https://jewishjournal.com/wp-content/uploads/2017/11/jjsplash_a_1200x1920.png
+        width: 1198
+        height: 675
   - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
     excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
     publishedDateTime: 2019-12-11T12:28:00Z
