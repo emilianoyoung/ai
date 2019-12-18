@@ -172,6 +172,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9D98D2504C97BC77A36E1D48543B5C97
         width: 700
         height: 350
+  - title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
+    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
+    publishedDateTime: 2019-12-04T11:28:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/041219/chennai-man-sundar-pichai-appointed-ceo-to-alphabet-inc.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
+    images:
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
+        width: 800
+        height: 448
   - title: "Google Co-Founders Step Down as Execs of Parent Alphabet"
     excerpt: "Alphabet CEO Larry Page speaks at the Fortune Global Forum in San Francisco. (AP Photo/Jeff Chiu, File) Google co-founder Sergey Brin speaks during a press conference after finishing the third match of the Google DeepMind Challenge Match in Seoul, South Korea. (AP Photo/Lee Jin-man, File) The co-founders of Google are stepping down as ..."
     publishedDateTime: 2019-12-03T22:09:00Z

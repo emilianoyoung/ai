@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E5DF8FEB15F81428D10F2654DD9197C4
         width: 700
         height: 350
+  - title: "Paige raises $45 million to detect cancer with computer vision"
+    excerpt: "Health care startup Paige has raised $45 million to diagnose cancer with the help of computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has now raised over $70 ..."
+    publishedDateTime: 2019-12-18T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/
+    ampUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/paige-2.jpg?fit=1200%2C629&amp;strip=all
+        width: 1200
+        height: 629
   - title: "Augtera raises $4 million for AI-driven network management"
     excerpt: "Augtera today announced that it raised $4 million for its operation that takes data from datacenter networks to create AI systems for management and optimization. The money will be used to grow Augtera’s engineering and research and development teams and accelerate product adoption. Augtera uses network domain knowledge and semantics ..."
     publishedDateTime: 2019-12-04T17:25:00Z

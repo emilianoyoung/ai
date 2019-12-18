@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/13/business-leaders-integra
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/amp/
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       - url: https://www.bing.com/th?id=ON.86A51A01BC1B10D1A47468931DF9E438
         width: 685
         height: 244
+  - title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
+    excerpt: "Attending experts were excited about a new research direction named federated learning (FL). Professor Yoshua Bengio, A.M. Turing Award Winner, founder of the world’s top deep learning research facility Mila-Quebec Artificial Intelligence Institute and one of the \"three musketeers of deep learning\", said that “In terms of better training ..."
+    publishedDateTime: 2019-12-18T12:07:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005275/en/NuerIPS-2019-China’s-WeBank-Mila-Tencent-Partner/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39210hJvfF05B5fk8fgV08Rp7eevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxYB6IekXemGUNFauMeV8-aC2uKCrP6Vchv2JCmX-IB07A==
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
 
 secured: "flM36R9MwhAbYw4CKsLVH7YQc6xcVHnouZO6urflLNH3KzstydOX3pkRYAVzLLmjs2FzzCyI6X0uY/KwkRKWQMxjtgQgvdLVtCyGWrdb653xti5iPyLN2ZxxX0dmjbs+3a2em8xz2Fsgnw31Li164OLTB97WLirNQZqEG4fHUXKGSuHA9tvDi0KKAl5gzeV59nL0zeZLRdC9+ddW3ZhRhwHHTMrUbuEOww0oSOiiwPc99idGAI83yQk7FoQpuJIk2USQmVa6dKP3fco8UqYj1g==;tVam5kKrHUwy/BcES25GLg=="
 ---

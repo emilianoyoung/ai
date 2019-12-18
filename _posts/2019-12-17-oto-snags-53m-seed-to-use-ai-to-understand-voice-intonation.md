@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-under
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
         width: 300
         height: 199
+  - title: "Using AI to understand spread of cancer"
+    excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
+    publishedDateTime: 2019-12-18T12:58:00Z
+    sourceUrl: https://www.miragenews.com/using-ai-to-understand-spread-of-cancer/
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
+        width: 3143
+        height: 3805
 
 secured: "lG8bNiLCpkRsM83SIZNcnzNYjdULWmi0+feyy2hcLTQT+Ft+UVQInnQ3MbrRuKkcg22XEBflPFsNrsvMPWo7JeQGUO+r5zLEjftSX3u+HilyDF3Ns2QRN603kSJWprV4sPcU9tKJOajm2szRBO+FgsA3pwBYzSFlspUs0Hg9WSrwOsxb9y7vvr36SVc7Ya3IMsl5lek3fN0s+JjXcL1iSGvSJsUyvqvdMAM0Go7dEiY/HKKS9YlPOQHk4As8lrXwEFL4yGfX5UjfC7/QovkiDA==;s0+z1UsqVaLWl6iranTwNg=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ma
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-market-telecommunication-190000256.html
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     title: "Global Artificial Intelligence Market in the Telecommunication Industry 2019-2023 | Growing Investments in 5G Network to Boost Growth | Technavio"
 
 related:
-  - title: "Artificial Intelligence Market Enhancement, Latest Trends, Rising Growth and Opportunity during 2019 to 2025"
-    excerpt: "The global Artificial Intelligence market is growing at a healthy CAGR of 33.6% during 2019-2025. Top Companies in the Global Artificial Intelligence Market: Lifegraph, IBM Watson Health, H2O AI, Baidu Inc., Google Inc., Enlitic Inc., Sense.ly Inc., Intel Corporation, Zebra Medical Vision Inc., Microsoft Corporation, Atomwise Inc., NVIDIA and ..."
-    publishedDateTime: 2019-11-28T12:29:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-enhancement-latest-trends-rising-growth-and-opportunity-during-2019-to-2025-2019-11-28
+  - title: "Artificial Intelligence Market in the US Education Sector 2018-2022 | Increased Emphasis on Chatbots to Boost Growth | Technavio"
+    excerpt: "The artificial intelligence market in the US education sector is expected to post a CAGR of nearly 48% during the period 2018-2022, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191203005524/en ..."
+    publishedDateTime: 2019-12-04T00:13:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-market-us-education-193000359.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 8
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.695762E9103F1CBC04D9990D570DC75A
+        width: 480
+        height: 270
 
 secured: "dULpJMs7g2Ls+echgJAKILxAx6Cckm0lvO4VBN8C/wqShwVRVFQy83ybcm4Pxv16s3KUzLxQtLJAPxMuOymXgZWGK2NKIOdapayOuQ4GcsbHevWwGx7XHwyIdnosAIGUX31hfOjtI3Xk45PMwDoGDjClbxuwn3MwRdZkk2nSPMWdy4YTfRHkh22iVeZl2jxoKk1I7bQoabDm8TnFSfBxjbCcYezb8BVpSZj+ZdYDlEFN1Bvt3HWfN1zHUUFSsAaR4oFgK5DvMaDRX3luyI9Lrg==;Iqkm7k9PM7sFb0AXBl7pjg=="
 ---

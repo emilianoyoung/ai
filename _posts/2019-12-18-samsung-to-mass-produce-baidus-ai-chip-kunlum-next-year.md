@@ -29,6 +29,21 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Samsung to mass produce Kunlun AI chip from 2020"
+    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year.IANS | December 18, 2019, 18:16 IST NEW DELHI: Samsung has joined hands with Chinese-language Internet search company Baidu ..."
+    publishedDateTime: 2019-12-18T12:46:00Z
+    sourceUrl: https://telecom.economictimes.indiatimes.com/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
+    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
+    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: https://etimg.etb2bimg.com/thumb/msid-72871309,imgsize-159673,width-800,height-434,overlay-ettelecom/samsung-to-mass-produce-kunlun-ai-chip-from-2020.jpg
+        width: 800
+        height: 434
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube TM (Interposer-Cube) package solution. The chip offers 512 gigabytes per second (GBps) memory bandwidth and supplies up to 260 Tera operations ..."
     publishedDateTime: 2019-12-17T23:45:00Z
