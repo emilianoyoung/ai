@@ -1,28 +1,28 @@
 ---
 category: news
 title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
-excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient's T-cells—part of their immune system ... Machine learning—what we most commonly mean when talking about \"artificial intelligence\"—came into its own in the 2010s. Using statistics to identify patterns in vast datasets, machine learning today powers ..."
-publishedDateTime: 2019-12-17T08:25:00Z
-sourceUrl: https://phys.org/news/2019-12-crispr-gravity-mars-decade-discoveries.html
-ampUrl: https://phys.org/news/2019-12-crispr-gravity-mars-decade-discoveries.amp
-cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-crispr-gravity-mars-decade-discoveries.amp
+excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient’s T-cells — part of their immune ... That could eventually pave the way to “artificial general intelligence,” or a machine capable of performing any tasks humans can, rather than excelling at a single function"
+publishedDateTime: 2019-12-17T12:26:00Z
+sourceUrl: https://www.rawstory.com/2019/12/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/
+ampUrl: https://www.rawstory.com/2019/12/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/amp/
+cdnAmpUrl: https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2019/12/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/amp/
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: The Raw Story
+  domain: rawstory.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.6AEB38415D628984FB19CA2F957D6F85
+  - url: https://www.bing.com/th?id=ON.3DB81D204C5A6B82A9E74D2D8F7E62A0
     width: 700
-    height: 420
+    height: 376
     title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
 
 related:
@@ -40,6 +40,6 @@ related:
         width: 556
         height: 370
 
-secured: "4Up5jcNWM0S3tGXAWeQAoId1zYQLQ3oH0csWSYTQoQFY68lwaAAC9jGTdvKbZi+KvZfNkeTomQWAZ62p0ipu6npJwMcZfSwMEQJQWslHYXWNLnQ1XvpcIkuPRH3VdUEakh++HIZWqwe1c9TIg2PHAPqh64j+dbWPEWmw6nmXpcFoxqTl+cfLc9g7sdigtVX/vV6Ujs5GONJUjqnzT8jtDVyoVwZH4fBtVfyTEObvBfnlVW0rA5viOsC324L/LeeE+r+5eK6wyUEvNtKiCHCYtQ==;3wEo7F188c/iE0uKjDNbWw=="
+secured: "sACE6CNanpE17ew1+bxWeMsxqGjWVtHMBNtbpLliDg6LX4hhnZNkUpcHtj31qRaQ111WtUPrdp55a5G8Jhj2ZbxJ3XRSk+sprBHehusCME5ArkWptJpmaBFlXH6ChE3WnP0GurYECde/Rr5D46LPMEOJ9AvSy1CxOpjs+6rtzP7b9L8MFHaa4NC6BOWuk+5qEe8bu9LxhwGs3KuhULHLW8sOFsUaaOFkX9ji/QsKyUfJXWDbAgtHvnA7VQbSJfFIJiCqSzjq3I2fuU9ZlDUPNw==;LtoTkwVSiUmnS1KMveLiKw=="
 ---
 

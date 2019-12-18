@@ -35,19 +35,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 39
-  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
-    publishedDateTime: 2019-12-17T17:44:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
-        width: 700
-        height: 365
   - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2019-12-16T09:56:00Z

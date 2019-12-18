@@ -5,7 +5,7 @@ excerpt: "TensorFlow is the most popular tech skill of the last three years, exp
 publishedDateTime: 2019-12-15T19:01:00Z
 sourceUrl: https://www.enterpriseirregulars.com/148541/ai-skills-among-the-most-in-demand-for-2020/
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Microsoft AI
 
 images:
   - url: https://www.bing.com/th?id=ON.B59C93C5D175836AD1FD75189D99C9F6

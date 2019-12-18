@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
         height: 367
+  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
+    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
+    publishedDateTime: 2019-12-18T15:44:00Z
+    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
+        width: 1344
+        height: 742
 
 secured: "6CoUYhDFhydlfILn8RZHRWuPaZIv58v7itcDjsMgSW4tC1xgyQJqWfoFcO0ih6iW2kJnGA5MurlD2QGnOdFymzy1OO9r0+jOMQ+ZBlTn2uVUvH6utrw9fyJzHKYomSRsicLIf2pZddboItUQ7qi4wRunfIN0reU2asxII/dvnbAUPKqXGDOgFP8i1zHDIfU1K4XOFR1OKTDsykA/GJ6X8doeeo9kGD7TB+y2uslBnmdpsECMdw9HgBJGQ2jRm/7mBP6w9a3kioIIeueZT3dajA==;+MZHXaoT1eStLwul4E3dMQ=="
 ---

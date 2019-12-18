@@ -32,7 +32,7 @@ related:
     provider:
       name: Enterprise Irregulars
       domain: enterpriseirregulars.com
-    quality: 39
+    quality: 41
     images:
       - url: https://www.bing.com/th?id=ON.B59C93C5D175836AD1FD75189D99C9F6
         width: 700

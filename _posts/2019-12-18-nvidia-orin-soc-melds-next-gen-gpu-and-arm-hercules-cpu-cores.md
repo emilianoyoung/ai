@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T10:11:00Z
 sourceUrl: https://www.hexus.net/tech/news/cpu/137963-nvidia-orin-soc-melds-next-gen-gpu-arm-hercules-cpu-cores/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 700
     height: 383
     title: "Nvidia Orin SoC melds next gen GPU and Arm Hercules CPU cores"
-
-related:
-  - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
-    excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
-    publishedDateTime: 2019-12-18T14:49:00Z
-    sourceUrl: https://hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
-    ampUrl: https://amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 56
-    images:
-      - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
-        width: 708
-        height: 425
-  - title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
-    excerpt: "Nvidia Corp. tonight bid to expand the reach of artificial intelligence systems into autonomous vehicles and robots with the launch of its new Nvidia DRIVE AGX Orin platform. Nvidia DRIVE AGX Orin is a software-defined platform that’s powered by a new system-on-a-chip called Orin. The new chip is said to be the fruit of “billions of dollars ..."
-    publishedDateTime: 2019-12-18T04:34:00Z
-    sourceUrl: https://siliconangle.com/2019/12/17/nvidia-debuts-drive-agx-orin-platform-autonomous-cars-robots/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/NVIDIA.png
-        width: 1138
-        height: 572
 
 secured: "BgQA/HBkWW6MOMCCiryaM6tF8BiiVtHiWh73yrLGE85M/sKs7r0UAdADz7nLTh4QQnoTyNdehVqH0g/U/VckmjZoMngl6F1di7CnR0gHdZVLZ9q5KcNOoMNQawlXPHbI8rPxWXYAA75xjDNzrwJnRppULehxHcAqtLjL/5ociaUpJC5n4INVozDZ/aqAtOvasJZqzq9LVHfgFZdqusMPEvMzO9VtZAwualtOdXpIfyCLa2e6Yg7wz4/hQ/M9p1T/hB2+JgqoRO3vhNJb+jmG3Q==;g/WdtomR+NVtRY96XQaVEA=="
 ---

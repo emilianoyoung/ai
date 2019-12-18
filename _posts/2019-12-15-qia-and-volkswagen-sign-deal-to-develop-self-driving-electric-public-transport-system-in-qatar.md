@@ -177,6 +177,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
         width: 700
         height: 466
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "4qllAGgQ30IKsfcvElJYQsqfVntsPydCHDDAOO6Z+CSi/oR+SsD8W16lx9OS79bYMPYwJcQd7rIzsvfAjHFi1dDhqcOpryE0xihttWxK49MizZ7Lg7qOOd4IOZCutz8bPGLTBKFCCRU2VI2g19hdq7y/uNuo7B4A5RkdPsjV4vAkDmLgobfMs8WYr5HENWQM2GXYXIKWawmlvFT+g/Rr+Zz0Ap5hWxtrLTkXBw3uCYgqESPnpM9nKi/YXkUJff2qkzngNEZhp/U5osIACQ+DDw==;P8V7QnTGoYzsODBnB4C2nw=="
 ---

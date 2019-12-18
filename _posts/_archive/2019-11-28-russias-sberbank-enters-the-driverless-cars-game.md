@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
         width: 700
         height: 455
-  - title: "Sberbank to hold 30% stake in driverless cars venture"
-    excerpt: "Cognitive Pilot products and solutions are set to be used to develop digital economy projects in transportation, agriculture, computer vision, and artificial intelligence. The parties have signed legally binding documents and are scheduled to close the deal in December 2019. Sberbank is getting a 30% interest in the company, with 70% of shares ..."
-    publishedDateTime: 2019-11-28T16:22:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80790/sberbank-to-hold-30-stake-in-driverless-cars-venture
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
   - title: "Russia’s Sberbank invests in driverless car tech firm"
     excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally binding agreement with Cognitive Technologies that will lead to the creation of a new company ..."
     publishedDateTime: 2019-11-29T01:26:00Z
@@ -66,6 +53,6 @@ related:
         width: 700
         height: 393
 
-secured: "pzLz9ZBnBMuDrC3Z63ltV0ps+xs/eF7ry2/1+0tI8S0fqpwwDczPWtrpC6R9o4/Iv2+Y0MB5hUDqWI55ix3UEpT6IzHsWVHb4MV+r57wNjuD7yHKa/+75Rr2JsYNrO65QWkHj+NCvJS8JCq0QHz43e5UJ0pRQkxV8tQXLgCnx6JHnvrCLKOc2ChPCYwLolf0EmH3RqBPeEC3uvr1EYdJRh+ghOOwbP3ls/oJEiC0ijzMH99JF/sb6OKV4DOKrg9pzOrBZ7yrPrtostXClNBgBw==;9TwNzrdvog0oKVB5hKjf8g=="
+secured: "KybSpW0DmPI/A2QdvtDqmDAYqLCpEut7rOhrofA8FqGPqdFfjZysvTRolFiDcBtJdv5c5DvUFSKDLco53Q4ySpa74DK+RNlByGhO7Z3gd5Nk8eVghwilQIOPopTWI+Etg1ClxE9qCdM8fiywm1RIfer+meNIEzj74xvJAFPQD2afD6Cey5xLHRCY4sse+54IFEF5b0KJQ5yhZ6gEFwCqTXvT5whVwhK7HBJapdyYLKIL7rdrab3hrqKHReDP0/vlkoXZ86HkcTxpV03/U0B2bA==;+BGp5ywD5/74LEFKehScvw=="
 ---
 

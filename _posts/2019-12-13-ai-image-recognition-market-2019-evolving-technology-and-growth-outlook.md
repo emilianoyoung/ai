@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -186,6 +186,15 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
+    quality: 0
+  - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
+    excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
+    publishedDateTime: 2019-12-18T17:47:00Z
+    sourceUrl: https://www.ksl.com/article/46692717/new-idc-technology-employment-impact-guide-forecasts-steady-growth-in-technology-job-roles-through-2023-led-by-data-and-machine-learning-positions
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
     quality: 0
 
 secured: "YX9Cmw/zWXG8lmY2hD/f+gOoUtIbfQ9ZksipAwu4gKbMHHEs5dCYgl8ACEmTSsPGqAUWMRu7+yTYGcyn/0BLR2wk//KO3DaDQyJqmx1UHg5QiOsQaFWSDP8sAhQKKYtjorroJ6LveA9TVkhB+rm7p6d63upee3+HZQ8cA0DcFmJwvzEN9p1JR5/TQn2DyjVvVT95g1v6kFNu0gz53cYJXD2a2wi/h+giblAPQuVXZnIwHryKzPAnZCdCW3hLqFWO62IBtcufqwe4bQye8cHsAw==;E2Q1GCaSGnaMY03i6NrzKw=="

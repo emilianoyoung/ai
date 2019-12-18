@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8031F6C566A31B49A2B64DD38D5B93F9
         width: 700
         height: 479
+  - title: "Beethoven Never Finished His Last Symphony. Can Robots Complete the Job?"
+    excerpt: "Ludwig von Beethoven’s unfinished last symphony is being completed by artificial intelligence, Yahoo! reports. Beethoven died at age 56 in 1827. The work on his 10th and final symphony is part of a yearlong celebration of the composer’s 250th birthday on December 17, 2020. The decision to use AI is polarizing in the classical musical ..."
+    publishedDateTime: 2019-12-18T17:55:00Z
+    sourceUrl: https://www.popularmechanics.com/science/a30266727/beethoven-last-symphony-artificial-intelligence/
+    ampUrl: https://www.popularmechanics.com/science/amp30266727/beethoven-last-symphony-artificial-intelligence/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp30266727/beethoven-last-symphony-artificial-intelligence/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 58
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beethovenrobot-1576687849.jpg?crop=1xw:1xh;center,top&amp;resize=1200:*
+        width: 2000
+        height: 1000
   - title: "Artificial intelligence puts final notes on Beethoven's Tenth Symphony"
     excerpt: "Now, a team of musicologists and programmers is racing to complete a version of the piece using artificial intelligence, ahead of the 250th anniversary of his birth next year. “The progress has been impressive, even if the computer still has a lot to learn,” said Christine Siegert, head of archives at Beethoven House in the composer’s ..."
     publishedDateTime: 2019-12-13T06:39:00Z

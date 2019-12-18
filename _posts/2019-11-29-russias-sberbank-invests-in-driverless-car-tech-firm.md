@@ -52,19 +52,6 @@ related:
       - url: https://static.themoscowtimes.com/image/1360/b6/252052_1000x671_1024_6497751e746e7dc0197ba87ee5e042c62.jpg
         width: 1360
         height: 913
-  - title: "Sberbank to hold 30% stake in driverless cars venture"
-    excerpt: "Cognitive Pilot products and solutions are set to be used to develop digital economy projects in transportation, agriculture, computer vision, and artificial intelligence. The parties have signed legally binding documents and are scheduled to close the deal in December 2019. Sberbank is getting a 30% interest in the company, with 70% of shares ..."
-    publishedDateTime: 2019-11-28T16:22:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80790/sberbank-to-hold-30-stake-in-driverless-cars-venture
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
 
 secured: "bLg99a496Lo6/u3sGmbiqobRaEoGMugpC51rHLAiEHEXAlWrvVEZHONEsnkGsZKtgxPn884CQrKOtz33LnNAQ2wvwAie/XRIlp8UgrvTEHJZcqzbZGr0KY5MESKezVbghA2av4YiRmFkM3vGQBDnw4w08xwU901K138ahn53kjVFtfWvsPBlrr2dQY+eoP+SK5OSLOlXY4W8mqs97DSCKSV/7TCqhiTSNlhvrY5TgWTuGoNnQ78w0J84nPW2tto2yjDUDeUMKZVrIOi9VBg1sA==;vdj3Ys2qpCuDxdkl8YiMcQ=="
 ---

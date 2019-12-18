@@ -24,6 +24,21 @@ images:
     title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
 
 related:
+  - title: "Nvidia Announces New Orin Auto AI Processor"
+    excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
+    publishedDateTime: 2019-12-18T17:04:00Z
+    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
+    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
+        width: 950
+        height: 536
   - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
     excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
     publishedDateTime: 2019-12-18T14:49:00Z
@@ -39,19 +54,6 @@ related:
       - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
         width: 708
         height: 425
-  - title: "Nvidia Orin SoC melds next gen GPU and Arm Hercules CPU cores"
-    excerpt: "The fruit of four years of research, development and investment, Orin packs Nvidia's next generation GPU architecture alongside Arm Hercules CPU cores in a 17 ... programmable, software-defined AI platform, asserted Huang. Importantly the Orin SoC based system can meet systematic safety standards such as ISO 26262 ASIL-D. Nvidia reckons ..."
-    publishedDateTime: 2019-12-18T10:11:00Z
-    sourceUrl: https://www.hexus.net/tech/news/cpu/137963-nvidia-orin-soc-melds-next-gen-gpu-arm-hercules-cpu-cores/
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: https://hexus.net/media/uploaded/2019/12/e1b22cff-a757-4e71-abf2-6830d2af56f7.jpg
-        width: 700
-        height: 383
 
 secured: "G1LDlWuESO6vXA+cypS7W3OKwtkihtAkbCJvj3ibuXBwggmsby+Q37+hNhrQiYF9viVFYujmyMU7Wn350BPHMTd3zX/3hju6pW9YvFviIF5+LijcNKoneUQ6jXj/3CPUEB/bUSYw+JqHPBV7bwGy8PGEZ5RD9vf9ekjpeyjoJCI+WnzJsAQOQa9RstlRBI1XhtSGDFFvl16sO7EaqPPxrVMuJEja1nwZRi8f9Tp6KJhyzkbkalcMjJiNOxGIwDpA3rfXSX+L29nkaeitD/luHQ==;kLaXNCcJkOMG31PnjSv81A=="
 ---

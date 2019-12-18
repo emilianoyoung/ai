@@ -181,6 +181,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 0
+  - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
+    excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
+    publishedDateTime: 2019-12-18T17:47:00Z
+    sourceUrl: https://www.ksl.com/article/46692717/new-idc-technology-employment-impact-guide-forecasts-steady-growth-in-technology-job-roles-through-2023-led-by-data-and-machine-learning-positions
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 0
 
 secured: "KId0WnmmngoPGaW29tV08HpR2v03WPbH9wRpUtQl5lEbqdu9E3evGV+3Hy38X+zBTbIjDANRwAuP9MN5IENS2Dp2ySGdEjI0pkkX7p3UR3wE+47tisPg8IUWdG+3UJVhxF4JqUziKeoC3I1Kl/eDGlUxoa7TpfJQ6sVu+zsUtgaUr0yJTW7/Z0eAvisHiyQ2tJhWkCHDQ9tdJ8wkKhdMLxBhlwTHW8imlzEXVyiBMi9aIlvy/+h1agXVMWxU8fOJExo22taOdQ4s5zNp7cmEIw==;aufg5YetsFM8bTCoadvfrg=="
 ---

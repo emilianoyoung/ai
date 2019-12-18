@@ -8,7 +8,7 @@ ampUrl: https://www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-
 cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/amp/
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://static.themoscowtimes.com/image/1360/b6/252052_1000x671_1024_6497751e746e7dc0197ba87ee5e042c62.jpg
         width: 1360
         height: 913
-  - title: "Sberbank to hold 30% stake in driverless cars venture"
-    excerpt: "Cognitive Pilot products and solutions are set to be used to develop digital economy projects in transportation, agriculture, computer vision, and artificial intelligence. The parties have signed legally binding documents and are scheduled to close the deal in December 2019. Sberbank is getting a 30% interest in the company, with 70% of shares ..."
-    publishedDateTime: 2019-11-28T16:22:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80790/sberbank-to-hold-30-stake-in-driverless-cars-venture
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
   - title: "Russia’s Sberbank invests in driverless car tech firm"
     excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally binding agreement with Cognitive Technologies that will lead to the creation of a new company ..."
     publishedDateTime: 2019-11-29T01:26:00Z

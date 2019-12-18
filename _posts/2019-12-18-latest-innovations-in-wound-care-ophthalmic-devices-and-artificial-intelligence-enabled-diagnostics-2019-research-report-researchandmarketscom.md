@@ -47,19 +47,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 39
-  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
-    publishedDateTime: 2019-12-17T17:44:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
-        width: 700
-        height: 365
   - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2019-12-16T09:56:00Z
@@ -85,6 +72,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "5dWXuYPmf064SQ4fh8Y5DCFQf/9oywEpo4XcE5CVwlwOHlg2raEFDyKonp0eaxvWFjH5jzQunjadm2lTGXNmpVHYuI/swDUXpXk4FlcMRdP6D8cJ/eEulU+BbraABOKCnQC9XtzVrN40e6HaJt1p44So1x+5LU0YoPM5UYfCMnIvjZxtFpakHzdqR0Qf5obCAWYNxUIzyIr1s3mSb0MWhX/h1QgQgozb30th3XoCv1/dfZU2p0x5gf+7nrYEagQi9+k0wp7LYBK25CyF5UHQbQ==;14O8oAncou3ZykqQeQnhyA=="
+secured: "FCmiFYTMkJwt1y0aHQAzOMy1Q2j2j3OSdKu4bjInuQK2diFgqM1fzm0ZgcORehklXxQO9BcrFQYbE0mbiIJW81eW0w0mK6N68oxV4b9JMtxUjQ3ZX+E77/PmKUIwHN46jq5glMXKtBqeTiorBGMY+cYnBgWKFDEP/+Hlqklh6liF2H2TPPri1xCIEz+qJLvfBuNTacIV7bkxbgfToKA5xRd4CstE6LZ4wDndvnR2tTEw0/+qjnKckCXMOZqrG9Jghofuu2nxvxoXuaY/Ao4EBA==;4jlcX99+3s3BFPjDejYwgQ=="
 ---
 

@@ -501,6 +501,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
         width: 300
         height: 170
+  - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
+    publishedDateTime: 2019-12-18T17:07:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 53
   - title: "Researchers bypass airport and payment facial recognition systems using masks"
     excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
     publishedDateTime: 2019-12-16T11:35:00Z
@@ -737,6 +748,17 @@ related:
       - url: https://www.bing.com/th?id=ON.1F2D488AC44D76EEB57F03F217934DFE
         width: 140
         height: 140
+  - title: "Why some cities and states ban facial recognition technology"
+    excerpt: "Some cities are raising concerns that facial recognition technology misidentifies minorities. Others see its usefulness in law enforcement."
+    publishedDateTime: 2019-12-18T17:07:00Z
+    sourceUrl: https://www.csmonitor.com/Technology/2019/1218/Why-some-cities-and-states-ban-facial-recognition-technology
+    ampUrl: https://www.csmonitor.com/layout/set/amphtml/Technology/2019/1218/Why-some-cities-and-states-ban-facial-recognition-technology
+    cdnAmpUrl: https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/Technology/2019/1218/Why-some-cities-and-states-ban-facial-recognition-technology
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 39
   - title: "Why some US cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Massachusetts: Police departments around the US are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers – and even some technology giants – are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-18T06:54:00Z
@@ -800,6 +822,19 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
+    excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
+    publishedDateTime: 2019-12-18T16:54:53Z
+    sourceUrl: https://www.msn.com/en-us/news/politics/democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal-housing/ar-BBY84ZN
+    type: article
+    provider:
+      name: The Hill on MSN.com
+      domain: msn.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
+        width: 700
+        height: 393
   - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
     publishedDateTime: 2019-12-18T00:04:00Z
