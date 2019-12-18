@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-elect
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
         width: 1200
         height: 630
-  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
-    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
-    publishedDateTime: 2019-12-17T16:43:00Z
-    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
-    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
-        width: 700
-        height: 349
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z

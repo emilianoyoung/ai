@@ -24,118 +24,49 @@ images:
     title: "Russia's Yandex making its own self-driving sensors"
 
 related:
-  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
-    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
-    publishedDateTime: 2019-12-14T14:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
+    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
+    publishedDateTime: 2019-12-16T05:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
-        width: 600
-        height: 315
-  - title: "Let’s Not Butter Up Those Self-Driving Truck Highway Stunts"
-    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
-    publishedDateTime: 2019-12-16T17:29:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
+        width: 700
+        height: 350
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
+    publishedDateTime: 2019-12-17T18:55:00Z
+    sourceUrl: https://www.newsobserver.com/news/local/education/article238467493.html
+    ampUrl: https://amp.newsobserver.com/news/local/education/article238467493.html
+    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/education/article238467493.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
-        width: 600
-        height: 315
-  - title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
-    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
-    publishedDateTime: 2019-12-17T00:05:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+      - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
+        width: 1280
+        height: 720
+  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
+    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
+    publishedDateTime: 2019-12-11T14:02:13Z
+    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
-        width: 600
-        height: 315
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
-    publishedDateTime: 2019-12-16T18:07:00Z
-    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
-        width: 640
-        height: 427
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-12T10:05:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Reuters on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
+      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
-        height: 466
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
-    publishedDateTime: 2019-12-16T21:23:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/russias-yandex-making-its-own-self-driving-sensors
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B1A91D30E8803EB2803AA1A2FD26D8CC
-        width: 700
-        height: 525
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
-    publishedDateTime: 2019-12-12T08:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
-        width: 700
-        height: 419
+        height: 367
 
 secured: "MqPqzIKJkQKBNbY6+AO3kmf0BmZu8jDK9F0AtXvI0C6eYvKrCTZPeVPRHua7EJospcuLuAF3Aoewbhq3s/+srZeW16bKtqq7qcV4ccCJnU3Po3XaRzh1FUqt8iTASWbO/Qg+tL2NHhc5U6VLHVnCp3DXuAXGuf7/yj+EDi3ybUZ8fWamRxZIZPT149bEh4Dr8zjXKMD3Iegltz//E+4w8qHKB6/fRc3GSqVeBT7gB8d7gvi4yU7CP4ohOQETQiI9gNtTovnp+S9abGz4Dtamvw==;M7vRkzTQvi/eoR3fIoUGfg=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 723
     title: "Face recognition systems active at Chaayos outlets without opt-out feature; some questions"
 
-secured: "GNeNfU47f7Kgz6XupCYLz/KD6ROTFYp0mLCGRiGh2dlxqGWPAamlf0LtcOAhTwgIx5I9Jw1uFm95hxTQtwAKzLTI/YxhORTOschWRd0NSgJmPKg5RwebIr1XpoK97lguWTvvih8lZY11mMeONW7QScZCsm7KI5xkIBwQEtm2ABRVmK6TJmZ4XsdazgctsNz51tIN48kLRQbP9urdJfQTHLxAQUwH50qkA7BySfbIZRqU9wwl3SClXS6by1IeWX/B56Osf/vJM208YIAuco0lMA==;6dC2tDs9S/TahZ2nDYjahA=="
+secured: "Fe5ygWlR77st7XGY20gq1SsDkGCuPCCL2X30K6Iq/HTD0B3gZXWbVVGdX3I2wUQOtx6F/O0XWPGWOXOQH/u1cKlpX1Es5uS4bqzNxZ8BTKLy7hS64wWsISt4J9MDMcffFD07HOFXsRKTig+AzpNinUBlxC2Mi380zOu556WYeAhPVhwGBs8oAiIGiq9DwmucbG3cPVWew69o4lcckXaVjG9UOhvmqoSrMWx+9FI5zYMJbC3DmHDsvKmBxIq6RiYq3mhakcxzic9YTTSCW7if2A==;s61DRcgKMcolSqN5Us2tVg=="
 ---
 

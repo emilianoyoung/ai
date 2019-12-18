@@ -83,21 +83,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
         width: 700
         height: 366
-  - title: "Amazon’s New Features Simplify Incorporating AI Predictions Into Apps & Services"
-    excerpt: "In a recent report, he noted that AI can drive AWS revenues and margins as its capabilities are gradually embedded into cloud services. To this end, in the third fiscal quarter of 2019, AWS grew 45% in sales to $9 billion, maintaining pole position ahead of Microsoft Azure and Google Cloud and accounting for 13% of Amazon’s total revenue."
-    publishedDateTime: 2019-11-28T06:23:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/amazons-new-features-simplify-incorporating-ai-predictions-into-apps-services/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/amazons-new-features-simplify-incorporating-ai-predictions-into-apps-services/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/amazons-new-features-simplify-incorporating-ai-predictions-into-apps-services/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.917E0241DEEC3360C0960AD9B15DF2E8
-        width: 700
-        height: 382
   - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
     excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
     publishedDateTime: 2019-12-03T20:30:00Z

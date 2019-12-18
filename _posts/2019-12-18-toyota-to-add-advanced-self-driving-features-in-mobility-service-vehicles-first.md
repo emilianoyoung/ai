@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
-publishedDateTime: 2019-12-17T09:39:00Z
-sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
-ampUrl: https://amp.benzinga.com/amp/content/15000614
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
+publishedDateTime: 2019-12-18T07:51:00Z
+sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
+ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
+    width: 600
+    height: 400
+    title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
 
 related:
   - title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
@@ -49,21 +55,17 @@ related:
         width: 700
         height: 393
   - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
-    publishedDateTime: 2019-12-18T07:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
+    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
+    publishedDateTime: 2019-12-17T09:39:00Z
+    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
+    ampUrl: https://amp.benzinga.com/amp/content/15000614
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
     type: article
     provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
-        width: 600
-        height: 400
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
-secured: "TJAaAdu1I/lLfKOxE9VquLvrTE9lBa1jfZCeY5ayzVS6dqGHETio/ntdJXyXxul5YTEISpVGOBbi7bR1UtBEoZ3Y/ZMssqTUVmD9XR9foiJH6msJzv6iLMvQmESK0wQcn63svZgu7S3mNXjXD+tS6amRUldGcbSmaV4YGKbDjpJEN2jg9sz2lpCirBVi/2stN7RsTwI+jj2ucHgiTRIa+hBPTZy9P6VQNZ8XOLubsyH6EOnddV88UBwc8To4XDiki76NCJhESVzbuLlrW60v7w==;OrcGtGraQH54ksK4CxVYEQ=="
+secured: "spC2snrhBr2fjK2HFZ5nc8er5QH7iud3EwGuc3Nv4+yZyPmpJYAiC5PX1dt27Y+q1N3U7jXy6y1zJg2yqjdmDwacR9ClA/zHrAOG1IAb3VpSpDOLjrsNnZ2Rkwluv0zJGQUn9Ra8+UKAuZDXaIPrWdnyYrk8Sl3zNrxScMKb3HBng5v0c5Co1f+mPAlnYNtCqpCpizbnSSdH7ueTWHrXJaCKhgFgrT3WxZ9gbUD/g3UPpCmZu5ucJidwcY1EIXL/awK+FkXEKFT9UKWyMNWfnA==;Bf11BSpB/K4JL0WVk9EzgQ=="
 ---
 

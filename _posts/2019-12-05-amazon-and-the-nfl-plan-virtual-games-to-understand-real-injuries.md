@@ -73,21 +73,6 @@ related:
       - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
         width: 700
         height: 350
-  - title: "Amazon’s New Features Simplify Incorporating AI Predictions Into Apps & Services"
-    excerpt: "In a recent report, he noted that AI can drive AWS revenues and margins as its capabilities are gradually embedded into cloud services. To this end, in the third fiscal quarter of 2019, AWS grew 45% in sales to $9 billion, maintaining pole position ahead of Microsoft Azure and Google Cloud and accounting for 13% of Amazon’s total revenue."
-    publishedDateTime: 2019-11-28T06:23:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/amazons-new-features-simplify-incorporating-ai-predictions-into-apps-services/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/amazons-new-features-simplify-incorporating-ai-predictions-into-apps-services/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/amazons-new-features-simplify-incorporating-ai-predictions-into-apps-services/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.917E0241DEEC3360C0960AD9B15DF2E8
-        width: 700
-        height: 382
   - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
     excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
     publishedDateTime: 2019-12-06T13:45:00Z

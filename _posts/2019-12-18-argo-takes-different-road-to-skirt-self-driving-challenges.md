@@ -1,33 +1,27 @@
 ---
 category: news
-title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
-excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
-publishedDateTime: 2019-12-17T16:43:00Z
-sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
-ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+title: "Argo takes different road to skirt self-driving challenges"
+excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. \"Waymo, however, is now working on adapting its automated 'driver' to commercial vehicles ..."
+publishedDateTime: 2019-12-18T07:49:00Z
+sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
-  images:
-    - url: /assets/images/organizations/electrek.co-50x50.jpg
-      width: 50
-      height: 50
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+  - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
     width: 700
-    height: 349
-    title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    height: 467
+    title: "Argo takes different road to skirt self-driving challenges"
 
 related:
   - title: "Argo takes different road to skirt self-driving challenges"
@@ -60,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
         width: 600
         height: 315
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
     publishedDateTime: 2019-12-11T11:06:00Z
@@ -110,19 +119,6 @@ related:
       - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. \"Waymo, however, is now working on adapting its automated 'driver' to commercial vehicles ..."
-    publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
-        width: 700
-        height: 467
   - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-11T10:22:00Z
@@ -183,6 +179,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "zfr0FT2ZKyoVFzkF8QgPJ62U/WaNFrP9DgWYmXg0HZLqA7WxjYpJ0euC4anfeY/5Oyix0u5nC3jzM35lnhNDFVK1ZeoOo2OaBjW20CSpR2K4kw46r1sdAvtCcY76jiIjeECPpG2uNlZ0/mLy7hyZUCbJkyr+XUbSfCBeuLhZJ8be1QJfOqIC529SwvNOoIdXZqSCVsqebhv8/BGtk9bmnFxKORQa+MrDxjfbXqfSRIWfIEbkf7n57DX1URdneK20EjOmi+nFGUOgWJkcFTJn3g==;T2G5XXAYdqVjnpkqk8TUDg=="
+secured: "dig0QMVDTkZN1OFvJCIn/chIAWblQtohXY7NkpVfFT9HLbnJp5HlMYHadyB5C0rvmXJrZngYgX+dtzCN5rzEmD5N9a1TJHKySWDZBPgAhQVECyMxNLepldkQ+lscarm/xs1+cKrV8KgdVwjhdhsJyq3+Phx1i4/ZO5eooxOQQe8mEU0gwDcB0lx4Z5wp77Ha8Af7aV6ZkbYqOYjoliIk/qDUsG8eM4Q3/OlMeoPpiWcOou1YaPOeknU4pOz3DJLKpDMt8E27IE+Da3qymyhQjQ==;MLWOaSfJv6M0soCj7vjckg=="
 ---
 

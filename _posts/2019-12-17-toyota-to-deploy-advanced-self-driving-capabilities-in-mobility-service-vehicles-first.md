@@ -40,6 +40,21 @@ related:
         width: 700
         height: 393
   - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
+    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
+    publishedDateTime: 2019-12-18T07:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
+        width: 600
+        height: 400
+  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
     excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
     publishedDateTime: 2019-12-17T09:39:00Z
     sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
@@ -50,15 +65,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "wZH55iTL+CbVefDSdHbTHwVR44exV08tVLzHE6by9ukrb0yXDKzTbBvHV/ntUVaGj7xO3yG6c90eL4TmWunr/JFwUnW2axtvL8Lv0CdX7n2uXTEJ0MdVnr8agINz1irWFWFOMIWqs0l10bEKa7BpJ1NSSCyzPjA5vSOP8MHMr4hFojptJStj3vZL/2x0O2+1ufuWC//z0qWPm3AvXes64YcMxI6uxhk6lJFCHcbXIT1ahepwFKQh9mb/GONwYPoL48pRdh0ClAnmCAjeLTZpDQ==;5TXxpnh9v2Y2Be9HLREO3g=="
 ---

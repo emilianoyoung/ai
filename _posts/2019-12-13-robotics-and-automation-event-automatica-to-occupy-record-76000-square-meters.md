@@ -39,6 +39,17 @@ related:
       - url: https://www.bing.com/th?id=ON.E6BEBBC4E5C9BFE25629231A9D4C01D4
         width: 700
         height: 365
+  - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
+    excerpt: "Nvidia is looking to extend its lead as an AI company by improving its image recognition, language recognition, and decision-making platforms, as well as a new chip for autonomous vehicles. The GPU Technology Conference is one of the biggest conferences around AI each year. At the ongoing GTC 2019 China, Nvidia held a keynote to emphasize the ..."
+    publishedDateTime: 2019-12-18T07:28:00Z
+    sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
 
 secured: "oqz3/ftOQ7ktWffPzeZlD+NkWpBlhMZUuOMOhIG9+91uD3c2SeItDBP7Dq2zT69NGz8fp37kUy4HBODWUtEuETkHLosXatPyQ7TEgyZc0wsEHEIFQ6c6OrIQWVme0oISZutd6QAdHBARtauY6hMTsopJWuyattlTJTBuenjWcKI0zJhATgGUkMiCkH0NZ2o7E9rHJm7b9nnCvSXm4ga8LRnyHpTq5+LlFpqkujNER9qDQzkSjWUrhp7w9d7/d4ZOic3CGs5486xc6OPTcQWQ7g==;RpgUvLwxFgLnLtMD9mHCGw=="
 ---
