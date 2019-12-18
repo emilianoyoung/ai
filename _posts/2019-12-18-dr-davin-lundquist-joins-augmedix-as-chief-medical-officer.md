@@ -3,7 +3,7 @@ category: news
 title: "Dr. Davin Lundquist Joins Augmedix as Chief Medical Officer"
 excerpt: "Introducing next-generation natural language processing automation modules into the Augmedix workflow Advancing Augmedix's real-time support systems to prompt doctors to close care gaps and tend to other critical quality initiatives Dr. Lundquist will also be supporting the company's commercial efforts as it expands its footprint among major US ..."
 publishedDateTime: 2019-12-18T17:29:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-dr-dav-lundquist-joins-augmedix-as-chief-medical-/2019/12/18/9072018.htm
+sourceUrl: https://www.tmcnet.com/usubmit/2019/12/18/9072018.htm
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Dr. Davin Lundquist Joins Augmedix as Chief Medical Officer"
 
-secured: "ubNkAt1Dtw08k2h/nK8l+QmdxRmRLGtQKPbQ6buIaw5PRyhaYZ11OwPUa2+SAsuRnO2S0WQmM013PI9uSSL4mjVLUdo0We1PtD1QZpP5ig/l7gHfF6R/Or9L95a91YqXzwmGR85Lgl43ef/6SO8gDzYh9wCSPN+Ep1gvRmtof1FVteEKac18ucarGjRHhqNLTr+ugFEqZ287lO5+KSgkyD8DGH1fNMM2ECXjXIc0QiG+4OAzoC8dIKIox5GDdrSFI2N3uuj1H8tAb8W3ns4FQQ==;JsevmDuNvQktYjvBfVbyrw=="
+secured: "mZXn2jEA622+JEVp6QwQ9pvuOiFgPbdzJ+m/1kMWMoHMUh/eZCabzfr/w3qfyZIuvUhuqfF0h1rAdntz7hRS+8b/ayYKJkIrUq1G9Hn8T8MSZJNYQe1YLDRrkF1UwnVYH0fWdjb3tv4JFM4eO/kPmu11WDbHbJlTMd6uS+PgT4752nfp67ctT8S7mK3Hs3mecjE/GzIQg93JeQIFkvPkfLWmMGjN2KkSs1Fkq2Rp/8P3aWSCCQ2nluUdtFarPSyXXrgQcVf/48ztsaPjjUAoVg==;VfAnl1QFcIDYXbC3LFLbSw=="
 ---
 

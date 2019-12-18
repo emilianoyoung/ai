@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: https://mms.businesswire.com/media/20191218005410/en/371054/23/ResearchAndMarkets_800px.jpg
@@ -73,6 +72,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "dlSsNTTCZ/FoNh9RVBB75Xp+YrkvkoA+J9gfHHnQGFssIv403vfKrjkuXARTvMkwDW17wDZQ+zwt7iSc18ygkxNy4Sf0SdyH+gkAk9vuKQAJLWQXb3b7P36bpgUfNAtAabs8dLIN57fZF1dhLgd/iXY+CcYi/Ar3U+ouw0ox1VLeJgHZ5GjGoyeZDo/XUppbzpQztKRTWVQVsCHthZUsmfDRlC0wsPDPvpDe1sqRFFJ8a5iYwNqMIioK6TtFu5MvHwxhWQMzfaR4/rMVF1vydA==;/yJ2E+oj/oIJONXcMdfxzg=="
+secured: "peDVeEbf3TfLJB7FUSvyoPJkQKva1NJKEYg65crwURHBmbLv1YxUNXeQoQupGMqCNrvoDj+GhPiJiSRdwiucQeNGvJ9agbFlC71bl4YkW4Btcshv3Oo13GA+Rc6tawR9IJFYBRJJXfJm2gENYe0yRF5ibnUjv+4urLUdVQqY1gF+v/HmQs/LKzSQDpimGsD0+qYRJsGI5qgDq/7cz1iYqld36qw5/Uq6YALQf2JVs7zJdcXoNaEkrjiTvzNJTd6I2dr1CulZmu4vodyZY9VJ7Q==;QHtNMFpkHosnpgDYJAWVUw=="
 ---
 

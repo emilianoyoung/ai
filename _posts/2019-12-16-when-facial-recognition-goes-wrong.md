@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
         width: 300
         height: 250
-  - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
-    excerpt: "A group of Democratic ... review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology, which scans faces for the purposes of identifying individuals, in buildings ..."
-    publishedDateTime: 2019-12-18T16:54:00Z
-    sourceUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal
-    ampUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 137
-    images:
-      - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
-        width: 700
-        height: 393
   - title: "Campaigners block use of facial recognition and ICE access to data"
     excerpt: "Activists have claimed victory in a long-running battle with US law enforcement to stop one of the most sophisticated and far-reaching facial recognition programmes. A facial recognition system used by more than 30 agencies across San Diego, California will be suspended on 1 January 2020, according to a new agenda published by the San Diego ..."
     publishedDateTime: 2019-12-12T12:13:00Z
@@ -722,6 +707,19 @@ related:
       - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
         width: 530
         height: 360
+  - title: "Lawmakers seek answers on HUD's use of facial recognition"
+    excerpt: "Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD."
+    publishedDateTime: 2019-12-18T21:19:00Z
+    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx?admgarea=TC_Management
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png
+        width: 620
+        height: 300
   - title: "More Cities Resist Facial Recognition Systems"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another tool in their crime-fighting toolbox. Some lawmakers — and even some technology giants — are hitting the brakes, the Associated Press reports. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-18T16:25:00Z
@@ -835,6 +833,19 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
+    excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
+    publishedDateTime: 2019-12-18T16:54:53Z
+    sourceUrl: https://www.msn.com/en-us/news/politics/democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal-housing/ar-BBY84ZN
+    type: article
+    provider:
+      name: The Hill on MSN.com
+      domain: msn.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
+        width: 700
+        height: 393
   - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
     publishedDateTime: 2019-12-18T00:04:00Z

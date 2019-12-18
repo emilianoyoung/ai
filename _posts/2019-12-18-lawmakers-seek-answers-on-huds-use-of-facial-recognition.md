@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Sea-Tac airport officials opt out of using facial recognition technology"
-excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
-publishedDateTime: 2019-12-11T11:57:00Z
-sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238265333.html
-ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238265333.html
-cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238265333.html
+title: "Lawmakers seek answers on HUD's use of facial recognition"
+excerpt: "Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD."
+publishedDateTime: 2019-12-18T21:19:00Z
+sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx?admgarea=TC_Management
 type: article
-quality: 73
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Federal Computer Week
+  domain: fcw.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.088E8F8E3210CC4987FBB31579FD05D2
-    width: 700
-    height: 393
-    title: "Sea-Tac airport officials opt out of using facial recognition technology"
+  - url: https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png
+    width: 620
+    height: 300
+    title: "Lawmakers seek answers on HUD's use of facial recognition"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -189,6 +187,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
+  - title: "Sea-Tac airport officials opt out of using facial recognition technology"
+    excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
+    publishedDateTime: 2019-12-11T11:57:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238265333.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238265333.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238265333.html
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.088E8F8E3210CC4987FBB31579FD05D2
+        width: 700
+        height: 393
   - title: "LAX embraces facial recognition tech, but Sea-Tac airport hits the brakes"
     excerpt: "As many U.S. airports, including LAX, rush to embrace the use of facial-recognition technology by airlines and U.S. Customs and Border Protection, Seattle-Tacoma International Airport is applying the brakes. On Tuesday, the Port of Seattle Commission (which manages Sea-Tac) unanimously approved a temporary ban on some uses of biometric ..."
     publishedDateTime: 2019-12-12T15:53:00Z
@@ -707,19 +720,6 @@ related:
       - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
         width: 530
         height: 360
-  - title: "Lawmakers seek answers on HUD's use of facial recognition"
-    excerpt: "Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD."
-    publishedDateTime: 2019-12-18T21:19:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx?admgarea=TC_Management
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png
-        width: 620
-        height: 300
   - title: "More Cities Resist Facial Recognition Systems"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another tool in their crime-fighting toolbox. Some lawmakers — and even some technology giants — are hitting the brakes, the Associated Press reports. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-18T16:25:00Z
@@ -1014,6 +1014,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "RlbcUM2eysEx151zjDz0ceVyydqK+ZIml3FMt8XPZ7quECtxcf7Rg1i+bSjzqGpeA3HnDN2Ro7Zz+Jj0EEGMKvawaYJAiYhiX5rA5l/9D6cKWkAajaR9VtzBr7SqYqbEiqguG2qeiXO7qApb4JOJR2OZfemZsuEkJd+c28tJWCGQQMfo7LoRoyFfGeIhuPpKLnD8JDWBKVhyhQObS8U2SFF8O35oxellDj185GZPXJu2Nbb1dKUrfxXahgckAMN81J7O+VRi7YIgtQYtR7R7mQ==;Bdumktgn+9aCFFyiBV3reQ=="
+secured: "/PqTTp8aYQTIRE9//6/0nEWrCTx5vIa76G2N9cl7bO4bzRUk/FoQDWw6nL03/gDUpQtrcMJx3hNte8t2AM67oww2r3nhL3VOyFKhW9PmgRR7OBRZId6PsSynLn61dtx3Y8B3soPSuO2bceI354LMp4s/anUv3VlIb9wSGT2cpKh7+RwPoWt6zlKJxRWY5hlqmbjFvEqA/RzS/UH3eeggBeov2uc+iTVsyyORqS3RH2VA6c4xnkRP9Lo5HchYdo/Klc8aois1fwCyEVbrlh8UDw==;H3OTBsAkR27g++cuRl8pzA=="
 ---
 

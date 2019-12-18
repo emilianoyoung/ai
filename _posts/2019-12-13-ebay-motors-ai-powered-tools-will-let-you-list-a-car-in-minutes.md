@@ -89,6 +89,19 @@ related:
       - url: https://www.bing.com/th?id=ON.162E6DC054F4401A02A391443AA0D19E
         width: 700
         height: 466
+  - title: "Get a robot to analyse your tweets and match you to a job"
+    excerpt: "Then, using a tool available through IBM’s cloud-based artificial intelligence engine Watson, and its Personality Insights service, we gave each profile a score across ten personality-related characteristics, based on the language in their posts. We used a variety of data analytics and machine learning techniques to explore the personality of ..."
+    publishedDateTime: 2019-12-18T21:20:00Z
+    sourceUrl: https://www.adnews.com.au/news/get-a-robot-to-analyse-your-tweets-and-match-you-to-a-job
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.09BA549210C3D8C37EF20AEF7BEE53F3
+        width: 700
+        height: 338
 
 secured: "7bioKTxKKwJ90uepDOhJxGP5iyUZ4UQAECZfLwk4ktXF0OQ7SXoV+WOrS1SxAmBZ5wWaq4awrPkS1XQYcYiSZFrOKGWluGRS8U03RqwqK3P6r1WZV5T6iY1g/Ndahdgh+mKlK83Q/8l6Lr/VZSnpaZvQXsYFxWaoRDuav459LbshhSp1h4Nu33Ow/1iU7uUOZzAb/O31kOUvrquF/2KQ6iXykxEVGJwQnMLLLuqbFHZM8RY17im0T3fMitlWQs4+lI6Sysvj2DO3oXpEAzpJPQ==;sGg2e574GZKvUgcg/F3M7A=="
 ---
