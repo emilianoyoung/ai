@@ -1,27 +1,21 @@
 ---
 category: news
-title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
-excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
-publishedDateTime: 2019-12-11T10:13:00Z
-sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
+title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
+excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
+publishedDateTime: 2019-12-18T09:48:00Z
+sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
 type: article
-quality: 35
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
-    width: 612
-    height: 355
-    title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+  - AI Hardware
 
 related:
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
@@ -67,16 +61,20 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
         width: 700
         height: 394
-  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-18T09:48:00Z
-    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
+  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
+    publishedDateTime: 2019-12-11T10:13:00Z
+    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
+        width: 612
+        height: 355
 
-secured: "RP6JlRHEepcsSTL06FblUjMx/kzwvZZETIJO9u/xcz/WAhhTc3dHTdTLvwTpY114tlODUKugBY/IjhRgbXVoDsoyUot6B18BBRnMvUeithNvWgDuKy5iFZNgQU1Odnx2KH1Ss84qwHyaxoP4LWwHM25589TFgZvpOpIz/ESeCltCZUohxT0pWRgH/r1JBbGpco/WMCYutTHCQ4hx4YBoO3ETqecTZRrWecYOaXADuBuz3Aau9qyZ8+vB/oMIOkzDn+XR/IW2c6ZAH9Xpfx6w+A==;mM/0Jcjqr0QQ4s/kKIjWPg=="
+secured: "B7VJOn3Hf0Cd2InElb2CBAY/Tm1bhEn26TqMqMUVoFxwAg3EW++jY9kDPok2hA4tDLZ89npiC3UEIwGVx8FZkwKClKVHEraSRQcuc07NyvBTh3rnsW7w8/9GvtwYiKpN2qRvzMlPhzxGhaPylQ/JFj5ZVsTyjLPvCiucFDEkR7aLaka4UYpIfrNePW56TiMiKoDqqWqcdjDDULeeObEl364TNhCIsrMvNn0nrjitiQusvwvGXTF/NxmkH2hXE2CqW+FVcUO4S+y+GQJ6dg4HgQ==;pyMO+tdqTFhH38GYMvQXhA=="
 ---
 

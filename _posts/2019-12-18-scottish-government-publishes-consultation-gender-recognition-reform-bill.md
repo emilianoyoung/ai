@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Homeland Security easing facial recognition rule for airports"
-excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s proposed mandatory use of the technology was included in the so-called unified agenda ..."
-publishedDateTime: 2019-12-10T23:22:00Z
-sourceUrl: https://www.sfexaminer.com/national-news/homeland-security-easing-facial-recognition-rule-for-airports/
+title: "Scottish Government publishes consultation Gender Recognition Reform bill"
+excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
+publishedDateTime: 2019-12-18T09:18:00Z
+sourceUrl: https://www.holyrood.com/news/view,scottish-government-publishes-consultation-gender-recognition-reform-bill_14887.htm
 type: article
-quality: 54
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Examiner
-  domain: sfexaminer.com
+  name: Holyrood
+  domain: holyrood.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.86E927D067167D90496B78CBF77308AD
+  - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
     width: 700
     height: 466
-    title: "Homeland Security easing facial recognition rule for airports"
+    title: "Scottish Government publishes consultation Gender Recognition Reform bill"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -395,6 +395,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D3C3077441691692070F991362C62B79
         width: 700
         height: 366
+  - title: "Homeland Security easing facial recognition rule for airports"
+    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s proposed mandatory use of the technology was included in the so-called unified agenda ..."
+    publishedDateTime: 2019-12-10T23:22:00Z
+    sourceUrl: https://www.sfexaminer.com/national-news/homeland-security-easing-facial-recognition-rule-for-airports/
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.86E927D067167D90496B78CBF77308AD
+        width: 700
+        height: 466
   - title: "Sea-Tac airport officials opt out of facial recognition"
     excerpt: "SEATTLE (AP) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission ..."
     publishedDateTime: 2019-12-11T13:08:00Z
@@ -866,19 +879,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
         width: 700
         height: 366
-  - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
-    excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
-    publishedDateTime: 2019-12-18T09:18:00Z
-    sourceUrl: https://www.holyrood.com/news/view,scottish-government-publishes-consultation-gender-recognition-reform-bill_14887.htm
-    type: article
-    provider:
-      name: Holyrood
-      domain: holyrood.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
-        width: 700
-        height: 466
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z
@@ -907,6 +907,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "PJZb9kwf/d/A+Mh27CA4+QXIycqMBLbNXNg5MHwSMnmm5s/0r9I0pWYztvGYXVgv4yltoGxfiu5X04JFfSXiImzFJjkQ3NBWRR2+p3fRjA5/xlLp2GexQiOoReUbAp4Fuwuossp/w9hKiZ3eFJ9TOBhGdV0efOWBzOTmv4PiIr6Ho+Am3ydP/+S3VCRqQNr/Ns3R7tPl4/xyCWD67Lu5Rfav1HxCKA7d+nrgEhygx2iRmxYaTsAQk5lynjCh3eNK+O2VfX60D60zhWAMb748yg==;z1yHneFpTvv+T4ZMOW/lVg=="
+secured: "w1MICQ/qk2AX8iWYSWqESdsEnfJ628W8/DrDsyZCPmnslPLbbFr5n0zkhVPRMPpxzdA2tQGLphQhohoKFMwNM46I7ZSs0Z4lI/VAiHZzgNd9E3cs638gm7pul6SCUXFnlu1Cx/1N5EQt/BD+Iratg64s7ZZ+R2ONSPwoc4xyaby1kTsZNpBV4rFcWDNRK0genNEe5F9gVn88N8BxpX+TaZlL7t676LzamMUCErai6xesRP3u4xcb7pR1eDCSllLRVzDeu8kCB+woc7i9oo7ZQA==;JmxWZVTJjQh1u66Qw6qElw=="
 ---
 

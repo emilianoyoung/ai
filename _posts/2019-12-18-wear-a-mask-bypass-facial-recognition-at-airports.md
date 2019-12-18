@@ -867,6 +867,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
         width: 700
         height: 366
+  - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
+    excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
+    publishedDateTime: 2019-12-18T09:18:00Z
+    sourceUrl: https://www.holyrood.com/news/view,scottish-government-publishes-consultation-gender-recognition-reform-bill_14887.htm
+    type: article
+    provider:
+      name: Holyrood
+      domain: holyrood.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
+        width: 700
+        height: 466
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -71,7 +71,16 @@ related:
       - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
         width: 612
         height: 355
+  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
+    publishedDateTime: 2019-12-18T09:48:00Z
+    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
-secured: "8nvBlXL62Hrjgq3v+LBREjkCUtRgUXj99LqvnXYeDB1QPDyvegJsYAtafqF1Ta9vQ0clLXztoSidqCosAedGlyMJkWWo3L03ivzA8UPOevmgw3Gek2tYkYP6PM2bbB+wQYJWT6xZI/Lqz7mQOoxialSfEa+hwdTgJewJ2I7m4TKPgDCPsdOJSiV9leezUg2X+GTY2meJhFsTK1ZL2KOSRHmoJtBdRvoZVEsC1TsYQd1aON2LdUheWtwKrJLegil16a9toOJ0HmxRcqHYzl53Kw==;jZllfQ2gqrNHhKxdxw7Ujg=="
+secured: "/Cyvfyef0KtSMzRhKutmYWX7fd/11kl39MAqhH/9UOvgXeMMmoi6zARQIsFA76HiOD7vauayB7+mhyIulMsgDzmI1ItOQLHS+jYLadtVa9Ei8S5md21Kc1GfOphyaGspN6AyJCP/KXzBGYx5oluawTyC4yX3qhtkUWHWUFjVXSqYZbqmhDKS/fxxVumCCub6lohf2cD+yyAuX+L4pTMfeGqQgpnAzSXdyP/9x8AkSTyIm7kw1Vv9wamxjGw4tXgtO9LsIxN5zzpLKBz/1qFYCg==;6F96UJEWLJvaL58iZ6rqoQ=="
 ---
 

@@ -2,26 +2,26 @@
 category: news
 title: "New Amazon tool helps machine learning models identify unique objects"
 excerpt: "Amazon announced a new capability today called Amazon Rekognition Custom Labels to help customers train machine learning models to understand a set of objects when there is a limited set of information. Typically, machine learning models have to work on ..."
-publishedDateTime: 2019-11-25T20:14:00Z
-sourceUrl: https://au.finance.yahoo.com/news/amazon-tool-helps-machine-learning-195711792.html
+publishedDateTime: 2019-11-25T20:03:00Z
+sourceUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/
+ampUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.CA7336090CA46BAF5EF4E311255EA932
-    width: 700
-    height: 466
-    title: "New Amazon tool helps machine learning models identify unique objects"
 
 related:
   - title: "New Amazon tool simplifies delivery of containerized machine learning models"
@@ -40,6 +40,6 @@ related:
         width: 529
         height: 400
 
-secured: "T9+6SSgGgRKgpXNiVR20T4pWsCbcApE2MtE7Jqho/J4UVGbTZgVdaYHjqgsTsg2AjhQbdFSIgYaHC+EaT1WYEEEYhvtZ4Rqqs326BtjNo3ikkuW/LiZgxx6GghNrIOw81K7UDy+Lqc3pTavoaMyiG8sder/PDIpW8jrBU/DN9GiBYK6PDVXvF9T2JHObJ4WFUV8Nex29W2Kl9a2u28wCWNcwFLJryfB1koMkqjtcahoOrVO0GM8LqnmLbFXtGnC50C8PW1FmNRDu/EdUr3rhNQ==;Jo7qiEHONMlMD+iLJv65Lw=="
+secured: "jRSN0WDssU4cm5/56GGstYkm+JjzJymX8X4XhbLme3e6rTiUfDb3Q2YyX1C3VLTd2LeVpUbluK2k1jrjcoeYE5CWfPp7zpdfDq01oRj4Tm5W6+nX15n7uD8QFIU5Iy8EVGOHkwy8a8jpZa6zSfJn+SgSKht2oenAWxtgR99etw0sv+dNkIPET37AXqbMxRuFGAZ7WMzedK0wuC5zs8fJIoEiP/DhaEGVzbUIX2mIQEuFLNFBSuWj/pzzoDIz+U3GfbJ5uHkvUreXg4dyDacDGA==;F86wEiXXSR5vfAJ4/1kEqA=="
 ---
 

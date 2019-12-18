@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Why Machine Learning Is Still Dumb (And How We Might Fix It)"
 
-secured: "90FGu9e8CqP2+99oz3mWJV+yRBw0PSspEhLDeWgrXNAym0yiqDfnxwKHmgxkU+t6Y6KFzadhIvK6sS4qp5Pr5gBs1KiaSzkN+7dn6hJCJ6p0QdGp/OVlKhklftUgQB897h2cwIC4UImdDplBSf0YaZjYvbW2iyzYtyF3BCzNfYsIr2ElYbsdzRfYbrGVjwaKHkt58YVejK1pWRaztyXybS0kW5pjHQzcYSAdPgmGrmUiCYtjSxGT2aJ2B9Eu9GXKD1r9gkjV9LPRXpWyY3yFVg==;CicrVfHhjBG7PLX9s+Q/FA=="
+secured: "ij+FC5SAlStCFkQNsTs0ghf7gfLzJRtDkKkRO9bkVIQc4hyjsSJKY9IeBY37W2qke5ORMT3SEByOhDuBOIuqSoEUIEm5o1cASqnLeIZ6tao4x6acDHOQKBHlIc0oX75/FvhRSGBhFPyYickVkxFboxbijlnry4ZXd3XyJJ5FW6OFva+AT6fdAchPDFk3KXF8HP2Mw8DHvT7OY2Qb+scNcXYiSit1G3jJx2HBkq6HmVqm+2N3nWzAdXAO+lAYa8ntOvFZTEOcWl6qrbqU0vxp0A==;ooJoesruDtfi6xINJQQ2qQ=="
 ---
 

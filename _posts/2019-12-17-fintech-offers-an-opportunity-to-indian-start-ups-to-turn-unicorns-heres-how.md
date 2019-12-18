@@ -39,6 +39,15 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here's how"
+    excerpt: "The financial services sector has witnessed a massive shift towards digital technology. First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics."
+    publishedDateTime: 2019-12-18T03:05:33Z
+    sourceUrl: https://www.msn.com/en-in/news/other/fintech-offers-an-opportunity-to-indian-start-ups-to-turn-unicorns-heres-how/ar-BBY6nJ1
+    type: article
+    provider:
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 0
 
 secured: "sBLw9QJLvA6SuycSJPnjjUrAYxYGo1Bm8vJZpH6rSx5kkvuCuF3iZ0b70i6sufeFP1Ou63JQJCl5RSCe1OvUsJIylIoVNdidiFQhiwa1RO5UOZGxQXRZ9ZNbCKX/rmadrK0L7MZM2+BVd7t4lT5TW3ms1436Edf8S2nEXCd8cRvgkQie7sHWMmr4Kgn3oDZ6mxxwaX/4AoHkgM+knp3iDDz/WFdHCzM5eYrZe3AiMCeZlTy1e7ERhDmgmxrw3hqk6yEeu7GfPOCroWFq9cIKZw==;lbGX8VC92FPM5+MjJ/mKjg=="
 ---

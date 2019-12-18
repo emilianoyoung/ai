@@ -873,6 +873,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
         width: 700
         height: 366
+  - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
+    excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
+    publishedDateTime: 2019-12-18T09:18:00Z
+    sourceUrl: https://www.holyrood.com/news/view,scottish-government-publishes-consultation-gender-recognition-reform-bill_14887.htm
+    type: article
+    provider:
+      name: Holyrood
+      domain: holyrood.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
+        width: 700
+        height: 466
   - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
     excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
     publishedDateTime: 2019-12-11T15:36:00Z

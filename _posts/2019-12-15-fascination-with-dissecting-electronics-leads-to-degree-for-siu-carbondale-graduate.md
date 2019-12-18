@@ -67,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
         width: 612
         height: 355
+  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
+    publishedDateTime: 2019-12-18T09:48:00Z
+    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "A3HQODb2AKcwrGDNtjnzTUYu/+AAsuYzzfumIcu/MaTVM/Miz+GUHFzFRfGkPaM0EKTkZF2A3N2aFEd7qhp4CK89iPwBIFzGEENISjcNGUaQhLT29g/8gAKAXXUkNUuiGxAg4UXlQocHmK4BJSe0f3i+AUH6CqK0No1x6IrhsR7sJep+sn8TKOpkiGbsPd6+jwXUGr9GF2egAOTO1QYgCxyy1vuySsp3liCXTsaxJnYiiChszGvP7fL73uSjuzmuuEM3nzg1LrMlum6oCLLb0Q==;WzQHbha6/s20cpDkeHrSeA=="
 ---
