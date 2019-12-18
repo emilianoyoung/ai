@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T04:38:00Z
 sourceUrl: https://www.ibtimes.com/ai-puts-final-notes-beethovens-tenth-symphony-2884853
 type: article
 quality: 137
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ABD516A106983841A520E6B81207F351
         width: 636
         height: 382
+  - title: "Artificial intelligence to complete Beethoven's unfinished symphony"
+    excerpt: "In the run-up to Ludwig van Beethoven's 250th birthday, a team of musicologists and programmers is using artificial intelligence to complete the composer's unfinished tenth symphony, Euronews reported. The piece was started by Beethoven alongside his famous ninth, which includes the well-known Ode To Joy. But by the time the German composer ..."
+    publishedDateTime: 2019-12-18T06:49:00Z
+    sourceUrl: https://www.panorama.am/en/news/2019/12/18/Artificial-intelligence-Beethoven-symphony/2212089
+    type: article
+    provider:
+      name: Panorama
+      domain: panorama.am
+    quality: 37
+    images:
+      - url: https://panorama.am/news_images/738/2212089_3/f5df9c4e6df829_5df9c4e6df867.thumb.jpg
+        width: 790
+        height: 443
 
 secured: "zWZpluI+ttMPZOXEqCrhmgAlq1PjaqX/Gxy6aBDbD6bccbi7f0uAKrNvOfPwqRj5Bo1PCmDy2sfqVUHkg25lHpLb86z0+6dN4IF64ms3pbU/FNqXAvMGiwafFHixovQosh5YNFDllp+F5uHhRXtPEtjdTpuyYFYECTA5Jts2+Ws3oRF4i7TVG5Pl1zjKCW+lSzBmv8UpkAj3bbjz8Poi0ErJ3De3lMNRkYTh1Al0DY3PDFyXk3jLB4jKXpAkECGpvowBhJxIPFDhksMkVGHAAygn4ZLZ+BPPnEwsEgz7EDQ=;HVKE5JaVYApo2nvyAuNH+g=="
 ---

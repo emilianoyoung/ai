@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-excerpt: "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191217005832/en/ Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube [TM] (Interposer ..."
+excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
 publishedDateTime: 2019-12-17T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: MarketWatch
@@ -28,18 +28,50 @@ images:
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
-  - title: "Samsung to make Baidu's new AI chips"
-    excerpt: "Samsung Electronics has partnered up with Baidu to produce its new cloud-to-edge artificial intelligence (AI) chip, Kunlun, with mass production slated for early next year, the companies announced. It is the first such partnership between the South Korean tech giant and Chinese search behemoth. Kunlun will be built on Baidu's own XPU neural ..."
-    publishedDateTime: 2019-12-18T01:27:00Z
-    sourceUrl: https://www.zdnet.com/article/samsung-to-make-baidus-new-ai-chips/
-    ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
+  - title: "Are Robots Ready for Prime Time?"
+    excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
+    publishedDateTime: 2019-12-13T17:00:00Z
+    sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
+    ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
+        width: 200
+        height: 200
+  - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
+    excerpt: "It’s one of two main languages used for computer science for his project that involved Speech Recognition, Natural Language Processing, and building an application with a Neural Machine translation backend that converts speech and text from English to Spanish. Bickham noted that students have numerous opportunities to utilize faculty and the ..."
+    publishedDateTime: 2019-12-15T00:00:00Z
+    sourceUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.html
+    ampUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
+    cdnAmpUrl: https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
+    type: article
+    provider:
+      name: The Southern Illinoisan
+      domain: thesouthern.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
+        width: 700
+        height: 394
+  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
+    publishedDateTime: 2019-12-11T10:13:00Z
+    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
+        width: 612
+        height: 355
 
-secured: "6m+UShwUV/TWOTZ8jBV+7KFS3z7AIo0tOTM8lfMAqmRJLThERDahkKCVbnxxnNfEaVw6myMT//wpeQV0ZGIW/bHeEGrsDCfuHiGwcDII5wY9kEIZsI7mu2QQzVYIEg/PZkF0+KMPELWK4AykK6ydyGj/+QL0StaZdmimFWHy6AIAV28eK9Y7LQU8vUUKkfgvAB5PMKy/nPVKOv212QhafYjpoQ/Mrvwc+NgqssF44wpUXECdKv0Pvjecth3xDB1rNLTrp3JbfIqzW0JnlpF41A==;KRVbrpsnkc3iBSN3F4HpIA=="
+secured: "ry3Hm3YvavxzI7vu4M6gMlfHxvuslahXC5Egks2brWKUdpLKq0+ZHHXKbfUHtXv9XCFhDK5YnJeSEncfVHSJM2PWNQUU9T6V/enZg4qMQRym/oUfnDRfdRBmMLHzfzka7JRna1PvKV765NwmHVLve5ggZc45z00cNSpnIMsujksFsdW6ZV9Oyfe/9doyqNRzKNTEyR/r44QKs0IzX3d5szdPPC18E8e7PeMB0KGuj2XYERAlMosOxWnv822sfUzf/vrbymo430LQbPvfHbNWJw==;lOhCBfIwAFV0Dnbl3Vjg2w=="
 ---
 

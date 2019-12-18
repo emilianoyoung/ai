@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai---a-new-wave-of-voice-enabled-computing/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1576620054263.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "NVIDIA Enables Era of Interactive Conversational AI with New Inference Software"
+    excerpt: "Accelerating Inference from Edge to Cloud TensorRT 7 can rapidly optimize, validate and deploy a trained neural network for inference by hyperscale data centers, embedded or automotive GPU platforms. NVIDIA’s inference platform — which includes TensorRT, as well as several NVIDIA CUDA-X AI™ libraries and NVIDIA GPUs — delivers low ..."
+    publishedDateTime: 2019-12-18T00:00:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
+    ampUrl: https://www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 55
+    images:
+      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
+        width: 1000
+        height: 667
   - title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
     excerpt: "Here, see how Orchid's team is partnering with Pandora to explore conversational AI more deeply and why hustle and grind don't necessarily lead to happiness. What led you to your role leading digital innovation for Nestlé? I wish I could say that there was a master plan to get where I am today. But the reality is that I’ve had many different ..."
     publishedDateTime: 2019-12-10T20:08:00Z

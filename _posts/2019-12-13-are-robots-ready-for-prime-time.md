@@ -8,8 +8,8 @@ ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-ti
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: -1
+published: false
 
 provider:
   name: CMS Wire
@@ -26,19 +26,47 @@ images:
     title: "Are Robots Ready for Prime Time?"
 
 related:
-  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
-    excerpt: "PAYSON, Utah, Dec. 17, 2019 /PRNewswire-PRWeb/ -- AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME's face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify ..."
-    publishedDateTime: 2019-12-17T13:17:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/workmax-time-by-abouttime-technologies-unveils-face-recognition-for-accurate-employee-time-tracking-8332180
+  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
+    publishedDateTime: 2019-12-17T22:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
+    excerpt: "It’s one of two main languages used for computer science for his project that involved Speech Recognition, Natural Language Processing, and building an application with a Neural Machine translation backend that converts speech and text from English to Spanish. Bickham noted that students have numerous opportunities to utilize faculty and the ..."
+    publishedDateTime: 2019-12-15T00:00:00Z
+    sourceUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.html
+    ampUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
+    cdnAmpUrl: https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
+    type: article
+    provider:
+      name: The Southern Illinoisan
+      domain: thesouthern.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
+        width: 700
+        height: 394
+  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
+    publishedDateTime: 2019-12-11T10:13:00Z
+    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
+        width: 612
+        height: 355
 
 secured: "crstHl0wULEXS4pEeZKe2flknEI6Rx8WvCvudjE8XcN5ujNfpGjOAaCEKOQCOzrK7rVfJ+zFym2QRemezELjF9ft6CQ/IlMeWHs1fx8UNZRo6dwKVr/d0hABsigXITWUMBExitRI7YLb2M1odh7DAXBE4C7STlp7GYFqLnPqr03VweJemKisXnZTeQYNZU3jwotdkp5qlj2eQFaxtlUxgAqdBXfbezwuyHD6CYFbTRN+iEYMx/847ur0AonDrpyXqHmt2+HN542MYrAsFKGpqw==;F0g6JVCYtFTsH6NDVUMfLQ=="
 ---

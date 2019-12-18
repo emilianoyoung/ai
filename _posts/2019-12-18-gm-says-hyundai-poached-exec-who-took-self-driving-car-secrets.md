@@ -8,7 +8,7 @@ ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-p
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -24,6 +24,21 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Hyundai poached executive who took self-driving car secrets, claims General Motors"
+    excerpt: "General Motors Co accused Hyundai Motor‘s US unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s chief safety officer, violated non-compete agreements with the move, GM said in a lawsuit filed ..."
+    publishedDateTime: 2019-12-18T06:00:00Z
+    sourceUrl: https://www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece
+    ampUrl: https://www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
+    images:
+      - url: https://www.thehindubusinessline.com/news/world/article23535582.ece/ALTERNATES/LANDSCAPE_615/14BLPRUGM
+        width: 615
+        height: 384
   - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
     excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
     publishedDateTime: 2019-12-16T16:40:00Z

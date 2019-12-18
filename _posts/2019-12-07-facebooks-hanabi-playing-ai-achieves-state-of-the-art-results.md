@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BA3FC279D4AC07289DADE8053BD88C4A
         width: 700
         height: 350
-  - title: "Facebook's new card-playing bot shows AI can work with others"
-    excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research engineer at Facebook AI Research. \"It's about figuring out how to build these capabilities into ..."
-    publishedDateTime: 2019-12-06T17:11:00Z
-    sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-    ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.AB2B7A2C545B8E49A1F4273444C7F971
-        width: 700
-        height: 525
   - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
     excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card ..."
     publishedDateTime: 2019-12-06T17:13:00Z

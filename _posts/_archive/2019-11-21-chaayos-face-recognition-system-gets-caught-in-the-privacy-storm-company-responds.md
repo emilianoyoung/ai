@@ -8,7 +8,7 @@ ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-c
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -20,20 +20,20 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Face recognition systems active at Chaayos outlets without opt-out feature; some questions"
-    excerpt: "Chaayos, a popular tea store chain in India, has installed facial recognition systems at its outlets to replace mobile number OTP. MediaNama encountered one such system installed at one of Chaayos’ Delhi outlets. The interface did not display any terms ..."
-    publishedDateTime: 2019-11-20T12:24:00Z
-    sourceUrl: https://www.medianama.com/2019/11/223-chaayos-face-recognition/
+  - title: "Facebook had a face recognition app that can identify its staff"
+    excerpt: "Battling several privacy issues, Facebook experimented with a face recognition app among its employees that allowed them to identify their colleagues and friends by pointing smartphone cameras at them. The social networking platform admitted it built such ..."
+    publishedDateTime: 2019-11-23T14:59:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 29
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
     images:
-      - url: https://i1.wp.com/www.medianama.com/wp-content/uploads/Screenshot-2019-11-20-at-3.45.09-PM.png?fit=1440%2C723&#038;ssl=1
-        width: 1440
-        height: 723
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191123/ARTICLE/191129709/AR/0/AR-191129709.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 773
 
-secured: "1yulh2EJvd9AAqEw+Y9DUn8IKyN5g54X5Ul7iOgugJQuUImWsCs5wD7teITRDKPu3+Y8Z2x9LVFIP3opiC1zckvOgxnvk3haDejn/JnqWz9JQvDg7DdmeZZbBVupl71aiTQU/wt2ZS7K4xfoufOOjBSWet/w2Dn2IhfuRPZyGIuUv9RBHQ/cUl9pLUrurm2NU/664k6ZF6W44tdNPwWr/6Dwod0TvXlnpKpDI5C3DMGEQxayM0B5+n0ehewmQ+Cxhaa8QWNC9+NSa3ALtX7gNw==;cJF03IsSUSpFpNHtRplhXw=="
+secured: "N+lQ+Idgx/vYtWdFPfP9JTdS5lQm87DyHuw5BqleVQtLDWHP1OFF6mWJ8hi/ydylViTyj4lIjq4xEJFWkTaDGQsT0NhOIT6nHlxwQaQrB1/Kh1kJEPX5oyISZttTXoCwBrtQ6I+VK31cQ/QW6TBPEihFAiQ9vzrcD96dUYGvcsExfijoEaYGR8o3n2eO5WSCoYUpQVSvP1DPiJXn1GlPOWnb8CJfTjxqh+2mjw19SvRnOnIJGiLUs0x97siFpezJEFQNycw7JVNxESc12+hJbQ==;UuSm3St116Lpm2uH11sVjA=="
 ---
 

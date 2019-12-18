@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-20T12:24:00Z
 sourceUrl: https://www.medianama.com/2019/11/223-chaayos-face-recognition/
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     height: 723
     title: "Face recognition systems active at Chaayos outlets without opt-out feature; some questions"
 
-related:
-  - title: "Chaayos’ face recognition system gets caught in the privacy storm, company responds"
-    excerpt: "Popular tea store chain Chaayos is drawing flak over its facial recognition system set up at its outlets. The system, which is said to be aimed at replacing the OTP process, involves customers checking in using facial recognition. According to a MediaNama ..."
-    publishedDateTime: 2019-11-21T16:00:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK.html
-    ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
-
-secured: "O3iQP7c/CVZavfDA3JZO9FX1bI+0+JH4gcJMiizY3yRzi+rn/ERAfJOFP90CvxBq3vAicxTb7aI9hYx62sZeCdxJTvLD+4YTz+DljzEO6PitIOs99MXOotkSecouxYOEV4sn706mNnwj1oXbR6vzch0NoW+H0kTqgNCTm14lvztAmlF3DS1WkXSuubOTaZ6JWPoH4+fKpoEaYZeyXaY7exD0QinKl01vfyT5Qm7XFk9L5bOOgxGDMgeyoihxg/BA/ybiFJWDWBVw69mxaZF7Zg==;3lmFMQWmvpjCmOe3K4hY7A=="
+secured: "GNeNfU47f7Kgz6XupCYLz/KD6ROTFYp0mLCGRiGh2dlxqGWPAamlf0LtcOAhTwgIx5I9Jw1uFm95hxTQtwAKzLTI/YxhORTOschWRd0NSgJmPKg5RwebIr1XpoK97lguWTvvih8lZY11mMeONW7QScZCsm7KI5xkIBwQEtm2ABRVmK6TJmZ4XsdazgctsNz51tIN48kLRQbP9urdJfQTHLxAQUwH50qkA7BySfbIZRqU9wwl3SClXS6by1IeWX/B56Osf/vJM208YIAuco0lMA==;6dC2tDs9S/TahZ2nDYjahA=="
 ---
 

@@ -53,6 +53,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1576620054263.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "NVIDIA Enables Era of Interactive Conversational AI with New Inference Software"
+    excerpt: "Accelerating Inference from Edge to Cloud TensorRT 7 can rapidly optimize, validate and deploy a trained neural network for inference by hyperscale data centers, embedded or automotive GPU platforms. NVIDIA’s inference platform — which includes TensorRT, as well as several NVIDIA CUDA-X AI™ libraries and NVIDIA GPUs — delivers low ..."
+    publishedDateTime: 2019-12-18T00:00:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
+    ampUrl: https://www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 55
+    images:
+      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
+        width: 1000
+        height: 667
 
 secured: "8HN+DcwhwAbrvzjIMoKPYQajOjDExyuhI3hhhu38k1QLh8r6JdPxOosfGuNK2/08w2C4brFVfU8oGl95pCdoGwoE/jQ1tepQPU2jNxi/Fhk9/mU+iBJg3ZW6PmdTrI9TgwtCBWhY70i/nNarLJ/+D6XCWVNXARqSTN/ToHYJ+MmF+aBAQf3bHdWXnHgfK/IuxH5+2c8UqlbGyCc+ps/zQFbW6T/vwyOopPi07hgUTI2xPcQLle2lyyfLXBUjInf7G3DwedQe1F0FymilyMk+FA==;C/qRJrjLlIu6eKobuEdBtg=="
 ---

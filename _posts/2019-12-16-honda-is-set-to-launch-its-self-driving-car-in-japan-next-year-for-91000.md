@@ -37,6 +37,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "Hyundai poached executive who took self-driving car secrets, claims General Motors"
+    excerpt: "General Motors Co accused Hyundai Motor‘s US unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s chief safety officer, violated non-compete agreements with the move, GM said in a lawsuit filed ..."
+    publishedDateTime: 2019-12-18T06:00:00Z
+    sourceUrl: https://www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece
+    ampUrl: https://www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
+    images:
+      - url: https://www.thehindubusinessline.com/news/world/article23535582.ece/ALTERNATES/LANDSCAPE_615/14BLPRUGM
+        width: 615
+        height: 384
 
 secured: "O1k5pd0IJdVb6r1NJsqGVIAW5KSasUJP3O2ziNwEQF/bE+fNSSt4T8lMIYp17Cc4QEXTDCIkoG55mH+x+dwfizfiZKFlNBHitxAjIJf/WFgbTmBPtnIbVN+eutFnId+EQK4zxzUT57G/oaTGbZMP5eSvH2knZ9P9+ltJ6kmhSUuZOnp4+OHuil4woKCBRkTyb+E4sw78L6X/4/RQOhSpoeUbKgooBMeC/KKz1Kotr4b6NQo2tnvCykY+/kx/f3wAigc3iZADKFIU5rvmF2tMnw==;LMJbgOBSrbpSi/DrgKqiQg=="
 ---

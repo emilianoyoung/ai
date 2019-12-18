@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ABD516A106983841A520E6B81207F351
         width: 636
         height: 382
+  - title: "Artificial intelligence to complete Beethoven's unfinished symphony"
+    excerpt: "In the run-up to Ludwig van Beethoven's 250th birthday, a team of musicologists and programmers is using artificial intelligence to complete the composer's unfinished tenth symphony, Euronews reported. The piece was started by Beethoven alongside his famous ninth, which includes the well-known Ode To Joy. But by the time the German composer ..."
+    publishedDateTime: 2019-12-18T06:49:00Z
+    sourceUrl: https://www.panorama.am/en/news/2019/12/18/Artificial-intelligence-Beethoven-symphony/2212089
+    type: article
+    provider:
+      name: Panorama
+      domain: panorama.am
+    quality: 37
+    images:
+      - url: https://panorama.am/news_images/738/2212089_3/f5df9c4e6df829_5df9c4e6df867.thumb.jpg
+        width: 790
+        height: 443
 
 secured: "MQN331dwR++IW4PBIDMVmlUIOatYekmHCmOaXR2tlzFSYVGbOTvr0fek5+a9k3VPVsJQ/SsmmAHBzmnnET90+feBRZIa2DAhFfSTG1yI5hneAftF0/cL1oc3WjRHkrLASxM+sxwNeqd/8LUGYsRglkVVCJwlEBGDa8zOFh3PKHuFQ7JPTIeB/NMaPsfDFYehWsAt+QTnDeKLiljbdjAc/W0YKJny1j3cEYNtFcbGXjq5N6kFBw76qxl7dA+UvQB25g9PL69cSAQugF8X9Rjecw==;my+4fTZqBwQ+RQ5TjZDLvg=="
 ---

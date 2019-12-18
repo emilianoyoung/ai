@@ -696,6 +696,19 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 39
+  - title: "Why some US cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Massachusetts: Police departments around the US are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers – and even some technology giants – are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-18T06:54:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/18/why-some-us-cities-and-states-balk-at-face-recognition-tech
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2019/12/18/443978.jpg
+        width: 1240
+        height: 768
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

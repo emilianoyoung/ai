@@ -147,11 +147,11 @@ related:
         height: 377
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://ca.style.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: ca.style.yahoo.com
+      name: Yahoo7 News
       domain: yahoo.com
     quality: 54
     images:
@@ -210,6 +210,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
         width: 700
         height: 393
+  - title: "Sagemaker Studio - An IDE for Machine Learning"
+    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
+    type: article
+    provider:
+      name: I Programmer
+      domain: i-programmer.info
+    quality: 39
+    images:
+      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
+        width: 720
+        height: 335
   - title: "Amazon SageMaker Processing – Fully Managed Data Processing and Model Evaluation"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Processing, a new capability of Amazon SageMaker that lets you easily run your preprocessing, postprocessing and model evaluation workloads on fully managed infrastructure. This is a companion ..."
     publishedDateTime: 2019-12-03T18:44:00Z

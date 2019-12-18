@@ -2,22 +2,16 @@
 category: news
 title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
 excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
-publishedDateTime: 2019-12-14T13:48:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+publishedDateTime: 2019-12-14T13:48:32Z
+sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -197,6 +191,6 @@ related:
         width: 400
         height: 229
 
-secured: "KtFaArEyoW2Dg7grRQQvIOgBrA91fZItjrHBjlNpsq36ydJUz8a3qai6rVm3HijSPKzJ/jSJwpYoL5ZiNZ3KwGUSlx5UcwP8A+slJ+3/LdIaJYUMsldyCVBLCu+YMUP0oS0qEnF3xmUAdkFRqNpbarcfI6xkjXcZrsKAxmozPBI+mNnXeezIvZcejVJx8GWdW8qNsZZu0Llrgmo2fTYOFofFpn/8VhMrMny9BIs79pKiRTDKc1Ttgc1mRbubN/tO2CrpBrVOCORKO5YtHFxgGQ==;jqyqCu9SXNZ00ePjmtoq7A=="
+secured: "+B7F0YwTL6xcdwSpeTNmPrQMb68M1JWwwHDVNDCZDpeqZ1ju6KiGX9mkwGLFu/CcirBDfFzDtjRzVFvo0yp+XoqhxTwa4vTb+yLsdoKRbLYT1SqPqXox36AbWCkmGMxiUqn4n0Y9gNw5XrxBL6XAIWCr5C1Ja/pYs65HBA5hSkXpdusbjIgt9QqXz9HoZdlto4gk/Ebr1Nk1MXT1NRU5cBrw07tn+ryh65rEAgyqJZ4Yb4x5n6CWj61IeBO4ydv0X+4R1PrkjycexdVAFnP18w==;u7ct/Cx6BxTqKowDHTsxFA=="
 ---
 
