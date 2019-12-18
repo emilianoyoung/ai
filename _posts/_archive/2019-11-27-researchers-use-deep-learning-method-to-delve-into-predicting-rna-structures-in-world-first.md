@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
-excerpt: "RNA and DNA are among the four major macromolecules in lifeforms. The team employed the use of deep learning—a subset of artificial intelligence used to create complex, numerical functions to approximate specific tasks automatically without explicit human instructions—to build a more accurate model of the relationship between RNA sequence ..."
-publishedDateTime: 2019-11-27T14:34:00Z
+excerpt: "RNA and DNA are among the four major macromolecules in lifeforms. The team employed the use of deep learning—a subset of artificial intelligence used to create complex, numerical functions to approximate specific tasks automatically without explicit ..."
+publishedDateTime: 2019-11-27T14:32:00Z
 sourceUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.html
 ampUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-11-deep-method-delve-rna-world.amp
@@ -20,25 +20,12 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.1F6E8459A0B5450E77401AB46E1E61D3
-    width: 379
-    height: 700
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2017/rna.png
+    width: 1111
+    height: 2048
     title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
 
 related:
-  - title: "Deploy a machine learning model to Azure Functions (preview)"
-    excerpt: "While both Azure Machine Learning and Azure Functions are generally available, the ability to package a model from the Machine Learning service for Functions is in preview. With Azure Machine Learning, you can create Docker images from trained machine learning models. Azure Machine Learning now has the preview functionality to build these ..."
-    publishedDateTime: 2019-11-27T23:09:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-functions
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
   - title: "Army Grant Supports Machine Learning Research"
     excerpt: "Share on Facebook ... is developing a method that employs artificial intelligence to clearly understand the electrical brain activity data conveyed through electroencephalogram monitoring. Vasileios Maroulas’s method has applications in neuroscience and is of interest to the US Army Research Laboratory’s Brain-Computer Interface initiative."
     publishedDateTime: 2019-12-03T17:58:00Z
@@ -53,6 +40,6 @@ related:
         width: 700
         height: 466
 
-secured: "TVjIqJ4J1pNQcOCvOb+Z6IuXpAvigRA0yg5iaKnkaGt71BcGJqkSmeVdgPZYVfj6ZifATPmS/uAg3zaSF9kg3dVglFmPkWjI05A9UrqdAf0Fn4BXmVbx4iHaAxc/HYp/J9NRZz+tkenbpAFEtXTStsn02EVFYQSYU5tT2DD8WJxb8ak6sIcBnsr3nifnoBblB1zDvzmPst+Nyxq2f1GBl7pBNl9vE+gr9XENKuGFZWID8lQsVhoZ6CslouayNcwa7jSSr33TyWtI+7wdP/t7fg==;rCP2JeZ5nXoTiHqRvsxt+Q=="
+secured: "3HPEHGVHOXr18Q+i/KEWWB4luKDdYmLpRSRWPVe7IUWhd78kmuU4bMKSP1LMu86/A43vFj6U5FbHNJn3RJLxQiUz/fuk8VtTnmFrrUICFJW6XoXYsolViZHMBq+690+YOSi1CDlMvrZQO1q4LZmzjzSLXxcjVQuPr3i0AqfBT0+JMTYbKe9swj3Q1gVEseMpDDyXxWn6h+B4cfOBw63aDg4v377KnE6erRaUzqtr4jBwUPxbJR+VN3CbPpBipmd0zqqxt0w1WHRr9lnivLex7g==;3ll76Xj4+KAnqucB19cv3A=="
 ---
 

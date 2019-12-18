@@ -294,6 +294,21 @@ related:
       - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
         width: 700
         height: 367
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-17T19:30:00Z
+    sourceUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html
+    ampUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DDA48C03B79BF988FF677B6592FC1D62
+        width: 150
+        height: 92
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
     excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
     publishedDateTime: 2019-12-16T16:50:00Z

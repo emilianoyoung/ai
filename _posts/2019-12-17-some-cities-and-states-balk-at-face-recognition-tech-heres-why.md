@@ -123,21 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0C85F059FE379405C21387AC3F31961
         width: 700
         height: 393
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "Dec. 17, 2019 Updated: Dec. 17, 2019 9:19 p.m. SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing ..."
-    publishedDateTime: 2019-12-17T19:58:00Z
-    sourceUrl: https://www.timesunion.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
-    ampUrl: https://www.timesunion.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-    cdnAmpUrl: https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
-        width: 700
-        height: 433
   - title: "3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-17T00:15:00Z

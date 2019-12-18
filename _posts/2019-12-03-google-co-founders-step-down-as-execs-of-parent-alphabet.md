@@ -54,6 +54,21 @@ related:
       - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif
         width: 1200
         height: 630
+  - title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
+    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
+    publishedDateTime: 2019-12-04T03:03:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+    type: article
+    provider:
+      name: ETCIO.com
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://etimg.etb2bimg.com/thumb/msid-72358468,imgsize-232067,width-800,height-434,overlay-etcio/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
+        width: 800
+        height: 434
   - title: "Google’s Sundar Pichai has been named CEO of Alphabet"
     excerpt: "This is despite being founded in 2015, 17 years later than Google. The umbrella company owns Google along with several other businesses, including AI research company DeepMind, self-driving tech company, Waymo and drone delivery company, Wing. I’m excited about Alphabet’s long term focus on tackling big challenges through technology."
     publishedDateTime: 2019-12-04T15:49:00Z
@@ -157,19 +172,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9D98D2504C97BC77A36E1D48543B5C97
         width: 700
         height: 350
-  - title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have shared an emphasis on developing artificial intelligence software to make web searching faster and more personalized ... Alphabet, which owns more than a dozen companies including self-driving car business Waymo and health care software company Verily, was created in 2015 as part of a restructuring."
-    publishedDateTime: 2019-12-04T08:01:00Z
-    sourceUrl: https://news.yahoo.com/google-co-founders-step-aside-080155460.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8B896E3B963E14F4F5B1165A7EC5369C
-        width: 700
-        height: 490
   - title: "Google founders Page, Brin step back from top roles"
     excerpt: "EPA/Boris Roessler Co-founders of the internet giant Google, Larry Page and Sergey Brin, have stepped down from their executive positions at Alphabet Inc., Google’s parent company, that does ambitious research projects, including artificial intelligence and driverless vehicles. Page, chief executive and Brin, president of Alphabet ..."
     publishedDateTime: 2019-12-04T12:08:00Z

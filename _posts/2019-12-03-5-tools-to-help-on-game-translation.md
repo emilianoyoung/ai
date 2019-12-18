@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
         width: 210
         height: 297
-  - title: "Straker Translations to provide AI-driven translations to US TV studio for Latin America markets"
-    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
-    publishedDateTime: 2019-11-28T03:41:00Z
-    sourceUrl: https://www.cio.com.au/mediareleases/36471/straker-translations-to-provide-ai-driven/
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com.au
-    quality: 26
-    images:
-      - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
-        width: 600
-        height: 300
   - title: "The 30-Second Trick for Medical Translation Company"
     excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
     publishedDateTime: 2019-12-03T09:14:00Z

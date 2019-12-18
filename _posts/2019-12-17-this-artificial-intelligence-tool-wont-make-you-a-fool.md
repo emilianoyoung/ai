@@ -1,21 +1,27 @@
 ---
 category: news
 title: "This artificial intelligence tool won’t make you a fool"
-excerpt: "Toronto: Researchers have developed a new artificial intelligence (AI) tool that can help social media networks and news organisations weed out false stories ... According to the study, presented at the ‘Conference on Neural Information Processing Systems’ in Canada, researchers were motivated to develop the tool by the proliferation ..."
-publishedDateTime: 2019-12-17T16:11:00Z
-sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-tool-won-t-153834169.html
+excerpt: "An artificial intelligence (AI) tool will help social media networks detect fake news and news organisations in a bid to avert ... According to the study, presented at the ‘Conference on Neural Information Processing Systems’ in Canada, researchers were motivated to develop the tool by the proliferation of online posts and news stories ..."
+publishedDateTime: 2019-12-17T16:04:00Z
+sourceUrl: https://www.freepressjournal.in/technology/this-artificial-intelligence-tool-wont-make-you-a-fool
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://gumlet.assettype.com/freepressjournal%2F2019-12%2F4a7d0d9a-1ded-4b45-a761-6ff07985b170%2Fetc_lead_dec_17.jpg?rect=0%2C0%2C1460%2C767&amp;w=1200&amp;auto=format%2Ccompress&amp;ogImage=true
+    width: 1460
+    height: 767
+    title: "This artificial intelligence tool won’t make you a fool"
 
 related:
   - title: "This Artificial Intelligence Tool Can Identify Fake News!"
@@ -34,6 +40,6 @@ related:
         width: 90
         height: 120
 
-secured: "8qdwdLK7cYzI9TdeDx9pSVNp0UFQR9FAZM5DxSQ5SFGXfxJ3AtdPp1TDRGCgmsnnxUVc1T4IgRG7Ugr3CD581ByXca4TWMDy9OoftBNTTqXBxU1yXUb+QAWCsuePEL0bJ0f2hG81/qTj0Qg1xqokGKHut2uao3vEuUzmBZpJfXBWUS68+aySa97ukWR5D26MSmrhWPqzZkzCYsb7ln8aSY+CA4boERZ4V83PBA8kuvLwUazVTHbW2tixK/tXLaxHV3LzhEdAICMRWuTIKu75gQ==;sZCegoJX60REpHfO1Do+aw=="
+secured: "sZriCeoa2iKRiYTvyftDfGvgvt3361rvhyHwP6/4zZGRB9NG5X+Lv62SOUkE/Ly0aMpPg2qdxnHxA3oytOFC1Jf2c+PvvIFR83vkkR6wNSqpw5NbKGsz2jN0cuSn2nxRmduz0a+PWwpGvXP9XVojhzJN8Np7Iv/6ym4tS1OXU04pWM+Smye5wW18ki+1Iih8J49vyZe0P7sWzBPG/eauLPrC4TQY6rjbnoo4BB7XWp//DBehJ7q+aSQdZQXIY0SV4sdrNFD768dIasW+Kn0qoA==;2BFUikzFUbrhJ2IqUsY5gg=="
 ---
 

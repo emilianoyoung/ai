@@ -35,17 +35,17 @@ related:
         height: 365
   - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
     excerpt: "Advancements in the understanding human behavioral science, neuroscience, and psychology are combined with innovation in AI such as improved Natural Language Processing (NLP) mechanisms and linguistics processes. Machine learning improvements to areas such as what is said vs. what is meant and context-based AI are leading to an overall ..."
-    publishedDateTime: 2019-12-17T17:44:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
+    publishedDateTime: 2019-12-17T19:15:00Z
+    sourceUrl: https://www.heraldstandard.com/business_ap/global-ai-solutions-market-opportunities-analysis----/article_8b0f62bf-b673-55b0-8316-4b6b8015bc4f.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: The Herald-Standard
+      domain: heraldstandard.com
     quality: 31
     images:
-      - url: https://mms.businesswire.com/media/20191217005762/en/371054/23/ResearchAndMarkets_800px.jpg
+      - url: https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg
         width: 1200
-        height: 627
+        height: 630
   - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2019-12-16T09:56:00Z

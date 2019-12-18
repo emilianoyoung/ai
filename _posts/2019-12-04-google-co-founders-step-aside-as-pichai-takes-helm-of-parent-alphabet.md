@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
-excerpt: "Page, Brin and Pichai have shared an emphasis on developing artificial intelligence software to make web searching faster and more personalized ... Alphabet, which owns more than a dozen companies including self-driving car business Waymo and health care software company Verily, was created in 2015 as part of a restructuring."
-publishedDateTime: 2019-12-04T08:01:00Z
-sourceUrl: https://news.yahoo.com/google-co-founders-step-aside-080155460.html
+excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
+publishedDateTime: 2019-12-04T03:03:00Z
+sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: ETCIO.com
+  domain: indiatimes.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.8B896E3B963E14F4F5B1165A7EC5369C
-    width: 700
-    height: 490
+  - url: https://etimg.etb2bimg.com/thumb/msid-72358468,imgsize-232067,width-800,height-434,overlay-etcio/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
+    width: 800
+    height: 434
     title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
 
 related:
@@ -184,6 +186,6 @@ related:
         width: 700
         height: 476
 
-secured: "oHcrVROe3Pg4/e1k2YQsH9Euv0pWKkF61tpsEed//od/PU+HEW6eIgpNl4svnYe63hJhWSKQ7S9fCgD0ei4bKtsC+1a5Vbpqkz/85OS73tJw12hfVutoQG/uFPb16VMm8oHKuyYFtFzBUMkNKkdXQfM9/8/EANppsFhvmWxPQMuh6yUthhhQtvo8wRbSQGIdxEOO5zEyPA5Q5rxSHGSeK4CJB1bTjZ3xE2NlIGIlHEnDpvfN4b8IIpzfzcOs8yriqv11BgWDdj9uFr1jJyO9QA==;l7rGA/ElnTVtxVnGSE68Uw=="
+secured: "m8EXrOBmmAh/g0OOFilM/i+5SHijs1Z4IqgYR53b8Gb3Fw6066BSI1IYB/CCyPPIDIfY0rzApG8AcwkAXq7rAFilT2NGBla45brR1LNIxiOS7WdNoWx5nrJD4jfJPg8OPBv6GdWdYK1+lhT7r8pr4PZOpDOg85L8yYnmpm+dUAfvnTJhinotkmT3LOUyODGP3v0om4rcyQdMNVQkGqxlYYflBP9v9ElPkTB2JHNtC1/vshUb0tKZeJzH/83FlJsZutZwhuKcrN6or6aBSsc2zQ==;Kd/IC3f4yeOi0QxkbsMm+A=="
 ---
 

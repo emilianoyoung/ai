@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-24T10:01:00Z
 sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     height: 1500
     title: "For now, Lockport wants facial recognition security system just for guns"
 
-related:
-  - title: "All the ways that facial recognition can be fooled — and even hacked"
-    excerpt: "It is difficult to avoid a facial recognition system unless one keeps under a low light or stays home or hides somewhere. However, over the past few years, researchers are looking out for new and innovative ways of doing so. This could pose a hurdle for ..."
-    publishedDateTime: 2019-11-22T10:26:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/articleshow/72153390.cms
-    ampUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
-
-secured: "ojyOs3I2XyhAzr0WEgNOJnw2acIVKQ9xf4mGQo4BWmdvJjMraLen0rkibpvNbY/7vZLzLNO7+YKWuVrBvqv4UaLGeUmoPp4LXMNxlNl6slQKkiXPCozVr5hIbFWCJr7hLoRPFecdSuFBs0Ua6HHxvJlng3vvZXomtnVsLfHh6XCXDEeTYvKmacMiZPR0tTdAFwymZzPbEvzldTyFvbCGExopCQQ2Q1N04A8kggK8/l29n6CT69RLXKtbX9qCUkBJfxex8LaSA8zEkgJA8cEG1g==;cfsYlzeQ/JfWlaorLPXc6g=="
+secured: "Xgfn0mK2CVHMUBFBZGV+NlyiAVdvHVPeqCAzRssAxYGj5pGkv615ljLy8Gd7R09igC9bvtzCnbgF6lQzvikiMIviWi5hIbU5xQ4VvQZLN9IItF6Gb8lHUuYK8PLZ7GTIfdr6CSNC8dzrii7Rdu0Y8OVhhduoH7mkvo4EJU+0rUeCNCJwCgCAuAsNj1FnX/QinD9h2tUeFlOXeamHOSI0us1HdI56cKbpPuLr64VlV1LOYgEnAtMRcYzF7UUNJnhy5hO4bt5LmdJ2Kjaqjl1aAQ==;ZwQnFrN4he5rRvDhswEsZA=="
 ---
 

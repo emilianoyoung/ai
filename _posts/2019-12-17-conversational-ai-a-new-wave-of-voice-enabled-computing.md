@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai---a-new-wave-of-voice-enabled-computing/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Conversational AI — a new wave of voice-enabled computing"
 
 related:
+  - title: "Nvidia’s TensorRT 7 improves the compiler for conversational AI models"
+    excerpt: "A partnership with Didi Chuxing and new autonomous driving solutions weren’t the only things Nvidia announced at its GPU Technology Conference in Suzhou today ... The platform, which ships alongside Cuda-X AI libraries as a part of Nvidia’s inference suite, can validate and deploy a trained neural network for inference regardless of ..."
+    publishedDateTime: 2019-12-18T04:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/nvidias-tensorrt-7-improves-the-compiler-for-conversational-ai-models/
+    ampUrl: https://venturebeat.com/2019/12/17/nvidias-tensorrt-7-improves-the-compiler-for-conversational-ai-models/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/nvidias-tensorrt-7-improves-the-compiler-for-conversational-ai-models/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1576620054263.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
     excerpt: "Here, see how Orchid's team is partnering with Pandora to explore conversational AI more deeply and why hustle and grind don't necessarily lead to happiness. What led you to your role leading digital innovation for Nestlé? I wish I could say that there was a master plan to get where I am today. But the reality is that I’ve had many different ..."
     publishedDateTime: 2019-12-10T20:08:00Z

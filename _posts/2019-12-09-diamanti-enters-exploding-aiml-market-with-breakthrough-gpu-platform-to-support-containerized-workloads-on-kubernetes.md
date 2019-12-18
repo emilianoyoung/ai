@@ -2,21 +2,25 @@
 category: news
 title: "Diamanti Enters Exploding AI/ML Market with Breakthrough GPU Platform to Support Containerized Workloads on Kubernetes"
 excerpt: "LAS VEGAS, Dec. 09, 2019 (GLOBE NEWSWIRE) -- Gartner IT Infrastructure, Operations & Cloud Strategies Conference -- Diamanti today announced the availability of the first enterprise platform with GPU support for running containerized workloads under Kubernetes, ideal for the demanding requirements of emerging artificial intelligence (AI ..."
-publishedDateTime: 2019-12-09T12:04:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/09/1957786/0/en/Diamanti-Enters-Exploding-AI-ML-Market-with-Breakthrough-GPU-Platform-to-Support-Containerized-Workloads-on-Kubernetes.html
+publishedDateTime: 2019-12-09T11:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/diamanti-enters-exploding-ai-ml-market-with-breakthrough-gpu-platform-to-support-containerized-workloads-on-kubernetes-1028746988
 type: article
-quality: 10
-heat: 10
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
-secured: "DCXfhzIV/CcmZDqG1F0m4riFqjoBIiV6uciN1rw5H19e8QimcjckllQStPnVVZZ3LpNwlb/cA5guBKhBZsw0psDHS3udCyr8faJGPTcOKpUmRchmvsJ+s8LcQ8ybNWmm8L/P4w3fAQI9oyOLB8l5ukGflhtaGNHoPWy7sF+adjqMdD4YcHs+hXia3MwaYbFlbALdplnjr8wJllyo0PKUZhKx4Ze2zHzExtjeyZPsKDPEPsWE8S73ESxic0piLq1Hx/17l6JMZs5Cspkc6x+j8A==;w/hPH409KAUNLjsbutnuXw=="
+secured: "B19bLPYT8FOMtJfLOKoMbLJYaR2PJb7A4kUIS+o4f00tv/XTHW1zrj+wAz5/EHGDEXg/9opjInDljE9uexQJyGPGQ7gCxwRMTxRwMKBpxNijw5FANCGj0pkwTg6VExTx57dtWR/s54x3+t+2j86WMkQVJcfF2zxf0VvhwLGt2vaVrhkre/EgHoccjYehs5k5QggScfbhHg/wNjrxkxlCxt6wZXOB/BFlikbX5PXd2qh/fwVvZ2zUNDv1uozZ6oxjVKRy3QMTvc3OxmV+6DqYTg==;Z4WpQpZpmwmGmRtca/6/0A=="
 ---
 

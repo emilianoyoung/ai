@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
         width: 210
         height: 297
-  - title: "Straker Translations to provide AI-driven translations to US TV studio for Latin America markets"
-    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
-    publishedDateTime: 2019-11-28T03:41:00Z
-    sourceUrl: https://www.cio.com.au/mediareleases/36471/straker-translations-to-provide-ai-driven/
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com.au
-    quality: 26
-    images:
-      - url: https://demo.idg.com.au/cio/cio50/2019/cio50_promo_revealed.jpg
-        width: 600
-        height: 300
   - title: "5 Tools To Help On Game Translation"
     excerpt: "SmartCat has all features a translation tool must have: a glossary, translation memory, machine translation, automatic proofreading and spell check, terminology. This service takes care of your confidentially and allows limiting access to your files. Working as a team from various spots on the planet is a great advantage for freelancers."
     publishedDateTime: 2019-12-03T16:08:00Z

@@ -2,26 +2,26 @@
 category: news
 title: "New Amazon tool helps machine learning models identify unique objects"
 excerpt: "Amazon announced a new capability today called Amazon Rekognition Custom Labels to help customers train machine learning models to understand a set of objects when there is a limited set of information. Typically, machine learning models have to work on ..."
-publishedDateTime: 2019-11-25T20:03:00Z
-sourceUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/
-ampUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
+publishedDateTime: 2019-11-25T20:14:00Z
+sourceUrl: https://au.finance.yahoo.com/news/amazon-tool-helps-machine-learning-195711792.html
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.CA7336090CA46BAF5EF4E311255EA932
+    width: 700
+    height: 466
+    title: "New Amazon tool helps machine learning models identify unique objects"
 
 related:
   - title: "New Amazon tool simplifies delivery of containerized machine learning models"
@@ -39,20 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.5449032495EB29EACE7EC46B986EF118
         width: 529
         height: 400
-  - title: "New Amazon tool helps machine learning models identify unique objects"
-    excerpt: "Amazon announced a new capability today called Amazon Rekognition Custom Labels to help customers train machine learning models to understand a set of objects when there is a limited set of information. Typically, machine learning models have to work on large data sets to learn something like what's a picture of a dog, as opposed to some other ..."
-    publishedDateTime: 2019-11-26T00:01:00Z
-    sourceUrl: https://www.yahoo.com/now/amazon-tool-helps-machine-learning-195711792.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.CA7336090CA46BAF5EF4E311255EA932
-        width: 700
-        height: 466
 
-secured: "6Rqab3PNdYo7+weZgTVnk0WY0T13/I/3O6L10GdrIzZINDabpRhA39IN7yOWy7sJLqDPb9ov0Fob619yqUOErcInkYbN9mTUfg4bpY7OmY3lLBhEh5xDG4Lk3pOYi+zJK1FCegcFSUFCnqx4Zi8/Aki4C4wxKS0PBEufRzHnEPno6wWObR4OaKO1pYSdHCpRn+Xx+cUmilGV//sUaFiYREuccaND40Y/CNCLP7CyMdmHT/TPTXfVXtsBkMEvC61Hz1xmNQz0eAT7+38ixM+Kdw==;bR15C91Rf2nmnowQc9wQpg=="
+secured: "dclljg99+ypEgWjiPsYkujK3EQ3/j1dWfYbwhbf96oeECt/NNa5gVsh7D4UWFDQ5oP2CD0X3IcXAnCUQbXX9N+EUCwIuK8WKT7YeVEpdhpRfQi3nQIZscmXrVJelCxkWgMOwvl8HTDP9fTZ4HCriX2Sej/aTkibt4G/M6jIe5epowO+Kpwpr+iLNePKUe3nHNqOmQsYhMSPabXNeNx9kjxALhZVfWjiW5H6rWD3IhqtQOozCvZNbo3fLqbBbyIXpMADgeKUZbtEKM9nc5fwV6Q==;HLLeLKuqk1uFYR1G2ebEAA=="
 ---
 

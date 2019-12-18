@@ -1,28 +1,33 @@
 ---
 category: news
 title: "4 Simple Rules to Make AI Chatbots a Force for Good"
-excerpt: "Also, with the advancement of artificial intelligence, machine learning and natural language processing, chatbots are poised to become more and more intelligent -- which means even more businesses will adopt them. Related: 5 AI Trends That Will Reshape Customer Service Over the Next 5 Years Business Insider experts predict that by 2020 ..."
-publishedDateTime: 2019-12-17T19:30:00Z
-sourceUrl: https://www.stamfordadvocate.com/business/article/4-Simple-Rules-to-Make-AI-Chatbots-a-Force-for-14912706.php
+excerpt: "Related: 5 AI Trends That Will Reshape Customer Service Over the Next 5 Years Business Insider experts predict that by 2020, 80 percent of enterprises will use chatbots. We don’t quite know why the other 20 percent is shying away, but we hope the realization dawns upon them soon. After all, chatbots can reduce your customer service costs by ..."
+publishedDateTime: 2019-12-17T16:00:00Z
+sourceUrl: https://www.entrepreneur.com/article/342563
+ampUrl: https://www.entrepreneur.com/amphtml/342563
+cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/342563
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: /assets/images/organizations/entrepreneur.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
-  - url: https://s.hdnux.com/photos/01/07/46/12/18768520/19/rawImage.jpg
-    width: 2000
-    height: 1333
+  - url: https://www.bing.com/th?id=ON.09745B984C57A3B3A0F6B8BBF98440F5
+    width: 700
+    height: 466
     title: "4 Simple Rules to Make AI Chatbots a Force for Good"
 
-secured: "18stgDUKTT6JBQV3mnWpSKYVw4x4zXLNO4jMJOJ/iq36PrbokrV7bOunHzSiRBWleTODsYLXOhqRh6RcUTfECAOUmY4uN4Hi8tlj3+tKH34P0E7lXUi8EY2vfmZfXVH077LQQVGcQqKZnbT7Gza6h2qcLJ7/Qqp9CWGJ68LXRsdL8TeaFTuHiXkSirfLwyotU5biGCjNcmFPUz8dGXfucawHdPUMkCZywMsxChg9Ozp0/xS/M+bNycU2NQwehhRDmoDAmFtclIaLG20Vh7skpA==;QDWARwCAZswylmhl2IHXRw=="
+secured: "O6cAAAo9aZftO+rlbKozOo6rYX2H+TBpXHqbo73zUArcR6ysClh2kQeqndbHIjxO2RbPgkYElZAqydGSFqwNxqM0Q4RU9dUUNTzLcFydDPizFxUmyU3VCPEMtXWL5oLho6rZJm2Y6iTgDD6+HwmCQm+b6LHds+T+g9OmJOVl8LIepPSuNrC9ePFcY0lXM5RXUeWZZMBT+aicva6JsPDp2d/KCxWcS3aZyUsGTLLjIOJlwLA4V3NjHUJuxfoNDOn/UyGv8LWCaAKrLm+e9ay6gA==;Py0HgzDWdTDpXZggyxvmOw=="
 ---
 

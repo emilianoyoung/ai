@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
         width: 600
         height: 400
-  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
-    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
-    publishedDateTime: 2019-12-14T13:48:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
-        width: 700
-        height: 466
   - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
     excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
     publishedDateTime: 2019-12-17T21:32:00Z
@@ -114,6 +99,19 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+    publishedDateTime: 2019-12-14T13:48:32Z
+    sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+    type: article
+    provider:
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
+        width: 700
+        height: 466
   - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
     excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
     publishedDateTime: 2019-12-15T00:05:00Z
@@ -179,6 +177,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
         width: 668
         height: 355
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "yNW3DziwIdBdjBS+wOV7klD3bITCvreo1XwgxME9eNpNRcR6//ToMiBLBZ+abS+58OIpyIokdF0zWppR68/bG/piwFzwltDw2bKJKwIgXvHYZjGDdFF4AwfyDa9bo0fiqioMpwXb2WdiCT7UfLrHibK/tYMhL1wLzpl+jfhEpLjBN5cPVADt+uTglQdlIn25uI1QufhW307m4Qx5nG8vQYli9YKauU5Yi/7Y5Q4M+4nJhsg86MbPpFXKxUpaTkZv7q5O+EqxNWen30laPjfKJQ==;/4zm9rl1gUKcmoeqr7R8fw=="
 ---
