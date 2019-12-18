@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
         width: 700
         height: 367
+  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
+    excerpt: "who identifies himself as a doctoral student of machine learning at Canada’s University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app could be drawing associations between the ..."
+    publishedDateTime: 2019-12-18T18:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/wechat-had-translation-glitch-canadian-075537126.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
+        width: 620
+        height: 350
 
 secured: "7mvB1BM06tDORovlm39wNfb+3z+o1xKrwzzBu8e8vxWxmDVTUTV9BjVDbPHIicGklbu5XcK+WIn1XXjec/odx/RIgU+sB2qEvoFjw3QN0dXyoWWsxewBUHPaDK0TF5ZmPEKrsW5k8ECN6h3nK/OYI/VeJAG105EHdMbSBzcn+jfSB4lepcBitYX6gyyoc1f2g6EMxM9w1NkXHO3HfdnuAgO/f73mmXrkxEX0ubDc7YqEE2UpaRbrZ97IEdjSOvB+RAvtbq5mhdzZTBRtFXWF8g==;g1toJbv8Ka5/lIifO/ziVw=="
 ---

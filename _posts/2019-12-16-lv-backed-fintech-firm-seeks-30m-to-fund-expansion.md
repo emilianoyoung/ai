@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C77F8F89FB4FE5FB206C48D8D2E62185
         width: 700
         height: 428
+  - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
+    excerpt: "Using AI and machine-learning, FlexPay analyzes billions of transaction records to reverse ... About Impression Ventures Impression Ventures is a VC firm focused on investing and leading deals in firms disrupting financial services (Fintech), raising late seed to early Series A round. Impression was founded in 2013 by entrepreneur Christian ..."
+    publishedDateTime: 2019-12-18T18:53:00Z
+    sourceUrl: https://apnews.com/PR Newswire/d4ab5fd6df009f3b89d10e4ceb56cdeb
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "uMyc/adVFeKvxeSIC+FEz1fZ0OVYSbEkpM9YHjewr7U1iPHYsyRQ0JoxHJAGrCERBtOY2TKE6ZxkNRDHLbFVOR6H3XjD7CO2wXqkfCaSUFLhIMmO5bDa+2mkXQp6a5+n/f/5aKoMdWBOzqHa/DqNodoQBL7PMHEDDh0J7V1Y6aC9LhHvy4k6sG9nF/b5dIR6rHBz6SSBliac8n/au3f8ooMAM0dWTCwlx/ABVxwonHB/v4TvQDIq81bLqsEUuNFYB0MMigNRgjeV90qNDGpsww==;tnJ9tytjQUvRcz2q8Ro3pg=="
 ---

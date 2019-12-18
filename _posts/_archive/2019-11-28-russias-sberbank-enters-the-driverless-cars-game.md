@@ -24,21 +24,19 @@ images:
     title: "Russia's Sberbank Enters the Driverless Cars Game"
 
 related:
-  - title: "Russia’s Sberbank moves into driverless cars with joint venture"
-    excerpt: "computer vision and artificial intelligence,” the pair said. Financial terms of the deal, which is expected to complete in December, have not been disclosed. The new venture will be headed by Cognitive Technologies founder Olga Uskova. Read more: O2 steps into 5G driverless car testing in London as it grows mobile customer base Sberbank has ..."
-    publishedDateTime: 2019-11-28T17:49:00Z
-    sourceUrl: https://www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/
-    ampUrl: https://www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/amp/
+  - title: "Russia's Sberbank agrees venture with driverless technology firm"
+    excerpt: "Russia's largest lender, Sberbank , has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday."
+    publishedDateTime: 2019-11-28T10:59:32Z
+    sourceUrl: https://www.msn.com/en-ca/money/topstories/russias-sberbank-agrees-venture-with-driverless-technology-firm/ar-BBXsdKI
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
+      - url: https://www.bing.com/th?id=ON.321D1BF58A9BA57EB568599410B9218E
         width: 700
-        height: 455
+        height: 367
   - title: "Russia’s Sberbank invests in driverless car tech firm"
     excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally binding agreement with Cognitive Technologies that will lead to the creation of a new company ..."
     publishedDateTime: 2019-11-29T01:26:00Z
@@ -53,6 +51,6 @@ related:
         width: 700
         height: 393
 
-secured: "KybSpW0DmPI/A2QdvtDqmDAYqLCpEut7rOhrofA8FqGPqdFfjZysvTRolFiDcBtJdv5c5DvUFSKDLco53Q4ySpa74DK+RNlByGhO7Z3gd5Nk8eVghwilQIOPopTWI+Etg1ClxE9qCdM8fiywm1RIfer+meNIEzj74xvJAFPQD2afD6Cey5xLHRCY4sse+54IFEF5b0KJQ5yhZ6gEFwCqTXvT5whVwhK7HBJapdyYLKIL7rdrab3hrqKHReDP0/vlkoXZ86HkcTxpV03/U0B2bA==;+BGp5ywD5/74LEFKehScvw=="
+secured: "M7vPzQ0DM7a7trTdkFqXC51MqEEnRK3PiEyZxaGNJ+wuQt4t2vEbX6gH7TH4i9s1GRQr5bvNeBawP7TdbkhkSbK/JEKSGWWIGJJ6NouXpyvzixmHm4A6pVM1hyXsc00wopWHf09VB4WTlmU448iQ0ZffyR8hZhMCuejVC+IHF3HcqbxD3hPfjkjdU4FqeEOj1A9pgM9f82hSXtXeayyA/hat495j0+fEtzinFnzO4FCeL2nwCWbKNZOH8KYzh8CL7szdUfzXijl7Q4anZSkrKw==;VKhr8TNOGqp4i1gnwNiFXw=="
 ---
 

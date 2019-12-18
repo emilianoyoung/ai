@@ -36,6 +36,17 @@ related:
       - url: https://www.bing.com/th?id=ON.4AF78DBFAAA672C2F21BFEAF52305B77
         width: 463
         height: 302
+  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
+    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
+    publishedDateTime: 2019-12-18T18:08:00Z
+    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
+    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
   - title: "Saudi Fintech startup Lendo set to unlock invoice financing for SMEs launches at Arabnet Riyadh"
     excerpt: "Lendo is looking forward to further build a robust credit scoring engine that will employ machine learning methods and AI based underwriting capabilities to pioneer Saudi’s FinTech industry in P2P lending. Lendo (Alsand Alraqami Ltd.), www.lendoapp.com ..."
     publishedDateTime: 2019-12-18T11:56:00Z

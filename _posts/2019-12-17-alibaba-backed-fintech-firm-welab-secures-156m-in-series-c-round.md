@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T09:19:00Z
 sourceUrl: https://www.techinasia.com/welab-secures-156m
 type: article
 quality: 54
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -58,7 +58,20 @@ related:
       - url: https://www.bing.com/th?id=ON.C77F8F89FB4FE5FB206C48D8D2E62185
         width: 700
         height: 428
+  - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
+    excerpt: "Using AI and machine-learning, FlexPay analyzes billions of transaction records to reverse ... About Impression Ventures Impression Ventures is a VC firm focused on investing and leading deals in firms disrupting financial services (Fintech), raising late seed to early Series A round. Impression was founded in 2013 by entrepreneur Christian ..."
+    publishedDateTime: 2019-12-18T18:53:00Z
+    sourceUrl: https://apnews.com/PR Newswire/d4ab5fd6df009f3b89d10e4ceb56cdeb
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
-secured: "q207YNHZPi5mW8sr5m5by8BSCs42uEAflF3ZsM6p+vlA/lSVTQB6ns3FkfkUSKs87Pgc6jPpVetBZ6E5DFSAiDLBKyJYR26M6nydgN/l+UJejcrUHi0mH9H8dyq7db5UrQWTYMmQVpHdsaivRZFZj26kL8zkt6UHiI9EodxUMzWRyvwMrhtQzcboTRP/zl+LMCDbLmraH+jVhI4Bv5lhgSLn/I7ZTRZ8iAoufirA5UHbWJ8Qqcc9XeY7AbM+e3d4WlffGUP1VkNVS0QPT1ddUg==;Y3WPC1hd+GP6SaFJHk34bA=="
+secured: "MhxpXeXmTe2GdF89i/Q5gM/38uOHBoP2gltJBO+L7dsOSYgcv3cWLTPzbEXj8Hm/vsE/I0vtkKb9GnLSMr1vdeTTxryZplaX7UxTqwNdhM6hW9NkTnoeUv7ce5zQefCjIws2wGVTBSsW7qi5rDCvDwAE9cAOwdF2HNPz6i0aLstcISQH7kFZp2sQGK5P/jnp7w3kkcUI9IDDYrPGL43OI+nqXSgiWZ1uy49S9yrhlXEnQ5Mgz/3xJ2WznDPjalzsseBYkhN81thW+NgJApbc0A==;5bTwPgPaKnhCldfgwW6WIg=="
 ---
 

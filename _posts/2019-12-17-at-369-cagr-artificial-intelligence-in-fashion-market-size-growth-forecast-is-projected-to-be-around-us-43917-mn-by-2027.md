@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
+    excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
+    publishedDateTime: 2019-12-18T16:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "OFBlhTjUIxTpHvI+4jKdsXH9UqRwRN+8lLKc+1amds3yCfecPmhznX6uFy/B0A9S+vETE0HQ5GtoyYKNQOX11N6Jz15xV2WOAFu04qaSh89Ln1k3sY9mvLLigZxy9y4haknL9RCckUQHvQjCgu/huCluv8tpTvto8W9rtEo9ySfgM4vhEnhkUmWcHw2FMIYzGChm5O2WUxr8OgGHp5ssvU6yCkl1IwlLI9ihdqZUixNixOLUY92MsJE+UyZ6fSgbmLnFveWF5gzUkeHeP+5cfg==;kX7qJabSxjwDsAQCfDh/nw=="
 ---

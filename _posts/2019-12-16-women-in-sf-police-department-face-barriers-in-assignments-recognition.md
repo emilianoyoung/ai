@@ -41,6 +41,19 @@ related:
       - url: https://media.nbcbayarea.com/2019/09/0415-2015-SFPD.jpg?fit=722%2C406
         width: 722
         height: 406
+  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
+    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
+    publishedDateTime: 2019-12-18T18:52:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
+        width: 1024
+        height: 768
 
 secured: "JK3NC3ukD93z1oi+Rb3ehsBmAdguyJvs4lZJh3aiuKZYMCKhMi2F/6E0/B5O6B/j9TUgQSGL7bCvYT0iWKmWY1A9VgXVAauOsL+eBYnHGkBSQmsG5jtTD9Aos8sh/D9ZQhJaqj3pnddGM4uv50XlrIX+BC9jMlnsN6SE8Zi7ppXRFGLMxLfg8BltJg/279uD4CLDCNRZBhcFplH6PfTALQPg4hJQ28dBcl/QvcMroWdf/hM14Xj9aQoxLoTQnTjM8JtoBPZ9e6yJ3ZV86CgqGA==;a+AhHXps3OzPLyypGVfAUg=="
 ---

@@ -35,6 +35,19 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72874734,imgsize-24228,width-800,height-434,overlay-ettelecom/nvidia-touts-chip-deals-with-china-s-alibaba-baidu-and-didi.jpg
         width: 800
         height: 434
+  - title: "Nvidia secures chip deal with Didi Chuxing"
+    excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
+    publishedDateTime: 2019-12-18T16:58:00Z
+    sourceUrl: https://www.autonews.com/automakers-suppliers/nvidia-secures-chip-deal-didi-chuxing
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
+        width: 800
+        height: 600
 
 secured: "osHD6HCow6d4lXye+D7AInj5oFlO62k5TXCC+lqBYreKF62yKcwjZEAcajErTsupDnoiPImmkcTiTbPCPgspZMRnnGkHvhO+3R5c8cwS8poMp9PST/MhvNCPvJW73Wbwx9LARMSuLCSWcg9RhByk2kQ+6FVqptQX8sv2vhEtNWzEfVAvwb9YdlBoNv+ntFR9fz2RU+DmqiwZUhNV/2+D5aEpOYnwU9p5a6p4uAf9AT4/cfNQ1DimTsbckfLZtX2D5pO6xY5q9oxEhX4wa9b1gA==;kqkPze9I+/flEvbLH8cQyQ=="
 ---

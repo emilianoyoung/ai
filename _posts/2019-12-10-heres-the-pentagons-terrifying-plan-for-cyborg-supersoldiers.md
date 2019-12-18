@@ -82,6 +82,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
         width: 400
         height: 400
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "DxAarwA01GY6Cs7G4m6nxmkGpMv21VtwCXSFni3ZQExUD21FW3VVQMCR/ne4KgwXcYSIM1k/g2E5gm5HoL+Qqb/6m2Jf8KRx4Wh2Iy5emd8ZwRdgM99McPZqrkidjSvZZIPGikC3HmDIMNLXaKtV+RSOgjrRTHq9+JXiyg2jK/1WNA1oRRupzo/UcuYXvaFkyCSPDgq5MiHTYWLQJswB9xlfSfoYC9Vbh/jHNlVV7Gqj3aUPCxwpKjPsnaHALMR253hMi5ms3hegBR0acg8QEw==;t2Ks4+stTBNK7UzIEWHIIg=="
 ---

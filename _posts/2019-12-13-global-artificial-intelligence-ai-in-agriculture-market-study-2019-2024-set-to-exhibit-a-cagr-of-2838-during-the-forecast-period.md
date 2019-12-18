@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/14985917
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14985917
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -19,19 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-    excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global ..."
-    publishedDateTime: 2019-12-18T17:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18?mod=mw_quote_news
+  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
+    excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
+    publishedDateTime: 2019-12-10T11:43:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/36830/global-artificial-intelligence-ai-in-agriculture/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 12
   - title: "Global Self-driving Car Market, Forecast to 2030"
     excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
     publishedDateTime: 2019-12-18T15:03:00Z
@@ -49,15 +45,6 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 0
-  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
-    publishedDateTime: 2019-12-18T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-self-driving-car-market-analysis-by-level-of-autonomy-fuel-type-usage-and-region-2019-2030-300976964.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
     quality: 0
 
 secured: "S17vAgPvIF+qCGhDk4g8u8FUfZc/E8CgTJwhpPQrWG9JppdyEmntSwk9ouZvTO0QC62vFBIdAf65VGuRRWFc7MXDR5b6YQam6kAamdxsATzZnVxvXVhZ/Abb6I6zQ1P1SZTaOnjEgvN44bO+sMpcct35zPtFcvC8BhCdfsNW8WzaYtc/kDOysiU2sZPC8CDbVmL4WS8UuIYbte2jd92ISikeSHblJNFBJBQIcNuEbj1FFQ/JH3YGnR+eZjG7/Oj5jGrUBYCqQYvVNvGQDgxTAA==;ur72RLQ1M3n9DEkaKC375Q=="

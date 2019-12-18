@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T11:38:00Z
 sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 207
     height: 155
     title: "Finland is offering a free crash course in AI to everyone in the EU"
+
+related:
+  - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
+    excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-18T02:13:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.D10982FB444A4240B926B1B432071C01
+        width: 700
+        height: 393
 
 secured: "75w03fA6iu8UWChw8oELJ3wWVBdtc5x6Pe8iUOWuWf8AYPvBmaVcp7bGcaa20jfkEXjjLYwlSdQhQLfKClH1KdXHXl5tBzuckHU88FNZ5hfBUmXLvzM+3oGR+dmnx1OCf9c6M40XUFMomkDafk70tPD6WpXnLaOWP3cXc1jSHMKeAP+24qOKrZEcF/KH1goFX7xthnNuI6vdbgNRuvKmCzfeLLcHu0T31NT4uF3c6ltNrnIsEpmMs1uS4275CPXkVb3VdWlXucOXGKAn2/erUA==;13uk+jFJAA6wMQzzdbmlqg=="
 ---

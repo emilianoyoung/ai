@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global ..."
-publishedDateTime: 2019-12-18T17:59:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18?mod=mw_quote_news
+excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
+publishedDateTime: 2019-12-18T16:58:00Z
+sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
 type: article
 quality: 52
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,45 +28,46 @@ images:
     title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
-    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
-    publishedDateTime: 2019-12-13T08:58:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14985917/global-artificial-intelligence-ai-in-agriculture-market-study-2019-2024-set-to-exhibit-a-cagr-of-2
-    ampUrl: https://amp.benzinga.com/amp/content/14985917
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14985917
+  - title: "Artificial Intelligence in Medicine Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Medicine Market was valued at USD 1.6 Billion in the year 2017. Global Artificial Intelligence in Medicine Market is further estimated to grow at a CAGR of 38.7% from 2019 to reach USD 21.05 Billion by the year 2025. In the global Artificial Intelligence in Medicine Market by ..."
+    publishedDateTime: 2019-12-12T05:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-key-facts-and-forecast-predictions-presented-until-2025-2019-12-12
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-    publishedDateTime: 2019-12-18T15:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Supply Chain Market Inclinations & Development Status Highlighted During Forecast Period 2018-2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
+    publishedDateTime: 2019-12-12T12:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-inclinations-development-status-highlighted-during-forecast-period-2018-2025-2019-12-12
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 4
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
-    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
-    publishedDateTime: 2019-12-15T00:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
+    publishedDateTime: 2019-12-17T11:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
-    publishedDateTime: 2019-12-18T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-self-driving-car-market-analysis-by-level-of-autonomy-fuel-type-usage-and-region-2019-2030-300976964.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
-secured: "Yc9kymwddUAlxHz8KZ/RO7YyAIPtP5ISwgFwT604RLGTV4RKKTNDKG6pc1HX1Pu+HAeB5TP25aM+7hINm8/floEhsGaaHWBXnOIsNfX2U40BNKOvcLmHHRhWlRGZcjR0ITZ5Op3rVff1WRanAac53Lc/3X0NHOq/4JM9A/U5vkTqF5otmE7HB7PvEq80DRP4Hbxd5OkeEhNF2kBl8Xk3bZRMrlxNke/PiHLrxkKG/do8XF7+qrZmvG7ogzXAYLTYmdewsi8Jig7awdq1/kFZNA==;5Xis4IqVan/zLS3/Fa+FNg=="
+secured: "88Ogx0xE/4/9csYeECvDxsq+cUvXcW9F09hXHdwZyvblq0v4OgNSMviwx8yB/nmXNYf2mRJFnqh/7QE2ioIKdSpSRCi9GUiM6YMtn3brFl2eHhltgFcFUrxEO1OxCe9R8v+AE4NlxW5RZ0kZOGaV+/bVa5CG9YmWvU/ydfgPYMSmDy9GpSiBlCh0a+lle95SF2rfFEyjXDw33FE9rW49PO06A1vVLmNMAxy174rWtBGTExHIFKXYPuvDgv9JBCQDT+Urgo1ZbDQwZbHjJO9VJA==;dTTi3XoJidG904t61ZG0zQ=="
 ---
 

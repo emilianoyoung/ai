@@ -1,17 +1,23 @@
 ---
 category: news
 title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
-excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-publishedDateTime: 2019-12-05T18:58:47Z
-sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-moves-to-google-as-the-ai-lab-positions-itself-for-the-future/ar-BBXOWMc
+excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
+publishedDateTime: 2019-12-05T18:58:00Z
+sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 type: article
-quality: 49
+quality: 99
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -98,6 +104,6 @@ related:
         width: 700
         height: 367
 
-secured: "ZPjW0gXcrWukTlwIkOXiKGw9Uj5yVgcYZ/2/BMHIV9mp7uZtohYGYkdjNQBFMfTuu7+0qn8JEVMCRWcLmhrm3k12LpY6Wktaw7TI00zlNpEydql8yygVP4vtgwHka64qlf588NeczVdl90uQPJyYyTQoVIsXGz5Wxo5STtxU2dgefx0NVHXGOxs3v0/piKg5C2a6iLwhx2KlvXytsZesFI1aLSA0gZpBDGyS2AV5GEjaxPyh046nWN2FYbmtztXw6Cyy7FpZNnq1GqWXhR4i/g==;vUAO0Lj3UAHZyTRUdp04sg=="
+secured: "WlHVoeX+B/3PcIoslhpcHei/+jspPpUdl/I4U2n2jC+AdwpesAoGLm+C4srcYmvGtjuP1Rq9JSHGBUY9UmgTz5dzZ8M5FKykhhdWj4fJlqkgmzzmX7NaJ2MAQ+r7suwd6IlzjVaUFEHRhgbnZeBD8YE0gmkeLDWlKX29HZrZYG23errmmzYej4wYFrSqUvolflmywTiJZaOBbQDjqIOxVUh5HRjMe38SMfyO/6DHQy+GsOsHigcybDkFIG95dgD691xYJ9Hzs5vzt0fWefP4Hw==;g4V/UsgzWflyJlvkFph0JA=="
 ---
 

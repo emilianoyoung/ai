@@ -58,6 +58,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
         width: 600
         height: 300
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
+    publishedDateTime: 2019-12-18T17:30:00Z
+    sourceUrl: https://www.finanzen.ch/nachrichten/aktien/global-natural-language-processing-nlp-market-set-to-reach-$26-4-billion-by-2024-rising-at-a-cagr-of-21percent-from-2019-1028773451
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 0
 
 secured: "Y4T16ShilNPuZLzbI2o0tZoGtNrkJeMybAdIv4Kg2NPOi2DnGpl4WpLGrsneS2MK2Xckc3dIEOnXdumbJMXuLnykfIEv7ogEAfcJDtJNBk41jd4FNfIi1S8q+C0Fw21e97qzolEzHTC1LpdGCqjMT0Bny2kToWC5KimPSc4qgE+MDl6qpsNp2D+Ysh86HVVrcGE5XB4rOGZeR143bZFi3AqHaGwo+aFF+IoGRB5i7iM/QgIwMoWlq6zzL8g7NITVIoGLRodYVMIXd4qsnyxOHw==;iXfN4cDVh+VNFltyKoxZeA=="
 ---

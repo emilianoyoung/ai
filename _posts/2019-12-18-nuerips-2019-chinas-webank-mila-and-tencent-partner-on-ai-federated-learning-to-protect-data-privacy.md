@@ -1,78 +1,22 @@
 ---
 category: news
-title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
-excerpt: "Attending experts were excited about a new research direction named federated learning (FL). Professor Yoshua Bengio, A.M. Turing Award Winner, founder of the world’s top deep learning research facility Mila-Quebec Artificial Intelligence Institute and one of the \"three musketeers of deep learning\", said that “In terms of better training ..."
-publishedDateTime: 2019-12-18T12:07:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191218005275/en/NuerIPS-2019-China’s-WeBank-Mila-Tencent-Partner
+title: "NuerIPS 2019: China's WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
+excerpt: "During the WeBank AI Night event, WeBank announced two strategic partnerships with Mila and the leading cloud computing platform Tencent Cloud. The cooperation will focus on further developing federated learning, based on WeBank's real-world experiences in finance and fintech, adhering to Mila's core philosophy \"AI for Humanity\", Tencent's \"AI ..."
+publishedDateTime: 2019-12-18T13:17:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-nuerips-2019-chinas-webank-mila-tencent-partner-ai-/2019/12/18/9071705.htm
 type: article
-quality: 2
-heat: -1
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Finance
 
-related:
-  - title: "Business Leaders: Integrating AI And Machine Learning Starts With Your Data Scientists"
-    excerpt: "When we finally achieve a commercial grade translator that can translate instantaneously, these barriers are going to fall.” To learn more about AI and machine learning, be sure to check back for an upcoming Workday Podcast, where we sit down with Ajay and Workday machine learning expert Sayan Chakraborty to dive deeper into how machine ..."
-    publishedDateTime: 2019-12-13T18:40:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: https://www.bing.com/th?id=ON.C6F238B479BDF6285CE501864B8C5603
-        width: 600
-        height: 315
-  - title: "Become an AI-enabled business manager with Great Learning’s PGP in Artificial Intelligence for Leaders"
-    excerpt: "Over the last few years, Artificial Intelligence (AI) has been emerging as the most transformative and significant technology, with recent advancements in the field proving to be a game-changer for several industries. In the coming years, proliferation of AI is only going to increase, with businesses tailoring their core processes and ..."
-    publishedDateTime: 2019-12-11T12:48:00Z
-    sourceUrl: https://yourstory.com/2019/12/ai-business-manager-great-learning-pgp
-    ampUrl: https://yourstory.com/2019/12/ai-business-manager-great-learning-pgp/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/ai-business-manager-great-learning-pgp/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.56EBF477EAE8AFFC21C3D973A47A1A4C
-        width: 700
-        height: 350
-  - title: "Trio of NZ business women leading AI in NZ"
-    excerpt: "They have outlined issues stressing New Zealand urgently needs to focus more on achieving an AI-enabled future, particularly in relation to investment, research, skills and talent, ethics and regulation and trusted data. “New Zealand needs to actively consider benefits from creating a world leading AI strategy, supporting innovation and ..."
-    publishedDateTime: 2019-12-10T20:19:00Z
-    sourceUrl: https://www.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    ampUrl: https://m.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
-  - title: "Eliminating biasing signals in lung cancer images for prognosis predictions with deep learning"
-    excerpt: "Deep learning has shown remarkable results for image analysis and is expected to aid individual treatment decisions in health care. Treatment recommendations are predictions with an inherently causal interpretation. To use deep learning for these applications in the setting of observational data, deep learning methods must be made compatible ..."
-    publishedDateTime: 2019-12-10T10:25:00Z
-    sourceUrl: https://www.nature.com/articles/s41746-019-0194-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.86A51A01BC1B10D1A47468931DF9E438
-        width: 685
-        height: 244
-
-secured: "/L8AT+IUXoy9HospePiecF92RkvDZvpYZUoJ3Qn/BmWAUnQwdZvZ8CgGb6pC3RNw9YBOs0LUbymaWagMptwF4TJAJ27GHXh84hhF8jEpvnmzPdnZNxLTC2YdCiFFu2f8qkOt8OO1PEmc7JUjUpMh5SGP74s5BVzSmYsC4DokX8bkQf3whOT8oHV/RedGhwIflfV6V2KzUIo4FzMdkoO3Nl2e+Qq5q2WWc+95grcf7w1j20gFwUj9rTuc4XYRUb6W59iP1mKGlbBW9WPnjLm6EA==;SISjg58Uk8529n7ZJOrF7w=="
+secured: "eokocDTiflGuWjU/aQeab0cdbQJvpSaviE8csDHZb4OfNKOZo1MX8Uj3tKxcXe72hg/s4NQnbe8mnOsE+SjFdm1L0rh1utC1ZYlRiChzvM4FLrNqFH35WBF2tNSY8pWnp+9tk/lJoyVteISuRoLvWoIcU5nork8VRK8hfL4hdRGyxDj80R5ArfgmUc4nFDuT0CXeAIWm71TKt8r7lH/z0itX6CO5dMe9Fp9F6qqvzbwPmG+c+D/BKgVSyU+LhJNXT7QVJ5+Sf7cfaAQxkyP62A==;TD1vplalTgHANrnCymPXQg=="
 ---
 

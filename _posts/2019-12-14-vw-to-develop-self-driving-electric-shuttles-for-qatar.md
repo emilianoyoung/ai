@@ -2,16 +2,22 @@
 category: news
 title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
 excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
-publishedDateTime: 2019-12-14T13:48:32Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+publishedDateTime: 2019-12-14T13:48:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -180,7 +186,7 @@ related:
   - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
     excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
     publishedDateTime: 2019-12-14T14:02:00Z
-    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
     type: article
     provider:
       name: YAHOO!
@@ -191,6 +197,6 @@ related:
         width: 400
         height: 229
 
-secured: "+B7F0YwTL6xcdwSpeTNmPrQMb68M1JWwwHDVNDCZDpeqZ1ju6KiGX9mkwGLFu/CcirBDfFzDtjRzVFvo0yp+XoqhxTwa4vTb+yLsdoKRbLYT1SqPqXox36AbWCkmGMxiUqn4n0Y9gNw5XrxBL6XAIWCr5C1Ja/pYs65HBA5hSkXpdusbjIgt9QqXz9HoZdlto4gk/Ebr1Nk1MXT1NRU5cBrw07tn+ryh65rEAgyqJZ4Yb4x5n6CWj61IeBO4ydv0X+4R1PrkjycexdVAFnP18w==;u7ct/Cx6BxTqKowDHTsxFA=="
+secured: "aFufTG7dPHkQ1WR8CMjB5AUVjWZZfyr837XqFLTbrdq38OYc6iN0pdLINwhzyn8bWUF1n9tLQUPmFMy2eNmt+/zDGpNItm7umJSY6xIZzisabMGFce6ESusnCkGZ7B8+wH7R3LbAmmBy8SvvIf7kB+jcyF0nwZjub2vWQQJQIzMCq8fFk6Cnvlijl70foOLxbmi71NfoHrabr7cl1TEwtgLKYwUKXH/TCDgLqTpFqvqyj0ulvi4E63zzviT6aTC3Emtf+Eoc3IpEU2TudcQp7w==;E///Dq/dPZujrjQtQO2V8Q=="
 ---
 

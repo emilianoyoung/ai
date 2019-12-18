@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-p
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
 type: article
 quality: 68
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
         width: 700
         height: 367
+  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
+    excerpt: "who identifies himself as a doctoral student of machine learning at Canada’s University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app could be drawing associations between the ..."
+    publishedDateTime: 2019-12-18T18:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/wechat-had-translation-glitch-canadian-075537126.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
+        width: 620
+        height: 350
   - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
     excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
     publishedDateTime: 2019-12-16T14:56:00Z
@@ -59,6 +74,6 @@ related:
         width: 700
         height: 493
 
-secured: "agB3tF5G6wNQVSIhYYyTRGRYHaVf2Fx+/+8kOwYGBPkmkMRzh0qPDMh6b34YkXMIJh29mLpkiyHITtX06CxusS/qXGA4mCjmPmWZBvGYM7lbhR9FRtf/dkQkhtYbLwj69t/KdugfQfo96V/iyR4PYML9i8MV1ukdyRoceo+1WgA5lCja25Y3izk+IPJYLigKRLm+LOlC50zd3R8C6scYszLQ5A5HYvmnwvVqok6GxY/BVnJLaEx+AAHCRM7UgvHOonovZveAxtxnIUsL7I18oQ==;bm0uGGhP0e6HyEiK1ytf+g=="
+secured: "AqVZ8AUsEcDMw1pKxb7AU4OUaJYBpiLYlTulQC7jycUn7k51iph1WOFf9dOTVDdzyP0Yb9imlqG7H6NG0FcNiAtJBPiIGZQX89STdfEb8++d6WSrPjJt9+JqakFUze/SlMkr4qz6VJeb2baaBVkT/fQPXds0LuKUcj6HOFmvC/yb8oC3+rmj2GTYPdieuq5ZbDRaG2H/OAFxMMLpZVCcDiBdOrFetDFd37sxvBXZ1IM1Pk2sJpQR46dQ92N0KyvygA5gQ3/X3G6s4Mdu8ooEWw==;6tCW0WRxV4837g3CN7WlAg=="
 ---
 

@@ -60,6 +60,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
+    publishedDateTime: 2019-12-18T17:30:00Z
+    sourceUrl: https://www.finanzen.ch/nachrichten/aktien/global-natural-language-processing-nlp-market-set-to-reach-$26-4-billion-by-2024-rising-at-a-cagr-of-21percent-from-2019-1028773451
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 0
 
 secured: "5CKVMN/QWkdw3vF6WprOMJm7NJTrDhbx0NP71RWFjgU/6ENZ+Ka0ZpNKM5CzcWTnsxgpkjLX2TRGThj5CYYkFkt9SIbzgx9hUGNEYDwpBIwpWttJCi/eFiLctr95Y4OoI8V0elcRa9gMEkyR7nOWmwQ+xnvSyopzn3s87QaERJo4VMTwzrq0XGe2YARduLuY2WDrJNUdQ+0AQhIvfkFwBVuWtXohNeBB371USf0yD3BsQ/ZJ+hmCM7LUWCL+YevjaseI125MRHjCzwqUE0dDLA==;aQlCk+Md1Xfr4Sa+CVqoCg=="
 ---

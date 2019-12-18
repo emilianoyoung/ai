@@ -5,8 +5,8 @@ excerpt: "Using powerful computers, scientists have scrutinized this bounty with
 publishedDateTime: 2019-12-18T15:24:00Z
 sourceUrl: https://www.nature.com/articles/d41586-019-03845-1
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: https://media.nature.com/lw1024/magazine-assets/d41586-019-03845-1/d41586-019-03845-1_17506724.jpg

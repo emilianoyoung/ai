@@ -79,6 +79,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "n4NnvEQWTYVSe1e5nGdjXOQR2GRFlxV4M6DUxpYrIA+6zT7Whz7FI3Jq9z4MgMl3P1HhSgQWYTQAbN35f3Yd+RVkH5pgCFDLdeetBOvOT49rZwyRrSo6lqq674VA6JEGaFkMx44AfPOjqdb7jMOVlRihLKcGKyrMPz20yj/B5m14Rc/4VvpiKfRxZpkQlqO8oRLdqvklBb1lkxoEY/978Q7P/NUabXsK/Hcxvq3g2jlQeC8UqRiSM1wRVOM5UHmE/K0myMEHiaLw5iXz8gLz8A==;Yp3inBU2tvE1gDESTHwdgA=="
 ---

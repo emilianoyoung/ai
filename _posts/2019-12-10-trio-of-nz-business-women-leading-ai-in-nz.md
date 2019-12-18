@@ -63,15 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.86A51A01BC1B10D1A47468931DF9E438
         width: 685
         height: 244
-  - title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
-    excerpt: "Attending experts were excited about a new research direction named federated learning (FL). Professor Yoshua Bengio, A.M. Turing Award Winner, founder of the world’s top deep learning research facility Mila-Quebec Artificial Intelligence Institute and one of the \"three musketeers of deep learning\", said that “In terms of better training ..."
-    publishedDateTime: 2019-12-18T12:07:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005275/en/NuerIPS-2019-China’s-WeBank-Mila-Tencent-Partner
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
 
 secured: "l25raWjjWdLD6gqW35nc0XEAZNOLpwFePvoLN6JQL6fjkhsCnaS0IbdwNCSDScmuvpSkicoCw9tkse6qN1hi3RcW5yW/7sfwLzOB3syWay+syYTIEvO27Yv4nas1IEzsf2D2VMxA3/VX20HUkWMMLRvBBUfNy9Lbl46PD/T5i1OGneS6skO0p8XYzAnFnZEXvSTwuFh1frwos5oieLcUsQhtHMddnpu8tJ4w3kevrr2ystRm0FpKQUThHV1u6emkYRbw3zwB4/Zv9NaZkew0tA==;IKq4Nj1yg+In+b/kQbQDVw=="
 ---
