@@ -1,21 +1,29 @@
 ---
 category: news
-title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-16T18:07:47Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+publishedDateTime: 2019-12-18T22:50:00Z
+sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
 type: article
-quality: 4
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+    width: 1024
+    height: 547
+    title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
 
 related:
   - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
@@ -93,21 +101,6 @@ related:
       - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
         width: 620
         height: 348
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
-    publishedDateTime: 2019-12-18T22:50:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 33
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -186,7 +179,16 @@ related:
       - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
         width: 700
         height: 419
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-16T18:07:47Z
+    sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+    type: article
+    provider:
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 4
 
-secured: "hMqBz8AzDCQ6wcpnJodEZW7blIlMNTISeD1ZuIuQCMXOGStpnF9skeZesSnO9LuJgjL5DrUvYNI19XejenFtrK7spywtc3cU7lo+5/HOml3Eq+gi/TIdqT75xS10pv7YP5FI64cZI1hnt/dYejPZRYRkZNYysyGcZ1Jem67e6AxB9d8/eVsxzhFrIjc7cmoqiV90AG/l9ryLIgRyZzyLYVz/zuLOG6LIL8ZbVgn5GDGv/jvXL04ko2bbr4KXIKnGso8i5d8p1Pj/CZRfGaijDw==;zOeCnVgiLxtb5NSQTOWkkg=="
+secured: "A4OVuN450Mq0EpKvEj+zQFeLfyPDP/6Cdhx2SvY6rkwtaMWCiYauRlnGcpzM5KFbB91FRMWo5YIBF3LcNh1sdj33NSlnRFPVXPfUqaMZYO4mnl8YyyGPWD3yudlXSUqNvGeTjq36fHKSq22o+k3dXa28WpTUsLBU4lU4p4WVHF+YkFTD0p7eC2sseQxiQKVmrD5Hjd015REaRhtA1B/4A3ncPWtPamxFZ16uLyMhTADKQD6JMCYB2J57M5WhO8DvuILLVYGw/UCcuVm6AKqv6A==;UAqsXsMEx31poRB41LlU9Q=="
 ---
 

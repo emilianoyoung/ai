@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Why some cities and states balk at face recognition tech"
-excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-publishedDateTime: 2019-12-18T06:06:00Z
-sourceUrl: https://www.sfgate.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
-ampUrl: https://www.sfgate.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
+excerpt: "Eight Democratic lawmakers pressed the Housing and Urban Development Department Wednesday to address concerns and review policies on the use of facial recognition in federally assisted housing facilities. In a letter penned to HUD Secretary Ben Carson, Sens. Ron Wyden, D-Ore., Sherrod Brown, D-Ohio, Cory Booker, D-N.J., Edward Markey ..."
+publishedDateTime: 2019-12-18T20:40:00Z
+sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmakers-demand-answers-facial-recognition-deployments-public-housing/161999/
 type: article
-quality: 59
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Nextgov
+  domain: nextgov.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
-    width: 700
-    height: 433
-    title: "Why some cities and states balk at face recognition tech"
+  - url: https://cdn.nextgov.com/media/img/upload/2019/12/18/NGface20191218/open-graph.jpg
+    width: 400
+    height: 400
+    title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
 
 related:
   - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
@@ -153,6 +151,21 @@ related:
       - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
         width: 700
         height: 433
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+    publishedDateTime: 2019-12-18T06:06:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
+        width: 700
+        height: 433
   - title: "3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac"
     excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
     publishedDateTime: 2019-12-17T00:15:00Z
@@ -259,19 +272,6 @@ related:
       name: The News International
       domain: thenews.com.pk
     quality: 36
-  - title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
-    excerpt: "Eight Democratic lawmakers pressed the Housing and Urban Development Department Wednesday to address concerns and review policies on the use of facial recognition in federally assisted housing facilities. In a letter penned to HUD Secretary Ben Carson, Sens. Ron Wyden, D-Ore., Sherrod Brown, D-Ohio, Cory Booker, D-N.J., Edward Markey ..."
-    publishedDateTime: 2019-12-18T20:40:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmakers-demand-answers-facial-recognition-deployments-public-housing/161999/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: https://cdn.nextgov.com/media/img/upload/2019/12/18/NGface20191218/open-graph.jpg
-        width: 400
-        height: 400
   - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
     excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
     publishedDateTime: 2019-12-12T15:57:55Z
@@ -347,6 +347,6 @@ related:
         width: 600
         height: 295
 
-secured: "PN8edwFtpEc17b1HWVULH1/8NZoJ24w2+duZw1Qd3xGw0JZiSIpdVF5ZvM3GymrTeGtQxM/e+xgE2AVsXhqmBrAarP7qBCVvBDzUBE6ori2ni67uGH3k5JgUxpaEl2x1WIj8SjfDfsiqmfDCXJHZfxhC/hD3ME8VLGAr8G0qVNCGJv0gT4RU3ocPno/lMi1KxPZ8wYSPOoy57IyqGHvO+mxfx3WALyuhT6OWbEd39h6XXkBHIyGJDnq8q8Sfdy+yWuigC/SaBMeot6Wko4l4Nw==;tzdqu9Si1v3b1bC0liSxFQ=="
+secured: "JROsQNYQjU6jq6S+2Xvu7u80KoaRTrDG2CeuspaHu/d73rAmZtpvcK5N7LSC4aM5XcQQAS9k7ezOqi59TvNhETs4zKEtPoD5hK99vvCbTFTjnsqmUtPbvqn/FRCCk+M+Ceu9b9QA/iIvF/I0d20N4/Ah/4iLT8cjOx23ugTeh5SYcswHjyR3LH2La6aiILUgCvEu3FE1II3r1VZi5lMJO5pYSfeKx0Y9RJcj1hH7TKP7Feips0VWyVfPPU6NUfwluRcZDWFlcs+8NH7K846gOQ==;YOGhacKnmlaxEsItdnbv7A=="
 ---
 

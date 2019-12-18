@@ -272,6 +272,19 @@ related:
       name: The News International
       domain: thenews.com.pk
     quality: 36
+  - title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
+    excerpt: "Eight Democratic lawmakers pressed the Housing and Urban Development Department Wednesday to address concerns and review policies on the use of facial recognition in federally assisted housing facilities. In a letter penned to HUD Secretary Ben Carson, Sens. Ron Wyden, D-Ore., Sherrod Brown, D-Ohio, Cory Booker, D-N.J., Edward Markey ..."
+    publishedDateTime: 2019-12-18T20:40:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmakers-demand-answers-facial-recognition-deployments-public-housing/161999/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 36
+    images:
+      - url: https://cdn.nextgov.com/media/img/upload/2019/12/18/NGface20191218/open-graph.jpg
+        width: 400
+        height: 400
   - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
     excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
     publishedDateTime: 2019-12-18T08:11:00Z

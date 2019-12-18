@@ -2,20 +2,16 @@
 category: news
 title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
 excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-publishedDateTime: 2019-12-18T17:26:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/id-r-d-achieves-strong-results-in-2019-nist-speaker-recognition-evaluation-1028773434
+publishedDateTime: 2019-12-18T18:26:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
 type: article
-quality: 32
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -230,6 +226,6 @@ related:
       domain: ksl.com
     quality: 0
 
-secured: "IuLD1S1fBqdTWB26KsE3Il5dFsOX6jxvQ5nvOECtReK4fwVOH8Ycg3Vx7IFrWchrvBdhKoUDlBZn11ahzYuIm2tWIrN2APgpbU9I5+map2H4e4VBZeE9zbuUlM+1h/wadGi24aqtnuU+h6QvXqWTwlWD+Nw/3ohR7jAAiWA99tF3pAiQbpy89p09xk6A9ZXSGKw6wQjD0oRD5HBUmas4ArezGxpffw8SAL3Hrf3FSaa/Xmf4Cc5LNU1ZMlqRfZey9rty8ANPemRx3pK3UoF/nQ==;Xq2F+g4EecbVNuUJ1kcTKw=="
+secured: "4C65PX99lOtbTd9OKLdsL1TQOkcpN+k34MSiIQXt6yaYV8nBOkKrSKtfDolnUeHir1HKLUBSTwD7HrIjbrxrTXpQrwFGZFvO+B0V8ELYeVOd2on/RFFIghbDo49MsletiDvUWFcza343LuT1MLNUOEqiUCRaP7LjbnN7X4HYzwjzm60ezY/GqqeXN2qhPj4RhlbpTDPtsQy01+leTspk9C+SP20YcmDvXFkJo+4qvxVNmgd9uyC7hxu/+y0LFAnq8qRBQ0XoBQIGYI/Nh1H1Zg==;dsyZp9pweoAekWI6iO7BLQ=="
 ---
 

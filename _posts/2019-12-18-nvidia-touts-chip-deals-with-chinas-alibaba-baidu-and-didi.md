@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
-excerpt: "Nvidia Corp on Wednesday said it has won a series of deals in which some of China’s biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles."
-publishedDateTime: 2019-12-18T04:12:00Z
-sourceUrl: https://www.reuters.com/article/nvidia-china/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi-idUSL1N28S029
-ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28S029
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28S029
+excerpt: "Nvidia said ride-hailing service Didi Chuxing has adopted its chips both for developing self-driving cars on the road ... Ltd and search engine provider Baidu Inc have started using its chips ..."
+publishedDateTime: 2019-12-18T16:30:00Z
+sourceUrl: https://telecom.economictimes.indiatimes.com/news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72874734
+ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72874734
+cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72874734
 type: article
-quality: 89
-heat: 109
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-    width: 1200
-    height: 630
+  - url: https://etimg.etb2bimg.com/thumb/msid-72874734,imgsize-24228,width-800,height-434,overlay-ettelecom/nvidia-touts-chip-deals-with-china-s-alibaba-baidu-and-didi.jpg
+    width: 800
+    height: 434
     title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
 
 related:
@@ -55,6 +51,6 @@ related:
         width: 800
         height: 600
 
-secured: "H0hl1HX1rUjd1w6JfypRRNZgrh+xSyheZZnv+asKi/33S/t/KuzNfIfM2yTNX0gOv9MUMB4NOHOL2NCyAOhhKPUI3AE2OZ47/QIWtpKigxMTcV+KBjZgfPPILzwv0cJXc0WbbsTpmfwAxf7L9ZB57zi2z0h5ZKFCFb8aqSxHgyq8cOFkL/SEdZq+ZezvYiOvUzISzpeDmiRT2V9KhPluXxv9aOOeTY+/O5BiImfaOsgqIc5FPTba22fx/5Nm80LSg3n7k38QSo8WB+36GifVqQ==;ViPE3+L+8s6WeNSnecZ9VQ=="
+secured: "pTYzVLh3pw0THNp65mgvbAye5IoNfTIEEJ2LCHeKy8xEdGM7HG5+fzOHXOjVAoCYdzFoFFmGvE79h7yaRSrJynVJ1NyWu47xwAnQrJqYMTZFXgdlYqKDFx2GqpvCcuT+QmWuuI9wPMBOgsgxPxvT/SUwLbz+upFCu1XUS/xT6ifVhsHEBbJcL052UOEkMBbJ2hmkawqJ64mucSIEguxJe9ymBrS799MEB/Ol3hbrpeDkxxHtxY8sxtdCEEvSq1B60V4EhQrSHYQ+Qn/a6ixFuw==;qRCZUsiIY4ZJ1aLVFz16RQ=="
 ---
 

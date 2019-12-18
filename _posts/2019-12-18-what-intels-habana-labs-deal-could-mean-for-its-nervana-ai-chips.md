@@ -1,27 +1,22 @@
 ---
 category: news
-title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
-excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
-publishedDateTime: 2019-12-17T16:05:00Z
-sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
+title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
+excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
+publishedDateTime: 2019-12-18T22:23:00Z
+sourceUrl: https://www.crn.com/news/components-peripherals/what-intel-s-habana-labs-deal-could-mean-for-its-nervana-ai-chips
 type: article
-quality: 39
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - AI
+  - Facebook AI
   - AI Hardware
-
-images:
-  - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
-    width: 635
-    height: 400
-    title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
 
 related:
   - title: "Intel acquires AI chip startup Habana Labs for $2 billion"
@@ -573,6 +568,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7F805FCEAF027FB4A989557B8D8D6FDB
         width: 515
         height: 221
+  - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
+    excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
+    publishedDateTime: 2019-12-17T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
+        width: 635
+        height: 400
   - title: "Intel Purchases Habana Labs in a $2B Push into AI"
     excerpt: "Habana Labs has demonstrated its Gaudi AI processor, which it claims can outperform a GPU by a factor of 4x. Let’s assume, for the moment, that this is true. It makes sense for Intel to buy a company with a credible product that can challenge Nvidia or Google’s TPU in this space, but what does it say about the performance of the compute ..."
     publishedDateTime: 2019-12-17T13:29:00Z
@@ -625,15 +633,6 @@ related:
       - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
         width: 700
         height: 466
-  - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
-    excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
-    publishedDateTime: 2019-12-18T22:23:00Z
-    sourceUrl: https://www.crn.com/news/components-peripherals/what-intel-s-habana-labs-deal-could-mean-for-its-nervana-ai-chips
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
   - title: "Intel buys Israeli AI chip specialist Habana Labs for USD 2 bln"
     excerpt: "Intel has bought Israeli AI chip startup Habana Labs for USD 2 billion, following reports the sale would run to USD 1 billion. The startup, which develops programmable deep learning accelerators, will become part of Intel’s artificial intelligence (AI) portfolio and push the company’s efforts in the AI silicon market, which Intel expects ..."
     publishedDateTime: 2019-12-16T15:02:00Z
@@ -701,6 +700,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "7WyuyR1H7iUwmcTmpX2f2EsA0B8mXQRY55FDK5E4IfpiKk2jKYZ+z5OPmpDtSFtdwoyS8oohIY2OkvS0Ix1huP+FqqkYzaLhWlbL0s2tI9apOysJtPpn+gKTpMxHoY9royGw0ukLwTnKr4Cj1ggaXU9AR4lhd3NR5rI+WAFfduUFy05QmE0F18pxIrX9x9age+iwNXMglgQR3EVNt/vHn5XIetEstNJg/FWTcSVGg8HEccOtpbKQsebdwSRUY/7AC+p+4d0kX0O2EOReplVpVQ==;Lr9YTXE5I8xZfb5wN7gILw=="
+secured: "Z7p4jlXh+EvVmX7mQucEmkDf1ju5zpwhMrt+dHiw0Dprfh1TGLbx3zq5TAZnUaQjESrFaH/moFcqhH50zSb/8G6WYOvPsz/SdKsL2dpsIDQH03iDB7/1I4W5ZcRJoDcKmcFVlp9/Zn6Xoc04tOK5Ao3BG4VwhdGeyOC1haaGrt3TNUJRw+KTmBbJgpXzcpBQl9m4aLL8bdUMvdXtybdz93rXOEkIURUCaLdBIcu6+R8iCrZ9rbnt1BG91fqicgglaQBXZ2m1BF0FyRuJjhk1sQ==;M6+q0drfVrNabL+7kaVCzw=="
 ---
 

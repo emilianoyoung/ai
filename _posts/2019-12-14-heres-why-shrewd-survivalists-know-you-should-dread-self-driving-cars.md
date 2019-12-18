@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-surv
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -90,6 +90,21 @@ related:
       - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
         width: 620
         height: 348
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+    publishedDateTime: 2019-12-18T22:50:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 33
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z

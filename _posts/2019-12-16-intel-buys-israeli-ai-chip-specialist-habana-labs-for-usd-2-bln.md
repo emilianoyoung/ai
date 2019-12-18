@@ -632,6 +632,15 @@ related:
       - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
         width: 700
         height: 466
+  - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
+    excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
+    publishedDateTime: 2019-12-18T22:23:00Z
+    sourceUrl: https://www.crn.com/news/components-peripherals/what-intel-s-habana-labs-deal-could-mean-for-its-nervana-ai-chips
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 36
   - title: "Intel acquires Israeli artificial intelligence company Habana Labs for $2-billion"
     excerpt: "Intel Corp has acquired Israel-based artificial intelligence firm Habana Labs for about $2 billion, the chipmaker said on Monday. Habana will remain an independent business unit and will continue to be led by its current management team, reporting to Intel’s data platforms group."
     publishedDateTime: 2019-12-16T14:19:00Z

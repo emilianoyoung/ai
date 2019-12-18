@@ -158,15 +158,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-18T17:26:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/id-r-d-achieves-strong-results-in-2019-nist-speaker-recognition-evaluation-1028773434
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
     excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
     publishedDateTime: 2019-12-12T22:39:00Z
@@ -189,6 +180,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-18T18:26:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 2
   - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
     excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
     publishedDateTime: 2019-12-13T12:24:00Z

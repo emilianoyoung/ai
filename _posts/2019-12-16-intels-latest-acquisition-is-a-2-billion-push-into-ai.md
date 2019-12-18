@@ -628,6 +628,15 @@ related:
       - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
         width: 700
         height: 466
+  - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
+    excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
+    publishedDateTime: 2019-12-18T22:23:00Z
+    sourceUrl: https://www.crn.com/news/components-peripherals/what-intel-s-habana-labs-deal-could-mean-for-its-nervana-ai-chips
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 36
   - title: "Intel buys Israeli AI chip specialist Habana Labs for USD 2 bln"
     excerpt: "Intel has bought Israeli AI chip startup Habana Labs for USD 2 billion, following reports the sale would run to USD 1 billion. The startup, which develops programmable deep learning accelerators, will become part of Intel’s artificial intelligence (AI) portfolio and push the company’s efforts in the AI silicon market, which Intel expects ..."
     publishedDateTime: 2019-12-16T15:02:00Z
@@ -695,6 +704,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "zAlAily1U2coUHKHl9E4CFj/rvdTUGB52tco962gx7d7yVDiDWi+2c1OapC2YJhwbAxvGOmyCEFmmkdcMAJCXMVIyVaYO6sqOzD3+m9Dl9Jm69sU7CG4MZ013zH9yyCjCN2PB26HWKFemCGWRC/xuiDldhkFRbbgNrcTHSvTQGFoinYv/g+XRlSqgIK7o/mVm6h0+z8ePHur/Mj9DmL1aXCnuUxrvhVY5PWvxa7/FY2DmbuzC3EWVtHxfrgJCTY749bUO88LduN/iSo2Xu5JSA==;+QdVQheZkaTxRdn/5wNqQg=="
+secured: "yFgpuSnYjXdOPungNMxbOs10F3+5CFGMEa7pi8ULhLrEg5F5EnN7Galhe9y+91jtXbs2bufNPJBgHt3sx2h7hiA/AaVjrwivgxSljxfyoWdqbdL9/iPCOf0O7U1g2juNOCy6EtSW/vvcAFRg7hG6hHURujAo4qecrC2odO7Epk7w3k/jCEAKdWReMHpj64euSRUTTd0KTJLfTpIsADwzwxkyKboL3gtEuiDue+GQ8t9u6TVwlX2E1NuHqU5EPdyfLJcQ5hrgEUjyXGA6er4SXQ==;n04pW3sPSBzBrIetVRMVWw=="
 ---
 
