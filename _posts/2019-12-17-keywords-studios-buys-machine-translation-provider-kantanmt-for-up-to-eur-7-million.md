@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T09:04:00Z
 sourceUrl: https://slator.com/ma-and-funding/keywords-studios-buys-machine-translation-provider-kantanmt-for-up-to-eur-7-million/
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,20 +25,70 @@ images:
 
 related:
   - title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
-    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home and the latest company to make a move to push services deeper into the home is the online contact lens retailer, 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
-    publishedDateTime: 2019-12-17T12:07:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/
-    ampUrl: https://techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/amp/
+    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
+    publishedDateTime: 2019-12-17T12:00:00Z
+    sourceUrl: https://news.yahoo.com/1-800-contacts-buys-home-120028488.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Yahoo! News
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8F999134A63886244BA20E4244726174
+      - url: https://www.bing.com/th?id=ON.647AABA4B02CD537046675E27910C265
+        width: 700
+        height: 466
+  - title: "Keywords Studios makes fresh batch of acquisitions"
+    excerpt: "The Dublin-headquartered company has purchased Kantan, giving it machine translation technology; Ichi, expanding the group's marketing services; and Syllabes, giving the company a games and film/TV audio recording studio. Keywords acquired Kantan, which employs nine people and is based at Dublin City University's ADAPT Centre for a potential ..."
+    publishedDateTime: 2019-12-17T09:41:00Z
+    sourceUrl: https://www.insidermedia.com/news/ireland/keywords-studios-with-fresh-batch-of-acquisitions
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D9649CC772F591E305372838CCA6849D
+        width: 700
+        height: 393
+  - title: "Keywords Studios makes three acquisitions for €11.2m"
+    excerpt: "Keywords, which provides technical and creative services to the global video games industry, said the acquisition of machine translation technology company Kantan, marketing services company Ichi and audio recording studio Syllabes were in line with the Group’s strategy. Kantan was acquired for a potential consideration of up to €7 million ..."
+    publishedDateTime: 2019-12-17T07:47:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/keywords-studios-makes-three-acquisitions-for-11-2m-1.4117865
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.CF8662A8F677A4AB30A30B4AF47D5F8A
+        width: 300
+        height: 160
+  - title: "Keywords expands game service line with $12.5 million triple acquisition"
+    excerpt: "Keywords Studios has acquired translation technology developer Katan, creative marketing company Ichi Holdings, and recording studio Syllabes for a combined €11.2 million ($12.5 million). The Irish game service provider said the Katan purchase will add \"cutting edge\" machine translation technology its portfolio, bolstering its localisation ..."
+    publishedDateTime: 2019-12-17T16:41:00Z
+    sourceUrl: https://www.gamasutra.com/view/news/355842/Keywords_expands_game_service_line_with_125_million_triple_acquisition.php
+    type: article
+    provider:
+      name: Gamasutra
+      domain: gamasutra.com
+    quality: 23
+    images:
+      - url: https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/998768.png
         width: 600
-        height: 400
+        height: 600
+  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
+    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
+    publishedDateTime: 2019-12-16T07:08:00Z
+    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
+        width: 700
+        height: 466
 
 secured: "aFp4AUJmgrfy0qqbkP1qwNhpoc2N/Naq4d/jAThrcd79O0gtmBApnvgP2y4VORXb1TfAgUEaunome34d/Sn/XmGNgBSUmwBre+RLQXDd/jetXVaqEYy67exo9PzKMy1+P99v+u3n4H5EuIjNmc7OcPmo6BnA0/doNnESCk7pjxGZl+qheXDbkDHG3C+q25l4gnys4fWiuHHV07r08fdZLcz0AlbkdbziUK1IrXcUCSIGDLIdr5Xus3yUGtMLROegLXSELRsKVLUa5BT7tLTsVA==;SF63+Bs426AghvnMtRVLkA=="
 ---

@@ -7,8 +7,8 @@ sourceUrl: https://www.entrepreneur.com/article/342563
 ampUrl: https://www.entrepreneur.com/amphtml/342563
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/342563
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.09745B984C57A3B3A0F6B8BBF98440F5
@@ -29,6 +28,6 @@ images:
     height: 466
     title: "4 Simple Rules to Make AI Chatbots a Force for Good"
 
-secured: "3K1jPwJPYDqoaKT6Agw5t3YXVf/qDUUwKKzy3MPxtassxB7FfWW/tMSOjnOAsiFmW1qYO4zO2vxuqUxDFQThb/hVOIPHi9yTpfIKSar4duC6NMqxmmnZWjglUsv11Xu7L1yzsnxnTjFcoij2Ls7BBQM4up4VFkzzyCFf9486aCWjAAUcRGHQtB+Z8Pu1Vxq3T4jAk5m6cW/m11YQS0zZPWezF6VUu6E6roJmfvU2BQIKs2HPOeMwZo/3MR3aZmHEGSeO1Cp2eLdvUP9x21HWoQ==;xEan4JEtdVFMEkFp9RJpiQ=="
+secured: "uT6ZVFE2hmmcUWc5eaFvl98z68FF4Iiq7sfR7oYdM3IDY2Rf+lfJWmHmTY3VELk/z74XDW9FqGwCqrl+E6xMAXYgKNSO36nJRyp/Glpi4WpEdFlPU8TGK+XnvyRWudE3lfgD3vvLbN92YBFc85pIk2t0M5+W0VJEBogAW2BGZZQNzAuKc51tlJYMkh2Nk9jhOA+dagRa/9SRl4OjAJFRk1h6eGKljuhbvotwSwYaYrJ4BIy9iLbLgqFf31j4SWU69ua7syyjMh2rF8iq6uJg4Q==;yfcSlLqv25C+nrnKV2s0Bg=="
 ---
 

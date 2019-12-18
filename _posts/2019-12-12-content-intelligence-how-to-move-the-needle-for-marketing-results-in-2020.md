@@ -23,49 +23,58 @@ images:
     title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
 
 related:
-  - title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
-    excerpt: "Working with robotics and drawings brings me back to the body — the mark-made-by-hand ... That being said, the 'artificial' of artificial intelligence tend to overlook the human element. In my drawings, the models I train require large datasets to be effective. In my case, those data sets are decades of my drawings. Is it uncomfortable ..."
-    publishedDateTime: 2019-12-12T05:55:00Z
-    sourceUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/
-    ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
+  - title: "Empathy in Artificial Intelligence"
+    excerpt: "In recent years, as AI systems are integrated into our businesses and homes, [people are increasingly concerned about the ethics of AI. Are we using artificial intelligence for the right purposes to bring out the best in humanity? How can we live side-by-side with our machine counterparts and use AI to enhance our human lives? Inside whether or ..."
+    publishedDateTime: 2019-12-18T00:33:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 91
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df138cdb269e900077e3501%2F0x0.jpg
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376
         width: 1200
-        height: 800
-  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
-    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
-    publishedDateTime: 2019-12-14T18:27:00Z
-    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
-    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+        height: 675
+  - title: "AI is breathing new life into artificial limbs for India’s amputees"
+    excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
+    publishedDateTime: 2019-12-17T03:54:00Z
+    sourceUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/
+    ampUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 38
+      name: Quartz
+      domain: qz.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
+      - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
         width: 700
-        height: 350
-  - title: "Bots fired: examining social bot evidence in online mass shooting conversations"
-    excerpt: "Through the application of deeper natural language processing techniques, a deliberate content analysis methodology could seek to determine the extent to which specific social bots amplify a particular narrative. Further, the introduction of community detection analysis could identify the existence of particular bots aligning with verifiable ..."
-    publishedDateTime: 2019-12-10T14:20:00Z
-    sourceUrl: https://www.nature.com/articles/s41599-019-0359-x
+        height: 393
+  - title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
+    excerpt: "Moreover, companies like Waymo, Rolls-Royce are coming up with driverless vehicles such as trucks ... Increasing investments of companies in artificial intelligence enabled logistics and supply chain is driving the AI in logistics and supply chain ecosystem Market growth in region. For instance, Chinese company Alibaba invested $248 billion ..."
+    publishedDateTime: 2019-12-17T15:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-ecosystem-market-2019-latest-research-released-with-in-depth-industry-intelligence-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
+    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
+    publishedDateTime: 2019-12-11T18:34:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 20
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
-        width: 685
-        height: 362
+    quality: 12
 
 secured: "+AaHc3dboAvZCzWhCMf6muC+m3ShRGUQcs5FmKHS85sbB0+OTBeS8TXtYbKtjsbaeR5WWGwks7+IZ0YG1qhi2HTQ4LLUkaeO9Cn/DBNy0GGrUJ7P+rdDy/5p7vbhc4VfAZdsxvVRjOFZSC6is+ihvqLWJ/2BdBQRGz+RHfu7j36DoJI6SNKrnWxZxUYWzRnY+KiexTh5ouJGHInlia/mtWFZE3Pyg1GCLg83Dd5FM1+zyRX85JKTrcuGVpb3YzwyaAoX4Xa7yvgxfRuYEu+k9w==;+sG85YOp5Ck9lPzTIHvqIg=="
 ---

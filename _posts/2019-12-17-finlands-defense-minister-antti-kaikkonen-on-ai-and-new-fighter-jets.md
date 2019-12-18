@@ -26,13 +26,15 @@ images:
 related:
   - title: "Infinite text adventure AI Dungeon is now available on iOS and Android"
     excerpt: "Earlier this month we told you about AI Dungeon, an AI-powered text adventure with near infinite possibilities. You can type what you want into the game, and the AI will generate a response on the fly, creating a freewheeling experience that encourages cooperation and imagination. Now, AI Dungeon is available on iOS and Android as well ..."
-    publishedDateTime: 2019-12-17T17:20:39Z
-    sourceUrl: https://www.msn.com/en-us/entertainment/gaming/infinite-text-adventure-ai-dungeon-is-now-available-on-ios-and-android/ar-BBY5Br2
+    publishedDateTime: 2019-12-17T17:20:00Z
+    sourceUrl: https://www.theverge.com/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
     type: article
     provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 137
+      name: The Verge
+      domain: theverge.com
+    quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.1EE177E365F919A71DA63C4E36A797E2
         width: 700

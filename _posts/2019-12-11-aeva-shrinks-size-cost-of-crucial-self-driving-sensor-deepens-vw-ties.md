@@ -39,6 +39,34 @@ related:
       - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
         width: 700
         height: 350
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
+    publishedDateTime: 2019-12-17T18:55:00Z
+    sourceUrl: https://www.newsobserver.com/news/local/education/article238467493.html
+    ampUrl: https://amp.newsobserver.com/news/local/education/article238467493.html
+    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/education/article238467493.html
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 38
+    images:
+      - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
+        width: 1280
+        height: 720
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
 
 secured: "6MSeNdJDdMOTDwpQkveMiOSZbJtbe/+nnw0DVJD3m0L4Ygl7aOcveorkH4h2/psUIMWYsUuUYQwdBF5qkAOFk6StiC0hAYL4p0yvBNcyEsnk1ykNPfXGfOYgDNEct0l855e9c4jx57yvLOfqksfFhKZPfA9fY1QUKCooqns4/d0Dp/dnaQbyZNuB1jf3ONmjb668My9m+OiDZhJ8lbgmhF6zhUyyxC0jPEWD2qfBCkYTFoRhc3IUP3C+h6uiQqAj5kJqgqOb2L4MseGcXAR7VA==;yfDVeaO5V9VOHqXKH8WO/g=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
         width: 685
         height: 362
-  - title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
-    excerpt: "Chances are that in the last 12 months, you’ve either demoed, tested, or even adopted a new marketing technology that includes artificial intelligence (AI). While the tool may or may not have been built for content intelligence, 2020 may be the year you adopt a tool or program that uses AI to help you make better decisions around your content ..."
-    publishedDateTime: 2019-12-12T14:06:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/content-marketing/content-intelligence-how-to-move-the-needle-for-marketing-results-in-2021/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
-        width: 600
-        height: 314
 
 secured: "NYj+JZu9jMFPD5UJwGB/GDRx+IPLlta3Jk39p2xlvf0pQzNMO5gZ4O2deTS+h9VvS8MZkdmx5GbeoRHE6q3BaEuBvif6IURVt6ehRRAFwwBroVBsH1RErTz8SHPhE17p+qlxKaIoRZvk004vaOECL7lSNyX/hnqhXEu4NuszTbOjB4mTY4ucmiUxUGw8bDdv2oKcM8wcZpQ/b9PjgR96m8VmHTIYLAcy2wOA0Vy5wht/nofxJX0AMVSTwniN2GS9JwzF1Cx2wrbrZAYzTyc2lQ==;XON60+ynWtGqVVh/OjTzvQ=="
 ---

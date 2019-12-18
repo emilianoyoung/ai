@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Why Some Cities and States Balk at Face Recognition Tech"
+title: "Why some cities and states balk at face recognition tech"
 excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
 publishedDateTime: 2019-12-17T19:30:00Z
-sourceUrl: https://www.nytimes.com/aponline/2019/12/17/business/bc-us-facial-recognition-curbing-surveillance.html
+sourceUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html
+ampUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "Why Some Cities and States Balk at Face Recognition Tech"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -735,6 +727,17 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
+    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
+    publishedDateTime: 2019-12-18T00:04:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
+    ampUrl: https://amp.usatoday.com/amp/2680483001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
   - title: "Communities come face-to-face with the growing power of facial recognition technology"
     excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
     publishedDateTime: 2019-12-09T23:13:00Z
@@ -846,6 +849,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "AuRIKY7BDlbfx25pYj6NLB7pH2/omq/QQ7PK0xx0Ty4nCFk5bhKS4juPOPnYAIY81pSAzQ2XO3Ruds7s59xRRG386BcNqljG4G3+0HbkgV15eeF3LdqgF8imqBYUzD0a+Y2YpgzWgrPkAfq7TxSgAr+zgxZnpwrpdDRivZcwfXY5bF7jiWio46cD1dWl2+oRmWuYCSdv6LY46W6MU0FqwTf9YR/0sumxBRgIDVdDX8HQQ2h6rVTjTRJAulmIS+0PxmcE0BB/dzrjQwuKEq7kTA==;+vvUXlYpyjIh1R8d6zs7cA=="
+secured: "QVJDPOPZ2Vwi+Efbsk5P9Lw7W9GNkYN9deYr0dNQ4vQM7YT4ngW8MudkZCd9Qboaw7WSeFep1nf6bNi9XXb7nP5xAYCWNT6xUxOz50dUvimJOYwCs4uPDiZylvYfQQvYlPocyJR84UYYaYIZ5c45yG21RiLJBcfPbSjMi8VRiv68UpitXBxXGb/bz6XNgqudSEmTi9PT8hrqffqtJC4otCGi6ea4LBRNnTsuhbs/WV4PMvgU82GibZGe96qblgLIDYRtTLczJU2Xd7hAIorrrA==;QX3KIBtGOp/+22C6+qNKzA=="
 ---
 

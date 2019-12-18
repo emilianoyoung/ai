@@ -24,6 +24,21 @@ images:
     title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
 
 related:
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T22:58:00Z
+    sourceUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/
+    ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
+        width: 600
+        height: 400
   - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
     excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
     publishedDateTime: 2019-12-17T21:32:00Z
@@ -39,6 +54,21 @@ related:
       - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
         width: 1200
         height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z
@@ -54,34 +84,34 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
-    publishedDateTime: 2019-12-17T18:55:00Z
-    sourceUrl: https://www.newsobserver.com/news/local/education/article238467493.html
-    ampUrl: https://amp.newsobserver.com/news/local/education/article238467493.html
-    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/education/article238467493.html
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 38
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
     images:
-      - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
-        width: 1280
-        height: 720
-  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
-    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
-    publishedDateTime: 2019-12-14T23:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/volkswagen-bring-self-driving-electric-225609415.html
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
+    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
+    publishedDateTime: 2019-12-10T13:14:00Z
+    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: After Market News
+      domain: aftermarketnews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
-        width: 700
-        height: 466
+      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
+        width: 600
+        height: 300
   - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
     excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
     publishedDateTime: 2019-12-14T13:48:32Z
@@ -147,17 +177,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
         width: 700
         height: 466
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
-    publishedDateTime: 2019-12-17T09:39:00Z
-    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
-    ampUrl: https://amp.benzinga.com/amp/content/15000614
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "4qllAGgQ30IKsfcvElJYQsqfVntsPydCHDDAOO6Z+CSi/oR+SsD8W16lx9OS79bYMPYwJcQd7rIzsvfAjHFi1dDhqcOpryE0xihttWxK49MizZ7Lg7qOOd4IOZCutz8bPGLTBKFCCRU2VI2g19hdq7y/uNuo7B4A5RkdPsjV4vAkDmLgobfMs8WYr5HENWQM2GXYXIKWawmlvFT+g/Rr+Zz0Ap5hWxtrLTkXBw3uCYgqESPnpM9nKi/YXkUJff2qkzngNEZhp/U5osIACQ+DDw==;P8V7QnTGoYzsODBnB4C2nw=="
 ---

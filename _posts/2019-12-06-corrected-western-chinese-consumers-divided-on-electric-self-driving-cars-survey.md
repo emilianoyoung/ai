@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CD9C792AB54FD2CAB1F366BB8A83BEEA
         width: 700
         height: 457
+  - title: "All-in-one chips seen boosting computer power for artificial intelligence needs"
+    excerpt: "Researchers and companies working with AI technologies have had to make do with off-the-shelf hardware that was not originally built for the massive amount of computational power required to perform these tasks. The available standard digital platforms, the chips and the processors, are “not suited for this,” Kvatinsky said. “The hardware ..."
+    publishedDateTime: 2019-12-11T14:20:00Z
+    sourceUrl: https://www.timesofisrael.com/all-in-one-chips-seen-boosting-computer-power-for-artificial-intelligence-needs/
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.6A2E19F791698445A0054FCF0B0985DD
+        width: 700
+        height: 437
   - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
     excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
     publishedDateTime: 2019-12-09T16:13:00Z

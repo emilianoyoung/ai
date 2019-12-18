@@ -18,7 +18,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df2b31e8baf1-76219803_dspace_san_jose_office_exterior.jpeg&size=1&version=1576186784&sig=fafa31b4f3deb62bd8547b9d271cc295&default=hubs%2Ftilebg-blogs.jpg
+  - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df9082743e3a-EL6oxqmXUAAC0be.jpeg&size=1&version=1576601649&sig=0d5c87908427813cd0eb527a07b3e395&default=hubs%2Ftilebg-blogs.jpg
     width: 500
     height: 272
     title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
@@ -38,6 +38,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "4Y+S1M6flzTmWrgSSWg1htH2aqsu6vRLBEXSmJ136T6m//fnMaUJ+SFMXbLXugAWRpoxw0TAh0bCvF0mh41F2uHc06TiptIwE5UtieT1mrlptjS266pW8bV01x7ZbAV0ps0Xlf9Epa9bLEJiQV1RCpIWYFn2jw1V2y38uK8BvGYGDFbM4Ew2xeRu8F8c5K+YR2czZ3bRpfupVnIx6U0nYOfVdpLHaVih9CKRikD7EpwIj5yvxsbFOQJMzcG3NO4X3RookQ2xObLUVfz6kGWFWw==;66LdTnJlOmFo1HyKiOZZZw=="
+secured: "DJfY+9t4Rp/f/NK4uZaYR68ks3zdt8KyiYffCsVA8UoolpA6fZPvJwgZ31jJu/eLO+u2Hb1ODX0+0H4+vQB+BTxyC1AwjK2jgBGgWESx+XuorVhmAXaVJ51yQoE4CONidzNuo/NtzyBYGnusduZnsSBlWC3DM3IJNwfwUAHyyzmoMK3g3rrmeB8S048SDMqCvzdDzkYmG1lRLzdew2SCsrBkqUQJi+RPsHYFpjE4ZVoCg1iiV3C/KS93AE7f7yEjG/WozeUIARX2a5ZxeVEUcA==;pBYMXbfoyNQuhGb121EjyQ=="
 ---
 

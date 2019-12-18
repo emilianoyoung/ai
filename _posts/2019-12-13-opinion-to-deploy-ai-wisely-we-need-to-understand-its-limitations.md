@@ -8,8 +8,8 @@ ampUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-n
 cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: -1
+published: false
 
 provider:
   name: East Bay Times
@@ -26,6 +26,21 @@ images:
     title: "Opinion: To deploy AI wisely, we need to understand its limitations"
 
 related:
+  - title: "Oto snags $5.3M seed to use AI to understand voice intonation"
+    excerpt: "Oto, a startup spun off from research at SRI International to help customer service operations understand voice intonation, announced a $5.3 million seed round today. Participants in the round included Firstminute Capital, Fusion Fund, Interlace Ventures, SAP.iO and SRI International . The total includes a previous $1 million seed round ..."
+    publishedDateTime: 2019-12-17T15:14:00Z
+    sourceUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/
+    ampUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.CD442411B56928EB5B28447FF20D6635
+        width: 599
+        height: 399
   - title: "You don’t need to understand AI to trust it, says German politician"
     excerpt: "She also demanded that AI developers should consider users’ safety concerns and other basic principles from the beginning. This is very much in line with what has been outlined in the EU’s “Ethics guidelines for trustworthy AI” published in April this year, where, as guideline number one, it is stated “AI systems should empower human ..."
     publishedDateTime: 2019-12-12T12:13:00Z

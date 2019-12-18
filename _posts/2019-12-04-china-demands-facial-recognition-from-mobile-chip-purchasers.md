@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.999328753F4E4589F448E4D16FC478AF
         width: 700
         height: 393
+  - title: "As facial recognition tech races ahead of regulation, Chinese residents grow nervous about data privacy"
+    excerpt: "He is not alone: Chinese consumers, generally thought to be more accepting of trading privacy for security, are growing increasingly vocal about data privacy concerns as facial recognition becomes more common in the world’s most populous country."
+    publishedDateTime: 2019-11-27T08:02:00Z
+    sourceUrl: https://www.scmp.com/tech/policy/article/3039383/facial-recognition-tech-races-ahead-regulation-chinese-residents-grow
+    ampUrl: https://amp.scmp.com/tech/policy/article/3039383/facial-recognition-tech-races-ahead-regulation-chinese-residents-grow
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3039383/facial-recognition-tech-races-ahead-regulation-chinese-residents-grow
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 43
+    images:
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/11/27/45e6be86-0f61-11ea-82cd-148dc44829b8_image_hires_110116.JPG?itok=SRTN2oNA&amp;v=1574823683
+        width: 1200
+        height: 630
 
 secured: "7SgdS4ileDdH4lZTv/7rwWaHOX7pFUmLDflPQQjTzVDf1FmwxciR6jvHP7daswcN95jpoLWSjEgSjFnRfUcAkj47JYOk2cnq8q+RpWpbiYZYC2CBDPclO8uvJgP+gYKq8znxoyW3Zn+YZlmWWnNLNTJbbyUDHE/qAtwmvIOR3wAHScuK87iSEXS1yXOApxqGJPV49eIV1UAdBl8iBvnRWwJNe7jhYLSo0dMzDHfuXa5lCTFmo2OeLZy2EOWyPBJ5nu4nYwIi5ZgmLvwO1f52mQ==;/gP5EWfFlY2DzsplPQ2pZw=="
 ---

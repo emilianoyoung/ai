@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.84424280818CFC6C57669F736294D13C
         width: 700
         height: 509
+  - title: "EC expert group issues call to action on fintech regulation"
+    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
+    publishedDateTime: 2019-12-18T00:38:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
+        width: 480
+        height: 270
 
 secured: "o3bmF0cVyOLmq2/GZ/q/r1qls5wvPUUZV+SMY2Z9ZQ0INLeqenYy/gmom02hF7aaMgpx8hL0ZDL4mFf641u8QWOOEp7wLzffFb9yH1F8kDbvKuE1iaYaVaSeenAw/37VAepxIYN+H52q+SjxfwxrnTomQaN2Fd3+iPy/nSHV8nAQN1yAs2jQSP0Ym+dArgn8FVF0j/layHTraNw5m1RuKO8Rdrllfy44bYstfKPQo0p0xg5yUpZQxl9T47Dj8ofe8BN2QjkaI+DE+nbXnyNkyg==;vUIyXO+jTeZnvUW3QY+nbQ=="
 ---

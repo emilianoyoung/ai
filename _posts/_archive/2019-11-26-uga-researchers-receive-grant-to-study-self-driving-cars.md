@@ -23,6 +23,6 @@ images:
     height: 630
     title: "UGA researchers receive grant to study self-driving cars"
 
-secured: "ZuZt0CxI93Kecs0lq13n920v0CIUU7iBfG/kLavzz8KZHKHcv8rdBxNNWZJri3G4mMlnkUgUwUGtxKcTY7Zyx2RO4chbQS4kfChnD2SO01LY1yi2YjMIg8V4E3ODTuI66XXII//dq+iPz4iRc/1Au7Lpm9xMxl0iV9aSGYhWhs1LVL9KKX9BvSV7E2w/KMAVegOLGR9J7ue3zmBvfoCqIulSFCVA7JkjoW9idKZ/wg5eXKYGVv+HzosfJi0P8YCNpaVJcKpTqG6PrjUr/EeI0A==;er1qO/9bNgnDRlIgt9LXvA=="
+secured: "ct/KD0vGbHgqRZy+SegG9yz+1qQOdtGEXA6NS/J5zMRVta8AHL8BihbEJkZLoZFKo6iszErkJB26y3OP9O9wC2Mx+ypjbeh93fs36pmJNmzt5tqDA/jTqvD61DJy76P64BX/GRPUBViIrwoWUSXZRdiYbwrb1cqzfX+opzkPgLaSK//mBj/M8O0ey4ezXb/VJbDd/oDYLveN47nKdbggNOceCdMfj2HGK/SeEbJjSJJrsyyHpBdpDig/uK2Rd4eAXmZoQGxWGp8nUD+ULScV3A==;BHbUPiiIxTJaWh25F1ruiw=="
 ---
 

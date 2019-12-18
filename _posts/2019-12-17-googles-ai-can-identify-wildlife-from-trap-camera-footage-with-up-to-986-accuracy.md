@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/17/googles-ai-can-identify-wildlife-from
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/googles-ai-can-identify-wildlife-from-trap-camera-footage-with-up-to-98-6-accuracy/amp/
 type: article
 quality: 80
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,13 +31,15 @@ images:
 related:
   - title: "Google AI tool helps conservationists (and the public) track wildlife"
     excerpt: "Google is quickly putting its wildlife-spotting AI to good use. The internet giant has launched a Wildlife Insights tool that helps conservationists track wildlife by not only parsing their photos, but sharing them in a searchable public website. The AI automatically tosses out photos that are highly unlikely to include animals and tries to ..."
-    publishedDateTime: 2019-12-17T14:10:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/google-ai-tool-helps-conservationists-and-the-public-track-wildlife/ar-BBY5bP9
+    publishedDateTime: 2019-12-17T13:10:00Z
+    sourceUrl: https://www.engadget.com/2019/12/17/google-wildlife-insights/
+    ampUrl: https://www.engadget.com/amp/2019/12/17/google-wildlife-insights/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/17/google-wildlife-insights/
     type: article
     provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 37
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.85CE040938370680DC012930DF41D829
         width: 700

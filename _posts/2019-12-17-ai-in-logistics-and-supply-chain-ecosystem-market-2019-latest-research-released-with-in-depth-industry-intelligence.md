@@ -28,19 +28,58 @@ images:
     title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
 
 related:
-  - title: "Empowering Telecom Industry with Artificial Intelligence"
-    excerpt: "To stay afloat in the fiercely competitive environment and meet the ever-increasing customer demands, telecom operators must embrace new emerging technologies. Artificial Intelligence is one of such technologies that have the potential to fundamentally transform and empower the telecom industry. Optimized networks, exceptional customer ..."
-    publishedDateTime: 2019-12-13T23:51:00Z
-    sourceUrl: https://medium.com/@infopulseglobal_9037/empowering-telecom-industry-with-artificial-intelligence-36ad93610e
+  - title: "Empathy in Artificial Intelligence"
+    excerpt: "In recent years, as AI systems are integrated into our businesses and homes, [people are increasingly concerned about the ethics of AI. Are we using artificial intelligence for the right purposes to bring out the best in humanity? How can we live side-by-side with our machine counterparts and use AI to enhance our human lives? Inside whether or ..."
+    publishedDateTime: 2019-12-18T00:33:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.4339FD62BA5F19F832AD5C4B1FA1643E
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376
+        width: 1200
+        height: 675
+  - title: "AI is breathing new life into artificial limbs for India’s amputees"
+    excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
+    publishedDateTime: 2019-12-17T03:54:00Z
+    sourceUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/
+    ampUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
         width: 700
-        height: 233
+        height: 393
+  - title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
+    excerpt: "Chances are that in the last 12 months, you’ve either demoed, tested, or even adopted a new marketing technology that includes artificial intelligence (AI). While the tool may or may not have been built for content intelligence, 2020 may be the year you adopt a tool or program that uses AI to help you make better decisions around your content ..."
+    publishedDateTime: 2019-12-12T14:06:00Z
+    sourceUrl: https://www.martechadvisor.com/articles/content-marketing/content-intelligence-how-to-move-the-needle-for-marketing-results-in-2021/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
+        width: 600
+        height: 314
+  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
+    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
+    publishedDateTime: 2019-12-11T18:34:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
 
 secured: "uMSbuX5gnYM6AOCebEZH2PR/8I1lqB3uUtKXBfO/1I5gO1T7A2D77o+3WS7L9l8EXuCB3P7K27E3CTyB+4Cc/Yi5pWh5z25EvkFtcIHHaCuItXZFAz0suqo7tBwxdJRtWe+cx0LfrOxHZh2OFq9qUGkT0UPpnf0/NIR3ZLq9jfWdSIYSFf8trn9HFBqUIB4XN4geNihrnLbFx5xkn9tmjYWVYdBVPMrb19B5l8qprZnQnrcSBIC2dZHPdwTvbnuTsJGDb12QnmOI8cx98popsQ==;k+73c0AGyVAjj6nYfg17Lw=="
 ---

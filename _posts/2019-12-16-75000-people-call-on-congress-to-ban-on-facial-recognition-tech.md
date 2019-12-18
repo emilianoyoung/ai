@@ -204,19 +204,6 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
-  - title: "Why Some Cities and States Balk at Face Recognition Tech"
-    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-    publishedDateTime: 2019-12-17T19:30:00Z
-    sourceUrl: https://www.nytimes.com/aponline/2019/12/17/business/bc-us-facial-recognition-curbing-surveillance.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
     excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
     publishedDateTime: 2019-12-16T19:44:00Z
@@ -668,6 +655,17 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 39
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-17T19:30:00Z
+    sourceUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html
+    ampUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -731,6 +729,17 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
+    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
+    publishedDateTime: 2019-12-18T00:04:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
+    ampUrl: https://amp.usatoday.com/amp/2680483001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
   - title: "Communities come face-to-face with the growing power of facial recognition technology"
     excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
     publishedDateTime: 2019-12-09T23:13:00Z
