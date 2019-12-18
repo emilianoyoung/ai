@@ -217,19 +217,6 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
-  - title: "Why Some Cities and States Balk at Face Recognition Tech"
-    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-    publishedDateTime: 2019-12-17T19:30:00Z
-    sourceUrl: https://www.nytimes.com/aponline/2019/12/17/business/bc-us-facial-recognition-curbing-surveillance.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
     excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
     publishedDateTime: 2019-12-16T19:44:00Z

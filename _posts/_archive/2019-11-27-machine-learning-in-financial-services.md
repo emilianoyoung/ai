@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-27T01:01:00Z
 sourceUrl: https://www.udel.edu/udaily/2019/november/machine-learning-financial-services-ifsa/
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 420
     title: "Machine learning in financial services"
 
-related:
-  - title: "NZ financial services must urgently embrace AI, report argues"
-    excerpt: "... a report on artificial intelligence for the financial and insurance sectors that calls for NZ to urgently increase its focus on AI, particularly investment, skills and talent, research, trusted data, ethics and regulation. AI Forum executive director Emma Naji said the rapid development of AI technologies presented major opportunities and ..."
-    publishedDateTime: 2019-11-28T03:03:00Z
-    sourceUrl: https://www.computerworld.com/article/3482124/nz-financial-services-must-urgently-embrace-ai-report-argues.html
-    ampUrl: https://www.computerworld.com/article/3482124/nz-financial-services-must-urgently-embrace-ai-report-argues.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3482124/nz-financial-services-must-urgently-embrace-ai-report-argues.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.39CB88F580CC2D5285994214E6D5170B
-        width: 700
-        height: 466
-
-secured: "C6CWNPtZZAteUqfs4yJoNTqxni6rhhC217NcmrFysr7L5eVZtU17IA/r9UExJTjW9JryzDrwMF/3GCa+Nzl0Xvp+QLg7Y0GK2CSjXETI9/+VXXXxlvnZqGZ9QeCVv/sHHcaulT9wEYqCVOIFmHFhv+wCpn2KRNsaLLGlJqqJGBMejUmYG4j4z9AUfy11ikddiyMjJba7RdzyS5/R2BlTZ68ZmMvmjOwcapxrcULBV2G9diP4IP6IiMp8gR9vRVnfRSHjAlOj4qR4NRSfYJFteQ==;52knSM2dYx5fnh4xO+I0og=="
+secured: "IGsczfhwDstdbA5oopybVYsYgGyMLg6HnxeNctUGegZmR6ocS86jWnbROcbEDnXyfwrGtXFRs5MeLzBxcKrMQ82R3I6r5ebnPC8ipIQ9E+iKRs/k0tHjpFjRVOueAYXmuS/mipO7rquL1s6XN/RAoaGBx/UV97uBZMtTTQ6frcgehQ+K5JknzQHIwm6BPfSjw40wwkd7NI0p0I/dti1a0W1amgX+VGgXLWMr2JWQG7hZZmNhHQhzzIREU5IDQLQxGXnmOMizSt3tR/l9eXlznQ==;sA1gGpJtrHooagyMbeY3BA=="
 ---
 

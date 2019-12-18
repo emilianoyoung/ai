@@ -19,6 +19,21 @@ topics:
   - AI
   - Computer Vision
 
-secured: "YrdirO8Ugk4M9Bma30OSuhzdiPVycWbXw6wkce81yOXJA6072koa6idLKGdrWptVbXLiP0Un/OHKBqsDatI8xdebqdqw4BeZW66HZCu8SlkKq1WMUurq1e89hjRx9/r0G90BfPf51nNUr1+JVt055z5OxmkURIuIDriSC5/Gd1XNktYwn1gEjAWHTbRYxiMACw7zqGRHWFF5OksdXOSmOnSoEpw12WHJ3E3CaVnRueNSf38wcFauB7jOY0w4G5PNALhlxHmONJ5dsfIJcIJrnA==;vu+Gn8VwZWOhqhPbb3SRBQ=="
+related:
+  - title: "Face recognition systems active at Chaayos outlets without opt-out feature; some questions"
+    excerpt: "Chaayos, a popular tea store chain in India, has installed facial recognition systems at its outlets to replace mobile number OTP. MediaNama encountered one such system installed at one of Chaayos’ Delhi outlets. The interface did not display any terms ..."
+    publishedDateTime: 2019-11-20T12:24:00Z
+    sourceUrl: https://www.medianama.com/2019/11/223-chaayos-face-recognition/
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
+    images:
+      - url: https://i1.wp.com/www.medianama.com/wp-content/uploads/Screenshot-2019-11-20-at-3.45.09-PM.png?fit=1440%2C723&#038;ssl=1
+        width: 1440
+        height: 723
+
+secured: "nxZpM1RtVWAYFnw6RqBeq3EycNtbqvSw0XxeGzNakCyt9u/vZMFesgh5gXdqLoXHeryJr9KMKfeFSLv7imS5+GPuXt09lrW1P/QmEY9AHxUVl9rtAFAyzvTOxqwQQnhMvouJzkDNi166eIFr5G8Dq2YM0Qiz/Ad0viNuOoivbI5cxOZimK4kXVOXB2UiqIE0XAK/5Uh5XPFNI0o9g2/mxYeDRnWOHkyjM/S0U7ghzcJAXECo8j/Df6tIQv6y/XOgObfq/TPms3AQno2HxTxffQ==;Vn+sxYW34g/RkDoFiNMZww=="
 ---
 

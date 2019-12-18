@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-24T10:01:00Z
 sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     height: 1500
     title: "For now, Lockport wants facial recognition security system just for guns"
 
-secured: "6EWEq5N4mRBN9uRwxb3tjycECfv8Sx355FtKySlcVWgFNDmS+hneP4MLPUxxzvXF3JD5+f6KzMA+4OY/prgdFkCwSe89APHS1JNs20DU25BMEgHxmtVFFxlPfdLzpj9A7Qyi/wsDRUWMGuuckBjiV6/DkdR57MNaxsfxrSHzluUjFTQ5mQew+2gUr9ZAO2MRn7P/LWQ7FAUCXx0LP8G0+NnMzd97dBgimtaVQdUHCUcbBYf+irOnc0IYpYGKjO+zagh5CFMGch/q0mBq2ySyYg==;dPamk0ZzUhE5aaoaolO6fw=="
+related:
+  - title: "All the ways that facial recognition can be fooled — and even hacked"
+    excerpt: "It is difficult to avoid a facial recognition system unless one keeps under a low light or stays home or hides somewhere. However, over the past few years, researchers are looking out for new and innovative ways of doing so. This could pose a hurdle for ..."
+    publishedDateTime: 2019-11-22T10:26:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/articleshow/72153390.cms
+    ampUrl: https://www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/all-the-ways-that-facial-recognition-can-be-fooled-and-even-hacked/amp_articleshow/72153390.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 39
+
+secured: "ojyOs3I2XyhAzr0WEgNOJnw2acIVKQ9xf4mGQo4BWmdvJjMraLen0rkibpvNbY/7vZLzLNO7+YKWuVrBvqv4UaLGeUmoPp4LXMNxlNl6slQKkiXPCozVr5hIbFWCJr7hLoRPFecdSuFBs0Ua6HHxvJlng3vvZXomtnVsLfHh6XCXDEeTYvKmacMiZPR0tTdAFwymZzPbEvzldTyFvbCGExopCQQ2Q1N04A8kggK8/l29n6CT69RLXKtbX9qCUkBJfxex8LaSA8zEkgJA8cEG1g==;cfsYlzeQ/JfWlaorLPXc6g=="
 ---
 
