@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 184
   - title: "Samsung and Baidu to start production of an AI chip next year"
     excerpt: "It is a leading Chinese-language Internet search provider with massive cloud and server infrastructures and services. Baidu KUNLUN is the name of the company's new AI chip, built on its advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI. Thanks to Samsung's 14nm process as well as I-Cube (Interposer-Cube ..."
     publishedDateTime: 2019-12-18T19:36:00Z

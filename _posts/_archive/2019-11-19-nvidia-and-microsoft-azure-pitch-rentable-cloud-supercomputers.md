@@ -23,6 +23,6 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-secured: "l7ExU0uWHGn/zAkpdiQoQVgCa0QBByLqwdcvr0vQxhULFFvcy/VR3YTHXoi9+5F2G3hlYE3xDNPwcKpUKfrrOOy/8xiwonjS+oCqIhyXIp2IOtEOyRXfvfXFE6HlSv+EYcyPxpWieRo8v95ffhrBZQBS/rIeI3XOAiDwMzREegtyDpPHqXJzV2+IaMFow2SrEgEMkDmu8QK1xBck9d+JsYLpK8ezq+kgNNbhj7tJP66a0psu/EkQ9fW7sJriRt8XoRw2fIpelU9eIRU1K83xyQ==;j4g8w0TKebMud/FOI470zg=="
+secured: "CWC+1sDfl/UpyYsmKF2x6bb0UZp4qYD5oelCxmF3YcCsDxE64KkcKVzChGqZtuUwTcR3Go+WhtlJfM0uAJomMN2HRD6oGHw+qJV24b2OCuwm1OC8uqXPwHPzB/hqsRclssi46sy/Z7RsiEW5NaLRKx1I4ey20wLL/bMum8pM2mtyJrZrIF2EHLS8Uzt7ObYSXUuk53JHMJSLAnpXTuiFo/ME+5LYjPhsUhQH7KraK+LZnVxebDygQL+yRirKUinxIBvPouZvEyPY2Khy4b5rDg==;bkL85Iai47m97B8jTdc48g=="
 ---
 

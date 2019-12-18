@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.523AA138DAC56DCC6F584E3B683D8B4C
         width: 700
         height: 351
-  - title: "Intel buys AI chipmaker Habana for $2 billion"
-    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the A.I. market. The company clearly doesn’t want to repeat past mistakes ..."
-    publishedDateTime: 2019-12-16T15:08:00Z
-    sourceUrl: https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/
-    ampUrl: https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.2E9FA08E7A770632EC9EF23421CE43A7
-        width: 600
-        height: 400
   - title: "Intel Acquires Artificial Intelligence Chip Maker Habana for $2 Billion"
     excerpt: "Intel has announced the acquisition of Israeli chip startup Habana for approximately $2 billion. As Intel’s press release states, the focus is on accelerating data center inference. That is a large market and Intel is still trying to figure out how to play. While much is being discussed about moving some artificial intelligence (AI ..."
     publishedDateTime: 2019-12-17T21:36:00Z
@@ -385,6 +370,19 @@ related:
       - url: https://www.bing.com/th?id=ON.03977ED0EC57239E3EFDF638BD728A58
         width: 610
         height: 457
+  - title: "Intel buys AI chipmaker Habana for $2 billion"
+    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the A.I. market. The company clearly doesn’t want to repeat past mistakes ..."
+    publishedDateTime: 2019-12-16T15:03:00Z
+    sourceUrl: https://news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.AD8BAAEFBE89562C8B0E9FA41E146A6E
+        width: 700
+        height: 466
   - title: "Intel buys Israeli AI chip co Habana Labs for $2b"
     excerpt: "Intel Corp. (Nasdaq: INTC) today announced that it has acquired Israeli AI chip developer Habana Labs for $2 billion. Habana Labs develops programmable deep learning accelerators for data centers. Intel EVP and general manager Data Platforms Group Navin ..."
     publishedDateTime: 2019-12-16T14:58:00Z
@@ -697,6 +695,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "HB3wCXHC6KnUlgcxNSPtSsb4Jihgc6AS+Sh81OwJYYnNc6ArUW3BiKGf3V+WPRmeTMMv8uyDeXVXe2j4ZwmlbTI/Mpr9UnL3l01C2Xz0iUWz1vgIduUSDcBFIb/GbfabJUS7kSflLAACJTAek27UP7dRqDOmscD8I2Xx9+iIHbAQUPFy9gV3e9YjAUL0zZG8K9sl8EoMy7Vl3yaaCJDSYR2VEGASMy4kqiCH3FV+aEUnMVwwsRS+ude4SSwa09eSB+DtNzzOoOXpzjTr7KoDhg==;JlMuKY6DV4IdXf564CtY4w=="
+secured: "EuzZ+1FHpjprlJ4OdppyixhGPOHEww1M2yZz94AkiQiK8hWKaYW5o8VZOhZbM41yTgHl1dCLzYuez+WvNRMumIhDCzYuoqtt4dQ6uywDX7c/A95LL6v7GxJ7xGbwgkqtW0GF/eH5IKgsa0XVOf+OpMjZl4u1XhNKcYFg0YFGEE5JN376wxVb0dAYn6DHY6LWkS8g70EUXP1NLfRD4MIE0ebUOKvRim1S9qQDl43YEFcz54ctIBmJ926TUBknn8G8fXuirNvjkJdXoxI23mXZtQ==;zSNFqtmxohS0XRJFFUoAug=="
 ---
 

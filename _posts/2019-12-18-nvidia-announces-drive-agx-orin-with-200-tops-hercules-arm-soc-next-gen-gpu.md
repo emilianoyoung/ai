@@ -26,6 +26,36 @@ images:
     title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
 
 related:
+  - title: "Nvidia debuts Drive AGX Orin and open-sources autonomous car AI models"
+    excerpt: "Didi — whose cars tap Nvidia’s Drive platform to fuse data from multiple sensors (including cameras, lidar, and radar), ensuring they remain aware of their surroundings — says it will build an AI infrastructure and launch virtual GPU cloud servers for computing, rendering, and gaming. Additionally, Didi says its cloud technology division ..."
+    publishedDateTime: 2019-12-18T04:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/nvidia-debuts-drive-agx-orin-and-open-sources-autonomous-car-ai-models/
+    ampUrl: https://venturebeat.com/2019/12/17/nvidia-debuts-drive-agx-orin-and-open-sources-autonomous-car-ai-models/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/nvidia-debuts-drive-agx-orin-and-open-sources-autonomous-car-ai-models/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 189
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "Why eBay believes in open-sourcing Krylov, its AI platform"
+    excerpt: "It’s a multi-tenant, cloud-based platform that involves technologies like computer vision and natural language processing (NLP); techniques including distributed training and hyper-parameter tuning; and tools germane to eBay’s services like merchandising recommendations, buyer personalization, seller price guidance, and shipping estimates."
+    publishedDateTime: 2019-12-17T15:42:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/
+    ampUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2016/07/eBay-sign-Mike-Knell-Flickr.jpg?fit=3580%2C1979&amp;strip=all
+        width: 3580
+        height: 1979
   - title: "Nvidia Announces New Orin Auto AI Processor"
     excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
     publishedDateTime: 2019-12-18T17:04:00Z
@@ -41,6 +71,17 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
         width: 950
         height: 536
+  - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
+    excerpt: "Nvidia is looking to extend its lead as an AI company by improving its image recognition, language recognition, and decision-making platforms, as well as a new chip for autonomous vehicles. The GPU Technology Conference is one of the biggest conferences around AI each year. At the ongoing GTC 2019 China, Nvidia held a keynote to emphasize the ..."
+    publishedDateTime: 2019-12-18T07:28:00Z
+    sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
   - title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
     excerpt: "Nvidia Corp. tonight bid to expand the reach of artificial intelligence systems into autonomous vehicles and robots with the launch of its new Nvidia DRIVE AGX Orin platform. Nvidia DRIVE AGX Orin is a software-defined platform that’s powered by a new system-on-a-chip called Orin. The new chip is said to be the fruit of “billions of dollars ..."
     publishedDateTime: 2019-12-18T04:34:00Z
@@ -54,6 +95,19 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/NVIDIA.png
         width: 1138
         height: 572
+  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
+    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
+    publishedDateTime: 2019-12-18T15:44:00Z
+    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
+        width: 1344
+        height: 742
 
 secured: "b+apwn7UjeVFzMfHNTI1HZK0Q1+gqu7DxXlDbp6R8b4j9+Cvgxoxxmg/XV3VyFJ6hiGDxBGCvPhQdSr1rl/fps6i4a3UJ89gpO/8IvyVz+0XliSw37OahNtkYbT12751PPNsO8bSYI6gyLnBbm7LNVCSMQ8dBHj4iQnnRRloRiz7t+JJRXMDlTwVa54BxDwcAElgjJJFGZif2unOSMHoHh4+SU3i6REobw1LMdD0ATHhqDvwc7OSvqiOcocPn9rUiqSecUblKVhJdUenAPZTEg==;gAPHG77unEE2UrignM6WQA=="
 ---

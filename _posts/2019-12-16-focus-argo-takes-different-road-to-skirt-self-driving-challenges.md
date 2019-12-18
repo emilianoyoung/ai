@@ -145,6 +145,19 @@ related:
       - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
         height: 467
+  - title: "Self-driving cars: Hype-filled decade ends soberly"
+    excerpt: "A few years ago, Google's self-driving unit Waymo \"seemed remarkably confident. I thought maybe they knew something that I didn't,\" said Pedro Domingos, a professor at the University of Washington who researches artificial intelligence. \"But I'm starting to think, actually, they don't know something I know.\" Domingos is among those who believe ..."
+    publishedDateTime: 2019-12-18T20:38:00Z
+    sourceUrl: https://www.channel3000.com/news/automotive/selfdriving-cars-hypefilled-decade-ends-soberly/1152527623
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 24
+    images:
+      - url: https://static.lakana.com/mmm-global-us-east-1/photo/2018/03/21/uber%20self-driving%20car.jpg_39749904_ver1.0_1280_720.jpg
+        width: 1280
+        height: 720
   - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
     publishedDateTime: 2019-12-12T08:12:00Z
@@ -159,6 +172,6 @@ related:
         width: 700
         height: 419
 
-secured: "rrOClktKYpCsJaR1eJKh5EXg396CPjmgUbBdfwYyBco5ic1M9rFBuPNXkq1f1ueKUhTzZ1LGIcMf2O94oAOB3dCk82fpwVlKiIRthyt03eYtGWMCASUydjzRA7+BOWna9sGG5+vgIuTMTOBdpwQk3fmF0aiUaus2T7e9hc0xhm3U8UNDd5qLDkE7mWGtTjTgb8lpqdztr3HM4vbfy09wepuv+QydCdUvWRFDgWa8zjHFGn3xOi1qREqHvnOcz6fKyEzfIoR5JMyYcWqQVqGsDg==;1jv91J/VMQwptoIhZ/5imA=="
+secured: "H3gYWElVyC5J3/88LBt8XXQkTR2hz5gef3i9VFeCeDFcOTzhHtUhLQDoEsW3m1mKCdlpwzPzAgguNE2EE4Zn2Bxap9WGnwL3WvudbI3ZmaKdJnSodRkCeoRbcgcet6G8BhFrVhsj15mljQ0stRAWsV78fv45FmStPsd4kulRVjvYUBFE0z/Ipw51smCPN31ZwKSIxDYJoz7elcCJEUmnbFs5Xvy6EhHREq40XnD9Js+coqvc2NT3sOPszut2FkALmmW06QpYYE2gV6OILuuang==;hVMU6c07wJZPjF2a/lYquQ=="
 ---
 

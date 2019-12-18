@@ -23,6 +23,6 @@ images:
     height: 1500
     title: "For now, Lockport wants facial recognition security system just for guns"
 
-secured: "IVACyN/zEYj/sfxwjwGZ7K7s+G+75SYBcMqFO3fJrK4UgMZnLaK9HhNGL/lVGVJP58BishBT2P8PGSEuw3ZjUQ29K+7519rJwdv/s5FknBhmW0/0IyzHV7nmgKZRX2eGnTT+0KE71dDdg0iXdp2jW4QfeiitJL/K3EuXJLNDbHCoCwmURVwZttamKJfhQt35FR+WzBwnk/godMsQg0xUn9tUV0WcA0WJfXF3csEwyjPjYKjQ/y4TnMZBtqumrogdoW9jskmkt3Kq0WzP6wqgJA==;ok94TGVi5oOAlz7pG7wEng=="
+secured: "HjGZ8xYBO3x15Tgz/YohdfuqfGKFy8Bif4ZlVqNa55lSoIHFrpAFOnHvnr9DDRt5Rk/AbdbNChro4Mfi+R9E7GobRb02EHgR+rvcI01S/RBpyGz034cLmb+KcYQ/5w6OK44Gl3XXBrA4/CBQELs1DlEuGcLFFXRbBIirD5pS1p/+ZrvZLQi3QT4xI+ROLpRkC0PWI6SwMczbpa4BXNVvGobQCyBL1AzKmiRz79Nmo7WnGf3h3FDsYUvkI+tb08v1NvuRIUqW8ChAL5p5DQlK9Q==;0L9kgICDCkhcxQH4vHRPaA=="
 ---
 

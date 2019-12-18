@@ -36,7 +36,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 89
+    quality: 189
     images:
       - url: https://image.cnbcfm.com/api/v1/image/106301158-1576611037425gettyimages-1139051812.jpg?v=1576611115
         width: 2000
@@ -54,6 +54,34 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/220093_web.jpg
         width: 562
         height: 854
+  - title: "The Australian Centre for Robotic Vision is finding ways robots can help around the house"
+    excerpt: "Factory robots perform specific tasks repetitively, while social robots are trained to interact in conversation. Getting a robot to be a generalist, to walk into a new environment and make sense of it using computer vision, and work out how to pick up and handle new objects is complex. To that end, The Australian Centre for Robotic Vision has ..."
+    publishedDateTime: 2019-12-17T10:09:00Z
+    sourceUrl: https://www.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
+    ampUrl: https://amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
+    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.B1C5456AC2F838283A5BFD8F6308754F
+        width: 700
+        height: 393
+  - title: "Film review: 'Machine' charts the upcoming rise of the robots"
+    excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
+    publishedDateTime: 2019-12-13T13:12:00Z
+    sourceUrl: https://www.afr.com/life-and-luxury/arts-and-culture/film-review-machine-charts-the-upcoming-rise-of-the-robots-20191210-p53iht
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.CD981A85CC2C15BBEC28445EB193750C
+        width: 700
+        height: 393
 
 secured: "crstHl0wULEXS4pEeZKe2flknEI6Rx8WvCvudjE8XcN5ujNfpGjOAaCEKOQCOzrK7rVfJ+zFym2QRemezELjF9ft6CQ/IlMeWHs1fx8UNZRo6dwKVr/d0hABsigXITWUMBExitRI7YLb2M1odh7DAXBE4C7STlp7GYFqLnPqr03VweJemKisXnZTeQYNZU3jwotdkp5qlj2eQFaxtlUxgAqdBXfbezwuyHD6CYFbTRN+iEYMx/847ur0AonDrpyXqHmt2+HN542MYrAsFKGpqw==;F0g6JVCYtFTsH6NDVUMfLQ=="
 ---

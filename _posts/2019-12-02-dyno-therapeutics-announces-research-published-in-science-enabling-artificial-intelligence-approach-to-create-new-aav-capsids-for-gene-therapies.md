@@ -25,8 +25,8 @@ images:
 
 related:
   - title: "Research enables artificial intelligence approach to create AAV capsids for gene therapies"
-    excerpt: "About Dyno Therapeutics Dyno Therapeutics is a pioneer in applying artificial intelligence to gene therapy. The company's powerful and proprietary genetic engineering platform is designed to rapidly and systematically develop improved AAV capsids that redefine the gene therapy landscape. Dyno was founded by experienced biotech entrepreneurs and ..."
-    publishedDateTime: 2019-11-28T19:05:00Z
+    excerpt: "About Dyno Therapeutics Dyno Therapeutics is a pioneer in applying artificial intelligence to gene therapy. The company's powerful and proprietary genetic engineering platform is designed to rapidly and systematically develop improved AAV capsids that ..."
+    publishedDateTime: 2019-11-28T19:02:00Z
     sourceUrl: https://eurekalert.org/pub_releases/2019-11/tyn-rea112119.php
     type: article
     provider:
@@ -34,9 +34,9 @@ related:
       domain: eurekalert.org
     quality: 29
     images:
-      - url: https://www.bing.com/th?id=ON.7949587715C7A0CD2087F630D7982DD3
-        width: 700
-        height: 393
+      - url: https://www.eurekalert.org/multimedia/pub/web/217796_web.jpg
+        width: 1440
+        height: 810
 
 secured: "4e4NzzEV3vB7B8LmxH3G9rrOgJo6k7F3/RwL0wZ+F38DKVy57ZvF9kmshu0kfJN0UGzL1/RYZdZkEWUpsxEGpas+OcHSZ3eUVCpu3R2sZXRHnMIxLXcz8GtYrjBTUHUxqwJwv0iTFigdma3bphIKUwHLO17EN6utPdMwoiiUt5pmwFQvUePREQTHyyh0RDt4pJAA3Atgm4mXZcGDe/0oiEBwdlR9jpzE30zE/WOYwLMK9nEV11Im4sJ/5V06ClkMALVyk+5rpGEYQl723GLJ1A==;4c3TSh657Cpzm9R7JH2hrw=="
 ---

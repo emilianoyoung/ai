@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-forme
 ampUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
 type: article
-quality: 105
-heat: 115
+quality: 205
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 3024
         height: 4032
 
-secured: "hyWMzG1IdOR59+fT45kO0svXyLqC76eTodH+h3dnxvq3XrgvZp0LQisep+9sUiA3iiSpBaBEEWPNcdYWmlDahD000ElYPsXzWejMSH3N02xu52mE0JnEaq5Nx8PaotVylL8mMwmR+O8jKYBc2EkFbll4f4JJ31D6maQmKp7o4bohTFWtrAeWU2sQUJyufic9ONJO7QqvxEBJ4i0W8oBihl6LcU0Jbrh4uOw6bP/HYDnnkaenrkc+Nd2UmVEowq7GAklJZMdt8ODHMSLSdkn06w==;D4NgqW6n5sGIueJacj5IZA=="
+secured: "Y7IbANXS9ePQeQraLIg3ZBhrOY3DaztYqAQta1zuBAIfWN7DfNt6BzzeqIrflskj38TtPNVS76Z2jSUIOJUMNLL7tfhTQv2h4kYKiGWllRgQhGirgEgO/ARzyS5iLqjfY1kbYFWdSf3wXZAMA9STLv6cjAJwNT/MEk5PaXJG+XgW3DB8F2ZgkfMDV3kdeZxj1h8F8mPlPOjwFsN9+HSaGHV4/bAPC2UHb5CgIxjMxfv/GPIpb/kGRwbaFjDoDwtORWNVc55LiodwhJUtKAJM91Bn8laMI3Fcbn2T3bm75rw=;1Mnpww/P6gFwSctkeUlvAw=="
 ---
 

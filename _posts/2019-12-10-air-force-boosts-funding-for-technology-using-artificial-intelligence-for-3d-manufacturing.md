@@ -114,6 +114,19 @@ related:
       - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
         width: 1200
         height: 800
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
 
 secured: "Kwp5VCbCkoSKJBjx5XpN4DllkYCo/QKpglKUFRkcLz7zZBj3ASdN/m/U9JehRq8xQADAAy+Lpg8Bdkpuj5RiTXWF9/nJIrSbK3Rrg98v0Yo5P8WgJu3CEW5hrqZf05NqhUI8EM8/fvENJEG3sS9Szt9u4/HljEhYC7cWmVUOof+hLSEBi4aQ5+05QMFxellEIY4h+fbcrHjR3I0HNjEi4GCQyEQ4K8a93m6LCiNCEjsYvEt9/3CF2Ejz2XTRe98ITaUkugnfDpjg+vWkaAKnmw==;UCvTc0md8ymynjGHLF5ykg=="
 ---

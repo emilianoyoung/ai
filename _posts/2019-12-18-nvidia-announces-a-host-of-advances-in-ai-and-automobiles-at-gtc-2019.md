@@ -25,34 +25,92 @@ topics:
   - AI in Autos
 
 related:
-  - title: "eBay relaunches Motors app with AI and automation at its core"
-    excerpt: "The new incarnation sports a number of notable automated features to help people sell their vehicles, including an image-categorization tool that groups photos by type, which was built using Google’s AutoML Vision Edge tool for Firebase. The app has also been rebuilt from the ground up using Flutter, Google’s open source platform for ..."
-    publishedDateTime: 2019-12-12T21:01:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/
-    ampUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
+  - title: "Nvidia debuts Drive AGX Orin and open-sources autonomous car AI models"
+    excerpt: "Didi — whose cars tap Nvidia’s Drive platform to fuse data from multiple sensors (including cameras, lidar, and radar), ensuring they remain aware of their surroundings — says it will build an AI infrastructure and launch virtual GPU cloud servers for computing, rendering, and gaming. Additionally, Didi says its cloud technology division ..."
+    publishedDateTime: 2019-12-18T04:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/nvidia-debuts-drive-agx-orin-and-open-sources-autonomous-car-ai-models/
+    ampUrl: https://venturebeat.com/2019/12/17/nvidia-debuts-drive-agx-orin-and-open-sources-autonomous-car-ai-models/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/nvidia-debuts-drive-agx-orin-and-open-sources-autonomous-car-ai-models/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 189
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "Why eBay believes in open-sourcing Krylov, its AI platform"
+    excerpt: "It’s a multi-tenant, cloud-based platform that involves technologies like computer vision and natural language processing (NLP); techniques including distributed training and hyper-parameter tuning; and tools germane to eBay’s services like merchandising recommendations, buyer personalization, seller price guidance, and shipping estimates."
+    publishedDateTime: 2019-12-17T15:42:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/
+    ampUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.E6BEBBC4E5C9BFE25629231A9D4C01D4
-        width: 700
-        height: 365
-  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
-    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
-    publishedDateTime: 2019-12-13T14:45:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
+      - url: https://venturebeat.com/wp-content/uploads/2016/07/eBay-sign-Mike-Knell-Flickr.jpg?fit=3580%2C1979&amp;strip=all
+        width: 3580
+        height: 1979
+  - title: "Nvidia Announces New Orin Auto AI Processor"
+    excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
+    publishedDateTime: 2019-12-18T17:04:00Z
+    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
+    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
-        width: 700
-        height: 466
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
+        width: 950
+        height: 536
+  - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
+    excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
+    publishedDateTime: 2019-12-18T14:49:00Z
+    sourceUrl: https://hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    ampUrl: https://amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
+    images:
+      - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
+        width: 708
+        height: 425
+  - title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
+    excerpt: "Nvidia Corp. tonight bid to expand the reach of artificial intelligence systems into autonomous vehicles and robots with the launch of its new Nvidia DRIVE AGX Orin platform. Nvidia DRIVE AGX Orin is a software-defined platform that’s powered by a new system-on-a-chip called Orin. The new chip is said to be the fruit of “billions of dollars ..."
+    publishedDateTime: 2019-12-18T04:34:00Z
+    sourceUrl: https://siliconangle.com/2019/12/17/nvidia-debuts-drive-agx-orin-platform-autonomous-cars-robots/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/NVIDIA.png
+        width: 1138
+        height: 572
+  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
+    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
+    publishedDateTime: 2019-12-18T15:44:00Z
+    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
+        width: 1344
+        height: 742
 
 secured: "JnjlzIKe+hvCwbXIn14AinsVneE0iXo3zjV8w8aDDUXV/BpznuBvLOC4hGQ025uVd1fYjKVer40HNTnJsE1ZWyF+Al9vz2+fjwjLNzCJdXIyT/6km3lX2OfgW511IBL3UTEmMuZw1lcoRvSRq5JJORx8wfCEyd1OtZ5nVQqVInH6gQQc+S/lPjRadMsWr/D/RIlLMG8tVuhclY9F0PbMYa8Nec5yTZY+Aih7DWkZZGxzsymKLV3RBc12uy2ogG8dqQjBB95JVft8FCkCTMsAMA==;JEs3z8dg1cRJ/MBFqL5NtA=="
 ---

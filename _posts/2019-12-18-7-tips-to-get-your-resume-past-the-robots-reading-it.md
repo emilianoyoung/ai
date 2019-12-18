@@ -7,8 +7,8 @@ sourceUrl: https://www.cnbc.com/2019/12/18/how-to-write-the-best-resume-for-arti
 ampUrl: https://www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
 type: article
-quality: 89
-heat: 109
+quality: 189
+heat: 229
 published: true
 
 provider:
@@ -58,7 +58,35 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/220093_web.jpg
         width: 562
         height: 854
+  - title: "The Australian Centre for Robotic Vision is finding ways robots can help around the house"
+    excerpt: "Factory robots perform specific tasks repetitively, while social robots are trained to interact in conversation. Getting a robot to be a generalist, to walk into a new environment and make sense of it using computer vision, and work out how to pick up and handle new objects is complex. To that end, The Australian Centre for Robotic Vision has ..."
+    publishedDateTime: 2019-12-17T10:09:00Z
+    sourceUrl: https://www.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
+    ampUrl: https://amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
+    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.B1C5456AC2F838283A5BFD8F6308754F
+        width: 700
+        height: 393
+  - title: "Film review: 'Machine' charts the upcoming rise of the robots"
+    excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
+    publishedDateTime: 2019-12-13T13:12:00Z
+    sourceUrl: https://www.afr.com/life-and-luxury/arts-and-culture/film-review-machine-charts-the-upcoming-rise-of-the-robots-20191210-p53iht
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.CD981A85CC2C15BBEC28445EB193750C
+        width: 700
+        height: 393
 
-secured: "r59pLoWp/xR/2eMaaI+dslVVMETXRrDYEbALSEus2Yl/vqE5B1gUIot1cggipyf3K/AYiekeq1AhsNslFwaYJ/AN6iT/CBokqCpipD6biJgon/cwXS+6gd3iGlISmaHp/OBUtRMbp4GkrxSLIgPGfFtBOEeFerw9P18Nv+Vx+qlsrG38ubXXdWBKqRXC6YdsfoZBFkO5XXs0xJzXa3qzIStGzrmg/iBx/tyfBVaruI7Deq7riVMycBkHaPsxpihYbgtY8O2rdbyfA5IyUO30Eg==;GvmIskz2sfBCGuOr9Nv0vg=="
+secured: "7OEy/uBLVYCoi4R6GKAqbSRRLO0uVoKlhH9DEIbV0rbSgIVb5+C4ytSHGZJlZ8sYtGK37HVrWL2OfcBeE7FjVT9oHZJiErYgsb5Z0WSoQrvVoVggvNezuAUVEn62t1Ye720bQ1E1ML2FMHBUi/sTrY7kFFb9czpOQejyuZGGXy2Nii9MZtsQi7beIYjHf5Wkt/7tGxVhiO++4seYLDUUSrH9HtC8dn6gmobLaIt8PuGeDWsp+jVGPMsS8ZMPus1NHGVkm3FWBI4Wr3/XVUBvhPMcEEjgIJGireBq0dhyy6w=;vKe5QedTJli9sMRqmgWz+Q=="
 ---
 

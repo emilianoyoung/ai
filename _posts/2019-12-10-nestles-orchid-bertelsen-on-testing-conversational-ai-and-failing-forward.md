@@ -68,6 +68,21 @@ related:
       - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
         width: 1000
         height: 667
+  - title: "SMX Overtime: Opportunities and challenges for conversational voice search"
+    excerpt: "Simple: voice as a source of input will change user expectations of how the dialogue between humans and machines should work, and learning how to deal with speech recognition and natural language processing is hard. You will need to experiment with this and learn how it works and it will take time to build that expertise. Many of you are ..."
+    publishedDateTime: 2019-12-18T20:25:00Z
+    sourceUrl: https://searchengineland.com/smx-overtime-opportunities-and-challenges-for-conversational-voice-search-326631
+    ampUrl: https://searchengineland.com/smx-overtime-opportunities-and-challenges-for-conversational-voice-search-326631/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/smx-overtime-opportunities-and-challenges-for-conversational-voice-search-326631/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 42
+    images:
+      - url: https://searchengineland.com/figz/wp-content/seloads/2019/12/smx-east-impact-wall-staff-1920.jpg
+        width: 1920
+        height: 1080
 
 secured: "8HN+DcwhwAbrvzjIMoKPYQajOjDExyuhI3hhhu38k1QLh8r6JdPxOosfGuNK2/08w2C4brFVfU8oGl95pCdoGwoE/jQ1tepQPU2jNxi/Fhk9/mU+iBJg3ZW6PmdTrI9TgwtCBWhY70i/nNarLJ/+D6XCWVNXARqSTN/ToHYJ+MmF+aBAQf3bHdWXnHgfK/IuxH5+2c8UqlbGyCc+ps/zQFbW6T/vwyOopPi07hgUTI2xPcQLle2lyyfLXBUjInf7G3DwedQe1F0FymilyMk+FA==;C/qRJrjLlIu6eKobuEdBtg=="
 ---

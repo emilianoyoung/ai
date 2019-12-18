@@ -56,6 +56,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1576620054263.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "SMX Overtime: Opportunities and challenges for conversational voice search"
+    excerpt: "Simple: voice as a source of input will change user expectations of how the dialogue between humans and machines should work, and learning how to deal with speech recognition and natural language processing is hard. You will need to experiment with this and learn how it works and it will take time to build that expertise. Many of you are ..."
+    publishedDateTime: 2019-12-18T20:25:00Z
+    sourceUrl: https://searchengineland.com/smx-overtime-opportunities-and-challenges-for-conversational-voice-search-326631
+    ampUrl: https://searchengineland.com/smx-overtime-opportunities-and-challenges-for-conversational-voice-search-326631/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/smx-overtime-opportunities-and-challenges-for-conversational-voice-search-326631/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 42
+    images:
+      - url: https://searchengineland.com/figz/wp-content/seloads/2019/12/smx-east-impact-wall-staff-1920.jpg
+        width: 1920
+        height: 1080
   - title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
     excerpt: "Here, see how Orchid's team is partnering with Pandora to explore conversational AI more deeply and why hustle and grind don't necessarily lead to happiness. What led you to your role leading digital innovation for Nestlé? I wish I could say that there was a master plan to get where I am today. But the reality is that I’ve had many different ..."
     publishedDateTime: 2019-12-10T20:08:00Z

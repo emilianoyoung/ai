@@ -379,19 +379,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
         width: 685
         height: 274
-  - title: "Film review: 'Machine' charts the upcoming rise of the robots"
-    excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
-    publishedDateTime: 2019-12-13T13:12:00Z
-    sourceUrl: https://www.afr.com/life-and-luxury/arts-and-culture/film-review-machine-charts-the-upcoming-rise-of-the-robots-20191210-p53iht
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.CD981A85CC2C15BBEC28445EB193750C
-        width: 700
-        height: 393
   - title: "The Challenges Of Fintech Application In Modern Era – A Comprehensive Guide"
     excerpt: "It is very easy to make decisions in businesses with the fintech as it has increased the usage of AI solutions. It has become very easy for businesses to rely on AI-powered, data-driven insights to shape strategies. It has improved decision making power. One of the visible benefits of fintech is the introduction of transparency. It helps a lot ..."
     publishedDateTime: 2019-12-09T20:22:00Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-an
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -71,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
-  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
-    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
-    publishedDateTime: 2019-12-18T15:44:00Z
-    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 23
-    images:
-      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
-        width: 1344
-        height: 742
 
 secured: "hZQMnXvnxtF4wRR0vsSY+YN4RF6AcTTEE/RZz7uCvVAMgMR5TWjb7j4yKovAyvm829y/5HqV8t4aIRYjOQnPi46pos2exVjq5p2Xdg2/f/V3XJpworF6T1mG3Qd5DYG9JKxtpe9CDBdibxgb8Xfixq55GWU3K7vCpZsbRIm48kXjyXFtFz3bzNwwpRuLr+a6vhVauQMTwq9Np5R42kP1B5NXWehHEnJ3bc0WdpX9piQMGWVGOZ6IPbx6pl2MOJ72F2hsM+dJa6dIMnn2+wEVFw==;QbMQcBC5X+YXJQekpz4fHg=="
 ---

@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/samsung-to-make-baidus-new-ai-chips/
 ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
 type: article
-quality: 84
-heat: 144
+quality: 184
+heat: 244
 published: true
 
 provider:
@@ -101,6 +101,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "gJg3M+GgTKGC5soloOQVE3LEfxIpMNxhJfxJ+wX5dKHi7aE/uRAuSfrmEVi2OZgvGr+cHOU6fwap/E1Qw195tyYJVhlii3NAPmLO0PwF5no0RnpFgzFPow/VhJay6tMPo2tkCzsrP4qm+RshJTJd0CpfBZ4gpomvNzbx2Yu0xPBuyf8uNEnVyWP3bou9P/aa127/jO60s6ZAx6YMUjNohVOhKo/Ae1Q9CGXOOQgllYI6rQsM62KXbwljUh34u7JU9lN4ovtRBA2ueP06OQe8CA==;/ck75zWGf6P13mN44ieBsw=="
+secured: "ZVeQ9E6Nw5rQjtmkCfACLeciiEpvOxGQaCyDvJSfmyh6owbuVgaQnBN01PFHM3iCW+ZVOttk8bLIwgfaWSfXbhqHV1dW362y2nY1Z1ecY2uq/dJsREQ2MaN2vb8rhzUMMtZT49c1EA1fLw34OSLlY6tL1wju1YN3aAQSVRET6VxSeBScYpDsNqWbTJAbcr/loLhGtolp7b36g4pn6H67+kKNcvJnlZ8TjaG6s2u+pJ3nn1IO5DM08ZUimaoxe2DUEw9LSi8MB9O76CmA+XmVegjLyMiiJtd0rQJBsCmArBc=;yo1TC6jekxwdN4ktjEpElg=="
 ---
 

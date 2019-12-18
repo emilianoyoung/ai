@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
 type: article
 quality: 119
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -142,21 +142,6 @@ related:
       - url: https://www.bing.com/th?id=ON.372D82F4C365FFEC0818C03DE10F822D
         width: 700
         height: 350
-  - title: "The Australian Centre for Robotic Vision is finding ways robots can help around the house"
-    excerpt: "Factory robots perform specific tasks repetitively, while social robots are trained to interact in conversation. Getting a robot to be a generalist, to walk into a new environment and make sense of it using computer vision, and work out how to pick up and handle new objects is complex. To that end, The Australian Centre for Robotic Vision has ..."
-    publishedDateTime: 2019-12-17T10:09:00Z
-    sourceUrl: https://www.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
-    ampUrl: https://amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
-    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.B1C5456AC2F838283A5BFD8F6308754F
-        width: 700
-        height: 393
 
 secured: "XWb5qbpEVwKLQ43Qdr4nJT3HBCOrCZ3btFltBkkfyoJYdR4tYjXYsjV01dwGTQ4JKbk9ewjhlcjV/G4N78N2kQ+nZxNjD5rOqUmKkFzCP7uYJxz+jA3OMO0HRiluAN3yKrAFUcu03YOZ3DSmDjWxqA+8AccYK7/ifey2gPu/JCb1zAiGeP5KioYJZDeCg/E4MzNpHx0ww8CR44KWjdSkKSKD/FIVXRcDQnuWalY9VnLJHql5pFCL/PZsiGvGYL2aP6CdEumXgAp/wUnNC2LATw==;sPqPlDKbuXz15KroQBI2rw=="
 ---

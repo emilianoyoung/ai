@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 184
   - title: "Samsung to mass produce Kunlun AI chip from 2020"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year.IANS | December 18, 2019, 18:16 IST NEW DELHI: Samsung has joined hands with Chinese-language Internet search company Baidu ..."
     publishedDateTime: 2019-12-18T12:46:00Z

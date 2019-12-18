@@ -1,21 +1,22 @@
 ---
 category: news
 title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
-excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
-publishedDateTime: 2019-12-18T16:54:53Z
-sourceUrl: https://www.msn.com/en-us/news/politics/democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal-housing/ar-BBY84ZN
+excerpt: "A group of Democratic ... review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology, which scans faces for the purposes of identifying individuals, in buildings ..."
+publishedDateTime: 2019-12-18T16:54:00Z
+sourceUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal
+ampUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
+cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
 type: article
-quality: 34
+quality: 137
 heat: -1
 published: false
 
 provider:
-  name: The Hill on MSN.com
-  domain: msn.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI
-  - Computer Vision
 
 images:
   - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
@@ -1001,6 +1002,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "LV02MXBB+MGlFQk1LiMyvmAyKvxyGa7MbgVGdnAsIODSEgv4I6SO6hkOVKc53v+0Ox6+arfwn9QWiu7KtugvZJtGt9/tKKCSQ9cY6llbHuuyuGA5KKoafdgNybMQekvsvfZr3zXINtm5YFYmV1qFNd+Nj70s2C0pdV6hXqKeuXugRjuzuHdnznZzUB3Bo0k7+G0RuDXHkvrw7g9zg5LYgU7oPWFcEG6Xr/0Gtc1mEQSnXFhsOBkCGPRbaSNuJIFJdhLLwyG1Po1yNVPkg2vILA==;YgFIxJbt/jEdrT/vyJTzGA=="
+secured: "h6/E9GNdxECrmtaKrybgsns0iDqs+6pjCTIMPxeHalQyB8n3BMMxuGo9Momyc2UBPctUb5KiCnFSgGZib6PkXPybmJK+7KNoX8vG4eIkPf5w/5WQ+PFl2WOtWW8iARDQM2xewK+V4b4evpvPch6FSDP0nQRQmgDiYk5XoyiE6dIIX9c2WgNfAA380dysEWU3uQVE40HUBqx3fD13mv33yx47+3KFUs5oTUKgcYFPeus8uFddqQHMbdtRtBi5+szXlItP3GYp5m7S2AmOaSFjBw==;8g7MRb3fX+CZDHJ8c8Kxlg=="
 ---
 

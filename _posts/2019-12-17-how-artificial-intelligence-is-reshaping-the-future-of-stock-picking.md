@@ -107,6 +107,19 @@ related:
       - url: https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png
         width: 1200
         height: 627
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
     excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
     publishedDateTime: 2019-12-10T05:19:00Z
