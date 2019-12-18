@@ -236,6 +236,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
+    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
+    publishedDateTime: 2019-12-18T06:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
     excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
     publishedDateTime: 2019-12-11T09:49:00Z
@@ -343,6 +356,15 @@ related:
       - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
         width: 300
         height: 300
+  - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
+    excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
+    publishedDateTime: 2019-12-18T12:39:00Z
+    sourceUrl: https://www.openpr.com/news/1880732/artificial-intelligence-in-manufacturing-market-key-insights
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
 
 secured: "lx/x80sX80STVMzlEEmKGvO1RuamLtH+SaJssFtg6ppRLse179U9y73PWCuhSbZ7+x3OqV18CPomh0he6iw50uwjJ+fx0bbfzd11qWUfDgvO9gUeYJgBTDV8cd4Qvtqv85D1cxDtfKV3Bp6hr6kacmROlPHpCQ6GCAU8VV1BucDpLn9DnCksdUKjN03oBu18bhffKcCZDaLhgjL0UcNJg0QlLchMf+OwILFLGE2YrD3ltf/MXLZEQagD39t+WaBcTzd1auJBK0DYeUShXfBwww==;u0jVZHw/RpGad+ARHSjKTQ=="
 ---

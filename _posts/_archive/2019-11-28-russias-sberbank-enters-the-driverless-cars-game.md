@@ -54,15 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
         width: 700
         height: 455
-  - title: "Russia's Sberbank Agrees Venture With Driverless Technology Firm"
-    excerpt: "MOSCOW — Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday. Sberbank and Cognitive Technologies have ..."
-    publishedDateTime: 2019-11-28T11:06:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/11/28/technology/28reuters-sberbank-driverless-deal.html
-    type: article
-    provider:
-      name: nytimes.com
-      domain: nytimes.com
-    quality: 49
   - title: "Sberbank partners with Cognitive Technologies for self-driving technology"
     excerpt: "computer vision and artificial intelligence. New Delhi: Russian state-owned banking and financial service provider Sberbank has joined hands with Cognitive Technologies, a software developer for machine vision and autonomous driving, to develop self-driving technology, informs the company in a release. Sberbank and Cognitive Technologies have ..."
     publishedDateTime: 2019-11-29T06:38:00Z
@@ -105,6 +96,6 @@ related:
         width: 700
         height: 393
 
-secured: "nbWsLENfWqY9wPzW2sH30joe7RO6hTIkip08bdFC/zYdcfj5WB12IZePxMBL+o/+Cxf8Z39LnBRjaoapTm/kyHVyWq4QGlilfhqeiOf/QSRz/YnTz4Cc3+zbfKBWlTBKdrWCdtIIVlBUAfzY05ya0LDWmLXrPoeJAWgZLlDBVyKr18Ms4n9W6200x56XNOPojq0n514IgS6zUQB/r0XJtqNOQdxcEIZrL4bYNYrgbb795/AiXS1KygALAWGV3Xrf/Y9hgJHY1vXDuCzgsj6fJA==;n8kLe4LwSEKana8a2KY+Jw=="
+secured: "K9qTguo0IyslSM+PzVaU9djghOUlBjuxRoO/g6ZetpN98lUzkdtcBCLGscGASEKlNDexw3cEN9PeHcaoLLs6ikUJTKG+tVUyvAN/GF2AdKj4uvCXM3x05ZbdK0dEIlDU//TJcJ3j54JvkTggMf1+mMowZ9apM3ZZBjDE2JuUor4KXX9glB2PrWjybm2pQEzbxmeixU2nT1LQBUs6W4F1DX5dV/V9c/5tM76gGST5qkQ60fU3fKMfSh5QspvyilOwONvSl/z4Dm/mOb5NVR9j1A==;OTRQisqTMUplKj8dtkfGSA=="
 ---
 

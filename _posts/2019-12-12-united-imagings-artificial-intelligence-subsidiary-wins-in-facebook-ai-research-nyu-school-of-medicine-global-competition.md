@@ -2,21 +2,27 @@
 category: news
 title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
 excerpt: "HOUSTON, Dec. 12, 2019 /PRNewswire/ -- United Imaging, a global leader in advanced medical imaging and radiotherapy equipment, followed a strong appearance at the annual meeting of the Radiological Society of North America (RSNA) with a win in a competition jointly organized by Facebook AI Research and NYU Langone Health. The company's United ..."
-publishedDateTime: 2019-12-12T13:12:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-united-imagings-artificial-intelligence-subsidiary-wins-facebook-ai-/2019/12/12/9068712.htm
+publishedDateTime: 2019-12-12T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/united-imagings-artificial-intelligence-subsidiary-wins-in-facebook-ai-research--nyu-school-of-medicine-global-competition-300973788.html
 type: article
-quality: 7
-heat: 7
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Facebook AI
 
-secured: "TJ1sRp6+maW6kFvNFzHGhFxfjBqvCMF55RXjlRoFGXAOimA0DGbkrud5PIR8ytwwiUnAPiVfj81N22SHtrX8GolNbqrBJt9x17MCcS0jHHNJTMJKpMgXyJpsCJkQ27inttRhkrLksNXDOSj4/LzzKot4xsrucO0d7Z65r0zUgy/vegMgD6DhM/uZr1DVVM8u31EFykxZJNOd4lFGAxa1J7ZCvQIeo4NR0qm7MHteFMYD03/q9UP+irZeUepWhmE5X/Mq+PsXOqX1yvLhCZrlBw==;6JUYNkqROvAunddWecsMJg=="
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
+
+secured: "jGErcSFkVMQQ0yLgICOdOieuVTUR4dYUaNgaMa/fe5pr7gepUoQxlKKcdwPdF+QLSa/Rcl1QFNMealwznontcM+pLZBlAuVHMpW0vie3piurwteA2t48vcNV5RNtJU0Sx5RadSnuZsEEpByY12UNAE5jjJQZGzxpNX8AmAC0m6cZ6EmeN3jQPJpr4SLPV3Upt7vnsrBvBGsxPZrn/um2/1HSMC28STIgQAIzITziA5dsW/0Oj3XvJRgNXRyOi5idWx4+zXfZk7LCC9PKGOYmLA==;j4lgIKywN5BjoFQ9Ghjzyw=="
 ---
 

@@ -123,19 +123,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
-  - title: "NV center based nano-NMR enhanced by deep learning"
-    excerpt: "Hence, spectra discrimination is hard to achieve and in particular, it is difficult to reach the optimal discrimination. In this work we present strong indications that this difficulty can be overcome by deep learning (DL) algorithms. The DL algorithms can mitigate the adversarial effects of the noise efficiently by effectively learning the ..."
-    publishedDateTime: 2019-11-28T11:45:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-54119-9
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.06EA65FBBFFEF97559420C80A3DD49A5
-        width: 685
-        height: 360
   - title: "AWS announces new enterprise search tool powered by machine learning"
     excerpt: "Matt Wood, AWS VP of artificial intelligence, said the new search tool uses machine learning, but doesn’t actually require machine learning expertise of any kind. Amazon is taking care of that for customers under the hood. You start by identifying your content repositories. This could be anything from an S3 storage repository to OneDrive to ..."
     publishedDateTime: 2019-12-04T00:07:00Z

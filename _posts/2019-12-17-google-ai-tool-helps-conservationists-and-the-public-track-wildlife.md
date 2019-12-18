@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Google AI tool helps conservationists (and the public) track wildlife"
-excerpt: "Google is quickly putting its wildlife-spotting AI to good use. The internet giant has launched a Wildlife Insights tool that helps conservationists track wildlife by not only parsing their photos, but sharing them in a searchable public website. The AI automatically tosses out photos that are highly unlikely to include animals and tries to ..."
-publishedDateTime: 2019-12-17T13:10:00Z
-sourceUrl: https://www.engadget.com/2019/12/17/google-wildlife-insights/
-ampUrl: https://www.engadget.com/amp/2019/12/17/google-wildlife-insights/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/17/google-wildlife-insights/
+excerpt: "Google is quickly putting its wildlife-spotting AI to good use. The internet giant has launched a Wildlife Insights tool that helps conservationists track wildlife by not only parsing their photos, but sharing them in a searchable public website."
+publishedDateTime: 2019-12-17T14:10:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/google-ai-tool-helps-conservationists-and-the-public-track-wildlife/ar-BBY5bP9
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.85CE040938370680DC012930DF41D829
+  - url: https://www.bing.com/th?id=ON.0E07A852FD652A72CD230DB69B80F114
     width: 700
     height: 367
     title: "Google AI tool helps conservationists (and the public) track wildlife"
@@ -45,6 +39,6 @@ related:
         width: 578
         height: 289
 
-secured: "9MYQLavFAM3i0Igl+gypKgZo2qk7XwuBbSN5yl1UpZkTIQ7fz39lgHMZ+cuuXHjCmLUV+h67bUJ16Zwuc3ZbKQENZdWSbC6W/eRLazVe4WSmtujnAM/jeAhaEXjd91aVsddQTJoV6AIQZtPxrtkWqsBhIY6d3EhJjmMKtCT1Tv8gMh8/P87Tgb4fJibWjQcW9SQ/ts5UFgd+HkLsjSEwAGqloR80yX8fmSqLtZtf14ogdb3mxuKdiMR+1HKt5z0cDqquItSZ2gygQUclMuIVQA==;Mh4OvWZocxZP7nHHgb7EYA=="
+secured: "S12RjGSPL+Y3sj1HMhEgd6IsEHdBogg797aV+ro1tp521T9GIv+sqeJnw48XzbQJNIcu+lPAmGkS4AFynjBMuYrGmoBGRadHnMNyvwKAi9h306iFucls1Fn4Hnhn3i5xdNeEHnW2w4OCQ4k1d0nazYhZM7osdHyxUkr44h0tYl+wnlmKv3I6j41zGgsDuXsUhfEFCKH9+t/0q2evIYYUXdn0XJ4M0sDQeSRS5JNUL1MTH/lfMdTTBwwValmtaq+452CW0nDOmSu7UDF5bWVeaA==;Dr0kyuVBGt8ZZHh4JYVMQg=="
 ---
 

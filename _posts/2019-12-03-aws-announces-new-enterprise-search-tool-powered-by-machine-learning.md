@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-to
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-tool-powered-by-machine-learning/amp/
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -115,19 +115,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
-  - title: "NV center based nano-NMR enhanced by deep learning"
-    excerpt: "Hence, spectra discrimination is hard to achieve and in particular, it is difficult to reach the optimal discrimination. In this work we present strong indications that this difficulty can be overcome by deep learning (DL) algorithms. The DL algorithms can mitigate the adversarial effects of the noise efficiently by effectively learning the ..."
-    publishedDateTime: 2019-11-28T11:45:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-54119-9
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.06EA65FBBFFEF97559420C80A3DD49A5
-        width: 685
-        height: 360
   - title: "An open source library for 3D deep learning research"
     excerpt: "A new resource is now available for the development of 3D models for deep learning applications in robotics, artificial intelligence and other fields ... With their 3D dataset ready for deep learning, researchers can choose a neural network model from a curated collection that Kaolin supplies. The interface provides a rich repository of ..."
     publishedDateTime: 2019-12-03T20:41:00Z

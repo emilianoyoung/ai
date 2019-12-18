@@ -8,7 +8,7 @@ ampUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-elect
 cdnAmpUrl: https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,30 @@ images:
     width: 700
     height: 394
     title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
+
+related:
+  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
+    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
+    publishedDateTime: 2019-12-18T09:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
+    publishedDateTime: 2019-12-18T09:48:00Z
+    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "A3HQODb2AKcwrGDNtjnzTUYu/+AAsuYzzfumIcu/MaTVM/Miz+GUHFzFRfGkPaM0EKTkZF2A3N2aFEd7qhp4CK89iPwBIFzGEENISjcNGUaQhLT29g/8gAKAXXUkNUuiGxAg4UXlQocHmK4BJSe0f3i+AUH6CqK0No1x6IrhsR7sJep+sn8TKOpkiGbsPd6+jwXUGr9GF2egAOTO1QYgCxyy1vuySsp3liCXTsaxJnYiiChszGvP7fL73uSjuzmuuEM3nzg1LrMlum6oCLLb0Q==;WzQHbha6/s20cpDkeHrSeA=="
 ---

@@ -908,6 +908,15 @@ related:
       name: Access Now
       domain: accessnow.org
     quality: 19
+  - title: "Rostelecom to add facial recognition to video-surveillance service"
+    excerpt: "The companies will cooperate on introducing facial recognition technology in the video-surveillance service from Rostelecom. The option could used on outdoor video-cameras installed by the national operator in public locations. The algorithm FindFace from NtechLab has already been implemented on Rostelecom's video cameras in Tyumen."
+    publishedDateTime: 2019-12-18T12:55:00Z
+    sourceUrl: https://www.telecompaper.com/news/rostelecom-to-add-facial-recognition-to-video-surveillance-service--1320373
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "Research: Students of color at greatest risk for facial recognition errors"
     excerpt: "As more schools adopt or test facial recognition software, an MIT Media Lab study calls the technology's accuracy into question, finding only 35% accuracy when scanning females with darker skin, District Administration reports. The schools using and testing the technology include Lockport City School District in New York, which uses the systems ..."
     publishedDateTime: 2019-12-16T15:15:00Z

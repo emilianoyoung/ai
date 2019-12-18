@@ -899,6 +899,15 @@ related:
       name: Access Now
       domain: accessnow.org
     quality: 19
+  - title: "Rostelecom to add facial recognition to video-surveillance service"
+    excerpt: "The companies will cooperate on introducing facial recognition technology in the video-surveillance service from Rostelecom. The option could used on outdoor video-cameras installed by the national operator in public locations. The algorithm FindFace from NtechLab has already been implemented on Rostelecom's video cameras in Tyumen."
+    publishedDateTime: 2019-12-18T12:55:00Z
+    sourceUrl: https://www.telecompaper.com/news/rostelecom-to-add-facial-recognition-to-video-surveillance-service--1320373
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
     excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
     publishedDateTime: 2019-12-11T15:36:00Z

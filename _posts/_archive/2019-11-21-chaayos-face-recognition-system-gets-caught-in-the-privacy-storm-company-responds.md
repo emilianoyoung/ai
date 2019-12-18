@@ -8,7 +8,7 @@ ampUrl: https://m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-c
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/chaayos-face-recognition-system-gets-caught-in-the-privacy-storm/story-mECOvmPX4d9sFIDYLksoRK_amp.html
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -19,21 +19,6 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "Facebook had a face recognition app that can identify its staff"
-    excerpt: "Battling several privacy issues, Facebook experimented with a face recognition app among its employees that allowed them to identify their colleagues and friends by pointing smartphone cameras at them. The social networking platform admitted it built such ..."
-    publishedDateTime: 2019-11-23T14:59:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191123/ARTICLE/191129709/AR/0/AR-191129709.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 773
-
-secured: "7ZSmqCb3EXO5PE+D6CsiBkoZCqkKPlG6DTStdpK63shILJGBep6/E0+i9bsfmlYaemMvpegpOHlIFYKHq3Al1psHDgqviGIvbHvEQn2NiGFJsk4HpWP8EQJOmk2a/SdSWHGMsVNmQGhAkr83l6Vh9UAe8zxUhviX96Mb4VnRCqB8SkVF297ANU1KOOWoU8hZjTNE9OdpJmexG4XawZuUkJ8WrkA7aVf4T46CY2sky0iYpkZcPyzovLCKXHgbqzoxFb+hfFOasPzTVJgeHdkymw==;fW1dQwDQe+IFf5Adt5sv1A=="
+secured: "xqWwOaCR5JAGciIkwxkzuGEkZzh/hf2n6WxXTfr9AgMMRRfiHvnmPxVL7BEDZWKXezdpgU6fvtxy5Hb1G3mPiy4d5RqYxeiT7nDaiOZGuxuSW30Fz/3iLdR6MRkieEEbxWIXebWFQZA3xc1Hm1q5f+5RBnj3KXXGZkYBZ2mI3Kw5jVxLAMImTSCYii39K0CLdfU/ULqDio73+kngkIcYc8mw8P2b9rPZHWI5SZ1BoGJc2zvLQ8oBVPW/QVhqcA9Qm/y3XZRTpf5AXme2ltR42g==;t41fPAmRwNO/zHABNceLxA=="
 ---
 

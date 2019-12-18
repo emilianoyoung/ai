@@ -56,15 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
         width: 700
         height: 455
-  - title: "Russia's Sberbank Agrees Venture With Driverless Technology Firm"
-    excerpt: "MOSCOW — Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday. Sberbank and Cognitive Technologies have ..."
-    publishedDateTime: 2019-11-28T11:06:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/11/28/technology/28reuters-sberbank-driverless-deal.html
-    type: article
-    provider:
-      name: nytimes.com
-      domain: nytimes.com
-    quality: 49
   - title: "Russia's Sberbank Enters the Driverless Cars Game"
     excerpt: "Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with artificial intelligence (AI) transport developer Cognitive Technologies, the two companies said Thursday. Sberbank and Cognitive ..."
     publishedDateTime: 2019-11-28T00:00:00Z

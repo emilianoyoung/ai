@@ -2,16 +2,22 @@
 category: news
 title: "Infinite text adventure AI Dungeon is now available on iOS and Android"
 excerpt: "Earlier this month we told you about AI Dungeon, an AI-powered text adventure with near infinite possibilities. You can type what you want into the game, and the AI will generate a response on the fly, creating a freewheeling experience that encourages cooperation and imagination. Now, AI Dungeon is available on iOS and Android as well ..."
-publishedDateTime: 2019-12-17T17:20:39Z
-sourceUrl: https://www.msn.com/en-us/entertainment/gaming/infinite-text-adventure-ai-dungeon-is-now-available-on-ios-and-android/ar-BBY5Br2
+publishedDateTime: 2019-12-17T17:20:00Z
+sourceUrl: https://www.theverge.com/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
+ampUrl: https://www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -37,6 +43,6 @@ related:
         width: 700
         height: 367
 
-secured: "YmmODaKYtd5vaiJyMPe/PQ2PMEMrWncJi6nNMBU3m982bsiHKBz52+LzZEMghyMaOgH3PTD3h3OXY2iFPnbti42B6kTFlH56/HqoNAJlwKFboR42W1rujY9VCsI8FLxjL+fdrZ1wjgeO/mgWeYpN7pWiyPJkV8Rgx4FF+vaMC0p1hSkTfFw+2QmRe75XsdeR5xi6Hvr2a0wmRw6V4WtMxhVAJIzUAmBIX2NksNYHaYdDqthUBfnax5RPjzSbNvTgEbA5kIZMWNQUicH13T+T8w==;1LdV82WuT7qVhVD+Nvkb1A=="
+secured: "EJr/OuvUrIoVFy7iG3BqeKRInVaQAcNbvNQaRtNLJPrfIAeiS+/frzxG6rwEJW3PWo645+wqZoy44snRbV01InuasWYiU5m8qJjxZRw6f+O/l7H1FSc77+vyS6gEndIV3rSHblNJRpXoTl1eT9IntRVqvRFxA+lH3f2KlmhY0JsGk2oMgxXN7oy6ZqWGx1Bo5rssYytGAXqHvwPWkcKghbt03kt6ud4OsAGqUuARjurvMZG/sa5H8r0hGAAHnArMJyw5MjJPz4MmHdvCv0piOQ==;XNc/89g7r1pDX1j+7J+Hvg=="
 ---
 

@@ -35,19 +35,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Samsung to mass produce Baidu’s AI chip Kunlum next year"
-    excerpt: "Seoul, Dec 18 (IANS) Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset — Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech ..."
-    publishedDateTime: 2019-12-18T08:31:00Z
-    sourceUrl: https://newsd.in/samsung-to-mass-produce-baidu-s-ai-chip-kunlum-next-year/
+  - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
+    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
+    publishedDateTime: 2019-12-18T12:58:00Z
+    sourceUrl: https://news.webindia123.com/news/articles/Science/20191218/3475847.html
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 54
-    images:
-      - url: https://newsd.in/wp-content/uploads/2016/05/xnewsd-story-banner.jpg.pagespeed.ic.GMmBD0Nba3.jpg
-        width: 1080
-        height: 582
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "0x+ObP768OCBGRAh2v61ujstHzXJeIM+uSypMwVbvENbR+NHalLeVBbOYKASKg7uhqSqjeXdJ6o33nvRFINw0X3l83xMlm6mgKnD5+IZWua3yM+S2sNe6rgpf+EXCkP1PtrzX7Q7OZtf/GgEntVh5P3crWn/ssEmMj9wzcEgoxzSkHakBa31e6+crlyob6kbdRWWNB/Qj1pvFCLc3alRIizTRcQkQYc5o1IfuvtLQ1QzuT+MJQY/+EsWuOqAJkl+UXTPzuuRl+s/EMmLnFhdmg==;qWHnewWeS0aobI/CP4RNWw=="
 ---

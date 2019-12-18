@@ -25,6 +25,17 @@ images:
     height: 349
     title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
 
+related:
+  - title: "Tavant's Fintech Business Reports Year of Momentous Growth Fueled by Digital Transformation"
+    excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced record growth, 24.3 percent annual revenue growth in its Fintech business and corporate expansion including the addition of a new Dallas Innovation Center. Additionally, the organization received multiple industry awards for innovative product launches ..."
+    publishedDateTime: 2019-12-18T12:52:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-tavants-fintech-business-reports-year-momentous-growth-fueled-/2019/12/18/9071636.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "vgvdR6g1dJC5H3HyC4Rs6zKEsOLW+5JhdUH7GI6Mtq2cqbD8aiIFejglANOzdrnjQply0A4QsJO6+b/Chy3SEqEgs4WNOvqBpm0L509MYt9cmzGLz8y+8upV+jcFglfIi66ugrc4qVh6G9R/f5x50l9JJ2yCYA32jRqdruqyVh4H1GZUiG+rhSE822Lch2o886+mQGhpMBYO6iTlqt5zeWlCwFDV+kQ8IiWsEqtkuNcIpcBVoorsJLF6zhB3ZvwHD3CejQocuZdZG4Zl9IZesA==;dCpCVYx34ZnzxE8D/jlOhg=="
 ---
 
