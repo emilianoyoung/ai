@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/02/homeland-security-face-recognition-air
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/homeland-security-face-recognition-airport-citizens/amp/
 type: article
 quality: 203
-heat: 913
+heat: 903
 published: true
 
 provider:
@@ -1004,15 +1004,6 @@ related:
       - url: https://www.bing.com/th?id=ON.939477F9503622A41A88865A3C088C09
         width: 490
         height: 327
-  - title: "New Zealand's Straker Translations to provide AI-driven translation services to major US TV studio"
-    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
-    publishedDateTime: 2019-11-28T04:22:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36470/new-zealands-straker-translations-to-provide-ai/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 5
 
 secured: "IEO61jmcSOka6bm5WP9RnueGpl8FR+zw1PQYLC4lQCGGDJPOc3I1NuN5LjnnfjqGM0kzKn8eds4DOuNd83JNmNp6gW7omTUsThCs3uXwpySrrhydoXWWpZ+6tPFIXEkIBaNfz8lmrMvhwyYV5gkAbOT1frEyAB48tYNRA9jK/1vr4UncSpdLwQryFWJl519YM6pSQoAoXFwbhX/NcmCpQPmCs5zV3Edoiv//wEwkhOvAxEfHF/tW2wKqmLQidA2dsBLuC2MUYXTuI++G2GN2fRdVUZQ8FHzUcXuxhTV8oUQ=;jYAXEr49SpNhm8E5ZwtOcQ=="
 ---

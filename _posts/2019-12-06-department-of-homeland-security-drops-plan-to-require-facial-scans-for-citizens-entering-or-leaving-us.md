@@ -1000,15 +1000,6 @@ related:
       name: AdNews
       domain: adnews.com.au
     quality: 13
-  - title: "New Zealand's Straker Translations to provide AI-driven translation services to major US TV studio"
-    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
-    publishedDateTime: 2019-11-28T04:22:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36470/new-zealands-straker-translations-to-provide-ai/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 5
 
 secured: "EfyN7R6lnxnpyvVzuJyY5VYUCLaskY1DkymrxSs8R0RB/2bYjcn1RKIKCHWfWNy+dDzFdZOUMvYFQRRcW5o2/JwbSgeK9J8F8md4N+seqgAKsP4JaRR1UchSvARtEvONYhQXOJc145MZrTgWgLGbNti5iumh6kPIsht9vca7az4EnAkEcnuIfs1RSBf6UylGuu6fF3TwSWXrF/CE8RAqoeJroXbZwjBPMzCk05jBrDT22cuPZUDmeVZ+w+8X+tBQq8pPD8WIjKmdpu1Y5FOSJA==;eswgujJRaCMgKgIfsPd1Mw=="
 ---

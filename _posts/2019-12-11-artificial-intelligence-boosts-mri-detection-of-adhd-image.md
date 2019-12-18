@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence Boosts MRI Detection of ADHD (image)"
-excerpt: "Schematic diagram of the proposed multichannel deep neural network model analyzing multiscale functional brain connectome for a classification task. rsfMRI = resting-state functional MRI. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of ..."
-publishedDateTime: 2019-12-11T15:05:00Z
-sourceUrl: https://eurekalert.org/multimedia/pub/219126.php
+excerpt: "Schematic diagram of the proposed multichannel deep neural network model analyzing multiscale functional brain connectome for a classification task. rsfMRI = resting-state functional MRI. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
+publishedDateTime: 2019-12-11T15:04:00Z
+sourceUrl: https://www.eurekalert.org/multimedia/pub/219126.php
 type: article
 quality: 39
 heat: -1
@@ -56,6 +56,6 @@ related:
         width: 700
         height: 233
 
-secured: "ITCHw9MAELvma43i4nJhS/xDg0PFmLevsLiEW6ncjKAMTDsSrb5rKbQv/8loM9mp5Yf/yO1Y0Vgp5FzZYN1eQjRA93Vg4yzL8uB3HkCEepRCHZCly2ZARFD3xV0YQzaSc6G8qB41ltrJwF49qWNF7aAblnzbXzR4amOTJ2la2Lpq2jc3awnSqSqIYXhrNmMp6+yXdsl60yaP2bjX+PNn78Ue6KA74tB9iqq6QvNYGGO2gD7+qZpeLi60DgFG93cBSXihhB2sNNGq7yXnT+eizQ==;GFZPNsmSfQcsfPps7S8kEQ=="
+secured: "bX9u0kej+VxRdmWHRbDVd90cxt9J+cSJSO99lW2O8Kk2s0WkWB45ARPjCjfYJPUkSH+iZS3VjxWp4sja9bOsxrdcpr1qSRYDCzOuv9nuWcOUt3Ay4VbBs/mP7HSplERFdRQvyniz0Y2HZw57ibols7eCiO0icojdWe4/XB68iHpEhrNB1GWSSFX5S6tGbh/8vtfOL+BWFmzWPQ9V0oGzPhJRguEiideKXmlFKQMNOUOIO4vt+tbCdqb9MgIzZRp/uLOZTqyX6TE00RgZG8YqwA==;cPnpfxjRrx5s5n6eiKKWcQ=="
 ---
 

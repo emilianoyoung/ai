@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-19T01:01:00Z
 sourceUrl: https://www.datacenterknowledge.com/machine-learning/nvidia-and-microsoft-azure-pitch-rentable-cloud-supercomputers
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: Data Center Knowledge
@@ -23,21 +23,6 @@ images:
     height: 1080
     title: "Nvidia and Microsoft Azure Pitch Rentable Cloud Supercomputers"
 
-related:
-  - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
-    publishedDateTime: 2019-11-18T00:00:00Z
-    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 47
-    images:
-      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df9082743e3a-EL6oxqmXUAAC0be.jpeg&size=1&version=1576601649&sig=0d5c87908427813cd0eb527a07b3e395&default=hubs%2Ftilebg-blogs.jpg
-        width: 500
-        height: 272
-
-secured: "dEnork4CVFJlJ/R88o0b51tcSZhOtp8cdrTEuit40uRclkeZAtOuETZoq3zJsxSWru43yaix0oqFJP7xPUQYe9cpS15PFVr5hZbu34g3Aee0Qqxgsyzrd42acQnfWRsWz8hfWu2OT6izmu+w09BGkK7aPP4MQyZBIzxc993Qjn5+pfnRGbZUE8jWAhEV133cNcfFO6lroPb7hBqwDWZ04qIfIKQxnWIASGByP1MtoRNHhGN2ri9J9MQioRqwDpo5s2csGNmuvB7cH3Rw1c92ug==;gPQtuIUQwmgoGJPWmBjbGA=="
+secured: "dXE65ZBStgjJ4AGa+F+Fl5ZqYxM3etWSPvfIXN2L+7YhPQiyQvTcqrs5gPD+TcVF/P68Pw2yI07g2DFeGPYPM4sLpgIqK8u303xG+CM66eTlm/LtRoD9X1cARA008HQ8Af0Z8+VHdslHQCA8UElS4f6hhPzJi0KoCUPRI3G+a6ofQuoZuJZ7ugQiTtSm3LKwGd9m9JKftXDEXFg/QpGS8qRxJPWHVQAbnrRlxbZ+pGA3tEY1XegvC7fhg66WGEKRb/XVyHL7fnx9ms5nMRfzrA==;P1GP8h83BJ84oe2/32oQbg=="
 ---
 

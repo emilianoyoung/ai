@@ -28,6 +28,6 @@ images:
     height: 466
     title: "4 Simple Rules to Make AI Chatbots a Force for Good"
 
-secured: "O6cAAAo9aZftO+rlbKozOo6rYX2H+TBpXHqbo73zUArcR6ysClh2kQeqndbHIjxO2RbPgkYElZAqydGSFqwNxqM0Q4RU9dUUNTzLcFydDPizFxUmyU3VCPEMtXWL5oLho6rZJm2Y6iTgDD6+HwmCQm+b6LHds+T+g9OmJOVl8LIepPSuNrC9ePFcY0lXM5RXUeWZZMBT+aicva6JsPDp2d/KCxWcS3aZyUsGTLLjIOJlwLA4V3NjHUJuxfoNDOn/UyGv8LWCaAKrLm+e9ay6gA==;Py0HgzDWdTDpXZggyxvmOw=="
+secured: "oT/QsG4TX3bmewGbps+znkJCinhrnTFxw5rcbF3xU9YjtjnMrm4gPjKtUSzUlQg61KH13blc826bYj2uPJ5/jR+3Oya00WWI48J/aUaFBc5S6pQ/QYplCxydEUCGovZc+faRJSxKtVS2p5xHnI+nzwHxWypATngKZKT2a+mLu8+fmhTQu5EG1MJReDKfVafTnCdFawlijlUENP1YUGSR5xiOahV2ne1w2/hiaf8V1JT0iv/p7fpWLpri3kNWBio0vW8bzpnt1K0SRT5mjmeSZg==;hTOV+VfZ2G2kDBIGgAXWKw=="
 ---
 

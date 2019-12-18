@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T13:20:00Z
 sourceUrl: https://www.thenational.ae/uae/transport/abu-dhabi-airport-completes-self-driving-wheelchair-trial-1.952319
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,45 +24,56 @@ images:
     title: "Abu Dhabi airport completes self-driving wheelchair trial"
 
 related:
-  - title: "Dubai-Abu Dhabi trip in 12 minutes, UAE gears up for self-driving journey"
-    excerpt: "Hyperloop is vacuum-tube system that can propel passengers at speeds of more than 1,000 kilometres per hour. Image Credit: Gulf News Also in this package In pictures: Dubai World Challenge for Self-Driving Transport 2019 Travel from Dubai to Abu Dhabi in 12 minutes using hyperloop Next-gen transportation is built on sound mechanics, not hype Looking back at the UAE’s last 50 years and ahead to the next Dubai: Watch us take a ride in"
-    publishedDateTime: 2019-12-16T06:01:40Z
-    sourceUrl: https://www.msn.com/en-ae/news/uae/dubai-abu-dhabi-trip-in-12-minutes-uae-gears-up-for-self-driving-journey/ar-AAKa9hM?li=BBqrVLO
+  - title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
+    excerpt: "Toyota Motor Corp’s automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in mobility service vehicles before it does so in personal-use vehicles. “‘Level 4’ (driving capabilities) is really what we’re striving for to first appear in mobility as a service,” James Kuffner, CEO of Toyota Research Institute-Advanced Development, told reporters at the opening of its new offices in Tokyo."
+    publishedDateTime: 2019-12-17T06:29:00Z
+    sourceUrl: https://www.reuters.com/article/us-toyota-autonomous-idUSKBN1YL0G9
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YL0G9
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YL0G9
     type: article
     provider:
-      name: Gulf News on MSN.com
-      domain: msn.com
-    quality: 38
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: https://www.bing.com/th?id=ON.7136DD9AAD3E7F66C9E53AFBE942731C
-        width: 600
-        height: 315
-  - title: "Foreign passengers sought for world’s first self-driving taxi trial from Haneda, Narita"
-    excerpt: "A consortium of seven companies is accepting reservations from foreign travelers to take part in a trial run using an MaaS (Mobility as a Service) self-driving vehicle from either Haneda and Narita airports to Tokyo’s Marunouchi business district between Jan 20 and Feb 1, 2020. The seven companies are Airport Transport Service Co Ltd ..."
-    publishedDateTime: 2019-12-17T01:44:00Z
-    sourceUrl: https://japantoday.com/category/tech/foreign-passengers-sought-for-world’s-first-maas-autonomous-driving-taxi-trial-from-haneda-narita
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.0933C2E4E40E9CCFB2D8E660DA3DED08
+      - url: https://www.bing.com/th?id=ON.F3C6B884E46201A263463EDFD2AA1E3A
         width: 700
-        height: 248
-  - title: "Foreign passengers sought for world’s first MaaS self-driving taxi trial from Haneda, Narita"
-    excerpt: "A consortium of seven companies is accepting reservations from foreign travelers to take part in a trial run using an MaaS (Mobility as a Service) self-driving vehicle from either Haneda and Narita airports to Tokyo’s Marunouchi business district between Jan 20 and Feb 1, 2020. The seven companies are Airport Transport Service Co Ltd ..."
-    publishedDateTime: 2019-12-16T21:56:00Z
-    sourceUrl: https://japantoday.com/category/tech/foreign-passengers-sought-for-world’s-first-maas-autonomous-driving-taxi-trial-from-haneda-narita
+        height: 453
+  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
+    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
+    publishedDateTime: 2019-12-12T20:02:00Z
+    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
+    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 13
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.0933C2E4E40E9CCFB2D8E660DA3DED08
+      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
         width: 700
-        height: 248
+        height: 393
+  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
+    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
+    publishedDateTime: 2019-12-17T09:39:00Z
+    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
+    ampUrl: https://amp.benzinga.com/amp/content/15000614
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "9g68rPi9qrHV/jMk8ewesLfFFjq2OFRbAjhfUhB9/ihp5bPZ+z6AQtXdsbWNSKL5WL4a6f6HbsHL4IUp+6YvH5Z04/X/X2Zy93vqR7x3nA1Tvy32UpJA4Q4Lmf43Z8hmdiUsB6uXEApK0xLfB1pwzuun8FIQcI2ar7mVWFGlUsaA9mPZ1OL7mGXHxPIglrFdXkjmbYbiVTmDLcIWIDV1B2YEqBcHgpw4fQVD4iYeDGznpnsdiJAWAPSGC1qfrQCiGLrSYr85lnFiPq/Ho/iMPQ==;nC3qDP41a9eqlQ4tMC68BA=="
 ---

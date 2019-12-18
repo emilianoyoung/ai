@@ -31,9 +31,9 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Artificial Intelligence Boosts MRI Detection of ADHD (image)"
-    excerpt: "Schematic diagram of the proposed multichannel deep neural network model analyzing multiscale functional brain connectome for a classification task. rsfMRI = resting-state functional MRI. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of ..."
-    publishedDateTime: 2019-12-11T15:05:00Z
-    sourceUrl: https://eurekalert.org/multimedia/pub/219126.php
+    excerpt: "Schematic diagram of the proposed multichannel deep neural network model analyzing multiscale functional brain connectome for a classification task. rsfMRI = resting-state functional MRI. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
+    publishedDateTime: 2019-12-11T15:04:00Z
+    sourceUrl: https://www.eurekalert.org/multimedia/pub/219126.php
     type: article
     provider:
       name: EurekAlert!

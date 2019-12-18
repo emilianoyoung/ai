@@ -2,16 +2,22 @@
 category: news
 title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
 excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
-publishedDateTime: 2019-12-14T13:48:32Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/vw-to-develop-self-driving-electric-shuttles-for-qatar/ar-AAK7Hac
+publishedDateTime: 2019-12-14T13:48:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -191,6 +197,6 @@ related:
         width: 400
         height: 229
 
-secured: "Ki2CM0tzRvu/RnIC2tEpC1rbKBL1LXatAjwxeQx5G4BbcGY7PnUWlX2LUVCVbHXHAITFUfLtvaf59UIRGjLffKn8/P3ssgbU3QKILaPN9zr7rQS9MROTLJk17h3FPuCn1WypKyRdd3v1PRVsqGiLBoBS8DRmHiXBSrsjpyT0HihtYv6Odw0gAiaIB6c/32KgsyuSjp1oLEGsieXPAvdrhbtYZaoHFt5v8vzghmVcm9MFoyGTXDfAL4/lXjnal3FBiOGNyvsvOEApr9QZYtlNLw==;p2/m9hitn2+CuByQqw3imQ=="
+secured: "KtFaArEyoW2Dg7grRQQvIOgBrA91fZItjrHBjlNpsq36ydJUz8a3qai6rVm3HijSPKzJ/jSJwpYoL5ZiNZ3KwGUSlx5UcwP8A+slJ+3/LdIaJYUMsldyCVBLCu+YMUP0oS0qEnF3xmUAdkFRqNpbarcfI6xkjXcZrsKAxmozPBI+mNnXeezIvZcejVJx8GWdW8qNsZZu0Llrgmo2fTYOFofFpn/8VhMrMny9BIs79pKiRTDKc1Ttgc1mRbubN/tO2CrpBrVOCORKO5YtHFxgGQ==;jqyqCu9SXNZ00ePjmtoq7A=="
 ---
 

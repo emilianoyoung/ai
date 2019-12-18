@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
-excerpt: "Advancements in the understanding human behavioral science, neuroscience, and psychology are combined with innovation in AI such as improved Natural Language Processing (NLP) mechanisms and linguistics processes. Machine learning improvements to areas such as what is said vs. what is meant and context-based AI are leading to an overall ..."
-publishedDateTime: 2019-12-17T19:15:00Z
-sourceUrl: https://www.heraldstandard.com/business_ap/global-ai-solutions-market-opportunities-analysis----/article_8b0f62bf-b673-55b0-8316-4b6b8015bc4f.html
+excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
+publishedDateTime: 2019-12-17T17:44:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Herald-Standard
-  domain: heraldstandard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
+    width: 700
+    height: 365
     title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
 
 related:
@@ -62,6 +62,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "hvzj0g8lcSoP6DUXNx27m4DB83sGf2QFIf/FrafwyM7u/MKQ11mO0Y0v3H14lPtNZCtwRj3xldnLAAFwPiENuHZqOZoStzniCaFuKU+S4zYhcxHz7c5nt8o3oJihtvS5IByh9Sf9KyWQhxQXkwoSnWk2SCELHMnKI/bKy8fhJit8KUfpLRMrTx6jZaeI/XleeQZecZO/UarqI3vna86OmQIbWf905Rc9E866TFUqKzLjKozcqs0baf+FUn+iUql6t90Vh8dgZOOtArm4O8oyLw==;PEwdcPJiUjWdRMIXMfgO6w=="
+secured: "YpmEkcdTaL9td6aKuMunCw7AzOdEBoZ0FUm74EVTaZs8JywqQmbTmFovJzRCwB2hLgDcLvxeWkXiBDz8Ip0FlzBeup5JN6byZ343kPP57PRIJu/a3KKYoIPxCor6khNPCNJNgJMarrLx8cSRUBn3hzV2wVHlHfqpuW5zbvP9duTQ0GBBznf8hJ3rVa13XLHcPeMfdAdNE/Qz0BIqljZ89qMwtaVWukvHpzvQaAKApKQqR1OTnNu3XA1pKmRhm50usyv+5BqKTB7l3nSBWoRACQ==;zEB1XouQkzQSB1u5ndGbng=="
 ---
 

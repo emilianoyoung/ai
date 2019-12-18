@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Why Machine Learning Is Still Dumb (And How We Might Fix It)"
-excerpt: "If an apple falls from a tree 10 million times in videos shown to a machine learning algorithm, when the system sees an apple again, it's going to predict the apple's inevitable plunge. But not every apple is part of a Newtonian experiment, but machine learning doesn't know that outside of its very limited context. This lack of situational ..."
-publishedDateTime: 2019-12-17T21:37:00Z
+excerpt: "In another example, the world's first universal LEGO brick sorter uses a convolutional neural network—a deep learning algorithm that takes an image input, assigns importance to it, and then classifies characteristics from one another—to create software that could discern between all 3,000 types of bricks in the Lego catalogue. However ..."
+publishedDateTime: 2019-12-17T21:59:00Z
 sourceUrl: https://www.popularmechanics.com/technology/design/a30213643/trick-machine-learning/
 ampUrl: https://www.popularmechanics.com/technology/design/amp30213643/trick-machine-learning/
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/design/amp30213643/trick-machine-learning/
@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Why Machine Learning Is Still Dumb (And How We Might Fix It)"
 
-secured: "JE5SuNTaLz9dCvAtTjOg/ZGu7q5ORxAnYpKrPRV+vKB2cbcVsRWoYWFG3I/kGgPbxiPdkDcxCHyPDXurn1m5NC/F68Skoam0FHOKnoSzpLeL4hREy7tNRlSElpBvhAWsT43RaupJxVV27XR4Zln3rbcvujRGglyV6J0t/tq27vXla32vbbhIabDaeRhUYtvZr98IlC/HIDsO5q3pmT7rAVqKh9qINDcIjgyVzkfZWRzQitXSXBgQjCnT0bxjR7G+/xBp/5TVCWfOuuqOXY7pAA==;k8lnnEyMJ09ORy03ggCbRg=="
+secured: "Vmls02IDW4lNo5fPkKw9MUOgV6TnQ05WoNyjrOHNRZ7pvGvyyR4YHBFR+OtG7zB9OcFWQroNyoi+6Q4Pbx6RsK2ZnQIwV9V4hFqizYf8EZ0XZ6ULAIyunENunsmpciUr6t6TOJNAOSrEhcOowmKkwWqbdzm3Id2PUwUTvkRfIYdQJA04qzqttVaSnONB92QpS3CTIbCbg9k84KrMW0Y1iuWcyrNs7ryl5hQXoKSirbRZHomVa5vMcMjSr3/qvJkbjybK3LFi3CiqnsbF1rENkg==;XQm21D0gojdZVfKReaoeSA=="
 ---
 

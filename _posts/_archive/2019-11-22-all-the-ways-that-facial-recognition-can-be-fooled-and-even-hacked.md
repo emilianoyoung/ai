@@ -20,6 +20,19 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Facebook had a face recognition app that can identify its staff"
+    excerpt: "Battling several privacy issues, Facebook experimented with a face recognition app among its employees that allowed them to identify their colleagues and friends by pointing smartphone cameras at them. The social networking platform admitted it built such ..."
+    publishedDateTime: 2019-11-23T14:59:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/facebook-had-a-face-recognition-app-that-can-identify-its-staff
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191123/ARTICLE/191129709/AR/0/AR-191129709.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 773
   - title: "For now, Lockport wants facial recognition security system just for guns"
     excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
     publishedDateTime: 2019-11-24T10:01:00Z
@@ -34,6 +47,6 @@ related:
         width: 2000
         height: 1500
 
-secured: "ubiHXqju4yUkQTAZlypP65muwgwiSKZUfuftcISlXJH+uklDvIdpreZA2Ql7kejhkZW8Y5p8AhfKMPRrIwipRn7+hpsTT5xpJVw7roB8675VsTa9j4NX8yuWtx0ztzFpcSvnqfMxiIMzTj7Kd8JHpZLfPFbsHNOejEOKUmQ010TgAyJTD1OWO0odPu5Tu5GCwf4oZdjK5eVT96d6/oVYcT2bakqC2KJGWSO49sBXSMRbX96tj5eFZwRbLmJrXw78NkM9utTJg+1c2oPik/2QdQ==;Bj9ljPCs6Eur3/c6SXFnog=="
+secured: "THcuRYhlrJDBD0C1LaHNzOX7y3hlJv1KSrBJh7ObmynMsGzZXdLtfhntAZjzwFyUis89zOL66qH60F7XL6+61aF+ZkHwjNkJotnMVcbHRHozjasC7V7VNuww+p538L3DwPCD+C4+Fdwx8BtZHo4kHsDW8ppT/m42OpOS4DsBaRGNdWehdUlfbcwl8tuA4vYuERrqRQD3gvtfvsh6oHYm4rF5EzEIFR6ZnLcd+1wkGX4YZdv6347j9ls6gm6hiaoqKA7COqnREN1RjHur/Y00VQ==;i979EH+/2zsVuVJ/7M3vNg=="
 ---
 

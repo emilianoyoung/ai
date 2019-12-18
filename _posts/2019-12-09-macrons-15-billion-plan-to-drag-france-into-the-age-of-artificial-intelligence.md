@@ -260,6 +260,21 @@ related:
       - url: https://www.bing.com/th?id=ON.99BAF6171FC373CB30872B6449038250
         width: 700
         height: 466
+  - title: "Artificial intelligence and the future of insurance"
+    excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
+    publishedDateTime: 2019-12-18T05:23:00Z
+    sourceUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/
+    ampUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
+    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
+    type: article
+    provider:
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 57
+    images:
+      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
+        width: 620
+        height: 372
   - title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 to reach USD 3823.45 Million by the year 2025. North America region holds the highest ..."
     publishedDateTime: 2019-12-12T05:19:00Z

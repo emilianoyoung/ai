@@ -1004,15 +1004,6 @@ related:
       - url: https://www.bing.com/th?id=ON.939477F9503622A41A88865A3C088C09
         width: 490
         height: 327
-  - title: "New Zealand's Straker Translations to provide AI-driven translation services to major US TV studio"
-    excerpt: "The NZ$1m deal for services that will be completed by March 2020 will be the first time a television studio uses an advanced translation platform that incorporates artificial intelligence and machine translation algorithms to power automatic speech recognition to transcribe, translate and understand the nuances of actors’ dialogue while ..."
-    publishedDateTime: 2019-11-28T04:22:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36470/new-zealands-straker-translations-to-provide-ai/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 5
 
 secured: "y5Y2NPBOKnZNjDYrBzFQnna1x8LfLf+8UxlnuYk7PwXiuPbGzdKqTyQ85qM6HatmIlX+P4kk3SEA+qXzt3ECU7Ef00K1f9ruUeU4iT61dhhhH0cF/0Xc1rnFk9IJOs2lPNTzZn3H7GUcV+zVqxQ7aLaXnTS6UVXSmFuGfwaLQb3N8HkY8wxra7goZixlT/Hs0cOqC6hFn3KfL2Pbo/hKd0+orzeI97rWW7xH1lVPBfoU7Cl4E+1yXcvU07sHYLE5gmJrcFECz8G4dG3AlmiEDw==;g+Ijz3E1LpBAYO1it7LRbA=="
 ---
