@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
-excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
-publishedDateTime: 2019-12-09T09:00:00Z
-sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+title: "Facial recognition for hotel guests may suffer customer backlash"
+excerpt: "Singapore recently launched a new initiative, the E-Visitor Authentication (EVA) System, to enable faster verification of guests’ stay validity, that will also facilitate a seamless hotel check-in experience for guests by using facial recognition technology. The system can be used on a mobile app or a kiosk in the hotel that will scan the ..."
+publishedDateTime: 2019-12-18T02:53:00Z
+sourceUrl: https://www.nyoooz.com/features/technology/facial-recognition-for-hotel-guests-may-suffer-customer-backlash.html/3023/
 type: article
-quality: 32
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: nyoooz.com
+  domain: nyoooz.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
-    width: 320
-    height: 180
-    title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+  - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
+    width: 530
+    height: 360
+    title: "Facial recognition for hotel guests may suffer customer backlash"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -694,19 +694,6 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 39
-  - title: "Facial recognition for hotel guests may suffer customer backlash"
-    excerpt: "Singapore recently launched a new initiative, the E-Visitor Authentication (EVA) System, to enable faster verification of guests’ stay validity, that will also facilitate a seamless hotel check-in experience for guests by using facial recognition technology. The system can be used on a mobile app or a kiosk in the hotel that will scan the ..."
-    publishedDateTime: 2019-12-18T02:53:00Z
-    sourceUrl: https://www.nyoooz.com/features/technology/facial-recognition-for-hotel-guests-may-suffer-customer-backlash.html/3023/
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 39
-    images:
-      - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
-        width: 530
-        height: 360
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -794,6 +781,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7947F2488B16ACD9DD185E4ADCC44197
         width: 700
         height: 393
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
+    publishedDateTime: 2019-12-09T09:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
+        width: 320
+        height: 180
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z
@@ -879,6 +879,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "hSJ4n5cGewmDpGw9BN9ns/vRFrSlmxRGtGuCOHQNx9K+agRNHoq7t4/1StT/7RoBPNmAgfGYw2DsUdqj5SERvw7TRnwj0Pu9ZfzddqvQ3gplmi8mLK26lnILiy13Lb/RVDr5uI0UUT1DiF38YgMkcGGX011gOncXPJ5dhIILBUIH3q+qiS0cSZw+vLLKP0r0NQ/muEL0y5YByP3hrS7FLZCcowOUe0tzdUJN4FFohIvHrya8oXwkyidaujusCdBC1rHT8TcWPb7LrjG7Liav8Q==;IqkfjR8dZlC3biXWQphYbQ=="
+secured: "mJcgMEClN8ESLiaettvLYxksNuTiFb5GQpbsfA8VMHwn4fbOdbHXpbovi5g/8118JqdMUOF+dXYn5u+HFF6NYPw4H10ycJEjpOG2q2lZb3a5Rh/h4Ne8Fy4BjILISHdAZ4aUWUiLy5fAGCkPX7bJ+20YQKQG8czFFZEMQV69Wk6kG+Mm8PHhEYJsJ88FgdGPY2ETD2YMsflgx+OwK/j+1v+AVFbWYkWaRdKpAa8tCA080j3HtWIrmwCmOGlGi7fjEdpSVGOKkisnLL8wkgF3sw==;ecfbYYXiC/MbNqIU1v/Yfw=="
 ---
 

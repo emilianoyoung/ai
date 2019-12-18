@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
-excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
-publishedDateTime: 2019-12-09T09:00:00Z
-sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+title: "Wear a Mask, Bypass Facial Recognition at Airports!"
+excerpt: "Then there was also the infamous story of how Google’s AI mistook a turtle for a rifle! With reports of how AI could reproduce another person’s fingerprints and reports of how scientists have been able to subvert voice recognition using laser rays, it appears as though biometrics too cannot secure our digital data. Does it mean that we go ..."
+publishedDateTime: 2019-12-18T02:44:00Z
+sourceUrl: https://www.techtree.com/content/news/13958/wear-mask-bypass-facial-recognition-airports.html
 type: article
-quality: 32
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: Techtree
+  domain: techtree.com
 
 topics:
   - AI
   - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
-    width: 320
-    height: 180
-    title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+  - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
+    width: 100
+    height: 100
+    title: "Wear a Mask, Bypass Facial Recognition at Airports!"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -335,19 +336,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FE85ED1461D677FB16F2974DDA6D119E
         width: 636
         height: 382
-  - title: "Wear a Mask, Bypass Facial Recognition at Airports!"
-    excerpt: "Then there was also the infamous story of how Google’s AI mistook a turtle for a rifle! With reports of how AI could reproduce another person’s fingerprints and reports of how scientists have been able to subvert voice recognition using laser rays, it appears as though biometrics too cannot secure our digital data. Does it mean that we go ..."
-    publishedDateTime: 2019-12-18T02:44:00Z
-    sourceUrl: https://www.techtree.com/content/news/13958/wear-mask-bypass-facial-recognition-airports.html
-    type: article
-    provider:
-      name: Techtree
-      domain: techtree.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
-        width: 100
-        height: 100
   - title: "Watchdog warning over mooted facial recognition cameras at Children's Hospital"
     excerpt: "Ireland's data protection watchdog has warned the new National Children's Hospital that if it is considering utilising facial recognition technology in its security systems it would most likely have to conduct an impact assessment first. It follows concerns raised by the Irish Council for Civil Liberties on foot of reports by US surveillance ..."
     publishedDateTime: 2019-12-09T16:30:00Z
@@ -794,6 +782,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7947F2488B16ACD9DD185E4ADCC44197
         width: 700
         height: 393
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
+    publishedDateTime: 2019-12-09T09:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
+        width: 320
+        height: 180
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z
@@ -879,6 +880,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "hSJ4n5cGewmDpGw9BN9ns/vRFrSlmxRGtGuCOHQNx9K+agRNHoq7t4/1StT/7RoBPNmAgfGYw2DsUdqj5SERvw7TRnwj0Pu9ZfzddqvQ3gplmi8mLK26lnILiy13Lb/RVDr5uI0UUT1DiF38YgMkcGGX011gOncXPJ5dhIILBUIH3q+qiS0cSZw+vLLKP0r0NQ/muEL0y5YByP3hrS7FLZCcowOUe0tzdUJN4FFohIvHrya8oXwkyidaujusCdBC1rHT8TcWPb7LrjG7Liav8Q==;IqkfjR8dZlC3biXWQphYbQ=="
+secured: "zm/9KMj2bA67X1qU1dxQZLxNqFTNP+TsFJ9JAq3CNR5CxG+m15CEiT/I/D8B42Ib8UmWDhuGTvg6pqwUO3ws4rPARap+ahItBr94mghqYPr1Vsym7+Y4sf188obToBYyB/W0D7ouMQ/KmCeowovtoxZkjuTBprvQ8rsMb7bn1Wh2mJmANTw2o3YGAYZdOaS+ckVCiPJz4QG4y9FLYa8RwTn6PVJHPTpz/NMWFbJ+0M29Y6BZEmVULmeKdiUy8ABSyzQe2DZQFpRmuawqEVFJqg==;A1VNhLcsfVFeOZtp2mJ2Vg=="
 ---
 

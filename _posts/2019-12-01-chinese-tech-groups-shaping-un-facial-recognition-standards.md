@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.93041C4C97769E483112B54459D84BB5
         width: 700
         height: 393
-  - title: "As facial recognition tech races ahead of regulation, Chinese residents grow nervous about data privacy"
-    excerpt: "He is not alone: Chinese consumers, generally thought to be more accepting of trading privacy for security, are growing increasingly vocal about data privacy concerns as facial recognition becomes more common in the world’s most populous country."
-    publishedDateTime: 2019-11-27T08:02:00Z
-    sourceUrl: https://www.scmp.com/tech/policy/article/3039383/facial-recognition-tech-races-ahead-regulation-chinese-residents-grow
-    ampUrl: https://amp.scmp.com/tech/policy/article/3039383/facial-recognition-tech-races-ahead-regulation-chinese-residents-grow
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3039383/facial-recognition-tech-races-ahead-regulation-chinese-residents-grow
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 43
-    images:
-      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/11/27/45e6be86-0f61-11ea-82cd-148dc44829b8_image_hires_110116.JPG?itok=SRTN2oNA&amp;v=1574823683
-        width: 1200
-        height: 630
   - title: "China Demands Facial Recognition From Mobile Chip Purchasers"
     excerpt: "RIO DE JANEIRO, BRAZIL - The adoption of facial recognition by China has just reached a new level: as of December 1st, Chinese consumers contracting a new mobile plan or service must allow their face to be digitized during the registration procedure with the operator. The Chinese government has been using facial recognition for some time."
     publishedDateTime: 2019-12-04T09:10:00Z

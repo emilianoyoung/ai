@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-art
 ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
 type: article
-quality: 91
-heat: 131
+quality: 93
+heat: 133
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376

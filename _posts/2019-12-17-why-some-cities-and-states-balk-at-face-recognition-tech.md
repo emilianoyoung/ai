@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Why some cities and states balk at face recognition tech"
+title: "Why Some Cities and States Balk at Face Recognition Tech"
 excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
 publishedDateTime: 2019-12-17T19:30:00Z
-sourceUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html
-ampUrl: https://www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
-cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/why-some-cities-and-states-balk-at-face-recognition-tech/2019/12/17/afb4932a-2103-11ea-b034-de7dc2b5199b_story.html?outputType=amp
+sourceUrl: https://www.nytimes.com/aponline/2019/12/17/business/bc-us-facial-recognition-curbing-surveillance.html
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Why Some Cities and States Balk at Face Recognition Tech"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -318,6 +326,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FE85ED1461D677FB16F2974DDA6D119E
         width: 636
         height: 382
+  - title: "Wear a Mask, Bypass Facial Recognition at Airports!"
+    excerpt: "Then there was also the infamous story of how Google’s AI mistook a turtle for a rifle! With reports of how AI could reproduce another person’s fingerprints and reports of how scientists have been able to subvert voice recognition using laser rays, it appears as though biometrics too cannot secure our digital data. Does it mean that we go ..."
+    publishedDateTime: 2019-12-18T02:44:00Z
+    sourceUrl: https://www.techtree.com/content/news/13958/wear-mask-bypass-facial-recognition-airports.html
+    type: article
+    provider:
+      name: Techtree
+      domain: techtree.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
+        width: 100
+        height: 100
   - title: "Watchdog warning over mooted facial recognition cameras at Children's Hospital"
     excerpt: "Ireland's data protection watchdog has warned the new National Children's Hospital that if it is considering utilising facial recognition technology in its security systems it would most likely have to conduct an impact assessment first. It follows concerns raised by the Irish Council for Civil Liberties on foot of reports by US surveillance ..."
     publishedDateTime: 2019-12-09T16:30:00Z
@@ -664,6 +685,19 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 39
+  - title: "Facial recognition for hotel guests may suffer customer backlash"
+    excerpt: "Singapore recently launched a new initiative, the E-Visitor Authentication (EVA) System, to enable faster verification of guests’ stay validity, that will also facilitate a seamless hotel check-in experience for guests by using facial recognition technology. The system can be used on a mobile app or a kiosk in the hotel that will scan the ..."
+    publishedDateTime: 2019-12-18T02:53:00Z
+    sourceUrl: https://www.nyoooz.com/features/technology/facial-recognition-for-hotel-guests-may-suffer-customer-backlash.html/3023/
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 39
+    images:
+      - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
+        width: 530
+        height: 360
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -849,6 +883,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "QVJDPOPZ2Vwi+Efbsk5P9Lw7W9GNkYN9deYr0dNQ4vQM7YT4ngW8MudkZCd9Qboaw7WSeFep1nf6bNi9XXb7nP5xAYCWNT6xUxOz50dUvimJOYwCs4uPDiZylvYfQQvYlPocyJR84UYYaYIZ5c45yG21RiLJBcfPbSjMi8VRiv68UpitXBxXGb/bz6XNgqudSEmTi9PT8hrqffqtJC4otCGi6ea4LBRNnTsuhbs/WV4PMvgU82GibZGe96qblgLIDYRtTLczJU2Xd7hAIorrrA==;QX3KIBtGOp/+22C6+qNKzA=="
+secured: "z615KIiU65tV2DlYgy6mGg84cillys7sbgfXRuRzvodZeQP4VLUQwYFduZBvreAKcu8Ehn0cXYMrOh6In6gK83tdT2QVxcgNe359dJefHtaA/36l4a1F0snHwbT7SZaCm+i3Vyfj37qIr2pjA7YhHQCwCStMPjJyJFVDj0sgHP5Jka1XLCaHfxPyZdZl9FJpr2XWhgKYfsLL+tO1w9TNL/4FMgKdMeMwRFz8Rx7jkIjuR4BN4KE25z/FsIqG/CIeGoAhTAsfr8M+WqsfkOpQdg==;yL7FA3pj7T+3e1PXDya9ew=="
 ---
 
