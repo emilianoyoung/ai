@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-b
 ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
 type: article
-quality: 94
-heat: 104
+quality: 194
+heat: 204
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 400
         height: 142
 
-secured: "+hJGZdgrvvaPguZuzQdH5zKX15gZWjjb8pDBxHRX1TOy0UTOkx3HxiAwvB4cRf8qLwoBx1sjt2z39c8orbh3YlnYptQQXwYIuACQwR2o1Qk8B/ZK4Bc2uRfNDevFobm7Kvxgr/GFEAJQ2vbtX095byzpdzuOxFa4fGQHreI3byowO3Q1TcV+bOMnQlD18AmLpjFshpptOUSbkQcyLlr6zHRh5lmZDX2p0IkwHV6QS4Cni69G3Zb3F8GDzU8htDUWrWvMgG5ftYe5HQ1Kc6KS5g==;KBVnGmGiyZg7BrDAZx7KnA=="
+secured: "uw9Yb+ZPzrRkbbo252hyQk3uABEG14qt19O1Of5QyeAo5LnVWbR983foUQxVeVo3+s7+J9fwWtPOO5SclyhLQObJ6dQeOOWRdXTXpKgDlQ6jNiWNUGagDAbUxlKYsGtDZuqrsun2SRk7hsVX3RUtqDLoaK8nEvMdjczBjqJ29cISeM0WEfWREARq+QmKzvNE5aM3GLbmPYAXbhJSAqdkCd12SRjLQ/Tsh8z95vBvzOcFXp4VWf+xUsg39z0QrLENVXpxN+LylGlkXpISqmynW8dJ5+vjOhNAJwtsAP3pFlg=;t4EAQkP1m2OTZylKfinhxQ=="
 ---
 

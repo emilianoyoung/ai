@@ -72,6 +72,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 0
+  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
+    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added to ... Incisions to Improve Healing Preventing Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing Implants Made of Continuous ..."
+    publishedDateTime: 2019-12-18T12:30:00Z
+    sourceUrl: https://www.thedailytimes.com/business/latest-innovations-in-wound-care-ophthalmic-devices-and-artificial-intelligence/article_be77a94f-8cab-5038-9033-fed83c0a88d8.html
+    type: article
+    provider:
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 0
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
+        width: 600
+        height: 600
 
 secured: "4zWRojJAvmSmeyWrHwKJXInNWjYYEF9Zp0c1KvSddc6fI7k4+/WVp20ZftnaixZ5w0ZTcS6XIuzdWptyPNAhjic0PRp2vJIrDa6A5pwnPvljfOyqjXNtjbBZAbfyPKRO9e4WcNoiL26GBCZQwSibmvFEhrtm1PWZaK5ZimQbgOnQo4BI61UjOz5L9Wumkfnp4VwkjoSsDeUpqRap4qHZPS/Cn1lXGOZ9m9CG/KwJU73fUs29bkllxjPHIpYEFIaLXgdL2FqA75GEKRTmIPpRLg==;0iZFB48wQZKEPp54nVKn3A=="
 ---

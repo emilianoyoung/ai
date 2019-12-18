@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Amazon targets devs and scientists with new machine learning IDE"
-excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
-publishedDateTime: 2019-12-04T14:52:00Z
-sourceUrl: https://www.techradar.com/sg/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-ampUrl: https://www.techradar.com/sg/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+publishedDateTime: 2019-12-04T14:58:00Z
+sourceUrl: https://www.techradar.com/uk/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+ampUrl: https://www.techradar.com/uk/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
 type: article
-quality: 91
+quality: 54
 heat: -1
 published: false
 
@@ -22,13 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
-    width: 700
-    height: 393
-    title: "Amazon targets devs and scientists with new machine learning IDE"
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -110,6 +103,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "Cym4Pg4NvZSlHWkUi3pW7MYXHF9Ku68lnsghiJnAExZE/qpRZ94upkLU1/95n4P1O35GDZYLyKbcOoUBluTy0P00CvR0l8YuIy8sPV14T9vlUnJ6UC4YFc1IGXcvHj4Y1NScMNinqijZ2ZTSVQ9qBzRUza1IlX7PeHpMLM7R/y/oXL/mmvSxQ1v3WrGT1iE0Ax42twQsgeNIfm56La9D830VsjAKqbXjX2j8nFR1SomYg+wgxMZmuzUR5SYPrKPsbXszQ0G8sHAmjz2fad2xng==;xA4XF4UDyx+9zOmGPCk78w=="
+secured: "Q3YcRwEi2tee+Isy8+h8v/iuxk3dpMPX/4kSb1oW+EaRkrAM2GJLGHGl1EHhohFA9eOij4F5JV37xK0uNHp2jcNGO0o4JqrPfID+UIra4e8OLshDEwKirVGEZ/PYioNmaMU727BxoIoJ4r0jwKkhohVxIuiHLrwDp+luyyHCpcTvsQsa3qzCJJ3HbsnCFtomRTdfrBLVHSMmuQ+Qe1Fu6EdXdWSgSQtsTt8A8Na3/QPixMtz2x3+we9So6mVqqiL6ZtcWZNvieG3B8P7ixjvFg==;0KZN2E/Mo1xz8pyVrROL6Q=="
 ---
 

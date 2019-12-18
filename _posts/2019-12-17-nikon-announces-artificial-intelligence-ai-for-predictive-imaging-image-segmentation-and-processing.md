@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 94
+    quality: 194
     images:
       - url: https://www.bing.com/th?id=ON.769C305653CA13B312F02236D6DDAEA7
         width: 533

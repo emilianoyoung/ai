@@ -23,6 +23,21 @@ images:
     height: 457
     title: "Japanese-Israeli partnership launches 'employment agency for robots'"
 
+related:
+  - title: "Short-staffed at factory? Japanese-Israeli venture offers robots for hire"
+    excerpt: "creating what it says is “the world’s first employment agency for robots.” The joint venture was set up earlier this year to develop artificial intelligence technologies to form the basis of the so-called fourth industrial revolution, or Industry 4.0, which will see the automation and digitalization of the manufacturing process."
+    publishedDateTime: 2019-12-18T14:22:00Z
+    sourceUrl: https://www.timesofisrael.com/short-staffed-at-factory-japanese-israeli-venture-offers-robots-for-hire/
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 38
+    images:
+      - url: https://static.timesofisrael.com/www/uploads/2019/12/iStock-671750580-e1576658590942-1024x640.jpg
+        width: 1024
+        height: 640
+
 secured: "sLSMzyUHTXrHj+pEQiiRZrs2bMg+QAx4EpoBNMwcqsL7D1FTGrRrI3AatGfGzR/Z2B/xrTt7nH8Fl+uSC+vFSVh1BF0GkV0awhE3rU+u37dyTzhruIZm2r4Py+dD/kGEu5fzkrITv9vxTNcnqJ7/KUDbiokyo5Gb3PsNVkv8lZKjqPpXi7XFF3tQE3u1UIiSEtXCRREFcq5YkEq6o6h/um0OnEFlBGKerO1wjfiPXuw6pvtULsn0uPQAiAVygtr8/skcChvUABNSWU2EJu1uXQ==;dFVwHw4jiY+SqAimbigtGQ=="
 ---
 

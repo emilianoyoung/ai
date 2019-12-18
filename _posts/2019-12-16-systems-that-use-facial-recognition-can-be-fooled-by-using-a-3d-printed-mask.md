@@ -324,6 +324,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DDA48C03B79BF988FF677B6592FC1D62
         width: 150
         height: 92
+  - title: "East Bay city becomes latest to ban use of facial recognition technology"
+    excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
+    publishedDateTime: 2019-12-18T13:21:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+    ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 58
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/20160218__SJM-EYESCAN-02192-1.jpg?w=645&amp;h=484
+        width: 645
+        height: 484
   - title: "Wear a Mask, Bypass Facial Recognition at Airports!"
     excerpt: "Then there was also the infamous story of how Google’s AI mistook a turtle for a rifle! With reports of how AI could reproduce another person’s fingerprints and reports of how scientists have been able to subvert voice recognition using laser rays, it appears as though biometrics too cannot secure our digital data. Does it mean that we go ..."
     publishedDateTime: 2019-12-18T02:44:00Z

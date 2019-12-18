@@ -1,26 +1,32 @@
 ---
 category: news
 title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-publishedDateTime: 2019-12-03T18:20:00Z
-sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+publishedDateTime: 2019-12-03T18:13:00Z
+sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Yahoo7 News
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
-    width: 4032
-    height: 3024
+  - url: https://www.bing.com/th?id=ON.AFCDAF6FDA20A0CCC32046174C4952FB
+    width: 533
+    height: 399
     title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
 
 related:
@@ -259,6 +265,6 @@ related:
         width: 700
         height: 365
 
-secured: "WLAd6nbKue+ukqmtX1s0RFRbbADKsnkBBmtgpaG7Lhykmmqea5FCOMG5wPcVDK/7/TFjB7LSneK76fSPPOz56AZaf8j6lpqbi2qaBea6O1NdGo2WGIXvH4+VqYTnQoNTQq/vdvzdn9oW7TAZZQTNkzw21QI0yiuWwWArzwizbRjlo1Aa9o3JtObP2/j7vy98vMPwsDxAg8dLtboc7Iv+1zz5by0L4MeWsYGFC5VBKFcRQ+hCqiRO1vHBYSYGDgo2yaIzEIlzi9cie6EP+lIFbQ==;60mR/0YWJW3kfAncha0x+g=="
+secured: "2nUO29cB0FshBey8J22A6IgEBiTz7lLWkFAL3v9xmy9gtECVCEJsIyxLXEeK3X35QGkuYixI+Bkp7NcQJo5MdVA3HG2mgcxQC/a4r3DlPOnuCeZUf1zDQPOQIo9jb1vu9l8GN1JCw1gOw8p67UN+GN363pPe7zEyoQrA8r70Is1tA6ySazBaAQvi0CmjwjbheWrEZLjFwD5UazOODGAYPw82jUty6nEvmnc2tQBbS70kcAkLyYAwYYdMuz9vAGuoUwdjwFVU6DJVU+skXEkArA==;w74QSndC4gY+MuJ7RO2YPw=="
 ---
 

@@ -24,19 +24,34 @@ images:
     title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
 
 related:
-  - title: "NVIDIA Provides Transportation Industry Access to Its Deep Neural Networks for Autonomous Vehicles"
-    excerpt: "\"NVIDIA leads the world in developing the deepest and broadest suite of DNNs and AI tools for the transportation industry,\" said Luca De Ambroggi, senior research director of Artificial Intelligence at IHS Markit ... industry with full source access to NVIDIA DRIVE deep neural networks for autonomous vehicle development on the NVIDIA GPU ..."
-    publishedDateTime: 2019-12-18T03:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/nvidia-provides-transportation-industry-access-to-its-deep-neural-networks-for-autonomous-vehicles-2019-12-17
+  - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
+    excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
+    publishedDateTime: 2019-12-18T14:49:00Z
+    sourceUrl: https://hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    ampUrl: https://amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
+        width: 708
+        height: 425
+  - title: "Nvidia Orin SoC melds next gen GPU and Arm Hercules CPU cores"
+    excerpt: "The fruit of four years of research, development and investment, Orin packs Nvidia's next generation GPU architecture alongside Arm Hercules CPU cores in a 17 ... programmable, software-defined AI platform, asserted Huang. Importantly the Orin SoC based system can meet systematic safety standards such as ISO 26262 ASIL-D. Nvidia reckons ..."
+    publishedDateTime: 2019-12-18T09:11:00Z
+    sourceUrl: https://hexus.net/tech/news/cpu/137963-nvidia-orin-soc-melds-next-gen-gpu-arm-hercules-cpu-cores/
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: https://hexus.net/media/uploaded/2019/12/e1b22cff-a757-4e71-abf2-6830d2af56f7.jpg
+        width: 700
+        height: 383
 
 secured: "G1LDlWuESO6vXA+cypS7W3OKwtkihtAkbCJvj3ibuXBwggmsby+Q37+hNhrQiYF9viVFYujmyMU7Wn350BPHMTd3zX/3hju6pW9YvFviIF5+LijcNKoneUQ6jXj/3CPUEB/bUSYw+JqHPBV7bwGy8PGEZ5RD9vf9ekjpeyjoJCI+WnzJsAQOQa9RstlRBI1XhtSGDFFvl16sO7EaqPPxrVMuJEja1nwZRi8f9Tp6KJhyzkbkalcMjJiNOxGIwDpA3rfXSX+L29nkaeitD/luHQ==;kLaXNCcJkOMG31PnjSv81A=="
 ---
