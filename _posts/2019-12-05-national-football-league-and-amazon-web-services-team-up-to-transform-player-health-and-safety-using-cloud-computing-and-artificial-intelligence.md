@@ -1,7 +1,7 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
 publishedDateTime: 2019-12-05T20:58:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
 type: article
@@ -120,6 +120,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "b9waZbgy/8v8tAcemwpJZcjGcWjZIzmFG1PNGCGH6jqPh4JYVXj2B5RILe+2SvgWV0lcrBY3vPgvBwb5BY8bfjv0Upqj9WOx/8NY7jDZ4a9B0LwYw6+QsVQeJMQZfI7my9pyKZmYPA4e7pqjydoUz02HSS2q+FFkXh0+QcbWrrt0PyO0FeXEUI1PR2jR5r+dHyMEPfKmwJZVAi5xmTpQKmOvU9oyGYIsr9viI/aTF5j3uqmWy43wKPYWn7zXR9hlE3ue4id3lq+3PfyFSuDAtw==;jT6r2+CT/7ex5NItkxUOgA=="
+secured: "t/+t5b+MCOmtWaDcy1X6MlrPwyRSxVlTRRdtN341tV0DdiZH2bAUbXu5ANxGlFawzjRI+UvOJ/e0mwRHVItDZcwtjRItKTN+AURVrEqx19dwq0GhvkEUGhsZf7IjOn0ZnMGiwAmjHN9teGylaGh2iuXFS+Iq4S8jRMRTS/PugdEJu/26d0JKMVL8DwNNe5X+lJRa1nUZ5njDhL6czp8Yi6ntzGg1oet6RuE0x4Rvdk/r8kS3hEOQdmHGlpFkY61EVJ4DXo2aJ4BbhzcfVcl/6g==;r+oOZMabGgwXAEPqXYM3og=="
 ---
 

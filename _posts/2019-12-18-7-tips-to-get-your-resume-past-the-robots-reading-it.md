@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-art
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
         width: 200
         height: 200
+  - title: "Using robots to inspect sewer pipes"
+    excerpt: "Data retrieved from the robot will be used for a variety of assessments. For example, core samples taken from the pipes will be analyzed by a scanning electron microscope to relate material chemistry to pipe strength, in addition to using finite element modeling and employing artificial intelligence. In 2015, Abolmaali--a renowned pipe expert ..."
+    publishedDateTime: 2019-12-18T19:13:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uota-urt121819.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220093_web.jpg
+        width: 562
+        height: 854
 
 secured: "r59pLoWp/xR/2eMaaI+dslVVMETXRrDYEbALSEus2Yl/vqE5B1gUIot1cggipyf3K/AYiekeq1AhsNslFwaYJ/AN6iT/CBokqCpipD6biJgon/cwXS+6gd3iGlISmaHp/OBUtRMbp4GkrxSLIgPGfFtBOEeFerw9P18Nv+Vx+qlsrG38ubXXdWBKqRXC6YdsfoZBFkO5XXs0xJzXa3qzIStGzrmg/iBx/tyfBVaruI7Deq7riVMycBkHaPsxpihYbgtY8O2rdbyfA5IyUO30Eg==;GvmIskz2sfBCGuOr9Nv0vg=="
 ---

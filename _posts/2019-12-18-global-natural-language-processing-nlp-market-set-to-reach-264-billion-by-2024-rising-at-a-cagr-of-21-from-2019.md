@@ -1,17 +1,21 @@
 ---
 category: news
 title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
+excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2019-12-18T17:30:00Z
-sourceUrl: https://www.finanzen.ch/nachrichten/aktien/global-natural-language-processing-nlp-market-set-to-reach-$26-4-billion-by-2024-rising-at-a-cagr-of-21percent-from-2019-1028773451
+sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
 type: article
-quality: 0
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.ch
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -69,6 +73,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "6G5EeoFygJHq8cYSC4DgRJik6mzHouGXP6C4gD4vryjRJLkALyVStA/kVH+pUWbmdLmsfjnVIFKx2bZuOr/Tze5hD4fnbm6jN4F+fCKfr4yGpsXzMPnpgqUts0Zrcpyk67w5urCmJNZMMvNhiG2H8M9oH2EzDfywIvOI4f2xW7B7u31ta26JP2aySJSHoImYlKu6VoPCteFic5vXk2sF5W2BmmfdPHZb/swH1hCBm+1ak4Eah2I+qe0hphjs8z6JCXFcZbc/phSaY+CCYQEM7w==;iVR1VzvXIrsPwCcFbE7+YA=="
+secured: "oqIXLXOG9ueqERnKGQznglZWpxJ+AQgfnqMBm77BQZakdY8sdNSfX5oBjnbnHobCBc2e6YqGfDyQQ9fI2U+C6NKNlLwp4iqlvC2qzgLhs6gApLxhY78y4loWZO1seY3Wt0iw5vQfS9fshEWA5A2y4vhY1XPnKVwvI+cJIQzhuBf4SBuwTrQ1IsVNF6TTdAcNYqKyLm1lCd8GvpQYmTwgCmhZJckOCdycCPfR/SZYHCo/8X2+aANGfksJfdmyvAfwdBzAhGRCVDqsiZavfYUPjQ==;kB2H1td8WSlznyFVhq3Inw=="
 ---
 

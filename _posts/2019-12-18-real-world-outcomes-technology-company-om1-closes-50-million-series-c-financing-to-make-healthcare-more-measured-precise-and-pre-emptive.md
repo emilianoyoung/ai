@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
-excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology, OM1 helps customers generate and use real-world evidence more rapidly and effectively to gain ..."
-publishedDateTime: 2019-12-18T18:46:00Z
-sourceUrl: https://finance.yahoo.com/news/real-world-outcomes-technology-company-140000221.html
-ampUrl: https://finance.yahoo.com/amphtml/news/real-world-outcomes-technology-company-140000221.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/real-world-outcomes-technology-company-140000221.html
+excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
+publishedDateTime: 2019-12-18T13:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://s.yimg.com/ny/api/res/1.2/R_DcraI2dxz8tqNpkeNTlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwMDtoPTYwMA--/https://s.yimg.com/uu/api/res/1.2/XeL_PXVU2Q4gRdHjxnCEiw--~B/aD0zMDA7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/bd28b2dfe8ca16e165f5f2261ffa238c
-    width: 400
-    height: 300
+  - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
+    width: 2699
+    height: 1414
     title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
 
-secured: "VmSbpez5X/vGHS5iY9cGGNO8e2WuzYiI6d0wxKyPLD3qdxECmne0Vhd+qyOJ0yVV7RKdeSCVV21Hg2nho1E6lsa8DsZ+0C+C7zpvjfeL90C3knS6DkrQYZBJIHCx6XnDwU15/x6eTFEDojq9JUDYT7xAb9HBVau7vPsmjDMFwrxGczIxuYstY87RNvtW5/yiA5XSjW6Hnsr/doWf4T0AH2zXDhqUrRZt+8M2AWXrfA0JhpR10b3Qb0OUCawPKNqec66mRqq/ZQ9Yssp0QJDtsQ==;68TRRm0hKd+py60oiVF6mw=="
+secured: "8qnC3dvakOkvH9szXWeUnEA4ps8o/ujEQqlwMpQmxgzur1frsAAMKixlfmR2ncIE8zNTGMPfBC+dbJToxynSfI45Hxb6Kx5W+1RvzgMG9QiT9740aQ+qEp41KacXD2U6E7zIm4/OYhpOeiAv6QOl0jUH63vNQ9KJ6turV7d+LIHQUYPbmU+gldcowvBj3o1+fp1FSrfd2MW1EDOUXnEqjpSug/mV5ZnnGZdxTE7JwMyR/cAVEVnXIQg1q0jxh1Eoek5IbsJ6B/RDLDg+ge2xyQ==;7Mi2M362EBr2AcZi6PWZgg=="
 ---
 

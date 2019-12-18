@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
-excerpt: "and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking companies ..."
+excerpt: "AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR) and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking ..."
 publishedDateTime: 2019-12-18T18:47:00Z
-sourceUrl: https://apnews.com/Business Wire/60e424a27ac74faa98c9a67d232b1d90
+sourceUrl: https://apnews.com/60e424a27ac74faa98c9a67d232b1d90
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 450
     title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
 
-secured: "5NtWe4zMhyUt97HIFsR9P/rf/PZ/q6yJOtxaICh+6ZNOwIj5ed23YRJyqEn6auXmROY2bQDKKUu6BROyUPA7YvNqfS3tH4fC0AgQLZUTeVJd2Y6To/OvaFtJNIH9kLCSAHRSWs8FRX1E5ZvHjuAmgFffohIqPMLd4WdjO3vYaRK9pbZAKCgZ4pCBh9cqd8MeoGY8vS/SRmQAGoImeU/ie+tM5TcZLBnGmTKAHvS8mJFySCArTFLN3kQl5yey8G+VJ5GrJhAWOom6W7MN5T6KPg==;xvNM5W7D+1VidZcZKustag=="
+secured: "hFUqK0hC8PWvGlkpEH4sxH80bLGDbrYMDKQiKwFoWFkM4vhQgR2SwJfWDQQyV1SUJ/FtcNwjo9Kh0X0K841zH3WfPiYPCsm/DwiqSb++rGGy0jCXzXsLegs/9Gww5p8afC5fWWCz5GA90ciJ7LRin/l/zQjci6Ocmu3iopjl+djVjqCn+FxPwIUtfFaKWU/VRwihzrUz3jNgZoIjzPqiYGQXjHjOTRFz9OlaYpNDH4oTe9U3fBE1rng1oquJ/amYkgNrGi2hfnueAJBQNlG2Mg==;CbaItX3BpnSublNBvP8Jjw=="
 ---
 

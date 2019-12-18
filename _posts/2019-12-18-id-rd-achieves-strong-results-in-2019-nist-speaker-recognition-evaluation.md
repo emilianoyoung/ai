@@ -2,20 +2,24 @@
 category: news
 title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
 excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-publishedDateTime: 2019-12-18T18:26:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
+publishedDateTime: 2019-12-18T17:26:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/id-r-d-achieves-strong-results-in-2019-nist-speaker-recognition-evaluation-1028773434
 type: article
-quality: 2
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Computer Vision
+  - Natural Language Processing
 
 related:
   - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
@@ -40,6 +44,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
+    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
+    publishedDateTime: 2019-12-18T18:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -109,6 +126,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
         width: 700
         height: 445
+  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
+    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
+    publishedDateTime: 2019-12-18T18:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
     excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
     publishedDateTime: 2019-12-06T12:59:00Z
@@ -200,6 +230,6 @@ related:
       domain: ksl.com
     quality: 0
 
-secured: "KQxZ0Pnioq5Vhr+I/rEbsUR1flxfhUxSLj3qt7k8uQmOQ+AVBu6tagoAOvyG8erE6WPlQ7UJ+lvlg1EZ8EJaAbtKOFQzc5OeL7GIY79WDX9tCXPdSpa22Rz+BxFsotNE3jv4eakcW9Se1VK4p7dB+v4/x9BdIueobTvmjmvXaUjc6T2HbXe+WYqcj4xSENCurMCvhrGowQQFZahTONctbMaCInXI3+ZFLYF5QGYi/d0/fUJgoWpwYhaqzKt2QsCRca6QUzuBoO9oxXFGiee+0A==;PRqIgOT/3TiRnew1eh7Diw=="
+secured: "IuLD1S1fBqdTWB26KsE3Il5dFsOX6jxvQ5nvOECtReK4fwVOH8Ycg3Vx7IFrWchrvBdhKoUDlBZn11ahzYuIm2tWIrN2APgpbU9I5+map2H4e4VBZeE9zbuUlM+1h/wadGi24aqtnuU+h6QvXqWTwlWD+Nw/3ohR7jAAiWA99tF3pAiQbpy89p09xk6A9ZXSGKw6wQjD0oRD5HBUmas4ArezGxpffw8SAL3Hrf3FSaa/Xmf4Cc5LNU1ZMlqRfZey9rty8ANPemRx3pK3UoF/nQ==;Xq2F+g4EecbVNuUJ1kcTKw=="
 ---
 

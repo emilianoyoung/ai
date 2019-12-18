@@ -78,6 +78,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
+  - title: "Self-driving cars: A decade of hype, but what's the reality?"
+    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
+    publishedDateTime: 2019-12-18T18:18:00Z
+    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
+    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
+        width: 620
+        height: 348
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -144,6 +159,6 @@ related:
         width: 700
         height: 419
 
-secured: "r5p13o4B3a4XHHLawWx6Fmn6A2afa7aiMGhHc0AYY0U4jn4ptw29uueAhMe8etAFbcbheabxMafQVRGuXTjASWaYxp8wW6ciH4A75KseEGgaGTQlyCluCGRGqPwHfp2H3wZRsVIWoKpRVVT9VAQYikEl6CXQ/TTHiC/sYOFHXZyxSb52Numrf/7E16ipEpJAU6o8mbzvM6CJAw9QNYm7maExwGUqNP8NYb7TxCLGtfJ6Gn3kuGm1/ftDYk4NSaSTIMMDUMF1+ed4FlOj76PlTA==;zL2YbJKaP//IVsEQawxYJA=="
+secured: "rrOClktKYpCsJaR1eJKh5EXg396CPjmgUbBdfwYyBco5ic1M9rFBuPNXkq1f1ueKUhTzZ1LGIcMf2O94oAOB3dCk82fpwVlKiIRthyt03eYtGWMCASUydjzRA7+BOWna9sGG5+vgIuTMTOBdpwQk3fmF0aiUaus2T7e9hc0xhm3U8UNDd5qLDkE7mWGtTjTgb8lpqdztr3HM4vbfy09wepuv+QydCdUvWRFDgWa8zjHFGn3xOi1qREqHvnOcz6fKyEzfIoR5JMyYcWqQVqGsDg==;1jv91J/VMQwptoIhZ/5imA=="
 ---
 

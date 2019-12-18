@@ -746,6 +746,19 @@ related:
       - url: https://apicms.thestar.com.my/uploads/images/2019/12/18/443978.jpg
         width: 1240
         height: 768
+  - title: "Wyden urges HUD review use of facial recognition"
+    excerpt: "Harris, D-Calif., and Reps. Yvette D. Clarke, D-N.Y., Ayanna Pressley, D-Mass., and Rashida Tlaib, D-Mich., on Wednesday asked the Department of Housing and Urban Development to review policies regarding the use of facial recognition technologies in federally assisted housing. In a letter to HUD Secretary Ben Carson, the legislators pointed ..."
+    publishedDateTime: 2019-12-18T17:58:00Z
+    sourceUrl: https://ktvz.com/news/oregon-northwest/2019/12/18/wyden-urges-hud-review-use-of-facial-recognition/
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
+        width: 700
+        height: 393
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Retrain models with Azure Machine Learning designer (preview)"
 
-secured: "xfEsA2AhMBmHDoIp4vKBf7Ohk9tKhcuNDpHBpgcjmGX8gbZwTtzjrwFA2I3BAkmto0UJTdOevqA7suK9doS2QmCYG6+jDAbEVMZID9ToqJ9hN5tWKTunaaJok0zU7JBbQJ7i9L15dwWjMA35z7QXlEAT5mrboqEaURJ1LqGTFCo0CP0UbrehjG3eYq/dUCeyj+PWkwUT1ntrnv9e0pcoaxPXLo8kVRAqW3afWHHVmbJwv/nXgkOazibWbjliQx124MxTXlmwKWAt6p31b9swZQ==;zDoRrCl3AW4I4VwrRiOwrw=="
+secured: "VjEebDTEpZZywTgbmloWIZs7CkOXGv+RvLRQBuuEEoK/8u8NHjnXXNWrMgMZyZRTpBFxCqWqcxu+51fwNri18PQ1Kkm4Z5JIFxT/xOKSFPJ8Lh/VyqRQgyh5kXy/ZZfaj92+vWW26HtjiwQMaKT8A6raKV28H3kagXiF0+JWta7cZIlerYZw7vA3yYa+BCZghFIBkxZVkpH73Ap+k83hocNQZlshnHiujYb3Ic6I3WXDOJdDg27Lszto+Tu5aiTIeaeJ4rXPunQMSGmkQKNdJw==;h3lMAPvQpAQu1u++M6fkVw=="
 ---
 

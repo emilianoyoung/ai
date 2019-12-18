@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-c
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -24,6 +24,21 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Samsung and Baidu to start production of an AI chip next year"
+    excerpt: "It is a leading Chinese-language Internet search provider with massive cloud and server infrastructures and services. Baidu KUNLUN is the name of the company's new AI chip, built on its advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI. Thanks to Samsung's 14nm process as well as I-Cube (Interposer-Cube ..."
+    publishedDateTime: 2019-12-18T19:36:00Z
+    sourceUrl: https://www.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-news-40640.php
+    ampUrl: https://m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
+    cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 74
+    images:
+      - url: https://fdn.gsmarena.com/imgroot/news/19/12/samsung-baidu-kutlin-server-ai-chip/-1220x526/gsmarena_001.jpg
+        width: 1220
+        height: 526
   - title: "Samsung to mass produce Kunlun AI chip from 2020"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year.IANS | December 18, 2019, 18:16 IST NEW DELHI: Samsung has joined hands with Chinese-language Internet search company Baidu ..."
     publishedDateTime: 2019-12-18T12:46:00Z

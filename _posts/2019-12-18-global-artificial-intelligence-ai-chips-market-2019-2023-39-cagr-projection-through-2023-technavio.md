@@ -52,6 +52,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
         width: 600
         height: 300
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-18T17:30:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
     excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
     publishedDateTime: 2019-12-11T08:30:00Z
@@ -60,15 +69,6 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 0
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research."
-    publishedDateTime: 2019-12-18T17:30:00Z
-    sourceUrl: https://www.finanzen.ch/nachrichten/aktien/global-natural-language-processing-nlp-market-set-to-reach-$26-4-billion-by-2024-rising-at-a-cagr-of-21percent-from-2019-1028773451
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.ch
     quality: 0
 
 secured: "J9rRh4OVptvrFkWK92TWX+a83TjSP9XMy50dKyd8VbyQcoKE4uGG5LPHtIchuCbI67UbA4Qb5AhfTeO+FrszJq6ymBJ+O7CD2OhfkwDE1GDRVq1302+sW/1eVJP1i8TQZW71SxdFhU3bKj9Z0WquPL11VFiT7bx02ggMBLm22gYQ0aNvFraFPnmwc3Rm78qVfeEAjKVLLRz/S1yCxT31ehBoDO+1u6ps1higNbJ2l2xZJmi2siCo3UThlZNXL4jrwgpGA4tn2/oGPTbAaukVnQ==;N6hyzqCVUSC3UZGVTO6JNg=="

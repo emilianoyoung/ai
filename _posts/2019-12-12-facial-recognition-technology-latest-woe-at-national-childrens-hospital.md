@@ -757,6 +757,19 @@ related:
       - url: https://apicms.thestar.com.my/uploads/images/2019/12/18/443978.jpg
         width: 1240
         height: 768
+  - title: "Wyden urges HUD review use of facial recognition"
+    excerpt: "Harris, D-Calif., and Reps. Yvette D. Clarke, D-N.Y., Ayanna Pressley, D-Mass., and Rashida Tlaib, D-Mich., on Wednesday asked the Department of Housing and Urban Development to review policies regarding the use of facial recognition technologies in federally assisted housing. In a letter to HUD Secretary Ben Carson, the legislators pointed ..."
+    publishedDateTime: 2019-12-18T17:58:00Z
+    sourceUrl: https://ktvz.com/news/oregon-northwest/2019/12/18/wyden-urges-hud-review-use-of-facial-recognition/
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
+        width: 700
+        height: 393
   - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
     excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
     publishedDateTime: 2019-12-13T18:44:48Z

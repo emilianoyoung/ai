@@ -55,7 +55,7 @@ related:
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
     publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://apnews.com/Business Wire/bdf8aa8701e44448ad562bd9a3ee942b
+    sourceUrl: https://apnews.com/bdf8aa8701e44448ad562bd9a3ee942b
     type: article
     provider:
       name: Associated Press News
