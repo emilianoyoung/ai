@@ -44,6 +44,17 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72871309,imgsize-159673,width-800,height-434,overlay-ettelecom/samsung-to-mass-produce-kunlun-ai-chip-from-2020.jpg
         width: 800
         height: 434
+  - title: "Samsung is going to mass produce Baidu’s AI chip Kunlun from next year"
+    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech giant and the Chinese ..."
+    publishedDateTime: 2019-12-18T14:36:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK.html
+    ampUrl: https://m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 54
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube TM (Interposer-Cube) package solution. The chip offers 512 gigabytes per second (GBps) memory bandwidth and supplies up to 260 Tera operations ..."
     publishedDateTime: 2019-12-17T23:45:00Z

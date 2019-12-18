@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Finland is offering a free crash course in AI to everyone in the EU"
-excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
+excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and Finland-based tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online ..."
 publishedDateTime: 2019-12-18T11:38:00Z
-sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
+sourceUrl: https://www.siliconrepublic.com/innovation/finland-free-online-ai-crash-course-eu
 type: article
 quality: 39
 heat: -1
@@ -126,6 +126,6 @@ related:
         width: 620
         height: 413
 
-secured: "3QUlH15zojZ4olEp/0iaXKyhUYEOLgCirsm+7qq06JeUPQrtYV/heV2x1dMhd9FkruYMNBHwrlhyRcG5nRJ+lgfgGVxub02xo/k5yJz4pul09LK8JD7kU6X3gRO4qKpswUbfIihIMyX666ACmscteqGWtGQtrqMrWzQzNJVZew6yxj/qy11N2opGtj+v7I2siKowwzrf/JwvUpxnniNfS6zDDd5Md/qw38KNKOgtH6BTjJ4lzM00+fv2vl7P78pA5u04/awgES3U6egpsDG6Zw==;Wq68iXVw71O7JIYtnvC2aA=="
+secured: "edV4gnnpcYZYaWQVaJ/kQHLTdYgiNaCfwhal7FlAk5FNav5cigoZxsgPxd6gigJzSWUqJXo8lXLecslzQYcR687u9emQLFsVA3RRPfJk0FR3cZtcy2DlYePmcotA6fpbT69RG2YiqbzBU4BbUWpcBWM5tJk4qXHRY23w65C33i+4UtCaM+l+BeTSFvMZ34lNeusS0kQEoqhhi+Vpxsz6BdDsZOfYQ6aGZbBh9PFildsRmkLDvkdXmSifXw/9ybZ9lLkh3o0Lmo94jhkGi/zMvw==;xZCn6IaQ4dqe3ctp1CrcBg=="
 ---
 

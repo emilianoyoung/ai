@@ -71,18 +71,18 @@ related:
         width: 700
         height: 365
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added to ... Incisions to Improve Healing Preventing Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing Implants Made of Continuous ..."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
     publishedDateTime: 2019-12-18T12:30:00Z
-    sourceUrl: https://www.thedailytimes.com/business/latest-innovations-in-wound-care-ophthalmic-devices-and-artificial-intelligence/article_be77a94f-8cab-5038-9033-fed83c0a88d8.html
+    sourceUrl: https://www.businesswire.com/news/home/20191218005410/en/Latest-Innovations-Wound-Care-Ophthalmic-Devices-Artificial
     type: article
     provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
     images:
-      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
-        width: 600
-        height: 600
+      - url: https://mms.businesswire.com/media/20191218005410/en/371054/23/ResearchAndMarkets_800px.jpg
+        width: 1200
+        height: 627
 
 secured: "HsL4cDp1MxVkRikeCSp7H539shsK10h2tCfperNhvGfiuT4tZIAwaGYzt5l0f2e+dak7hHjeauYBsIefDw8JERQMYRKMqkoow+3OJlbhMnvCs92nnWKdAU03+3Yz7mfBcocOdFdOAkArjce6JqzErLhecW4lBxZ3HX313Kx4Lnh8GTuhdBHe7m3ykJmKkFRCv9fr3wWemUy41DUrgqUCq3JiPk3hJxf+17IGr6zLeNj1U89aBUM9N5/XSeTuQFFhezzZxvgbec5gDgdMAwnvNg==;8MOMD7BNw+g2xOTie5Ineg=="
 ---

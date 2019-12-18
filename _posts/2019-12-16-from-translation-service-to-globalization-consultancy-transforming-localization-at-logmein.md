@@ -89,6 +89,19 @@ related:
       - url: https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/998768.png
         width: 600
         height: 600
+  - title: "Tilde’s AI-Powered EU Presidency Translator has provided more than 1.4 million translations for the EU Council Presidencies"
+    excerpt: "Finland's presidency of the Council of the EU has set new records using customised machine translation developed by the language technology company Tilde. In less than six months, Finland’s Presidency has used Presidency Translator more than 600 thousand times, translating over 12 million words. Tilde has already supported six Presidencies of ..."
+    publishedDateTime: 2019-12-18T11:32:00Z
+    sourceUrl: https://www.baltictimes.com/tilde_s_ai-powered_eu_presidency_translator_has_provided_more_than_1_4_million_translations_for_the_eu_council_presidencies/
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 13
+    images:
+      - url: https://www.baltictimes.com/media/photos/146888_15356388205dfa082d396cb_big.jpg
+        width: 855
+        height: 570
 
 secured: "eDTQ6S4v7IWJUFqTua/TgJltDdBYF6X4H85gjmckDjei+etwyDU9slYlaQpel5RI8yRtlof//iy7vABaqKqOWml9VcwJN2qw8IFgQaQGUoPYGNO0nyYbM2scZWO56+ewXTTAiOMQHQc0QfymYwaWPs7hdO2HtvkgFYXIga1M8uiuQblhqj4fxaPM3kHIq5Y/SsYEjDTOKGPREYCm/G10EQAScSWRvWp4DvPIijE6fl35gqGdIBimApObOPMwYOY7Y++7D5xSqxSTzb9T1Qj5WA==;Fk0lqY08xaWH6ds5dkiqvQ=="
 ---

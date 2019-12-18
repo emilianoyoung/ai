@@ -50,6 +50,17 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72871309,imgsize-159673,width-800,height-434,overlay-ettelecom/samsung-to-mass-produce-kunlun-ai-chip-from-2020.jpg
         width: 800
         height: 434
+  - title: "Samsung is going to mass produce Baidu’s AI chip Kunlun from next year"
+    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech giant and the Chinese ..."
+    publishedDateTime: 2019-12-18T14:36:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK.html
+    ampUrl: https://m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 54
   - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
     publishedDateTime: 2019-12-18T12:58:00Z

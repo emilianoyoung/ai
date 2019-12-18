@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-ti
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Are Robots Ready for Prime Time?"
 
 related:
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-18T14:30:00Z
+    sourceUrl: https://www.clarkson.edu/news/clarkson-professors-receive-robot-continue-human-robot-handover-interaction-research
+    type: article
+    provider:
+      name: WTSC-FM
+      domain: clarkson.edu
+    quality: 31
+    images:
+      - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
+        width: 480
+        height: 320
   - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
     excerpt: "PAYSON, Utah, Dec. 17, 2019 /PRNewswire-PRWeb/ -- AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME's face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify ..."
     publishedDateTime: 2019-12-17T13:17:00Z

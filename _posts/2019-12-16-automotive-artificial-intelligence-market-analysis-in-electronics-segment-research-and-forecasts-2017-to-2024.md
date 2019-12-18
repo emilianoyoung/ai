@@ -334,6 +334,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
+  - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
+    excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
+    publishedDateTime: 2019-12-18T15:11:00Z
+    sourceUrl: https://econsultancy.com/b2b-ecommerce-in-2020-from-voice-and-predictive-analytics-to-pwas/
+    type: article
+    provider:
+      name: Econsultancy
+      domain: econsultancy.com
+    quality: 24
+    images:
+      - url: https://econsultancy.imgix.net/content/uploads/2019/02/21141015/ecommerce.png
+        width: 1200
+        height: 598
   - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
     excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
     publishedDateTime: 2019-12-17T09:58:00Z

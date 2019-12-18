@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
-    publishedDateTime: 2019-12-16T18:07:00Z
-    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
-        width: 640
-        height: 427
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z
@@ -149,6 +136,15 @@ related:
       - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
         width: 700
         height: 419
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-16T18:07:47Z
+    sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+    type: article
+    provider:
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 4
 
 secured: "dig0QMVDTkZN1OFvJCIn/chIAWblQtohXY7NkpVfFT9HLbnJp5HlMYHadyB5C0rvmXJrZngYgX+dtzCN5rzEmD5N9a1TJHKySWDZBPgAhQVECyMxNLepldkQ+lscarm/xs1+cKrV8KgdVwjhdhsJyq3+Phx1i4/ZO5eooxOQQe8mEU0gwDcB0lx4Z5wp77Ha8Af7aV6ZkbYqOYjoliIk/qDUsG8eM4Q3/OlMeoPpiWcOou1YaPOeknU4pOz3DJLKpDMt8E27IE+Da3qymyhQjQ==;MLWOaSfJv6M0soCj7vjckg=="
 ---
