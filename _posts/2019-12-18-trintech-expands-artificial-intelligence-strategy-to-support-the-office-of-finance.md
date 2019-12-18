@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intel
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
 
 related:
+  - title: "People’s Republic of Fintech"
+    excerpt: "She continues to explain that the newly released plan emphases on the importance of using emerging technologies such as AI, big data, cloud computing, virtual identification to empower the ﬁnancial services. Fintech is encouraged to be used in achieving ﬁnancial efﬁciency, risk control and effective regulation. “The Plan indicates the n ..."
+    publishedDateTime: 2019-12-18T10:22:00Z
+    sourceUrl: https://www.legalbusinessonline.com/features/people’s-republic-fintech/78785
+    type: article
+    provider:
+      name: Asian Legal Business
+      domain: legalbusinessonline.com
+    quality: 24
+    images:
+      - url: https://www.legalbusinessonline.com/sites/default/files//styles/inline_images_style/public/02-Mar-2019-600x400-4.png?itok=LAAMi29C
+        width: 600
+        height: 400
   - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
     excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
     publishedDateTime: 2019-12-17T21:59:00Z

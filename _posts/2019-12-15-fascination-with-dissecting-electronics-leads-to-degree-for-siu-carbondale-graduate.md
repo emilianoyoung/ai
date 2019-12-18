@@ -27,46 +27,18 @@ images:
 
 related:
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-17T22:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
+    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
+    publishedDateTime: 2019-12-17T23:45:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005229/en/Baidu-Samsung-Electronics-Ready-Production-Leading-Edge-AI
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
+      name: Business Wire
+      domain: businesswire.com
+    quality: 42
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://mms.businesswire.com/media/20191218005229/en/763485/23/Baidu_Kunlun_chip_03_final.jpg
         width: 1200
-        height: 630
-  - title: "Are Robots Ready for Prime Time?"
-    excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
-    publishedDateTime: 2019-12-13T17:00:00Z
-    sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
-    ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
-        width: 200
-        height: 200
-  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
-    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
-    publishedDateTime: 2019-12-11T10:13:00Z
-    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
-        width: 612
-        height: 355
+        height: 627
   - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
     publishedDateTime: 2019-12-18T09:48:00Z

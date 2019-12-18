@@ -93,6 +93,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Deep Learning Market to Grow Based on Increasing Applicability in Automobiles & Healthcare Sectors Till 2025 | Million Insights"
+    excerpt: "Growing applicability in the self-governing automobiles and healthcare businesses is likely to add considerably to the progress ... It could be credited to augmented investments in neural networks and artificial intelligence. The greater acceptance of pattern recognition and image in the area likely to exposed new-fangled openings of ..."
+    publishedDateTime: 2019-12-18T10:26:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/18/9071526.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "cqRFIfX43zg5sw16Zt6VTfGkHar5KGary68YxvGwx6X+3ppPwTre8zyaOE2wIf++X4Tqffznee+P0/JdeDC4wwRW0hVRNW8SqNHm5iNqG2HYdv67Ousx4vGXIePiDfL//yjmh99c3WUAooGYP3Zar1Y1/1jT04AcCrONYIRgrkqSM+me6583ADbsGpQ0xIRLRn/6XohtU3WvKiSfFbXdtx/Y+5szXVKm6zuKpBB6DwGkkIDSGsQP686/V+PuKxnGbNusJyf96RAX2inH+cGgbQ==;n0V6yUl0rp15bR+9aEyebw=="
 ---

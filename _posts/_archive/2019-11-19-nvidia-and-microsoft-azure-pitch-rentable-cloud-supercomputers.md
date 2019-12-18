@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "NVIDIA Announces Scalable GPU-Accelerated Supercomputer in the Microsoft Azure Cloud"
-    excerpt: "NVIDIA has announced the availability of a new cloud-based, GPU-accelerated supercomputer available on Microsoft Azure. Built to handle demanding AI, machine learning and high-performance computing applications, NVIDIA indicates that their new offering ..."
+    excerpt: "All NDv2 instances benefit from the GPU-optimized HPC applications, machine learning software and deep learning frameworks like TensorFlow, PyTorch and MXNet from the NVIDIA NGC container registry and Azure Marketplace. The registry also offers Helm charts ..."
     publishedDateTime: 2019-11-18T00:00:00Z
-    sourceUrl: https://www.storagereview.com/nvidia_announces_scalable_gpuaccelerated_supercomputer_in_the_microsoft_azure_cloud
+    sourceUrl: https://www.embedded-computing.com/news-releases/nvidia-announces-scalable-gpu-accelerated-supercomputer-in-the-microsoft-azure-cloud
     type: article
     provider:
-      name: StorageReview
-      domain: storagereview.com
+      name: Embedded Computing Design
+      domain: embedded-computing.com
     quality: 47
     images:
-      - url: https://www.storagereview.com/images/SC19_Microsoft%20Azure.jpg
-        width: 850
-        height: 478
+      - url: https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5df9082743e3a-EL6oxqmXUAAC0be.jpeg&size=1&version=1576601649&sig=0d5c87908427813cd0eb527a07b3e395&default=hubs%2Ftilebg-blogs.jpg
+        width: 500
+        height: 272
 
-secured: "vHm+lo+IlWA4dyx+B0uyNsQ49GR9WzckGp6d5NAR22pwesBAhmIuaXOHspZ5QRzb7EdHePZeFwhKTiKvo/0RV/udAWfJ5VGZuoObEiC8RDOa6FYZVXXVOemc04FGhx98f5Zt6DaBuapAMAadqu5z+wZsRRZlK1eFiXYG8exxjaYAVOqQDgtdSL9lFT0/3do0Qn53VQ/5/gQC4JxnSEGLmDsVBcUH12aPrTE76R+K8/cB7dSkAMWp8PLkRbQKEnmqnyMmhhg0+sheYtk6zWTxQA==;VASieT1h1+hgh/2Zp2VBzQ=="
+secured: "X3hc5z6c1b3NZqQy4C7UzZnQBKSmA1Bi59h2AvCziyyAYJHu5prz3mPN9g3J+BHrullSWRCKe1H4lckLx/7lcFgb7bjkMMvCMY+jY5pIKiC3broYrYvArfHjg44qQTIOq4ec5rLzZHudhT20siUW2fBBR5kqAmXTCuwKSyiT27cO4OtQV/3MZuXs/tKnS1KrwosLHnIo2r6bxvBFfhfPMfqZZaSaEPb7WdIdhapZti+8TclYLmkFA6ZTZyx02XJ8zVxD8fWwMPugkUS2+njp6Q==;vYMYpt4gpQZgAlvfEW/ljQ=="
 ---
 

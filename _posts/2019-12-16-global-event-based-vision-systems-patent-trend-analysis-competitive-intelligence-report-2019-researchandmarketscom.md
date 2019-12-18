@@ -37,6 +37,17 @@ related:
       - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
         width: 700
         height: 365
+  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
+    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
+    publishedDateTime: 2019-12-17T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/2019-huawei-ai-analytics-software-135600856.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
   - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
     excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
     publishedDateTime: 2019-12-17T17:44:00Z

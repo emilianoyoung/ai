@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T08:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Deep Learning Market to Grow Based on Increasing Applicability in Automobiles & Healthcare Sectors Till 2025 | Million Insights"
+    excerpt: "Growing applicability in the self-governing automobiles and healthcare businesses is likely to add considerably to the progress ... It could be credited to augmented investments in neural networks and artificial intelligence. The greater acceptance of pattern recognition and image in the area likely to exposed new-fangled openings of ..."
+    publishedDateTime: 2019-12-18T10:26:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/18/9071526.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "aV6hc1o3+4+JeIed1JyHxvFWtuu0gE2363DOjEemw6gZJxwndPFIz9mRAdd+5jh5c9ggm53Kl3GVlOtY1KAV8EQCAH47rUia+4+8K0XNqh/kc+e/m9UW+STDZqdhFDS6k3a966rBaBebChfSFIseE8zpgh8bjxsvq294kPUxwHd6nsyWwLl1lCy9IZzNOPvjmMkVppyzPirLIt8kvHjFqEIpLOy/IsBoE/YAYMx+c5/XZ4ssZem9BZzANkN3R7I5HCVUXuHspl4ADwJxTRQL2w==;0xOQTGV756SNBSAcPuq/IA=="
 ---

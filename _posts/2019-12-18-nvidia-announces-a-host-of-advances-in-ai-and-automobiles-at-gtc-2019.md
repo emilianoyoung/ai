@@ -7,7 +7,7 @@ sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances
 ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
 related:
   - title: "eBay relaunches Motors app with AI and automation at its core"

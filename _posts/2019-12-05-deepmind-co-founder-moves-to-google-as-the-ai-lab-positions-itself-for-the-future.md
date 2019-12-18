@@ -2,22 +2,16 @@
 category: news
 title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-publishedDateTime: 2019-12-05T18:58:00Z
-sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+publishedDateTime: 2019-12-05T18:58:47Z
+sourceUrl: https://www.msn.com/en-us/news/technology/deepmind-co-founder-moves-to-google-as-the-ai-lab-positions-itself-for-the-future/ar-BBXOWMc
 type: article
-quality: 99
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -104,6 +98,6 @@ related:
         width: 700
         height: 367
 
-secured: "OSW9UauGLIBXbXVTFzJAnA+prqHMeGiAdGWxTsPem7zk80prnZzFOBmOl3vGEwbt70KAleNTH75hjFlOOI1AXVlfqvq9P3IPt/u8IOqzRUgM6QRKN1KRgdHChnYzMxWO/E6VHTWMjRQ/LX8x9O1vbxS23YvNutpvc5NHjh6xqJl9RQxFA//bkhY6v1Ws0cQaiJWWB9H2YfBoJ1GvjEHUhs1U03tMxZ2OKOYqI3eP+Lr0Bp0UZgSKK0gvrNtjeFdl87FJ6L15ftsCp2BKlhk5KQ==;R+muWVb9v3Ytpb0DixXo6A=="
+secured: "4Z2xqftClEUlASebn/kaHzqR9z+VPghnE9SmlEquTbk6WM/InslQJFw0KJFkQeNlKHYhTR8RKqqF+vCGwgNwyr8m2rH9pho/ZM2MPylvVe7QyfL6Ta11ZTKHaoCYyr4TPPJdpdir+QQQ6fEZveCkykm4eTyKpkKNEyXomnDLTg6eShzowTHDxWoV273wOpC0pvD3sTlq68yuKkskz9Km+FrLAdMjkQmN8NrOGu8SeBkhhSSIiUodgV/3VVH8TQisbvoIBQPMfA+BuEBWMvA1yw==;LssQbcQkEEqI8fSuQQbXYw=="
 ---
 

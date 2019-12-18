@@ -49,7 +49,7 @@ related:
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 69
+    quality: 71
 
 secured: "oqz3/ftOQ7ktWffPzeZlD+NkWpBlhMZUuOMOhIG9+91uD3c2SeItDBP7Dq2zT69NGz8fp37kUy4HBODWUtEuETkHLosXatPyQ7TEgyZc0wsEHEIFQ6c6OrIQWVme0oISZutd6QAdHBARtauY6hMTsopJWuyattlTJTBuenjWcKI0zJhATgGUkMiCkH0NZ2o7E9rHJm7b9nnCvSXm4ga8LRnyHpTq5+LlFpqkujNER9qDQzkSjWUrhp7w9d7/d4ZOic3CGs5486xc6OPTcQWQ7g==;RpgUvLwxFgLnLtMD9mHCGw=="
 ---
