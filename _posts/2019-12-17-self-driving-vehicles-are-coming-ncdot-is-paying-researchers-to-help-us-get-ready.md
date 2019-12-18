@@ -54,19 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
         height: 367
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
-    publishedDateTime: 2019-12-17T16:11:00Z
-    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
     images:
-      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
-        width: 800
-        height: 600
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
 
 secured: "9QI2PW7vc+3lqYmMY74Ppc6jvXhALZyNwjHp6xdBj0QXqHLOSjSbh68FDD3blyvpExVu8aj+KWlfAuemDJWSxjeCvE/9PFfsQIH2fZFPH4n4cEpQ5HmBtVzLZpt/B3HMq/gRbxAnMuyO+80a2AKqCe720UPX68u/U70QckSg8HC/oOtMZnjoZuNLhBf2dHeWhWqa1jIRor2m5oUXfnr4lYnxcphoW75ZMHsQQVSX6z8pICoVmCl94QHAeNMNWgtGTk8MItcPAzXO/XZDHPpK7w==;P8DkIWlC0ZXGBDVINb4omQ=="
 ---

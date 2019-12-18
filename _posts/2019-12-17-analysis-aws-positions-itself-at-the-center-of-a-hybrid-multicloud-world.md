@@ -5,8 +5,8 @@ excerpt: "ETR’s data provides “net scores” for AWS across several of its m
 publishedDateTime: 2019-12-17T16:19:00Z
 sourceUrl: https://siliconangle.com/2019/12/17/analysis-aws-positions-center-hybrid-multicloud-world/
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/reinvent2019board-1.jpg

@@ -56,6 +56,21 @@ related:
       - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
         width: 1200
         height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z
@@ -162,19 +177,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
         width: 668
         height: 355
-  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
-    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
-    publishedDateTime: 2019-12-14T14:02:00Z
-    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-234200164.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
-        width: 400
-        height: 229
 
 secured: "Mymor8o6D7mzNp/PUezKhr61VsHGVFgQ+N+DD6eTU3cMPco6DbrbK2i4CWf/Zk4/9iW6KSQsl+vwTsvhkhAVbe8MYmFiWBe3wYP3DwXbJb32CDoMojk0O5tvgZnj2kg90XgkHgmWFAyDLK7+w63WKsjAZ21YpAu7l36neTK1BJPxMxXcB4J1LoJj1e6E91UKJ2vmv7RDRmdMyxwBRRqoxWEVI9M9nIjXi14xwPdp+WeSEAatkhUJnFcbIhOn7etgFQbMg2qS7gGcdcaaSsl1kg==;MbP7sDKLOy7flB1Sr+ukpw=="
 ---

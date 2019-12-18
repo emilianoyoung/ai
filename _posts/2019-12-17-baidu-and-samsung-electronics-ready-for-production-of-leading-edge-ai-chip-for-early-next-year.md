@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
+excerpt: "Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube TM (Interposer-Cube) package solution. The chip offers 512 gigabytes per second (GBps) memory bandwidth and supplies up to 260 Tera operations ..."
 publishedDateTime: 2019-12-17T23:45:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191218005229/en/Baidu-Samsung-Electronics-Ready-Production-Leading-Edge-AI
+sourceUrl: https://www.businesswire.com/news/home/20191218005229/en/
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,31 +24,31 @@ images:
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
-  - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
-    excerpt: "It’s one of two main languages used for computer science for his project that involved Speech Recognition, Natural Language Processing, and building an application with a Neural Machine translation backend that converts speech and text from English to Spanish. Bickham noted that students have numerous opportunities to utilize faculty and the ..."
-    publishedDateTime: 2019-12-15T00:00:00Z
-    sourceUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.html
-    ampUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
-    cdnAmpUrl: https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
+  - title: "Samsung to make Baidu's new AI chips"
+    excerpt: "Samsung Electronics has partnered up with Baidu to produce its new cloud-to-edge artificial intelligence (AI) chip, Kunlun, with mass production slated for early next year, the companies announced. It is the first such partnership between the South Korean tech giant and Chinese search behemoth. Kunlun will be built on Baidu's own XPU neural ..."
+    publishedDateTime: 2019-12-18T01:27:00Z
+    sourceUrl: https://www.zdnet.com/article/samsung-to-make-baidus-new-ai-chips/
+    ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
     type: article
     provider:
-      name: The Southern Illinoisan
-      domain: thesouthern.com
-    quality: 38
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Samsung to mass produce Baidu’s AI chip Kunlum next year"
+    excerpt: "Seoul, Dec 18 (IANS) Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset — Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech ..."
+    publishedDateTime: 2019-12-18T08:31:00Z
+    sourceUrl: https://newsd.in/samsung-to-mass-produce-baidu-s-ai-chip-kunlum-next-year/
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
-        width: 700
-        height: 394
-  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-18T09:48:00Z
-    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      - url: https://newsd.in/wp-content/uploads/2016/05/xnewsd-story-banner.jpg.pagespeed.ic.GMmBD0Nba3.jpg
+        width: 1080
+        height: 582
 
-secured: "qvBlJ31W9tb/Ne4dr8EubGcETLpsvEcTRi/yULWHSG1iar/7noHGgXw9qZ+Ien5QqZoUcUtUKfdyTaIBzfzpGkjXSlfu8zANWGNI6ZsV72UnIKKffOCfMXgfRUMHu33+G4FkC2bVJaMN6TKzJvzMvCHUoaBlE2URKilFt6mSsmNFg61mR//G7IHWCO3pyin7h5kUjxXuQmlHkm+8Cl/+xAaz+aleubcebU+LE29qFHsD5CcTWOIuPf75lVa2L00GFOwb3+YfZo1vEbi4Z1Tg1Q==;LbIFvo0hSMaOGXX+lFEjLg=="
+secured: "0x+ObP768OCBGRAh2v61ujstHzXJeIM+uSypMwVbvENbR+NHalLeVBbOYKASKg7uhqSqjeXdJ6o33nvRFINw0X3l83xMlm6mgKnD5+IZWua3yM+S2sNe6rgpf+EXCkP1PtrzX7Q7OZtf/GgEntVh5P3crWn/ssEmMj9wzcEgoxzSkHakBa31e6+crlyob6kbdRWWNB/Qj1pvFCLc3alRIizTRcQkQYc5o1IfuvtLQ1QzuT+MJQY/+EsWuOqAJkl+UXTPzuuRl+s/EMmLnFhdmg==;qWHnewWeS0aobI/CP4RNWw=="
 ---
 

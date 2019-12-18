@@ -48,6 +48,19 @@ related:
     quality: 84
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-28T00:13:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
+        width: 700
+        height: 554
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
     type: article
@@ -56,6 +69,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "SRBhaFLWiidUZPwqOAMu0TBFqZvmMwPrLo72Fw42/LyXGfCHugj6QShpad9BHOimF+cyQJtR5pQek5bcQBvkMdpNlxfZjys+tTxqAXlp46adqJLJWEqlVPNbyt59xpPOHFOXaDULoCMK5gKNsNMoMgENctVz1F3jbrppIfW4P13o8N4l00ok3nMBAgSQs6zjEbHxwqDIt4wbQO3L7c5x3XZ1CM+fdiJllBuMk7+32hdWq0Q9BeIvy5yU7jLn2zu3UFt28AXwS52i1VY4quIifw==;4cid6bhcNa5PIyObNZnnqQ=="
+secured: "dUVmxQY2BEa3aQ90Nr6lxwdAy3Uv/x8vuHxip3g77WtG6nfCrZ50kURFudxA0hfl3kz/1Q4FuNb+Ctk2M0lLC9jB4p7hJQU9/Nn8vIE5DmIpQODYFEY933+zWN7ZamVP7QgFAyDsXjSviFoTA5FEUen9L1igEiH+ftzMU6nxzhluTCswsMWDzQgMgrjf8psW2k/a6XkElqLuLHy3GwZYBlZ6frB1s/Hw4g2y3lrXVq4nRaf9QDRR7bAWPfh4BEyX8nB2RWRyAND3Wctn5G2qwg==;cba/R6kUxHa0b9swQIwvwQ=="
 ---
 

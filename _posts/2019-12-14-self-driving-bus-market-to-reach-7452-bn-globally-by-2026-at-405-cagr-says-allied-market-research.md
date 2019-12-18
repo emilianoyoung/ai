@@ -104,6 +104,15 @@ related:
       - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
         width: 400
         height: 137
+  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
+    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
+    publishedDateTime: 2019-12-18T11:01:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 1
   - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
     excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
     publishedDateTime: 2019-12-17T13:21:00Z

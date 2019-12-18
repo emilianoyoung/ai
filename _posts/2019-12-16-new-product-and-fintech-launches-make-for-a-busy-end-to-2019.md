@@ -37,6 +37,17 @@ related:
       - url: https://www.bing.com/th?id=ON.188978F89F800531315AACDE7CA79DAF
         width: 700
         height: 466
+  - title: "Saudi Fintech startup Lendo set to unlock invoice financing for SMEs launches at Arabnet Riyadh"
+    excerpt: "Lendo is looking forward to further build a robust credit scoring engine that will employ machine learning methods and AI based underwriting capabilities to pioneer Saudi’s FinTech industry in P2P lending. Lendo (Alsand Alraqami Ltd.), www.lendoapp.com ..."
+    publishedDateTime: 2019-12-18T11:56:00Z
+    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Saudi_Fintech_startup_Lendo_set_to_unlock_invoice_financing_for_SMEs_launches_at_Arabnet_Riyadh-ZAWYA20191218111345/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20191218111345/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20191218111345/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 12
 
 secured: "3rnmWD/hc1tqEpd+hsCpiYOl2JpZMGkA0Bhsc2gg2JkAIeGR547QAgxqkl90V4ytPzJmP8LwDQqF8OvDnzt4AdFqpGYTEtD4W+oOp7EkDh4K3ohS6vP06O4eReEp1n6flgT0aUKwbNcyyU7hZvwKsh+F/cK0SU6F1RWaG8mYgmwR11swaiJHLlPzIW6odC8Nh6gIhIJW83Y52Dl/P12tXv1YRJdTFgT+tLe76AzlgYKgCkSgxCLxd+RoQwV3Wsgj1X6MGffUiCh9hG2OBR/aKQ==;obV2grW08OVsC9pBNMM9wg=="
 ---

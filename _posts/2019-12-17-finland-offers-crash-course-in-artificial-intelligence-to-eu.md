@@ -3,9 +3,9 @@ category: news
 title: "Finland offers crash course in artificial intelligence to EU"
 excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
 publishedDateTime: 2019-12-17T13:26:00Z
-sourceUrl: https://abcnews.go.com/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
-ampUrl: https://abcnews.go.com/amp/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/finland-offers-crash-artificial-intelligence-eu-67774200
+sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
 type: article
 quality: 57
 heat: -1
@@ -69,6 +69,6 @@ related:
         width: 1200
         height: 674
 
-secured: "z0ov3zJkTyIRZdRPDpn4MdVq41qnsMqFqiU1gPkq4aM7sf6i+9PZb1Kv2tLoi6y+cDn3+ZbXW9CUFbivRkzNHVLqTOiRSRNcm87GVxmN3MRKBW+Tb65udB51NLX3hw/IloXHYfTyDviojIAELBajZwZq5obFB0EKEG3aq4I7IhhtjCHEnwC5cAp1/Wc0sJQ4b9zyykARGqexoP9HphnTrAMymM4Jse+8roLDytkyMnqNB0WsWYPyjeWLk2x57ceVemJVNTueHIDS4acwNNEkXw==;i7GUIjdyn9Prt6i1iEiwsw=="
+secured: "fXq3D290R4Y5TdvLQeLs8X39QhFQaVLnfd9CNWL6boerEB2Umkonztr0A5tnSTGEklzSEXFr3/CwcwKLqmrdQfw+xCtz3QTR5JxYrQ2Tob96WqwIa5VlJTF9FZ1Grn8zwvDS/irSGCB7yJGIY6vjUC5nciK+ca/8eWhxamHDT1BNKXvg1AzGPAz7tta15yxvmjYdSFYYBoMhzhJRXoUZ3qQUv7x1sF/VC/nF52KQzpnPAS5Atasx4X3rMEB0Wti0r6K1uVVAW2LZxz1NUcsQag==;Czq76o5oCGRn6IdYwrDhiQ=="
 ---
 

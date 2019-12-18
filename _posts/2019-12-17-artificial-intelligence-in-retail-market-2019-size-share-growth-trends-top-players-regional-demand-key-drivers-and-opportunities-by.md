@@ -110,6 +110,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
+  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
+    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
+    publishedDateTime: 2019-12-18T11:01:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 1
   - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
     excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
     publishedDateTime: 2019-12-17T20:44:00Z

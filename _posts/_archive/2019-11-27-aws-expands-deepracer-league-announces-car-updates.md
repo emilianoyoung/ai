@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
         height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-28T00:13:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
+        width: 700
+        height: 554
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
     type: article
@@ -58,6 +71,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "dp1ih4fSyiuwWNBVpYLTfGL5XYNxPtw0EFY6qfiFyt7no2uCcVa+9CwfqOEQHNnaYnPAxUk3q040lklvNnY3jDT9K8/FLlidLROUUGdWduVYvzqxEYnUg7fYyYvWC+ktzgAloZ/ZNd6DW1NABuiERIllCPbKbYjdxdGIHVejZ8r0mcGDMu5NwMsIrVK0zW9vaVWHBvAmaoElkDmhFjUXSqMqRDJdPlgPy/+/ZiuSFLcvWz8x3CeJ3B2b+ftLPLogeL+sXAw7kUUl0fiM7eGokw==;7wDqjzNv1/7DhQbnA/frNg=="
+secured: "Dc52TnSrgFbSz1ze0nSROnTqxstTXJ6p2Kyv6wPqbnr6ayj2zaMC51zB27qhjI0tJBS317DjNCKhExdQCIH8+LCfQ7PwSahfaA76CGm+pm5s9QqEM0vEJRh73kY/gwaXArA5FQlmVZ+Q6J2/JGSWV55kYd4mQvFNIl8p29PjsGBt0lRTnVp6MbinYxYzJ933GBBfyuWsj3ajV8ZChGdbwna8t6a2JqPitIUf1s40Gxr597aRftnb0Vt9uoAmpndI3zlLM1qhbdiXfe2l3IwMJQ==;j29vfTgmsdSeVfMQFAPQOQ=="
 ---
 

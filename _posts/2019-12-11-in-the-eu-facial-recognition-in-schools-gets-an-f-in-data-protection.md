@@ -873,6 +873,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
         width: 700
         height: 366
+  - title: "Nets trials facial-recognition payments"
+    excerpt: "Under the tagline \"Hungry? Face it,\" Nets, a Nordic provider of digital payment services, has launched a pilot testing facial recognition as a payment method, the company announced via a press release Monday. Around 1,000 people — all working at Vibenshuset, an office community of 25 companies in Copenhagen — can sign up to participate in ..."
+    publishedDateTime: 2019-12-18T11:03:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/news/nets-trials-facial-recognition-payments/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.BAF8E0C09CABB09C650896BE35960705
+        width: 300
+        height: 170
   - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
     excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
     publishedDateTime: 2019-12-18T09:18:00Z
