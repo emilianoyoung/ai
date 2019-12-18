@@ -25,17 +25,19 @@ images:
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
 
 related:
-  - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-    publishedDateTime: 2019-12-17T16:50:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
-    ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
+  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
+    excerpt: "MELVILLE, N.Y., Dec. 16, 2019 /PRNewswire/ -- Nikon Instruments Inc., innovator of advanced microscope systems, today announced NIS.ai, a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
+        width: 400
+        height: 142
 
 secured: "abQJc4IQLVj7DVC9Hkq269obfu3VVhe33EkCaHya4m7SmBSf7InyOf1biYAg+YmHcrkjGjaAmAycVauPSnNg5S26O3x28JOCAvY3OooE/ur/SiOTpp+6IWc/IiJIA+L/z01m3p/K1upMe02nP+7DnqpcM+FsCtvU9HBG80BSUufds36gNHsSme1iM35FneCj4fZ3ceeY8hdPYdoLT0K40QJaEDVE6KiNk8FNEHP+a/VwV9wv5LmRYCmsGqJg9u2sisYfhYwxME5oGUpqhi+f9A==;gH1xS9e8+pJTVz5JpxRIqg=="
 ---

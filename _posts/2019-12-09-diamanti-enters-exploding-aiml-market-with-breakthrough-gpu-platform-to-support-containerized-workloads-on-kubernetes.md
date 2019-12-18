@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Diamanti Enters Exploding AI/ML Market with Breakthrough GPU Platform to Support Containerized Workloads on Kubernetes"
-excerpt: "LAS VEGAS, Dec. 09, 2019 (GLOBE NEWSWIRE) -- Gartner IT Infrastructure, Operations & Cloud Strategies Conference -- Diamanti today announced the availability of the first enterprise platform with GPU support for running containerized workloads under Kubernetes, ideal for the demanding requirements of emerging artificial intelligence (AI ..."
-publishedDateTime: 2019-12-09T11:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/diamanti-enters-exploding-ai-ml-market-with-breakthrough-gpu-platform-to-support-containerized-workloads-on-kubernetes-1028746988
+excerpt: "In conjunction with its recent announcement of Diamanti Spektra, customers can now provide to their end users GPU capacity in cloud clusters for scaling AI/ML workloads on premises out to public clouds to accelerate model development and training."
+publishedDateTime: 2019-12-09T12:04:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/09/1957786/0/en/Diamanti-Enters-Exploding-AI-ML-Market-with-Breakthrough-GPU-Platform-to-Support-Containerized-Workloads-on-Kubernetes.html
 type: article
-quality: 40
-heat: 40
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "sJrrxEMANg0PTIlpvyUH287/XN8QXX4jSw8FkA6+f49i6EbzboORKNPjCmR9W6qtwDRpN02LwlhHHHAKyo61IeIepn8CqNcTGMpkIs3X0qZsuTqMjfME+mvmnAyXSPYxbC9eMKCVZyzTIUDWEOdYonssAinT4e4zPZPz6AC4dmL8D//+Rl36YVGlCcHF6yKMeX2rpdcY1duHhYzYcJ9Sl211fBDbSdDxSfXtXsf2EjyRC/pyF7aahnE+O0M3jL8LoczyBw25/zXbbuFPdZeIVg==;is7T3wgU/7LMgm2aRhREgQ=="
+secured: "KlqXjeB1MG1RBiZaxN9MJITSXwh03ayMP98w5HdWgzaJCwnpMfAJcUBs2H2OR2sudBJWf+w8R/1+ugPY7vf0+qmKXvvsdEDV7S9GnyDx7YKoahc1ScTYWiPa1GQjqG4S7VFQoAWSf4Zv6oxLZzR+yy3p0Q6BVW9LWFegVo/v9E0hOiNjblAzXF1JMsPUg80/pdAgDmlDs56YQjbK4Bs2XMvcfPeduC/mVCt9nGWXBU5GwS/UQg+iKx1MRggIpFxELY9RLJMKRUANlw5mr6Lmxg==;/oML3iLDlo0parqx503kAA=="
 ---
 

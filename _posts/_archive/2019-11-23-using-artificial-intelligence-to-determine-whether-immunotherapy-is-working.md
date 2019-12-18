@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunothe
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,7 +41,18 @@ related:
       - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
         width: 675
         height: 365
+  - title: "How artificial intelligence (AI) is improving immunotherapy"
+    excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
+    publishedDateTime: 2019-11-25T14:38:00Z
+    sourceUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy
+    ampUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
+    cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 69
 
-secured: "c7VcR10hrBnuEDF3UIEdUoBgHRXyjShM9P/p2m11LTkA8TwvjDIcTCR53zmx5CKZHgkcNHXzn6j05uUja7iiVQ8nrJ3+GbS6pMlyoqUCesms5J5wgzDJiCFCcsw1Ju+Rs3jM6hpsWIhn3vxPhaH40ZXBplws/4Ms0maKVh0gdw1cyvbR8Eis+YiUYgy4HR/5uwmyQ5sT1zy8CdyL/TfvuzDbe8fLBQat8NTeDw7BZFvNi3wQov+n1OIH6ZkNNKkkhXAK2+kv33MueT9d+zxMTw==;gHWqdov93H8HI6Lqx/YUGg=="
+secured: "rmi6b38uHbuCCTzBr9aG1IqO5vpsNavIystV6+QWDP0LghV18MnJbpv/Is08mg1+zN5N3cqQp5d1JgpW+lm5wHkrhbQ3MEVGlERBA06V4DbmOz1NqXUN1aX7FdKwAjFZyJYmaT2d1t6kxXTnUiU9yPGa/UOssQwBKnNksSfes+/xzFOF7vfHPLN/qj53cBgQhfkS/38B4FwmEYLeiHKr+M/zEbAYVRjY0xmXJMSfdBeb34lDCjAZaXslmRaazymGhGnN8sXQy/kA4WiiY5KAqQ==;Q8XaPJm2AluPKWMLMcXFtg=="
 ---
 

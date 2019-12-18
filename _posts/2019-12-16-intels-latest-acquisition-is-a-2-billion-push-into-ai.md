@@ -1,21 +1,26 @@
 ---
 category: news
 title: "Intel's latest acquisition is a $2 billion push into AI"
-excerpt: "Intel hopes to use its AI capabilities to do things like reconnect damaged spinal nerves in paralyzed patients and create wheelchairs that can be controlled with facial expressions. It has experimented with neuromorphic chips, or AI chips that mimics the human brain, and it says its ultra-efficient AI chips can power everything from prosthetics ..."
-publishedDateTime: 2019-12-16T15:39:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/intels-latest-acquisition-is-a-242-billion-push-into-ai/ar-BBY30Ch
+excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
+publishedDateTime: 2019-12-16T14:39:00Z
+sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
+ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
@@ -660,6 +665,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?resize=600%2C592
         width: 600
         height: 592
+  - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
+    excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
+    publishedDateTime: 2019-12-17T23:15:00Z
+    sourceUrl: https://www.clevelandjewishnews.com/jns/intel-buys-israeli-artificial-intelligence-firm-habana-labs-for-billion/article_d088ccb0-407c-5df3-af5a-59a04b7344e1.html
+    type: article
+    provider:
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 20
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
+        width: 1200
+        height: 630
   - title: "Intel Acquires Artificial Intelligence, ML Chip Specialist Habana Labs"
     excerpt: "Intel acquires Habana Labs, an artificial intelligence and machine learning (AI and ML) chipmaker in Israel ... Intel faces potential competition and market disruptions as massive cloud customers like Microsoft Azure, Amazon Web Services and Facebook explore ways to leverage their own home-grown technologies or third-party processor technology ..."
     publishedDateTime: 2019-12-17T15:45:00Z
@@ -679,6 +697,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "1vQspVZGp+QYqZyNKEPNSu6wEOHn5C4sZpbCX2waH3095PQxdr8ZYkGQqjf+3fRH5IJPt41gniVyzVOodptaIDUt3TJG7IWiBKf59lJ6Jp3BVBlhuaFicUGwh92EKX7ADNtdlPW/ZyzWwH/z/fB1+8FZDONKq9ENXROzShd6OA7xVNS5YSz7Lb1nGr98TlmdlXFDNpMXENdJpX4LYQEZSAzW5JQrcaqwjeU77AN3mczNjEufDfWPalwfJDsSKEMSfmW7xkQSrupULNCaw5xUiw==;yNwg2umoOT1W0ZMK+uMrTQ=="
+secured: "qSQ8/17tu6EEcY+KbZ/sI8IfimWvAx78+GN+lUcwljfZFNmYM0/qHjh3tSt9gJnyp3npvPrECZWYFOUTsPgjh4ECwdcNKlbpwltAP2DPqV9sRq9umYOAwOvHeSkOJyNE1O1H7Ed0gFUFKI+CM2FT+7T+QrzdsEB/lQi4eQzplmFtCDfMFN9OC5JGmSc2erNc9Ja3mnpqjPV76jlKykUMomdjFzYJ27LDPfTs1+F+vS0ayS6k9L4dC8r19DBHqGFDHK6Z7FkHLvUG5gYU7xDNxA==;heN/f3Ka3acpQTrB/MpC+A=="
 ---
 

@@ -33,6 +33,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "RSIP Vision Launches AI-Based, 3D Total Hip Replacement Solution"
+    excerpt: "RSIP Vision, an Israeli global provider of artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that ..."
+    publishedDateTime: 2019-12-17T14:03:00Z
+    sourceUrl: https://hitconsultant.net/2019/12/17/rsip-vision-launches-ai-based-3d-total-hip-replacement-solution/
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 39
+    images:
+      - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2019/12/X-ray-image-showing-femur-fracture.jpg
+        width: 424
+        height: 283
   - title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
     excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise, automated 3D structure of the patients' hip for physicians to better plan surgery. The new ..."
     publishedDateTime: 2019-12-17T12:38:00Z

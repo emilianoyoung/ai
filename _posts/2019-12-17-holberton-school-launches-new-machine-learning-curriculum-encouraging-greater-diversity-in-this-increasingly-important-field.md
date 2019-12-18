@@ -16,8 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Google AI
 
-secured: "Hu7GfbhFP2SeaiRUDBNtKFfU92oRH5Ig6i+sbmRLohMhj4ECyOpljWPAQ+AgNu8QgB+BzfNCOO7YWsUxheKzqocVVGoE2VCDq+UuTrkCsGlNZi2g0TNU0N5JLDUMbyCu6RVTXtr2DWfEY+1wa76J4lJ1Buw99JTRUv4OfVbEyfYI83RKjePUmCKIoF439U23BtjedbGBgf70PrCk9T3D+oVt3KBSOtf/B13kk5SwyLUhAYDdlSk/3OuXqxiGxnWYNuoyk0lG5mlU12zOfMSGUQ==;z/4i13O8RNDywAkkmCbbCw=="
+secured: "qbjvgYjqxLc2TVf8H1VHLGosDQzAxQ4H+tR3z4530A/WkjoPRrBGdSO4paAuegjO+KfF1frPY51YTiwB4ksx23mqnHMecDHFufamANcTIxsS4Yrfi1sgPPkmcYSFhGS+Mn4M8HkVeqUBMeaMXghnVHuGrSsYROgJWv5duAoAlPvcrEh87CCWN7XMFi0Eyj3cxHGqWlRc0X/xeh0f4VBoIW2RgpcVJo/LDQgamNcHi1DqvNULuqSZ+MzJaoDM9jJLToWe2ypLpNUgePWpzs0HhA==;hlH2zDqjBSfKD13KzQ2kbQ=="
 ---
 

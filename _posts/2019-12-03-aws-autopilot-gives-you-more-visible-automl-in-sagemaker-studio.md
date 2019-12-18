@@ -1,26 +1,28 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
-publishedDateTime: 2019-12-03T00:00:00Z
-sourceUrl: https://uk.movies.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
+excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+publishedDateTime: 2019-12-03T18:32:00Z
+sourceUrl: https://au.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
+ampUrl: https://au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
+cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
 type: article
-quality: 54
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Yahoo Movies
+  name: Yahoo7 News
   domain: yahoo.com
 
 topics:
   - AI
-  - AWS AI
+  - Machine Learning
 
 images:
-  - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-    width: 5184
-    height: 3456
+  - url: https://s.yimg.com/ny/api/res/1.2/eNhrNpu9lmfXQn.3bmlqsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
+    width: 1279
+    height: 853
     title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
 
 related:
@@ -66,6 +68,6 @@ related:
         width: 512
         height: 512
 
-secured: "ebLOTRBQ8S2TncoYiesZfMeERHnA2W7zE6ZmBE4yih3yM3cG7VdYGMAwPT3mjD0REKHKtVYPcX4jmO2q0QiLHB5TfIRFJdveJaz2mTDfjY5991guFeuqsQ9NKpNvhNmTcWVT5LtrQ+6P24TPxX2pkyWZUM8nc8EjDhi9DOdKpUXOJpAf74RszcCXnYyTiVnM0CDUWTNUy7OjBtvOJcis6qOPbQYbC5vM9QoUs9rkHz0WCEvHNisElF2pNsbklH/HXgsWqlzl/e76FXz8xyJ+iA==;oIcUjF/uEzriQlrpVnS1Wg=="
+secured: "lOrjTfVJXFbjYypX26s1ikW0sMm8mYQQGINrZDdB0EkA0D5txkQGL+u/gavcQkzcUmVkoEl27K7V0uhV1mNIgtp6aqcHacPMTYg2MJ91vKJ1zNh1vURBn7Yke/c53LQvASUtYIRmK17VejnJi6C7VtwED+a+zuit/endLGwqNF8J8z3zdEKhnP0SkEnpaH7QlxJlntXmCvOiPa9RrQx7MODBFHnkXSOFQcx39++FOKaFs93aoZUmchffdI6PFSvivkS2bnFMWLX8ofrWyznChw==;a0Wqvujqhx3otjYOwsE+BQ=="
 ---
 

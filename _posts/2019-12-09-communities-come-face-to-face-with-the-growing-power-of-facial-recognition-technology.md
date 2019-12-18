@@ -733,6 +733,17 @@ related:
       - url: https://www.bing.com/th?id=ON.1FA6849529092323AC8C641DF9BAD140
         width: 700
         height: 437
+  - title: "Why more cities and states are fighting the spread of facial recognition"
+    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
+    publishedDateTime: 2019-12-17T23:55:00Z
+    sourceUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition
+    ampUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
+    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 38
   - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
     excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
     publishedDateTime: 2019-12-09T09:00:00Z

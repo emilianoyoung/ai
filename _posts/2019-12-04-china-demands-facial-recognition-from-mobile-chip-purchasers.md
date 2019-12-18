@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.999328753F4E4589F448E4D16FC478AF
         width: 700
         height: 393
-  - title: "State recommends facial recognition policy changes"
-    excerpt: "The district did not move ahead with its planned launch, previously set for Monday, of the object recognition portions of its Aegis software system. The system is capable of detecting 10 different types of firearms. A school official said in a statement the district has \"no definite date\" for launching the system. The school district did not ..."
-    publishedDateTime: 2019-11-27T22:20:00Z
-    sourceUrl: https://www.lockportjournal.com/news/local_news/state-recommends-facial-recognition-policy-changes/article_1cb5304e-4369-5108-982d-5cf9372573d4.html
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F24C90B4D75D2EBE2AC960E127DA8F1E
-        width: 700
-        height: 467
 
 secured: "7SgdS4ileDdH4lZTv/7rwWaHOX7pFUmLDflPQQjTzVDf1FmwxciR6jvHP7daswcN95jpoLWSjEgSjFnRfUcAkj47JYOk2cnq8q+RpWpbiYZYC2CBDPclO8uvJgP+gYKq8znxoyW3Zn+YZlmWWnNLNTJbbyUDHE/qAtwmvIOR3wAHScuK87iSEXS1yXOApxqGJPV49eIV1UAdBl8iBvnRWwJNe7jhYLSo0dMzDHfuXa5lCTFmo2OeLZy2EOWyPBJ5nu4nYwIi5ZgmLvwO1f52mQ==;/gP5EWfFlY2DzsplPQ2pZw=="
 ---

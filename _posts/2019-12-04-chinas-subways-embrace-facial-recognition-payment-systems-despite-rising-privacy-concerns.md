@@ -8,7 +8,7 @@ ampUrl: https://sg.news.yahoo.com/amphtml/china-subways-embrace-facial-recogniti
 cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/china-subways-embrace-facial-recognition-094126798.html
 type: article
 quality: 132
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.999328753F4E4589F448E4D16FC478AF
         width: 700
         height: 393
-  - title: "State recommends facial recognition policy changes"
-    excerpt: "The district did not move ahead with its planned launch, previously set for Monday, of the object recognition portions of its Aegis software system. The system is capable of detecting 10 different types of firearms. A school official said in a statement the district has \"no definite date\" for launching the system. The school district did not ..."
-    publishedDateTime: 2019-11-27T22:20:00Z
-    sourceUrl: https://www.lockportjournal.com/news/local_news/state-recommends-facial-recognition-policy-changes/article_1cb5304e-4369-5108-982d-5cf9372573d4.html
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F24C90B4D75D2EBE2AC960E127DA8F1E
-        width: 700
-        height: 467
   - title: "China Demands Facial Recognition From Mobile Chip Purchasers"
     excerpt: "RIO DE JANEIRO, BRAZIL - The adoption of facial recognition by China has just reached a new level: as of December 1st, Chinese consumers contracting a new mobile plan or service must allow their face to be digitized during the registration procedure with the operator. The Chinese government has been using facial recognition for some time."
     publishedDateTime: 2019-12-04T09:10:00Z

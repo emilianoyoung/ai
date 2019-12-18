@@ -2,42 +2,27 @@
 category: news
 title: "Hugging Face raises $15 million to build the definitive natural language processing library"
 excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-publishedDateTime: 2019-12-17T16:50:00Z
-sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
-ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
+publishedDateTime: 2019-12-17T16:26:00Z
+sourceUrl: https://news.yahoo.com/hugging-face-raises-15-million-162619121.html
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
 
-related:
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
-    publishedDateTime: 2019-12-17T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/nikon-announces-artificial-intelligence-ai-150000482.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.8B4262B73D262D18F6BFA1B2C41F7239
-        width: 400
-        height: 142
+images:
+  - url: https://s.yimg.com/ny/api/res/1.2/unfX1u5XIUboHEKni5gJiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/bVUJ.SO2J9aNY5z.Sw8swQ--~B/aD0xMTUyO3c9MTUzNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/c29cbf4f09c90508e4af2e17b3199a23
+    width: 1280
+    height: 960
+    title: "Hugging Face raises $15 million to build the definitive natural language processing library"
 
-secured: "MQiY4ru+Df9GNsWpq+LGsDe37C83Np6rtGSxKW3BoGe3nGyHm7Xhb8WPYGwCb0cYbFaLC7Wmg7ozs9X6zv59bf1L6/R4Kme7La8lmRis9eTLtMiJ2CZNKcMOY6lQMS4qUqh3BVfL4w1bF0yzwGUr/DA+j1VHWzE8JgtmW/qo2tazK541zOXTniNEQHwnP8RfiMQ21w2e/UPkRk9JBlqhT8DZUAcFZtmoHHPxz/tfb9K09YViL3NUO4EVunrBVB/JLscnmq9Vhmx4M+QKx3wcqw==;XSO8Ur7crr2RW8l+eWdPkA=="
+secured: "L0DM5tI6e2jUqtpATk1/GHc2c7qIxFq4CH4tS6u/Rd1X1vj3MkKJcn3ohlHIlqDXgZtaJrSnJwXsTbIZZ+eSF2rZX4W0pxK5JQHFp3KOmT7/ibUzneUlrwNkd+gxD2LIug83BbSbZiQIoF79eHQUPj4TV5sVZVh+OEVzj1qCm1i8u7+ojsU5NQYpe5qlt54FhE3IRHwBnmZ5up0ur8GPhOoARvMeTh4GNXSRUwFfs8Zv9AYfi3MzvaPpPaNqFAgWBq/BpQ66oI5sEmSOTMcGGg==;UOIsSqlp116M23eqDCphgw=="
 ---
 
