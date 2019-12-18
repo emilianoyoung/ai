@@ -63,6 +63,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-18T16:27:00Z
+    sourceUrl: https://www.hpcwire.com/off-the-wire/baidu-samsung-electronics-announce-production-of-its-cloud-to-edge-ai-accelerator-to-start-early-2020/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
+        width: 405
+        height: 228
 
 secured: "A3HQODb2AKcwrGDNtjnzTUYu/+AAsuYzzfumIcu/MaTVM/Miz+GUHFzFRfGkPaM0EKTkZF2A3N2aFEd7qhp4CK89iPwBIFzGEENISjcNGUaQhLT29g/8gAKAXXUkNUuiGxAg4UXlQocHmK4BJSe0f3i+AUH6CqK0No1x6IrhsR7sJep+sn8TKOpkiGbsPd6+jwXUGr9GF2egAOTO1QYgCxyy1vuySsp3liCXTsaxJnYiiChszGvP7fL73uSjuzmuuEM3nzg1LrMlum6oCLLb0Q==;WzQHbha6/s20cpDkeHrSeA=="
 ---

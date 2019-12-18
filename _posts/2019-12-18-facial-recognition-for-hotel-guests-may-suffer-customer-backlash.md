@@ -711,6 +711,19 @@ related:
       name: Fox Business
       domain: foxbusiness.com
     quality: 39
+  - title: "More Cities Resist Facial Recognition Systems"
+    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another tool in their crime-fighting toolbox. Some lawmakers — and even some technology giants — are hitting the brakes, the Associated Press reports. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-18T16:25:00Z
+    sourceUrl: https://thecrimereport.org/2019/12/18/more-cities-resist-facial-recognition-systems/
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1F2D488AC44D76EEB57F03F217934DFE
+        width: 140
+        height: 140
   - title: "Why some US cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Massachusetts: Police departments around the US are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers – and even some technology giants – are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-18T06:54:00Z

@@ -724,6 +724,19 @@ related:
       - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
         width: 530
         height: 360
+  - title: "More Cities Resist Facial Recognition Systems"
+    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another tool in their crime-fighting toolbox. Some lawmakers — and even some technology giants — are hitting the brakes, the Associated Press reports. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-18T16:25:00Z
+    sourceUrl: https://thecrimereport.org/2019/12/18/more-cities-resist-facial-recognition-systems/
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1F2D488AC44D76EEB57F03F217934DFE
+        width: 140
+        height: 140
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

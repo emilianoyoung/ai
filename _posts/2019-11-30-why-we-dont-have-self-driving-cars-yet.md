@@ -28,21 +28,6 @@ images:
     title: "Why we don't have self-driving cars yet"
 
 related:
-  - title: "Why You’ll Be Thankful And Leave A Tip After Riding In A Self-Driving Car"
-    excerpt: "Here’s an interesting question to consider: Will we give out tips when ridesharing is being performed by true self-driving cars? Your first thought might be that it makes absolutely no sense whatsoever to give a tip to a self-driving car. A true self-driving car is being driven by an AI system, and there’s no human driver, so it seems crazy ..."
-    publishedDateTime: 2019-11-28T15:49:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/11/28/why-youll-be-thankful-and-leave-a-tip-after-riding-in-a-self-driving-car/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.CD318BFAD82EF6386F2E70FB91CBDF7D
-        width: 600
-        height: 315
   - title: "Self-driving cars were supposed to be here already — here's why they aren't and when they should arrive"
     excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn't exist. And it's not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline but ..."
     publishedDateTime: 2019-11-30T19:02:00Z
@@ -58,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
         width: 700
         height: 393
-  - title: "Europe Self-driving Car Market Share, Size 2019-2024 Top Leading Countries, Companies"
-    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- The Europe self-driving car market is expected to expand at a CAGR of 49.9%, leading to global revenue of USD 38.51 Bn by 2024. A self-driving car also known as the driverless car or an autonomous car, a robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/europe-self-driving-car-market-share-size-2019-2024-top-leading-countries-companies-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Wheels begin to turn on self-driving car legislation"
     excerpt: "Congress has yet to roll out comprehensive legislation that would create federal standards for self-driving cars this year, but the wheels have started turning on new efforts to draw up policy. Movement on the issue follows pressure from industry groups and agencies that have been pushing for government guidelines to address the testing and ..."
     publishedDateTime: 2019-12-01T14:00:00Z
@@ -101,58 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
         width: 700
         height: 393
-  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
+  - title: "UGA researchers receive grant to study self-driving cars"
+    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
+    publishedDateTime: 2019-11-26T13:04:00Z
+    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
-    publishedDateTime: 2019-12-05T10:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-2018-2024-size-industry-growth-share-global-forecasts-analysis-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Wayve unveils self-driving car trials in central London"
-    excerpt: "Wayve believes that the complexity of self-driving cars will be solved by better artificial intelligence “brains,” not by more physical sensors and hand-coded rules. Launched in Cambridge, arguably the birthplace of modern computing and artificial intelligence and recently relocated to London, this is the first time a European self-driving ..."
-    publishedDateTime: 2019-11-29T10:15:00Z
-    sourceUrl: https://www.cambridgenetwork.co.uk/news/wayve-unveils-self-driving-car-trials-central-london
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
+      name: The Red & Black
+      domain: redandblack.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.D092B84E8AC4D24C8341BFE2C6092221
-        width: 550
-        height: 304
-  - title: "Teaching a Self-Driving Car to Know if its Passengers are Happy or Nervous"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to ..."
-    publishedDateTime: 2019-12-04T02:58:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-know-if-its-passengers-are-happy-or-nervous-4111141
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.A7AD3E49EDAFCA94C0440BD2F891F247
-        width: 700
-        height: 393
+      - url: https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/d/e5/de52d844-1001-11ea-b8e2-afd13556e3e0/5ddca470088fa.image.jpg?resize=777%2C630
+        width: 777
+        height: 630
 
 secured: "IsI2JSSmro9+nzZUsWs2s4baqcAc7mR2J6eI5pKJeXNz944dA9gTCGRN6zUjhNu7thhR7Eoo//dQatRFktVJ46jv/yafrzG8DiGuH6EVIARMXmmT8Lhv9pImtETUTyMCaMIdPFQOnzbiXarMwfkeyZEbpcB9ij5+Gh2RDGyGrprxuHUEQ3zdI8xaYG7erLcjRKrEFsol7okLiPs8bsrcOzTEfeAEgHyom/QOUm04j4MvOFM2SEHf/3eLXDrGO0r9h8KO5yLZkAhNriP0hvpiIg==;bKht88QoVrFZw4IIgYiL/w=="
 ---

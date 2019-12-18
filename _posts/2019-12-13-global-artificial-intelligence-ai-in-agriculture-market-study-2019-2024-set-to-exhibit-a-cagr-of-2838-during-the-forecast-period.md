@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/14985917
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14985917
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -19,24 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
-    excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
-    publishedDateTime: 2019-12-10T11:43:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/36830/global-artificial-intelligence-ai-in-agriculture/
+  - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
+    excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    publishedDateTime: 2019-12-18T16:57:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-chips-market-2019-2023-/2019/12/18/9071993.htm
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 12
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-    publishedDateTime: 2019-12-18T15:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 4
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: https://mms.businesswire.com/media/20191218005451/en/763775/4/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
+        width: 480
+        height: 270
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
     excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
     publishedDateTime: 2019-12-15T00:25:00Z

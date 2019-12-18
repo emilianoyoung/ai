@@ -26,75 +26,19 @@ images:
     title: "Sberbank partners with Cognitive Technologies for self-driving technology"
 
 related:
-  - title: "Russia’s Sberbank pushes into driverless cars with AI joint venture"
-    excerpt: "State-run Sberbank, Russia’s largest lender, is expanding its high-tech offerings through a new investment in driverless cars with AI transport start-up Cognitive ... agriculture, computer vision and artificial intelligence,” Sberbank said. Moscow-based Cognitive Technologies has partnered companies including Hyundai, Russia’s railway ..."
-    publishedDateTime: 2019-11-28T15:39:00Z
-    sourceUrl: https://www.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    ampUrl: https://amp.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
+  - title: "How Aera Technology Connects AI, Voice, ERP for Self-Driving Enterprise"
+    excerpt: "Frederic Laluyaux, CEO of Aera Technology, described the future of cognitive automation as the “self-driving enterprise.” I recently met him Aera’s office in San Francisco. Shortly into our meeting, he picked up his iPhone and asked, “What’s my forecast?” A pleasant voice responded: “On track at $1.2 billion, with an additional $ ..."
+    publishedDateTime: 2019-12-03T05:36:00Z
+    sourceUrl: https://www.eweek.com/innovation/how-aera-technology-connects-ai-voice-erp-for-self-driving-enterprise
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
+      name: eWeek
+      domain: eweek.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.6D3E878C1F1154D8D2B4F4D773DC4EB5
-        width: 700
-        height: 393
-  - title: "Russia’s Sberbank moves into driverless cars with joint venture"
-    excerpt: "computer vision and artificial intelligence,” the pair said. Financial terms of the deal, which is expected to complete in December, have not been disclosed. The new venture will be headed by Cognitive Technologies founder Olga Uskova. Read more: O2 steps into 5G driverless car testing in London as it grows mobile customer base Sberbank has ..."
-    publishedDateTime: 2019-11-28T17:49:00Z
-    sourceUrl: https://www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/
-    ampUrl: https://www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/russias-sberbank-moves-into-driverless-cars-with-joint-venture/amp/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
-        width: 700
-        height: 455
-  - title: "Russia's Sberbank Enters the Driverless Cars Game"
-    excerpt: "Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with artificial intelligence (AI) transport developer Cognitive Technologies, the two companies said Thursday. Sberbank and Cognitive ..."
-    publishedDateTime: 2019-11-28T00:00:00Z
-    sourceUrl: https://www.themoscowtimes.com/2019/11/28/russias-sberbank-enters-driverless-cars-game-a68366
-    type: article
-    provider:
-      name: The Moscow Times
-      domain: themoscowtimes.com
-    quality: 39
-    images:
-      - url: https://static.themoscowtimes.com/image/1360/b6/252052_1000x671_1024_6497751e746e7dc0197ba87ee5e042c62.jpg
-        width: 1360
-        height: 913
-  - title: "Sberbank to hold 30% stake in driverless cars venture"
-    excerpt: "Cognitive Pilot products and solutions are set to be used to develop digital economy projects in transportation, agriculture, computer vision, and artificial intelligence. The parties have signed legally binding documents and are scheduled to close the deal in December 2019. Sberbank is getting a 30% interest in the company, with 70% of shares ..."
-    publishedDateTime: 2019-11-28T16:22:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80790/sberbank-to-hold-30-stake-in-driverless-cars-venture
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
-  - title: "Russia’s Sberbank invests in driverless car tech firm"
-    excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally binding agreement with Cognitive Technologies that will lead to the creation of a new company ..."
-    publishedDateTime: 2019-11-29T01:26:00Z
-    sourceUrl: https://siliconangle.com/2019/11/28/russias-sberbank-invests-driverless-car-tech/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B35F4DC50BC5224029B1EBC525FE1ACC
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.D4DDCAB68178B527258F256ECA4421BD
+        width: 300
+        height: 200
 
 secured: "/UjSfGd1L4CduLVNetd6Dx1u1PkE7BdIp6ZB2oresUvPWzA/I6iOBMWL1g503tCLJeE0BBE05GF7ghFw97nxxXH3Z2hqH87mZ39AhIwIzG4jpf60Suk04CHv39lFaM57TOF/11Qy5/or10dMkMveQ/RVSMuRC/4ANlwpG/ommKhkOMsG25QU0TCBPDiy4CU03NevZQzcY9Glh8R0VDyen6aR4TZxlcJMRBGCM/pYUKhjKOLOiAOdUGXfqSMAym/CiqFDcHfBCAyrhRRpRtvXKA==;eqytD1Q0/r2QifNjk7kJBA=="
 ---

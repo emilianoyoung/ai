@@ -55,6 +55,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 54
+  - title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
+    excerpt: "Samsung Foundry and Baidu this week said that the companies were about to start mass production of an AI accelerator chip early in 2020. Baidu’s Kunlun chip is to be made using Samsung’s proven 14 nm process technology, and make use of the company’s Interposer-Cube 2.5D packaging structure. The Baidu Kunlun AI accelerator is based on the ..."
+    publishedDateTime: 2019-12-18T15:00:00Z
+    sourceUrl: https://www.anandtech.com/show/15247/samsung-kicks-off-mass-production-of-ai-chip-for-baidu-260-tops-at-150-w
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 53
+    images:
+      - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
+        width: 678
+        height: 364
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube TM (Interposer-Cube) package solution. The chip offers 512 gigabytes per second (GBps) memory bandwidth and supplies up to 260 Tera operations ..."
     publishedDateTime: 2019-12-17T23:45:00Z

@@ -8,8 +8,8 @@ ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-ti
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: CMS Wire
@@ -26,32 +26,21 @@ images:
     title: "Are Robots Ready for Prime Time?"
 
 related:
-  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
-    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
-    publishedDateTime: 2019-12-18T14:30:00Z
-    sourceUrl: https://www.clarkson.edu/news/clarkson-professors-receive-robot-continue-human-robot-handover-interaction-research
+  - title: "7 tips to get your resume past the robots reading it"
+    excerpt: "And for many job seekers vying for these openings, the likelihood they'll submit their application to an artificial intelligence-powered hiring system is growing ... career experts about how to make sure your next application makes it past the initial robot test. AI-powered hiring platforms are designed to identify candidates whose resumes ..."
+    publishedDateTime: 2019-12-18T16:42:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
     type: article
     provider:
-      name: WTSC-FM
-      domain: clarkson.edu
-    quality: 31
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
-        width: 480
-        height: 320
-  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
-    excerpt: "PAYSON, Utah, Dec. 17, 2019 /PRNewswire-PRWeb/ -- AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME's face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify ..."
-    publishedDateTime: 2019-12-17T13:17:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/workmax-time-by-abouttime-technologies-unveils-face-recognition-for-accurate-employee-time-tracking-8332180
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 25
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
+      - url: https://image.cnbcfm.com/api/v1/image/106301158-1576611037425gettyimages-1139051812.jpg?v=1576611115
+        width: 2000
+        height: 1330
 
 secured: "crstHl0wULEXS4pEeZKe2flknEI6Rx8WvCvudjE8XcN5ujNfpGjOAaCEKOQCOzrK7rVfJ+zFym2QRemezELjF9ft6CQ/IlMeWHs1fx8UNZRo6dwKVr/d0hABsigXITWUMBExitRI7YLb2M1odh7DAXBE4C7STlp7GYFqLnPqr03VweJemKisXnZTeQYNZU3jwotdkp5qlj2eQFaxtlUxgAqdBXfbezwuyHD6CYFbTRN+iEYMx/847ur0AonDrpyXqHmt2+HN542MYrAsFKGpqw==;F0g6JVCYtFTsH6NDVUMfLQ=="
 ---

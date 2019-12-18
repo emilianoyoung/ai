@@ -24,21 +24,6 @@ images:
     title: "Russia's Sberbank Enters the Driverless Cars Game"
 
 related:
-  - title: "Russia’s Sberbank pushes into driverless cars with AI joint venture"
-    excerpt: "State-run Sberbank, Russia’s largest lender, is expanding its high-tech offerings through a new investment in driverless cars with AI transport start-up Cognitive ... agriculture, computer vision and artificial intelligence,” Sberbank said. Moscow-based Cognitive Technologies has partnered companies including Hyundai, Russia’s railway ..."
-    publishedDateTime: 2019-11-28T15:39:00Z
-    sourceUrl: https://www.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    ampUrl: https://amp.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.6D3E878C1F1154D8D2B4F4D773DC4EB5
-        width: 700
-        height: 393
   - title: "Russia’s Sberbank moves into driverless cars with joint venture"
     excerpt: "computer vision and artificial intelligence,” the pair said. Financial terms of the deal, which is expected to complete in December, have not been disclosed. The new venture will be headed by Cognitive Technologies founder Olga Uskova. Read more: O2 steps into 5G driverless car testing in London as it grows mobile customer base Sberbank has ..."
     publishedDateTime: 2019-11-28T17:49:00Z
@@ -54,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC8EF6078A40F36167BD6F32DFDF124E
         width: 700
         height: 455
-  - title: "Sberbank partners with Cognitive Technologies for self-driving technology"
-    excerpt: "computer vision and artificial intelligence. New Delhi: Russian state-owned banking and financial service provider Sberbank has joined hands with Cognitive Technologies, a software developer for machine vision and autonomous driving, to develop self-driving technology, informs the company in a release. Sberbank and Cognitive Technologies have ..."
-    publishedDateTime: 2019-11-29T06:38:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/sberbank-partners-with-cognitive-technologies-for-self-driving-technology/72289098
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/sberbank-partners-with-cognitive-technologies-for-self-driving-technology/72289098
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/sberbank-partners-with-cognitive-technologies-for-self-driving-technology/72289098
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.918EB847D88F3FA42D4D0C2A4283A35A
-        width: 700
-        height: 379
   - title: "Sberbank to hold 30% stake in driverless cars venture"
     excerpt: "Cognitive Pilot products and solutions are set to be used to develop digital economy projects in transportation, agriculture, computer vision, and artificial intelligence. The parties have signed legally binding documents and are scheduled to close the deal in December 2019. Sberbank is getting a 30% interest in the company, with 70% of shares ..."
     publishedDateTime: 2019-11-28T16:22:00Z
@@ -96,6 +66,6 @@ related:
         width: 700
         height: 393
 
-secured: "uwd83wTuc9h5P9VFWB4ZMKf9/jRdNr2Sc1Z5pLMlWNDpup4cxlEGedNopFhUVS2MNwx/S7JuUQ/OIxwIEM2796enREaK9GqoBBHiDN+EG1I/INcxps5FKQPzpPR1tO8xPlIzYdAkTGl7kQFHROdS7R5Cyw4Bullc1WlVA1xfDaAG4ebSmAuolAzy/swau7cP5fKAsqxR4RtcN3vqRh6sjc/MkO3JoQlbc3JT9IgrThbnv4PK6MQAPQVhha+yXO1zBhdJO0ZY4qfzSj3Eczepvw==;n90SOQT2upZN5uozRTwfIw=="
+secured: "pzLz9ZBnBMuDrC3Z63ltV0ps+xs/eF7ry2/1+0tI8S0fqpwwDczPWtrpC6R9o4/Iv2+Y0MB5hUDqWI55ix3UEpT6IzHsWVHb4MV+r57wNjuD7yHKa/+75Rr2JsYNrO65QWkHj+NCvJS8JCq0QHz43e5UJ0pRQkxV8tQXLgCnx6JHnvrCLKOc2ChPCYwLolf0EmH3RqBPeEC3uvr1EYdJRh+ghOOwbP3ls/oJEiC0ijzMH99JF/sb6OKV4DOKrg9pzOrBZ7yrPrtostXClNBgBw==;9TwNzrdvog0oKVB5hKjf8g=="
 ---
 

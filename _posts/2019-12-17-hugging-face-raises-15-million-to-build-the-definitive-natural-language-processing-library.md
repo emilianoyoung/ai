@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-buil
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
 type: article
 quality: 194
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Hugging Face raises $15 million to build the definitive natural language processing library"
 
 related:
+  - title: "Hugging Face Raises $15 Million to Expand Natural Language Processing Library"
+    excerpt: "Natural language processing company (NLP) Hugging Face has announced it raised $15 million in funding in a round led by Lux Capital, and with participation from A.Capital, Betaworks, Richard Socher, Greg Brockman, and NBA star Kevin Durant. Hugging Face originally launched a chatbot app back in 2017 that allowed users to generate a digital ..."
+    publishedDateTime: 2019-12-18T16:18:00Z
+    sourceUrl: https://mobileidworld.com/hugging-face-raises-15-million-expand-natural-language-processing-library-121803/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
+        width: 700
+        height: 490
   - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
     excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
     publishedDateTime: 2019-12-17T00:06:00Z

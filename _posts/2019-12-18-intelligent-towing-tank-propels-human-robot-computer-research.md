@@ -24,6 +24,19 @@ images:
     title: "Intelligent Towing Tank propels human-robot-computer research"
 
 related:
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-18T14:30:00Z
+    sourceUrl: https://www.clarkson.edu/news/clarkson-professors-receive-robot-continue-human-robot-handover-interaction-research
+    type: article
+    provider:
+      name: WTSC-FM
+      domain: clarkson.edu
+    quality: 31
+    images:
+      - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
+        width: 480
+        height: 320
   - title: "A Novel Strategy for Mining Medical Records: Recent Research Context"
     excerpt: "Hence, the data mining process had low yield for the detection of metastatic disease. The new method is a natural language processing (NLP) model that detects the presence and timing of metastatic breast cancer recurrence using clinical notes from the EMR, which is used in several hospitals including Stanford Health Care. In addition ..."
     publishedDateTime: 2019-12-18T14:30:00Z

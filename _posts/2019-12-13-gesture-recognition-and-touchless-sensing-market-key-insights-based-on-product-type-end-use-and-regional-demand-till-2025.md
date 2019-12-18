@@ -314,6 +314,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
+    excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
+    publishedDateTime: 2019-12-18T16:41:00Z
+    sourceUrl: https://news.microsoft.com/transform/microsofts-resolution-for-2020-is-to-empower-tech-intensity-in-its-customers-and-partners/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
+        width: 1024
+        height: 567
   - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
     excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
     publishedDateTime: 2019-12-13T00:03:00Z

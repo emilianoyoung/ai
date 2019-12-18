@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "The Growing Emergence of Robots in Healthcare: Key Opportunities & Benefits"
     excerpt: "3. Chatbots and Bedside Robots Companies like Conversa Health and others believe chatbots powered by artificial intelligence have transformative potential in healthcare. A HIPAA-compliant chatbot could, for example, deliver personalized or timed reminders for medications, appointments and more. Patients could also speak to a chatbot to describe ..."
     publishedDateTime: 2019-12-05T04:45:00Z

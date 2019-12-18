@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T09:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -67,6 +67,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-18T16:27:00Z
+    sourceUrl: https://www.hpcwire.com/off-the-wire/baidu-samsung-electronics-announce-production-of-its-cloud-to-edge-ai-accelerator-to-start-early-2020/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
+        width: 405
+        height: 228
 
 secured: "4GsBSu/z2lMJxIEL9ueqblXNKcczlwsfHqPv6A+50eH3zNZQxuWS126/D0zQNgOV0Wp2Nq7SK+5tGjqcoPYqZEBlugY82t9eLD9iG544lSUumIzLUMpIj5403Zx9JSRCCp9Tm4+4lc8IQ1dEN3fB/reLDM/xonC3Q8BqsXWuVztzrBjog3yVwMkKKeDqKQoayPXLno0KMNpHjjC9/MNcnmtG//R1jJbduAivS6gm06Hywdbqqkob7Nj9U+LsdVch9lQL8lU9eK5LIzkAo6TGCQ==;NkBf3R8m0hTTAub82OOxQw=="
 ---

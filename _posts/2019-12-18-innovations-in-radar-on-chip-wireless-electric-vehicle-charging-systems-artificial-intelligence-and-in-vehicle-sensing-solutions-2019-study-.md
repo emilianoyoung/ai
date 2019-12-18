@@ -7,8 +7,8 @@ sourceUrl: https://oklahoman.com/article/feed/9993879/innovations-in-radar-on-ch
 ampUrl: https://oklahoman.com/article/feed/9993879/innovations-in-radar-on-chip-wireless-electric-vehicle-charging-systems-artificial-intelligence-and-in-vehicle-sensing-solutions-2019-study-researchandmarketscom/amp
 cdnAmpUrl: https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/9993879/innovations-in-radar-on-chip-wireless-electric-vehicle-charging-systems-artificial-intelligence-and-in-vehicle-sensing-solutions-2019-study-researchandmarketscom/amp
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Autos
   - AI Hardware
+  - AI in Healthcare
 
 secured: "+FiKVP8vbqRu7xyL/AQZyKlzpcI1+rR/gi6jZTBC8kZ6uqutiNIRAllWBJvPB+vDf5722Nj9msH2pfoLh20MjDRdi58UzGmA3nnO+eVcFNPE2B2sAlu/60QmogCUdcLmHdAXG3CLujNxejhKH7nQ+Hbp2AjFysPjGujguUBnMOysP/p5k92qC+bNaV5J0lTlemC4nYybp85oHH7MFb69OFFwGQzjyEfI5voENzs0bH9VtzjriZIp2y+W1gcka3H1J2px2iCpLh7cj5X1gr969g==;uPUkIIV3lLbRD3Z2ZCrsfA=="
 ---

@@ -2,8 +2,8 @@
 category: news
 title: "Nvidia Orin SoC melds next gen GPU and Arm Hercules CPU cores"
 excerpt: "The fruit of four years of research, development and investment, Orin packs Nvidia's next generation GPU architecture alongside Arm Hercules CPU cores in a 17 ... programmable, software-defined AI platform, asserted Huang. Importantly the Orin SoC based system can meet systematic safety standards such as ISO 26262 ASIL-D. Nvidia reckons ..."
-publishedDateTime: 2019-12-18T09:11:00Z
-sourceUrl: https://hexus.net/tech/news/cpu/137963-nvidia-orin-soc-melds-next-gen-gpu-arm-hercules-cpu-cores/
+publishedDateTime: 2019-12-18T10:11:00Z
+sourceUrl: https://www.hexus.net/tech/news/cpu/137963-nvidia-orin-soc-melds-next-gen-gpu-arm-hercules-cpu-cores/
 type: article
 quality: 39
 heat: -1
@@ -53,6 +53,6 @@ related:
         width: 1138
         height: 572
 
-secured: "5ZdQ4I9ecI2Rs2pWoNP9NuAfXr0J+s5LZw6tJIKANmg7J0HPlY4A2gMvzLjqRxZzz4Lv9s34PSZABCbmiyFKA10SVHbO2dSQC+V6pokwh/iM7WLPu139bvb1Qcj+NvAQTi5KnQEzv7q3huL0gqXXQllalF6f8sVEFHdtgvsIDpcBqTF0FhtczlWLy3tcCwcxeI37ksIbkerv1LCc34dMpzPQv+Zr6V7eQG1JZ0PBUMpzRWAZ9HNyjJHDOkp5OxUwAnvI4X1YlKh4iaA6Xv9YqQ==;XPGDig+dhI1Q/pb8l4wUOg=="
+secured: "BgQA/HBkWW6MOMCCiryaM6tF8BiiVtHiWh73yrLGE85M/sKs7r0UAdADz7nLTh4QQnoTyNdehVqH0g/U/VckmjZoMngl6F1di7CnR0gHdZVLZ9q5KcNOoMNQawlXPHbI8rPxWXYAA75xjDNzrwJnRppULehxHcAqtLjL/5ociaUpJC5n4INVozDZ/aqAtOvasJZqzq9LVHfgFZdqusMPEvMzO9VtZAwualtOdXpIfyCLa2e6Yg7wz4/hQ/M9p1T/hB2+JgqoRO3vhNJb+jmG3Q==;g/WdtomR+NVtRY96XQaVEA=="
 ---
 
