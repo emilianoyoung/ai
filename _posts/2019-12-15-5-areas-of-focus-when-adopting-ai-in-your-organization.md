@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/15/5-areas-of-focus-when-adopting-ai-in-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/5-areas-of-focus-when-adopting-ai-in-your-organization/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
         width: 700
         height: 466
+  - title: "NAM: Healthcare must proceed with caution in adopting AI"
+    excerpt: "Artificial intelligence has the potential to transform and disrupt healthcare. However, the industry must beware of unintended consequences and not give in to marketing hype and profit motives. That’s the contention of a new National Academy of Medicine ..."
+    publishedDateTime: 2019-12-19T05:40:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/nam-healthcare-must-proceed-with-caution-in-adopting-ai
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 54
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/a3cf187/2147483647/strip/true/crop/800x420+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F7e%2F22%2Fd9f681e54ee3ab9f3b04613abee3%2Fthe-keck-center-of-the-national-academies-crop.jpg
+        width: 1200
+        height: 630
 
 secured: "LIMbOYjcw1rudwO1bXLBtfmUfHfcmS9dFE35hKZ3e8EtyNexJ4ZeNx/zPnZgPRA41tE+h/JaPl+Zk4B49KJnAMvljr3VWmY/X4mStke9wUPD5lfvejPtLd15UNL+/rAhpkGLW9BvRWsBYzHc0k1DOvmHGFxMaVgPSUS44GCy5RfODxRR5XdFY/7zko9ocJKuU6jceooksgFYodHfDesEofQ5TGm51NaS5mdoC048RE4VJNhHd3eB9oMBpFhWTfpynJpS+VpLLxEmPwVYrPFAVA==;FKRJXbWJjy+CyElyTHg1Yg=="
 ---

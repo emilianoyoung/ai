@@ -3,7 +3,7 @@ category: news
 title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
 excerpt: "The report is the most comprehensive assessment of today’s leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant™ solutions, part of its self-service cloud, surpassed ..."
 publishedDateTime: 2019-12-18T19:10:00Z
-sourceUrl: https://www.newswiretoday.com/news/172013/Verint-Intelligent-Virtual-Assistant-Solution-Receives-Highest-Ratings-from-Opus-Research-for-Third-Consecutive-Year/
+sourceUrl: https://www.newswiretoday.com/news/172013/
 type: article
 quality: 0
 heat: -1
@@ -32,6 +32,6 @@ related:
         width: 1200
         height: 627
 
-secured: "dNklU9OoaZ3b81wpTVOvJYOIcTC8XoWO2vkmFIMfO65cLSq2+KiTS+CQXd16SsTjqIuuNjyIKuY8qN+fhOzGcLBElbb0BaEleSJeaxAArPK8ELshrlpW+xz9C7TCjeQgCDqIj5mFuEWZwvR0mmOWuO+kxaQie4mc+u7YtJqQO5nC7zEJR+A5A+GOuMDDzt1Ovo5FDVG0y5hDoKhL3z0YRU1hPhOCdSOp5/RFotGX7pV4E+hN972l/Zd5N811piziw9nNGwTWZPYnVm9RBm/vkA==;MWuHIt+qsqqmmaO7Z7IQwA=="
+secured: "U5KQotYQfpB96ZiXgW4W3ky0rlXH/RiwKF1NA1RJi/11+ZqQZ+vlzv3Yc2f+33ExeWXwEBBlbiGnHIsUFn9salV/EicCykGCWjNUlBzXnObC90hNq17qxHIFkeWpfx4qmjzA+VbqFbqVsUCWreW2f7K+uHeRzF5L9zWdqV3nslIU+sAAZGc143m+HVlY18BryurknBwJX7NAxDrWE+suUVebqWNXEYqrvfVqdwDOZVOnaNbowvzOS6YRToQRTpNP+/aIqCUh/A+lXt1pgJ2G6Q==;xYhSoU21RrUEg+y2qjCwfg=="
 ---
 

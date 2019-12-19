@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T14:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
 
 related:
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+    excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren't possible with ordinary robots. \"We're ..."
+    publishedDateTime: 2019-12-19T05:58:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-cloudminds-launches-intelligent-smart-robot-rental-program-consumers-/2019/12/19/9072229.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: https://mms.businesswire.com/media/20191218005837/en/764018/4/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
+        width: 480
+        height: 360
   - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
     excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
     publishedDateTime: 2019-12-18T14:26:00Z

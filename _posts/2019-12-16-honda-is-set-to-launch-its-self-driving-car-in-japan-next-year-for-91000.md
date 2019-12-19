@@ -26,32 +26,21 @@ images:
     title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
 
 related:
-  - title: "GM Says Hyundai Poached Exec Who Took Self-Driving Car Secrets"
-    excerpt: "General Motors Co. accused Hyundai Motor Co.‘s U.S. unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s ..."
-    publishedDateTime: 2019-12-18T00:11:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
+  - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
+    excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
+    publishedDateTime: 2019-12-10T11:44:00Z
+    sourceUrl: https://www.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
+    ampUrl: https://amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-  - title: "Hyundai poached executive who took self-driving car secrets, claims General Motors"
-    excerpt: "General Motors Co accused Hyundai Motor‘s US unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s chief safety officer, violated non-compete agreements with the move, GM said in a lawsuit filed ..."
-    publishedDateTime: 2019-12-18T06:00:00Z
-    sourceUrl: https://www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece
-    ampUrl: https://www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/hyundai-poached-executive-who-took-self-driving-car-secrets-claims-general-motors/article30336228.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: https://www.thehindubusinessline.com/news/world/article23535582.ece/ALTERNATES/LANDSCAPE_615/14BLPRUGM
-        width: 615
-        height: 384
+      - url: https://www.bing.com/th?id=ON.0FEA5044765B11AFDAE3E38D0A506AE3
+        width: 600
+        height: 450
 
 secured: "O1k5pd0IJdVb6r1NJsqGVIAW5KSasUJP3O2ziNwEQF/bE+fNSSt4T8lMIYp17Cc4QEXTDCIkoG55mH+x+dwfizfiZKFlNBHitxAjIJf/WFgbTmBPtnIbVN+eutFnId+EQK4zxzUT57G/oaTGbZMP5eSvH2knZ9P9+ltJ6kmhSUuZOnp4+OHuil4woKCBRkTyb+E4sw78L6X/4/RQOhSpoeUbKgooBMeC/KKz1Kotr4b6NQo2tnvCykY+/kx/f3wAigc3iZADKFIU5rvmF2tMnw==;LMJbgOBSrbpSi/DrgKqiQg=="
 ---

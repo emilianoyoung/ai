@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Financial services take lessons from machine learning"
 
-secured: "v8X9fwKQ16R2oh+DcfKiaGTPMJ/g4AoirIYRJfjzeDqqjiFM2nUmdOzL67yfUGHAZKT9f7Snpn2vIZLKJ0k+A58aW88bC0RKw9BeG4XLV6SurZUxWsgNxNi24I9wjFANQYRPKaEHVfIzUNgWCbjzwCRdsKyLt9d7yAw2TKy0S6MHNmlfk68BHyhN2yfsq18s62aovHP5gliutbxc2ldO/tqROX6DWIanlO8q5kfIsXRNwdCftAAE227zRNDO1CCzKVj4k9jjQ5YEcC7M9APu7Q==;BAec16dQBqQrjxz9E5qCPw=="
+secured: "Rx4jYh7CTdIV+5PDjy19XD5xEJJXH4o0+ngwdPEHLqcTucSfX89DyO1WqfI1SWHzu/LnhVMGZPQDwGIreRZJPUn0FbRYACaV/qUIYxVn3dN7kuNF+DUfFlgUJ468mYEJ/TtljS4ZiTJ8Anu68OcQ4Stb/GcBhjGT+kHYs7nYi9cKdyiOHeliYEP/0SCrdyLLKg42oRobORUnBeShJ6/qrT+7x99+jImj8vBMPENEAzQO4juJxCo6xNgJyyYQWvNO2zUvzpqSNoPlUTI76+BpMA==;AesDe/uxp7R6+Wuhpj908w=="
 ---
 

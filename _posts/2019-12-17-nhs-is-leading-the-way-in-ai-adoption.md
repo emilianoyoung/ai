@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.BCF54A2D6DA148B6945A43056CD8DC92
         width: 700
         height: 467
+  - title: "NAM: Healthcare must proceed with caution in adopting AI"
+    excerpt: "Artificial intelligence has the potential to transform and disrupt healthcare. However, the industry must beware of unintended consequences and not give in to marketing hype and profit motives. That’s the contention of a new National Academy of Medicine ..."
+    publishedDateTime: 2019-12-19T05:40:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/nam-healthcare-must-proceed-with-caution-in-adopting-ai
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 54
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/a3cf187/2147483647/strip/true/crop/800x420+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F7e%2F22%2Fd9f681e54ee3ab9f3b04613abee3%2Fthe-keck-center-of-the-national-academies-crop.jpg
+        width: 1200
+        height: 630
 
 secured: "OSRAJGiUFyzOdggQnu+v8q3PIutSGKwWTf1TF7suS5KxlrYTsxPjIWWTCna3gcCUakUxcguXamyLHl2f1TJeV6LRyPUHpWct70vZntA5X+Z0TcT0FuQyfrqlOiIZDEdzBzregZAWxS61QLTCxbDLAvGgFyyhlqJ7cDiTFEQo6yHNOTA+/z3JKUh1MbFvlqWnIi+i1WlQcHUtlzrHbPgqMLQ1Om1CPvxUsB4pfiudA3scUxItxYgCJ6Xd5MbXUO05U4uApdDLWFeuoMT2AdXk9w==;jHVCksUsLtKiCjhdVCB+BQ=="
 ---
