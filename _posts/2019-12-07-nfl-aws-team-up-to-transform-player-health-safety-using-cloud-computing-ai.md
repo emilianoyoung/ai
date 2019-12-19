@@ -130,6 +130,17 @@ related:
       - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
         width: 700
         height: 466
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS's AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+    publishedDateTime: 2019-12-05T19:30:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
+    ampUrl: https://amp.benzinga.com/amp/content/14941071
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "EEZVWvhGQzLXoZ2YGlS9m4oYPGfOVmcM7GRNi0YYFF0ntvljOYr2kqfYM3Vvhz4YAv6mq/0CvEdH9+5F0IQminDl1Czl1oQdWeUEfFn61iLRv8+13PBXq+i48T6sihnEN7bWsRUDEksLPzsQ9qGOoxp7wQ7p0jdFEm+wZt73bvoewMnbwcjXRx340gyz2I2Crnu5n99Tj0Lry4SI6cfzkt5M7XtDUha/qxfMcg9GCBc/BtaajCqC+4RvL3hlG6sQngK7Hcu+ciHaIgFyrwlzVQ==;ImpeIbuiM9YgpvqLbvk8eg=="
 ---

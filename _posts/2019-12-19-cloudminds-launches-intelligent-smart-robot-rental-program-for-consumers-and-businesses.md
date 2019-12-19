@@ -5,7 +5,7 @@ excerpt: "From natural language processing (NLP) technology that enables smart i
 publishedDateTime: 2019-12-19T06:02:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191218005837/en/CloudMinds-Launches-Intelligent-Smart-Robot-Rental-Program
 type: article
-quality: 33
+quality: 16
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Natural Language Processing
-  - AI in Robotics
 
 images:
   - url: https://mms.businesswire.com/media/20191218005837/en/764018/23/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
@@ -50,6 +49,6 @@ related:
       domain: yahoo.com
     quality: 27
 
-secured: "P9XsdSGZT34Jb/q3KM+ZLsNS4bswJ9Qcu3WybalQJSlbZTcPgPkm0D+ya2AlM99U1uCqZIZob9Ke5pP8E9uW44R6IADjf61UigvM2dZxxMP/g+auC6KIAdDXx9AMiRjqANLslxORsZf91OVFazr7s8nXenUs1vqIT11IJCbsCOadXRwN2/PU64fL61u7dtCjgGHa73DOdGCU1y2iu7A6uA8ZEc7jkavnBY9mpNlgNsD7g4i8O9xDLNmsjxfy1X5N0UsRQscxxb1Br8stYCrL2w==;3PFSEuYfUv+mBIEcDejizg=="
+secured: "qPVJZ9zjoZxs6BI8ANmtVAl0P64m5rpClK1r3OZtnCVXvwNxur0L6xgP3pSAgi88jAuuhvxjxvG22Zv8vUtyRUN+fUk8U4J9rs/szJLCJCcEh0dn6NzkGzvF3JCXeL9v4lw4kM4Z2GSe+1nWIM5a+raL6+PmRV5Bm3mqrZy8Io8Z3FWtNke6Cz8VRymI6/B2BIP8RTHKhtySq+SOiC6bpRlQzwq/rGPChHCVLIQ2+b3QajhSHZZnf4/rmKaDjQ3oWThMiI7DIqsV61QQzBtDhA==;8O9TJPxWovgaAeQUiJKnVg=="
 ---
 

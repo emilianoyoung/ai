@@ -2,27 +2,27 @@
 category: news
 title: "East Bay city becomes latest to ban use of facial recognition technology"
 excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
-publishedDateTime: 2019-12-18T13:21:00Z
-sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
-ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
-cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+publishedDateTime: 2019-12-18T21:18:00Z
+sourceUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+ampUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.mercurynews.com/wp-content/uploads/2019/12/20160218__SJM-EYESCAN-02192-1.jpg?w=645&amp;h=484
-    width: 645
-    height: 484
+  - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
+    width: 1024
+    height: 768
     title: "East Bay city becomes latest to ban use of facial recognition technology"
 
 related:
@@ -1027,6 +1027,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "BaG1zFKtM5FwBCbLEh/uiAY0BvCcxaIIxle4Us+rw0gXPaAurKJnTWHeeaLhGXEf1P+57wTu2QLbl0wmGtpS/+o3mxk7/BLsWfRuG8hXo9h0GqCR6jSvEBwSTMIqpTbxgAGFMrG0r1xlWt4yGaEfMLbmvV1z90XWsU1Iy+9d1dJCgtE+TKXnPsZgU4Jth/lLfhkVN550Z0OPF9SV3J13GuucFHsZV3o0hxCH71AJoEghr2e8aTjzDFeqcciOxvzGebrcnblJz4goKQ3gsJovWw==;W4BiFo0eAemRxhlh5hKZhw=="
+secured: "qibwqWtwgx8NNmoQKXxi9wOhPyHFlYcktRlYKHPvVV6scMDH5eukq8VyCoUThomvTqmqyL8nJAn9GWRlgBINCgAIbhkcHpMqrqgg4ol+HcWEivzPIj9lspqEHzTNg1yZ3Z461Sn91IMRimuIKi7EmIagJLsjs5hj4imh8hnpUsyUfvOEupbwS6BqrDRzJRCfdN5piXttHbKXT5hxnrt0qd1kXnLHJzyBMcbz/qO4FH+7eqLf2KZmlugw+QwPGUd+Hz3P3KKmezA8yMSbFTE3Mw==;KyO12wYZDSLKNydrda2jpg=="
 ---
 

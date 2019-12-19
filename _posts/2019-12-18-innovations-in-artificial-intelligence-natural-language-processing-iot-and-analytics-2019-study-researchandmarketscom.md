@@ -41,7 +41,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 33
+    quality: 16
     images:
       - url: https://mms.businesswire.com/media/20191218005837/en/764018/23/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
         width: 1200
