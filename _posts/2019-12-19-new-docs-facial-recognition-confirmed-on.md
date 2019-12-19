@@ -512,6 +512,17 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 53
+  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
+    publishedDateTime: 2019-12-18T15:28:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 53
   - title: "Researchers bypass airport and payment facial recognition systems using masks"
     excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
     publishedDateTime: 2019-12-16T11:35:00Z
@@ -885,6 +896,19 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 34
+  - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
+    excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
+    publishedDateTime: 2019-12-19T16:14:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/startup-sensing-feeling-offers-video-emotion-analysis-without-facial-recognition
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
+        width: 900
+        height: 499
   - title: "Communities come face-to-face with the growing power of facial recognition technology"
     excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
     publishedDateTime: 2019-12-09T23:13:00Z
@@ -994,17 +1018,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
         width: 700
         height: 466
-  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-    publishedDateTime: 2019-12-18T15:26:00Z
-    sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    type: article
-    provider:
-      name: BuzzFeed
-      domain: buzzfeed.com
-    quality: 23
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z

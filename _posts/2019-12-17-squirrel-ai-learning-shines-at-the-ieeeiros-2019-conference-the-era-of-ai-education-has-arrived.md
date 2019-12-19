@@ -71,8 +71,8 @@ related:
         height: 550
   - title: "The machines are learning, and so are the students"
     excerpt: "Machine-learning powered systems not only track students’ progress, spot weaknesses and deliver content according to their needs, but will soon incorporate humanlike interfaces that students will be able to converse with as they would a teacher. “Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski ..."
-    publishedDateTime: 2019-12-19T10:25:00Z
-    sourceUrl: https://www.bizjournals.com/sanantonio/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
+    publishedDateTime: 2019-12-19T11:25:00Z
+    sourceUrl: https://www.bizjournals.com/albany/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
     type: article
     provider:
       name: The Business Journals

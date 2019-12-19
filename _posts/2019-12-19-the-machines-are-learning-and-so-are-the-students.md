@@ -2,8 +2,8 @@
 category: news
 title: "The machines are learning, and so are the students"
 excerpt: "Machine-learning powered systems not only track students’ progress, spot weaknesses and deliver content according to their needs, but will soon incorporate humanlike interfaces that students will be able to converse with as they would a teacher. “Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski ..."
-publishedDateTime: 2019-12-19T10:25:00Z
-sourceUrl: https://www.bizjournals.com/sanantonio/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
+publishedDateTime: 2019-12-19T11:25:00Z
+sourceUrl: https://www.bizjournals.com/albany/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
 type: article
 quality: 24
 heat: -1
@@ -83,6 +83,6 @@ related:
         width: 400
         height: 300
 
-secured: "I/fl1G/Zmq4PI9PtTp+NyvM/APHyfjyGUtSq2BJXZ5Z0uLe8f8aaDR3KDwcMqmMTe9Lo/oV6fIRISnJRFUJWajiJIM385c9LdUEobJFjypxz55Oq//KC0SCdCZHtCcqQ6Z7UYMMxysvFUXnaF8tNd9IER5n0kAS4IHmIk5gblnPqOTuMN+5BM3OA3COcrgEIVUCrJP7k7wt8GYch9BNzh900l8Mk3qfkP/pKO8cp4x+5FdZcGDQLRFvMWr4eDI6DiCeIFZfSWHNXJw9UAnx3Vw==;xyUs+EnEak408FOgkE1lKA=="
+secured: "q5hpha5oi2cPLCvIhXqRVHQIX8iAMSCXuoyXYpBwO/lGqLLAynEJ2PsqSkEFWygZ88Ou3S52mGfix8yn/N9U06cFof3KPyQPywdQjMKwDqK+dEJuyMDDaymJH/O52MSU2ZN0BFM/mKh+pXriyHmgA0RvoNj5mPQZAbBIJc80mFkXTcnjDMYzSXwHFYeUiK/V6hgEKgQgRnqyj1hhKaBBX43hpVVlg4aji39uEDIuxeb7Lxk67vNKWstyxlzYV9trOwu1EUTEDx9/fF5orl/Biw==;1WeTnJMiDBnRcbOQb5xURQ=="
 ---
 

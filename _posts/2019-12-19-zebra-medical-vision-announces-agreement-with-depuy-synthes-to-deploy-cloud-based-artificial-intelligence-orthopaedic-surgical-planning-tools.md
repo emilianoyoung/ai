@@ -5,8 +5,8 @@ excerpt: "KIBBUTZ SHEFAYIM, Israel--(BUSINESS WIRE)--Zebra Medical Vision, the d
 publishedDateTime: 2019-12-19T12:00:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191219005374/en/Zebra-Medical-Vision-Announces-Agreement-DePuy-Synthes
 type: article
-quality: 2
-heat: 2
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: https://mms.businesswire.com/media/20191219005374/en/764065/23/zebra_-_JJ.jpg

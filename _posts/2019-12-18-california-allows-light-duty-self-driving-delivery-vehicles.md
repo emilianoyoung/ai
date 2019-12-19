@@ -2,22 +2,16 @@
 category: news
 title: "California allows 'light-duty' self-driving delivery vehicles"
 excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
-publishedDateTime: 2019-12-18T18:35:00Z
-sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+publishedDateTime: 2019-12-18T19:35:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/california-allows-light-duty-self-driving-delivery-vehicles/ar-BBY8kiJ
 type: article
-quality: 54
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -40,6 +34,6 @@ related:
         width: 700
         height: 393
 
-secured: "47S8v3Mga8MieFNKGtbW0uYyyZvq+LxIP7EX+gmHily8vgGcMeb1TKhGNAN2Rmcy0GlgM2iQ+XfTvtgzoqmZzn2Eef2HANFASPMKOP/QwdP9lP21y1uwc29qkdLgrR+U0FCbeEDASSgtvGvPZr40kwlfbE+lvrwiqN+Pa0T9MXFbM6p4teSTBA8NJeY58ydc1wW/GEhox1+uqWEo+qEsY2V5qZ3rWhNipdZX3nxdikCoo5BwbXU1Tyt1kFr0wm1djtce7FJWyCB0C0h47ZCjSQ==;SCpwb8qJFApGnFtATiGzfQ=="
+secured: "zgJTQNfcaqIWb1joOzFiweHUZdlxhdTMjtwb32WYLYyScYj+3zfriIsU99ZrfKC15Pevi/X7YBeCZtM8hPySmosAFAwCZKjxrXozO3+Z306XAB5f1kqogznWtmDYHLAVFTpdbPg284XntgauzviQlQ7jhxP3ski+vfaQyx06JY6GabJzAfb++Td6/snSJbgNVX/7qvz4qNcgJVsS255Xtjlzb3btr//L4c3+ram7QH9aTZ96eWHzdrsPusKb2Q9hoWCGkYq7EMAf2yZZPxGo8A==;DcccVScSXeUmRKVTmKuYGg=="
 ---
 

@@ -28,15 +28,13 @@ images:
 related:
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
-    publishedDateTime: 2019-12-18T18:35:00Z
-    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    publishedDateTime: 2019-12-18T19:35:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/california-allows-light-duty-self-driving-delivery-vehicles/ar-BBY8kiJ
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 4
 
 secured: "G5C3zp8Rrchcbm4rdeJXJlcKIuqw+WlnTZcM8YOMimLA5iI34ULBHdhd0vMISC5z4uLpCvHKltjcdG8d5E1fQacEqtMN02vYpXaIMPCTostIFoWCl5xQBm3mGXhhcpOMFRPDTUkv4hQM+8bczKOV6UFRCKKGdtVmgzJ6gG7R5bBX5NOdgaIZK6PrPncAUPlGp9tbgvWOHl0Tlb5MSXSCQSn0QcHtoCWytcG01DkfQGIA+21mRHqnCV7b9osWMEmCevxaFqK5F2FUyIZsUC9/UQ==;AfS2t9sPi6mAYsT8Ge1uUw=="
 ---

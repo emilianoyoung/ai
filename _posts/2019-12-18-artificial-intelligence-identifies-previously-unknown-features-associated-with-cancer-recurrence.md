@@ -25,6 +25,17 @@ images:
     height: 747
     title: "Artificial intelligence identifies previously unknown features associated with cancer recurrence"
 
+related:
+  - title: "Artificial intelligence identifies previously unknown features associated with cancer recurrence"
+    excerpt: "Artificial intelligence (AI) technology has successfully found features in pathology images from human cancer patients, without annotation, that could be understood by human doctors. Further, the AI identified features relevant to cancer prognosis that were not previously noted by pathologists, leading to a higher accuracy of prostate cancer ..."
+    publishedDateTime: 2019-12-19T16:12:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191218090156.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+
 secured: "pWqUzpAgjh0LmCPTT5LMwHgMdYFcpENWStL/Tqx7Y1YIg9t6hxWtfcc/pnpGBhm4SF1ZdWDMGZ8Cyuh6aik6+9e6pqkNMV3u1XSf6o47YqEsLACLzPOTaXXRg++fLBWjK8nK8zdbrZpkMlw3aAse3mRBghjd351csw4oWX0s4grAJ9XuSYHJh7qNOVpGwK96F/GwZD0CtPwP+mBCwKREeGOx5rvB31B29zN02gDObUVMKeO74ym8zXizShIPFJ8FNTa9BWSw/E1VQSmV/XFvDA==;g9kq0FyePqM0Ln2bLf/1EQ=="
 ---
 

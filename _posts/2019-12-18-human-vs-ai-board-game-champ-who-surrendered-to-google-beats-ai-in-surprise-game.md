@@ -2,29 +2,38 @@
 category: news
 title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
 excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs like DeepMind’s AlphaGo, but with less developed AI, we still have an edge. On Wednesday, the 36-year-old Go player won a match over an AI program called HanDol, built by ..."
-publishedDateTime: 2019-12-18T16:38:00Z
-sourceUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/
-ampUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
-cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
+publishedDateTime: 2019-12-18T17:39:21Z
+sourceUrl: https://www.msn.com/en-us/news/technology/human-vs-ai-board-game-champ-who-surrendered-to-google-beats-ai-in-surprise-game/ar-BBY8dYw
 type: article
-quality: 52
-heat: 52
+quality: 12
+heat: -1
 published: false
 
 provider:
-  name: Observer
-  domain: observer.com
+  name: Observer on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Google AI
 
-images:
-  - url: https://nyoobserver.files.wordpress.com/2019/12/gettyimages-514604328.jpg?quality=80&amp;w=1200&amp;strip
-    width: 2344
-    height: 1556
-    title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
+related:
+  - title: "Why video games and board games aren’t a good measure of AI intelligence"
+    excerpt: "... Chollet also laid out an argument that the AI world needs to refocus on what intelligence is and isn’t. If researchers want to make progress toward general artificial intelligence, says Chollet, they need to look past popular benchmarks like video ..."
+    publishedDateTime: 2019-12-19T16:57:00Z
+    sourceUrl: https://www.theverge.com/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
+        width: 700
+        height: 366
 
-secured: "IVQwmuKFq1U2Z5uuGknZU1BVum2tXf+WQBm7EeYXFfk7DcFP5ID5/WCHNgNgmFGAJKI27EzWGjo3Rslzd8BL1jXDRrcQqTDcnaOPatsuz8ZYt2C8/2CpbCPaD3gDtr39utDoWv6vzVplGASmiZHRuprQfSiIm0zNKomqVXA0ykHVJ4vMpB0ykfLLoxHr4UTrGLSsnxniUAKbU29wPaRNN6ArszC5tvzyVzBA82KTGgGF2EuUHInhuRJiX7LT+u9u/MmnzkJOD7fzfYaysxIsOg==;coVMWKbdJ4rYh+bCKIFhUw=="
+secured: "c76WOiNR3M0bfDjMiZlOZiQxKPIdufpu/um0Fw3L6DMMTtfWBOg9G7m85I0aiGnkTTCvEgM54ESEypKTBU163JXlYNhB6lF4iHv/SQaKKNI+gBKB1Pm/dvrDM0eE5B/r1gRNgGzcznL2A3F6smnagEz4NVqQ7LhVwnuPHWUhC5j/tWkVH/YICrP7F93KOA1NSsf35IG/EnV0NF8aFh157JK1rkQxfDUFsS5tgU2j4tAyDTtUQKJtHVCatb9mUeDOi6UpfM4Sq9+fSjSrtw24HA==;ZwOpbl/Tt5d2HnxUShG11g=="
 ---
 

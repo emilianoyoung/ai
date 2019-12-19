@@ -2,18 +2,22 @@
 category: news
 title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
 excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-publishedDateTime: 2019-12-18T15:26:00Z
-sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+publishedDateTime: 2019-12-18T15:28:00Z
+sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: BuzzFeed
-  domain: buzzfeed.com
+  name: BuzzFeed News
+  domain: buzzfeednews.com
+  images:
+    - url: /assets/images/organizations/buzzfeednews.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -894,6 +898,19 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 34
+  - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
+    excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
+    publishedDateTime: 2019-12-19T16:14:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/startup-sensing-feeling-offers-video-emotion-analysis-without-facial-recognition
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
+        width: 900
+        height: 499
   - title: "Communities come face-to-face with the growing power of facial recognition technology"
     excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
     publishedDateTime: 2019-12-09T23:13:00Z
@@ -1040,6 +1057,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "Js79BVilQcONy7RTLfwILqquxG0MpX4gi2+geH82VKiMvQfiTHQxPq/fpBtqoTKwkwV20ArTd143KjX0OxseAHaC8aYoNRJ/GwfAu6+y1Zft39co43ASfhrja8WfVXBqEMpM9tlmyOdplrblflgABxAlDBYzd8+0S1keiT7p6lM8Y3iMYACeH0C7MxzyMCP1GpMZT7hEyAN9b+hbIDFhoEVAQK3PTJ0rqou6kH13wnYNwNq4dEm+c7ho31LzI7ocFXvWhOQOBiECQkxkIjiSCQ==;1qEhr6Pt5eRsfANqRTG6BQ=="
+secured: "x26Zay1kSprDjzlKJd/3tkOPe7oslrKz2VB6ySosIZt8JJgc3lzdNGPo9CufxFVoEX+SVqYCfJJ0KSLnXWcRVgxlJ+0+S9CvSweZR6D2LRnd/nt78P8PRWmPDAP01+eLvSl66USY+W9dWSAcSzgN4m08mqwnOxA406bAxnqDJLIFcl+pgS4uNRa5/HdH0WNRI67BI/SNrMj9Pp59TItN7UavWEht2F3BvxJjApTjsOblZheU2tPVCqB5OMJatfHPDJDgRQgBb7WsUlb2aBKNew==;z8NdgqmJ0352FebWNKwQRw=="
 ---
 

@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "9QI2PW7vc+3lqYmMY74Ppc6jvXhALZyNwjHp6xdBj0QXqHLOSjSbh68FDD3blyvpExVu8aj+KWlfAuemDJWSxjeCvE/9PFfsQIH2fZFPH4n4cEpQ5HmBtVzLZpt/B3HMq/gRbxAnMuyO+80a2AKqCe720UPX68u/U70QckSg8HC/oOtMZnjoZuNLhBf2dHeWhWqa1jIRor2m5oUXfnr4lYnxcphoW75ZMHsQQVSX6z8pICoVmCl94QHAeNMNWgtGTk8MItcPAzXO/XZDHPpK7w==;P8DkIWlC0ZXGBDVINb4omQ=="
 ---

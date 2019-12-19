@@ -95,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5E4D51F2F53FA46CB041B4EC724BD11D
         width: 700
         height: 466
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-    publishedDateTime: 2019-12-06T15:34:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
   - title: "Regtech: Transforming The Fintech Landscape"
     excerpt: "from AI to the Internet of Things, and it’s not surprising that we are seeing the regulatory technology (RegTech) space advancing at an exponential rate. Everything from facial recognition technology to NFC passport chip reading is aiding FinTech businesses in their quest for compliance, bolstered by the added security that assets like cloud ..."
     publishedDateTime: 2019-12-06T01:55:00Z
@@ -132,17 +119,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 31
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS's AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-    publishedDateTime: 2019-12-05T19:30:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
-    ampUrl: https://amp.benzinga.com/amp/content/14941071
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "gLoxFmMGm+/KwOLxTuI+4Fc2G+Fg7gNl8oT6ppuEfDSDlMByZQwe9XGlMg61b+E0QbbLXVyTgms991aTL97gGgj123N68MsQdEaEGzWYoqAVLVNlJ/5IBB4GfPOBnevghA0e5chn5nZNj113O2pu2ju0BgQlJLgjTJwbB8aNA1X/zuZnsZcSLbSOdX9XaADEXw14fiUbwE45Eqs3F+m5u6BNFUlAKwX6LpU46pcH/dCYkPVoeWL2FluLLFI5cJIRYDyOtoD6qEbreLoooHUvZw==;2S3x6AaUkkZfmccaXTRlvQ=="
 ---
