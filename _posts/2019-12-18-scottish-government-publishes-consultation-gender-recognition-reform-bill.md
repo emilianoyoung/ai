@@ -324,17 +324,17 @@ related:
         height: 367
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
-    publishedDateTime: 2019-12-18T13:21:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
-    ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    publishedDateTime: 2019-12-18T21:18:00Z
+    sourceUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+    ampUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 58
     images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-FACERECOG-0628-1-1.jpg?w=1024&amp;h=768
+      - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
@@ -507,6 +507,17 @@ related:
     sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
     ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
     cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 53
+  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
+    publishedDateTime: 2019-12-18T15:28:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
     type: article
     provider:
       name: BuzzFeed News
@@ -1007,17 +1018,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BAF8E0C09CABB09C650896BE35960705
         width: 300
         height: 170
-  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-    publishedDateTime: 2019-12-18T15:26:00Z
-    sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    type: article
-    provider:
-      name: BuzzFeed
-      domain: buzzfeed.com
-    quality: 23
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z

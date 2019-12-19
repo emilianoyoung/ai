@@ -2,18 +2,22 @@
 category: news
 title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
 excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-publishedDateTime: 2019-12-18T15:26:00Z
-sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+publishedDateTime: 2019-12-18T15:28:00Z
+sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: BuzzFeed
-  domain: buzzfeed.com
+  name: BuzzFeed News
+  domain: buzzfeednews.com
+  images:
+    - url: /assets/images/organizations/buzzfeednews.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -320,17 +324,17 @@ related:
         height: 367
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
-    publishedDateTime: 2019-12-18T13:21:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
-    ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    publishedDateTime: 2019-12-18T21:18:00Z
+    sourceUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+    ampUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 58
     images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-FACERECOG-0628-1-1.jpg?w=1024&amp;h=768
+      - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
@@ -1053,6 +1057,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "J9qGVqutlkZEUJLHVlM2jI1hI29B2ELNalzPjCVyxN6WdcF4tz89F202CiLcwR3DIQcYv9/NTOxv34AA72xlbKOe/tZoogHYReYAAKoMbmJqK1qNduiJtxAmvrZLGGrmplcVaZPYRaeLjdkpbcPZFXPkScPAvSdEMAPbAT9+lv9gUo4gEUwa5nXoFUerutHVCXo1LrXWn7BZ2ke8j1usH7LXa0XN4TM+JnKJWh1R9sDfkDdPxFP6ucx3p7cKGE9Az9NO9CxLfDt4UisE+1yVEw==;zXbqaJtUp9+7idlaCnovlg=="
+secured: "oTmYFsRrBhNBLvqNCi6PBROtEsBfZX3deEIpETc16447ArISWpuNL4OPxsyeDQ0rVpHRvIBYx5yK1WPyk4ZWC5xsfjXuuWTfSCyRNwKJz8qKC52vcJ8GBy54tKHe55GpiD8VW3RA1rnx7QbnxI9THKrp3l6bsMV9Kehcf3OeSnNr2LbDqVCtEPxDlhPX8QpvNR7jeLgCxWT0gbBJvO8oInvOQirHsF/HqQLTTMhv0+OeiOdA1tlG/3VqVzRzsEHEDzFRTqTAjmTHq8BftpQycA==;dw4AD3I/MF3aFP7/n3x0YQ=="
 ---
 

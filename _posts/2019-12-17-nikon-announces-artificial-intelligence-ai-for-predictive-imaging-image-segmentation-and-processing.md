@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.769C305653CA13B312F02236D6DDAEA7
         width: 533
         height: 399
+  - title: "Hugging Face Raises $15M For its Open-Source Natural Language Processing Platform"
+    excerpt: "Natural language processing (NLP) is at the core of breakthrough, AI technologies and has powered apps like SignAll, which is used to translated sign language into text. Hugging Face brings NLP to the mainstream through its open-source framework Transformers that has over 1M installations. Hugging Face’s NLP platform has led to the launch of ..."
+    publishedDateTime: 2019-12-19T17:27:00Z
+    sourceUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/
+    ampUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
+    cdnAmpUrl: https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.A71FB55C06FEA039E9164A36327AC063
+        width: 700
+        height: 525
   - title: "Hugging Face Raises $15 Million to Expand Natural Language Processing Library"
     excerpt: "Natural language processing company (NLP) Hugging Face has announced it raised $15 million in funding in a round led by Lux Capital, and with participation from A.Capital, Betaworks, Richard Socher, Greg Brockman, and NBA star Kevin Durant. Hugging Face originally launched a chatbot app back in 2017 that allowed users to generate a digital ..."
     publishedDateTime: 2019-12-18T16:18:00Z

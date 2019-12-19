@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T14:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
-  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
-    excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
-    publishedDateTime: 2019-12-19T12:17:00Z
-    sourceUrl: https://www.hostreview.com/news/191219-cloudminds-launches-intelligent-smart-robot-rental-program-for-consumers-and-businesses
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 16
-    images:
-      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
-        width: 400
-        height: 400
 
 secured: "ELC4/NWmZyLjerMefE21GwP9s1DbGJpDr//TACmYv7ODQ8LZbGQW9xiFDdQZ4Tq9ihIjiO0jzWN3xev2sO6Eyg/nbNItbA5KgptLrMovKD0PwQcOIP8h9+7Kf3cm1/pEksOhOw8Fq02+hshQmG4DOAfgdws1CyGy22PrrQXpRl6crVu+FPGcRDcQCXrNVW8vZIOcDwPj2H64fhB18YwC7GKsb/Mx+E+VoN5UuO2vI+dYOQ/Y8bGhmlhPOeCCAKvO/L+FGmFrIU4/fthWH3qA+Q==;eQzGMwjlm8J8/LuHdbNLVg=="
 ---

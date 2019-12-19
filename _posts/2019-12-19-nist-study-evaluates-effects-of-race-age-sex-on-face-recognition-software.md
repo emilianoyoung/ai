@@ -23,6 +23,19 @@ images:
     height: 393
     title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
 
+related:
+  - title: "Federal study finds race, gender affect face-scanning tech"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how ..."
+    publishedDateTime: 2019-12-19T18:58:00Z
+    sourceUrl: https://www.kansascity.com/news/business/national-international/article238549628.html
+    ampUrl: https://amp.kansascity.com/news/business/national-international/article238549628.html
+    cdnAmpUrl: https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article238549628.html
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 24
+
 secured: "tXjlvwIkUFUy4NiG9vrQiSwlwt4FfyZwfrMOIndx3vw54hwRBKBK5euCo6/59GqPsAAe3o8nGPqvJYnKaUdnGVul6lEq7iTyfRN8VYZsAiZcVrSVYFCcU8JI0CbMJIYF+nZEh/jZKMpKcpfuQswXgqA05yPp2dA7+y30titjETNxmRl814elmm4jnOlmoghV96RFFyXh0799PjnqkT78HkUkhtI1WKddBYbteTqZm5w2EDHHFAynJcwTjLW02s/WQ2CjQjZZg4VvgqwpO/ytIA==;uSywkPP11eIKzt7dKae0nA=="
 ---
 

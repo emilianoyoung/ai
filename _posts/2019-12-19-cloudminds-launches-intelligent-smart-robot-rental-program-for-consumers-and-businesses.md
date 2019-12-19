@@ -1,54 +1,28 @@
 ---
 category: news
-title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
-excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
-publishedDateTime: 2019-12-19T12:17:00Z
-sourceUrl: https://www.hostreview.com/news/191219-cloudminds-launches-intelligent-smart-robot-rental-program-for-consumers-and-businesses
+title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+excerpt: "CloudMinds Technology Inc. - a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity - has launched an innovative Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. From natural language processing (NLP ..."
+publishedDateTime: 2019-12-19T05:58:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-cloudminds-launches-intelligent-smart-robot-rental-program-consumers-/2019/12/19/9072229.htm
 type: article
-quality: 16
-heat: -1
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Host Review
-  domain: hostreview.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - AI in Robotics
 
 images:
-  - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
-    width: 400
-    height: 400
-    title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
+  - url: https://mms.businesswire.com/media/20191218005837/en/764018/4/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
+    width: 480
+    height: 360
+    title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
 
-related:
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "MELVILLE, N.Y., Dec. 16, 2019 /PRNewswire/ -- Nikon Instruments Inc., innovator of advanced microscope systems, today announced NIS.ai, a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
-        width: 400
-        height: 142
-  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-    publishedDateTime: 2019-12-18T14:26:00Z
-    sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
-
-secured: "Lbzi5/EPQDQ/3YkZaNWhvVT0OaZg35I/L6iJmCv1mG/QLIvJ0mooKmIwOCz7DxeL6kh+E4Plw1xtfyZV2xHwQ4RUxxQkiRA5QL2k1/bqQAfSCVNZNzWI/H6q3/XwAiCw0hYxnC9Ln40fmNFyew0+xrdrmT/D/biGt1nj4DZa03zatAHp5U17afIIyAot3jma8cCsZWtJli7WSCyAtoKYZA/t/nAFyl/10BT119vLtW6sIF0WBtrQK+AxhyQe4P2mlnbAWXhcR9g1ZldfNSp3PQ==;I4kp+tPSme0dFA1EZkKvPw=="
+secured: "3e7JJV/dGGhikxouo2zLSceGsm2EGS/T4GoUSTqLEpSDkE8n2o1SMjsYhPZjbhI4gr5xTPwoiu1uztxsNmSZKqisejjmUVUZiYuiIo5s8wnpD/cM8oEtT8IkyLdg9bLGcq58qccKDGBRClstegkdwtS1vh0P4skXGuNOv9K1mg4575WHqUScUFnQVj48MU4fayCehYft7aru3BnP/nw4e3Is4iTCphL1FXpcVE4+YKwBsSlMrdcYi648aXJ5bgNSODwYJoP+P7ndNTumjwrSOA==;IUad5pHbBrme1VjLYsIJfA=="
 ---
 

@@ -20,13 +20,13 @@ topics:
 related:
   - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
     excerpt: "DENVER, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Denver-based digital marketing agency Nuclear Networking has implemented AI and machine learning tools into its digital advertising strategy, allowing for 24/7 competitor monitoring and better budget spending. “At Nuclear Networking, our core digital advertising managers have a high level of business ..."
-    publishedDateTime: 2019-12-19T16:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962944/0/en/Nuclear-Networking-Implements-AI-and-Machine-Learning-Into-Digital-Advertising-Strategy.html
+    publishedDateTime: 2019-12-19T15:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy-1028776454
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 26
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
 
 secured: "BIGa/Y6jRqE53mMjOV9qn6mBVTETQH+QdywLARzGPKITlq3S5b0fXm42UPKaTKbTmPpbJsUD2Hj+WQjf0DRA/dcwFbJPp1yXu2EfIL01/s+W7ArRyIID2N+lbAsSGhs9UczJk1OIFEKilEymF1PIcIMkF1b3rtDjUvJuaZKFlXnW7ynBR6qNCQcNdnjbSNFfaUnLo3nNPPcwGAkBQw/C/ASI0BIe/KC3AJg0Wo7QPElIphPwrgA1n/InufTWG4Se6COQu6abYsgHnP40f9Bs+A==;R0bwF0fa5ZT06vzsnATGOA=="
 ---
