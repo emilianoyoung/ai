@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F18C46FC3A37CD38B6D82FB6CF5441D6
         width: 700
         height: 466
+  - title: "What will the digital healthcare revolution look like?"
+    excerpt: "Abbott explains how remote monitoring, artificial intelligence and predictive analytics will all influence a new era of digital healthcare. Editor's Note: This publication originially appeared on Abbott's website. Healthcare has evolved at an incredible pace. The industry has brought forth a number of cutting-edge developments, including ..."
+    publishedDateTime: 2019-12-06T21:00:00Z
+    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/what-will-the-digital-healthcare-revolution-look-like.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg
+        width: 400
+        height: 300
 
 secured: "rNqkQvXvrh049NDGVc3OAZaTKQifBzM/Z1TVYOe8lqpQ4bmzGix5bvtgTbreC87+IJntGRndXS5oeTi4g9aPpYlv+EoYNXOV0uQQ8FCXeQlF9EjIwXHA3HXA9pFAeglXrz2EOdcLJcypvvsh6rlxc/RDedXXh32tt1AsnSn5W5BCA1PpHy9t7EkC49ZdJ9b0Bu/z6+Vi8H4UFUX3bOeaIkhNR5007NYHR+MQ8+j9X9jKN6/BuXwW9U76QfLq4HYTwYvVQ1VuZ4fA5Mxw6zSRnA==;8yjlZhCHZKjye2Uzxmst0Q=="
 ---

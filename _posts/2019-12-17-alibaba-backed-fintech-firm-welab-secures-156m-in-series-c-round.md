@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T09:19:00Z
 sourceUrl: https://www.techinasia.com/welab-secures-156m
 type: article
 quality: 54
-heat: 85
+heat: 84
 published: true
 
 provider:

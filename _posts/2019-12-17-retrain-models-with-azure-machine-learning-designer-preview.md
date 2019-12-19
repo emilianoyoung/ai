@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T20:47:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-retrain-designer
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

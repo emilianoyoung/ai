@@ -24,47 +24,34 @@ images:
     title: "What will the digital healthcare revolution look like?"
 
 related:
-  - title: "Google Isn't Looking To Revolutionize Health Care, It Just Wants To Improve On The Status Quo"
-    excerpt: "managing and treating diseases), Google Fit (tracking and encouraging healthier lifestyles), Calico (research aimed at treating and even slowing aging), DeepMind Health (applying AI to health and health care), Senosis (turning smartphones into health monitors) and the recently acquired Fitbit (activity tracking). While these efforts have to a ..."
-    publishedDateTime: 2019-12-12T14:08:00Z
-    sourceUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html
-    ampUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
+  - title: "How 5G Will Power The Industrial Commerce Revolution"
+    excerpt: "US respondents cited connected cars (62 percent), connected secure homes (42 percent), emergency services (42 percent), smart buildings (41 percent), and translation or linguistic services (41 percent). Mobile office (35 percent) was further down on the list.” A scholarly research paper on the subject summed up the issue. “Machine to ..."
+    publishedDateTime: 2019-12-06T20:50:00Z
+    sourceUrl: https://www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/
+    ampUrl: https://www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2019/5gs-machine-to-machine-industrial-commerce-revolution/amp/
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 65
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.8AAB57F771A66DF3973908ACEFF3DD68
-        width: 700
-        height: 350
-  - title: "Have your health care records been obtained by Google?"
-    excerpt: "BRYAN, Texas — Google has been, and is paving its way into the healthcare industry. The tech company recently formed a partnership ... “Ascension is sharing health information of its patients to Google and with the objective of creating artificial intelligence and machine learning software tools to make health information more useful ..."
-    publishedDateTime: 2019-12-05T23:02:00Z
-    sourceUrl: https://www.kiiitv.com/article/news/national/google-health-care-records-privacy-project-nightingale/503-17289f27-4459-489e-8d18-7a3b73c4b3df
+      - url: https://www.bing.com/th?id=ON.3EFCF0AE44207EE6198372D579EAC0F9
+        width: 457
+        height: 199
+  - title: "4 Industries Shaken By The Artificial Intelligence Revolution"
+    excerpt: "Artificial intelligence has had a profound impact on our lives ... There have been so many medical advancements over the last few years and this is especially the case when you look at the world of healthcare. Medical devices and even surgical equipment have come a huge way and the recovery time of patients has also been reduced."
+    publishedDateTime: 2019-12-03T20:34:00Z
+    sourceUrl: https://www.smartdatacollective.com/4-industries-shaken-by-artificial-intelligence-revolution/
     type: article
     provider:
-      name: Kiii3 News
-      domain: kiiitv.com
+      name: SmartData Collective
+      domain: smartdatacollective.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.507A49C3848B2DE1F078ADA6CD3506ED
+      - url: https://www.bing.com/th?id=ON.F18C46FC3A37CD38B6D82FB6CF5441D6
         width: 700
-        height: 393
-  - title: "Google wants people with Down syndrome to record themselves speaking to help train its AI to recognize unique speech patterns (GOOGL)"
-    excerpt: "But for people with unique speech patterns, these devices can be inaccessible when speech-recognition technology fails to understand what users are saying. Google is aiming to change that with a new initiative dubbed \" Project Understood .\" The company is partnering with the Canadian Down Syndrome Society to solicit hundreds of voice recordings ..."
-    publishedDateTime: 2019-12-05T17:02:00Z
-    sourceUrl: https://www.pulse.com.gh/bi/tech/google-wants-people-with-down-syndrome-to-record-themselves-speaking-to-help-train/yk0v4wd
-    type: article
-    provider:
-      name: pulse.com.gh
-      domain: pulse.com.gh
-    quality: 8
-    images:
-      - url: https://www.bing.com/th?id=ON.4206733121F1439C4B97D115AAC3B5B1
-        width: 700
-        height: 367
+        height: 466
 
 secured: "7ZuqSrkpgUf0cdvLbE63g3Z0GLFjfxs5V/WnCfiGBVb3Z8Q4hye+NI4Agtkdp6oL4oxi2JRYtWNr18XgszliEgII37ekuuXfEje+fT9KOhFz4JbJzdD60aKIwGYa5+KlroEY0SDvE8jofboXqEpILN45oW4UPmQkcLsgfIbEHH1bCbEIuwLPrPmGasyJP5Aqz0pYHZycNu1cMETxvwHeXbWjCF0cheJMJl21OHFR0TbAgkQDRpiXtNFjdl5A8IXy2enHlS+k6OzUtlOczh0DSw==;b82rZR33NNLN558PZXx4mw=="
 ---

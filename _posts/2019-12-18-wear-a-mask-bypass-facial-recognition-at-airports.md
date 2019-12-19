@@ -709,9 +709,9 @@ related:
         width: 530
         height: 360
   - title: "Lawmakers seek answers on HUD's use of facial recognition"
-    excerpt: "Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD."
+    excerpt: "Eight Democratic lawmakers, including noted privacy hawk Sen. Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD. In a Dec. 18 letter, the lawmakers are seeking a breakdown of public housing and subsidized ..."
     publishedDateTime: 2019-12-18T21:19:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx?admgarea=TC_Management
+    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx
     type: article
     provider:
       name: Federal Computer Week
