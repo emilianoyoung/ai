@@ -8,7 +8,7 @@ ampUrl: https://deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtu
 cdnAmpUrl: https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtube-documentary-series-watch-the-trailer-1202807411/amp/
 type: article
 quality: 148
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -51,6 +51,19 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
+        width: 700
+        height: 367
+  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
+    excerpt: "the actor introduces viewers to Soul Machines CEO Mark Sagar. Sagar is a special effects artist who worked on films like King Kong and Avatar who is using his expertise in animating faces to create an AI-animated digital avatar for the Black Eyed Peas' will.i.am. In the second episode, meanwhile, we learn about Project Euphonia, a speech ..."
+    publishedDateTime: 2019-12-18T23:22:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/youtubes-series-on-ai-with-robert-downey-jr-is-finally-available/ar-BBY8zuk
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
         width: 700
         height: 367
 

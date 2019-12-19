@@ -127,6 +127,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:38:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
   - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
     excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
     publishedDateTime: 2019-12-19T10:40:00Z

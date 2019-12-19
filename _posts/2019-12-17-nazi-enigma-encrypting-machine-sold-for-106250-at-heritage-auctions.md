@@ -54,15 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.91610043CF3DAC4C41158A3E5FA96A5D
         width: 700
         height: 466
-  - title: "OMNIQ's Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "SALT LAKE CITY, Dec. 19, 2019 (GLOBE NEWSWIRE) -- OMNIQ, Corp. (OTCQB: OMQS) (“OMNIQ” or “the Company”), via its HTS division, announces that it has been awarded a contract for the installation of its AI-based vehicle recognition system for use in ..."
-    publishedDateTime: 2019-12-19T13:36:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-omniqs-machine-vision-vehicle-recognition-solution-selected-security-/2019/12/19/9072551.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "NEOq07srwR635K0u6N9HORUb4yHcxP4qW323SvseBxxn+PzGsR90EPvN0f1LfXhtalBHzKpvzsezP2WOLDA7ne8nuq0nDF4pKdNVqODPn5OWsgP4vNxIRdsIRLzTJBtGqw1WSxHRPSvxfC+3yMbGKVg4ZZquKWApGCNLHVqnxP6OktVOCd0n0MatZBnlBPe0aTA7T8DoRBSNFWiWEg/7NHxuooEY3cceha/Uw0WduKMBWd66ZHK7p3tpdyEKTrZLofoy+sLSx66ePAykcqJzEg==;lGqDpDoR7RfRMczqql/y6w=="
 ---

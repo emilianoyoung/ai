@@ -26,19 +26,6 @@ images:
 
 related:
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-17T22:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
     publishedDateTime: 2019-12-18T09:00:00Z
     sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
@@ -49,6 +36,21 @@ related:
     quality: 72
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
+    excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
+    publishedDateTime: 2019-12-18T14:57:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 44
+    images:
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
         width: 1200
         height: 630
   - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
@@ -66,19 +68,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
         width: 700
         height: 394
-  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
-    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
-    publishedDateTime: 2019-12-11T10:13:00Z
-    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
-        width: 612
-        height: 355
   - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
     publishedDateTime: 2019-12-18T09:48:00Z
@@ -88,19 +77,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
-    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
-    publishedDateTime: 2019-12-19T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aimotives-latest-aiware3p-delivers-superior-nn-acceleration-for-production-l2-l3-automotive-ai-300977280.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: https://mma.prnewswire.com/media/777482/ai_motive_landscape_logo_Logo.jpg?p=facebook
-        width: 2683
-        height: 1406
 
 secured: "b1IE0u3anmfBbTUW6Ndb5RZYwcuMm2NC7ImdDYG58+vIVert/F2c6c+vWdsHsdh86cQnTeHAbmLTsA8GYw75y/JBDSzUkCospwdlvHwFKdySdfxlRmO1rLrS1D91fNtNIMpo+1KC/LnNI1hpNZZRgwRnW8gFjvRbgVaNaaZktpL22ChfXwTgJ14NmMSHoSjGhCd2ATLQWAd8WuqQ0sIhfEtyOtBf3Ube0kpKm6ffVawRiczH7q6zAdkNnT/dguGGLylLfMa4Sr73QATeGypXIw==;G4K/OFzCHAD9h2x84QHexg=="
 ---

@@ -33,6 +33,15 @@ related:
       - url: https://www.bing.com/th?id=ON.D3E829350AC2A593BA84C30D1BD2275C
         width: 400
         height: 267
+  - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-medical-linear-accelerators-markets-2020-2025---leading-vendors-are-varian-medical-systems-elekta-and-accuray-300977661.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "RTZ0wNsLEl3qHdzkZDZxDJYAvnDcCyLZ10twL1s+GuRgr1xZ/M/I/KRQ5bogOd7jTtMCDlsocuAf0V1OtFhQe4fHpZs5d218biQEuLHKojneE9WJquaiyFEzS/yu2n9Cc1WSBqfuueAQCslsAmlAXE7aEhatG85S8nsfMWiW1MTh5uxD+B6q03UoCIc8vJVYOTdzhCxuZ6IVntNX4mFYqJAGfdc7V9hyfcJf2uFOJafZj4O02680hKkOOSD5n54xqdoWFz/iyV7eWy5Kg7xrxQ==;oShNN2Y574aRyqe3QttqPw=="
 ---

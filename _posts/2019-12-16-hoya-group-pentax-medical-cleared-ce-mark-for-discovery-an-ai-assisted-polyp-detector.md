@@ -35,6 +35,15 @@ related:
       name: TASS
       domain: tass.com
     quality: 29
+  - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-medical-linear-accelerators-markets-2020-2025---leading-vendors-are-varian-medical-systems-elekta-and-accuray-300977661.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "YcyZw6qYp3nyohdUMedsu3jer+Nk3+lByeNdoSMX6NkWfPGC3ywdPlFDhTrcdUADzupxnj6sHeDQA+2lbnEYhzwBWqNpFuSNflEF+TkBMw41WGsKoTKz48UtgIlgL+Kcu/kSuDlCFrsZ/IaAvvEsoyZG4kIMOTYE33UyNfBVUE20O1NsfFx31dFu/EYJPHVqPh2lVkUWIJeN8uHzCMWHlffIhNne/uzn1Ib26YZFFTY/pCQSOQPIOBhtOlKwRi39PiflWVkb4fyjH0dnMtrT4g==;aVEzTrjw80MocUIFvCXtJQ=="
 ---

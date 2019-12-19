@@ -2,21 +2,20 @@
 category: news
 title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
 excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
-publishedDateTime: 2019-12-18T16:54:00Z
-sourceUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal
-ampUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
-cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
+publishedDateTime: 2019-12-18T16:54:53Z
+sourceUrl: https://www.msn.com/en-us/news/politics/democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal-housing/ar-BBY84ZN
 type: article
-quality: 137
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: The Hill on MSN.com
+  domain: msn.com
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
@@ -325,17 +324,17 @@ related:
         height: 367
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
-    publishedDateTime: 2019-12-18T13:21:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
-    ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    publishedDateTime: 2019-12-18T21:18:00Z
+    sourceUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+    ampUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 58
     images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-FACERECOG-0628-1-1.jpg?w=1024&amp;h=768
+      - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
@@ -1043,6 +1042,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "YJGTkLDKnQE17WMAKEmPG5Z6l+zs8cfrAwUHvxL72dcvsRMYBKSNXPk6jAydnXuxP3I9q4JROMLOl6DbBNfNwoGgq6iCIhTEeziTwDRr0N4J4qC9aJblx4NBIZEJx1Smm213j9F1vruSymzd9d5w++apOI/dF7wKkaUFonnNieNZ4amp8iXmEQaS38fVLKqnHJgRvh71671nXVDXaXyTDJPvGaC34RwRd2rvA8BYmRo0T3mN+jh6VNLO3OqTGXJQeS8UerrHMktBf3KuXhMx2w==;hZQxNfvDZD3YzjRuszZLWw=="
+secured: "dYJmKXlW28UGN18WWKRG0eUlORxzmMmkdewsALuFil094kIDbdlxsrXXqn/mrODxx/GDRtIYDZfkzBOOBAO8aXDHMsdh/DCxGK9inyIXWLi+m7jYlK1YkERY4LH/TBJThuBMNWek0b1fEBNZQIP+zVb7ydeLTTwyywaIqwUCPAelPircVDEvqmJhSX+8RkSWed6qam8FfV2+3/G3cYkjJhV0mOBAzG1dc6A5bH4VDP9JHM1Fu6KD7PhUUrue+mzSe4FFt2yv7KmE+i1+QfQdbg==;tyx/Og962wOUaA66wpm4Wg=="
 ---
 

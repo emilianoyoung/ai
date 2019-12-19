@@ -125,6 +125,19 @@ related:
       - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
         width: 1200
         height: 800
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:38:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
   - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
     excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
     publishedDateTime: 2019-12-10T05:19:00Z

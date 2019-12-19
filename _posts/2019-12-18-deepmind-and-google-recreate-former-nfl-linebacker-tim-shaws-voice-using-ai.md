@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-n
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
 type: article
 quality: 205
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,21 @@ images:
     title: "DeepMind and Google recreate former NFL linebacker Tim Shaw’s voice using AI"
 
 related:
+  - title: "Uber creates AI to generate data for training other AI models"
+    excerpt: "Generative adversarial networks (GANs) — two-part AI systems consisting of generators that create samples and discriminators that attempt to distinguish between the generated samples and real-world samples — have countless uses, and one of them is producing synthetic data. Researchers at Uber recently leveraged this in a paper titled ..."
+    publishedDateTime: 2019-12-18T19:12:00Z
+    sourceUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/
+    ampUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.E27E35E16EE70F60DAED73BD5E247C1F
+        width: 700
+        height: 465
   - title: "ALS TDI Collaboration with Google’s Project Euphonia Highlighted in Documentary Series Featuring Former NFL..."
     excerpt: "Cambridge, MA, December 18, 2019 --(PR.com)-- The ALS Therapy Development Institute (ALS TDI), the world’s foremost ... of “The Age of A.I.,” a new YouTube Originals documentary series that takes an immersive look at artificial intelligence and its potential to change the world. The new learning series is hosted by Robert Downey Jr ..."
     publishedDateTime: 2019-12-18T18:13:00Z

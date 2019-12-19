@@ -69,6 +69,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "EhB3t4MZmP6UR5bK/lHG+nq5espdp4tf4qtAfh/glTR9WdglJicc3MJFe1RoEtOmzeBJ0SxsfUfSnv/z+AfcIAEQTUJTWmQFQpO3ONF8ODXay5S02keH+Bb2VPOmAB+w050iypcNsNf5bfl3NnSnpls2iBic08WIxyjBNYYBDQtEboCaCmRZIwxPubFwCfQEtEInxK5WP2SZgwOWp+SPJ8o5nvfeyxCGBEuirzCZYHHNYexoVLMS6HG1p7fsjSZN1NN3MXp9plTlhy4cYpAzPw==;nubpeSm9LPFjLSiHXdWHjQ=="
+secured: "o5StQ6iWxlscKh2tRe5MkzjdkJ+GlzhzXUOBsw8tr46rstxaTo+ES3+Fo0tsPnuIYgctjEGIQ2j2KU4hYCLNyp12AaxtE3KujAGJ7jTHuiAl7/g0rjM6J4sp/eh3q7WeTnxtZ2B0yO2dlPsi8IuhGjvjAiGNmbLJyhiqpcmZhr8FwEWu/VQwJlyNU6r9voPg043ugPEtxc/WtNtSevW31GvlNHkGbNyJyC3bpXXk00vCnHughhTUpABGwNbCTEFEB/gzEPf7TMPy6yLDzcrm3g==;c2OD/LXIZ7ljWq/N2poMJg=="
 ---
 

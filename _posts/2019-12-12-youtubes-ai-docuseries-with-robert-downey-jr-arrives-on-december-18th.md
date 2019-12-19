@@ -57,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.21E0D9E4D5F04BB2D5B6B20372B9531C
         width: 700
         height: 350
+  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
+    excerpt: "the actor introduces viewers to Soul Machines CEO Mark Sagar. Sagar is a special effects artist who worked on films like King Kong and Avatar who is using his expertise in animating faces to create an AI-animated digital avatar for the Black Eyed Peas' will.i.am. In the second episode, meanwhile, we learn about Project Euphonia, a speech ..."
+    publishedDateTime: 2019-12-18T23:22:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/youtubes-series-on-ai-with-robert-downey-jr-is-finally-available/ar-BBY8zuk
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
+        width: 700
+        height: 367
 
 secured: "tSPnxd2NBK7QaOeTkuM2xF8Z0pZkENQDOjOXuliLEzCjwzXrnLAVdofL2IHdpb8mx0/4MKIvuhYlqxHCCgsMMHoc4yVR1uTVfLXGnLjaowHQyeh9ICSnCyDSzpjHLLAu7PyG0QZYpyRsDxwwaeGenbLaXn0VZwZdTHZWHdsd22H8u7nk780T9GJNdmOn/GSFDmeCx4m2wgym2s7gxacPscofQQRWKbdzXkpiofdnx6rjbNuKQi4M5g+TPPURCS6IF7fM9lX3T3WEjlqmG8ZUTA==;MXc6z23I2gO6mcaTpBLiPw=="
 ---

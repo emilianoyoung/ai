@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
         width: 700
         height: 350
+  - title: "Uber creates AI to generate data for training other AI models"
+    excerpt: "Generative adversarial networks (GANs) — two-part AI systems consisting of generators that create samples and discriminators that attempt to distinguish between the generated samples and real-world samples — have countless uses, and one of them is producing synthetic data. Researchers at Uber recently leveraged this in a paper titled ..."
+    publishedDateTime: 2019-12-18T19:12:00Z
+    sourceUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/
+    ampUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.E27E35E16EE70F60DAED73BD5E247C1F
+        width: 700
+        height: 465
 
 secured: "7RG/SfiQ5fmmzZkJLNNI7mcRQqjtuqp8KK+hGOFfqLXPCIYcRLVp5NaEuENq0TVAEhX6fflNxgkWy5y9uPleFFdWvg6ZPA3Jkmsqp1zzMudzqgJO5dGg3ONhMTGuY92KlnLPQpC+SLVLDrbDX/LY1m75JPHE3sxVJhnat23l+9k4KLe1bKlyFLWlssBJRZMbTbZmEiiB0lNpSTQ54LIVCNCIzQetzTtUb9Hdn2jl3qOECxblczA4LUvdEqjdYXcjgvS5W19/0640S+vqMkmmQA==;/MkUfnie68xFU+st8Ke9+A=="
 ---
