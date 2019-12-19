@@ -5,8 +5,8 @@ excerpt: "The global artificial intelligence (AI) chips market is expected to po
 publishedDateTime: 2019-12-18T21:43:00Z
 sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chips-163000152.html
 type: article
-quality: 52
-heat: 52
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://s.yimg.com/ny/api/res/1.2/216f9D8Jq.XktKgjqwptMg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/e07bae27e4d07932f29cad0fbe371a46
@@ -23,6 +22,6 @@ images:
     height: 270
     title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
 
-secured: "NSWoj9zRuFpwT/qGzQIvPTOYXkf0SChNWbqbRM3ZKHdn63I0PLn3isO59oaTtoR70ckRC+hONHha/JMcOrjkzN+Dt/BKtXPz5bamHqoYf9p1KRcgpyXxZ7PpXFLf58H7rNiLF16eVPuloL3n2O5JGX9vrQZqqCtQvnh6E9bRrDSuWneMxWsSCtfkXMmo9OcZxzONDuEcuWGh+sfepEPrh96IcyeOVU1DoJyKRUzjCKlN+2wuug+hg6qGwl4qOM0Xa5IPObnyhsv+E141wKGILQ==;1ADVq4gfII+PvILC6xgHBw=="
+secured: "bzowVfwR2x1zUCAmEUPfFY6ozNTvIK2z+kt3EMRADLsEYopU+z7Wbp4b6V0rl+0+rsij8dfa0E8owwuQhWYQZEk/aXvM0quk8vv+dE0EBttNZBceugdtC5MUa+hTEjhAeI3AE+7KivKVcXlhbJeORIe+ibqEecmdX5iUV33cvQThKTzB18aAUjX6VXTXtwzKPd7mGLrK453sstBZJIyfdNlIjX4Q7SNSnPiA91l5bbEsW6jDt2SArcdzmXhBw7p90v6KxQaWOiHWx4QzEbVuUw==;xPJikYV2dezo6qCH2wQ5QA=="
 ---
 

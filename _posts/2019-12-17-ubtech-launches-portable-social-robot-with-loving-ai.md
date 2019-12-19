@@ -17,6 +17,21 @@ topics:
   - AI
   - AI in Robotics
 
+related:
+  - title: "CloudMinds Launches Robot Rental Program"
+    excerpt: "The Smart Robots available to customers have a humanoid design and natural language processing (NLP) capabilities that will facilitate conversations and other interactions in multiple languages. The service seems to be geared primarily towards enterprise customers that may want to use the robot to create unique experiences for guests at ..."
+    publishedDateTime: 2019-12-19T21:44:00Z
+    sourceUrl: https://mobileidworld.com/cloudminds-launches-smart-robot-rental-program-121908/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.59046B142A9993716D67B7D7DBA51F63
+        width: 678
+        height: 655
+
 secured: "a1CSYNclQ0MSzpDsxzsMHiy2IX9BVObijZKAhlH5pIvKfi5HxhMSjqDUhtNJB4jRiDiZVs7d1m5Ihn0nPhON5ZfsCiLH/lja+zRqSm4WkrtBhulHuqVnAgTcqa3biXvBzAGm+zEOPZ/OxubWGBav76wrqj4ZRsBeqnbEgb2G0QujqFSz+/ZlQG2HR4WQ1KD4eOsuQItgSTHrIFieRSUoVIsRzQI3ukC5NfWE1i+o3/JGZGhCHa8X9CTXlqvo5Ku21wqdFoz43stl3HCiO9VIUg==;qbSFSWpuR0fXdyuckHGo+g=="
 ---
 

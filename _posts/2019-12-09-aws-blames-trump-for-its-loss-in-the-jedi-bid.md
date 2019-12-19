@@ -1,17 +1,17 @@
 ---
 category: news
 title: "AWS blames Trump for its loss in the JEDI bid"
-excerpt: "AWS alleges that President Trump influenced in the JEDI cloud contract proceedings ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
-publishedDateTime: 2019-12-09T19:12:00Z
-sourceUrl: https://www.federaltimes.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
+excerpt: "AWS concluded its introduction by saying that it was “impossible to shield ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
+publishedDateTime: 2019-12-09T19:28:00Z
+sourceUrl: https://www.defensenews.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
@@ -23,6 +23,49 @@ images:
     height: 367
     title: "AWS blames Trump for its loss in the JEDI bid"
 
-secured: "34mgE3QMSDHF/lKq5y5P4xDvYD+cmExk7BRu3LQYEiYFn2cKQUpTJjn9FfVwKa5aNr+fuevA7Iq5UyIUmxHXAZDmBcq0cYXEgGOCGEXyOgFxPu3z+SahiJt/uIt2Jpj6RS4vMDFdJcLEB9lRAEm7hJE8IwQs+UlDliQ/pRi5TlbOcWUFkqB5WLPXVOyi0rh08bOddGeK8GtaoP2STF6VshobgqxroO+K7c8g/01Q4Q6ljCEhTKBnu3g2XLznwKnssuuwzsG9Xs9OgWVpJZNeew==;N0QFVPl8GAStaLciDM8GrQ=="
+related:
+  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
+    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
+    publishedDateTime: 2019-12-09T17:57:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
+    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+        width: 700
+        height: 350
+  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
+    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re ..."
+    publishedDateTime: 2019-12-14T16:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B
+    type: article
+    provider:
+      name: Popular Mechanics on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+        width: 700
+        height: 350
+  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
+    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
+    publishedDateTime: 2019-12-09T10:03:00Z
+    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
+        width: 700
+        height: 421
+
+secured: "O/6HFOwTRfu86iNRsX+RMT+Ir1b9wLOu+Fw9A3lUg2xJ5kHCBf+WJOwd5M9FFBQnLVP3soqSk9T2yNwn/DViivbHWpjheUGQMjlbbWM5Bo7ry2i1vvT4fDt7VQissZpd3U0Z3WqY1d11wp+wDGLDO+dvK0pkplENYjC4Cj3R9tq4jg2Tfm4wHWYzliCxPaa33nIAt1/ARlx5at7FTVvB8g96RgBUZNgqqCxaRCbnYkTM6cf8WFl3RUGQ9tAz2Z7Mg5N1Q1/5BTwWFlj4BjL/Yw==;aITjTxe4M7qqgh3etICL9w=="
 ---
 

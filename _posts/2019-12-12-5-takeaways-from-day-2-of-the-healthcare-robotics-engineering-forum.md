@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T22:08:00Z
 sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
         width: 680
         height: 340
+  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
+    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
+    publishedDateTime: 2019-12-19T14:08:00Z
+    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
     excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
     publishedDateTime: 2019-12-12T16:18:00Z

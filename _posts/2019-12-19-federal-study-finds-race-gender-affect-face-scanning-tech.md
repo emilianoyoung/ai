@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Federal study finds race, gender affect face-scanning tech"
-excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. Lawmakers and ..."
-publishedDateTime: 2019-12-19T20:29:00Z
-sourceUrl: https://www.expressnews.com/news/article/Federal-study-finds-race-gender-affect-14919032.php
-ampUrl: https://www.expressnews.com/news/amp/Federal-study-finds-race-gender-affect-14919032.php
-cdnAmpUrl: https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Federal-study-finds-race-gender-affect-14919032.php
+excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law ..."
+publishedDateTime: 2019-12-19T21:37:00Z
+sourceUrl: https://www.chron.com/business/technology/article/Federal-study-finds-race-gender-affect-14919032.php
+ampUrl: https://www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
+cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.139957EFBE3ECBE0B7127162D3D47CEC
+  - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
     width: 700
     height: 466
     title: "Federal study finds race, gender affect face-scanning tech"
@@ -55,6 +55,6 @@ related:
         width: 700
         height: 393
 
-secured: "0z9vpPYSwoKCK6+HtY1neOlL5DqpTbpRCBFDTpz9pAj8cbFu7v+BjDJ9TOmBmkHqmd2//IPw8gp6TtfVvuxDxdm3cYoagIagFGAzdg2qk8SGz88P3sGVa+k+AjvEwWwSjuec6aojopdiwAQrSW8uULd5lnBqXBccvm0XQhK3W31ubC8P4BaE8xuiEka6VToKQiUbBWHeX+4F03ZpGWi30USjJsj9M6wDKju7Qb+3TZIIE6ztuHUF/fvwP/D7vLf+mqJN6PgZxz6bJMluFfip2w==;KcZr6tSKSQnxL3HUN0D+cQ=="
+secured: "BHn6KalR5V/jakaIdrNfsBEpC9LwVNpbj8gHf96h1OZqMB047tQEOdYAPnp/3oPWb/Mt3tEXft5M8GnjWx3fcgYQ1oTc3ENJC9vtyQO78wt/5gVm2WKGM/9UN0mQxQoRy44jN8R0PpEDELIwhUK7qAd3ZzH45B4xjR5TTeCqllQVDNB60vJcUtX4b4JTFr9wHSrB0N7RWezGDUNOtLLNhAnTuzjPYEHER6s+FeKALof3Rw/JqFbJB0ysq6k9Y+iGx0ZAlpOW+QFJUgOYJKwtAQ==;V69S544BKVtqL2XGWAAtKA=="
 ---
 

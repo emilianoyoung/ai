@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-ov
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
 type: article
 quality: 189
-heat: 1029
+heat: 1049
 published: true
 
 provider:
@@ -386,6 +386,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6A75FDE089AA8382504834D343B7B315
         width: 700
         height: 525
+  - title: "Facial recognition technology has a racial bias problem, according to a new landmark federal study"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. A sweeping federal study of facial recognition technology found that the systems are worse at identifying women and people of color than men and white people, the National Institute of ..."
+    publishedDateTime: 2019-12-19T21:57:00Z
+    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.FF6BAF817FC9444BDF5920823B9F9D28
+        width: 700
+        height: 350
   - title: "Facebook’s privacy push stumbles over EU rollout of facial recognition technology"
     excerpt: "Facebook’s move to roll out previously banned facial recognition technology in Europe — just when new privacy rules are coming into force — is causing an uproar. LONDON — Mark Zuckerberg promised to extend Europe's revamped privacy rules across all of Facebook's global empire. That pledge is already running into trouble. Amid an ..."
     publishedDateTime: 2019-12-09T23:16:00Z
@@ -492,6 +505,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
         width: 300
         height: 170
+  - title: "LE agencies pushing back against city, state facial recognition bans"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-18T15:16:00Z
+    sourceUrl: https://www.policeone.com/investigations/articles/le-agencies-pushing-back-against-city-state-facial-recognition-bans-CwVdj7wjxnNKuKNQ/
+    type: article
+    provider:
+      name: PoliceOne
+      domain: policeone.com
+    quality: 54
+    images:
+      - url: https://media.cdn.lexipol.com/article-images/facialrec_121819_news.jpg?w=1600
+        width: 1600
+        height: 1410
   - title: "Japan tech firm aims to supplant Chinese facial recognition rivals"
     excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
     publishedDateTime: 2019-12-19T19:12:00Z

@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
-excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs ... which Lee defeated AlphaGo once in a five-match showdown. He lost the other four matches but has since held the record as the only human to ever beat AlphaGo."
-publishedDateTime: 2019-12-18T16:38:00Z
-sourceUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/
-ampUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
-cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
+excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs like DeepMind’s AlphaGo ..."
+publishedDateTime: 2019-12-18T17:39:21Z
+sourceUrl: https://www.msn.com/en-us/news/technology/human-vs-ai-board-game-champ-who-surrendered-to-google-beats-ai-in-surprise-game/ar-BBY8dYw
 type: article
-quality: 150
-heat: 160
-published: true
+quality: 12
+heat: -1
+published: false
 
 provider:
-  name: Observer
-  domain: observer.com
+  name: Observer on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-
-images:
-  - url: https://nyoobserver.files.wordpress.com/2019/12/gettyimages-514604328.jpg?quality=80&amp;w=1200&amp;strip
-    width: 2344
-    height: 1556
-    title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
+  - Google AI
 
 related:
   - title: "Why video games and board games aren’t a good measure of AI intelligence"
@@ -40,7 +33,16 @@ related:
       - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
         width: 700
         height: 366
+  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
 
-secured: "DX82zUmmID2bXbOysqo6kEsXTdny0FuLCU2uCN3hURBN2tlNGfvIkV/qRSNdLlLe8VJ2BcD+dCluknKMz3whpFX60PW8LRzZ4cLfpxDGVbRjHI808qbVjKEH51N7zwFqMOdMYQqYMyYsfYh2cuFK8I8stwJG0XX2q4O4rR8WbhrZd6Y6u01SfKbY1gXfrWdjFwLEEOJYh3PFw1GGHNVDnH4UaVlxmzt8eXbHcur2D7b5CYj1/KGJD9UNAUacn+JU5TTxiiU+zL7hC77uDboAwg==;lwkPiLa97FyWVfw9o4pMgw=="
+secured: "V2ti9XJnIUvVEcEXoN33TSz0mbjVla+6MVlZNn0DLIgNJSxwkU9xVtWzZom2ldltvwAgxMhMXh1fzVQlHxBH/ecl6AbHwsGt7rVNZ2ZhXjCCydV8qQbGZz3rKvk5AD9xYjer1Yb/lTAgrUoNUBKPEvowmbZxkEfUIZ7Eje74Q0O6dPquh02+FvLnWXqijyaH/hn+l/E2rRty/xds57vdtjdgM2jDEWwaCO0Pa7gxGFlH7zjbCgWDnU6o7zqhw+RCHM7uJASzzXPIITqnsZH5Qg==;OWZftOs5jBWfPVGCO0dMNg=="
 ---
 

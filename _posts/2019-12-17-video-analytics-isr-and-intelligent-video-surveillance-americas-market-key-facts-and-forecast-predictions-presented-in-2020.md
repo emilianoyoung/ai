@@ -99,6 +99,19 @@ related:
       - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
         width: 1010
         height: 1003
+  - title: "Healthcare’s digital transformation: 5 predictions for 2020"
+    excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
+    publishedDateTime: 2019-12-19T13:42:00Z
+    sourceUrl: https://www.cio.com/article/3509462/healthcare-s-digital-transformation-5-predictions-for-2020.html
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
+        width: 116
+        height: 116
   - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
     excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
     publishedDateTime: 2019-12-13T00:24:00Z

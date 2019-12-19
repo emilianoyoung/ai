@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Move over Cybertruck – The Microsoft Tactical Vehicle wow the military"
-excerpt: "The Dahlgren Innovation Day briefers focused on how the cloud, AI, machine learning (ML), and cognitive services could impact the battlespace. The Microsoft Tactical Vehicle is packed with sensors and onboard computing and is basically a data centre on ..."
+excerpt: "The Dahlgren Innovation Day briefers focused on how the cloud, AI, machine learning (ML), and cognitive services could impact the battlespace. The Microsoft Tactical Vehicle is packed with sensors and onboard computing and is basically a data centre on wheels with integration with Microsoft’s Azure Cloud services, and in this demonstration ..."
 publishedDateTime: 2019-11-27T08:23:00Z
 sourceUrl: https://mspoweruser.com/microsoft-tactical-vehicle-wow-the-military/
 ampUrl: https://mspoweruser.com/microsoft-tactical-vehicle-wow-the-military/amp/
@@ -25,6 +25,6 @@ images:
     height: 525
     title: "Move over Cybertruck – The Microsoft Tactical Vehicle wow the military"
 
-secured: "93IOy+JfzwXVoVYJzq9GzBLWfjPNjINA9286RNzOqixMT8xGFjEBe73trQ3QrxoDRdzfUO8N8AL0U2IWYcPvWxPjDUn9vvrJreaSwcaWeuPQC6hEsoFafly4gwZqUvCsw65Y0Xj26rpNZVf9RHGmQyrESocl6qawB9hMnJ0EIljqjCBgfGPepFJRiNb/DHN2EbA8MedRkK/NHRYZ/4vzCWPrW2NsXwCXb6Yv6vwNMPPDRJNXZSryJVKIAn6cqtgE4FkFznDoD3AJBXzy8mcAng==;cUyRSCtwTc3Ls3w4Tmjf9w=="
+secured: "oaryg26PSFB/8AiHYMBmKyXolWoLIiUeXlWyutvQco3lKOL7PzTK+AY4GXpvflwkrvNXgQEFYTeQ2rjeEyJFl35V9VBPGMCpauQKh9PHG9M/lkeD3yLV6zJJARR48b2LvMaGFEBUvXEHz/IhAko3NC6ByuCCEL0KlpOtylk71FJ/uCNedHcVVeI6noOckGInMnFeA4GY0FEkOt3eqlhvSn9CGMeAKMdngTsb3mEdtBlV8If753QQ+gnA/9ZiJcaKJK5ItIc6j+XavbP81W+IZw==;QNe1enEKVwRTQI4jL05BWA=="
 ---
 

@@ -44,15 +44,6 @@ related:
       - url: https://mms.businesswire.com/media/20191217005208/en/638510/23/Verint_Logo_Blue_RGB_High-Res.jpg
         width: 1200
         height: 627
-  - title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
-    excerpt: "The report is the most comprehensive assessment of today’s leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant™ solutions, part of its self-service cloud, surpassed ..."
-    publishedDateTime: 2019-12-18T19:10:00Z
-    sourceUrl: https://www.newswiretoday.com/news/172013/
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "I9K+IU8hXXEpaZUb8r5zkXO3mvl9iV98h+EbXmQJeXSmQfWabE1FPkdw1NK2axBhG4Y/eRhvY/HVbUmdvIt5CCX6cAhzY8JOcC/pKHtPjjtMEOxJ/96PNZlF2U4SFWPCVKKYJ7YuGuiWH/EGwHyc0hwCmklD0epx3EdkFykv9tzTn3N84lPJKrRhBaTRQZQl02+8bBMEh4rpx/YLi+C0U9TwPu0t5KqWb8GjkhwPgYoe2FXUfCb+rZVdohN0+E6/4Tg0x2TFizCO9HybiFFm8w==;R1YB9ZFibJjfcBiNV0NxZQ=="
 ---

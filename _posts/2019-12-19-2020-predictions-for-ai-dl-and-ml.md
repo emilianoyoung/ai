@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -87,6 +87,19 @@ related:
       - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
         width: 1010
         height: 1003
+  - title: "Healthcare’s digital transformation: 5 predictions for 2020"
+    excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
+    publishedDateTime: 2019-12-19T13:42:00Z
+    sourceUrl: https://www.cio.com/article/3509462/healthcare-s-digital-transformation-5-predictions-for-2020.html
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
+        width: 116
+        height: 116
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
     excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
     publishedDateTime: 2019-12-17T08:49:00Z
