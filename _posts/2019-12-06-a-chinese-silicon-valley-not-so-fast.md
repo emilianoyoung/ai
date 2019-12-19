@@ -1,12 +1,12 @@
 ---
 category: news
 title: "A Chinese Silicon Valley? Not So Fast"
-excerpt: "3. An AI Revolution … Is Needed Lee begins AI Superpowers with China’s “Sputnik Moment” — the moment AlphaGo, a product of the British AI startup DeepMind, acquired by Google in 2014, defeated top-ranked Go-player Ke Jie in May 2017. As Lee points out, “What you saw in this match depended on where you watched it from.” To the US ..."
+excerpt: "It uses artificial intelligence to provide mobile customized news recommendations and is disrupting ... While not as technologically sophisticated — Waymo’s cars alone have self-driven more miles than all Chinese AVs combined — Chinese firms may be able to sidestep certain issues in driving software because of AV-friendly urban landscapes."
 publishedDateTime: 2019-12-06T13:35:00Z
-sourceUrl: https://lareviewofbooks.org/article/a-chinese-silicon-valley-not-so-fast/
+sourceUrl: https://lareviewofbooks.org/article/a-chinese-silicon-valley-not-so-fast
 type: article
-quality: 26
-heat: 26
+quality: 24
+heat: -1
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Google AI
   - AI in Autos
 
 images:
@@ -39,6 +38,6 @@ related:
         width: 466
         height: 700
 
-secured: "U4cFX26ehSMZdD1cLsqG2TrTRGBrS4vGC5jTNM1B4hQpAp7r9ZNvgTyvhauieH70J2m2h0rmGWudniqu3EMNML/qim4N6cGvDcpU5LtGgSnYw1h2SAzh+V2yEAo1muLyaPybe9FEe1zsgTbUtpQ9hlnHO7bXYkJcGkgfktrHXWIAzxEKhHMylkqPntj/0h7Y/pP7NadJwszQPNXikh1gPP5fQrojYKU7jyQYVDnM9uxsQ7a9JwODvzuVe49aK16BXlIB17cy2n63PBa9ajviBg==;6cTjVoa/5rsFQZIPMYjb+g=="
+secured: "y9/gMPbeByFVc6hg+PtddIR0mI01lY3X+IIhwLoTHrD1C2/uIYfU6Eqj/lEBH1NurQiE4XQ4SSXroYice4XITGFfWJ8pOscpZvto46CuArrDE3o8U9gJ9EPvmqBDTICdXZoxuEa4YHCAIgzrjMCZTgMb2jH3YbVTv5w3mF9d92RSMYDllqkrvlEd8NHStHTJzIusRV+mQHk3MqiHE9XrSueVvojAl+wRx704ZTMceJJ9KsYB1/PYqI/QUsmxlcptPKhSTbthypZsXaU96a5whg==;UGhEueuHtoBodiETQn/u/w=="
 ---
 

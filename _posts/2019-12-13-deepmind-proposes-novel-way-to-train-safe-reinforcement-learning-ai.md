@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.91EB950BD4B6508D2C37124A45F530B2
         width: 400
         height: 300
+  - title: "The machines are learning, and so are the students"
+    excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
+    publishedDateTime: 2019-12-19T11:25:00Z
+    sourceUrl: https://www.bizjournals.com/bizjournals/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+    images:
+      - url: https://media.bizj.us/view/img/11563437/educ-machine-learning-1-2*1200xx3000-1688-0-156.jpg
+        width: 1200
+        height: 675
 
 secured: "SE3TC5GmcZp4vJjau4NBpdY+g+xVceW5lG8v4U3Qi5JnDbsqWlhSV2l5mNpGuKbpwAX+a2nbgCzViW4DS8TVefwoxxUvqfzH4Irjprdr5M9jbFBC6fgghNybOfYce6Nt0GG1VsdBedP6xHrrpq090b1jSn0Zi0c5Evi9ygvchHClZy7IgenWmzw87TffLhzLK4FfLRAqrLPY4ZUHMu+Vj23YwasvdUumzTV7mlXl5xvylzEhbSSCjt6n0N97a8D0+Wyf7hi2G9FwrF8NO1MHjw==;Q07ECqyun4ZzDV7oP+6COw=="
 ---

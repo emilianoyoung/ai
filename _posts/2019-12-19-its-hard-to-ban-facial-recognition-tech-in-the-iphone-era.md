@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Emotion Recognition Is Creepy As Hell"
-excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
-publishedDateTime: 2019-12-13T21:12:00Z
-sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
+title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
+excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
+publishedDateTime: 2019-12-19T07:00:00Z
+sourceUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/
+ampUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
+cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
 type: article
-quality: 24
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Wired
+  domain: wired.com
+  images:
+    - url: /assets/images/organizations/wired.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
-    width: 700
-    height: 366
-    title: "Emotion Recognition Is Creepy As Hell"
+  - url: https://media.wired.com/photos/5dfa60016abd1f00080da871/master/pass/Biz-manonstreet-1002774792.jpg
+    width: 2400
+    height: 1600
+    title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -112,21 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
         width: 700
         height: 430
-  - title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-19T07:00:00Z
-    sourceUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/
-    ampUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: https://media.wired.com/photos/5dfa60016abd1f00080da871/master/pass/Biz-manonstreet-1002774792.jpg
-        width: 2400
-        height: 1600
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -968,6 +959,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 26
+  - title: "Emotion Recognition Is Creepy As Hell"
+    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
+    publishedDateTime: 2019-12-13T21:12:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
+        width: 700
+        height: 366
   - title: "Nets trials facial-recognition payments"
     excerpt: "Under the tagline \"Hungry? Face it,\" Nets, a Nordic provider of digital payment services, has launched a pilot testing facial recognition as a payment method, the company announced via a press release Monday. Around 1,000 people — all working at Vibenshuset, an office community of 25 companies in Copenhagen — can sign up to participate in ..."
     publishedDateTime: 2019-12-18T11:03:00Z
@@ -1042,6 +1046,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "pWhocsSRUzVTf5gVsn1wTpK9mW9DNUAlLWHWQh64rdJ6Hei+alilNv8hiRiDWxiuda7LhzdhstpmG23yrcyzzv7RwXDJC2ZmV2vR+xnQR0ILa3xrRRfzGiM/2xQiY9xDj34lJzrLLQyGY2lDmomU//Ag7CDXGsi3cnA2+gYZvjINisn4glpJKmxKSJKEvBEhYGwOQspA2aWICPHxWdAz50guLhEZjUhWYsUTmiBGkuovGFpnwGCo1wBtO/yjGXrULeUjDe2CyTAd16D9gAHieg==;ova3I7PXu2Cx+AIjUznuKw=="
+secured: "TghGiJ4Kl78Uw15oldKbjbU9Hxdh//S7I18VqkrWkaT8MA+hDCLR8Mu7FfP/d1WsD+55xVS3n5tjq5X+5C3/sREVg4N7cuGHcILU2xOvuHYaFbOYF1/5L2o5nZzcKz1XPl8Tti86NR7cUcSSWHjJFn+1Mz0eRXCCeA0AlIHxfHFwu/sL2bIQud+LgiMoDng5UxZDZ0VLJL3TepssWJnNmhd09A/1rxZBAmIKPdNycDXqKvAzu9ifUuiK6OtgMXYckiW3NRag5Vmu1FPdZIrRxw==;3k9TAN6XsKTX8yE7H1mvDw=="
 ---
 

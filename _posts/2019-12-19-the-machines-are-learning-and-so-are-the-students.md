@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The machines are learning, and so are the students"
-excerpt: "“Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski, who runs the Computational Neurobiology Laboratory at the Salk Institute for Biological Studies in La Jolla, California, and also is the president of the ..."
+excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
 publishedDateTime: 2019-12-19T11:25:00Z
-sourceUrl: https://www.bizjournals.com/tampabay/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
+sourceUrl: https://www.bizjournals.com/bizjournals/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
 type: article
 quality: 24
 heat: -1
@@ -24,83 +24,65 @@ images:
     title: "The machines are learning, and so are the students"
 
 related:
-  - title: "There’s No Such Thing as the Machine Learning Platform"
-    excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
-    publishedDateTime: 2019-12-13T01:57:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
+  - title: "AI Weekly: NeurIPS proves machine learning at scale is hard"
+    excerpt: "Researchers are presenting more than 1,400 papers at the Neural Information Processing Systems (NeurIPS) conference, ranging from work that organizers believe has had the greatest impact over the past decade to Yoshua Bengio’s continued march toward consciousness for deep learning. But even as the conference showed theoretical research and ..."
+    publishedDateTime: 2019-12-13T19:54:00Z
+    sourceUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/
+    ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.3B50A5E8AFB7BE02E141FF3630E27ADF
-        width: 600
-        height: 315
-  - title: "Here's the Pentagon's Terrifying Plan for Cyborg Supersoldiers"
-    excerpt: "The report, titled Cyborg Soldiers 205: Human/ Machine Fusion and the Implications for the Future of the DOD ... It’s like implanting your smartphone inside your ear, complete with real-time translation features for foreign languages. Hearing loss is a major problem in the military and, for this reason, the researchers believe selling ..."
-    publishedDateTime: 2019-12-10T00:47:00Z
-    sourceUrl: https://www.vice.com/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
-    ampUrl: https://www.vice.com/amp/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
-    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
+      - url: https://www.bing.com/th?id=ON.B9643B213B4F8CD7D0C15539A1AF3147
+        width: 700
+        height: 350
+  - title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
+    excerpt: "Reinforcement learning agents — or AI that’s progressively spurred toward goals via rewards (or punishments) — form the foundation of self-driving cars, dexterous robots, and drug discovery systems. But because they’re predisposed to explore unfamiliar states, they’re susceptible to what’s called the safe exploration problem ..."
+    publishedDateTime: 2019-12-13T15:35:00Z
+    sourceUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/
+    ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
     type: article
     provider:
-      name: VICE
-      domain: vice.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
+        width: 700
+        height: 350
+  - title: "The Machines Are Learning, and So Are the Students"
+    excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
+    publishedDateTime: 2019-12-18T10:00:00Z
+    sourceUrl: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html
+    ampUrl: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.7744EBD51103F3A42712ABE038536E10
-        width: 700
-        height: 393
-  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
-    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
-    publishedDateTime: 2019-12-14T10:26:00Z
-    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
-    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
-        width: 700
-        height: 466
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-1028770153
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-  - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
-    excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
-    publishedDateTime: 2019-12-13T14:47:00Z
-    sourceUrl: https://github.com/deepmind/dm_memorytasks
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
-        width: 400
-        height: 400
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+      - url: https://static01.nyt.com/images/2019/12/18/multimedia/18sp-ff-edai-1/18sp-ff-edai-1-facebookJumbo.jpg
+        width: 1050
+        height: 550
+  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
+    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
+    publishedDateTime: 2019-12-17T07:39:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-shines-ieee-073100976.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 11
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.91EB950BD4B6508D2C37124A45F530B2
+        width: 400
+        height: 300
 
-secured: "5RWm56jeAcEWiCb9sV7TH99hI/fqyDHz49unMme9M650TSPq5N2ESCFmK4LLLz/O9gbomQBaPlp1gg9PqrTwENR5oToRHJi+tzd7/jT0j/fE4YrGHeroBeU2NG+mVLBe2Vu1PQpVvtgJI8HqJa6DUGKgQo/8+L3hbaiV1LY7wDyyXUUBlIYpbYJG9RkZP+kBZBGfZNKeAQyu+MFZaAB2+diLxghuIofiFFNvVqICN0kC8KnwbCwpI/+BeTo+qFHLb6OPdmPPXr7Xjd1N3KrZSA==;rp7dOfjNeLI37PiuV8IjZg=="
+secured: "4BbN/5XUkKEcsyv1cLJWkf55WN71WoYMCEyRp7DeXRYEvrKJQfuhSbDhUHOkbu1EyR8PFHmAw6Th7GYfC5maR7YoMqt+eZXxHrBzhB9xiwMqFyPV+K4XzyzYJmQOiK2v6WMFJV/CFGA7HfYf4deze8yzQbC/C8xatwNHYgrMx1tlhYyyNe2Kj3aUOco4uQUZHXPcL4XQ8EKrk/cv39wu9uqq7bZEf0z+LTNWLqyDlXa8Oh0up/kSWNazlqLZ7XQnkXSiuGyhThgQ34Urf/HHXw==;etUWhBUTNcHuOk0YgrGj1Q=="
 ---
 

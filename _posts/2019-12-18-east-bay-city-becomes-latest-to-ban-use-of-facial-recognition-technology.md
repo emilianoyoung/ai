@@ -2,25 +2,25 @@
 category: news
 title: "East Bay city becomes latest to ban use of facial recognition technology"
 excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
-publishedDateTime: 2019-12-18T21:18:00Z
-sourceUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
-ampUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
-cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+publishedDateTime: 2019-12-18T13:21:00Z
+sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Mercury News
+  domain: mercurynews.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
+  - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-FACERECOG-0628-1-1.jpg?w=1024&amp;h=768
     width: 1024
     height: 768
     title: "East Bay city becomes latest to ban use of facial recognition technology"
@@ -114,6 +114,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
         width: 700
         height: 430
+  - title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
+    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
+    publishedDateTime: 2019-12-19T07:00:00Z
+    sourceUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/
+    ampUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: https://media.wired.com/photos/5dfa60016abd1f00080da871/master/pass/Biz-manonstreet-1002774792.jpg
+        width: 2400
+        height: 1600
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -1027,6 +1042,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "pKIj/eoTWDQi/I5prVm+1WfirSbwvrV/IvqAs+tLlmReVFAwMRC2X1t0Hgqlb+Pgw56j/+l0EB31Q0PGLm5HaJKjAbk4uPZwbA8e3PWk8XBg89ZEZ1H6HhhMYln2MVBzRB2yKySYT/XnfIGf+efrA3ZQLtekf/4HhPg3WP2NMJZxWWNIlSRXtMiDZ/gus15ZxkhXujdi8MSnkTqRF+sSquB0xb0g0U+EgN7pXq9L3BGSCYR7AJ6QhuPDwCNoToyGqZHmBqsmckwyWhX0eGRPeA==;44Afx71/A1fcoHTMF66MEA=="
+secured: "NvoaxJRWceotkC9gNXrBvkRaDVMiiGE+/rny1LJdnmtFT4w4AcbkUyfm6K0Ot5ZAIJ9mp66Nr4Ob745TOBBxuIdvhDBsLQWSYs1qWz2xE05SJAkvST0yjHWXhcBAjlMPC7dZA2ZChE9pLkNU3NfQ+GqbaHl6EbvpEKlbO+3oqFHQOGhcoY1ua8KMGGg2HzDgzmI5OeUVIpVHg5W7XvfzcIMBqDoEfYwPc2EBi4IfVqa62+c72fXX+6F5LeX0tUVqxYweEubYVw1zd0n+pmKbLw==;7tLOLfzDuN//B557+VfS4g=="
 ---
 

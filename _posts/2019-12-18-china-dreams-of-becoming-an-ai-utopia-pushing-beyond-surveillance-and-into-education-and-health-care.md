@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,56 +26,50 @@ images:
     title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
 
 related:
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
-    publishedDateTime: 2019-12-18T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
+  - title: "Why China's AI players are struggling to evolve beyond surveillance"
+    excerpt: "Cases like this show the progress China has made in protecting consumer data and privacy, according to Yi Zeng, head of AI ethics and safety at the Chinese Academy of Sciences. He added that a stipulation on \"the proper use of citizens' data\" was also written into China's national AI strategy. However, while the Chinese private sector is under ..."
+    publishedDateTime: 2019-12-18T06:07:00Z
+    sourceUrl: https://asia.nikkei.com/Spotlight/Cover-Story/Why-China-s-AI-players-are-struggling-to-evolve-beyond-surveillance
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
-    excerpt: "It’s one of two main languages used for computer science for his project that involved Speech Recognition, Natural Language Processing, and building an application with a Neural Machine translation backend that converts speech and text from English to Spanish. Bickham noted that students have numerous opportunities to utilize faculty and the ..."
-    publishedDateTime: 2019-12-15T00:00:00Z
-    sourceUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.html
-    ampUrl: https://thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
-    cdnAmpUrl: https://thesouthern-com.cdn.ampproject.org/c/s/thesouthern.com/news/local/siu/fascination-with-dissecting-electronics-leads-to-degree-for-siu-carbondale/article_d61138f9-2543-5120-82d6-cc46f8596a1c.amp.html
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F2%2F8%2F5%2F9%2F23999582-4-eng-GB%2F20191219-CHINA-AI-Main.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces
+        width: 1024
+        height: 512
+  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
+    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
+    publishedDateTime: 2019-12-18T16:44:51Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
     type: article
     provider:
-      name: The Southern Illinoisan
-      domain: thesouthern.com
-    quality: 38
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 19
+  - title: "H1 Continues Momentum With Record Customer Growth and Expansion of Healthcare Machine Learning Analytics Platforms"
+    excerpt: "H1, a New York-based healthcare data-driven solutions provider, today announced continued momentum and record customer growth and expansion of its global healthcare analytics platforms. The company has grown to an impressive customer base with more than 35 pharma clients, with record revenue growth by 350% in the last year. “4 out of the top ..."
+    publishedDateTime: 2019-12-16T13:07:00Z
+    sourceUrl: https://apnews.com/Business Wire/abecb690e39a45d2b8f226a94bc5510a
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 17
     images:
-      - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
+      - url: https://apnews.com/images/PaidContent3.png
         width: 700
-        height: 394
-  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-18T09:48:00Z
-    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
+        height: 450
+  - title: "Deep Learning Market to Grow Based on Increasing Applicability in Automobiles & Healthcare Sectors Till 2025 | Million Insights"
+    excerpt: "FELTON, California, Dec. 18, 2019 /PRNewswire/ -- The global Deep Learning Market is estimated to touch US$ 10.2 billion by the completion of the prediction period. The market was appreciated by US$ 272.0 million in the year 2016. Growing applicability in the self-governing automobiles and healthcare businesses is likely to add considerably to ..."
+    publishedDateTime: 2019-12-18T20:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/deep-learning-market-grow-based-102000833.html
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
-    publishedDateTime: 2019-12-18T16:27:00Z
-    sourceUrl: https://www.hpcwire.com/off-the-wire/baidu-samsung-electronics-announce-production-of-its-cloud-to-edge-ai-accelerator-to-start-early-2020/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
-        width: 405
-        height: 228
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 8
 
 secured: "WSDkes/+RjMrLkANltn/Ru1VJFcrivWHeYIGFEXrZ/Bzhvnr56MXmp0jAoyV85dbCpk6sWFhIjZZFDePNA0sMKYEuycWyw+el+ZVWpziSshg0P5aZ9XBFoUMCzDM1p8AXYy3b+jD3TQJAIa/0hKvRkjuu9vaXENqBO40RHbGR0D1lqLTQ2VaYgY2AimgDKisA73yILrAEmGJkx7s8fSequaFmnQbTcnyhfVcLjaDdkiEAXvVT7cmafRkW4L4FSWg2AwmIwlzrqv5Ln5SWmWoQQ==;BMkhZSSAeevToY0J9AQ7pA=="
 ---

@@ -101,6 +101,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
         width: 700
         height: 365
+  - title: "Bizagi Intelligent Automation platform to make it easier for business and IT to collaborate"
+    excerpt: "and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent automation across ..."
+    publishedDateTime: 2019-11-27T17:03:00Z
+    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135468
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 14
+    images:
+      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
+        width: 772
+        height: 594
 
 secured: "fyfL8inIx++Jf9sMFDXYhLF8pqZ9pw5hZ/AFhRKnNknqEeNtQpeAL1FZzlQIg+dGVHvWQW4TiO/8w68pgIcRNG/O9er4b6c5DB5GU6S0Vjf3V7naWGSxIVg2/rISku+upYFQzZ5Dxl3Lh0pYzpw5DQjw98++VRlgyTheIepNv2Rht9hVlmA19U+IHETelKqLPCfNjtfxoU+F+lsi6a0V32SChbcYdy1ZcM4bGEjpyDyEYQm1wJlLv1DPX7OljUd3sUHThawkc495U3oVphbdWg==;Bzp+GSwWTHS2GtDv/MPysw=="
 ---
