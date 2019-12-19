@@ -95,7 +95,7 @@ related:
       domain: businessinsider.com
     quality: 42
   - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-    excerpt: "RESTON, Va., Dec. 10, 2019 /PRNewswire-PRWeb/ -- Paladion, a global leader in AI-Driven Managed Detection and Response, today announced that it is expanding service offerings to include fully automated zero-touch onboarding with Microsoft Azure. This product update of AI.saac will provide greater efficiency and automation during the initial ..."
+    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
     publishedDateTime: 2019-12-10T10:00:00Z
     sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
     type: article

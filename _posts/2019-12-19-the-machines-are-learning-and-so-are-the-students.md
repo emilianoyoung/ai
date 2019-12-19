@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The machines are learning, and so are the students"
-excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
-publishedDateTime: 2019-12-19T11:25:00Z
-sourceUrl: https://www.bizjournals.com/bizjournals/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
+excerpt: "Machine-learning powered systems not only track students’ progress, spot weaknesses and deliver content according to their needs, but will soon incorporate humanlike interfaces that students will be able to converse with as they would a teacher. “Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski ..."
+publishedDateTime: 2019-12-19T08:25:00Z
+sourceUrl: https://www.bizjournals.com/losangeles/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
 type: article
 quality: 24
 heat: -1
@@ -83,6 +83,6 @@ related:
         width: 400
         height: 300
 
-secured: "4BbN/5XUkKEcsyv1cLJWkf55WN71WoYMCEyRp7DeXRYEvrKJQfuhSbDhUHOkbu1EyR8PFHmAw6Th7GYfC5maR7YoMqt+eZXxHrBzhB9xiwMqFyPV+K4XzyzYJmQOiK2v6WMFJV/CFGA7HfYf4deze8yzQbC/C8xatwNHYgrMx1tlhYyyNe2Kj3aUOco4uQUZHXPcL4XQ8EKrk/cv39wu9uqq7bZEf0z+LTNWLqyDlXa8Oh0up/kSWNazlqLZ7XQnkXSiuGyhThgQ34Urf/HHXw==;etUWhBUTNcHuOk0YgrGj1Q=="
+secured: "uyDD7Xo1TKFulPbi+KWPGMp9/qtl+ftpCgjogAlkS6M5QuVzUL5HjJntTIwLNxbBzYogq43elmh/2Ug18fkFMBMw33LVsWo5dtOpvp0BfClIA5hnDqER/UeCmYoyuuKvsU2TqZFKHuHYKufvZuoqXFQ9puNss9ebi89MQJrqfO6XPMe1Tr5cN+Vo1DwBqX/d7uU9KrQdl5yr2m3OA1T2o2UtfGtS9B3iNCHwuCmLx8afJWKNlQ0NnIdRb67WQ9r02oTqELcmiNfIqFwXenBgTg==;5QfNdFjJxQ9ywlCHld2Nxw=="
 ---
 

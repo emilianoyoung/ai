@@ -67,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
         width: 300
         height: 199
+  - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
+    excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
+    publishedDateTime: 2019-12-19T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/cerence-to-bring-first-of-its-kind-voice-and-multi-modal-interaction-to-autonomous-electric-vehicle-at-ces-2020-1028775444
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "feER7dWW9A+kc0B7yjw2ZUaANefpFwxU6rXiTA3IWpBEXCB2yb7hefWK+KEW2QHNYG/MXbRO/G2e+G2GO5NXH4qd0tBlsCySpC3XYIUsCIWbt7sIlHcWHmg34qhLdlmJQ9c4LpXP0Lg82FIAvTjDt7MEdiD1/jzLRT1M/I2RSPjO08ELvDsUiT4kbM/Z2Q2zcrUNZkYyJqAO/kt6DGKK4B7GPa7cdEj5qVY3SwwQlJiPrP91G5B5ZRWkPoBDGagwKTu2yzQ1pQlF44CFcOQGog==;J//N/9grtSz3SX7KDaZP2A=="
 ---

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
 excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
-publishedDateTime: 2019-12-19T06:02:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191218005837/en/CloudMinds-Launches-Intelligent-Smart-Robot-Rental-Program
+publishedDateTime: 2019-12-19T12:17:00Z
+sourceUrl: https://www.hostreview.com/news/191219-cloudminds-launches-intelligent-smart-robot-rental-program-for-consumers-and-businesses
 type: article
-quality: 33
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - AI
   - Natural Language Processing
-  - AI in Robotics
 
 images:
-  - url: https://mms.businesswire.com/media/20191218005837/en/764018/23/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
-    width: 1200
-    height: 627
-    title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+  - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
+    width: 400
+    height: 400
+    title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
 
 related:
   - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
@@ -50,6 +49,6 @@ related:
       domain: yahoo.com
     quality: 27
 
-secured: "7RJTF7IWRWksFSM3VSpsN3FhftDEzaMFbwfEhrT9SiYlrbHpMKYsOH+xqu74+YXzJ+WMju3hkIjV19S6ynYQBO/bAXC+ryb8JJYq4nDI/70O6sLZ/QgQIzn9MAlr2K8u+GYIfpvZPPrcclBL4q/QDYStTMW0MssLorLnlHzMMPJQQo8VuSuyIbjLBQ50rUF0qdRdY66/Pybea8T8K8GGQlcenwtPFkU3AAtLzxJym2tIGc1WIF8ZTui4m1tU1a1dZqduWCJkX3LOkyYaiceHcw==;z2wdzVaQmcKCh/XzhvFQsw=="
+secured: "uTE8j+mPZn0AgH3KEVkjqzwvmIwEIsQPA8ZWnAhIdFKCGIxf/YzV7ODUqF2xPLP59AtDnK9qsyBkxvXWrOpB4apNqHgpf2zekSnDy3o+dWSKfILmsIAdUnnIXx9kaTmO8tBbDxhGT1hU9Da/8KRm6b90JDUmGRnUIShFuSpowA0jw7HHVvbTs6uDd4u7pSzBV2RO5HSTbKJWFsSwb96xpwnJtmSheFxRwO9u3yIGSmyZmbMpw/2gj+OCJGICC6q1iBAz1cKi22ZBjOTXyAvMQA==;q7moOxN/Y4wj2Rl/dS13qw=="
 ---
 

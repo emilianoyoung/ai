@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Bizagi Intelligent Automation platform to make it easier for business and IT to collaborate"
-excerpt: "and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent automation across ..."
+excerpt: "Bizagi is releasing a combined solution that brings together process automation tools, artificial intelligence, and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent ..."
 publishedDateTime: 2019-11-27T17:03:00Z
 sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135468
 type: article
@@ -111,6 +111,6 @@ related:
         width: 700
         height: 365
 
-secured: "lYWg5jBH7qKzWDK1Q8bV9L+FdamN26h/6Q0CqF/KzffjoBPP/fuLXvqJDMdGKis4Vpl+GAjHp1Onvnwv/JlH4AJMvqHAPopQ26S94nuTYteg1z9WF20R9nek0b+FfoEFNy83GtburrDb/ld4jQz8YEVZgP29ySU/9+oRk1zBiq+c5GIdYePSS6Ll/AeCxJfy79N+i++Pep5p+hnO6ipnKcRq5yUteyYpC+jE4Luc0C1Uwg94e0DdcuZkKF9IvT1rnusLjuL0L5WVeSFHBsMsxg==;8iEB2QBl/WXvaf3v8OeqAw=="
+secured: "DBtVsJysUsc9txeohBYZdeEX2i0K0qqGPbHyqfMqdgUXp9inLJ5KcMfGrc6Y+c6zbmoyZ1S3OGoRm5d+C/Mr/jAUC7DoSe/tSj6hVRZSPLunf6qrXLCvHn5Xr+eM72hgTSDVhV9PvCVXd5uRR2exOnt+bgrLPiUoK2IWJ5gAM/teALFYMOvZNCpmcltGQNRhfMHP0REu/syhCJgR7CHDHrjA7baTZv8aB6n5NzogpflHVhunhUkKGj4hYN13MohH1vOwu5erUUVrEykd4IcEUA==;RRTUXOoQzAUW7OAj2eYeQg=="
 ---
 

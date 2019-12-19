@@ -33,19 +33,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
         width: 400
         height: 142
-  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
     excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
-    publishedDateTime: 2019-12-19T06:02:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005837/en/CloudMinds-Launches-Intelligent-Smart-Robot-Rental-Program
+    publishedDateTime: 2019-12-19T12:17:00Z
+    sourceUrl: https://www.hostreview.com/news/191219-cloudminds-launches-intelligent-smart-robot-rental-program-for-consumers-and-businesses
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
+      name: Host Review
+      domain: hostreview.com
+    quality: 16
     images:
-      - url: https://mms.businesswire.com/media/20191218005837/en/764018/23/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
-        width: 1200
-        height: 627
+      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
+        width: 400
+        height: 400
 
 secured: "TKFdRJl6oWIGf9IQa0D1ZfhiQzSVMGGyrWei9U5uwDW2uuaJQGP4v7BJpub1ls5FBfJUdBmXSvoB0mcfulsr/M+8FdGLGMmnAaQJG4HP5UiKq3ojHYkcjWXAvtu0d2mk14fAUaD7VntZRERpyZ9srF442gjPt2tNC3vKcD6RjsxDDW9vyo+FoKEgJjWvcBUpzk7wbwB8NTmnCgT8Pll7lQOypgQp63tMHwLqrOnBayFzW9snZhM89F2Hqd2xSb1Qn672IUUO2JktzFlAUHC/+g==;HKTfuT5x7pofXlLhiF6n4g=="
 ---

@@ -28,19 +28,6 @@ images:
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
 
 related:
-  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
-    excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
-    publishedDateTime: 2019-12-19T06:02:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005837/en/CloudMinds-Launches-Intelligent-Smart-Robot-Rental-Program
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
-    images:
-      - url: https://mms.businesswire.com/media/20191218005837/en/764018/23/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
-        width: 1200
-        height: 627
   - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
     excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
     publishedDateTime: 2019-12-18T14:26:00Z
@@ -52,6 +39,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program For Consumers And Businesses"
+    excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
+    publishedDateTime: 2019-12-19T12:17:00Z
+    sourceUrl: https://www.hostreview.com/news/191219-cloudminds-launches-intelligent-smart-robot-rental-program-for-consumers-and-businesses
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 16
+    images:
+      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
+        width: 400
+        height: 400
 
 secured: "ELC4/NWmZyLjerMefE21GwP9s1DbGJpDr//TACmYv7ODQ8LZbGQW9xiFDdQZ4Tq9ihIjiO0jzWN3xev2sO6Eyg/nbNItbA5KgptLrMovKD0PwQcOIP8h9+7Kf3cm1/pEksOhOw8Fq02+hshQmG4DOAfgdws1CyGy22PrrQXpRl6crVu+FPGcRDcQCXrNVW8vZIOcDwPj2H64fhB18YwC7GKsb/Mx+E+VoN5UuO2vI+dYOQ/Y8bGhmlhPOeCCAKvO/L+FGmFrIU4/fthWH3qA+Q==;eQzGMwjlm8J8/LuHdbNLVg=="
 ---

@@ -54,6 +54,15 @@ related:
       - url: https://www.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2019-12/enigma-machine-ha-copy.jpg?itok=Gd8saBdN
         width: 480
         height: 750
+  - title: "OMNIQ's Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "SALT LAKE CITY, Dec. 19, 2019 (GLOBE NEWSWIRE) -- OMNIQ, Corp. (OTCQB: OMQS) (“OMNIQ” or “the Company”), via its HTS division, announces that it has been awarded a contract for the installation of its AI-based vehicle recognition system for use in ..."
+    publishedDateTime: 2019-12-19T13:36:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-omniqs-machine-vision-vehicle-recognition-solution-selected-security-/2019/12/19/9072551.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Arb4JhbQKE+qNV+jAgVvdUQyj5gns/ZPgDw9kM/ztfayG4vWeV4UwX3Z6T7CBOB2Gu4F3K4aCX9roT3Kkb/+5o6NDW9eAxpGB3hh8ssMWBSnQCf0QdYwZY3UIEYWeviuFKy2SiJ0v8YfBdwtfieSi64NKxmFhhJtkKzfnVdbVTjJHj52tnqOMMk3fR7hJ/eUoZ+uaqiSQxa/o1MbSWSjzpGPiuh1yXh6LOWucTIo3dI2CNm7iDpYUBO/CR8jCk4JMcH4UYdnn7EOgEKrEBUZ6w==;+LBbSdK0vSUwNmHcWebPsw=="
 ---

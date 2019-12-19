@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -78,6 +78,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
+    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
+    publishedDateTime: 2019-12-19T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/aimotives-latest-aiware3p-delivers-superior-nn-acceleration-for-production-l2-l3-automotive-ai-300977280.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: https://mma.prnewswire.com/media/777482/ai_motive_landscape_logo_Logo.jpg?p=facebook
+        width: 2683
+        height: 1406
   - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
     publishedDateTime: 2019-12-18T16:27:00Z
@@ -92,6 +105,6 @@ related:
         width: 405
         height: 228
 
-secured: "Kpkv42oT+y6W4Z1ge1g9kVioeHC5u6qt27zVBYkg9qEhAOOIQKu555IOw7igYauheT+pcdh1meBY3JIJ9ZyDgLmgEWtJ4RZGLeuMxxcB2W4U0B1FrTcQ+rALW5iTCgH6hn35nbOJb5xxOlNdMC/xJHrDDDRQcqS+HAYXloMkI84iMVbVdFsVPBGPZHy9sb35uU7jV8oQwpp1oAq6+o56lc/ydtSewIj9FfFkfyUax5J5aP+XBzvfHZBN9aXRAX46mA4/whVLcV8UM7GN3g0gIg==;6cpCscV9TpxMM+F+T9ZZIg=="
+secured: "Sq95ovyLBka9+GOnEW/7tLGr3JT8e4MjtEvcvl5BECpiwNxEOnuZBf+4V3urv2ZvMVhnKBsZGfgmxlvBZUtHf5IUtnih5vjE70jiaFIc8BejehXrajbmZ+tOq9yY9XkffC9qx3w8Qkqy6tuYc1PfHPU5zHBW70t7KA156MDWqkXynsnwF0lxT1f5kSkHUd73Jbmfq5fLKiWNpxIJDra0zyAVoQou9KIA/nDmTSJrAzbd/TehbxxzDB+bEd8gNoM24eVn0Hl4SXplZcL3HQ3zAA==;MtNB2Vf3i1JMx2KLARVHAw=="
 ---
 

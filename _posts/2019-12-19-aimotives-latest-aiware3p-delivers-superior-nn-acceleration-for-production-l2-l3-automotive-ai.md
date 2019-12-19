@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
-excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
-publishedDateTime: 2019-12-11T10:13:00Z
-sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
+title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
+excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
+publishedDateTime: 2019-12-19T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/aimotives-latest-aiware3p-delivers-superior-nn-acceleration-for-production-l2-l3-automotive-ai-300977280.html
 type: article
-quality: 35
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: SourceSecurity
-  domain: sourcesecurity.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
-    width: 612
-    height: 355
-    title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+  - url: https://mma.prnewswire.com/media/777482/ai_motive_landscape_logo_Logo.jpg?p=facebook
+    width: 2683
+    height: 1406
+    title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
 
 related:
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
         width: 700
         height: 394
+  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
+    publishedDateTime: 2019-12-11T10:13:00Z
+    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
+        width: 612
+        height: 355
   - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
     publishedDateTime: 2019-12-18T09:48:00Z
@@ -74,19 +87,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
-    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
-    publishedDateTime: 2019-12-19T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aimotives-latest-aiware3p-delivers-superior-nn-acceleration-for-production-l2-l3-automotive-ai-300977280.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: https://mma.prnewswire.com/media/777482/ai_motive_landscape_logo_Logo.jpg?p=facebook
-        width: 2683
-        height: 1406
   - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
     publishedDateTime: 2019-12-18T16:27:00Z
@@ -101,6 +101,6 @@ related:
         width: 405
         height: 228
 
-secured: "RP6JlRHEepcsSTL06FblUjMx/kzwvZZETIJO9u/xcz/WAhhTc3dHTdTLvwTpY114tlODUKugBY/IjhRgbXVoDsoyUot6B18BBRnMvUeithNvWgDuKy5iFZNgQU1Odnx2KH1Ss84qwHyaxoP4LWwHM25589TFgZvpOpIz/ESeCltCZUohxT0pWRgH/r1JBbGpco/WMCYutTHCQ4hx4YBoO3ETqecTZRrWecYOaXADuBuz3Aau9qyZ8+vB/oMIOkzDn+XR/IW2c6ZAH9Xpfx6w+A==;mM/0Jcjqr0QQ4s/kKIjWPg=="
+secured: "ZRka30oQfXhjvD+BKUxbYg7iWhlxmKVOHL061xrxxdgLTdf2boICmkhQ3trw+/V8Lej09y0AcWnaQHouC6cRDBytlI2/fB+QCeVHYJBDqqhe1bi2P483x2YDM5TROYCrrY46rXwWMnh+iBBrXHmodfZJeixItSZ2t4+pCnx9KakviKST2x7zx2KcwjW8suS3Y71qFhL/JR8FV9rzjeCTVt7s74o9sGqMndvWU9M6et+9CqqlJmsP3rv7Z++FMjuABl8EkBES2i3gnUmHeXg/FQ==;4644vpiglV9Mhi57SDKxhg=="
 ---
 

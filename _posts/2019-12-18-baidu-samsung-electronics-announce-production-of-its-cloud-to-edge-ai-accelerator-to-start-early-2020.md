@@ -88,6 +88,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
+    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
+    publishedDateTime: 2019-12-19T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/aimotives-latest-aiware3p-delivers-superior-nn-acceleration-for-production-l2-l3-automotive-ai-300977280.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: https://mma.prnewswire.com/media/777482/ai_motive_landscape_logo_Logo.jpg?p=facebook
+        width: 2683
+        height: 1406
 
 secured: "b1IE0u3anmfBbTUW6Ndb5RZYwcuMm2NC7ImdDYG58+vIVert/F2c6c+vWdsHsdh86cQnTeHAbmLTsA8GYw75y/JBDSzUkCospwdlvHwFKdySdfxlRmO1rLrS1D91fNtNIMpo+1KC/LnNI1hpNZZRgwRnW8gFjvRbgVaNaaZktpL22ChfXwTgJ14NmMSHoSjGhCd2ATLQWAd8WuqQ0sIhfEtyOtBf3Ube0kpKm6ffVawRiczH7q6zAdkNnT/dguGGLylLfMa4Sr73QATeGypXIw==;G4K/OFzCHAD9h2x84QHexg=="
 ---

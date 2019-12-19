@@ -72,6 +72,19 @@ related:
       - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
         width: 612
         height: 355
+  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
+    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
+    publishedDateTime: 2019-12-19T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/aimotives-latest-aiware3p-delivers-superior-nn-acceleration-for-production-l2-l3-automotive-ai-300977280.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: https://mma.prnewswire.com/media/777482/ai_motive_landscape_logo_Logo.jpg?p=facebook
+        width: 2683
+        height: 1406
   - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
     publishedDateTime: 2019-12-18T16:27:00Z
