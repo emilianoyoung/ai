@@ -340,6 +340,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
+  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
+    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
+    publishedDateTime: 2019-12-19T05:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
     excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
     publishedDateTime: 2019-12-18T15:11:00Z

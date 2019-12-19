@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 type: article
 quality: 54
-heat: 94
+heat: 105
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
+    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
+    publishedDateTime: 2019-12-19T06:39:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "Investments in Fintech Hit Record High in Q3"
     excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
     publishedDateTime: 2019-12-13T17:01:00Z
@@ -75,6 +86,6 @@ related:
         width: 766
         height: 400
 
-secured: "xjazP67kQwZsxc9udxlTkbNqajg8sTr+a7th77mG2fTaAEOs9++/7TFawXdJ21udsgTBUNpV8FKMfmyLEEGhT8i8kHXEbHWSZhRgNZznzwGg3Sq311PdJxVOFiPO4bKOpUN20k22xuJzRWOTbzng7mJBeKlIqmvtB/48FtXsB9Ny1cTunZH6PPY6QPljQQYCn0XDgjdOYLqmC8I7yTCc4g31HK6XN062LX4Aj6SxQ75eGuErnDd9GXeeAbvpqYO3J93f93XYG4XqckIp4BZ91A==;+rje0gn+udkNs6Zr3kCkbw=="
+secured: "sIOSukl0bOkbnjiaSyT8lQVWTk1lHzYu1sXixpMpNCoyW9OD+jLL0BV2lkcQHcxJEDSK33jP2Tf+9tCg2278xiJ/aI2kPY6LKiv6CtGstb87QoYMdzBa4f633dKIM1tNQZMTI2wYLRNCzv4gTSTe+0+A4No9cLwAwYjzWMnq9o6OedCDpgLj4g+0EPEN5bj7qDaCA9LfG4GSKvzhgknGuJFDDZrRH59J/QHhY+N6khpEPbDWugP8XK7zLNL2OtSm+vtUIYVhp3sUK9/JcGLEOA==;8J/kEZlFNpWvmhLvu4C3Kg=="
 ---
 

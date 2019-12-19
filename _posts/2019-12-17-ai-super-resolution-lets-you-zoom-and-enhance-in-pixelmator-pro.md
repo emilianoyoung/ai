@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/17/21025811/ai-super-resol
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/17/21025811/ai-super-resolution-zoom-enhance-pixelmator-pro
 type: article
 quality: 187
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 600
     height: 375
     title: "AI super resolution lets you ‘zoom and enhance’ in Pixelmator Pro"
+
+related:
+  - title: "Pixelmator Pro: Image magic via machine learning"
+    excerpt: "Last week, however, Pixelmator Pro introduced a breakthrough feature called ML Super Resolution that uses machine learning to increase the resolution (size) of an image without losing (much) detail or introducing unwanted artifacts. The blog post announcing the new feature proudly proclaimed, “Yes, zooming and enhancing images like they do in ..."
+    publishedDateTime: 2019-12-19T06:33:00Z
+    sourceUrl: https://www.houstonchronicle.com/business/drmac/article/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
+    ampUrl: https://www.houstonchronicle.com/business/drmac/amp/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
+    cdnAmpUrl: https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/drmac/amp/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
 
 secured: "5730cfbZS9PFdbRVOaTGe0L0aT+HFqOLie2NyHnMNcDSFBzFCSy6xo50JCnLSsg3AJe52/9GFVQ7WAwXMVJ/epUIJgwayVd+kOrARLtjECAPrWYsL9l/YltPVgJj2Yqt2K4y62ywYf3J1gJPVRwKRnRmJZYJWqb0ay9UHEDoaNT1ncSlMeERSHT9XqUpkcXf6kMOBioLLLAQrpw27kWlyDA3oWNHIX5WRx2ZrB+1qHkZdD/IRluyGBYTjsgoSs9GRFx6ygFff0TzCkcsULroxA==;dOgNu0uDtc4Nt4tGrWKizQ=="
 ---

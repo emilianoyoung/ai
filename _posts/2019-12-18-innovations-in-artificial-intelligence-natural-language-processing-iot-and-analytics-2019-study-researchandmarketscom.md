@@ -34,18 +34,18 @@ related:
         width: 400
         height: 142
   - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
-    excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren't possible with ordinary robots. \"We're ..."
-    publishedDateTime: 2019-12-19T05:58:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-cloudminds-launches-intelligent-smart-robot-rental-program-consumers-/2019/12/19/9072229.htm
+    excerpt: "From natural language processing (NLP) technology that enables smart interactions and conversations in multiple languages, dancing, gestures to other advanced capabilities for entertaining guests, humanoid cloud robots can help create customized brand experiences and memorable interactions that aren’t possible with ordinary robots."
+    publishedDateTime: 2019-12-19T06:02:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005837/en/CloudMinds-Launches-Intelligent-Smart-Robot-Rental-Program
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
     images:
-      - url: https://mms.businesswire.com/media/20191218005837/en/764018/4/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
-        width: 480
-        height: 360
+      - url: https://mms.businesswire.com/media/20191218005837/en/764018/23/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
+        width: 1200
+        height: 627
 
 secured: "TKFdRJl6oWIGf9IQa0D1ZfhiQzSVMGGyrWei9U5uwDW2uuaJQGP4v7BJpub1ls5FBfJUdBmXSvoB0mcfulsr/M+8FdGLGMmnAaQJG4HP5UiKq3ojHYkcjWXAvtu0d2mk14fAUaD7VntZRERpyZ9srF442gjPt2tNC3vKcD6RjsxDDW9vyo+FoKEgJjWvcBUpzk7wbwB8NTmnCgT8Pll7lQOypgQp63tMHwLqrOnBayFzW9snZhM89F2Hqd2xSb1Qn672IUUO2JktzFlAUHC/+g==;HKTfuT5x7pofXlLhiF6n4g=="
 ---

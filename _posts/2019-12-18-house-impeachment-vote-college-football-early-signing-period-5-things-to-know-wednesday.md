@@ -8,7 +8,7 @@ ampUrl: https://amp.freep.com/amp/2661123001
 cdnAmpUrl: https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/2661123001
 type: article
 quality: 113
-heat: 113
+heat: 114
 published: true
 
 provider:
@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "VTPmfLraq9l62pXfjTsPqs+XI5/saxTAoewFjybbSKUqslH4qVO3bLyQVrhIp9TpzI4hV51tcFzJsCaqkrSrzl1r1+NN1Ofjzq4rkVD3JoN3AkineyjoKnGmISj2U4fjJ2vjG7xBMuQY5vLzU+sM0YV8Q0d2xbocaKOw7bvcOK1nNTxr6qGAdg0h0HMzzWbvbesuh8q4hb/mqjuEG4zpsslyaae/VVqdWaWtezpYT+3TesxIYz9mkWAse+TEDVMTMwexLjlPRLirSTON0Spzpw==;0FDFtpuHEmRfhyJUOYS6yg=="
+secured: "kerwmFMAGrIEeP/iXHcnF0QiG5aL1fuWNBcO+Vf8JKSXLOmShrB24ohwQVnVswRwv0YUoKQ7RTGJzen+bTjvQavIc5Pzap/6hTPPabFjtgCfKjD4TJb6NdSHEbv0w9HtRT52wF+jHQKSzzEIpY8usmuZ0etJOo1aBjHu8N+roE0qHudSEKoZYspgYduYKWB4m2gPoGoAA35EqtdcB7wMP5YdfnEKQZ1XI8gyCMCzcRJ2HBNGCupgzUP5gIveutx+yp3W+ygcJRkgYU9GKOxd9Q==;7BYxndlcgHj0ZVKvLyMGVg=="
 ---
 

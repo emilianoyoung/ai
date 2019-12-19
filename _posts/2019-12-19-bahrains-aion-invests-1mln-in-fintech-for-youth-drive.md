@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Investments in Fintech Hit Record High in Q3"
-excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
-publishedDateTime: 2019-12-13T17:01:00Z
-sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
+title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
+excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
+publishedDateTime: 2019-12-19T06:39:00Z
+sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
+ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Ai-cio.com
-  domain: ai-cio.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
-    width: 700
-    height: 309
-    title: "Investments in Fintech Hit Record High in Q3"
 
 related:
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
@@ -35,17 +31,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 54
-  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
-    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
-    publishedDateTime: 2019-12-19T06:39:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
+  - title: "Investments in Fintech Hit Record High in Q3"
+    excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
+    publishedDateTime: 2019-12-13T17:01:00Z
+    sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: Ai-cio.com
+      domain: ai-cio.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
+        width: 700
+        height: 309
   - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
     excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
     publishedDateTime: 2019-12-18T18:08:00Z
@@ -84,6 +82,6 @@ related:
         width: 766
         height: 400
 
-secured: "C7UUU3A3Re4JQjpjEBjDPQHd1Mm6BS+jY3c3J6Lzxel4lJMckiu7mKDwEXUiVdyeI58LslpZ7wbKCk4X3NKdYnPnkZUnSbSM1z9Gdw71HzRcBBOQviQI6oKdcgi45ivcBADD2irHXhewbE3US3pmJIS3YauDt5jHH4hYJVi4TvD8w8Szi3OcZmk4qJC2svku1hbRJtcF5N1Ac2c6iSgDt4qd+7apoV8x2Yik/Bhmuz/0aUJarIRkd1qyv/pDmXdCT8uDkS5KVKatrhSckKXbiA==;L0/qncGlo0lKYeb4aU4vfQ=="
+secured: "zpKBNeCKSAvChX51xETgBkmrtixeWFT8yLmYkmvobnnH560KexfAUCKhxAttXbC8YtBq7Yc5R5j+wRYpsnhjoYr989Tarf+Xp87Dtli5Dwp+WiP67A7LvAplNSyRAzMdt8pqCB394eAyp29Cl/nC9PdZaHW9Z5ov86wsyaqtYeA0aGiFpFlSBtT2lLLKpmqiYoi2kGR4Lf1Gs7w2cHW8HkOjbww551MUzXKvUM5YeytLsxZnBoehO/QmF/EpY9vYyprkudu9tWVH9Pa+tizcfQ==;IWSiZp3oTmUVeonGUC/U7Q=="
 ---
 

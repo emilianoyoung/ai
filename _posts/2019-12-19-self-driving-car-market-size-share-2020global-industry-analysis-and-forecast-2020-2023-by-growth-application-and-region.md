@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
-excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The study includes the use of artificial intelligence and robotics for various applications in aerospace and defense. Some of the important aspects covered in the study are use of AI and robotics in manufacturing of aircraft, operations and fleet management, and other applications by airlines; airport ..."
-publishedDateTime: 2019-12-14T13:42:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
+title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
+excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
+publishedDateTime: 2019-12-19T05:21:00Z
+sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
 type: article
-quality: 81
-heat: 381
-published: true
+quality: 27
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,15 +19,28 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Autos
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
+    title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
 
 related:
+  - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The study includes the use of artificial intelligence and robotics for various applications in aerospace and defense. Some of the important aspects covered in the study are use of AI and robotics in manufacturing of aircraft, operations and fleet management, and other applications by airlines; airport ..."
+    publishedDateTime: 2019-12-14T13:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) in Healthcare Market By Application, Technology, End User and Geography 2019 – 2026"
     excerpt: "Dec 12, 2019 (Market Prediction via COMTEX) -- The report analyzes and forecasts the Artificial Intelligence (AI) in Healthcare market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026. The study includes drivers and restraints of the global market. It covers the impact of ..."
     publishedDateTime: 2019-12-12T12:30:00Z
@@ -338,19 +351,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
-  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
-    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
-    publishedDateTime: 2019-12-19T05:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
     excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
     publishedDateTime: 2019-12-18T15:11:00Z
@@ -405,6 +405,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "hYj38Hx6Nwsl/IRtYWHkXDv8x1pmFaoWpuxzaCWz/xJnHpo71CLeAtDfpFC+mMna7hFOFldK8BwJFnEQdEB8XbZ/xwKFUwNvpID5NgqCv0VFG9VZOy32vRVWoh/iSE02+AbzP/y0j1gQ9VhGUleEDkRuZiLxS/VS6lygcqWHa6uxNd1Gud7uE8L9c+n2C49rtCDBQFkvvBIiJj0BAsad9I1w+yWUE0gcomJVnErQZvzvz6W68mo2BBSSYXpEHPiKMQT6vB/oaOgma5lqj+CdRw==;6a6rbMYc8NGOGF//Oe19Ag=="
+secured: "a1/1i14enh9V42zdIhwNMBR/5pzkyNbTtcqeV1RljVXJrL5+kncNbGUzNysBQv5C5GZ0wWwITufERn6nAc5+RvpmNlkk91G9czfy0tbc3SO6V0ZWODpZQvXITg5FrhukxTs2Jh3sOSK63NFTQiw73cRbq9e/WVL+KH4bcLdr0LBKrQwUTpXby9iuo4YKTxKJliqkFPhSQOCVhzz0brZJ5rib/NwkunLYoVN6g7pLmjPIW5u/anuoF4PuDpFHRM2tuwwpgCnfGJl71eYPCPJs1Q==;LCxmOGdoIBJwK5t9DjH5dw=="
 ---
 

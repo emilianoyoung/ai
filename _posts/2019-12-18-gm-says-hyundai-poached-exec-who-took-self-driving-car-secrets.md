@@ -2,16 +2,22 @@
 category: news
 title: "GM Says Hyundai Poached Exec Who Took Self-Driving Car Secrets"
 excerpt: "General Motors Co. accused Hyundai Motor Co.‘s U.S. unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s chief safety officer, violated non-compete agreements with the move, GM said in a lawsuit ..."
-publishedDateTime: 2019-12-18T00:11:04Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets/ar-BBY6evM
+publishedDateTime: 2019-12-18T00:11:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -34,6 +40,6 @@ related:
         width: 615
         height: 384
 
-secured: "niiNB4d5g3ReCS+JhWRArAvXVkxKz0mNwFaYOLkdP4aniOWiGVFdMQRUWEQi7cjl0OxeeiCT9f7DW1c+8z0ACImNavyJzDcrStYxaAKEIEEDtCd/3zZ3e72rQOUDO/07AY4B1TBhzk+YDIyeIk6npOHXohBlDmn09Nvq0ce/gKzCZMfUtNffrmyyTBeFNabUmNaPKiH3JglyUIJqzQMGFIat/bBFuYYXEx0RRk/dlSLiGanVFyLmXxoDwXANdRI9djlUZIhGs/eyLXrekTCP8Q==;5Mg4fiobd0GNHbGiALvCqA=="
+secured: "vrCjd8wsq+7bYyQYiufvZqkKXKvkM97n3nb+y22Ctpgn6JAUAkv1xkKkKpzJl4KRGBRM0FtPHNORLsdm41wK6AaD3+p1tzHLxj8XGVBerrJ4Oqp+AGyY5vjXX0sIRbNM5eXueBTIxBw3w+zzQQeRbFDjM4+FbZUm4R+Y44Qxs6Scs9c+r8icmnW9X5dEEnL58hcxmLgYau8b4YKy8IX7vBYVELLyfsJin2rVwAD3rfyld9at+7JMmf7V5lzLdAmVIXJdChSPMq2+OFmVxPVsiw==;qX9ZhV+WHZS9wPNgx/0z+w=="
 ---
 
