@@ -192,6 +192,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 4
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-19T09:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 4
   - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
     excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
     publishedDateTime: 2019-12-19T00:41:00Z

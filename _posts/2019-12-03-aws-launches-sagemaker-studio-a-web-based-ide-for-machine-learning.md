@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-publishedDateTime: 2019-12-03T18:20:00Z
-sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+publishedDateTime: 2019-12-03T18:11:00Z
+sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Yahoo7 News
-  domain: yahoo.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
-    width: 4032
-    height: 3024
-    title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
 
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
@@ -259,6 +259,6 @@ related:
         width: 700
         height: 365
 
-secured: "xNNpKtNs1CQxv62efuJlF/PX6g/HrRcimFfZLM3w+nUGSU7pycWWBAQlrvokoMSxwZanKqwm+F0AztofWZ+gdfBtk1Fte3QqWV2NnHRjOey+T64Tr+L9s27Bl8hR5JtAKpssOSP+Wzx1RnM/48xXqH3Z8swmFidu3WKf61BIaMKV/Ix5OPV93znxW80G0lEfqTe1RyAq/E4RogF8pQgh7nHsXnpN1HqQxA0JCBXzz4QvlzXH2z5O6mIhb3sfJQ2OCohe3aNcU4kMzRL/nAI+qQ==;3bM4GCbOe7trOve788/ifg=="
+secured: "AdW8OGY/UOd7mkRDQJfyqTk6o247cEuWX/1Fk9NAH1c+VtSkUq9SFUq7zMatEejQ0Lmiwbk0A0LfcT4Rpm1mAA54Padj4/fJTS4Q9oY/i3/qVbNkU5XTkwj4ISkJDP0laQa6bzgqqsXcUgX56M7vaeGJM4emMci6pvH1UT5tQaqIAK6qhHC8ywNYyiLGSCpZh5edrIR6MJI+4Z+/gioCWhu/W2UR+BwMlyQ/J6IqRIMJ63//pMAFJ0yWBkJ8MbeC1uc8ssu+npw4IEv8ePQ/Pg==;vL28y7aMW0GcBaTZ/LrQdA=="
 ---
 

@@ -25,16 +25,20 @@ images:
 
 related:
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
-    excerpt: "In recent years, a growing number of Indian startups has stepped in to address this void. ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from some 800 in late April), including Flipkart, Amazon, and Paytm, to offer financing ..."
-    publishedDateTime: 2019-12-19T03:05:00Z
-    sourceUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/
-    ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
+    excerpt: "Bangalore-based ZestMoney announced today it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital, and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from ..."
+    publishedDateTime: 2019-12-19T03:23:00Z
+    sourceUrl: https://finance.yahoo.com/news/goldman-sachs-leads-15m-investment-024659367.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/goldman-sachs-leads-15m-investment-024659367.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/goldman-sachs-leads-15m-investment-024659367.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/VuB8I9Y2s3gYhbl9SNdm3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/fy2Qm_8TVAMQnZ.ENhij8w--~B/aD04ODQ7dz0xMzI2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/8e404b1a064aa75e10b5b22925cf60fd
+        width: 1279
+        height: 853
   - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
     excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
     publishedDateTime: 2019-12-19T06:39:00Z
@@ -57,19 +61,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
-    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
-    publishedDateTime: 2019-12-17T21:59:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
-        width: 620
-        height: 413
   - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
     excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
     publishedDateTime: 2019-12-19T04:24:00Z

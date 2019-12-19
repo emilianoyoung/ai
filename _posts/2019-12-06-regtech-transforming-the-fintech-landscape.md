@@ -132,17 +132,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 31
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS's AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-    publishedDateTime: 2019-12-05T19:30:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
-    ampUrl: https://amp.benzinga.com/amp/content/14941071
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "j7kcesRlfQvV1XbayqgmWzEgjR5k1DpIydDtIzTh+mBNDm/QQpUtqzAd7TVKJcYvogL6Cy/w+foTTHGjsUScaG0Ax3AnayQH8nxwxaE1Y4hEXRJ8LMo9d8/k1A8Y/OmKwypfqLXZLanbzXw05gCNDFQHNu52I2M1M8dISSqRMEUZ5yXlotG1VlMViB5u2NGW2iaH96+c11vV3AsZ0vvbywrfEoACEyOa6rSv14LGRPZNJ0Q/jHC9wJZw1xJ3+8zcrLtmETliiz/x54ivarTATw==;z0Qi3ElZPCNvEibJ20Ui1g=="
 ---

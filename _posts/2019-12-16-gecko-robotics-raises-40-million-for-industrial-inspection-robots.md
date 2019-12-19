@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
 type: article
 quality: 119
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
       - url: https://www.bing.com/th?id=ON.372D82F4C365FFEC0818C03DE10F822D
         width: 700
         height: 350
+  - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
+    excerpt: "The International Federation of Robotics estimates that since 2000, the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role in boosting the Service ..."
+    publishedDateTime: 2019-12-19T08:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/service-robotics-market-to-reach-usd-46-13-billion-by-2026-increasing-automation-of-routine-tasks-to-favor-market-growth-fortune-business-insights-1028774662
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "XWb5qbpEVwKLQ43Qdr4nJT3HBCOrCZ3btFltBkkfyoJYdR4tYjXYsjV01dwGTQ4JKbk9ewjhlcjV/G4N78N2kQ+nZxNjD5rOqUmKkFzCP7uYJxz+jA3OMO0HRiluAN3yKrAFUcu03YOZ3DSmDjWxqA+8AccYK7/ifey2gPu/JCb1zAiGeP5KioYJZDeCg/E4MzNpHx0ww8CR44KWjdSkKSKD/FIVXRcDQnuWalY9VnLJHql5pFCL/PZsiGvGYL2aP6CdEumXgAp/wUnNC2LATw==;sPqPlDKbuXz15KroQBI2rw=="
 ---

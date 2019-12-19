@@ -1,7 +1,7 @@
 ---
 category: news
 title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
-excerpt: "Top AI conference NeurIPS 2019 was held in Vancouver from December 8-14 th. Attending experts were excited about a new research direction named federated learning (FL). Professor Yoshua Bengio, A.M. Turing Award Winner, founder of the world’s top deep learning research facility Mila-Quebec Artificial Intelligence Institute and one of ..."
+excerpt: "Currently, data silos and privacy protection are two big challenges for AI. As an encrypted distributed machine learning framework, FL can tackle both problems by allowing different parties to build models collaboratively without the need to reveal their data. The method helps to advance AI modeling while protecting data and privacy."
 publishedDateTime: 2019-12-18T18:14:00Z
 sourceUrl: https://finance.yahoo.com/news/nuerips-2019-china-webank-mila-130700092.html
 ampUrl: https://finance.yahoo.com/amphtml/news/nuerips-2019-china-webank-mila-130700092.html
@@ -25,6 +25,6 @@ images:
     height: 1200
     title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
 
-secured: "kQXOg/8icnRm9pvvLilPGUjAvq7Uw6WvhUBoJYCtKtBparo1jcXyX+jRhSmJhipQ96NHjuM5LyV6tUcl5H7t/XrNyh36uD3TgMJUkWaz2RLXBA+B/YGtDvQoVn5YDF1zlME3LL+dzglnGsr1ajekuqywrPmsvatbegvsdlEzr8I6/q8ASnzd/SQYtXvTcKR7ALqhvGwVKsFSQ+zu7eQRM77Uhq8cIcxPUcA+PQjtBG4iD9RNDgjODcGDaMVRrNqFtQoYJ6sPUhxikAzyvNPI5g==;OvTq9PbShBtA5Tc7HeMRFQ=="
+secured: "Vd33LqeUwfh7ZeDhQWGXYEmsz3zK5OyyWznkF3I5ZhYXP+R7Qj/qmXqypN230TXuwFpZ9ROTsut7bdG6YiGv53i08sEVYMNu1QZ7uWztMFA2jJp5+VOwsehtBqppxFSyZ3sehjjlSV266BO6QjlCb8kZcpmb7b/u3OqwCWKjNYNDMBoUNU7d1aGDb1/nlm+mvn31XNx7zZCeDGRzueCx+LuTDANmZ1KMHo1RcCPONouo7u5b449SyS+2ymuzFFl5vslMsfhbgu8mMfX41OAQsg==;g5YY7pRa+jkuuKwRm3OFQw=="
 ---
 
