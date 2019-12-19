@@ -1,30 +1,22 @@
 ---
 category: news
-title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
-excerpt: "Currently, data silos and privacy protection are two big challenges for AI. As an encrypted distributed machine learning framework, FL can tackle both problems by allowing different parties to build models collaboratively without the need to reveal their data. The method helps to advance AI modeling while protecting data and privacy."
-publishedDateTime: 2019-12-18T18:14:00Z
-sourceUrl: https://finance.yahoo.com/news/nuerips-2019-china-webank-mila-130700092.html
-ampUrl: https://finance.yahoo.com/amphtml/news/nuerips-2019-china-webank-mila-130700092.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/nuerips-2019-china-webank-mila-130700092.html
+title: "NuerIPS 2019: China's WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
+excerpt: "During the WeBank AI Night event, WeBank announced two strategic partnerships with Mila and the leading cloud computing platform Tencent Cloud. The cooperation will focus on further developing federated learning, based on WeBank's real-world experiences in finance and fintech, adhering to Mila's core philosophy \"AI for Humanity\", Tencent's \"AI ..."
+publishedDateTime: 2019-12-18T13:17:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-nuerips-2019-chinas-webank-mila-tencent-partner-ai-/2019/12/18/9071705.htm
 type: article
-quality: 42
-heat: 42
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Finance
 
-images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-    width: 1200
-    height: 1200
-    title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
-
-secured: "Vd33LqeUwfh7ZeDhQWGXYEmsz3zK5OyyWznkF3I5ZhYXP+R7Qj/qmXqypN230TXuwFpZ9ROTsut7bdG6YiGv53i08sEVYMNu1QZ7uWztMFA2jJp5+VOwsehtBqppxFSyZ3sehjjlSV266BO6QjlCb8kZcpmb7b/u3OqwCWKjNYNDMBoUNU7d1aGDb1/nlm+mvn31XNx7zZCeDGRzueCx+LuTDANmZ1KMHo1RcCPONouo7u5b449SyS+2ymuzFFl5vslMsfhbgu8mMfX41OAQsg==;g5YY7pRa+jkuuKwRm3OFQw=="
+secured: "XN/MZCSBVuGSiqmLTfxSb/kE7MJZe2aRl8L1zdGUeSSAKiyzbJAolPxRihCCri4TXLH4qAplQpas08WVK+wIi5wsjcSoCRLMRX8sg1Mfb214saocp77viMncu/cHQYVQ0U70zC6rCFG85nojT6oPweUwOyaqEf1g9q73FkCC1nXeoR7kUrqElfRpSY+6+SoVbaSTHu4bvdcv5/cwMZjwc59Wcrh+miap6VCSap7lFaK8Wh9LUIaS5byxP331hRAAgM1UM02NcOpSK+w7GFgvdQ==;JApBUyOoZBHoemckfl3zvA=="
 ---
 

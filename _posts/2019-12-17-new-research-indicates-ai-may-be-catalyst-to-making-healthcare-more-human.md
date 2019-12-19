@@ -63,6 +63,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "2020 predictions for healthcare IT from six industry experts"
+    excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
+    publishedDateTime: 2019-12-19T10:30:00Z
+    sourceUrl: https://www.itproportal.com/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    ampUrl: https://www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
+        width: 700
+        height: 393
   - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
     excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
     publishedDateTime: 2019-12-16T09:09:00Z

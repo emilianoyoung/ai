@@ -37,6 +37,19 @@ related:
       - url: https://robohub.org/wp-content/uploads/2019/12/MITSeaGrant_ITT_Intelligent_Towing_Tank_VIV.png
         width: 900
         height: 600
+  - title: "Sartorius and the German Research Center for Artificial Intelligence launch joint research laboratory"
+    excerpt: "Sartorius, a leading international partner of life science research and the biopharmaceutical industry, and the German Research Center for Artificial Intelligence (DFKI) have established the Sartorius AI Lab (SAIL) research laboratory. On the DFKI campus in Kaiserslautern, the use of artificial intelligence (AI) in Sartorius products and ..."
+    publishedDateTime: 2019-12-19T10:09:00Z
+    sourceUrl: https://idw-online.de/de/news729310
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B1959BCAC16BB2ACBC617EFE9D7E9E0B
+        width: 500
+        height: 206
   - title: "A Novel Strategy for Mining Medical Records: Recent Research Context"
     excerpt: "Hence, the data mining process had low yield for the detection of metastatic disease. The new method is a natural language processing (NLP) model that detects the presence and timing of metastatic breast cancer recurrence using clinical notes from the EMR, which is used in several hospitals including Stanford Health Care. In addition ..."
     publishedDateTime: 2019-12-18T14:30:00Z

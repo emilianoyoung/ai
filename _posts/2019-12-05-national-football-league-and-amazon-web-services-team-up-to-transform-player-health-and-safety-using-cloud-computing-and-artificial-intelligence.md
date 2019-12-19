@@ -120,6 +120,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "MlQsV+aPaWfckgFTnY1Nrm0tM2nCf/f026HJCKfIQwrmuZburtvgP7OBrrXww/oOm8bA+7+NlKr2DsMb4wWOyyGDN2tuk05Rgtfc5ZOC/7HVUZNy1P4kr8KImNaTio6cluDQKxUZ9FySvkUQHAKvhsS93fz3gkRAv6+HDtyYQy0HRGXRwMTl1pVLjtGHoBOroV0XvEFWDa9bt8MPylSa5xS9FvsSR622irzwIBVK7ATgA2ALdeEcx9TCreALXITe3v5oVfKyy0fqf6i9F9NPSQ==;SR76tHppbxBe1p775CD4GA=="
+secured: "MKQDnHU2b2YJSlhUdSufJ/jlzjfUvGv7v/r9qeM02L09YTm+KYLzIKTCCeawtqDs6CrsBq/tGrarTl56U/UL8eEY8YM8RamaPutMCWgFDfn+XddLZ94qI/nL0sdJxHuqFuB5d27N27uV7n+zKpJim3Nowrr7vRlav2ybcxsRl2NAG0xJHJsHeA4GtyYP4b7gVGUWwLoSa9xsbkM3i3GR8wEqKS9nkAZ23tyLK/8TGByOSHio1RJU/Rq6xRaAcvquJiQyxwhgmBDMP6Sri5eIQw==;cqZ5nXWEC1u0KUh7NuJVAw=="
 ---
 

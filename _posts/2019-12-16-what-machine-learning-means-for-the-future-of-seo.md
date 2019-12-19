@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -134,6 +134,19 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 22
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
 
 secured: "+4uXNI8Kz4oQbjuVow0KVbMzTIMoBna/kXCjAQwX5oC9ATb04hql75c58jM7KFWNEoXU5MLPfckZCqlPPFhnNeU2KQLT9QMgD/bWAgGuWx9la1bZBR+ttP/0CgidboDiiG0O5TUWP/m19+c6gi629VvpXJfVhLT/eJMBk7aSsLT02W8zwDlsnkRBgcC3qsOMT0aexmKXTo3LG5xhVmKQCI+GYAYxLJ7N67nHzV7eVjoHrqS4TrfOG3jJaPkKWlFlnXOe2hODAJ3d/0+BU23rRQ==;6kvcSdfBdFzrVDTtRfo/1w=="
 ---

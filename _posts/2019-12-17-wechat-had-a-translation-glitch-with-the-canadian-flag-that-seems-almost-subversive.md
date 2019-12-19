@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-p
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
         width: 620
         height: 350
+  - title: "University of Tartu developing translation programme with Mozilla Firefox"
+    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
+    publishedDateTime: 2019-12-19T08:45:00Z
+    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 23
+    images:
+      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
+        width: 672
+        height: 475
   - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
     excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
     publishedDateTime: 2019-12-16T14:56:00Z

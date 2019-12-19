@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-excerpt: "Bots are a lot like humans: Some are cute. Some are ugly. Some are harmless. Some are menacing. Some are friendly. Some are annoying ... and a little racist. Bots serve their creators and society as helpers, spies, educators, servants, lab technicians, and artists."
-publishedDateTime: 2019-12-14T08:00:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B?li=AA4Zoy
+excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re ..."
+publishedDateTime: 2019-12-14T16:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,10 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.53C57404C309C95673A11634EB7CF275
+  - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
     width: 700
     height: 350
     title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
@@ -52,6 +53,6 @@ related:
         width: 700
         height: 421
 
-secured: "BNIU+eoKH6b8deg99GArC2CBGPw76OLnB7T8unoCStlSG6uYo2xeF4P2Vj4T8dM6hZyRrO/ViiQoGlrMYkuKLMTXLBQb/fs6wPOy6fyfJDcjFsk4RjF8E/LJ86C2iuY63u03dMp5QVtTqutipaEg5FMB/v/cfO3i9aWGldxBhiaUvdNmhPxas9DRf2x+LF2FgwwTUrSRCSfxlTOjJjZwZdO6RoOORLABCObGwRJrjVDDx9u2o0gQKvraXw29+VX/s5IuoQWMG9mOdtNV3ps94A==;SnwODk8lprxHY4UqfBTYhA=="
+secured: "YAQWHEFNvOXRRBok4XU6H9Ym0FPlRox02KFRXX/AXFEvkrhNep8TVX2FKPlIu4aLX1hDwpv87hVKeBkUIwB9C7vSprQVCoOIJV3+qNM41Le6cbwHl8iRTV+nT69z0mwN449Xg2A//NrySSDd/YMNm+exfO/IAZQZZ2c+Ct5p1SucyaG4FZvv9W9XJBmNzbosPGAHvClPrr/pjnxRFQ0h6xc8JO+Z0WQH8LdX16YoNYYZafy9ZlkQWM2vlDmDcbaLPwsAm8dmT9fJPT6HDnq+Gw==;rWZzGaf9OMUQW2Rpc4hp6Q=="
 ---
 

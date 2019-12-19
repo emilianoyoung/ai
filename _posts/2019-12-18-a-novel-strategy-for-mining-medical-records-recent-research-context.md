@@ -44,6 +44,19 @@ related:
       - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
         width: 480
         height: 320
+  - title: "Sartorius and the German Research Center for Artificial Intelligence launch joint research laboratory"
+    excerpt: "Sartorius, a leading international partner of life science research and the biopharmaceutical industry, and the German Research Center for Artificial Intelligence (DFKI) have established the Sartorius AI Lab (SAIL) research laboratory. On the DFKI campus in Kaiserslautern, the use of artificial intelligence (AI) in Sartorius products and ..."
+    publishedDateTime: 2019-12-19T10:09:00Z
+    sourceUrl: https://idw-online.de/de/news729310
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B1959BCAC16BB2ACBC617EFE9D7E9E0B
+        width: 500
+        height: 206
 
 secured: "I9K+IU8hXXEpaZUb8r5zkXO3mvl9iV98h+EbXmQJeXSmQfWabE1FPkdw1NK2axBhG4Y/eRhvY/HVbUmdvIt5CCX6cAhzY8JOcC/pKHtPjjtMEOxJ/96PNZlF2U4SFWPCVKKYJ7YuGuiWH/EGwHyc0hwCmklD0epx3EdkFykv9tzTn3N84lPJKrRhBaTRQZQl02+8bBMEh4rpx/YLi+C0U9TwPu0t5KqWb8GjkhwPgYoe2FXUfCb+rZVdohN0+E6/4Tg0x2TFizCO9HybiFFm8w==;R1YB9ZFibJjfcBiNV0NxZQ=="
 ---

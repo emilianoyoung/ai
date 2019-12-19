@@ -133,6 +133,19 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 22
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
 
 secured: "6GC0RMEOMHRZTTJGfks9cLQtanu6uqEpoFRwZHLDVFkHUmJtEOzrUcpuep9EiA82dofPwYNHFH7LvjCj8vQYhkgUzik4zdwDKdgCunQdaHqg36OEgOYhd6wU0YyS0ktJ2A6C4KfFv0BI9clZwwwXO6BFZKEJR/BTiMoLAdooJwXPjd/Zf8tdyP4b7pKGbHFQbJ3Parug6gT5JSHOBmn6q1mOG/5fo2D8pYNujKpJfo3e+XlZ2pGTtMO5kGr2dDIhdu602C73+pd70aUNsRB2sA==;ulaOvTvwbA7TEB2Jvf51cw=="
 ---

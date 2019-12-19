@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
 type: article
 quality: 102
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -54,6 +54,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "2020 predictions for healthcare IT from six industry experts"
+    excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
+    publishedDateTime: 2019-12-19T10:30:00Z
+    sourceUrl: https://www.itproportal.com/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    ampUrl: https://www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
+        width: 700
+        height: 393
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-17T05:34:00Z

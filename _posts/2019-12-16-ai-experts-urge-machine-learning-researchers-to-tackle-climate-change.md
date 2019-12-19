@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0BB9960FF6AC6E9BE9ADCC19D06AFB6C
         width: 700
         height: 350
+  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
+    excerpt: "WSU Professor Diane Cook is one of the university’s researchers working to create a test for measuring AI as part of a project funded by DARPA. (WSU Photo) Researchers at Washington State University in Pullman are developing an IQ test to challenge AI systems to see what they really know. “We have AI systems out there that are getting ..."
+    publishedDateTime: 2019-12-18T07:21:00Z
+    sourceUrl: https://www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/
+    ampUrl: https://www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: https://www.bing.com/th?id=ON.0B40AA1612759347DBB8D6FD48699D5B
+        width: 700
+        height: 465
 
 secured: "UGvlI7+Kj8zmvL7DUwB85v6bgdSKmjgOPZAnZOWx78WO6icG3LYpAqnh6GKaJhkId2NWbix13r6DNr5ij4iX21AjCcHGFxkRvLDhoGyDLhHmj+0WK0gRt3sLq6g9uJLIMyJz1V1PnsG6y7BWl7B6yFks+XNIf5S09p5tnYrK1D9qN9PCZRn6ybF/BjLIjSb65673uoYdFu/MS45iIUSyyHnH54RrkpDpSTJf5qB5Gggf0qKYIgMb0SoRKZvr96wYSvHbmwGladofTN+zRozLkg==;b52u08u2VLT1EKlPkM9JgA=="
 ---

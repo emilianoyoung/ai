@@ -24,21 +24,21 @@ images:
     title: "Finland is offering a free crash course in AI to everyone in the EU"
 
 related:
-  - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
-    excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
-    publishedDateTime: 2019-12-18T02:13:00Z
-    sourceUrl: https://www.aljazeera.com/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
-    ampUrl: https://www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+  - title: "Finland is making its online AI crash course free to the world"
+    excerpt: "The course certainly proved itself in Finland, with more than 1 percent of the Nordic nation’s 5.5 million citizens signing up. The course, named Elements of AI, is currently available in English, Swedish, Estonian, Finnish, and German. The six sections of Elements of AI, each of which takes approximately 5 to 10 hours to complete."
+    publishedDateTime: 2019-12-18T13:03:00Z
+    sourceUrl: https://www.theverge.com/2019/12/18/21027840/online-course-basics-of-ai-finland-free-elements
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/18/21027840/online-course-basics-of-ai-finland-free-elements
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/18/21027840/online-course-basics-of-ai-finland-free-elements
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 57
+      name: The Verge
+      domain: theverge.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.D10982FB444A4240B926B1B432071C01
+      - url: https://www.bing.com/th?id=ON.872EE6BCFC92B57CB3955CD5A14BCA86
         width: 700
-        height: 393
+        height: 466
 
 secured: "75w03fA6iu8UWChw8oELJ3wWVBdtc5x6Pe8iUOWuWf8AYPvBmaVcp7bGcaa20jfkEXjjLYwlSdQhQLfKClH1KdXHXl5tBzuckHU88FNZ5hfBUmXLvzM+3oGR+dmnx1OCf9c6M40XUFMomkDafk70tPD6WpXnLaOWP3cXc1jSHMKeAP+24qOKrZEcF/KH1goFX7xthnNuI6vdbgNRuvKmCzfeLLcHu0T31NT4uF3c6ltNrnIsEpmMs1uS4275CPXkVb3VdWlXucOXGKAn2/erUA==;13uk+jFJAA6wMQzzdbmlqg=="
 ---

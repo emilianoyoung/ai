@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
         width: 620
         height: 350
+  - title: "University of Tartu developing translation programme with Mozilla Firefox"
+    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
+    publishedDateTime: 2019-12-19T08:45:00Z
+    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 23
+    images:
+      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
+        width: 672
+        height: 475
 
 secured: "7mvB1BM06tDORovlm39wNfb+3z+o1xKrwzzBu8e8vxWxmDVTUTV9BjVDbPHIicGklbu5XcK+WIn1XXjec/odx/RIgU+sB2qEvoFjw3QN0dXyoWWsxewBUHPaDK0TF5ZmPEKrsW5k8ECN6h3nK/OYI/VeJAG105EHdMbSBzcn+jfSB4lepcBitYX6gyyoc1f2g6EMxM9w1NkXHO3HfdnuAgO/f73mmXrkxEX0ubDc7YqEE2UpaRbrZ97IEdjSOvB+RAvtbq5mhdzZTBRtFXWF8g==;g1toJbv8Ka5/lIifO/ziVw=="
 ---
