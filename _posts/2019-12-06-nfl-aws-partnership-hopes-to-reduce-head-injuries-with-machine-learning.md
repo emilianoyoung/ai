@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
-excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS' VP of artificial intelligence, Matt Wood says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then use the AWS SageMaker toolset to help make sense of it and produce safer outcomes. Story ..."
-publishedDateTime: 2019-12-06T00:00:00Z
-sourceUrl: https://news.yahoo.com/nfl-aws-partnership-hopes-reduce-222422979.html
+excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS's VP of artificial intelligence, Matt Wood, says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then ..."
+publishedDateTime: 2019-12-06T00:07:00Z
+sourceUrl: https://www.yahoo.com/now/nfl-aws-partnership-hopes-reduce-222422979.html
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.34F1CC9919F8CD3D45196F11E672FCDD
+  - url: https://www.bing.com/th?id=ON.B53B6861EBCDEFB70D320D6369F0FD41
     width: 700
     height: 525
     title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
@@ -64,6 +64,6 @@ related:
         width: 700
         height: 393
 
-secured: "AYOlQMRBNneUMc4SRf0V/a1eZvawZYO5GIcqjCB3Yz1La00tIOqadFvxt2TtTXbZMO4z8IEttUbuaxlljR7OogXsErj9hVwfaG0P06NG27B5iH+zpiE5m1ecVXw3H6l3gfx0JU/4h4KjxNijbEeQhGLu+OlYPMgiXj6aD8EK//p3fb+7u4Fh/sObBpkdHCleY7XpRS1BkAW4+nTBL8kBjyuLpCLLzTLrPxyaUnWO1gJfILIxNr+irr6o4LxrA/iQJuCUeBMDiR8ucLL/bSrkUA==;LVBwclXvekk3jrBcTstxyA=="
+secured: "0E5A36SoYdgzYUfXsBVD/GaQmV7WOdaIiKxTIz6vaK/kC2V/WfHWy2ZzBG2+JuDsSZ8X5LU5Nw1ZYGcCjkJjGMuXpGCeuC4aDVcGCrFNX+2YGYyggejdLY3BakN8IThiSrBlYt7KkljzsfGAMCaGE7N9LgZFRq+FiQJHrqzeiYwa8elqdeocczNMV9+xoteb7CQ/vWrejVCTO0JRW60d20bGF4WZHyC9QXznLQ3ce9SVU9D5OiBT1EB39kBbaqPMPFEyphBSnscAK9GFNKkZbA==;tGQLRfHOFUXMYClabXggNw=="
 ---
 

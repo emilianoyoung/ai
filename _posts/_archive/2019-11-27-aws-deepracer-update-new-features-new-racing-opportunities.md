@@ -47,6 +47,19 @@ related:
       domain: zdnet.com
     quality: 84
   - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+    publishedDateTime: 2019-11-28T00:13:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
+        width: 700
+        height: 554
+  - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
@@ -56,6 +69,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "p4rKZ1Epf0sSIlv4w36YP+rPqkcsfs7wtSBJdrHsWUX63bn0T8sgfgAaK+jEXoMgqoiSKRzTYoz0kLpHaTeG3MrlORNARWjkj2uxe6gwR7lgCcrYrqiQH77FIzPRgVofoYYSzrAV3b2qFI2+gYpzM4YVj6VISJAwrkFdjz/jG0ndvgf9F/VI5uiF3Er22t6u/YoRDhY5OfaE37dAKRJ8s70io1dhgPQg3ik9JpvCbEn/6I6qZ9JniXxQg2JyN5MbGF0yx/lmVwCo0RpvRwCExw==;Ngmo0UxZYG9WhBP2zZyGuw=="
+secured: "AP0kfQ1pWVLVAJzdGSycgL/ujSHoTX+UVIMQ+CmsuB5WMZTnxI6MT30shVf5Gd3NMsPzQcyAf9RYyKTbMrfAH1bs7IAztIWurN5inApj++pNklRLF1RIixfp9mOOoxF0q+kouJNyFJrhADpt7pHjY+P6HyVN95AHu7lmn5GXkcZCn2plEm+IokWISYP1Jcm2t8mGxq8W61vPe2caVtSfcu2BKO+DQVXGjG/YzY+HnchZ+i4LHFVFuCZc/j/+AFB4Mf3r2EOsY1Oyf7a4yG1Z9g==;m13SSAMpP3o9KG3npBZeqQ=="
 ---
 

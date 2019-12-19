@@ -23,17 +23,6 @@ images:
     height: 400
     title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
 
-related:
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current ..."
-    publishedDateTime: 2019-12-06T14:34:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/amazon-partners-national-football-league-for-player-health-safety-1028744475
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-
 secured: "7a9C7IbgKBJpjgBM0Sb82T827oYnp58yYOQKPD5QUL9S20MIKNIX1GhLhoMHO8lbanuuk4SqRPbuXL3mFMehjHopsUnhjdCL9mZ+B3HVvT8hvQ0Hmd+stiU9K8LKNcmF5mntS1tBEOaAmy/xqRruzCZH7Gzb9YqPiz8badTDmXLKqO/Oi8PXMl1CiuURsxf/EVfcYpssVpVNCpaDkrv53c9aNF8G03SlEd591OX7Altbs58l8MHvM5ugDO26ecj2SRAReausHttlyZabGDbYyQ==;hv/clOHORz4JXvxevQAdFg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T15:36:06Z
 sourceUrl: https://www.ibm.com/blogs/watson/2019/12/run-watson-language-translator-service-on-any-cloud/
 type: article
 quality: 117
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     title: "Run Watson Language Translator service on any cloud"
 
 related:
+  - title: "Google Translate improves offline translation quality by up to 20%"
+    excerpt: "Bound for a foreign country where you don’t speak the language? Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases. Across the 59 ..."
+    publishedDateTime: 2019-12-19T17:39:00Z
+    sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
+    ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
+        width: 700
+        height: 350
   - title: "To Future-Proof a Language Service Provider, Embrace Data, Tech, and Client Goals"
     excerpt: "In this new model, a business would work on data collection, products, instrumentation, and data management, while the LSP or in-house localization team would build expertise or technical systems based on TM, MT, natural language processing (NLP), and text-mining techniques to understand what users are saying in their own languages. Antczak ..."
     publishedDateTime: 2019-12-09T16:10:00Z

@@ -1,23 +1,27 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "and ultimately predict and prevent injury The partnership aims to leverage AWS's artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS ..."
-publishedDateTime: 2019-12-05T19:30:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
-ampUrl: https://amp.benzinga.com/amp/content/14941071
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
+excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
+publishedDateTime: 2019-12-05T20:58:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+    width: 1200
+    height: 627
+    title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
 
 related:
   - title: "Amazon Introduces ‘Plug and Play’ AI Tools"
@@ -116,6 +120,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "MuBJGSTJu858yCWk0xrGTpUFlifeViMlw8lsVUEbGIG6h45k6X0cxJEXsj+/fbiXr6z/4UWFqIxZ1+/069HWmwiWA/gnaEzw6JfHtXIJrpqOfrpx+H3tC6daO1L32tpZk+LukT6JWxgBOCXeO+B4+pnXRZYxGHY2csxrfGYWIDFSbjCjyOihjlBnOaWhZHbQl0cpqsZ63Jwq75H+0Ey5Ts+PeNg1QhL0fvKvM95nUu+TN5ueA7oQmsq5kCDwo1lJcvvgAhrGBE8xJVLkcNfKVw==;buAsvunuaogsNwXqi0zQSA=="
+secured: "K4OCYI9OWKDfXSris31HgM/5C2AGstHog9B2kAUq1g/mcQmDdoRnpx47p9pZBx1sKjPZ+jxwNAaNzwl8h7rIXpR71z8063Vl2Ojtx6kTSWi1OLn+SXZhw3lDWeCyJ9QjQ5wjXrPKFR7JMj4pqx+/5c17+KskFtjIU4PDP9wjmiRk6Geid5Uc7Dy0yHCI/AeE2QB4CA1eSZzeWSC5J9Ou4Cg/C6XGwM3jefwjPK4fD4h4Uo5emPJfS1qP4RfAHcYPRMwo0heBIh8wz7jsf5w/3g==;0KBD+WK4N4vNko3llXtxYA=="
 ---
 

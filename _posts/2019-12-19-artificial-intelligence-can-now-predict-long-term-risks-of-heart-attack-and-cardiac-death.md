@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence can now predict long-term risks of heart attack and cardiac death"
+title: "Artificial intelligence can now predict long-term risks of heart attack and cardiac death"
 excerpt: "A new study in Cardiovascular Research finds that machine learning, the patterns and inferences computers use to learn to perform tasks, can predict the long-term risk of heart attack and cardiac death. Indeed, machine learning appears to be better at predicting heart attacks and cardiac deaths than the standard clinical risk assessment used by ..."
-publishedDateTime: 2019-12-19T14:27:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/oupu-aic121819.php
+publishedDateTime: 2019-12-19T17:29:00Z
+sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-long-term-heart-cardiac.html
+ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-long-term-heart-cardiac.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-long-term-heart-cardiac.amp
 type: article
-quality: 8
-heat: 8
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
-secured: "TVfB0U6v5r/R3lKvch77Tuqf6Aq3fz0vYiZlqb0Py0ANz1z8tdcyVjtGc7kpesX3aod8f+/BvBGkKO94q8t7HOIbRH6MqtFvxBH1F4/2ZA5pJfdaVhr52ZUMRnNds8rfs3w9oepFkEHO2lubbeHDuKEfnTSH+QOgyIRjk39byIt20ro9fzEB0qKsUqZWHKUM4Ob8/geM+qcmcvs1lCNs6F2VuPf+j8d8iFel5+qFh18sTNEJz3JOmG8hb8QpLsVD1aCG4xB0y190SHz4QOpPNQ==;KyY6gjyuGD4GIv8e428Chw=="
+images:
+  - url: https://www.bing.com/th?id=ON.E2C974C55093DDBFCC72C4E61087F999
+    width: 700
+    height: 466
+    title: "Artificial intelligence can now predict long-term risks of heart attack and cardiac death"
+
+secured: "KOc8XVKjxQXphyvWOoecz73KbytPMpR3HApctPP+HvsgLd1xfnkqF7lOmfChP9eF+/W7oH/hgynVSEfusGuGemF7dXwbo6ac5SreVJQhEkIqIIeqA3HF08AiQp6bbyHEd6qV1LVOIYvzQa8HXmWDXcka78IRgCzDSQpLpIUBzIr0qTfapb/in3HfLfb4qVPTp2ROhp8TgTGQGJ7MUMy7GE56bELcRIixhsLB3QOXVWvIPLmik6vI004iWME/Gj87As+W54wEK+rBtNUYsLBqWg==;TIVZwtv/8/c/qrz6vmBUZQ=="
 ---
 

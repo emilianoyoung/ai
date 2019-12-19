@@ -127,8 +127,8 @@ related:
         height: 800
   - title: "Bochum team wins second place in machine-learning competition"
     excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
-    publishedDateTime: 2019-12-19T15:38:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
     type: article
     provider:
       name: EurekAlert!

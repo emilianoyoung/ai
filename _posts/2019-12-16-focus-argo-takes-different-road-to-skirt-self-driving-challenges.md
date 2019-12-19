@@ -1,21 +1,27 @@
 ---
 category: news
 title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-16T18:07:47Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
+publishedDateTime: 2019-12-16T18:07:00Z
+sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+    width: 640
+    height: 427
+    title: "FOCUS-Argo takes different road to skirt self-driving challenges"
 
 related:
   - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
@@ -76,6 +82,21 @@ related:
     quality: 33
     images:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
+    publishedDateTime: 2019-12-19T16:34:00Z
+    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Santa Cruz Sentinel
+      domain: santacruzsentinel.com
+    quality: 33
+    images:
+      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
         width: 1024
         height: 547
   - title: "Argo takes different road to skirt self-driving challenges"
@@ -157,6 +178,6 @@ related:
         width: 700
         height: 419
 
-secured: "hJ81eK6mNuWwyXFahyC+2R/aKO9+ecd++zPYOA0OV0RViWH5a3GTA715WJDy++N0g/M0KMTR2ihb95Gbm4g1wD0d3xHhSNbzPx+eFenVa47pm8mcCe06xsXAq6ddsIUo50h11MJ8bstiHZdAKslCeUAhi9Xs/ZSjGokkQMo+OMl5UVKFaWQvBPIP1mkkBGtnW2s3Ces8TRr1hJA2ibqNhxbG5Pd0q59qEU7T/pIpRJnHCkRhL+CRQY4Rrkwmzxt9BlKs9lV5PT9b43qYNGEJdQ==;XTASYEy8Dd6VG4T/CcmZPw=="
+secured: "1AOVx07xgApTDhhJkpJBFV6GizQDpa7J/OH2owt+D7ygLTRm6pNSyHv9zmD4XKi0vnTpdynHuA3t5pFwUUB93wOodCGrhUxOnI7WgJEd7NHCxkcYioEnV02baXvBt54OmCvOyWdc0hAaeRkYvCjsRYJJfOY0PYIGMIZa3/ACuVBzAJStd1l0yES6oCraM1RRsqenml06irSTbCF9szkEDBybnDY5CCCUNjkmAIXmb7ygedmKTuCgtowJ31FXGi6GdXUorzm0LPwRJvCA4Q79hA==;8x/a6t0+MZ26KYjuB9ADaw=="
 ---
 
