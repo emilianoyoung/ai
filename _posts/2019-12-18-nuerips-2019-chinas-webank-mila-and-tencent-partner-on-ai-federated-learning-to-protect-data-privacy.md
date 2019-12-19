@@ -1,22 +1,30 @@
 ---
 category: news
-title: "NuerIPS 2019: China's WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
-excerpt: "During the WeBank AI Night event, WeBank announced two strategic partnerships with Mila and the leading cloud computing platform Tencent Cloud. The cooperation will focus on further developing federated learning, based on WeBank's real-world experiences in finance and fintech, adhering to Mila's core philosophy \"AI for Humanity\", Tencent's \"AI ..."
-publishedDateTime: 2019-12-18T13:17:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-nuerips-2019-chinas-webank-mila-tencent-partner-ai-/2019/12/18/9071705.htm
+title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
+excerpt: "Top AI conference NeurIPS 2019 was held in Vancouver from December 8-14 th. Attending experts were excited about a new research direction named federated learning (FL). Professor Yoshua Bengio, A.M. Turing Award Winner, founder of the world’s top deep learning research facility Mila-Quebec Artificial Intelligence Institute and one of ..."
+publishedDateTime: 2019-12-18T18:14:00Z
+sourceUrl: https://finance.yahoo.com/news/nuerips-2019-china-webank-mila-130700092.html
+ampUrl: https://finance.yahoo.com/amphtml/news/nuerips-2019-china-webank-mila-130700092.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/nuerips-2019-china-webank-mila-130700092.html
 type: article
-quality: 17
-heat: 17
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
-  - AI in Finance
+  - Machine Learning
 
-secured: "x5ufNzGyWnn5HlmSwkOMuF2hANChWDOAGggEe6B2TfQA9sKJsV7uIXymrk8iW8ANBUcfLYTSH8FfnKCrBUB4blXnyjAR0Wx909AFUtyLIdcNgYnLzf+5gJcX5MBR9JUUFZ9PiCvzKxSKY1rJ7+q2bcIlyhl2ywNyk6+cR1yfdvrvIcs8vdWw9O7pUiDDQGn3C4GfqH/W9dIdl0VhW9PqDEclgwBygbQbL2Iw1O25X49xMDii+nZpstY9bqrgfBL+XE1qd72lvatFvC0LoosF7A==;Grgust6feWPI2mDZdHygvA=="
+images:
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+    width: 1200
+    height: 1200
+    title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
+
+secured: "ftBR1+ANccW3asUVZVWE+Z6E0CRDmtXn3yyowAVndCsDUtVv1/6ZcmpeIT5CI2sJpmoKvg2w30bm8QoQNuOLu6rgolkxOyf1sSiUyUgok7tJxgace2JqKKQIQ/ptuVZYBMk2j/KshIRcSU4/gjEfugSUCh6qzZ+U1uC66uZ/rpkU8IFxfUqsDQppwhnMh0C08kmCo27vRkWsMs/YGVxEdG2i92uSEqPYEaNuYyeC89bQNOxN+Bn2DDuT+r9+iVwSl48kw6QF5NuDKwVcK8/PAw==;HRMq7MKk3muGNWrwJ4ov4A=="
 ---
 

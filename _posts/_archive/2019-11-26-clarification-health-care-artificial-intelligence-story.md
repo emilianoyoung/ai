@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Clarification: Health Care-Artificial Intelligence story"
 
-secured: "wd6g1EIGL+CHb8i3Jn5c1G4W7A9yYgfdzxGTe4i+VGyw6dv98PXhLgQlTaY09zVA+zOP8hVwtC0B7GQJY+Wjptg4OmNLDv5+BYaR+MZ/fqrK4aLi/iCjhkW6gz4jnG6G742tahst17Fhd2/MoSiwsyTL0RfAthNkKbePDVNMcNgt7yPAK2NamGnDWCLBQUuKQ0V3/FX4/dwj/dRVQVn2j1R8rj/5NPUvLJTzypy+5/lWwv8bJM/0e0yjwHwqVRFnWC7vkl/GcTrFr7FvoErx3w==;zvHBiVS1HQZViVEkV1pomw=="
+secured: "lGx0W6mR0FgJraCoAYQkk3jcZ3Gwm6/xPqUUGZI5aW1EOLmdUK5oAtgQrFlU+dFL93Phf/pEeeeu/K1pO8R6L62qVrRwAvp39D8qMKTRJxgH5Mc164l7xTvK9XlmxKWoRt0j45Pd5J9j4FcDi88TdG2VQNWqUovA9//jacPCfADXVEx55LsSuN5hgynyz7CIQunK2tQxzwRuZou6o0Sqr4FIgS/4Eo4pIlTom/qxw+Rqbh4Am/LzdLXFSk3d1LvEAHA0sXkakcF/iFIYHm5Yog==;Xkdw1HqHzXa+Wcfxv7Gkow=="
 ---
 

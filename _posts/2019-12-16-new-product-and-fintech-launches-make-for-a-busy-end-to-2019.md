@@ -24,17 +24,6 @@ images:
     title: "New product and fintech launches make for a busy end to 2019"
 
 related:
-  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
-    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
-    publishedDateTime: 2019-12-18T18:08:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
-    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Artificial intelligence and policy innovation: New milestones for UNDP and Qatar partnership at 2019 Doha Forum"
     excerpt: "To build the rapidly technological competency of the labs, A Memorandum of Understanding was signed between UNDP and Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), enabling the use of data science and artificial intelligence to help achieve Agenda 2030. The decision to invest in the professional development of ..."
     publishedDateTime: 2019-12-17T02:00:00Z

@@ -46,19 +46,6 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
-  - title: "Investments in Fintech Hit Record High in Q3"
-    excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
-    publishedDateTime: 2019-12-13T17:01:00Z
-    sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
-    type: article
-    provider:
-      name: Ai-cio.com
-      domain: ai-cio.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
-        width: 700
-        height: 309
 
 secured: "kDdA/2Gei4FTLYvSv1IdvGijHYo/g1dTNIA463DG8RHtEuceaX3Yf3vegMDki/iqQhnjzVjLKImpzMcSvnmxUOVX6+K+8EthZVpJbyI13o9lSW8Z0+DmMQ6jrhpYu1meNFPmIa6xORmvHhELsj1LfEt5EMqKy4zcZDkoSHPm3tJ/awlmn2RNVu61sjUH5uYVp5pORP439SkxSL0ZiR+2zTnDV3W99drgdQxDL9UkqLVMZgn4z4CXCEFzE0tHJJPy21GA7TIgOaLbTnArIhRbAw==;M6jic8c72kISBMXQJXUiwA=="
 ---
