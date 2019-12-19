@@ -5,7 +5,7 @@ excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon 
 publishedDateTime: 2019-12-06T04:49:00Z
 sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: https://www.bing.com/th?id=ON.C4ABF858833B93FD4142DDE6C62C62B2

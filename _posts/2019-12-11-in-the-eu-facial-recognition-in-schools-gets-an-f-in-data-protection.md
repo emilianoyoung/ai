@@ -303,17 +303,17 @@ related:
         height: 367
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
-    publishedDateTime: 2019-12-18T13:21:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
-    ampUrl: https://www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    publishedDateTime: 2019-12-18T21:18:00Z
+    sourceUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/
+    ampUrl: https://www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
+    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/18/east-bay-city-becomes-latest-to-ban-use-of-facial-recognition-technology/amp/
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 58
     images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-FACERECOG-0628-1-1.jpg?w=1024&amp;h=768
+      - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"

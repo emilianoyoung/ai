@@ -85,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
         width: 400
         height: 400
+  - title: "The machines are learning, and so are the students"
+    excerpt: "“Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski, who runs the Computational Neurobiology Laboratory at the Salk Institute for Biological Studies in La Jolla, California, and also is the president of the ..."
+    publishedDateTime: 2019-12-19T11:25:00Z
+    sourceUrl: https://www.bizjournals.com/tampabay/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+    images:
+      - url: https://media.bizj.us/view/img/11563437/educ-machine-learning-1-2*1200xx3000-1688-0-156.jpg
+        width: 1200
+        height: 675
 
 secured: "Ngj+DohD0xrq6YqkF7SMBSkzyrC9J2AsIqOTGjO+pLcQCNVcywTfbupoXiqEy4ChiX1048d8SAYIVrVQ4eYMQu7toeLnkdont1NOx+wF4U1AZ3l0VeJkUwMBJQOWogW+C9mNIfPu3RWY9JT4iS+NzoFJT1xwlJacZM/zQw8mXQU6w1pOFTL6uxtSP7vsHb0lkLve3WBg9qeNyicy3YF3bqH1X7IBTW6GKPpMwwTDEUwHa0ECtRZhxPNuC3ACXBB03+28Lf/P0C2AKYtNiR3d0Q==;nnNQ0/5OMQF4ufrIf58K5g=="
 ---

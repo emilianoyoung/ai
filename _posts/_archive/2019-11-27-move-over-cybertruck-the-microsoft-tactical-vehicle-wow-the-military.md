@@ -25,6 +25,6 @@ images:
     height: 525
     title: "Move over Cybertruck – The Microsoft Tactical Vehicle wow the military"
 
-secured: "JyO7KQ5IOvMtKX5mQ9ngcbUzwP7psSICq7l6e65XWk6YqGnsC1O6Om5uBZaPEPUY0FbHL+IvsHYoNcRZxbFnM33ANr8g8RPG+SY1Z25WF9zClUdsi8MJ2gA2JhdECMFXSRawR4uTxP9XY09bHbnHuAJP56q1S8QY9NsjGJCyk6WqCdVQtUSc2Qi4583F8V17byc53vHbP8l6px5MTHRl41T7KLEx8NGupVPeLcPlvGtrf4nMOwqng3T7Nwt6xf/yAXtJhYBwQgKRonYUsfFalg==;/lyd1J5czq8Caab2ZByCfg=="
+secured: "/YEfpVZYt3iBAaO9RfCx8b+AyFlBjSoy2gZg3re7+PVcghvSN15HvBaHboy7oezo+HD+YRm9jY5MTIqF9TZMbfUqE+0+XhE7kLsSwd3Q57/AMKJV4R2YMljm6Af0yJZAPxfsd0bmTklCCSilyaKhdDsEo11kgA2w+4UmBZO+fa8upjjI1K2ZC6SP+rHjOEqIxbNlBr2tyIxaX4aFsOX3lg9F81yhk/wpORZ3eP2/b7/bfgPiB9vuXi1/tP6kywpZzey8loTn2zuRp6AHBwU2Fw==;/HOxxJRRUV/i2aCOQZl2ag=="
 ---
 

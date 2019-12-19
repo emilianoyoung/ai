@@ -1,9 +1,9 @@
 ---
 category: news
 title: "KPMG’s digital shift fuels AI-empowered audits and more, reducing risk across every industry"
-excerpt: "Better yet, just meet KPMG Clara. KPMG is bolstering audit quality by infusing the process with data analytics, AI and Azure Cognitive Services, allowing audit professionals to use company data to bring more relevance to their audit findings and continue to meet increasing regulatory requirements and standards. KPMG uses Azure Cognitive ..."
+excerpt: "KPMG uses Azure Cognitive Services to provide more continuous ... In addition, KPMG Clara will integrate with Microsoft Teams, providing a platform for audit professionals to work together on a project, centrally managing and securely sharing audit files, tracking audit-related activities and communicating using chat, voice and video meetings."
 publishedDateTime: 2019-12-05T14:11:00Z
-sourceUrl: https://news.microsoft.com/transform/kpmg-digital-shift-ai-audit-reducing-risk/
+sourceUrl: https://news.microsoft.com/en-au/features/kpmgs-digital-shift-fuels-ai-empowered-audits-and-more-reducing-risk-across-every-industry/
 type: article
 quality: 28
 heat: 28
@@ -22,11 +22,11 @@ topics:
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.C80BC18B7C9FDDEEBA748308EBE6092A
+  - url: https://www.bing.com/th?id=ON.3398F681CA3C4ECCD69413F4179B6017
     width: 700
-    height: 302
+    height: 350
     title: "KPMG’s digital shift fuels AI-empowered audits and more, reducing risk across every industry"
 
-secured: "4YJ+JyGlg/hbXoUWVzatl4EAp0Dil8ZQhgSeujSZKNWkhAJsOzFHa195VfbbFUSEEDnqfCmgyjUU4hn9iJr80G+kQnDkfe2EKod8MuOjPP7nvUmmZi3SEurvxzEsiMcmC49nd6QofcDo1+ndEFaK8OE/cKpjKUUAgOoF2PLkHs4xCF79TmQMo7e56SvUoOsYaO8wt1L81ytyDpmLTvI5ksgsyP35vwRi2S4uSpLzyi1GLRe7WO/JTQgQJIEPkFuAW5tHr7N/9iJHewLSh3UCsA==;99mDcO/5b8HtfOUJuPMgfw=="
+secured: "UQR3L4EV+OXlgkeXJIM5PHL921v9WfgavL8rMV8ygpiNkLu8EO9cwurtg4tpbjXsWPCX2SELNZRtXCJjIACVcSY2hnsWuFVbsOum2FO5Nl1AfoGjWyPPAOzzTuCW4XbzqgmFmhGHw1tjUxoyr1SUVaFTOLmgGqALgQzkU8NMRuyN5J25arlu7UWC1GGOet9rNzEOwoG8EpIm4o6XVgMfuIcBcjTaNvv8FHFX24Cj8sMn+rzgrPc8bR3qNu5DsfhjS9uy1Fw7pltqtaJZ8pMPpg==;6lBFgzvJOgfK2ow6r6+LuQ=="
 ---
 

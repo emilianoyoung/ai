@@ -2,24 +2,26 @@
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-publishedDateTime: 2019-12-02T13:25:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive-the-market-1028729846
+publishedDateTime: 2019-12-02T13:19:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
 type: article
-quality: 43
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Markets Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+    width: 800
+    height: 419
+    title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 
 related:
   - title: "Artificial Intelligence (AI) In Healthcare Market Technology Advancements and Business Outlook 2019"
@@ -427,6 +429,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "sKtUHKjEM785u53gqqR2fz8z5RMCJreKlBADMvYEffoiEf649Qvddhg5uS2EXwdS1LMzsBS8AAfJqqHd6VoECvLPQeIsYwhutvg5u7CQBM+qiWIfWzCIN0R4FE6IEhO1DRxYGqniaHiAtNvzO6tGO2v9BIyjnfdOfqyAFRP0Wm4cyFkAEGnRKqo7kXkP//4pzgUeO5bhniBjV2S8TQDrpwPsKZqnP7Fm9OIdTrjiRh22vnrmTUuFN5cpxFvsMTYAUfScsab8+xJbdyATuNZxcw==;cQW6+VHgv8RMUNnRNm5m8A=="
+secured: "mGOl/taXz0otOCmYIwzLKiI9b/V9h8Dw4Di9G728KrVIrB0JI4ClMXHmUxLehv7mTDtvB64BHAFUERQojLmsPJWNZRy97rXWKqk5jx+dpesrLjmPUoYOK8UjrmuhBI3dyWbdbC4QyVS/PygYlgW+bCTXcjtGJbG03kLOmswTyUjjykKssXDE8JKI4H75d3ZqqIU/2rwzLSs9FmSobix9QNW0GuvIV/w1z++nEwdn+gkgW9/ZAhntcJ5dyfouobubYdkRiJBgkX9JN3wiaZ3QcQ==;dTXFQe6n+Ep54A+vuJA7BA=="
 ---
 

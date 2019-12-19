@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets"
 excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-publishedDateTime: 2019-12-10T19:45:00Z
-sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+publishedDateTime: 2019-12-10T12:31:00Z
+sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48386029-natural-language-processing-market-worth-dollar-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-008.htm
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-    width: 400
-    height: 137
-    title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
   - title: "Deep Learning Market 2023|Industry Size, Share, Revenue Growth, Development"
@@ -132,6 +126,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "XMoWdsS6oxqlcMydMFAq8EVzFS5BDwj87+frbnVia1E4UdUYa00E55gj5xJmtBN5MCMDIGr1qAhtPof7WStyAXsCJOup+JnV67/H6q7NKgr27crXaipKnhJKMCUEXK0sHgmNBLewrnNZEM0KDcUrusHWIQSsN6X7J/ap2M/5M0/X7gS56XP/ojQtDjScv7l/BGO/HsipV9g+o0CbVAw0xeIJqxQ/VzU1EV2u+7bR6BZxeXubY3C/mnhVTApLrwdnOWjqerq9qyFIoq3FSAX49Q==;Ut525hExMToc+xHBoKbMww=="
+secured: "rKVyER34SR31mRXkw4fRZqPzgaHLQCw46lPuecbBadEM4U3D+Zxp5IPuHpcOTfWLpHa8gyvqAnRWQgBQs7IOv/hQeVXCw1ZIYoy0yUrNM8BDtwficvsPZMMNXlGpx5e5kyE/BOjikD7WPWemWLweQ5mZL9RShAyKx9O5t8LXwX32xsHWW/5Q1dLpciQdjMx92A5SuxDSDya2TlDCRxnQCvNTi1ca+7k38AGLO+JqhPEYib+mdgASd2lNP2DHGrpB58D1IwWnkw4U9Ud9HQw5Gw==;n6syGPR0E0FHZeEK9cbcoA=="
 ---
 

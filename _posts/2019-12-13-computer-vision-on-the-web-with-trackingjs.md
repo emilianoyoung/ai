@@ -163,6 +163,21 @@ related:
       - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
         width: 2400
         height: 1800
+  - title: "The World Is On The Cusp Of Revolutionizing Many Sectors Through AI and Data Analytics: Yogesh Mudras"
+    excerpt: "Mudras hail artificial intelligence as not a futuristic vision but as a need of the hour. “AI is being integrated and deployed in various sectors. This includes finance, national security, health care, criminal justice, transportation, and smart cities, points out Mudras. He further adds, “AI is a major driver to provide security ..."
+    publishedDateTime: 2019-12-18T13:26:00Z
+    sourceUrl: https://www.entrepreneur.com/article/344018
+    ampUrl: https://www.entrepreneur.com/amphtml/344018
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344018
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
+        width: 700
+        height: 466
   - title: "Supercomputer will help create the next generation of AI"
     excerpt: "AiMOS, the 24th most powerful supercomputer worldwide, was recently unveiled at the Rensselaer Polytechnic Institute. Its main job? To find out how to build smarter hardware to support ever-more sophisticated applications of AI."
     publishedDateTime: 2019-12-12T12:59:00Z

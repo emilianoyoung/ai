@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -71,6 +71,19 @@ related:
     excerpt: "Artificial Intelligence Market Segmentation: By Industrial Vertical *Media & advertising *BFSI *IT & telecom *Retail *Healthcare *Automotive & transportation *Others By Technology *Machine learning *Natural language processing *Image processing *Speech recognition"
     publishedDateTime: 2019-12-12T05:40:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-investigation-and-growth-forecasted-until-the-end-of-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
     type: article
     provider:
       name: MarketWatch

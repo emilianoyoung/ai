@@ -150,6 +150,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
         width: 700
         height: 525
+  - title: "The World Is On The Cusp Of Revolutionizing Many Sectors Through AI and Data Analytics: Yogesh Mudras"
+    excerpt: "Mudras hail artificial intelligence as not a futuristic vision but as a need of the hour. “AI is being integrated and deployed in various sectors. This includes finance, national security, health care, criminal justice, transportation, and smart cities, points out Mudras. He further adds, “AI is a major driver to provide security ..."
+    publishedDateTime: 2019-12-18T13:26:00Z
+    sourceUrl: https://www.entrepreneur.com/article/344018
+    ampUrl: https://www.entrepreneur.com/amphtml/344018
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344018
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
+        width: 700
+        height: 466
   - title: "Computer Vision on the Web with TrackingJS"
     excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
     publishedDateTime: 2019-12-13T18:21:00Z

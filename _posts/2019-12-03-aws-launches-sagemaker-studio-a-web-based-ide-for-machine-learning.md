@@ -115,6 +115,19 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/Site-Merch_reInvent_DeepRacerX-League_SocialMedia_2.png
         width: 800
         height: 400
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training, and optimisation to monitoring the performance of models in production. Launched at the Amazon’s ..."
+    publishedDateTime: 2019-12-06T04:49:00Z
+    sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.C4ABF858833B93FD4142DDE6C62C62B2
+        width: 700
+        height: 437
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS DeepComputer is a machine learning-enabled musical keyboard. The 32-key, 2-octave keyboard is designed to allow developers to play around with Generative AI. Developers can use either a pretrained model, or train their own model on a data set from their favorite genre. AWS Single Sign-On now integrates with Azure AD AWS Single Sign-On ..."
     publishedDateTime: 2019-12-03T20:34:00Z
@@ -154,19 +167,6 @@ related:
       - url: https://www.bing.com/th?id=ON.52955C3AB42254C636E380E50047BF5A
         width: 700
         height: 525
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training, and optimisation to monitoring the performance of models in production. Launched at the Amazon’s ..."
-    publishedDateTime: 2019-12-06T04:49:00Z
-    sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.C4ABF858833B93FD4142DDE6C62C62B2
-        width: 700
-        height: 437
   - title: "Amazon SageMaker Experiments – Organize, Track And Compare Your Machine Learning Trainings"
     excerpt: "Today, we’re extremely happy to announce Amazon SageMaker Experiments, a new capability of Amazon SageMaker that lets you organize, track, compare and evaluate machine learning (ML) experiments and model versions. This is a companion discussion topic for the original entry at https://aws.amazon.com/blogs/aws/amazon-sagemaker-experiments ..."
     publishedDateTime: 2019-12-03T18:45:00Z
@@ -259,6 +259,6 @@ related:
         width: 700
         height: 365
 
-secured: "tvt1oMFnLc5BDZ9M31QSlaP5rkr9Jqfk0t7oAf6BmcBsV8T2hBDlZjX4uyNRsVWdC1+jUacz5lRS3/tbcUW6lJkMFEi2Po4gn6CtBCU2LC+ZwOeeD8l8HZURh6RSxN0qP/yy5K2UHb7FP9juWzhoJVHhvfRsJNjw/xthT0EgB6SzRNVev4ZGiWhfmn6TOap916qV5bPasLWpTbzzfEJQ1FR8vmHI/442IFPv017RpP3yCQzpQH4Hi78by1pkD9kt1UWOVov4lCruZVKVjo7+yA==;6CCvXeNlzMB06YbL2EJGAA=="
+secured: "F9eJiR7x7VANzQRyhXk2O4dtUdxHAstjXaDzZ7qf2wg11fWUrHXLw1swP4nfBalLI2IFxzdLxj29F9H0wqatQSUUyifcSMKTofLLjD3APEj3F8Ym5FlXHmrL3woVXkYuRGzaErimpmvCUoScantLjA+Y5sERpsF1FuxWflcOjcCDwlhC0qCgrRJDGtG08BwQkAdzlgyPS6k/eMFGdLboYNyCQ7b3/BglRl4l2Kj+Vgp5iJpo8ng0XyOEFY2ybiNQV1QHSVkrIjr+Lp9xnB1Upw==;rJezoQWPjb6IH306B6KxkQ=="
 ---
 

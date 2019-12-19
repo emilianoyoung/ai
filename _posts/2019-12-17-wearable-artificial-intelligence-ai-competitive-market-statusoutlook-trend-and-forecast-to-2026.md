@@ -380,6 +380,19 @@ related:
       - url: https://econsultancy.imgix.net/content/uploads/2019/02/21141015/ecommerce.png
         width: 1200
         height: 598
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-analysis-size-share-growth-trends-and-forecast-to-2020-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Educational Robot Market Growth | Industry Analysis Report, 2019-2025"
     excerpt: "Increasing expenditure in educational R&D activities and the popularity of these systems as a learning tool will drive the educational robot market growth. These activities will support the development of innovative and affordable products, which will suffice the growing demand. The implementation of artificial intelligence technologies in new ..."
     publishedDateTime: 2019-12-13T16:28:00Z

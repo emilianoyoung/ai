@@ -8,8 +8,8 @@ ampUrl: https://www.cio.com/article/3494155/westpac-and-microsoft-team-up-to-cat
 cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3494155/westpac-and-microsoft-team-up-to-catapult-digital-banking.amp.html
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: CIO
@@ -24,6 +24,21 @@ images:
     width: 116
     height: 116
     title: "Westpac and Microsoft team up to ‘catapult’ digital banking"
+
+related:
+  - title: "ASC Recording Insights Available for Microsoft Teams"
+    excerpt: "Intelligent insights are generated from these conversations using the power of Microsoft Azure Cognitive Services that also enable a proactive approach to compliance management. “With ASC Recording Insights, we provide our customers additional important functionality within Microsoft Teams, thus supporting them on their journey to ..."
+    publishedDateTime: 2019-12-19T11:29:00Z
+    sourceUrl: https://www.realwire.com/releases/ASC-Recording-Insights-Available-for-Microsoft-Teams
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 54
+    images:
+      - url: https://www.realwire.com/twitter_writeitfiles/PI_MSFT_19_1_FInal2.jpg
+        width: 600
+        height: 315
 
 secured: "bRJmIWjzjjG4dBkIyRs4BDHlEy16Jq0WtPbjVXjAwn2zfi8Yqxq5tAgTqO9x/m4ikj1v3L4q4A70sZKxbDxekR5hNsuknXLih+Uwr1N2SbaTMemMUYq/zG7OJ2bE3F1AlkT6/H5815NZwz3083jx87naUjgekp4/H3tsVgndlxMss8x48IZ0s0EWHXmSGPeeiZRORv1z1FmCmctfTegM9ennqp2KaaigZKT70YiJJghiIY7ql7PmtHNpK9OzFCLYo5tEBTwae+dKMjoCWjQopw==;DFJ+6N280EI3+HPhSCwGjA=="
 ---
