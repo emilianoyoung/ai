@@ -23,6 +23,6 @@ images:
     height: 450
     title: "How can organisations use data effectively, according to corporate VP at Microsoft Azure"
 
-secured: "2S26D790BOa7VxqFRVF9QoPEMcPp8FCQyr6nIG4HWvrrkdAE+KL7HRvRLT7qesj9NjTlZ69TIiAyHR8k1m9xCjKfYaxyBDp8sG1raHvmXVIMpXLC0exjq16gUJ4crxLWCXpSfJUNcs9Fiy0+00IMJ/vmtTl8h7Ex7gH7FjxzxNBX0FbLugNInD+YISmzpZYgdczdcdpiDONYkMjDjNCfEC8e5Tk2WSImii/EopoLnpOJRd9dPWzjB3KOmaTPzyBsmPw/hfAi3Ir/BCJHxdS39Q==;EuzJpPzLuO46IhvlYPGi5w=="
+secured: "bw8WGpCShwj7txyFEHbLnvWAy5o48WJrWJxEa7ofcJ8MlFXcM6q7BFkodbCNkzRiyC3QZlsMiiO7EaIK5AEsBNeL51UUrpTLC9yIYKmF/1JWJz+N2dl55jXBqHsMniHzvrbapjDrCmQUVpOpmzKQgu7xHScHu5NvB6PqLMwPtNlNHPI/BuNm/icviyMVMxv2/u1VxV1UbZeTjRF336Q0Kcl0PkrE83PbFabjBECla+LqTPwx54tnZ9oRfO2vES6Fm6BwR06Qkbr9WLG5vz67WQ==;neyt7FugkCxLu39n/EymKg=="
 ---
 

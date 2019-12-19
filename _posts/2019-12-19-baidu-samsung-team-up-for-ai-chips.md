@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
-excerpt: "Samsung Foundry and Baidu this week said that the companies were about to start mass production of an AI accelerator chip early in 2020. Baidu’s Kunlun chip is to be made using Samsung’s proven 14 nm process technology, and make use of the company’s Interposer-Cube 2.5D packaging structure. The Baidu Kunlun AI accelerator is based on the ..."
-publishedDateTime: 2019-12-18T15:00:00Z
-sourceUrl: https://www.anandtech.com/show/15247/samsung-kicks-off-mass-production-of-ai-chip-for-baidu-260-tops-at-150-w
+title: "Baidu, Samsung team up for AI chips"
+excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+publishedDateTime: 2019-12-19T03:42:00Z
+sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
 type: article
-quality: 53
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: AnandTech
-  domain: anandtech.com
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
   - AI
   - AI Hardware
-
-images:
-  - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
-    width: 678
-    height: 364
-    title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
 
 related:
   - title: "Samsung to make Baidu's new AI chips"
@@ -76,6 +70,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 54
+  - title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
+    excerpt: "Samsung Foundry and Baidu this week said that the companies were about to start mass production of an AI accelerator chip early in 2020. Baidu’s Kunlun chip is to be made using Samsung’s proven 14 nm process technology, and make use of the company’s Interposer-Cube 2.5D packaging structure. The Baidu Kunlun AI accelerator is based on the ..."
+    publishedDateTime: 2019-12-18T15:00:00Z
+    sourceUrl: https://www.anandtech.com/show/15247/samsung-kicks-off-mass-production-of-ai-chip-for-baidu-260-tops-at-150-w
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 53
+    images:
+      - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
+        width: 678
+        height: 364
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "Designed based on Samsung’s 14nm process and I-Cube TM package technology, Baidu KUNLUN chip to expand AI ecosystem and transform the user experience Baidu, Inc. (NASDAQ: BIDU), a leading chinese-language internet search provider, and Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced that ..."
     publishedDateTime: 2019-12-17T23:43:00Z
@@ -98,16 +105,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Baidu, Samsung team up for AI chips"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
-    publishedDateTime: 2019-12-19T03:42:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
 
-secured: "iOvlAhIuom4xN9rjmQeSppDFk6j9ZBjzmbw9Iu8+TlR8iDe7LxaDNN9BX4N+dh/zf3brjv30n1RidlWiKDoKo7kLNgBFpnUoq6pMsf20mG13leuWOkWDFVFuAreyWQBLsTqzOiX7WNRBuJbI2UHze6SBq9YaDiC8ccCUmEzL5Lvq4qpggUB8KA6l8+/dT6Y0GuktAdOi5SzxXbmaEz2fqWHQ6nF4d0/NiZs5SMW4cTmTE6PzstjDLnkOwqDOgVpZPQOBG8Grq6QOWRGVXsrxwQ==;Vnrjt/E0eqR5/NaxNvykLA=="
+secured: "HmLkZ7avdnU+DXr4Lwa5Mx/DpxG2janAOmoxJtZFdrlR0GYEDQAnnWr1AkiZQk1qiB4hIDDxmDCwYAfQmI7kEkOMdAAVpWuSX3mpJ4bmqgYmfOIpeAfau1z6lhKOY/LFPm1mEkmEG1krJTaFIqBFsfQ4krTZIad51oB9JcGeRWs19cBolBECBK+izhu+vRLvgUlGeNJeqVOnOjlIg1VLF6fYM25CiVvq9jWpdNIRF1I318xkG+jrd9A3yKXKEUTAjPDh6CoJZV/PgFddu7mLBg==;IYytnh0FLwtkYpZfdMvzPA=="
 ---
 

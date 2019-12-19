@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T04:40:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-technology-advancements-and-business-outlook-2019-2019-12-05
 type: article
 quality: 85
-heat: 415
+heat: 405
 published: true
 
 provider:
@@ -102,19 +102,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Speech Recognition Software Market by Technology Advancement 2019 to 2025"
-    excerpt: "Global Speech Recognition Software Market Report 2019-2025 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs. MarketInsightsReports ensures qualified and verifiable aspects of market data ..."
-    publishedDateTime: 2019-11-29T03:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/speech-recognition-software-market-by-technology-advancement-2019-to-2025-2019-11-28
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

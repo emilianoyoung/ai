@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
-    excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine learning to create a full Artificial Intelligence platform with industry-leading computer ..."
-    publishedDateTime: 2019-12-03T15:23:00Z
-    sourceUrl: https://finance.yahoo.com/news/clarifai-named-vision-ary-leader-151300071.html
+    excerpt: "Clarifai was described as a \"Vision-ary\" Leader in Forrester's evaluation of the 11 most significant computer vision companies in this emerging market. The computer vision companies were ranked based on 10 criteria. Clarifai received a differentiated ..."
+    publishedDateTime: 2019-12-03T15:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-300967087.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.03ACDB6E17045FF9E40463320E0FD61F
-        width: 304
-        height: 400
+      - url: https://mma.prnewswire.com/media/1036786/forrester_new_wave_original.jpg?p=facebook
+        width: 5157
+        height: 2699
 
 secured: "9EYdLgKZqkzZUbut1ehhaEKrMcsyLso6Hwf4StDCBT520976KUczYJ3mKCAJIGckEHxag970gkNeWr+FhpFgIYZYdwud/dnUXUVBwF82IUUisS2HD3Autb6hSqlgJo5XfxYXCTlRCtFOzAxZPOc8crw6szi/qxLZ7mORRDdcrlaV6L2WCW69H5m+3OmZ+PgbHTcSfXAJb2jBlZmQNNK18KZY/4Ns8wAPXSVhQTigvHEJ1hZQI0mSwupyqsqZ08C+1JTAx4dWmuXw69l5N6cpsA==;npJ66/LGs4m+IdGZVisZtg=="
 ---

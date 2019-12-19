@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Robots to help BA passengers find their way around Heathrow"
-excerpt: "The robots will escort passengers to various locations in ... part of a £6.5 billion investment in improving customer experiences include the use of artificial intelligence to cut delays in preparing aircraft for departure, driverless baggage vehicles ..."
-publishedDateTime: 2019-12-19T03:23:00Z
-sourceUrl: https://www.belfasttelegraph.co.uk/news/uk/robots-to-help-ba-passengers-find-their-way-around-heathrow-38798422.html
-ampUrl: https://www.belfasttelegraph.co.uk/news/uk/robots-to-help-ba-passengers-find-their-way-around-heathrow-38798422.html
-cdnAmpUrl: https://www-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/www.belfasttelegraph.co.uk/news/uk/robots-to-help-ba-passengers-find-their-way-around-heathrow-38798422.html
+excerpt: "Other innovations being developed by British Airways this year as part of a £6.5 billion investment in improving customer experiences include the use of artificial intelligence to cut delays in preparing aircraft for departure, driverless baggage vehicles and 3D printing of cabin parts. Gatwick Airport began trialling a valet parking robot in ..."
+publishedDateTime: 2019-12-19T04:34:00Z
+sourceUrl: https://uk.finance.yahoo.com/news/robots-help-ba-passengers-way-024543996.html
+ampUrl: https://uk.finance.yahoo.com/amphtml/news/robots-help-ba-passengers-way-024543996.html
+cdnAmpUrl: https://uk-finance-yahoo-com.cdn.ampproject.org/c/s/uk.finance.yahoo.com/amphtml/news/robots-help-ba-passengers-way-024543996.html
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Belfast Telegraph Digital
-  domain: belfasttelegraph.co.uk
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.belfasttelegraph.co.uk/news/uk/c727f/38798419.ece/ALTERNATES/h342/bpanews_e48f005c-6308-4397-9917-00a0c5686a43_1
-    width: 608
-    height: 342
+  - url: https://s.yimg.com/ny/api/res/1.2/ssXQXJCekSKc9Vkt4xzUTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjA-/https://s.yimg.com/uu/api/res/1.2/sj_Y7o8oPqUXE4vRXvpOfw--~B/aD03ODc7dz0xNDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/snappa_tech_788/4f427000c60b6d9ec45cd5248380fe93
+    width: 1280
+    height: 719
     title: "Robots to help BA passengers find their way around Heathrow"
 
-secured: "yiV3PHlURU2eMSCH6CTDtMfs4r5Ge3FR7Pi4ZPILJGBw/7u5l0pOMJtG+Iby2qwHWqOhp3r2bSaCy6BcVnbhMpvXOU7y2t6ZpR2wshaw4fBtzaHQz8t/UFuTr8gj3GeDeXWPXmKZFOtprGJkXuLZD8ta8jn3M9WDA6prY6Uig+gNEgK+AAxB1kvqYG4KBRFh9+k/hZpsqmEsgT09j4qfsZ+FsCYAU5iA7PV8vpwcqAr6JykHOPEjbo8/Z54MJ0tN7y9S7Xj/4zciRuKBLAiA3Q==;kfWUjjwtf6hPSBZWgO1IBQ=="
+secured: "860VUpCb9CESvc0RMKAE35JvUieKwCu4ZMS0sXMdCYbs22ByaeA0aTW+9krQI0nK8VnARZmAgst97W2yp4vclKqihqkxevfMw2nRyMoanEJySintxTrOBtpT1+yMtf/0PovzLA1lJgO3Edy8i31/dq9F0eXDH4/y/P2Yzsxl+Om1DCHR7PKU9EbsbdJtBD+FRNKsLucH5zWKF6XmQGDesFFNzKrgZ9+/X5KAw/KuKTX1+63NxLDs/v/rcVwQdXnJGwsFCPCsnBHwCYU2OokIqg==;s5l0+zdJjG9tyYzwdwdmnw=="
 ---
 

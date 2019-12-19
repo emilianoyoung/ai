@@ -25,6 +25,6 @@ images:
     height: 1200
     title: "NuerIPS 2019: China’s WeBank, Mila, and Tencent Partner on AI Federated Learning to Protect Data Privacy"
 
-secured: "ftBR1+ANccW3asUVZVWE+Z6E0CRDmtXn3yyowAVndCsDUtVv1/6ZcmpeIT5CI2sJpmoKvg2w30bm8QoQNuOLu6rgolkxOyf1sSiUyUgok7tJxgace2JqKKQIQ/ptuVZYBMk2j/KshIRcSU4/gjEfugSUCh6qzZ+U1uC66uZ/rpkU8IFxfUqsDQppwhnMh0C08kmCo27vRkWsMs/YGVxEdG2i92uSEqPYEaNuYyeC89bQNOxN+Bn2DDuT+r9+iVwSl48kw6QF5NuDKwVcK8/PAw==;HRMq7MKk3muGNWrwJ4ov4A=="
+secured: "dVdzDlQdzaVAcxqMhJa3mRN/PtzjUp4hsI3T8qCGFzYif90sSK4+TxYO7bKXXI5tFwqYWew/aSVqGxSqjSVJsjiXQ6wcSEPf3sEQhSQtjAQ7Yejt1iB9d+Tc57Dth5Y4fwrNpwyWtKLtJl6CTwRs16gBER2zS7nw2D8qw2E00P2rsHUizM73SpD4a2oEVOV2CbVtF7eILvQKDRGo5bn1PAnSiXDQgLKstpQend2bLRa0/hyuDbqP4gX9flKu39eu08iDztudw9fmdG5PGyDBLQ==;D+dCqWyKiy7VVyjnAg3N1Q=="
 ---
 

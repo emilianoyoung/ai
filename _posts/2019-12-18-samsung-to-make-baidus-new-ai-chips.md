@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-c
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
 type: article
 quality: 184
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 34
+  - title: "Baidu, Samsung team up for AI chips"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-19T03:42:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
     quality: 34
 
 secured: "ZVeQ9E6Nw5rQjtmkCfACLeciiEpvOxGQaCyDvJSfmyh6owbuVgaQnBN01PFHM3iCW+ZVOttk8bLIwgfaWSfXbhqHV1dW362y2nY1Z1ecY2uq/dJsREQ2MaN2vb8rhzUMMtZT49c1EA1fLw34OSLlY6tL1wju1YN3aAQSVRET6VxSeBScYpDsNqWbTJAbcr/loLhGtolp7b36g4pn6H67+kKNcvJnlZ8TjaG6s2u+pJ3nn1IO5DM08ZUimaoxe2DUEw9LSi8MB9O76CmA+XmVegjLyMiiJtd0rQJBsCmArBc=;yo1TC6jekxwdN4ktjEpElg=="

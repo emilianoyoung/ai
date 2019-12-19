@@ -96,6 +96,15 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/Yg_et0f.iaNbpzJ83s6sFA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/3f44db5d6c8a2c9bdb3ecef71c91b74d
         width: 480
         height: 330
+  - title: "Baidu, Samsung team up for AI chips"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-19T03:42:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "RxDrk52oWIWt0utnV8AH7TKZb4UtKST0TMG4sHTW1lxAodnz5fx1cQc9tWawGMRy0DqroLJJE836gX8K4qlpiODiMOAqQg6fKGvNz3p9vwxvCiM50RYAf7aNPaYo26Gi/Nl/l/irLL6Lx+ZCEBSCMc/6lE+C2KAkVJHn0kZ/zlgwtua4haLLpT17Tx8rUgQtz3CrlWl6h6Xa2MuAzf9ejYrMCVCGZ9Xt/I7IzttXFJgQRhjyoj3HXHEJLO9Ajw9dAwCMOvgeQGOa55CeXNKZjg==;NbV10ZfVEA2Ua+bihged0w=="
 ---

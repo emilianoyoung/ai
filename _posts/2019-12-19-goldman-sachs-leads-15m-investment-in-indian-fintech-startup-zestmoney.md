@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
-excerpt: "Bangalore-based ZestMoney announced today it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital, and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from ..."
-publishedDateTime: 2019-12-19T03:23:00Z
-sourceUrl: https://finance.yahoo.com/news/goldman-sachs-leads-15m-investment-024659367.html
-ampUrl: https://finance.yahoo.com/amphtml/news/goldman-sachs-leads-15m-investment-024659367.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/goldman-sachs-leads-15m-investment-024659367.html
+excerpt: "In recent years, a growing number of Indian startups has stepped in to address this void. ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from some 800 in late April), including Flipkart, Amazon, and Paytm, to offer financing ..."
+publishedDateTime: 2019-12-19T03:05:00Z
+sourceUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/
+ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 54
+heat: 94
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: https://s.yimg.com/ny/api/res/1.2/VuB8I9Y2s3gYhbl9SNdm3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/fy2Qm_8TVAMQnZ.ENhij8w--~B/aD04ODQ7dz0xMzI2O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_350/8e404b1a064aa75e10b5b22925cf60fd
-    width: 1279
-    height: 853
-    title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
 
 related:
   - title: "Investments in Fintech Hit Record High in Q3"
@@ -50,7 +48,33 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:59:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
+        width: 620
+        height: 413
+  - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
+    excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
+    publishedDateTime: 2019-12-19T04:24:00Z
+    sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 20
+    images:
+      - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
+        width: 766
+        height: 400
 
-secured: "mYflnNFF24cNsE89UEBe3RrQxV/egZ9erE49u5l2WbKdxONvMi/DcgTzhb5rK47foxMQKlTG+HaAPgqeLdP5SwG6YCwgWq4henVA9RAzHbPstkmkhqNdb1X/9pzJaZDMo1bMwLe3NhSaAiw6uq2IRN2TN5AVGYaXls6VaM8QTaOaQ0L02unachPmAtsGHdPT1lgRDCW+Bon5UaSwn0AdRjeslNrWxmuh9TIuTUXR0hjHPoO5xkw6rJ8yah9ClHopQdnQuOOfd1HOaEuN4+VfwQ==;rf/O7sP+Xx61v+L3dhchvw=="
+secured: "xjazP67kQwZsxc9udxlTkbNqajg8sTr+a7th77mG2fTaAEOs9++/7TFawXdJ21udsgTBUNpV8FKMfmyLEEGhT8i8kHXEbHWSZhRgNZznzwGg3Sq311PdJxVOFiPO4bKOpUN20k22xuJzRWOTbzng7mJBeKlIqmvtB/48FtXsB9Ny1cTunZH6PPY6QPljQQYCn0XDgjdOYLqmC8I7yTCc4g31HK6XN062LX4Aj6SxQ75eGuErnDd9GXeeAbvpqYO3J93f93XYG4XqckIp4BZ91A==;+rje0gn+udkNs6Zr3kCkbw=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Investments in Fintech Hit Record High in Q3"
-excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
-publishedDateTime: 2019-12-13T17:01:00Z
-sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
+title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
+excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
+publishedDateTime: 2019-12-19T04:24:00Z
+sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
 type: article
-quality: 24
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Ai-cio.com
-  domain: ai-cio.com
+  name: thetechportal.com
+  domain: thetechportal.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
-    width: 700
-    height: 309
-    title: "Investments in Fintech Hit Record High in Q3"
+  - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
+    width: 766
+    height: 400
+    title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
 
 related:
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
@@ -35,6 +35,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 54
+  - title: "Investments in Fintech Hit Record High in Q3"
+    excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
+    publishedDateTime: 2019-12-13T17:01:00Z
+    sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
+    type: article
+    provider:
+      name: Ai-cio.com
+      domain: ai-cio.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
+        width: 700
+        height: 309
   - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
     excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
     publishedDateTime: 2019-12-18T18:08:00Z
@@ -59,20 +72,7 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
         width: 620
         height: 413
-  - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
-    excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
-    publishedDateTime: 2019-12-19T04:24:00Z
-    sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 20
-    images:
-      - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
-        width: 766
-        height: 400
 
-secured: "C7UUU3A3Re4JQjpjEBjDPQHd1Mm6BS+jY3c3J6Lzxel4lJMckiu7mKDwEXUiVdyeI58LslpZ7wbKCk4X3NKdYnPnkZUnSbSM1z9Gdw71HzRcBBOQviQI6oKdcgi45ivcBADD2irHXhewbE3US3pmJIS3YauDt5jHH4hYJVi4TvD8w8Szi3OcZmk4qJC2svku1hbRJtcF5N1Ac2c6iSgDt4qd+7apoV8x2Yik/Bhmuz/0aUJarIRkd1qyv/pDmXdCT8uDkS5KVKatrhSckKXbiA==;L0/qncGlo0lKYeb4aU4vfQ=="
+secured: "11vk0GhLMRmji/8/jHymhZn0Fdlr/VuSLwfXbWMLkPjLq8MiHcrnRoHCkoN2+ndMSfnvNyWKQEaUR7vBqVdrZu1SCVyihhfEzUCGSFUhAGzJAXMxWoNsXVCg2SrHV7uJOSV6TMhT/V8nUftXRs5n/JJE93n7wbTfq2BgkPo9una19ZtvfVOFBWexmoroJXHKeJ+lm8VmNJLvddeO9FPQQkFRCsQbVCJ8I0DBTCyZ6CLlv61BGsiRuZJNv28AE7Z1QynmQv5TCdhTqVQvYYow5w==;KoUeewZRQjWzFHR1m1K8bA=="
 ---
 

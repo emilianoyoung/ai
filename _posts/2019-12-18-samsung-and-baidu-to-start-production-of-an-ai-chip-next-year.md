@@ -98,6 +98,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
+  - title: "Baidu, Samsung team up for AI chips"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-19T03:42:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "2G7xAoNrie+c0vLU7Ck9bJ2SYdggjFB6Lhx0KAwnHk8o7CA4uh6qflY7x2QRJuENykrrJgxuU0VtiWC2kRtXYFgtOXwjs4kjHu4KQAojM4znxz/KqTMuy4ShcAERE6OjRWFD9ZUMO1Szew5bhzGieWV3VM+EvzAG9wY3/X5W6NeFxvM0U99xY7xXLkLsW32Ce7z3o+FKKu9wf9jj7/rSK+Aq79vbFzu3F2b8ZIgO7FA6i4Ey2KjYL1CbZpbEgpS3M2cbAqsVYhPej0uiJU2TBw==;iNCY09cjFcRrH3mw+qtwBA=="
 ---

@@ -119,19 +119,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Speech Recognition Software Market by Technology Advancement 2019 to 2025"
-    excerpt: "Global Speech Recognition Software Market Report 2019-2025 provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs. MarketInsightsReports ensures qualified and verifiable aspects of market data ..."
-    publishedDateTime: 2019-11-29T03:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/speech-recognition-software-market-by-technology-advancement-2019-to-2025-2019-11-28
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) in Construction Market 2023 Research, market growth, demand, value, share"
     excerpt: "Artificial intelligence is used to sort and respond a plethora of information ... On the basis of technology, the market is segregated into neural networks, machine learning & deep learning, and natural learning programming (NLP). Additionally, on the basis of deployment, the market is bifurcated into on-cloud and on-premise."
     publishedDateTime: 2019-12-10T12:16:00Z
