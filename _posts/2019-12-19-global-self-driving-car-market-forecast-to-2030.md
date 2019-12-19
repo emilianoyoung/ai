@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
-excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
-publishedDateTime: 2019-12-15T00:25:00Z
-sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
+title: "Global Self-driving Car Market, Forecast to 2030"
+excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
+publishedDateTime: 2019-12-19T00:27:00Z
+sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
 type: article
-quality: 0
+quality: 4
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
@@ -46,16 +47,16 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 4
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
-    publishedDateTime: 2019-12-19T00:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-15T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 4
+    quality: 0
 
-secured: "jRS7OJlzbCCt99FzBrni2SU/wXw+aIKi0YDvLFxkxjzz7hQLI7EQpHm7yOI2PTi5RjxAySGUtPF+jSWFLiyVV+8sHMDRc4GpImAkgKzjZPYTi9Jh55x3kfNrFFrCDNOpqIhI9ZtVqrj06H/bJYRYvRXR3p5e6tKdt6ZOJBKDPd+OBhqqFJj8XmJVtYdSGR7KmoIgUnNJXle/vyJspCDQTTAbv7/hZlBhB7qxlhxPh9C6CSidioa+9Gg+IIDnUXd8hWV3wyGf4MeSSNkIDBdXOg==;dyArJOlannxLJBtO8x3T4g=="
+secured: "u+Jy/xhxmXPPuLS/tetwd49HJry94Sg6K3+bnfSkKGJmEHDO46isxL2x7EoSrS0wDfgPILeMRcTlN+a3WqMUvQnRc/UZ+4YQ2VerYwlmL0MYxstMdkW4K29i4R1HI7GjRiINFQEPPSpiQYgwD1iFGk4DjdIY1BQRTe9h/L6ScO3/XylDSUs5nESYQtv4ALESjBCLEPGHqqUB3Qg8cCDU8B9fTUbxkGnMLm/kbNjPixmO+4L4DeNdblXgPby37TURli7LWRIkKet6B5vtqAk5AQ==;tAH9+wfRDoDPb4MRL5i1Rw=="
 ---
 

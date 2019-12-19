@@ -711,7 +711,7 @@ related:
   - title: "Lawmakers seek answers on HUD's use of facial recognition"
     excerpt: "Eight Democratic lawmakers, including noted privacy hawk Sen. Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD. In a Dec. 18 letter, the lawmakers are seeking a breakdown of public housing and subsidized ..."
     publishedDateTime: 2019-12-18T21:19:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx
+    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx?admgarea=TC_Management
     type: article
     provider:
       name: Federal Computer Week
@@ -771,6 +771,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
+  - title: "New docs: facial recognition confirmed ON"
+    excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
+    publishedDateTime: 2019-12-19T01:18:00Z
+    sourceUrl: https://globalnews.ca/video/6315316/new-docs-facial-recognition-confirmed-on
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 39
+    images:
+      - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
+        width: 500
+        height: 281
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

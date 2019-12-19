@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
-excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
-publishedDateTime: 2019-12-11T15:36:00Z
-sourceUrl: https://www.mcall.com/business/sns-tns-bc-cpt-facialrecognition-seatac-20191211-story.html
+title: "New docs: facial recognition confirmed ON"
+excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
+publishedDateTime: 2019-12-19T01:18:00Z
+sourceUrl: https://globalnews.ca/video/6315316/new-docs-facial-recognition-confirmed-on
 type: article
-quality: 18
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Morning Call PA
-  domain: mcall.com
+  name: Global News
+  domain: globalnews.ca
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
+    width: 500
+    height: 281
+    title: "New docs: facial recognition confirmed ON"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -777,19 +783,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
-  - title: "New docs: facial recognition confirmed ON"
-    excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
-    publishedDateTime: 2019-12-19T01:18:00Z
-    sourceUrl: https://globalnews.ca/video/6315316/new-docs-facial-recognition-confirmed-on
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 39
-    images:
-      - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
-        width: 500
-        height: 281
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1015,6 +1008,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
+    excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
+    publishedDateTime: 2019-12-11T15:36:00Z
+    sourceUrl: https://www.mcall.com/business/sns-tns-bc-cpt-facialrecognition-seatac-20191211-story.html
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 18
   - title: "Research: Students of color at greatest risk for facial recognition errors"
     excerpt: "As more schools adopt or test facial recognition software, an MIT Media Lab study calls the technology's accuracy into question, finding only 35% accuracy when scanning females with darker skin, District Administration reports. The schools using and testing the technology include Lockport City School District in New York, which uses the systems ..."
     publishedDateTime: 2019-12-16T15:15:00Z
@@ -1025,6 +1027,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "GfGsdNDanUAXyG1xxCQVUE599x7NPHuaF/mkv4HwPcwuCPY7hc4W5KQEUGg972EDaJH+SRyzgZCjSPHiuixA2JbEWz/S3OWzxWQnw+uE9rku7jSx6kvXzZ2T8rEXkY3+QQEXqHnHeKyVeA5LZZg6kpdtvNZENvun6d8LDAMb4VagvSmWGBDz0NkOSxKvDX7vTKedg2/Us2HG65fY1fCcbQbIUFr5PPHfymSa9bzQeOoBC+ENsRcI6iulW9iEvUMkOqwImYKmkBnH8Zt6VLymeA==;X7P3sxHGDqWo1Jg9j3S3UA=="
+secured: "Orub6rvTUQTlEuvABdEzOT5ETNL5qjy1q1TIhGySswQeHZ/zxkDX7BNQ0u8Yexfg3AcJ9FWPVN1IaJ+5TGTBEEJb/8WW3i/jbPDhtzX2TofFimP5Y6A52XgXcowENDsW8iJsVm2Zprju25Lh75yxac2YJN8Mle8IuJGSKrQGz2Y4SiKwcL6dXDC25YXz6F3obVpsGzQm0dHKV+G1MqwmS7Stbs6Tpar+uvpVnPvNd5xxDAErNxX8K4YhwP+ICwns2+BgmSbd1+FZyaTpS5nYCA==;GogxH8tSXXNGa6fkT4UNBg=="
 ---
 

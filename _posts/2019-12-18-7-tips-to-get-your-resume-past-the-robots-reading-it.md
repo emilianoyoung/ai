@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-art
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
 type: article
 quality: 189
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "7 tips to get your resume past the robots reading it"
 
 related:
+  - title: "Whisk’s AI-powered recipe app lets you send the ingredients to your door"
+    excerpt: "Despite the proliferation of recipe websites and apps, finding and organizing the recipes you want to cook has somehow become more difficult over the years. Recipe sites are overrun with ads and long-winded personal stories, while many apps ignore the fact that many of today’s consumers want to shop for groceries online, not by making a ..."
+    publishedDateTime: 2019-12-19T01:11:00Z
+    sourceUrl: https://techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/
+    ampUrl: https://techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.9F0CD8C662F039E63370E60D6E5FB065
+        width: 700
+        height: 366
   - title: "Are Robots Ready for Prime Time?"
     excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
     publishedDateTime: 2019-12-13T17:00:00Z

@@ -723,7 +723,7 @@ related:
   - title: "Lawmakers seek answers on HUD's use of facial recognition"
     excerpt: "Eight Democratic lawmakers, including noted privacy hawk Sen. Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD. In a Dec. 18 letter, the lawmakers are seeking a breakdown of public housing and subsidized ..."
     publishedDateTime: 2019-12-18T21:19:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx
+    sourceUrl: https://fcw.com/articles/2019/12/18/wyden-letter-hud-facial-recog.aspx?admgarea=TC_Management
     type: article
     provider:
       name: Federal Computer Week
@@ -783,6 +783,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
+  - title: "New docs: facial recognition confirmed ON"
+    excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
+    publishedDateTime: 2019-12-19T01:18:00Z
+    sourceUrl: https://globalnews.ca/video/6315316/new-docs-facial-recognition-confirmed-on
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 39
+    images:
+      - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
+        width: 500
+        height: 281
   - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
     excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
     publishedDateTime: 2019-12-13T18:44:48Z

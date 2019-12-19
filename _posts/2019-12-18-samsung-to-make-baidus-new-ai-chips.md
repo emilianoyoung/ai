@@ -79,18 +79,18 @@ related:
         width: 678
         height: 364
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube TM (Interposer-Cube) package solution. The chip offers 512 gigabytes per second (GBps) memory bandwidth and supplies up to 260 Tera operations ..."
-    publishedDateTime: 2019-12-17T23:45:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005229/en/
+    excerpt: "Designed based on Samsung’s 14nm process and I-Cube TM package technology, Baidu KUNLUN chip to expand AI ecosystem and transform the user experience Baidu, Inc. (NASDAQ: BIDU), a leading chinese-language internet search provider, and Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced that ..."
+    publishedDateTime: 2019-12-17T23:43:00Z
+    sourceUrl: https://finance.yahoo.com/news/baidu-samsung-electronics-ready-production-100000829.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 42
     images:
-      - url: https://mms.businesswire.com/media/20191218005229/en/763485/23/Baidu_Kunlun_chip_03_final.jpg
-        width: 1200
-        height: 627
+      - url: https://s.yimg.com/ny/api/res/1.2/Yg_et0f.iaNbpzJ83s6sFA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/3f44db5d6c8a2c9bdb3ecef71c91b74d
+        width: 480
+        height: 330
   - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
     publishedDateTime: 2019-12-18T12:58:00Z

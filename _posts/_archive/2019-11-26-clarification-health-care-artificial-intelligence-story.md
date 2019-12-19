@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Clarification: Health Care-Artificial Intelligence story"
-excerpt: "Artificial intelligence is spreading into health care ... reality character named “Ellie” that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures like ..."
+excerpt: "Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients. It already detects an eye disease tied to diabetes and does ..."
 publishedDateTime: 2019-11-26T19:42:00Z
 sourceUrl: https://apnews.com/49877aba863e4f5199d0a22d68966bcc
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Clarification: Health Care-Artificial Intelligence story"
 
-secured: "rT+Pctku3jTUPGL5h3GBxuGN4RHg+BumyQnOWYQ3s7GGdCEd+LKQAyOoynqdVEoyKwEYToQjbMwzOG9+2qdOC7bD5TMZl5nbY//MKNonMrKP167ceeCE20Iy+LE9cAoMGZ0rNNsKjX+FdgFWfy0E+RgFh2YbJl9umbo/oQpm+itJIfxYvfiuzpeNxtySSeL55NhDJHtggLSLp8McZnGors/n+nrFb/hkZ4ZqS/wzVtFGmt7bbrzieNI/2/GV/Ymv1FjBm0FPxmWzP3Ocj9wXQw==;W/dxWA9oKs1nD/simNKchQ=="
+secured: "B10+hSHFh+rw6y6z8CgkzulzSyBBNgqkwfIpaWbg4fvNmnbnSQoidNagm6aiTxNAxtfA5vSiPgUZhqFVwWh9nuV0AiimCvTWpf26e93nK4vbDUaheE5PKuc4/KIBAxnXR0yvrAUF7sAEwcnH9Kh0WKkgkUgjX3c8TbU1D8fbyzRdbQ0N/5+j32j37ghkd2gO6y0HrQ8sBMFBXYesVBLjPiZDfL0RiMQDe93yQhy/58a6H1JRmmKoEYFFo7sjklN4Fehj1ISQHxS6a0h9U5RvrA==;A9OGukb9tbgYamuDGtskMw=="
 ---
 

@@ -39,6 +39,17 @@ related:
       - url: https://img.dunyanews.tv/news/2019/December/12-17-19/news_big_images/523564_19881015.jpg
         width: 556
         height: 370
+  - title: "CRISPR, gravity waves, water on Mars: A decade of discoveries"
+    excerpt: "One of the most advanced techniques is known as CAR T-cell therapy, in which a patient’s T-cells — part of their immune ... AI levels up Machine learning — what we most commonly mean when talking about “artificial intelligence” — came into its own in the 2010s. Using statistics to identify patterns in vast datasets, machine learning ..."
+    publishedDateTime: 2019-12-19T01:32:00Z
+    sourceUrl: https://dailytimes.com.pk/523053/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/
+    ampUrl: https://dailytimes.com.pk/523053/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/amp/
+    cdnAmpUrl: https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/523053/crispr-gravity-waves-water-on-mars-a-decade-of-discoveries/amp/
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 24
 
 secured: "sACE6CNanpE17ew1+bxWeMsxqGjWVtHMBNtbpLliDg6LX4hhnZNkUpcHtj31qRaQ111WtUPrdp55a5G8Jhj2ZbxJ3XRSk+sprBHehusCME5ArkWptJpmaBFlXH6ChE3WnP0GurYECde/Rr5D46LPMEOJ9AvSy1CxOpjs+6rtzP7b9L8MFHaa4NC6BOWuk+5qEe8bu9LxhwGs3KuhULHLW8sOFsUaaOFkX9ji/QsKyUfJXWDbAgtHvnA7VQbSJfFIJiCqSzjq3I2fuU9ZlDUPNw==;LtoTkwVSiUmnS1KMveLiKw=="
 ---

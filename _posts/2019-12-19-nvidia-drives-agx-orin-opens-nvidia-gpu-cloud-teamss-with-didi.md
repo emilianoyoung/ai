@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
-excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
-publishedDateTime: 2019-12-18T15:44:00Z
-sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
+title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
+excerpt: "To train these DNNs, DiDi will use NVIDIA GPU data center servers. For cloud computing, DiDi will also build an AI infrastructure and launch virtual GPU (vGPU) cloud servers for computing, rendering and gaming. DiDi Cloud will adopt a new vGPU license mode to provide users with better experiences, richer application scenarios and more efficient ..."
+publishedDateTime: 2019-12-19T00:09:00Z
+sourceUrl: https://www.autoconnectedcar.com/2019/12/nvidia-drives-agx-orin-opens-nvidia-gpu-cloud-teamss-with-didi/
 type: article
-quality: 23
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ExtremeTech
-  domain: extremetech.com
+  name: autoconnectedcar.com
+  domain: autoconnectedcar.com
 
 topics:
   - AI
-  - AI in Autos
+  - AI Hardware
 
 images:
-  - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
-    width: 1344
-    height: 742
-    title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
+  - url: https://cdn.autoconnectedcar.com/wp-content/uploads/2019/12/NVIDIAOrin-jpg.jpg
+    width: 2000
+    height: 1500
+    title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
 
 related:
   - title: "Nvidia debuts Drive AGX Orin and open-sources autonomous car AI models"
@@ -95,19 +95,6 @@ related:
       - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
         width: 708
         height: 425
-  - title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
-    excerpt: "To train these DNNs, DiDi will use NVIDIA GPU data center servers. For cloud computing, DiDi will also build an AI infrastructure and launch virtual GPU (vGPU) cloud servers for computing, rendering and gaming. DiDi Cloud will adopt a new vGPU license mode to provide users with better experiences, richer application scenarios and more efficient ..."
-    publishedDateTime: 2019-12-19T00:09:00Z
-    sourceUrl: https://www.autoconnectedcar.com/2019/12/nvidia-drives-agx-orin-opens-nvidia-gpu-cloud-teamss-with-didi/
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
-    images:
-      - url: https://cdn.autoconnectedcar.com/wp-content/uploads/2019/12/NVIDIAOrin-jpg.jpg
-        width: 2000
-        height: 1500
   - title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
     excerpt: "Nvidia Corp. tonight bid to expand the reach of artificial intelligence systems into autonomous vehicles and robots with the launch of its new Nvidia DRIVE AGX Orin platform. Nvidia DRIVE AGX Orin is a software-defined platform that’s powered by a new system-on-a-chip called Orin. The new chip is said to be the fruit of “billions of dollars ..."
     publishedDateTime: 2019-12-18T04:34:00Z
@@ -121,7 +108,20 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/NVIDIA.png
         width: 1138
         height: 572
+  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
+    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
+    publishedDateTime: 2019-12-18T15:44:00Z
+    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
+        width: 1344
+        height: 742
 
-secured: "tgIbJ9LOGKOSc60cGAe1W1qF8QrfIyILO5JWTy44WHPJujXKUbrbcygQSMXrtPb6lsFEdRjKL7j90r6/G5HfU0Ir2sqcoYBAez1VyKMSQ41ddo/rnor5EJrn4AwBy4X3rsliShdgC8JXSnUmHFLzueVQbAHDmU5mEhUhrcxHq0hAsdoF70wM9QJKCFdL13gOMEXwDibDcMROoY4Y2bJAw+q9AL3LswWOm9md01og47QF7SrsUxJDOcMesZ4mlUKzxV0/katWKfnZSO+C1t0cMw==;GysvpDD22G/NDr+o61J3eA=="
+secured: "1gmql+9ePY0WwBWlvqVsXipIVJuuPTc0VJO0vcLkUka+OtAfgWtQaACIRU3LQPF25ZyYJlWv8vLM4qbr2L16SC/qLUk0UYSrNYK0L0qvShKHQNwf5eiZtCyHBNMnY5BI94DEQG6uFVCiPH7wLC4/56CGc1jCNahfOfWOq4Vn5zDAsAia8QFKZcxAXVAuX8gFJlDaLr1aSFe80OU/BNer2UVfijOGJwgKNty/WjMvy08v9PNQS/VRXMEomSyLl7cY1LpmaBa9iJOS846pphMhSw==;90iJFg/gM2TSY2qj+1hhsg=="
 ---
 
