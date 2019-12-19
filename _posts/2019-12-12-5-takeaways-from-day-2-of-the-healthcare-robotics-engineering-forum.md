@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T22:08:00Z
 sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "5 takeaways from Day 2 of the Healthcare Robotics Engineering Forum"
 
 related:
+  - title: "How Verizon 5G is Powering the Future of Robotics"
+    excerpt: "Robots can become lighter, cheaper, and have more intelligence ... the wave of a wand in order to remotely control robotic systems and teach them to perform repetitive tasks with the help of 5G and artificial intelligence. One of our Lab residents, Medivis, recently received FDA approval for its augmented reality surgical planning toolkit."
+    publishedDateTime: 2019-12-19T12:39:00Z
+    sourceUrl: https://www.roboticstomorrow.com/article/2019/12/how-verizon-5g-is-powering-the-future-of-robotics/14572
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 54
+    images:
+      - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
+        width: 680
+        height: 340
   - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
     excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
     publishedDateTime: 2019-12-12T16:18:00Z

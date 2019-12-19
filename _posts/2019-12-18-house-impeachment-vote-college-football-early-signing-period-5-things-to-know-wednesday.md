@@ -1,23 +1,21 @@
 ---
 category: news
 title: "House impeachment vote, college football early signing period: 5 things to know Wednesday"
-excerpt: "5 things to know Wednesday The nation braces for historic House impeachment vote, College Football's Early Signing Period begins and more things to start your Wednesday right. Check out this story on Freep.com: https://www.usatoday.com/story/news/2019/12/18/house-trump-impeachment-vote-christmas-shopping-college-football/2661123001/ A House ..."
-publishedDateTime: 2019-12-18T08:30:00Z
-sourceUrl: https://www.freep.com/story/news/2019/12/18/house-trump-impeachment-vote-christmas-shopping-college-football/2661123001/
-ampUrl: https://amp.freep.com/amp/2661123001
-cdnAmpUrl: https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/2661123001
+excerpt: "Snapchat is rolling out a new feature Wednesday that allows you to deepfake yourself into a video or GIF. Based on screen captures posted by people on Twitter, the new tool — called Cameo — uses your selfie to plaster your face on a digitized body. The feature has a similar look and application to Bitmoji, except more realistic."
+publishedDateTime: 2019-12-18T09:25:00Z
+sourceUrl: https://www.msn.com/en-us/news/us/house-impeachment-vote-college-football-early-signing-period-5-things-to-know-wednesday/ar-BBY6zzG
 type: article
-quality: 113
-heat: 114
+quality: 93
+heat: 93
 published: true
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
-secured: "5ao/qkWfzQFEo6r1wSA8QtTso237k+hToGiRjB2314Fhlf8HNq2BuH7gMPRVQ/D2NJCY7zRnIftXRCfUmWIQ+0R4AGkr87bgou8+sUXxpD6RLPTzDAQlZS3BZJCx2XFQ+b7TZA+DfNguvkFGlMWgMiPnqZAHKRRdvPXtA1+bkJN/Ab4AJt///zXYDu1TmiycxZvWyvBZ8MkBHwwq324xRiJ6BS/Q5lRjKeaPOPTZVb5Zs+GJplOLW/5dYVXfCJIy2NBsuZ5UKwoH/bMjoZ2Xag==;3cLcTydJMjTE2SyQtBLLHg=="
+secured: "MYwUjaGhsVOTdJgcDX7gQaAC1SLCwz5ElMYmiQi10oPjHgMcnLbvX2teLcatwtFuc7h/KOs0S9izHLqOZ+eid8FP9y7jEMawziTeI75z7UncaWu0pX/K2Ur0JQlzy1DzI/hbr5Pi8EbvD90Dz+MkZkrdjlEWo4ooLHFeyGa6Tv71WQmmO9yEHCTeZyvwn8ZfNxEZfCbbDX2t3oRq+HNlVhD39mukyhe6y2TqxZu4Ow34Q8PooHmquYeFnuqVN+pn4R+LzSKSvZxL+WkYk/eeNg==;4oshro7OkURvNJK65OP5wg=="
 ---
 

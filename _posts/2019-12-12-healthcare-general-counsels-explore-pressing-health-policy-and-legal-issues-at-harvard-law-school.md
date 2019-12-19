@@ -31,6 +31,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2CF993488DD1E8A9225C51DE4D9AA43A
         width: 700
         height: 479
+  - title: "How Verizon 5G is Powering the Future of Robotics"
+    excerpt: "Robots can become lighter, cheaper, and have more intelligence ... the wave of a wand in order to remotely control robotic systems and teach them to perform repetitive tasks with the help of 5G and artificial intelligence. One of our Lab residents, Medivis, recently received FDA approval for its augmented reality surgical planning toolkit."
+    publishedDateTime: 2019-12-19T12:39:00Z
+    sourceUrl: https://www.roboticstomorrow.com/article/2019/12/how-verizon-5g-is-powering-the-future-of-robotics/14572
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 54
+    images:
+      - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
+        width: 680
+        height: 340
 
 secured: "tLuW8cVASmkBTiLMEYDGuNrraM5H1tN9ix5KQblfTc0IDBjFRTmHzHPEl32Z/GxSz97UkjQCcqPj3Sd1ISfZJ/HqgjLUvOQEgK/2HlQtpEN87t0/cBGrmuX+xvN26Igb7FBOBZ/zeh3DVxXo31JdABNgprP8kggdkH4YK9DRmStLm6g5DuTzyisn6xOh6fYbX4J+x3PrCUnn4S1AdNkabuTh5nt/TDYFYgQq62HA4pkk+pW7uvX8oG5Aqg8QDAsGLcQoDtoyoYdSHMmSmgZbKA==;cBlmXee7AspvWMHvkyWXeg=="
 ---

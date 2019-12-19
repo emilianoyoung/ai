@@ -380,6 +380,19 @@ related:
       - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
         width: 700
         height: 265
+  - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
+    excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/opinion/how-internet-of-things-and-artificial-intelligence-pave-the-way-to-climate-neutrality/
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 30
+    images:
+      - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
+        width: 800
+        height: 450
   - title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
     excerpt: "More recently, a geometric morphometric approach has been described to study facial expressions of pain in cats. This approach has been proposed as basis for further application of machine learning algorithms for automated pain recognition 26. On the other hand, grimace scales are simple and readily applicable in a clinical context, and the ..."
     publishedDateTime: 2019-12-13T11:27:00Z

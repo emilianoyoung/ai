@@ -394,6 +394,19 @@ related:
       - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
         width: 700
         height: 394
+  - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
+    excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/opinion/how-internet-of-things-and-artificial-intelligence-pave-the-way-to-climate-neutrality/
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 30
+    images:
+      - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
+        width: 800
+        height: 450
   - title: "The Challenges Of Fintech Application In Modern Era – A Comprehensive Guide"
     excerpt: "It is very easy to make decisions in businesses with the fintech as it has increased the usage of AI solutions. It has become very easy for businesses to rely on AI-powered, data-driven insights to shape strategies. It has improved decision making power. One of the visible benefits of fintech is the introduction of transparency. It helps a lot ..."
     publishedDateTime: 2019-12-09T20:22:00Z

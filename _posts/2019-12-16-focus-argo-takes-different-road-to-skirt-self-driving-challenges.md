@@ -1,27 +1,21 @@
 ---
 category: news
 title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
-publishedDateTime: 2019-12-16T18:07:00Z
-sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+publishedDateTime: 2019-12-16T18:07:47Z
+sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
 type: article
-quality: 54
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
-    width: 640
-    height: 427
-    title: "FOCUS-Argo takes different road to skirt self-driving challenges"
 
 related:
   - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
@@ -163,6 +157,6 @@ related:
         width: 700
         height: 419
 
-secured: "pUhZYwAysii90MKHk5eqvgKWC8ZGtwHO8+x60wW9tyQvEo8dwyZU2GE+YB+tMVybeluavB10cygHR/m2ZP39a7ky9f4AgE5NWyeoYmJ1up+Xzn+1k1F6RoFL57ksd2ZmRvYcU6YhJ2tEpICc/rULg0FULFlJh412maPv8kB7PriISpkh8ii+MP46+KxvHgFlsuc1k+DOuFzYKtqzLl5W8OFDpi4OT5upnxR7jrOeFUHwYKodoRnMNqYbxRTYtDVPL2uc9aw+HSn/QEG+8n2/eA==;Rwv8kmIikQjPSj81CYMZhA=="
+secured: "YJQoQp/ehyyHUergWXDV1S6ytU01GU19x+7wMyHUzdF+ptiSrSvDL8Mcu+Uvo8ICXavBG3yBFJQF+7m3gyTCn9G8G8959RoVu9CIcBJQ+5VNDswqYRV3kmY7u514TNrz7s1FsxPZZoamRbHZrAOPAsefFnAw12QTHtTPhU38dPI+OguocoLyMT7qpX4g3VAZLhLzfIM7HXU3zoh/K+XMwn4yZZrjDT+s49eHSJ5hlDWgAsFQ92bUnRJmxF5XINKYb9wDEgx/4Gqy60RXki39Ig==;EP7y20xsvWIzim406YPUmQ=="
 ---
 
