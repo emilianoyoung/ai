@@ -5,9 +5,9 @@ excerpt: "Until now, these three men remained a mystery to him — but in the co
 publishedDateTime: 2019-12-19T16:09:00Z
 sourceUrl: https://time.com/5749059/civil-war-photos/
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 159
+heat: 159
+published: true
 
 provider:
   name: Time
@@ -26,6 +26,6 @@ images:
     height: 1600
     title: "How Artificial Intelligence Is Helping Identify Thousands of Unknown Civil War Soldiers"
 
-secured: "Mc+ExYCjmfKbLkIm+zcHoE+RHjQJUo1yA+6PKH+NNja/x2fv3SaaLXtwNoyojr/QuH/hOMYbnfx4cYG/Ok/9DnGp3BCV2tniyIssmF/zE2ajI4FIjGUq+v52s9FvE39h0B0Of5v/kSUzRLy6fsT/34gLSVorK8s9KJr4TCBn5tiI+nsSOL7k00oTuCQZZG4eeaida6c8Ul1JuGsHIhBpKA2KFg6hsImdxPCcruDc6KVt94DesrmMQXjzcYW5Fnz8hM0NdNAauRIX5b9UBgf8aw==;LbAAT0BRRT57qX+uZaJGDQ=="
+secured: "9lJt7ftQICvvecNqKQEVf8qt+KIOfp8mUKLCFB74I7Om1KCWXiBq1KnLCrMWBzc+LJsO6dvECnktZnaC1MtAikaWhMItKr3jPIAnTWQrI4GNhTda+XvisEn/9Ik0QrCk4WsCeHd7nG0YM+5112ontcBvtFO3ZpdRvNNC+qyWCHphelIZ41Hu0LgPicaAm6ct/SIOFkW4yBxEHEBrwqvrxuWJ7bB+n1VhitHAqacOXm77W/BEBXc0y/E9aSG+jcrjReEM/IkTr/N4rJBh2BiLE7MO6HeCJyv9YqvqFYfsxg8=;56C+cpPsUk94VKaO4UmcLA=="
 ---
 

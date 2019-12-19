@@ -1,17 +1,23 @@
 ---
 category: news
 title: "YouTube's series on AI with Robert Downey Jr. is finally available"
-excerpt: "the actor introduces viewers to Soul Machines CEO Mark Sagar. Sagar is a special effects artist who worked on films like King Kong and Avatar who is using his expertise in animating faces to create an AI-animated digital avatar for the Black Eyed Peas' will.i.am. In the second episode, meanwhile, we learn about Project Euphonia, a speech ..."
-publishedDateTime: 2019-12-18T23:22:00Z
-sourceUrl: https://www.msn.com/en-gb/news/offbeat/youtubes-series-on-ai-with-robert-downey-jr-is-finally-available/ar-BBY8zuk
+excerpt: "And it's actually engaging and insightful. If you've ever had a question about artificial intelligence or how it works, YouTube's latest Originals series, The Age of A.I., tries to answer those questions. The new eight-part show, which is available to watch today after a lengthy wait, features Robert Downey Jr. as he attempts to demystify terms ..."
+publishedDateTime: 2019-12-18T22:22:00Z
+sourceUrl: https://www.engadget.com/2019/12/18/youtube-age-of-ai-now-available/
+ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 187
+heat: 227
+published: true
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -82,6 +88,6 @@ related:
         width: 700
         height: 393
 
-secured: "BPFxuf7D0uXPPUAlQz01QEaX1b5AGt05w4I/4l8Z1fe37BLaTliwlzczeZRPnmvsKKffMas9tby2wzJ/a08q4id4bPbg2uUgVNW6q7yen5w7eHnUn/nT6HCONQTjhpJAMYvcSkHtXA6+M/sCVHQWhIHioEsPQxsShMO7k7A1ricJTLZELGNgxSgm5xazBDh0keFzvSn7oWVTAyFsAh5obTswTNuqjI8+6pym3++reC+yj2j4vVAKx2HPaiVEF7wO1TrC2xVRCiEZpE1H2T9vxQ==;pjm7fo7Ay3UjkLweHupB8w=="
+secured: "R7PaCzLZP0PZwcXx0kuxiC7EN9gOsco2r5yKYpJQ/jBaxVIOEbz1xaWHBGn14+85VhHaZXRjyCPLNk5slKkHvGNNFgSHdeSWjPNfy4CfhIzZtYzI7RrUPIeAkSDz1y19R6R8YpHaKgHtoivZw8yejaIutyU0sLRVhWWDj2vQ08C1DU1daOBQzrtQLUR09H20ozF6SBLi+KipgOrCsMy82QYw9wervC9+V0Uzn/zFSBDQ5Zx8rYztQoocsOUUZpkHtsOMs9ENTIEQ9jIpVly7Ug==;rSlz3AXAjIQp3+80qe2JEA=="
 ---
 

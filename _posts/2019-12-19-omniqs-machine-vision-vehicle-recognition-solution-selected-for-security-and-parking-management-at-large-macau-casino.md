@@ -1,17 +1,21 @@
 ---
 category: news
-title: "OMNIQ's Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
 excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-publishedDateTime: 2019-12-19T13:36:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-omniqs-machine-vision-vehicle-recognition-solution-selected-security-/2019/12/19/9072551.htm
+publishedDateTime: 2019-12-19T12:30:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/omniq-s-machine-vision-vehicle-recognition-solution-selected-for-security-and-parking-management-at-large-macau-casino-1028775687
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -28,6 +32,6 @@ related:
       domain: businessinsider.com
     quality: 56
 
-secured: "BIGa/Y6jRqE53mMjOV9qn6mBVTETQH+QdywLARzGPKITlq3S5b0fXm42UPKaTKbTmPpbJsUD2Hj+WQjf0DRA/dcwFbJPp1yXu2EfIL01/s+W7ArRyIID2N+lbAsSGhs9UczJk1OIFEKilEymF1PIcIMkF1b3rtDjUvJuaZKFlXnW7ynBR6qNCQcNdnjbSNFfaUnLo3nNPPcwGAkBQw/C/ASI0BIe/KC3AJg0Wo7QPElIphPwrgA1n/InufTWG4Se6COQu6abYsgHnP40f9Bs+A==;R0bwF0fa5ZT06vzsnATGOA=="
+secured: "wf06ovhhFOqKG0erUYAdYi28wc2jd5teujW9gIOg1xypfMDcidT2n/phcXvww/QuHNBshnLSAvKf0jx+QaDGRkR+2dzSTO60kqqACmkOvRx8mnu6hrtT4Jx27dAFYzf2gxuOtcj9Y9zTE0k9tXa2iyqgjYWa5ufqrlFg8aoE/Xm1HmgzvopUK2fmiXySiGoTlucFUh9Gvk1+sBPn8YK/Pvtw75v9ivoE5CjMwjaO2EOr3DVmpJ2dkaUc+vUNPfeaZuMp+h8hbFKSvePvaj7x6w==;Lzdr+Rjq0t9/WEgOgq1YRQ=="
 ---
 

@@ -24,58 +24,54 @@ images:
     title: "Using AI to understand spread of cancer"
 
 related:
-  - title: "Oto snags $5.3M seed to use AI to understand voice intonation"
-    excerpt: "Oto, a startup spun off from research at SRI International to help customer service operations understand voice intonation, announced a $5.3 million seed round today. Participants in the round included Firstminute Capital, Fusion Fund, Interlace Ventures, SAP.iO and SRI International . The total includes a previous $1 million seed round ..."
-    publishedDateTime: 2019-12-17T15:14:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/
-    ampUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
+  - title: "Paige raises $45M more to map the pathology of cancer using AI"
+    excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
+    publishedDateTime: 2019-12-18T18:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/paige-raises-45m-more-map-180601977.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 137
     images:
-      - url: https://www.bing.com/th?id=ON.CD442411B56928EB5B28447FF20D6635
-        width: 599
-        height: 399
-  - title: "Opinion: To deploy AI wisely, we need to understand its limitations"
-    excerpt: "We should respect and deploy wisely its abilities, without bowing down to imaginary powers. Alice Xiang is a research scientist at the Partnership on AI. Irina Raicu is the director of the Internet Ethics program at Santa Clara University’s Markkula Center for Applied Ethics."
-    publishedDateTime: 2019-12-13T14:16:00Z
-    sourceUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/
-    ampUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
-    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
+      - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
+        width: 2600
+        height: 1730
+  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
+    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
+    publishedDateTime: 2019-12-18T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
     images:
-      - url: https://www.bing.com/th?id=ON.6EDDA49044EDF66542B77011561FF8CA
-        width: 700
-        height: 466
-  - title: "You don’t need to understand AI to trust it, says German politician"
-    excerpt: "She also demanded that AI developers should consider users’ safety concerns and other basic principles from the beginning. This is very much in line with what has been outlined in the EU’s “Ethics guidelines for trustworthy AI” published in April this year, where, as guideline number one, it is stated “AI systems should empower human ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://telecoms.com/501363/you-dont-need-to-understand-ai-to-trust-it/
+      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
+        width: 2699
+        height: 1414
+  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
+    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
+    publishedDateTime: 2019-12-19T13:36:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 4
     images:
-      - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
-        width: 300
-        height: 199
-  - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
-    excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
-    publishedDateTime: 2019-12-19T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/cerence-to-bring-first-of-its-kind-voice-and-multi-modal-interaction-to-autonomous-electric-vehicle-at-ces-2020-1028775444
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
+    excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
+    publishedDateTime: 2019-12-18T14:31:00Z
+    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83936
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 3
 
 secured: "feER7dWW9A+kc0B7yjw2ZUaANefpFwxU6rXiTA3IWpBEXCB2yb7hefWK+KEW2QHNYG/MXbRO/G2e+G2GO5NXH4qd0tBlsCySpC3XYIUsCIWbt7sIlHcWHmg34qhLdlmJQ9c4LpXP0Lg82FIAvTjDt7MEdiD1/jzLRT1M/I2RSPjO08ELvDsUiT4kbM/Z2Q2zcrUNZkYyJqAO/kt6DGKK4B7GPa7cdEj5qVY3SwwQlJiPrP91G5B5ZRWkPoBDGagwKTu2yzQ1pQlF44CFcOQGog==;J//N/9grtSz3SX7KDaZP2A=="
 ---

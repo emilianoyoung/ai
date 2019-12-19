@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
-excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs like DeepMind’s AlphaGo, but with less developed AI, we still have an edge. On Wednesday, the 36-year-old Go player won a match over an AI program called HanDol, built by ..."
-publishedDateTime: 2019-12-18T17:39:21Z
-sourceUrl: https://www.msn.com/en-us/news/technology/human-vs-ai-board-game-champ-who-surrendered-to-google-beats-ai-in-surprise-game/ar-BBY8dYw
+excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs ... which Lee defeated AlphaGo once in a five-match showdown. He lost the other four matches but has since held the record as the only human to ever beat AlphaGo."
+publishedDateTime: 2019-12-18T16:38:00Z
+sourceUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/
+ampUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
+cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
 type: article
-quality: 12
-heat: -1
-published: false
+quality: 150
+heat: 160
+published: true
 
 provider:
-  name: Observer on MSN.com
-  domain: msn.com
+  name: Observer
+  domain: observer.com
 
 topics:
   - AI
-  - Google AI
+
+images:
+  - url: https://nyoobserver.files.wordpress.com/2019/12/gettyimages-514604328.jpg?quality=80&amp;w=1200&amp;strip
+    width: 2344
+    height: 1556
+    title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
 
 related:
   - title: "Why video games and board games aren’t a good measure of AI intelligence"
@@ -34,6 +41,6 @@ related:
         width: 700
         height: 366
 
-secured: "c76WOiNR3M0bfDjMiZlOZiQxKPIdufpu/um0Fw3L6DMMTtfWBOg9G7m85I0aiGnkTTCvEgM54ESEypKTBU163JXlYNhB6lF4iHv/SQaKKNI+gBKB1Pm/dvrDM0eE5B/r1gRNgGzcznL2A3F6smnagEz4NVqQ7LhVwnuPHWUhC5j/tWkVH/YICrP7F93KOA1NSsf35IG/EnV0NF8aFh157JK1rkQxfDUFsS5tgU2j4tAyDTtUQKJtHVCatb9mUeDOi6UpfM4Sq9+fSjSrtw24HA==;ZwOpbl/Tt5d2HnxUShG11g=="
+secured: "DX82zUmmID2bXbOysqo6kEsXTdny0FuLCU2uCN3hURBN2tlNGfvIkV/qRSNdLlLe8VJ2BcD+dCluknKMz3whpFX60PW8LRzZ4cLfpxDGVbRjHI808qbVjKEH51N7zwFqMOdMYQqYMyYsfYh2cuFK8I8stwJG0XX2q4O4rR8WbhrZd6Y6u01SfKbY1gXfrWdjFwLEEOJYh3PFw1GGHNVDnH4UaVlxmzt8eXbHcur2D7b5CYj1/KGJD9UNAUacn+JU5TTxiiU+zL7hC77uDboAwg==;lwkPiLa97FyWVfw9o4pMgw=="
 ---
 

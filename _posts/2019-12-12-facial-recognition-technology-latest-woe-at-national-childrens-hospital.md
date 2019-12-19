@@ -824,6 +824,19 @@ related:
       - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
         width: 500
         height: 281
+  - title: "Police facial recognition: US academic says Kiwis deserve answers"
+    excerpt: "Georgetown Law Centre on Privacy and Technology researcher Clare Garvie says that case was symptomatic of the lack of regulation of facial recognition systems. She believes people should not be locked up on the basis a facial recognition system finds they look like a celebrity. Garvie has conducted extensive research on the use of such systems ..."
+    publishedDateTime: 2019-12-19T20:21:00Z
+    sourceUrl: https://www.stuff.co.nz/national/118256488/police-facial-recognition-us-academic-says-kiwis-deserve-answers
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
+        width: 700
+        height: 394
   - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
     excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
     publishedDateTime: 2019-12-13T18:44:48Z
@@ -874,6 +887,19 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Government study finds racial, gender bias in facial recognition software"
+    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday. The research from the National Institute of Standards and Technology, a federal agency within the Department of Commerce, comes amid pushback from lawmakers and civil rights groups to the ..."
+    publishedDateTime: 2019-12-19T20:33:25Z
+    sourceUrl: https://www.msn.com/en-us/news/politics/government-study-finds-racial-gender-bias-in-facial-recognition-software/ar-BBYaEwY
+    type: article
+    provider:
+      name: The Hill on MSN.com
+      domain: msn.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
+        width: 645
+        height: 363
   - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
     excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
     publishedDateTime: 2019-12-19T19:32:00Z
@@ -1035,6 +1061,19 @@ related:
       - url: https://www.bing.com/th?id=ON.BAF8E0C09CABB09C650896BE35960705
         width: 300
         height: 170
+  - title: "Japan expands 'facial-recognition economy' in race with China"
+    excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
+    publishedDateTime: 2019-12-19T19:27:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Business-trends/Japan-expands-facial-recognition-economy-in-race-with-China
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
+        width: 700
+        height: 350
   - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
     excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
     publishedDateTime: 2019-12-18T09:18:00Z

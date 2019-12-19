@@ -29,6 +29,21 @@ images:
     title: "YouTube's AI docuseries with Robert Downey Jr arrives on December 18th"
 
 related:
+  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
+    excerpt: "And it's actually engaging and insightful. If you've ever had a question about artificial intelligence or how it works, YouTube's latest Originals series, The Age of A.I., tries to answer those questions. The new eight-part show, which is available to watch today after a lengthy wait, features Robert Downey Jr. as he attempts to demystify terms ..."
+    publishedDateTime: 2019-12-18T22:22:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/youtube-age-of-ai-now-available/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 187
+    images:
+      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
+        width: 700
+        height: 367
   - title: "‘The Age Of A.I.’: Robert Downey Jr. Hosts YouTube Documentary Series – Watch The Trailer"
     excerpt: "Robert Downey Jr. will explain in The Age of A.I., a new documentary series from YouTube originals that premieres December 18. Check out the first trailer above and key art below ... producer with Evan Moore serving as a co-producer on the series. Subscribe to Deadline Breaking News Alerts and keep your inbox happy. Check out the airdates ..."
     publishedDateTime: 2019-12-13T01:00:00Z
@@ -72,19 +87,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
         width: 700
         height: 393
-  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
-    excerpt: "the actor introduces viewers to Soul Machines CEO Mark Sagar. Sagar is a special effects artist who worked on films like King Kong and Avatar who is using his expertise in animating faces to create an AI-animated digital avatar for the Black Eyed Peas' will.i.am. In the second episode, meanwhile, we learn about Project Euphonia, a speech ..."
-    publishedDateTime: 2019-12-18T23:22:00Z
-    sourceUrl: https://www.msn.com/en-gb/news/offbeat/youtubes-series-on-ai-with-robert-downey-jr-is-finally-available/ar-BBY8zuk
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
-        width: 700
-        height: 367
 
 secured: "tSPnxd2NBK7QaOeTkuM2xF8Z0pZkENQDOjOXuliLEzCjwzXrnLAVdofL2IHdpb8mx0/4MKIvuhYlqxHCCgsMMHoc4yVR1uTVfLXGnLjaowHQyeh9ICSnCyDSzpjHLLAu7PyG0QZYpyRsDxwwaeGenbLaXn0VZwZdTHZWHdsd22H8u7nk780T9GJNdmOn/GSFDmeCx4m2wgym2s7gxacPscofQQRWKbdzXkpiofdnx6rjbNuKQi4M5g+TPPURCS6IF7fM9lX3T3WEjlqmG8ZUTA==;MXc6z23I2gO6mcaTpBLiPw=="
 ---

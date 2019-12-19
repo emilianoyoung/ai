@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-lear
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
 type: article
 quality: 104
-heat: 144
+heat: 124
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
         width: 700
         height: 350
-  - title: "The Machines Are Learning, and So Are the Students"
-    excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
-    publishedDateTime: 2019-12-18T10:00:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html
-    ampUrl: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: https://static01.nyt.com/images/2019/12/18/multimedia/18sp-ff-edai-1/18sp-ff-edai-1-facebookJumbo.jpg
-        width: 1050
-        height: 550
   - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
     excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
     publishedDateTime: 2019-12-17T07:39:00Z
@@ -73,19 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.91EB950BD4B6508D2C37124A45F530B2
         width: 400
         height: 300
-  - title: "The machines are learning, and so are the students"
-    excerpt: "Machine-learning powered systems not only track students’ progress, spot weaknesses and deliver content according to their needs, but will soon incorporate humanlike interfaces that students will be able to converse with as they would a teacher. “Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski ..."
-    publishedDateTime: 2019-12-19T11:25:00Z
-    sourceUrl: https://www.bizjournals.com/albany/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
-    images:
-      - url: https://media.bizj.us/view/img/11563437/educ-machine-learning-1-2*1200xx3000-1688-0-156.jpg
-        width: 1200
-        height: 675
 
 secured: "lv/WG7BA1peji7+qmnBzZO5r4SiQy0Mx8VJ3vaCDnN5qI4xcjX8EdI6NNDpK+0jvXIUEBzJEmNh8AVWBymtr4hSh+vahzyDW4Z1vXldJoV+N1jE/q64Lgp5J4lu5AFHG7lkU6/FYbkyIl2OWScvd6i0c0VIuIck/JDfC1byUEA5rlOl4WOfRhd4De3z3skRoZ3pQ+Ubd4TskpcSNrwSxOX6tdQo9mEs3tAlur8eRhBq42bU9lC/baLM1On87OdjI867+vQ5lGOn4vDwsfORD6A==;XK5+tgllM6aeu6ZhwlZzgg=="
 ---

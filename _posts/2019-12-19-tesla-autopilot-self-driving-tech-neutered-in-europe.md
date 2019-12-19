@@ -26,36 +26,36 @@ images:
     title: "Tesla Autopilot self-driving tech neutered in Europe"
 
 related:
-  - title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
-    excerpt: "NVIDIA’s Xavier chip was used in a multi-processor configuration and paired with GPUs in their DRIVE PX Pegasus self-driving computer, which NVIDIA claimed at the time would be able to offer level 5 autonomous driving. The Orin chip will be capable of scaling from level 2 to level 5 autonomous driving. It will be available to automakers ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/
-    ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
+  - title: "30-40% Of Tesla Owners Buy Autopilot (And Full Self-Driving Is Just 3 Years Away)"
+    excerpt: "Full self-driving capability is just three years away, according to one Silicon Valley expert ... A friend tells me his Tesla Model 3 has driven him tens of thousands of miles, but he still needs to pay attention. (And its autopilot may violate state laws.) And an autonomous semi-truck drove 3,000 miles from California to Pennsylvania ..."
+    publishedDateTime: 2019-12-19T00:18:00Z
+    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/
+    ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 167
     images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
-        width: 2000
-        height: 1000
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfabdf3e961e10007396a12%2F0x0.jpg
+        width: 1000
+        height: 663
+  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
+    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
+    publishedDateTime: 2019-12-16T14:39:00Z
+    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
     images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
+      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
+        width: 700
+        height: 490
   - title: "Self-driving cars: A decade of hype, but what's the reality?"
     excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
     publishedDateTime: 2019-12-18T18:18:00Z

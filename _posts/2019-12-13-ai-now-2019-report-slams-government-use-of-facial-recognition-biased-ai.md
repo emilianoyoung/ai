@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T22:08:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/13/ai-now-2019-report-slams-government-use-of-facial-recognition-biased-ai/
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
       - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
+  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
+    publishedDateTime: 2019-12-19T20:28:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "vHBmNqnwx4ZYgQ1GUkog7IhtkR9Y0Qr2TdeDUNJYT88hLEcWMAfMvzOL6AypPgJaSfcZQltfO+eYWgH0RqXOM9lGi+bltppzF3BGYO3SZmffh/whjx/7ihjdUu8WQx38ZBoHZPhVxQKrjTtO5R76BARKt3AlRKtMIXvOfhauh16VLRS+Y0nH3C4N6C2OusUW5+KNeG1sJiVWsJ3RCbvD7yz3O3IzzNo5kMQbV3H6KVWAc3JGYoN2pWUl8URgpnh6t37axRq/ZKw+Ob4A3B/z1g==;fig0LXNKpseVRdW3Sbxesg=="
 ---

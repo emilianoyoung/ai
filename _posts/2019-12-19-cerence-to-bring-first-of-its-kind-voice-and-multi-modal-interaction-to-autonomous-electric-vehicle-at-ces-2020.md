@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
         width: 300
         height: 199
-  - title: "Using AI to understand spread of cancer"
-    excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
-    publishedDateTime: 2019-12-18T12:58:00Z
-    sourceUrl: https://www.miragenews.com/using-ai-to-understand-spread-of-cancer/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
-        width: 3143
-        height: 3805
 
 secured: "6Z5LmIq7cKfJ28xuc17YCiywmH1yiKLGWTOOz6NPJC/9eGolTvmHfCPxJjlXgszstlduS4vht+o6/eo0ZxynO+Wmr2drNpehQ9RabUIC+hd3NdZxmzt/Pe0LHV5lml8eUFj1RDyMuP3wboAkM5Tpq3yEMq6ecNPH/ByWzjJdmexp2ftYNtCIlzWniCjFfJyvDMw2i4KvhRh3Kp/feuIXVh+XMMk4Qm73taH6N3jS6YGZV7Uc6gWDLxobMnM/kgWCJMisPE8G+JIwCjbMe28JhQ==;jSomP9O9Bq+HhrH7mt5FIw=="
 ---

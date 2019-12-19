@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Federal study finds race, gender affect face-scanning tech"
-excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how ..."
-publishedDateTime: 2019-12-19T18:58:00Z
-sourceUrl: https://www.kansascity.com/news/business/national-international/article238549628.html
-ampUrl: https://amp.kansascity.com/news/business/national-international/article238549628.html
-cdnAmpUrl: https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article238549628.html
+excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. Lawmakers and ..."
+publishedDateTime: 2019-12-19T20:29:00Z
+sourceUrl: https://www.expressnews.com/news/article/Federal-study-finds-race-gender-affect-14919032.php
+ampUrl: https://www.expressnews.com/news/amp/Federal-study-finds-race-gender-affect-14919032.php
+cdnAmpUrl: https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Federal-study-finds-race-gender-affect-14919032.php
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.bing.com/th?id=ON.139957EFBE3ECBE0B7127162D3D47CEC
+    width: 700
+    height: 466
+    title: "Federal study finds race, gender affect face-scanning tech"
 
 related:
   - title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
@@ -49,6 +55,6 @@ related:
         width: 700
         height: 393
 
-secured: "JOvaXDRnpCNZa8dLipnp/9X8XSV4CJcyDM24H6qhnH6X0YrhgfYTPrU+dU+hYmbjVlF3Lvk3SX5ukxFcUlf8fJRq2DQ01sZByERy+2BX1C64QNQohKk4w+a3ogNeKKw1ebtQR/63iY+Poc95df9U/UgInFbYrA7Aq6d+QlOtJbycK3WLqbj4ee69MXdRX7+BD5ycfE3IryhijbtztzZrzmMdeaDe2hw3zP/oqgzsWj20juP5ou/OTphzrCUEZk2jc7kttUkfyUzhSFycdBa0CA==;0dQGUcAotG/n8xwk5j+JkA=="
+secured: "0z9vpPYSwoKCK6+HtY1neOlL5DqpTbpRCBFDTpz9pAj8cbFu7v+BjDJ9TOmBmkHqmd2//IPw8gp6TtfVvuxDxdm3cYoagIagFGAzdg2qk8SGz88P3sGVa+k+AjvEwWwSjuec6aojopdiwAQrSW8uULd5lnBqXBccvm0XQhK3W31ubC8P4BaE8xuiEka6VToKQiUbBWHeX+4F03ZpGWi30USjJsj9M6wDKju7Qb+3TZIIE6ztuHUF/fvwP/D7vLf+mqJN6PgZxz6bJMluFfip2w==;KcZr6tSKSQnxL3HUN0D+cQ=="
 ---
 

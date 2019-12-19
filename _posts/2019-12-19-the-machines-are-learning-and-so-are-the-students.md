@@ -24,36 +24,19 @@ images:
     title: "The machines are learning, and so are the students"
 
 related:
-  - title: "AI Weekly: NeurIPS proves machine learning at scale is hard"
-    excerpt: "Researchers are presenting more than 1,400 papers at the Neural Information Processing Systems (NeurIPS) conference, ranging from work that organizers believe has had the greatest impact over the past decade to Yoshua Bengio’s continued march toward consciousness for deep learning. But even as the conference showed theoretical research and ..."
-    publishedDateTime: 2019-12-13T19:54:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/
-    ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
+  - title: "Machine learning helps tame a sea of plankton species data"
+    excerpt: "So many fossils, so little time — to train people to identify them. As scientists grapple with a vast backlog of marine fossils waiting for identification, an international group led by Yale has begun using machine-learning techniques to tackle the mammoth task facing researchers who study the oceans’ most prolific forms of life."
+    publishedDateTime: 2019-12-18T16:29:00Z
+    sourceUrl: https://news.yale.edu/2019/12/18/machine-learning-helps-tame-sea-plankton-species-data
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Yale Environment 360
+      domain: yale.edu
+    quality: 139
     images:
-      - url: https://www.bing.com/th?id=ON.B9643B213B4F8CD7D0C15539A1AF3147
-        width: 700
-        height: 350
-  - title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
-    excerpt: "Reinforcement learning agents — or AI that’s progressively spurred toward goals via rewards (or punishments) — form the foundation of self-driving cars, dexterous robots, and drug discovery systems. But because they’re predisposed to explore unfamiliar states, they’re susceptible to what’s called the safe exploration problem ..."
-    publishedDateTime: 2019-12-13T15:35:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/
-    ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
-        width: 700
-        height: 350
+      - url: https://news.yale.edu/sites/default/files/styles/opengraph_image/public/748122_ex307707_obj00681-cc_1.jpg?itok=4Ryrg93k
+        width: 766
+        height: 402
   - title: "The Machines Are Learning, and So Are the Students"
     excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
     publishedDateTime: 2019-12-18T10:00:00Z
@@ -69,19 +52,6 @@ related:
       - url: https://static01.nyt.com/images/2019/12/18/multimedia/18sp-ff-edai-1/18sp-ff-edai-1-facebookJumbo.jpg
         width: 1050
         height: 550
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
-    publishedDateTime: 2019-12-17T07:39:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-shines-ieee-073100976.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.91EB950BD4B6508D2C37124A45F530B2
-        width: 400
-        height: 300
 
 secured: "q5hpha5oi2cPLCvIhXqRVHQIX8iAMSCXuoyXYpBwO/lGqLLAynEJ2PsqSkEFWygZ88Ou3S52mGfix8yn/N9U06cFof3KPyQPywdQjMKwDqK+dEJuyMDDaymJH/O52MSU2ZN0BFM/mKh+pXriyHmgA0RvoNj5mPQZAbBIJc80mFkXTcnjDMYzSXwHFYeUiK/V6hgEKgQgRnqyj1hhKaBBX43hpVVlg4aji39uEDIuxeb7Lxk67vNKWstyxlzYV9trOwu1EUTEDx9/fF5orl/Biw==;1WeTnJMiDBnRcbOQb5xURQ=="
 ---

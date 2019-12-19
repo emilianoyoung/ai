@@ -51,16 +51,16 @@ related:
       domain: gizmodo.com
     quality: 69
   - title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
-    excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS's VP of artificial intelligence, Matt Wood, says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://www.yahoo.com/now/nfl-aws-partnership-hopes-reduce-222422979.html
+    excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS' VP of artificial intelligence, Matt Wood says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then use the AWS SageMaker toolset to help make sense of it and produce safer outcomes. Story ..."
+    publishedDateTime: 2019-12-06T00:00:00Z
+    sourceUrl: https://news.yahoo.com/nfl-aws-partnership-hopes-reduce-222422979.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B53B6861EBCDEFB70D320D6369F0FD41
+      - url: https://www.bing.com/th?id=ON.34F1CC9919F8CD3D45196F11E672FCDD
         width: 700
         height: 525
 

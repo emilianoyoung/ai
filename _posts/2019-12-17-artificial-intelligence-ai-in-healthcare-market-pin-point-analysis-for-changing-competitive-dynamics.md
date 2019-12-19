@@ -123,6 +123,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
         width: 700
         height: 367
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
+        width: 400
+        height: 518
   - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
     excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
     publishedDateTime: 2019-12-16T14:13:00Z

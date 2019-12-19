@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/amp/
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -101,19 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
         width: 700
         height: 365
-  - title: "Bizagi Intelligent Automation platform to make it easier for business and IT to collaborate"
-    excerpt: "Bizagi is releasing a combined solution that brings together process automation tools, artificial intelligence, and cognitive services in a cloud native platform for the enterprise. In addition, customers are able to use Bizagi’s Studio Collaboration Services for free from the Microsoft Azure Marketplace to model, build, and run intelligent ..."
-    publishedDateTime: 2019-11-27T17:03:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135468
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 14
-    images:
-      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
-        width: 772
-        height: 594
 
 secured: "VY2dlys8tjPzqrkNib9vfEXGinilerUNlwZ8j0gn+TXB2LsGR/IqBt3A6Z+PLhFheKobS87JdsEmMsc7LbRcFwP649glkvSd6aZICLgj92Xam9T99L2RSx3OMpkWw2zm/8fzFu0dr/BXwSsEZ3r4cF8j58sDCWycRE8R9Mq6Sr4yO7zYL9Pxw36htUWfi6ozaYTzd/HY0dMv7q4QtwFRXjqJhG9iZqe2tY1pjnyoiv4ZeC4i/rsGF3ynzqU9LWT4tt4YqQmZ+Eez2xvJzxF6EA==;tmRnoBBDoBk3YkV/PK0RlQ=="
 ---

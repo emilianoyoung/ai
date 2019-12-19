@@ -24,32 +24,54 @@ images:
     title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
 
 related:
-  - title: "8 biggest AI trends of 2020, according to experts"
-    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
-    publishedDateTime: 2019-12-17T14:18:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
+  - title: "Paige raises $45M more to map the pathology of cancer using AI"
+    excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
+    publishedDateTime: 2019-12-18T18:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/paige-raises-45m-more-map-180601977.html
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 137
     images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
-        width: 796
-        height: 417
-  - title: "4 Trends of Artificial Intelligence (AI) to Expect in 2020"
-    excerpt: "Over the last five years, India has seen an exceptional drive in the number of platforms, applications, and tools based on Artificial Intelligence technologies. In the beginning, AI was associated with the robots and now things have changed quite drastically over the last few years. Driven by the huge changes in the mechanism and capitalism ..."
-    publishedDateTime: 2019-12-16T10:49:00Z
-    sourceUrl: https://news.siliconindia.com/technology/4-Trends-of-Artificial-Intelligence-AI-to-Expect-in-2020-nid-211499-cid-2.html
+      - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
+        width: 2600
+        height: 1730
+  - title: "Using AI to understand spread of cancer"
+    excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
+    publishedDateTime: 2019-12-18T12:58:00Z
+    sourceUrl: https://www.miragenews.com/using-ai-to-understand-spread-of-cancer/
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.D36CE4AE1A252DE2639CC972C6AFA057
-        width: 570
-        height: 367
+      - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
+        width: 3143
+        height: 3805
+  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
+    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
+    publishedDateTime: 2019-12-18T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
+        width: 2699
+        height: 1414
+  - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
+    excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
+    publishedDateTime: 2019-12-18T14:31:00Z
+    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83936
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 3
 
 secured: "icNJ0arNF7oPixROnJvtA8w46yntLROhUcuzim67O8yaTvuOw7rj1Xb9/3yrVhdDGrXw1cnDRblrNDo/TGp92VVR7UUhtwZyEg0k+XHhAnlVIJ4DOzUxLOdGlYiISMnJZv/m2/4aur8FarVQQqivVNTFg9ahNpKriEsxgcxW3zO7BaWZ5AchyqM+72RbJpz5K+z/JgOG8HaYlYT7eJuSRm7U5zTa43Yip2/jePUubtRHUgynMZ1qj/JWO5zSexyaoECodmlIgSf8TWRq62+oCA==;1yeyLgT/mCDW1cSa70rfTA=="
 ---

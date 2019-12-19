@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
-excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS's VP of artificial intelligence, Matt Wood, says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then ..."
-publishedDateTime: 2019-12-06T00:07:00Z
-sourceUrl: https://www.yahoo.com/now/nfl-aws-partnership-hopes-reduce-222422979.html
+excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS' VP of artificial intelligence, Matt Wood says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then use the AWS SageMaker toolset to help make sense of it and produce safer outcomes. Story ..."
+publishedDateTime: 2019-12-06T00:00:00Z
+sourceUrl: https://news.yahoo.com/nfl-aws-partnership-hopes-reduce-222422979.html
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.B53B6861EBCDEFB70D320D6369F0FD41
+  - url: https://www.bing.com/th?id=ON.34F1CC9919F8CD3D45196F11E672FCDD
     width: 700
     height: 525
     title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
@@ -64,6 +64,6 @@ related:
         width: 700
         height: 393
 
-secured: "ws1lX1exSLcd5FeZ8FJEVb4uxPcKrTjBI/99m1aOJT96OdBhf40zIm6IEOkL9/oDKn+sgZGLJVT5pm3DAb8smuJx2oieMrIN1hdFEohFkOORBjG6yVaCqwHaADQ+pDFV2kqmIp5Erzsylajg3saBoygbFdtXhLRyEAZLv14XjjpwMnYlDE8btBSd5D7qKg2JnRd5m7pnP6G1w6jQckOUUX/T35qEmjxFv63w5WPVsDjyF3v8zqTIjQ1goMyOU7GbIhuL9yitHiGbIYh7zx7yUA==;uePzj4BO7LSZwqOjW1Rnhw=="
+secured: "sgFHJGiCWRqO1guPTt9ktjRHtMbMAtEHfhj6nDJasbdVZYGZopbGlBAGF55mdp6hGhGGpMLHGPgZWiugCvZMU80gE26lJBUEklZ/kA93RAJvb97vZ5o54M+o3CDtDquhn1h6quOn7wl4sXmeyUjnOLsa5jf2AijjnmXDrOtS+kxSJ+ACcZ6/PKlSapIPH+8QsigvEyVnD2pQD2fJrcAua7ST+aVwnE/qwAHpuo3xLPO1ezRErYBY7lQoxsw+a7rbfzEsrVZc2qXV5jzaoczcbg==;TW/ISXxEWgHi6bacb37BNA=="
 ---
 

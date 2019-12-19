@@ -8,8 +8,8 @@ ampUrl: https://deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtu
 cdnAmpUrl: https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtube-documentary-series-watch-the-trailer-1202807411/amp/
 type: article
 quality: 148
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: Deadline.com
@@ -25,6 +25,21 @@ images:
     title: "‘The Age Of A.I.’: Robert Downey Jr. Hosts YouTube Documentary Series – Watch The Trailer"
 
 related:
+  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
+    excerpt: "And it's actually engaging and insightful. If you've ever had a question about artificial intelligence or how it works, YouTube's latest Originals series, The Age of A.I., tries to answer those questions. The new eight-part show, which is available to watch today after a lengthy wait, features Robert Downey Jr. as he attempts to demystify terms ..."
+    publishedDateTime: 2019-12-18T22:22:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/youtube-age-of-ai-now-available/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 187
+    images:
+      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
+        width: 700
+        height: 367
   - title: "VIDEO: Watch the Trailer for the New YouTube Series THE AGE OF A.I. Hosted by Robert Downey Jr."
     excerpt: "Today, Youtube Originals is releasing the official trailer for \"The Age of A.I.\" - an all-new learning series hosted by Robert Downey Jr. This new eight episode series takes a deep dive into the fascinating world of the most transformational technology in the history of humankind. Robert Downey Jr. brings his irreverent enthusiasm and curiosity ..."
     publishedDateTime: 2019-12-12T17:33:00Z
@@ -68,19 +83,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
         width: 700
         height: 393
-  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
-    excerpt: "the actor introduces viewers to Soul Machines CEO Mark Sagar. Sagar is a special effects artist who worked on films like King Kong and Avatar who is using his expertise in animating faces to create an AI-animated digital avatar for the Black Eyed Peas' will.i.am. In the second episode, meanwhile, we learn about Project Euphonia, a speech ..."
-    publishedDateTime: 2019-12-18T23:22:00Z
-    sourceUrl: https://www.msn.com/en-gb/news/offbeat/youtubes-series-on-ai-with-robert-downey-jr-is-finally-available/ar-BBY8zuk
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
-        width: 700
-        height: 367
 
 secured: "+ErKWYNfqqiCOiRCCacUbneNr1hXd+d2plVVdVc273Xxw/tET07w3mNUD5dCGfHVa3L8zaHKmQjUNCMG6PaliqkYaelgSSamIFxy3fWER2psvFN5Afsn80XNrAd/jW/Ulws0ILC5Cm+eDrNc4ECLlAIAwNsw0Taf0hAPRlZXiBYuRP8oTXkb0ICTJXjrQDfE6/K+Eh+iXXwfj1Utb2DStUD124ql+nMfnAjaSnhX7t8OiTj9FgYpAWtBZbKQJ/BgmSSmiX8PPflnIYZOSwMPiA==;U6wFzwwNQrnigH3Lj44RVw=="
 ---

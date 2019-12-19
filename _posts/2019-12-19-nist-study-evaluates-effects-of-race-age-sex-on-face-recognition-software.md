@@ -40,16 +40,20 @@ related:
         width: 700
         height: 393
   - title: "Federal study finds race, gender affect face-scanning tech"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how ..."
-    publishedDateTime: 2019-12-19T18:58:00Z
-    sourceUrl: https://www.kansascity.com/news/business/national-international/article238549628.html
-    ampUrl: https://amp.kansascity.com/news/business/national-international/article238549628.html
-    cdnAmpUrl: https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/business/national-international/article238549628.html
+    excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. Lawmakers and ..."
+    publishedDateTime: 2019-12-19T20:29:00Z
+    sourceUrl: https://www.expressnews.com/news/article/Federal-study-finds-race-gender-affect-14919032.php
+    ampUrl: https://www.expressnews.com/news/amp/Federal-study-finds-race-gender-affect-14919032.php
+    cdnAmpUrl: https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Federal-study-finds-race-gender-affect-14919032.php
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 24
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.139957EFBE3ECBE0B7127162D3D47CEC
+        width: 700
+        height: 466
 
 secured: "tXjlvwIkUFUy4NiG9vrQiSwlwt4FfyZwfrMOIndx3vw54hwRBKBK5euCo6/59GqPsAAe3o8nGPqvJYnKaUdnGVul6lEq7iTyfRN8VYZsAiZcVrSVYFCcU8JI0CbMJIYF+nZEh/jZKMpKcpfuQswXgqA05yPp2dA7+y30titjETNxmRl814elmm4jnOlmoghV96RFFyXh0799PjnqkT78HkUkhtI1WKddBYbteTqZm5w2EDHHFAynJcwTjLW02s/WQ2CjQjZZg4VvgqwpO/ytIA==;uSywkPP11eIKzt7dKae0nA=="
 ---
