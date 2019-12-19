@@ -2,15 +2,15 @@
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
 excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-publishedDateTime: 2019-12-03T19:12:00Z
-sourceUrl: https://www.yahoo.com/now/aws-announces-autopilot-more-visible-191207851.html
+publishedDateTime: 2019-12-03T19:27:00Z
+sourceUrl: https://finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
+  name: Yahoo Finance
   domain: yahoo.com
 
 topics:
@@ -40,20 +40,18 @@ related:
         width: 700
         height: 466
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
     publishedDateTime: 2019-12-03T18:32:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
-    ampUrl: https://au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
-    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
+    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
     type: article
     provider:
-      name: Yahoo7 News
+      name: Yahoo!
       domain: yahoo.com
-    quality: 59
+    quality: 39
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/eNhrNpu9lmfXQn.3bmlqsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-        width: 1279
-        height: 853
+      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
+        width: 5184
+        height: 3456
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-03T18:44:00Z
@@ -68,6 +66,6 @@ related:
         width: 512
         height: 512
 
-secured: "DCA3o/xLTrgPvDKse99DVHIqonGUzD5X9WL/u5X58+cHgDUpOsJg2TxgGVq1QcMeNg+ezc06Yva7CMUVZ5QHK02iKgJac1uhddKMvKdLX1zUVF3eomOjYo4T7aZg21Lap44OqDJVWk8Yy4ZBG6QnbAdxlOwjTjU+bclrCD0yt5xdPxbC4WqaoB8Bn6WtWBZpvrIekxKjJ2NgibGxj6bc4muZ7nkKWSrLdkGEYRSaMi+WalhwfSlxQOozppKG3oy7x6LK/57LbkCovHdo9ETfiQ==;C5NkuF8wmD4otJl9jFSPWw=="
+secured: "LPUzUz9jJ2JNrA6IdYysRa0SOlpohfj6PKilJdynqxJJ4FFOFmoUKpW+eTj9g5FWz8KtWmtA4dL6EwuQ9xQiy5prKJ8rPPgBqtjWyNWre3vIEoxFVERJaC2G1UzLB0QQqJ7K4WJWTgIuDgsr2nWvMFHqk0t1d+wD/GtlaGaVQz2xPW7QwbiEIdR7PbpPA8bPzD92ZIX73oBO06tpml0Ue+6YDVrlBDcDB5a5cSGU8aSAQ7DrnGTD4YylZebPPYaoc7rSsx3lToOt1KToBQ47bg==;QZy+T5Q1rX4l/eJbymOz3Q=="
 ---
 

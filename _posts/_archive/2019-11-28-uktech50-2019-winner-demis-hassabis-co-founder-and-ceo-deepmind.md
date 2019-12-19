@@ -1,13 +1,13 @@
 ---
 category: news
 title: "UKtech50 2019 winner: Demis Hassabis, co-founder and CEO, DeepMind"
-excerpt: "Just as the queen is the most important piece in chess, with its ability to move anywhere across the board, DeepMind founder and chief executive Demis Hassabis is at the centre of an emerging world order where artificial intelligence (AI) will impact every job, industry and country. A world-class chess player himself, Hassabis is the winner of ..."
-publishedDateTime: 2019-11-28T19:10:00Z
+excerpt: "Just as the queen is the most important piece in chess, with its ability to move anywhere across the board, DeepMind founder and chief executive Demis Hassabis is at the centre of an emerging world order where artificial intelligence (AI) will impact every ..."
+publishedDateTime: 2019-11-28T19:06:00Z
 sourceUrl: https://www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind
 ampUrl: https://www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind?amp=1
 cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind?amp=1
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.78209E9B453525B9BE31F67C080AC885
-    width: 700
-    height: 233
-    title: "UKtech50 2019 winner: Demis Hassabis, co-founder and CEO, DeepMind"
 
 related:
   - title: "DeepMind co-founder leaves for policy role at Google"
@@ -55,6 +49,6 @@ related:
         width: 700
         height: 393
 
-secured: "HfgNLx/cnilkG01aKvc1pnBOumdtFnRLxZq8JiqvIhbgnF9XaC/OrUFMGGZQ/wxYcjIdVBaU7w8A5cF6u/2OuxvJynsfweZ0zKtzxTkd9/uDbwbmfKOXon87gjS/DUVGbnYDVPi6Z4/D5wUI7L/CfA2yPbnVGDiHawvagULuJTIS+a7HJvguQal97fsCUIbhEvP9mUeqGntTaRJLM3eDF5AzbmQYKIngiw5CJ1Wlms/r+pexzstE0ehV1MghYUJIcH7ln8n2C+jTv7RUKJ2vXA==;GX5KrN/PifsMJLRe5U/Ztg=="
+secured: "M+rlGULMzqmvpt+WBdW4Rn/jKb6vT4F2k1wA89IRmVNCVT6lMJdCVhrk+1j9wow0h56QCrSVZjVhThT0uf4OraRXpw5JTLKoCbJu9GCJCrVvbIA3QluOojpJ2Y/cmOPt4pJrjfPW6Z4RN6mkRcy2yWTMkIVhU6vIAQ0qxInNjnBa4Y5TcV8gZB2Rf42kbvo3ksPMN0zQXjXYMZwVAHzwuVNCZQIouda3bCdx/QBViF6MWZGL4jv8mxS77akba1cQ54vwdTH+3SfwaCrTte94Cw==;in24+yn4lvKtN8is6f1rgg=="
 ---
 

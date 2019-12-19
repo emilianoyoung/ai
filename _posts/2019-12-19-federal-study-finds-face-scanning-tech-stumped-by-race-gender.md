@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
         width: 700
         height: 466
-  - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
-    excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
-    publishedDateTime: 2019-12-19T16:50:00Z
-    sourceUrl: https://www.miragenews.com/nist-study-evaluates-effects-of-race-age-sex-on-face-recognition-software/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.CF16DAAA88DBEF65DB80206F32BEE6C7
-        width: 700
-        height: 393
 
 secured: "DVu8AkAzFDS6c7DFDGYQ4OvZe1D/8IoX8vvk7sw4ofkZsAjuaoOxG9n6bgU06yslLiJsKi5uzczAkL2ONNIYswyqpL9y+09eSY6uoytF2gXF5VaCyWX4j2LdHllzIT5itnrRUdmwxbOc9gFYFnC3OQcHAWULeFgZ9PsXghNiFxxl3eZSn+cbduzTnHyHieAMkfF8mUhdE9LMaUcRJkJ+UV0ZbOLjeRLibZlXqTsXi4rI070oM8DTIkqnvA0ZF+qnlW1mYZ/nrezRppv9JfaCGA==;PDSNd0r+hXYR2Smqwwj+vw=="
 ---

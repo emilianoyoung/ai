@@ -20,43 +20,82 @@ topics:
   - AI in Finance
 
 related:
-  - title: "New product and fintech launches make for a busy end to 2019"
-    excerpt: "I had to negotiate the transatlantic time zones for a phone interview about UTB’s fintech ambitions. Later we announced the exciting news that ... ID is verified by using facial recognition AI to compare an applicant to their nominated document such as a passport, driving license or national ID card. As well as being quick and free to use ..."
-    publishedDateTime: 2019-12-16T12:05:00Z
-    sourceUrl: https://www.mortgageintroducer.com/new-product-and-fintech-launches-make-for-a-busy-end-to-2019/
+  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
+    excerpt: "In recent years, a growing number of Indian startups has stepped in to address this void. ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from some 800 in late April), including Flipkart, Amazon, and Paytm, to offer financing ..."
+    publishedDateTime: 2019-12-19T03:05:00Z
+    sourceUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/
+    ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
     type: article
     provider:
-      name: Mortgage Introducer
-      domain: mortgageintroducer.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.4AF78DBFAAA672C2F21BFEAF52305B77
-        width: 463
-        height: 302
-  - title: "Artificial intelligence and policy innovation: New milestones for UNDP and Qatar partnership at 2019 Doha Forum"
-    excerpt: "To build the rapidly technological competency of the labs, A Memorandum of Understanding was signed between UNDP and Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), enabling the use of data science and artificial intelligence to help achieve Agenda 2030. The decision to invest in the professional development of ..."
-    publishedDateTime: 2019-12-17T02:00:00Z
-    sourceUrl: https://www.undp.org/content/undp/en/home/news-centre/news/2019/artificial-intelligence-and-policy-innovation--new-milestones-fo.html
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
+  - title: "Top News In Payments: Indian FinTech ZestMoney Raises $15M; Fed’s Brainard Warns Of Crypto Risks"
+    excerpt: "Indian FinTech ZestMoney Raises $15M Led by Goldman Sachs Bangalore-based FinTech ZestMoney ... Dec. 18, after it first debuted in Chicago two months ago. AI has finally proven to business leaders that it’s here to stay, and is soon to have a major impact on everyday life. In a new PYMNTS interview, Sudhir Jha, Mastercard’s senior vice ..."
+    publishedDateTime: 2019-12-19T21:01:00Z
+    sourceUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/
+    ampUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
     type: article
     provider:
-      name: UNDP
-      domain: undp.org
-    quality: 17
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.188978F89F800531315AACDE7CA79DAF
-        width: 700
-        height: 466
-  - title: "Saudi Fintech startup Lendo set to unlock invoice financing for SMEs launches at Arabnet Riyadh"
-    excerpt: "Lendo is looking forward to further build a robust credit scoring engine that will employ machine learning methods and AI based underwriting capabilities to pioneer Saudi’s FinTech industry in P2P lending. Lendo (Alsand Alraqami Ltd.), www.lendoapp.com ..."
-    publishedDateTime: 2019-12-18T11:56:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Saudi_Fintech_startup_Lendo_set_to_unlock_invoice_financing_for_SMEs_launches_at_Arabnet_Riyadh-ZAWYA20191218111345/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20191218111345/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20191218111345/
+      - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
+        width: 457
+        height: 261
+  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
+    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
+    publishedDateTime: 2019-12-19T06:39:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
     type: article
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 12
+    quality: 39
+  - title: "Investments in Fintech Hit Record High in Q3"
+    excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
+    publishedDateTime: 2019-12-13T17:01:00Z
+    sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
+    type: article
+    provider:
+      name: Ai-cio.com
+      domain: ai-cio.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
+        width: 700
+        height: 309
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:59:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
+        width: 620
+        height: 413
+  - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
+    excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
+    publishedDateTime: 2019-12-19T04:24:00Z
+    sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 20
+    images:
+      - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
+        width: 766
+        height: 400
 
 secured: "j4VCDNPadvKeegIw10c0yGTg/FLIsHQeX08msFhww0RSu8qtm1q4gucWXLqY/HmAkAsmNd83dcz/Qdw2cOHZL05vUayJPXyZzI0Qt3nPOJpeq7CyUXnXT54VdLipI9LzmSUHELT6d5DLTMx7cFkXdtYgYdtH+cD61xEAwxFQVE+FMqAT/OMTG4JBBYuHxzvxFN10eGI+tYr/8Q2e175bbbhxsB+/4ekI8+bixhQlssdDFIJq4JgFyBS7y0sDdQGYfQNNfT06GM5CZ/5BoBDh6g==;YXD0UYZl5n+DxQ1pO+k0xg=="
 ---

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
 
-secured: "y/zNpG1WZGBTBAWlnhcu6gJTPZC3sdK0CkO5J0mbg1jnXZOsxEe3oRg63BNkh83ZeySHdDDy4ZlSivftvvEnRRgYzU+vFolS45pNvcxxNJGIkGW1TsKD5hGE1g++qxAPiheozHIa0eIL2UMFjoVmKRYGEs2vyZFG29wSoTY6CogtpjQUR8CKLyoeyJ2CYJgkGjo/f0vPV07xNzsAhwm5CkdD3xwCwyODBygsTCTyEPkntDZYtgYPFBZ1AeBPL/tIHIMx3h1wLLBJ0vAmKC0PPA==;RizVxqkdOtN58t9FMDzIGA=="
+secured: "Ipovlu7orkBNk7pSSMpctOnD/kcaxmk/la+hjSlJksiN6u8Ri08IYlnQZWVuafbpoaAH3T+nPySaQL8Z8axkYoyeRP7tKjsKOVwGks/AvfXs9UEcDVTrrzKjfFhh8cmo2ZfzoEKzBZS+y1POuOUs99NQKAdtp9TnGmRrY5EXUWcaVi4SEzbWLTHIGUicVoG4zZMIR7LKhHk+6dY8orLRbbf25lFWgEVTmj9LAgURWvXGHUjseanOvd3TaKE6VsTgrW/afCfvVbjg7FsZRA+FeA==;N54b2BlRFfFZakvfGvKotg=="
 ---
 

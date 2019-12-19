@@ -3,30 +3,20 @@ category: news
 title: "Aspect Software Announces General Availability of Aspect Workforce Management Solution Powered by Microsoft Azure"
 excerpt: "Microsoft has been a user of Aspect WFM operating a multi-thousand seat contact center in an Azure environment. “We have had a lot of success using Aspect for workforce optimization in our contact center,” said Jeana Jorgensen, General Manager, Cloud and AI at Microsoft. “We are pleased that Aspect is bringing their workforce management ..."
 publishedDateTime: 2019-12-17T13:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/aspect-software-announces-general-availability-of-aspect-workforce-management-solution-powered-by-microsoft-azure-2019-12-17
+sourceUrl: https://www.businesswire.com/news/home/20191217005218/en/Aspect-Software-Announces-General-Availability-Aspect-Workforce
 type: article
-quality: 78
-heat: 78
-published: true
+quality: 28
+heat: 28
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Microsoft AI
 
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Aspect Software Announces General Availability of Aspect Workforce Management Solution Powered by Microsoft Azure"
-
-secured: "W+EQYkeBJcWSoDZeYpluhym2KlxNK4BOpOIB95QRLcL1G+hCv2qVFf9Jlv0e3Ahylj7d8PreHS616xYcvhoK2KdqQj+BHxAAaMbOeJmWxmWDvRtaoJxzSPQxXO1KwtrV256ir8mhxiRraYKtU1s9paY7Tn71T/DiWJx/ab95+qKddHiR8CxwdrxRokympJPdf153rI2vPEQtPsnQG0P6dAiFRKvyo7XQM6HdlQnr3126X8cXzbJK0h2WhwDOjyjxYLvP+y4VeSwGBThfK5WzAA==;8TFFMQ8UGJzHTG+AaAogQQ=="
+secured: "ihmxkVZFG5gOm0XT5VbJFjz4BNsoOwQBzPhBeGvGD0iT2cpcq89/7/mUpzhPDo9Kem0boeCxGlCQjmhil6iB8Fqt3J/emSdb8BEpKP72QZBNaXp8VN7WdECBW4RdnhMvkhjIVe7ZL68EM2lOk9fYNqQQG9L24MtrqFJ41VapatprYipXfNCIRhq5SoJ2GgM3uwDsiZe4zNwldMLfa+pOj7oLud38sy9nSa839htjxEsnWXvynqFmlEa8HLdfiCenXLMQIKJQLSX3OQ57CoEjDA==;bKShEx2HiBY9pDL33+Mq/g=="
 ---
 

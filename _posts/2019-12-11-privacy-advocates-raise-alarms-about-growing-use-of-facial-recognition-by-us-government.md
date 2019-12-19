@@ -505,6 +505,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
         width: 300
         height: 170
+  - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
+    excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
+    publishedDateTime: 2019-12-18T16:54:00Z
+    sourceUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal
+    ampUrl: https://thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475099-democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
+        width: 700
+        height: 393
   - title: "LE agencies pushing back against city, state facial recognition bans"
     excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-18T15:16:00Z
@@ -537,6 +552,17 @@ related:
     sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
     ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
     cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 53
+  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
+    publishedDateTime: 2019-12-18T15:28:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
     type: article
     provider:
       name: BuzzFeed News
@@ -585,6 +611,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
+  - title: "Federal study finds racial bias in many facial-recognition systems"
+    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
+    publishedDateTime: 2019-12-19T19:06:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/
+    ampUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.C4243A15BB13D680E3E0628F52145740
+        width: 700
+        height: 449
   - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
     excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
     publishedDateTime: 2019-12-11T16:41:00Z
@@ -828,6 +869,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
+  - title: "Massive Errors Found In Facial Recognition Tech: US Study"
+    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
+    publishedDateTime: 2019-12-19T21:53:00Z
+    sourceUrl: https://www.ibtimes.com/massive-errors-found-facial-recognition-tech-us-study-2889085
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/19/facial-recognition-software-can-produce-wildly-inaccurate-results.jpg
+        width: 1024
+        height: 680
   - title: "New docs: facial recognition confirmed ON"
     excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
     publishedDateTime: 2019-12-19T01:18:00Z
@@ -943,19 +997,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
-  - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
-    excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
-    publishedDateTime: 2019-12-18T16:54:53Z
-    sourceUrl: https://www.msn.com/en-us/news/politics/democratic-lawmakers-call-for-hud-review-of-facial-recognition-in-federal-housing/ar-BBY84ZN
-    type: article
-    provider:
-      name: The Hill on MSN.com
-      domain: msn.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.317526FE803AF8BE5641C30B1A1C0658
-        width: 700
-        height: 393
   - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
     publishedDateTime: 2019-12-18T00:04:00Z
@@ -1117,17 +1158,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
         width: 700
         height: 466
-  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-    publishedDateTime: 2019-12-18T15:26:00Z
-    sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+  - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
+    excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make statements across algorithms, we found empirical evidence for the existence of demographic ..."
+    publishedDateTime: 2019-12-19T21:59:00Z
+    sourceUrl: https://www.fastcompany.com/90446114/a-mass-study-of-189-face-recognition-algorithms-found-widespread-racial-bias?partner=rss
     type: article
     provider:
-      name: BuzzFeed
-      domain: buzzfeed.com
-    quality: 23
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 21
+    images:
+      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
+        width: 1280
+        height: 721
   - title: "In the EU, facial recognition in schools gets an F in data protection"
     excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
     publishedDateTime: 2019-12-11T12:07:00Z

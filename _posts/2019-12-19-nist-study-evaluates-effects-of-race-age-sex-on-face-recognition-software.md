@@ -24,36 +24,36 @@ images:
     title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
 
 related:
-  - title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. It comes as lawmakers and privacy ..."
-    publishedDateTime: 2019-12-19T19:57:00Z
-    sourceUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/
-    ampUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+  - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
+    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
+    publishedDateTime: 2019-12-19T22:11:00Z
+    sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html
+    ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 44
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.14EF19A2D51E27CF7FBE68E4EE748B29
+      - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
+        width: 700
+        height: 366
+  - title: "Serie A to tackle racism in Italy with facial recognition, says CEO Luigi De Siervo"
+    excerpt: "Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behaviour with racist chants aimed at Romelu Lukaku, Franck Kessie, Dalbert Henrique ..."
+    publishedDateTime: 2019-12-16T17:34:00Z
+    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
+    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
+    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
+    type: article
+    provider:
+      name: Sky Sports
+      domain: skysports.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.5727B12614FDFAC2E7FBE963E7045D39
         width: 700
         height: 393
-  - title: "Federal study finds race, gender affect face-scanning tech"
-    excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law ..."
-    publishedDateTime: 2019-12-19T21:37:00Z
-    sourceUrl: https://www.chron.com/business/technology/article/Federal-study-finds-race-gender-affect-14919032.php
-    ampUrl: https://www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
-    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
-        width: 700
-        height: 466
 
 secured: "tXjlvwIkUFUy4NiG9vrQiSwlwt4FfyZwfrMOIndx3vw54hwRBKBK5euCo6/59GqPsAAe3o8nGPqvJYnKaUdnGVul6lEq7iTyfRN8VYZsAiZcVrSVYFCcU8JI0CbMJIYF+nZEh/jZKMpKcpfuQswXgqA05yPp2dA7+y30titjETNxmRl814elmm4jnOlmoghV96RFFyXh0799PjnqkT78HkUkhtI1WKddBYbteTqZm5w2EDHHFAynJcwTjLW02s/WQ2CjQjZZg4VvgqwpO/ytIA==;uSywkPP11eIKzt7dKae0nA=="
 ---

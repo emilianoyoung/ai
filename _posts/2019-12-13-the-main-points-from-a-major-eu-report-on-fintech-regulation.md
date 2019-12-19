@@ -24,17 +24,6 @@ images:
     title: "The main points from a major EU report on fintech regulation"
 
 related:
-  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
-    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
-    publishedDateTime: 2019-12-19T06:39:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
   - title: "Major pension plans join investor group pumping $229M into Portag3’s second fintech fund"
     excerpt: "The Caisse de dépôt et placement du Québec and the Public Sector Pension Investment Board (PSP) are among a group of at least 14 investors pumping $229 million into an international fintech fund run by Portag3 Ventures ... a Series A investment round for Toronto-based Integrate.ai, a cloud-based machine-learning platform that allows ..."
     publishedDateTime: 2019-12-11T15:21:00Z

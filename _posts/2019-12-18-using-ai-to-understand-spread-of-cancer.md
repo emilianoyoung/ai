@@ -37,6 +37,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
         width: 2600
         height: 1730
+  - title: "How to bring AI to a legacy industry, according to the founders of Luminance and Omnius"
+    excerpt: "The companies’ founders, Emily Foges and Sofie Quidenus-Wahlforss, spoke with great insight on this on stage at Disrupt Berlin. Luminance uses AI and natural language processing to help law firms process documents more quickly, not replacing the lawyer but providing additional intelligence and analysis of what may be hundreds or thousands of ..."
+    publishedDateTime: 2019-12-19T22:13:00Z
+    sourceUrl: https://techcrunch.com/2019/12/19/how-to-bring-ai-to-a-legacy-industry-according-to-the-founders-of-luminance-and-omnius/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.D279A2BB3BAB7748AE93C7DF6668418B
+        width: 700
+        height: 466
   - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
     excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
     publishedDateTime: 2019-12-18T13:00:00Z
