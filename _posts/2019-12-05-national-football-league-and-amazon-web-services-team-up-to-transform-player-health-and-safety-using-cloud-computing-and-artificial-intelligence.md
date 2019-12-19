@@ -1,147 +1,125 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "The Digital Athlete will apply AWS's AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-publishedDateTime: 2019-12-05T19:30:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
-ampUrl: https://amp.benzinga.com/amp/content/14941071
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
+excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+publishedDateTime: 2019-12-05T20:58:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AWS AI
 
+images:
+  - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+    width: 1200
+    height: 627
+    title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+
 related:
-  - title: "The NFL And Amazon Want To Transform Player Health Through Machine Learning"
-    excerpt: "Injury prevention in sports is one of the most important issues facing a number of leagues. This is particularly true in the NFL, due to the brutal nature of that punishing sport, which leaves many players sidelined at some point during the season. A number of startups are utilizing technology to address football injury issues, specifically ..."
-    publishedDateTime: 2019-12-06T15:40:00Z
-    sourceUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/
-    ampUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
+  - title: "Amazon Introduces ‘Plug and Play’ AI Tools"
+    excerpt: "The tools, announced at Amazon’s annual cloud event in Las Vegas, aim to help the company’s cloud customers incorporate functionality such as natural language processing, but without long waits often associated with AI-related projects. Amazon says it is making this possible by integrating machine learning into the two new stand-alone services."
+    publishedDateTime: 2019-12-03T19:04:00Z
+    sourceUrl: https://www.wsj.com/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
+    ampUrl: https://www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 189
+    images:
+      - url: https://www.bing.com/th?id=ON.0964C70E0E6C15D525E0806E8132842C
+        width: 700
+        height: 350
+  - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
+    excerpt: "Auto manufacturers are continuously adding new controls, interfaces, and intelligence into their vehicles. They publish manuals detailing how to use these functions, but these handbooks are cumbersome. Because they consist of hundreds of pages in several languages, it can be difficult to search for relevant"
+    publishedDateTime: 2019-12-10T17:29:19Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
+        width: 387
+        height: 337
+  - title: "AI Weekly: Amazon plays the long game in health care AI"
+    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
+    publishedDateTime: 2019-12-06T19:30:00Z
+    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
+    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.F31F367EAA39078CD85AC1EAF8DA2227
-        width: 600
-        height: 315
-  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
-    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
-    publishedDateTime: 2019-12-12T07:42:00Z
-    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
-    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
+      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
         width: 700
-        height: 402
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
-    publishedDateTime: 2019-12-06T14:41:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+        height: 350
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
+    publishedDateTime: 2019-12-05T21:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
+      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
         width: 700
-        height: 525
-  - title: "NFL and AWS using data to improve player health"
-    excerpt: "They are combining AWS' cloud and its capabilities in machine learning and artificial intelligence with NFL data to improve player health and safety."
-    publishedDateTime: 2019-12-05T21:26:00Z
-    sourceUrl: https://www.zdnet.com/video/nfl-and-aws-using-data-to-improve-player-health/
+        height: 366
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
-        width: 700
-        height: 525
-  - title: "In the new bot economy, cloud robotics and AI transform work and society in far-reaching ways"
-    excerpt: "software and services will propel global revenue in the cloud robotics field from single digits to in excess of $170 billion within the next five years. The popular TV series “The Blacklist” even devoted a recent episode’s plotline to the use of artificial intelligence for murdering a scientist who was seeking to use computers that would ..."
-    publishedDateTime: 2019-12-03T18:15:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/in-the-new-bot-economy-cloud-robotics-and-ai-transform-work-and-society-in-far-reaching-ways-serviceexperiencereimagined/
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
+  - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
+    excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
+    publishedDateTime: 2019-12-03T20:30:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/reinvent-amazon-beefs-cloud-ai-takes-network-edge/
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 58
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.5E4D51F2F53FA46CB041B4EC724BD11D
+      - url: https://www.bing.com/th?id=ON.73C6C5EEC54E79CF8DDB4E23D5B9C6A9
         width: 700
-        height: 466
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-    publishedDateTime: 2019-12-06T15:34:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+        height: 427
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-06T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "Regtech: Transforming The Fintech Landscape"
-    excerpt: "from AI to the Internet of Things, and it’s not surprising that we are seeing the regulatory technology (RegTech) space advancing at an exponential rate. Everything from facial recognition technology to NFC passport chip reading is aiding FinTech businesses in their quest for compliance, bolstered by the added security that assets like cloud ..."
-    publishedDateTime: 2019-12-06T01:55:00Z
-    sourceUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
-    ampUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
-    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
-        width: 700
-        height: 466
-  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
-    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
-    publishedDateTime: 2019-12-07T02:20:00Z
-    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
-        width: 700
-        height: 466
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 17
 
-secured: "tLtZPd3/WYEaErQlKPhgM7ag9DAhZ2MLDrSJdJkp3/ouBR2yi5VzYW7vZ7W8+QJ+KVTa1vjsxAdim7WsFc5+iJC5PUz67JMcuKcRyBZ9d/tx2m98KbZ8AkD8e9W+Idn/k6L0Rn7YtFD6KGhnkG+eeP4zMqhcGWGOdUVVYFDk9GmFectJGK6fXVRvGnwp7Kv/6VsyBo//J44IDHUa0m1B+NDTuMaTSvjNlctR6k+tDgE7VU3NL8xA61UZd9xaNkwiSf8ncZ/E6lhbz/dor1lx+w==;8eoVSkI9wydp1SortQLf2A=="
+secured: "ERpKBdZU2sCwnNvsV9Wkk28gxtBZPUBL0KLUqhmkAq4n6cIN68VIO7A5zXPYDeuaPM2+bPj4dhZnDgMSjCOApdSnTR9iHy2Ct76c1el02P47pUKNMlsyjEE4KNrYJIwqttOmx57EhdQIUaCTNGG2uxf8ZLlgsMS0u75iUSd06gQb791aeFzTR0VGHLSgHVs0UKIocNdWsCxJURkyi844A2rP5B0pdjh4q5TrIQ/tug6lOgDLjjTOg4wOdhCEwSUVBtaQu0ZsZX3RevcV0ElzzA==;fJH6V29HRthHMgm7B3uYnQ=="
 ---
 

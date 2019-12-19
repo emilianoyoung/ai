@@ -25,8 +25,8 @@ images:
 
 related:
   - title: "Russia’s Sberbank invests in driverless car tech firm"
-    excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally binding agreement with Cognitive Technologies that will lead to the creation of a new company ..."
-    publishedDateTime: 2019-11-29T01:26:00Z
+    excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally ..."
+    publishedDateTime: 2019-11-29T01:14:00Z
     sourceUrl: https://siliconangle.com/2019/11/28/russias-sberbank-invests-driverless-car-tech/
     type: article
     provider:
@@ -34,10 +34,10 @@ related:
       domain: siliconangle.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B35F4DC50BC5224029B1EBC525FE1ACC
-        width: 700
-        height: 393
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/car-4343634_1280.jpg
+        width: 1280
+        height: 720
 
-secured: "qUGecqRplOLQAe8xu6d4iUMTWKfzP5Uup/INeV/Rj1IvO02M+hCtVl7MJhYE71C37NwI0tKN3Rw4ycT+G9aHzcQ/fJkMaNIGnXn8/QgSejXX2pInqNZbHAPlVta7OTThfrQtuYiqq65/zl5Su4dVkUa/dFhMkuEChT0ND/UoEJ8P/kxtw5rGWvbKvZOwX0bqh/twbf1vBCd4Nj7IkNOhD1hJBgmhemeAPbgTYUqpaMPVUBVsMbG4QR9PFx31g2yDCwN9UrgmRYOV7DSFKYFbfw==;HdD75/P6zVIxVY/wnrbK6Q=="
+secured: "eCVExbIzJoNCrLoA64gCZp4nXGRXW3PukJbMIMCakbwnxN8lND/R7ejZ7gcdQVUMrfvZnXQnD8FgXy9RGpHs0izo35A4ymzn/4JkfWrT8Uusz06bgXKN+biUwQRauqp7oJwMs3WTUfmo/4KN4Nr2VLy4wjgxgrJ1/EulyRp0Kc54YrYx22NIx8uPJrO3tUI3zB5v1bYs12VpIfv+pXLZ2JUIr0r/E2tFbG2DXODY1RO3najqdzrv822QQlQSM3mYwA32GbD5xhb8Rf9XwlGdVw==;v90BRvRD5FwTbxE1Yf6FJw=="
 ---
 
