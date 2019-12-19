@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T12:14:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
+    quality: 0
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-19T00:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "pjRoa/3mWR7qYpFw7gmSli47lC7JcZe+kS5tw/BXbc0TbKtkMwQxK25B0riDnTIJCglMVl/p3QyRUhpPPP8KGxeY5LP0b5qKSYhpWSR1TIZ8bIR/STy1pNZNMf8u5FBo/mO5c3JS00/JwmDi5vZjHQsi6Zi3oSHQlV079kdk5DU+kvN7u7rry1r7X4CoIW1ejbYKu1zlshT6BKAYOZjBjOdHumhnb+tuXvPibE7CpsCRywvxTsAvc/yoaahn8ILgh6Y5yIXoTGI9FfNdvN4hxQ==;DVHmw7MRhQAQ85DHty83Gg=="

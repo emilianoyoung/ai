@@ -59,6 +59,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-19T00:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "oqIXLXOG9ueqERnKGQznglZWpxJ+AQgfnqMBm77BQZakdY8sdNSfX5oBjnbnHobCBc2e6YqGfDyQQ9fI2U+C6NKNlLwp4iqlvC2qzgLhs6gApLxhY78y4loWZO1seY3Wt0iw5vQfS9fshEWA5A2y4vhY1XPnKVwvI+cJIQzhuBf4SBuwTrQ1IsVNF6TTdAcNYqKyLm1lCd8GvpQYmTwgCmhZJckOCdycCPfR/SZYHCo/8X2+aANGfksJfdmyvAfwdBzAhGRCVDqsiZavfYUPjQ==;kB2H1td8WSlznyFVhq3Inw=="
 ---

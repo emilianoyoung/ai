@@ -54,6 +54,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-19T00:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "Y4T16ShilNPuZLzbI2o0tZoGtNrkJeMybAdIv4Kg2NPOi2DnGpl4WpLGrsneS2MK2Xckc3dIEOnXdumbJMXuLnykfIEv7ogEAfcJDtJNBk41jd4FNfIi1S8q+C0Fw21e97qzolEzHTC1LpdGCqjMT0Bny2kToWC5KimPSc4qgE+MDl6qpsNp2D+Ysh86HVVrcGE5XB4rOGZeR143bZFi3AqHaGwo+aFF+IoGRB5i7iM/QgIwMoWlq6zzL8g7NITVIoGLRodYVMIXd4qsnyxOHw==;iXfN4cDVh+VNFltyKoxZeA=="
 ---

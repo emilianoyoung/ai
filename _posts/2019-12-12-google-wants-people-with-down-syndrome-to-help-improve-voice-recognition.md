@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2F124284393207F8E7CE9092BCA112AB
         width: 700
         height: 350
-  - title: "Google wants people with Down syndrome to record themselves speaking to help train its AI to recognize unique speech patterns (GOOGL)"
-    excerpt: "But for people with unique speech patterns, these devices can be inaccessible when speech-recognition technology fails to understand what users are saying. Google is aiming to change that with a new initiative dubbed \" Project Understood .\" The company is partnering with the Canadian Down Syndrome Society to solicit hundreds of voice recordings ..."
-    publishedDateTime: 2019-12-05T17:02:00Z
-    sourceUrl: https://www.pulse.com.gh/bi/tech/google-wants-people-with-down-syndrome-to-record-themselves-speaking-to-help-train/yk0v4wd
-    type: article
-    provider:
-      name: pulse.com.gh
-      domain: pulse.com.gh
-    quality: 8
-    images:
-      - url: https://www.bing.com/th?id=ON.4206733121F1439C4B97D115AAC3B5B1
-        width: 700
-        height: 367
   - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
     excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
     publishedDateTime: 2019-12-05T23:58:00Z

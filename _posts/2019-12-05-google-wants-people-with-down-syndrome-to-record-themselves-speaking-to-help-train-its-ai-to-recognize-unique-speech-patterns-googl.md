@@ -24,56 +24,47 @@ images:
     title: "Google wants people with Down syndrome to record themselves speaking to help train its AI to recognize unique speech patterns (GOOGL)"
 
 related:
-  - title: "Google Wants People With Down Syndrome to Help Improve Voice Recognition"
-    excerpt: "This is in order to train its voice-recognition AI to understand unique speech patterns. Currently, Google’s aim is to get at least 500 voice recording donations from people with DS. Voice computing is considered the future of technology, however, it can be slightly inconvenient for people with mental and physical disabilities. In order to ..."
-    publishedDateTime: 2019-12-12T12:22:00Z
-    sourceUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/
-    ampUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
-    cdnAmpUrl: https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
+  - title: "Google Isn't Looking To Revolutionize Health Care, It Just Wants To Improve On The Status Quo"
+    excerpt: "managing and treating diseases), Google Fit (tracking and encouraging healthier lifestyles), Calico (research aimed at treating and even slowing aging), DeepMind Health (applying AI to health and health care), Senosis (turning smartphones into health monitors) and the recently acquired Fitbit (activity tracking). While these efforts have to a ..."
+    publishedDateTime: 2019-12-12T14:08:00Z
+    sourceUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html
+    ampUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
+    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 43
+      name: Newsweek
+      domain: newsweek.com
+    quality: 65
     images:
-      - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
-        width: 700
-        height: 393
-  - title: "People are open to biometric retina recognition"
-    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
-    publishedDateTime: 2019-12-16T16:19:00Z
-    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
-    type: article
-    provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
-        width: 700
-        height: 369
-  - title: "Google wants people with Down syndrome to record themselves speaking to help train its AI to recognize unique speech patterns"
-    excerpt: "Voice technology has historically struggled to understand people with unique speech patterns, like those with Down syndrome."
-    publishedDateTime: 2019-12-05T17:04:40Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/google-wants-people-with-down-syndrome-to-record-themselves-speaking-to-help-train-its-ai-to-recognize-unique-speech-patterns/ar-BBXO3rt
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 12
-    images:
-      - url: https://www.bing.com/th?id=ON.2F124284393207F8E7CE9092BCA112AB
+      - url: https://www.bing.com/th?id=ON.8AAB57F771A66DF3973908ACEFF3DD68
         width: 700
         height: 350
-  - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
-    excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
-    publishedDateTime: 2019-12-05T23:58:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/google-wants-voice-assistants-more-231539010.html
+  - title: "Have your health care records been obtained by Google?"
+    excerpt: "BRYAN, Texas — Google has been, and is paving its way into the healthcare industry. The tech company recently formed a partnership ... “Ascension is sharing health information of its patients to Google and with the objective of creating artificial intelligence and machine learning software tools to make health information more useful ..."
+    publishedDateTime: 2019-12-05T23:02:00Z
+    sourceUrl: https://www.kiiitv.com/article/news/national/google-health-care-records-privacy-project-nightingale/503-17289f27-4459-489e-8d18-7a3b73c4b3df
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: Kiii3 News
+      domain: kiiitv.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.507A49C3848B2DE1F078ADA6CD3506ED
+        width: 700
+        height: 393
+  - title: "What will the digital healthcare revolution look like?"
+    excerpt: "Abbott explains how remote monitoring, artificial intelligence and predictive analytics will all influence a new era of digital healthcare. Editor's Note: This publication originially appeared on Abbott's website. Healthcare has evolved at an incredible pace. The industry has brought forth a number of cutting-edge developments, including ..."
+    publishedDateTime: 2019-12-06T21:00:00Z
+    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/what-will-the-digital-healthcare-revolution-look-like.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg
+        width: 400
+        height: 300
 
 secured: "WJgcplVjmao2SmDMuR767ocMdht/Dp9zrjvlyzR+ldTKBp0QdVRgMtn2TQkpeEld/2j04FXlOE9Rt3C6LXrh6Dma7bWoVCyqtxdeIeKEkPC3a2su4DyFDh+sB/8c6GwTGNMfG2CKfVGR1is+rQ/q/i/4ZQyvIzHRunO2u24pNC6+pYlGACLxLR+iBcx0qzFkmVAriY5uX+yeslDfZZONmh9ILr+c1ZyND3/NQyzb+Bng5BC1HLmpvoYfpeDkF9TncPBPoJIle3BjBjsmBL2POA==;aigOwK9MLKjBZKAGuWmNXA=="
 ---

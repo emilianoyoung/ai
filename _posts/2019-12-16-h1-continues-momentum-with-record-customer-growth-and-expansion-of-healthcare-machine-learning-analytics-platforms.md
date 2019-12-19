@@ -23,6 +23,19 @@ images:
     height: 450
     title: "H1 Continues Momentum With Record Customer Growth and Expansion of Healthcare Machine Learning Analytics Platforms"
 
+related:
+  - title: "Tavant’s Fintech Business Reports Year of Momentous Growth Fueled by Digital Transformation"
+    excerpt: "Technology provider achieves record results including record revenue and customer growth-- Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced record growth, 24.3 percent annual revenue growth in its Fintech business and corporate expansion including the addition of a new Dallas Innovation Center."
+    publishedDateTime: 2019-12-19T00:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/tavant-fintech-business-reports-momentous-124500942.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/tavant-fintech-business-reports-momentous-124500942.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/tavant-fintech-business-reports-momentous-124500942.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
+
 secured: "pduMyVcSOzEZikeiel9Nu+SHi+bpEVW1fjU+yz//oCNG95viNj2Spu2ai3xFNAYTvB3ReI0Rtopu0kRtou/THMKhykwndxz+kQhvhQ4PvARz0mXDFzstyFg5rfwwRNQGIN7kcL2kwX5XJovMO7wET1GA/wgrbFIZjNzi/c5DArGPDC9klzeT2Z0JuUEXEPCFTVumBJGb9P/+xiCTcSBkcrARwczYVV2DOugQEk1wAfuzoQJPCaPEZKsjIpDaKsyHYg6DQCa0zNt36T9r32dW8A==;1SOqDeMndZIhfwVj58V6GQ=="
 ---
 

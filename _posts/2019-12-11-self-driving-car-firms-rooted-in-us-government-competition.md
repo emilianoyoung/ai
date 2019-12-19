@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Self-driving car firms rooted in U.S. government competition"
 
 related:
-  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T12:31:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-darpa-focus.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
     publishedDateTime: 2019-12-11T11:06:00Z

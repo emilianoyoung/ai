@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69825E93910DE13AD824F9A025315212
         width: 700
         height: 525
-  - title: "In the new bot economy, cloud robotics and AI transform work and society in far-reaching ways"
-    excerpt: "software and services will propel global revenue in the cloud robotics field from single digits to in excess of $170 billion within the next five years. The popular TV series “The Blacklist” even devoted a recent episode’s plotline to the use of artificial intelligence for murdering a scientist who was seeking to use computers that would ..."
-    publishedDateTime: 2019-12-03T18:15:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/in-the-new-bot-economy-cloud-robotics-and-ai-transform-work-and-society-in-far-reaching-ways-serviceexperiencereimagined/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.5E4D51F2F53FA46CB041B4EC724BD11D
-        width: 700
-        height: 466
 
 secured: "u/EKX0SnX8c2x0vZXVyj8b0AOVY2VOZ633C4x43fcSJ/lP/UVcAKDmwdEwFCQU5X9xdCZsMDKPyKqUjCoEIruikhYT5vAnj50Q7CzCutSiWHWgBHlISTjORncffwgAyBMhAF42PR1aBwsQc/fYrv7OerdWYWV/Qf5mfq0fQT2v4zq3uE6eVriNCGDTsj9ofpxMenv6pWwk+4WA2j/jP4o7Uea15+bCH6XpYuWAFZFTmUWUpUj0URTy+Kdf136bKb6Jkqob3PLB7unucnnW05SQ==;HwzdCDcpllGiigiwXgB2dQ=="
 ---
