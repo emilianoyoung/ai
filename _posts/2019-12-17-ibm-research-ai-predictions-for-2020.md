@@ -26,6 +26,21 @@ images:
     title: "IBM Research AI Predictions for 2020"
 
 related:
+  - title: "2020 Predictions For AI, DL, And ML"
+    excerpt: "I wanted to share some predictions on what will shape the industry landscape and the work I do at Determined AI. In November 2019, we saw Graphcore make an exclusive deal with Microsoft - in many ways, the first of its kind. This deal provided Azure cloud customers exclusive access to Graphcore's Intelligence Processing Units (IPUs)."
+    publishedDateTime: 2019-12-19T19:20:00Z
+    sourceUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/
+    ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39404075%2F0x0.jpg%3FcropX1%3D194%26cropX2%3D4595%26cropY1%3D0%26cropY2%3D2474
+        width: 1200
+        height: 675
   - title: "10 mobility predictions for 2020: AI, 5G, foldable phones, and more"
     excerpt: "Won't you join me? If the Google Pixel 4 proved one thing, it's that Artificial Intelligence (AI) is not only here to stay, it's going to continue to lead the mobility charge. I'm fairly confident that Google will push to weave AI deeper into the fabric of Android, leading to improved photos, better Assistant interaction, and drastically ..."
     publishedDateTime: 2019-12-16T19:57:00Z
@@ -41,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
+  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
+    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
+    publishedDateTime: 2019-12-16T14:12:00Z
+    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
+    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
+        width: 600
+        height: 315
   - title: "Software predictions for 2020 from around the industry"
     excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
     publishedDateTime: 2019-12-17T20:44:00Z
@@ -54,28 +84,19 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
         width: 640
         height: 426
-  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
-    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO, Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
-    publishedDateTime: 2019-12-12T09:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/deloitte-s-2020-tmt-predictions-forecasts-greater-accessibility-to-ai-via-new-chips-at-the-edge-1028757915
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-17T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-17
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "KYOCERA to Showcase AI, 5G, and Mobility Technologies at CES 2020"
-    excerpt: "Many innovations will be shown in the U.S. for the first time including new AI and camera-LIDAR fusion sensors for ADAS and autonomous driving; a rugged 5G smartphone, router, and tablet; a smart carbohydrate monitoring system; clean energy innovations, and more. Kyocera’s booth will be located in the AI & Robotics marketplace, Las Vegas ..."
-    publishedDateTime: 2019-12-10T16:29:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191210005775/en/KYOCERA-Showcase-AI-5G-Mobility-Technologies-CES
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
-      - url: https://www.bing.com/th?id=ON.B529E3C9B96271AD1025D9175ADBF932
-        width: 700
-        height: 365
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
     excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
     publishedDateTime: 2019-12-13T00:24:00Z

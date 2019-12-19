@@ -20,6 +20,21 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. It comes as lawmakers and privacy ..."
+    publishedDateTime: 2019-12-19T19:57:00Z
+    sourceUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/
+    ampUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.14EF19A2D51E27CF7FBE68E4EE748B29
+        width: 700
+        height: 393
   - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
     excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
     publishedDateTime: 2019-12-19T16:50:00Z

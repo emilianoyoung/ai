@@ -200,6 +200,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
         width: 700
         height: 349
+  - title: "Drawing a blank: Airport's facial recognition system remains inoperable"
+    excerpt: "Drawing a blank: Airport's facial recognition system remains inoperable Monroe County committed $1 million for state-of-the-art surveillance systems at the Rochester airport, but after 18 months they're still not in use. Check out this story on DemocratandChronicle.com: https://www.democratandchronicle.com/story/news/2019/12/19/rochester ..."
+    publishedDateTime: 2019-12-19T19:40:00Z
+    sourceUrl: https://www.democratandchronicle.com/story/news/2019/12/19/rochester-airports-new-surveillance-systems-remain-inoperable/2619020001/
+    ampUrl: https://amp.democratandchronicle.com/amp/2619020001
+    cdnAmpUrl: https://amp-democratandchronicle-com.cdn.ampproject.org/c/s/amp.democratandchronicle.com/amp/2619020001
+    type: article
+    provider:
+      name: Democrat and Chronicle
+      domain: democratandchronicle.com
+    quality: 54
   - title: "CaixaBank debuts facial recognition system for payments at Nestle Market"
     excerpt: "CaixaBank, based in Spain, announced the launch of a payments system trial at a Nestle Market, marking the first time that a grocery or retail store uses facial recognition technology in that country, according to a company release. The payments system, developed with backers of the Payment Innovation Hub, which includes Visa, Samsung ..."
     publishedDateTime: 2019-12-06T10:00:00Z

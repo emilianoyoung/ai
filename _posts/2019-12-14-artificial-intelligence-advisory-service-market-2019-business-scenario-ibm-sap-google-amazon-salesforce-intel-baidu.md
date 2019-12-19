@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Chipset Market Still Has Room to Grow | Emerging Players NVIDIA, Intel, IBM, Qualcomm, CEVA"
-    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Deep Learning Chipset Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors, attentive opinions ..."
-    publishedDateTime: 2019-12-16T09:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-still-has-room-to-grow-emerging-players-nvidia-intel-ibm-qualcomm-ceva-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "bGgvFNM4Bzd52RKKHdllJY+2SBAktnSTxeGJfS3K6EF9nK3i43zpjhd1q7K8TQi14hgMG0wfqm81hN2xJZnLDmHuJJXvmxXmeaLLTEqRpSD1WvGNKOryHDP5NXYP3fJ7kXJCWhI5TOBTmVn/5Aq53RzB16+DyQjVsMeYOTkCAaqS8hg4VwDgdqqoqonSIZqR0FDWcWaPS6kGULsRaxOhBaWC5WTQmsg/kVjh5gqXnxqppyP83+9OpRA5ETX9A9php32S6KI97XpfRJXIshem1Q==;UhP/HjFeUs8eQ4kEY0dmJA=="
 ---

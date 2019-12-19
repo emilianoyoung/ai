@@ -2,22 +2,18 @@
 category: news
 title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
 excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-publishedDateTime: 2019-12-18T15:28:00Z
-sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+publishedDateTime: 2019-12-18T15:26:00Z
+sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
 type: article
-quality: 53
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: BuzzFeed News
-  domain: buzzfeednews.com
-  images:
-    - url: /assets/images/organizations/buzzfeednews.com-50x50.jpg
-      width: 50
-      height: 50
+  name: BuzzFeed
+  domain: buzzfeed.com
 
 topics:
   - AI
@@ -501,6 +497,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
         width: 300
         height: 170
+  - title: "Japan tech firm aims to supplant Chinese facial recognition rivals"
+    excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
+    publishedDateTime: 2019-12-19T19:12:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Business-trends/Japan-tech-firm-aims-to-supplant-Chinese-facial-recognition-rivals
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
+        width: 700
+        height: 350
   - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
     excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
     publishedDateTime: 2019-12-18T17:07:00Z
@@ -874,6 +883,19 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
+    excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
+    publishedDateTime: 2019-12-19T19:32:00Z
+    sourceUrl: https://www.fedscoop.com/lawmakers-look-answers-facial-recognition-federally-assisted-housing/
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
+        width: 700
+        height: 340
   - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
     excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
     publishedDateTime: 2019-12-18T16:54:53Z
@@ -959,6 +981,21 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 27
+  - title: "Federal study confirms racial bias of many facial-recognition systems, casts doubt on their expanding use"
+    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
+    publishedDateTime: 2019-12-19T19:57:00Z
+    sourceUrl: https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/
+    ampUrl: https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.3B5369AAF0EE6149BA061DAA70EC1548
+        width: 700
+        height: 466
   - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
     excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
     publishedDateTime: 2019-12-17T19:04:00Z
@@ -1057,6 +1094,6 @@ related:
       domain: educationdive.com
     quality: 17
 
-secured: "oTmYFsRrBhNBLvqNCi6PBROtEsBfZX3deEIpETc16447ArISWpuNL4OPxsyeDQ0rVpHRvIBYx5yK1WPyk4ZWC5xsfjXuuWTfSCyRNwKJz8qKC52vcJ8GBy54tKHe55GpiD8VW3RA1rnx7QbnxI9THKrp3l6bsMV9Kehcf3OeSnNr2LbDqVCtEPxDlhPX8QpvNR7jeLgCxWT0gbBJvO8oInvOQirHsF/HqQLTTMhv0+OeiOdA1tlG/3VqVzRzsEHEDzFRTqTAjmTHq8BftpQycA==;dw4AD3I/MF3aFP7/n3x0YQ=="
+secured: "o0CENdkQDoO+zFoPkOuPTgpCcUVFPvweNKv7XuCvwfDLKvTv8IGi/DUIgAQY9JJUv0xrCkGnJyy3BEtUoHbWc5IqlglmSlw2gaauUwrxg9Ije4psQig3fCYgFNc7l+s81nTGbno+dHKYupsnydp5SS+RktSK5/6AOZ1GUltdoek5RzNB6Dojn7dZc1Tzy0bVcUR93uL3Mq8Pxxi18mratu3IOctzhFdbRFDeGWj7NdJyLxRk/vCqYYhvVMNDR41BO4c2u3tDzpUj2nSjS1gQsg==;JuxKRp32l1hpSM5cn922/w=="
 ---
 

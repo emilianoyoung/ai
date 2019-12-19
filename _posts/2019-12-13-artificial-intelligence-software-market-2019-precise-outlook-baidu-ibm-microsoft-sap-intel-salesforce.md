@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T14:20:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2019-precise-outlook---baidu-ibm-microsoft-sap-intel-salesforce-2019-12-13
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Chipset Market Still Has Room to Grow | Emerging Players NVIDIA, Intel, IBM, Qualcomm, CEVA"
-    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Deep Learning Chipset Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors, attentive opinions ..."
-    publishedDateTime: 2019-12-16T09:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-still-has-room-to-grow-emerging-players-nvidia-intel-ibm-qualcomm-ceva-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

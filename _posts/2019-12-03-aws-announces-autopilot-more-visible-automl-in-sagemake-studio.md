@@ -1,21 +1,21 @@
 ---
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-publishedDateTime: 2019-12-03T19:27:00Z
-sourceUrl: https://finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+publishedDateTime: 2019-12-03T19:12:00Z
+sourceUrl: https://www.yahoo.com/now/aws-announces-autopilot-more-visible-191207851.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Yahoo Finance
+  name: YAHOO!
   domain: yahoo.com
 
 topics:
   - AI
-  - Machine Learning
+  - AWS AI
 
 images:
   - url: https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
@@ -40,20 +40,18 @@ related:
         width: 700
         height: 466
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
     publishedDateTime: 2019-12-03T18:32:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
-    ampUrl: https://au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
-    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
+    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
     type: article
     provider:
-      name: Yahoo7 News
+      name: Yahoo!
       domain: yahoo.com
-    quality: 59
+    quality: 54
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/eNhrNpu9lmfXQn.3bmlqsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-        width: 1279
-        height: 853
+      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
+        width: 5184
+        height: 3456
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-03T18:44:00Z
@@ -68,6 +66,6 @@ related:
         width: 512
         height: 512
 
-secured: "V03HXFADy7tU13txd9yA66FWcCTPNq+FtZ62g/ShVvQsxv0gGJGviAFz3RtJvrOnBl5SbA4v+jMvnKx4Fjr5XvW0Iw6cy15xVTlu9hbqZLmoDsOjJK70Bd1PLvsqXuZQblMixryW8m2hMRHgWw03VBVZ3NQ4yp4DXGvqGbn1Fd8qLq6fD438G7mvVUiX/542xjzBP//M5i0EVn1GDqsw04QyCbtsStlypnA9FnDIhCbeYNKIkMzXW5JicfT4EkFI1czF2YyaEauasZYjwINcAg==;zv+8OnJE1TB8E+RlAk/l+g=="
+secured: "Iah5xQQ2t/awR7EvmiRPm60G51YSArIcr8n+hlgrHVPn6uTVZOcArinl+PM5he9tu99E8KRM2MDv0lt/68TMap2ygXwbfQkf09jcgpKXBlsCQljyAIJWiByzhKd9Jwc76pdhgC/XULfXbMxPB2GcaQMguQ8o9DUzt6qVuTS/yIFA8kBrT2hU8WydIz6lBUlz/KNG6v/Hxd5cp/bA6TFern+739I2P6cEhRtTRKPZ1lwDdZA6FeBaR78SziVdowy75dTGuW/zRZ65aAzCTlg3sA==;f7E9TBHccf3dFgyx9sBd4w=="
 ---
 

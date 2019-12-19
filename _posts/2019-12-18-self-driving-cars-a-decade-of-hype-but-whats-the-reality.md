@@ -41,6 +41,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
         width: 2000
         height: 1000
+  - title: "Tesla Autopilot self-driving tech neutered in Europe"
+    excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
+    publishedDateTime: 2019-12-19T18:49:00Z
+    sourceUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798
+    ampUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
+        width: 620
+        height: 350
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z

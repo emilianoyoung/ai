@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-pe
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
 
 related:
+  - title: "Tesla Autopilot self-driving tech neutered in Europe"
+    excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
+    publishedDateTime: 2019-12-19T18:49:00Z
+    sourceUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798
+    ampUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
+        width: 620
+        height: 350
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z

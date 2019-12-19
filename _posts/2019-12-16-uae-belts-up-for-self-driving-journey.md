@@ -41,6 +41,21 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
         width: 2000
         height: 1000
+  - title: "Tesla Autopilot self-driving tech neutered in Europe"
+    excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
+    publishedDateTime: 2019-12-19T18:49:00Z
+    sourceUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798
+    ampUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
+        width: 620
+        height: 350
   - title: "Self-driving cars: A decade of hype, but what's the reality?"
     excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
     publishedDateTime: 2019-12-18T18:18:00Z

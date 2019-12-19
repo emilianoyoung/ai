@@ -196,6 +196,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
         width: 700
         height: 349
+  - title: "Drawing a blank: Airport's facial recognition system remains inoperable"
+    excerpt: "Drawing a blank: Airport's facial recognition system remains inoperable Monroe County committed $1 million for state-of-the-art surveillance systems at the Rochester airport, but after 18 months they're still not in use. Check out this story on DemocratandChronicle.com: https://www.democratandchronicle.com/story/news/2019/12/19/rochester ..."
+    publishedDateTime: 2019-12-19T19:40:00Z
+    sourceUrl: https://www.democratandchronicle.com/story/news/2019/12/19/rochester-airports-new-surveillance-systems-remain-inoperable/2619020001/
+    ampUrl: https://amp.democratandchronicle.com/amp/2619020001
+    cdnAmpUrl: https://amp-democratandchronicle-com.cdn.ampproject.org/c/s/amp.democratandchronicle.com/amp/2619020001
+    type: article
+    provider:
+      name: Democrat and Chronicle
+      domain: democratandchronicle.com
+    quality: 54
   - title: "Voice Recognition Market : Key Facts and Forecast Predictions Presented Until 2025"
     excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. The major factors driving the growth are rising need for Voice Recognition worldwide, aim to enhance security in ..."
     publishedDateTime: 2019-12-10T12:16:00Z

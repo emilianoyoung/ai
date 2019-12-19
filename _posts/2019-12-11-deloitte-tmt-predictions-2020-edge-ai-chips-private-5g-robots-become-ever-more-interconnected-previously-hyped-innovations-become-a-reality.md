@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/deloitte-tmt-predictions-2020-edg
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/deloitte-tmt-predictions-2020-edge-100000463.html
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     title: "Deloitte TMT Predictions 2020: Edge AI Chips, Private 5G, Robots Become Ever More Interconnected; Previously Hyped Innovations Become a Reality"
 
 related:
+  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
+    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO, Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
+    publishedDateTime: 2019-12-12T09:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/deloitte-s-2020-tmt-predictions-forecasts-greater-accessibility-to-ai-via-new-chips-at-the-edge-1028757915
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
   - title: "What healthcare will look like in 2020: 6 predictions"
     excerpt: "In 2020, artificial intelligence will face more ethical challenges ... consulting firm predict themes and global forces that will define the next 12 months in healthcare. Below are six predictions for healthcare in 2020, according to Frost & Sullivan ..."
     publishedDateTime: 2019-12-04T21:49:00Z

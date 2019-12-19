@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
-excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS' VP of artificial intelligence, Matt Wood says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then use the AWS SageMaker toolset to help make sense of it and produce safer outcomes. Story ..."
-publishedDateTime: 2019-12-06T00:00:00Z
-sourceUrl: https://news.yahoo.com/nfl-aws-partnership-hopes-reduce-222422979.html
+excerpt: "The way AWS helps is of course putting all this data to work with its machine learning toolset. AWS's VP of artificial intelligence, Matt Wood, says that having all this data is a huge advantage and allows them to put it to work in a data lake, and then ..."
+publishedDateTime: 2019-12-06T00:07:00Z
+sourceUrl: https://www.yahoo.com/now/nfl-aws-partnership-hopes-reduce-222422979.html
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.34F1CC9919F8CD3D45196F11E672FCDD
+  - url: https://www.bing.com/th?id=ON.B53B6861EBCDEFB70D320D6369F0FD41
     width: 700
     height: 525
     title: "NFL-AWS partnership hopes to reduce head injuries with machine learning"
@@ -64,6 +64,6 @@ related:
         width: 700
         height: 393
 
-secured: "RrqL6Nmyj/IltF8WdVgFVB6KPhkwnx+c2lXWKM4WiPGB8dXCplB7Eimfpq/saHyHKBIU2bEBdjtK3dQAP1DGA97UOzHu6W6Q0itGkIR46T48wIALH9tWTQQhs2YHEV1Bezw1wrgaAu0ReK3BNN+AUc2FGTfZOcj8ouK9EQIBjJdQB7C9evQadEwO69lC69TEY6Ka1zr2HCSn6JcRPc0Z7z7woilCcHsVNMu0YmGmoN6BUvYmY88w1x2qvFsMBxgLBJcFD2Ci7d+WRdiZ70nwJA==;5eaV6orzN82iR9sef4Sx3Q=="
+secured: "ws1lX1exSLcd5FeZ8FJEVb4uxPcKrTjBI/99m1aOJT96OdBhf40zIm6IEOkL9/oDKn+sgZGLJVT5pm3DAb8smuJx2oieMrIN1hdFEohFkOORBjG6yVaCqwHaADQ+pDFV2kqmIp5Erzsylajg3saBoygbFdtXhLRyEAZLv14XjjpwMnYlDE8btBSd5D7qKg2JnRd5m7pnP6G1w6jQckOUUX/T35qEmjxFv63w5WPVsDjyF3v8zqTIjQ1goMyOU7GbIhuL9yitHiGbIYh7zx7yUA==;uePzj4BO7LSZwqOjW1Rnhw=="
 ---
 

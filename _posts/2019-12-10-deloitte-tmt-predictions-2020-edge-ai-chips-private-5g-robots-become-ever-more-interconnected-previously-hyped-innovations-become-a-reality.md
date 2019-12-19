@@ -39,6 +39,15 @@ related:
       - url: https://www.bing.com/th?id=ON.4F2928F581D9E07C8B06B440FC9F4832
         width: 400
         height: 163
+  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
+    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO, Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
+    publishedDateTime: 2019-12-12T09:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/deloitte-s-2020-tmt-predictions-forecasts-greater-accessibility-to-ai-via-new-chips-at-the-edge-1028757915
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
   - title: "What healthcare will look like in 2020: 6 predictions"
     excerpt: "In 2020, artificial intelligence will face more ethical challenges ... consulting firm predict themes and global forces that will define the next 12 months in healthcare. Below are six predictions for healthcare in 2020, according to Frost & Sullivan ..."
     publishedDateTime: 2019-12-04T21:49:00Z

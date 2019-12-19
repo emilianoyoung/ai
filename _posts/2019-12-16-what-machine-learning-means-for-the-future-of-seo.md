@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -58,6 +58,21 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
+        width: 700
+        height: 366
+  - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
+    excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
+    publishedDateTime: 2019-12-19T18:49:00Z
+    sourceUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/
+    ampUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
         width: 700
         height: 366
   - title: "What will be the growth rate of the Global Deep Learning Market by 2024"

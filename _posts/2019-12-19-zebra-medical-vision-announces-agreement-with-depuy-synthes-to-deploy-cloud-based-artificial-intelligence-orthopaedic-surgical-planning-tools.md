@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
-excerpt: "KIBBUTZ SHEFAYIM, Israel--(BUSINESS WIRE)--Zebra Medical Vision, the deep learning medical imaging analytics company, announces today a global co-development and commercialization agreement with DePuy Synthes* to bring Artificial Intelligence (AI) opportunities to orthopaedics, based on imaging data. Every year, millions of orthopaedic ..."
-publishedDateTime: 2019-12-19T12:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191219005374/en/Zebra-Medical-Vision-Announces-Agreement-DePuy-Synthes
+excerpt: "Zebra Medical Vision, the deep learning medical imaging analytics company, announces today a global co-development and commercialization agreement with DePuy Synthes* to bring Artificial Intelligence (AI) opportunities to orthopaedics, based on imaging data. This press release features multimedia. View the full release here: https ..."
+publishedDateTime: 2019-12-19T13:15:00Z
+sourceUrl: https://apnews.com/Business Wire/03d0640a43784b7b9d477f400579a414
 type: article
-quality: 4
-heat: 4
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press News
+  domain: apnews.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://mms.businesswire.com/media/20191219005374/en/764065/23/zebra_-_JJ.jpg
-    width: 1200
-    height: 627
+  - url: https://apnews.com/images/PaidContent3.png
+    width: 700
+    height: 450
     title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
 
-secured: "LKFPkQQzNTTqp+4Cl7sYMZL3hajBeVNkT1K741QINVhi/U6+7yxatygVBBUcjbZvf8Zk/FAdkgxwaPpu/Cmyo/AjnWxI/q7MaeeYmhLQEctYMcSYqOrjkJ3E1WZVeEb9EKZ7eVkjsCZnUiLytYzWd1fxtHIqUcYrS4nxbXPWtllqDqqBr9XnVZf2sWAm/KUtjGn3A1O+98RrSIaFnotCyoezkuov/He6fj1ghtKzIUvZqymIgiyx9Jay+2VLykZDNfpCRCkirynPY2evoXTXoA==;m3CmHLRaFg8q7/4VUgR8rw=="
+secured: "wQXn/DgJtiM8nTHj8i/+OiET2QZls2s4pXRXxZwv/RJTVQ4l9iAkZDCaWNLN3vIo/YAGPOAL0b1lsD/OjW14LmGzwD98jVu5PJyhJ/0Zo2lSYu2ecPH0jGlsGLj8NDviM7ozIhMQ5r7U+q082q1m7jqZLB3TmHWi0iGITdNsSd0ifANBkEf3dUfO8q6nAoqF7IOrJLMbX/D2B+U371Usko9l7Tvk0YCdHKaIhVAeP6mAzH3IlXbLMesJBlUkk1GEia/aN9fYMdHd3bQWjPe1Ow==;ML6sSk3VQmfI3bn3kd9ucw=="
 ---
 

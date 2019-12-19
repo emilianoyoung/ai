@@ -22,69 +22,47 @@ topics:
   - AI Hardware
 
 related:
-  - title: "10 mobility predictions for 2020: AI, 5G, foldable phones, and more"
-    excerpt: "Won't you join me? If the Google Pixel 4 proved one thing, it's that Artificial Intelligence (AI) is not only here to stay, it's going to continue to lead the mobility charge. I'm fairly confident that Google will push to weave AI deeper into the fabric of Android, leading to improved photos, better Assistant interaction, and drastically ..."
-    publishedDateTime: 2019-12-16T19:57:00Z
-    sourceUrl: https://www.techrepublic.com/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    ampUrl: https://www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
-        width: 700
-        height: 525
-  - title: "Software predictions for 2020 from around the industry"
-    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
-        width: 640
-        height: 426
-  - title: "IBM Research AI Predictions for 2020"
-    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
-    publishedDateTime: 2019-12-17T17:08:00Z
-    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 43
-    images:
-      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
-        width: 1010
-        height: 1003
-  - title: "KYOCERA to Showcase AI, 5G, and Mobility Technologies at CES 2020"
-    excerpt: "Many innovations will be shown in the U.S. for the first time including new AI and camera-LIDAR fusion sensors for ADAS and autonomous driving; a rugged 5G smartphone, router, and tablet; a smart carbohydrate monitoring system; clean energy innovations, and more. Kyocera’s booth will be located in the AI & Robotics marketplace, Las Vegas ..."
-    publishedDateTime: 2019-12-10T16:29:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191210005775/en/KYOCERA-Showcase-AI-5G-Mobility-Technologies-CES
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.B529E3C9B96271AD1025D9175ADBF932
-        width: 700
-        height: 365
-  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
-    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
-    publishedDateTime: 2019-12-13T00:24:00Z
-    sourceUrl: https://finance.yahoo.com/news/deloittes-2020-tmt-predictions-forecasts-100000094.html
+  - title: "Deloitte TMT Predictions 2020: Edge AI Chips, Private 5G, Robots Become Ever More Interconnected; Previously Hyped Innovations Become a Reality"
+    excerpt: "More than 750 million edge AI chips will be sold in 2020 - More than 100 companies worldwide will begin testing private 5G deployments by the end of 2020 - Professional service robots will pass industrial robots in terms of units in 2020 and revenue in 2021 - Ad-supported video services will reach an estimated $32 billion in global revenue ..."
+    publishedDateTime: 2019-12-11T00:16:00Z
+    sourceUrl: https://finance.yahoo.com/news/deloitte-tmt-predictions-2020-edge-100000463.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/deloitte-tmt-predictions-2020-edge-100000463.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/deloitte-tmt-predictions-2020-edge-100000463.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 22
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.4F2928F581D9E07C8B06B440FC9F4832
+        width: 400
+        height: 163
+  - title: "What healthcare will look like in 2020: 6 predictions"
+    excerpt: "In 2020, artificial intelligence will face more ethical challenges ... consulting firm predict themes and global forces that will define the next 12 months in healthcare. Below are six predictions for healthcare in 2020, according to Frost & Sullivan ..."
+    publishedDateTime: 2019-12-04T21:49:00Z
+    sourceUrl: https://www.beckershospitalreview.com/strategy/what-healthcare-will-look-like-in-2020-6-predictions.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
+        width: 460
+        height: 460
+  - title: "Deloitte TMT Predictions 2020: Edge AI Chips, Private 5G, Robots Become Ever More Interconnected; Previously Hyped Innovations Become a Reality"
+    excerpt: "\"In 2020, we will start to see a canopy effect where industry players will work more closely together as individual technologies like edge artificial intelligence (AI) chips, robots and private 5G become better connected, and promising innovations like low-earth orbit satellites finally come to life,\" said Paul Sallomi, vice chairman ..."
+    publishedDateTime: 2019-12-10T10:43:00Z
+    sourceUrl: https://www.bendbulletin.com/content_exchange/news/state/deloitte-tmt-predictions-edge-ai-chips-private-g-robots-become/article_aad7cf90-cf70-58db-ae69-12c8b533a53c.html
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.8C6FEAA1808329FDFE26FDD2C2D6B14E
+        width: 491
+        height: 200
 
 secured: "WbIkZH5Vme9y7YdWHlu5N/zFTKc4TX3MvlSdR/bcZbWa/y7dgJaQE5WxWBJOn6s0MFk5YBPeIdWYdtl0deViCOmeFHFfHNUv5DlTV6RPzXAiSlx7CKHZKXDyA+9BT808U1QXErmLozVClY08IKgvlwGIfR9dRulDl1SlpGByLpANFuH7h76NqVs4+EwCMlxm+QjwHoc6+PtI6kGDxzW4ASP0a31n09uUTxgvZoJ5LuIJ/ttmcckEDecNTV9/4LRt/MRaJoNj583d1nZir19spw==;p0jORFYdIKCCqZHXbEqffQ=="
 ---
