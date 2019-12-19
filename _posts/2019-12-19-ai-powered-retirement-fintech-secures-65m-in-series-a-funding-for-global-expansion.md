@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
-excerpt: "Using AI and machine-learning, FlexPay analyzes billions of transaction records to reverse ... About Impression Ventures Impression Ventures is a VC firm focused on investing and leading deals in firms disrupting financial services (Fintech), raising late seed to early Series A round. Impression was founded in 2013 by entrepreneur Christian ..."
-publishedDateTime: 2019-12-18T18:53:00Z
-sourceUrl: https://apnews.com/d4ab5fd6df009f3b89d10e4ceb56cdeb
+title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
+excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
+publishedDateTime: 2019-12-19T07:18:00Z
+sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Associated Press News
-  domain: apnews.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://apnews.com/images/PaidContent3.png
-    width: 700
-    height: 450
-    title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
+  - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
+    width: 940
+    height: 430
+    title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
 
 related:
   - title: "Alibaba-backed fintech firm WeLab secures $156m in series C round"
@@ -67,20 +67,20 @@ related:
       - url: https://www.bing.com/th?id=ON.C77F8F89FB4FE5FB206C48D8D2E62185
         width: 700
         height: 428
-  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
-    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
-    publishedDateTime: 2019-12-19T07:18:00Z
-    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
+  - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
+    excerpt: "Using AI and machine-learning, FlexPay analyzes billions of transaction records to reverse ... About Impression Ventures Impression Ventures is a VC firm focused on investing and leading deals in firms disrupting financial services (Fintech), raising late seed to early Series A round. Impression was founded in 2013 by entrepreneur Christian ..."
+    publishedDateTime: 2019-12-18T18:53:00Z
+    sourceUrl: https://apnews.com/d4ab5fd6df009f3b89d10e4ceb56cdeb
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
+      name: Associated Press News
+      domain: apnews.com
     quality: 32
     images:
-      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
-        width: 940
-        height: 430
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
-secured: "SNrle8WMoOD8r3+KBIE4v1mi/REc7nF4wo6kTeiZPGW80IemDasZPZ1nEzz3ajW80LItDix8yW05YNn95WMSyFE6IUDTcgXSqPtEsEiQpS/0WerebcDoTuqBogt4JAffuaeMEBxf5RcZFC6QhJ0EWckUChT9cLIZXyPQTvpJQfj6N86MXqXL2+vRm248SWj9sRwwwDmoQhmOKTa/7SB6XgVhcDuz1S7JGyxqRF0xcSeL1XCsyWs+Flj2rJU9Y0hI/CVghQBXJhXMDmwhevzRmA==;mPQZh5ScWaI1+u21SLvzVQ=="
+secured: "UUSclSSTNoL/echiLSaRxHbb9pjAOdkl72bAWkNQH4H/i+xQjjwZX84de1NyXKNE72ZtUEAUo94LptqqVevlcRFEgFYe59oBtMHSaLpWFmHhJEQs+YFGhYFiwBGCglCiSCVtU4/Zdv4Wyq4sZPX9TH26imGuFOywnB0ZYu8T0JOnjXVDZrmvET4pEL7lBgqc+hRwc297x2Uwbs5dirMecheaff9wWaTR/cIh3X6lprUEPKPpbjlzjwMknHl8bchTY2fJw4ZIR8A52WWx5Z80aQ==;Ish26lfHAZH2B9oARayrtg=="
 ---
 

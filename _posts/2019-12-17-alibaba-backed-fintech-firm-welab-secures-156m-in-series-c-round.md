@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T09:19:00Z
 sourceUrl: https://www.techinasia.com/welab-secures-156m
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -71,6 +71,19 @@ related:
       - url: https://apnews.com/images/PaidContent3.png
         width: 700
         height: 450
+  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
+    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
+    publishedDateTime: 2019-12-19T07:18:00Z
+    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 32
+    images:
+      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
+        width: 940
+        height: 430
 
 secured: "TXbigRJuBwjlL6hyzXyFvvkFcVjUOZ7qCNtMHgontOdEp4FqwQNGAKytUH+ER0ImumM0lEDE5JxLN3W0lY0XlyAOVCBmYfiVLvCd1K/svZeMzhxJE8cBrr3aUG/1h1HSq26d1maAWCVnZ8I7sAnyJsTo7JfDvq44gectuJXVUvravMxfz9oPRY/88Ctgkw1ui1i1oKw4QkdFogk79lebbA3kRtLcDXX6YLtDJEy4uGwtBvoRPIIrwwCHKUTCnDJ7+9jrp3831W2WEonRcSwU9g==;jy7pgIL+fZKQHzN/wc2d8A=="
 ---

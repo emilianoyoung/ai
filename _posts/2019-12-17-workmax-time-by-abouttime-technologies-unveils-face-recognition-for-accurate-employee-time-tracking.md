@@ -23,6 +23,17 @@ images:
     height: 315
     title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
 
+related:
+  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition For Accurate Employee Time Tracking"
+    excerpt: "Payson, UT (PRWEB) - AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME’s face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify the employee’s identity ..."
+    publishedDateTime: 2019-12-19T06:52:00Z
+    sourceUrl: https://www.fieldtechnologiesonline.com/doc/workmax-time-by-abouttime-technologies-recognition-accurate-employee-time-tracking-0001
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 5
+
 secured: "tZQEMqf2xiEyd1fAHrT0mKX/1L6IZtXOCoNDsNh30zpCrQwJ1n3PwZzFf7TjQfkWhhQUh35e7Omd1pqLyHPSYfl1a1BGbPVXwLF5knvzdMGrEfEYdSekF38HvJ+IPFHewdRk3k/wR6xra2yQMsYuZWocFRT44zor+ou5XSDctdRFc2FXdEry7WYKdw9U9qkydiiK4Fc7q0WOljFVLfwa7jkU37PJnce7XqjMD1qPUUlbeVm0aB3k+AK0JNyUbGtaYtn34BxVI5NA0lmuznzwWA==;26C0ESg+XSivob4eaGYs7g=="
 ---
 

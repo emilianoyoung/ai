@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-in
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: ZDNet
@@ -24,17 +24,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-27T14:37:00Z
-    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+  - title: "Ottawa DeepRacer League – Start Your AI Engines"
+    excerpt: "it has been brought to my attention that five cars and five tracks are on their way to Ottawa. There is going to be an Ottawa DeepRacer League! About six months ago I was at a technology conference in Washington DC full of, you guessed it, US government ..."
+    publishedDateTime: 2019-12-02T01:57:00Z
+    sourceUrl: https://medium.com/@scottnlevac/ottawa-deepracer-league-start-your-ai-engines-f684b4d6b93e
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: Medium
+      domain: medium.com
     quality: 84
+    images:
+      - url: https://miro.medium.com/max/494/1*_cpV4IOzc-nb2ZkmCDgqoA.png
+        width: 494
+        height: 338
   - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
     excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
     publishedDateTime: 2019-11-27T09:30:00Z
@@ -49,7 +51,7 @@ related:
         width: 512
         height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-11-28T00:13:00Z
     sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
     type: article
@@ -71,6 +73,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "dGufEfqYfwWCJJuwE7JGPXleSr38we7ZY2ITHyJJYDW8XCCjocya0vne1ILpxrrlBFLhyOFVJ9/gbQccAuqstQVSUiEb8G6riwwDmZgqJJJxHGMHoohrMeHooN/4J8VQK47eibr/DA2bOAnQkVWLnJWJwH8Z7grUYG21CuwD5LVnNLl5ysB/Ke5h6TbTYp4uMoOlq1QFMSV3wYeceBw6giT1D7/3uohdl0iBkjnpePY4NmFIyJoN1aDX5UFwinYTavpSbpXwh6Al1bjZaqeSwg==;R/PMnhWPBoDBdohNbBkiwA=="
+secured: "SLDebB8nGWc3j1EVi0Nm+txmkgAWfkySEXECmkeAnvhIqJBA88OfdFrPn2VW5UC+WJvVVFiiI8WfghaXdZJQBFemSVVOE/Bd0lV8TsRna7l8Zo0TaGscX0RHR6rHuiEU/J+SQApMpsOapciE48y6JdVnetf0x4Fz5OjC4OKzBNnJJpXAyzOP79rQnMxnVxznHTdb96+isNhqELHxiMljklUA/+Dd3y7g8R/raRBPy9+Cp3QkrSGpwFoBTOtat3vfKaQYyXa9GHGnJ1CZpvyzZg==;3JUC9R3XOypPjeQ7fC1Ryg=="
 ---
 

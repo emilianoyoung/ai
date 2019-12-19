@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS expands DeepRacer league, announces car updates"
-excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
 publishedDateTime: 2019-11-28T00:13:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
 type: article
@@ -24,17 +24,6 @@ images:
     title: "AWS expands DeepRacer league, announces car updates"
 
 related:
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-27T14:37:00Z
-    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
     excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
     publishedDateTime: 2019-11-27T17:21:00Z
@@ -46,6 +35,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Ottawa DeepRacer League – Start Your AI Engines"
+    excerpt: "it has been brought to my attention that five cars and five tracks are on their way to Ottawa. There is going to be an Ottawa DeepRacer League! About six months ago I was at a technology conference in Washington DC full of, you guessed it, US government ..."
+    publishedDateTime: 2019-12-02T01:57:00Z
+    sourceUrl: https://medium.com/@scottnlevac/ottawa-deepracer-league-start-your-ai-engines-f684b4d6b93e
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
+    images:
+      - url: https://miro.medium.com/max/494/1*_cpV4IOzc-nb2ZkmCDgqoA.png
+        width: 494
+        height: 338
   - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
     excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
     publishedDateTime: 2019-11-27T09:30:00Z
@@ -69,6 +71,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "aK8L40quGeX1NjQGyFHmIlsUrGgxV+eyn1vTccJ1FIyzA9LqypFW7v8YOe6SZlLOtXSWdfZwAAazBQ7U6w0Z7G4V3u9jebYiWQzlP7HZB0nuIjCnUZCQ69bKpt/uQUsLPjmFXiV/rp35elKDxz/nsACPBfUDNxnWd8erHPlQj7AtG3U9zIUsvhyESvxJYtiUjRNHwh8OhdtVILrzL0i+yf1qgVxFesmUOWZL55A+iDUR5TdDCzXvkVyvnRW2dZf9XuPUoIPTwE/zvVK9A/GjyA==;sR7wPYkbqK1nK5dmykRS9A=="
+secured: "rjpVP8D0M7PDcJPqsUjnJo+DdSrfhcPik+0qnghHA0VzBP6fIS5SQUlsrp9mtqfUEI6DZjT2jJ/dQSrQ+7efacazt7x9aDd++uk9Y7Y7wpcb4tZubYTWAzoCf2S6mfemiRklq7+p6d9BqSm23GGO7lVm4br3WrdDpMcVaMYceUjAWyUcGCSg1P1F4QeQoeHk2+NMTbOG7XGP4PMDOAYwVlAqTr2+T2a0slVNFEC2iOGV3mT0kxxYfgsQhr6tZxaCPI9u7Gccm/7MARmX6AD62Q==;VjN4rlczghspgrUYRTr/4w=="
 ---
 

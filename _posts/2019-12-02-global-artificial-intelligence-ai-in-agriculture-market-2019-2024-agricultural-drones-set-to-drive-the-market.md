@@ -2,24 +2,26 @@
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-publishedDateTime: 2019-12-02T13:25:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive-the-market-1028729846
+publishedDateTime: 2019-12-02T13:19:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
 type: article
-quality: 43
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Markets Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+    width: 800
+    height: 419
+    title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 
 related:
   - title: "Artificial Intelligence (AI) In Healthcare Market Technology Advancements and Business Outlook 2019"
@@ -427,6 +429,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "ESD6+cqDdVn8O67jLrS5+fU9+7/AZFaiV8kYacCV4VsWP0RC20ylmOGoMHgBDRrWdoKKHRdwxYvdLAnIRG/GVbEstoaw7R6AeTxZiK64t98ZheA9Mhdma3spCDrj9nlVth/jL9nPVskIQFbaqKHpNG8ys+nKgLvTE8V80snH/rjI08dgX866S8ZM3spgq+ZR4xMVTdAbrP1U5ZSvseAooVIqSrtTdQrS+GMEX+sSsN5L6uxS6yHqYKNdLPMI62PEUf1MrKDbktUZjWNDtr2vtQ==;V1Cw2TlF76d2pAbzsCAbow=="
+secured: "P2jHoaxUvk0K48Q8Ul8BypZtitnj4hH0IK0sTMnpMwY13xZFZ+amkLlemRGoD7/X0jZXh1Z5TQLIL2825MED3l9om7/gRT/xjOzQ4tve/iGtCAeVp21bBN5reUG15ACFFPWvKdMGuoHiF9rJPWv6z8W6boIdvXgY/kGMTaHRJU3sJwaUUXToWLfb18Q/0iWhsaLqE6FMV/eeGTYRDzKIBY0LWVy21fOL19uyQ+e7DtsmYPFc1t19PaVp8BrTjVfeumi27Wllaf6+t6fLXr/5tw==;hkvE2a5f5dLWGY8gjpFUPg=="
 ---
 

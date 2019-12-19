@@ -67,6 +67,19 @@ related:
       - url: https://apnews.com/images/PaidContent3.png
         width: 700
         height: 450
+  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
+    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
+    publishedDateTime: 2019-12-19T07:18:00Z
+    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 32
+    images:
+      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
+        width: 940
+        height: 430
 
 secured: "xrEh5d3RzHiJzhZoCVvhVYh09/2fkW+0SKRYTmguOP4VoUelg5TDeUJamHFS7srOvuH9aNAV4CemxkJvZFPv9wWd+MetV/y0VZIzkJh3j8w79cZzJ9NKXtvNQq4BCriC8ZxL26eIJOS0msEy/p4fOH8nBDtFNTOI1add4jEH0MtLwzZxQsX81OFPMN4UfKP4pR7dWG544FLarafxfldezA3mzrPr5aUKJyBvUqP4TBwQc42U9PYlN27uUdXvOWiLqokR92mwPBhnxkzHw64m2A==;5E3gdGTYfWy68BchsUtMsw=="
 ---
