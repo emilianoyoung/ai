@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
 type: article
 quality: 102
-heat: 202
+heat: 212
 published: true
 
 provider:
@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
         width: 700
         height: 393
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T08:04:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
+    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
+        width: 400
+        height: 518
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-17T05:34:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
-excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
-publishedDateTime: 2019-12-09T05:43:00Z
-sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
-ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
-cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
+title: "How can healthcare achieve real technology driven transformation?"
+excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+publishedDateTime: 2019-12-20T08:04:00Z
+sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
+ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
 type: article
-quality: 65
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Proactiveinvestors UK
-  domain: proactiveinvestors.com.au
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
-    width: 700
-    height: 323
-    title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
+  - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
+    width: 400
+    height: 518
+    title: "How can healthcare achieve real technology driven transformation?"
 
 related:
   - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
         width: 700
         height: 525
+  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
+    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
+    publishedDateTime: 2019-12-09T05:43:00Z
+    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
+    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
+    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
+    type: article
+    provider:
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
+        width: 700
+        height: 323
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-16T14:00:00Z
@@ -65,21 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
         width: 700
         height: 393
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
-    publishedDateTime: 2019-12-20T08:04:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
-    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
-        width: 400
-        height: 518
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-17T05:34:00Z
@@ -166,6 +166,6 @@ related:
         width: 1200
         height: 448
 
-secured: "WF0ZNz+OsHcwSaXacUTaKBXSqvFRZoJjTGeGVIGiDTE6MOfqSYwuqwl4fpsfH549fMEk+5B3q3cAyrZECAVzhohnKhacbS7KZOZ8vhMFwfKP6hXAJUBho+EsBlj/WoNuRaJUzZbuaCavovifnQW7zli8wxjrMHzOJ70ZdmWuF0W1XTYZ/s0Lz47CDPteX34DjK99QZBbyoDSTaKBnN0yjNIJB5KBI+yl37vuHNLwETBbtbLl5GTLt/9AUqjkqZf4a8aObByc8K8FMVNLMVJUOg==;WOsnQVDN7u8JwJmiJmCv8A=="
+secured: "IHP/A5Bn2fp+mFLTCT3NDa614beSMFmgwV/RiItQ73Fuab9TjnDInOs0feSCQE449arYngnK86fhmnng/um+jUsmzkEIiX6u4V7yHpkz3FntNo7EyVvDbpRbw8sv2j7uaskqMwymHqRE/w/Br9SctP4HDV2KR7PoRXixwOLEUhfYDw+EDC33XwQ69iblgGwPS2Ipak5760KBuS/NOpbkUC8g1Fm1qRLiXmTVezgGcI5gQ1XYfm7EA+fpTTcONBLS2vwuDVecesRUjcnVQ+0w4Q==;FfpUdbPZi5lgfbIfoioGQA=="
 ---
 

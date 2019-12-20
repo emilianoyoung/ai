@@ -78,6 +78,21 @@ related:
       - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
         width: 700
         height: 393
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T08:04:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
+    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
+        width: 400
+        height: 518
   - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
     excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
     publishedDateTime: 2019-12-16T09:09:00Z

@@ -412,6 +412,21 @@ related:
       - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
+  - title: "Government study finds racial, gender bias in facial recognition software"
+    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
+    publishedDateTime: 2019-12-19T20:33:00Z
+    sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
+    ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
+        width: 645
+        height: 363
   - title: "Wear a Mask, Bypass Facial Recognition at Airports!"
     excerpt: "Then there was also the infamous story of how Google’s AI mistook a turtle for a rifle! With reports of how AI could reproduce another person’s fingerprints and reports of how scientists have been able to subvert voice recognition using laser rays, it appears as though biometrics too cannot secure our digital data. Does it mean that we go ..."
     publishedDateTime: 2019-12-18T02:44:00Z
@@ -1062,19 +1077,6 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
-  - title: "Government study finds racial, gender bias in facial recognition software"
-    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
-    publishedDateTime: 2019-12-19T21:03:00Z
-    sourceUrl: https://www.msn.com/en-us/news/politics/government-study-finds-racial-gender-bias-in-facial-recognition-software/ar-BBYaEwY
-    type: article
-    provider:
-      name: The Hill on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
-        width: 645
-        height: 363
   - title: "Facial Recognition Turns Out To Be Not So Great If You Aren’t a White Man"
     excerpt: "The National Institute of Standards and Technology released a report today about the accuracy of facial recognition software. The news was grim: most algorithms make a lot more errors when the subject is anything other than a white male, which means that women and people of color are more likely to be misidentified. But this got me curious ..."
     publishedDateTime: 2019-12-20T01:31:00Z

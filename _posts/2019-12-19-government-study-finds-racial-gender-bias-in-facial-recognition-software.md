@@ -2,16 +2,18 @@
 category: news
 title: "Government study finds racial, gender bias in facial recognition software"
 excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
-publishedDateTime: 2019-12-19T21:03:00Z
-sourceUrl: https://www.msn.com/en-us/news/politics/government-study-finds-racial-gender-bias-in-facial-recognition-software/ar-BBYaEwY
+publishedDateTime: 2019-12-19T20:33:00Z
+sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
+ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: The Hill on MSN.com
-  domain: msn.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI
@@ -1334,6 +1336,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "MwYYhUAgbchz+NVw4ZE+sIH48yPSEzDQppEQLWP/zL3JAHeFwpY3YnpMf4mUN/jax/oXDnhPOgvDStOdDmVFFiJubbRWTM0eD6U6rbqnrcEQk+E9IvubQlAFACt4CznTGyb4rvur/MGQsfitjdaXWSv4MF7V02HMszLF2IUcMwJejVjfAUp5gwkmwuCHmKZTAebjy08BFYEf1tXh8Pda5admeoAXKP09SE42LIZbqubCNaYwxzTUvsVMEht+D1TMKl+389GoE9F1X3L4OteDrg==;47Yjt3QBKxmnEN/OEbc07g=="
+secured: "U07OMhXxu2QEjMQM4kZZVJACTHcwXBQVkOGHPL/MMS1FbsHUoLbuX40Xd4uHp8lLgu1DwEcykoiFvLepDcOkIEIUp2aESmy0OI2BEADauGspuNrDYn27nqpMCfBd3vK92NspkeaX+tM2v4xjlQdEaVCs5k+FPvPpy8b2nZelEQXwSeN9q0cDwVBkwmP3zBoxhkVlZjjYYEhDUyoXrSAp3yk6tS/+ht+tkgO5oNSOERyLffJ0WlRx4Vnyz4LbbJ+uCeEI/X+7AGJjd2ctWxZ01g==;eAu0e0MxTal0e+9FJJkAYA=="
 ---
 

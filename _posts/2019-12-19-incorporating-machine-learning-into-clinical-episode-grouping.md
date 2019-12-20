@@ -23,6 +23,17 @@ images:
     height: 366
     title: "Incorporating Machine Learning into Clinical Episode Grouping"
 
+related:
+  - title: "Incorporating Machine Learning into Clinical Episode Grouping"
+    excerpt: "That's why Certilytics built CORE Pathways, which optimizes data for machine learning and deep learning, empowering our customers to: Identify, report, and benchmark cost trends, provider treatment patterns, condition severity, and health outcomes across billions of member records. Standardize and aggregate raw claims data to perform analysis ..."
+    publishedDateTime: 2019-12-20T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/incorporating-machine-learning-clinical-episode-215600171.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
+
 secured: "Ih2lNAA9JO5Kvaet4s1EIP380t/THRRmPz9Rh122SAZHI6e3dQDb4MJqhgityRVU4BvO88/pR3m7MZHDIzreH+0C1wVlD70z1KQEbNnVCHmjuVDQS5+xXunCCfLQDpTnpfJ1LyGxhfl3gjp6A6MoWzzAaHyJRxFwXwAQFnA3WYHAtz+1gIIJqz51bPTR/bBam1LI9biSLgtpv3YCskuWbPEeVzI4+Pnc4r4LBY1DG/5aZ3s3z+4PsYxX9d3r67LlhPlStEZQIw5dAogU+8H1JQ==;z8nxGBKCCzQV2O4BHSkHSA=="
 ---
 

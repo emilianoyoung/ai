@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/11/30/self-driving-cars-were-supposed-to-b
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
       - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
         width: 700
         height: 393
+  - title: "UGA researchers receive grant to study self-driving cars"
+    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
+    publishedDateTime: 2019-11-26T13:04:00Z
+    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
+    type: article
+    provider:
+      name: The Red & Black
+      domain: redandblack.com
+    quality: 4
 
 secured: "Vzmw66zwbuikPDQ7ZIYHxdmEH3SAUmdW60m2Tyqyau2eivw5X2p6atTnja2EcTzaNLe7ZVjHt9kp9qKrVOaeMflBTN0XJlIaU4+2Tqw4YTlG0FDYx/6rxvEYoTO9+f4WrNtlGcErdZyEK+3urgMK2Yt1rnFvAXrCg++zun3ezJeufxv24eDqA9HyxDGUoZDoGzXxVztqk1mzwQS4PRSF87fhlAD1btykqOmXLYAoG/MR2r83AcO03sMP1XQp2HJqlpq3OkrP6myiC+fApYrnBA==;4kglTzb5/ooehSZNBNOcqQ=="
 ---

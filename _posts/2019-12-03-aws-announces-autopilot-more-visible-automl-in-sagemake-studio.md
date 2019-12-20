@@ -2,15 +2,15 @@
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
 excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-publishedDateTime: 2019-12-03T19:27:00Z
-sourceUrl: https://au.finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
+publishedDateTime: 2019-12-03T19:18:00Z
+sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Yahoo7 Finance
+  name: Yahoo!
   domain: yahoo.com
 
 topics:
@@ -25,20 +25,20 @@ images:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you have no idea how it was built. The idea behind AutoPilot is to give you ..."
-    publishedDateTime: 2019-12-03T18:35:00Z
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    publishedDateTime: 2019-12-03T18:32:00Z
     sourceUrl: https://au.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
     ampUrl: https://au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
     cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
     type: article
     provider:
-      name: YAHOO!
+      name: Yahoo7 News
       domain: yahoo.com
-    quality: 74
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
-        width: 700
-        height: 466
+      - url: https://s.yimg.com/ny/api/res/1.2/eNhrNpu9lmfXQn.3bmlqsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
+        width: 1279
+        height: 853
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
     excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you have no idea how it was built. The idea behind AutoPilot is to give you ..."
     publishedDateTime: 2019-12-04T00:04:00Z
@@ -52,6 +52,19 @@ related:
     quality: 74
     images:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
+        width: 700
+        height: 466
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center market by selling $250,000 Outpost racks. This project is being overseen by Amazon Sr."
+    publishedDateTime: 2019-12-04T02:22:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.09130902963B03403B5903EBE0A7231C
         width: 700
         height: 466
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
@@ -68,6 +81,6 @@ related:
         width: 512
         height: 512
 
-secured: "i2Qop0LA/cVgIOg5Klufn37zTHxbPHlJc9QWJOUvZHmE9oC6KWPXuw2j3R0wZ8emMI4VDbEagKgfaP1RF6A8zeHMWl0Um/JbdicE+Lk/X36VkxLTfpF5N/d+/L15XCP5lV3NdvJvXV4nMPw9X+vnOJcaw7+F2nkaiLRmmjI3GlIApLztujQls1tCoV25HHeYSoeZD+1egbk1e6fZr1LltdlxgbVDxqaa+I/kQLPC6fSgiMRY18IBof0Rr306GFbzAbMXY4OFaeunIJ6LkLmY9Q==;nTT3by6L7eW2SDvGeg2oSw=="
+secured: "l6GTn1cd6fDbkzlKnusg3dVoH16bnqlK1eeCbAyv0f3DEKX4k8cpHzAHDlEB9zvjoUp8+JiYlOUFphHuUojQjcWpEpKxizhqymlY340akF14RZkbBnXecPaHk6ZNajmq80wgzJ0qBYymzUtd6sNyfYebEWeycZEW7oh5hVmQHNFRGA9QZ04wqBGh6/ZWdmzXKtnWmmPURcnbeqS+q2fjGrmWPhszKbee3TaN19T8RuBkcvnWY+D27avbZek26BkVGgnshgMBoYKeHaX9uFpAww==;U1phPmDp7i8izNkqpWR2jw=="
 ---
 
