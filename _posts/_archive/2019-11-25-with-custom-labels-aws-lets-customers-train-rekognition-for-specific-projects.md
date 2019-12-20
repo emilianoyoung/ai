@@ -54,19 +54,6 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
-  - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
-    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
-    publishedDateTime: 2019-11-26T16:35:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 41
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
-        width: 589
-        height: 558
   - title: "Amazon Rekognition Custom Labels"
     excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
     publishedDateTime: 2019-11-26T03:02:00Z
@@ -79,6 +66,6 @@ related:
       domain: pymnts.com
     quality: 39
 
-secured: "TtYzmDxvZPmMfbea+U9/HgvmF1NIBQbUDRU7PghDLirR1D12NQEGw2z29n594BO49uDTlLUtwgYzfU6mkKdGFI8TZm1Oq03PBASFIm6w3zEl/xYEnBFUreG/BNlHrN573Mk6PbIEE9tahjc6b9OKqIvPcj17uJRAaDTEOhc16ITI3hOeMWpjCO6iFbYSK0uMJ08SfAE1L4zemqT6Cu44HqRJZrVg6OrpU54zA8+EsYcrOLSeTBMjUb6IeYXB2iG0xThyEgUUttlqU9W5AfL1ug==;dt2wLuS/zRIfwVN8sIWs/A=="
+secured: "Faha4A1aZMDdCfDlTOwSulF+7lyPAd3iJanWdCaboTiK8rTH+GwJFoq5ndG65NxfgYGvOasirmUWQB0LG9XGDqLj2ER2k2CG5WWa0v7yMPSivOHggIeBTTvXQ8VDPaBtGexxFL+nGwFSVl2dHfokBhfAfzLb5gpLodnLkfkfaMXzCL+0/UppvzcSk02xDj9N/JS7JeN7pdsl12uL0qH9RJ1cuK1bfva1Et998hh5o7uA2U0sRk8gptaweQXJomb0Q+h88BGuyH0Uy3UUiCayqA==;UqO7e4APe1oPFkHy6+zI5w=="
 ---
 

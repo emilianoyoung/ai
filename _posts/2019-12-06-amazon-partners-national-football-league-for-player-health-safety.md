@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Amazon Partners National Football League For Player Health, Safety"
-excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-publishedDateTime: 2019-12-06T15:34:00Z
-sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current ..."
+publishedDateTime: 2019-12-06T14:34:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/amazon-partners-national-football-league-for-player-health-safety-1028744475
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
-    title: "Amazon Partners National Football League For Player Health, Safety"
 
 related:
   - title: "NFL turns to Amazon for help addressing player injuries"
@@ -62,6 +60,6 @@ related:
       domain: telecompaper.com
     quality: 31
 
-secured: "Ii4koK06GnLAcKNRDJa6tvBcbzRzn4KQFemp+VbXN+iZ2M+5k5hGNuelUktU9hJ5+o0fiAOfpsgRoJ7hyrmZ1JzIVO7qa55FbglDbsbUmPQY+vRPqLyMZ2PlhPGPpWjtCxBiprgLQ4ebpayy6Ml4VYTGCPNMiGFACCqMKmlX95KBOZaDXM7+dyn/WNCskIliYisaL7EDnGop8MfT2kxYkfa9/QKF7LrW9HSSOSDxGNQzD+koTvV9z1OFHY8E4pSEFmT55oz+RXF9glffUW9g1Q==;qpX8kJCNt8ckBaWXlGLH9w=="
+secured: "IRR5NRw6hZOLI5t7QCorsLh9zKmREpd+zSl+ldVhpb6kIQcE1nmqlJu+sSONanXbsyWgsybXbK8MabLNLjBUWne1z13mV9I9zA7Gun/vND6yLQUBr083jDo0EsM44voCnCTDHYRCFqa1A9PzPqBbiKni1OZOxX9s57G0ckt/Hq3/thaL+YAlnD7dI9REKbRmY9IpGksSfQ8est3IFC9+P0QzUYsToe2v5RjiI2Ajf1xJ/RJP8B50pfpiT08/DbOKMyM9nhQfZTFWlcTcqAUXwg==;W/F2D7s9uzwUYblE79Cbaw=="
 ---
 

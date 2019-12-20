@@ -1,0 +1,28 @@
+---
+category: news
+title: "Attribute driven inverse materials design using deep learning Bayesian framework"
+excerpt: "Here we present a deep learning inverse prediction framework, Structure Learning for Attribute-driven Materials Design Using Novel Conditional Sampling (SLAMDUNCS), for efficient and accurate prediction of molecules exhibiting target properties. We apply this framework to the computational design of organic molecules for three applications ..."
+publishedDateTime: 2019-12-20T10:32:00Z
+sourceUrl: https://www.nature.com/articles/s41524-019-0263-3
+type: article
+quality: 34
+heat: 34
+published: false
+
+provider:
+  name: Nature
+  domain: nature.com
+
+topics:
+  - AI
+  - Machine Learning
+
+images:
+  - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-019-0263-3/MediaObjects/41524_2019_263_Fig1_HTML.png
+    width: 602
+    height: 685
+    title: "Attribute driven inverse materials design using deep learning Bayesian framework"
+
+secured: "2B0IKSJz0iYJdDep4KqNStCnYFat0E2RFGdLEFJt1do6TS4EaqdOQ+Wy4BuL2b22fmcoXYcmrqEtQ0D6r7wfeVWClAmtMpxeCbX1EWl68jDnZg37McE1nnsJcojLE6TBnf3HpVnHHFvPEJTf57YE2qOJuDvl+mgllfSnr084bcL6GlzGUXnJx87SBaB7tFN0qHHiWpIHLUc/OMvlvvZ9wmQOz63abhg69EqRi5C4LO8gjY+BS+8sVvvTAqGhIehsMrnLXxKtrni9pwmkh18uzg==;vF4Sh2Wn/MlOyH2EV8fJvw=="
+---
+

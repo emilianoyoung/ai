@@ -28,41 +28,19 @@ images:
     title: "Deep Learning Chipset Market Still Has Room to Grow | Emerging Players NVIDIA, Intel, IBM, Qualcomm, CEVA"
 
 related:
-  - title: "Artificial Intelligence Chipsets Market: Rising Popularity and Emerging Trends"
-    excerpt: "MARKET SPLIT BY PRODUCT TYPE AND APPLICATIONS: The report segments the Global Artificial Intelligence Chipsets Market on the basis of Types as follows: Deep Learning, Robotics, Digital Personal Assistant, Querying Method, Natural Language Processing & Context Aware Processing On the basis of Application/End-Users, the Global Artificial ..."
-    publishedDateTime: 2019-12-19T18:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-rising-popularity-and-emerging-trends-2019-12-19
+  - title: "Cloud Based Video Streaming Market Still Has Room to Grow | Emerging Players A-frame, Amazon, Haivision Hyperstream, Microsoft Azure"
+    excerpt: "Some of the Major Companies Profiled in the reports are A-frame (U.K.), Amazon Web Services (U.S.), Encoding.Com (U.S.), Forbidden Technologies (U.K.), Haivision Hyperstream (U.S.), Microsoft Azure (U.S.), Mixmoov (France), Akamai Technologies (U.S.) & Sorenson Media (U.S.) etc. Acquire Sample Report + All Related Tables & Graphs of Global ..."
+    publishedDateTime: 2019-12-20T09:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-based-video-streaming-market-still-has-room-to-grow-emerging-players-a-frame-amazon-haivision-hyperstream-microsoft-azure-2019-12-20?mod=mw_quote_news
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-    excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
-    excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
-    publishedDateTime: 2019-12-20T07:52:00Z
-    sourceUrl: https://www.openpr.com/news/1881970/artificial-intelligence-market-status-and-trend-top-key
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "YS8V9TkVNRmblzj1+jk6VetFXSrlNHmWu2a6gtusUdXkoLjVrZ9odhyScdt1VO7NrFzONRQjuLM3Z1GV76MwJevyrwVm120bbFW/3MBDQmGLifl9a3TxDW/i5j5zpn+uF8+CoHTihQdmTKe0/0GgNIA19nPMI+/3hrNrwk6x0ypH2xmdugjYtDI8YPGupqwtvclbBBsaH3uhIlStn0hCKwqCZ19WACtNsInM+PWdySzd7JycicuCfH4II9vIAuuvYHVfuv7dIsbderYBf9AarA==;3sIWikv7vn4yc7OrTZQJRA=="
 ---

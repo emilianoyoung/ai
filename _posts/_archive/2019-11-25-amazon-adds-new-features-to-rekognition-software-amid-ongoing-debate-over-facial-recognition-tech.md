@@ -58,19 +58,6 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
         width: 671
         height: 386
-  - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
-    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
-    publishedDateTime: 2019-11-26T16:35:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 41
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
-        width: 589
-        height: 558
   - title: "Amazon Rekognition Custom Labels"
     excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
     publishedDateTime: 2019-11-26T03:02:00Z
@@ -83,6 +70,6 @@ related:
       domain: pymnts.com
     quality: 39
 
-secured: "JWY/uevqlmG26b8110oSgukNM4JbEhicRF2+bWud/42QlEfShGfNBMy2z9ucgdZg08wopBD/vP0PgjFsxb/LGT+e5eFJmBXZIlHkyAfZWeF7Yl2xNWQrdcxyJoKPJliOAzYdf0Xq6oHqfPg9OSBGBZeLXGk03rPDoaOkrOLNd9++YVTk+bVlsgeWaAiKDKJ5IBI0uc+cr/0oCbi86W78M1sgTQWJb/J/w4Ce+m75mdWhGYDeWeI5oe6wujOny19/WzGa0uXcmVILXOOc4P8hBA==;rwthjUpb7RzLM44ca7Z4fQ=="
+secured: "aIL1n0m/+8kaI2PYL0hTrMAz+Zu1LSNddTAhkgnwnAgzkDnehTdiV6GN7kN66x+IpgADtbz1ukpGRiVk6fVjdmWK5Icm/e0ACqoM48zdO0Us7q4T8urXkH+aqWGD2V+7Lq0MDI2hJZCAdvXsabwGiuBu5X0SrH5+9JBAjKrPo/HlZ36lUgjef2wDK0YVhRIL7x79ZUEcZZUYGuQFl/sy2L196TwuoDLRiNnTd7o1TyEeHbhlwMyPcfW8G6/VhkBuh38auLxewVy24He6BRsWoQ==;GTC2NgCmLGC0lRf6NSkbiQ=="
 ---
 

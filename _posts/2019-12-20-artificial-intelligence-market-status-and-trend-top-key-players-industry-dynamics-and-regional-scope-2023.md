@@ -31,15 +31,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Chipset Market Still Has Room to Grow | Emerging Players NVIDIA, Intel, IBM, Qualcomm, CEVA"
-    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Deep Learning Chipset Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors, attentive opinions ..."
-    publishedDateTime: 2019-12-16T09:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-still-has-room-to-grow-emerging-players-nvidia-intel-ibm-qualcomm-ceva-2019-12-16
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
+    excerpt: "Dec 20, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-20T09:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2019-12-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

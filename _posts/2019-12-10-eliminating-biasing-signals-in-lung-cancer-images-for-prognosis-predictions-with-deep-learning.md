@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C6F238B479BDF6285CE501864B8C5603
         width: 600
         height: 315
+  - title: "What is Deep Learning? Everything you need to know"
+    excerpt: "That means taking in data from the world around us and forming ideas about how to optimally perform tasks or understand new information. Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information ..."
+    publishedDateTime: 2019-12-20T10:00:00Z
+    sourceUrl: https://www.techradar.com/news/what-is-deep-learning
+    ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
+        width: 700
+        height: 466
   - title: "Become an AI-enabled business manager with Great Learning’s PGP in Artificial Intelligence for Leaders"
     excerpt: "Over the last few years, Artificial Intelligence (AI) has been emerging as the most transformative and significant technology, with recent advancements in the field proving to be a game-changer for several industries. In the coming years, proliferation of AI is only going to increase, with businesses tailoring their core processes and ..."
     publishedDateTime: 2019-12-11T12:48:00Z

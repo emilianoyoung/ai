@@ -40,18 +40,14 @@ related:
         width: 700
         height: 525
   - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-    publishedDateTime: 2019-12-06T15:34:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current ..."
+    publishedDateTime: 2019-12-06T14:34:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/amazon-partners-national-football-league-for-player-health-safety-1028744475
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
     excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
     publishedDateTime: 2019-12-07T00:09:00Z

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "AWS beefs up SageMaker machine learning"
-excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
-publishedDateTime: 2019-12-06T00:00:00Z
-sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
+excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training, and optimisation to monitoring the performance of models in production. Launched at the Amazon’s ..."
+publishedDateTime: 2019-12-06T04:49:00Z
+sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
-  - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
-    width: 800
-    height: 500
+  - url: https://www.bing.com/th?id=ON.C4ABF858833B93FD4142DDE6C62C62B2
+    width: 700
+    height: 437
     title: "AWS beefs up SageMaker machine learning"
 
 related:
@@ -259,6 +260,6 @@ related:
         width: 700
         height: 365
 
-secured: "ZaJe3m+ltE6V8f8tvLliOTj8mc0iDpSlo6zkG6cIJd7U+DgO4wx4mz62bhcgis2NAa0RZTFoUt+tLZPVPj6saQ3wvocVMm1i61ZFAm7Q4HBQqAHMYq0xFQqkoE3TVe389zXGAUvMJJA0cgX/YOlKVJD8/D5PvMxO66dXuQ1dzSoJzBi4WmQnQ6tSywQCpmn6NruShKjhc8q0vfhFBomB8eMfK7nYHOdfg5zLukcQe+nugEvgJa+RzlB1hpTU2cU/P+TWpDnPjsHJedeMFtjdIw==;3WcnLQGod/XoT1HFq5hgnA=="
+secured: "PG3876K/LjhDpvZiLRhbTnZjiHd0Gntzb76JrCw9GbNuLNaIptbZkd0ahil7T5yqj9ofgl45Wf5pqdnO3Idw5X6oLfJ8H9nQ4W6GOu3rkiWdk53LgiBQeR0vHzIyNJIrYEUbsfwJzzUfN9tqxy8MJCWi7ePaMiF+lQq/cqbpElK6A7e/1ZHCDVaXAHo6WhTfhyBignfoWHJ5uG+3kyg2iQ9zxWPmVrvdgfPfTuGgSbldVoynQZawZX19zmQLX76eNXuAxgagujRQHvmkDh4MIw==;1TtdWSGbnS813jI4xXFCKw=="
 ---
 

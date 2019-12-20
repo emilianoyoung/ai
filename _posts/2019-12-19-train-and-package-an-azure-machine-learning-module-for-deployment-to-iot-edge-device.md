@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T22:52:00Z
 sourceUrl: https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/
 type: article
 quality: 64
-heat: 64
+heat: 66
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
-secured: "kPwKF/YRYMimcuJC7cF4t6LW8YI2J4pwoPqFbDgsqwYUYC2gHycfc4xrYvj0G/ig75Ms/h8ZKBWS+V/TiCoIxGJDIPB5V/PEWJwsCGHElbHj5AQXCqdJ8FiflNraAYUPu4IDDWEn3mfwucTltDfjnXmw6pOQXxIndXED+5OAChcyUIZVUilkfw5Y/hDB+IHj9XmhSGLN+kQRVRpskgA6i0Wr9zzrWeoci0uLStO96yG5oM+uv+BXDr17MMRv1kAepsZPS1A3dFWsl3n2xxGSwg==;HuYOpiktd6BqAFVOAhqsVQ=="
+secured: "GbjTY3QuyZIpq1qKjLKBb71ofNfleboKmwpbMlB+RJNiks7KJusRqNGW+4h1xF1qJJcF+aeMpIu8i9KtTE4kB9m0TaswG0ftilaHuUvxlqdXV5o+XvlbQBv/S+UQaVhQfPzJ+W24+nhWWKnkAfmbN5CcFT+mR8kMjlf7g4HCx3UZCqJhldYZII4D7oNKeiPCuTKN5Ni6N3sCXTMNOUUxlObmHpdPQk7k/TLAwcru4pcFnL+emhzJh5nhjj+W70+1FeTOo9vSTmAWZLjkIEGhbw==;uTA4YHTSWBcevhRsPEn77g=="
 ---
 

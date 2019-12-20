@@ -3,26 +3,30 @@ category: news
 title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
 excerpt: "For instance, by using IBM Watson artificial intelligence and business analytics solutions on the IBM public cloud, Grupo Piñero will work with client data to better understand traveler behavior and offer guests a best-in-class service by creating new applications. Grupo Piñero is also adopting the IBM Cloud Pak for Applications running on ..."
 publishedDateTime: 2019-12-19T13:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/grupo-pinero-adopts-ibm-cloud-and-ibm-watson-to-deliver-innovative-travel-experiences-300977562.html
+sourceUrl: https://www.marketwatch.com/press-release/grupo-pinero-adopts-ibm-cloud-and-ibm-watson-to-deliver-innovative-travel-experiences-2019-12-19
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 62
+heat: 62
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.630770D6AFB4E5A28A438E3CC9C05A1B
-    width: 700
-    height: 366
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
 
-secured: "pMjSEaY+M+O4wmbioJd7+3oe7xoGvg8ddKYWRM6mx2n7/tjn0QoRJMwg7aGPg43ft1rZ0ETSTgX97fMI89y9SwJQGq5z2L5XHagw5mtNNn8H2g/+bLYq1YEYjO9BIHQ7//j+Cbs62Q/vCcMW04fN1ARmqje/9eh/ptIgivIiYGinhA5HIYKqL+MibKesARpyxr3fV8dT2i1SGTJndbKbSx0YtkuAgBZPY/vwAJ84m5OvhmDVBL1pxP6oneYGVYk4UWihJzlpiI/KDTqmux9eZw==;OSyVL3PpVNF0D61BP/cPMQ=="
+secured: "i1u8Nh9zIHFhFeY+A1N9G1lXdeOdNudIvvvteOOwXkVOOQ+O4poOpaOSUQHsWNUCujFCJK1XnoNmlSAbKGkXOXvoyez1FNFPt2vWOMdtj8swBQUASdC0ghtUs6fjx1cSf1U2Ym4HONIDhqgdpBwi1ink+tVNuWnKrJcNjLhX5Z2BzDSCAUCV8HgskfeGDPER1RAQRvsxaWZWRE8E2jONhfAxb7dB4zZiMuNv4RsOnAA8yjuadOOsAKQy9kOwq8LJ223oyjO6YhlDMCorivuMVQ==;apTXno4zyYLoCPAxj0+OUw=="
 ---
 
