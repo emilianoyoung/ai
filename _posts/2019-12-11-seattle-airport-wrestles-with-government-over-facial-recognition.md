@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AA7565A68A8E9EFA63AAB0BBCC0BA70D
         width: 700
         height: 366
+  - title: "Facial recognition fails on race, government study says"
+    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
+    publishedDateTime: 2019-12-20T14:55:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50865437
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50865437
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50865437
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 174
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
+        width: 1024
+        height: 576
   - title: "75,000 people call on Congress to ban on facial recognition tech"
     excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
     publishedDateTime: 2019-12-16T16:30:00Z
@@ -303,21 +318,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
-  - title: "Facial recognition fails on race, government study says"
-    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
-    publishedDateTime: 2019-12-20T14:55:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50865437
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50865437
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50865437
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
-        width: 1024
-        height: 576
   - title: "Sea-Tac airport officials opt out of using facial recognition technology"
     excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
     publishedDateTime: 2019-12-11T11:57:00Z
@@ -777,6 +777,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
         width: 700
         height: 464
+  - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
+    excerpt: "Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias. \"This study makes it clear: the government needs to stop using facial recognition surveillance right now,\" Evan Greer, the deputy director ..."
+    publishedDateTime: 2019-12-20T20:50:00Z
+    sourceUrl: https://abcnews.go.com/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+    ampUrl: https://abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 47
+    images:
+      - url: https://s.abcnews.com/images/Business/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
     excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
     publishedDateTime: 2019-12-10T19:57:00Z
@@ -792,6 +807,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T20:54:00Z
+    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 45
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
+        width: 1904
+        height: 1428
   - title: "Federal study finds racial bias in many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z

@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-r
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,17 @@ images:
     title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
 
 related:
-  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
-    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
-    publishedDateTime: 2019-12-16T05:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
-    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
+    publishedDateTime: 2019-12-18T18:35:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
-        width: 700
-        height: 350
+      name: Engadget
+      domain: engadget.com
+    quality: 54
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
     publishedDateTime: 2019-12-17T18:55:00Z
@@ -60,45 +56,67 @@ related:
       - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
         width: 1280
         height: 720
-  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
-    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
-    publishedDateTime: 2019-12-11T14:02:13Z
-    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+    publishedDateTime: 2019-12-18T22:50:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
     type: article
     provider:
-      name: Reuters on MSN.com
-      domain: msn.com
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 33
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
+    publishedDateTime: 2019-12-19T16:34:00Z
+    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Santa Cruz Sentinel
+      domain: santacruzsentinel.com
+    quality: 33
+    images:
+      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "Self-driving vehicles will render transport landscape obsolete"
+    excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
+    publishedDateTime: 2019-12-19T06:40:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/self-driving-vehicles-will-render-transport-landscape-obsolete-1.4119602
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
-        width: 700
-        height: 367
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+      - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
+        width: 600
+        height: 315
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
-        width: 700
-        height: 466
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
+    publishedDateTime: 2019-12-19T00:19:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
     type: article
     provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "q2GVdxfbGCnl6VE+GOfQy2+IBGLAdyUHIvAgTtly+4WkGFlOsjXUBOl8Z+0U4xxETjvZIgMceFFqBYXJVPhn53EA9Ut3McWbgSKT8mZcohXdu3dZckMj8Kc398CQ4pMYzA/9xEA6jQ0StLy4E6YMtI5NMzOpAbDAk3QboE/bBMe32TbGcSiFHSUU7f9gt00GImxTgV7zk6h1sXly5uROw3Hscd+CUbxSVfs2LMU2nWDo37rqE0TE6tmJjJJuFaXe1bFziscbCa2zaUUdSOMM1A==;5UdvkgRDBOyqHQ/c/mg6zA=="
 ---

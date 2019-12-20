@@ -26,21 +26,152 @@ images:
     title: "Self-driving cars: A decade of hype, but what's the reality?"
 
 related:
-  - title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
-    excerpt: "NVIDIA’s Xavier chip was used in a multi-processor configuration and paired with GPUs in their DRIVE PX Pegasus self-driving computer, which NVIDIA claimed at the time would be able to offer level 5 autonomous driving. The Orin chip will be capable of scaling from level 2 to level 5 autonomous driving. It will be available to automakers ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/
-    ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
+  - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
+    excerpt: "Theoretically, passengers could be picked up from their home or the office in the self-driving pod vehicle, brought to the Hub, and then board the aircraft. Hyundai says the Hub could also be a location for “community activities,” essentially helping embed them into urban life rather than – as with current airports – having them silo ..."
+    publishedDateTime: 2019-12-20T19:22:00Z
+    sourceUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/
+    ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
     images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
-        width: 2000
-        height: 1000
+      - url: https://scdn.slashgear.com/wp-content/uploads/2019/12/Hyundai-flying-car-concept-ces-2020-0.jpeg
+        width: 1275
+        height: 781
+  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
+    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
+    publishedDateTime: 2019-12-16T14:39:00Z
+    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
+        width: 700
+        height: 490
+  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
+    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
+    publishedDateTime: 2019-12-14T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
+        width: 600
+        height: 315
+  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
+    publishedDateTime: 2019-12-17T21:32:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
+        width: 1200
+        height: 630
+  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
+    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
+    publishedDateTime: 2019-12-16T05:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
+        width: 700
+        height: 350
+  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
+    publishedDateTime: 2019-12-20T16:47:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
+        width: 1200
+        height: 630
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "2020s visions: We'll get flying cars just before becoming software-based people"
+    excerpt: "The driverless future will arrive much sooner ... and by 2030 it may become significantly easier to communicate with the digital world than the human sitting next to you. In 2030, artificial intelligence may be as smart as your biological friends. \"I think that in three to five years you will see a computer system that will be able to ..."
+    publishedDateTime: 2019-12-19T13:11:00Z
+    sourceUrl: https://www.cnet.com/news/2020s-visions-we-will-get-flying-cars-just-before-becoming-software-based-people/
+    ampUrl: https://www.cnet.com/google-amp/news/2020s-visions-we-will-get-flying-cars-just-before-becoming-software-based-people/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/2020s-visions-we-will-get-flying-cars-just-before-becoming-software-based-people/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.B15504B2F8E7038418C2E2BD621FD616
+        width: 196
+        height: 110
+  - title: "GM Says Hyundai Poached Exec Who Took Self-Driving Car Secrets"
+    excerpt: "General Motors Co. accused Hyundai Motor Co.‘s U.S. unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s chief safety officer, violated non-compete agreements with the move, GM said in a lawsuit ..."
+    publishedDateTime: 2019-12-18T00:11:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-18/gm-says-hyundai-poached-exec-who-took-self-driving-car-secrets
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
+    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
+    publishedDateTime: 2019-12-13T22:32:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
+    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
+        width: 700
+        height: 393
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z
@@ -56,6 +187,114 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
+    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
+    publishedDateTime: 2019-12-16T16:40:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
+        width: 636
+        height: 382
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
+    publishedDateTime: 2019-12-16T21:23:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/russias-yandex-making-its-own-self-driving-sensors
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B1A91D30E8803EB2803AA1A2FD26D8CC
+        width: 700
+        height: 525
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
+    publishedDateTime: 2019-12-17T16:11:00Z
+    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
+        width: 800
+        height: 600
+  - title: "Self-driving cars: Hype-filled decade ends soberly"
+    excerpt: "A few years ago, Google's self-driving unit Waymo \"seemed remarkably confident. I thought maybe they knew something that I didn't,\" said Pedro Domingos, a professor at the University of Washington who researches artificial intelligence. \"But I'm starting to think, actually, they don't know something I know.\" Domingos is among those who believe ..."
+    publishedDateTime: 2019-12-18T20:38:00Z
+    sourceUrl: https://www.channel3000.com/news/automotive/selfdriving-cars-hypefilled-decade-ends-soberly/1152527623
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 24
+    images:
+      - url: https://static.lakana.com/mmm-global-us-east-1/photo/2018/03/21/uber%20self-driving%20car.jpg_39749904_ver1.0_1280_720.jpg
+        width: 1280
+        height: 720
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
+    type: article
+    provider:
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
+    images:
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "nvsNAu9IfIaWV9aUUNv1pFb5DY+2G+5Cpde0PeMR4zZRkOaYeyHEGzNL7Th6ANmy53tH2g1n4Ur7QZQhnbfdbpmsOJYEgBJMmWbJbtMIvuPUyMyYbCtkiWrDyHyDATibHIUJ+LeNPSQzSz3U4PiSmm5JymHpc8K85KNmATXQTsc5ocN6MXjRY/BFbjZdYMWkyxiVlRlypgrLlVuzuBnw5/7TRrc3GM5IYJnzHtLPazrBUvNt+SUzB6i65ZqWVd/zRePn5i4H/lvtEAsywlE67w==;QaFJDl6R0jz/zvc0S2cl1Q=="
 ---

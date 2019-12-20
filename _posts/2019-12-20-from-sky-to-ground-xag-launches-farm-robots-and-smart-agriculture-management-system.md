@@ -2,26 +2,22 @@
 category: news
 title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
 excerpt: "Information technology, artificial intelligence and biotechnology are three fundamental variables that enormously ... XAUV™ R80 is an autonomous, multifunctional farm robot which allows third-party payloads and adapts to both plain fields and sloped terrains. While inheriting XAG's technical advantages in centimetre-level RTK navigation ..."
-publishedDateTime: 2019-12-20T10:12:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-from-sky-ground-xag-launches-farm-robots-smart-/2019/12/20/9073095.htm
+publishedDateTime: 2019-12-20T08:47:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/n15023432/from-sky-to-ground-xag-launches-farm-robots-and-smart-agriculture-management-system
+ampUrl: https://amp.benzinga.com/amp/content/15023432
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15023432
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Robotics
-
-images:
-  - url: https://mma.prnewswire.com/media/1058239/SAC_2020.jpg
-    width: 400
-    height: 267
-    title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
 
 related:
   - title: "CloudMinds Launches SmartRobot Rental Program, Plans Vending Robot"
@@ -99,6 +95,6 @@ related:
         width: 678
         height: 655
 
-secured: "fbNg7JzMoANm0daw813fAAeYGAeoMjb1HWPxv+A+wvdnUX4QyJX2uu8K7uKNfVtpIFJa2dLD77HLWIvvm5AKDEDzjuSDpGkQ+Cp6576zvOrV1uk3G8q/5ohHdNEm/zYezUXu2G8TzO8w7TllsZ1AURl+iXFxIFgg+8esZrnK7cwjRGNmKkPRp4rmv0sjZEkE/yK1SlcykWz5WyxOCZNMQ3owbrcn+K0jMsse80tHjXMX6z0bQa+0DoDEcYN+NHZaUs6DSfNN6qJlR33QuiYvBg==;bGA9m8y54d1r5C1NtSnkxw=="
+secured: "eRiWkj7ym8HeTR9+q/YnwI+Vfm9Uvgv5QySUHw8zws2QPlgl5pvj0bsZniekp/imwFSyOz2QzBR3jQ6tWeOOpdzrOGGGlm7TzBK1RL1KJ8smaVWaUFNB+Ws4roQJmtxaDKezGX4KZwuR5RAxj89NYv9NSbPkemThENN34Xd5lttUIugTFpQ9JU/BLg4jgR2KiRB0Uau2CGpS1veYSOuTYCD+oSyyrg5kWUIZzlOGwElfvbX4srjwxJR0UIkg12Gf9znYMg+Ko/sfK81/2k9oQg==;w4ZXJmeNcqC0LSnI+b4AlQ=="
 ---
 

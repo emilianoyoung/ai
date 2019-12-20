@@ -8,8 +8,8 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/18/21027840/online-course-
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/18/21027840/online-course-basics-of-ai-finland-free-elements
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,34 +29,19 @@ images:
     title: "Finland is making its online AI crash course free to the world"
 
 related:
-  - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "HELSINKI (AP) — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the ..."
-    publishedDateTime: 2019-12-18T03:42:00Z
-    sourceUrl: https://www.sfgate.com/business/technology/article/Finland-offers-crash-course-in-artificial-14912225.php
-    ampUrl: https://www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
-    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
+  - title: "Reuters launches free online course backed by Facebook to help journalists spot 'deepfakes'"
+    excerpt: "Reuters has launched a free online course to help journalists spot so-called “deepfakes” and other manipulated videos, images and audio content in the fight against fake news and disinformation. The Identifying and Tackling Manipulated Media course is sponsored by the Facebook Journalism Project and is available now in English, French ..."
+    publishedDateTime: 2019-12-20T16:53:00Z
+    sourceUrl: https://www.pressgazette.co.uk/reuters-launches-free-online-course-backed-by-facebook-to-help-journalists-spot-deepfakes/
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 57
+      name: Press Gazette
+      domain: pressgazette.co.uk
+    quality: 112
     images:
-      - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
-        width: 700
-        height: 466
-  - title: "Finland is offering a free crash course in AI to everyone in the EU"
-    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
-    publishedDateTime: 2019-12-18T11:38:00Z
-    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
-        width: 207
-        height: 155
+      - url: https://www.pressgazette.co.uk/wp-content/uploads/2019/12/Reuters-deepfake-course-e1576857843590.jpg
+        width: 947
+        height: 711
 
 secured: "z5hVtMTrJtoGzMEp4CREq9u8WLg/VXLy5+flhrwlfsM05qeLHTI/rdbz1OOPmezpt+yFmYbTABjAQRBE9IMNoyUttkh55eeEUuCOAVWroXESR3vgOu45lgLHMUrKULPHZOlPSwZ8NXT685Du+K/qEz6cZq6nvHf1izR7XitPt0knGMLp7fCRdQ0y81Vl0pxFjz8MOg+3cNp18UfbZK0sC8wUVmh7QWpy2o+pD1EtGtTua+V121IMCba2x23XrHl8/wEImldV7Ka1qgV5GmwJxw==;hwFf0tLy75PQE/DoK/wh4Q=="
 ---

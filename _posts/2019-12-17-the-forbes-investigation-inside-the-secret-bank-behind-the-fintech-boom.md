@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investiga
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
 type: article
 quality: 88
-heat: 238
+heat: 228
 published: true
 
 provider:
@@ -192,19 +192,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
-    excerpt: "Artificial intelligence can do a lot of impressive things, like find snow leopards among Himalayan grasses captured by remote cameras, maneuver self-driving cars through traffic, and defeat world-class opponents in the game Go."
-    publishedDateTime: 2019-12-17T23:21:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/whats-the-best-way-to-measure-the-smarts-of-ai-systems-researchers-are-developing-an-iq-test/ar-BBY5ZlH
-    type: article
-    provider:
-      name: Geekwire on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D0756FB6D65DC5606D5A6E3C86572AD
-        width: 700
-        height: 466
   - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
     excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
     publishedDateTime: 2019-12-17T17:56:00Z

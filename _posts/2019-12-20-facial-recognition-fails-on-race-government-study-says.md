@@ -7,7 +7,7 @@ sourceUrl: https://www.bbc.co.uk/news/technology-50865437
 ampUrl: https://www.bbc.co.uk/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50865437
 type: article
-quality: 74
+quality: 174
 heat: -1
 published: false
 
@@ -779,6 +779,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
         width: 700
         height: 464
+  - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
+    excerpt: "Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias. \"This study makes it clear: the government needs to stop using facial recognition surveillance right now,\" Evan Greer, the deputy director ..."
+    publishedDateTime: 2019-12-20T20:50:00Z
+    sourceUrl: https://abcnews.go.com/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+    ampUrl: https://abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 47
+    images:
+      - url: https://s.abcnews.com/images/Business/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
     excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
     publishedDateTime: 2019-12-10T19:57:00Z
@@ -794,6 +809,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T20:54:00Z
+    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 45
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
+        width: 1904
+        height: 1428
   - title: "Federal study finds racial bias in many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z
@@ -1498,6 +1528,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "qol84SVwnk2LWIi2CacEUHVvdestNKRQ7ZGcbV0QbBJVNG1TUmUPpovqs0HKYU8ZfFNGZk1qL3e2+ETFhGi8bpte05TDYzb6aPzxY9KMuBMbF7cPQrzg/SGLlGiuUERH58BA2cPWZhYQSqBwViCCTgcnq+ruRDEYveBmR2yUAm0l4YJyUftsZnhfsCa1++RFlIvF1D/nvSewbj5mU/ql6S4iOcl77yNg0oj40t2bnVp40cTcNWMK3DwSQteZ6OAXRFknPi5op1+r2nY1owg6XA==;CqWr6y62TMGHyTt5tgMS+w=="
+secured: "cEfuZMrywEOdm2Cgn2kFDBRhmxp8p6aj0O4QAKv19jNC9FM1MGBU1SFoYT9shx6jYniEjgOgPKzwMzN6XIokdEwQm2Sn2g5JSG3BEUV8Aejda0mdi+K2M/FKJ0v3Jps2WIIwqNs7olwatZgRFi6kSjQNwcp6meBpnV+s8UEAZU1pWWV2aASRhhW9UFvu1QkzKkK+sIJrIsdVsxYCQSp1bRk2Xgz19Dwb24G/+N9Es3Q/uXDYTA+Vtce0KsK8KFGIBArGAkFsm5dHyCZ/tq0QLxQmNbuY3Q84ZB1xf4DFvwk=;K7ODxUXSk3v/Bx5Stuu1dA=="
 ---
 

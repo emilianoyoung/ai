@@ -46,6 +46,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 4
+  - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
+    publishedDateTime: 2019-12-19T00:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "jRS7OJlzbCCt99FzBrni2SU/wXw+aIKi0YDvLFxkxjzz7hQLI7EQpHm7yOI2PTi5RjxAySGUtPF+jSWFLiyVV+8sHMDRc4GpImAkgKzjZPYTi9Jh55x3kfNrFFrCDNOpqIhI9ZtVqrj06H/bJYRYvRXR3p5e6tKdt6ZOJBKDPd+OBhqqFJj8XmJVtYdSGR7KmoIgUnNJXle/vyJspCDQTTAbv7/hZlBhB7qxlhxPh9C6CSidioa+9Gg+IIDnUXd8hWV3wyGf4MeSSNkIDBdXOg==;dyArJOlannxLJBtO8x3T4g=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-
 cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/amp/
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -38,7 +38,20 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 41
+    quality: 141
+  - title: "Facebook's Neural Net Can Solve This Differential Equation in One Second"
+    excerpt: "This is how we learn to recognize patterns. Similarly, neural networks rely on layers and layers of artificial \"neurons\" that mirror the ones in our own brain—only these so-called neurons perform basic calculations. With enough of these working together, the entire network has the power to solve more complex problems, even though individual ..."
+    publishedDateTime: 2019-12-18T20:43:00Z
+    sourceUrl: https://www.popularmechanics.com/science/math/a30259699/facebook-neural-net-math/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 25
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/differential-1576697206.jpg?crop=0.998xw:1.00xh;0.00321xw,0&amp;resize=1200:*
+        width: 2495
+        height: 1250
 
 secured: "EQ4N3nOZnt5zIxx0rl8zrctZWZNTcnHqDN9u8WWE8BXKPIMOSH78MM4ss+n/kSbfwCiYlUN2YI5CQOOkC43r33XYRKw04kh70HE783j4wGK6LCIzapo5rmKKj5TSxT6x86kSRhZvb1Zpqmyuzx0Xtmovn5w4IqJSBD41r7m3Qd1uuINyfMclqY54tQvvfeVAMEvT96LTB8PsgiGPH0wN94RNct+WLEiYuuNvr49o2X0e1g69VnJ02t6DcmLSeTY1dVXF8GCVWvj/gwrDfAD3Pw==;trCTBAZoF9PwFo0zRfSD8w=="
 ---

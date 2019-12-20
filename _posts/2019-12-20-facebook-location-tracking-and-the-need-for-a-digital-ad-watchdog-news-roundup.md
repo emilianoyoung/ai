@@ -36,11 +36,52 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 50
+    quality: 150
     images:
       - url: https://www.washingtonpost.com/resizer/x5H-OQpIEL-bhlE_kZGB-KLLQE8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5QPN6BCZMI6VMBU3Z64FNIZTM.jpg
         width: 1440
         height: 960
+  - title: "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages"
+    excerpt: "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,"
+    publishedDateTime: 2019-12-20T20:43:00Z
+    sourceUrl: https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
+    ampUrl: https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 88
+    images:
+      - url: https://images.wsj.net/im-138654/social
+        width: 1280
+        height: 640
+  - title: "Facebook Discovers Fakes That Show Evolution of Disinformation"
+    excerpt: "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch Media Group, parent company of the Falun Gong-related publication and conservative news ..."
+    publishedDateTime: 2019-12-20T20:22:00Z
+    sourceUrl: https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html
+    ampUrl: https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html
+    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: https://static01.nyt.com/images/2019/12/20/business/20takedown3/merlin_166226280_01e1cbc9-c350-4082-8c26-13e406edc001-facebookJumbo.jpg
+        width: 1050
+        height: 550
+  - title: "Facebook bans pro-Trump media outlet over fake accounts"
+    excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
+    publishedDateTime: 2019-12-20T20:22:00Z
+    sourceUrl: https://www.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    ampUrl: https://amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 24
 
 secured: "vEjaeO79Dn5df+sh4YUEU71enAIPhYhjoqAIkH+iKuTfq/XCiEE6GzdVOTyR6MYjU5jz7+ByY7ZCaGcwEyZufp4/VABgnH4HS6685XlrumGlq78XP+FZudWV2SuX56v++Rf5CB9uWx96Dku/i8Uu4grbUGr6W18rV8CjgNpb3gj4TW+/3y9kH9ZKl3FJhyS9MsBXIzPHCx8FjBuqnLbyPl0IrnCd93TP45bMhW79+c7ASJChmt0piRYG5PFLnQrVoROQb+Fd6l3fO1fsB/nB7A==;R0j/dqoRXx+2SAP56q2RQQ=="
 ---

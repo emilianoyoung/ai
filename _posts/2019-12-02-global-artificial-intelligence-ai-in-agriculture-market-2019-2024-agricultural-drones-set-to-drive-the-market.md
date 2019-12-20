@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-publishedDateTime: 2019-12-02T13:19:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
+excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology, lift tools from the ground, recognize the boundaries of a farm, and can be operated remotely ..."
+publishedDateTime: 2019-12-02T12:15:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
+ampUrl: https://amp.benzinga.com/amp/content/14911193
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
-    width: 800
-    height: 419
-    title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 
 related:
   - title: "Artificial Intelligence (AI) In Healthcare Market Technology Advancements and Business Outlook 2019"
@@ -416,6 +412,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "bhC49/2stGzRnNW7kEiWJ+IytGh+n3tdU7dgQKy3xW/UZGdvbCnITkYuS++JikBz7EBpFDF4M4Ay2daf2sY7iN5wucZb8mJ1/L/J5qXNnkgS7S39P8X/Mntg798fKVXYTr/nu20Wl4zn5LvVH0/XYFwneZoFXyPk2eKclljVocpiJ6j2r7gX5CGEH35kJOjRc3mjwTMeIjAZar5NXQ7N4np08iBUrtxBTrUZxzJeCiAQmiT+G5bSiT9IATYzLTL/gX/P3LDLCAzpLoEj4q0ByQ==;7kPIL2lOpqwcLhBHQbpIFA=="
+secured: "qc8ZZxTtVHyrdUHIzXLk7fKo/CgxXUuspLtEjN8szzbML93xwivtu9pVbKHLfyLSGiq/jT66d2anytB2h6ivqG2Ut1374JqcbXnFmSjho7zP7xALKFt4qlBxndyL3/6HB7TiIM6/tT7ypp5LHyJ8OMaoJlzSgykq/t2KVZ8IW3HK3RnCEkEH2HkD6lZJ1HQwPYw/v2cqGnq4hCkv/leBKgKKdMb67UywjpMB1YxKn1Ge85kc7MNFM56QB+lOl5YUE/Ih1eq23pJS8DPK0YV9kg==;puJ8vX3to+XYPXJJJ9/YWA=="
 ---
 

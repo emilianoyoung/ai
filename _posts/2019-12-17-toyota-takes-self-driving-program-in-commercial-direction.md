@@ -18,73 +18,99 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Toyota to Deploy Advanced Self-Driving Capabilities in Mobility Service Vehicles First"
-    excerpt: "Toyota to Deploy Advanced Self-Driving Capabilities in Mobility Service Vehicles First \"'Level 4' (driving capabilities) is really what we're striving for to first appear in mobility as a service,\" James Kuffner, CEO of Toyota Research Institute-Advanced Development, told reporters at the opening of its new offices in Tokyo. \"It will take more ..."
-    publishedDateTime: 2019-12-17T06:40:00Z
-    sourceUrl: https://www.usnews.com/news/technology/articles/2019-12-17/toyota-to-deploy-advanced-self-driving-capabilities-in-mobility-service-vehicles-first
+  - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
+    excerpt: "HOUSTON, TEXAS - NOVEMBER 1: A Nuro delivery vehicle completes training routes around the Meyerland ... [+] neighborhood on Nov. 1, 2019, in Houston, TX. (Photo by Annie Mulligan for The Washington Post via Getty Images) The California Department of Motor Vehicles will soon allow light-duty autonomous vehicles to be tested in a commercial ..."
+    publishedDateTime: 2019-12-19T20:42:00Z
+    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/
+    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.CDEC0A0C8CC4718BAB96DCA9BACB3832
-        width: 700
-        height: 454
-  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
-    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
-    publishedDateTime: 2019-12-12T20:02:00Z
-    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
-    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
-        width: 700
-        height: 393
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
-    publishedDateTime: 2019-12-18T07:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
+      - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
         width: 600
-        height: 400
-  - title: "Abu Dhabi airport completes self-driving wheelchair trial"
-    excerpt: "Dozens of passengers took part in a trial using self-driving wheelchairs at Abu Dhabi airport. Personal electric mobility vehicles made by Japanese company Whill helped users with disabilities to navigate crowded areas, lounges and gates during the five-day pilot. The devices are fitted with sensors that detect obstructions and have an ..."
-    publishedDateTime: 2019-12-16T13:20:00Z
-    sourceUrl: https://www.thenational.ae/uae/transport/abu-dhabi-airport-completes-self-driving-wheelchair-trial-1.952319
+        height: 315
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
+    publishedDateTime: 2019-12-18T18:35:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
     type: article
     provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 39
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
+    publishedDateTime: 2019-12-17T18:55:00Z
+    sourceUrl: https://www.newsobserver.com/news/local/education/article238467493.html
+    ampUrl: https://amp.newsobserver.com/news/local/education/article238467493.html
+    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/education/article238467493.html
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.E09F33C15A1798249D52672D7D22B3A5
-        width: 700
-        height: 393
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
-    publishedDateTime: 2019-12-17T09:39:00Z
-    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
-    ampUrl: https://amp.benzinga.com/amp/content/15000614
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+      - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
+        width: 1280
+        height: 720
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+    publishedDateTime: 2019-12-18T22:50:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 33
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
+    publishedDateTime: 2019-12-19T16:34:00Z
+    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Santa Cruz Sentinel
+      domain: santacruzsentinel.com
+    quality: 33
+    images:
+      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "Self-driving vehicles will render transport landscape obsolete"
+    excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
+    publishedDateTime: 2019-12-19T06:40:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/self-driving-vehicles-will-render-transport-landscape-obsolete-1.4119602
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
+        width: 600
+        height: 315
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
+    publishedDateTime: 2019-12-19T00:19:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "o5D3wjVtZrkQkMnCVA3YSMUgZHdID86ttMXWke+Z3hpT9wXQkd4ss38hPrFZ/F8MrloMjCv4ojhSqWZYbpMj7mPMz6fqh6YYnAOqQh+XockCcQazzZfen0y8Dabn2zu7b35TGEUopU21t26TPzGCtvo6zlTWKCimCoO2zDOGU2dniJAQyTyIstnkLyqs8tcoYxLbd3tCijiTlr/gXrzcm1u1cbQEFv3l5KqpgHttcxquuG1bSNAuIS86ajfZj2on9Sl+F/fsQ50izV6tJv3PHg==;pI4QPDHdtqTOzjD89WU06A=="
 ---

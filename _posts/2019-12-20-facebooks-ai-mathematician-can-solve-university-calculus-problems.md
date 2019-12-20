@@ -7,9 +7,9 @@ sourceUrl: https://www.newscientist.com/article/2228399-facebooks-ai-mathematici
 ampUrl: https://www.newscientist.com/article/2228399-facebooks-ai-mathematician-can-solve-university-calculus-problems/amp/
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2228399-facebooks-ai-mathematician-can-solve-university-calculus-problems/amp/
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 141
+heat: 161
+published: true
 
 provider:
   name: New Scientist
@@ -36,7 +36,20 @@ related:
       - url: https://www.bing.com/th?id=ON.BDBDE3DD2EEACAF09C20D3B7AD07312E
         width: 700
         height: 393
+  - title: "Facebook's Neural Net Can Solve This Differential Equation in One Second"
+    excerpt: "This is how we learn to recognize patterns. Similarly, neural networks rely on layers and layers of artificial \"neurons\" that mirror the ones in our own brain—only these so-called neurons perform basic calculations. With enough of these working together, the entire network has the power to solve more complex problems, even though individual ..."
+    publishedDateTime: 2019-12-18T20:43:00Z
+    sourceUrl: https://www.popularmechanics.com/science/math/a30259699/facebook-neural-net-math/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 25
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/differential-1576697206.jpg?crop=0.998xw:1.00xh;0.00321xw,0&amp;resize=1200:*
+        width: 2495
+        height: 1250
 
-secured: "yQcB0cacuc1aSbvP7LR3l3y6mrWmmeZMdwLXWZhBoTe8KcMXTiWqkEPnZ7kdx/y/smOVPMIbpfgKzns8LN6OwjxLL15u3ycnbMb0qkLlCkfub1n08G1NAOS27hYozPAAkMlVk62N7h5+crc9L+mkjRy2qEfbTULVbEOJ1sSaR92Ymv/9ssmG5KjEWwM6Q8gsgxesfHd+YvvnflbVNPD0fRctzXmva/FhSzmCky2fo5WD2myAkc/TosRaI5S6spC1WgLH6Hi38/cengoEqMIWTA==;iHz+uqMX8VyVFm0zTzBlRg=="
+secured: "JW8X6gO+ecXxJ7nxMC9S8hmgoV9pntFV0fK1s/b+h2LVx1ODv6VxrOGc9I8ktwKSkixn1Ky+VVfTPoXIA9L7/jRB+Gvm05tZPnxJ4OBbuRStAhZgZaJznDObSaCJ9a7nW1RTtbQe+EICnbVXfOTFCAXl7jWZRTMjHcocHkbGIUGxKs1OiE5OyhAk8f+54Ic1o/1xHltXg3LYFtbABnX0GO5jjFh+9eajXHip2s0R4E6IvhwVSu4/kSLvzThjZXBIJSt19PTCyn9pgWkort9L1j5pGkr244iT2twM6BeJEmE=;8x6OKbLLLFpci6cWlFITlw=="
 ---
 
