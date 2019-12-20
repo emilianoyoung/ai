@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-23T19:01:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
 type: article
 quality: 62
-heat: 62
-published: true
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -21,6 +21,34 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "3Fep+AjongLadxoCTQq454jERKUvqocNHKgpP086UIZebXJYOaky9ko4oEA2JjWe/HZR2G62Hl/fSQW5HefiT4T1kfLqO6ktZuIDlTC9wus593jC2UKSgGO3Xp4vVcrQuA4Gz0LJpjQDY5dU4SEXcL334s7mKNiAgOK/rMRz2VpOXrbH4i4QgmxExkHqpAO1c3PG6R21Fz7qAdGovDz8gEGlu6ZsBi0eql8LJ0Z40QvJQSWNI+aoW8I9B3vRTcN4PI38Hp3FB15AKEXdqPHrZw==;/1lHxsXso/dcYSGRGf8EDg=="
+related:
+  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
+    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
+    publishedDateTime: 2019-11-25T05:10:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 71
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
+        width: 675
+        height: 365
+  - title: "How artificial intelligence (AI) is improving immunotherapy"
+    excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
+    publishedDateTime: 2019-11-25T14:38:00Z
+    sourceUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy
+    ampUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
+    cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 69
+
+secured: "5Y+BQEPxXCsb4JWQbqfIm7dHiEeD5nLUdwPXmhFb6KRrlMPo+ufoCFpX0OH0S8kZjNwhpZUBQkDBy+jftEhRycuz1Z1yQd96B3bBg71Ighefi/O8+/yNBO0DZW1uBlISP+4DdXJ8EAMj3l+5hy2MZLpDM2wHNmNK6CRyc7e0xBdZmTwT+hs7QpOz4MryyurSYKNJleW/JbzB6zmeJ/5ZN5OJBEGLvdxHKbJHP0PIEu0fi7+9oFaH1Q5FsQUg1hbnWvJWV0U55CyLwFn4gfIv4w==;/Pd0pxwKLzigFTfJ5bR59g=="
 ---
 

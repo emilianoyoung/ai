@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
-excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
-publishedDateTime: 2019-12-16T14:39:00Z
-sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
+excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
+publishedDateTime: 2019-12-20T04:12:00Z
+sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
+ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
 type: article
-quality: 82
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
+  name: Electrek
+  domain: electrek.co
   images:
-    - url: /assets/images/organizations/techspot.com-50x50.jpg
+    - url: /assets/images/organizations/electrek.co-50x50.jpg
       width: 50
       height: 50
 
@@ -24,10 +24,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
+  - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
     width: 700
-    height: 490
-    title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
+    height: 337
+    title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
 
 related:
   - title: "30-40% Of Tesla Owners Buy Autopilot (And Full Self-Driving Is Just 3 Years Away)"
@@ -60,21 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.46E19C0BD99713B918F2C6E4471F0311
         width: 600
         height: 315
-  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
-    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
-    publishedDateTime: 2019-12-20T04:12:00Z
-    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
-    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
+    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
+    publishedDateTime: 2019-12-16T14:39:00Z
+    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
     images:
-      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
+      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
-        height: 337
+        height: 490
   - title: "Tesla Autopilot self-driving tech neutered in Europe"
     excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
     publishedDateTime: 2019-12-19T18:49:00Z
@@ -106,6 +106,6 @@ related:
         width: 620
         height: 348
 
-secured: "/XSi3MW/sfL5WwT3HvdGBLFJqEmsvl3ysWlUuIBvBOX5GTVA2NsoK3ZrBy16t+aPskmBhMHCVCq7zQx7bDir0sSWsvGvIHIY0kArCfwl/Hu7HuFweW87nAkyMR/ar0kc5I6j3+WF2/ilD4MtAkIrvep0/Gom2hQh4Xvw43GYrjvSnFKUHh35/WqJ76gupDfxjTI3fQOjRuFPERMGxJADnAkJVGGsRprGj3SwI9rCZ7j6BsFt/6egVZk8S+EzJMgeRGh5B+bF08iucf5IoQxLzQ==;cm+VChnjDmJUI/Tjr5+KfQ=="
+secured: "bMTPX50toGbS1/c+DfyueqUsQi+7BPEX21d9uYlDrrOekgys3IahsOeXvwWdrrFqliqsdspY1WWyJWcWok4zjEpBWDaMu1DEYC13UX6yge8GaM9CXNTobuwknewiPoovyjbcxevAhTbe9M0I1AsMq3pkMJGf4h4SJMDIC3ejjIHebGvo9gXiJu9+I4f2ge7EAzoEQ68rzcOp7B2sAjZZKZ0QIlJvmBeOM6lUUK31qiB1+zMN3chJSo18KL6EptNyuEW1xXe1nsbYEc8sBf+tHA==;jTsx6xZYswkrWFS+GKAW/Q=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owne
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
 type: article
 quality: 167
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.46E19C0BD99713B918F2C6E4471F0311
         width: 600
         height: 315
+  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
+    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
+    publishedDateTime: 2019-12-20T04:12:00Z
+    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
+    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
+        width: 700
+        height: 337
   - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
     excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
     publishedDateTime: 2019-12-16T14:39:00Z
