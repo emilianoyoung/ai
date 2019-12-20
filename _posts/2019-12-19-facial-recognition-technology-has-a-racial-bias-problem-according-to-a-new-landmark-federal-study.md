@@ -3,11 +3,13 @@ category: news
 title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
 excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
 publishedDateTime: 2019-12-19T22:21:00Z
-sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12/
+ampUrl: https://amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
 type: article
-quality: 40
-heat: -1
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -43,22 +45,7 @@ related:
       - url: https://www.bing.com/th?id=ON.14EF19A2D51E27CF7FBE68E4EE748B29
         width: 700
         height: 393
-  - title: "Federal study finds race, gender affect face-scanning tech"
-    excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law ..."
-    publishedDateTime: 2019-12-19T21:37:00Z
-    sourceUrl: https://www.chron.com/business/technology/article/Federal-study-finds-race-gender-affect-14919032.php
-    ampUrl: https://www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
-    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
-        width: 700
-        height: 466
 
-secured: "/yUqBhUC24BQf7tLMPI3ZLulps3Ojzaq6DCPjuqrRMq+/UG5tYvt3oZoJkAmkcc7gxDGWVpu865w9Wz5ahH4YnXANGJx+oI3xH8LfV6+HDz2vdl6xrNMjiPZdsv4CEQYLAh/2Lj4eKhY+V6rGsR49cQI0TiuC6InNHhT3y2ad7R+bIHJvy//1aj5+Ve7NknN6yVyMetDSfhWApe0dJbAMrvUVDm4a+okjpWe3WQGlebX3SVsRVo3nxnTcgxC/yw5RjBQNxoot1t4KsI6iAzs+w==;z7al7JMj7wGRgStxV5mhAg=="
+secured: "/3+Yf0Yj0bW3GAzFEKj1SnSU19kpJPgekxu65pcpczW2aacNBI2+4y1qsgemlPO5VHtI3QO3Xx9so+CCHtX3gmeCsMUG8WXedU/1aPnHjQsuPI2DqYuXU31ZEhN71Rsz/eds/M/OTzEDtIt2xyPOai53tdp5B4/gXwHGPGiewoLIn619jqX/euP/tgDbVpZ/2i/3O5O9TWIdQ5xNQNUwhoBWtu+u5S42wyAMnM8ZT8li04gbm134vLMJo/Asu1rXMetjcvvRzVuOeNdBg0RQ5Q==;hMP0L5OFLkCNhcYodPpVlw=="
 ---
 

@@ -26,32 +26,47 @@ images:
     title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
 
 related:
-  - title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
-    excerpt: "For instance, by using IBM Watson artificial intelligence and business analytics solutions on the IBM public cloud, Grupo Piñero will work with client data to better understand traveler behavior and offer guests a best-in-class service by creating new applications. Grupo Piñero is also adopting the IBM Cloud Pak for Applications running on ..."
-    publishedDateTime: 2019-12-19T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/grupo-pinero-adopts-ibm-cloud-and-ibm-watson-to-deliver-innovative-travel-experiences-2019-12-19
+  - title: "MIT and IBM develop AI that recommends documents based on topic"
+    excerpt: "Even the best text-parsing recommendation algorithms can be stymied by data sets of a certain size. In an effort to to deliver faster, better classification performance than the bulk of existing methods, a team at the MIT-IBM Watson AI Lab and MIT’s Geometric Data Processing Group devised a technique that combines popular AI tools including ..."
+    publishedDateTime: 2019-12-20T21:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/
+    ampUrl: https://venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.DEAFCD1A72D2F7231888F683F51FE564
+        width: 700
+        height: 347
+  - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
+    excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-growth-demand-and-developments-by-2025-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "IBM Cloud, Watson & AI Solutions Gain Traction in Europe"
-    excerpt: "IBM’s advanced cloud, AI and ML capabilities, blockchain, among others poises its offerings well to gain robust adoption. We believe the ongoing deal wins and expanding customer base will aid IBM strengthen competitive position in the cloud market against cloud vendors including Amazon Web Services (AWS), Microsoft Azure, Google Cloud ..."
-    publishedDateTime: 2019-12-20T18:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-cloud-watson-ai-solutions-140002342.html
+  - title: "Clear standards required for development and use of AI in healthcare"
+    excerpt: "The new von der Leyen Commission is expected to deliver a report on AI and ethics in its first 100 days, which could be oriented toward an ‘ethics-by-design’ approach according to Legal Affairs Commissioner Didier Reynders. And, in terms of data protection, all EU AI stakeholders must comply with the GDPR regulation in safeguarding the ..."
+    publishedDateTime: 2019-12-16T16:03:00Z
+    sourceUrl: https://www.euractiv.com/section/health-consumers/news/clear-standards-required-for-development-and-use-of-ai-in-healthcare/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 56
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.DC89E82AE822596BE4F14032D6837647
-        width: 635
-        height: 400
+      - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
+        width: 700
+        height: 525
 
 secured: "wzuqUHUUrXgja2zttacDEms7sWe4YGiGZT/uz+9ugZefEpfhNW07bxNmqrF8ssR//zxE2GPb8dvAQynzD/8hV+M5Gspzt8BeN3cqSmR5XyyMz7oGnO2igOGOREbHmslGvN/4HfZK17WFcLsctzNBffVhy3b2IR9QqtEaycURD4tFS3NTpPQnWB7+0pJz64L94b0WUWw9t33XVvsPfKvhMrRKq6l3tlxZji5PEdxW5Au+iO8fXk9xvv4Pin3VI3gxWv4uELJfYhPq8DhE+STCiQ==;Yu35cSNOyHzPzRNx9aLRAg=="
 ---

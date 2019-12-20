@@ -8,7 +8,7 @@ ampUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to
 cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Artificial intelligence development is starting to slow down, Facebook head of AI says"
 
 related:
-  - title: "Clear standards required for development and use of AI in healthcare"
-    excerpt: "The new von der Leyen Commission is expected to deliver a report on AI and ethics in its first 100 days, which could be oriented toward an ‘ethics-by-design’ approach according to Legal Affairs Commissioner Didier Reynders. And, in terms of data protection, all EU AI stakeholders must comply with the GDPR regulation in safeguarding the ..."
-    publishedDateTime: 2019-12-16T16:03:00Z
-    sourceUrl: https://www.euractiv.com/section/health-consumers/news/clear-standards-required-for-development-and-use-of-ai-in-healthcare/
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
-        width: 700
-        height: 525
   - title: "Google is developing AI to do more with 'much less data'"
     excerpt: "Though Facebook's vice president of artificial intelligence predicted researchers attempting to scale AI solutions will soon \"hit the wall,\" the head of Google's AI research group recently countered with many ways to get through, over and around that wall. In an interview with Wired, Google's Jeff Dean, PhD, said that much of AI's potential ..."
     publishedDateTime: 2019-12-16T22:05:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/amp/
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Machine Power And Human Judgment: How AI Fuels Marketing"
 
 related:
-  - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
-    excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-growth-demand-and-developments-by-2025-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Machine Translation Software Market 2019-2024"
     excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024. This market report is related to globe report, Market Share, Size, and Trends, and forecast data ..."
     publishedDateTime: 2019-12-16T09:02:00Z

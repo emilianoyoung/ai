@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C7F25CCA3C9834CA2A53752ED198614E
         width: 700
         height: 367
-  - title: "Clear standards required for development and use of AI in healthcare"
-    excerpt: "The new von der Leyen Commission is expected to deliver a report on AI and ethics in its first 100 days, which could be oriented toward an ‘ethics-by-design’ approach according to Legal Affairs Commissioner Didier Reynders. And, in terms of data protection, all EU AI stakeholders must comply with the GDPR regulation in safeguarding the ..."
-    publishedDateTime: 2019-12-16T16:03:00Z
-    sourceUrl: https://www.euractiv.com/section/health-consumers/news/clear-standards-required-for-development-and-use-of-ai-in-healthcare/
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
-        width: 700
-        height: 525
 
 secured: "Y0nZ9rBJ3UFHFf9sibIxrAwT5Ru3B5RvkmXmtW+TJSu99WjRE7Xau87uTxJSxgbOa6wkGg3glmZi451nrLqRTKLiNcdcKI9xe/uuEhlwnsZrPjq4lnxI/MbiQskJ0/XJn/PFUsxiZdGTHP8CVi6VOP42uajbqAb1H5H3wdrG0VDTaC4wT6M/DnId0OX847OzuiNBCbdrwLoXkkSgjwHp/n6ZOhAkMnkDnNx0h0bmiEaWqaxYv7JyzmAI6tHKcFCqcaHtR6RNtJ6GiOQeATqJ3A==;AivbuO2xbgxKE894RtEpFg=="
 ---

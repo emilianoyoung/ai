@@ -25,6 +25,17 @@ images:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    publishedDateTime: 2019-12-03T18:31:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
     excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you have no idea how it was built. The idea behind AutoPilot is to give you ..."
     publishedDateTime: 2019-12-04T00:04:00Z
     sourceUrl: https://www.yahoo.com/entertainment/aws-autopilot-gives-more-visible-182248355.html
@@ -39,19 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
         width: 700
         height: 466
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
-    publishedDateTime: 2019-12-03T18:32:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
+    publishedDateTime: 2019-12-03T21:24:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
     type: article
     provider:
-      name: Yahoo!
-      domain: yahoo.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
     images:
-      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-        width: 5184
-        height: 3456
+      - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
+        width: 700
+        height: 391
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-03T18:44:00Z
@@ -66,6 +77,6 @@ related:
         width: 512
         height: 512
 
-secured: "EGKp1A4lEGrT1XigzGPL9HVhIiglG0zLi2cdN/sQ5Ots0L0wXObdtECnDRX43qO3+fx29ZpBgzq3cENdSfwF8Wx2LnVOzFamQVHgyyjrqygwvWWfvZ535ZtiOVVvtet/1PteFObFqFwIX2xX3dOXF9UFPr3zhTP2vxaIbM6tUfpCtmSZ73q8F02ON1SaxOiZXaZ/NPa5Mv7B6Bs6ro3cvCQsysyWzrv7nF8MLIDlHMtXi7nF0Ondaqa/vJbGsXkDA1YktAqWOz0oUv33AHf2HQ==;DYr9ooSKDE6uP3UwfaUvXw=="
+secured: "wsp3oMOnOyh+5FTGHwFa78zbvrpbwYL8Y2Ir+X4MsaiPth6qUaF+HppFn1HXYlp1yVBFZxGmM6rvZvEmb3+i7xLAxs1IL1EPh6XZFxe8gjCQJfX9/Mrb685OkYjpvGJywJdaHIl48jWHabUTnkL+5fAtl/t8b3vZVHMxyznuiurjpWVRk3AESZJkZLIZz8o/j/g45UvuE9RRikKDw5I+r9RPTKdZK3Uvc6sNyqMCe/m9SrzyQ3mku/dNG3zvWHN43KM8EifovZrucHGh65BYkA==;JGqxoDM56kdeQVc7jFe32A=="
 ---
 

@@ -71,6 +71,34 @@ related:
       - url: https://static01.nyt.com/images/2019/12/20/business/20takedown3/merlin_166226280_01e1cbc9-c350-4082-8c26-13e406edc001-facebookJumbo.jpg
         width: 1050
         height: 550
+  - title: "Facebook takes down fake accounts with fake faces pushing politics"
+    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
+    publishedDateTime: 2019-12-20T21:07:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/
+    ampUrl: https://www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.328E1541D746291061CED01A26FFA669
+        width: 700
+        height: 466
+  - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
+    excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
+    publishedDateTime: 2019-12-20T19:50:00Z
+    sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
+    type: article
+    provider:
+      name: NBC News on MSN.com
+      domain: msn.com
+    quality: 28
+    images:
+      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
+        width: 301
+        height: 274
   - title: "Facebook bans pro-Trump media outlet over fake accounts"
     excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
     publishedDateTime: 2019-12-20T20:22:00Z

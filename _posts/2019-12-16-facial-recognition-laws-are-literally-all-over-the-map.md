@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-ov
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
 type: article
 quality: 189
-heat: 1319
+heat: 1339
 published: true
 
 provider:
@@ -498,6 +498,21 @@ related:
       - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
         width: 1024
         height: 635
+  - title: "Racial bias plagues facial recognition software, US agency finds"
+    excerpt: "A sweeping study backed by the US government found facial-recognition programs misidentify people of color far more frequently than white people, indicating racial bias plagues the software. Algorithms wrongly matched photos of black and Asian people 10 to 100 times more often than white people, according to the study from the US Department of ..."
+    publishedDateTime: 2019-12-20T09:13:00Z
+    sourceUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/
+    ampUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
+    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: https://thenypost.files.wordpress.com/2019/12/shutterstock_1160291101.jpg?quality=80&amp;strip=all&amp;w=1200
+        width: 2000
+        height: 1333
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
     publishedDateTime: 2019-12-18T21:18:00Z
@@ -1464,6 +1479,19 @@ related:
       - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
         width: 700
         height: 350
+  - title: "Government study finds racial bias in facial-recognition tech"
+    excerpt: "A new federal study from the National Institute of Standards and Technology has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. Yahoo Finance's Tech Editor Dan Howley joins The Final Round to discuss"
+    publishedDateTime: 2019-12-20T21:29:00Z
+    sourceUrl: https://finance.yahoo.com/video/government-study-finds-racial-bias-212956499.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/igWZMCZFzb_1NKlxdwMAdw--~B/aD0yODg5O3c9MzY3NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-11/4abd4530-04d3-11ea-bf9f-af6029b13702
+        width: 3675
+        height: 2889
   - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
     excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
     publishedDateTime: 2019-12-18T09:18:00Z

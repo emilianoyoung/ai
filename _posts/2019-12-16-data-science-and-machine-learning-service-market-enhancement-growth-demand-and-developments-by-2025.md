@@ -29,30 +29,49 @@ images:
     title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
 
 related:
-  - title: "Machine Power And Human Judgment: How AI Fuels Marketing"
-    excerpt: "It may still be in its infancy, but artificial intelligence (AI) is on the path to transform marketing. AI and automation can free marketers from routine tasks, enabling them to be more productive and focus on creative work. Algorithms can predict customer preferences and behavior, allowing for hyper-personalization on a previously unimaginable ..."
-    publishedDateTime: 2019-12-16T16:40:00Z
-    sourceUrl: https://www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/
-    ampUrl: https://www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/amp/
+  - title: "MIT and IBM develop AI that recommends documents based on topic"
+    excerpt: "Even the best text-parsing recommendation algorithms can be stymied by data sets of a certain size. In an effort to to deliver faster, better classification performance than the bulk of existing methods, a team at the MIT-IBM Watson AI Lab and MIT’s Geometric Data Processing Group devised a technique that combines popular AI tools including ..."
+    publishedDateTime: 2019-12-20T21:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/
+    ampUrl: https://venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.A8FDBDD475B976CFBB7DCCF6479B7114
-        width: 600
-        height: 315
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024. This market report is related to globe report, Market Share, Size, and Trends, and forecast data ..."
-    publishedDateTime: 2019-12-16T09:02:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
+      - url: https://www.bing.com/th?id=ON.DEAFCD1A72D2F7231888F683F51FE564
+        width: 700
+        height: 347
+  - title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
+    excerpt: "For instance, by using IBM Watson artificial intelligence and business analytics solutions on the IBM public cloud, Grupo Piñero will work with client data to better understand traveler behavior and offer guests a best-in-class service by creating new applications. Grupo Piñero is also adopting the IBM Cloud Pak for Applications running on ..."
+    publishedDateTime: 2019-12-20T12:35:00Z
+    sourceUrl: https://finance.yahoo.com/news/grupo-pi-ero-adopts-ibm-140000965.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/grupo-pi-ero-adopts-ibm-140000965.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/grupo-pi-ero-adopts-ibm-140000965.html
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
+        width: 400
+        height: 209
+  - title: "Clear standards required for development and use of AI in healthcare"
+    excerpt: "The new von der Leyen Commission is expected to deliver a report on AI and ethics in its first 100 days, which could be oriented toward an ‘ethics-by-design’ approach according to Legal Affairs Commissioner Didier Reynders. And, in terms of data protection, all EU AI stakeholders must comply with the GDPR regulation in safeguarding the ..."
+    publishedDateTime: 2019-12-16T16:03:00Z
+    sourceUrl: https://www.euractiv.com/section/health-consumers/news/clear-standards-required-for-development-and-use-of-ai-in-healthcare/
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
+        width: 700
+        height: 525
 
 secured: "6qZ7E5CenvNawpFGoCUquGZ5IA06kdP7ieW/oYg5yR9yQVhLlMMPI+dJry/qStDVcnTCTIFryB+CpoqLZWJV855/Bjzmk5w2mKG91K/MeMlbE+JYkPddttzM5ZkBV5yiEbP78avHGkeesQTtVRV8+fKpdv7Hu7DvGGf6o/+z29CQxwvRHVh7oW26fa1yr7SH60/bAWIEabjkMUcKyJFTb/m2LppDZPDaZXEyZS1iIQcfyXKtf+a6RSpkiyQFzqTCep4v/T1RbNiAnF6qelsl1w==;L+4EXotO1yTQyfIOfl33gA=="
 ---
