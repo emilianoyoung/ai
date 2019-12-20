@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-scans-customer-feedback/amp/
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 525
     title: "Ex-Amazon engineers raise $2.4M for AI startup that scans customer feedback"
 
-secured: "VU/PoYSEhmhiAPXhcbO/tp8sDG8YjtLixZKnrno2ttIDFaAPGWFgCFncazArGjMG4o1A5iVRK3c3R18DujSDXvFfLreWvJX27EXLfvrxew/osQ9NnWZNiSHa0Iy7yqRwT3CEmtE0HCOyjWekHg8w1rpt6lCRbgMxHg8rPJDZRS0XH2QGkxNuLgJX8feM3opmiGtf1QBhfu5aiPYJm7G/22wiSXSc0CtOo60/Ig1vbOkueIfx8O40hwWD0kJCvSZE341pPEMt803d/R3ZDpSE2A==;ymw3NJ9RHdxZCayk8Ny49w=="
+secured: "pWvqOX5bWpCrE3MN8Td4mGtEQj48JeXR1x2EDao/2fYSsxFk5UbK4Yw7K7KNcfO0ZqUz6Ba1b1w/c7OWMRkW8pU3Q99CaRXfhRBPvXdWkdy/qgS0gA1K59mNDWw+QdNh38RboYXuhGlNw9STC6ZfVDq5Raq8OogKeEwNGDEMCKNhdXPPYkyVKWzsOi4DDfYGvRW06RCFYjkpjr9nKig5mVnogH9Py0hP5WFQ2O3dt2ji6vj5c/8IdkXPwnCaVKZ9k5ugl6bXFEMWnIeOpJkJ/Q==;NEvJYGJaF76tVXYw2qx1wg=="
 ---
 

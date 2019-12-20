@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.75EA282AA5CC8C6C58C943CEDDB5BB78
         width: 600
         height: 315
+  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
+    publishedDateTime: 2019-12-20T16:47:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
+        width: 1200
+        height: 630
 
 secured: "/XSi3MW/sfL5WwT3HvdGBLFJqEmsvl3ysWlUuIBvBOX5GTVA2NsoK3ZrBy16t+aPskmBhMHCVCq7zQx7bDir0sSWsvGvIHIY0kArCfwl/Hu7HuFweW87nAkyMR/ar0kc5I6j3+WF2/ilD4MtAkIrvep0/Gom2hQh4Xvw43GYrjvSnFKUHh35/WqJ76gupDfxjTI3fQOjRuFPERMGxJADnAkJVGGsRprGj3SwI9rCZ7j6BsFt/6egVZk8S+EzJMgeRGh5B+bF08iucf5IoQxLzQ==;cm+VChnjDmJUI/Tjr5+KfQ=="
 ---

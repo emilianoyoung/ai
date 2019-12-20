@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-robots-at-heathrow-airport.html
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         width: 1400
         height: 787
 
-secured: "exM8J4WEIhvYi8DhaDea+1LSAvMdgdTAIRRhvFZf6m2tDpbFTMNCoMF+nlgwUwLcanWsNufNmq7TvmckWSFsTWtb+GmpynXNv24Ye4A3Jfw/xsgK9yUvgOejKv4+iYU1dCkbJL6QDGo9u+UYW5V3kn8ZJVyZvbSp166tfzoZAfMZzk1Ru6Q6A7Aim8DYRnaP/ie1bYQ6lJm/jquGn4NBNP/VQRtx1nZEma1foaOGObJfqNpf3GyTfpihRymMD+N38QIOR3lIH4VhVxHA6ECCTQ==;HLix82wJrXeBdSaIbc9WEA=="
+secured: "cXzvCSuZ887uvk5McsgJWikcA6CcNo5Sy0Zn2hUzxlkF/VZzLi2TkxuR4i+/JFkEzZ10b8XmWwa2MCbHtykeeYb5pOicFVLIxUZBmhe64QvuZyMcy5kQsZ7Ps6GRuVZlbdt8ACv4h1UZAP2i29ne6ErnSPGJis9EvEv2wWRbPf4RrHnYTSODVNOTFDcdFXGJozbDLaVwa4dTMBGT79PmPiJaIXCYVouhQbAfDqx0fwvQA8inwrEMC+NXVli5URpm3oWu+UJrfc5eo26FEHqMOA==;eDJcp3dm5Ou8EW21kUY6pQ=="
 ---
 

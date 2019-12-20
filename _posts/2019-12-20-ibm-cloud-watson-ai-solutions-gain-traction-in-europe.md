@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-tract
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         width: 400
         height: 209
 
-secured: "t686yUpm19d0mZrrxqitiSbKT9+cWUIitdgQMUl2ojgnKkk0mXRdC9nj0l7Y0cuJiqdrnNbaGzp7LR0SHGyMAfhT8ESnVHbemMESTAvyNWhUZHiRJjVsYm4JLm30rOuXlV9ID67XOlUhQMT2OEV+2DRzygynEbYXhbDjD4kznOZEMLdNh6/w+V5FJ+aWK8vnRSmFlxHpY0erY4B7ygQWP1o4B+Ns23JN8b+QMoaftaszLw3PojJjYpNaGp/P7zzaYY66JQRt85XTam6DsSvQTg==;d5VhuExfVzZplgMvTJk5fw=="
+secured: "7BLl/Oifqas5r/eePDdb+J5H3UR+d/KrZGZZsRJaHM+tTmt8pKr50oZyKxW5b/KGqT3SbqzFevU5TSulfEoMBwYSuboA+a8nyTIBcV90TLnSFmUADB/IbMzmgfbo4LPkvdmmQaQuRqYSIDvsruL7iayp7W7n5WfwJOymbyCNh31aAlE+M3zbGezpSBEQOqKJtK4csyH6ijeHoGs9Jrs1o9VVJ1Dk/oF3MgPRQpir/sImSv7htakOpHBPzOZQvI6SKiWmIRVIZBV7QC5WM4+jvA==;RET4CLjI0EDeUBWlSTN59A=="
 ---
 

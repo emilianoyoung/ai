@@ -1,24 +1,24 @@
 ---
 category: news
 title: "AWS re:Invent: Intelligent services, closer clouds"
-excerpt: "AWS isn’t the first to offer quantum computing capabilities in the cloud ... Like Soylent Green, the key part of the next service, Amazon Augmented Artificial Intelligence (A2I), is people. Machine learning models don’t always produce clear-cut answers to challenges such as image recognition or content moderation, requiring developers ..."
-publishedDateTime: 2019-12-10T11:15:00Z
-sourceUrl: https://www.itworld.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.html
-ampUrl: https://www.itworld.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
-cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
+excerpt: "AWS isn’t the first to offer quantum computing capabilities ... Like Soylent Green, the key part of the next service, Amazon Augmented Artificial Intelligence (A2I), is people. Machine learning models don’t always produce clear-cut answers to ..."
+publishedDateTime: 2019-12-10T11:02:00Z
+sourceUrl: https://www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.html
+ampUrl: https://www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
+cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "tU8Sni3oUA/RJm+DNb2XXLfikyijxRGJYceSfoLEp3HTdHnLesWYPurrmp13kJ0nowNqWYugCkMHNBMDpS9e/vseBGJz/tPAC7iORWhQ8UF/p6x5lTEF1EoFL4USJwedA5C9M7wHVXfnnP4rTUNwZMrxI+D36Jhjz4Dwj2sKFQxA6G1wA01huslclizNyN3QFMCEB7kSZJuwsj1QYy2iuTEHQq84VpDE+OAi5oAnBlo1g5CyDvQaGns5UafGpTEOZl6h7HvSDFg5rfEyFhFsoA==;NiZsct6G07KMuQxepUqlCw=="
+secured: "qR6usbTkslSKND2xVOsEeF4y51/cMg1pwkK35cJQHSEfaIeAEGr1Br4/rZUSF0tEdYq6ZD2NEE4m9938SELqq5Kq6e3LHV+jegHAyy2wHNso6VsG1QDxVI39yUHLJvYW88EBd27diigYEqcLFUimOF4VVRmo7rVcAEfpeUCbwWK7FPyb8V4Bcm0YlhpogjnEDKBldBI5aBSIuzS+fvs8/yW5tuk6W+w+V2F5dsDWxAnf2p3mjZitJ2YaPo6S5NBimUa7v+YEQZFMF2C1wD4W8g==;PmdRfwHg01OASTwkGBkq8g=="
 ---
 

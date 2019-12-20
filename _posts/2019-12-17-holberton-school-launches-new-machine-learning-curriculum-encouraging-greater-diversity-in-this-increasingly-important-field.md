@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Holberton School Launches New Machine Learning Curriculum Encouraging Greater Diversity in this Increasingly Important Field"
-excerpt: "SAN FRANCISCO, Dec. 17, 2019 (GLOBE NEWSWIRE) -- Holberton School, the two-year tuition-deferred college alternative educating the next generation of digital workers, announced the launch of their brand new Machine Learning curriculum which will be available at all eight world-wide Holberton campuses. The announcement was made at the flagship ..."
-publishedDateTime: 2019-12-17T18:35:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961819/0/en/Holberton-School-Launches-New-Machine-Learning-Curriculum-Encouraging-Greater-Diversity-in-this-Increasingly-Important-Field.html
+excerpt: "The announcement was made at the flagship San Francisco campus featuring Grammy award-winner NE-YO, Black Girls Code founder and CEO Kimberly Bryant and representatives from Google (Tensorflow) and IBM. \"Machine Learning, and by extension Artificial Intelligence, are increasingly dominating how we interact with technology at all levels ..."
+publishedDateTime: 2019-12-17T17:35:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/g15005018/holberton-school-launches-new-machine-learning-curriculum-encouraging-greater-diversity-in-this-in
+ampUrl: https://amp.benzinga.com/amp/content/15005018
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15005018
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-  - Machine Learning
+  - Google AI
 
-secured: "OzdIBQCmk5r0Qj39mS1uAtnX2ZeWWmpuaUpkbO1n+enpJ83+xbSXIOBJF9WoBmGcTJBdbaixPjUJPF4wupXtNRyDeyFHE875Tow+8OG1DH/3yppZlDzfMJtJXIRRER4yV3HI2QWHHBVthRee8QhBqNyQIzhPDx149/wJwwFPmXcNyjrkKhR+APEjr8yDdpmFFwj4jRF/uOl0GJRrSqXd4fOoCqkPzCOvzO0nYF2uJE89MINEVXXIJ1xt3klQS8xgAUB0tYaup8foXmtaAV85Cg==;nal9LokP9uZ9O9HiihGPeg=="
+secured: "bFe0A9UgFWzHI9K3oTlCQudj3/W9UKzrzSPTDPHDZUNMMvx8cI1kLleIpLxMBHnWNH9wuBijY+EXWBqEr/gT1KUcoZ/psdO1DM3I3B38x6CaDOuFDoHMSaXihOU/YcnXUJce1dXpFwR6kwm1Y9LW5bWLvq+sc+2dpG+GV2x8Q8CYfkT9nCiJ/HNJDrHYsVmpFuk8Q6yn22SrnU6sRnYRdj0ZjV5NLvzRokdGqJ36zuhGZdIicSkZIlf+MRUJLFxIFV0pfpuFlq1dWVyAshpMKw==;iDC3IA7J5uNJ3GfFFz/NAA=="
 ---
 

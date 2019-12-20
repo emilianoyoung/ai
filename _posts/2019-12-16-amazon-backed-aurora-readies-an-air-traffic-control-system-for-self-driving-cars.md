@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
         height: 490
+  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
+    publishedDateTime: 2019-12-20T16:47:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
+        width: 1200
+        height: 630
 
 secured: "eP6bIHoqBOFiNWJMgRYxckmZVl1Rj6CW9ADBAMaRCKJuTzsrS+cWAjihm2dBUGhKKCD2hT7yN+z/VfbGX1dK9Q04luuejFOc3xxP7aWLQDrzbk3WNwq23QNi8aEmtlfShZ2Mr61Nv0G3ZILCZ3pvjkFK/yq62qU5Jwp/aOBCuEmzZbi6p/qVgjEuY1uISC72/aoMafhf42LTwR8DIqjdzkCmYyHkCqqM8QMn2AeJVvu+2LHztJg5p3t8xKiiKaFQAKP9BRisH2YdwkK2300xww==;0rK1LF8TlBLwhPjT7N/BXg=="
 ---

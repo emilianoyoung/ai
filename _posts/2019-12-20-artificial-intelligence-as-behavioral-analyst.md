@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence as behavioral analyst"
-excerpt: "\"To understand how the brain generates behavior, we need to know the \"syllables\", the building blocks of the behavior.\" Aided by artificial intelligence, Mearns and his colleagues from the Max Planck Institute of Neurobiology have broken down the hunting behavior of larval zebrafish into its basic building blocks. They show how these building ..."
-publishedDateTime: 2019-12-20T15:26:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/m-aia122019.php
+excerpt: "\"To understand how the brain generates behavior, we need to know the \"syllables,\" the building blocks of the behavior.\" Aided by artificial intelligence, Mearns and his colleagues from the Max Planck Institute of Neurobiology have broken down the hunting behavior of larval zebrafish into its basic building blocks. They show how these building ..."
+publishedDateTime: 2019-12-20T16:32:00Z
+sourceUrl: https://phys.org/news/2019-12-artificial-intelligence-behavioral-analyst.html
+ampUrl: https://phys.org/news/2019-12-artificial-intelligence-behavioral-analyst.amp
+cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-artificial-intelligence-behavioral-analyst.amp
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 67
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: https://www.eurekalert.org/multimedia/pub/web/220311_web.jpg
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/93-artificialin.jpg
     width: 1440
-    height: 1198
+    height: 810
     title: "Artificial intelligence as behavioral analyst"
 
 related:
@@ -37,6 +39,6 @@ related:
         width: 1019
         height: 574
 
-secured: "TMUG9zXXN21MXBVKlC73alTEKIH3sRH0xqtInRR/7kxeQdZ/wwgoBQs5oA4sQgZuy/S8NCktYU93V+NNXprBbSjuMSBkgBxfFcPEGiBaZr7k+WSqcWV/CjETx0sMBAnAgt16fz7eF7cpL0SOxlf7N6597/4kuKcZ8dC+iGSgZ7LLoGKEz290gqMqUhGyyhQzLPILI3SEh6Il3VHcOKi7GUxCG2j3Y0/K7Y5GL1yyTyr4fNw9EzgZ9TWEWAsfn9VBOWfxd+e7+QBlN1JomDhJVg==;QbId1RTru6vQoHY2QsGK5w=="
+secured: "rpXiqjUdHT0hF5l/cRgPoGZDY14B9euQisudIrBFsXLoINCiJVFTP8YDIz3E2iIvhPIs69oPbo4yrSyArn8J55yACa0ELxzMfg0yNYEX+UhdHsUM7wNbxJHTGiTqdamlQcS9p9OkuJnlnRvlaYXYvTPT+D6QTt4btlKLg8BmcN3qVpjKEecSl+8PO/lcvRHUV8ehCS1hZZH6GpsmeYlFtZUfp5J2x19xi2y1yF9UK73ZLlm4mHxM+4yioAc9VPsUVBsx2DizVGYkVTKJsT3eSw==;MCwO9X/LxACOcUKCwLlolA=="
 ---
 

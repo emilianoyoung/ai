@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T16:21:00Z
 sourceUrl: https://www.mpg.de/14304261/artificial-intelligence-as-behavioral-analyst
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,18 +24,20 @@ images:
 
 related:
   - title: "Artificial intelligence as behavioral analyst"
-    excerpt: "\"To understand how the brain generates behavior, we need to know the \"syllables\", the building blocks of the behavior.\" Aided by artificial intelligence, Mearns and his colleagues from the Max Planck Institute of Neurobiology have broken down the hunting behavior of larval zebrafish into its basic building blocks. They show how these building ..."
-    publishedDateTime: 2019-12-20T15:26:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/m-aia122019.php
+    excerpt: "\"To understand how the brain generates behavior, we need to know the \"syllables,\" the building blocks of the behavior.\" Aided by artificial intelligence, Mearns and his colleagues from the Max Planck Institute of Neurobiology have broken down the hunting behavior of larval zebrafish into its basic building blocks. They show how these building ..."
+    publishedDateTime: 2019-12-20T16:32:00Z
+    sourceUrl: https://phys.org/news/2019-12-artificial-intelligence-behavioral-analyst.html
+    ampUrl: https://phys.org/news/2019-12-artificial-intelligence-behavioral-analyst.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-artificial-intelligence-behavioral-analyst.amp
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/220311_web.jpg
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/93-artificialin.jpg
         width: 1440
-        height: 1198
+        height: 810
 
 secured: "zxIiulqVFM2Ru16dg8eRcsj8PkyYEpiz59nyopIgjWP0RYdJoeM/py2ACXuGytVBGgECfxU+l6iNw8Rr/mDVUzUZ/wUSlKyoqNe4B+9/IKvpm9aGOFlyOXK3WORTLvu9mcxDjhMKQAfhx9q4hEws2FLrQqsi5Ag8A0rNYxE90G1+roF4OVySqXul8kVJyq7fo6TzRjoHq5u61pzYpjpoE8p6MC2PxDsU1bbOSBryUIMq0YuQiMTUyTKWHwe0Vi0pUuExAhVjwBPv8TaOyVg52g==;+3KulgZ6uZK6cB90xaGW1g=="
 ---
