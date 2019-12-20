@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/13/business-leaders-integra
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/amp/
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.86A51A01BC1B10D1A47468931DF9E438
         width: 685
         height: 244
+  - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
+    excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
+    publishedDateTime: 2019-12-20T05:38:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-attends-the-2019-stanford-university-mediax-conference-connecting-the-learner-and-the-learning-with-algorithms-and-analytics-300978173.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 1
+    images:
+      - url: https://mma.prnewswire.com/media/1057588/Squirrel_AI_Learning.jpg?p=facebook
+        width: 866
+        height: 453
 
 secured: "flM36R9MwhAbYw4CKsLVH7YQc6xcVHnouZO6urflLNH3KzstydOX3pkRYAVzLLmjs2FzzCyI6X0uY/KwkRKWQMxjtgQgvdLVtCyGWrdb653xti5iPyLN2ZxxX0dmjbs+3a2em8xz2Fsgnw31Li164OLTB97WLirNQZqEG4fHUXKGSuHA9tvDi0KKAl5gzeV59nL0zeZLRdC9+ddW3ZhRhwHHTMrUbuEOww0oSOiiwPc99idGAI83yQk7FoQpuJIk2USQmVa6dKP3fco8UqYj1g==;tVam5kKrHUwy/BcES25GLg=="
 ---

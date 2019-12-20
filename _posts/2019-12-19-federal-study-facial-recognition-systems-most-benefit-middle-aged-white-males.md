@@ -281,19 +281,6 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
-  - title: "U.S. Government Study Finds Racial Bias in Facial Recognition Tools"
-    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies. The study from the National Institute of Standards and Technology found that ..."
-    publishedDateTime: 2019-12-20T04:36:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/19/us/19reuters-usa-crime-face.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
     excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
     publishedDateTime: 2019-12-16T19:44:00Z
@@ -1005,6 +992,17 @@ related:
       - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
         width: 700
         height: 394
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when conducting a ..."
+    publishedDateTime: 2019-12-20T07:58:00Z
+    sourceUrl: https://lfpress.com/pmn/business-pmn/u-s-government-study-finds-racial-bias-in-facial-recognition-tools/wcm/2e0eb7d7-6b91-44dc-bafe-7dde80bb9059
+    ampUrl: https://lfpress.com/pmn/business-pmn/u-s-government-study-finds-racial-bias-in-facial-recognition-tools/wcm/2e0eb7d7-6b91-44dc-bafe-7dde80bb9059/amp
+    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/u-s-government-study-finds-racial-bias-in-facial-recognition-tools/wcm/2e0eb7d7-6b91-44dc-bafe-7dde80bb9059/amp
+    type: article
+    provider:
+      name: London Free Press
+      domain: lfpress.com
+    quality: 39
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

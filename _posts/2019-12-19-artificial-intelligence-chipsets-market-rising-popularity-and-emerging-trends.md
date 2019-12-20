@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T18:35:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-rising-popularity-and-emerging-trends-2019-12-19
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
+    excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
+    publishedDateTime: 2019-12-20T07:52:00Z
+    sourceUrl: https://www.openpr.com/news/1881970/artificial-intelligence-market-status-and-trend-top-key
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "dc8hMlvxUY3ugrttigDeUuUoQjsvhVO7K/h88AjNTbf1kKfhKATu1DeWmTCDtoodOxxbI8XFP9Mo251nXb0HowBW29CjVgGl+mXoq7GQ0NM+iKMi7d9qlgI/fj92jzUuRkaZcKbL6MotaY6qPV//SsbA0KEdK//oe7vZa1Wqn4V7UPrZO5mHhQTY5/BMj2Us/WONMMrpoIF0i2QVzQnVpKMg3FaImyBkVsd+LGdAglPFsiLfksL3vxgPQOFXnNOMJ45+o+5p+AV1tjUc5oNDrg==;NzRqSrQ0qndNH9l6+daS8Q=="
 ---

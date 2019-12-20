@@ -69,15 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E50B1D6DE5D1F3CC7AFF038E1874AFC1
         width: 700
         height: 393
-  - title: "UGA researchers receive grant to study self-driving cars"
-    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
-    publishedDateTime: 2019-11-26T13:04:00Z
-    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
-    type: article
-    provider:
-      name: The Red & Black
-      domain: redandblack.com
-    quality: 4
 
 secured: "vMgcHoAiAZ1MZf5pWJgEEztOoBOmI0zZ8mdi/tpgHtg6E0fz3xiwqnHL3yGXJBa00Vm2+pGAQC3tzMdBurHURcqW5vs8GUfmLNIuXgrGZ/b6N2/Wldxics/DALZkO3pJThoCimwLcUJ2QtxmyEFCYKWTgFQLkbihc2gqgDElJl11QBksJMGX3v2RvBW4FaVRpeK/CVQ+PVl1tEGwoo0xqhT76/03/83fb8z2k05+fcxp8LsF19GU09ZPum9Bofs9WfkBbm9RrlxY3JGj7+s30A==;vCKpeMxo6RPfU+RcBwNP+w=="
 ---

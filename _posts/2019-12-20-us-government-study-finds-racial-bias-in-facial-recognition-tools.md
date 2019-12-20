@@ -1,31 +1,23 @@
 ---
 category: news
-title: "U.S. Government Study Finds Racial Bias in Facial Recognition Tools"
-excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies. The study from the National Institute of Standards and Technology found that ..."
-publishedDateTime: 2019-12-20T04:36:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/12/19/us/19reuters-usa-crime-face.html
+title: "U.S. government study finds racial bias in facial recognition tools"
+excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when conducting a ..."
+publishedDateTime: 2019-12-20T07:58:00Z
+sourceUrl: https://lfpress.com/pmn/business-pmn/u-s-government-study-finds-racial-bias-in-facial-recognition-tools/wcm/2e0eb7d7-6b91-44dc-bafe-7dde80bb9059
+ampUrl: https://lfpress.com/pmn/business-pmn/u-s-government-study-finds-racial-bias-in-facial-recognition-tools/wcm/2e0eb7d7-6b91-44dc-bafe-7dde80bb9059/amp
+cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/u-s-government-study-finds-racial-bias-in-facial-recognition-tools/wcm/2e0eb7d7-6b91-44dc-bafe-7dde80bb9059/amp
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: London Free Press
+  domain: lfpress.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "U.S. Government Study Finds Racial Bias in Facial Recognition Tools"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1340,6 +1332,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "RBb3m7g/p6YuapgI30ygx1AqnEmccoNC8ToCwcozHoL/wuXy9jotktdLuQDreNEBSIv2qwC2cmzwZ9AuPMMKAe5MCQr8PQZyxkUc4K7WT2UqMOlIj66WZaWhUh21yNUyoyvpRsLNVaE/n9l4MRCUqiYXxxKqXjv4GNSCp6mR4Yi+GizL7gARaBbB1G8KaaMxeK6v23vvJr+YV31IXLYVrWdaJ11lCu7lthYEsz/7hfrAUVjtjzxkQHL3LUdLYacyesEG63s5UWfOGsTwLT8ncA==;xikjcXNAjBen4BOz4tkjLw=="
+secured: "wbMgtlvhGs8vJS5RI3wewxXNL5ETc/EuBfuICE4m4f93DlQFg9C1WfLjZ0M6814H6zm7OFeRid0omD6cfzVmFwcooWITZoyzsWL+UDJH02HFcx2F4i11fPeov+w6362UOeVefSdl2l6fzjUbwL78bUcbueos3AqW9/124qZ8lANGqMQ/M31EPkFcoOhrY/Jf992mgQ88AgDc9siAdjBBGJKLS2S1flS+yhGTvgL73AX+LS/b9uVD+vvmyP99HWnk/eiEMn2US6Ht+h/GHRuBoA==;d601jj85mpIP15rgKApVgg=="
 ---
 
