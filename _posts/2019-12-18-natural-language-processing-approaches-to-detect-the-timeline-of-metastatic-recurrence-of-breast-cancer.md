@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D279A2BB3BAB7748AE93C7DF6668418B
         width: 700
         height: 466
+  - title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
+    excerpt: "Paige said on its Linkedin page that it will use its new capital to drive FDA and CE clearances for the products it is looking to bring to the market, which comes in a timely fashion since the company was the first to get FDA breakthrough designation for using AI in oncology pathology. The company also received a CE mark shortly after."
+    publishedDateTime: 2019-12-19T11:30:00Z
+    sourceUrl: https://www.ibtimes.com/cancer-treatment-research-startup-raises-45m-develop-ai-diagnostic-products-2888594
+    ampUrl: https://www.ibtimes.com/cancer-treatment-research-startup-raises-45m-develop-ai-diagnostic-products-2888594?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cancer-treatment-research-startup-raises-45m-develop-ai-diagnostic-products-2888594?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.097919B52904DD92D45B4BEB3FB95871
+        width: 700
+        height: 463
   - title: "Using AI to understand spread of cancer"
     excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
     publishedDateTime: 2019-12-18T12:58:00Z

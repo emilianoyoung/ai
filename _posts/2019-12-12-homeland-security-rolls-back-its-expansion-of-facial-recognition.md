@@ -130,11 +130,11 @@ related:
         width: 2400
         height: 1600
   - title: "U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "(Reuters) - Many facial recognition systems misidentify people of colour more often than white people, according to a U.S. government study released on Thursday that is likely to heighten ..."
-    publishedDateTime: 2019-12-19T23:59:00Z
-    sourceUrl: https://uk.reuters.com/article/uk-usa-crime-face/u-s-government-study-finds-racial-bias-in-facial-recognition-tools-idUKKBN1YN2VJ?feedType=RSS&feedName=worldNews
-    ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1YN2VJ
-    cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1YN2VJ
+    excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies."
+    publishedDateTime: 2019-12-19T23:39:00Z
+    sourceUrl: https://www.reuters.com/article/us-usa-crime-face/u-s-government-study-finds-racial-bias-in-facial-recognition-tools-idUSKBN1YN2V1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YN2V1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YN2V1
     type: article
     provider:
       name: Reuters
@@ -144,6 +144,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Many facial recognition tools convey racial bias, study finds"
+    excerpt: "Some systems had a harder time identifying people of color than Caucasians, an NIST study says. Many facial recognition systems have a harder time identifying African-American, Asian and native groups than Caucasians, according to a study released Thursday by the National Institute of Standards and Technology. There were higher rates of false ..."
+    publishedDateTime: 2019-12-20T00:54:00Z
+    sourceUrl: https://www.cnet.com/news/many-facial-recognition-tools-convey-racial-bias-study-finds/
+    ampUrl: https://www.cnet.com/google-amp/news/many-facial-recognition-tools-convey-racial-bias-study-finds/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/many-facial-recognition-tools-convey-racial-bias-study-finds/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://cnet2.cbsistatic.com/img/p9IG6w128l_iSkKspX8F9S27UmQ=/756x567/2019/12/19/6e7f242f-2f81-410f-aadb-82a146434d1c/gettyimages-614202874.jpg
+        width: 756
+        height: 567
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -337,6 +352,21 @@ related:
       - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
         width: 700
         height: 367
+  - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
+    excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
+    publishedDateTime: 2019-12-19T22:25:00Z
+    sourceUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/
+    ampUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
+    cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 59
+    images:
+      - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
+        width: 1024
+        height: 635
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
     publishedDateTime: 2019-12-18T21:18:00Z
@@ -352,6 +382,21 @@ related:
       - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
+  - title: "Government study finds racial, gender bias in facial recognition software"
+    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday. The research from the National Institute of Standards and Technology, a federal agency within the Department of Commerce, comes amid pushback from lawmakers and civil rights groups to the ..."
+    publishedDateTime: 2019-12-19T20:33:00Z
+    sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
+    ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
+        width: 645
+        height: 363
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
     excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
     publishedDateTime: 2019-12-16T16:50:00Z
@@ -917,19 +962,19 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 39
-  - title: "Massive Errors Found In Facial Recognition Tech: US Study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
     publishedDateTime: 2019-12-19T21:53:00Z
-    sourceUrl: https://www.ibtimes.com/massive-errors-found-facial-recognition-tech-us-study-2889085
+    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-215334634.html
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/19/facial-recognition-software-can-produce-wildly-inaccurate-results.jpg
-        width: 1024
-        height: 680
+      - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
+        width: 768
+        height: 510
   - title: "New docs: facial recognition confirmed ON"
     excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
     publishedDateTime: 2019-12-19T01:18:00Z
@@ -1019,19 +1064,6 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
-  - title: "Government study finds racial, gender bias in facial recognition software"
-    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday. The research from the National Institute of Standards and Technology, a federal agency within the Department of Commerce, comes amid pushback from lawmakers and civil rights groups to the ..."
-    publishedDateTime: 2019-12-19T20:33:25Z
-    sourceUrl: https://www.msn.com/en-us/news/politics/government-study-finds-racial-gender-bias-in-facial-recognition-software/ar-BBYaEwY
-    type: article
-    provider:
-      name: The Hill on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
-        width: 645
-        height: 363
   - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
     excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
     publishedDateTime: 2019-12-19T19:32:00Z
@@ -1106,6 +1138,19 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 30
+  - title: "Massive errors found in facial recognition tech, especially in case of nonwhites: U.S. study"
+    excerpt: "WASHINGTON – Facial recognition systems can produce wildly inaccurate results, especially for nonwhites, according to a U.S. government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates ..."
+    publishedDateTime: 2019-12-19T23:43:00Z
+    sourceUrl: https://www.japantimes.co.jp/news/2019/12/20/world/science-health-world/massive-errors-found-facial-recognition-tech-especially-case-nonwhites-u-s-study/
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 28
+    images:
+      - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
+        width: 870
+        height: 580
   - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
     excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
     publishedDateTime: 2019-12-10T12:53:00Z
@@ -1254,6 +1299,15 @@ related:
     provider:
       name: Education Dive
       domain: educationdive.com
+    quality: 17
+  - title: "Facial recognition systems show rampant racial bias, government study finds"
+    excerpt: "Federal researchers have found widespread evidence of racial bias in nearly 200 facial recognition algorithms in an extensive government study, highlighting the technology's shortcomings and potential for misuse."
+    publishedDateTime: 2019-12-19T23:37:55Z
+    sourceUrl: https://www.msn.com/en-us/news/us/facial-recognition-systems-show-rampant-racial-bias-government-study-finds/ar-BBYaJ6m
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
     quality: 17
 
 secured: "Epm4ielaVDKJNWeSLaeOkc0xhYrum1CGaaEvH0b49GSxPiE7zVZcQWe8cZIfa4H7gp+TIo1/1Hio7F7oFWo/QRoVx7np5wMeBBJPS1wRo0d/a6/SNxXqoIz7D6LicbzIcmpCFbqG0155rvb8D5gdDOGdmjGrdTr2lWbDoLcJsX0Y6z/IECYAezH5K/0wvcfPy8DZAfQCKQHGLvojMeWubgHMX2Na38Z7/mnU+6q7Y1nbOCuWEFZaCYq1RUpdO2M/9JB0PwTlup3LMqQojRbnkw==;NvfkTfQvZuJ14ytYF0oPgw=="

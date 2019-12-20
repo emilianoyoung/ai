@@ -49,6 +49,15 @@ related:
       - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
         width: 480
         height: 320
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-20T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/clarkson-professors-receive-robot-continue-130010673.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "zwC480bkM5OwIqI1fp5xGxwZiNZ5TpZpAJH2zCRgR05CKq59/9GAtfqxEAZjAU4P6upRL515YjP3egTNPf5mCzKtGPgjAoUfWWFENttorXXL3WCjF5JWdNL7Sh4JipnuRdhwM8VKscEruDiUSy8Pzkf+GlnE16atZBGugj50sZAIT+8mNMMMT0gd4o1NsU7WiCqp6TnSF6gx30FAQOaW410qAJO0wq2HeL7b2CE4BD7L9iZizg90fjgbAEtbwzc8653HO1R5NePCoxI+rZQhhw==;mrRPpg+23yJczl53detGvg=="
 ---

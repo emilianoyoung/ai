@@ -23,6 +23,21 @@ images:
     height: 360
     title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
 
+related:
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+    excerpt: "\"We’re bringing the power of cloud artificial intelligence-powered robots, which learn with human input, closer to society. This further strengthens our foundation in providing an even wider range of intelligent compliant service robots from CloudMinds – from wheeled to two-legged form factors. Ultimately, we’re elevating what is now the ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/cloudminds-launches-intelligent-smart-robot-053300518.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 31
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/tPCkckDx2aw_XXC6PPLMKA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/65469c11fd4663fb8b636f1602a851d0
+        width: 480
+        height: 360
+
 secured: "Yr+sF8Js2qbK2JpU7rqUacRWu9mop+v85imOqj97GIPrnzRcgbijBGxf+KvXUlM2YyIzwpILy0r1ASJz0xA1gKPmMX6zg+PdmECWYOFQVpkvrnwp3/rn/CiSR6tU8l2LtOj59Bkv2zaiHDRRbE9mKEkvxszMtMnCkDCGuo6KT3ZNSqf/EY6I0jHA8WOeY/257ePTr+Vyy0sWoJvbnvdqyMZKUt2dMMB8CAd+IYRNHtpPweApcfc4djLxgDu/Q/ItjGiPAcb6UIL0ceOyIVuNXg==;HbClS6dzINEyXyrmZmRKjA=="
 ---
 

@@ -23,6 +23,19 @@ images:
     height: 630
     title: "Artificial intelligence bolsters breast cancer risk prediction"
 
+related:
+  - title: "New Findings Show Artificial Intelligence Software Improves Breast Cancer Detection and Physician Accuracy"
+    excerpt: "CHICAGO, Dec. 19, 2019 /PRNewswire/ -- A New York City based large volume private practice radiology group conducted a quality assurance review that included an 18 month software evaluation in the breast center comprised of nine (9) specialist radiologists using an FDA cleared artificial intelligence software by Koios Medical, Inc as a second ..."
+    publishedDateTime: 2019-12-19T23:45:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n15022616/new-findings-show-artificial-intelligence-software-improves-breast-cancer-detection-and-physician-
+    ampUrl: https://amp.benzinga.com/amp/content/15022616
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15022616
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+
 secured: "ICtfeMFa8sCd0Ch57zzF2Wf3Gf3552dijai9SEjMr0X9Er70Z3zicN5DuEG0DWxgyV563U1WUOlpJwEJIwfK/IPr/icxlETXBzRuNhv/xhrxjaT3c5uDQhZpWQVnaA3O2Vodcn3UIQ91DivzXU578D8+JedzeeHbRZ0O/wXsIHOXQKu/4XU7olSiCUah9z1BrkdbPKqpNUrxkXlX+Hgr548NhL4ZN6PMTUxr93UHK7PAwTr6hiCL6bBb9wf27qG4i7x1HTyLvP7iwkbiKjJHFA==;S2NZaEOiJ6St8tyIMlOFXw=="
 ---
 

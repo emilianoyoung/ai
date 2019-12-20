@@ -46,6 +46,15 @@ related:
       - url: https://robohub.org/wp-content/uploads/2019/12/MITSeaGrant_ITT_Intelligent_Towing_Tank_VIV.png
         width: 900
         height: 600
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-20T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/clarkson-professors-receive-robot-continue-130010673.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "LL1fFDolrF9EebDgVPKxniIPxecnxlJxufH5Z+tHO1LhLBOiVL5AV4vD702zP1Bso4OBgRG2bvStvd2WC+2Qf0Ck1KO+N34QuAJVYJiyZz/iZbS0UY+/3UN6OPREEKxxYqkg9NOUlgikpbjrS3cb0piX/iJSr44oC2erzItcASWM1zCDcydW53wBvue4Q/rt9hMYi+uEJB4E5/kcJUABuwlqDia0SvKwpFc57Wu5sEQemqwZBa07JPrN+iXTJdTXnguLfHKeTbuATsI8+5PAxg==;bjb16SrHcr5YeHk1EZU9mw=="
 ---

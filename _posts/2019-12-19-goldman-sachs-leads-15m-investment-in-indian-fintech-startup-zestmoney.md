@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 type: article
 quality: 54
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -74,6 +74,19 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
+    excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://au.news.yahoo.com/goldman-sachs-leads-15m-investment-024659367.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
+        width: 700
+        height: 466
   - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
     excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
     publishedDateTime: 2019-12-17T21:59:00Z
@@ -101,6 +114,6 @@ related:
         width: 766
         height: 400
 
-secured: "aKZKZpNTnyzvNwtmwJqLvwpxk57NQgd1RmA1v54Y5V9FwRvB15dpRtmVz2oRohLVlXjAitFRlEbFUTz7omcKWTC0JkSFfQXsJaawsfSWTBGyy+zoa5igs5uCVyOZqyrNLSMIyL5r/am5rB3AQAtgQOp6+fDjQ1fYgVKtLEuaSOHTd7BGSNsOCEOBnZWOdVHehOfrxc/uOllH4dCLngf4mo1HcKf8xaUC9S9G1/hGTFe3bZXOLw8jzseogbjfzaSX13JT7KWfJjfxAKz/Cjn4jA==;NjKhxWlmCAP84K+M+XRi3w=="
+secured: "XOV9lqYklv3Ukc7o1kVErRHvJay5HYZHigGAhEHt4ilO2ISAqKQKwzydd0sG5YHQggeLguWUzKm06gu1aLfKbVbHxGVYc78rF+dsXcdjTDtJbSHdyM8MYV+i2/ZiAxE18h9Dq286IIj+Tga8Tw/2byL+3MWGenPNGi8MXRsId2Lv6bf3w3lnHBTJkHMaqEvRomg8s8XzPjEmjf9btaRSfml3NzVpWfRNgTzKKQBwrL2sKju/SP/DpTuWqzGJDxYp4ej7y/O6BUg4WPBf4N0Kdg==;7DDK3WeUfrgL8BmpxWlHBw=="
 ---
 

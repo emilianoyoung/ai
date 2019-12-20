@@ -22,49 +22,32 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Oto snags $5.3M seed to use AI to understand voice intonation"
-    excerpt: "Oto, a startup spun off from research at SRI International to help customer service operations understand voice intonation, announced a $5.3 million seed round today. Participants in the round included Firstminute Capital, Fusion Fund, Interlace Ventures, SAP.iO and SRI International . The total includes a previous $1 million seed round ..."
-    publishedDateTime: 2019-12-17T15:14:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/
-    ampUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
+  - title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
+    excerpt: "As a product owner for a conversational interface, understanding and improving the user experience without the corresponding visibility or telemetry can feel like driving a car blindfolded. It is important to understand how users are interacting with your bot so that you can continuously improve the"
+    publishedDateTime: 2019-12-19T23:59:46Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.CD442411B56928EB5B28447FF20D6635
-        width: 599
-        height: 399
-  - title: "Opinion: To deploy AI wisely, we need to understand its limitations"
-    excerpt: "We should respect and deploy wisely its abilities, without bowing down to imaginary powers. Alice Xiang is a research scientist at the Partnership on AI. Irina Raicu is the director of the Internet Ethics program at Santa Clara University’s Markkula Center for Applied Ethics."
-    publishedDateTime: 2019-12-13T14:16:00Z
-    sourceUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/
-    ampUrl: https://www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
-    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/13/opinion-to-deploy-ai-wisely-we-need-to-understand-its-limitations/amp/
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/18/conversational-logs-5.gif
+        width: 800
+        height: 494
+  - title: "Computer algorithm helps doctors understand conversations about life threatening diseases"
+    excerpt: "Researchers from the University of Vermont Conversation Lab used machine learning and natural language processing to understand what a conversation about the treatment of life-threatening medical illnesses looks like. This research could eventually help ..."
+    publishedDateTime: 2019-12-18T20:08:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14420/computer-algorithm-helps-doctors-understand-conversations-about-life-threatening-diseases
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 15
     images:
-      - url: https://www.bing.com/th?id=ON.6EDDA49044EDF66542B77011561FF8CA
-        width: 700
-        height: 466
-  - title: "You don’t need to understand AI to trust it, says German politician"
-    excerpt: "She also demanded that AI developers should consider users’ safety concerns and other basic principles from the beginning. This is very much in line with what has been outlined in the EU’s “Ethics guidelines for trustworthy AI” published in April this year, where, as guideline number one, it is stated “AI systems should empower human ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://telecoms.com/501363/you-dont-need-to-understand-ai-to-trust-it/
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
-        width: 300
-        height: 199
+      - url: https://electronics360.globalspec.com/images/assets/420/14420/218860_web.jpg
+        width: 1440
+        height: 959
 
 secured: "6Z5LmIq7cKfJ28xuc17YCiywmH1yiKLGWTOOz6NPJC/9eGolTvmHfCPxJjlXgszstlduS4vht+o6/eo0ZxynO+Wmr2drNpehQ9RabUIC+hd3NdZxmzt/Pe0LHV5lml8eUFj1RDyMuP3wboAkM5Tpq3yEMq6ecNPH/ByWzjJdmexp2ftYNtCIlzWniCjFfJyvDMw2i4KvhRh3Kp/feuIXVh+XMMk4Qm73taH6N3jS6YGZV7Uc6gWDLxobMnM/kgWCJMisPE8G+JIwCjbMe28JhQ==;jSomP9O9Bq+HhrH7mt5FIw=="
 ---

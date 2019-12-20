@@ -85,6 +85,19 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
+    excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://au.news.yahoo.com/goldman-sachs-leads-15m-investment-024659367.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
+        width: 700
+        height: 466
   - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
     excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
     publishedDateTime: 2019-12-19T04:24:00Z
