@@ -19,17 +19,65 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Shifa International launches healthcare platform in India"
-    excerpt: "\"Starting with India, we aim to build an inclusive healthcare system, based on new-age technology, where there is no discrimination on the basis of caste, colour, creed or gender,\" Chhabra said. Shifa Care's ecosystem utilises Al (artificial intelligence), epidemiology and genetic sequence, all at one go driven by prediction, mitigation and Al ..."
-    publishedDateTime: 2019-12-19T11:47:00Z
-    sourceUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/articleshow/72886745.cms
-    ampUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
+  - title: "Mediaplanet and Dr. Mike Discuss the Future of Healthcare"
+    excerpt: "healthcare will be connected more than ever before in the past. Innovations that utilize everything from artificial intelligence, data, and analytics to virtual reality are creating better health outcomes for the population as whole. Doctors and health systems have been slow to adopt these crucial technologies, but it is key to improving the ..."
+    publishedDateTime: 2019-12-20T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
+    ampUrl: https://markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "80% of healthcare professionals say AI has decreased burnout: 3 notes"
+    excerpt: "In contrast to fears that the widespread use of artificial intelligence will dehumanize healthcare, the vast majority of medical professionals who regularly use AI say it improves workflows and reduces clinical error, according to a new report. The MIT Technology Review and GE Healthcare surveyed more than 900 healthcare professionals in the U ..."
+    publishedDateTime: 2019-12-16T22:10:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/80-of-healthcare-professionals-say-ai-has-decreased-burnout-3-notes.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
+        width: 400
+        height: 300
+  - title: "80% of healthcare pros believe AI is reducing burnout, survey finds"
+    excerpt: "Artificial intelligence may help to inject more humanity back into the medical profession, despite concerns that it may make medicine colder and more sterile. About 80% of healthcare professionals also believe such technology is helping to reduce burnout, according to a new survey of more than 900 individuals in the U.S. and U.K. The MIT ..."
+    publishedDateTime: 2019-12-16T19:01:00Z
+    sourceUrl: https://www.radiologybusiness.com/topics/leadership/healthcare-artificial-intelligence-burnout
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3E917C66508DEC13087F9313ACFC33C3
+        width: 700
+        height: 367
+  - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
+    excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
+    publishedDateTime: 2019-12-20T14:03:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/imagia-partners-with-top-facilitate-ai-accelerated-healthcare-discoveries-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 18
+  - title: "H1 Continues Momentum With Record Customer Growth and Expansion of Healthcare Machine Learning Analytics Platforms"
+    excerpt: "H1, a New York-based healthcare data-driven solutions provider, today announced continued momentum and record customer growth and expansion of its global healthcare analytics platforms. The company has grown to an impressive customer base with more than 35 pharma clients, with record revenue growth by 350% in the last year. “4 out of the top ..."
+    publishedDateTime: 2019-12-16T13:07:00Z
+    sourceUrl: https://apnews.com/Business Wire/abecb690e39a45d2b8f226a94bc5510a
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "1ixSpaDfhHwAJwMDnaWlaQf7sjsfLr/5ghe8ymGwmBxlmDjzrpHRp9rwyhyg6+gtrCqeYTNmxsEcvxE8MLrcXKtJvKHlX0f2eWeZx4W1hZukK9H/iav7at/7lxos4gUyuOclfQ3G8Urb1fvskUcp53tT4IuLKRWF4y5n0AQQfPZLZC5A5gueQMb6ti9Pe04kp/Rn68Z+Fh9hUuzvvVAt5P80vNL+ucMHHm3XwhBYl13jZU3sUZViG0Dh88Nf3AMOLX3vg781KMDqYDHf/aitaA==;3/11SXXKD8FtFHeM48woSA=="
 ---

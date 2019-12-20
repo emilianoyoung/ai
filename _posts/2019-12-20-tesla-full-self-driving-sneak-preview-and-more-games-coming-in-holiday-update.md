@@ -30,6 +30,21 @@ images:
     title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
 
 related:
+  - title: "Tesla holiday software update will preview full-self driving mode, add Stardew Valley"
+    excerpt: "With it, Tesla owners will get a \"sneak preview\" of the firm's \"full self-driving\" mode. Oh, and for the gamers out there, Teslas will get a copy of quirky farming sim Stardew Valley. Tesla holiday software update has FSD sneak preview, Stardew Valley, Lost Backgammon & a few other things — Elon Musk (@elonmusk) December 20, 2019 The bigger ..."
+    publishedDateTime: 2019-12-20T15:05:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/tesla-software-update-full-self-drive-mode-stardew-valley/
+    ampUrl: https://www.cnet.com/google-amp/news/tesla-software-update-full-self-drive-mode-stardew-valley/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-software-update-full-self-drive-mode-stardew-valley/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 97
+    images:
+      - url: https://www.bing.com/th?id=ON.FEFD7B5658F0BD8C6C27EC7399C96286
+        width: 700
+        height: 393
   - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
     excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
     publishedDateTime: 2019-12-20T09:06:00Z
@@ -56,6 +71,28 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 69
+  - title: "Musk: Holiday Tesla Preview Adds 'Starview Valley,' Self-Driving Preview"
+    excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
+    publishedDateTime: 2019-12-20T15:30:00Z
+    sourceUrl: https://www.entrepreneur.com/article/344126
+    ampUrl: https://www.entrepreneur.com/amphtml/344126
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344126
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 68
+  - title: "Telsa Adds 'Stardew Valley' Dash Game & Offers Full Self Driving Preview For Holiday 2019"
+    excerpt: "Essentially, this means we’ll have a closer look and understanding of how Tesla aims to introduced Full Self Driving into its line-up of semi-autonomous cars. No date has been confirmed for the release of the Holiday 2019 pack, but expect more Tweets from Musk soon noting when you can get the latest from your car. In related news, Tesla has l ..."
+    publishedDateTime: 2019-12-20T15:39:00Z
+    sourceUrl: https://hypebeast.com/?post=4840796
+    ampUrl: https://hypebeast.com/2019/12/tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk?amp=1
+    cdnAmpUrl: https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2019/12/tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk?amp=1
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 30
 
 secured: "bMTPX50toGbS1/c+DfyueqUsQi+7BPEX21d9uYlDrrOekgys3IahsOeXvwWdrrFqliqsdspY1WWyJWcWok4zjEpBWDaMu1DEYC13UX6yge8GaM9CXNTobuwknewiPoovyjbcxevAhTbe9M0I1AsMq3pkMJGf4h4SJMDIC3ejjIHebGvo9gXiJu9+I4f2ge7EAzoEQ68rzcOp7B2sAjZZKZ0QIlJvmBeOM6lUUK31qiB1+zMN3chJSo18KL6EptNyuEW1xXe1nsbYEc8sBf+tHA==;jTsx6xZYswkrWFS+GKAW/Q=="
 ---

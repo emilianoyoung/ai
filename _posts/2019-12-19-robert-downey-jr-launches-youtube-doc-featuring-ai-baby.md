@@ -84,14 +84,18 @@ related:
         width: 700
         height: 367
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
-    excerpt: "YouTube has uploaded an original documentary series about artificial intelligence with Robert Downey Jr as its narrator. The first episode of the series features a virtual baby built using AI."
-    publishedDateTime: 2019-12-20T13:51:00Z
-    sourceUrl: https://www.msn.com/en-nz/entertainment/movies/youtubes-new-documentary-demystifying-artificial-intelligence-features-robert-downey-jr-and-an-ai-baby/ar-BBYclz6?li=BBqdk7Q
+    excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
+    publishedDateTime: 2019-12-20T12:10:00Z
+    sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
     type: article
     provider:
-      name: Business Insider Australia on MSN.com
-      domain: msn.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
 secured: "TsYE/ZdkFy7p9XXG64XYSG20I14mmMS+I2w1LJk8dN4J1gK/2NVn1TmZUdcEqCz6Ujc6uxIAx9ZWsr3Ra1QvKDeYvFW8xvMduZQp3/i15Yss8RBJVSqN6SEa0ieQvL3pXHjLFvAQfLEzWJhErIYIgmGJ+Uw618xCCA183Ck2y3blGgoN38XrrhvuWiYWLCEKUOdrE5PVDzopvMoKi7FL1iY6envyb2fZg4bhL5BvkxT95LbZG0aXfM1Ek57kMhJ6QKKFYlVHVHBE+QLi33o1GA==;GutaozgcJakCnBGm7usitw=="
 ---

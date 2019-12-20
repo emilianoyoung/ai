@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T16:10:00Z
 sourceUrl: https://roboticsandautomationnews.com/2019/12/17/ubtech-launches-portable-social-robot-with-loving-ai/27604/
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,58 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "CloudMinds Launches SmartRobot Rental Program, Plans Vending Robot"
+    excerpt: "SANTA CLARA, CA -- CloudMinds Technology Inc. -- a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter -- has launched a Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. The Santa Clara, CA-based company also developed and markets ..."
+    publishedDateTime: 2019-12-20T15:42:00Z
+    sourceUrl: https://www.vendingtimes.com/articles/cloudminds-launches-smartrobot-rental-program-plan-13266
+    type: article
+    provider:
+      name: Vending Times
+      domain: vendingtimes.com
+    quality: 39
+    images:
+      - url: https://www.vendingtimes.com/Uploads/Public/Images/Articles/201912/12202019-CloudMinds%20Launches%20Intelligent%20Smart%20Robot%20Rental%20Program.jpg
+        width: 1440
+        height: 1080
+  - title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
+    excerpt: "Information technology, artificial intelligence and biotechnology are three fundamental variables that enormously ... XAUV™ R80 is an autonomous, multifunctional farm robot which allows third-party payloads and adapts to both plain fields and sloped terrains. While inheriting XAG's technical advantages in centimetre-level RTK navigation ..."
+    publishedDateTime: 2019-12-20T10:12:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-from-sky-ground-xag-launches-farm-robots-smart-/2019/12/20/9073095.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+    images:
+      - url: https://mma.prnewswire.com/media/1058239/SAC_2020.jpg
+        width: 400
+        height: 267
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+    excerpt: "CloudMinds Technology Inc. - a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity - has launched an innovative Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. From natural language processing (NLP ..."
+    publishedDateTime: 2019-12-19T05:58:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-cloudminds-launches-intelligent-smart-robot-rental-program-consumers-/2019/12/19/9072229.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: https://mms.businesswire.com/media/20191218005837/en/764018/4/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
+        width: 480
+        height: 360
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
+    excerpt: "\"We’re bringing the power of cloud artificial intelligence-powered robots, which learn with human input, closer to society. This further strengthens our foundation in providing an even wider range of intelligent compliant service robots from CloudMinds – from wheeled to two-legged form factors. Ultimately, we’re elevating what is now the ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/cloudminds-launches-intelligent-smart-robot-053300518.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 31
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/tPCkckDx2aw_XXC6PPLMKA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/65469c11fd4663fb8b636f1602a851d0
+        width: 480
+        height: 360
   - title: "CloudMinds Launches Intelligent Smart Robot Rental Program, With Vending Robot On The Horizon"
     excerpt: "SANTA CLARA, CA -- CloudMinds Technology Inc. -- a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter -- has launched a Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. The Santa Clara, CA-based company also developed and markets ..."
     publishedDateTime: 2019-12-20T12:26:00Z

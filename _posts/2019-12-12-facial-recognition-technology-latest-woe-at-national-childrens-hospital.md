@@ -202,6 +202,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
         width: 700
         height: 525
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:00Z
+    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "China Continues Facial Recognition Adoption With Airport Scanners"
     excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
     publishedDateTime: 2019-12-11T23:25:00Z
@@ -764,6 +779,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C4243A15BB13D680E3E0628F52145740
         width: 700
         height: 449
+  - title: "Federal study finds racial bias of many facial-recognition systems"
+    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
+    publishedDateTime: 2019-12-19T19:06:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/
+    ampUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.93AE9731C22EF88B244F6025EB39C038
+        width: 700
+        height: 449
   - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
     excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
     publishedDateTime: 2019-12-19T23:19:00Z
@@ -1081,6 +1111,19 @@ related:
       name: The Raw Story
       domain: rawstory.com
     quality: 39
+  - title: "NIST confirms that facial recognition doesn’t work equally well for all"
+    excerpt: "It’s a fact you’ve probably heard before: Facial recognition technology doesn’t work equally well for all people. In general, today’s facial recognition algorithms tend to be best at identifying white, male faces and can struggle when it comes to the faces of women or people of color. Now, a new study from the National Institute of ..."
+    publishedDateTime: 2019-12-20T15:26:00Z
+    sourceUrl: https://www.fedscoop.com/nist-facial-recognition-demographics-study/
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg
+        width: 1920
+        height: 1113
   - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
     excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
     publishedDateTime: 2019-12-13T18:44:48Z
@@ -1147,7 +1190,7 @@ related:
   - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
     excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555 ..."
     publishedDateTime: 2019-12-20T12:55:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/
+    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/CyberLink-Showcase-Latest-Applications-FaceMe®-AI-Facial
     type: article
     provider:
       name: Business Wire
@@ -1400,15 +1443,6 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T14:27:06Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYbS8X
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 12
 
 secured: "+P/BYIqY+jm7mkgcLBDvL6tfrTlPzoDWcMHOdyt/qlG9pdwH4TnUAD4vn+eFcYn6qVuRimwmMcJpGhCnaL3j0jiA6/0DHo/I2uOxlNn7lKCj0q9kp7KtczYJ9IWirfUwfBfDgsJFz5hZ0hQwBRgCi4fMKh3RAp6wjATOmj4n7t+34XqKzADICrOw4FctYL1UYxVtyiC/8boXqe8haDXWRjY1lgVWrSP1Bg6LoWegcfgLxJhOzylWw/sJ8cr08+aO8sIwRd+KSrrt+BpqnRoPiA==;m3txnM/lELnT4ed5dNEV1g=="
 ---

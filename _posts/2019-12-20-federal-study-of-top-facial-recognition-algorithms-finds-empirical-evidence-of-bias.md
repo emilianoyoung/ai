@@ -2,20 +2,32 @@
 category: news
 title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T14:27:06Z
-sourceUrl: https://www.msn.com/en-us/news/technology/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYbS8X
+publishedDateTime: 2019-12-20T14:27:00Z
+sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
 type: article
-quality: 12
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
+    width: 1400
+    height: 933
+    title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -758,6 +770,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C4243A15BB13D680E3E0628F52145740
         width: 700
         height: 449
+  - title: "Federal study finds racial bias of many facial-recognition systems"
+    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
+    publishedDateTime: 2019-12-19T19:06:00Z
+    sourceUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/
+    ampUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.93AE9731C22EF88B244F6025EB39C038
+        width: 700
+        height: 449
   - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
     excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
     publishedDateTime: 2019-12-19T23:19:00Z
@@ -1075,6 +1102,19 @@ related:
       name: The Raw Story
       domain: rawstory.com
     quality: 39
+  - title: "NIST confirms that facial recognition doesn’t work equally well for all"
+    excerpt: "It’s a fact you’ve probably heard before: Facial recognition technology doesn’t work equally well for all people. In general, today’s facial recognition algorithms tend to be best at identifying white, male faces and can struggle when it comes to the faces of women or people of color. Now, a new study from the National Institute of ..."
+    publishedDateTime: 2019-12-20T15:26:00Z
+    sourceUrl: https://www.fedscoop.com/nist-facial-recognition-demographics-study/
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg
+        width: 1920
+        height: 1113
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1154,7 +1194,7 @@ related:
   - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
     excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555 ..."
     publishedDateTime: 2019-12-20T12:55:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/
+    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/CyberLink-Showcase-Latest-Applications-FaceMe®-AI-Facial
     type: article
     provider:
       name: Business Wire
@@ -1408,6 +1448,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "bycttyAKNrCMII4IJnPERgCOFIiqL3D6kA7aBKIiEKTyZ0AqEQZcd876P3ejNJQ8I3mOhkRa5MhTPff9Tq8PZusMPYFxazy+f647G6t4+/moS+SsVxnR2YD3HLNZutK342Nu4dbO17NbFwCDMHwe03aDoznjkjmvSSsFK7DW4aZmPHS3JsABZxEbaS0cGIzlXU2pduLn10DFIRv1Jn/mLDRGyTy//f9JHqNWefe1WXgfvwDGyf00kTfe8vqZcIiDHxJUv+F35fuRdMKehUYIEA==;M8fpK12BJ5gbVSNHYn1Y+w=="
+secured: "LeYvw8K6Jep9+HIX5khz2ufP35N/tiwFAIpXMSdv99xNcOsfzExGz0XetOhzZkvwhy2809k7kkwbZDaDKRJRf0YTUlAbed3reOefYrgyBm9gibIs/LQV9tm8plzhLyul/Je/3wrqGvXTaGvwtjdMyvZo05ukGEfxb+jishWnR6vsffXg+ewtlIq1bUtwQGOBZeWDXxfgEjxNiVB0x0G5luU7vN6B41+t8AnVXriUqRkGeFKGrfcFhKa4mAS3QYL1KDCxQnoedN+MIKx1Vl7d7g==;93elKbsH7K2Zr+pF52Aypg=="
 ---
 
