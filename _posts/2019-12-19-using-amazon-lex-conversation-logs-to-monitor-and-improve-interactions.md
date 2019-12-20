@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
 
 related:
+  - title: "Semiconductor tech to be more important in future 5G and AI applications"
+    excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
+    publishedDateTime: 2019-12-20T02:14:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PD213.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 18
   - title: "Computer algorithm helps doctors understand conversations about life threatening diseases"
     excerpt: "Researchers from the University of Vermont Conversation Lab used machine learning and natural language processing to understand what a conversation about the treatment of life-threatening medical illnesses looks like. This research could eventually help ..."
     publishedDateTime: 2019-12-18T20:08:00Z

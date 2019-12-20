@@ -37,6 +37,15 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/18/conversational-logs-5.gif
         width: 800
         height: 494
+  - title: "Semiconductor tech to be more important in future 5G and AI applications"
+    excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
+    publishedDateTime: 2019-12-20T02:14:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PD213.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 18
   - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
     excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
     publishedDateTime: 2019-12-19T12:00:00Z

@@ -146,6 +146,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Federal study confirms facial recognition is a biased mess"
+    excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
+    publishedDateTime: 2019-12-20T02:16:00Z
+    sourceUrl: https://mashable.com/article/nist-study-facial-recognition-tech-bias-false-positives/
+    ampUrl: https://mashable.com/article/nist-study-facial-recognition-tech-bias-false-positives.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-tech-bias-false-positives.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: https://mondrian.mashable.com/2019%252F12%252F20%252Fd0%252F810943fa599d4a39974f0bd0e47aee26.bf804.jpg%252F1200x630.jpg?signature=1ceEoEnj3VYNzh59iD28jz0jNxQ=
+        width: 1200
+        height: 630
   - title: "Many facial recognition tools convey racial bias, study finds"
     excerpt: "Some systems had a harder time identifying people of color than Caucasians, an NIST study says. Many facial recognition systems have a harder time identifying African-American, Asian and native groups than Caucasians, according to a study released Thursday by the National Institute of Standards and Technology. There were higher rates of false ..."
     publishedDateTime: 2019-12-20T00:54:00Z
@@ -386,21 +401,6 @@ related:
       - url: https://www.eastbaytimes.com/wp-content/uploads/2018/06/SJM-L-FACERECOG-0628-1.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
-  - title: "Government study finds racial, gender bias in facial recognition software"
-    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday. The research from the National Institute of Standards and Technology, a federal agency within the Department of Commerce, comes amid pushback from lawmakers and civil rights groups to the ..."
-    publishedDateTime: 2019-12-19T20:33:00Z
-    sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
-    ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
-        width: 645
-        height: 363
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
     excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
     publishedDateTime: 2019-12-16T16:50:00Z
@@ -1055,6 +1055,19 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Government study finds racial, gender bias in facial recognition software"
+    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday. The research from the National Institute of Standards and Technology (NIST), a federal agency within the Department of Commerce, comes amid pushback from lawmakers and civil rights groups to ..."
+    publishedDateTime: 2019-12-19T21:03:00Z
+    sourceUrl: https://www.msn.com/en-us/news/politics/government-study-finds-racial-gender-bias-in-facial-recognition-software/ar-BBYaEwY
+    type: article
+    provider:
+      name: The Hill on MSN.com
+      domain: msn.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
+        width: 645
+        height: 363
   - title: "Facial Recognition Turns Out To Be Not So Great If You Aren’t a White Man"
     excerpt: "The National Institute of Standards and Technology released a report today about the accuracy of facial recognition software. The news was grim: most algorithms make a lot more errors when the subject is anything other than a white male, which means that women and people of color are more likely to be misidentified. But this got me curious ..."
     publishedDateTime: 2019-12-20T01:31:00Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-m
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/amp/
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -61,6 +61,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D0B3918243E45BBFD57A0FE3FEA57197
         width: 700
         height: 525
+  - title: "5 Machine Intelligence Trends Of 2019"
+    excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
+    publishedDateTime: 2019-12-20T02:16:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc29a5e961e100073989a2%2F0x0.jpg
+        width: 960
+        height: 640
 
 secured: "kQWQnpFeGfu+Ar48N/dJ3IZR0oPcfCm/iecxq95yugp5Y1SxmpW5XnPb2apAG8yq/NFNwA51nc1dqPPKPLPRT1rAGQirwVg/VjfrnkgnuZBgyxViyG0SMTysb3HHjWBS/yS07T+RRDvGlyr4TlZXzB4TCrbDt/bw9PG2Dgxt1ryYDh2o0Bx2tVpwiPHkR1gy7YadXQr9AbzWuxqu9YMxHA/0EcofhRBaZyzW+CzPBBoNZuvdlkYmSqlv5/6AV7IWPZ5xdDDoRN9NJqmi/zl5TA==;ddv8EYNF4D2fTiEyvjExwg=="
 ---

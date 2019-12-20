@@ -61,6 +61,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D7F5BBC4A63C16AD672B0B4A55AB9FB6
         width: 700
         height: 366
+  - title: "5 Machine Intelligence Trends Of 2019"
+    excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
+    publishedDateTime: 2019-12-20T02:16:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc29a5e961e100073989a2%2F0x0.jpg
+        width: 960
+        height: 640
 
 secured: "6P5/Q8NkRHa45mrEPr3QyLvxrL7sT4DqkPl7wMZDEATsyW5IK8rTYvmQNPUFcLeR2zcc808+4VAqFoWt60GJfXwB6UtpJalfxkTWf9SPfu0nxb2eP4ZRP5Er9CK+ThvPxPsE5PoxIwHIeKnQSs980K4m3HrwJfzF/IaD8cjmQE2LiB4n/nMwLzZWV8wIpGZh+o6Z5UxNfaOdL9hgda/+UGc+2nLfelqf4JCnT4GvJVNh6fRiPYo9fJ2gCkViapVBllK6h08oFQb8GpEHovggGw==;d0BdSTTjGOOiDKL79kFB9Q=="
 ---

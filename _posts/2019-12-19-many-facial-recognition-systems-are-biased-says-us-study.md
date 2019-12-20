@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.am
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
 
 related:
+  - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
+    excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
+    publishedDateTime: 2019-12-20T02:24:00Z
+    sourceUrl: https://www.wsj.com/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
+    ampUrl: https://www.wsj.com/amp/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: https://images.wsj.net/im-138364/social
+        width: 1280
+        height: 640
   - title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
     excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
     publishedDateTime: 2019-12-19T22:21:00Z

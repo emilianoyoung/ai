@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
         width: 700
         height: 366
+  - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
+    excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
+    publishedDateTime: 2019-12-20T02:24:00Z
+    sourceUrl: https://www.wsj.com/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
+    ampUrl: https://www.wsj.com/amp/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: https://images.wsj.net/im-138364/social
+        width: 1280
+        height: 640
   - title: "Serie A to tackle racism in Italy with facial recognition, says CEO Luigi De Siervo"
     excerpt: "Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behaviour with racist chants aimed at Romelu Lukaku, Franck Kessie, Dalbert Henrique ..."
     publishedDateTime: 2019-12-16T17:34:00Z
