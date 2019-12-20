@@ -3,11 +3,9 @@ category: news
 title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
 excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
 publishedDateTime: 2019-12-19T22:21:00Z
-sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12/
-ampUrl: https://amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
-cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
 type: article
-quality: 60
+quality: 40
 heat: -1
 published: false
 
@@ -89,6 +87,6 @@ related:
         width: 700
         height: 393
 
-secured: "Gfj1g91Htog46dvZLdVTqYeWxo9hjz0OqDxbRBXgjoLPOidbEVN1fhZAtpwMBTPzdeoejUAkWzgFGjQ3mgoG1HQy4IT6swKAa5IZbfa+cYppD57LgVrOowesE5NfADOa4ZLvSYhBZ9G4QU95YevOzJJdn3skAjQPYq9vmgkg9wm89t+1ANTRvqikDq5+fDsbLQPoHQ/ak+W8yUoXTnq+Z32TTGrTbWThLZzSEMGC3vjzgSJPjWGaMQuxMi54vrIJVeF3mGAogkYhuRP3ot+VgQ==;h0oQJ+DFhbTIPpoT+Gs+iQ=="
+secured: "/yUqBhUC24BQf7tLMPI3ZLulps3Ojzaq6DCPjuqrRMq+/UG5tYvt3oZoJkAmkcc7gxDGWVpu865w9Wz5ahH4YnXANGJx+oI3xH8LfV6+HDz2vdl6xrNMjiPZdsv4CEQYLAh/2Lj4eKhY+V6rGsR49cQI0TiuC6InNHhT3y2ad7R+bIHJvy//1aj5+Ve7NknN6yVyMetDSfhWApe0dJbAMrvUVDm4a+okjpWe3WQGlebX3SVsRVo3nxnTcgxC/yw5RjBQNxoot1t4KsI6iAzs+w==;z7al7JMj7wGRgStxV5mhAg=="
 ---
 

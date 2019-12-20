@@ -91,19 +91,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 54
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "Designed based on Samsung’s 14nm process and I-Cube TM package technology, Baidu KUNLUN chip to expand AI ecosystem and transform the user experience Baidu, Inc. (NASDAQ: BIDU), a leading chinese-language internet search provider, and Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced that ..."
-    publishedDateTime: 2019-12-17T23:43:00Z
-    sourceUrl: https://finance.yahoo.com/news/baidu-samsung-electronics-ready-production-100000829.html
+  - title: "Baidu and Samsung team up for mass production of AI chip"
+    excerpt: "Baidu will provide advanced AI platforms to maximize the performance of AI, while Samsung will apply its foundry manufacturing technologies to high-performance computing chips, which are dedicated to edge computing as well as cloud computing, an area in which Baidu has been trying to catch up with its local rivals including Alibaba and Tencent."
+    publishedDateTime: 2019-12-20T03:06:00Z
+    sourceUrl: https://asia.nikkei.com/Business/China-tech/Baidu-and-Samsung-team-up-for-mass-production-of-AI-chip
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 42
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/Yg_et0f.iaNbpzJ83s6sFA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/3f44db5d6c8a2c9bdb3ecef71c91b74d
-        width: 480
-        height: 330
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F8%2F8%2F0%2F1%2F24031088-2-eng-GB%2FCropped-1576660829RTS2038J.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces
+        width: 1600
+        height: 900
   - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
     publishedDateTime: 2019-12-18T12:58:00Z

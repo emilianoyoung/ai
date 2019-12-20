@@ -2,8 +2,8 @@
 category: news
 title: "How can healthcare achieve real technology driven transformation?"
 excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
-publishedDateTime: 2019-12-19T20:50:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
+publishedDateTime: 2019-12-19T20:48:00Z
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/mali-hch121919.php
 type: article
 quality: 39
 heat: -1
@@ -151,6 +151,6 @@ related:
         width: 1200
         height: 448
 
-secured: "APD0Oq2VXp9LWMLTWIHXeeUfak2RDXxa2bDMa3U47SgwNCW/0as9prGAadQAqK/nJBBn8uffXvJ8y7mycmTjJNE5rS6F17a8/1vA6DWUaZPPfDAL+m5qqzDl+GvDEC+Jnzuz9FTyqt9ghu+tQSyXjZ83JXnG1N/TNkU2+4Rxjgm9JiK72I4eHz9OvrnKt4UGKSGe3OMETHgWB0LxjazYQMZ1rYu9fo608cSunOhczGK8tImG1hAVZOVMP/3FJiuzvtDtSCCFaq6F6ZNcdsehJA==;S8pbD+e8k/KA2bU+3P5lgg=="
+secured: "O9IKLNeH2Wcj0EDDi8OevyfflUosAxkX7t21/F/pGasv44H9tGekXBMKJMD6o7tm4xF6Brw1uE6BtJPE0i98pjxLFaEgwvrAy4HRn13HAA4Z1VxdTfIGAiUkK2H2pccKFiDE2H5tDNaxZuj2oA6mz07/arEbIiUYiGpDHxouFo/U2ACd4GYSQFvEaGOVtuNg/np+JrmsJyqwYCoC0PGVsg0X1r9/HyB+hm3zdRVSt3ZpjRabq+JW4uwSOfTcqbPUnOtnEShwplyO8c34JndT9g==;Lj1KKpq3mOMrEg8y1eMonw=="
 ---
 

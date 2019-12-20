@@ -77,11 +77,7 @@ related:
     provider:
       name: The Red & Black
       domain: redandblack.com
-    quality: 24
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/d/e5/de52d844-1001-11ea-b8e2-afd13556e3e0/5ddca470088fa.image.jpg?resize=777%2C630
-        width: 777
-        height: 630
+    quality: 4
 
 secured: "vMgcHoAiAZ1MZf5pWJgEEztOoBOmI0zZ8mdi/tpgHtg6E0fz3xiwqnHL3yGXJBa00Vm2+pGAQC3tzMdBurHURcqW5vs8GUfmLNIuXgrGZ/b6N2/Wldxics/DALZkO3pJThoCimwLcUJ2QtxmyEFCYKWTgFQLkbihc2gqgDElJl11QBksJMGX3v2RvBW4FaVRpeK/CVQ+PVl1tEGwoo0xqhT76/03/83fb8z2k05+fcxp8LsF19GU09ZPum9Bofs9WfkBbm9RrlxY3JGj7+s30A==;vCKpeMxo6RPfU+RcBwNP+w=="
 ---

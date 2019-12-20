@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Clarification: Health Care-Artificial Intelligence story"
-excerpt: "Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients. It already detects an eye disease tied to diabetes and does other behind-the-scenes work like helping doctors interpret MRI scans and other imaging ..."
+excerpt: "Artificial intelligence is spreading into health care ... was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions."
 publishedDateTime: 2019-11-26T19:42:00Z
 sourceUrl: https://apnews.com/49877aba863e4f5199d0a22d68966bcc
 type: article
@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Clarification: Health Care-Artificial Intelligence story"
 
-secured: "P+wamfuRk8czGl94H3dSr6Mj7I+mS2qGwSjpQ2HhymRzj2tN/jh0l5nZEn7Z0U0BvPF7akrNYvylmVwx6kK/c963AVPgp2p8g9qbn55aCpi3XFw3fpgrOA69+IBlOvjjUjINoaZstUGDbsHTTnYz4KPtsBL6ui5kgEvDGuEYJlrYWK0W3Rks7dngStaBsnQHMgTQN7S7qXf8e2c4EuT9wPOlBI1Wbn28DN+4dyg1QKtb3i9j2GeP6KpS6TgSa3BtpwjiCbRzbu09nTlRd196kg==;UA3ewdsLJRUkpiuUgkQ9qg=="
+secured: "dsp5oCEA+INTomtrWRC5LLjLYoWjhtlXEpW2+TvGK7N2sbzOA/3NShZelIaqx7QuKAMBluGx4jZboivsrm5bJPnXr/iR8LUZgoYvIX+AuIw8p6iH0MDIzWIlFVcsF+HjO3F1c4WzSyWxXt8NQJK05tZWfPvez61IO+yAXI1uvq7cKO+KkBzpXPtsByiyLL3tZf6hW8ka44QL9/KERYiPiWj+sxObTmgQy9izsvuzDCUwUhqhvYQ3ApoDE5gO5fZXcXN02ta06KKtlTDWEAvkSA==;B91wZboc6Ie9WSFX7jC9EQ=="
 ---
 

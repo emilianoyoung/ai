@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-23T19:01:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 62
+published: true
 
 provider:
   name: Science Daily
@@ -21,23 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
-    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
-    publishedDateTime: 2019-11-25T05:10:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 71
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
-        width: 675
-        height: 365
-
-secured: "xgnmp+9rvJh5olVk+fBvOHWXjDf7OhZ/VnpVfclLJwlF8gXlYXZ8+H+jeDteh2ttQQiOUTLuFo6vSPcNA2gvNHqxVTCJU3oyYrGwjYxyUrLpWh3VQR1Q9wV2mrJsFRjbfOh3/trcJLkbhjm/AvNnC0UXJyYGDb/6eyx0F7RbPU+POpX8XOc/7tdD74NXExRXUTzV+VqTrpORQjfgt6cTRtZVw0TNcO6KFRxdpG2hoCeVIWz9mQa8HXmzLYU1+IADxx5NlKEvq/8OTWPzzNrtuQ==;nZHbcbrj6XBCwH87P0qTJg=="
+secured: "3Fep+AjongLadxoCTQq454jERKUvqocNHKgpP086UIZebXJYOaky9ko4oEA2JjWe/HZR2G62Hl/fSQW5HefiT4T1kfLqO6ktZuIDlTC9wus593jC2UKSgGO3Xp4vVcrQuA4Gz0LJpjQDY5dU4SEXcL334s7mKNiAgOK/rMRz2VpOXrbH4i4QgmxExkHqpAO1c3PG6R21Fz7qAdGovDz8gEGlu6ZsBi0eql8LJ0Z40QvJQSWNI+aoW8I9B3vRTcN4PI38Hp3FB15AKEXdqPHrZw==;/1lHxsXso/dcYSGRGf8EDg=="
 ---
 

@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Government study finds racial, gender bias in facial recognition software"
-excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday. The research from the National Institute of Standards and Technology (NIST), a federal agency within the Department of Commerce, comes amid pushback from lawmakers and civil rights groups to ..."
-publishedDateTime: 2019-12-19T21:03:00Z
-sourceUrl: https://www.msn.com/en-us/news/politics/government-study-finds-racial-gender-bias-in-facial-recognition-software/ar-BBYaEwY
+excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
+publishedDateTime: 2019-12-19T20:33:00Z
+sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
+ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: The Hill on MSN.com
-  domain: msn.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI
@@ -1323,6 +1325,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "TGKmXGYZ1LqDm4nclVdlO8eyCAFma8XcNoXFFieRJvncdvkLgSO4S1j6sa3XGHrahGXMYPYrr/rSqkh6W7wh/N62ryu/+nTFXAtPniYQJsrvydAV7VpbouEg0u0xk2y0cRwVT19M6ip10L4FcJh7q8lcRa10LNxRBu7hxy4wCq466wuosVJEMM3fmQ7BKCRJpmSni8FKyzGyU9zVcR6AK+1ENZsTm8jhEgUj3TJwrfoB2yNmE5IUtWp/Ttn0K/vuCzgsAFUmhhA6LfFE+jnp9g==;jKRwElQBBof6cYhgGGfcDQ=="
+secured: "Inf7JZtMLrrNaq//+PM/aHKY68cgZo/5cleXaFrmxS0Brm1Wh4mjjBlcPuOX6ZZMES+ME1/J4muX3BLZm1niPW5TeImff00NFs69C9yr50GI6z7Qx2BOfDrfSzP3xy7A4H9g8UZ819t1xLz6Y8hKRoWLUMGAxgHQjK8eAXuqwa9tQ2pVsiYzRwRcaeVC52OJIaxMpjoBtnBwezWUKdAqpZBe8kyrKI1nfgM5vYKc79Cm3DcHOv79Fx+5T+qU8uSovuyD96hDUM/SgIdOyFdhQQ==;c+8XWlhMxpYR2Pt0Vgb6WQ=="
 ---
 
