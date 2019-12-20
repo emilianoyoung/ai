@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/nz/amp/news/morality-and-artificial-intelligen
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/morality-and-artificial-intelligence
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C89DCD6DF57890291E658FF4D85F24
         width: 690
         height: 400
+  - title: "Making best use of Big Data and AI: There’s nothing artificial about people’s health needs"
+    excerpt: "A new EPHA Reflection Paper explores the potential of Artificial Intelligence (AI ... The paper proposes to look beyond the hype by taking a level-headed, public health friendly approach to AI’s expansion into the healthcare sector. It is key that AI and related technologies serve the needs of their end users first and foremost ..."
+    publishedDateTime: 2019-12-20T13:52:00Z
+    sourceUrl: https://epha.org/making-best-use-of-big-data-and-ai-theres-nothing-artificial-about-peoples-health-needs/
+    type: article
+    provider:
+      name: epha.org
+      domain: epha.org
+    quality: 9
 
 secured: "v/oiexL64GKt3UYWs8FXIzJww9OvmHAwEb8yoGoD0NNXlXH8vKfITUcwjCnhpN8/d003iu2Ana8faYbdmpPqFjFFXykzX47aEtcfcxlgPl9NqNw3ZPBFnA9VRtp/w9XXkKOBjp6grkYnY8uNM7G3N0jjn3zAgB5G2wpDl5JrKWMwXdpvfj02y6UHjoMQy7xxGJT7AVOOiHVlJJrUVG6MnlFDYS9kCC2TUGs8aqADVzq7SxRq14ynSq3WbMHB5gSW5GUnHESB/jPFz5qBDJv8tA==;FnPWnJi5XW1gsA62Aeih/Q=="
 ---

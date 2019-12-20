@@ -2,8 +2,8 @@
 category: news
 title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
 excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
-publishedDateTime: 2019-12-16T14:56:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/erc-uot121619.php
+publishedDateTime: 2019-12-16T14:41:00Z
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/erc-uot121619.php
 type: article
 quality: 15
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 672
         height: 475
 
-secured: "7mvB1BM06tDORovlm39wNfb+3z+o1xKrwzzBu8e8vxWxmDVTUTV9BjVDbPHIicGklbu5XcK+WIn1XXjec/odx/RIgU+sB2qEvoFjw3QN0dXyoWWsxewBUHPaDK0TF5ZmPEKrsW5k8ECN6h3nK/OYI/VeJAG105EHdMbSBzcn+jfSB4lepcBitYX6gyyoc1f2g6EMxM9w1NkXHO3HfdnuAgO/f73mmXrkxEX0ubDc7YqEE2UpaRbrZ97IEdjSOvB+RAvtbq5mhdzZTBRtFXWF8g==;g1toJbv8Ka5/lIifO/ziVw=="
+secured: "8fEyMIZK2kHmiXEumwhXM+mV7GFdJj56AuyufDQasCB4ZHE2OoifOCtqBCbAF9HwNpsi4oUBInt70zb2fAm2Rd97L3bBkAa0HC3HQeYnvIU/YGmHdrU1OJG1eTuhMtkGqpTIx01UlsfbOKtH8YOZYm0kDY2oYXwQLM6nVAGEE6yMhgikQaAoiCQNIaaTGDvscDJEg86xIavtaRMscbfJTCvjN/5HT41afmx7zDs9GzaxwNF2ptQWBIpG/lpl0BFxOQsxx99/ki3fPijJ7Hbl+A==;YEqqJMq2wqH4oDY5H2Qgdg=="
 ---
 

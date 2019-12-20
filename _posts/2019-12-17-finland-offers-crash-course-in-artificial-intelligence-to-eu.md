@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Finland offers crash course in artificial intelligence to EU"
-excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
-publishedDateTime: 2019-12-17T13:26:00Z
-sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+publishedDateTime: 2019-12-17T18:42:00Z
+sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Charlotte Observer
+  domain: charlotteobserver.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.24FB70D7134BE74EE61CAEBBB29DC186
+  - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
     width: 700
     height: 393
     title: "Finland offers crash course in artificial intelligence to EU"
@@ -69,6 +69,6 @@ related:
         width: 1200
         height: 674
 
-secured: "tg/6ZXfUoEEqcnbjtToKpK1S6aXvGubbB/ZG4NEyJT2O5oaolprFN3DDIEzL+QNB8y4F4HMxKBYLN7cI2X8TM+BSmHIZbKqQ8HwlLViK2SZ8vAbERskyB7CsipxOB3Lhw3FRjv6IKILZWlXreNrSPVZw5cbEfBhqiufzjosaCMkBore9hboB52/KL2QT7iUwI7H+IgNVl2ErJlfch3VZ/iG7wCY6M5ry7BrLbJ/qKQM6AdsSKE34a/3XH7MeJbMf5iausAGg2ySmwSmATQn0rA==;TXuXGew4VSZz2C0P5jfOUw=="
+secured: "i/QsL+vyzjaG755tsxsJ5/Qdesl0KdBi34FjrAFxEMuBLmcRGV+gKU64CfSmM8Lbh8k8KsNH08HFgTD74L2fFn6HRdvW3ph1+ZkC13BtO6n7ei4abEnuMwQBpjGEqQbrtVAWJpwBqIDjNitc6QFaKvMKZXgcXRe9O16bI8dLRsErDoCPbiMFDleWx9KIJmmdZJ6D6GHboTrnessLyA+po1MRrZYSGSiReWIPNTbY9fsUMrd1zzFeqmBfstF/EKl9st7B8Xw+URGJCIof7T3I+w==;OYJOAIy0T9THp8GMZ/tuxw=="
 ---
 

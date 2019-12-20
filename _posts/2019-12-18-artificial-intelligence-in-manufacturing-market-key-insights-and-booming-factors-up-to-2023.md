@@ -30,6 +30,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chips Market Insights by Size, Status and Forecast 2025"
+    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently released Global Artificial Intelligence Chips Market research with more than 100 market data tables and figures spread through Pages are easy to understand TOC in \"Global Artificial Intelligence Chips Market research\", so you can get a variety of ways to ..."
+    publishedDateTime: 2019-12-20T12:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) in Healthcare Market By Application, Technology, End User and Geography 2019 – 2026"
     excerpt: "Dec 12, 2019 (Market Prediction via COMTEX) -- The report analyzes and forecasts the Artificial Intelligence (AI) in Healthcare market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026. The study includes drivers and restraints of the global market. It covers the impact of ..."
     publishedDateTime: 2019-12-12T12:30:00Z
@@ -212,6 +225,17 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
+  - title: "2019-20 Book of Lists brings robotics front and center"
+    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
+    publishedDateTime: 2019-12-20T12:45:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
   - title: "Artificial Intelligence Market Ongoing Trends, Driving Factors, Opportunities and Forecast to 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such ..."
     publishedDateTime: 2019-12-13T07:10:00Z
@@ -431,6 +455,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
+    excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
+    publishedDateTime: 2019-12-20T13:07:00Z
+    sourceUrl: https://www.openpr.com/news/1882491/artificial-intelligence-robotics-market-potential-growth
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
   - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
     excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
     publishedDateTime: 2019-12-17T09:58:00Z

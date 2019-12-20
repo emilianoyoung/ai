@@ -17,6 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-secured: "4RUMsUb/YDlnowxGEWaM5KesC9PuWWB4CRPUrfwiDvV35ciUzpY8qtoiitxh3cI86b/edipG37/jcllRpRabb4nEtvlfwJzSHX6Zn1h4C1onQ5hbyqGtIKPa7SsZdugraTrjtQIlSEpivEbD35XTftEUPSfbWDC1lUYce9vs/SCUynBmyRFPorsrxE/XF2nZ6g3fpDKpSftRLcX6GoxVjQx4f7IQ39SyYLZJJyHlGQ5Cv2Vi355Jm5Opru0keZRfwqGaNLCgMlYjN9UEHbMPfA==;/s694KgpYkle5qxBw/dMdg=="
+secured: "nCqlc54YD/+QPOx0vWOmTwRnACygjrkaodVOmpbGnp5wmMEx3KLBgtGRdwa4Lfm+ITbXhKLF1rGyXhMu7hZrXLtUKgovhz9yvOD1pQDKNQE/2RO5uMez8cgl2qxTy5RTMkZCV0askXrPC8UHFXQcfsKT0IdCuhVQhJAth2cTYTLTPZMv1BH30Li/GVIKf9/WJw4ZSmbAD7pztNifxsPztOa6RFC2aKS8TvBVDHM9V5YB5ZlCbQtRVE7MNGT5Yinc0ZAR6TW3Z2Ndpt+NIsV8Ew==;LSojDsmpd7DK+NzrBWYJ3Q=="
 ---
 

@@ -43,18 +43,18 @@ related:
         width: 1200
         height: 630
   - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "HELSINKI -- Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of ..."
-    publishedDateTime: 2019-12-17T13:26:00Z
-    sourceUrl: https://abcnews.go.com/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-    ampUrl: https://abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/finland-offers-crash-artificial-intelligence-eu-67775138
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T18:42:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.24FB70D7134BE74EE61CAEBBB29DC186
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
         width: 700
         height: 393
   - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"

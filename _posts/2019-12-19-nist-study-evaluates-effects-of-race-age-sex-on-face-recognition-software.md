@@ -82,6 +82,30 @@ related:
       - url: https://images.wsj.net/im-138364/social
         width: 1280
         height: 640
+  - title: "Black and Asian faces misidentified more often by facial recognition software"
+    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
+    publishedDateTime: 2019-12-20T13:25:00Z
+    sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
+    ampUrl: https://www.cbc.ca/amp/1.5403899
+    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 36
+  - title: "Federal study finds race, gender affect face-scanning tech"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
+    publishedDateTime: 2019-12-20T13:32:00Z
+    sourceUrl: https://www.pix11.com/news/national/federal-study-finds-race-gender-affect-face-scanning-tech
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 24
+    images:
+      - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
+        width: 1200
+        height: 630
 
 secured: "tXjlvwIkUFUy4NiG9vrQiSwlwt4FfyZwfrMOIndx3vw54hwRBKBK5euCo6/59GqPsAAe3o8nGPqvJYnKaUdnGVul6lEq7iTyfRN8VYZsAiZcVrSVYFCcU8JI0CbMJIYF+nZEh/jZKMpKcpfuQswXgqA05yPp2dA7+y30titjETNxmRl814elmm4jnOlmoghV96RFFyXh0799PjnqkT78HkUkhtI1WKddBYbteTqZm5w2EDHHFAynJcwTjLW02s/WQ2CjQjZZg4VvgqwpO/ytIA==;uSywkPP11eIKzt7dKae0nA=="
 ---

@@ -58,6 +58,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C89DCD6DF57890291E658FF4D85F24
         width: 690
         height: 400
+  - title: "Making best use of Big Data and AI: There’s nothing artificial about people’s health needs"
+    excerpt: "A new EPHA Reflection Paper explores the potential of Artificial Intelligence (AI ... The paper proposes to look beyond the hype by taking a level-headed, public health friendly approach to AI’s expansion into the healthcare sector. It is key that AI and related technologies serve the needs of their end users first and foremost ..."
+    publishedDateTime: 2019-12-20T13:52:00Z
+    sourceUrl: https://epha.org/making-best-use-of-big-data-and-ai-theres-nothing-artificial-about-peoples-health-needs/
+    type: article
+    provider:
+      name: epha.org
+      domain: epha.org
+    quality: 9
 
 secured: "8mQe6q2JegejsCQtLdNKJ2FMjm+mIW/4MtxgzdcDvG1km4vXtQFiWR+Cxx22CTICuDKFDkOW5tRBF4zYGtI1OsE+4K2731Fd/G8EAkbwz46NZxq75FIv6qKl+s2YNVR5Cb15dGO3lRqQMN8qA3OsHHqqa+6JlTeOkAibLZPOOr6v0zxWarISqe5fR3zTdyV4naLhrQSYEs3SXW7boakkTYLHexZTun86RD8qPpeA6OVfhKcRyv4ffnHw8hwIPey5D2WRfg3Ei+sCWUFpIYsQ7Q==;8brPjr9G+T8oX86CBN5WTw=="
 ---
