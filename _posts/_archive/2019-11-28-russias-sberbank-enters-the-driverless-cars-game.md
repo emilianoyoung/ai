@@ -23,6 +23,6 @@ images:
     height: 913
     title: "Russia's Sberbank Enters the Driverless Cars Game"
 
-secured: "Q/StoAkGW99m/MzHIP8nok9aM+VReEChJwTtim18wW+ERrfYB3wZWiSJEImZT6eFs8WbigcVX3Y2ZZ8fdixdm4UCzZQhWalIhJw68hiWpQxnjOzzqbBDciLEfK08hZ9TMcFfchFwNf71tpY24GOCOJC38rFJ27hZYCQ014wjcazW4JiLgDycTq0QmUnELjA2BCM0qU7Z2YHwxnGlTjKs8bHNmZnWcglSea6Bd1aiavv3CiZDeukjOqn2ShSiQN6h65/VeR27O9aNMPg7w72Fdg==;m/3vqwHs6kmnU35KpuQYPA=="
+secured: "UauxO8BQQLcjixSXOf5ZWLszgtlQKM7vFqaApE2WvejBmd8VNwEp1sv3SDxx/JxNAECmkLPAuUGqGkaWitBdBscGWo9+LwF+9LAVe831BAZk3jYPgwUJQR1vQkzbkKCNZuQC5isEmefee1B7VOwg4ALvXYnd81c1rjlDGYGnSQPwytzTC5sG6teGr7xoKD6gfEo58gDfL13QT7NhPAMiLh6HnkgLjQrN1+/4g3fJodjICPr5JDQtSa3iIXd8kOvy22oasx0pDy22j1ygnwN8yg==;pPVrbAYVkMDZZWoCnLBigw=="
 ---
 

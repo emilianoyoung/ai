@@ -47,6 +47,19 @@ related:
       - url: https://www.bing.com/th?id=ON.145D0D49CCAB53EAF974E7A2DAF31817
         width: 600
         height: 400
+  - title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
+    excerpt: "We can expect innovation around the edges more than at the core, and a big focus on integrated payments,” Oglesby said. In the next year, FIS will be positioned to focus on AI and identity management technology to reduce account takeover and improve anti-money laundering, with both U.S. and global needs for the payments market, said Krista ..."
+    publishedDateTime: 2019-12-20T05:34:00Z
+    sourceUrl: https://www.paymentssource.com/news/fis-fiserv-and-global-payments-are-larger-but-so-is-the-fintech-threat
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 23
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
+        width: 1200
+        height: 630
 
 secured: "7zbj8KohS2dwK/QClS2vgYMpGUYMe3Zp5sfE2kLFfFsc7dw6NAub9kR1Wvv+MyLOpUGSZLKveSR1Xqr1HPWiWn2QIoOtiQ9PDS+nIE6dlYQoU7a1x7FijX+zsGXWrArRji7snzM8RwPw2wK8UOumTphDZX+w7qk5aKgSsmyi7wsIUwhBnrKzBfqqzxdcqLfiFI1QGZNeE8T7+F+K6XyjQuoemWC/58Q2APiOSkxRgi4VBlV1MQR4KsE/gXVBlxUI/f5DtGF0urqGoKhImCIpVw==;c/MJ9j4NatDikOkjiVUr6A=="
 ---

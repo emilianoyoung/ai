@@ -24,6 +24,19 @@ images:
     height: 466
     title: "Artificial intelligence can now predict long-term risks of heart attack and cardiac death"
 
+related:
+  - title: "Artificial Intelligence can Predict Long-term Risks of Heart Attack, Cardiac Death"
+    excerpt: "Using artificial intelligence (AI), cardiologists can now predict long-term risks of heart attack and cardiac death better than the standard clinical risk assessment. A new study in Cardiovascular Research finds that machine learning, the patterns and ..."
+    publishedDateTime: 2019-12-20T05:15:00Z
+    sourceUrl: https://www.medindia.net/news/artificial-intelligence-can-predict-long-term-risks-of-heart-attack-cardiac-death-192143-1.htm
+    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-can-predict-long-term-risks-of-heart-attack-cardiac-death-192143-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-can-predict-long-term-risks-of-heart-attack-cardiac-death-192143-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 31
+
 secured: "KOc8XVKjxQXphyvWOoecz73KbytPMpR3HApctPP+HvsgLd1xfnkqF7lOmfChP9eF+/W7oH/hgynVSEfusGuGemF7dXwbo6ac5SreVJQhEkIqIIeqA3HF08AiQp6bbyHEd6qV1LVOIYvzQa8HXmWDXcka78IRgCzDSQpLpIUBzIr0qTfapb/in3HfLfb4qVPTp2ROhp8TgTGQGJ7MUMy7GE56bELcRIixhsLB3QOXVWvIPLmik6vI004iWME/Gj87As+W54wEK+rBtNUYsLBqWg==;TIVZwtv/8/c/qrz6vmBUZQ=="
 ---
 

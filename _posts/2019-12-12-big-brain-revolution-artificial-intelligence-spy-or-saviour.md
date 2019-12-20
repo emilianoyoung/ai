@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T15:24:00Z
 sourceUrl: https://www.realwire.com/releases/Big-Brain-Revolution-Artificial-Intelligence-Spy-or-Saviour
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 600
     height: 436
     title: "Big Brain Revolution: Artificial Intelligence - Spy or Saviour?"
-
-related:
-  - title: "Hardware revolution pushes AI into the mainstream"
-    excerpt: "These days, however, another force may be having an even bigger impact in pushing AI forward. Advances in specialised chips and other hardware have boosted the capabilities of the most advanced AI systems, while also taking the technology into the mainstream. Whether this is producing tangible business benefits is another matter. The ..."
-    publishedDateTime: 2019-12-13T04:00:00Z
-    sourceUrl: https://www.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
-    ampUrl: https://amp.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.0328DFC95E890D65EA9FCBCE3D956C1F
-        width: 700
-        height: 393
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
-        width: 700
-        height: 367
 
 secured: "QeWyNLdXcgDVntdNBWP9t7eOOZsbzOMndeyeWdUDCs5w16tJOoYkVkRPvNcQu2Jvdq6fob2iFb4uRws2cuUCULKAltZyUKGWldx6WwHmk/DPbaDxGu6sBhUR0iGpza063c6ftyfDluRIDuu62Tbbnhf6xuaemhowl0ILaLPgEkNqHNJ6Q1Llpb6TXdH28W1b2hn+cqN59p/X4YU0svJ2Bx+LlZxP8elBCf2OOqTcmLn281h9wFpxFQmgrVcq0EyWRfX9DvB/Dpfo+9ElMMKddw==;JbFjYSRwt96LLp4velqRtQ=="
 ---

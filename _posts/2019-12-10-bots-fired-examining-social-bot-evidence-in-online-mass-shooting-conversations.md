@@ -39,21 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df138cdb269e900077e3501%2F0x0.jpg
         width: 1200
         height: 800
-  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
-    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
-    publishedDateTime: 2019-12-14T18:27:00Z
-    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
-    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
-        width: 700
-        height: 350
 
 secured: "yRYc9tLSgwxB5uOcakXVARYVxo0Xfklkf3rjGxDY2/4UWw8WuLYIJRnaDLNPrSYruT3UbkrJf1mAVywL7+7tq7+cJjHn5+zzbTsQOjxgkuwOXG25Ey+E5iOfuTuRPbVS43CsZGX/Ikc5M77xMnWtxbZH0fTQ5WVHCnfY/RTsFwLCONvc0mtpCxsGz7L9d3DDFPs1gejtsYFwHF0xzlZFp22vNGYYbgGjnoYVjU8bYT/CCQlyDuHJRgrp3+mej8qBbSHbDwsupENlIjMu6tlwaQ==;A8Iub/Aan/zx1K3Y0DGMfw=="
 ---

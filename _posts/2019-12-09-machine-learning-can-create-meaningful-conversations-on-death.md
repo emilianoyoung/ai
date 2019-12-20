@@ -8,7 +8,7 @@ ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningf
 cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
 type: article
 quality: 61
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
         width: 700
         height: 466
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "PITTSBURGH--Carnegie Mellon University computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. The trick, they say, is to transform massive amounts of gene expression data into something ..."
-    publishedDateTime: 2019-12-10T19:52:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/cmu-dl121019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "o8OR522k3KCChvxFQdD8Z0RgpFaCj+n3quE0jAutSqvrEkC+MB22cjKmKroHUZnaXjereurwcSshSJ/P8l/IVz6nS1SASdKdRx4FEzMaH3YDS8t3dd9uPd6xUrbziJMTUrBdQ12ELAZWLtUFRCpQ/mYK/X/5tIYHFbdDiM/SuhY4K+x4sawQ8WHWzji5i3K3MiL+rRco6QxbnJi/TQKjbMm1v5JgANVC6rfBRlxpCFHDUq6L+sszMCZDlnj5E4GDheHW0SpoEhtNZyln7HeAvg==;jOszeIIFrJatgkMu9BmlMQ=="
 ---

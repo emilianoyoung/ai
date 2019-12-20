@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7A35A61AF7FFCB5599E751A18B825C90
         width: 700
         height: 525
+  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
+    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
+    publishedDateTime: 2019-12-14T10:26:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
+    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
+        width: 700
+        height: 466
 
 secured: "9Jz6ZKx8Nww6o38r5P32uN+6U78XX8ZK87iOcSzGC2wIrWFZcWSFdCo2Mt+1r8bMl9E0Yzoyc4kMe+JEjMRMZrwFN6QhtFY6X7e30w/Ximf6+B0eem3lD2ln9mIgQB1H5zcptueEbPXZXWYhlzd9vab6+A+RgLXISInzdi/fGAO4qersuBud0qEew/DlbAtavE6wrcmWlKhvKlLTyUhJeTF5NlJGK2RMCO1n2v4yCFwE4mcdGqsSClaGeXEluQvfg45wrIcoo8WVprT6nFwdYQ==;Bbdu6sLQdqpxlp1zbtdCdA=="
 ---

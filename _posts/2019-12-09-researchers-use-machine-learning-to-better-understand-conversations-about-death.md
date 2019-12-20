@@ -103,15 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
         width: 700
         height: 466
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "PITTSBURGH--Carnegie Mellon University computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. The trick, they say, is to transform massive amounts of gene expression data into something ..."
-    publishedDateTime: 2019-12-10T19:52:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/cmu-dl121019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "GBhxPmZwRJcbmg/fb5Ct2JwIoMi9HjhQrYalK+9UUWwRXitXJgQI/9Oxc+zeBBNPMtH3/o2yhJoh5CLXP/2PZcsylPq4uARhy1riBP7Wr+dkQZDzNZaA9RxgA0OP0fRv2qESYRAQ7D5TMJVT4fRP6kc1Jn6Mk83qCbRFG/FdTnVvC0BOxggODyiBQCVyKNaf0nnD4Lu0WcCwxG7oWJ5yDd8JYj9492DLVOMZx27iKg5HRcKndO7JZq0Hca/y13gY1Yhe7TJF7WHQWS+NDaZR4w==;cgHYHcddqtOJpdSOsp/Lzw=="
 ---

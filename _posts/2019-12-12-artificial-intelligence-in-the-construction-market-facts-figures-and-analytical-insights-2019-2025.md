@@ -27,441 +27,408 @@ images:
     title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
 
 related:
-  - title: "Confluence Of AI On The Edge And Computer Vision In The Wood Pallets Industry"
-    excerpt: "As the growth of data acquisition accelerates, migration of compute closer to the edge allows more efficient use of data at reduced latency and infrastructure cost. Computer vision is a field of artificial intelligence that trains machines to interpret and understand the visual world. One of the goals of computer vision is for machines to see ..."
-    publishedDateTime: 2019-12-13T12:49:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
+  - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The study includes the use of artificial intelligence and robotics for various applications in aerospace and defense. Some of the important aspects covered in the study are use of AI and robotics in manufacturing of aircraft, operations and fleet management, and other applications by airlines; airport ..."
+    publishedDateTime: 2019-12-14T13:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
     images:
-      - url: https://www.bing.com/th?id=ON.4BE8C4D98D5ABA9A43542ADC99B6480D
-        width: 600
-        height: 315
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Healthcare Market By Application, Technology, End User and Geography 2019 – 2026"
+    excerpt: "Dec 12, 2019 (Market Prediction via COMTEX) -- The report analyzes and forecasts the Artificial Intelligence (AI) in Healthcare market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026. The study includes drivers and restraints of the global market. It covers the impact of ..."
+    publishedDateTime: 2019-12-12T12:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-by-application-technology-end-user-and-geography-2019-2026-2019-12-12
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
-        width: 600
-        height: 315
-  - title: "IBM GRAF Builds on The Weather Company’s AI and Cloud Capabilities"
-    excerpt: "“You have to know what’s happening everywhere in the atmosphere, right now,” said Cameron Clayton, general manager of IBM Watson Media and Weather. “Supercomputing and AI have had a profound impact on our ability to map the atmosphere and predict the future. The cloud helps us share those forecasts any time, anywhere.” IBM GRAF ..."
-    publishedDateTime: 2019-12-11T17:31:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/11/ibm-graf-builds-on-the-weather-companys-ai-and-cloud-capabilities/
-    ampUrl: https://www.forbes.com/sites/ibm/2019/12/11/ibm-graf-builds-on-the-weather-companys-ai-and-cloud-capabilities/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/11/ibm-graf-builds-on-the-weather-companys-ai-and-cloud-capabilities/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Healthcare Market Disclosing Latest Trends and Advancement 2019 to 2025"
+    excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence In Healthcare Market Size, Status and Forecast to 2025:This report tracks the major market events including product launches, development trends, mergers & acquisitions and the innovative business strategies opted by key market players. Along with strategically analysing the ..."
+    publishedDateTime: 2019-12-12T09:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-disclosing-latest-trends-and-advancement-2019-to-2025-2019-12-12
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.044B158A16B7DA153D8168E443E2CFC0
-        width: 600
-        height: 315
-  - title: "Meet CIMON-2: The floating A.I. brain that lives on the ISS"
-    excerpt: "“We use our IBM Watson intelligence to do similar things to what Siri ... The main antagonist in 2001: A Space Odyssey, HAL is the calm, conversational artificial intelligence whose job it is to assist the crew and maintain the ship’s functions; only to turn on its crew and begin trying to kill them off. Anyone who builds a smart assistant ..."
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
+    publishedDateTime: 2019-12-13T04:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-evolving-technology-and-growth-outlook-2019-to-2024-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Chipset Market Technology Innovations and Future Prospects 2019 to 2025"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence (AI) Chipset Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different ..."
+    publishedDateTime: 2019-12-13T07:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2019 Global Analysis and Forecast Report by 2025"
+    excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
     publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/
-    ampUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-global-analysis-and-forecast-report-by-2025-2019-12-11
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.D8A6EFB066E15B0443897DAD43F0DF8C
-        width: 700
-        height: 366
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-09T05:29:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
-        width: 1199
-        height: 512
-  - title: "3 Tips For Incorporating AI In The Automotive Industry"
-    excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
-    publishedDateTime: 2019-12-09T12:27:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/
-    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
-        width: 600
-        height: 315
-  - title: "AI Is Central To The Longevity Financial Industry"
-    excerpt: "New types of financial institutions are evolving to satisfy the needs of this aging population. Investment banks, pension funds, and insurance companies are developing new business models, and are using AI to improve the quality of the analytics used to formulate them. In the near future, the synergy between innovative AI and wealth management ..."
-    publishedDateTime: 2019-12-14T03:28:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
-        width: 600
-        height: 315
-  - title: "Significant advances in 5G, AI, and edge computing among the top tech predictions for 2020"
-    excerpt: "Report by GP Bullhound also calls out the rise of data lakes/death of relational databases and the rise of vertical AI SaaS offerings, and XaaS. Companies can expect to see disruption in traditional models of data usage, storage, and analysis next year, with newcomers challenging the dominance of incumbent brands across various markets ..."
-    publishedDateTime: 2019-12-11T17:18:00Z
-    sourceUrl: https://www.techrepublic.com/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 79
-    images:
-      - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
-        width: 700
-        height: 525
-  - title: "The Perils and Promise of Artificial Conscientiousness"
-    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
-    publishedDateTime: 2019-12-17T09:00:00Z
-    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
-    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
-        width: 2400
-        height: 1800
-  - title: "The World Is On The Cusp Of Revolutionizing Many Sectors Through AI and Data Analytics: Yogesh Mudras"
-    excerpt: "Mudras hail artificial intelligence as not a futuristic vision but as a need of the hour. “AI is being integrated and deployed in various sectors. This includes finance, national security, health care, criminal justice, transportation, and smart cities, points out Mudras. He further adds, “AI is a major driver to provide security ..."
-    publishedDateTime: 2019-12-18T13:26:00Z
-    sourceUrl: https://www.entrepreneur.com/article/344018
-    ampUrl: https://www.entrepreneur.com/amphtml/344018
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344018
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
-        width: 700
-        height: 466
-  - title: "Computer Vision on the Web with TrackingJS"
-    excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
-    publishedDateTime: 2019-12-13T18:21:00Z
-    sourceUrl: https://medium.com/@Alibaba_Cloud/computer-vision-on-the-web-with-trackingjs-51faa6c55fda
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.810363E95144543A8AF8DCA5A0750EB4
-        width: 534
-        height: 368
-  - title: "Supercomputer will help create the next generation of AI"
-    excerpt: "AiMOS, the 24th most powerful supercomputer worldwide, was recently unveiled at the Rensselaer Polytechnic Institute. Its main job? To find out how to build smarter hardware to support ever-more sophisticated applications of AI."
-    publishedDateTime: 2019-12-12T12:59:00Z
-    sourceUrl: https://www.zdnet.com/video/supercomputer-will-help-create-the-next-generation-of-ai/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.4A3BE816A93F4ACA7CBBA96A426306E6
-        width: 700
-        height: 525
-  - title: "Artificial Intelligence in the Telecom industry"
-    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
-    publishedDateTime: 2019-12-13T18:24:00Z
-    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
-        width: 851
-        height: 315
-  - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
-    excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
-    publishedDateTime: 2019-12-12T10:00:00Z
-    sourceUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html
-    ampUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 65
     images:
-      - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
-        width: 700
-        height: 350
-  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
-    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
-    publishedDateTime: 2019-12-14T16:18:00Z
-    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
-    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI for Drug Discovery Market 2019-2027 / Growth, Emerging Trends And Forecast"
+    excerpt: "Dec 09, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the AI for drug discovery ..."
+    publishedDateTime: 2019-12-09T07:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-growth-emerging-trends-and-forecast-2019-12-09
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
-        width: 700
-        height: 466
-  - title: "Robot arrives on the space station to keep astronauts company"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-17T14:28:00Z
-    sourceUrl: https://www.kmov.com/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.html
-    ampUrl: https://www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
-    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Data Science and Machine Learning Service Market Insights and Outlook During 2019-2025"
+    excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Data Science and Machine Learning Service Market Report have newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Data Science and ..."
+    publishedDateTime: 2019-12-12T19:24:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-insights-and-outlook-during-2019-2025-2019-12-12
     type: article
     provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.E052F39DFD642392DB92D6AD4DE04770
-        width: 700
-        height: 394
-  - title: "Artificial intelligence and the future of insurance"
-    excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
-    publishedDateTime: 2019-12-18T05:23:00Z
-    sourceUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/
-    ampUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
-    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in the Healthcare Market key Insights Based on Product Type, End-use and Regional Demand Till 2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the highest ..."
+    publishedDateTime: 2019-12-12T05:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-12
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
-        width: 620
-        height: 372
-  - title: "AI is helping tackle one of the biggest unsolved problems in maths"
-    excerpt: "Artificial intelligence’s ability to sift through large amounts of data is helping us tackle one of the most difficult unsolved problems in mathematics. Yang-Hui He at the City, University of London in the UK and colleagues are using the help of machine learning to better understand the Birch and Swinnerton-Dyer conjecture, one of the seven ..."
-    publishedDateTime: 2019-12-09T11:51:00Z
-    sourceUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/
-    ampUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
+    publishedDateTime: 2019-12-16T14:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16?mod=mw_quote_news
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.99BAF6171FC373CB30872B6449038250
-        width: 700
-        height: 466
-  - title: "Macron’s €1.5 billion plan to drag France into the age of artificial intelligence"
-    excerpt: "the French officials said that mass collection of personal data for marketing or political purposes was out of the question (France already outlaws political advertising of the type that’s at the center of the Facebook-Cambridge Analytica scandal). All data collection for AI research would have to be done in conformity with the EU’s ..."
-    publishedDateTime: 2019-12-09T21:02:00Z
-    sourceUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/
-    ampUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
+    excerpt: "Dec 14, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients ..."
+    publishedDateTime: 2019-12-14T05:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-analysis-by-recent-developments-and-business-outlook-2019-2019-12-14
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Consumer Robotics Market 2019 World Analysis and Forecast to 2023"
+    excerpt: "With the huge requirement of high speed internet connectivity, which is propelling market growth of the consumer robotics market to the large extent. With the advancement in technologies, such as artificial intelligence and machine learning which is integrated with consumer robotics are widely used among users. Flat 20% off on Single User PDF ..."
+    publishedDateTime: 2019-12-18T08:52:00Z
+    sourceUrl: https://www.dcvelocity.com/products/Business_Management/20191218-consumer-robotics-market-2019-world-analysis-and-forecast-to-2023/
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
-        width: 700
-        height: 366
-  - title: "Combine the Power of Video Indexer and Computer Vision"
-    excerpt: "Whereas keyframes were previously exported in reduced resolution compared to the source video, high resolution keyframes extraction gives you original quality images and allows you to make use of the image-based artificial intelligence models provided by the Microsoft Computer Vision and Custom Vision services to gain even more insights from ..."
-    publishedDateTime: 2019-12-11T18:49:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/combine-the-power-of-video-indexer-and-computer-vision/203756
+      - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
+        width: 680
+        height: 350
+  - title: "Artificial Intelligence Market Ongoing Trends, Driving Factors, Opportunities and Forecast to 2025"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such ..."
+    publishedDateTime: 2019-12-13T07:10:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-ongoing-trends-driving-factors-opportunities-and-forecast-to-2025-2019-12-13
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Oil And Gas Market 2019 Disclosing Latest Trend and Advancement Outlook 2025"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Oil And Gas Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Oil And Gas Market\". The report provides ..."
+    publishedDateTime: 2019-12-13T17:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2019-disclosing-latest-trend-and-advancement-outlook-2025-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
+    publishedDateTime: 2019-12-14T06:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-global-opportunity-analysis-and-future-assessment-2019-2025-2019-12-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Marketing Market Scope, Growth Overview and Development Forecast 2019 to 2025"
+    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Marketing Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2025 Artificial Intelligence in Marketing Market report contains a forecast of the next 5 years, starting 2019 and ending 2025 with a host of metrics like supply-demand ratio, Artificial ..."
+    publishedDateTime: 2019-12-17T10:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-scope-growth-overview-and-development-forecast-2019-to-2025-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
+    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
+    publishedDateTime: 2019-12-18T06:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
+    excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
+    publishedDateTime: 2019-12-11T09:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Security Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
+    excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection ..."
+    publishedDateTime: 2019-12-11T10:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
+    excerpt: "A New Market Study, titled &ldquo;Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges&rdquo; has been featured on WiseGuyReports. This report provides in depth study of &ldquo;Artificial Intelligence Software Market&rdquo; using SWOT analysis i.e. Strength, Weakness, Opportunities and Threat to the organization."
+    publishedDateTime: 2019-12-19T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities-forecast-to-2024-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Market 2019 Global Trends, Industry Share, Supply, Demand, Size, Growth and Forecast to 2025|MRE Analysis"
+    excerpt: "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and machine learning. The Neural Network Software Market is expected to exceed more than US$ ..."
+    publishedDateTime: 2019-12-11T04:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2019-global-trends-industry-share-supply-demand-size-growth-and-forecast-to-2025mre-analysis-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Security Market 2019 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
+    excerpt: "The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period. Browse Full Report Here: https://www.marketresearchengine.com/artificial-intelligence-in-security-market The Artificial Intelligence in Security Market is segmented on the lines of its application ..."
+    publishedDateTime: 2019-12-11T04:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2019-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Division of Computational and Data Sciences marries AI, social science"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
-    publishedDateTime: 2019-12-13T18:22:00Z
-    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
+    excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
+    publishedDateTime: 2019-12-18T16:41:00Z
+    sourceUrl: https://news.microsoft.com/transform/microsofts-resolution-for-2020-is-to-empower-tech-intensity-in-its-customers-and-partners/
     type: article
     provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
     images:
-      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
-        width: 300
-        height: 200
-  - title: "Division of Data and Computational Sciences marries AI, social science"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
-    publishedDateTime: 2019-12-13T18:22:00Z
-    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
+        width: 1024
+        height: 567
+  - title: "Gesture Recognition and Touchless Sensing Market key Insights Based On Product Type, End-use and Regional Demand Till 2025"
+    excerpt: "Gesture recognition and touchless sensing involves a combination of both language technology as well as computer science in order to interpret face or hand gestures. These gestures are then converted to commands and therefore an individual using gesture ..."
+    publishedDateTime: 2019-12-13T06:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-13?mod=mw_quote_news
     type: article
     provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
-        width: 300
-        height: 200
-  - title: "Joint Artificial Intelligence Center Director Tells Naval War College Audience to 'Dive In' on AI"
-    excerpt: "Saying the most important thing to do is just dive in, Lt. Gen. Jack Shanahan, director of the Department of Defense Joint Artificial Intelligence Center, talked to U.S. Naval War College students and faculty on Dec. 12 about the challenges and opportunities of fielding artificial intelligence technology in the U.S. military. “On one side of ..."
-    publishedDateTime: 2019-12-13T19:17:00Z
-    sourceUrl: https://www.dvidshub.net/news/355634/joint-artificial-intelligence-center-director-tells-naval-war-college-audience-dive-ai
-    type: article
-    provider:
-      name: DVIDSHub
-      domain: dvidshub.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DC3509595FE2F94B7BA9CD790E68150B
-        width: 700
-        height: 499
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-17T05:47:00Z
-    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
-        width: 700
-        height: 265
-  - title: "Human Rights Commission calls for regulation of artificial intelligence"
-    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
-    publishedDateTime: 2019-12-17T03:28:00Z
-    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
-        width: 700
-        height: 394
-  - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
-    excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
-    publishedDateTime: 2019-12-19T14:00:00Z
-    sourceUrl: https://www.euractiv.com/section/digital/opinion/how-internet-of-things-and-artificial-intelligence-pave-the-way-to-climate-neutrality/
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 30
-    images:
-      - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
-        width: 800
-        height: 450
-  - title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
-    excerpt: "More recently, a geometric morphometric approach has been described to study facial expressions of pain in cats. This approach has been proposed as basis for further application of machine learning algorithms for automated pain recognition 26. On the other hand, grimace scales are simple and readily applicable in a clinical context, and the ..."
-    publishedDateTime: 2019-12-13T11:27:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-55693-8
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
-        width: 685
-        height: 274
-  - title: "The Challenges Of Fintech Application In Modern Era – A Comprehensive Guide"
-    excerpt: "It is very easy to make decisions in businesses with the fintech as it has increased the usage of AI solutions. It has become very easy for businesses to rely on AI-powered, data-driven insights to shape strategies. It has improved decision making power. One of the visible benefits of fintech is the introduction of transparency. It helps a lot ..."
-    publishedDateTime: 2019-12-09T20:22:00Z
-    sourceUrl: https://customerthink.com/the-challenges-of-fintech-application-in-modern-era-a-comprehensive-guide/
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.7BFAA361429525266D73ACC5DF0CB49F
-        width: 309
-        height: 657
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-    publishedDateTime: 2019-12-17T08:07:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
-        width: 400
-        height: 267
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
-    publishedDateTime: 2019-12-18T18:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
+    excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
+    publishedDateTime: 2019-12-13T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-construction-170000567.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
-        width: 400
-        height: 267
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
+    quality: 27
+  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
+    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
+    publishedDateTime: 2019-12-19T05:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
     type: article
     provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 2
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
+    excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
+    publishedDateTime: 2019-12-18T15:11:00Z
+    sourceUrl: https://econsultancy.com/b2b-ecommerce-in-2020-from-voice-and-predictive-analytics-to-pwas/
+    type: article
+    provider:
+      name: Econsultancy
+      domain: econsultancy.com
+    quality: 24
+    images:
+      - url: https://econsultancy.imgix.net/content/uploads/2019/02/21141015/ecommerce.png
+        width: 1200
+        height: 598
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-analysis-size-share-growth-trends-and-forecast-to-2020-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
+    excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
+    publishedDateTime: 2019-12-17T09:58:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
+  - title: "Educational Robot Market Growth | Industry Analysis Report, 2019-2025"
+    excerpt: "Increasing expenditure in educational R&D activities and the popularity of these systems as a learning tool will drive the educational robot market growth. These activities will support the development of innovative and affordable products, which will suffice the growing demand. The implementation of artificial intelligence technologies in new ..."
+    publishedDateTime: 2019-12-13T16:28:00Z
+    sourceUrl: https://www.openpr.com/news/1879224/educational-robot-market-growth-industry-analysis-report
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 19
+    images:
+      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+        width: 300
+        height: 300
+  - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
+    excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
+    publishedDateTime: 2019-12-18T12:39:00Z
+    sourceUrl: https://www.openpr.com/news/1880732/artificial-intelligence-in-manufacturing-market-key-insights
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
 
 secured: "LutbnHmX99ZTtDgT8g8PfxUJDZxzNUNh2nUUEmZJ7G3a/cMDK8VVRRzfCSWDGdE6UhsqPEuy4DtBlZUKKDjG3/BX8fFkL1FOgEpNBdwkqBm5QEFgXoSGIVocS369TQ8fj1rX9LJYMOuaadflsBz7c8/1Mj2QiDkxG9DgdanQvlgyxuMS7tNQKfb0qOHYNltZVVOIfwJlTfrZya8G2DCc6pnNkyrdqveYmX7/2ibPDBQYMmb+P3dcRtkr/BoLoZxcDZk2P4GHpGsvi8b2h99ekw==;jwh/UI3bgWn/A5fP5GROfQ=="
 ---

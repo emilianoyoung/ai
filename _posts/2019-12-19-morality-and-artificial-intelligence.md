@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/nz/amp/news/morality-and-artificial-intelligen
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/morality-and-artificial-intelligence
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Morality and artificial intelligence?"
 
 related:
+  - title: "The Perils and Promise of Artificial Conscientiousness"
+    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
+    publishedDateTime: 2019-12-17T09:00:00Z
+    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
+    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
+        width: 2400
+        height: 1800
   - title: "Data Quality, Equity Essential for Artificial Intelligence Use"
     excerpt: "Although the emergence of artificial intelligence (AI) offers the potential for better patient outcomes, lower costs, and improved population health, the technology could also bring numerous unintended consequences. “While there have been a number of promising examples of AI applications in healthcare, we believe it is imperative to proceed ..."
     publishedDateTime: 2019-12-19T19:28:00Z

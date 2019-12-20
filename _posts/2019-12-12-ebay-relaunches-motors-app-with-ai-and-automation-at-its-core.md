@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-an
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 700
     height: 365
     title: "eBay relaunches Motors app with AI and automation at its core"
-
-related:
-  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
-    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
-    publishedDateTime: 2019-12-13T14:45:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
-        width: 700
-        height: 466
 
 secured: "AoSoAGp0RHs+mafIg7GkZtKbiSArKzjhwl5kfoY14jlR57CKCzuh/vySH2IeG7wzAIGWLccHrqKHtzUok0NZe0Q2R2P/3hF82nuQ4fK4N32X9Zboi5iPd2V19VZwpbz6YjgviqqaCiOr6e+T0rNrddYhyEoigfnVv2Mpn5jZnQrjkWB+FdKbQvqzOgI0GAxiGNO1PResb2EkCXn/of0tqFHCJG2kUkFAb8O9Ig63OCGpS2aJURLDGoaMf2232qyEU8N+XyDpNiy6tYLNZz8NAQ==;JvrWt1IEnW10zxbsD3E3jA=="
 ---

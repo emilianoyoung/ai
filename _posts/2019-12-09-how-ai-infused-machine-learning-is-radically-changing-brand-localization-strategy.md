@@ -36,19 +36,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "How the ‘bigger is better’ mentality is damaging AI research"
     excerpt: "Something you’ll hear a lot is that the increasing availability of computing resources has paved the way for important advances in artificial intelligence. With access to powerful cloud computing platforms, AI researchers have been able to train larger neural networks in shorter timespans. This has enabled AI to make inroads in many fields ..."
     publishedDateTime: 2019-12-05T14:50:00Z
@@ -62,19 +49,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AA539D98380851B1F87698DC28767BB2
         width: 700
         height: 350
-  - title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
-    excerpt: "Yokogawa's AI empowers customers with an advanced understanding of your current situation, allow them to correctly predict future event, and adapt accordingly."
-    publishedDateTime: 2019-12-06T16:56:00Z
-    sourceUrl: https://www.industryweek.com/sponsored/decoding-artificial-intelligence-brain-myth-and-legend
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.DAA430C41C8C41E2F84CF870232DFB4B
-        width: 700
-        height: 516
   - title: "The AI community needs to take responsibility for its technology and its actions"
     excerpt: "On Monday, at the opening of one of the world’s largest gatherings of AI researchers, Celeste Kidd addressed thousands of attendees in a room nearly twice the size of a football field. She was not pulling her punches. “There’s no such thing as a neutral platform,” the influential scientist and prominent #metoo figurehead told those ..."
     publishedDateTime: 2019-12-13T10:57:00Z
@@ -103,15 +77,6 @@ related:
       - url: https://jewishjournal.com/wp-content/uploads/2017/11/jjsplash_a_1200x1920.png
         width: 1198
         height: 675
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-11T12:28:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
   - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
     excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
     publishedDateTime: 2019-12-11T18:35:00Z

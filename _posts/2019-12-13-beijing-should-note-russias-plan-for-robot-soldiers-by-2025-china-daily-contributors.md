@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T00:51:00Z
 sourceUrl: https://www.straitstimes.com/asia/east-asia/beijing-should-note-russias-plan-for-robot-soldiers-by-2025-china-daily-contributors
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 763
     height: 509
     title: "Beijing should note Russia's plan for robot soldiers by 2025: China Daily contributors"
+
+related:
+  - title: "Here's the Pentagon's Terrifying Plan for Cyborg Supersoldiers"
+    excerpt: "The report, titled Cyborg Soldiers 205: Human/ Machine Fusion and the Implications for the Future of the DOD ... It’s like implanting your smartphone inside your ear, complete with real-time translation features for foreign languages. Hearing loss is a major problem in the military and, for this reason, the researchers believe selling ..."
+    publishedDateTime: 2019-12-10T00:47:00Z
+    sourceUrl: https://www.vice.com/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
+    ampUrl: https://www.vice.com/amp/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
+    cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7744EBD51103F3A42712ABE038536E10
+        width: 700
+        height: 393
 
 secured: "T64qkup79BN8U/jDNHwPYgw/DC1oPipQkfCdWhy+Di+gNiImewcNhAJLyj7zT4qTl5GS+RerwRnCqITtS1h5Xb1tsvvVJWjsRLSrg4UhtwGRXaFQSmZTWOiA1qTukzxyjQhxc7vv3g66WSBuEJiZsFEegqFS/zgE1LvqPc0y9puQueja6pJBiRMsSIo5BTUcsVkAD2fl0k29Da6Vm4lYwx/pP3Yj8RabdEwPJAjCWDqsQ6DfV/GKVAWFTjKon2sqZklL8Cbc4k2a18nEln3R6w==;nluIAo4NV9QR6PXWBhWALA=="
 ---

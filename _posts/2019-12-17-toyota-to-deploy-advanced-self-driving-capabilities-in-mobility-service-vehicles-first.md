@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
-excerpt: "Toyota Motor Corp's automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in mobility service vehicles before it does so in personal-use vehicles. TOKYO, Dec 17 (Reuters) - Toyota Motor Corp's 7203.T automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in ..."
-publishedDateTime: 2019-12-17T05:39:00Z
-sourceUrl: https://www.nasdaq.com/articles/toyota-to-deploy-advanced-self-driving-capabilities-in-mobility-service-vehicles-first
+excerpt: "Toyota Motor Corp’s automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in mobility service vehicles before it does so in personal-use vehicles. “‘Level 4’ (driving capabilities) is really what we’re striving for to first appear in mobility as a service,” James Kuffner, CEO of Toyota Research Institute-Advanced Development, told reporters at the opening of its new offices in Tokyo."
+publishedDateTime: 2019-12-17T06:29:00Z
+sourceUrl: https://www.reuters.com/article/us-toyota-autonomous-idUSKBN1YL0G9
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YL0G9
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YL0G9
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 66
+heat: 116
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-    width: 450
-    height: 274
+  - url: https://www.bing.com/th?id=ON.F3C6B884E46201A263463EDFD2AA1E3A
+    width: 700
+    height: 453
     title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
 
 related:
@@ -54,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
         width: 600
         height: 400
+  - title: "Abu Dhabi airport completes self-driving wheelchair trial"
+    excerpt: "Dozens of passengers took part in a trial using self-driving wheelchairs at Abu Dhabi airport. Personal electric mobility vehicles made by Japanese company Whill helped users with disabilities to navigate crowded areas, lounges and gates during the five-day pilot. The devices are fitted with sensors that detect obstructions and have an ..."
+    publishedDateTime: 2019-12-16T13:20:00Z
+    sourceUrl: https://www.thenational.ae/uae/transport/abu-dhabi-airport-completes-self-driving-wheelchair-trial-1.952319
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E09F33C15A1798249D52672D7D22B3A5
+        width: 700
+        height: 393
   - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
     excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
     publishedDateTime: 2019-12-17T09:39:00Z
@@ -75,6 +94,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "wZH55iTL+CbVefDSdHbTHwVR44exV08tVLzHE6by9ukrb0yXDKzTbBvHV/ntUVaGj7xO3yG6c90eL4TmWunr/JFwUnW2axtvL8Lv0CdX7n2uXTEJ0MdVnr8agINz1irWFWFOMIWqs0l10bEKa7BpJ1NSSCyzPjA5vSOP8MHMr4hFojptJStj3vZL/2x0O2+1ufuWC//z0qWPm3AvXes64YcMxI6uxhk6lJFCHcbXIT1ahepwFKQh9mb/GONwYPoL48pRdh0ClAnmCAjeLTZpDQ==;5TXxpnh9v2Y2Be9HLREO3g=="
+secured: "gpq1NxYlyN81g5MtWOKHUvOaF4SUhoXXuZd5az1k8/HfLvLWIkyHmwcHoojPZlcRRtpcZYtpfC1NdPr03ulM/KyiM5dbIzuAZqzoSRr4x1YxJwm7NQljHmayc1plxNvfgMYXMf2x/zb4+sh4t79+qELwKyJajlbr65uEqBiD3tXby7WUdE7/yOR9qHUh5r5S6kUWUV3jdcRh2WpWWbCboL6XmO0knwVXXUsDKiyIt8vMCSH3sKqX6U58k7TvsoZnDqaWTf9rXXzq6ZRtQWVEyA==;7XhB0RvUFNrDJAQfUslZgg=="
 ---
 

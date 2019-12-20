@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
-excerpt: "Of course, Nuclear Networking is always looking for ways to differentiate itself and continues to offer the best services around. “If somehow accessibility to the top 10% of employees and machine learning + AI becomes more prevalent, be sure we will be in front of that trend as well with something better,” said Horsley. Nuclear Networking ..."
+excerpt: "DENVER, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Denver-based digital marketing agency Nuclear Networking has implemented AI and machine learning tools into its digital advertising strategy, allowing for 24/7 competitor monitoring and better budget spending. “At Nuclear Networking, our core digital advertising managers have a high level of business ..."
 publishedDateTime: 2019-12-19T15:00:00Z
-sourceUrl: https://www.financialbuzz.com/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy/
+sourceUrl: https://markets.businessinsider.com/news/stocks/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy-1028776454
 type: article
-quality: 11
-heat: -1
-published: false
+quality: 56
+heat: 86
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Finance
+  - Machine Learning
 
 related:
   - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
@@ -46,6 +50,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "hCvCwadRBgQ7CILW93/D/KBQL+01Jm7AKLmZQUmoyqYTm13X7i27U+I3VpepUR8cbJ/Zr3/tkL6MeNhAAO7s3mP2fquO9BnTObrMwA+8VfEqWhTCOqN3YZMExyl13ay0FTF36NKK6PNK7OiO12iBOYAI3X/iRYRiQtYpnNbhd9s1sIzjSPe/YsMZwpXuB98bH7WmRSaFRrN7yZab3N3eA58Z4ErIfU0y0FrHKvgARaoOTT3f6ZZcUa8w/peRbver9AfgEyWhVmYYJ7CBGdK33w==;dRdlf8YsMuQ2BOGrXOCCig=="
+secured: "c3E2QE4/NezJ8VVjKK56DRAK5ykcaVGU+j4HUokRz+tP36am1l/31KSvrPsf+3Zj3V9RRoBGIKXAAXPZ7gq/cToL/gUvc3b66cW76YeE4+KT3eZqDO//8Ox4bBOPDA4ZPr8O9i8AnDFwyxU+f5qrN94al4wJOf3rbcoz9jIZRGoWC5AIyOFV8yQFjxumrXh+v5yuhlNjZz8WCv3IlqfB7b/BrQD6rmMuReXKQe/n0pAB9OT1jywRj8bvA86E43FHdrwl0o3mMa0KoRL099OH2Q==;b3OayhcIY2PLYkLYEYA2PA=="
 ---
 

@@ -139,21 +139,6 @@ related:
       - url: https://www.kmworld.com/images/subscribe_magazines_km.png
         width: 772
         height: 594
-  - title: "O’Shea: Learning, truth and fear"
-    excerpt: "I agree, and I thank our wonderful community from the bottom of my heart for the support that has made deep learning — the search for truth and the overcoming of fear — possible here at New College. Preparing students for lives of great achievement and for careers means encouraging and equipping them to seek the truth. Donal O’Shea is ..."
-    publishedDateTime: 2019-12-13T01:26:00Z
-    sourceUrl: https://www.heraldtribune.com/opinion/20191212/orsquoshea-learning-truth-and-fear
-    ampUrl: https://www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
-    cdnAmpUrl: https://www-heraldtribune-com.cdn.ampproject.org/c/s/www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
-    type: article
-    provider:
-      name: Sarasota Herald-Tribune
-      domain: heraldtribune.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.4E66BA9637C12C282E827969EC96866D
-        width: 466
-        height: 700
   - title: "5 Ways Machine Learning Is Leading to Smarter Manufacturing"
     excerpt: "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and overall production speed, AI – with the help of the Industrial Internet of Things – is ..."
     publishedDateTime: 2019-12-04T15:03:00Z

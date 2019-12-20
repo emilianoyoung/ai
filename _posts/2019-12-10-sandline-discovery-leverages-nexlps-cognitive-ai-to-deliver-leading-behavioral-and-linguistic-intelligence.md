@@ -32,19 +32,6 @@ related:
       - url: https://www.bing.com/th?id=ON.92E1DC47E686B1CBBEE727F2665E7290
         width: 600
         height: 315
-  - title: "How Machine Learning Is transforming Video Advertising"
-    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
-    publishedDateTime: 2019-12-16T14:08:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
-        width: 600
-        height: 314
 
 secured: "AdEMRurv/VKwr0mRLUl4XtdHaz2Pun2X2XMl9JeMiii9bNqdnNawn3lqpBvzsJN4dPf7lYzbI/3xYLH/W22eo1Ns39qbh3p84Dw+tMHlQG9PJ52gg58GPxLXzIYq9srWgQQSTmQ7C8D00oNZh7hBqcSDRU6XOexijcAkwKQ/rPJCbwNDyKGVvFEsN2pPC+G508vouOQ+1vvW/AZjxmkwrwjzYF4cAMDaLCWsji+cHoGuQaEs7Mp3wPzA9UJzIH2sHy6jqC1zSM0C/djSnyFhDg==;T6o0J76Q1Ttaz3SPle6Arg=="
 ---

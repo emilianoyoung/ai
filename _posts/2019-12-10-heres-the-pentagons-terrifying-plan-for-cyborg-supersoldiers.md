@@ -8,8 +8,8 @@ ampUrl: https://www.vice.com/amp/en_au/article/xwee47/heres-the-pentagons-terrif
 cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xwee47/heres-the-pentagons-terrifying-plan-for-cyborg-supersoldiers
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: VICE
@@ -30,67 +30,19 @@ images:
     title: "Here's the Pentagon's Terrifying Plan for Cyborg Supersoldiers"
 
 related:
-  - title: "There’s No Such Thing as the Machine Learning Platform"
-    excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
-    publishedDateTime: 2019-12-13T01:57:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
+  - title: "Beijing should note Russia's plan for robot soldiers by 2025: China Daily contributors"
+    excerpt: "In their article, the writers highlight ongoing efforts by Russia and the United States to make use of Artificial Intelligence in defence applications. Russia, according to media reports, may establish a unit of robot soldiers by 2025, outlining a vision of artificial intelligence-driven warfare in the future. The application of AI has been a ..."
+    publishedDateTime: 2019-12-13T00:51:00Z
+    sourceUrl: https://www.straitstimes.com/asia/east-asia/beijing-should-note-russias-plan-for-robot-soldiers-by-2025-china-daily-contributors
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.3B50A5E8AFB7BE02E141FF3630E27ADF
-        width: 600
-        height: 315
-  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
-    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
-    publishedDateTime: 2019-12-14T10:26:00Z
-    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
-    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
-        width: 700
-        height: 466
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-1028770153
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-  - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
-    excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
-    publishedDateTime: 2019-12-13T14:47:00Z
-    sourceUrl: https://github.com/deepmind/dm_memorytasks
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
-        width: 400
-        height: 400
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
+      - url: https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2019/12/12/nz_russiantroops_121235.jpg?itok=kF4R8SIE
+        width: 763
+        height: 509
 
 secured: "DxAarwA01GY6Cs7G4m6nxmkGpMv21VtwCXSFni3ZQExUD21FW3VVQMCR/ne4KgwXcYSIM1k/g2E5gm5HoL+Qqb/6m2Jf8KRx4Wh2Iy5emd8ZwRdgM99McPZqrkidjSvZZIPGikC3HmDIMNLXaKtV+RSOgjrRTHq9+JXiyg2jK/1WNA1oRRupzo/UcuYXvaFkyCSPDgq5MiHTYWLQJswB9xlfSfoYC9Vbh/jHNlVV7Gqj3aUPCxwpKjPsnaHALMR253hMi5ms3hegBR0acg8QEw==;t2Ks4+stTBNK7UzIEWHIIg=="
 ---

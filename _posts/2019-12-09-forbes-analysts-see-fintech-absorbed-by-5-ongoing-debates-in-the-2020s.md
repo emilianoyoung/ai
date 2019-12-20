@@ -24,34 +24,21 @@ images:
     title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
 
 related:
-  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
-    publishedDateTime: 2019-12-09T17:57:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
-    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+  - title: "What Are The Fastest Growing Jobs? Tech Dominates On LinkedIn Analysis"
+    excerpt: "Artificial intelligence specialist, robotics engineer and data scientist are the top three ... home health aides, personal care aides and occupational therapy assistants. Information security analysts, the first technical job on the BLS list, comes in at No. 6 with software developers at No. 15. BLS said about 17% of the 818 occupations it ..."
+    publishedDateTime: 2019-12-10T15:10:00Z
+    sourceUrl: https://www.ibtimes.com/what-are-fastest-growing-jobs-tech-dominates-linkedin-analysis-2879125
+    ampUrl: https://www.ibtimes.com/what-are-fastest-growing-jobs-tech-dominates-linkedin-analysis-2879125?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-are-fastest-growing-jobs-tech-dominates-linkedin-analysis-2879125?amp=1
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+      - url: https://www.bing.com/th?id=ON.003CC0BA51DA7BE135D859BFC4CB6685
         width: 700
-        height: 350
-  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re ..."
-    publishedDateTime: 2019-12-14T16:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B
-    type: article
-    provider:
-      name: Popular Mechanics on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
-        width: 700
-        height: 350
+        height: 466
 
 secured: "yjdbQZ12ZzTxblLUFM/MjSS9QWwi2S9tDg8UdtjzwiuYn0yzKgVFXIAcMNXVD3qS42I1/GJgkJembUjzmSheFgVv+WRfM91wk/RZu1WSN/pk9Xwc2v/7LspAYtXaufxFLnvwktTOqOPZCPAgAMLpFo6whkbqs5bEHlQ+oBaIzRpsCQg6Jbp1gv2Jp/XURvUC/6nkLBdrTvHn5J8aeGQNnTn4MRT5lF2GWXuxsm44G5IA9BPkZJvUN3KiNQwL5EiKBurAjUN2ndyZ15RzYvqcrw==;TVq8tptkvQflxUQI6n6NxQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/donnafuscaldo/2019/12/19/ais-promise-140-bi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/donnafuscaldo/2019/12/19/ais-promise-140-billion-in-productivity-gains-for-financial-services-firms/amp/
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 315
     title: "AI’s Promise: $140 Billion In Productivity Gains For Financial Services Firms"
+
+related:
+  - title: "Advanced technologies can significantly improve healthcare quality, productivity, and access"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T05:47:00Z
+    sourceUrl: https://www.news-medical.net/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg
+        width: 620
+        height: 480
 
 secured: "+cANM01i30VWpSmeaO/DTJ3OFewJofqucvkhKrgav2suQr1+wsYX2WAuYfTjEUyPztCyPrBozYjCIB0a08rtAV1jBIgdHZA6vpQhGpfVaakGgrGso+3PLNtYzTYzw/+D2Ztw//eT+6jZD2G9qVYn6/qeCYg6nX3YyI2DnMCSDw+T+dufaoa7qbnlYiCZ4ANcIXc215r1gKKMV4otcXZsuFi5Ud8fUrik0HnHFFLC0e+j1ZWHIHL6kgWGJfqIZJVNgD6aBNcPHrBm29guLWjTHA==;82SPs+Y3k/8IDu4ULAcR3g=="
 ---

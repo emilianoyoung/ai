@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Ex-Amazon engineers raise $2.4M for AI startup that scans customer feedback"
-excerpt: "Seattle startup Spiral just raised $2.4 million to make sure companies can take advantage of the constant stream of customer feedback they receive. The startup, a recent participant in Amazon’s Alexa Accelerator program under its prior name Togethar,"
-publishedDateTime: 2019-12-19T16:48:09Z
-sourceUrl: https://www.msn.com/en-us/money/smallbusiness/ex-amazon-engineers-raise-24m-for-ai-startup-that-scans-customer-feedback/ar-BBYan1n
+excerpt: "Seattle startup Spiral just raised $2.4 million to make sure companies can take advantage of the constant stream of customer feedback they receive. The startup, a recent participant in Amazon’s Alexa Accelerator program under its prior name Togethar, makes artificial intelligence software that can rapidly scan multiple channels of customer ..."
+publishedDateTime: 2019-12-19T17:01:00Z
+sourceUrl: https://www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-scans-customer-feedback/
+ampUrl: https://www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-scans-customer-feedback/amp/
+cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-scans-customer-feedback/amp/
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
-  name: Geekwire on MSN.com
-  domain: msn.com
+  name: GeekWire
+  domain: geekwire.com
+  images:
+    - url: /assets/images/organizations/geekwire.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.117B1DBB52990956F9FCBA351DD97AD1
+  - url: https://www.bing.com/th?id=ON.C292A2DC5D9A0DDA413640B4FD3C7545
     width: 700
-    height: 367
+    height: 525
     title: "Ex-Amazon engineers raise $2.4M for AI startup that scans customer feedback"
 
-secured: "OqzgKFE6gf71Bxv3t3Lpp6CIFu88NaZE8bGyK7JAfA77g7fT2cs2rZrAxueXSijmkuvfmywMg26M1xqIOwVJDn7e0yFi8gl+jKOamHuImaZOfBos9UA/eFEv7BpNvqSlxxCxkfVGgE1jbHB02DainlCd+3aB+7MJmo4HW2IqX32FOdLC3I/snyV3QVsco0kLYzKCiU2vTSkHGeSG7En9UjvIfA1y5X2WHxooQBINm8HNtcec1yIJHa7m+0Q+UIG2oFjg6l6SUKbaHOUX2GIrsw==;9UK8fj3+lej+loUP3Nm6KQ=="
+secured: "swvO1OxoLAbKKWxlVcSso16DOyRFyhAdxB3rP8KKwm4Yn/vIqLsO06+vwfswE25ybJdMq5yz7iEHsLgI68N4aYkKC5C2nLThHh2YrFs7GM5bBlp6a4QxTB3YHEBoAno9G7fgbNqkGWRDFRGnQ7PzzHV9XJFbFQrt073vfFPp6TlVbQsCCG77OpHiWNVdz7lIRtPW0jvnWelgwDRKhVSxglJZXZgv1Wkt27PsMwztDddGYUSa4zcGCsKTNtJQBlseGvJEP+jvcOj+Mwbt+eKPOw==;sS6e4DCFHWxtI067qbwDVQ=="
 ---
 
