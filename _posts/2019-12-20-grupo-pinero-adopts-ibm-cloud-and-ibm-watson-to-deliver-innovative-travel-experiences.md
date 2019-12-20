@@ -26,6 +26,21 @@ images:
     title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
 
 related:
+  - title: "IBM Cloud, Watson & AI Solutions Gain Traction in Europe"
+    excerpt: "International Business Machines Corporation IBM is riding on robust adoption of IBM cloud, Watson and AI solutions, driven by expanding Europe-based clientele. The company is all set to help Spain-based tourism Group, Grupo Piñero, to deliver engaging tourism and leisure experiences to customers. Grupo Piñero intends to enhance its IT ..."
+    publishedDateTime: 2019-12-20T14:00:00Z
+    sourceUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20
+    ampUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 106
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
     excerpt: "For instance, by using IBM Watson artificial intelligence and business analytics solutions on the IBM public cloud, Grupo Piñero will work with client data to better understand traveler behavior and offer guests a best-in-class service by creating new applications. Grupo Piñero is also adopting the IBM Cloud Pak for Applications running on ..."
     publishedDateTime: 2019-12-19T13:00:00Z

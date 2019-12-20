@@ -72,19 +72,6 @@ related:
       - url: https://www.bing.com/th?id=ON.21E0D9E4D5F04BB2D5B6B20372B9531C
         width: 700
         height: 350
-  - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
-    excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
-    publishedDateTime: 2019-12-20T12:10:00Z
-    sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
     excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
     publishedDateTime: 2019-12-19T16:07:00Z
@@ -100,6 +87,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
         width: 700
         height: 393
+  - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
+    excerpt: "YouTube has uploaded an original documentary series about artificial intelligence with Robert Downey Jr as its narrator. The first episode of the series features a virtual baby built using AI."
+    publishedDateTime: 2019-12-20T13:51:00Z
+    sourceUrl: https://www.msn.com/en-nz/entertainment/movies/youtubes-new-documentary-demystifying-artificial-intelligence-features-robert-downey-jr-and-an-ai-baby/ar-BBYclz6?li=BBqdk7Q
+    type: article
+    provider:
+      name: Business Insider Australia on MSN.com
+      domain: msn.com
+    quality: 17
 
 secured: "tSPnxd2NBK7QaOeTkuM2xF8Z0pZkENQDOjOXuliLEzCjwzXrnLAVdofL2IHdpb8mx0/4MKIvuhYlqxHCCgsMMHoc4yVR1uTVfLXGnLjaowHQyeh9ICSnCyDSzpjHLLAu7PyG0QZYpyRsDxwwaeGenbLaXn0VZwZdTHZWHdsd22H8u7nk780T9GJNdmOn/GSFDmeCx4m2wgym2s7gxacPscofQQRWKbdzXkpiofdnx6rjbNuKQi4M5g+TPPURCS6IF7fM9lX3T3WEjlqmG8ZUTA==;MXc6z23I2gO6mcaTpBLiPw=="
 ---

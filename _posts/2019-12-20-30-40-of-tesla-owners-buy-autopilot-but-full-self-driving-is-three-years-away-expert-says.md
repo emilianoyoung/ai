@@ -7,9 +7,9 @@ sourceUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-o
 ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
 type: article
-quality: 93
-heat: -1
-published: false
+quality: 193
+heat: 213
+published: true
 
 provider:
   name: Forbes
@@ -45,36 +45,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfabdf3e961e10007396a12%2F0x0.jpg
         width: 1000
         height: 663
-  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
-    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
-    publishedDateTime: 2019-12-20T04:12:00Z
-    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
-    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
-        width: 700
-        height: 337
-  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
-    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
-    publishedDateTime: 2019-12-16T14:39:00Z
-    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
-        width: 700
-        height: 490
   - title: "Tesla Autopilot self-driving tech neutered in Europe"
     excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
     publishedDateTime: 2019-12-19T18:49:00Z
@@ -90,22 +60,7 @@ related:
       - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
         width: 620
         height: 350
-  - title: "Self-driving cars: A decade of hype, but what's the reality?"
-    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
-    publishedDateTime: 2019-12-18T18:18:00Z
-    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
-    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
-        width: 620
-        height: 348
 
-secured: "SZbA5nCotGcX1W2tDCXBDv1JtlIxau7utXafz4x+FxLbszynmpd8nwM6jDXJCqqYWNV2KLD3HhzAVMdySgVdHTJJVAV/Ii4yoW0tscI3MBtIiJejunTnGmjoNky5knLxirDs2G0wxeBVzZN532Evp35M8auTdui1rSgwwtXbhKQMdBnGTSQx6SB/L9RRie/VR3dI71yiwmOEB1mGSzz7sOR8Giyp+TP3rd0xlffUxWnyHGl/zV1CtlNw547qZ2hnCgBuO54La/2mN5V3wYFTUw==;hKHuFKtkko+3M5TbeEjj8w=="
+secured: "JS27YJ5k+jpYoXpyywtq6SHAB1TodtagfxctfmH0GNCt6sMnjW6mtyll8sF34bwNuz9v+AcndWW3RVFW/wV38o8sFDc8LbGjiDIlkPWfPJX5eM3BkFVgop6eCsyn+6STnwVsPyON/jm6Kh7wDqE3yoLoG24U2Ox9wbx+Z/zwMlcn4UQ5UyB6MOyjWXxvm3Rwm46ZRshBTduhWiyHybaBR3loWP4+n85mO/GBUhZN9f8v9lbw5DDKBekrGzvzNHzJrf+RRqVIyYYur5WOQIfOgWBS0d08tCW4DLiBohdtoNE=;iYEuYN10qzykDT60In9uDg=="
 ---
 

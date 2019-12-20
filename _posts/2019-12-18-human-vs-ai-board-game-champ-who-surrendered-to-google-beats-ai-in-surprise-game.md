@@ -7,9 +7,9 @@ sourceUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai
 ampUrl: https://observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
 cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2019/12/board-game-go-champion-lee-sedol-beat-ai-after-google-deepmind-alphago/amp/
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 152
+heat: 172
+published: true
 
 provider:
   name: Observer
@@ -41,16 +41,16 @@ related:
       - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
         width: 700
         height: 366
-  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
-    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
-    publishedDateTime: 2019-12-19T20:50:00Z
-    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+  - title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
+    excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs like DeepMind’s AlphaGo, but with less developed AI, we still have an edge. On Wednesday, the 36-year-old Go player won a match over an AI program called HanDol, built by ..."
+    publishedDateTime: 2019-12-19T15:53:22Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/human-vs-ai-board-game-champ-who-surrendered-to-google-beats-ai-in-surprise-game/ar-BBY8dYw
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 9
+      name: Observer on MSN.com
+      domain: msn.com
+    quality: 12
 
-secured: "Al/AD5HgcUHNzQX6uf4JugGnrPlkC5nU71bK2r3hlatNxaS2HkK2c29yNFElUEpxtoFztEwV7qgqwjjPj2SUifbNagfFs9DYWdhDsz5gjPmJcVwJLbZaIqVtSUqVP5mazF26Hdhrd2T1mdJMakCBlbz2972WWS7APPUlg+2vhR7hGq9bx5bJNXL1LT0HLwlPw76XcIGKEYLvmTpuJnIeviOIYxftCpEQDd687f14JFSdBagL46DFrYlCAInrxy0BTwxAzveEf3UEGdTICEIUhQ==;jITwuatkBv6nfom0ZJOyEQ=="
+secured: "VsGbzftuWyelruFwH9EbrwdRE9xrreuaAEPSjq0YU+4u2vvpbY7bedlKWwrk/yNr5YwLR6HQPwA7WhaU+PGDQyg0NM9z/gygt8Cu1dJoSbFVoWS10vQo18Y7LjOCcchm4qiiA7dktR1ZZzbcDIMLQ+VbWUEybQO7Ry76RP9TCobDlh3MRMWTQNUHG/LaPuE12moKHy0wTEeokzQFOUrkL1NcKXGi8FQlop2429P0dO8dIy5QOKaJbjTVu6LLxNN8d+mPjZml8Qfsw+c9YLWMXscKxEREGnC31GvZqLyV+PE=;4NtJMDAGayI8+54EOYqRrw=="
 ---
 

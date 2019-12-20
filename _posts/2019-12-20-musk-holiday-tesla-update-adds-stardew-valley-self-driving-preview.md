@@ -39,6 +39,21 @@ related:
       - url: https://mondrian.mashable.com/2019%252F12%252F20%252F12%252F1c0a887a9e2747f68c71386dd77d9ae8.dbd35.jpg%252F1200x630.jpg?signature=QlWeXGtn4lnpV4HbssIk-ipOnlo=
         width: 1200
         height: 630
+  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
+    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
+    publishedDateTime: 2019-12-20T04:12:00Z
+    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
+    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
+        width: 700
+        height: 337
 
 secured: "pSuuDiPwYrEcNOIe1YryrnpekXcj74K1HR4OqrDbOu2rEUMZaQapSCr/8KisJ+k7EGtZC5U0jeuchLSBTAnrx+QAHKx92AHcjhfUtqjuA6IJenDdOm2Wz2Vdynv2FYdByjz0Fx16KzPkZloNGT/UILVfPqYYdY3+Mw/+jRzi4nAtpZjl/vDzwXppjSehh2dw2Q0LKZpxAtmHKw3WcpYR2VdkcxRbrn/h+m+0CHGGJjY6R/oGR6zPfmL7LP7TcGjHAHhHxI2zENHab5tzc9Lf8g==;/GaILaJeuXOrTvTQfL6EwA=="
 ---

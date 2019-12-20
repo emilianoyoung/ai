@@ -30,81 +30,32 @@ images:
     title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
 
 related:
-  - title: "30-40% Of Tesla Owners Buy Autopilot (And Full Self-Driving Is Just 3 Years Away)"
-    excerpt: "Full self-driving capability is just three years away, according to one Silicon Valley expert ... A friend tells me his Tesla Model 3 has driven him tens of thousands of miles, but he still needs to pay attention. (And its autopilot may violate state laws.) And an autonomous semi-truck drove 3,000 miles from California to Pennsylvania ..."
-    publishedDateTime: 2019-12-19T00:18:00Z
-    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/
-    ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
+  - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
+    excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
+    publishedDateTime: 2019-12-20T09:06:00Z
+    sourceUrl: https://mashable.com/article/tesla-holiday-update-fsd/
+    ampUrl: https://mashable.com/article/tesla-holiday-update-fsd.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-holiday-update-fsd.amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 167
+      name: Mashable
+      domain: mashable.com
+    quality: 85
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfabdf3e961e10007396a12%2F0x0.jpg
-        width: 1000
-        height: 663
-  - title: "30-40% Of Tesla Owners Buy Autopilot (But Full Self Driving Is Three Years Away, Expert Says)"
-    excerpt: "Full self-driving capability is just three years away, according to one Silicon Valley expert. “We’ve probably spent $100 billion in the past four or five years developing technology for fully autonomous go-anywhere cars,” says Blair LaCorte, president of AEye. “That ... can now be used in more intelligent ways, in more intelligent ..."
-    publishedDateTime: 2019-12-20T01:00:00Z
-    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/
-    ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
+      - url: https://mondrian.mashable.com/2019%252F12%252F20%252F12%252F1c0a887a9e2747f68c71386dd77d9ae8.dbd35.jpg%252F1200x630.jpg?signature=QlWeXGtn4lnpV4HbssIk-ipOnlo=
+        width: 1200
+        height: 630
+  - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
+    excerpt: "Will we see 'Full Self-Driving' made widely available by the end of 2019? It's been a few months since Tesla's 10.0 update brought Cuphead, Netflix and YouTube to some of its in-car systems, and it appears more options are around the corner. Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game ..."
+    publishedDateTime: 2019-12-20T03:34:00Z
+    sourceUrl: https://www.engadget.com/2019/12/19/tesla-fsd-stardew-musk/
+    ampUrl: https://www.engadget.com/amp/2019/12/19/tesla-fsd-stardew-musk/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/19/tesla-fsd-stardew-musk/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: https://www.bing.com/th?id=ON.46E19C0BD99713B918F2C6E4471F0311
-        width: 600
-        height: 315
-  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
-    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
-    publishedDateTime: 2019-12-16T14:39:00Z
-    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
-        width: 700
-        height: 490
-  - title: "Tesla Autopilot self-driving tech neutered in Europe"
-    excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
-    publishedDateTime: 2019-12-19T18:49:00Z
-    sourceUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798
-    ampUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
-        width: 620
-        height: 350
-  - title: "Self-driving cars: A decade of hype, but what's the reality?"
-    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
-    publishedDateTime: 2019-12-18T18:18:00Z
-    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
-    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
-        width: 620
-        height: 348
+      name: Engadget
+      domain: engadget.com
+    quality: 69
 
 secured: "bMTPX50toGbS1/c+DfyueqUsQi+7BPEX21d9uYlDrrOekgys3IahsOeXvwWdrrFqliqsdspY1WWyJWcWok4zjEpBWDaMu1DEYC13UX6yge8GaM9CXNTobuwknewiPoovyjbcxevAhTbe9M0I1AsMq3pkMJGf4h4SJMDIC3ejjIHebGvo9gXiJu9+I4f2ge7EAzoEQ68rzcOp7B2sAjZZKZ0QIlJvmBeOM6lUUK31qiB1+zMN3chJSo18KL6EptNyuEW1xXe1nsbYEc8sBf+tHA==;jTsx6xZYswkrWFS+GKAW/Q=="
 ---

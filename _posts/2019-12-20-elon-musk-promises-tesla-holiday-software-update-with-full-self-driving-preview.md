@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/article/tesla-holiday-update-fsd.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-holiday-update-fsd.amp
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
 
 related:
+  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
+    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
+    publishedDateTime: 2019-12-20T04:12:00Z
+    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
+    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
+        width: 700
+        height: 337
   - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
     excerpt: "Will we see 'Full Self-Driving' made widely available by the end of 2019? It's been a few months since Tesla's 10.0 update brought Cuphead, Netflix and YouTube to some of its in-car systems, and it appears more options are around the corner. Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game ..."
     publishedDateTime: 2019-12-20T03:34:00Z

@@ -33,6 +33,15 @@ related:
       name: YAHOO!News
       domain: yahoo.com
     quality: 18
+  - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
+    excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
+    publishedDateTime: 2019-12-20T14:03:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/imagia-partners-with-top-facilitate-ai-accelerated-healthcare-discoveries-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 18
 
 secured: "j0R0GRTemkgay3tk8ZZZY7Q+8BqnIkBJPrXYjiyAr4S8OIz0zN4VApjZY+SfCcMnkdZgmiXLGirFUcgEPBFCh/ALK24MCLERZrPyTtiAdD0dAzzp5LsukOJcCC+qvBrZoLPh28FMgsrt+/gLNfE7xovcTM4oCLCCTYoGNRROiuCdJVYryP/RNd7/kEuV0MSGxBf4Pnw6xfWN6Bpzl3jgXTmevRXbKdlQHmUD2GBjEdODiWBxcg7dXSsZCY2og+l5RR8wK1yWBj2t+onb9SqsWQ==;43DMaC5dUJjjuw5niVL2dg=="
 ---

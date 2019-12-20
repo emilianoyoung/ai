@@ -5,8 +5,8 @@ excerpt: "The global artificial intelligence (AI) chips market is expected to po
 publishedDateTime: 2019-12-18T21:43:00Z
 sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chips-163000152.html
 type: article
-quality: 35
-heat: 35
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: https://s.yimg.com/ny/api/res/1.2/216f9D8Jq.XktKgjqwptMg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/e07bae27e4d07932f29cad0fbe371a46

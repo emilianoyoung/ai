@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T08:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
 
 secured: "aV6hc1o3+4+JeIed1JyHxvFWtuu0gE2363DOjEemw6gZJxwndPFIz9mRAdd+5jh5c9ggm53Kl3GVlOtY1KAV8EQCAH47rUia+4+8K0XNqh/kc+e/m9UW+STDZqdhFDS6k3a966rBaBebChfSFIseE8zpgh8bjxsvq294kPUxwHd6nsyWwLl1lCy9IZzNOPvjmMkVppyzPirLIt8kvHjFqEIpLOy/IsBoE/YAYMx+c5/XZ4ssZem9BZzANkN3R7I5HCVUXuHspl4ADwJxTRQL2w==;0xOQTGV756SNBSAcPuq/IA=="
 ---

@@ -1,31 +1,21 @@
 ---
 category: news
 title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
-excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
-publishedDateTime: 2019-12-20T12:10:00Z
-sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
+excerpt: "YouTube has uploaded an original documentary series about artificial intelligence with Robert Downey Jr as its narrator. The first episode of the series features a virtual baby built using AI."
+publishedDateTime: 2019-12-20T13:51:00Z
+sourceUrl: https://www.msn.com/en-nz/entertainment/movies/youtubes-new-documentary-demystifying-artificial-intelligence-features-robert-downey-jr-and-an-ai-baby/ar-BBYclz6?li=BBqdk7Q
 type: article
-quality: 67
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Insider Australia on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
-    width: 1200
-    height: 600
-    title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
 
 related:
   - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
@@ -102,6 +92,6 @@ related:
         width: 700
         height: 393
 
-secured: "iX73/RdQ6XYjTn2fzuha11zv18UmGQkCOOZSUhSLL8x3USFIGrwb1n+XgBEBty8+BjhbHi7TzkJRBLT9VxQBEWoTlpLCHfoATQD/N1ZZKayIV8eAjjm2tO2/Pv6PPligPl18R+7kq0k2ZfSJo3gSvQ0N3nPR9D6jX6glUayFH4Xeen+K3VlGLz3qWXa2h15xFSzMdU7AFURJhwPRHeTBApP+Q+7S2fumui0RzndDqbF8iKD+LzONHsSs/jnIMrggxmDb0BRq1yVbBZbzvgKDjg==;0Ua98tbM/BHsIScv5Lsikw=="
+secured: "92NsIY3IlxY7fcRNekjyE8wlk7vCLqjzAarFriOW5olp67SasK13RVNgfirqFV03ctboK+QTIktAwvH7JbPDjehbkuilVVcumMnXJqj0Uz21Y69OQetEPL/OuJ+KUG8W5wRp+IA/SM5bIq2eDX4vIr1MUxQDV+Ypqpc0MOv0zTvm4Ydw3sz2HgcJBJKkarwc8HDKJMulChjsIb1DtYHf8sBaR6zwIFvep/R7d/axoZWyauoe3zrX/Llx4Ay8yzS4rHGPn5bnnUpau5lIdeHrHg==;tAR5FgYc837PY29X+h+k9A=="
 ---
 

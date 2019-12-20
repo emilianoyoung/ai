@@ -264,6 +264,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
+  - title: "Facial recognition fails on race, government study says"
+    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
+    publishedDateTime: 2019-12-20T14:55:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50865437
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50865437
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50865437
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
+        width: 1024
+        height: 576
   - title: "Sea-Tac airport officials opt out of using facial recognition technology"
     excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
     publishedDateTime: 2019-12-11T11:57:00Z
@@ -294,6 +309,17 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
+    publishedDateTime: 2019-12-20T14:19:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
   - title: "U.S. Government Study Finds Racial Bias in Facial Recognition Tools"
     excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
     publishedDateTime: 2019-12-20T10:46:00Z
@@ -983,14 +1009,14 @@ related:
         height: 393
   - title: "Federal study finds race, gender bias in facial recognition technology"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
-    publishedDateTime: 2019-12-19T23:50:00Z
-    sourceUrl: https://www.jsonline.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.jsonline.com/amp/2704291001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2704291001
+    publishedDateTime: 2019-12-19T23:43:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+    ampUrl: https://amp.usatoday.com/amp/2704291001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: USA Today
+      domain: usatoday.com
     quality: 39
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
@@ -1031,6 +1057,17 @@ related:
       - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
         width: 700
         height: 394
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "The study comes amid widespread deployment of facial recognition for law enforcement, airports, border security, banking, retailing, schools and for personal technology such as unlocking smartphones. Some activists and researchers have claimed the potential for errors is too great and that mistakes could result in the jailing of innocent people ..."
+    publishedDateTime: 2019-12-20T12:12:00Z
+    sourceUrl: https://www.rawstory.com/2019/12/massive-errors-found-in-facial-recognition-tech-us-study/
+    ampUrl: https://www.rawstory.com/2019/12/massive-errors-found-in-facial-recognition-tech-us-study/amp/
+    cdnAmpUrl: https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2019/12/massive-errors-found-in-facial-recognition-tech-us-study/amp/
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 39
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1107,6 +1144,19 @@ related:
       - url: https://www.motherjones.com/wp-content/uploads/2019/12/blog_fmr_rate_chinese.jpg?w=1200&amp;h=630&amp;crop=1
         width: 1200
         height: 580
+  - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
+    excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555 ..."
+    publishedDateTime: 2019-12-20T12:55:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: https://mms.businesswire.com/media/20191220005091/en/764015/23/CES2020_ENG.jpg
+        width: 1200
+        height: 627
   - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
     excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
     publishedDateTime: 2019-12-19T19:32:00Z
@@ -1242,6 +1292,17 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 26
+  - title: "3-year ban on police use of facial recognition technology in California to start in the new year"
+    excerpt: "Regional law enforcement agencies have used facial recognition technology for years to help them identify people who are either unwilling or unable to identify themselves. To do that, they run images taken with mobile devices against a database of nearly two million mugshots, looking for a match. A new state law that goes into effect in the new ..."
+    publishedDateTime: 2019-12-20T14:23:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year
+    ampUrl: https://www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 26
   - title: "Emotion Recognition Is Creepy As Hell"
     excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
     publishedDateTime: 2019-12-13T21:12:00Z
@@ -1339,6 +1400,15 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:06Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYbS8X
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 12
 
 secured: "rHTgEgrzZ7TufTAMv0VivLYcTfUebP3n2+dcLEHbjwMF4IBjknuGoOy8SOMZ3P77zTGvCajE6mRCdLC2DaWh7REOpVRWOOa092P95HRAWbBlEENOuROZ3DJrsMvRO1XijURre2bgjnH8TChusSTNguFp59QuJQBPsjO92zG1D6agLrWQlN9zl+PiEbCJZCnFOfUWThjS6iCk2cZim8wdIRWNJpi78B4yV7h8bEGmN674eMB+yYkUwdPHzwU6sq4TTKrCwZODYZO3Az0wCIFuzw==;tlpxX+IfbIiJdLJJiaSeMw=="
 ---
