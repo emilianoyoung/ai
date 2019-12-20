@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T12:14:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
 type: article
 quality: 56
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
+    excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
+    publishedDateTime: 2019-12-20T12:08:00Z
+    sourceUrl: https://www.openpr.com/news/1882281/ai-in-education-market-projected-to-reach-3-683-5-million
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
   - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
     excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
     publishedDateTime: 2019-12-19T13:19:00Z

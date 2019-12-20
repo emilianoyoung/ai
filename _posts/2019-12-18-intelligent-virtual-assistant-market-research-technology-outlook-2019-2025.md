@@ -264,6 +264,15 @@ related:
       name: KSL
       domain: ksl.com
     quality: 0
+  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
+    publishedDateTime: 2019-12-19T20:28:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "RJr+5tu+MUj8NmFSRCaHRoYJtmxnKz4/hMs/1VUAmA28j+W7HHNihrOH/0cnsPEUvthaVM0AU3lNBtWuq80yfb7swbY42jCw9NZzawX7sXDFMaIL2f0ytxk+guZQYI92QHJNOzBJvIouwwea8AtJIwPzYH8FPxeen8HHPsLZhXAkDvryWXyJeiEymCtJIVOzxXQx0q7+hQTrEpP5WFhmiBf9ZCg8b0ntoF8UUwnwk/GWV/4R+Awn4BeovCC2/M5rANTtNVz4OolqE3z5evEwtA==;Q5ulVG/5/T/gSFOMk7APkA=="
 ---

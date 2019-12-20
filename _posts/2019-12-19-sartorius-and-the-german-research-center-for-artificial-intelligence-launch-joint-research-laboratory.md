@@ -50,14 +50,14 @@ related:
         width: 480
         height: 320
   - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
-    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
-    publishedDateTime: 2019-12-19T13:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962739/0/en/Clarkson-Professors-Receive-Robot-to-Continue-Human-Robot-Handover-Interaction-Research.html
+    excerpt: "Potsdam, NY, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Clarkson University Computer Science Assistant Professors Natasha and Sean Banerjee recently received a new mobile grasp robot through a joint Facebook and Carnegie Mellon ... \"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human ..."
+    publishedDateTime: 2019-12-19T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/clarkson-professors-receive-robot-to-continue-human-robot-handover-interaction-research-1028775437
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 11
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
     excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
     publishedDateTime: 2019-12-20T00:25:00Z

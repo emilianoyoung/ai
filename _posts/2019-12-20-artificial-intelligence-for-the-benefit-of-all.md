@@ -5,8 +5,8 @@ excerpt: "AI will have an impact on a wide range of sectors, and individuals can
 publishedDateTime: 2019-12-20T07:54:00Z
 sourceUrl: https://gouvernement.lu/en/actualites/toutes_actualites/interviews/2019/12-decembre/20-bettel-happen.html
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.A50D7908A6FECAF7AC3D80C5981AF00D

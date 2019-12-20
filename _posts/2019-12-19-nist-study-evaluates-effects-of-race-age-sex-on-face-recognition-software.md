@@ -24,6 +24,34 @@ images:
     title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
 
 related:
+  - title: "Facial recognition fails on race, suggests government study"
+    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
+    publishedDateTime: 2019-12-20T12:29:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50865437
+    ampUrl: https://www.bbc.com/news/amp/technology-50865437
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
+        width: 1024
+        height: 576
+  - title: "AI Now 2019 report slams government use of facial recognition, biased AI"
+    excerpt: "“Community groups, workers, journalists, and researchers—not corporate AI ethics statements and policies—have been primarily responsible for pressuring tech companies and governments to set guardrails on the use of AI.” AI Now 2019 report AI Now’s 2019 report is out, and it’s exactly as dismaying as we thought it would be. The good ..."
+    publishedDateTime: 2019-12-13T22:08:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/13/ai-now-2019-report-slams-government-use-of-facial-recognition-biased-ai/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.6E68221647382839DCEB1B5DFD15B038
+        width: 700
+        height: 350
   - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
     excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
     publishedDateTime: 2019-12-19T22:11:00Z
@@ -54,34 +82,6 @@ related:
       - url: https://images.wsj.net/im-138364/social
         width: 1280
         height: 640
-  - title: "Serie A to tackle racism in Italy with facial recognition, says CEO Luigi De Siervo"
-    excerpt: "Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behaviour with racist chants aimed at Romelu Lukaku, Franck Kessie, Dalbert Henrique ..."
-    publishedDateTime: 2019-12-16T17:34:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.5727B12614FDFAC2E7FBE963E7045D39
-        width: 700
-        height: 393
-  - title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
-    excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
-    publishedDateTime: 2019-12-19T22:21:00Z
-    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.FF6BAF817FC9444BDF5920823B9F9D28
-        width: 700
-        height: 350
 
 secured: "tXjlvwIkUFUy4NiG9vrQiSwlwt4FfyZwfrMOIndx3vw54hwRBKBK5euCo6/59GqPsAAe3o8nGPqvJYnKaUdnGVul6lEq7iTyfRN8VYZsAiZcVrSVYFCcU8JI0CbMJIYF+nZEh/jZKMpKcpfuQswXgqA05yPp2dA7+y30titjETNxmRl814elmm4jnOlmoghV96RFFyXh0799PjnqkT78HkUkhtI1WKddBYbteTqZm5w2EDHHFAynJcwTjLW02s/WQ2CjQjZZg4VvgqwpO/ytIA==;uSywkPP11eIKzt7dKae0nA=="
 ---

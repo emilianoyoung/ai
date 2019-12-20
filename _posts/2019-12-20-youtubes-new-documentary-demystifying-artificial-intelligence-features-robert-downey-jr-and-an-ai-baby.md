@@ -1,34 +1,48 @@
 ---
 category: news
-title: "YouTube's series on AI with Robert Downey Jr. is finally available"
-excerpt: "And it's actually engaging and insightful. If you've ever had a question about artificial intelligence or how it works, YouTube's latest Originals series, The Age of A.I., tries to answer those questions. The new eight-part show, which is available to watch today after a lengthy wait, features Robert Downey Jr. as he attempts to demystify terms ..."
-publishedDateTime: 2019-12-18T22:22:00Z
-sourceUrl: https://www.engadget.com/2019/12/18/youtube-age-of-ai-now-available/
-ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
+excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
+publishedDateTime: 2019-12-20T12:10:00Z
+sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
 type: article
-quality: 187
-heat: 237
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
-    width: 700
-    height: 367
-    title: "YouTube's series on AI with Robert Downey Jr. is finally available"
+  - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
+    width: 1200
+    height: 600
+    title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
 
 related:
+  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
+    excerpt: "And it's actually engaging and insightful. If you've ever had a question about artificial intelligence or how it works, YouTube's latest Originals series, The Age of A.I., tries to answer those questions. The new eight-part show, which is available to watch today after a lengthy wait, features Robert Downey Jr. as he attempts to demystify terms ..."
+    publishedDateTime: 2019-12-18T22:22:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/youtube-age-of-ai-now-available/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 187
+    images:
+      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
+        width: 700
+        height: 367
   - title: "‘The Age Of A.I.’: Robert Downey Jr. Hosts YouTube Documentary Series – Watch The Trailer"
     excerpt: "Robert Downey Jr. will explain in The Age of A.I., a new documentary series from YouTube originals that premieres December 18. Check out the first trailer above and key art below ... producer with Evan Moore serving as a co-producer on the series. Subscribe to Deadline Breaking News Alerts and keep your inbox happy. Check out the airdates ..."
     publishedDateTime: 2019-12-13T01:00:00Z
@@ -72,19 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
         width: 700
         height: 367
-  - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
-    excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
-    publishedDateTime: 2019-12-20T12:10:00Z
-    sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
     excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
     publishedDateTime: 2019-12-19T16:07:00Z
@@ -101,6 +102,6 @@ related:
         width: 700
         height: 393
 
-secured: "GLa8diXNOzauxuksbNxNHW3OQEzyFYe5AYp96UoPqY98UfAjjgIObRkX/PtuR4+BcS6zP4WLyDcfVGCER9srcU2MPLqJqHaU7QqPgtQGGgBep72fbWmxCQTUCRfkHdW67tZNlKbbGuKIap5GLQRPGE9UCdSOV5GdgHJ3Q7b6d7gKyN2JQX3cBrTC6opOKWRmxJXaVFLkCwM4vF8546jg9iy/72n5m1aRUfdFzY7tuEu6opd6kfHde7vMHvzoYAJcJLeA9QQCVkHy7GnCJV2caxYR9hOZzKqaJ2azgxyVgP8=;XaLNwaQlFw8PkNx2EeVHFw=="
+secured: "iX73/RdQ6XYjTn2fzuha11zv18UmGQkCOOZSUhSLL8x3USFIGrwb1n+XgBEBty8+BjhbHi7TzkJRBLT9VxQBEWoTlpLCHfoATQD/N1ZZKayIV8eAjjm2tO2/Pv6PPligPl18R+7kq0k2ZfSJo3gSvQ0N3nPR9D6jX6glUayFH4Xeen+K3VlGLz3qWXa2h15xFSzMdU7AFURJhwPRHeTBApP+Q+7S2fumui0RzndDqbF8iKD+LzONHsSs/jnIMrggxmDb0BRq1yVbBZbzvgKDjg==;0Ua98tbM/BHsIScv5Lsikw=="
 ---
 

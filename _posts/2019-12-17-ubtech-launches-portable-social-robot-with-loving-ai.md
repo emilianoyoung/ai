@@ -18,6 +18,19 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program, With Vending Robot On The Horizon"
+    excerpt: "SANTA CLARA, CA -- CloudMinds Technology Inc. -- a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter -- has launched a Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. The Santa Clara, CA-based company also developed and markets ..."
+    publishedDateTime: 2019-12-20T12:26:00Z
+    sourceUrl: https://www.vendingtimes.com/articles/cloudminds-launches-intelligent-smart-robot-rental-13266
+    type: article
+    provider:
+      name: Vending Times
+      domain: vendingtimes.com
+    quality: 28
+    images:
+      - url: https://www.vendingtimes.com/Uploads/Public/Images/Articles/201912/12202019-CloudMinds%20Launches%20Intelligent%20Smart%20Robot%20Rental%20Program.jpg
+        width: 1440
+        height: 1080
   - title: "CloudMinds Launches Robot Rental Program"
     excerpt: "The Smart Robots available to customers have a humanoid design and natural language processing (NLP) capabilities that will facilitate conversations and other interactions in multiple languages. The service seems to be geared primarily towards enterprise customers that may want to use the robot to create unique experiences for guests at ..."
     publishedDateTime: 2019-12-19T21:44:00Z

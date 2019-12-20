@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
+  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-11T12:31:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
     excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
     publishedDateTime: 2019-12-18T22:50:00Z

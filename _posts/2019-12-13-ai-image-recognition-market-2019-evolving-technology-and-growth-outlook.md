@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -263,6 +263,15 @@ related:
     provider:
       name: KSL
       domain: ksl.com
+    quality: 0
+  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
+    publishedDateTime: 2019-12-19T20:28:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "YX9Cmw/zWXG8lmY2hD/f+gOoUtIbfQ9ZksipAwu4gKbMHHEs5dCYgl8ACEmTSsPGqAUWMRu7+yTYGcyn/0BLR2wk//KO3DaDQyJqmx1UHg5QiOsQaFWSDP8sAhQKKYtjorroJ6LveA9TVkhB+rm7p6d63upee3+HZQ8cA0DcFmJwvzEN9p1JR5/TQn2DyjVvVT95g1v6kFNu0gz53cYJXD2a2wi/h+giblAPQuVXZnIwHryKzPAnZCdCW3hLqFWO62IBtcufqwe4bQye8cHsAw==;E2Q1GCaSGnaMY03i6NrzKw=="

@@ -3,7 +3,7 @@ category: news
 title: "Speech recognition tech cuts paperwork for police"
 excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
 publishedDateTime: 2019-12-12T20:42:00Z
-sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
+sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
 type: article
 quality: 39
 heat: -1
@@ -358,6 +358,6 @@ related:
         width: 600
         height: 295
 
-secured: "9IsqRZ5gzNxPA7FxtsHVu0tXwhhYDezwo+/X/DzwselRC768Uce5dChJ4fDVYs2423zKzzY8bFhHm2J3jEbGeiKeoQOXgPEVOP6ayW9JsViPF68trcsEaAlU7HRTO4TG73V3661Z5Jls4/UjuFOqOEACFCCLKWAszrRYIikcLRAyFaHtrToVDDvo1d23Vl0IIVdqQwQnE1ULWvz8WuqKVyJpgt4qOeaeoUyPnIJfwTCTnQT+EAffCut8x/ns2oN72SNwF2hz5v8DuhIVGlhwEQ==;Z1Bp26ln759PBAuP+Q/TbQ=="
+secured: "WFn29oRiJ6stLpID1w5DNF/dHBhSDqvmQ7X3rwauRgJpDnClPtGP9P8KUVtdVE4YUWwAVtOEV/o1h8qzQ3xfG7tUO7EwHU+AGO8pvqKdBJppMRgBeiNp7mDzKuV01YeACEbceCkb5pmaexzSDP7LNBwTXcDBzOqWOkaQJkIRjS9BoUsI8bKHFPoK2c6O1u2jb0YUU94zkTdtTZGxDvQiyV+hWvVjx61h8Oj/BFSYnRYyPGMd1oQAewLT10M4b4IiH3pfNwk/SsZOCMiaIsipYw==;TNu1FsTPfxre8OsDr0Sm0A=="
 ---
 

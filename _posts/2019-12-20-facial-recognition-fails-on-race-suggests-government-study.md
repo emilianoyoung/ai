@@ -1,49 +1,48 @@
 ---
 category: news
-title: "AI Now 2019 report slams government use of facial recognition, biased AI"
-excerpt: "“Community groups, workers, journalists, and researchers—not corporate AI ethics statements and policies—have been primarily responsible for pressuring tech companies and governments to set guardrails on the use of AI.” AI Now 2019 report AI Now’s 2019 report is out, and it’s exactly as dismaying as we thought it would be. The good ..."
-publishedDateTime: 2019-12-13T22:08:00Z
-sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/13/ai-now-2019-report-slams-government-use-of-facial-recognition-biased-ai/
+title: "Facial recognition fails on race, suggests government study"
+excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
+publishedDateTime: 2019-12-20T12:29:00Z
+sourceUrl: https://www.bbc.com/news/technology-50865437
+ampUrl: https://www.bbc.com/news/amp/technology-50865437
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 104
+heat: 144
+published: true
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI Ethics
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.6E68221647382839DCEB1B5DFD15B038
-    width: 700
-    height: 350
-    title: "AI Now 2019 report slams government use of facial recognition, biased AI"
+  - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
+    width: 1024
+    height: 576
+    title: "Facial recognition fails on race, suggests government study"
 
 related:
-  - title: "Facial recognition fails on race, suggests government study"
-    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
-    publishedDateTime: 2019-12-20T12:29:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50865437
-    ampUrl: https://www.bbc.com/news/amp/technology-50865437
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
+  - title: "AI Now 2019 report slams government use of facial recognition, biased AI"
+    excerpt: "“Community groups, workers, journalists, and researchers—not corporate AI ethics statements and policies—have been primarily responsible for pressuring tech companies and governments to set guardrails on the use of AI.” AI Now 2019 report AI Now’s 2019 report is out, and it’s exactly as dismaying as we thought it would be. The good ..."
+    publishedDateTime: 2019-12-13T22:08:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/13/ai-now-2019-report-slams-government-use-of-facial-recognition-biased-ai/
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
     images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
-        width: 1024
-        height: 576
+      - url: https://www.bing.com/th?id=ON.6E68221647382839DCEB1B5DFD15B038
+        width: 700
+        height: 350
   - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
     excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
     publishedDateTime: 2019-12-19T22:11:00Z
@@ -88,6 +87,6 @@ related:
         width: 700
         height: 393
 
-secured: "vHBmNqnwx4ZYgQ1GUkog7IhtkR9Y0Qr2TdeDUNJYT88hLEcWMAfMvzOL6AypPgJaSfcZQltfO+eYWgH0RqXOM9lGi+bltppzF3BGYO3SZmffh/whjx/7ihjdUu8WQx38ZBoHZPhVxQKrjTtO5R76BARKt3AlRKtMIXvOfhauh16VLRS+Y0nH3C4N6C2OusUW5+KNeG1sJiVWsJ3RCbvD7yz3O3IzzNo5kMQbV3H6KVWAc3JGYoN2pWUl8URgpnh6t37axRq/ZKw+Ob4A3B/z1g==;fig0LXNKpseVRdW3Sbxesg=="
+secured: "1SgP9aoHLARlZ0MSTbVIcmLxgiEXNVKPJTDPrGlYjecZvbjPRL+NgSIVZLo99SjRgArg8qadP5YkpAeTr+t37Z9JdNTKnjTyQodTDTdhr1VQOB7ssI34O2Vl2ALdAmeYSRoDGptg63x8YUCoFHE8ti2t2Fd3jN/XHhMhoTPWucJK2wyrBc1UbQ8GM1lVl3ANM+NzjaSssrPPY/cUYs5rApPs9/q3mqKKUR2pMXdJEJVEn5n499AkOUyVux+CAcMN67HIm+99nFLZ7/dfkRLhyA==;PNCsAT2oy/fDtH9a5EZ3zw=="
 ---
 

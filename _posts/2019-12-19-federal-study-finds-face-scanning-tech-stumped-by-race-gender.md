@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
         width: 700
         height: 466
+  - title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
+    excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
+    publishedDateTime: 2019-12-19T22:21:00Z
+    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.FF6BAF817FC9444BDF5920823B9F9D28
+        width: 700
+        height: 350
 
 secured: "DVu8AkAzFDS6c7DFDGYQ4OvZe1D/8IoX8vvk7sw4ofkZsAjuaoOxG9n6bgU06yslLiJsKi5uzczAkL2ONNIYswyqpL9y+09eSY6uoytF2gXF5VaCyWX4j2LdHllzIT5itnrRUdmwxbOc9gFYFnC3OQcHAWULeFgZ9PsXghNiFxxl3eZSn+cbduzTnHyHieAMkfF8mUhdE9LMaUcRJkJ+UV0ZbOLjeRLibZlXqTsXi4rI070oM8DTIkqnvA0ZF+qnlW1mYZ/nrezRppv9JfaCGA==;PDSNd0r+hXYR2Smqwwj+vw=="
 ---

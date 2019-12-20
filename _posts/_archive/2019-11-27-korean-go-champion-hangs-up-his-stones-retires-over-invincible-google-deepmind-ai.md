@@ -25,6 +25,6 @@ images:
     height: 398
     title: "Korean Go Champion Hangs Up His Stones, Retires Over Invincible Google DeepMind AI"
 
-secured: "6xzpUtROlyOKHcz4DZ4jg8N8Y8QgHTIuBmElalHyx+1L4EBP8UEGhN3tSR1n83fMsYtnJloPxbPbx4fox/xkoV+Ii761VKZUIKRdTT7ucK4FNa47fgqT8kC+3GFtxWhEhQ7NTJt7P0RIKVwybypXIPZF2gCdpVCSHPn3b/BhoUx8N+6AtZDalGtkBWiLix4Xopw1lfl510Zkz6CpOXTT+MRJdLMWqMaQcg3GSyM+0LgJ5Djz2N/1H3iAgWTqBd3IVMffOZ+lXwZJOcurTp6brw==;kUqJzVfnQ7IBPt2uMUoR6Q=="
+secured: "+1diEQ7Roln26esKAqCpcVsVug5Szx92vlK+1xiuLkfwZaaUS2kcQ7Gg5lGWHBjGDYnKM4/cCMm4PtJkukkDpLElVC9nGZI40NzKIMn1+HrqtAo2NqhyHrBJs0/AtL6mjCsgBa9YsVL1ALek0MYN5Udyrouhe4RaXwD10+i/38vQlfz6BD472z3rinFsi5is1cVRTurzV+EWSoiwGeGpzpt4PvweNNRNcRMYpXJvVBvSK6Kuq0e7kD6qS65uTHd8bYQskKBx16Ez3la3eK4mJA==;Te7h9EnUtCbO/kGX9iWtqQ=="
 ---
 

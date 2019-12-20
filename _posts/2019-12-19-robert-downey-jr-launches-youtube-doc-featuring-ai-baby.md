@@ -2,22 +2,18 @@
 category: news
 title: "Robert Downey Jr launches YouTube doc featuring AI baby"
 excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
-publishedDateTime: 2019-12-19T16:03:00Z
-sourceUrl: https://www.bbc.com/news/technology-50851409
-ampUrl: https://www.bbc.com/news/amp/technology-50851409
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50851409
+publishedDateTime: 2019-12-19T16:07:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-50851409
+ampUrl: https://www.bbc.co.uk/news/amp/technology-50851409
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50851409
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -87,7 +83,20 @@ related:
       - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
         width: 700
         height: 367
+  - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
+    excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
+    publishedDateTime: 2019-12-20T12:10:00Z
+    sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
-secured: "eNC7JJe+mCF000srBzdeAzxM45Gn1O5e1885A3nhEMQK2vxE2T/irjAkn/NWPxSa/fu1ADT1OmTaAKIf10AtPCQTBAVgQOGAUIaFIJaVNL627KQFyIhnE6+h79EjehYOkF+LLpH5TRMIpRkECN5D14v19ZfW5z6o6duMLKGpLfh8V+orGJHVhU2JrAna3vcQVckNUNnVEqaurA1UL7zM60iDrRb0h8JSbFSNW/oAbdcRqbx917l3kYeH25IPrk6gB6QX3SzECyyFVx64g9hxug==;ESGgKLrSf2N9Kr7AIeol1w=="
+secured: "TsYE/ZdkFy7p9XXG64XYSG20I14mmMS+I2w1LJk8dN4J1gK/2NVn1TmZUdcEqCz6Ujc6uxIAx9ZWsr3Ra1QvKDeYvFW8xvMduZQp3/i15Yss8RBJVSqN6SEa0ieQvL3pXHjLFvAQfLEzWJhErIYIgmGJ+Uw618xCCA183Ck2y3blGgoN38XrrhvuWiYWLCEKUOdrE5PVDzopvMoKi7FL1iY6envyb2fZg4bhL5BvkxT95LbZG0aXfM1Ek57kMhJ6QKKFYlVHVHBE+QLi33o1GA==;GutaozgcJakCnBGm7usitw=="
 ---
 

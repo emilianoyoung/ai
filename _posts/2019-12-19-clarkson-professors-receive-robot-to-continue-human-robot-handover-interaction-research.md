@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
-excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
-publishedDateTime: 2019-12-19T13:00:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962739/0/en/Clarkson-Professors-Receive-Robot-to-Continue-Human-Robot-Handover-Interaction-Research.html
+excerpt: "Potsdam, NY, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Clarkson University Computer Science Assistant Professors Natasha and Sean Banerjee recently received a new mobile grasp robot through a joint Facebook and Carnegie Mellon ... \"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human ..."
+publishedDateTime: 2019-12-19T12:00:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/clarkson-professors-receive-robot-to-continue-human-robot-handover-interaction-research-1028775437
 type: article
-quality: 11
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Robotics
+  - Facebook AI
 
 related:
   - title: "Intelligent Towing Tank propels human-robot-computer research"
@@ -76,6 +80,6 @@ related:
       domain: medpagetoday.com
     quality: 4
 
-secured: "GfZdc7016+p+l5WQPXlvwwjtLY8JVgPoXXz7A+uhvuayGtaM7m95XcQRAvdPJeTE+zP4U14cyHrc4LAuQ6u3T/hf7CecDbq1Ntic240jAWgfvplwGG3gj8n2RPQIdYEljQqZN5y9zPtdH8ZWmQ6q3SnRdh1GMVQr+rJoB6HIAfR2rilweAmQS+xf7n/cUnwTUz5SpGIVp+Xphi24le2A/K8F+X8wYA4+uqGIpBhsN8xAmEIT8ZJ9CYSkexdihKGhB+hKYHDML+Grp2IXouOErQ==;ZWJllHHflMl7VMMHo/q3zw=="
+secured: "BdlT0uNwrKx+RbsbzF1yOngtxlx0ygTaICeyGYI/OtqnXRXtENOuXG/jEPiDZGmuz8kaqmvL80LJgcS3GVJg4xCzECBrGVYaoO++M0TEx0LjCdPrc5lakcYLsmll4f3BmFUTw8IU75pjMcRShQ9AXPt/E/2qWiSXeQ9ZSBJHoVYIiTvNUGj249AB0wHfDIromvA23QeKVbsMJRMaztN683TCSpyXWfotuUWuH87eIHigJpxCyp/xutCrb+xJjnjL38GxyUX8/LKOEZakKoN0tw==;rCdqqfGzvJQfnrRaFNtZzQ=="
 ---
 
