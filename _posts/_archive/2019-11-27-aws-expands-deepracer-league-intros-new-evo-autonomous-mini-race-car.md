@@ -35,19 +35,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 84
-  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
-    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
-    publishedDateTime: 2019-11-27T09:30:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
     publishedDateTime: 2019-11-28T00:13:00Z
@@ -71,6 +58,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "wgmE6W/UPk7M86CK/U8wT47LlEBkM3hRmHrPWjZQQo3tq+XivPYms5hn5/0/3rhgEcX1EjB0okxAnL6N87lHo9kTBTRXSxTc2MH7K1R4RC8+VsGV8oOIX6K/RQbX8Pos8e2p22NXPfjj8JiS5WbrKpUkRd9eQ3xZB3KBX4IERRZiHj5mEuKzdJt+My/6b7wGUyr/ZvVPjHrICMsGiBKejUdE+DpdmumvUw+Nt3P1UQqQVyBRLyiz5GitHciJ+8o5GSFcFL52/WUr3chsSke4eA==;fhe/fvgTrRaVlfqgrS1ZCw=="
+secured: "8xGlquyFXxtIcpeHF14JcJWvV/ouz7Vc1H4E4NnNt2Y5fdIfCuZP5qi5MTWpGcD8uIvWHg6ItLPv5Nv0TQVsWLVfOMCh5P+k2XJBh5Cp6yqWfoH8l8vHpkysM9qd8k14VBYlokgF4ajUa7QQDtKAvXff8MpXUHZCfiNDf+BKdb3bHluqxU42HmqND4MGXd4vBLx73+YuYATxZlPIJtQd6QR1Yt4QYf87u6Wb5l5mw82rdMlvz4zNChMhASRdeaRUTcmmXvb7YOgSqYLSIJtnTA==;w6R3tM9VRUv75Hbm/uruIw=="
 ---
 

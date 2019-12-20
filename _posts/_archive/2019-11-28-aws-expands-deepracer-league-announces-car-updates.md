@@ -46,19 +46,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
-    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
-    publishedDateTime: 2019-11-27T09:30:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
@@ -69,6 +56,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "YJ0xMF0Jo9mQwno8wWjNkFN3ngGgw9ydAAjaai+v2qkqwLmrS3XD3Zpb21+ivj2tXMx7r0ka9usuXEpgIy3r2Q13fxMgXeqzsrmIP/5D0tmOzBvfUgIPG3YV2rzAN11tcTqiAxbV1HA1h9dW+G6ciwLpRJQ95pPdeaFk+zvf6PnnUlrCTMyzzEHDNxCMXDZuEePF/t4eCtGurDYDVzA0ld9tSM8UaJ8PFx9+3105aDOp+Jid4wLOalBdMpGGD5jXB/p3VyJivD2UClCDLRQKJw==;F5i3VRumBPWuIxlb/2pgnw=="
+secured: "5IuPJB/aslxaa3qV69Etc3oiZdF8K0MD58ErEG9f/f+Gzl5jdMeVbBCy+PA6BD1J/N/iMQAhcuhLssaSzJXFyqyfepVPhJF4k2l6d7Ok3KMhr+a5hjZgycCMZ/4ngA/CpabZALUN76z9Mp59nDVZe+mWScD5uGXuXAigTtif+OO2rIO/bNPYjLEvfdckd7MDH6Xp1V/U0BJwKnYx8+WYP/3FCLvBHzQ9taJsFDbCCKQC9jyqNhLhFMUjV7HWTJlL9mNwfCa+PUdDqI8s4/oW3Q==;+ZTWFE2oObZZE/RR+GkD5Q=="
 ---
 
