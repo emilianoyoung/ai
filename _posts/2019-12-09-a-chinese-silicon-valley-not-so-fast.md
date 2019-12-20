@@ -28,7 +28,7 @@ related:
   - title: "A Chinese Silicon Valley? Not So Fast"
     excerpt: "It uses artificial intelligence to provide mobile customized news recommendations and is disrupting ... While not as technologically sophisticated — Waymo’s cars alone have self-driven more miles than all Chinese AVs combined — Chinese firms may be able to sidestep certain issues in driving software because of AV-friendly urban landscapes."
     publishedDateTime: 2019-12-06T13:35:00Z
-    sourceUrl: https://lareviewofbooks.org/article/a-chinese-silicon-valley-not-so-fast/
+    sourceUrl: https://lareviewofbooks.org/article/a-chinese-silicon-valley-not-so-fast
     type: article
     provider:
       name: Los Angeles Review of Books

@@ -123,6 +123,21 @@ related:
       - url: https://media.wired.com/photos/5dfa60016abd1f00080da871/master/pass/Biz-manonstreet-1002774792.jpg
         width: 2400
         height: 1600
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "(Reuters) - Many facial recognition systems misidentify people of colour more often than white people, according to a U.S. government study released on Thursday that is likely to heighten ..."
+    publishedDateTime: 2019-12-19T23:59:00Z
+    sourceUrl: https://uk.reuters.com/article/uk-usa-crime-face/u-s-government-study-finds-racial-bias-in-facial-recognition-tools-idUKKBN1YN2VJ?feedType=RSS&feedName=worldNews
+    ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1YN2VJ
+    cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1YN2VJ
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z
@@ -228,6 +243,19 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
+    excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
+    publishedDateTime: 2019-12-19T23:14:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/19/federal-study-facial-recognition-systems-most-benefit-middle-aged-white-males/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
+        width: 796
+        height: 419
   - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
     excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
     publishedDateTime: 2019-12-16T19:44:00Z
@@ -631,6 +659,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C4243A15BB13D680E3E0628F52145740
         width: 700
         height: 449
+  - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
+    excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
+    publishedDateTime: 2019-12-19T23:19:00Z
+    sourceUrl: https://www.businessinsider.com/san-francisco-amended-its-facial-recognition-ban-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
     excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
     publishedDateTime: 2019-12-11T16:41:00Z
@@ -874,6 +915,17 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
+  - title: "Federal study finds race, gender bias in facial recognition technology"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
+    publishedDateTime: 2019-12-19T23:43:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+    ampUrl: https://amp.usatoday.com/amp/2704291001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 39
   - title: "Massive Errors Found In Facial Recognition Tech: US Study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
     publishedDateTime: 2019-12-19T21:53:00Z

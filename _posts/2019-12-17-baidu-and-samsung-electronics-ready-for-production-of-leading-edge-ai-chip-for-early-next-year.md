@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-excerpt: "Designed based on Samsung’s 14nm process and I-Cube TM package technology, Baidu KUNLUN chip to expand AI ecosystem and transform the user experience Baidu, Inc. (NASDAQ: BIDU), a leading chinese-language internet search provider, and Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced that ..."
-publishedDateTime: 2019-12-17T23:43:00Z
-sourceUrl: https://finance.yahoo.com/news/baidu-samsung-electronics-ready-production-100000829.html
+excerpt: "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191217005832/en/ Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm) process technology with its I-Cube [TM] (Interposer ..."
+publishedDateTime: 2019-12-17T22:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
-quality: 42
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://s.yimg.com/ny/api/res/1.2/Yg_et0f.iaNbpzJ83s6sFA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/3f44db5d6c8a2c9bdb3ecef71c91b74d
-    width: 480
-    height: 330
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
@@ -123,6 +127,6 @@ related:
       domain: digitimes.com
     quality: 34
 
-secured: "W2LdN/JlT8CTuVvfvizI/WP1Qj8ye4yVBNAAEdFagBxRFo7Ubbtjl2h4r80lWyFBdPcC/Urz3mj1XkGHjAg7U+HTGMU+WA7WaDNnpHDobzw+omJ6jIwhsyds3vBzAlg7tXDLjCKiJ6ViGHVhQFGcWWGRHYubyXoV1fLFMQu4UpKd+ZOpUxxO7mAAHi6LoNQkxtdckXQ3+1eOBA8X0YvIwYYv1WEp8vyWpHrYBG7m4OU2T8tuDdKxe7eIXQppxFb1XWyIqAcXSasgmhcLo1CNAA==;hivyEbFIE+GUbLhrqk6GkA=="
+secured: "xFS8V76pe4Eix9ajodg/G458YkFCP73akwrOk+fyjslkM4a/tH1+ORTeu1+arAJaCAaCJyBAKADBV2hC3d9jjfizgiOlcyrLS0E2Rll3xgoSLeg3lsOWlcuQ19eIq2+JkoUoFPBeXX2grKYxcJAc5fvw8S2looXgrJhiZC3J3XZ9iSOZFNCUesqxZ4PKsVaLGOqG31xatorHn0wkpK6aOLOkMsGjxWTGsqkjdab9nMjyE41OwvRSKnWavpyK14SMHrMTrD9QJr3IN+zRAcGw/g==;vMBV0ffvw5RcggJJP8Zceg=="
 ---
 
