@@ -2,16 +2,16 @@
 category: news
 title: "Incorporating Machine Learning into Clinical Episode Grouping"
 excerpt: "That's why Certilytics built CORE Pathways, which optimizes data for machine learning and deep learning, empowering our customers to: Identify, report, and benchmark cost trends, provider treatment patterns, condition severity, and health outcomes across billions of member records. Standardize and aggregate raw claims data to perform analysis ..."
-publishedDateTime: 2019-12-20T00:25:00Z
-sourceUrl: https://finance.yahoo.com/news/incorporating-machine-learning-clinical-episode-215600171.html
+publishedDateTime: 2019-12-20T00:50:00Z
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/incorporating-machine-learning-into-clinical-episode-grouping/article_0aee5f1b-92be-5da9-b2e5-1e79d0938bd0.html
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
@@ -32,6 +32,6 @@ related:
         width: 700
         height: 366
 
-secured: "dd/a0cSuMVJKLdBkLtQ0jXRmcLLI/ryK3dlsCptBRXfs7X4HcrqrQbdUo6NAX7zamB7jkkDt//btKsmoO1dLfFoZY334jrawExb2ENnW15C638WqY9C96DOESLA8HupCROEgOVL2kjqYJfmDGW3tz8fN5tHcsM/JGgMsAG5cuIXvS2lIPe8FSpJeqawFe2hz3yh+65BY4bLxKNKA8XwFW6+tcEikZdvIH/vufuo5nSQQJwIXBO69etgTTC+k7vGx4fK6BzpPGWKKZfOBDQq5SQ==;H48NqNySgBO/cbvkAZU0jw=="
+secured: "GGpAi/8Wk27wXyexHOBHaiWpqrOZp1XPzFHv+5tRaQO4dy3+3RRxzVPQnDn/b8w8F6eXtK2oDqGOcbsF6C1QCKjGrzRUf+b2PeYqJbeAaenlzH2e1qP18HVZKw9U+o7HzlIwUXWOp0G/ggflT39rdw5SvIdDkpGhzXszJGRJFyyA7/7v1XtZQqyx9RK7cWwgNoWcHgC9ztLbIm91E55v37gvfV6peiSiIb0YxdGr0CjY8+lDDMJK5k3qPuzt+ySpDzDpRpA1kP95VlafblyAOg==;WlxGzfBwGnA90BBoqZ6jPQ=="
 ---
 

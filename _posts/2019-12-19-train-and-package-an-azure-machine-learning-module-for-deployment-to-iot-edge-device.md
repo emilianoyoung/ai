@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Train and package an Azure machine learning module for deployment to IoT Edge device"
 
-secured: "bp19WspJ0cGOE8cQxG+9BQeWui0DT7NKZBdwCgxkqht64kXXQwzUtV8Bf+sq7osC2uo93W2SC7+G9Uhyqw9mR/Dr2pWDQeby+KZxxvA7XzzSrxskjFOYtbUPqQX2AV9g+tmuSX9oVDpQDmDXAm2+XgmY0s2Xr5NKCUQbboz9XFGIe6XUhuhohlgldoWw9eO0C6typVqNx2Sb0gTGR9F4giCUczYz+uQKKHWVloFn3e/IM2llzn3rQdr75DkkDqWOQewhycoVYlKV5YXp7yniRA==;obiIesNxdapnMorFsRbFIw=="
+secured: "o3i60tydh7EnIDC7Sxjd/wjCSTM5ZGMQyA6zKmrLD2vIoILrtkkz37SDCxaFZS921/7zyDz7rXCkv5BPa3TkLBl7H6B0GDt4A3ByCGs4DlH6pRLIZajYzbvFsIvETOwAr6Tp1k4Poo14GnLEy6CjfQHfo9CYL1sZuRAFDEZnUCMkiDvjFZ+IELmCpPiBccG4B6Xi01iDwuEjUXW1UtUj2Rt0NLH+k6IWyW5BsTW7J3PmNBuQYCDP669qWYOm9SqndpXC2f11fx+K2HuEmZMOhQ==;lG40QAix0p3999UwsVHlCQ=="
 ---
 

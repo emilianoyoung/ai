@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
         width: 600
         height: 315
+  - title: "Computer Vision in the EdTech Industry — What Can AI See"
+    excerpt: "In this and the following articles, we will look into the question of how various AI technology is applied in EdTech, and as a start, we will focus on computer vision in this article. In May 2019, HolonIQ published the “2019 Artificial Intelligence and ..."
+    publishedDateTime: 2019-12-02T14:29:00Z
+    sourceUrl: https://medium.com/alef-education/computer-vision-in-education-what-can-ai-see-84d679d12a79
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
+    images:
+      - url: https://miro.medium.com/max/1200/1*tFMLR-h4RR59IhPPxyNmxQ.jpeg
+        width: 1200
+        height: 632
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z

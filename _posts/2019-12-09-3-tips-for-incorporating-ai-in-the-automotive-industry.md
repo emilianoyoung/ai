@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "3 Tips For Incorporating AI In The Automotive Industry"
 
 related:
+  - title: "Computer Vision in the EdTech Industry — What Can AI See"
+    excerpt: "In this and the following articles, we will look into the question of how various AI technology is applied in EdTech, and as a start, we will focus on computer vision in this article. In May 2019, HolonIQ published the “2019 Artificial Intelligence and ..."
+    publishedDateTime: 2019-12-02T14:29:00Z
+    sourceUrl: https://medium.com/alef-education/computer-vision-in-education-what-can-ai-see-84d679d12a79
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
+    images:
+      - url: https://miro.medium.com/max/1200/1*tFMLR-h4RR59IhPPxyNmxQ.jpeg
+        width: 1200
+        height: 632
   - title: "Managing Germany’s Car Industry Crisis By Staying The Course On Gender Diversity"
     excerpt: "According to Deloitte, there is a talent crisis in the global automotive industry at a time that requires solutions to complex issues facing the mobility sector, including vehicle connectivity and self-driving cars. Developing a competitive advantage in this environment requires talented professionals with diverse skills and experiences."
     publishedDateTime: 2019-12-09T09:03:00Z
