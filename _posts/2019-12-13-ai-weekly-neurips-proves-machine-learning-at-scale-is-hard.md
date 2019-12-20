@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-lear
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,34 +30,21 @@ images:
     title: "AI Weekly: NeurIPS proves machine learning at scale is hard"
 
 related:
-  - title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
-    excerpt: "Reinforcement learning agents — or AI that’s progressively spurred toward goals via rewards (or punishments) — form the foundation of self-driving cars, dexterous robots, and drug discovery systems. But because they’re predisposed to explore unfamiliar states, they’re susceptible to what’s called the safe exploration problem ..."
-    publishedDateTime: 2019-12-13T15:35:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/
-    ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
+  - title: "AI Weekly: Machine learning’s role in climate change"
+    excerpt: "It only makes sense that we use the latter to work on the former. That was a significant sub-theme of NeurIPS 2019, highlighted in particular by the Tackling Climate Change workshop, and talk from some prominent leaders in machine learning suggests that the ML field can and should focus on it. There are two thrusts: one is about urging machine ..."
+    publishedDateTime: 2019-12-20T18:45:00Z
+    sourceUrl: https://venturebeat.com/2019/12/20/ai-weekly-machine-learnings-role-in-climate-change/
+    ampUrl: https://venturebeat.com/2019/12/20/ai-weekly-machine-learnings-role-in-climate-change/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/ai-weekly-machine-learnings-role-in-climate-change/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
-      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
-        width: 700
-        height: 350
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
-    publishedDateTime: 2019-12-17T07:39:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-shines-ieee-073100976.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.91EB950BD4B6508D2C37124A45F530B2
-        width: 400
-        height: 300
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/machine-learning-emissions-calculator.png?fit=1200%2C604&amp;strip=all
+        width: 1200
+        height: 604
 
 secured: "lv/WG7BA1peji7+qmnBzZO5r4SiQy0Mx8VJ3vaCDnN5qI4xcjX8EdI6NNDpK+0jvXIUEBzJEmNh8AVWBymtr4hSh+vahzyDW4Z1vXldJoV+N1jE/q64Lgp5J4lu5AFHG7lkU6/FYbkyIl2OWScvd6i0c0VIuIck/JDfC1byUEA5rlOl4WOfRhd4De3z3skRoZ3pQ+Ubd4TskpcSNrwSxOX6tdQo9mEs3tAlur8eRhBq42bU9lC/baLM1On87OdjI867+vQ5lGOn4vDwsfORD6A==;XK5+tgllM6aeu6ZhwlZzgg=="
 ---

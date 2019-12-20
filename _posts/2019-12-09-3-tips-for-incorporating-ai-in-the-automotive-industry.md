@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
 type: article
 quality: 87
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,108 +29,95 @@ images:
     title: "3 Tips For Incorporating AI In The Automotive Industry"
 
 related:
-  - title: "Computer Vision in the EdTech Industry — What Can AI See"
-    excerpt: "In this and the following articles, we will look into the question of how various AI technology is applied in EdTech, and as a start, we will focus on computer vision in this article. In May 2019, HolonIQ published the “2019 Artificial Intelligence and ..."
-    publishedDateTime: 2019-12-02T14:29:00Z
-    sourceUrl: https://medium.com/alef-education/computer-vision-in-education-what-can-ai-see-84d679d12a79
+  - title: "'Learning' is still the operative word in machine learning initiatives"
+    excerpt: "The hype machine for AI and machine learning has been going full throttle, and one can be forgiven for thinking that every organization from the mega-techs to the corner store is turning over processes or decisions to AI. If you're still stuck trying to figure out how AI and machine learning can fit into your operations, don't worry -- so is ..."
+    publishedDateTime: 2019-12-14T15:17:00Z
+    sourceUrl: https://www.zdnet.com/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    ampUrl: https://www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
+        width: 700
+        height: 525
+  - title: "‘We won’t have the sexiest AI, but everything it says is true,’ says Narrative Science"
+    excerpt: "The hyperbole surrounding artificial intelligence is so thick these days, that it can be hard to break through the hype when talking with a vendor of product -- one of the reasons reporting on AI is so bad, generally speaking. When one does take the time, however, to talk to a vendor, some conversations can be enlightening about the state of ..."
+    publishedDateTime: 2019-12-17T17:00:00Z
+    sourceUrl: https://www.zdnet.com/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    ampUrl: https://www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
+        width: 700
+        height: 525
+  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
+    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
+    publishedDateTime: 2019-12-14T10:26:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
+    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
+        width: 700
+        height: 466
+  - title: "10 Reasons Why Java Is Still Worth Learning In 2020"
+    excerpt: "Here again, Java is there because it is widely used in this promising field. Finally, if it is not necessarily the preferred solution in data science or in the world of machine learning, Java also has its followers in these domains. In short, Java makes it possible to do everything right. This is not always the most appropriate solution ..."
+    publishedDateTime: 2019-12-20T00:38:00Z
+    sourceUrl: https://medium.com/javarevisited/10-reasons-why-java-is-still-worth-learning-in-2020-86a65282f735
     type: article
     provider:
       name: Medium
       domain: medium.com
-    quality: 84
+    quality: 54
     images:
-      - url: https://miro.medium.com/max/1200/1*tFMLR-h4RR59IhPPxyNmxQ.jpeg
-        width: 1200
-        height: 632
-  - title: "Managing Germany’s Car Industry Crisis By Staying The Course On Gender Diversity"
-    excerpt: "According to Deloitte, there is a talent crisis in the global automotive industry at a time that requires solutions to complex issues facing the mobility sector, including vehicle connectivity and self-driving cars. Developing a competitive advantage in this environment requires talented professionals with diverse skills and experiences."
-    publishedDateTime: 2019-12-09T09:03:00Z
-    sourceUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/
-    ampUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
+      - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
+        width: 1154
+        height: 636
+  - title: "Breakthrough in 'distributed deep learning'"
+    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for product search and similar extreme classification problems. Online shoppers typically string ..."
+    publishedDateTime: 2019-12-09T21:41:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.17D36FE546CC8118725B97C6A6EF85A9
-        width: 600
-        height: 315
-  - title: "Artificial Intelligence in the Telecom industry"
-    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
-    publishedDateTime: 2019-12-13T18:24:00Z
-    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
+  - title: "‘Deep Learning’ picking up fast in India: Experts"
+    excerpt: "Deep learning, a subset of machine learning, functions by imitating the workings of the human brain to process large amounts of data. Hyderabad: As scientific disciplines go, the field of ‘Deep Learning’ is but an infant. However, it will soon have a disruptive effect on the field of drug design, experts say. They were speaking at a panel ..."
+    publishedDateTime: 2019-12-18T21:05:00Z
+    sourceUrl: https://www.deccanchronicle.com/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    ampUrl: https://www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
-        width: 851
-        height: 315
-  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
-    publishedDateTime: 2019-12-09T17:57:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
-    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
+  - title: "Many companies are still to embrace deep learning"
+    excerpt: "Despite perceiving it as a positive technology, many organisations aren't sure what deep learning is and how it works. Many AI decision-makers, in large organisations in the UK and Nordic countries, don't really know what deep learning is and how it works ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.itproportal.com/news/many-companies-are-still-to-embrace-deep-learning/
+    ampUrl: https://www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
-        width: 700
-        height: 350
-  - title: "Manufacturing industry turning to robotics and AI in challenging economic landscape, says Deloitte"
-    excerpt: "The manufacturing industry is turning to robotics and artificial intelligence as well as a range of other strategies to navigate an increasingly challenging economic landscape, according to a report by Deloitte. The management consultancy says that, as the risk of a global economic downturn grows, the industrial manufacturing industry faces a ..."
-    publishedDateTime: 2019-12-03T11:20:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/03/manufacturing-industry-turning-to-robotics-and-ai-in-challenging-economic-landscape-says-deloitte/27132/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.A0FC45226C223CD4A4E67BFF11F60E96
-        width: 700
-        height: 578
-  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
-    excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
-    publishedDateTime: 2019-12-12T20:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
-    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
-    publishedDateTime: 2019-12-10T05:19:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 22
-  - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
-    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
-    publishedDateTime: 2019-12-10T10:48:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14960988/global-automotive-connectors-market-report-2019-2024-incorporation-of-machine-learning-in-self-dri
-    ampUrl: https://amp.benzinga.com/amp/content/14960988
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960988
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 39
 
 secured: "JIgwGdtqYya1EKa4gpZu0MbiHuLESnZSyKAF4R1pJMBNBe10P+bMIetkGv/Z8pMCEhIkM7vu8GygXp2q7mVSP/TKJydUbLInFT+Gzuil8jV4R463/Hk31jYhbZOqKuxjLaem3UhdePiZNuLQbmAconYFNKKoJQsLePnpO2QMSQ3S4smjGao200dGtK8+nGljrUZT4QxIvI42Gr7stPAellx1A4NQSsm722oS906HKEUHkKy+w1GnHJfBCJ77p2niBZj5wJDFlOaiEZY+7xqCtw==;IqBp4N9BsNXvuDVOLOvNtA=="
 ---

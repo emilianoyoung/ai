@@ -23,88 +23,101 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "New York: Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve their end-of-life communication. Some of the most important, and difficult, conversations in healthcare are the ones that happen amid serious ..."
-    publishedDateTime: 2019-12-09T15:25:00Z
-    sourceUrl: https://gulfnews.com/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
+  - title: "'Learning' is still the operative word in machine learning initiatives"
+    excerpt: "The hype machine for AI and machine learning has been going full throttle, and one can be forgiven for thinking that every organization from the mega-techs to the corner store is turning over processes or decisions to AI. If you're still stuck trying to figure out how AI and machine learning can fit into your operations, don't worry -- so is ..."
+    publishedDateTime: 2019-12-14T15:17:00Z
+    sourceUrl: https://www.zdnet.com/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    ampUrl: https://www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 61
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.525771DE51E9F12F509C2B5AC050F38E
-        width: 540
-        height: 405
-  - title: "Join the conversation: why your business needs conversational AI"
-    excerpt: "Thanks to its ability to use natural language processing (NLP) to map spoken or written words to intent, conversational AI is no longer just a gimmick. Instead, conversational AI is making an impact across nearly every sector — in our homes, cars, call centres, banks, online shops, and hospitals—and the use cases are growing. Combining ..."
-    publishedDateTime: 2019-12-10T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/join-the-conversation-why-your-business-needs-conversational-ai/
-    ampUrl: https://www.itproportal.com/amp/features/join-the-conversation-why-your-business-needs-conversational-ai/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/join-the-conversation-why-your-business-needs-conversational-ai/
+      - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
+        width: 700
+        height: 525
+  - title: "3 Tips For Incorporating AI In The Automotive Industry"
+    excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
+    publishedDateTime: 2019-12-09T12:27:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/
+    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
+        width: 600
+        height: 315
+  - title: "‘We won’t have the sexiest AI, but everything it says is true,’ says Narrative Science"
+    excerpt: "The hyperbole surrounding artificial intelligence is so thick these days, that it can be hard to break through the hype when talking with a vendor of product -- one of the reasons reporting on AI is so bad, generally speaking. When one does take the time, however, to talk to a vendor, some conversations can be enlightening about the state of ..."
+    publishedDateTime: 2019-12-17T17:00:00Z
+    sourceUrl: https://www.zdnet.com/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    ampUrl: https://www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
+        width: 700
+        height: 525
+  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
+    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
+    publishedDateTime: 2019-12-14T10:26:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
+    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
+        width: 700
+        height: 466
+  - title: "10 Reasons Why Java Is Still Worth Learning In 2020"
+    excerpt: "Here again, Java is there because it is widely used in this promising field. Finally, if it is not necessarily the preferred solution in data science or in the world of machine learning, Java also has its followers in these domains. In short, Java makes it possible to do everything right. This is not always the most appropriate solution ..."
+    publishedDateTime: 2019-12-20T00:38:00Z
+    sourceUrl: https://medium.com/javarevisited/10-reasons-why-java-is-still-worth-learning-in-2020-86a65282f735
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 54
+    images:
+      - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
+        width: 1154
+        height: 636
+  - title: "‘Deep Learning’ picking up fast in India: Experts"
+    excerpt: "Deep learning, a subset of machine learning, functions by imitating the workings of the human brain to process large amounts of data. Hyderabad: As scientific disciplines go, the field of ‘Deep Learning’ is but an infant. However, it will soon have a disruptive effect on the field of drug design, experts say. They were speaking at a panel ..."
+    publishedDateTime: 2019-12-18T21:05:00Z
+    sourceUrl: https://www.deccanchronicle.com/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    ampUrl: https://www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
+  - title: "Many companies are still to embrace deep learning"
+    excerpt: "Despite perceiving it as a positive technology, many organisations aren't sure what deep learning is and how it works. Many AI decision-makers, in large organisations in the UK and Nordic countries, don't really know what deep learning is and how it works ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.itproportal.com/news/many-companies-are-still-to-embrace-deep-learning/
+    ampUrl: https://www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
     type: article
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C94174D65DB0D88425CE052AF951FC7E
-        width: 320
-        height: 240
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve ..."
-    publishedDateTime: 2019-12-10T03:15:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
-        width: 700
-        height: 379
-  - title: "Researchers use machine learning to better understand conversations about death"
-    excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. We want to understand this complex thing called a conversation."
-    publishedDateTime: 2019-12-09T15:53:00Z
-    sourceUrl: https://www.news-medical.net/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
-        width: 620
-        height: 480
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "Computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. Carnegie Mellon University computer ..."
-    publishedDateTime: 2019-12-11T16:55:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191210162621.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Machine learning can help us understand conversations about death"
-    excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. \"We want to understand this complex thing called a conversation ..."
-    publishedDateTime: 2019-12-09T06:05:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uov-mlc120519.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
     quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
-        width: 700
-        height: 466
 
 secured: "2BICcShx5cFf72gUf8QW5NikLeNVcSc71JAAvM7H4pjCi4a3Ln0J4RgWxBWsr7WzF5nxqVXIs5ZL+Xyj+U2nio+/eK2dQSFqB/E46nEmiqel/AC0umek/1emxB1mxxKD1n/Zm08GfvSncL3yIlC5heQrDoGDVaTVqJ8z5IUx6oWSTK95vK9IaUdMcpw6nYcH+uf6FnUPP1vUkL1UAFkg0Owp3AtGoGkcAPZWJkWhuGHwcg9wIQDIFblTJ5WdsLD4Oyea9G6NVtZmytDH+E1PGQ==;W3FtDLoUx5CLGemBYW0rvg=="
 ---

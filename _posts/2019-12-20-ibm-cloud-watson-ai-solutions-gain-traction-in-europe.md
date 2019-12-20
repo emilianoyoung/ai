@@ -5,7 +5,7 @@ excerpt: "IBM’s advanced cloud, AI and ML capabilities, blockchain, among othe
 publishedDateTime: 2019-12-20T18:37:00Z
 sourceUrl: https://finance.yahoo.com/news/ibm-cloud-watson-ai-solutions-140002342.html
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - IBM AI
 
 images:
   - url: https://www.bing.com/th?id=ON.DC89E82AE822596BE4F14032D6837647

@@ -1468,6 +1468,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "Federal study shows face recognition accuracy varies by gender and race"
+    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
+    publishedDateTime: 2019-12-20T18:47:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/world/federal-study-shows-face-recognition-accuracy-varies-by-gender-and-race/ar-BBYcMUn
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 19
   - title: "Research: Students of color at greatest risk for facial recognition errors"
     excerpt: "As more schools adopt or test facial recognition software, an MIT Media Lab study calls the technology's accuracy into question, finding only 35% accuracy when scanning females with darker skin, District Administration reports. The schools using and testing the technology include Lockport City School District in New York, which uses the systems ..."
     publishedDateTime: 2019-12-16T15:15:00Z

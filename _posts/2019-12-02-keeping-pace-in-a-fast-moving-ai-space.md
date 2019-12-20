@@ -8,7 +8,7 @@ ampUrl: https://www.nextplatform.com/2019/12/02/keeping-pace-in-a-fast-moving-ai
 cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/02/keeping-pace-in-a-fast-moving-ai-space/amp/
 type: article
 quality: 61
-heat: 71
+heat: 61
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 700
     height: 700
     title: "Keeping Pace In A Fast-Moving AI Space"
-
-related:
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T00:00:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_161467497/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_161467497/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 35
 
 secured: "PbMRm4pW5RmftiLjtOtXkB8ekm9Wf/kTx7PjVUc8hzUCldJ+OoI2PinWUmz57y4VTKoPSXNAxc1crsl7x3hPkB1M3kJMx2eOFYbKHYPPU3xptWY3Dppc2xAotbC2iWUReFF1TnoXu5A7gPYMgoWsbZEG4LFmMOCT9HMqr5mz0f9olKleK/L3G7BpazNqtP7oSM3xdWkU5o4e4t6Ce7A49+fNonCBaMc1gAZi48ZG0R21+5bid5RF2LacGnkZqijEbCLppOHQFHNgvhtUCarwTw==;9qj1L3f1N4pdxapmJPkeAg=="
 ---

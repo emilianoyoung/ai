@@ -28,54 +28,71 @@ images:
     title: "Telecom Innovation | Microsoft Industry"
 
 related:
-  - title: "The Power Of Purpose: How Saqib Shaikh And Microsoft Are Turning Disability Into An Engine For Innovation (Part 2)"
-    excerpt: "“Computer vision is a broad field and a lot of these technologies that our scientists work on are put it into Microsoft Cognitive services, which any customer can put into whichever business they're in to solve their particular problems. Sometimes they use the term “democratizing AI.” So that could be detecting faults on an assembly line ..."
-    publishedDateTime: 2019-12-03T16:23:00Z
-    sourceUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/
-    ampUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
+  - title: "Computer Vision in the EdTech Industry — What Can AI See"
+    excerpt: "In this and the following articles, we will look into the question of how various AI technology is applied in EdTech, and as a start, we will focus on computer vision in this article. In May 2019, HolonIQ published the “2019 Artificial Intelligence and ..."
+    publishedDateTime: 2019-12-02T14:29:00Z
+    sourceUrl: https://medium.com/alef-education/computer-vision-in-education-what-can-ai-see-84d679d12a79
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: Medium
+      domain: medium.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.AA3ECC92B8D0344CD67EE38DFBFD0FA3
-        width: 600
-        height: 315
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
+      - url: https://miro.medium.com/max/1200/1*tFMLR-h4RR59IhPPxyNmxQ.jpeg
+        width: 1200
+        height: 632
+  - title: "Tech is deeply embedded in the modern hospitality industry"
+    excerpt: "Brands are investing in Augmented Reality (AR) and Natural Language Processing to deliver a seamless and delightful guest experience across all touch-points and continue to improvise the consumer journey. Along with Artificial Intelligence, Hologram Projections, and Image Recognition, businesses, today, are pushing the boundaries on guest ..."
+    publishedDateTime: 2019-12-04T22:51:00Z
+    sourceUrl: https://www.financialexpress.com/industry/tech-is-deeply-embedded-in-the-modern-hospitality-industry/1784796/
+    ampUrl: https://www.financialexpress.com/industry/tech-is-deeply-embedded-in-the-modern-hospitality-industry/1784796/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/tech-is-deeply-embedded-in-the-modern-hospitality-industry/1784796/lite/
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
-  - title: "GBT Technologies’ AI Engine to Improve Microchip Production and Create Expert Smart Apps"
-    excerpt: "and GBT is implementing its AI engine with its work on EDA technology to create IC analysis software. GBT says this software will analyze microchips during their design process to ensure the ultimate reliability, optimal power consumption and fast performance, creating clean-by-construction chips. Salomon Ocon says, “When it comes to ..."
-    publishedDateTime: 2019-12-04T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/gbt-technologies-ai-engine-improve-140010607.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/gbt-technologies-ai-engine-improve-140010607.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/gbt-technologies-ai-engine-improve-140010607.html
+      - url: https://www.bing.com/th?id=ON.8FF0CB9CF3DBE332B5C9DA7F44799A3E
+        width: 660
+        height: 440
+  - title: "SMAC in the DARQ: the tech trends shaping 2020"
+    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
+    publishedDateTime: 2019-12-06T00:06:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
+    type: article
+    provider:
+      name: Relaxnews (AFP) on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
+        width: 700
+        height: 367
+  - title: "Global Artificial Intelligence Market in the Telecommunication Industry 2019-2023 | Growing Investments in 5G Network to Boost Growth | Technavio"
+    excerpt: "The global artificial intelligence market in the telecommunication industry is expected to post an incremental growth of USD 2.54 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www ..."
+    publishedDateTime: 2019-12-04T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-market-telecommunication-190000256.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-market-telecommunication-190000256.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-market-telecommunication-190000256.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 45
-  - title: "Microsoft Tactical Vehicle Takes Center Stage at NSWC Dahlgren Innovation Day"
-    excerpt: "Microsoft experts discussed their technologies, including DevOps, artificial intelligence, machine learning, as well as Azure and computing at the tactical edge. Mark Bolz – principal engineering architect for Microsoft’s Azure Data – explained Azure in his Dahlgren Innovation keynote speech, entitled, “Adaptive and Aligned systems ..."
-    publishedDateTime: 2019-12-03T20:30:00Z
-    sourceUrl: https://www.navy.mil/submit/display.asp?story_id=111579
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.02D461C743FE4F03B5662ECFFECA0F1B
+        width: 480
+        height: 270
+  - title: "‘Special report: How will artificial intelligence help run the auto industry?’"
+    excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving aspects of automotive ... Discussion about the use of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a significant place for AI deployment in many other ..."
+    publishedDateTime: 2019-12-02T11:04:00Z
+    sourceUrl: https://www.automotiveworld.com/news-releases/special-report-how-will-artificial-intelligence-help-run-the-auto-industry-2/
     type: article
     provider:
-      name: United States Navy
-      domain: navy.mil
-    quality: 16
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 15
 
 secured: "Y3+N1igBbSxorGcnxi5lJvkJW6k9jRsUJpUlNbpKhNBdHnDPxUGZd+eIEsaRizbfCQ/gI0EC/F0/GN8hnxWWIi5uqErhGesCgwfKT7iLBJZEyIVkWXgqZBntq0B2a9+kdSsg7cdQhNMUi4JklKO2gqJjmhF7uNmTYXAloMtmVPQZQorapRqluzHg9vsqPJjCIHCSnNu2wLcFwePbkU61IJJi9Wla8udyOmAlOpCxjl6bDImkzykHOHb5STTPo70QPdQ81ds00+J8AdyRCSqznw==;j+2WsFeqd+8q2VlgjDygfw=="
 ---

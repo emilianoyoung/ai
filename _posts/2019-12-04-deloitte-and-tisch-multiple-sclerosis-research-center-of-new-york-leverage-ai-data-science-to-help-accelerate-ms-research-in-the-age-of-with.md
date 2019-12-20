@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T12:00:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/deloitte-and-tisch-multiple-sclerosis-research-center-of-new-york-leverage-ai-data-science-to-help-accelerate-ms-research-in-the-age-of-with-300968779.html
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -21,17 +21,6 @@ images:
     width: 700
     height: 366
     title: "Deloitte and Tisch Multiple Sclerosis Research Center of New York Leverage AI, Data Science to Help Accelerate MS Research in the 'Age of With™'"
-
-related:
-  - title: "Wharton Research Data Services Awards Best Paper Prize for Research on the Impact of Machine Learning on Mortgage Lending"
-    excerpt: "The award was presented during the Western Finance Association conference. Their paper, Predictably Unequal? The Effects of Machine Learning on Credit Markets examines the extent to which machine learning will harm or benefit access to mortgage credit among specific racial and ethnic groups. Their research finds that Black and Hispanic ..."
-    publishedDateTime: 2019-12-03T09:11:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/03/9062804.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "hQzUdvAgNnKmwAJV85GNNnJXIhnEm15lkQhjKw+AM85qZXubRbvt5xb4Q8D6tb6yPwi6ozbi2y55EU9Q99zXCQ1pc9WoXsMpjAlrWeD6iUCLWRicAKYaW5Di5G/wB5hARK01GPjzniDFNQDpyVMC5MgV4TjnjCap3GQGulYT444D7giw2c5OvSDqSUbO3w4c/YjMBh95NvwQiadpgX3XAiS6dBufufrVIwJaOHF+0+77A/QVdVoqMRP8cRNHjromg86qOmEV7eRgp3MPTEK6zg==;GS3xAT8y6Lw6A60YUQgtvw=="
 ---

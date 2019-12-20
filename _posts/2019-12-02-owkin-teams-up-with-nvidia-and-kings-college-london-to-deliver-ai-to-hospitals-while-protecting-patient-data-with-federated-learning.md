@@ -50,6 +50,21 @@ related:
       - url: https://miro.medium.com/max/401/1*AogQdSortRjcbS4BZcUXsg.jpeg
         width: 401
         height: 327
+  - title: "Amazon targets devs and scientists with new machine learning IDE"
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    publishedDateTime: 2019-12-04T14:52:00Z
+    sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+    ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
+        width: 700
+        height: 393
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -78,17 +93,6 @@ related:
       - url: https://cointelegraph.com/assets/img/share.png
         width: 1200
         height: 630
-  - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
-    publishedDateTime: 2019-12-04T14:54:00Z
-    sourceUrl: https://www.techradar.com/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    ampUrl: https://www.techradar.com/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ML more expansively. Launched in 2017, there have been numerous features and capabilities ..."
     publishedDateTime: 2019-12-04T09:38:00Z

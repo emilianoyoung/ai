@@ -38,6 +38,15 @@ related:
       - url: https://www.bing.com/th?id=ON.068B466332EB542B74CAB2653C023D8B
         width: 600
         height: 315
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
   - title: "New Artificial Intelligence and Machine Learning Platform for Reconciliation, Matching and Exception Management Operations Introduced by Broadridge"
     excerpt: "Improving the Process and Experience The machine learning ... Financial Solutions, Inc. (NYSE: BR), a $4 billion global Fintech leader, is a leading provider of investor communications and technology-driven solutions to banks, broker-dealers, asset and wealth managers and corporate issuers. Broadridge's infrastructure underpins proxy voting ..."
     publishedDateTime: 2019-12-03T06:00:00Z

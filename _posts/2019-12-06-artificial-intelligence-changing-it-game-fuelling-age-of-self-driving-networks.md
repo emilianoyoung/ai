@@ -2,40 +2,72 @@
 category: news
 title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-publishedDateTime: 2019-12-06T00:00:00Z
-sourceUrl: https://www.zawya.com/mena/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
-ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_161467497/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_161467497/
+publishedDateTime: 2019-12-06T18:05:00Z
+sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI
   - AI in Autos
 
+images:
+  - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+    width: 1200
+    height: 799
+    title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+
 related:
-  - title: "Keeping Pace In A Fast-Moving AI Space"
-    excerpt: "During the Intel AI Summit earlier this month where the company demonstrated its initial processors for artificial intelligence training and inference workloads ... But as noted in the story, Rao explained that the complexity of neural network models – when talking about the number of parameters – is growing ten-fold every year, a rate ..."
-    publishedDateTime: 2019-12-02T13:11:00Z
-    sourceUrl: https://www.nextplatform.com/2019/12/02/keeping-pace-in-a-fast-moving-ai-space/
-    ampUrl: https://www.nextplatform.com/2019/12/02/keeping-pace-in-a-fast-moving-ai-space/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/02/keeping-pace-in-a-fast-moving-ai-space/amp/
+  - title: "MIT is using computational imaging to view the unseen"
+    excerpt: "MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL ... To estimate both of these matrices, the team used convolutional neural networks. \"These are a type of neural network produces image-like structures,\" Sharma said."
+    publishedDateTime: 2019-12-06T14:58:00Z
+    sourceUrl: https://www.techrepublic.com/article/mit-is-using-computational-imaging-to-view-the-unseen/
+    ampUrl: https://www.techrepublic.com/google-amp/article/mit-is-using-computational-imaging-to-view-the-unseen/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-is-using-computational-imaging-to-view-the-unseen/
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.0F31CEBFCCC37F6418C5AC4F1D0D5183
+      - url: https://www.bing.com/th?id=ON.04856CB1FF89EC764AB87680378F236A
         width: 700
-        height: 700
+        height: 525
+  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks. Kicking off Juniper's fifth annual customer and partner ..."
+    publishedDateTime: 2019-12-07T05:56:00Z
+    sourceUrl: https://www.zawya.com/uae/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/SNG_161467497/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_161467497/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.157C0FBA2F8B89E3F227A843297FAE82
+        width: 450
+        height: 300
+  - title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
+    excerpt: "Neural network for projecting onto the EMT–MET PHENOSTAMP To model the non-linear structure of the underlying 2D EMT–MET state map, we constructed a single-layer-hidden artificial neural network model using the above six markers as input and the reduced 2D t-SNE feature space as a bivariate response. Specifically, we used the six input ..."
+    publishedDateTime: 2019-12-06T10:34:00Z
+    sourceUrl: https://www.nature.com/articles/s41467-019-13441-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 7
+    images:
+      - url: https://www.bing.com/th?id=ON.23EF253591DC6EC76D1178454E64E86F
+        width: 500
+        height: 685
 
-secured: "x4cFf2DXB3Ngtkyy6MDYp3v8wi6RUB9S8wyRN3Czu4niQTeldp40QpD+KWVLk6v91E+VRHCy6Kd5v/sVbYi+gR4o2kh/hUEXNv1NreGe9oEV4Phif3Ef5Kvrv6FnX4wy56YKJdRaofPm06MJBl9UG6n5g4nGKj2maKdq9K/RPYv6DV5VyRMgFbDZ2mhpjTpZXkbvfdMJ8Pk64Y7mhbUcmfKOgyE1fEFT9/EGfsUCz+zva3pFwvwxP246FntZy54TjiC+CjEhUuPzc9sKNozbZA==;AmrDJuvA4/9IR4agTkDnKw=="
+secured: "ee02ZmBVRA/5e036BvSCyO8WvTL3zUHyteK5j6aW5eTyfIqDKQUc8cMDArCo+LfV8S14B+fMQQbcOyrDHTVbNh3Cr+rbfFQIIKfiVfxhgoKst3sfm4Ftt4/BtPdJASBjGoXod0evO+LMDuHuyFUz5/c4JJaZChLCK7jjWLCS6uA5gac0ZgqAUV1X0/HEkS6UZP1QZnxYoFfhmwlO0b+JEloF0yal1lJ4xjsZZXwqFlntM3S4qOX8wUVNKfewqioyUfWL221fiZhVATpAfdE37Q==;lmeTXGN3e+2PqLz5Ax4CuQ=="
 ---
 

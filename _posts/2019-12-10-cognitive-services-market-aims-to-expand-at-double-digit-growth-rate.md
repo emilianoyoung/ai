@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T15:51:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -80,6 +80,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
+    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
+    publishedDateTime: 2019-12-10T10:48:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14960988/global-automotive-connectors-market-report-2019-2024-incorporation-of-machine-learning-in-self-dri
+    ampUrl: https://amp.benzinga.com/amp/content/14960988
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960988
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "vZBpwlSpWNrn9xjfDncwhrBmLEjeZavVplhDCJ+RmFkyMFtdclI3yKrM/Gcq7UTdTse0ILNpjOVPkdhEdTw02JmLKsyt/gCA2ULgn5WPOuN2Ztp6m67nFhjxrpteeCSEjMJBDk9I6KClF7S4Yt4UIbBqzEo1m4fTXsZ88cjtVQ6SKOBswp6vh7owUp8x66PENlxzm2Dm0eQLRtZ6/9+w04GcHVRWfn0EbUYgFHzdaaqxS0b7HmQiEZPK9JDT+IhUjLbly+mJYb8mZYRYhh9StA==;4SPC8wJIGm+cYZwJS4ZxmA=="
 ---

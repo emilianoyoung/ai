@@ -25,34 +25,95 @@ images:
     title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
 
 related:
-  - title: "Machine learning opens up new worlds for developers"
-    excerpt: "The continuing -- but slow -- embrace of AI and machine learning means more work in designing and building models and underlying systems. These types of projects will increasingly be performed by IT departments, as the growth of data scientists is tapping out. That's the conclusion of a survey of 750 technology managers and professionals ..."
-    publishedDateTime: 2019-12-14T16:08:00Z
-    sourceUrl: https://www.zdnet.com/article/machine-learning-means-expanded-job-roles-for-developers/
-    ampUrl: https://www.zdnet.com/google-amp/article/machine-learning-means-expanded-job-roles-for-developers/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-means-expanded-job-roles-for-developers/
+  - title: "'Learning' is still the operative word in machine learning initiatives"
+    excerpt: "The hype machine for AI and machine learning has been going full throttle, and one can be forgiven for thinking that every organization from the mega-techs to the corner store is turning over processes or decisions to AI. If you're still stuck trying to figure out how AI and machine learning can fit into your operations, don't worry -- so is ..."
+    publishedDateTime: 2019-12-14T15:17:00Z
+    sourceUrl: https://www.zdnet.com/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    ampUrl: https://www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.7A35A61AF7FFCB5599E751A18B825C90
+      - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
-  - title: "Creating Together Opens a New Future of Self-Driving Cars"
-    excerpt: "SINGAPORE, Dec. 17, 2019 /PRNewswire/ -- Demand for self-driving cars and the safety it brings is rising, particularly in Japan, where a super-aging society has upped the stakes considerably in recent years. Learn how Toshiba's image recognition technology, Visconti™, developed and refined over half a century, provides a myriad of ..."
-    publishedDateTime: 2019-12-17T02:13:00Z
-    sourceUrl: https://finance.yahoo.com/news/creating-together-opens-future-self-020000062.html
+  - title: "3 Tips For Incorporating AI In The Automotive Industry"
+    excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
+    publishedDateTime: 2019-12-09T12:27:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/
+    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.B7FE6EBDC3D09EA0E2271B97BFDBB314
+      - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
         width: 600
-        height: 301
+        height: 315
+  - title: "‘We won’t have the sexiest AI, but everything it says is true,’ says Narrative Science"
+    excerpt: "The hyperbole surrounding artificial intelligence is so thick these days, that it can be hard to break through the hype when talking with a vendor of product -- one of the reasons reporting on AI is so bad, generally speaking. When one does take the time, however, to talk to a vendor, some conversations can be enlightening about the state of ..."
+    publishedDateTime: 2019-12-17T17:00:00Z
+    sourceUrl: https://www.zdnet.com/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    ampUrl: https://www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
+        width: 700
+        height: 525
+  - title: "10 Reasons Why Java Is Still Worth Learning In 2020"
+    excerpt: "Here again, Java is there because it is widely used in this promising field. Finally, if it is not necessarily the preferred solution in data science or in the world of machine learning, Java also has its followers in these domains. In short, Java makes it possible to do everything right. This is not always the most appropriate solution ..."
+    publishedDateTime: 2019-12-20T00:38:00Z
+    sourceUrl: https://medium.com/javarevisited/10-reasons-why-java-is-still-worth-learning-in-2020-86a65282f735
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 54
+    images:
+      - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
+        width: 1154
+        height: 636
+  - title: "Breakthrough in 'distributed deep learning'"
+    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for product search and similar extreme classification problems. Online shoppers typically string ..."
+    publishedDateTime: 2019-12-09T21:41:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
+  - title: "‘Deep Learning’ picking up fast in India: Experts"
+    excerpt: "Deep learning, a subset of machine learning, functions by imitating the workings of the human brain to process large amounts of data. Hyderabad: As scientific disciplines go, the field of ‘Deep Learning’ is but an infant. However, it will soon have a disruptive effect on the field of drug design, experts say. They were speaking at a panel ..."
+    publishedDateTime: 2019-12-18T21:05:00Z
+    sourceUrl: https://www.deccanchronicle.com/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    ampUrl: https://www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
+  - title: "Many companies are still to embrace deep learning"
+    excerpt: "Despite perceiving it as a positive technology, many organisations aren't sure what deep learning is and how it works. Many AI decision-makers, in large organisations in the UK and Nordic countries, don't really know what deep learning is and how it works ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.itproportal.com/news/many-companies-are-still-to-embrace-deep-learning/
+    ampUrl: https://www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 39
 
 secured: "DYRae6LyYPxizHpsamzCplXukuJoTPSyVpPugRwvMnwCWvLQxIic5ADzvUHy6I31mCfsYwHa6oJ3WsBvF0v1feMug9avE4tK3qJZODCuwtz+RE486ekcis0IWKLjfotRtzjRvhc0YquoLuqexFVl68heQRf0JdampjyBRL7EmAdVFYyuQItQ4YsU4BvNkd0F3p0/W6RNyMLsFgOaZpvs7vn9Pg3ue3Z5Kg4PB/93Sk34rq11UH6e+ve3psvhY7ruo5E2tuQud6caO6VsPcVPUw==;PiZ6M2QUI9eKmyKAKvDkHg=="
 ---

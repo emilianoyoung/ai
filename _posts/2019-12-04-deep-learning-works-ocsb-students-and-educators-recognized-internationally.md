@@ -8,7 +8,7 @@ ampUrl: https://ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-o
 cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally/amp
 type: article
 quality: 57
-heat: 67
+heat: 77
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Deep Learning works: OCSB students and educators recognized internationally"
 
 related:
+  - title: "Gaining insights with machine learning"
+    excerpt: "Machine learning is still the new kid on the block. From identifying use cases to selecting data sets and tools, there are many success factors to keep in mind. Every industry is finding value in machine learning projects. At the same time, most projects ..."
+    publishedDateTime: 2019-12-06T14:58:00Z
+    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135610
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
+        width: 772
+        height: 594
   - title: "Machine learning that works like a dream"
     excerpt: "Tsukuba, Japan - Researchers at the University of Tsukuba have created a new artificial intelligence program for automatically classifying the sleep stages of mice that combines two popular machine learning methods. Dubbed \"MC-SleepNet,\" the algorithm achieved accuracy rates exceeding 96% and high robustness against noise in the biological signals."
     publishedDateTime: 2019-12-03T14:33:00Z

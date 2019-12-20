@@ -1,25 +1,27 @@
 ---
 category: news
 title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
 publishedDateTime: 2019-12-17T18:15:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-1028770153
+sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
-quality: 41
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
 related:
   - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
@@ -598,6 +600,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "rwpUJEmLtOeGyRDvRUpnPuca2II97EHTgUKgj3J0YCDN0cPz2gJQbWfKrS4yMeW2/BkfMKxgEIkdrbPKz/VlZGlcu4MtsQtN6CFF2OFBGdw7hdHlOVTF4Dryf36quyBYa611xkjYlD4CI/ewAIhh8v9zo6vJTmy6HXahhlgyygrCarRmf/vGqNTQ90nE4tp6NGIHsm7HtYB/eabyAUEPbhqLWO6h8WFmcqydtnWNZMVQ8LlYR7yPYXLJodvpQq1OTJnX/5NQkc4DIZ4K7D3KZw==;awDAslq2K5kQYOMQ122rdg=="
+secured: "mh+IewLiZL2lJSSFuqH6lFtzDq0SiydKOUT+ofDKhqyqWtS56CGLc4D72O3maE4XjnrtNI6cCqUqFxZZJrDWVSEz0r3MY6dk4wvxYDd7KX6BQJX12RdWt2Su5TlT7FP+mzO0AD5bsKMLxKF2C/IcfCHjK2spqTE9KG2NiH/kajMMN9Zmvb9B6QAm/QnvUio6+cnf+sAp26zrrkikFrwGNETWdYdqRB/+HogbtaZOPBOmuVAYbBQ7eV3mjzhI2DF9ahtsDO/1Gfgb0IVFH6DRwQ==;LRao5EU073xxFACRc6JvBg=="
 ---
 

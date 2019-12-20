@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
         width: 600
         height: 315
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
-    publishedDateTime: 2019-12-06T00:06:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
-    type: article
-    provider:
-      name: Relaxnews (AFP) on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
-        width: 700
-        height: 367
   - title: "Artificial Intelligence, Digital Assets, Enabled Customers and Advisor Platforms are WealthTech Trends to Watch in 2020"
     excerpt: "NEW YORK, Dec. 4, 2019 /PRNewswire-PRWeb/ -- Xtiva has compiled a collection of insights from 20 top WealthTech and finance industry influencers identifying trends that wealth management firms and advisors should pay attention to in 2020 and beyond. Key insights identified in the WealthTech Trends 2020 report include: AI and data-driven ..."
     publishedDateTime: 2019-12-04T10:00:00Z

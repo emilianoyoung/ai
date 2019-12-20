@@ -72,24 +72,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
         width: 700
         height: 379
-  - title: "Breakthrough in 'distributed deep learning'"
-    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for product search and similar extreme classification problems. Online shoppers typically string ..."
-    publishedDateTime: 2019-12-09T21:41:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "Computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. Carnegie Mellon University computer ..."
-    publishedDateTime: 2019-12-11T16:55:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191210162621.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Machine learning can help us understand conversations about death"
     excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. \"We want to understand this complex thing called a conversation ..."
     publishedDateTime: 2019-12-09T06:05:00Z

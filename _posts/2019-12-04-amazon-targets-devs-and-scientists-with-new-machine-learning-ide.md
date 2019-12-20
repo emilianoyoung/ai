@@ -2,12 +2,12 @@
 category: news
 title: "Amazon targets devs and scientists with new machine learning IDE"
 excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
-publishedDateTime: 2019-12-04T14:54:00Z
-sourceUrl: https://www.techradar.com/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-ampUrl: https://www.techradar.com/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+publishedDateTime: 2019-12-04T14:52:00Z
+sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
+    width: 700
+    height: 393
+    title: "Amazon targets devs and scientists with new machine learning IDE"
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -103,6 +109,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "ZHz5od2GRhnsz3p9KJyw+ZKiy39v9eJDclRQ4wmjsENMLEdVEw+Rl4s8PsoDpqo4+uEg+Y0/b05GabUq1qgONohB34RwUP3/pwrquLaA4aU2NXCB2aGJkAvwALsuGeM/erRPD7aXbJnZhJNXBUzXajHlZEsimdT/FuYP8+RMINwTBC4Oi+vHuGjVzMQH295s3geR1quNU43PTzgrVs0W7I5FkCfCauU3pDnq1FIQ2+Vqh8mhAt1cqKW0F+kp/dpolVcqTQ0Mb9eTxcRgPpgOPQ==;lihQZJhNh6RuBR5n3qqScQ=="
+secured: "ew4Oo7uvd7TsXQ62fCffRoToWqazj78jZkv2zlQGGzQfJavB/C3EMlt6akLKURly2jzhl75y9SNgbfIl8AmpExYDq9IvYu+eOjzAsBoxXzd+p2BnYID95y02CGEzZZkdXWSlB6zE3EaypgrTx6F5c5JsXJK6Y9tUOzl17fTyPS/R/jY60H4+OccrjZtk6jDT++ZUV4apPheE6sQZVkNkutNfvxmeV0UF9zYhM2YkKSBf+xjhwazp2oIr52jO3WNV6r63NTrPGERKE2Aa8MkWMQ==;qeuKICc172vAgmbSGF+50A=="
 ---
 

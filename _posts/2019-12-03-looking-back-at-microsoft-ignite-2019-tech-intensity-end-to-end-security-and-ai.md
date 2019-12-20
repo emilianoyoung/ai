@@ -50,19 +50,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 45
-  - title: "Telecom Innovation | Microsoft Industry"
-    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
-    publishedDateTime: 2019-12-05T23:43:00Z
-    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
-        width: 770
-        height: 484
   - title: "Microsoft Tactical Vehicle Takes Center Stage at NSWC Dahlgren Innovation Day"
     excerpt: "Microsoft experts discussed their technologies, including DevOps, artificial intelligence, machine learning, as well as Azure and computing at the tactical edge. Mark Bolz – principal engineering architect for Microsoft’s Azure Data – explained Azure in his Dahlgren Innovation keynote speech, entitled, “Adaptive and Aligned systems ..."
     publishedDateTime: 2019-12-03T20:30:00Z

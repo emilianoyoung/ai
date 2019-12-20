@@ -316,15 +316,6 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
         width: 1200
         height: 630
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-1028770153
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "How Machine Learning Is transforming Video Advertising"
     excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
     publishedDateTime: 2019-12-16T14:08:00Z
@@ -379,6 +370,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F846D0A1A61FF7F0B0571B444BF775E3
         width: 700
         height: 393
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
     excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
     publishedDateTime: 2019-12-09T23:39:00Z

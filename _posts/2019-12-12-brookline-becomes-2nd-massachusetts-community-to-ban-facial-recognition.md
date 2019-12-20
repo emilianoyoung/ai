@@ -1461,6 +1461,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "Federal study shows face recognition accuracy varies by gender and race"
+    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
+    publishedDateTime: 2019-12-20T18:47:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/world/federal-study-shows-face-recognition-accuracy-varies-by-gender-and-race/ar-BBYcMUn
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 19
   - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
     excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
     publishedDateTime: 2019-12-11T15:36:00Z

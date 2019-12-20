@@ -84,24 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
         width: 620
         height: 480
-  - title: "Breakthrough in 'distributed deep learning'"
-    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for product search and similar extreme classification problems. Online shoppers typically string ..."
-    publishedDateTime: 2019-12-09T21:41:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "Computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. Carnegie Mellon University computer ..."
-    publishedDateTime: 2019-12-11T16:55:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191210162621.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "DoNmGdzSEai6BpI2Jgo85BezWtL9rP1gDvz1GRZGHBQ4r3+GEW/J83w5CFe0YoOI0kwknRK+DwcTqGbp0t+Tv5ExvuV+iiXqX27ie1Vsu2YxzyupWHcVZeK3u9U9H4wxHWvQVV+UBUrcARgrSorV1+FBK3izrlTN+qPrz93pwGaQAqmMiecu1qyPy3o+tHh1V/LFkSnsaB3deCmycItBFBp/MffENMhpPOYXGLp+pgw+Jo37i2lcGBLF4CmJbAKyNJTeWYGRdF7r5p+o47YkCQ==;aN6Y6MPcNKfmlQ9CA0Xz4w=="
 ---

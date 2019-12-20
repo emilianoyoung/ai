@@ -46,6 +46,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
 
 secured: "O1Zt0tJVFmPhAZKDBbDvOJRguSVOizFyIF0QBWz+qlMOvDzYHL/s62m2QZa9kpXeyN3hs6eO4D/G43V/HCvqNy7jNyHuvr3qzPHGXSDLttLg9bXGFQJPPgMe6E9b9Bf9I9dZ3Wsdxdpg21bs9t+PvejhJIfqEN+XJzA3VUErt5oDFzrIBLrD0db5vH7Yyqg6spEI61eyYlhia5RNHOmbFynVdnH4G9uEYZM8NCDJdj13ppvh9pR6dhfErL1LxgiMv+k+dOSfsk+nd/U9Uk3ShQ==;y718ncfDbKysxqkyrLkdnw=="
 ---

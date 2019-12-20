@@ -325,6 +325,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
+    excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
+    publishedDateTime: 2019-12-12T20:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
     excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
     publishedDateTime: 2019-12-11T09:49:00Z
@@ -480,6 +493,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+    excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 19
+    images:
+      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+        width: 300
+        height: 300
   - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
     excerpt: "A New Market Study, titled \"Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. A New Market Study, titled “Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges” has been featured on WiseGuyReports. This report provides in depth study ..."
     publishedDateTime: 2019-12-19T08:45:00Z
@@ -500,15 +526,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:02:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 0
 
 secured: "q2hfe8Gr3l/hX2nd0AgBanh86340R+6EXdIII8lMKR3PHySVePD0fdG3FgJqFoCfgXv45jY+TSHBWVXQ3Ej+ObGqgDTIcMNS9Bu+A6+NM1anNI/Kz7KWZKSju4HPOETkftkPtyVc2quvuwE2dtXCnq5+Dl5i4Zr4KKujIBkdL35PbG0lR+d0fQNNYzwQnXuB5fVtSLNE//eT0r+yNHYKLgqeedvAdtXyDYdKQPXhRlMlmmE3jPV0455vWQ1/WoQtZ+5e4cI5U3CuDgHURIjZZg==;2CSnwKNuL9TqKnuE2mYEfQ=="
 ---

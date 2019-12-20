@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-publishedDateTime: 2019-12-16T06:02:00Z
-sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
+publishedDateTime: 2019-12-16T06:43:00Z
+sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: CSO
+  domain: cso.com.au
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+    width: 300
+    height: 300
+    title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 
 related:
   - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
@@ -328,6 +334,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
+    excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
+    publishedDateTime: 2019-12-12T20:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
     excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
     publishedDateTime: 2019-12-11T09:49:00Z
@@ -504,6 +523,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "GLU5hz8OoFmzdi7YDpXWjgX8D0gOpBRtUXhIo7DIxGsVRqhn5FLJgE3kSDSbXP01i7CAuqN9ZzOK1lCMFCeSd5vnNkBuGCnDvC4EX4bkCW+vNPVvhmSwKKrjBHXwm4G6JGGU+NysCWE3OHDf7Kl+UdBFZAbciDmKI1tSVuTgyL9wp3+aSL0PFnS81A3bH/ROofR59MzcsyPnhrr7aCykpT5hoPSbGyyUSMEDk1jJ1fXbMBP9bhD1oyFQAr+KCGoL356FF3eEmq5g/Ll0sLNJDQ==;2hbwVOZ4Ne0A3ovnNnizew=="
+secured: "3MY1RgOo42x2xoVuiVdQxhl5G2IoAOM3bA9eup6xlQnAo5doG7nix4I6eJU7Acr7LRZketXJNb4H5bP7yTnRWQXsjXxp0iK4w98EJictSpqvjy3Ym6wv+dWSfVFpXFgWA3fTrUqoiplQ1OZzPvlx4o9g3ZfkYCBxy9TaWuPf9J0xFcMd3Ad67as3ILx1ZhAqDf8vJNk9zzpTPHXkkEWBGSe31aDbFSQh/VhncS0eahGvh1edDudyKBej7uasPNAAIJ/g6Un0QTp8cuz44X/hMg==;JT9efO3aqsyknZWXeBaccA=="
 ---
 

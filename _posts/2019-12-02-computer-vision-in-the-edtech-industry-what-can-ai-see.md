@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-02T14:29:00Z
 sourceUrl: https://medium.com/alef-education/computer-vision-in-education-what-can-ai-see-84d679d12a79
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Medium
@@ -28,110 +28,71 @@ images:
     title: "Computer Vision in the EdTech Industry — What Can AI See"
 
 related:
-  - title: "3 Tips For Incorporating AI In The Automotive Industry"
-    excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
-    publishedDateTime: 2019-12-09T12:27:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/
-    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
+  - title: "Tech is deeply embedded in the modern hospitality industry"
+    excerpt: "Brands are investing in Augmented Reality (AR) and Natural Language Processing to deliver a seamless and delightful guest experience across all touch-points and continue to improvise the consumer journey. Along with Artificial Intelligence, Hologram Projections, and Image Recognition, businesses, today, are pushing the boundaries on guest ..."
+    publishedDateTime: 2019-12-04T22:51:00Z
+    sourceUrl: https://www.financialexpress.com/industry/tech-is-deeply-embedded-in-the-modern-hospitality-industry/1784796/
+    ampUrl: https://www.financialexpress.com/industry/tech-is-deeply-embedded-in-the-modern-hospitality-industry/1784796/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/tech-is-deeply-embedded-in-the-modern-hospitality-industry/1784796/lite/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
-        width: 600
-        height: 315
-  - title: "Managing Germany’s Car Industry Crisis By Staying The Course On Gender Diversity"
-    excerpt: "According to Deloitte, there is a talent crisis in the global automotive industry at a time that requires solutions to complex issues facing the mobility sector, including vehicle connectivity and self-driving cars. Developing a competitive advantage in this environment requires talented professionals with diverse skills and experiences."
-    publishedDateTime: 2019-12-09T09:03:00Z
-    sourceUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/
-    ampUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
+      - url: https://www.bing.com/th?id=ON.8FF0CB9CF3DBE332B5C9DA7F44799A3E
+        width: 660
+        height: 440
+  - title: "Telecom Innovation | Microsoft Industry"
+    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
+    publishedDateTime: 2019-12-05T23:43:00Z
+    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.17D36FE546CC8118725B97C6A6EF85A9
-        width: 600
-        height: 315
-  - title: "Artificial Intelligence in the Telecom industry"
-    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
-    publishedDateTime: 2019-12-13T18:24:00Z
-    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
+      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
+        width: 770
+        height: 484
+  - title: "SMAC in the DARQ: the tech trends shaping 2020"
+    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
+    publishedDateTime: 2019-12-06T00:06:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
+      name: Relaxnews (AFP) on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
-        width: 851
-        height: 315
-  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
-    publishedDateTime: 2019-12-09T17:57:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
-    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
         width: 700
-        height: 350
-  - title: "Manufacturing industry turning to robotics and AI in challenging economic landscape, says Deloitte"
-    excerpt: "The manufacturing industry is turning to robotics and artificial intelligence as well as a range of other strategies to navigate an increasingly challenging economic landscape, according to a report by Deloitte. The management consultancy says that, as the risk of a global economic downturn grows, the industrial manufacturing industry faces a ..."
-    publishedDateTime: 2019-12-03T11:20:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/03/manufacturing-industry-turning-to-robotics-and-ai-in-challenging-economic-landscape-says-deloitte/27132/
+        height: 367
+  - title: "Global Artificial Intelligence Market in the Telecommunication Industry 2019-2023 | Growing Investments in 5G Network to Boost Growth | Technavio"
+    excerpt: "The global artificial intelligence market in the telecommunication industry is expected to post an incremental growth of USD 2.54 billion during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www ..."
+    publishedDateTime: 2019-12-04T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-market-telecommunication-190000256.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-market-telecommunication-190000256.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-market-telecommunication-190000256.html
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 55
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
     images:
-      - url: https://www.bing.com/th?id=ON.A0FC45226C223CD4A4E67BFF11F60E96
-        width: 700
-        height: 578
-  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
-    excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
-    publishedDateTime: 2019-12-12T20:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
+      - url: https://www.bing.com/th?id=ON.02D461C743FE4F03B5662ECFFECA0F1B
+        width: 480
+        height: 270
+  - title: "‘Special report: How will artificial intelligence help run the auto industry?’"
+    excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving aspects of automotive ... Discussion about the use of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a significant place for AI deployment in many other ..."
+    publishedDateTime: 2019-12-02T11:04:00Z
+    sourceUrl: https://www.automotiveworld.com/news-releases/special-report-how-will-artificial-intelligence-help-run-the-auto-industry-2/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
-    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
-    publishedDateTime: 2019-12-10T05:19:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 22
-  - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
-    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
-    publishedDateTime: 2019-12-10T10:48:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14960988/global-automotive-connectors-market-report-2019-2024-incorporation-of-machine-learning-in-self-dri
-    ampUrl: https://amp.benzinga.com/amp/content/14960988
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960988
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 15
 
 secured: "lo20YvunMM5agq1NpJJcDDTIZcjIWHv9NBqbrR9O1lSw6BhT6ruJwLh0C+qaUrTt2wsbU3nDQg/b9T1c6VKGLCKRBse3N6E9DVOamBGVJP4zE5IbjWg+LWe7mBC8OUkGTfrdaGLC38trQMxKKvEa1qdLFwKT31pbhdhh/pwaM1IkuUMGOF3kHf8iu9cFqLTmNIIMnbfVJXW2lto3a27mygXb2Ig2emS2NFDeYval6Yc3KsufyJhR9mLLBWdTbSoGWwB2iIES9GMqKnPORWa4Gg==;DavYIavSlrxoXFmqyTvcPA=="
 ---

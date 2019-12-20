@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-03T09:11:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/2019/12/03/9062804.htm
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -18,19 +18,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deloitte and Tisch Multiple Sclerosis Research Center of New York Leverage AI, Data Science to Help Accelerate MS Research in the 'Age of With™'"
-    excerpt: "NEW YORK, Dec. 4, 2019 /PRNewswire/ -- Deloitte and Tisch MS Research Center of New York (Tisch MSRCNY) are using data science, artificial intelligence (AI) and machine learning in a multiphase research project to find patterns that may relate to the cause of multiple sclerosis (MS). MS, an immune-mediated demyelinating disease of the central ..."
-    publishedDateTime: 2019-12-04T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/deloitte-and-tisch-multiple-sclerosis-research-center-of-new-york-leverage-ai-data-science-to-help-accelerate-ms-research-in-the-age-of-with-300968779.html
+  - title: "CMU becomes go-to place for machine learning in catalysis research"
+    excerpt: "Recently, both the Department of Energy and the National Science Foundation have invested in the unique research that Zachary Ulissi, John Kitchin, and Andrew Gellman are pioneering, which looks into the role that machine learning can play in the discovery of new catalysts. Through the development and implementation of novel machine ..."
+    publishedDateTime: 2019-12-10T08:42:00Z
+    sourceUrl: https://phys.org/news/2019-12-cmu-go-to-machine-catalysis.html
+    ampUrl: https://phys.org/news/2019-12-cmu-go-to-machine-catalysis.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-cmu-go-to-machine-catalysis.amp
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.D75ACD6D13A3AE3DAD15553CE6BC475E
+      - url: https://www.bing.com/th?id=ON.D797FCE395AAEB55FC194A5D573FF7FD
         width: 700
-        height: 366
+        height: 467
 
 secured: "cFapWTW+kV186Ub/nTCrrn9xmEavTKs0Rzl1YLOFhKnPWw4nbtI51qqQil9Q9YLGDQMaVlF0cGrBNXBEWF4tOvHzTnl/D/Bt2fyeVJHYltAk7PKC9dk2o9xCdR9F+4zHoBaweWXKzL5SaUd3ZL2IQxfuSKHbsz14+Td6moZytMrsnVvtMNNA076fgSCD49121U0bCEOc5Yf4SSWagTxE43jy7SMB6ueZS8rsr4kI5HQg3pwS6aIYRm6U4tktPmylI1Pxu87GDsWS158rZGkt6g==;QEWoWow6DhNu/sV0nInSUQ=="
 ---

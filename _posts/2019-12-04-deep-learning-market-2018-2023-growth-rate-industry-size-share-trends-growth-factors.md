@@ -80,6 +80,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
+    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
+    publishedDateTime: 2019-12-10T10:48:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14960988/global-automotive-connectors-market-report-2019-2024-incorporation-of-machine-learning-in-self-dri
+    ampUrl: https://amp.benzinga.com/amp/content/14960988
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960988
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "EUlJgvFjGsE2pp8trbjSeSrPpx33xy5Ybkcz5ImnM2+gjgXUH7iqvoDOYNW6lySZODssXt7lhxgRx9N2rPdo60sEmGugJ3WCqpQk4PWCupEKmHYCYw8d0e63yqMvzO0gBHLh/tnesbxGiESyKJldKrY6WUi5lt15LHwoOHYT05ELr08c+w6TFfpqK2pYklMWQBogvVWDjy8HrpUvi6Cd+8I0t6WDHnyUOHWwyPPsDeABFX0JWovlG8ad+lwhZvG5YkDxnOOrLGy/Ty4czjUTOg==;5bLRoVNQLRGNAGmZoznpmQ=="
 ---

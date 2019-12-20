@@ -24,34 +24,6 @@ images:
     title: "UGA researchers receive grant to study self-driving cars"
 
 related:
-  - title: "Self-driving cars were supposed to be here already — here's why they aren't and when they should arrive"
-    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn't exist. And it's not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline but ..."
-    publishedDateTime: 2019-11-30T19:02:00Z
-    sourceUrl: https://www.cnbc.com/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
-    ampUrl: https://www.cnbc.com/amp/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/11/30/self-driving-cars-were-supposed-to-be-here-already-heres-whats-next.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
-        width: 700
-        height: 393
-  - title: "Why we don't have self-driving cars yet"
-    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before, but a truly autonomous vehicle still doesn't exist. It's not clear if, or when, our driverless future will arrive. Where exactly are we with self-driving cars, and when can we expect them to be a part of our daily lives?"
-    publishedDateTime: 2019-11-30T19:00:00Z
-    sourceUrl: https://www.cnbc.com/video/2019/11/30/why-we-dont-have-self-driving-cars-yet.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.41575FE44528221122F62D0A1E116362
-        width: 700
-        height: 393
   - title: "Wheels begin to turn on self-driving car legislation"
     excerpt: "Congress has yet to roll out comprehensive legislation that would create federal standards for self-driving cars this year, but the wheels have started turning on new efforts to draw up policy. Movement on the issue follows pressure from industry groups and agencies that have been pushing for government guidelines to address the testing and ..."
     publishedDateTime: 2019-12-01T14:00:00Z
@@ -82,7 +54,57 @@ related:
       - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
         width: 700
         height: 393
+  - title: "Self-Driving Cars Taught to 'Feel' Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-04T13:47:00Z
+    sourceUrl: https://www.voanews.com/episode/self-driving-cars-taught-feel-passengers-emotions-4111141
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A7AD3E49EDAFCA94C0440BD2F891F247
+        width: 700
+        height: 393
+  - title: "Teaching a Self-Driving Car to Know if its Passengers are Happy or Nervous"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to ..."
+    publishedDateTime: 2019-12-04T02:58:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-know-if-its-passengers-are-happy-or-nervous-4111141
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.A7AD3E49EDAFCA94C0440BD2F891F247
+        width: 700
+        height: 393
+  - title: "Ford discontinues medical transportation service to focus on self-driving tech"
+    excerpt: "Ford's GoRide Health non-emergency transportation service is in the process of shuttering across the five regions of Ohio and Michigan in which it was available, with an expected end date of Dec. 13, according to a notice on the service's website. GoRide Health has already been discontinued in Toledo, Cleveland and Cincinnati, with service in ..."
+    publishedDateTime: 2019-12-04T18:01:00Z
+    sourceUrl: https://www.beckershospitalreview.com/consumerism/ford-discontinues-medical-transportation-service-to-focus-on-self-driving-tech.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 20
+    images:
+      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
+        width: 460
+        height: 460
+  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
+    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
+    publishedDateTime: 2019-12-06T19:32:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
-secured: "VVJq1RyOna5SZhrEUgt14OQjcMRlQYPynZKO4hq+sCxYUjOjx6u7w2iWvSmAezYIsgm3jyEr0BZs6uD/HTyHw/JdizBqhEHfPWTWEebfDuhHMftKuTgQokLsMKg0YRBw2gHKgQpXtKE+T+Q1Vt2yLiNQD8e1m2SiRw30mn+QEhfVULPvSUmo7bP4q31TcGTvcKtVoMUtshu9IsRuXndEb4vvkohFXW1xFW8Qffsr6xgrv/HxCyR3YAkHaac2vFHzaHG8QbvIEsLn2JQiiNZXnw==;t7Mwnes7b8Tnp9dyGOCuTQ=="
+secured: "wlVuJ+LpRjkUWKGmOPSUMGXXxNV94LN8n4k1bnIQipvMeEYspe3c4dlgF2wBS2DFPyvfOj6RXgmMOKOKmGPnOwzk71TKQjBKWpHrd9p65y6p73AoY8AIPCrpuWuKU7UrGtLEKDAVL2Oz13sXpKAZc+JldANkHKeskl9TGdxCvzm8GayP7oHT4BoWdTUe4FnHuOz9i5omlryZuk4eKmKu5UEWGG6znZV83Qj+2L8QkpD/WITBvJDTH92TUDbzbXrV7iI5GS461sIZA31PcnEknw==;Z9T4CJ22aV8FbXTaZ5q5Xg=="
 ---
 

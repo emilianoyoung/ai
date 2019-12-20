@@ -8,8 +8,8 @@ ampUrl: https://www.itproportal.com/amp/features/how-artificial-intelligence-is-
 cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-artificial-intelligence-is-shifting-the-model-risk-management-landscape/
 type: article
 quality: 55
-heat: 55
-published: false
+heat: 65
+published: true
 
 provider:
   name: IT Pro Portal
@@ -23,6 +23,21 @@ images:
     width: 700
     height: 437
     title: "How artificial intelligence is shifting the model risk management landscape"
+
+related:
+  - title: "Concordia researcher applies machine learning to financial risk management"
+    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
+        width: 700
+        height: 558
 
 secured: "n6yS5qxGRJOPV35HFB6+VrCjw1h4u5dFQICchej/qX4WGOH9gvdmi86om1TLbhod0PxIHld1soNWgdS/E5HuL3uT1vtyn4jIexlYPPKVp2UckK0FcwDKk/Osos5pGmkWZrH+7dlv1ovpILwVri9vGL+PU7GJGM1Hb9pM0qx1VBYzXWoqXj5dXLey4W3E2kzeM2NI/khQUuEPf4p1+88AFEH5YOdfZatLZbDA1nkYmOxFOY8BfsgOYKuUzKAImHOAVOYIdg/9z1JUquBAmkRNGA==;o7PeKeVs0uXkKygHFN1Vjg=="
 ---

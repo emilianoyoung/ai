@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-buil
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
 type: article
 quality: 194
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
         width: 700
         height: 490
+  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
+    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
+    publishedDateTime: 2019-12-20T19:09:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
+        width: 700
+        height: 388
   - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
     excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
     publishedDateTime: 2019-12-17T00:06:00Z

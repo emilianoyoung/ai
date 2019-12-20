@@ -68,6 +68,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
         width: 700
         height: 490
+  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
+    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
+    publishedDateTime: 2019-12-20T19:09:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
+        width: 700
+        height: 388
 
 secured: "abQJc4IQLVj7DVC9Hkq269obfu3VVhe33EkCaHya4m7SmBSf7InyOf1biYAg+YmHcrkjGjaAmAycVauPSnNg5S26O3x28JOCAvY3OooE/ur/SiOTpp+6IWc/IiJIA+L/z01m3p/K1upMe02nP+7DnqpcM+FsCtvU9HBG80BSUufds36gNHsSme1iM35FneCj4fZ3ceeY8hdPYdoLT0K40QJaEDVE6KiNk8FNEHP+a/VwV9wv5LmRYCmsGqJg9u2sisYfhYwxME5oGUpqhi+f9A==;gH1xS9e8+pJTVz5JpxRIqg=="
 ---

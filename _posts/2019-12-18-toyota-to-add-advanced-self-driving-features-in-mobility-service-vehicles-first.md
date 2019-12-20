@@ -26,21 +26,19 @@ images:
     title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
 
 related:
-  - title: "Toyota to deploy advanced self-driving capabilities in mobility service vehicles first"
-    excerpt: "Toyota Motor Corp’s automated driving R&D unit on Tuesday said it planned to deploy advanced self-driving capabilities in mobility service vehicles before it does so in personal-use vehicles. “‘Level 4’ (driving capabilities) is really what we’re striving for to first appear in mobility as a service,” James Kuffner, CEO of Toyota Research Institute-Advanced Development, told reporters at the opening of its new offices in Tokyo."
-    publishedDateTime: 2019-12-17T06:29:00Z
-    sourceUrl: https://www.reuters.com/article/us-toyota-autonomous-idUSKBN1YL0G9
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YL0G9
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YL0G9
+  - title: "Toyota to Deploy Advanced Self-Driving Capabilities in Mobility Service Vehicles First"
+    excerpt: "Toyota to Deploy Advanced Self-Driving Capabilities in Mobility Service Vehicles First \"'Level 4' (driving capabilities) is really what we're striving for to first appear in mobility as a service,\" James Kuffner, CEO of Toyota Research Institute-Advanced Development, told reporters at the opening of its new offices in Tokyo. \"It will take more ..."
+    publishedDateTime: 2019-12-17T06:40:00Z
+    sourceUrl: https://www.usnews.com/news/technology/articles/2019-12-17/toyota-to-deploy-advanced-self-driving-capabilities-in-mobility-service-vehicles-first
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.F3C6B884E46201A263463EDFD2AA1E3A
+      - url: https://www.bing.com/th?id=ON.CDEC0A0C8CC4718BAB96DCA9BACB3832
         width: 700
-        height: 453
+        height: 454
   - title: "Ford makes Austin epicenter of its self-driving vehicle business"
     excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
     publishedDateTime: 2019-12-12T20:02:00Z

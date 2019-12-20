@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: VentureBeat
@@ -30,34 +30,34 @@ images:
     title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
 
 related:
-  - title: "AI Weekly: NeurIPS proves machine learning at scale is hard"
-    excerpt: "Researchers are presenting more than 1,400 papers at the Neural Information Processing Systems (NeurIPS) conference, ranging from work that organizers believe has had the greatest impact over the past decade to Yoshua Bengio’s continued march toward consciousness for deep learning. But even as the conference showed theoretical research and ..."
-    publishedDateTime: 2019-12-13T19:54:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/
-    ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
+  - title: "Reinforcement Learning, Deep Learning’s Partner"
+    excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to overestimate deep learning’s capabilities and pretend it’s the magic bullet that will ..."
+    publishedDateTime: 2019-12-10T21:43:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.B9643B213B4F8CD7D0C15539A1AF3147
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df00fc625ab5d0007ce1af2%2F0x0.jpg%3FcropX1%3D2%26cropX2%3D897%26cropY1%3D64%26cropY2%3D567
+        width: 896
+        height: 504
+  - title: "Data-driven deep reinforcement learning"
+    excerpt: "One of the primary factors behind the success of machine learning approaches in open world settings, such as image recognition and natural language processing, has been the ability of high-capacity deep neural network function approximators to learn generalizable models from large amounts of data. Deep reinforcement learning methods ..."
+    publishedDateTime: 2019-12-07T20:00:00Z
+    sourceUrl: https://robohub.org/data-driven-deep-reinforcement-learning/
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9DA366F83C890F049013C82278C2F206
         width: 700
-        height: 350
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
-    publishedDateTime: 2019-12-17T07:39:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-shines-ieee-073100976.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.91EB950BD4B6508D2C37124A45F530B2
-        width: 400
-        height: 300
+        height: 234
 
 secured: "SE3TC5GmcZp4vJjau4NBpdY+g+xVceW5lG8v4U3Qi5JnDbsqWlhSV2l5mNpGuKbpwAX+a2nbgCzViW4DS8TVefwoxxUvqfzH4Irjprdr5M9jbFBC6fgghNybOfYce6Nt0GG1VsdBedP6xHrrpq090b1jSn0Zi0c5Evi9ygvchHClZy7IgenWmzw87TffLhzLK4FfLRAqrLPY4ZUHMu+Vj23YwasvdUumzTV7mlXl5xvylzEhbSSCjt6n0N97a8D0+Wyf7hi2G9FwrF8NO1MHjw==;Q07ECqyun4ZzDV7oP+6COw=="
 ---

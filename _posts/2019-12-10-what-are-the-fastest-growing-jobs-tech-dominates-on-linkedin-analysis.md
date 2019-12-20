@@ -25,21 +25,6 @@ images:
     height: 466
     title: "What Are The Fastest Growing Jobs? Tech Dominates On LinkedIn Analysis"
 
-related:
-  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
-    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
-    publishedDateTime: 2019-12-09T10:03:00Z
-    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
-        width: 700
-        height: 421
-
 secured: "kCgWBDQVdClyFbqY8QqvE3LK0N+3tfgyU9e1ejqNRsT9Nm3/NCGYPL/B4lBaC69/QNWOmE8gPXtxuQcp3n1PsxGHN7XBpmRznH7MiODqpHsiGK0K81zm7L/Wi+XRgegWV46pzX9rx6caLll0jL26J6veKdhxjc3putoETZZs5wGi2/8ctWfCn3WlmWUsygmqwE0fOU2pFp15gK/98JqtrGaSn8dD56hFfYCqUowcslU2KP7U5xfBKpH+KSw1TQrq/Ifx1ApRldBac6e7xF3VNg==;qFEvYfocLTxBAgnI1Afivw=="
 ---
 

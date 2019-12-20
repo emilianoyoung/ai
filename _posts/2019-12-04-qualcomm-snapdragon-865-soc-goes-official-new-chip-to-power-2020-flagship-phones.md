@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3F6181C11DCD5CD8370D5D30FBF5F0B7
         width: 668
         height: 445
+  - title: "5 Ways Machine Learning Is Leading to Smarter Manufacturing"
+    excerpt: "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and overall production speed, AI – with the help of the Industrial Internet of Things – is ..."
+    publishedDateTime: 2019-12-04T15:03:00Z
+    sourceUrl: https://www.business.com/articles/machine-learning-and-manufacturing/
+    type: article
+    provider:
+      name: Business.com
+      domain: business.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.AECC42FCED6EB1A44F43EE080F9A2206
+        width: 700
+        height: 466
   - title: "The chip determining 2020's new smartphone features"
     excerpt: "This year's new chip has focused on delivering improved AI processing, photography, gaming and all-round performance. The headline stat from the new 865 chip is that Qualcomm says it is 25 per cent faster compared to this year's Snapdragon 855. This actually represents a bit of a slow down in terms of progress compared to last year's 855 ..."
     publishedDateTime: 2019-12-06T16:04:00Z

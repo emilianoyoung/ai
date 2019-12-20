@@ -24,36 +24,36 @@ images:
     title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
 
 related:
-  - title: "AI Weekly: NeurIPS proves machine learning at scale is hard"
-    excerpt: "Researchers are presenting more than 1,400 papers at the Neural Information Processing Systems (NeurIPS) conference, ranging from work that organizers believe has had the greatest impact over the past decade to Yoshua Bengio’s continued march toward consciousness for deep learning. But even as the conference showed theoretical research and ..."
-    publishedDateTime: 2019-12-13T19:54:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/
-    ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
+  - title: "Awaiting us in the next decade: Robo lawyers, computer vision, AI-powered education"
+    excerpt: "This takes time, and more often than not, time is of the essence when it comes to cancer. Computer vision is everywhere. It’s an integral part of AI-powered smartphone cameras that can recognize and adapt to photographed objects and sensors that help autonomous cars and robots navigate their environment. Smart cities use it to monitor traffic ..."
+    publishedDateTime: 2019-12-16T10:10:00Z
+    sourceUrl: https://www.marketwatch.com/story/awaiting-us-in-the-next-decade-robo-lawyers-computer-vision-ai-powered-education-2019-12-16
+    ampUrl: https://www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
+    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
     images:
-      - url: https://www.bing.com/th?id=ON.B9643B213B4F8CD7D0C15539A1AF3147
+      - url: https://www.bing.com/th?id=ON.E21FD1ECAED1D696E006B1D0B97557CE
         width: 700
-        height: 350
-  - title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
-    excerpt: "Reinforcement learning agents — or AI that’s progressively spurred toward goals via rewards (or punishments) — form the foundation of self-driving cars, dexterous robots, and drug discovery systems. But because they’re predisposed to explore unfamiliar states, they’re susceptible to what’s called the safe exploration problem ..."
-    publishedDateTime: 2019-12-13T15:35:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/
-    ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
+        height: 393
+  - title: "Significant advances in 5G, AI, and edge computing among the top tech predictions for 2020"
+    excerpt: "Report by GP Bullhound also calls out the rise of data lakes/death of relational databases and the rise of vertical AI SaaS offerings, and XaaS. Companies can expect to see disruption in traditional models of data usage, storage, and analysis next year, with newcomers challenging the dominance of incumbent brands across various markets ..."
+    publishedDateTime: 2019-12-11T17:18:00Z
+    sourceUrl: https://www.techrepublic.com/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/significant-advances-in-5g-ai-and-edge-computing-among-the-top-tech-predictions-for-2020/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 79
     images:
-      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
+      - url: https://www.bing.com/th?id=ON.4E0D1E436BADCB559E508F4F02B08B6C
         width: 700
-        height: 350
+        height: 525
 
 secured: "f5VgnKDSJOMp72cqcCp1hM/RjceGL1Vwe4IxbNnkVTE41wfUX46Yq2j5EW2GGM0yEOELkftIr1vxA+omFXVXUXF1Jk84HcDUQFdjo2h3iEkNK9pGiCqGLl9mhKTzuo5e6wye8lXHi+JYvG41zW/qqpWpiMBw5OmxwuN6gYYhK0Z2brKD1lwKW0qI+j72X9m/nOqsOdshIM07+lkeVNl9MPCsZEEVNsB6Yn7FI7K0Ic03XEId4FKy170SV4LxIET4ObAZXrGwyrCQdFHvuFHdlg==;4aSQ1MyQhxah36HoUBu5rg=="
 ---

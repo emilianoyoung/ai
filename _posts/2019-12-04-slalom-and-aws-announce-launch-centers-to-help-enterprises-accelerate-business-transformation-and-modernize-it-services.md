@@ -26,19 +26,19 @@ images:
     title: "Slalom and AWS Announce Launch Centers to Help Enterprises Accelerate Business Transformation and Modernize IT Services"
 
 related:
-  - title: "AWS launches ML Embark program to help enterprises adopt machine learning"
-    excerpt: "For enterprises, the path to adopting artificial intelligence involves more than just development tools and algorithms ... ML Embark is an employee training service delivered by the cloud giant’s machine learning staff. Michelle Lee, head of the AWS Machine Learning Solutions Lab, wrote in a blog post that the offering draws on lessons ..."
-    publishedDateTime: 2019-12-05T19:56:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/aws-launches-ml-embark-program-help-enterprises-adopt-machine-learning/
+  - title: "AWS Announces AWS Fargate for Amazon Elastic Kubernetes Service (Amazon EKS)"
+    excerpt: "AWS offers over 165 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
+    publishedDateTime: 2019-12-03T20:13:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191203005922/en/AWS-Announces-AWS-Fargate-Amazon-Elastic-Kubernetes
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 70
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.0B31AAD169E643317783157513853DE9
-        width: 700
-        height: 394
+      - url: https://mms.businesswire.com/media/20191203005922/en/760267/23/AWS_logo_new.jpg
+        width: 1200
+        height: 627
 
 secured: "KsE0vXKPztJErlB0CuO6Kq8n5xj/fUvPBSxUhqlrIhd5U2gszogEZzoWcsON7EM0b0NEwOGoNzesE355IzsHvdR+Cgo4ez5UHY7Vw9YG5K00PLe8ti3IFaqw/bhByAmToMY9cerXQgpDYR+MUgk3JUD75y1Zrs/rbpyHPbksZPnc3f5gtrhzVBjtQX5Dk+6ifkJsk+XDXdIebrDVwO+bI1Mejb2UjYXvo7igDYZFxxFPtF3GrefIU0A/alCEDGpwNfqcD8Nua8XoUF7fuhsLww==;XqbmcAYgM+ebPlOkYFuOMg=="
 ---

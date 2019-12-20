@@ -24,52 +24,86 @@ images:
     title: "Ford discontinues medical transportation service to focus on self-driving tech"
 
 related:
-  - title: "RIDOT: Self-driving shuttles have seen ‘great ridership’ since service began"
-    excerpt: "PROVIDENCE, R.I. (WPRI) — It’s been six months since the Rhode Island of Transportation (RIDOT) introduced autonomous shuttles to the streets of Providence, and so far, the agency says close to 26,000 passengers have already taken advantage of the free, and experimental, service. The six “Little Roady” shuttles began picking up ..."
-    publishedDateTime: 2019-12-06T23:16:00Z
-    sourceUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/
-    ampUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
-    cdnAmpUrl: https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
+  - title: "Wheels begin to turn on self-driving car legislation"
+    excerpt: "Congress has yet to roll out comprehensive legislation that would create federal standards for self-driving cars this year, but the wheels have started turning on new efforts to draw up policy. Movement on the issue follows pressure from industry groups and agencies that have been pushing for government guidelines to address the testing and ..."
+    publishedDateTime: 2019-12-01T14:00:00Z
+    sourceUrl: https://thehill.com/policy/transportation/automobiles/472341-wheels-begin-to-turn-on-self-driving-car-legislation
+    ampUrl: https://thehill.com/policy/transportation/automobiles/472341-wheels-begin-to-turn-on-self-driving-car-legislation?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/transportation/automobiles/472341-wheels-begin-to-turn-on-self-driving-car-legislation?amp
     type: article
     provider:
-      name: WPRI 12
-      domain: wpri.com
-    quality: 41
+      name: The Hill
+      domain: thehill.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.2944FCBAACE8E36950471890298508E1
+      - url: https://www.bing.com/th?id=ON.E50B1D6DE5D1F3CC7AFF038E1874AFC1
         width: 700
         height: 393
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
+  - title: "Self-Driving Cars Were Supposed to Be Here Already — Here’s Why They Aren’t"
+    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn’t exist. And it’s not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline ..."
+    publishedDateTime: 2019-12-01T01:17:00Z
+    sourceUrl: https://www.nbcnewyork.com/news/national-international/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html
+    ampUrl: https://www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
+    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
+      - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
         width: 700
-        height: 410
-  - title: "Data released about Providence self-driving shuttle service"
-    excerpt: "PROVIDENCE, R.I. (AP) — A self-driving shuttle service has taken more than 25,000 trips during its first six months of operating in Rhode Island, according to the state Department of Transportation. The Boston Globe reports Wednesday that transportation officials released data for the first six months of Providence's “Little Roady” one-year pilot program, with an average of 146 free shuttle trips daily in November."
-    publishedDateTime: 2019-12-04T20:13:01Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/data-released-about-providence-self-driving-shuttle-service/ar-BBXQsHy
+        height: 393
+  - title: "UGA researchers receive grant to study self-driving cars"
+    excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
+    publishedDateTime: 2019-11-26T13:04:00Z
+    sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
     type: article
     provider:
-      name: Associated Press on MSN.com
-      domain: msn.com
-    quality: 4
-  - title: "Data released about Providence self-driving shuttle service"
-    excerpt: "PROVIDENCE, R.I. (AP) — A self-driving shuttle service has taken more than 25,000 trips during its first six months of operating in Rhode Island, according to the state Department of Transportation. The Boston Globe reports Wednesday that transportation ..."
-    publishedDateTime: 2019-12-05T00:10:00Z
-    sourceUrl: https://www.seattlepi.com/news/article/Data-released-about-Providence-self-driving-14882032.php
+      name: The Red & Black
+      domain: redandblack.com
+    quality: 24
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/d/e5/de52d844-1001-11ea-b8e2-afd13556e3e0/5ddca470088fa.image.jpg?resize=777%2C630
+        width: 777
+        height: 630
+  - title: "Self-Driving Cars Taught to 'Feel' Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-04T13:47:00Z
+    sourceUrl: https://www.voanews.com/episode/self-driving-cars-taught-feel-passengers-emotions-4111141
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 4
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A7AD3E49EDAFCA94C0440BD2F891F247
+        width: 700
+        height: 393
+  - title: "Teaching a Self-Driving Car to Know if its Passengers are Happy or Nervous"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to ..."
+    publishedDateTime: 2019-12-04T02:58:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-know-if-its-passengers-are-happy-or-nervous-4111141
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.A7AD3E49EDAFCA94C0440BD2F891F247
+        width: 700
+        height: 393
+  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
+    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
+    publishedDateTime: 2019-12-06T19:32:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
 secured: "wnmieVtTlxilk3EIPZVoUuCYK4HwkNRF9sPB2I8r09WtTkjwmoK5xZ45fIYfLmQLwSLJTqP8pjrk/iKKYjjCB26KCfs/nlt512JXwWlfzvVaEv4Z96sqDqMeTt9Zvr5OHCodm8W8vs5HhME9cwOJcLJRnFXHAQOtBAOl4VbWmEM8lG45y0HtE10F82GaB02naPDnKOgZ4saiWvn86HzrXT/TsLc2FkzvU3+tamx1ck5e5Hod6kyabNqQSa+VPaxiaNXq96ijDwbxhAUqg59QpQ==;NR6cJfGBAldwnVDw4N+3qA=="
 ---
