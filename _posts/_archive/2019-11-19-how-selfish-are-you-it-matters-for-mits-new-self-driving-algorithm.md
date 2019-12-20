@@ -25,6 +25,6 @@ images:
     height: 601
     title: "How Selfish Are You? It Matters for MIT’s New Self-Driving Algorithm"
 
-secured: "YMtrP4RbgU2gd9Vv7zAfhEo/hvHKyiU4KfbgZFBwJt5OLvEVceyttn4QcsMeehLZgLv+ejYoLF6PGj/KPuRece8X9jYvgAoseb5l5+4yu/FeKyPmA6HCVJpfay6WoSw3yEhh3KwpNUj1I9fGFRE5pSeN1YT9OjD2pZ/u4gAhv/JuGYhzFQxi7X3ZINgS66jSENFPr7VeaGkSEKhQZT/5dvtgmgJdpZN0TCgWYCSYLcc8Bb2SC7Rg/r4difR+8RE9y8BMyzjEPjJMqEDterCUKg==;1z3usjsxBkFpqQX06rh9Fg=="
+secured: "XTpBA4xGkWFvImSb/oiMTXcjerGwO6a2mLsn0RgyRQNOawe9BC8vds0nMrXA3ANrg6f2zQ1Hc0wf4p314fdH1vUK4mgEDZOgoVH/mTNuE13WSN6ynVeok+SLjjNZk2P9/1KsUkMds9yw1jx33eesmiIm06QWsnmlUuiF9PgliiuWSV29zUyU2+DUH+rSctCuZ43BjvOdT/V3dHCxJd8kiTtxSc5jagAA8VHt4/cPL+2gJGXFPNbmVNYIyXes8dvFOjyi8Hso2udxs3VgiFPKxg==;KjNvgaAl5NH+WkgDfxxBQw=="
 ---
 

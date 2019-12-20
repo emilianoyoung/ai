@@ -464,19 +464,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A75FDE089AA8382504834D343B7B315
         width: 700
         height: 525
-  - title: "Facial recognition technology has a racial bias problem, according to a new landmark federal study"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. A sweeping federal study of facial recognition technology found that the systems are worse at identifying women and people of color than men and white people, the National Institute of ..."
-    publishedDateTime: 2019-12-19T21:57:00Z
-    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.FF6BAF817FC9444BDF5920823B9F9D28
-        width: 700
-        height: 350
   - title: "Facebook’s privacy push stumbles over EU rollout of facial recognition technology"
     excerpt: "Facebook’s move to roll out previously banned facial recognition technology in Europe — just when new privacy rules are coming into force — is causing an uproar. LONDON — Mark Zuckerberg promised to extend Europe's revamped privacy rules across all of Facebook's global empire. That pledge is already running into trouble. Amid an ..."
     publishedDateTime: 2019-12-09T23:16:00Z
@@ -1073,6 +1060,19 @@ related:
       name: Los Angeles Times
       domain: latimes.com
     quality: 38
+  - title: "Facial Recognition Turns Out To Be Not So Great If You Aren’t a White Man"
+    excerpt: "The National Institute of Standards and Technology released a report today about the accuracy of facial recognition software. The news was grim: most algorithms make a lot more errors when the subject is anything other than a white male, which means that women and people of color are more likely to be misidentified. But this got me curious ..."
+    publishedDateTime: 2019-12-20T01:31:00Z
+    sourceUrl: https://www.motherjones.com/kevin-drum/2019/12/facial-recognition-turns-out-to-be-not-so-great-if-you-arent-a-white-man/
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 38
+    images:
+      - url: https://www.motherjones.com/wp-content/uploads/2019/12/blog_fmr_rate_chinese.jpg?w=1200&amp;h=630&amp;crop=1
+        width: 1200
+        height: 580
   - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
     excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
     publishedDateTime: 2019-12-19T19:32:00Z

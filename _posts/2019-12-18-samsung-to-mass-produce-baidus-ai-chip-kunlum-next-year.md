@@ -120,6 +120,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "Samsung, Baidu to Start Production of New Leading-Edge AI Chip Early Next Year"
+    excerpt: "Baidu and Samsung Electronics announced that Baidu’s first cloud-to-edge AI accelerator, Baidu KUNLUN, has completed its development and will be mass-produced early next year. Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm ..."
+    publishedDateTime: 2019-12-20T01:29:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16114-samsung-baidu-to-start-production-of-new-leading-edge-ai-chip-early-next-year
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 30
 
 secured: "RxDrk52oWIWt0utnV8AH7TKZb4UtKST0TMG4sHTW1lxAodnz5fx1cQc9tWawGMRy0DqroLJJE836gX8K4qlpiODiMOAqQg6fKGvNz3p9vwxvCiM50RYAf7aNPaYo26Gi/Nl/l/irLL6Lx+ZCEBSCMc/6lE+C2KAkVJHn0kZ/zlgwtua4haLLpT17Tx8rUgQtz3CrlWl6h6Xa2MuAzf9ejYrMCVCGZ9Xt/I7IzttXFJgQRhjyoj3HXHEJLO9Ajw9dAwCMOvgeQGOa55CeXNKZjg==;NbV10ZfVEA2Ua+bihged0w=="
 ---

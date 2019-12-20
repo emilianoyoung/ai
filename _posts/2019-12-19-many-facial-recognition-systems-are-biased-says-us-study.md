@@ -8,7 +8,7 @@ ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.am
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
 
 related:
+  - title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
+    excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
+    publishedDateTime: 2019-12-19T22:21:00Z
+    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12/
+    ampUrl: https://amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.FF6BAF817FC9444BDF5920823B9F9D28
+        width: 700
+        height: 350
   - title: "Serie A to tackle racism in Italy with facial recognition, says CEO Luigi De Siervo"
     excerpt: "Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behaviour with racist chants aimed at Romelu Lukaku, Franck Kessie, Dalbert Henrique ..."
     publishedDateTime: 2019-12-16T17:34:00Z

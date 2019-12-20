@@ -56,6 +56,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "IBM Data Science Elite Team Helps Propel IBM to #1 in Global AI Market Share"
+    excerpt: "IDC ranks IBM number one in global AI market share by revenue, with companies leveraging the Elite Team to apply ... This joint collaboration resulted in a machine learning pipeline, via Watson, that fully utilized all of our data signals to produce models that increase the performance over our previous models by 200% or more."
+    publishedDateTime: 2019-12-20T01:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-data-science-elite-team-140000934.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/ibm-data-science-elite-team-140000934.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ibm-data-science-elite-team-140000934.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
 
 secured: "VDwo7rR4/BEITPl91FSg8O8dIYaP39ExJM4Rn7V2BfAlycaVHEhi7jBP1VwABqckqCc2GSkz4B/43WeMM6Q3O7YmqjdLner0SEVg5fwN1aPmd9N1BNL9VQUc5Nz20JL1idsPxsffpYxTYw387nJJ8BiF6jwTr6d6ayKmmv4SNmMMuxLjMxY0/YWjPx3IRW2M309/HUWUxEoJ40yxRaHKGop04toDii6OmcUYSoEXgqd9Ul7mldeje0EK4kJAY7GTltr+TVDVRwvA06vg8rZp5w==;7AO+CIq+tlFYmjmrgQL8FQ=="
 ---

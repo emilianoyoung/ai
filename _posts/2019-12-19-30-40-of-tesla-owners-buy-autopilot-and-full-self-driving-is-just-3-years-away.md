@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owne
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
 type: article
 quality: 167
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "30-40% Of Tesla Owners Buy Autopilot (And Full Self-Driving Is Just 3 Years Away)"
 
 related:
+  - title: "30-40% Of Tesla Owners Buy Autopilot (But Full Self Driving Is Three Years Away, Expert Says)"
+    excerpt: "Full self-driving capability is just three years away, according to one Silicon Valley expert. “We’ve probably spent $100 billion in the past four or five years developing technology for fully autonomous go-anywhere cars,” says Blair LaCorte, president of AEye. “That ... can now be used in more intelligent ways, in more intelligent ..."
+    publishedDateTime: 2019-12-20T01:00:00Z
+    sourceUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/
+    ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 93
+    images:
+      - url: https://www.bing.com/th?id=ON.46E19C0BD99713B918F2C6E4471F0311
+        width: 600
+        height: 315
   - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
     excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
     publishedDateTime: 2019-12-16T14:39:00Z

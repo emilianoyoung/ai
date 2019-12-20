@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kic
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/ibms-elite-data-science-squad-has-kickstarted-ai-for-more-than-100-companies/amp/
 type: article
 quality: 187
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "IBM Data Science Elite Team Helps Propel IBM to #1 in Global AI Market Share"
+    excerpt: "IDC ranks IBM number one in global AI market share by revenue, with companies leveraging the Elite Team to apply ... This joint collaboration resulted in a machine learning pipeline, via Watson, that fully utilized all of our data signals to produce models that increase the performance over our previous models by 200% or more."
+    publishedDateTime: 2019-12-20T01:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-data-science-elite-team-140000934.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/ibm-data-science-elite-team-140000934.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ibm-data-science-elite-team-140000934.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
 
 secured: "x1fQvbRcL70RgOepM91BR87Dr/1JjUaw/cYtmpQE3FNJ7her5MDmsbni3CnZFXHIsRf9LXRAEfw16+SIWtrNsy9Xfjod6EvrMuOWQaAmPrRAJz29iwQDftS3z0aT9WTM4Fmq6Wwd2pGgv0t4Qj4xLKXMAIGIi3jJ19Hg8RBYK+HZoSyZ6BSx6i3oUvNhmIpjxehZqu08OGrPmCgXlUgUvTuMkuMKcn5g1UDUZ19crUrp4eHBf8OafMDJWwi6T/sX54vGt/nzRCZx6nMmQH+5gLDfnpDU1ZouD5cy1OGFR4o=;rxUOCxJx1NE4u3dobNL66A=="
 ---

@@ -29,10 +29,10 @@ related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T19:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
+    sourceUrl: https://au.finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
-      name: Yahoo Finance
+      name: Yahoo7 Finance
       domain: yahoo.com
     quality: 39
     images:

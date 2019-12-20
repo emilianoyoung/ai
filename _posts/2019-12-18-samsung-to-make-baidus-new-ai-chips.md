@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-c
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
 type: article
 quality: 184
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "Samsung, Baidu to Start Production of New Leading-Edge AI Chip Early Next Year"
+    excerpt: "Baidu and Samsung Electronics announced that Baidu’s first cloud-to-edge AI accelerator, Baidu KUNLUN, has completed its development and will be mass-produced early next year. Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm ..."
+    publishedDateTime: 2019-12-20T01:29:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16114-samsung-baidu-to-start-production-of-new-leading-edge-ai-chip-early-next-year
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 30
 
 secured: "ZVeQ9E6Nw5rQjtmkCfACLeciiEpvOxGQaCyDvJSfmyh6owbuVgaQnBN01PFHM3iCW+ZVOttk8bLIwgfaWSfXbhqHV1dW362y2nY1Z1ecY2uq/dJsREQ2MaN2vb8rhzUMMtZT49c1EA1fLw34OSLlY6tL1wju1YN3aAQSVRET6VxSeBScYpDsNqWbTJAbcr/loLhGtolp7b36g4pn6H67+kKNcvJnlZ8TjaG6s2u+pJ3nn1IO5DM08ZUimaoxe2DUEw9LSi8MB9O76CmA+XmVegjLyMiiJtd0rQJBsCmArBc=;yo1TC6jekxwdN4ktjEpElg=="
 ---

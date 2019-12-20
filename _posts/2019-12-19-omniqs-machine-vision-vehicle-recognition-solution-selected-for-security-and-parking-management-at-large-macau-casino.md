@@ -40,6 +40,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 11
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-20T01:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "MIXZwYnFv8n2CZ7S10WpJwhLs4EofPGb3DH8CU6gDNY4TUps9sIjEMg3kDQOB5tJ3Cc8LEZqW+BaU7R4qJ317we+zm1Nyx8OBJDnCxV6HfCLBUzzyE8ljv6IDtRsLHZXJ0nohO8lRfXXaVfAV34CxzAPJeMeCTgzPCBQwuEVOWJsia82VNy4Z5J+OrKuN1//MuYcWYw7Ba7sVhBU5YgxN65o9kAT4larSGWpY6rvZRyLAID0+PZu3953leL2HoyTudMLflNapYQjWh4VXBtyFQ==;JfLzQxbDOGi8q0C3FMhATQ=="
 ---
