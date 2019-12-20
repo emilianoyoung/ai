@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-23T19:01:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 62
+published: true
 
 provider:
   name: Science Daily
@@ -21,23 +21,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
-    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
-    publishedDateTime: 2019-11-25T05:10:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 71
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
-        width: 675
-        height: 365
-
-secured: "SXXXrLwKFxcg70AmY4mBv66/fQ80EIlTXLzoXjcTvCru65sYRuWOWB9Uw9ErBhluZ/xxWr0QCb+7ojRehoc/e5RihgBXxGrC3UdTdjfDDMs20a5wI9INuNDnlty9JcI5h3xnxDXoO1FDu6IJN646lG/X0BdfdMTh4gCVQNuBx4FntOKa7pN4qzKV0JaiZsCu8q7XxPwuKqwIBVnZhhSZ1Wtl3aVgAQiDxxhM1YsO66JMWSQ+spYrLwK+uR6CHH/VDIGA5x3l4ZkszdqTrFC1sA==;tvY2mo/xhGLzxl4rTi9lzA=="
+secured: "0gmXhAtamIUZny58+3efSCFR3bBpkKuv8eBeaWQ45qCAoSmGbS5mnj/FC/4wazia7agPOKVlXu8IIuKbjG0on5mbIv2W0Lv+NkJTCP+JRPmwUbbeEIfV0ZNlccPFOwsPFojXUVoPuWkXq4iltZUwz6PluVrSxcuNniDrhNz7m2xonfzZ96PWYfGwMZ9E3yaz1r17uIU5p5Ys0K3JqKl0ORaCIK10vWE+N+quOndHKQ6DKLfps87PT4kWvVkYoAD73oBut0dj1OrNWuAvfM2W6A==;s6UvQoX29Ttq4mU41FHDyA=="
 ---
 

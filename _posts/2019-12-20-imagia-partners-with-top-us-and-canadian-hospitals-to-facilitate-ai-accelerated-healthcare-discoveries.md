@@ -55,6 +55,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E917C66508DEC13087F9313ACFC33C3
         width: 700
         height: 367
+  - title: "NAM report: The success of healthcare AI depends on building consensus"
+    excerpt: "Without shared ideas and goals regarding the use of artificial intelligence in healthcare, the technology is unlikely to ever reach its full life-saving, quality-improving potential, suggests a new report from the National Academy of Medicine. In \"Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril,\" NAM members ..."
+    publishedDateTime: 2019-12-20T18:23:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/nam-report-the-success-of-healthcare-ai-depends-on-building-consensus.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
+        width: 400
+        height: 300
   - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
     excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
     publishedDateTime: 2019-12-17T16:23:00Z

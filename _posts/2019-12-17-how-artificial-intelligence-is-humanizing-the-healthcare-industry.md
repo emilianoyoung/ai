@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E917C66508DEC13087F9313ACFC33C3
         width: 700
         height: 367
+  - title: "NAM report: The success of healthcare AI depends on building consensus"
+    excerpt: "Without shared ideas and goals regarding the use of artificial intelligence in healthcare, the technology is unlikely to ever reach its full life-saving, quality-improving potential, suggests a new report from the National Academy of Medicine. In \"Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril,\" NAM members ..."
+    publishedDateTime: 2019-12-20T18:23:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/nam-report-the-success-of-healthcare-ai-depends-on-building-consensus.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
+        width: 400
+        height: 300
   - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
     excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
     publishedDateTime: 2019-12-20T14:03:00Z

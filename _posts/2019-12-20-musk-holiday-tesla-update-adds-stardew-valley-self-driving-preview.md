@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
-excerpt: "Will we see 'Full Self-Driving' made widely available by the end of 2019? It's been a few months since Tesla's 10.0 update brought Cuphead, Netflix and YouTube to some of its in-car systems, and it appears more options are around the corner. Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game ..."
-publishedDateTime: 2019-12-20T03:34:00Z
-sourceUrl: https://www.engadget.com/2019/12/19/tesla-fsd-stardew-musk/
-ampUrl: https://www.engadget.com/amp/2019/12/19/tesla-fsd-stardew-musk/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/19/tesla-fsd-stardew-musk/
+excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
+publishedDateTime: 2019-12-20T04:34:00Z
+sourceUrl: https://news.yahoo.com/2019-12-19-tesla-fsd-stardew-musk.html
+ampUrl: https://news.yahoo.com/amphtml/2019-12-19-tesla-fsd-stardew-musk.html
+cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2019-12-19-tesla-fsd-stardew-musk.html
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -92,6 +88,6 @@ related:
       domain: hypebeast.com
     quality: 30
 
-secured: "pSuuDiPwYrEcNOIe1YryrnpekXcj74K1HR4OqrDbOu2rEUMZaQapSCr/8KisJ+k7EGtZC5U0jeuchLSBTAnrx+QAHKx92AHcjhfUtqjuA6IJenDdOm2Wz2Vdynv2FYdByjz0Fx16KzPkZloNGT/UILVfPqYYdY3+Mw/+jRzi4nAtpZjl/vDzwXppjSehh2dw2Q0LKZpxAtmHKw3WcpYR2VdkcxRbrn/h+m+0CHGGJjY6R/oGR6zPfmL7LP7TcGjHAHhHxI2zENHab5tzc9Lf8g==;/GaILaJeuXOrTvTQfL6EwA=="
+secured: "VG3xjWsAjtYvFil8Ap5i8KbM4/t5v8pZSQjO67MxJw02JVpTLfrrn7h1N2tQv8t9VN0u/oG4O0Meods9qsOHHboROAuGPwVrkPIgIWn7QcwnEJeyOUuyUVrkVkS+OtQC1ei00rA9PuLth37dR2nSfH4nnXGTLaWFZPkItV5iEdr4M5AlelQh0H9/5N7qHBsLF6hwJwn6BqM6YD0YojYvhtYjUjIvwekoWBFsvdiwrx/iEyAqAav6IJ8ff9FfJK74AqCbuzfPTBrcnRJKYm4ujQ==;DcYDASiGmlV0i1nXkbZ5cg=="
 ---
 

@@ -2,21 +2,21 @@
 category: news
 title: "Teradyne & Enflame Collaborate to Ensure Thorough Testing of AI Devices for Data Center Training"
 excerpt: "Best-In-Class test quality is very important to our success and we are pleased with the powerful test solution Teradyne provides.” “The market for AI chips is very competitive and time sensitive,” said Regan Mills, Vice President of SOC Marketing at Teradyne. “The design complexity and device power requirements make device bring-up and ..."
-publishedDateTime: 2019-12-20T14:14:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-teradyne-enflame-collaborate-ensure-thorough-testing-ai-devices-/2019/12/20/9073239.htm
+publishedDateTime: 2019-12-20T18:58:00Z
+sourceUrl: https://finance.yahoo.com/news/teradyne-enflame-collaborate-ensure-thorough-140010470.html
 type: article
 quality: 6
 heat: 6
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI Hardware
 
-secured: "evd/XLEw9ya99dDKizSwQxqT/EtWVuYZS3VleIP0kSteStXi4AvVsm8J6Vrq60PaEsQeFaNtt8V4FKNw3pBM2vUP40pJQgJkQsjSolDXTjawrylEAQ8RM4yH6qmlSRIFxVFnQ2K6d8T+JwGYCidnlKMiAc2xJ7tC2S+/yfZ5O+/WZdkzZB36uJzvWEWa/P7tVpuTSgNx4l3O1Zuc15J+ToUozaQpbwmm7a12a4OJN7PnZDjervlW1ZuLVlq+GYpsI/naKC73ssq5/OSoiCTcBQ==;eLNyjXVQRfkLrf3IATm+Wg=="
+secured: "d4JKsE3nvvu5D9nGsJ7HsrEVEkc7M4SBSMDO/iIhvjKcwxPZ7mPEqRsyf4EUVIkEQOtjhjKN10J7NTxOSuNs/A9xQekuXWly+O+eBYSQh+vXQE8Nv0s6OO7MzanlopWPd68Jj6ui14YqgSV9TlzxlZRPFyOprk8cbgNqC7GxOohUCMiViaLZunEvUNelG3tADxcOTCS/E7gHBGz1U3gx/bGN0X32stHThVjiUfsVgQIw6lKc3XVPaIDPUURRHrLQYBcgm1ygwoxpkbS49Wtc0Q==;ftm3mKzUlYshlNhQu5GKDg=="
 ---
 

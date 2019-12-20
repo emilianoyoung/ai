@@ -1,29 +1,26 @@
 ---
 category: news
 title: "IBM Cloud, Watson & AI Solutions Gain Traction in Europe"
-excerpt: "International Business Machines Corporation IBM is riding on robust adoption of IBM cloud, Watson and AI solutions, driven by expanding Europe-based clientele. The company is all set to help Spain-based tourism Group, Grupo Piñero, to deliver engaging tourism and leisure experiences to customers. Grupo Piñero intends to enhance its IT ..."
-publishedDateTime: 2019-12-20T14:00:00Z
-sourceUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20
-ampUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
+excerpt: "IBM’s advanced cloud, AI and ML capabilities, blockchain, among others poises its offerings well to gain robust adoption. We believe the ongoing deal wins and expanding customer base will aid IBM strengthen competitive position in the cloud market against cloud vendors including Amazon Web Services (AWS), Microsoft Azure, Google Cloud ..."
+publishedDateTime: 2019-12-20T18:37:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-cloud-watson-ai-solutions-140002342.html
 type: article
-quality: 106
-heat: 127
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
-  - IBM AI
   - Microsoft AI
 
 images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
+  - url: https://www.bing.com/th?id=ON.DC89E82AE822596BE4F14032D6837647
+    width: 635
+    height: 400
     title: "IBM Cloud, Watson & AI Solutions Gain Traction in Europe"
 
 related:
@@ -56,6 +53,6 @@ related:
         width: 400
         height: 209
 
-secured: "3nzN79WixuCSA0Zwoq4++OzhhuH9n9y8MBwcJmI7lzm5y5qabPWqeHkj94uh0SWLX2mMlHW3QmzI6Hjy3gkp3Zh6HBcKLVx5Ny3W9qYVcWbMW+BOVi2K8wj3nmqrRpm4dIcpm7YuXRM5P18aT/VXbtFcS7fCINVm39ThL99YFR11a+smlbw5Y6lrnOa8dgJMJ/WHY110oJkytqgw9w/ZYFzmxaM2ECw8NG/1DjMenD5nSlqjJr9/DTpFox23MiT3gXAsjO1DkwvB8JxlaOC5pw==;sva4RhbB2G5zFj6kuqCh1g=="
+secured: "ZlOSJ2yxk0CAYLAG20HnRzOOeBgqiazQQNbek375I1dUG3wHPrwXEw7HnpTPfP+InHg+KTkOgSWu0G+SwsuvgfmljWrSkmWcR1Tr05vVOisa0qq7uujpk9Tk95goqSsO9aCv053RFk9el0zg9KMH6fi1aB3cIRqw8WiW8gRnduSeDz+/ZVuC2YLzWx3W+37CkObugap925NafkhBjhB4GCO063AOLARnUmgN0XzW7JZG8i5YHKe7sBFFMFJb8VR0wYwWUJRKAz1n6iZeyrnLwg==;tYv+cUjNBIdFloiaUDS5BQ=="
 ---
 

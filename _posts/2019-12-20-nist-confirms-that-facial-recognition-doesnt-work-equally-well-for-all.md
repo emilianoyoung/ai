@@ -97,6 +97,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B43BADE9152D3604EE289C1716A302D5
         width: 700
         height: 393
+  - title: "Is Valley Fair mall’s security robot using facial recognition?"
+    excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
+    publishedDateTime: 2019-12-20T18:55:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/
+    ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 91
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
+        width: 1024
+        height: 768
   - title: "Seattle port officials approve face recognition guardrails as feds waffle on the controversial tech"
     excerpt: "Delta is the first airline to launch a biometric terminal in the U.S. with facial recognition technology. (Delta Photo) The Port of Seattle established new rules governing the use of biometric screening Tuesday amid an ongoing global debate over facial recognition technology. The vote comes as civil rights groups pressure government agencies ..."
     publishedDateTime: 2019-12-11T00:42:00Z
@@ -172,6 +187,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/p9IG6w128l_iSkKspX8F9S27UmQ=/756x567/2019/12/19/6e7f242f-2f81-410f-aadb-82a146434d1c/gettyimages-614202874.jpg
         width: 756
         height: 567
+  - title: "ProBeat: Enough with the government facial recognition"
+    excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
+    publishedDateTime: 2019-12-20T18:30:00Z
+    sourceUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/
+    ampUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "U.S. government study finds racial bias in facial recognition systems"
     excerpt: "(Reuters) – Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-20T09:46:00Z
@@ -1114,16 +1144,18 @@ related:
         width: 700
         height: 394
   - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "The study comes amid widespread deployment of facial recognition for law enforcement, airports, border security, banking, retailing, schools and for personal technology such as unlocking smartphones. Some activists and researchers have claimed the potential for errors is too great and that mistakes could result in the jailing of innocent people ..."
-    publishedDateTime: 2019-12-20T12:12:00Z
-    sourceUrl: https://www.rawstory.com/2019/12/massive-errors-found-in-facial-recognition-tech-us-study/
-    ampUrl: https://www.rawstory.com/2019/12/massive-errors-found-in-facial-recognition-tech-us-study/amp/
-    cdnAmpUrl: https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2019/12/massive-errors-found-in-facial-recognition-tech-us-study/amp/
+    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
+    publishedDateTime: 2019-12-20T08:15:00Z
+    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-081542674.html
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/IHIqo6l2pIQyOmmvXAKJ.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/AzK4WrlkjaAQyC7.7fyijA--~B/aD0xOTI0O3c9Mjg4NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_US/News/US-AFPRelax/istock_892452254.8f85a151252.original.jpg
+        width: 1279
+        height: 853
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z

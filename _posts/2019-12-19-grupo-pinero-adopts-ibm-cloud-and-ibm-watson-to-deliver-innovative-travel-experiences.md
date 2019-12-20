@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-19T13:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/grupo-pinero-adopts-ibm-cloud-and-ibm-watson-to-deliver-innovative-travel-experiences-2019-12-19
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: MarketWatch
@@ -28,21 +28,6 @@ images:
     title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
 
 related:
-  - title: "IBM Cloud, Watson & AI Solutions Gain Traction in Europe"
-    excerpt: "International Business Machines Corporation IBM is riding on robust adoption of IBM cloud, Watson and AI solutions, driven by expanding Europe-based clientele. The company is all set to help Spain-based tourism Group, Grupo Piñero, to deliver engaging tourism and leisure experiences to customers. Grupo Piñero intends to enhance its IT ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20
-    ampUrl: https://www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-cloud-watson-ai-solutions-gain-traction-in-europe-2019-12-20?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 106
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
   - title: "Grupo Piñero adopts IBM Cloud and IBM Watson to deliver innovative travel experiences"
     excerpt: "For instance, by using IBM Watson artificial intelligence and business analytics solutions on the IBM public cloud, Grupo Piñero will work with client data to better understand traveler behavior and offer guests a best-in-class service by creating new applications. Grupo Piñero is also adopting the IBM Cloud Pak for Applications running on ..."
     publishedDateTime: 2019-12-20T12:35:00Z
@@ -58,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
         width: 400
         height: 209
+  - title: "IBM Cloud, Watson & AI Solutions Gain Traction in Europe"
+    excerpt: "IBM’s advanced cloud, AI and ML capabilities, blockchain, among others poises its offerings well to gain robust adoption. We believe the ongoing deal wins and expanding customer base will aid IBM strengthen competitive position in the cloud market against cloud vendors including Amazon Web Services (AWS), Microsoft Azure, Google Cloud ..."
+    publishedDateTime: 2019-12-20T18:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-cloud-watson-ai-solutions-140002342.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DC89E82AE822596BE4F14032D6837647
+        width: 635
+        height: 400
 
 secured: "i1u8Nh9zIHFhFeY+A1N9G1lXdeOdNudIvvvteOOwXkVOOQ+O4poOpaOSUQHsWNUCujFCJK1XnoNmlSAbKGkXOXvoyez1FNFPt2vWOMdtj8swBQUASdC0ghtUs6fjx1cSf1U2Ym4HONIDhqgdpBwi1ink+tVNuWnKrJcNjLhX5Z2BzDSCAUCV8HgskfeGDPER1RAQRvsxaWZWRE8E2jONhfAxb7dB4zZiMuNv4RsOnAA8yjuadOOsAKQy9kOwq8LJ223oyjO6YhlDMCorivuMVQ==;apTXno4zyYLoCPAxj0+OUw=="
 ---

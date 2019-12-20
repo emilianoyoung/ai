@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
-excerpt: "The system will use Amazon Rekognition, a deep learning image and video analysis service, to identify and track players, and give the organization a better understanding of their opponents’ defensive and offensive strategies. Using Amazon SageMaker, a fully managed service to build, train, and deploy ML models, the Seahawks can analyze the ..."
+excerpt: "SEATTLE--(BUSINESS WIRE)--Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that AWS is now a cloud, machine learning (ML), and artificial intelligence (AI) provider for the Seattle Seahawks. In addition to moving the vast majority of its infrastructure to AWS, the National Football League (NFL) team will ..."
 publishedDateTime: 2019-11-25T18:16:00Z
 sourceUrl: https://www.seahawks.com/news/seattle-seahawks-select-aws-as-its-cloud-machine-learning-and-artificial-intelli
 type: article
@@ -23,6 +23,6 @@ images:
     height: 393
     title: "Seattle Seahawks Select AWS As Its Cloud, Machine Learning, And Artificial Intelligence Provider"
 
-secured: "1et11gbR1S7C63vBWZ85SZd0UlviV8q/1VCQJ0f7IibsQb2vVRjvwDCwUlA2nP6HZ8ZJTo795A+fGjPmdhE5/qrd/5xvSrdMMjLR6DxyT7lU0X7DrjsKAz2UYuuns9LO34plkqUo2R1ImAKI7SQ1GMiit20/BoWJwUzLc01H2/SCmBDLGFVDkUwrt+PK0mmMd8ujf6IQRv2wX4S58rjQdJWkK6ojJ9UQP/LI3OnUrRsPYnUiUzIAwK+S5Yl55cPuku9ypGjN5H4II8T7nP9YZA==;jdgdgPVdZHew2iSORiQoFA=="
+secured: "LxWJHkBfEJpVpL4QPPdTJ5y4hCDnyKHwTspLVE+QcTYwYslvXlEdrIYkB1vH2OAo4+4nXSgYgZYckt/Wo5zVsDezWPPHhumwcPqnG96Pd3dKdvl4pa9RAHqIP80WLSXetogfm9aQ1K7IevMIYHtMwVT/5GQEfsfwK8DHvydWC3kU3DyzPm/2z2CMOPkY1CiNsaFB9EzXd9wrG0sFBeB2ZqogJKdtrw+AC566tWrPOc0rts/d1jlZQ1BVOccbRSUFtV7BrPuJd/1fuk+MI1cSCg==;EyhL0trQjSdJeBABc5EIyg=="
 ---
 

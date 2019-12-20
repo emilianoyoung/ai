@@ -123,6 +123,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "National Defense in the Age of Ethical AI"
+    excerpt: "Picture a similar scenario in a future war zone—with the agents replaced by soldiers and the drones armed and fully autonomous—and you can begin to imagine how artificial intelligence (AI) promises to reshape global security. The stakes are high. According to Secretary of Defense Mark Esper, “whoever gets to robotics and AI first ..."
+    publishedDateTime: 2019-12-20T18:43:00Z
+    sourceUrl: https://www.theatlantic.com/sponsored/booz-allen-2019/national-defense-age-ethical-ai/3235/?preview=1
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
+        width: 700
+        height: 424
   - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Drivers, Restraints, Market Demands And Forecast"
     excerpt: "Dec 20, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
     publishedDateTime: 2019-12-20T05:49:00Z

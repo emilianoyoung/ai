@@ -65,17 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
         width: 700
         height: 337
-  - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
-    excerpt: "Will we see 'Full Self-Driving' made widely available by the end of 2019? It's been a few months since Tesla's 10.0 update brought Cuphead, Netflix and YouTube to some of its in-car systems, and it appears more options are around the corner. Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game ..."
-    publishedDateTime: 2019-12-20T03:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/19/tesla-fsd-stardew-musk/
-    ampUrl: https://www.engadget.com/amp/2019/12/19/tesla-fsd-stardew-musk/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/19/tesla-fsd-stardew-musk/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
   - title: "Musk: Holiday Tesla Preview Adds 'Starview Valley,' Self-Driving Preview"
     excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
     publishedDateTime: 2019-12-20T15:30:00Z
@@ -87,6 +76,17 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 68
+  - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
+    excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
+    publishedDateTime: 2019-12-20T04:34:00Z
+    sourceUrl: https://news.yahoo.com/2019-12-19-tesla-fsd-stardew-musk.html
+    ampUrl: https://news.yahoo.com/amphtml/2019-12-19-tesla-fsd-stardew-musk.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2019-12-19-tesla-fsd-stardew-musk.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
 
 secured: "LdpYyPivLZuyNU0oyBHxyujV+JUOUnDb1NVKdDgikx4w0X1/wPyIqkOOxx501iU9e6QSh4w9bIo4O2JSdeYanlE8yQ+Uvdrb4N9rb9HIHS2LSkX6BDfCN+Tqm6IetLbNyNbAASI4CuIDxddN26PdlBlcatPFEKu+4Af/0FPZTsR5pdqsuOsTo8AaIUMMMANjgqgjuXpkXY7Wwl4ZN98g/LfsUMz+00inkFAo18BVIkafguBVZcLQx6uKaO0gZFn5C1etAaP0srDBIgIq6a3Lmw==;zC9yYLoyuQNQ1dbE4tOj4w=="
 ---
