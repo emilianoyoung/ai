@@ -3,9 +3,9 @@ category: news
 title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks. Kicking off Juniper's fifth annual customer and partner ..."
 publishedDateTime: 2019-12-07T05:56:00Z
-sourceUrl: https://www.zawya.com/mena/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
-ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_161467497/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_161467497/
+sourceUrl: https://www.zawya.com/uae/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
+ampUrl: https://www.zawya.com/uae/en/story/amp/SNG_161467497/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_161467497/
 type: article
 quality: 55
 heat: -1
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.04856CB1FF89EC764AB87680378F236A
         width: 700
         height: 525
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T20:59:46Z
-    sourceUrl: https://www.msn.com/en-ae/news/other/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks/ar-BBXU3yq
-    type: article
-    provider:
-      name: Khaleej Times on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.57168E8DD98B702C107797E5265C3559
-        width: 700
-        height: 367
   - title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
     excerpt: "Neural network for projecting onto the EMT–MET PHENOSTAMP To model the non-linear structure of the underlying 2D EMT–MET state map, we constructed a single-layer-hidden artificial neural network model using the above six markers as input and the reduced 2D t-SNE feature space as a bivariate response. Specifically, we used the six input ..."
     publishedDateTime: 2019-12-06T10:34:00Z
@@ -68,6 +55,6 @@ related:
         width: 500
         height: 685
 
-secured: "YYwvRS99Es2x8LSFceFYrHQ47xq5PAFQyqh+qw+I4AzMar9rKu+ySaBNsvxxdrXQqq8OEyMFmF3b+JlDA0idjm0f/X8PeBjUMZ5CvLLJZm4Lhd4YCSLBXt2w+qU+GqBFOUldSEfp2fDtjSaRHoK1Cg8g2liFQfb5NRWUvGp7lZH+wAT1Ze6eVwxCr1dEHzK9ZQ0FIKAS7GN5K5himJlWXIwfy1TiYr2jRenHozcg9t0Kf4wFTG69pN4dU5enLzmfzua1xqJnOBnk76L0aOHjRw==;yNMTzOSOt9j7JCH/8WlWiw=="
+secured: "l71f3ATuykv6iI6txRjBiQqllHxAH3icAZp/6E8zs3YxvjNidxJdLs0ls5b0xilz8GTp1dB+rXyuKluuTe7kwqM/NGn7KWLdvJ+5btUI4YM9FBSfv1QiZaaYGJh1GQktBhR0NGW+LGHKxG3ic3fpT2dTdhWwhrGaOMAHtaEi5gcDAi5f87WS9HwOp9RG+v6i+nnBgh6A8h0V5wHyEp9pJ5/B6AKKFGgIwY42h9VKUdNkE4mUgL+NKXutCza0ZaqFhx7m1dMoMJGPKLusNMmypg==;8bOKnjFwp+0n8NqU7hkWkQ=="
 ---
 

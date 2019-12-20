@@ -8,7 +8,7 @@ ampUrl: https://www.vanguardngr.com/2019/12/emirates-deploys-artificial-intellig
 cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2019/12/emirates-deploys-artificial-intelligence-solutions-in-new-aircrafts/amp/
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       - url: https://www.bing.com/th?id=ON.326169887844D697F07D4EAE4A5A643E
         width: 450
         height: 300
+  - title: "STM32 solutions for Artificial Neural Networks"
+    excerpt: "Robots, Smart Agriculture, and Intelligent Helmet, All the Educational Projects at the Center of Maker Faire Rome 2019"
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://www.st.com/content/st_com/zh/stm32-ann.html
+    type: article
+    provider:
+      name: ST
+      domain: st.com
+    quality: 19
   - title: "BioSig Technologies Announces New Collaboration on Development of Artificial Intelligence Solutions in Healthcare"
     excerpt: "“Integration of AI can open new avenues for improved diagnosis and more effective therapy delivery for bioelectronic medicine in particular and healthcare in general. We are thrilled to partner with Alex and his outstanding team, and look forward to working with them on developing world-class artificial intelligence and machine learning ..."
     publishedDateTime: 2019-12-03T12:52:00Z

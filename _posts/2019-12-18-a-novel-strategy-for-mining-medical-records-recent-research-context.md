@@ -18,6 +18,32 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Intelligent Towing Tank propels human-robot-computer research"
+    excerpt: "Fan’s research points to a number of others utilizing automation and artificial intelligence in science: At Caltech, a robot scientist named “Adam” generates and tests hypotheses; at the Defense Advanced Research Projects Agency, the Big Mechanism program reads tens of thousands of research papers to generate new models. Similarly ..."
+    publishedDateTime: 2019-12-18T12:13:00Z
+    sourceUrl: https://robohub.org/intelligent-towing-tank-propels-human-robot-computer-research/
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 39
+    images:
+      - url: https://robohub.org/wp-content/uploads/2019/12/MITSeaGrant_ITT_Intelligent_Towing_Tank_VIV.png
+        width: 900
+        height: 600
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-18T14:30:00Z
+    sourceUrl: https://www.clarkson.edu/news/clarkson-professors-receive-robot-continue-human-robot-handover-interaction-research
+    type: article
+    provider:
+      name: WTSC-FM
+      domain: clarkson.edu
+    quality: 31
+    images:
+      - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
+        width: 480
+        height: 320
   - title: "Sartorius and the German Research Center for Artificial Intelligence launch joint research laboratory"
     excerpt: "Sartorius, a leading international partner of life science research and the biopharmaceutical industry, and the German Research Center for Artificial Intelligence (DFKI) have established the Sartorius AI Lab (SAIL) research laboratory. On the DFKI campus in Kaiserslautern, the use of artificial intelligence (AI) in Sartorius products and ..."
     publishedDateTime: 2019-12-19T10:09:00Z
@@ -31,28 +57,24 @@ related:
       - url: https://www.bing.com/th?id=ON.B1959BCAC16BB2ACBC617EFE9D7E9E0B
         width: 500
         height: 206
-  - title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
-    excerpt: "The report is the most comprehensive assessment of today's leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant ™ solutions, part of its self-service cloud, surpassed other ..."
-    publishedDateTime: 2019-12-17T14:54:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005208/en/Verint-Intelligent-Virtual-Assistant-Solution-Receives-Highest
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-19T13:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962739/0/en/Clarkson-Professors-Receive-Robot-to-Continue-Human-Robot-Handover-Interaction-Research.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: https://mms.businesswire.com/media/20191217005208/en/638510/23/Verint_Logo_Blue_RGB_High-Res.jpg
-        width: 1200
-        height: 627
-  - title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
-    excerpt: "The report is the most comprehensive assessment of today’s leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant™ solutions, part of its self-service cloud, surpassed ..."
-    publishedDateTime: 2019-12-18T19:10:00Z
-    sourceUrl: https://www.newswiretoday.com/news/172013/
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 11
+  - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
+    excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+    publishedDateTime: 2019-12-20T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/clarkson-professors-receive-robot-continue-130010673.html
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "I9K+IU8hXXEpaZUb8r5zkXO3mvl9iV98h+EbXmQJeXSmQfWabE1FPkdw1NK2axBhG4Y/eRhvY/HVbUmdvIt5CCX6cAhzY8JOcC/pKHtPjjtMEOxJ/96PNZlF2U4SFWPCVKKYJ7YuGuiWH/EGwHyc0hwCmklD0epx3EdkFykv9tzTn3N84lPJKrRhBaTRQZQl02+8bBMEh4rpx/YLi+C0U9TwPu0t5KqWb8GjkhwPgYoe2FXUfCb+rZVdohN0+E6/4Tg0x2TFizCO9HybiFFm8w==;R1YB9ZFibJjfcBiNV0NxZQ=="
 ---

@@ -5,7 +5,7 @@ excerpt: "The team will research ways for self-driving cars to communicate among
 publishedDateTime: 2019-11-26T13:04:00Z
 sourceUrl: https://www.redandblack.com/uganews/uga-researchers-receive-grant-to-study-self-driving-cars/article_ac7078ae-1001-11ea-9bd8-a3548c1a93ff.html
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/d/e5/de52d844-1001-11ea-b8e2-afd13556e3e0/5ddca470088fa.image.jpg?resize=777%2C630
+    width: 777
+    height: 630
+    title: "UGA researchers receive grant to study self-driving cars"
 
 related:
   - title: "Self-driving cars were supposed to be here already — here's why they aren't and when they should arrive"
@@ -77,6 +83,6 @@ related:
         width: 700
         height: 393
 
-secured: "zsAH9AWHeB9mBE/bEZnpIQLYyVk5/prNQkpkzMrRhKUbBkoqrPCfXR3ExrMa8LI2EXePyG36R4ClIELruC/JXQET+U/RU3tWu6JaFnC0K3R/YHc3AhTFqrZvIt+VG68Be65StNok5FVKFZ6EmwzhXi9LaidNsipOUOBwM3aX9Xh4vLwWhVJph8ABVfYVp20FLJhsk6YmPennbXcZdeFKagt8dKIpkv7YaMcSJdcU/6vJ7fgxe551zNHtiuSaKGIuchp+AeisRyLTmVwmFKtxuw==;cr16U7aaOVlti70dLaZzFg=="
+secured: "5yUgJgdDca3jtg+kZwtV9+Cro4aJL5Fitpu1LeggHQxr3OUPmHyXttHqtxcLe06TUV7dogKG69LigvlHycVhlNZqe76uwYketsUkUp2A7mpbZZmCN50+ljAufisasqQrwIWauxqAYDcvz9u66EMNR1QVwj7Q6LoSX45cuPtv7f0Vtk4IW0P4xgvat1rFuqxXIZROwSERjXFpHy0EmaroQSMnKJJwYdilx1ul9Hb7kjAeCL7H7AcmjqNBsb2/2lf2Gt8IQF41Qy4Tlw2xh8BpBA==;1je0F+cqZA6+69VIBDFt5A=="
 ---
 

@@ -1,25 +1,20 @@
 ---
 category: news
 title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
-excerpt: "Potsdam, NY, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Clarkson University Computer Science Assistant Professors Natasha and Sean Banerjee recently received a new mobile grasp robot through a joint Facebook and Carnegie Mellon ... \"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human ..."
-publishedDateTime: 2019-12-19T12:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/clarkson-professors-receive-robot-to-continue-human-robot-handover-interaction-research-1028775437
+excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
+publishedDateTime: 2019-12-19T13:00:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962739/0/en/Clarkson-Professors-Receive-Robot-to-Continue-Human-Robot-Handover-Interaction-Research.html
 type: article
-quality: 43
-heat: 43
+quality: 11
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
-  - Facebook AI
   - AI in Robotics
 
 related:
@@ -49,6 +44,19 @@ related:
       - url: https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-12/robot-grant.jpg?itok=OgYNyCEL
         width: 480
         height: 320
+  - title: "Sartorius and the German Research Center for Artificial Intelligence launch joint research laboratory"
+    excerpt: "Sartorius, a leading international partner of life science research and the biopharmaceutical industry, and the German Research Center for Artificial Intelligence (DFKI) have established the Sartorius AI Lab (SAIL) research laboratory. On the DFKI campus in Kaiserslautern, the use of artificial intelligence (AI) in Sartorius products and ..."
+    publishedDateTime: 2019-12-19T10:09:00Z
+    sourceUrl: https://idw-online.de/de/news729310
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B1959BCAC16BB2ACBC617EFE9D7E9E0B
+        width: 500
+        height: 206
   - title: "Clarkson Professors Receive Robot to Continue Human-Robot Handover Interaction Research"
     excerpt: "\"We are spurring a new area of research on creating artificial intelligence (AI) algorithms for robots that are human-aware. There is a pretty broad research area on human-robot interaction or HRI, but a lot of this research has focused on experimental or toy problems. My research makes novel contributions to HRI by assessing how to ensure a ..."
     publishedDateTime: 2019-12-20T00:25:00Z
@@ -58,7 +66,16 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 11
+  - title: "A Novel Strategy for Mining Medical Records: Recent Research Context"
+    excerpt: "Hence, the data mining process had low yield for the detection of metastatic disease. The new method is a natural language processing (NLP) model that detects the presence and timing of metastatic breast cancer recurrence using clinical notes from the EMR, which is used in several hospitals including Stanford Health Care. In addition ..."
+    publishedDateTime: 2019-12-18T14:30:00Z
+    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83937
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 4
 
-secured: "zwC480bkM5OwIqI1fp5xGxwZiNZ5TpZpAJH2zCRgR05CKq59/9GAtfqxEAZjAU4P6upRL515YjP3egTNPf5mCzKtGPgjAoUfWWFENttorXXL3WCjF5JWdNL7Sh4JipnuRdhwM8VKscEruDiUSy8Pzkf+GlnE16atZBGugj50sZAIT+8mNMMMT0gd4o1NsU7WiCqp6TnSF6gx30FAQOaW410qAJO0wq2HeL7b2CE4BD7L9iZizg90fjgbAEtbwzc8653HO1R5NePCoxI+rZQhhw==;mrRPpg+23yJczl53detGvg=="
+secured: "GfZdc7016+p+l5WQPXlvwwjtLY8JVgPoXXz7A+uhvuayGtaM7m95XcQRAvdPJeTE+zP4U14cyHrc4LAuQ6u3T/hf7CecDbq1Ntic240jAWgfvplwGG3gj8n2RPQIdYEljQqZN5y9zPtdH8ZWmQ6q3SnRdh1GMVQr+rJoB6HIAfR2rilweAmQS+xf7n/cUnwTUz5SpGIVp+Xphi24le2A/K8F+X8wYA4+uqGIpBhsN8xAmEIT8ZJ9CYSkexdihKGhB+hKYHDML+Grp2IXouOErQ==;ZWJllHHflMl7VMMHo/q3zw=="
 ---
 

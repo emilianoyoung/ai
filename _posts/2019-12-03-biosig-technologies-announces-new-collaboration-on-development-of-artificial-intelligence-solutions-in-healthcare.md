@@ -61,6 +61,15 @@ related:
       - url: https://www.bing.com/th?id=ON.326169887844D697F07D4EAE4A5A643E
         width: 450
         height: 300
+  - title: "STM32 solutions for Artificial Neural Networks"
+    excerpt: "Robots, Smart Agriculture, and Intelligent Helmet, All the Educational Projects at the Center of Maker Faire Rome 2019"
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://www.st.com/content/st_com/zh/stm32-ann.html
+    type: article
+    provider:
+      name: ST
+      domain: st.com
+    quality: 19
 
 secured: "g7UfPiP1E++00nHsGTfjJfP0mPnnSelmtrV0alB0urPkeZ62R9AjFNGHcEIGktbkhk72j5s1x3wa5z3PNtiQ4d5j2iqt9M/EruxbhqNaaa0DXVNpBGR6WCF8943G2QgUopMAL3zgrok64w0vfL9WDFihIa95+TyFOnvKBXIZ8bVqw7xrng+UB4RkmfndwbW+JRevR4EhFi7IMsTJNWrnwwD7HgHc3aGdZFYNfrjGs6EkGZ1CwRbkLhcQuQQqrFT/2R4qZVi7lMNAdPXRY1Lo3Q==;Fj+65LpTdguL4hgy2w5dHg=="
 ---

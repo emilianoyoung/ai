@@ -38,9 +38,9 @@ related:
   - title: "What is Deep Learning? Everything you need to know"
     excerpt: "That means taking in data from the world around us and forming ideas about how to optimally perform tasks or understand new information. Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information ..."
     publishedDateTime: 2019-12-20T10:00:00Z
-    sourceUrl: https://www.techradar.com/news/what-is-deep-learning
-    ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
+    sourceUrl: https://www.techradar.com/nz/news/what-is-deep-learning
+    ampUrl: https://www.techradar.com/nz/amp/news/what-is-deep-learning
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/what-is-deep-learning
     type: article
     provider:
       name: TechRadar

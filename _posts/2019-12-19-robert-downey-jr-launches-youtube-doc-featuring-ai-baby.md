@@ -2,18 +2,22 @@
 category: news
 title: "Robert Downey Jr launches YouTube doc featuring AI baby"
 excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
-publishedDateTime: 2019-12-19T16:07:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-50851409
-ampUrl: https://www.bbc.co.uk/news/amp/technology-50851409
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50851409
+publishedDateTime: 2019-12-19T16:03:00Z
+sourceUrl: https://www.bbc.com/news/technology-50851409
+ampUrl: https://www.bbc.com/news/amp/technology-50851409
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50851409
 type: article
-quality: 57
+quality: 87
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -84,6 +88,6 @@ related:
         width: 700
         height: 367
 
-secured: "8e5RvVFG3g6/ED1mjSJtvOm5YnD1OyRFZFRTbr3S/gfHIwU2YzP3H+lvA/AjMDH6+8jKzwAM9JjNJLj+TNChE2s+DhvKIbGk+uNZ2XQhPTzaplohGuaj4JDAT1GOpgpUKVkvviFfx5gMo7Ewtik4oFGYHp1ORZKHt9Jv+qE6jv1Qv1jLjDcHWsVbRArjwyX4Zi7+tj9z1ocVuGkk9F40kYCNzRCTujcJM6vZZjd3GcCZchyJL4SkZ3qEGzGS/XmPkst8r6/9kDl5PwwKvhRmqw==;u8SLYZXcc01h2F8E+uCtng=="
+secured: "eNC7JJe+mCF000srBzdeAzxM45Gn1O5e1885A3nhEMQK2vxE2T/irjAkn/NWPxSa/fu1ADT1OmTaAKIf10AtPCQTBAVgQOGAUIaFIJaVNL627KQFyIhnE6+h79EjehYOkF+LLpH5TRMIpRkECN5D14v19ZfW5z6o6duMLKGpLfh8V+orGJHVhU2JrAna3vcQVckNUNnVEqaurA1UL7zM60iDrRb0h8JSbFSNW/oAbdcRqbx917l3kYeH25IPrk6gB6QX3SzECyyFVx64g9hxug==;ESGgKLrSf2N9Kr7AIeol1w=="
 ---
 

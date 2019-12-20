@@ -1,27 +1,26 @@
 ---
 category: news
 title: "AWS beefs up SageMaker machine learning"
-excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training, and optimisation to monitoring the performance of models in production. Launched at the Amazon’s ..."
-publishedDateTime: 2019-12-06T04:49:00Z
-sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
+excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
+publishedDateTime: 2019-12-06T00:00:00Z
+sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.C4ABF858833B93FD4142DDE6C62C62B2
-    width: 700
-    height: 437
+  - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
+    width: 800
+    height: 500
     title: "AWS beefs up SageMaker machine learning"
 
 related:
@@ -260,6 +259,6 @@ related:
         width: 700
         height: 365
 
-secured: "PG3876K/LjhDpvZiLRhbTnZjiHd0Gntzb76JrCw9GbNuLNaIptbZkd0ahil7T5yqj9ofgl45Wf5pqdnO3Idw5X6oLfJ8H9nQ4W6GOu3rkiWdk53LgiBQeR0vHzIyNJIrYEUbsfwJzzUfN9tqxy8MJCWi7ePaMiF+lQq/cqbpElK6A7e/1ZHCDVaXAHo6WhTfhyBignfoWHJ5uG+3kyg2iQ9zxWPmVrvdgfPfTuGgSbldVoynQZawZX19zmQLX76eNXuAxgagujRQHvmkDh4MIw==;1TtdWSGbnS813jI4xXFCKw=="
+secured: "dWQn3+uWwHghEUMkl8N20CJIZLp75kYsxD6+JSJ9ZDS6KWEDdmiReH/iOEyTtuzJxwJ1zPPFcz6ARY+wzyUGAnkxlQZYHzQBiU3B4HDaRwFsv17lw3ctqyG9OjNsC6aGu3bhyveAy4CQjAJ9t0NlBD8KjEp+eJaoLZD2pRfjqdfWPYoNz0CVcNZLa9s4us9Y7419AlGCLlSvOhLI10GirvNfuq8nf9B3oEFUUI2WsyGj29otNPNqnkWOtcgH2bc00Ze0EMGo9CSWggwofkqxKw==;uxIq2teL7od8gN1yuDtX+w=="
 ---
 
