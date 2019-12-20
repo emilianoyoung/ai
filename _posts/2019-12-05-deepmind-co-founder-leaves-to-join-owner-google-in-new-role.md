@@ -1,30 +1,26 @@
 ---
 category: news
 title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy over some of the projects he led. In a blog post Thursday, DeepMind said Suleyman is ..."
-publishedDateTime: 2019-12-05T17:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+publishedDateTime: 2019-12-05T17:34:00Z
+sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.28A3294418918B7ECE3E4E7AFB516472
-    width: 700
-    height: 503
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
     title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
@@ -111,6 +107,6 @@ related:
         width: 580
         height: 358
 
-secured: "ejHC3cjnMGPM6IuZ33lwWAVY80L2ITswD53ecl/ZLvAzPXHOLrfklxYpc4Jx7M1OPT8jWxdHTNGNwTP/m3T+bSOdLHAB4SF1YczeGbpP2dZFCkbmtKLeLBDOqaEc/E6rpvGPFoUEr/tfP+/Aezcn5ZsPZerA5w022QPdpO8pfTsDumjTQWU7AYdth/DG+GIF70+ojVWrcDXQiphndbTmhQ2H5zi0XPxW6wCLaFRcmaEJlh2d9ye+Jem8dJGQ2oNM0Jc6+Bgkdc6Sjnwm9j3epg==;x1iRC8yUOwD0CUvkL6Ocqg=="
+secured: "HH0AwG3aVFaeMD94cye11oN9G0AEGWGls0zqNDNoxHw5yvT88UsN9wfH4lMKjf8hG9dxm6bzjfPvqZlY/J0BbkST1neda3SWoKKVtJExrHGLoxh0JGFBnGLv0P+M8JWCiyaWk3lc5z50uJR8BbByq1C8kns8jqICRfnHLhi6caRqS/YY3VhY7CUNFQhPeKozU56LNS3vHNMCH9QVt92SWAs0LAwneXdGlTqYWk+cb9Bd9L/gX3mKUX94OgaV5lKRH4IyL6OFk1GKDoUSbgN5QA==;1d273z4Y/2JS38U6ZLiaBg=="
 ---
 

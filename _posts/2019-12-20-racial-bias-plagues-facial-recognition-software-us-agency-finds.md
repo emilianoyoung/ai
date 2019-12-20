@@ -509,6 +509,21 @@ related:
       - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
         width: 1024
         height: 635
+  - title: "New study shows persistent racial bias in facial recognition"
+    excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
+    publishedDateTime: 2019-12-20T21:23:00Z
+    sourceUrl: https://www.dailydot.com/irl/facial-recognition-study-racial-bias/
+    ampUrl: https://www.dailydot.com/irl/facial-recognition-study-racial-bias/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/irl/facial-recognition-study-racial-bias/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: https://www.dailydot.com/wp-content/uploads/2019/12/facial-recognition-racial-bias.png
+        width: 1000
+        height: 500
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
     publishedDateTime: 2019-12-18T21:18:00Z

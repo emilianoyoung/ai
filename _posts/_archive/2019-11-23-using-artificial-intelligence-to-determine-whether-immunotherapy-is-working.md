@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunothe
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Using artificial intelligence to determine whether immunotherapy is working"
 
 related:
+  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
+    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
+    publishedDateTime: 2019-11-25T05:10:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 71
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
+        width: 675
+        height: 365
   - title: "How artificial intelligence (AI) is improving immunotherapy"
     excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
     publishedDateTime: 2019-11-25T14:38:00Z
@@ -38,6 +53,6 @@ related:
       domain: labroots.com
     quality: 69
 
-secured: "kwT94bFkqLCXp2kwj47bhXRiJjIMpXKHcVykkhgxUv4aB76dl3L3f+YjgMvxKVQb2PkZq452G5TAM3nWgh0MVTL1MWW/l1yNPZIuVQcalsXnJaZ3mW44O5TmNruqOCcA6DTA2oPYpPtnxe8eArjGTYkf9QOXp5TK5OmlFL0vUUvGSbHX+OoivK/eNZJCwlJ4uLWDQz/EgLQKNc5ps6g4cBIK2qqh5pxwzaeQgBRnpzwFsyP6lj/aFxfP2CxmJfnMJOU+oGF6aC4QFV5Cl4M+1g==;+vN6+mEvWGmwiKDfhSLDdQ=="
+secured: "kmypDJPfK75217rkXbAXa3PzDwq28NmzOfjaLVfeI5djfb2tBJH0hvQ+XDcXOM8HeneF0ztpru5ZwI8GoQHcCnCLRElxYdi9vORWhyb1vjRa6ZvYYABdjv/C09vt+L1lsWtFUwS2l+fjFFgYCbhWerc+vlZng8vKHUr8sgU1e726SqR8X6jX1KpueCI6Lq/YrnMKmAb1MEy135UyruD7W6qPNXT3K73BZA423QwjXOlqHji7tyaB9oft5KeERnJsWxUbs0S755dV5pbBtYxzoA==;parNu5LdUNvALmHEGtkhbQ=="
 ---
 

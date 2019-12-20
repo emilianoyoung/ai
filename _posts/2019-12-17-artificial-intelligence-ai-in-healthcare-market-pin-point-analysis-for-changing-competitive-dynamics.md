@@ -151,6 +151,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
         width: 400
         height: 518
+  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
+    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
+    images:
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
   - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
     excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
     publishedDateTime: 2019-12-16T14:13:00Z

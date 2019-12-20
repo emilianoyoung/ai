@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Intel Buys Israeli AI Chip Startup for $2B"
-excerpt: "The combination strengthens Intel's artificial intelligence (AI) portfolio and accelerates its efforts in the nascent, fast-growing AI silicon market, which Intel expects to be greater than $25 billion by 2024. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the ..."
-publishedDateTime: 2019-12-16T17:04:00Z
-sourceUrl: https://www.lightreading.com/artificial-intelligence-machine-learning/intel-buys-israeli-ai-chip-startup-for-$2b/d/d-id/756319
+title: "Intel buys Israeli AI chip startup for $2B"
+excerpt: "Habana’s AI training chip, called Gaudi, is in the hands of certain large data center customers for early testing. The company said those customers can expect four times the performance compared to equivalent systems using graphics processing units. Additionally, the company has a chip called Goya that is already available for commercial use ..."
+publishedDateTime: 2019-12-16T14:40:00Z
+sourceUrl: https://www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.html
+ampUrl: https://www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.amp.html
+cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.amp.html
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Light Reading
-  domain: lightreading.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://img.lightreading.com/lightreading/LR_fb_button.jpg
-    width: 600
-    height: 600
-    title: "Intel Buys Israeli AI Chip Startup for $2B"
+  - url: https://www.bing.com/th?id=ON.23BB0609B89D51DCEDC657FB7DCE244F
+    width: 700
+    height: 393
+    title: "Intel buys Israeli AI chip startup for $2B"
 
 related:
   - title: "Intel acquires AI chip startup Habana Labs for $2 billion"
@@ -727,6 +729,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "mdViBBDMbUooeH7zLJwTGEBead9ebpwoPBKvy32pQQuJGibYR7IRYqnJI/dLNaw61Bieua1WfXLLSJs18vyvjM64cG5jJ7XiIC9tKEEU5hMLeQ3nEJJ+YFdCVermLYv3KJn2nQ1YuS5GC7YXTeiWoEZ2YxozQzLo4yv0fsd+0zioqUP1oP1Xulp9w0PQOwjzrtWd1UmtbzdVjmVvjMK0oIDAK9JJBK+ZimcZQ3qoggIyZveRuWZO+Udn+6doYxc7YnLplHhGnG7ooM/6JfRYww==;jAg7Gxpz8AiugtI2q6nggQ=="
+secured: "wghrwlo5WIyV8CG24xbbaEIkCMxhyUF33Hp6EYczvDf8BPtBNIZEL15BUkgs5ksMeF6IZVOP2K7Zfm33hpHY3SH30V8eWBykjRTiWiO8n498qXJGQ5mGd3IoIu11N8W2uT13cC50PD2bzE1eePU9/WZF8VgYar8SqcCB5iFX8aqhx+bGM8HD7wF8+2pBb5PIKRdELvOLahc1XeFSLwwOZdb7bwxutz92rMy+WzEHY0uPn+5sxbtOk7Wv+O2LT9V0I1CAtlbBg5jtTYSubH1iFw==;gZA2jrnIKlVwaQ8Vnrb4bA=="
 ---
 

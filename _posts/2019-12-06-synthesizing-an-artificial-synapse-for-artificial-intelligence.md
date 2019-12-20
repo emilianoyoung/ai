@@ -25,19 +25,6 @@ images:
     title: "Synthesizing an artificial synapse for artificial intelligence"
 
 related:
-  - title: "Development of consequence models for two categories of fire through artificial neural networks"
-    excerpt: "Find more information on the Altmetric Attention Score and how the score is calculated. This paper demonstrates the successful implementation of an artificial neural network to accurately predict the designated thermal radiation distance for jet fire, early pool fire and late pool fire hazard consequence analysis. Specifically, integrated ..."
-    publishedDateTime: 2019-11-30T21:22:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acs.iecr.9b05032
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.FE6DF5BC8E80657F0C29A204E5AB005F
-        width: 560
-        height: 283
   - title: "Organic molecular crystal-based photosynaptic devices for an artificial visual-perception system"
     excerpt: "Recreating the visual-perception properties using organic electronic devices is highly desired for visual prosthetics and artificial intelligence. Although the integration of organic light-sensing components with synaptic devices can realize the recognition and memory functions for perceived images, complicated problems in device integration ..."
     publishedDateTime: 2019-12-12T23:09:00Z

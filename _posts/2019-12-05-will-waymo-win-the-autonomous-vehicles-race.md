@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9C2202FD1628604BF67BA0B698DAC65E
         width: 700
         height: 341
-  - title: "Autonomous Vehicles Aim New Highs With Driverless Tests"
-    excerpt: "The company has a partnership with Lyft to supply high-tech kits that turn vehicles into self-driving cars. Additionally, Ford expects to launch Level 4 vehicles in 2021. Baidu and Volvo have also partnered to launch Level 4 vehicles in the same year. Further, Elon Musk has stated that Tesla will have Level 5 electric vehicles ready by 2020."
-    publishedDateTime: 2019-12-06T15:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/autonomous-vehicles-aim-highs-driverless-132001217.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.C7BC6511665B69F9A6A58325F86A4D0B
-        width: 635
-        height: 400
   - title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
     excerpt: "WekaFS was architected to leverage the benefits of NVMe flash technology, delivering high-performance, high-bandwidth, and low-latency storage infrastructure to meet the demands of today’s GPU-enabled AI and HPC workloads in the data center and in the cloud. WekaFS is the world’s fastest and most scalable file system for AI systems ..."
     publishedDateTime: 2019-12-11T16:20:00Z
@@ -78,6 +65,15 @@ related:
       - url: https://www.bing.com/th?id=ON.A85B223100426780EFC54CB2F0355D0E
         width: 700
         height: 642
+  - title: "Autonomous Vehicles Aim New Highs With Driverless Tests"
+    excerpt: "The company has a partnership with Lyft to supply high-tech kits that turn vehicles into self-driving cars. Additionally, Ford expects to launch Level 4 vehicles in 2021. Baidu and Volvo have also partnered to launch Level 4 vehicles in the same year. Further, Elon Musk has stated that Tesla will have Level 5 electric vehicles ready by 2020."
+    publishedDateTime: 2019-12-06T13:20:00Z
+    sourceUrl: https://www.msn.com/en-us/money/topstocks/autonomous-vehicles-aim-new-highs-with-driverless-tests/ar-BBXQNcI
+    type: article
+    provider:
+      name: Zacks Equity Research on MSN.com
+      domain: msn.com
+    quality: 34
 
 secured: "jkUsvappkcQwG9mUtV2z/t9hBiO6l57Qy8pbc28qJtjbCpvQiy1l1s7EjfIz/LwsDj+DUiZL6sgjURhDyaO5iACIB2na+17ECtcaYmc1dvKpaCaZr0qEMWWGFu6//+vAgxgBTXVLy5J//tkcSE0wrvoUxr++74KfodhDtI/BMyCGUlUPeU61qdriLUOc8Q3gG7ymMq287H5pyJ1K4+EUCqddq3lHmNMcejsxsJt3WDdpgbyH0riS6rj8yV7grvK/bbPu2jPKWHgusddejPPgWw==;+IArpuGdAXFRvOLS90nzSA=="
 ---

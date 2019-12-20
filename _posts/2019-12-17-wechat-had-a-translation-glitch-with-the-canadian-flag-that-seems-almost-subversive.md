@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-p
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
         width: 700
         height: 493
+  - title: "Compensation: Lost In Translation"
+    excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
+    publishedDateTime: 2019-12-20T22:05:00Z
+    sourceUrl: https://www.industryweek.com/leadership/companies-executives/article/21953642/compensation-lost-in-translation
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 4
 
 secured: "FVDeTTf0VJxbSWQGM+6Cw8fC0hiPJmvT4Lovp9yfMczXAUI4ITq9Ajwz1KYoNH0Hb48+XdkKtlkG7GyneeB0aMWTBXHdKUE14v38D1LR4QzbYyKu8u1XYcKZ5PWR5hhIsyK66uNM3q9lMc1lNWmZNLdHgOjLZ7BXWMqyOt9xwKvjYVXuVzxN15irQ7e//TUbPNbwlJRC3zRJRmKevqb4vWs0F7sj/eOp5tsP9N59dftcXTXbb0cvUtSh+/9yTaKEmmnE7356TT6guZ+XFeeC3g==;nEZ+O0TdQW3RwO5JUGzcLA=="
 ---

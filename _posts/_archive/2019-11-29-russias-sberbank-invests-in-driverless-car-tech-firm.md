@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Russia’s Sberbank invests in driverless car tech firm"
 
-secured: "BrDHC+7TTgw8AWHIdxu9oJ8R5JZjJKrEELiMA+yFMpdrXCWRqzuSNi3gN9toizV9aUaTy5cYi1NWwcpmOi2/TVg+SZ2NLMC4nzRUPqN5iNgyYfloH8N7qth2F1YNLV/jgaGFdb1KirCwkjOu3Xhj3Vog2os+9cmiJAOhBPyjCFyVonFHoJV0JFE3vATSK6sI0J/zGO/l6vk/eiNaGc6RVYw7LaieS26TuXADV13oc31Y8MLxTKYBxnldNFVqzAQPawSo9LVPL4LFr8X2TxV1yg==;BsbhYimzg91M/PF/sk114A=="
+secured: "x+Fn8ynuH1c2/Ik8VTIAUOeoktEPAZygHDql4vxTktXftCpXqr3phUYi4ZQTwjoHnWNvS50J8PbsETP7wlVB5zIpqUYmKb3I7T6sdgmF8fvkflquv5EQrNumj7Ta19+NmI7lXK8TiZ+nwxT9F/KhANCwyEkKoqyObxNav6j2soZAHXhSwt266hOgwWJAozk1fZZA/3NiTXbavhTabnAOc/6e3ntwIg8n2ShwfJWMmOfr5iiIdcMdo+hfHbK1K1u3p3PU+/gTm4w4pHcw9912lg==;8aRplzC8GoC25JQN8TZcgQ=="
 ---
 

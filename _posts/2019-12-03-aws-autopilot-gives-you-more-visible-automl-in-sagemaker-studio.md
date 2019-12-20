@@ -54,11 +54,11 @@ related:
         height: 391
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T19:27:00Z
-    sourceUrl: https://au.finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
+    publishedDateTime: 2019-12-03T19:18:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
-      name: Yahoo7 Finance
+      name: Yahoo!
       domain: yahoo.com
     quality: 39
     images:
@@ -79,6 +79,6 @@ related:
         width: 512
         height: 512
 
-secured: "Yv233tK5FJS2nb2hTOaU9Nku20yPtCebqFveTrBKbJBEW+DSX3cSdUW32QmyK2SWeyv96ATz66CYKxOTov/KnOxsZazlpstS2MVPE4lOX+o62bS0ZTBvPqEOsBAPEc3Hm0Ublo4LjsyMbJu3wvuIfPfwMtkQrh4JYtPcKA9qhOeCZL3/Nji2iRVBDPSDORKB11dkigQsXwsUL4U4Py/CVCexVsoxCoaXzeWgS+0X2TvF9D2/TShwFyc02nHU0WnhnLRCSlAyg+t1mq/rSNmCFw==;c2gVP76o741NX1squ53ZXQ=="
+secured: "F5jQComfJ8K1iivbUhWF+JTxUpztkEo+1y8aXeXsn7rdq32rakvOvIWNK7JEMoOFFl7t2R0SHmoGSQIQlsHzi6Vvp/yczjHHs+UzQXvq3MwFwkpNgRvs+u1RIkZ47O+9GmQj1D8bybcCyX6pbpgZ5SLwph9R9UCK5r5KxEc0BRnYfKjpiU2EQLZ9e4YPP+ZeXFHpI3UxMya5PnPaTndzGDqHDl9VUyBltU2W+q9DNRj/a9kS1fvbEraOxjSK04lOP109RYOs+lCNNHRsK3SbQw==;qmv4d9EjkNP9jurVxB6wrw=="
 ---
 

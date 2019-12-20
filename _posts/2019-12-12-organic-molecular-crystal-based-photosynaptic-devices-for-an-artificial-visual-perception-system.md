@@ -36,19 +36,6 @@ related:
       - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
         width: 500
         height: 700
-  - title: "Development of consequence models for two categories of fire through artificial neural networks"
-    excerpt: "Find more information on the Altmetric Attention Score and how the score is calculated. This paper demonstrates the successful implementation of an artificial neural network to accurately predict the designated thermal radiation distance for jet fire, early pool fire and late pool fire hazard consequence analysis. Specifically, integrated ..."
-    publishedDateTime: 2019-11-30T21:22:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acs.iecr.9b05032
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.FE6DF5BC8E80657F0C29A204E5AB005F
-        width: 560
-        height: 283
 
 secured: "jhlSVwtaoGzTiEttfqhNIC9cUIFWAyVtD+CPMcUweeKSze/4dxfGgnutFGVdBaVMe2mafUEwOimXbUMXuPqNEzWCl4NARdpezMpe/0P8hAt0S1PqGQ2qj5TBmF/kDsIS8I56yHCm6zLdlP0kLlvoVTENyCuqaBzCbT9AnLRtJJjwD/uTzoFAT5lyqHN5bIS4huLKYyoxNZGGPLXfT5ycSdlG3ecP8MJtRRM+FMoRLLVJwNU8qwfGXJTTnqi/eDwkg5qsx9h/f5ldC/pHdK68ew==;vtCgs6hkMTWCxaV5MsmX6w=="
 ---

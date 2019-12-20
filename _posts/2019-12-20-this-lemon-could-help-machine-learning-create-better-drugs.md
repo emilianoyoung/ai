@@ -1,27 +1,25 @@
 ---
 category: news
 title: "This 'lemon' could help machine learning create better drugs"
-excerpt: "WEST LAFAYETTE, Ind. - One of the challenges in using machine learning for drug development is to create a process for the computer to extract needed information from a pool of data points. Drug scientists must pull biological data and train the software to understand how a typical human body will interact with the combinations that come ..."
-publishedDateTime: 2019-12-20T05:22:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-tc121919.php
+excerpt: "Drug discovery researchers have created a new framework for mining data for training machine learning models. One of the challenges in using machine learning for drug development is to create a process for the computer to extract needed information from a pool of data points. Drug scientists must pull biological data and train the software to ..."
+publishedDateTime: 2019-12-20T22:57:00Z
+sourceUrl: https://www.sciencedaily.com/releases/2019/12/191220074256.htm
 type: article
-quality: 39
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://www.eurekalert.org/multimedia/pub/web/220265_web.jpg
-    width: 720
-    height: 443
-    title: "This 'lemon' could help machine learning create better drugs"
 
 related:
   - title: "This ‘lemon’ could help machine learning create better drugs"
@@ -37,7 +35,20 @@ related:
       - url: https://news.uns.purdue.edu/images/2019/lemon-medsLO.jpg
         width: 800
         height: 521
+  - title: "Attribute driven inverse materials design using deep learning Bayesian framework"
+    excerpt: "Here we present a deep learning inverse prediction framework, Structure Learning for Attribute-driven Materials Design Using Novel Conditional Sampling (SLAMDUNCS), for efficient and accurate prediction of molecules exhibiting target properties. We apply this framework to the computational design of organic molecules for three applications ..."
+    publishedDateTime: 2019-12-20T10:32:00Z
+    sourceUrl: https://www.nature.com/articles/s41524-019-0263-3
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 34
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-019-0263-3/MediaObjects/41524_2019_263_Fig1_HTML.png
+        width: 602
+        height: 685
 
-secured: "INWPlqDHTvY+spxtKpKxVm8iGTQVjLgxHa9z24XhfiHjDGjNlGv23LZ+LrEwa4T4xU1Pg516F/Ohj7mydxOGUkNggJzj0bJITFd1nAVAKYlVRNCffmWWO8iAdMUCnRDZbvVcFg7PS+xPrWS6NH/U1WmvBaUO5q9GnVcBhGE0zRpeZP+wxqJs4RngpxrqNDNHk6fU3e6HYD8nxj4E1a0Wy8bpeC5qYNpx84Hqdml3zNw3gzfGUJV6HHsP2XAMzqYPpjrXzI/Im/7PM1ckSON/Lw==;5og6TtySwpKuw5mvTv+rQA=="
+secured: "1ATMNOHZ27ETHD55sbkglwDXOMmYb92fOwsQgGvilQYa0KCTsdHbm+lZWsBhP2adlR2GlJTJRMedz9UzovuY5KS1OvXiNzCVmnwEUqUw7kVWuJcpN2NGYTYIuQdCG5i2vKQ/NPX8ayGdaP6OLCxQiLhBAymrrIMTsHHvL69w0fJrIRGYO06VwckgfejYsZKmAKIJ88gpDeuAQI2Dj91PgNhsNRZexvIDOsvQtrGMIqbOHIDbHDv8K+C4UXSR6WqZgXe1Meg+gn2KkDVWH2fcCQ==;syxXJabqNs6c5hkK/f98MQ=="
 ---
 

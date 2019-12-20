@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
         width: 700
         height: 337
+  - title: "What Does Tesla’s Self-Driving Mode Really Look Like? A New Software Update Gives a Sneak Peek"
+    excerpt: "Just in time for the holidays, Tesla is releasing an update to the software that powers its sleek vehicles, including a new game and even a preview its much-anticipated self-driving mode. A specific release date hasn’t been announced, but word of its impending delivery comes straight from Musk’s own Twitter account. In it, Musk gives a ..."
+    publishedDateTime: 2019-12-20T22:16:00Z
+    sourceUrl: https://robbreport.com/motors/cars/tesla-added-a-game-and-a-full-self-driving-preview-in-its-new-update-2888942/
+    ampUrl: https://robbreport.com/motors/cars/tesla-added-a-game-and-a-full-self-driving-preview-in-its-new-update-2888942/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/tesla-added-a-game-and-a-full-self-driving-preview-in-its-new-update-2888942/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 47
+    images:
+      - url: https://robbreportedit.files.wordpress.com/2019/12/https___hypebeast.com_image_2019_12_tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk-1.jpg?w=1000
+        width: 1000
+        height: 563
   - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
     excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
     publishedDateTime: 2019-12-20T04:34:00Z

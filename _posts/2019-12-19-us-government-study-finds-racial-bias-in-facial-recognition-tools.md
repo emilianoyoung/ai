@@ -498,6 +498,21 @@ related:
       - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
         width: 1024
         height: 635
+  - title: "New study shows persistent racial bias in facial recognition"
+    excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
+    publishedDateTime: 2019-12-20T21:23:00Z
+    sourceUrl: https://www.dailydot.com/irl/facial-recognition-study-racial-bias/
+    ampUrl: https://www.dailydot.com/irl/facial-recognition-study-racial-bias/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/irl/facial-recognition-study-racial-bias/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: https://www.dailydot.com/wp-content/uploads/2019/12/facial-recognition-racial-bias.png
+        width: 1000
+        height: 500
   - title: "Racial bias plagues facial recognition software, US agency finds"
     excerpt: "A sweeping study backed by the US government found facial-recognition programs misidentify people of color far more frequently than white people, indicating racial bias plagues the software. Algorithms wrongly matched photos of black and Asian people 10 to 100 times more often than white people, according to the study from the US Department of ..."
     publishedDateTime: 2019-12-20T09:13:00Z
