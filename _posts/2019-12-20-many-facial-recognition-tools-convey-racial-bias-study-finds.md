@@ -163,6 +163,21 @@ related:
       - url: https://mondrian.mashable.com/2019%252F12%252F20%252Fd0%252F810943fa599d4a39974f0bd0e47aee26.bf804.jpg%252F1200x630.jpg?signature=1ceEoEnj3VYNzh59iD28jz0jNxQ=
         width: 1200
         height: 630
+  - title: "U.S. government study finds racial bias in facial recognition systems"
+    excerpt: "(Reuters) – Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+    publishedDateTime: 2019-12-20T09:46:00Z
+    sourceUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/
+    ampUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
+        width: 700
+        height: 350
   - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
     excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
     publishedDateTime: 2019-12-12T22:46:00Z

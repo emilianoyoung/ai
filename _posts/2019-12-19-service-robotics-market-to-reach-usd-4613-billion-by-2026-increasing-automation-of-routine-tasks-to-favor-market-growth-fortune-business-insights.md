@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
-excerpt: "The International Federation of Robotics estimates that since 2000, the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role in boosting the Service ..."
-publishedDateTime: 2019-12-19T08:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/service-robotics-market-to-reach-usd-46-13-billion-by-2026-increasing-automation-of-routine-tasks-to-favor-market-growth-fortune-business-insights-1028774662
+excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
+publishedDateTime: 2019-12-19T09:28:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
 type: article
-quality: 25
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -150,6 +146,6 @@ related:
         width: 700
         height: 350
 
-secured: "KoXRS9ogLqcAJ2Vr/+JV4diekQLz7mn9atJpcHLO7GfC59ipeX+67vwZ6PysDR+COOfbaiLzFlm5rO0Xnuo8FU6fTxAlKeRzCl2z9MWjIMLGVR5eG6+F4shLEt1Sr47oWT/MY7F2tFFfyu1kDQmgwXYS7RT9CNwtiVYylnAbpLgPEX6yU/aXiCXMJQyGZOETOnii9tbZuXPg3+KBct21687lG7P9bE+LES7e+9Qk+s/pXZy6lfqfZL/PI88+H5KelmyLsUBz2bK1gglQpYENeQ==;GfzRmIxGfemAP8cHBeufuQ=="
+secured: "lgZIIXqG1F7DP5GKLc5cR+ryi/++qqK1fiZctQtPEh5PrG3qiDAc1vRAAwNAN24kE6Tal9LQ1CSiu2b8CAkyJZTQHmFJyoINeX3cZ4AqM3Y8J+aIFSagRkvLjfxXrU/WAIc0cKRJWfintCBe7XJU3xMez0uBwoFW5T3ccbf0A+szMn9MsK2c+njkguzyh3HuAxGKke4hcbb0LlWPDc8TYs3sXCGdBWDWJZuDoZEesLBsqhqql2G/m1MsFZJQrjzwJespi8a6D9i7TVol6rz1/Q==;6Yrkq38pC+TlhVhcUkajzA=="
 ---
 

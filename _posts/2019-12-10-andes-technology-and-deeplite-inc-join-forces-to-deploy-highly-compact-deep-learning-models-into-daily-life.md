@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models Into Daily Life"
-excerpt: "MONTREAL, Dec. 10, 2019 /PRNewswire/ - Andes Technology, a leading Asia-based supplier of high-performance low-power compact 32/64-bit RISC-V CPU cores and a founding Platinum member of the RISC-V Foundation, and Montreal based AI startup Deeplite, Inc., the creators of Lightweight Intelligence™ making deep learning AI models smaller ..."
-publishedDateTime: 2019-12-10T22:55:00Z
-sourceUrl: https://finance.yahoo.com/news/andes-technology-deeplite-inc-join-160000000.html
+title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models into Daily Life"
+excerpt: "Hsinchu Taiwan, Dec. 10, 2019 (GLOBE NEWSWIRE) -- Andes Technology, a leading Asia-based supplier of high-performance low-power compact 32/64-bit RISC-V CPU cores and a founding Platinum member of the RISC-V Foundation, and Montreal based AI startup Deeplite, Inc., the creators of Lightweight Intelligence™ making deep learning AI models ..."
+publishedDateTime: 2019-12-10T17:00:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/10/1958796/0/en/Andes-Technology-and-Deeplite-Inc-Join-Forces-to-Deploy-Highly-Compact-Deep-Learning-Models-into-Daily-Life.html
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "LS05hGfCYqaNYsN2Qk2Sx8mecoroW0GQ7D2+HBqLh2WFgjpg66+QTYjnHYbM76BrDmi9Q6Lpn9Fa6rSzEQDRRRh5abswarn9/2TfXcTtfSFpOs5qthArAbJaptKGG4aOcv2pdxZQ7DBdJ4cr2k09LlRIuZ7/y3rGKqG4UWlrunkYm5rhwYwVzRaos+VuapN6HG0yRMoboaUS8xVHNZE36bpZ0Qkh3t/YCxYkh8QAVtEuy4trP/ZWxZnOVuAc2Xbgl2Xz02n/IHGTYpsiL5LvFg==;pc3+ISeFrp8TBbXzr4Q3MA=="
+images:
+  - url: https://www.bing.com/th?id=ON.74B71037F0ACB5F296CD9BDB19CCB2D1
+    width: 150
+    height: 108
+    title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models into Daily Life"
+
+secured: "Jcj3d1e+RnSW5JD8m+4dk4ZmIvrd+zhQURm6jW5iwUOqQrUObuZnhh99dcTZmnEKk24v4hSa0LtaxdehjO1elv/L6N6q/mWlaTYmYbx1EtFeHz/yP2OHlfhv6g2fjPt/AfI5aLDAo6S9UjLBG206kgUrUEcG2vWIxoyjUFXUJHJE/vAyn2FpgZjAmTR7OFzmZOVpsoIf3ZNka492IJbYr/qsTl4aFDguE70jXxNvZOtRPt1Hyxy2P2TG4WgxWKinga6pADEh/XO1DSg+Pt9ZIg==;LOOrVH3mn7gr0hEXOHPTIQ=="
 ---
 

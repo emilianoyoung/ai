@@ -1,27 +1,26 @@
 ---
 category: news
 title: "AWS beefs up SageMaker machine learning"
-excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training, and optimisation to monitoring the performance of models in production. Launched at the Amazon’s ..."
-publishedDateTime: 2019-12-06T04:49:00Z
-sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
+excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
+publishedDateTime: 2019-12-06T00:00:00Z
+sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.C4ABF858833B93FD4142DDE6C62C62B2
-    width: 700
-    height: 437
+  - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
+    width: 800
+    height: 500
     title: "AWS beefs up SageMaker machine learning"
 
 related:
@@ -260,6 +259,6 @@ related:
         width: 700
         height: 365
 
-secured: "JvhZ3KW/hE2tfAGpya61HjvAVu17vxckRH/iBUCcMd199t6+DP+kq60lIttQA9rGln/KvNG+5rgXJjRWm9Ar+lUDqXR+8F+c/voOtIdXOCODEyLT6kRkNM4dMm+NFGhNhR8UgixiD0PHOOtPx74REB7Nrle9yb34GF3KJN0/pzkDqdGyKOH8kzjGF+2VbS/XZCLsO8yuQ8Py38pBTxLQRgMycadIUEjrNHhs75mfomWO77fj+7GBQWIuEeXbm77l/2LgQnFQrjK2zsfSpHaekw==;cIpcCybNvhMAZYx0QOdUkg=="
+secured: "ZaJe3m+ltE6V8f8tvLliOTj8mc0iDpSlo6zkG6cIJd7U+DgO4wx4mz62bhcgis2NAa0RZTFoUt+tLZPVPj6saQ3wvocVMm1i61ZFAm7Q4HBQqAHMYq0xFQqkoE3TVe389zXGAUvMJJA0cgX/YOlKVJD8/D5PvMxO66dXuQ1dzSoJzBi4WmQnQ6tSywQCpmn6NruShKjhc8q0vfhFBomB8eMfK7nYHOdfg5zLukcQe+nugEvgJa+RzlB1hpTU2cU/P+TWpDnPjsHJedeMFtjdIw==;3WcnLQGod/XoT1HFq5hgnA=="
 ---
 

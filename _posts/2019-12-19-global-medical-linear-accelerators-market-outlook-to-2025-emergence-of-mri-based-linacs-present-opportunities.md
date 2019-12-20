@@ -2,16 +2,18 @@
 category: news
 title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
 excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
-publishedDateTime: 2019-12-19T14:18:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
+publishedDateTime: 2019-12-19T13:19:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/g15017817/global-medical-linear-accelerators-market-outlook-to-2025-emergence-of-mri-based-linacs-present-op
+ampUrl: https://amp.benzinga.com/amp/content/15017817
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15017817
 type: article
-quality: 0
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -74,6 +76,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "auR1O3BAxXTEmhr9mdrCdqFNTQtU9r+RMQamKHYCGiyGc6I13J311BkZJqvfTPGqlmoh5rzk08ScU0PdtNVcZYvcmWS7sezKydvdWKfR40Mbn22u2Zd+9jknKKOmicIhUYGeC6QQe5qGbDvyTh2eK7xqvYVxZiZTzlQnHvgqLFRZ3rxyBpJSlUQfEp3oSltZ2iRVZh/a9MNGMlpIb0GVMGBGpczS7yFRlR88aEfYbPi+LMrLESKcC54m90qy01uJEuuG7qabM6XqG9Fnc1JQzw==;jjVuUIgWlu9Qm5bO8qNjkw=="
+secured: "UPL0S4+3NJ8x4IDFoQThzBasdtRdg4Om1QUmzEFB3pwfsaV2vSAX6Aw7U2Vf6cosONb9i9ReP5ZYPqytTt5yCbKLbctRqXTgJxnUilTldsAJIL6t0kE+KsOT3MzBZIjzotXt6jL9g9bEEeQI3z4WpsT1ajIRtfYSdzqN9SgjyMC55jH34Y+/Qegzp61MSTd3SXl4f86sZIpd0q7dhRArB0z5Kp2GGyM1mRVyfallXIGluDnHZ/9+wHgcRTLIhxbS/lYcbHNTVfQvQKbPBf5eUA==;3oEDi7SfQ/6e+AAKPhwelg=="
 ---
 

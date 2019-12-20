@@ -139,14 +139,14 @@ related:
         width: 700
         height: 350
   - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
-    excerpt: "The International Federation of Robotics estimates that since 2000, the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role in boosting the Service ..."
-    publishedDateTime: 2019-12-19T08:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/service-robotics-market-to-reach-usd-46-13-billion-by-2026-increasing-automation-of-routine-tasks-to-favor-market-growth-fortune-business-insights-1028774662
+    excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
+    publishedDateTime: 2019-12-19T09:28:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "SmWqeV4LrAFXIi1LGnvaSAymv6NhhCNNu68/JIPm0ZxanzATRxXsm4sD39UVA2YZQqRfcGv8rLEy+Gj5Y2N6tqGnKpmnPQtyH2KuQhB8bBFsXy93h4XQWk5c1CAkgrMTsS/mQyq/JAlRA1j9o231gIvP/pPvxt4cGDG8+h7aTLEqhIrbVsqVGLoGpWXDUYfNg0N1G1rLwpLVlwuFOZyB60nSOvz/GGLmQChB8WXD6LHKAekQ/mx+e4xD4TUPu6/6yrVcvAXOgSgY4zMrO/juJg==;0VMlo/mEOJbIDyI5fCg1Aw=="
 ---

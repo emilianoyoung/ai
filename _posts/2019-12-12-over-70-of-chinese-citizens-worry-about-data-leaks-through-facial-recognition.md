@@ -178,6 +178,21 @@ related:
       - url: https://cnet2.cbsistatic.com/img/p9IG6w128l_iSkKspX8F9S27UmQ=/756x567/2019/12/19/6e7f242f-2f81-410f-aadb-82a146434d1c/gettyimages-614202874.jpg
         width: 756
         height: 567
+  - title: "U.S. government study finds racial bias in facial recognition systems"
+    excerpt: "(Reuters) – Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+    publishedDateTime: 2019-12-20T09:46:00Z
+    sourceUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/
+    ampUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
+        width: 700
+        height: 350
   - title: "China Continues Facial Recognition Adoption With Airport Scanners"
     excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
     publishedDateTime: 2019-12-11T23:25:00Z
