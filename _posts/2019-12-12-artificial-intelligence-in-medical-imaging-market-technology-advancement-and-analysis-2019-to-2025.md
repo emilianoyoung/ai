@@ -231,6 +231,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Digital health interventions: Predicting individual success using machine learning"
+    excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
+    publishedDateTime: 2019-12-04T14:20:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.html
+    ampUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.63183DB0F4514DFE4F5E973D21C9858B
+        width: 700
+        height: 350
   - title: "Enterprise Artificial Intelligence (AI) Market Segmentations by Application and Geography Trends, Growth and Forecasts to 2019-2026"
     excerpt: "Dec 04, 2019 (Hitech News Daily via COMTEX) -- Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Manufacturers in the market witness enormous underlying ..."
     publishedDateTime: 2019-12-04T07:58:00Z

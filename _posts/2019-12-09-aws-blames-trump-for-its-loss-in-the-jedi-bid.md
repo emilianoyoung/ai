@@ -1,17 +1,17 @@
 ---
 category: news
 title: "AWS blames Trump for its loss in the JEDI bid"
-excerpt: "AWS alleges that President Trump influenced in the JEDI cloud contract proceedings ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
-publishedDateTime: 2019-12-09T19:12:00Z
-sourceUrl: https://www.federaltimes.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
+excerpt: "AWS concluded its introduction by saying that it was “impossible to shield ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
+publishedDateTime: 2019-12-09T19:28:00Z
+sourceUrl: https://www.defensenews.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
-  name: Federal Times
-  domain: federaltimes.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
@@ -23,6 +23,36 @@ images:
     height: 367
     title: "AWS blames Trump for its loss in the JEDI bid"
 
-secured: "3y64pI+KcLztItiUqBcu47nZ7Pg0lC92rIvyT7gG1dle5rrgF4IOsJzTRI05YdmWrdnMb962moDelmjF/ru2We/KX5AaZ3zM5EUHXSJaLzlIVjjp6Z+Jejfv0jks2NKj5s0Qu3JpPWpiDcjA3X0jGVJVswePwuY88GE1SGP4cVMsmnm/t+E9tWGoSWdl2Y6ctUJrHUUUveFQV3r8vW0HVVfOl4Nts39ABAT7CCCLRAc65OqHIKGrUmsB343P4vPOY8zMJ+6WzRxQSfyc3ipeRA==;OiOVT7N/6evJZcAA4aFZgA=="
+related:
+  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
+    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
+    publishedDateTime: 2019-12-09T17:57:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
+    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+        width: 700
+        height: 350
+  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
+    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
+    publishedDateTime: 2019-12-09T10:03:00Z
+    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
+        width: 700
+        height: 421
+
+secured: "+Wsf5Vs9z7HGdZybmoQABU4sx42m8IBDYd0gATyI8fKWPBwyZgdRwHxDG1OMC6+E1XNQsVh19H99le+bRNbORWOehYw+qfAmwjO34LeFxXHD6Uwu5J2ldIJtm9D23e2CpqyIPKG3tkKbXMO6FYi7eUkXsJv+LKNiC4iJp+ju+YddfODy0ZKr0GXQb7lZcKqQmLzY4PMa6lyfa86nwzc5791YOwSDd4kYRzTx7II/4IkvkpGqchpLDpN60mS7RTDvDnVl2BCSy1WdzPVCPAxvfw==;hGAI69SF3lFkB4QnifKm5A=="
 ---
 

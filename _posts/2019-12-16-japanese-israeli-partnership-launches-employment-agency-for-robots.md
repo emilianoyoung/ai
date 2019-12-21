@@ -39,6 +39,19 @@ related:
       - url: https://www.albawaba.com/sites/default/files/styles/default/public/2019-12/shutterstock_644724364.jpg?itok=L7SWl6pG
         width: 1000
         height: 667
+  - title: "World’s first AI-controlled robot ‘employment agency’ opens in Israel"
+    excerpt: "The world’s first “employment agency” offering robots controlled by artificial-intelligence for hire has launched in Israel as a joint venture between SixAI of Israel and Musashi Seimitsu of Japan, according to Daily Mail. MusashiAI provides a completely autonomous forklift and a visual inspection robot that factories can hire to work by ..."
+    publishedDateTime: 2019-12-21T08:19:00Z
+    sourceUrl: https://www.clevelandjewishnews.com/jns/world-s-first-ai-controlled-robot-employment-agency-opens-in/article_e4f7ac79-79cd-5374-a1f8-7494f7cf597c.html
+    type: article
+    provider:
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 54
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
+        width: 1200
+        height: 630
 
 secured: "sLSMzyUHTXrHj+pEQiiRZrs2bMg+QAx4EpoBNMwcqsL7D1FTGrRrI3AatGfGzR/Z2B/xrTt7nH8Fl+uSC+vFSVh1BF0GkV0awhE3rU+u37dyTzhruIZm2r4Py+dD/kGEu5fzkrITv9vxTNcnqJ7/KUDbiokyo5Gb3PsNVkv8lZKjqPpXi7XFF3tQE3u1UIiSEtXCRREFcq5YkEq6o6h/um0OnEFlBGKerO1wjfiPXuw6pvtULsn0uPQAiAVygtr8/skcChvUABNSWU2EJu1uXQ==;dFVwHw4jiY+SqAimbigtGQ=="
 ---

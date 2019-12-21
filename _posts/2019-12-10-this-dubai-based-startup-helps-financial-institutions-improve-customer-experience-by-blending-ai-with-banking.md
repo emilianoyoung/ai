@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutio
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -78,6 +78,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
+    excerpt: "Alongside this, with the availability of advanced machine learning/artificial intelligence-led tools ... the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA); is demanding demonstrable operational resilience of every conceivable aspect of business across firms’ operation. This is in addition to the abundance ..."
+    publishedDateTime: 2019-12-03T09:35:00Z
+    sourceUrl: https://www.continuitycentral.com/index.php/news/erm-news/4679-key-focus-areas-for-risk-and-operational-resilience-in-the-uk-banking-and-financial-services-sector-in-2020
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 21
+    images:
+      - url: https://www.continuitycentral.com/images/banners/fortressjuly2019-650.jpg
+        width: 270
+        height: 670
 
 secured: "7KdmTwCAhrnjF3/yqHn8g07+n+mcYI2iUV19D228CcEcffv9kW4g2IwOZSxyz9Jiy7iRnV7GiqeGunyFZIr1gTF84/GRHEXosIkFQQtcjgk7MKQX4QGHJHKfhl+hd7aDJ1scVoBWrptoT72cw3ljlre27EnSFDL9R4MksMznl6xZ1gKJCcwrApQGBEOss4Iq0dQycPdHj303/t0pxOAQiQs14md4AaLvWiApC/dfQJd63cY34ZFobaY4VQg51P+X4UkchO7lE8GBcpE/hne4Ew==;XECqoeTzoB4awOI+VtdFfg=="
 ---
