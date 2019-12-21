@@ -2,28 +2,20 @@
 category: news
 title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
 excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-publishedDateTime: 2019-12-20T20:54:00Z
-sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+publishedDateTime: 2019-12-20T20:28:11Z
+sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: MassLive on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-    width: 1904
-    height: 1428
-    title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -249,6 +241,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
         width: 700
         height: 525
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:00Z
+    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "China Continues Facial Recognition Adoption With Airport Scanners"
     excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
     publishedDateTime: 2019-12-11T23:25:00Z
@@ -1633,16 +1640,7 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T20:57:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 12
 
-secured: "o2vkCG9NVLw6b+p0ziT339e2VAb0Q5KHk8s6XsThWiJ5xUlplT6M31FEtaFF3A+XG+Am3qoRLAhkbDA1JRCVsB1IMv1LU/0xJbPw7FdmGwrtztmThS26c9dkh7kuB3HkD1u6/qI0MAcqD/wj/z6mI5oLrt5HCIraBuKr70An76+iJlKrnTe+N59tEsMrKzliY2dAzwejCBq7c+QDHnkcIvdo9/gfCpJRjR2pMza1cx80v/4ZPpeDx16k3amzYArcfcY6NllPAkiZ61CbbzOMEA==;t+wNNI4kBRbTrDT89yKe4w=="
+secured: "M+watNE5/oZh6ThF1FfeU2GI2odnDra22n4fPNLsxtb47CtIj3Q9uSJsE41cOGRykTRU99DJei+RPD92okUV4rhaqvubv6F01miYD5Vty1fmGyTWKiDnZXd4Go9w1LH3G85GXQGDeBif2xR4DirUCHEen8ICqyerpP5MGxvkwZjzTgU1mwoYVN0grvPtMoE16ReoBuIjScDYQzWKsRoITvcEdEQZgPQ/HqpQRejC6sMIeZieX+YTyCSRCrqBmfhuUW70Y4fa0Q46c13B/b9sKw==;aIcDaxLc1PZelXXzqjRqog=="
 ---
 

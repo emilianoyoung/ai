@@ -2,20 +2,32 @@
 category: news
 title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T20:57:00Z
-sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
+publishedDateTime: 2019-12-20T14:27:00Z
+sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
 type: article
-quality: 12
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
+    width: 1400
+    height: 933
+    title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -874,21 +886,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T20:54:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 45
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-        width: 1904
-        height: 1428
   - title: "Federal study finds racial bias in many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z
@@ -1640,7 +1637,16 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T20:28:11Z
+    sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
+    type: article
+    provider:
+      name: MassLive on MSN.com
+      domain: msn.com
+    quality: 5
 
-secured: "e8X7N6RX5sTZi7+dR5iQznQ/is7UsRPwLhZuIy+C/qGYpdsoHSv9ruV+t6EG/R4Rh/uOGBdX7oa1fnqNS0vw2LH0e1n9RFgwwDngMvy78ug89lLz/AnMegn752QiM2ExI2sv2x4VS1B9vRHBDjDtdRjvyXIXJ17tNVJpwXmZTwxLj3nGH30z5TQVw7Z3T3QcDO1xu0p0vIHLkdGzISwxdaOz1EEOTJhBfJ5abJSlt3eSQ+VTsoWZObL67ZfwX3GvfA48cS2f+HfC/nLgNQNUrg==;q6yNmQzpUBjiaDaL+xE3YA=="
+secured: "L2kKlgEcKqcOkzwsH0zg0QnitrWYDVC1USgVxGXxqE+qiHL7EY020cnh9sC49/b1eJqj7xfBEOzSC08aVTIYewMHo2jX1J6HwXn5nHfN1W1PbGqu2FBQC+71hrWDGDO2MSne1zNIvx3s68fWBrLFXMvwksQFTxcTfwpOJ7vZifS2qMjbcvIalCKkNM24WbMEaNM1bFv4ZrlW8csXUJu340ant6UzYM78jou3EqMIrMeO160UyxZFUvX+VEpJkPnwUuPyHcrHJPT9VbbbVGICBw==;7qayhdv8VYvZhRz3CjKSbA=="
 ---
 
