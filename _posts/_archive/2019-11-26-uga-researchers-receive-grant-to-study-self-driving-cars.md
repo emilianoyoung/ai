@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E50B1D6DE5D1F3CC7AFF038E1874AFC1
         width: 700
         height: 393
-  - title: "Self-Driving Cars Were Supposed to Be Here Already — Here’s Why They Aren’t"
-    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn’t exist. And it’s not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline ..."
-    publishedDateTime: 2019-12-01T01:17:00Z
-    sourceUrl: https://www.nbcnewyork.com/news/national-international/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html
-    ampUrl: https://www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
-    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
-        width: 700
-        height: 393
   - title: "Self-Driving Cars Taught to 'Feel' Passengers' Emotions"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
     publishedDateTime: 2019-12-04T13:47:00Z
@@ -94,6 +79,6 @@ related:
         width: 460
         height: 460
 
-secured: "vxFgy5Ce/cH7hA1dLzTxl73XtJE2xRKKqs5pEO3y3Z21CMUaY9Kg9dLiC/IsOqQKF/RLNrsQvuJuao+tPUXCvQxZgB7xEewymp098tBh7DgBxbOx2ijHdNeYZWVvlwdagZKxfKv5ga9wCBqSe9v6Y90QZc7IghsCyG0eR17TUHBiKKJyuAVVlEfNpfUPUFXJGPVomTtA+og5vaHyCkuWszbnQf/gdJUpxnh4pkJq96Ih9NQcDyLBL520HTtMZFkNfXPj0Q++JaoAiynvc7miSA==;33QNDop5WuvZc0J0IRHwzg=="
+secured: "0u5HajF5L+ZbtFkGpEBi0cZVltYusGOWg7faC9WjNdhJE0qfqw7KHWTC1ALFYCvFCEm9efVVK+4Jw/uX2Wv5GqTX7DtwNZZE8qlq0R//KLvRbZx9Ko4rS9zTbkvQJInpIZ12+LBLb15rTgPiivxQKvzXO5EzUV8GRjw3KpWNbM2bSuFgQPcJbPTuW3RkYb03FytvJbZnAd1LfCicFAS76lzK3x6HOz73XaDVWaal3Kdbjv3qeMwzg8AhlGrM6AwefAlOaq8wH+dBxrunN/17MA==;D4TOsh7Rxep74jgnTZ9hmQ=="
 ---
 

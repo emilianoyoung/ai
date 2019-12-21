@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Neural network for elderly care could save millions"
-excerpt: "Deep learning artificial intelligence models can be good at predicting the future given previous ... However, this is the first proof-of-concept that deep neural networks have the potential to significantly improve the accuracy of such models. 'Without a risk adjustment model, healthcare providers whose patients are ill more often than average ..."
-publishedDateTime: 2019-12-13T14:26:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/au-nnf121319.php
+excerpt: "Deep learning artificial intelligence models can be ... However, this is the first proof-of-concept that deep neural networks have the potential to significantly improve the accuracy of such ..."
+publishedDateTime: 2019-12-13T14:25:00Z
+sourceUrl: https://eurekalert.org/pub_releases/2019-12/au-nnf121319.php
 type: article
 quality: 19
 heat: -1
@@ -34,6 +34,6 @@ related:
         width: 300
         height: 250
 
-secured: "55dApM/oB6ckGwuOeEeYlihYN7MFGcVBMDIcZIL6e7JiltCR9+BaLMPJzThuW1pvIGdYG6W5mQ4IDspPAVQP+9jJWKpt8wQybYYhR6T64YzAeDcmwnsDpFxra9TzXYl1L8xvi46M2T7mpOtA6eTXNfq8aR1LFma3WrHyu+kSgbRcTSA2zb4xO3RX8FNCnnovb8Sw/jizl0Zc22F+oXHfPTGg3I62/KYiwD4Ye5GTrKFE4sRRyuMuz/+egDYucJ/mcLV3OtKdo3ACPJg3ly8bzQ==;MIFSft71l391hfKD7d8hcQ=="
+secured: "dgdxDvXe7YDF/6CwiIVyX6QYD+/83JMid8gX7WFnasTS0Mfj1xAV7QdolACalslRG3mZ1An85kBglfwCL5DX0up+bxG91BAyLNBD97zcp3lMKuzGuqHD1qB6j9+oCl/PhDRFKPj3aaHrCqBAzlIzG3SrHgaKu2LR3EUk6hRFHjZsCmwBQT8bKNR99EiRYYitoNGVZDc7hC1wBEN0Uo8lFu9VUEGD8+hAS3PsThMcXjo20itQ5e/Mb52TPbeOlWA6YWHmjo5WT9ysyGiaPnCoHg==;ysyybVAJvoZrZbwp4mFpAg=="
 ---
 

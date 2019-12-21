@@ -2,32 +2,20 @@
 category: news
 title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T14:27:00Z
-sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+publishedDateTime: 2019-12-20T20:57:00Z
+sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
 type: article
-quality: 82
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
-    width: 1400
-    height: 933
-    title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1337,6 +1325,19 @@ related:
       - url: https://mms.businesswire.com/media/20191220005091/en/764015/23/CES2020_ENG.jpg
         width: 1200
         height: 627
+  - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555, Hall South 2, in the Las Vegas Convention ..."
+    publishedDateTime: 2019-12-21T02:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/cyberlink-showcase-latest-applications-faceme-135500304.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
+        width: 480
+        height: 251
   - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
     excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
     publishedDateTime: 2019-12-19T19:32:00Z
@@ -1603,6 +1604,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "LeYvw8K6Jep9+HIX5khz2ufP35N/tiwFAIpXMSdv99xNcOsfzExGz0XetOhzZkvwhy2809k7kkwbZDaDKRJRf0YTUlAbed3reOefYrgyBm9gibIs/LQV9tm8plzhLyul/Je/3wrqGvXTaGvwtjdMyvZo05ukGEfxb+jishWnR6vsffXg+ewtlIq1bUtwQGOBZeWDXxfgEjxNiVB0x0G5luU7vN6B41+t8AnVXriUqRkGeFKGrfcFhKa4mAS3QYL1KDCxQnoedN+MIKx1Vl7d7g==;93elKbsH7K2Zr+pF52Aypg=="
+secured: "JuMA5DUwpD46us9vEeECaWt6LhZJRTzHb3ZuVKjgcwI25xR27fZ4zCGg/J7Tkpbh81/6IYPNqGOkaNuMmYrrqwpzQYXs/gMXAF1JPKF3a/AijWxjh47ZAOs6Yjff+vq2VerVuBm8SlkLEFqhQ2eWbqi+7b+7wfLYo8SMeQHE+dg4MBRvGNrZ2hBNcPq31+LSOrW7xOXtFvjjTu/TXFysMA85TazVgVLeu/SeSTbkvynQ+peEO4f8Le3tx/jykXKlIlHSH/2e4mxFWliP1HcWrA==;DHNO3F0sqz+wP16uB5zSKw=="
 ---
 

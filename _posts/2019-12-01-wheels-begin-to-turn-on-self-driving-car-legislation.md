@@ -26,21 +26,6 @@ images:
     title: "Wheels begin to turn on self-driving car legislation"
 
 related:
-  - title: "Self-Driving Cars Were Supposed to Be Here Already — Here’s Why They Aren’t"
-    excerpt: "More companies are trying to bring self-driving cars to the masses than ever before. Yet a truly autonomous vehicle still doesn’t exist. And it’s not clear if, or when, our driverless future will arrive. Proponents in the industry, including Tesla CEO Elon Musk, Waymo CEO John Krafcik and Cruise CEO Dan Ammann, touted an aggressive timeline ..."
-    publishedDateTime: 2019-12-01T01:17:00Z
-    sourceUrl: https://www.nbcnewyork.com/news/national-international/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html
-    ampUrl: https://www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
-    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/Self-Driving-Cars-Were-Supposed-to-Be-Here-Already--Heres-Why-They-Arent-565647961.html?amp=y
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.F661CC4391F607BA4DA08696213F29DF
-        width: 700
-        height: 393
   - title: "UGA researchers receive grant to study self-driving cars"
     excerpt: "The team will research ways for self-driving cars to communicate amongst themselves and create algorithms for the cars to work in “ environments full of uncertainty,” according to the release. Researchers will harness artificial intelligence and ..."
     publishedDateTime: 2019-11-26T13:04:00Z

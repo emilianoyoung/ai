@@ -1,28 +1,30 @@
 ---
 category: news
 title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
-excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
-publishedDateTime: 2019-12-19T12:20:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/4g-clinical-launches-innovative-clinical-supply-software-leveraging-natural-language-processing-nlp-300977512.html
+excerpt: "Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol complexity ..."
+publishedDateTime: 2019-12-19T13:53:00Z
+sourceUrl: https://finance.yahoo.com/news/4g-clinical-launches-innovative-clinical-132000906.html
+ampUrl: https://finance.yahoo.com/amphtml/news/4g-clinical-launches-innovative-clinical-132000906.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/4g-clinical-launches-innovative-clinical-132000906.html
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://mma.prnewswire.com/media/554411/4G_Clinical_Logo.jpg?p=facebook
-    width: 5157
-    height: 2700
+  - url: https://s.yimg.com/ny/api/res/1.2/uEjWcTC9moxa74KfoJFLTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY5MDtoPTgwMA--/https://s.yimg.com/uu/api/res/1.2/93ddzB_eGKp4WZ9cU5Ojjw--~B/aD00MDA7dz0zNDU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/c9b19827adf404db80ba5ef1f9874cbc
+    width: 345
+    height: 400
     title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
 
-secured: "qBuMMFyLdIOUMIHaKJSzerIgACPLOdrJm7mIGD1Vd2D1Qx4isaV1NbHKpLkKsrRNWZPUq325mZsjtWSEnWGZfUmxDd0mW2Ie8cM4wo4pTlRYFjU4lacbzZRlLZs6hVidZJo5nLzPAwdth34feUuPHE04hWSH5aPO5jtKHj1UTKSBAvLbqbj3riKD0STZrrNJRDpeWVOiR8ErIvYgjGMJHM4wSSUhU8VN+JxcyEwHaoMXKZP2z1roQ/uMHdPGk5cE8as9S24jeiKDSgPXGASYoQ==;vwajBqrzELpwBKI7rBBxDA=="
+secured: "hfKfpkh87SsDaa4/Eq5GxfQMOMJxF6RjGdtquBLnQKIZLt5iNEO1C0a1ZMuTn0yJvb7pO2/zXF7kfz8Rs9FUgrMwUyzd4U9UnIHq4cC6Uc+qucPS2a5eAp85fdOIyY8++wEbe93dSJGAqk9LZs2xnx+dhUagxEe4dg2pJ/k9NR9hzXsKN46o44Le//da4EjoWpQnwd3hv92F6Bbc80fzeWfHN6p/UzJ7ujp8ueEgmLxSS099E9S43ceASY2B0B2hMQygvDtA4KtWUBzCoDxvSw==;3jI55USN5XFxlv3gbFBUJQ=="
 ---
 

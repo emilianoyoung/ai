@@ -1,29 +1,27 @@
 ---
 category: news
-title: "75,000 people call on Congress to ban on facial recognition tech"
-excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
-publishedDateTime: 2019-12-16T16:30:00Z
-sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/
-ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
-cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
+excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555, Hall South 2, in the Las Vegas Convention ..."
+publishedDateTime: 2019-12-21T02:14:00Z
+sourceUrl: https://finance.yahoo.com/news/cyberlink-showcase-latest-applications-faceme-135500304.html
 type: article
-quality: 159
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Daily Dot
-  domain: dailydot.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
-    width: 700
-    height: 350
-    title: "75,000 people call on Congress to ban on facial recognition tech"
+  - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
+    width: 480
+    height: 251
+    title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -56,6 +54,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
+  - title: "75,000 people call on Congress to ban on facial recognition tech"
+    excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
+    publishedDateTime: 2019-12-16T16:30:00Z
+    sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/
+    ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 159
+    images:
+      - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
+        width: 700
+        height: 350
   - title: "Push to rein in facial recognition stalls"
     excerpt: "Facial recognition freeze: House lawmakers say the bipartisan effort in Congress to limit federal use of facial recognition technology has stalled because of impeachment and the passing of Elijah Cummings. — Industry ready for next U.S.-China deal: The preliminary U.S.-China trade deal isn’t soothing the tech sector’s worries about ..."
     publishedDateTime: 2019-12-16T15:00:00Z
@@ -1318,19 +1331,6 @@ related:
       - url: https://mms.businesswire.com/media/20191220005091/en/764015/23/CES2020_ENG.jpg
         width: 1200
         height: 627
-  - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555, Hall South 2, in the Las Vegas Convention ..."
-    publishedDateTime: 2019-12-21T02:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/cyberlink-showcase-latest-applications-faceme-135500304.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
-        width: 480
-        height: 251
   - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
     excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
     publishedDateTime: 2019-12-19T19:32:00Z
@@ -1606,6 +1606,6 @@ related:
       domain: msn.com
     quality: 12
 
-secured: "oCIB+83EO5nmQpfJqxyvnEY5SW+2IDjHb1sIq2cG//MxIZi4Ze3FAh4MzePj6rbR2ZuoK51AGPVKqvmyUmfH061hDD+I9FD4KzqBhhhvvxabd+v7WDI0PkQkDFPTpjq+EmzoC9r7qYn5Z1J1Nq+wvxIq4tJ8MG7u1UCtRmwvcJIxGbTHCZPotpmwAmVYZ1GLy/5zBmy14aW9Cg/pDBeeB0YLYV3BxtdUR8pDarbqHv5Y+OfJZzeGMlri0VHEc6H4oUW4QhCZLDVKZ1TcM2YiylhUGcRGS1dXz00niO34a74=;kbSU6qsEf1HbKD6f906VaQ=="
+secured: "wYgw/9ADdeGoaKGgsv7puN+pMefk/phVyl3yhNjZix0oRIOhS54YxnfS01jH98r3jbfL3pu+M1LkGBT2LKqnOzA349wcyNzNONRs8WqOCovP+HM6pt3NBF1lF6dDb0QCCyCqNnl0Sz15RFENuO9XyUEKt8YwSMHmtDxmixQnOE/ndd1SHKpn/i6c2UY6A2rDq4xfvZ1DFeMVXYHV8XiPS+I17QZMRXuK0QJBn9QX9uDq4BY7wWefSCsxR8jgP1MLtrhokQt4JkviokrqyxfLpQ==;RUZxer67NiA1OzuJnWn50Q=="
 ---
 

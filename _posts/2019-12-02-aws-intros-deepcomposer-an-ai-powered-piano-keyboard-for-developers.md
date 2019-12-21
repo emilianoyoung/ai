@@ -29,7 +29,7 @@ images:
     title: "AWS intros DeepComposer, an AI-powered piano keyboard for developers"
 
 related:
-  - title: "AWS’ new DeepRacer Evo is an AI-powered RC car with a serious mission"
+  - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
     excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
     publishedDateTime: 2019-11-27T17:56:00Z
     sourceUrl: https://siliconangle.com/2019/11/27/aws-new-deepracer-evo-ai-powered-rc-car-serious-mission/
@@ -37,7 +37,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 69
+    quality: 68
     images:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
