@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-publishedDateTime: 2019-12-18T03:26:56Z
-sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
+excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
+publishedDateTime: 2019-12-21T01:44:00Z
+sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
+ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
+cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
 type: article
-quality: 18
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer on MSN.com
-  domain: msn.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-    width: 700
-    height: 393
-    title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+  - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
+    width: 5616
+    height: 3744
+    title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -213,21 +215,6 @@ related:
       - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
         width: 620
         height: 348
-  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
-    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
-    publishedDateTime: 2019-12-21T01:44:00Z
-    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
-    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 44
-    images:
-      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
-        width: 5616
-        height: 3744
   - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
     excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
     publishedDateTime: 2019-12-17T16:54:00Z
@@ -338,6 +325,19 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
   - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
     excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
     publishedDateTime: 2019-12-20T23:43:00Z
@@ -348,6 +348,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "GiwCt+O4eTvd6XpTuLQW3M0xOTSqkbGlV7Gm6AxhqbSaNujzANbRvyWQd25h5jEgTux+joDdIYYgEjnSsuU4dXQh376nQAf1eR8/r48i93vTef/EAlVPV7fAhehp5ngqY+4V3uJ8V/jedv3oOsuSMzRcgGMn68stG7orevvBE2+9ED1psi6xIKkoMkN2bH3Np+vzZLEMd90QSBjKTvuImQFnWv93iXHkCfLIW5QgxRU/zerEh9b/sYufp9b5IsqIAWmr0KYS5xZ/fvZDvq0Qog==;52rfjzkRw4L/KfHvku8dNw=="
+secured: "HbGTAMvZcI6UFjjyH1OwFSK1XwnnVm4LvJyW/MRxhwPkFFB5wr6AubzCFgm8RA4P1WV5zNJvAIe8Iae1dDaTXPewuP+jtFS8zYhffk0Eu53RtS3Q62KUvm3QtbzZ3TbFIgud33PSQdwtspysiqPV7m9m9EgFKAjuz8Mgdb7WC4Sp5YHsy7BE7VG/oZ2sJtSpC+4FpR69iXNx76glAPNdyfPWuL8onZmrqp4oG97Jp5Ue6770eN2mu9BLdh935GUz18Pfg1Oj8rkpRvTDVunm1Q==;bW7CrEqDUdkQyFsCF36JRA=="
 ---
 

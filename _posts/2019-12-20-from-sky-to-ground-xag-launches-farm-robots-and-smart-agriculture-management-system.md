@@ -2,23 +2,23 @@
 category: news
 title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
 excerpt: "Information technology, artificial intelligence and biotechnology are three fundamental variables that enormously ... XAUV™ R80 is an autonomous, multifunctional farm robot which allows third-party payloads and adapts to both plain fields and sloped terrains. While inheriting XAG's technical advantages in centimetre-level RTK navigation ..."
-publishedDateTime: 2019-12-20T10:12:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-from-sky-ground-xag-launches-farm-robots-smart-/2019/12/20/9073095.htm
+publishedDateTime: 2019-12-20T08:47:00Z
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/from-sky-to-ground-xag-launches-farm-robots-and-smart/article_85748e96-7ee0-504d-855e-f98217dcab99.html
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://mma.prnewswire.com/media/1058239/SAC_2020.jpg
+  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27dd31ed-dd27-56c1-9e41-d5924bc309c3/5dfd7cad14d71.image.jpg?resize=400%2C267
     width: 400
     height: 267
     title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
@@ -99,6 +99,6 @@ related:
         width: 678
         height: 655
 
-secured: "kwq+01cGZxzdKJ8N+47f6lHUrg+c63DkgHqWvmjek6GtqDXAujwKPtpGYA6LPl1/Ou6xbiIqp5+Em4Pzzv2BaS1RQEBjn7pCsAEtWkyTnYwLYMGltJMcf8K70R5Gsj4ZSkKFY68HRsXhBYY7OweC7c0+Z/4u5ygFtHNhogo0wHb2lgyqMsUrDznZQ4voB+D86CjaKFMCImu1GsInDRwPyQaCmqgYsEu8pOBIxMzDBDZI3DuwjEZyYgyai9aWUp1nQKHFk1d0VpCgcAcTmPseNg==;XHRN5uzKLkYtp+KcY+9zrw=="
+secured: "x8WPb9zXFf3NMAOK1yxEbxy+iyWtd4RlXzBYsMcL3fDjfeUI21OKvwk80ZV//j7xewSTPUK7w3XEcdOV5ozFTaHIOJwa2J9ttR8ptOV7V0VBXuUY7YAbu2irxFhyEhkdBJHYFivIarn3TlkBBs/Zki+U9ZTRLYfgBOs0i6sJHFZDmxCLZbXLIw0Q7SlHYP5SqsJlMxvDtiOEUk5tv0YQfZwjGZzkg2gjotN/aekwgRie02nEN51en2z7drCIVyyk3f5KvrAgpZ3mdIe1Z/gZPg==;My6mX4fAOde3NxR0wIPOlA=="
 ---
 

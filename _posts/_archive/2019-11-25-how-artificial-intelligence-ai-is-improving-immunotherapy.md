@@ -35,22 +35,7 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
         width: 2557
         height: 1199
-  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
-    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
-    publishedDateTime: 2019-11-25T05:10:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 71
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
-        width: 675
-        height: 365
 
-secured: "ht4nkrLKdL1Wwy4io7HePEGce/ZCIsJIE1PFLsdp3SYENEhgJM3e5BTaHtxBXm3JXUGUBLHNez1qncR7fzt9GlGTCFbYt58o+NP49xoqiQtxX+oaUR+ebb1IQnuUHsOzR5DTw+czNOZLCslRBbvuU96zQlJ/KcBk2IhKCNm5r+Ni/Dn1brvsxH3yvbJH0U/YtcmE70yJ16vQDXoRFGrukuApkSPq4o6Oz+eX3gqdnCuf0kOarDuuBmF7K25z2vBk1/Jvqi/QfpdzNuMGgTDBCg==;+J1UNnN7muogkgutZCo0oQ=="
+secured: "9AhmYfWw8NrbQ7JV9qz9Bd3uleysEEqiuhrep1YpGaVtxsFTIqXjGWeMorXBRtUCjeDVKhbNupozjleAMycKiuvekZZfPfWvE7XvN/+bQqBfAnStv9+KPGOIFuANtAPKeQo5Ce4LZ3VtgOx/Au3L8BDK0naAR9chwLvFbh2yiz759pKZukNQj93K/yx30altew330RgO2OO5R9XxHPdVDwLrocOnFXoHqlUnp0FzhMScRo6Y6f0uw793YPxcruIrZEU2m0maYTRVNoLnaih3Hw==;7qwbGfssMuvbGGPkQS12xw=="
 ---
 

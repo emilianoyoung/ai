@@ -1,28 +1,26 @@
 ---
 category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which gathered data from millions of NHS patients without direct consent. Streams was integrated into ..."
-publishedDateTime: 2019-12-05T18:48:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
+publishedDateTime: 2019-12-10T22:19:00Z
+sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: ctovision.com
+  domain: ctovision.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.E92139A6E0F7E7EED6BD1DC5851A0E11
-    width: 700
-    height: 393
+  - url: https://ctovision.com/wp-content/uploads/space.jpg
+    width: 632
+    height: 422
     title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 
 related:
@@ -52,6 +50,21 @@ related:
       - url: https://www.bing.com/th?id=ON.28A3294418918B7ECE3E4E7AFB516472
         width: 700
         height: 503
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which gathered data from millions of NHS patients without direct consent. Streams was integrated into ..."
+    publishedDateTime: 2019-12-05T18:48:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.E92139A6E0F7E7EED6BD1DC5851A0E11
+        width: 700
+        height: 393
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
     excerpt: "If you want an example of how user concerns do not drive how software gets made, check out this Google-backed API Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work ..."
     publishedDateTime: 2019-12-06T11:16:00Z
@@ -106,20 +119,7 @@ related:
       - url: https://www.bing.com/th?id=ON.4DBFFE1DA27068C02A2F6716114B6974
         width: 580
         height: 358
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-10T22:19:00Z
-    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: https://ctovision.com/wp-content/uploads/space.jpg
-        width: 632
-        height: 422
 
-secured: "40/j+gdX6QT2P4sGZ3pH/5YycCkPRs2ezZBBlBia/Nbl2IN7quicn2wuRgi7tppOmFb04I2ZSKtzi5AE7n55VtdqftgjjoyWuU03LgIh1HX5sL2HsbXRuuNBEgzMCkOuN/FjMki6Fwkaa6JsLeYUcj9lBkNogUAGgWxvuiWNnxhNXd9q/t4HrCvfeLJhD4Rtgkbx37wUUluJma1Ac6tlf77f+Xy7qtTPk0P2/J4rGy9HjLzWG+I74ZjOuYwt2z5pc3VSL5znv51vL/mutaB3XQ==;7Q+AlqMbcs2W5iTeUMFFgw=="
+secured: "X2dBz1YHNFS+7kijYheIWL9zaVcqsd5BTlguvDeyeyVvQGMEwKWa0xSrQNkHkrqhnT4IYmAVwajXHn2drm0PD2FZKwPze141YSFJFGyWJQY/6vUcfL8gmnfktzOV+i+AYqDi3VW7bBrQsFK73PAdunuOI09UMATuYWdcBscE6h9ZcPlCUyV9tIL/Yrw4wGRV30SwqZv5rjk8rZs2cgvqk349jJFATlmz7rwro8JuvtRcuAxDE15s38GaO351XJuvHy1pICNfiRDWgboP+KEsSg==;uN7TiI7BlbR7qZxnBNDU/w=="
 ---
 

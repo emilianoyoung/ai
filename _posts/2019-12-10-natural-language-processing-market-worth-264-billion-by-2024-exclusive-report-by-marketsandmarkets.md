@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets"
-excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
-publishedDateTime: 2019-12-10T12:31:00Z
-sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48386029-natural-language-processing-market-worth-dollar-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-008.htm
+title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
+publishedDateTime: 2019-12-10T19:45:00Z
+sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
+    width: 400
+    height: 137
+    title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
   - title: "Deep Learning Market 2023|Industry Size, Share, Revenue Growth, Development"
@@ -126,6 +132,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "my1EZFpwtEbtSukaMncPkyhQNBH1e8QdyMExwgYqTOZAjpLkhixvz2LmoiVXwcpzVW5gQZiwO228BTDh+1IT/0H9zMNWp1fUk+nq9rbHuh5K2vkltXYSPfAMtwiDP73hrzyLOaOJJJsAE5eY8pkyYF9wMvkbrWRNOVWyOkpFsuyYOVZ4VNRYovLMQLxm1dWwxpO3eWzQr7sYffetCpawkzxXNtahWILwnFjo+RLHpaDR6L488WMAjAxVLnRqR0MVp0v4yKE9K+q464WJpa9UZQ==;WzFA8nmsnJEzJA2//0jqVQ=="
+secured: "cmAhjZwkHfnDxdOux4xhJuESnfj3C++aoBFmelJk2E32XbM1Ex9LIJo2VqrDepoi8W2ZLIgVT9XWRZ0tkqaVQpmCZe/7ZsVLxQny9LNyi7WYdZGHRgsferF8DF5HpW27eUsYZcxFh9GiZjUgPrOHtoXjYZbAC2UTMMlbX+etOo68VAoGIelQJL0JLiDxT2P0GKQCvoHtiHfFI0J8PXEtLJxAKyftpXGmRjrVuzV6c2imje9TfsTd0y6N0jmoss1Vwngt4Te6JFR5KxzqhaD+MA==;I5wjFdHhcvVpB/aydgkmdw=="
 ---
 

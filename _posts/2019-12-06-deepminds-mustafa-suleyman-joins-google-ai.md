@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T00:44:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/06/deepminds-mustafa-suleyman-joins-google-ai/
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -110,6 +110,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4DBFFE1DA27068C02A2F6716114B6974
         width: 580
         height: 358
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-10T22:19:00Z
+    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 39
+    images:
+      - url: https://ctovision.com/wp-content/uploads/space.jpg
+        width: 632
+        height: 422
 
 secured: "j8eYFhGvc2sl35OwVqnBOivBqcMTiKnuY8GW4vj6NnCoSNdO4yVT9knm9mNi+qRBMzMiUcXo8wx859tnTPOuzMrquCzoldPi7KFMa2ssxHO9wIEY3CpGwYlzyVm1xpTOV/YLKBnT55P0A9aQLg5BogBH+IgE0sXlMibeEkwyk/zj5Y4HnpeymINQwuC/7+ps1nE8Z5x4bRrJkOpImVYqp5TEc+7olPU2nyNkUu4+XEAT/nWnX24CRvzFgQUQ89+ZtOzha3sIrIGalwpaoT1cMQ==;TygXDrH9Hn0wIiPbvBCtfw=="
 ---
