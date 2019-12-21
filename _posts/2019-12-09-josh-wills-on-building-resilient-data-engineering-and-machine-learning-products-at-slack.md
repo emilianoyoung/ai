@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4B0166D80AAD5247C7B78D2C3BF4D48C
         width: 400
         height: 261
-  - title: "IBM Watson Health Unveils Imaging AI Marketplace of FDA-Cleared Solutions"
-    excerpt: "IBM Watson Health unveils two new products at RNSA 2019, Clinical Review 3.0 and The Imaging AI Marketplace. – Clinical Review 3.0, a tool recently launched in the UK that analyzes medical imaging studies and their associated reports to identify potentially missed findings, facilitating higher quality and more comprehensive care for the patient."
-    publishedDateTime: 2019-12-01T12:00:00Z
-    sourceUrl: https://hitconsultant.net/2019/12/01/ibm-watson-health-imaging-solutions-rnsa/
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.E86B0921B8E55E424BC1EB77FD0B3205
-        width: 700
-        height: 393
   - title: "DiA Joins With IBM Watson Health to Arm Clinicians with its AI-powered Cardiac Ultrasound Software"
     excerpt: "BEER SHEVA, Israel, Dec. 2, 2019 /PRNewswire/ -- DiA Imaging Analysis Ltd. (https://www.dia-analysis.com/),an AI-powered ultrasound imaging analysis provider, announces a collaboration with IBM Watson Health (https://www.ibm.com/watson-health/imaging), a leading provider of innovative AI, enterprise imaging, and interoperability solutions used ..."
     publishedDateTime: 2019-12-02T14:38:00Z

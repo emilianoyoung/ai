@@ -2,28 +2,20 @@
 category: news
 title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
 excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-publishedDateTime: 2019-12-20T19:25:00Z
-sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+publishedDateTime: 2019-12-20T20:28:11Z
+sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: MassLive on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-    width: 1904
-    height: 1428
-    title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1677,6 +1669,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "t9xeio9P06qcRricq3Xk7eqhN1L7Tqx/Y2lmZl+OwOwubHHd4IKuO73Nger9nR/BFU6QXd5T27jZIyRmtJ2/GAuywgjtFICFpTD0hYf7Gfp20SNJZOltyvfugidBVybgwVmMX1lEnK/YWHborRI9v8xhqgzh0ZkNIx5io3+C83yq77hTL2V63fkZAlYmucqqdrHe1YHk9A9PnQeBzwzmPP4oabGzftUNG+ydy8a9C6uftomMYw4RmbxRFlUSisRg5tAQ1LsR40Jp0igB3fIkWA==;WSh8RRB5RYLPPVuLHUOqBQ=="
+secured: "FqG2GkqYkh2xApe+WHbh4M4/2tU1lBGVZEHhg5/b3qKy5ivoQKTvN7KMHgQ2cpbwUhafI5pvda9wXMQ0mUMn9Dqks41sw5Nlot0B2x4X/N1v2to9q0ANnkUDVWLBWuRuGITE5ov1yYBe7XWhgfx0RJupMh+L+KzkT/Vc7iPsIp4v+KrfzOc7Znz4eaOfNObq+YL7algYSI8/e1O7K/u5PMA7qFE+5f3hzhVydXqcHLQRS//Obz69h7TnLXP3oieUTGu0776AL/5M0Ej7O082Rg==;dUfZexMCnZ6lMIgRe20Peg=="
 ---
 

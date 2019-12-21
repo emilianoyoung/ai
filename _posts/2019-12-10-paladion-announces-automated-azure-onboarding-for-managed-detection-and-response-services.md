@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-excerpt: "RESTON, Va., Dec. 10, 2019 /PRNewswire-PRWeb/ -- Paladion, a global leader in AI-Driven Managed Detection and Response, today announced that it is expanding service offerings to include fully automated zero-touch onboarding with Microsoft Azure. This product update of AI.saac will provide greater efficiency and automation during the initial ..."
+excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
 publishedDateTime: 2019-12-10T10:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
+ampUrl: https://amp.benzinga.com/amp/content/14960691
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -108,6 +106,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "hi77eA7imkbokChlRMegKc+pbiKJtzCY46m+i7+l7SlCUQ72yCtpGM9oONouNS94621ztusNOaaMTFwA7SHrPJ0/uVu/I1KsjtgPn/eqDVXiKYKkH7NRBBLYiidB3zp92ZPriBrFQEhe+L77jaq7N1PNHZzej9GWBBg5LYdPZAU5MTUek8hixeFo4u46gx14L5GgB/gZpUanw5WRA3b7BoBa98HyrMLT3DfucSf0tIc6Zeshp5m2bHu5isnLURdPlZCeRjvNHgqmEh1nIXkBNA==;/M/Y5lWKeJZqMYr1VfEGVA=="
+secured: "GrB8ihg4iwrX2hrwa7HGEsxsAVZbjQCBhp6KvF5mErxNMiL7yyqbzlAHY7QHR5Rgq0R6QcBcRDTtaD6yrMkeaz94Cwhrz28+Ifo1yDRdtQDGBGcVYmwWafrftMB1rQOvz5qlTmkIXKIlagsCZea1/8n8xfx00IZ4IjgQJNwzyZa56tAEVBT2HpjYCz9vo2VB1KbjhTP7jGAidWFK55lMTTAA/fm2FMJaBRHCSoQxO6uXMuX11EfxeKzLPQ5xU7pUAeZMreNZLDMzWb3O0vwq3A==;Z5XRfwb+TNdROW27194Zqw=="
 ---
 
