@@ -1,29 +1,29 @@
 ---
 category: news
-title: "UAE belts up for self-driving journey"
-excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-publishedDateTime: 2019-12-16T04:33:00Z
-sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+publishedDateTime: 2019-12-21T19:35:00Z
+sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
 type: article
-quality: 44
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-    width: 540
-    height: 405
-    title: "UAE belts up for self-driving journey"
+  - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
+    width: 700
+    height: 393
+    title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -213,6 +213,21 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
+  - title: "UAE belts up for self-driving journey"
+    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
+    publishedDateTime: 2019-12-16T04:33:00Z
+    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
+    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
+        width: 540
+        height: 405
   - title: "Self-driving cars: A decade of hype, but what's the reality?"
     excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
     publishedDateTime: 2019-12-18T18:18:00Z
@@ -288,21 +303,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-21T19:35:00Z
-    sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
-        width: 700
-        height: 393
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -404,6 +404,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "UJCICt0AluIccKZt7t1QRBVZft1FTkt81zMnuYGk/JgNaGx8UNI81+b3uwAQP3CTG752C7JKEv+mRBDmy4GOxH24OrPTxV6EoHgrB6B+PvuJOAMrAz3R9YwTKwnxaTdNRY8NKLW4Hf+bUd3DbfB18n+gmmhuNwymhdq6+TQH1LjpMp87wriNYfuxGw+4XRpQg3OJujyw7et5dCaWuf+cW/ot3mrQYQPIdlhAZ3gaiHfWu8vzFt4LoA8CnKxM/vxlUhOv0wl9jVh0eiPhKKK0kQ==;eBvZ++/UpCivwcYw9/vQCw=="
+secured: "Gyh46baVzScDO379wbylRx9193QybSvJwSplJb7rxy/cHrI6fT0iwIUo3tFy0Udt32mLaB/2rzLH51R2syBgpqB0NtopWNlXG1DMqmqt9jjt6ex9NbkQqW9AR/wb6ftPajRCfrVzrHdpfbd0VocHhCciIq+GAA0Cxx3iqKT9O1WtA7/RWlKo+5v/F7p8TrNbD+XiJKWO1kH86vASnwKC4TG2eklNIWHl49gBq1dMfgrNzkXIpm433lcBD+K5WF78Od+xSNNlR9R5+Sw0/w0BIg==;YGVi3S2V+7BRmV05zmyfcw=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 630
     title: "The brothers behind Cambricon, the chip start-up powering China’s AI ambitions"
 
-secured: "0eu8TVJ26nYORvA03NiX2DaO0KQLilxAXcEIxXnp27JL47l0fwEnIDcaNwh5nuXw+YqG7bJxy4D5KkoNfHsuDuK7wWXCZw86nUxhYqqDjGPA4Er+setrWezQZxOwcu4+yWZPMDKJpW1oOjyoQ7RK1lOjDy6o2IaArQ1/ZG8Mrntj81eNE7ou//GlexI0Ko+nvcyqKimRcs8ce7R2CawvNdZwCrY4wjFmq0zWOq3D+0n5ReOVEsGBjEdlBQwtExYoNW1NDvA/z7xj+YVPwrOPLA==;IUlTW3cd/foFEgm+PYDm4g=="
+secured: "jVvj5QbfcoabLYw7cMiWZJXNMY7q7e1E9m2L3yxqhK24mrIUROQx4UZnxdDzcBwrzaqwyNwaen7zyRdlDBR1LBFYYTFMPrgARvSJu2zufihzX2iN8bWh3OuTBzDG6hvqOMK+IKCnFpsK68ZSYjMNsjrtKTyf97EENoIIo9WyuaORiR3Dljq04+txfSWO8glr2rrAMUYBpRBRZQUzGnx+rur1S00K3E1dw2YElhO7zs5pUjtWKmRGpfW0m3WgHanKGTYE2JvEXrhMM7pyRKTVhQ==;4fKbDd3zcv4BudbcBJM1Xw=="
 ---
 

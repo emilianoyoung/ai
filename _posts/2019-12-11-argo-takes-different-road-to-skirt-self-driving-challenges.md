@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG <VOWG_p.DE> - are betting they can answer by ..."
-publishedDateTime: 2019-12-11T11:46:00Z
-sourceUrl: https://finance.yahoo.com/news/argo-takes-different-road-skirt-110812834.html
-ampUrl: https://finance.yahoo.com/amphtml/news/argo-takes-different-road-skirt-110812834.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/argo-takes-different-road-skirt-110812834.html
+title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners ..."
+publishedDateTime: 2019-12-11T12:31:00Z
+sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 54
+heat: 94
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.3BCBE11C93EFAAE019BE92D1777E45C3
-    width: 700
-    height: 466
-    title: "Argo takes different road to skirt self-driving challenges"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
 
 related:
   - title: "Argo takes different road to skirt self-driving challenges"
@@ -77,6 +79,6 @@ related:
       domain: irishexaminer.com
     quality: 19
 
-secured: "0QnmrXMQLErdmoVv6a16a+3D1gvsNM1P2pmXh242F1DJR6tTBRBwEiYhFSPFmfGD7czuxpoyaARKitGhpGHSrdPh9RM7zUZYhqxx88Fydb6MTe8I30V9KlwdnVvi3SFbTlYzwr7ywHJsJb/EQWrRPLWqUWZVq7rjiBvKA7rhDpmgYiTpo11vwkvDzuoeUedCTAnyRD9XCf++bxWzarsT4pFcHjCvqRjQN9qo0Chgdbj/wpMoALYxM4qd95v4X7/YPFauoo6OVc/1TTjy07CywA==;nlCKBT3D+RwmKwbxoCzfKw=="
+secured: "MtSTHSQDHSRDdTqqxlOQScXSLBjpww8OliMAyTWHT6sUFAyUDTMvP8CdhjVv2a5i4ojV5bX72TpZ7Rt8rbK9I3ctDXsYpQYdZCqY/gxaaq8S2XY3u1/ekTGHIhHBRBIos4L1K7nW8U0c+dXiN5HzBl5bJDqMqK5fX5slsDflrlhi/J2qYqM29iTYCC1lS9fJrsnatf9kvS7lmraW4MP7yX2eL1ntsk2oaAj/72dMzpHa7uhDSjSQirSC/IvHnS4j/k9YolGB4uJqZ2pt7abtQg==;6LJkdRf95/6Rmr0jWcMFjg=="
 ---
 

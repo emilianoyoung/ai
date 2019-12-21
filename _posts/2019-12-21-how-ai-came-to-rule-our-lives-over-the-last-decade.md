@@ -7,9 +7,9 @@ sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-l
 ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: WMUR9
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-  - Facebook AI
 
 images:
   - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
@@ -26,6 +25,6 @@ images:
     height: 393
     title: "How AI came to rule our lives over the last decade"
 
-secured: "FizX7b4HWnT+AJVt4g3yMuZAL2iuvlhYFrLwy1STpoGdXF6Dj8Gmmz+ampbzrCW5ti6gHYOXzxSu60dCR1skGUywoNTxlaYzHAEVYiWe0NfXzLA3Cs2ditCSAS26CPamGDsv2WM4MDYt2jAJq/a+8nAU7Di4259aEEaN4Qbuq/1NoMkPSjzBUm0LLLL4symFvekKG28gk7pM2wqX+eXysESdLIkKiVvt9PrlEeapHPyw9wRhfaFDK0wZNknNBD/4txVk/p0GeE+J4CAY0hjFjg==;sflVHr6EMMWoSopMDWUncA=="
+secured: "GJWR/OfDRV97VY7l4DgHdqc1/ncHDi+FuespRrMj45jzTrzgl/VZyVEuRk5/z/cdFQ6CQ9+Jxp+o6IEvOAvOBRD20cmxLlTjIATZ0/qLkkuav7Xf291tXgSQUUAzrUXpIJxkBkeAwPJGfLfw9HR0BHmO59x8MNNOc5ja0dy517QhhOCl8uQQAsh+ONUo/yRR4IgAgVLm3CgqOEphlatcRT4ILwyyOoIRqwBMexkOks96UpgYTSrXnSM7qow6LutdDXlsnL/6wLo5C0sa8gydkQ==;v1jBuMUMXNoLxWck/HyrAw=="
 ---
 
