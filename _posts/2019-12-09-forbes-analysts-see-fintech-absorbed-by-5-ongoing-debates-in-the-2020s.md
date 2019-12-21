@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
         width: 700
         height: 350
+  - title: "AWS blames Trump for its loss in the JEDI bid"
+    excerpt: "AWS concluded its introduction by saying that it was “impossible to shield ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
+    publishedDateTime: 2019-12-09T19:28:00Z
+    sourceUrl: https://www.defensenews.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7ECFC7138165B95AFD7FF9E47F273001
+        width: 700
+        height: 367
 
 secured: "yjdbQZ12ZzTxblLUFM/MjSS9QWwi2S9tDg8UdtjzwiuYn0yzKgVFXIAcMNXVD3qS42I1/GJgkJembUjzmSheFgVv+WRfM91wk/RZu1WSN/pk9Xwc2v/7LspAYtXaufxFLnvwktTOqOPZCPAgAMLpFo6whkbqs5bEHlQ+oBaIzRpsCQg6Jbp1gv2Jp/XURvUC/6nkLBdrTvHn5J8aeGQNnTn4MRT5lF2GWXuxsm44G5IA9BPkZJvUN3KiNQwL5EiKBurAjUN2ndyZ15RzYvqcrw==;TVq8tptkvQflxUQI6n6NxQ=="
 ---

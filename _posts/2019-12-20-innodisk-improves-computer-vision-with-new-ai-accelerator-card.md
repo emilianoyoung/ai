@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
         width: 400
         height: 430
+  - title: "Facebook removes manipulative accounts with AI-generated pics"
+    excerpt: "SAN FRANCISCO • Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers have said. Researchers from the New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
+    publishedDateTime: 2019-12-21T21:49:00Z
+    sourceUrl: https://www.straitstimes.com/world/united-states/facebook-removes-manipulative-accounts-with-ai-generated-pics
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
+        width: 1200
+        height: 799
 
 secured: "CSOzqY9wONkCemvrYd8Yv4NCUpDbtYwwOVxijaA/kKJ5yZ6KunqPQ9OaahrKYYO4An+Nb802ybCjDcMUTHn4r7LgSZNx2kJJm+qK75ouhkVfK/pz6Bhf5nAc1O8cgfXcb2vHD9EbxuNPfuNcUOA8ZBCKTid+gaMfOZT4oQaKcs9kfoTQZC9JuHAO6qjCuM9Tx6wikwmQV4sXwIQ9pjtUsSPF4yZh0uMQj8d8nhtUIyFu/JhJC4rPeDYLK4yOW4tWd29kf3i54CZrAHRMFV385w==;HIln2tL43nwBCujw7ukIMw=="
 ---

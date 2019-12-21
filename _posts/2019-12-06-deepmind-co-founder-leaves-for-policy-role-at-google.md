@@ -40,6 +40,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6438714A7968955BDFDFE9CC1002A9A4
         width: 700
         height: 393
+  - title: "UKtech50 2019 winner: Demis Hassabis, co-founder and CEO, DeepMind"
+    excerpt: "Just as the queen is the most important piece in chess, with its ability to move anywhere across the board, DeepMind founder and chief executive Demis Hassabis is at the centre of an emerging world order where artificial intelligence (AI) will impact every ..."
+    publishedDateTime: 2019-11-28T19:06:00Z
+    sourceUrl: https://www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind
+    ampUrl: https://www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
 
 secured: "pIX3Qwdn0gg9WX3gKNyDcauL4iJdl5hnaw9Cze/0sUjvly0CZgTKas34aw4x+vLivoZzNPtCuKFSTlMwNJpvDsK3DE24WOnD1tz4TDavA1SEzpnvT7rXXjDZhQqRQpUqch+AoNxRzl15zyA3a3dU9crkAJMzJeAAyTCnZmmnaHwYf4kpoUPI3N4CyqOweePFR1HXKkmnDXE3NLx3yEQVVxn7hR10gF2yWqgWpE7qpO5B2F+gyEe1hrxLscwa7JctdPjQZ7YU7uNC2weBv54e5w==;BhLH6IXfyi+E06XMflf8Bw=="
 ---

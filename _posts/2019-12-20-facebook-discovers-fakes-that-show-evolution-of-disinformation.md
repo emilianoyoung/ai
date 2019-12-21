@@ -90,6 +90,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
         width: 1200
         height: 797
+  - title: "Facebook says a pro-Trump media outlet used artificial intelligence to create fake people and push conspiracies"
+    excerpt: "Facebook and Twitter dismantled thousands of accounts and pages that were part of a global network seeking to push pro-Trump messaging."
+    publishedDateTime: 2019-12-21T21:03:00Z
+    sourceUrl: https://www.businessinsider.com/facebook-says-pro-trump-media-outlet-used-fake-profiles-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.8B67C0C7AC285D6F9598B7C829CA375C
+        width: 700
+        height: 350
   - title: "Facebook takes down fake accounts with fake faces pushing politics"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
     publishedDateTime: 2019-12-20T21:07:00Z

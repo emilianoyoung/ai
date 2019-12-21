@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photo
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.59046B142A9993716D67B7D7DBA51F63
         width: 678
         height: 655
+  - title: "Facebook removes manipulative accounts with AI-generated pics"
+    excerpt: "SAN FRANCISCO • Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers have said. Researchers from the New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
+    publishedDateTime: 2019-12-21T21:49:00Z
+    sourceUrl: https://www.straitstimes.com/world/united-states/facebook-removes-manipulative-accounts-with-ai-generated-pics
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
+        width: 1200
+        height: 799
 
 secured: "wYBUPwq4Z2EI0fbGC+VUEpNL3q0p9AKQ5lr2dLTXbKF+swAkIY7ewJs2MBEI1rkb7Vc8JGslKPYG/Hi+1jb0UD1nrWDiwMdOH+i8n9KNXzMEuXu5em50SbBSHh28VdtitiecKEdzF9yFKOcjOuJ/uYBJYHdcI10krdJgIhrO6czlPc1dlvUBWrT3Rtp3F6jzuq6iXN9L1YVE6DeIt/IVSUoECQtnLktV/n9A9CR6OGQhcq09+NMF9mAzPp9yEMUa/xeHHLOwYUIMnEoyf1NMNA==;dJctp7CLrXf6ybLtyNvoLQ=="
 ---
