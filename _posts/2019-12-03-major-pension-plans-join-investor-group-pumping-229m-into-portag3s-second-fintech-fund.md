@@ -8,7 +8,7 @@ ampUrl: https://leaderpost.com/news/fp-street/major-pension-plans-join-investor-
 cdnAmpUrl: https://leaderpost-com.cdn.ampproject.org/c/s/leaderpost.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -26,21 +26,32 @@ images:
     title: "Major pension plans join investor group pumping $229M into Portag3’s second fintech fund"
 
 related:
-  - title: "Swedish Fintech Firm Bokio Raises $4.4 Million via Investment Round Led by Creandum, an Early Spotify Investor"
-    excerpt: "Swedish Fintech firm Bokio has raised €4 million (appr ... The capital raised will be used to help Bokio further expand its operations in the UK market and enhance its AI-powered bookkeeping platform. Viktor Stensson, CEO and co-founder at Bokio, stated: “We [aim] to continue our partnership with Creandum, who share a mutual passion ..."
-    publishedDateTime: 2019-12-01T12:56:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/154674-swedish-fintech-firm-bokio-raises-4-4-million-via-investment-round-led-by-creandum-an-early-spotify-investor/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/154674-swedish-fintech-firm-bokio-raises-4-4-million-via-investment-round-led-by-creandum-an-early-spotify-investor/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/154674-swedish-fintech-firm-bokio-raises-4-4-million-via-investment-round-led-by-creandum-an-early-spotify-investor/amp/
+  - title: "Canada's Portag3 closes CAD$427m fintech fund"
+    excerpt: "Portag3 invests in fintech companies around the world but with an emphasis on Canada, the US, Europe and key markets in Asia-Pacific. The fund is targeting the digital wealth management, insurance, personal and small business finance markets, as well as applications of enabling technologies such as AI. So far the fund has invested in 17 firms ..."
+    publishedDateTime: 2019-12-04T00:27:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/34897/canadas-portag3-closes-cad427m-fintech-fund
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.3314E81E59ADBC5D85EA42A551E1A382
+      - url: https://www.bing.com/th?id=ON.35E886438A16395F55EF39F3031151DE
+        width: 480
+        height: 270
+  - title: "Portag3 Ventures, affiliate of Power Corp., creates Canada’s largest fintech investment fund"
+    excerpt: "“When we started [investing in fintech startups] in 2014 we never would have imagined how hot the sector ... Technology Corp. (known as Clearbanc), robo-adviser Wealthsimple Inc., artificial-intelligence firm Integrate.ai Inc., online lender Borrowell Inc., benefits provider League Inc. and telemedicine firm Dialogue Technologies Inc. Many ..."
+    publishedDateTime: 2019-12-02T21:12:00Z
+    sourceUrl: https://www.theglobeandmail.com/business/article-portag3-ventures-affiliate-of-power-corp-creates-canadas-largest/
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.C26A0727200BD1D73AFF9B949DB3703F
         width: 700
-        height: 604
+        height: 466
 
 secured: "GajeX7XPorabEYPdTChT0+fnqX+vnFHnnAKcf34RoUIoM2lTuQjoahs8C9eHvnkmlh+4ta/8gA7kkgn9ib7u7XNONRjEgIfQefvLFQXTZTDh7JycK3REpAY4ty28SwccDuYF4NTRCMX+G5R51U4MgWurNucYWWuag4D9ywG9l1VBIDSc5WNmqoClNOXvLD9OtQEIA8wTio8WdjMFtBuKAlrenvsMmRq+kymO8w6n85F7iq8GzmnC+97mbidN/ngSkBG8W+nXvBfkXAra8D8zCw==;iHrhPd7tWC2JyzmV8D4GyQ=="
 ---
