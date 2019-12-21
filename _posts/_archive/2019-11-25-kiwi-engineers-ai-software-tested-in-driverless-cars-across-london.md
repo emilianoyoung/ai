@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-25T00:00:00Z
 sourceUrl: https://www.stuff.co.nz/business/117626324/kiwi-engineers-ai-software-tested-in-driverless-cars-across-london
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 800
     title: "Kiwi engineer's AI software tested in driverless cars across London"
 
-related:
-  - title: "Driverless cars aren’t safe enough to share our streets"
-    excerpt: "US safety investigators are right to be fed up with rules allowing companies to unleash driverless cars on streets ... Even machine learning may struggle. Artificial intelligence ideally requires millions of photographs simply to learn to differentiate between pictures of cats and dogs. How much more complex are traffic negotiations?"
-    publishedDateTime: 2019-12-01T11:00:00Z
-    sourceUrl: https://www.ft.com/content/0ec3079c-0b9d-11ea-8fb7-8fcec0c3b0f9
-    ampUrl: https://amp.ft.com/content/0ec3079c-0b9d-11ea-8fb7-8fcec0c3b0f9
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/0ec3079c-0b9d-11ea-8fb7-8fcec0c3b0f9
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.4110BB915FBBDD28899FC26BB2E11E35
-        width: 700
-        height: 393
-
-secured: "Z2arbWNZUZg2zbCN/ciBt0zRUGIXdHrFNYZtNCMrzbwaoW23mheSVQRBFqdgtDFlbg5SZDRfIPO/yjER4qlCNAqX3EV4JOyjtIGNsojxzSmG6i/VNlBIfqV4zKd72vDUxv1A2X+cZcA2oMhET6IjE9fl2+zcRi+6M8qzIHAKoTt/0lX3VdvfsH1rPan0s8v8F5l6Xz3j5pkg0bXF3AWYwaj/5lDmbl5lFKM7NYFeXoEU1wvFD2oSQbqldRI7UBiP4HDmFuC+6hMTKekAHqslMQ==;0zgoEkd9w7JQtmE1EAeUxQ=="
+secured: "KNOeOQHf6E84fplBePZlTHk7V18ChVPfk13XGTyaXdvaPhzYTCOSy6oiRzk4eIy63coJnLChZ+OTJvH3jjs/KrsY/Qxr3lUkJw6XHdqngs1o0xdRDTd+BHF7wPgmT8tWz3rOrRWQa4umMezFMB0U7nAmUdvdSf01xYqaRrupT8HvUP54NDz1dCwmc/q6s5m+SzsPndIvzX1cUm7aMlgxSMqfoinb3IdY7A8sohWvTxRor4sguHeayLgw4BoQDHjxeh7FpzV1KbUPy34NwwMT5Q==;FrFtSJTG+iv+sOuqEpdSeQ=="
 ---
 

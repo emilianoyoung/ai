@@ -1,23 +1,29 @@
 ---
 category: news
 title: "AI can detect blood cancer with high reliability"
-excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer – acute myeloid leukaemia (AML) – with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
-publishedDateTime: 2019-12-21T09:46:00Z
-sourceUrl: https://newsd.in/ai-can-detect-blood-cancer-with-high-reliability/
-ampUrl: https://newsd.in/ai-can-detect-blood-cancer-with-high-reliability/amp/
-cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/ai-can-detect-blood-cancer-with-high-reliability/amp/
+excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer - acute myeloid leukaemia (AML) - with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
+publishedDateTime: 2019-12-21T11:00:00Z
+sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 69
+published: true
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://www.bing.com/th?id=ON.638F765B09B875B3BEACECF20177A978
+    width: 700
+    height: 379
+    title: "AI can detect blood cancer with high reliability"
 
 related:
   - title: "Artificial intelligence can detect AML with high reliability"
@@ -36,6 +42,6 @@ related:
         width: 620
         height: 480
 
-secured: "yf4W1wMl8P5NjgNitr5mIVYoYBurkDOAXYRG91F4+twwgfBrdrky4+GmAk7zsiIldKyK0VimMqA5dloX1RHRLuBQxU4UH6vHNsQ2RaLOn9oJouRHSlqXbWOjcQIP3kjUykZ7zmM3oyjD1ksSNfga7t6ILnf5kP0XQpqA/vSJLjPl+hKOMsLXAS/U7SB/uVXqfbCgoY2g/f9UL8emzqB1PZUgE4+bpvO8hwOOSJuBLIdHvYxA0HfsLke9svHn+hnUWfpDc/zMLa9NYh4twadR1Q==;FkTaPVavcJoNDxffxedjVw=="
+secured: "Nw3CiWqkLzfPz6hUB6/XFy4akmsxJG/fgmL1YBvU/PfYd2ja8HqCU274Vf5eC2yqySTpMhQY3EWeJvCIeDSwVgiaFAHmYrOGE9csobM2Wp0gFStu3STSQ+0ZIzIKg8jInR/GFMSsWmlTacNHrkjfdwGoWuzMG0IXBBzSRi3NtRN1AWyyM273WWPLg8cJburreDzaZaRnw1xwlqBolrmdkGWmzNmpkqDljsizF7qHCY0o6UJIXl4wPT0As6l2b8vnLZb2eD1mbC0lKEplUwJvuQ==;FBPufXZMQKARPW250RwuKQ=="
 ---
 

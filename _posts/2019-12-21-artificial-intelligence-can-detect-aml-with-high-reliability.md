@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-c
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
 type: article
 quality: 59
-heat: 69
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -27,16 +27,20 @@ images:
 
 related:
   - title: "AI can detect blood cancer with high reliability"
-    excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer – acute myeloid leukaemia (AML) – with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
-    publishedDateTime: 2019-12-21T09:46:00Z
-    sourceUrl: https://newsd.in/ai-can-detect-blood-cancer-with-high-reliability/
-    ampUrl: https://newsd.in/ai-can-detect-blood-cancer-with-high-reliability/amp/
-    cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/ai-can-detect-blood-cancer-with-high-reliability/amp/
+    excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer - acute myeloid leukaemia (AML) - with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
+    publishedDateTime: 2019-12-21T11:00:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.638F765B09B875B3BEACECF20177A978
+        width: 700
+        height: 379
 
 secured: "/ojpma/za2WukkxljKHUUVPxHMo66gInyz3/ghfO2CTVW3llsTZxYkfd7VzT96TsRJH4jGtQfToGL5PlXYSKih8ysp0tMutv7jJmABm2Yr+po/Aq4aF1tTO0h8NvFaOL8xl/42X5mj93yaCGAJ03D9r5qHA+cAF06eI5XQmn6cVIYKMey8xVX/klhJozVXG82dgrcWJ+muQ8BOXIGaWzw21dru5px1+ktogQhwiajjYekx6fHpcHcWhNwkUoolr7TehJi2qUK8xVW2Froup4ow==;a0olAVS+VNVXIC/5oGGQZA=="
 ---
