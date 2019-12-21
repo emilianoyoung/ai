@@ -2,22 +2,16 @@
 category: news
 title: "Honda will show off its in-car AI assistant at CES"
 excerpt: "Aside from the usual claims of \"unprecedented\" speed and accuracy, the company doesn't say too much about how the tool compares to AI like Google Assistant and Siri. It does note you'll be able to wake it by saying \"OK Honda,\" and that it'll be able to infer context about a question based on your current location, as well as any previous queries."
-publishedDateTime: 2019-12-19T20:22:00Z
-sourceUrl: https://www.engadget.com/2019/12/19/honda-car-ai-assistant-ces-2020/
-ampUrl: https://www.engadget.com/amp/2019/12/19/honda-car-ai-assistant-ces-2020/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/19/honda-car-ai-assistant-ces-2020/
+publishedDateTime: 2019-12-19T21:22:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/honda-will-show-off-its-in-car-ai-assistant-at-ces/ar-BBYaUxw
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -28,6 +22,6 @@ images:
     height: 367
     title: "Honda will show off its in-car AI assistant at CES"
 
-secured: "/pmq0VOc5wmTAdmlHImBVNR/U9DmuK8V+fuGwpWfUmfH3e06ocy/Upswj0lto0TyyXvXALvKbVCqg0FbfKlcsIAn+0kbCWBowuAM3gleYigiT1VJdUT3E5JHvSDUg+stESIRUBd2M4NQAy8uLK+ZOkzSXhBnfi5D5i4fiRyQRUyTAQH9AMVbOwnt6eI0XoRKXz0/OuIiQt5LGRI7dM+howqXOH7BwopQCvVtav3Nac/p56Btgp5xB2+E4Qk/GR2Bx+G2iFu0lATAsK9EE9MenQ==;nXd6JzdTh0xH8SSWvrWMEQ=="
+secured: "0tR+jaP6eRbwqgm+qZdx0V2k4f8CyIrGGFi0MNqCXaH8C/OEuX6K89AFDB/30Nwxo/EAllwcjaFedQkmGdhT1oNJhGsG/tJuiAm3nYsF+8lZbR/df0v57If60jGM1NJehbfFexfk37Pw4945098+RkivnFjp4wtXg/bXM4jQK5xWUJ82sqi84XbyS+dQQLvnsn5BoiYQ1/2BN8KTpAz6wtV5cBhJfWQigSYqq+FISI66B9JcgJ4iGp+GaJZTtA0cREVgG8ssX3l2LSTkTv1wFw==;DQtyFkaIBb1pt7Uas5hZcw=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
-publishedDateTime: 2019-12-03T18:32:00Z
-sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+publishedDateTime: 2019-12-03T18:31:00Z
+sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
+ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 84
+heat: 124
+published: true
 
 provider:
-  name: Yahoo!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-    width: 5184
-    height: 3456
-    title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+  - AWS AI
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
         width: 700
         height: 466
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
+    publishedDateTime: 2019-12-03T21:24:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
+        width: 700
+        height: 391
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T00:00:00Z
@@ -62,6 +75,6 @@ related:
         width: 512
         height: 512
 
-secured: "4L6pN+6a4zi0fcr7gxB1892d7TIYGWd+GrwU7ZV7OpF8X9scF+3T2EJrFNr+zn1hkrsHrttarHwzzREnVMyWoBlqIsu7GGv8kvXZVGBEBBycq+/SyYVSSpgtTgC5S1Q1iPErwi3ReFmp2oMudK4/iu8Ym+6lZX9fzmUHZw+cBHlN8MwVCpYtNARfi+A7HdhUS8TiojNQzQb+2EozKRBvSrBz7Li5FB2E4Jbb6zasOrLtAcBzJNXpfjc9j+iuLfjNQCmhqlnRmTo+1q9hM6g7Uw==;Wkpyknzne7gnwqSuhsLFZw=="
+secured: "2m11tH2MhL/KmDtIaD58xeY/9I9V5d3jrUMP6l0ncKQsUvrZ80NnOUB6wSCY8MJVhbQ13BFOyLpNSiZSkIOk52bYEl+PcXFXcqoAV++rDi3OA9GuH9yd6yV24zLT2KEcHFOgczA9h5tXpdkv7STI1lW3SJMaBCqyfdaMGZKBs/S9tXSQDnWU+R6/c5ZZtCvYmAHIFyP8chvImSwWnosvtSfP5/uGWFnm9Nqj2HTh65p0TF4TK1qCLtjuit3Uwjtbjhjw5UBllsMScLof9284Tw==;f4uj2x/H48nfE73sFI3/Bg=="
 ---
 

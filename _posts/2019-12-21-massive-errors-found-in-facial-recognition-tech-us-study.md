@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
-excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
-publishedDateTime: 2019-12-18T17:07:00Z
-sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+title: "Massive errors found in facial recognition tech: US study"
+excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
+publishedDateTime: 2019-12-21T03:08:00Z
+sourceUrl: https://telecom.economictimes.indiatimes.com/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
+ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
+cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
 type: article
-quality: 53
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: BuzzFeed News
-  domain: buzzfeednews.com
-  images:
-    - url: /assets/images/organizations/buzzfeednews.com-50x50.jpg
-      width: 50
-      height: 50
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://etimg.etb2bimg.com/thumb/msid-72911022,imgsize-53302,width-800,height-434,overlay-ettelecom/massive-errors-found-in-facial-recognition-tech-us-study.jpg
+    width: 800
+    height: 434
+    title: "Massive errors found in facial recognition tech: US study"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -522,21 +524,6 @@ related:
       - url: https://thenypost.files.wordpress.com/2019/12/shutterstock_1160291101.jpg?quality=80&amp;strip=all&amp;w=1200
         width: 2000
         height: 1333
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
-    publishedDateTime: 2019-12-21T03:08:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/massive-errors-found-in-facial-recognition-tech-us-study/72911022
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72911022,imgsize-53302,width-800,height-434,overlay-ettelecom/massive-errors-found-in-facial-recognition-tech-us-study.jpg
-        width: 800
-        height: 434
   - title: "Security Industry Association Applauds NIST Study on Facial Recognition"
     excerpt: "Facial recognition is a fast-advancing technology in a constant cycle of improvements and is widely adopted across the public and private sectors. Reports from non-biased organizations like NIST are immensely valuable. SIA commends NIST for encouraging research organizations to examine this issue comprehensively rather than publish incomplete ..."
     publishedDateTime: 2019-12-21T00:04:00Z
@@ -787,6 +774,17 @@ related:
       - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
         width: 700
         height: 350
+  - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
+    publishedDateTime: 2019-12-18T17:07:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 53
   - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
     excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
     publishedDateTime: 2019-12-18T15:28:00Z
@@ -1623,6 +1621,6 @@ related:
       domain: msn.com
     quality: 12
 
-secured: "Mzkt5CvtEmrVPmPvH0GbEHFCflqw9b4VLqHsgP5q6qNd1kgZL7wgwb5s0tNtTJyXq58IBuy+5CEwWJc5GfN2OKlP6PRddcZeRksuOLY8luimgpfYCrKfvgEdoIZCUw5Vf/Qd9b2HUPGCt7z6n3rzU5nca7VHG7HT7msNAnYmjMgGjbDlj58Q98ci8q1WL6+w91qrvSpEh5Cac0BH2IJ37ZAHVkWCmDTNe917RiZMK/HVoe8wm5wpnqmiUmp+zqokf7IBNI9iNMf/N3C3D2cqEg==;eqkTRN+YJ4QgugS4FcNm1Q=="
+secured: "h7ghU7NljY5rZDphLIxGY/o3iDcjmPRLoMFJ7aoz1lsUmEKLcF/1aHkAsKfIIbYPvNNC0bsxGxVD2GZBjHEeOwXPgfYowLNMIMWSJ7ZIDfGYYPPwFJylqGZqMms2crLZtNYAY1yVnhrt5AK+0Ayb5HGvRIjl4wmUq3WT2SGuAVrV5r/2TcCKlXCldKchmwvoDVYUU3Wy4bykY669gwA2tiIoVMBprELgOI32NF17UCTtAnT9QGiXm4rqggFMw7EoG1I8zKoLZilBSyqyGW6gVg==;Sop6yXwYw0yuxOjpMDn+0w=="
 ---
 

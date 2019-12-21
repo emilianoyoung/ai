@@ -23,6 +23,6 @@ images:
     height: 420
     title: "Machine learning in financial services"
 
-secured: "c7y3jja5lb/9Zzjk/e8gfmvaD1Ha/iBm4Mfmn0Mo69LwionWoZ9SqfxqUozb+O3cXxE+t7JuxFIt7hyD8/awXQ3uLIZHhI95HU8JlIviCurVihQBZBDFoNm9Do3jpuhdkOg1FCIDoggWWMQn7awbLOEVytSfd9a6W30TzSSV0bQHEfKdjhZWLQ52EweyAZuzu3H4FvSWXB7t4bcVqf3uoyhcmb1UvKkJ1EBv0msGLRtvNiyKof8Uo6beBwsGb6FirS3+6J5lhhfkh0xKz4/YbQ==;dgmJluNe3+oPl1Imey4qfw=="
+secured: "S28YbLPeoTmcMzD88rthoS436OzVvjqg1Amtt+7VAQZqYZuHaFtWS0clyFjjymtiBov6HYI51knxiSKe5YdEc8/xSJyLYvEhMqmlpQNb4c1jO0yADHGGCt3MxxmBaM3iFIk+34n5NUxjiVKCc8cMeQFVj6OOhfpfO5DyLPufH6mnhjHuU01Zz87LCGQmxbA92buW0I6r2kZw5JqvVidfCKKLNbt229Pm+rksRWM1ZBym90GTL6KWnMy4YXE7Y88dMsZv/Gqn8994fWTbxXXr4w==;iixDWAJZoHpyhEuAlAFFcw=="
 ---
 

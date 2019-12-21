@@ -26,8 +26,8 @@ images:
 related:
   - title: "This 'lemon' could help machine learning create better drugs"
     excerpt: "WEST LAFAYETTE, Ind. - One of the challenges in using machine learning for drug development is to create a process for the computer to extract needed information from a pool of data points. Drug scientists must pull biological data and train the software to understand how a typical human body will interact with the combinations that come ..."
-    publishedDateTime: 2019-12-20T05:22:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-tc121919.php
+    publishedDateTime: 2019-12-20T05:12:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/pu-tc121919.php
     type: article
     provider:
       name: EurekAlert!

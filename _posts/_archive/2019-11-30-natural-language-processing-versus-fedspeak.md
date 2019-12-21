@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Natural Language Processing versus FedSpeak"
 
-secured: "ddQywb1bM9xZw0urB9quqUOU194wZtn25jmcw8yLTHLXfzrxaYUK2srwp6fxiLj5pV2TRbI6ps3opqshTjQAW+B/ybm5/L6AxcHgRMQ/lSn48HC0KFz6FpO3gCh5hSsA0RgRfAGu7ile13WXEhS0a3klkeB1j8X3WKECgRUCfGqoSMw1KfrwMMKZJIOzDtZr7zYKWH/GHYGZz9dBrjNJGRILBJ5ulxka4jFtbwdHHcrzbX26lroNoB2CcPSIJ3s4gsyHV7GgluwAZjruKTDLsw==;/SKHZ7Zh9xfnOssdpMWHpw=="
+secured: "bJ/1tl6Ul2kPY/774twye2OHjdmtEx41bddjR/iCR3mGXwSL7NnT1LFSs2Kw8unelDqJcY+M6M2r51zFwuRsDEtlP4GVUcy09/X63Z808mPfXrPBtLoqaAksDIqeIdv5ro7nm6cLJQaMMZhzBAk2crRFrJC/THv5idetHcMubTIP8oBN5uT1ioGZysrW6M9ijHcuqaS/5wQsy/i0xs2elFVQ/yyfjvph40KtivfrJ7+e1bOYyPfd3dcEHeUOtvHJjpwbNFPeSTZm2zONJXtVpg==;s7T7Knu0ivrUw5bEuRY3GQ=="
 ---
 

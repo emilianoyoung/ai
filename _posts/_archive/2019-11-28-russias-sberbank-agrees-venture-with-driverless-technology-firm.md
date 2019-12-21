@@ -23,6 +23,6 @@ images:
     height: 367
     title: "Russia's Sberbank agrees venture with driverless technology firm"
 
-secured: "Qyq4VoZlBFRZwvWM1vMRW29Nnh1hx5XcUitemVMGDklupC9iHKdoagom2lo+PJOHOCV7dWOTwowvvsbN6Tvev/PSz0QSRgladWNT5cp+eSbZENFvOIz2TxBZT35q2pfxegfJw0BYGLt3VoGVvtoVpztxh6UCsqupFm/HHZ/6rBn9kTh/jvmqUS7bez9a9+tyoL8ty8KXkjkcPkc60crXNP8L5nm5jA4eY21YhTCUowro5++NZlSMc8Zebnp4lNYI74Baq6IHcRFt/SwR67QqGw==;dLFg4ntl0bXhpxniyFNZeA=="
+secured: "+SXOflDI8voSJSHfpsPgpQl4D+e/+QYQXwwL9HetOwYoYhyWnDmO7PEU4q1vYBwtd8n+lYw9+SPk05Ui8CHdjsDr8j8B6eiE0pj9pXeRyBRskDtuFevQueWvHVRKj1OxKM9IbLe+rXNyG6gOeuXmcfugzrqI7+5J6GlyMCcro/6eLwQJ5D1BfYbA3JjRVEtaV6I4THHhB0yuvzYb2Oupt962Rb6ZTROxKU5JVnp3V3fnz6hkB9SXcncqq8sOxh0GB/poarCDqRqLS41nM45Tpg==;Ft/X7J35tlcq205nokP1bw=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AWS expands DeepRacer league, announces car updates"
-excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-publishedDateTime: 2019-11-27T14:37:00Z
-sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
+publishedDateTime: 2019-11-27T14:44:00Z
+sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
 type: article
-quality: 84
-heat: 114
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo7 News
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://s.yimg.com/ny/api/res/1.2/SgWm76WZNSXr5GaMtl3jOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD0xMDEzLjMzMzMzMzMzMzMzMzQ-/https://s.yimg.com/uu/api/res/1.2/4VNuFD01lWjXqv8iOGbVnw--~B/aD0xMTg0O3c9MTQ5NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/336d0d5758a11e408ab799f9a4823bac
+    width: 1279
+    height: 1013
+    title: "AWS expands DeepRacer league, announces car updates"
 
 related:
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
@@ -35,6 +37,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Ottawa DeepRacer League – Start Your AI Engines"
+    excerpt: "it has been brought to my attention that five cars and five tracks are on their way to Ottawa. There is going to be an Ottawa DeepRacer League! About six months ago I was at a technology conference in Washington DC full of, you guessed it, US government ..."
+    publishedDateTime: 2019-12-02T01:57:00Z
+    sourceUrl: https://medium.com/@scottnlevac/ottawa-deepracer-league-start-your-ai-engines-f684b4d6b93e
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
+    images:
+      - url: https://miro.medium.com/max/494/1*_cpV4IOzc-nb2ZkmCDgqoA.png
+        width: 494
+        height: 338
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
     publishedDateTime: 2019-11-28T00:13:00Z
@@ -58,6 +73,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "gwM3LvFULL59U5cPnUvUQsvp7dvkRD+qDMMOqdU5zfQ7WuU7Vtkx38A1dfm7SAQ6v2Dx5lCWJKzAl9Hebo+dCrXzdteBzeLP3DPp7h1wXLnkxlB2/ai9M6ZcQ1XYf7xwQAJXWtyahWV5AX5SoLljuOPOd6H3VvxsuRZ++8jE6DU4/eVY5kCnH3aBOcN26jvgfe0kEWO6DkA/yTukTTFlVMAa7tFt4/gF98724mWxrdFWnwReD2l/yGp4qrhMKGEtHFEN2QfIjay6dSOlOo6vzw==;qSo8mPRzp99uNeiAgSthOQ=="
+secured: "j07DAu80kssgQwNi90EDtlitpLdfFw/ojK8DCQ07IbYliHwzgoyrTMPHrOlKy3z5URuOjF8ieZfQDb2qNY18GhJaANvK/lHIf7kG83PjdJjurP/dgSPDqZ8F1phTRSVi4/hekjd7VpwVBSJnBSrinGl04zegioQ3YR+GNR5YpvyvcaxJAT1FQJFBcw3XQeGQvcewOBCK88Rv3msztfTqBoopkSFy2hdh8ccM02/SHSCMReTr9230wEmAafsJq4IIT5I15urftZgye933oQP7ow==;wz4pQ4KhqkHf/iAD0V7pFA=="
 ---
 
