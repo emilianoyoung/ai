@@ -52,13 +52,17 @@ related:
         height: 391
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+    publishedDateTime: 2019-12-03T19:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 19
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
+        width: 4032
+        height: 3024
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-03T18:44:00Z

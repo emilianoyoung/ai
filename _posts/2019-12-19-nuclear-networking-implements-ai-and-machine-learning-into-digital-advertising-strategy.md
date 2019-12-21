@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
-excerpt: "Of course, Nuclear Networking is always looking for ways to differentiate itself and continues to offer the best services around. “If somehow accessibility to the top 10% of employees and machine learning + AI becomes more prevalent, be sure we will be in front of that trend as well with something better,” said Horsley. Nuclear Networking ..."
-publishedDateTime: 2019-12-19T15:00:00Z
-sourceUrl: https://www.financialbuzz.com/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy/
+excerpt: "DENVER, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Denver-based digital marketing agency Nuclear Networking has implemented AI and machine learning tools into its digital advertising strategy, allowing for 24/7 competitor monitoring and better budget spending. “At Nuclear Networking, our core digital advertising managers have a high level of business ..."
+publishedDateTime: 2019-12-19T16:00:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962944/0/en/Nuclear-Networking-Implements-AI-and-Machine-Learning-Into-Digital-Advertising-Strategy.html
 type: article
-quality: 11
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
-  - AI in Finance
+  - Machine Learning
 
 related:
   - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
@@ -46,6 +46,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Q19kA5TC3EnrVwJv5l7r/y4plDzTIIsGXgPwFUmGoZ8MemW6Xg7RBwpb/oVo+lMCNemoXvnIa2g2UQMoHpioSxNgFj1xVCVhqEDzupMhp/6seNCg8u6znaMKyf6j/r0n7VkL2J8Xgy4KJFNWcLFnG5rx/lKDquJVQc2SieZ6mJAIA5BSgBqSZmB6fJVDsSngl8SaNh9N2s8W4NcXgz2x72FwJ4E/EpsWqSoAn+aYxRQfs/gaDuP9LqtklNlCxJCXRjdv95/ynXUWZ3wlpoPjAw==;K7wgfuEGw6hreH96cUq5/A=="
+secured: "4WuSA+2oUYZka/e95qInQwySyv5NbwFv5/7fEXSmcQGhbxjeiaCV25/1ytNnhY8iBeEQ+8ItJ0L1vH+Ca6pzvC1FHPYCtjYE+frx3OEyrAb1VNTvOK9SLhqV4ZcakeZ6Aizb2g9JM9PdJrMx4phWk/PxuvGvw0/WCZCvhMTdFGh8X6LFzvq3wgLznnGwcXcKuKwy3CUEx55N2nmOX3NjXGU2YXJOtB+aTerxDCfQAz9XtYx/Edjr5Kd+KqUe6RBu1B1VrPt8exq1nNMZOpL7gw==;AvpxRYrl4IYWxRedDYutNA=="
 ---
 

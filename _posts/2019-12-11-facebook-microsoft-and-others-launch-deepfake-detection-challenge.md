@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
         width: 700
         height: 490
+  - title: "Facebook, AWS, Microsoft and others launch coding challenge for deepfake detection"
+    excerpt: "Facebook, AWS and Microsoft joined forces to launch the Deepfake Detection Challenge (DFDC) that should encourage developers to research this issue. Winners can receive up to $500,000 ... on Neural Information Processing Systems), Dec 8-14, 2019. Deepfakes are AI-generated videos that can falsely depict people saying or doing things that ..."
+    publishedDateTime: 2019-12-20T20:37:00Z
+    sourceUrl: https://jaxenter.com/facebook-aws-microsoft-deepfake-detection-challenge-165930.html
+    type: article
+    provider:
+      name: jaxenter.com
+      domain: jaxenter.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.08650DE99EA84DE20C7991F62A3CA8DB
+        width: 550
+        height: 214
 
 secured: "wxzW12gN8DkjBIfAgYdOAJG9j/JflppOm5qYq9fHY4cObcItA68d94XSvRZRCk/LC+0uGGy2KIkk0VjMAmQlDzXifIU31ZfzDcfNqeqXusmZzsRECUnyQxF8EXrD+7VXOroPANSCI8t456FywgXXsLE/RPO0KvhdWc4IhrII9zIswZYqWUsEaKanOm29V7Tl9WWQXd+DqqjFUggdBRRRlEhi0nuYcLB2PhT5U7vF0OaaGp5k2wt/H2HDoaq65uf9yTajqrdNpElGvGbckWYT6Q==;uui6en8Zzrlyy7xJqYpVaQ=="
 ---

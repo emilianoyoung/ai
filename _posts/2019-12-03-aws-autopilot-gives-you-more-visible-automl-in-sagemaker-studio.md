@@ -54,13 +54,17 @@ related:
         height: 391
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+    publishedDateTime: 2019-12-03T19:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 19
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
+        width: 4032
+        height: 3024
   - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
     publishedDateTime: 2019-12-03T18:44:00Z
@@ -75,6 +79,6 @@ related:
         width: 512
         height: 512
 
-secured: "2m11tH2MhL/KmDtIaD58xeY/9I9V5d3jrUMP6l0ncKQsUvrZ80NnOUB6wSCY8MJVhbQ13BFOyLpNSiZSkIOk52bYEl+PcXFXcqoAV++rDi3OA9GuH9yd6yV24zLT2KEcHFOgczA9h5tXpdkv7STI1lW3SJMaBCqyfdaMGZKBs/S9tXSQDnWU+R6/c5ZZtCvYmAHIFyP8chvImSwWnosvtSfP5/uGWFnm9Nqj2HTh65p0TF4TK1qCLtjuit3Uwjtbjhjw5UBllsMScLof9284Tw==;f4uj2x/H48nfE73sFI3/Bg=="
+secured: "QeGe+gnkyOUml3+RY6B1zlyTFCadSen3IuUDPfs8h4wxr4hgn7ZXx3lHqgrOLcrc8OXNNbBfIt7rmRDMEbh5tsOAUSn3MjmYTgjjVvclvE3+Cn2yz9cfyOp3LhOs9KNHBvv0enS5uh9rNCt6x/rxF/1GX7EO52htRpqKqZGr6hAd7mEkGx5uJ2x/6Obu8CmsrRKk86s2GTmA20ubZFGz1cvT9r1AvYu3cZzlfYD7R5lL1kUpDMTScOMRfZbhQOIvOq8waqE9ksSKr9jGd0MkyQ==;uR+n/ZtxQbM2Iz5OLChMPQ=="
 ---
 

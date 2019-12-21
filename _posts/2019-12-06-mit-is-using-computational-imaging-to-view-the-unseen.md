@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/mit-is-using-computation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-is-using-computational-imaging-to-view-the-unseen/
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.157C0FBA2F8B89E3F227A843297FAE82
         width: 450
         height: 300
+  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
+    publishedDateTime: 2019-12-06T18:05:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 35
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 799
   - title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
     excerpt: "Neural network for projecting onto the EMT–MET PHENOSTAMP To model the non-linear structure of the underlying 2D EMT–MET state map, we constructed a single-layer-hidden artificial neural network model using the above six markers as input and the reduced 2D t-SNE feature space as a bivariate response. Specifically, we used the six input ..."
     publishedDateTime: 2019-12-06T10:34:00Z

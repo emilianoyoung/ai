@@ -215,6 +215,21 @@ related:
       - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
         width: 620
         height: 348
+  - title: "Stanford engineers teach self-driving DeLorean to drift"
+    excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
+    publishedDateTime: 2019-12-21T04:45:00Z
+    sourceUrl: https://www.kcra.com/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    ampUrl: https://www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    type: article
+    provider:
+      name: KCRA
+      domain: kcra.com
+    quality: 44
+    images:
+      - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
+        width: 1253
+        height: 705
   - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
     excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
     publishedDateTime: 2019-12-17T16:54:00Z

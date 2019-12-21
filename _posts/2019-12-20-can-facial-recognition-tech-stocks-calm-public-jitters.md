@@ -2,26 +2,28 @@
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T14:19:00Z
-sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+publishedDateTime: 2019-12-20T14:00:00Z
+sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
+ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: /assets/images/organizations/fool.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+    width: 1024
+    height: 512
+    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -247,6 +249,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
         width: 700
         height: 525
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:00Z
+    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "China Continues Facial Recognition Adoption With Airport Scanners"
     excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
     publishedDateTime: 2019-12-11T23:25:00Z
@@ -361,6 +378,19 @@ related:
     quality: 69
     images:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
+  - title: "Federal study finds racial and gender bias in facial recognition algorithms"
+    excerpt: "A new study from the Department of Commerce says that facial recognition technology may have more trouble recognizing people of color and women. NBC News’ investigates the potential downfalls of this new technology.Dec. 20, 2019"
+    publishedDateTime: 2019-12-21T01:02:00Z
+    sourceUrl: https://www.nbcnews.com/now/video/federal-study-finds-racial-and-gender-bias-in-facial-recognition-algorithms-75460165988
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 67
+    images:
+      - url: https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201912/ott_now_racialbias_191220_1920x1080.nbcnews-fp-1200-630.jpg
         width: 1200
         height: 630
   - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
@@ -1586,6 +1616,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 19
+  - title: "Federal study shows face recognition accuracy varies by gender and race"
+    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
+    publishedDateTime: 2019-12-21T00:30:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-20-nist-face-recognition-bias-study.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
   - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
     excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
     publishedDateTime: 2019-12-11T15:36:00Z
@@ -1613,16 +1652,7 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T20:57:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 12
 
-secured: "gMstgNeK99P3OAADQqK+GWkM55T32plGDTp2WFASPe6vFPH3W2kDrZMlhhdhnJxl8aQGVngxQWz2x8MLNCS+GztsYJ6pkMnFV8x6XLgu6eRbbC0IzA2cEIkZeFOBvBgqBhj1MqBE+nv+E4PUlN/tx6jKM6/FmGNhkp3Jvfeb9cUxftoEyt7owjxqIS0wAra2lHeWDVAXI0q8m5OJQH5JgJne2hsiIURzYIKKmCFlVU03pz1M8f7IFpmSdlN/LqnMqMue2fXmwhJ6vrq0UDEmvg==;qOSZqZU1ZC2NgQM25aRdUQ=="
+secured: "jolJ2rlc6L3AiSAqbloJqlTF1QUXTrVQYlXzd9WfgG4iUCtdio7+MLkiALD52HbZXXAnq6QSpWR7+wEk0JcKirhWdkS2WmapoWbnhIC0SB8xAycDysCzHYSjGrVGsyTBfFJ2QmElbyb06X2kyi2ZT/xvylNn9vDKaUc+tLsXzTAQVoqVa1oRssqFr7wG+SivHr5XRD1HwjHxvQkn69LqeitcE7zDTqNZ1oN0o2X115La36mW1fgnTNP4G1RM9a1F3QTGcSYfUv3ZU2bRfnPCBQ==;RmGkoc2VwgTfcOP7ZgP4JA=="
 ---
 
