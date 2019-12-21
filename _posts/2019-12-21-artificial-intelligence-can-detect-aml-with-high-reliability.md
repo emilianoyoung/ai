@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-c
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 69
+published: true
 
 provider:
   name: News Medical
@@ -27,20 +27,14 @@ images:
 
 related:
   - title: "AI can detect blood cancer with high reliability"
-    excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer - acute myeloid leukaemia (AML) - with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
-    publishedDateTime: 2019-12-21T13:51:00Z
-    sourceUrl: https://www.thehansindia.com/life-style/health/ai-can-detect-blood-cancer-with-high-reliability-591630
-    ampUrl: https://www.thehansindia.com/amp/life-style/health/ai-can-detect-blood-cancer-with-high-reliability-591630
-    cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/ai-can-detect-blood-cancer-with-high-reliability-591630
+    excerpt: "Artificial Intelligence can help detect one of the ... conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience."
+    publishedDateTime: 2019-12-21T15:58:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Health/20191221/3477577.html
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.ED7F55E7A6B88038CA9E1146F6CF17A4
-        width: 700
-        height: 420
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "/ojpma/za2WukkxljKHUUVPxHMo66gInyz3/ghfO2CTVW3llsTZxYkfd7VzT96TsRJH4jGtQfToGL5PlXYSKih8ysp0tMutv7jJmABm2Yr+po/Aq4aF1tTO0h8NvFaOL8xl/42X5mj93yaCGAJ03D9r5qHA+cAF06eI5XQmn6cVIYKMey8xVX/klhJozVXG82dgrcWJ+muQ8BOXIGaWzw21dru5px1+ktogQhwiajjYekx6fHpcHcWhNwkUoolr7TehJi2qUK8xVW2Froup4ow==;a0olAVS+VNVXIC/5oGGQZA=="
 ---

@@ -24,34 +24,19 @@ images:
     title: "The Introduction of Collaborative Robots"
 
 related:
-  - title: "Robot arrives on the space station to keep astronauts company"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-17T14:28:00Z
-    sourceUrl: https://www.kmov.com/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.html
-    ampUrl: https://www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
-    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
+  - title: "HCM City hospital introduces a nurse robot to help patients"
+    excerpt: "The robot had the ability to identify faces and also break down language barriers ... Chi said the hospital would continue promoting the application of information technology in hospital management and operation, especially artificial intelligence to give the best services to patients. — VNS"
+    publishedDateTime: 2019-12-10T01:58:00Z
+    sourceUrl: https://vietnamnet.vn/en/society/hcm-city-hospital-introduces-a-nurse-robot-to-help-patients-596472.html
     type: article
     provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 59
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.E052F39DFD642392DB92D6AD4DE04770
-        width: 700
-        height: 394
-  - title: "EC expert group issues call to action on fintech regulation"
-    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
-    publishedDateTime: 2019-12-18T00:38:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
-        width: 480
-        height: 270
+      - url: https://www.bing.com/th?id=ON.A44EFD32164B8A86FBAD3BA83C6C6FF3
+        width: 600
+        height: 402
 
 secured: "OH1yQzRudIyw+LidSwG3s5XPzOBtj75pLLWG4F76JxiJK4XkxMkdOiY3jGiBQP+e48r1G2DeW+Teo6SG0Dz4eNGKwtvW9g6luYJOzM02gmVfnVFLPf980RmPzUFjchBOvUYHG9fGi5K+JOCZ6LZfk6eSUwaJxWgx2kBoFqdWOjR5PzCgCk8Jj/0o2doUiRkLyZkUD0iFz6VO5tsFdUNDNhmJjT3kmvntJln/W81Efj5ZxifPYuG/47W/J4h8HnZfgcmAOnDXpySlUU7E79eh1w==;ippYMeB2kj4H9BJ1pG8NIw=="
 ---

@@ -1,29 +1,21 @@
 ---
 category: news
 title: "AI can detect blood cancer with high reliability"
-excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer - acute myeloid leukaemia (AML) - with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
-publishedDateTime: 2019-12-21T13:51:00Z
-sourceUrl: https://www.thehansindia.com/life-style/health/ai-can-detect-blood-cancer-with-high-reliability-591630
-ampUrl: https://www.thehansindia.com/amp/life-style/health/ai-can-detect-blood-cancer-with-high-reliability-591630
-cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/ai-can-detect-blood-cancer-with-high-reliability-591630
+excerpt: "Artificial Intelligence can help detect one of the ... conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience."
+publishedDateTime: 2019-12-21T15:58:00Z
+sourceUrl: https://news.webindia123.com/news/Articles/Health/20191221/3477577.html
 type: article
-quality: 59
-heat: 69
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.ED7F55E7A6B88038CA9E1146F6CF17A4
-    width: 700
-    height: 420
-    title: "AI can detect blood cancer with high reliability"
 
 related:
   - title: "Artificial intelligence can detect AML with high reliability"
@@ -42,6 +34,6 @@ related:
         width: 620
         height: 480
 
-secured: "AKxgWLe/C6WP6NO8JwXrHyfbAlRXKP6wGR/cBQunwUpvXMxFBUCK50851RDjrAs0WnsthqOJf+g7lipLkHVgT5KBHn2e///RS/LVcTJtcqZmRTbR9ekNrXxjaI0tsAR7wO5Q+FvDwLFBFSecyGqYPeVIUfei8esV6d7KlXodvOtiEYQbVnXUCFivpRm9uN8+ldH+Ryl3x8Pl4np7dj4JPaDRdvQOHJcSizSr2JM+s/JnA7R2/PIa8fVEMj48B3WKjZDULXRJIXwjfSMtpf/Ezw==;CvpPrEm1CVvHRN/l9vCeAg=="
+secured: "sl6gUkPMuzkH9Dz7wO3MZmWhiMJ1M5Uca1QVYhir33GkxjoCFafWSc626bJ0hkHFAd85jmdN9wIVWB6P0lwcLFeIjlXuxI5Z9dwXaW0BZLfT9FamWKwoZh+LDaGWvr3bbZiNFq9sGRsSc+tiULR0dZTuWndbiSSWPu8Si1knc/YQVn7MgYbdO/PYJuLlhYDfYClR2BdTvJCU6CL3GGK+S3ylHWa2AkvhkEFlkfKfeOZr4hxhbOWIcmx6XGZxI+ChTNgr2wsMZIl28LRSELFyaQ==;F2LgW8iaD0ptUbFmjCq3OA=="
 ---
 

@@ -55,18 +55,18 @@ related:
         width: 450
         height: 300
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T20:59:46Z
-    sourceUrl: https://www.msn.com/en-ae/news/other/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks/ar-BBXU3yq
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
+    publishedDateTime: 2019-12-06T18:05:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
     type: article
     provider:
-      name: Khaleej Times on MSN.com
-      domain: msn.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
     quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.57168E8DD98B702C107797E5265C3559
-        width: 700
-        height: 367
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 799
 
 secured: "js3vwp6GQhB+hfS2t5Bwr1fAy7/N8tkGEFYzUZo1RV8xwlELLfF1UcXWiKo+ikcUPgdRKwlFYvk5GHUMrPZuWnbJco2yQ2iWbAJ8ZknK+RiH0AZhrPjw7WGm7TMAj3Ts7GbtxpCyNN6Ff7PbtySCKkgQM+WKc1DWqQofM95jyeKIjrwlxjXCyUHtC15tNp+IElIdtvvXSusnljlqYcj045sRdxEjwPStVo7N9upK/ZeChJ/M8rmj6OS4LNFgxxhu17FgSNYpaM23epxcw+Ew0w==;b0Dtlm9BkNVPR9ThWJN4xg=="
 ---

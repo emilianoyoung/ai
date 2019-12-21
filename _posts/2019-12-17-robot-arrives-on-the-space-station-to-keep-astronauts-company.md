@@ -8,8 +8,8 @@ ampUrl: https://www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-ast
 cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: KMOV
@@ -26,32 +26,21 @@ images:
     title: "Robot arrives on the space station to keep astronauts company"
 
 related:
-  - title: "The Introduction of Collaborative Robots"
-    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
-    publishedDateTime: 2019-12-16T17:10:00Z
-    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
+  - title: "How AI Can Help Astronauts Stay Healthy In Space"
+    excerpt: "The consortium is using cutting edge biomedical research and implementing a bench-to-spaceflight model to move new advanced methods to astronauts in space. The AI Precision Health Institute at the University of Hawaiʻi Cancer Center in Honolulu. The most intuitive warning sign of functional decline is change in body shape. Body shape is the ..."
+    publishedDateTime: 2019-12-21T16:48:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-astronauts-stay-healthy-in-space/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-astronauts-stay-healthy-in-space/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-astronauts-stay-healthy-in-space/amp/
     type: article
     provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
-        width: 700
-        height: 425
-  - title: "EC expert group issues call to action on fintech regulation"
-    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
-    publishedDateTime: 2019-12-18T00:38:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
-        width: 480
-        height: 270
+      - url: https://www.bing.com/th?id=ON.BDB7E1C721158AF555D64462071DEC33
+        width: 600
+        height: 315
 
 secured: "7lv3uSXKZBqqZBojBJk9DjBflBGEXLqIORU5iHKYuSGAcYwncTFyLMYPL35tUiSocDX083xkxfAu+kVNpKYsN2cDSRb/YF1yDoDOeWEbyKJNCSL2S0dzUzCvsjXgbfUGBd+s4s8qmUsUhfAlyhmKKh7PA70GENRbzk8HHJubGNWyH1d1LbYZ3Pqm4DQ/0+wRVn+qAOfLFKHDcx9wG07ou+C91lon8R6DFuP2v/nuKzd2Jwly5SSTwkuwL/lEHDX9bS5+SAibkuQa4DVjnqh52w==;Mae1/YolL32yzZuAbTKEWA=="
 ---

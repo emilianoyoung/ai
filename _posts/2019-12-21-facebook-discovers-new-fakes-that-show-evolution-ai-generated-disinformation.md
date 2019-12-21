@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
-excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
-publishedDateTime: 2019-12-20T19:50:00Z
-sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
+title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
+publishedDateTime: 2019-12-21T16:42:00Z
+sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
 type: article
-quality: 28
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: NBC News on MSN.com
-  domain: msn.com
+  name: Dhaka Tribune
+  domain: dhakatribune.com
 
 topics:
   - AI
+  - Facebook AI
 
 images:
-  - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
-    width: 301
-    height: 274
-    title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
+  - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
+    width: 443
+    height: 249
+    title: "Facebook discovers new fakes that show evolution AI generated disinformation"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -128,19 +129,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
         width: 550
         height: 550
-  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
-    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
-    publishedDateTime: 2019-12-21T16:42:00Z
-    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+  - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
+    excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
+    publishedDateTime: 2019-12-20T19:50:00Z
+    sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
+      name: NBC News on MSN.com
+      domain: msn.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
-        width: 443
-        height: 249
+      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
+        width: 301
+        height: 274
   - title: "Facebook bans pro-Trump media outlet over fake accounts"
     excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
     publishedDateTime: 2019-12-20T20:22:00Z
@@ -166,6 +167,6 @@ related:
         width: 650
         height: 365
 
-secured: "hqF4bYhPZ2uTCKCWapSr4YI1qaQBELBaTqH/18AFE2zHe//lcp7wIieqv1OSg/YEnuLXNq79WLLgxkgiRQp3wJ1bxAjwb9ZgbEisePS6aLTVqG+tipL83qCH76FxGgN/Nd6o1nKNaNcEVz3txNmCXOpngliAAcLMxUC96PTVKl92xu3H08FN3RyazTU06Fv1oj9szxL536gei6u5mk9D9xqYFRZt6xr86X/C7XZgAnTMg6BfsemwYLdRjT6vhvV+4LplvkqvBxg4TLH+/L03Ng==;awLZCsqeCG/8OkRVpTA3mA=="
+secured: "FRXfNiFBcdY1dP0bV9MUelTjAf9WO2Uy8xV1Y842IwmSIeuG/zZs8XqeddHD8RddKFjF7/29dNQO0qGyRYNOjVEaFfUl1+tnLLLpnjm1i3Tj2DP/5MRqzSn8u5weVs+Carn7NARKyFU+qWeYWJ7csdmmPXobkevALq28ySZgNsJJIfLsIfmoCEy7Kmgiw/BiVRZETHtLjqTb0x0mI4411vJHBXb1xtNuvYYa5wQMZZrN2xjaFS7UAIhxmVPxJkPSaWX7+1GTG19lI2BV9RZhxg==;ovN+PNm51zkTs5/iW+PBWQ=="
 ---
 

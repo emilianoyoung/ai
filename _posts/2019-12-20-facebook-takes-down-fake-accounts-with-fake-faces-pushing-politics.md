@@ -116,6 +116,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
         width: 550
         height: 550
+  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
+    publishedDateTime: 2019-12-21T16:42:00Z
+    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
+        width: 443
+        height: 249
   - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
     excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
     publishedDateTime: 2019-12-20T19:50:00Z

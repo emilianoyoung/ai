@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanni
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,17 +26,30 @@ images:
     title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
 
 related:
+  - title: "Federal study finds race, gender affect face-scanning tech"
+    excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law ..."
+    publishedDateTime: 2019-12-19T21:37:00Z
+    sourceUrl: https://www.chron.com/business/technology/article/Federal-study-finds-race-gender-affect-14919032.php
+    ampUrl: https://www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
+    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
+        width: 700
+        height: 466
   - title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
     excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
     publishedDateTime: 2019-12-19T22:21:00Z
-    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12/
-    ampUrl: https://amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+    sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 60
+    quality: 40
     images:
       - url: https://www.bing.com/th?id=ON.FF6BAF817FC9444BDF5920823B9F9D28
         width: 700
