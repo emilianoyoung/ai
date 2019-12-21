@@ -1,29 +1,21 @@
 ---
 category: news
-title: "AI Can Detect Blood Cancer With High Reliability"
-excerpt: "Artificial Intelligence can help detect one of the most common forms of blood cancer – acute myeloid leukaemia (AML) – with high reliability, new research has found. Their approach, based on the analysis of the gene activity of cells found in the blood, could support conventional diagnostics and possibly accelerate the beginning of therapy ..."
-publishedDateTime: 2019-12-21T17:16:00Z
-sourceUrl: https://odishatv.in/health/ai-can-detect-blood-cancer-with-high-reliability-423157
-ampUrl: https://odishatv.in/health/ai-can-detect-blood-cancer-with-high-reliability-423157/amp
-cdnAmpUrl: https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/health/ai-can-detect-blood-cancer-with-high-reliability-423157/amp
+title: "AI can detect blood cancer with high reliability"
+excerpt: "London, Dec 21 : Artificial Intelligence can help detect one of the most common ... could support conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience. In the early stages the symptoms ..."
+publishedDateTime: 2019-12-21T20:53:00Z
+sourceUrl: https://www.newkerala.com/news/read/267954/ai-can-detect-blood-cancer-with-high-reliability.html
 type: article
-quality: 59
-heat: 69
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: Odisha TV
-  domain: odishatv.in
+  name: New Kerala
+  domain: newkerala.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.E84553B688900656FEF7817A3DC64EFF
-    width: 700
-    height: 401
-    title: "AI Can Detect Blood Cancer With High Reliability"
 
 related:
   - title: "Artificial intelligence can detect AML with high reliability"
@@ -42,6 +34,6 @@ related:
         width: 620
         height: 480
 
-secured: "JHYVD47B71YxHo82HgHB0YeoD59wwQBYuDbG9d3pyDiDWoai5HcjgJ5/uySE+E8OczWQhPxVaFrIOYkjCfXvo/EUINs7bQjJW7RtyvZF3ki297ey/bWrJpvrb5Hmam8PbHJIQ37fKunyfgurz4dd9hBgvSw1UBhLnRFu5XhrqxC4IzAoog7KQA3TBPrfg5y2erxHoBmHInGrF90juEJd6tGhzQGNJhvy4sL9JxeJHXk9XaPeNnN9rpZ0953X92f9gmv6zOF7ClPrNGPHXS51xQ==;tr+YE/mIHiDS+t6381kXUA=="
+secured: "roWiXffQbiXx2kValFlurRtnzcUkDwHJ/edi89867WqggURSGKenkJ06UFzGfAIAapogTqvF9EG0isDJtm2e8oiaG/Db2OaGV5Pi3cwCkyGilBVkiKC1Yno4tvkOlMU+bioD9IGCfz5YmzWPtEOojDxicFZ00g5spFs5rvIcSSpgvwYQYFBY4Tk+0bo7XTMGsSRtrPOJLeWL1rk3DWK+MURS1su8qsxzcWt83d0qhU5LR1l45WvwvRaliNio2Nx/B5Ohkt9UePXUsv4Rs+oKaQ==;Udb/5AAX+SPdU0ZeN0oXQA=="
 ---
 

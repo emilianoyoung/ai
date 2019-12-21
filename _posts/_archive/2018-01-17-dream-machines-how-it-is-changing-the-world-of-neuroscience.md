@@ -18,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "KiUK+2PNPPvds1xUIwMwB+FQM19xcKwl0RbWljE4kQ1syvJfx9QQkk6+Em+UjCjvKLNFzO7vM2Bzei7c8nTovujMy1MJTosrrk1zSuUw5p+fov47x7xxFvZF14JzeEcsZl3YF8VLdbAc2SB8mDdjKuxyHdmQRVWJuaamGZIC2zesvQFQpegn48JrkcSUSk4dyVtq5ZgnlMaLw2GDo9yySjH0qeGFd2SzQSRbGABjW/BZglyfJtbotzVEpOR8vHQbAFWht4ZT9xkXsSMQLrALRQ==;Q3RbhB8WjnVapuXT7G4saQ=="
+secured: "1f5I08VIoI3t8lZ36Fx3mqyzTYWj7k49dWlwIIamHcdK5q+1uOtxyoYOUU81+OZnyOE42mUlk3GI2T1zwYihGQrQWbFkMlJXX4drSkhcXIvrLBi2G3rLroPprLZAXT3F1V0oH+V2S+lLu42vrRp3h2b/OuJgHkXKR6jsGM4rDB+73aOHBA7nQCtSkNrcu1EzbEDnN/6+NuFPz3x143DIuvXO7IRExC/qTzN+vIbF93CkVQPfBWnVk+Cy8MLXncOcCTeDfKY5y5MIvl5HwutSBA==;hnvAyo6NnWg/ioh63yqgaA=="
 ---
 

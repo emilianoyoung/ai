@@ -1,43 +1,28 @@
 ---
 category: news
 title: "Robotic arms and osseointegration surgery bring new independence to double amputee"
-excerpt: "In November last year Al Shnen lost both his arms — one below the elbow, one above. He is now about halfway through a complicated process that will see him fitted with two mind-controlled robotic arms. When Al Shnen was brought to Sydney's Concord Repatriation General Hospital, it was a miracle he was alive. He had suffered a massive electric ..."
-publishedDateTime: 2019-12-02T02:35:00Z
-sourceUrl: https://www.msn.com/en-au/news/australia/robotic-arms-and-osseointegration-surgery-bring-new-independence-to-double-amputee/ar-BBXBE6O
+excerpt: "He is now about halfway through a complicated process that will see him fitted with two mind-controlled robotic arms. When Al Shnen was brought to Sydney's Concord Repatriation General Hospital, it was a miracle he was alive. He had suffered a massive ..."
+publishedDateTime: 2019-12-02T01:04:00Z
+sourceUrl: https://www.abc.net.au/news/2019-12-02/ghanim-al-shnen-finds-new-independence-in-robotic-arms/11646940
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
-  name: Australian Broadcasting Corporation on MSN.com
-  domain: msn.com
+  name: Australian Broadcasting Corporation
+  domain: abc.net.au
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.D9BA6E372B218C4EA0BAFC244B9576B1
+  - url: https://www.abc.net.au/news/image/11747912-16x9-700x394.jpg
     width: 700
     height: 394
     title: "Robotic arms and osseointegration surgery bring new independence to double amputee"
 
-related:
-  - title: "Robotic arms and osseointegration surgery bring new independence to double amputee"
-    excerpt: "In November last year Al Shnen lost both his arms — one below the elbow, one above. He is now about halfway through a complicated process that will see him fitted with two mind-controlled robotic arms. When Al Shnen was brought to Sydney's Concord Repatriation General Hospital, it was a miracle he was alive. He had suffered a massive electric ..."
-    publishedDateTime: 2019-12-01T19:38:00Z
-    sourceUrl: https://www.abc.net.au/news/2019-12-02/ghanim-al-shnen-finds-new-independence-in-robotic-arms/11646940
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.D9BA6E372B218C4EA0BAFC244B9576B1
-        width: 700
-        height: 394
-
-secured: "h+63xmP9wTh7K/LqvEq0aBEnjWPQrmC6cw2IvdJGqx9mTthzoVplZ3TXJOTZ3cg9sulKvIOEx2ArtGl2K8AB3q9MjvkpnODwdTtVj1qJ/N/FLFsWdjs0LMpQqinyIxHxHagE48hf1NOGYp7cTouXsaqPQ7RYQEDNtCfIPlb8yrhCCLKEi1otMg882hniasU6/MdN3U6XLusJU44rU/CN9waPDJlpwDp91swFonon6r6XQfIZmLrdiWxvGAfXV642R44EJd+fVgyHATy4/d8WjA==;jG4hK/ykrxHIPTS4u/GQvA=="
+secured: "qDuaHzDvOekfTQdAFwsarUK1xo2u6/RI0/TysRSsUOUWrBr1Wu7NT+nYL60djnQw3PvzU5bjUWHidCfDenNMuH1jekmuTPWfTJFfdCM2Wg3TadYAkIC0ieOklgGPDvaAn6riwx3GZ1M00/sMqqxMa/2mumtBK9L6sh2b2N2TBy0kx+B4b1cuQbQT5wOs9oH6VtV2JHI5VzO5ABuMOr+SVaK0AIfg1X8rNfvWQBelQ8OTZPFLIeJ7hfrlyINl775NtqI0qbTBVFpIrwEvi2JLLA==;B3aDy6YXBLxPgHPFyuVj+w=="
 ---
 

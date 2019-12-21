@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
-excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
-publishedDateTime: 2019-12-20T16:47:00Z
-sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
-ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+title: "US talks with GM over deploying self-driving cars without steering wheels"
+excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
+publishedDateTime: 2019-12-21T20:19:00Z
+sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
+ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
 type: article
-quality: 71
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Daily Star
+  domain: thedailystar.net
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
-    width: 1200
-    height: 630
-    title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
+  - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
+    width: 560
+    height: 292
+    title: "US talks with GM over deploying self-driving cars without steering wheels"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -118,6 +114,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
         width: 700
         height: 350
+  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
+    publishedDateTime: 2019-12-20T16:47:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
+        width: 1200
+        height: 630
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z
@@ -277,21 +288,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
-  - title: "US talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
-    publishedDateTime: 2019-12-21T20:19:00Z
-    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
-    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
-        width: 560
-        height: 292
   - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
     excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
     publishedDateTime: 2019-12-16T16:40:00Z
@@ -423,6 +419,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "Lc31LBGkKDodyrD6rq1ekcijNGft++PEWhY35APDyBtf2zyoOP4RY7Em6bzWOA8pXm6wyXKyFSIM8EGKJetqw2fDLtYSrh+3o0k369gYWI7RlxBVS9bHKtZeoSGHnd9aZnxl8NKhNfknv3Q5sy8C6ekyvAcHzS/Q076eU0WjTxnkvkMhLONLGxfKMiAShzUKjEIEKQfzAq5smLh5PXLQXl1Cjdtx2R262H8emSy53ikfkg1g12RT3LBQB7VeE9nOrey3RORXm03E/hU1ELN8Ug==;/4/Ajr3eyurvzGBBYZtEuQ=="
+secured: "ulv2gTVwoZng9yqN9nVA2o5VHeSKurxq9qdh+Dv5BO5XyQ5zGywqAu3GDqGtRdPPm+dfs+gRDx5wPaHWonYwnT5SE1/iedAxIGcF4nneKA2qPMMQ9ef5duodR8atPLgTOWjfbpzveINauv/Wt8bLNiMg9a/bgMNDn44hU+/Cx+bOohIWjXipswuaRq6dssURvovd3XnrExHVwVOHm0u/V3pyBLZXG6HC3koFW2vYV/MFQvs5QWuDN3hSRO6vr3pJiT3XvUYNo8iPHdbBsdajUg==;ycncJXLI3XwVeQPxGrnpwA=="
 ---
 

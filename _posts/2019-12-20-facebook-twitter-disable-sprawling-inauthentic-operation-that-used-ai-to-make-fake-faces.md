@@ -8,7 +8,7 @@ ampUrl: https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-di
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/?outputType=amp
 type: article
 quality: 150
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -99,6 +99,21 @@ related:
     quality: 44
     images:
       - url: https://www.bing.com/th?id=ON.328E1541D746291061CED01A26FFA669
+        width: 700
+        height: 466
+  - title: "Fake Facebook accounts now using fake faces"
+    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
+    publishedDateTime: 2019-12-21T20:58:00Z
+    sourceUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/
+    ampUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
+    cdnAmpUrl: https://wtkr-com.cdn.ampproject.org/c/s/wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
+    type: article
+    provider:
+      name: WTKR.com
+      domain: wtkr.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.7920CD8894C02750379EEE36399BC359
         width: 700
         height: 466
   - title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"

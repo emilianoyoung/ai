@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Facebook discovers new fakes that show evolution AI generated disinformation"
-excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
-publishedDateTime: 2019-12-21T16:42:00Z
-sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+title: "Fake Facebook accounts now using fake faces"
+excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
+publishedDateTime: 2019-12-21T20:58:00Z
+sourceUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/
+ampUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
+cdnAmpUrl: https://wtkr-com.cdn.ampproject.org/c/s/wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
 type: article
-quality: 36
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Dhaka Tribune
-  domain: dhakatribune.com
+  name: WTKR.com
+  domain: wtkr.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
-    width: 443
-    height: 249
-    title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+  - url: https://www.bing.com/th?id=ON.7920CD8894C02750379EEE36399BC359
+    width: 700
+    height: 466
+    title: "Fake Facebook accounts now using fake faces"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -114,21 +116,6 @@ related:
       - url: https://www.bing.com/th?id=ON.328E1541D746291061CED01A26FFA669
         width: 700
         height: 466
-  - title: "Fake Facebook accounts now using fake faces"
-    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
-    publishedDateTime: 2019-12-21T20:58:00Z
-    sourceUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/
-    ampUrl: https://wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
-    cdnAmpUrl: https://wtkr-com.cdn.ampproject.org/c/s/wtkr.com/2019/12/21/fake-facebook-accounts-now-using-fake-faces/amp/
-    type: article
-    provider:
-      name: WTKR.com
-      domain: wtkr.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.7920CD8894C02750379EEE36399BC359
-        width: 700
-        height: 466
   - title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"
     excerpt: "According to research from AdStage, cost per milles (CPMs) on Facebook have grown 90% year-on-year ... Back in July, Instagram launched its anti-bullying tools, including a pop-up that provided a warning to users when its AI detects that a comment they are posting could be offensive. According to the platform, this prompt has seen some good ..."
     publishedDateTime: 2019-12-20T11:15:00Z
@@ -144,6 +131,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
         width: 550
         height: 550
+  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
+    publishedDateTime: 2019-12-21T16:42:00Z
+    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
+        width: 443
+        height: 249
   - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
     excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
     publishedDateTime: 2019-12-20T19:50:00Z
@@ -182,6 +182,6 @@ related:
         width: 650
         height: 365
 
-secured: "FRXfNiFBcdY1dP0bV9MUelTjAf9WO2Uy8xV1Y842IwmSIeuG/zZs8XqeddHD8RddKFjF7/29dNQO0qGyRYNOjVEaFfUl1+tnLLLpnjm1i3Tj2DP/5MRqzSn8u5weVs+Carn7NARKyFU+qWeYWJ7csdmmPXobkevALq28ySZgNsJJIfLsIfmoCEy7Kmgiw/BiVRZETHtLjqTb0x0mI4411vJHBXb1xtNuvYYa5wQMZZrN2xjaFS7UAIhxmVPxJkPSaWX7+1GTG19lI2BV9RZhxg==;ovN+PNm51zkTs5/iW+PBWQ=="
+secured: "QuX7FTN0kfqE41We5wemRiqho2zutmqSkbGNUfJiJWIny1wkbraUffBTQ4Uv19dYG6a4++oBvN51vYYpbB4AoXOe/B2ZzgZ4tgx5syc81dc47z38J1pcUoDHhazCbysHe8lL5rMwjFFBjWfMNQa4Xrr/xLcDZSmXNMhgqnw8o2lT9BgfV1pphSVWpQVSe5kSGnNNTOH0NmxiqR+64dGOHmwFAuK2dqCK7bPjSuwCR1T2ir7e3M25V3ni9EzdDtidKETyP1ML2ia3bW+jXGqH+w==;8aUhh9ZBYZqc84InO1bNIQ=="
 ---
 

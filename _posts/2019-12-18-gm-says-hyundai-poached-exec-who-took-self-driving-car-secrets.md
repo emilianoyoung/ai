@@ -275,6 +275,21 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
+  - title: "US talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
+    publishedDateTime: 2019-12-21T20:19:00Z
+    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
+    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
+        width: 560
+        height: 292
   - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
     excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
     publishedDateTime: 2019-12-16T16:40:00Z

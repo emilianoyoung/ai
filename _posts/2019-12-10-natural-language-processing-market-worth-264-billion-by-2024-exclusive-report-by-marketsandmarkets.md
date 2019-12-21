@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets"
 excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-publishedDateTime: 2019-12-10T19:45:00Z
-sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+publishedDateTime: 2019-12-10T12:31:00Z
+sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48386029-natural-language-processing-market-worth-dollar-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-008.htm
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-    width: 400
-    height: 137
-    title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
   - title: "Deep Learning Market 2023|Industry Size, Share, Revenue Growth, Development"
@@ -132,6 +126,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "cygRuW0nnZIQZIjLMOtXMebrN91rphrxed+YJDIoYZf2EUGzMTCj8lKcInffDW7MEiebEJoo3T53YAw7CBIRZxzrLvYa6CclZZ663WNH//hwSTtXQb2aIrR/k0lRUkwAYDEf1pZ9xo944r+40YaLWAB19gH+lUWDqdvf4PO1piFaePu4OA/KPWazBbJqTxb8q87vXtAyKpq3V7l4dJRvpU72vRsUsjuqxIVm5JxULiPlhKKRyT6Fui4Gesi+hc8akSjRX57MO8n5sP/N1++JsA==;keOsFVQ+wAur5O/IX6xWMA=="
+secured: "iR5REree30CnCMaFZWIPybx85fzq+zA/3ts7P17wqf8jt73nQRgd6c7Sd0RzIyZspPEg0Fgyb/WURmT79St+bf9BTgkIj5F8/oiT9mrz6GuSeM+Js7QGja/YeMXQZrYCuIj9mxgp/uRiqwyt7q12mbo80B13AoTYBYjKrAYZbjVueXg4OMHKOUQ/R5lOFL/EO3o+u6CL+WNet41hzlnXBtxYTJqvqdvasvCkIanVctPXkJShlx4h5gCAeyLwNTzU0VqDqvDxRabWeqH/ZWC+LQ==;Pz09/abgVDD2w91Q6ZojUQ=="
 ---
 
