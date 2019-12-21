@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6C07A076CC9180F54E3FB8737F17EAE2
         width: 700
         height: 366
-  - title: "IBM Watson Health Demonstrates Global Imaging Market Momentum"
-    excerpt: "Hardin Memorial Health First to \"Go Live\" with IBM Watson Imaging Patient Synopsis Imaging Clinical Review 3.0 and Imaging AI Marketplace Launched CAMBRIDGE, Mass., Dec. 1, 2019 /PRNewswire/ -- Today, at the 105 th RSNA Scientific Assembly and Annual Meeting, IBM (NYSE: IBM) Watson Health™ highlighted its recent clients and collaborations for ..."
-    publishedDateTime: 2019-12-01T13:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-watson-health-demonstrates-global-130000003.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
   - title: "Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack"
     excerpt: "Chris Riccomini talks about the current state-of-the-art in data pipelines and data warehousing, and shares some of the solutions to current problems dealing with data streaming and warehousing."
     publishedDateTime: 2019-12-09T01:03:00Z

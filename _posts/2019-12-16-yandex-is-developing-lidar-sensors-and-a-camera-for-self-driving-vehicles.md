@@ -90,6 +90,19 @@ related:
       - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
         width: 1200
         height: 630
+  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
+    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
+    publishedDateTime: 2019-12-21T14:38:00Z
+    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
+        width: 700
+        height: 350
   - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
     excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
     publishedDateTime: 2019-12-20T16:47:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
 type: article
 quality: 87
-heat: 337
+heat: 347
 published: true
 
 provider:
@@ -88,6 +88,19 @@ related:
     quality: 73
     images:
       - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
+        width: 700
+        height: 350
+  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
+    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
+    publishedDateTime: 2019-12-21T14:38:00Z
+    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
         width: 700
         height: 350
   - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"

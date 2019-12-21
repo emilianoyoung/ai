@@ -5,9 +5,9 @@ excerpt: "Nine minutes. That's how fast Descartes Labs can spot a growing wildfi
 publishedDateTime: 2019-12-19T19:43:00Z
 sourceUrl: https://www.businessinsider.com/how-descartes-labs-leveraging-artificial-intelligence-fight-wildfires-2019-12
 type: article
-quality: 32
-heat: 32
-published: false
+quality: 132
+heat: 142
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,21 @@ images:
     height: 350
     title: "A look at how Descartes Labs is leveraging AI to alert fire managers of wildfires and decrease the damage on homes and habitats across the US"
 
-secured: "KMmGRTMwAnngoUTqC5n0PyQnquLQ+CLag/fgm11TuHAH1HLG35zjS7WFjF3OMArSqTH/A7kFKhhOs7aNfh2MVVryq/jRKsmge8x3b4iRUWOQ7VwsPgZQokiNTVCnTdi3jI9lugeewhh8wSjhji2+4qz+OD9KsWzRY/Z+kICFynizE5P4kadKeG9kr+PNwURAg+XER/y6mKc4pfZmiS4xTOdEBWBz4Mu8YIWk431QR+cUHuJPEYpgL0YmFblL4psMJxdJSmg8wTj9ioG9H5QmEQ==;Wk2AUcW8B6zxznVbuTm8uA=="
+related:
+  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
+    excerpt: "Artificial intelligence can do a lot of impressive things, like find snow leopards among Himalayan grasses captured by remote cameras, maneuver self-driving cars through traffic, and defeat world-class opponents in the game Go."
+    publishedDateTime: 2019-12-17T23:21:56Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/whats-the-best-way-to-measure-the-smarts-of-ai-systems-researchers-are-developing-an-iq-test/ar-BBY5ZlH
+    type: article
+    provider:
+      name: Geekwire on MSN.com
+      domain: msn.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.2D0756FB6D65DC5606D5A6E3C86572AD
+        width: 700
+        height: 466
+
+secured: "uN/Y1La+ieqD8bVgmHBqJGmELEfSJoau//CW5O97gLWWO08NGchqqxvts9JKjkLZD495BECJSSO9RyRSgBHOPoFKcwteEpcc6pLNiMgCQ1muahxY9R1VHVMMTWWi/KxY8tu11WCIcYlxHY9nO45LSsmb1/yuXvcNdl2BxsE4ROWZkOKAnQWLzv7CseXVz+DYVTt3hEdiBcoeyKjUfufNKP1LHfdjsf5VeNrHMOPAJP3aJb12Tk8H6y4o8V+el8zz15xMhGit15vXEVjt5aqb4POykGDkTYJW3NHMbRPp+h8=;qjPckorKwOW+ix7UT/bImw=="
 ---
 

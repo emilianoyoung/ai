@@ -105,6 +105,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
         width: 700
         height: 350
+  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
+    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
+    publishedDateTime: 2019-12-21T14:38:00Z
+    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
+        width: 700
+        height: 350
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z

@@ -1,32 +1,27 @@
 ---
 category: news
-title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-publishedDateTime: 2019-12-17T05:47:00Z
-sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
+title: "How AI ruled our lives over the past decade"
+excerpt: "In 2010, artificial intelligence was more likely to pop up in dystopian science-fiction movies than in everyday life. And it certainly wasn't something people worried might take over their jobs in the near future."
+publishedDateTime: 2019-12-21T14:10:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/how-ai-ruled-our-lives-over-the-past-decade/ar-BBYdQhY?li=AA4Zoy
 type: article
-quality: 38
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: /assets/images/organizations/linkedin.com-50x50.jpg
-      width: 50
-      height: 50
+  name: CNN on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-  - AI in Autos
-  - IBM AI
+  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
-    width: 700
-    height: 265
-    title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
+  - url: https://www.bing.com/th?id=ON.B2111661B86E49B7AD8C2423FCE928AB
+    width: 600
+    height: 315
+    title: "How AI ruled our lives over the past decade"
 
 related:
   - title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
@@ -59,20 +54,20 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
         width: 1199
         height: 512
-  - title: "How AI ruled our lives over the past decade"
-    excerpt: "In 2010, artificial intelligence was more likely to pop up in dystopian science-fiction movies than in everyday life. And it certainly wasn't something people worried might take over their jobs in the near future."
-    publishedDateTime: 2019-12-21T14:10:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/how-ai-ruled-our-lives-over-the-past-decade/ar-BBYdQhY?li=AA4Zoy
+  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
+    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
+    publishedDateTime: 2019-12-17T05:47:00Z
+    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
     type: article
     provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.B2111661B86E49B7AD8C2423FCE928AB
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
+        width: 700
+        height: 265
 
-secured: "8/mkxctfo9fBLewyx1dev1axkmLB3k0E0QHEDRBq52OQGzWqrk8obP2E4hKfFag1E92V7A+ARQMYGKiTWrqCwtdhvk/i9P5b+XSQOnyntE2tA+HoFRLCyxYldt3sln9p35CWZQrZ3fnfrt5JByqF49dQapaPO6tnQkS0QKybqD7ugKPjXXo/gtZvbeS/OXUJ91i4dtZQKSZ/4PneuR3jc8lyqc2wk2lqWKM4X5RVrnhCuGEhDLnBb3itqBKYXUhNoTY6i/qBJI95x4FNq5V5cw==;5UOHm+cXCykrna7RPw1/NQ=="
+secured: "CxHRqKVs1+96yOcaA+e2B80HuHEW/tnI2Co0Xyyy3C2+2yhTsxolh2NBFxMKROHTyAfR9VtMRGVmAueKVN6YecCIsMFH0Ce9WUNTG1MXdD5A6mSbIak7x746ZidGklyaE39ScSTcuOiY0WjK+L6bP1IQiKIejgmz8LQCfIt9SsPkl4H+zjVv6psB3SPP34gSN33qdZgB+Lf5hudPoygtvAMRNpjmBA5qgLVN604GphAmDBfTkBJ9OILl8jptYFEkV7chdv/0otwEysHeZDBkTQ==;+53jigyLPfBFyMoDOKgAbg=="
 ---
 

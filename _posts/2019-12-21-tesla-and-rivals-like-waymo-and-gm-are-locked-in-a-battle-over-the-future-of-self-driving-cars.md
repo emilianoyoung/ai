@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
-excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
-publishedDateTime: 2019-12-16T16:40:00Z
-sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
+excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
+publishedDateTime: 2019-12-21T14:38:00Z
+sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
 type: article
-quality: 42
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Mail Online
-  domain: dailymail.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
-    width: 636
-    height: 382
-    title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
+  - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
+    width: 700
+    height: 350
+    title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -99,19 +101,6 @@ related:
     quality: 73
     images:
       - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
-        width: 700
-        height: 350
-  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
-    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
-    publishedDateTime: 2019-12-21T14:38:00Z
-    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
         width: 700
         height: 350
   - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
@@ -288,6 +277,21 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
+  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
+    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
+    publishedDateTime: 2019-12-16T16:40:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
+        width: 636
+        height: 382
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -389,6 +393,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "O1k5pd0IJdVb6r1NJsqGVIAW5KSasUJP3O2ziNwEQF/bE+fNSSt4T8lMIYp17Cc4QEXTDCIkoG55mH+x+dwfizfiZKFlNBHitxAjIJf/WFgbTmBPtnIbVN+eutFnId+EQK4zxzUT57G/oaTGbZMP5eSvH2knZ9P9+ltJ6kmhSUuZOnp4+OHuil4woKCBRkTyb+E4sw78L6X/4/RQOhSpoeUbKgooBMeC/KKz1Kotr4b6NQo2tnvCykY+/kx/f3wAigc3iZADKFIU5rvmF2tMnw==;LMJbgOBSrbpSi/DrgKqiQg=="
+secured: "ReMzrPNEsksdPqlBFlwLtjyOauA6FMBoYEfjGzUQpWk86Jucvn8GU+D6uSHsjRq8s4dY9FGHZplDLEfpRF4Bd2do5K+yGw36DCvr4FiIE8XGb4rE2paV7Ds4xMX67ZnKZAgbPmuqXveKBUuq+aYJyOtw+v6OQpF35F5wLqhQqWI5wZ0v1T1t8WC3ynn7ni6t5Yh5yGwwTbChMLUXjgBK7samSrsHQC6jwFo1cpz+aX3arGbEaxWmDpyxxj2G1da4n7i/hRYEGmSckWBcjBVhgA==;ASrPNx3xZA3uSRl+ol3T3w=="
 ---
 

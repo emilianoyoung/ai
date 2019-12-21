@@ -35,19 +35,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-    publishedDateTime: 2019-11-28T00:13:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
+    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
+    publishedDateTime: 2019-11-27T09:30:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
@@ -58,6 +58,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "E5K9Ui574+j+PQn7uLLlfrPq1n6cvKGLUjYqRryYcWYIuDQjX7SQajcdqH/61S6cClr6rZwOfadz9TPGryddIY5HbRcZ4a+VLj1Ey56dOPsdx/OCSvUcpsajjsrOSaYhiUUMvDW+vdgVA34m1U/duVBTDnKrNtJMEJOSVxIJ2HtErXDkXlgQGqiVHFR0YnkF/xFjKRVid9Wu3oa2mq7GkCzQRefGMF3GLZHb01pjtzcaMyciaWh/EehFuj3fv8wH7KASxIagx1wAxuCsQgZXqQ==;fH+G6iihXUOYeUZnAvbN7A=="
+secured: "HgCzUyhotfAcjZBC5Q2mR+G6BQ5FoSwZ4aVyAX6z8DX3G8yXFkybsY60x/PHjrabIpL+vcFa9m1mziFmbElJHFwow+r8siMLndTBYSUicg5S1n06bwfblM9GBT1i1FMqYPfLgPn3I6rI6+TJxUxCCyBXlLk8nL3JCpG/saIYacbiMzmgh4qBv91tQNwYQaIZ3k3hizEq9BZPWQfijjVlmkRb5nI0vWWE2tMXKsEPQMsflfseuKinNDs2bkQWlurh5ubNoRVkTxAx/PmsIs5RxA==;J0deXMwVaF4/CIoBb9MA1Q=="
 ---
 

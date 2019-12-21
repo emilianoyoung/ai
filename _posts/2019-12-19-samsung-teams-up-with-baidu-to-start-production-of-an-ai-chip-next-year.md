@@ -67,6 +67,19 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72871309,imgsize-159673,width-800,height-434,overlay-ettelecom/samsung-to-mass-produce-kunlun-ai-chip-from-2020.jpg
         width: 800
         height: 434
+  - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
+    excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
+    publishedDateTime: 2019-12-20T22:27:00Z
+    sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 56
+    images:
+      - url: https://mobileidworld.com/assets/AIchip.jpeg
+        width: 400
+        height: 298
   - title: "Samsung is going to mass produce Baidu’s AI chip Kunlun from next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech giant and the Chinese ..."
     publishedDateTime: 2019-12-18T14:36:00Z
@@ -104,19 +117,6 @@ related:
       - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
         width: 678
         height: 364
-  - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
-    excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
-    publishedDateTime: 2019-12-20T22:27:00Z
-    sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://mobileidworld.com/assets/AIchip.jpeg
-        width: 400
-        height: 298
   - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
     publishedDateTime: 2019-12-18T12:58:00Z

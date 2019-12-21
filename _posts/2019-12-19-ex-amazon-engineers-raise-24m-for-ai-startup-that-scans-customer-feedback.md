@@ -28,6 +28,6 @@ images:
     height: 525
     title: "Ex-Amazon engineers raise $2.4M for AI startup that scans customer feedback"
 
-secured: "1T0bmBR3pZSi8FEfV+Na0SJl1un81RbsxjRJm5fAY1QPArahdaFtPOYy5S+LzSLL9pGB2lbdaVcXky/q9vbJnIIV8Y84T3IEHAgK/hRQSPqvvBym2v2M4Lc8IlZBeziqlOopvcW+p8YQeicTUVVLbDeSoiv4AaLtXug1GEOOGocb8nrq4khi4SmoS8ohGDIbbQnE7G9DUZPB6mcSHoCqjv9aDkHO+zeNIoi4zoaT6aCnXuPZcv9aERFEtH1CrOUIPyhHFfliPUjGzNdDxFhQmw==;HlKoEgO5P+ZMYL6TL9TMDQ=="
+secured: "EA/PqkeXHzIKrGpGt/bmzqSPt/71/8ENiG6yK9w17JeINNkR9X4TFXrLoeFNKRdxUBfI6Z82TBvnuTEHCOD1H5woyf2UGAIDw5h0YB6BeZ/NweQWllG5YUfBYStMlJ06CzJ6eSL7gnywVWa/18qLMrJxojTSksmLHNRIFRyHnvI2DIciGGHd3y8HWkkvLLS/wdecY51Fa8hTSX9WC/xTCSTaPOcB+eW1JXbpcBWAIrzBe+/m0K1vQbrvqqAyDXU9yiyS5o3Z8sah/vZn407heQ==;OBop3oGjJhUrihZ91bqtuw=="
 ---
 

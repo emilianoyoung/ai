@@ -119,19 +119,6 @@ related:
         width: 770
         height: 364
   - title: "Canon Medical Introduces Aquilion ONE / PRISM Edition Combining Deep Learning Reconstruction and Wide-Area Spectral CT"
-    excerpt: "CHICAGO--(BUSINESS WIRE)--Combining the power of Canon Medical’s Advanced intelligent Clear IQ Engine (AiCE) with Deep Learning Spectral Reconstruction imaging capabilities, Canon Medical Systems USA, Inc. introduces the Aquilion™ ONE / PRISM Edition, a spectral CT system designed for deep intelligence. The advanced system integrates ..."
-    publishedDateTime: 2019-12-01T13:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191201005142/en/Canon-Medical-Introduces-Aquilion-PRISM-Edition-Combining
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.554BD57A96C5D9E54906A9C0074E8F84
-        width: 700
-        height: 365
-  - title: "Canon Medical Introduces Aquilion ONE / PRISM Edition Combining Deep Learning Reconstruction and Wide-Area Spectral CT"
     excerpt: "with Deep Learning Spectral Reconstruction imaging capabilities, Canon Medical Systems USA, Inc. introduces the Aquilion™ ONE / PRISM Edition, a spectral CT system designed for deep intelligence. The advanced system integrates artificial intelligence (AI) technology to maximize conventional and spectral CT capabilities and automated workflows ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://finance.yahoo.com/news/canon-medical-introduces-aquilion-one-143000785.html
