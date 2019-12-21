@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunothe
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 1199
     title: "Using artificial intelligence to determine whether immunotherapy is working"
 
-related:
-  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
-    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
-    publishedDateTime: 2019-11-25T05:10:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 71
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
-        width: 675
-        height: 365
-
-secured: "iln0+2dc8Sg6Qf0qC+fjzvgAVuFnXo2y+h0iTqweL83CK6HhC5bR9eBfU77AY4hMmVvFXCQbLPXxc6g2wYaR/Ol3YEIJ8gGvHI5FxA/FJv/aXJX1gRSbmsb5kprPWQDAnUljQC/uG6KHJIOeqnS9PcNM6xYj9nI5NsVARgPhCht/0rh08RcYm7S4hxKcH55466qn8pNG2pJkWpKPkkgV+pbHqFOGe8YKba1JKQWK7kowP4fHroByvg6QT5qagoGv8G4sisRs/E21CyryaMN4jA==;4ij6RvptpKJooq4+iZYypg=="
+secured: "02V8egynsJtMS+gzEcbsX22V7fMuF8CQ5DaMXAD1rYaZcsUCzXUkzj1VoXMWrybjt0y3xhC0SwlcSXSmFG2Kjgic4Yahg3SGwBMhtSnt51dJr7ChbpyCThxvuVdzNZ7RUymGwcgD9gycrPB18/Ae8J8qzi5Q/LfWUWRbeVTyIEFTrsI4SpCiV68uyGAEdWm86WzRCy2FmqBS1nkxxo1H1rdfPPzZceT0LfmxCGkME7dPZ+VrckPUzDuwn9Z3CuDXi5Y/IQ2Xz/9CA9IxHEg1wA==;7+zsBeWOKLcc+tR7RsvQCA=="
 ---
 

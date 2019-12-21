@@ -47,6 +47,19 @@ related:
       domain: zdnet.com
     quality: 84
   - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+    publishedDateTime: 2019-11-28T00:13:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
+        width: 700
+        height: 554
+  - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
@@ -56,6 +69,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "mAA6AFUkS2SfrddbBCklPOO/FmwfCJgZWFd/5qNLfFqQKU674dsT34COeRKwmjLDx1X7E4ie8pUxsnwfzhc4sTlgdDRbIg/vJKuBHnrf7ynal/hACrpIoojjLqBrgV2E6d6iOvcWlltoBYCLWE7GGYm7xwOUcDNXZcxcAEDVs12g0xxnGr03/4Gd0W70qcUqWuSMy6GvE0BUHQbpBSYMs3f0Ip5AYvYn/0Fjar8OvPrBnIoaaoJ05fShS+Hculd3AMg5PVImAETYCOCfc4nmgQ==;HLuikVjdb1d5BkkZvu+kcw=="
+secured: "NW5TdjMMyyT+20mtx/8I7wqWN37ou34/bW6419VnOEf+0LDA/eAFp/YsBvtuGIVzQYH+lapUeVXf7dLHJ1j3TRBKYnNuRwzn9Crt+5lMqJpZYE8ksJrCDHTkdnaKrYqY2HqVcq3L27Yvqr8QkstfY46RCLAs5UXaLYVeRVXaFlzXwYT4VvjPj5jSsyQgESVXRsfKDoDNkhv/1wFcMJb9fz9o7cxiWti+2DjIrmELRqBGMiq8Q4MuwkO3NmzzORF9KPzuFGtNVjS/vJyZDhsMlg==;Dc+m+fGrtjDyucikifPjQA=="
 ---
 

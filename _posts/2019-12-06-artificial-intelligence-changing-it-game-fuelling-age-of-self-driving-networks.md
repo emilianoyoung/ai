@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-publishedDateTime: 2019-12-06T18:05:00Z
-sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
+excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks."
+publishedDateTime: 2019-12-06T20:59:46Z
+sourceUrl: https://www.msn.com/en-ae/news/other/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks/ar-BBXU3yq
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Khaleej Times on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
-    width: 1200
-    height: 799
+  - url: https://www.bing.com/th?id=ON.57168E8DD98B702C107797E5265C3559
+    width: 700
+    height: 367
     title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 
 related:
@@ -68,6 +68,6 @@ related:
         width: 500
         height: 685
 
-secured: "KHZn3ogMTgiYG2ZN3d7FLcZpnPMC5A9xJgP7PFmAljESjL+qm9F4wjDEhV6WcOjbsLLfUDb3JKi/MUrC0lOtgskljRijW38NACs2xniSoqk+v7BeoYatlHgaOwfA2TufvmE5QleaYB01WFgAtcs3tF9ZSJplSusQdC5FOrgq3ui/MgceUaLCL7Ehqy2xbNr6cXemd/VRhaoUoSGMTaCjys9PrMTXkAWDv6xXT1xZsrjBxA93DooJ0NexFKfpF8KXgXW6IoO71aNfW3BWcX3/eQ==;3229CGxP9gP3hv8Kk2LsKQ=="
+secured: "RUWHvGCrKfKUad2al3Qjbpmzz2i9bbcOJLH34YY8ksbJ4a7WNo8RfIL3Cn4KIJtt5itz6/46OodWC0y3EIU6nI9MlvOxScezH+XlaTO+h9tPn36Ejr13fMIdjaY/XDqUBVk7PQfm/q0ECMDzELgdNfBJsymf8rwflZR58+Zm2SF1pswgb0UGrgqargt8QsyBPrSTFucKXJwvWHzfmLtLWMFicXgngDaGMhNknfqCkiauK+/fmhMuLUu+c+fYVhZ91WO20i3dtSGoSR7E7W4mqQ==;hOYMp7EcbaXNdXmmhoWz3w=="
 ---
 

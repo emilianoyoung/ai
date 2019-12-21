@@ -487,6 +487,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+    excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 19
+    images:
+      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+        width: 300
+        height: 300
   - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
     excerpt: "A New Market Study, titled \"Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. A New Market Study, titled “Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges” has been featured on WiseGuyReports. This report provides in depth study ..."
     publishedDateTime: 2019-12-19T08:45:00Z
@@ -507,15 +520,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:02:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
-    type: article
-    provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 0
 
 secured: "H19N2oYozcA4BBOMYs4VRwb14Rw2S8v00VxrZGJZe9QQHpVka7PdaeZ0KDuclruvuZ2hTNP/i/Mwvao7fR+Z5iurb20EePPO9++lDegQ9z6Cni3bGVxmF4KM54j5mpeC3kfQYwcGVNc2dQlXUY9zEEmbCEhncvTmpw1ahgbO57FxKXq+UUsyyVvPcglj5aGogNiIXsT5w26B6/D9aPdSlV0MjkW7cAjyCKPFMKGRgrDjNdxfCzC7Z07IwMSP7Frf3/KOZ2dkK5y+wplNMTi0ow==;WUfW1pHae/VXgUoRt6SU0A=="
 ---
