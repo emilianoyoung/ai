@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Self-driving cars: A decade of hype, but what's the reality?"
-excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
-publishedDateTime: 2019-12-18T18:18:00Z
-sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
-ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+publishedDateTime: 2019-12-20T21:37:00Z
+sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
+ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
 type: article
-quality: 44
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
-    width: 620
-    height: 348
-    title: "Self-driving cars: A decade of hype, but what's the reality?"
+  - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
+    width: 800
+    height: 525
+    title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -200,6 +200,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
+  - title: "Self-driving cars: A decade of hype, but what's the reality?"
+    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
+    publishedDateTime: 2019-12-18T18:18:00Z
+    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
+    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
+        width: 620
+        height: 348
   - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
     excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
     publishedDateTime: 2019-12-17T16:54:00Z
@@ -230,21 +245,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
-  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
-    publishedDateTime: 2019-12-20T21:37:00Z
-    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
-    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 36
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
-        width: 800
-        height: 525
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -333,6 +333,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "nvsNAu9IfIaWV9aUUNv1pFb5DY+2G+5Cpde0PeMR4zZRkOaYeyHEGzNL7Th6ANmy53tH2g1n4Ur7QZQhnbfdbpmsOJYEgBJMmWbJbtMIvuPUyMyYbCtkiWrDyHyDATibHIUJ+LeNPSQzSz3U4PiSmm5JymHpc8K85KNmATXQTsc5ocN6MXjRY/BFbjZdYMWkyxiVlRlypgrLlVuzuBnw5/7TRrc3GM5IYJnzHtLPazrBUvNt+SUzB6i65ZqWVd/zRePn5i4H/lvtEAsywlE67w==;QaFJDl6R0jz/zvc0S2cl1Q=="
+secured: "duGtlS74PmXSRqU9LYmN02C/xw8xYGWBhsBBhZq4VdOPVOSobmeQcIaMs775XB47hLhq/Kahn7uBrsXomo2xMGyHRkj5Lv9F5ma67BlBeXDSW2+wU/1SbwANJ/Ts30dMoQrhTHwAKSChnkSLNIotcKHh+cVZokZGX+F8nPAroGGJRePo/lsRGYu4JVaJPRLXF0MiF6fY4K4OJusyuwIIh175IdEY8Mm2sm0pG1GSSJUCiizbbISGGhuQ6Uj0f02rxD8uyr3qlDXqS8Ta9yEwcA==;8kKT9rH9wUaQcidOTPl5pg=="
 ---
 

@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Self-driving cars: A decade of hype, but what's the reality?"
-excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
-publishedDateTime: 2019-12-18T18:18:00Z
-sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
-ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
+excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
+publishedDateTime: 2019-12-20T23:43:00Z
+sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
 type: article
-quality: 44
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
-    width: 620
-    height: 348
-    title: "Self-driving cars: A decade of hype, but what's the reality?"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -200,6 +192,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
+  - title: "Self-driving cars: A decade of hype, but what's the reality?"
+    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
+    publishedDateTime: 2019-12-18T18:18:00Z
+    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
+    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
+        width: 620
+        height: 348
   - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
     excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
     publishedDateTime: 2019-12-17T16:54:00Z
@@ -323,16 +330,7 @@ related:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
         width: 700
         height: 393
-  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
-    publishedDateTime: 2019-12-20T23:43:00Z
-    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
-secured: "nvsNAu9IfIaWV9aUUNv1pFb5DY+2G+5Cpde0PeMR4zZRkOaYeyHEGzNL7Th6ANmy53tH2g1n4Ur7QZQhnbfdbpmsOJYEgBJMmWbJbtMIvuPUyMyYbCtkiWrDyHyDATibHIUJ+LeNPSQzSz3U4PiSmm5JymHpc8K85KNmATXQTsc5ocN6MXjRY/BFbjZdYMWkyxiVlRlypgrLlVuzuBnw5/7TRrc3GM5IYJnzHtLPazrBUvNt+SUzB6i65ZqWVd/zRePn5i4H/lvtEAsywlE67w==;QaFJDl6R0jz/zvc0S2cl1Q=="
+secured: "Klfrug9ZMrKWd7FW3czTKCIcDY0kOqnlgvQmITi7GO9lWkpjaToLe+o6k2jReXyZQIl6BldD1UPNMhlJ4l+O3GKGYeRsIpTOvDX6dbDOOy1dAEC3X8+kTu/F0Gn73TjlwWhgXV+PkYHv/VnFd3+s2+BOcPLzw3fZboqgEuEP3IA8+8AEtUM5Php00Nh2nuzpNif6dz0w7nGtd6Vgu0eqcE/Img2fh2CYPAXfTBE7lGXKsI5Q+povL2HnuqtNA5wu3ji8pWRLZ6prflWYX0ciBQ==;XVg1iDNOa+sA/rQQxGYN6Q=="
 ---
 

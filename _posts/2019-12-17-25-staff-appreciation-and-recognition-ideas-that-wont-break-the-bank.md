@@ -197,6 +197,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
+    excerpt: "Artificial intelligence can do a lot of impressive things, like find snow leopards among Himalayan grasses captured by remote cameras, maneuver self-driving cars through traffic, and defeat world-class opponents in the game Go."
+    publishedDateTime: 2019-12-17T23:21:56Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/whats-the-best-way-to-measure-the-smarts-of-ai-systems-researchers-are-developing-an-iq-test/ar-BBY5ZlH
+    type: article
+    provider:
+      name: Geekwire on MSN.com
+      domain: msn.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.2D0756FB6D65DC5606D5A6E3C86572AD
+        width: 700
+        height: 466
   - title: "Valocity Global from New Zealand bags the prestigious Fintech Startup of the Year trophy at India FinTech Awards (IFTA) 2019"
     excerpt: "Two fintech reports were launched by The Digital Fifth on Middle East and Indian markets. Sougata Basu, Founder, CashRich said that, “We were glad to be a part of IFTA 2019. The event was really engaging with discussions on payment, lending, wealth management, Open Banking, AI and Blockchain. It was a great experience to connect with fintech ..."
     publishedDateTime: 2019-12-11T06:08:00Z

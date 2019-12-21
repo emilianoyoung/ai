@@ -172,6 +172,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
         width: 700
         height: 393
+  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-20T23:12:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 52
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z
@@ -217,6 +230,21 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2019-12-20T21:37:00Z
+    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
+    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
+        width: 800
+        height: 525
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -282,17 +310,6 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
-  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-20T22:56:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/fc3b245b-ed20-4e55-a4d3-96c2dd40a9a0
-    ampUrl: https://lfpress.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/fc3b245b-ed20-4e55-a4d3-96c2dd40a9a0/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/fc3b245b-ed20-4e55-a4d3-96c2dd40a9a0/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 22
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z
@@ -306,6 +323,15 @@ related:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
         width: 700
         height: 393
+  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
+    publishedDateTime: 2019-12-20T23:43:00Z
+    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "O1k5pd0IJdVb6r1NJsqGVIAW5KSasUJP3O2ziNwEQF/bE+fNSSt4T8lMIYp17Cc4QEXTDCIkoG55mH+x+dwfizfiZKFlNBHitxAjIJf/WFgbTmBPtnIbVN+eutFnId+EQK4zxzUT57G/oaTGbZMP5eSvH2knZ9P9+ltJ6kmhSUuZOnp4+OHuil4woKCBRkTyb+E4sw78L6X/4/RQOhSpoeUbKgooBMeC/KKz1Kotr4b6NQo2tnvCykY+/kx/f3wAigc3iZADKFIU5rvmF2tMnw==;LMJbgOBSrbpSi/DrgKqiQg=="
 ---

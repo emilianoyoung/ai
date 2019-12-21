@@ -1,26 +1,33 @@
 ---
 category: news
-title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
-excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
-publishedDateTime: 2019-12-20T19:50:00Z
-sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
+title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
+excerpt: "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab) before taking action against ... Friday that outlined their discoveries — most notably that the network was using artificial intelligence to generate fake profile photos. The network banned by Facebook used fake ..."
+publishedDateTime: 2019-12-20T23:55:00Z
+sourceUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/
+ampUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
 type: article
-quality: 28
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: NBC News on MSN.com
-  domain: msn.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - Facebook AI
 
 images:
-  - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
-    width: 301
-    height: 274
-    title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
+    width: 1200
+    height: 797
+    title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -53,21 +60,6 @@ related:
       - url: https://images.wsj.net/im-138654/social
         width: 1280
         height: 640
-  - title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
-    excerpt: "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab) before taking action against ... Friday that outlined their discoveries — most notably that the network was using artificial intelligence to generate fake profile photos. The network banned by Facebook used fake ..."
-    publishedDateTime: 2019-12-20T23:55:00Z
-    sourceUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/
-    ampUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
-        width: 1200
-        height: 797
   - title: "Facebook Discovers Fakes That Show Evolution of Disinformation"
     excerpt: "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch Media Group, parent company of the Falun Gong-related publication and conservative news ..."
     publishedDateTime: 2019-12-20T20:22:00Z
@@ -113,6 +105,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
         width: 550
         height: 550
+  - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
+    excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
+    publishedDateTime: 2019-12-20T19:50:00Z
+    sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
+    type: article
+    provider:
+      name: NBC News on MSN.com
+      domain: msn.com
+    quality: 28
+    images:
+      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
+        width: 301
+        height: 274
   - title: "Facebook bans pro-Trump media outlet over fake accounts"
     excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
     publishedDateTime: 2019-12-20T20:22:00Z
@@ -125,6 +130,6 @@ related:
       domain: ft.com
     quality: 24
 
-secured: "hqF4bYhPZ2uTCKCWapSr4YI1qaQBELBaTqH/18AFE2zHe//lcp7wIieqv1OSg/YEnuLXNq79WLLgxkgiRQp3wJ1bxAjwb9ZgbEisePS6aLTVqG+tipL83qCH76FxGgN/Nd6o1nKNaNcEVz3txNmCXOpngliAAcLMxUC96PTVKl92xu3H08FN3RyazTU06Fv1oj9szxL536gei6u5mk9D9xqYFRZt6xr86X/C7XZgAnTMg6BfsemwYLdRjT6vhvV+4LplvkqvBxg4TLH+/L03Ng==;awLZCsqeCG/8OkRVpTA3mA=="
+secured: "dqxPcuaw9SZL9IXMIRV12FJtZry0xOkwSoErY/c3ahV0/7zY8cC1EqZl1VEMSvnE7rXmP6V0ktsM5dZshn6BtDEliGznUnY7ZkS+hMkOLXKzFBwfDauilXosmV63nPzuiDyrug0o23wnXcbwXyjYw7k2bpquTzzPkYBVbzsAz9qh8Q98+AU53SbmiRTpl+zUnXLdTh59EN2+6FCt/lgC7/DvNwR5MeS6KZGtg83NLmlFHj/jUba/P1HkmE5keFvkzjn/rub17m+b5ZbZQcMDhg==;ZjB1NMaxtzXLmhDuDSy7ZQ=="
 ---
 

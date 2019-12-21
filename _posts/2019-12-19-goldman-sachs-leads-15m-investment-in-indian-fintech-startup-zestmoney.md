@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 type: article
 quality: 54
-heat: 115
+heat: 114
 published: true
 
 provider:

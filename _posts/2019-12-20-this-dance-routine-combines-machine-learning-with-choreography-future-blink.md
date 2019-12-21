@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/video/ai-dance-routine-real-imaginary.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/ai-dance-routine-real-imaginary.amp
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     title: "This dance routine combines machine learning with choreography — Future Blink"
 
-secured: "+WEoIUaIB7tkySqomBxckxUde71uB82HX1eU87vm19hooiYJ2sT7J1bEEepsS5VhRoeNl4TcGI2H9ErVM70aig8QZORLVD8dq73JfkvsX/OIH0vI5UFhBI0huBXsisQg+xcONaTGMDjWW0Vy4zh0DPH7QPG5ZSecYeWYz41hnwH/MmXDtHDTdCFrMvLFI1JUirkdHBeSdOgyecuzPRmu0NPp+RNsE3TIh/h7RXD261upC14H6M416EVKEjVBoF01WA+ZaWHWwHQPA5oTfKfofQ==;43OUMIR/KaGKY8EcvIzdKw=="
+secured: "s++V+XqylHhSSDBtVvzauCgU2OZibUmFxXlwTVbu1k6PoeW4noTth080LnGG3pjvUla3BqNnRu1ccWK9CJsJ2GIf0BSLgHLU2bdsrx/JTcAaK9GA7bYkI2p33D5C5B/V3C9VY7UJVGsM40d737JtPWvdi8x7cB0pF8oRQe4csoI8YgBW5T3CPKqHQev893hqD5EkSqy/q7G8yTNvXrL8vSTmEb4XFQCuYb7/gWu0WUbpyXF+216lvcWJy85XOsFpoMA7MWk6btyYh2o4M6WsRA==;uYvgNesYw6WrgHJAylgDqw=="
 ---
 

@@ -50,6 +50,21 @@ related:
       - url: https://images.wsj.net/im-138654/social
         width: 1280
         height: 640
+  - title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
+    excerpt: "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab) before taking action against ... Friday that outlined their discoveries — most notably that the network was using artificial intelligence to generate fake profile photos. The network banned by Facebook used fake ..."
+    publishedDateTime: 2019-12-20T23:55:00Z
+    sourceUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/
+    ampUrl: https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
+        width: 1200
+        height: 797
   - title: "Facebook Discovers Fakes That Show Evolution of Disinformation"
     excerpt: "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch Media Group, parent company of the Falun Gong-related publication and conservative news ..."
     publishedDateTime: 2019-12-20T20:22:00Z

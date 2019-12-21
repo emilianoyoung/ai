@@ -2,25 +2,29 @@
 category: news
 title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
 excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-publishedDateTime: 2019-12-17T12:35:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
+publishedDateTime: 2019-12-17T11:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider-2019-12-17
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 104
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
-    width: 700
-    height: 365
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
 
 related:
@@ -37,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CA9200079A73BA5DFB3A877A641AE88C
         width: 700
         height: 437
-  - title: "Yooz forms partnership with Microsoft Azure"
-    excerpt: "By building on the robustness and flexibility of the cloud Azure platform, Yooz is offering a comprehensive solution that can provide ... the partnership uniting Yooz and Microsoft is a major factor in the accelerated digital transformation of organisations, supported by AI and the Cloud. At every level of our organisation, every Yooz employee ..."
-    publishedDateTime: 2019-12-12T14:36:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80936/yooz-forms-partnership-with-microsoft-azure
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
   - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
     excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
     publishedDateTime: 2019-12-18T00:59:00Z
@@ -59,33 +50,7 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 34
-  - title: "Microsoft and CCN-CERT take a giant step in securing cloud environments aimed at Spanish Public Government agencies"
-    excerpt: "Microsoft Cognitive Services, Microsoft Exchange Online, Microsoft SharePoint Online, Microsoft Kubernetes and Microsoft Azure SQL. The ease and immediacy with which Microsoft’s cloud services can be made available in the configuration officially considered by the Cryptologic Center as HIGH Level, according to the criteria established in the ..."
-    publishedDateTime: 2019-12-12T11:03:00Z
-    sourceUrl: https://news.microsoft.com/es-es/2019/12/12/microsoft-and-ccn-cert-take-a-giant-step-in-securing-cloud-environments-aimed-at-spanish-public-government-agencies/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.3659594A369EDE81FE2F83933C8DB639
-        width: 700
-        height: 394
-  - title: "Microsoft Signs Multi-Year Alliance Deal With Japan’s NTT Corporation For Enterprise Solutions On Azure Cloud Platform"
-    excerpt: "While Microsoft will offer the trusted Azure cloud platform and AI expertise, NTT will bring its ICT infrastructure, managed services, and cybersecurity expertise. Incidentally, NTT confirmed that Microsoft Azure is its preferred cloud platform. This partnership should bring in multiple new innovations in the field of wireless communication ..."
-    publishedDateTime: 2019-12-11T07:00:00Z
-    sourceUrl: https://appuals.com/microsoft-signs-multi-year-alliance-deal-with-japans-ntt-corporation-for-enterprise-solutions-on-azure-cloud-platform/
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.7C34F8F8006138A1F4F3CAB941DAE893
-        width: 700
-        height: 468
 
-secured: "6ht+/fsexwaGDcM39Uzq49AQUAq7MjkExGM9+CJyGGOCYlsDTnQop22f4QxtUquhxahXPhGi2jxBlwMGpT83x6a8JlCr/PN1GQxETPhojSnNFeY8MojS3FMLJUk4qQdg+6M002/MFpQBux+H0DgfEMzvLV39bxLMZz4dd/aYBG7FYIpPrAqrY982uLnkGAn6DGWy+oJQeDS4+2SqvIdLtnoi6oTAHy1Lse/HCrTLcHeu+1J9k5b9cFnl6dZ8wFHOHlOkm1beC/JpqFcMOuT0ZQ==;Kv7oF8mRedKfx9pNtY1Cxw=="
+secured: "T1BNBEVpzfaPmDgLNwa97yrraTZl9ONG1oKyfSap3YShSA20Agrv3Ykhb0tt/VYiY1+jLPK/+/u8Uq77jOlhWXRKJDq38VJBvUvWBlwqonUJsb2a+cetT53mypaFPD9wkUT53dXHmyfJuh4S6qzw8hpVl+Wu2WsY8q+BYNP5yb6/6D5YXjGZKq0XAGVTRI7u6lEHKiJbk3zx7BdO4ZLx6xqXLPa8VYaGb+U/qNKRvv72MVPrmO4Dc4vT15iCz5ic/AIPtcS2Mvtuni86atnvBA==;AnmyXh6Ig+NqI+BUDjl+Sw=="
 ---
 
