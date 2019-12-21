@@ -76,6 +76,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
+  - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market ..."
+    publishedDateTime: 2019-12-21T00:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-neural-network-market-170200987.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "MQGayIl1Mt8Ov6eNKnUXKPhBOPu5gxaeA9FBuind0JRPFvHl6IYNFI5RknXUQVC4nXcruxjRfhqBt5hoz1qYUhdUdVM6/Jv2pwy3dn+ZL8OCunWVMiMXgJcl9FWJF5ivPrUzUUjLrJVs2YygLaUPA4Gvdzr7pYKHt7jxcruRp5OiBfi9Eshl4pCThn0X66kRvASlaQrVwppj1Ia7lGp8Tk3GiFV9sik8C5K4NMAGmgd9ekZLLTE9LKY1LGhSa6XTubalSEbOczzKN8h/t9+Zlg==;8b/uayWn3EZQjSzKP1WJJA=="
 ---

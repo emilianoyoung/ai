@@ -539,6 +539,21 @@ related:
       - url: https://thenypost.files.wordpress.com/2019/12/shutterstock_1160291101.jpg?quality=80&amp;strip=all&amp;w=1200
         width: 2000
         height: 1333
+  - title: "Security Industry Association Applauds NIST Study on Facial Recognition"
+    excerpt: "Facial recognition is a fast-advancing technology in a constant cycle of improvements and is widely adopted across the public and private sectors. Reports from non-biased organizations like NIST are immensely valuable. SIA commends NIST for encouraging research organizations to examine this issue comprehensively rather than publish incomplete ..."
+    publishedDateTime: 2019-12-21T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/security-industry-association-applauds-nist-000000351.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/security-industry-association-applauds-nist-000000351.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/security-industry-association-applauds-nist-000000351.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 59
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
   - title: "Government study finds racial, gender bias in facial recognition software"
     excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
     publishedDateTime: 2019-12-19T20:33:00Z
@@ -1216,6 +1231,19 @@ related:
       - url: https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg
         width: 1920
         height: 1113
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
+    publishedDateTime: 2019-12-21T00:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/u-government-study-finds-racial-231410970.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
+        width: 800
+        height: 533
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1537,11 +1565,11 @@ related:
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-20T18:47:00Z
-    sourceUrl: https://www.msn.com/en-gb/news/world/federal-study-shows-face-recognition-accuracy-varies-by-gender-and-race/ar-BBYcMUn
+    sourceUrl: https://news.yahoo.com/2019-12-20-nist-face-recognition-bias-study.html
     type: article
     provider:
-      name: Engadget on MSN.com
-      domain: msn.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 19
   - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
     excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."

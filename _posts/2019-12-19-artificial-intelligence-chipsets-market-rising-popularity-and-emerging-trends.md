@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T18:35:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-rising-popularity-and-emerging-trends-2019-12-19
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 0
+  - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
+    excerpt: "The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market ..."
+    publishedDateTime: 2019-12-21T00:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-neural-network-market-170200987.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "dc8hMlvxUY3ugrttigDeUuUoQjsvhVO7K/h88AjNTbf1kKfhKATu1DeWmTCDtoodOxxbI8XFP9Mo251nXb0HowBW29CjVgGl+mXoq7GQ0NM+iKMi7d9qlgI/fj92jzUuRkaZcKbL6MotaY6qPV//SsbA0KEdK//oe7vZa1Wqn4V7UPrZO5mHhQTY5/BMj2Us/WONMMrpoIF0i2QVzQnVpKMg3FaImyBkVsd+LGdAglPFsiLfksL3vxgPQOFXnNOMJ45+o+5p+AV1tjUc5oNDrg==;NzRqSrQ0qndNH9l6+daS8Q=="

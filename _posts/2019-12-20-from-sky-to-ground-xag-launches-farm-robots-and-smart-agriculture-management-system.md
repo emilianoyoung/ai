@@ -2,25 +2,25 @@
 category: news
 title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
 excerpt: "Information technology, artificial intelligence and biotechnology are three fundamental variables that enormously ... XAUV™ R80 is an autonomous, multifunctional farm robot which allows third-party payloads and adapts to both plain fields and sloped terrains. While inheriting XAG's technical advantages in centimetre-level RTK navigation ..."
-publishedDateTime: 2019-12-20T08:47:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/from-sky-to-ground-xag-launches-farm-robots-and-smart-agriculture-management-system-300978208.html
+publishedDateTime: 2019-12-20T10:12:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-from-sky-ground-xag-launches-farm-robots-smart-/2019/12/20/9073095.htm
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://mma.prnewswire.com/media/1058239/SAC_2020.jpg?p=facebook
-    width: 2700
-    height: 1413
+  - url: https://mma.prnewswire.com/media/1058239/SAC_2020.jpg
+    width: 400
+    height: 267
     title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
 
 related:
@@ -99,6 +99,6 @@ related:
         width: 678
         height: 655
 
-secured: "z+gXeMiIHBy/ZAEDixLC73xZsqlZ0+OmyXII667Mkj+z71dpBuqdxAEpN2/dawJzggybqHLP4l4PpoGQsONeA0veLYBxrOunVLihuVCw5v5wGZcmbrWdRGylR5j5QjIFFYpx0k7yXPklT+uFYM6b6isFIuzgR8lS/sISdWZqMAmq4IkZc0zhQG8iWsxCYCTzVTAxou6k5KyAkZ2j9k1sapJ2En/8OO32Dm1r7Eoshz3MaSEQ8a4BFVewoj9xxDR2FjVAuWU8AVd/92k/gQHo0A==;p3gKEsbYAPaFplnu8BrIjA=="
+secured: "kwq+01cGZxzdKJ8N+47f6lHUrg+c63DkgHqWvmjek6GtqDXAujwKPtpGYA6LPl1/Ou6xbiIqp5+Em4Pzzv2BaS1RQEBjn7pCsAEtWkyTnYwLYMGltJMcf8K70R5Gsj4ZSkKFY68HRsXhBYY7OweC7c0+Z/4u5ygFtHNhogo0wHb2lgyqMsUrDznZQ4voB+D86CjaKFMCImu1GsInDRwPyQaCmqgYsEu8pOBIxMzDBDZI3DuwjEZyYgyai9aWUp1nQKHFk1d0VpCgcAcTmPseNg==;XHRN5uzKLkYtp+KcY+9zrw=="
 ---
 

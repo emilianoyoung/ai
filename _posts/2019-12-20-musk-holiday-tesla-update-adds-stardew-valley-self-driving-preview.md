@@ -91,6 +91,21 @@ related:
       - url: https://robbreportedit.files.wordpress.com/2019/12/https___hypebeast.com_image_2019_12_tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk-1.jpg?w=1000
         width: 1000
         height: 563
+  - title: "What Does Tesla’s Self-Driving Mode Really Look Like? A New Software Update Gives a Sneak Peek"
+    excerpt: "Just in time for the holidays, Tesla is releasing an update to the software that powers its sleek vehicles, including a new game and even a preview its much-anticipated self-driving mode. A specific release date hasn’t been announced, but word of its impending delivery comes straight from Musk’s own Twitter account. In it, Musk gives a ..."
+    publishedDateTime: 2019-12-21T00:25:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/does-tesla-self-driving-mode-220002941.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/does-tesla-self-driving-mode-220002941.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/does-tesla-self-driving-mode-220002941.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 47
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/SGz80wlVK0MWY4WKcaF3KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjAuNjQ-/https://s.yimg.com/uu/api/res/1.2/ZQDr9coVPpFGavu5XynBQA--~B/aD01NjM7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/robb_report_967/6c6770320ed6c58bb5d644bec0e6d115
+        width: 1000
+        height: 563
   - title: "Telsa Adds 'Stardew Valley' Dash Game & Offers Full Self Driving Preview For Holiday 2019"
     excerpt: "Essentially, this means we’ll have a closer look and understanding of how Tesla aims to introduced Full Self Driving into its line-up of semi-autonomous cars. No date has been confirmed for the release of the Holiday 2019 pack, but expect more Tweets from Musk soon noting when you can get the latest from your car. In related news, Tesla has l ..."
     publishedDateTime: 2019-12-20T15:39:00Z
@@ -102,6 +117,15 @@ related:
       name: Hypebeast
       domain: hypebeast.com
     quality: 30
+  - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
+    excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
+    publishedDateTime: 2019-12-21T00:30:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-19-tesla-fsd-stardew-musk.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
 
 secured: "VG3xjWsAjtYvFil8Ap5i8KbM4/t5v8pZSQjO67MxJw02JVpTLfrrn7h1N2tQv8t9VN0u/oG4O0Meods9qsOHHboROAuGPwVrkPIgIWn7QcwnEJeyOUuyUVrkVkS+OtQC1ei00rA9PuLth37dR2nSfH4nnXGTLaWFZPkItV5iEdr4M5AlelQh0H9/5N7qHBsLF6hwJwn6BqM6YD0YojYvhtYjUjIvwekoWBFsvdiwrx/iEyAqAav6IJ8ff9FfJK74AqCbuzfPTBrcnRJKYm4ujQ==;DcYDASiGmlV0i1nXkbZ5cg=="
 ---
