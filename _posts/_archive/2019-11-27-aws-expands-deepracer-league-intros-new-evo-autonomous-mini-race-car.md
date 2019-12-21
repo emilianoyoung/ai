@@ -36,19 +36,6 @@ related:
       domain: techcrunch.com
     quality: 84
   - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-    publishedDateTime: 2019-11-28T00:13:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
-  - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
@@ -58,6 +45,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "f8ifNk/41dyJLriigrac4h/DZSPUioR3k5Pf1XQDdDrOukNKe51atGme2lShyNFueveWT/lINC05sgRXWZ52uxI3U5+5RnaHq6HoNN0QBjInP20Z8UfD/4B3ek1wRDCC+74QJXeBU/dFkr/ajbSdpuTYviVfMTdT3rzJMma0f83rbSqvT4NWifmx5+QzN9/zZ5R9PP+whgccWaL/bRal845QdYZnJFsWHRnpCw1SgfkA4a8blEBBjS30BzJ0F6jn7CWwawCwNTurEOTkYuyaeQ==;bXfjBv8BMRLS07XMa2ZRlw=="
+secured: "gN2CakhwQsAjhL82bgjJswQTFl10r72UYESPMwm8dDzcFMEoe5I9DJXW8rvT954EPLf4hYmAGyBshLUWRLPhM/u5/UYlDxusdTD0hy6GijGIxtFwc9D7wlxJ4leaMgSd4PlmdqVngVCTQTb8rN7EZvwhw4eWsWjheyxPok8NBHsKSACsvodoyoJh+8HoyMy64u0kzABpwcGxAYvBxNIeOp/+3Oqb47rAXd2U0bd689nP6OyBieVe5CstYnXcDIlsCXOAHH2r55Bjqcbwz/eYvQ==;Kt10a9syGZBOJxpBPQxgfA=="
 ---
 

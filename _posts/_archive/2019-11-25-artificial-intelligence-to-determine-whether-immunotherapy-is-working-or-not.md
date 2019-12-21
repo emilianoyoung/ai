@@ -41,18 +41,7 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
         width: 2557
         height: 1199
-  - title: "How artificial intelligence (AI) is improving immunotherapy"
-    excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
-    publishedDateTime: 2019-11-25T14:38:00Z
-    sourceUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy
-    ampUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
-    cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 69
 
-secured: "D8G+xvwWZxMcGkD+phjBN8npbZmaeUjffbVB69scvfGaEWu9ahI0csF6t6IY2kCvGEVPgILKt9Xnv5q6nG7Qm5i7yXTNhGxf6qYhdT4LiXUjyHhp57Uk1PcYhqbNGLVlU9qb6xAB4t/fFLXAghBhv03s9Z+eNkOd7wsv9TW4zebfsoLpPujX+FfwDTXGHMGp326Jrn3txH0RF43d/RLLZD2ZpajFk6vLV7m/2wR5A7zv0RbarAog3K1W0Gvm/2Fam6owEvJJUOLyzyN9yR+lyA==;mMYxnKHMojMmaQil554ocw=="
+secured: "GmysAdMMQP6llxA7sQ17aEBSseBKnJCDZa7bi6RYsqXUjVSJf2RmPuX7D0rPeFw0jbwgQmDHiDcvs097Dyxvoge19ieDO5Uiq7E4LI3uOvodwLyfuMOw81lIK4I/96gEQzZcnxpJBFHXzLX01d4J7xj93RzUH5vwPiv5jQ3NXYLReE9ku2R3GObzpKUfIXjeliKuqbGnCd0bFKfbRGKhX1n94t0QNQUb1MCZ1pTXeOWA0uupcB5Lp7AsPKrjDOnYk05LBpToH0ujGcDBacTLhQ==;N0AUiAs5Ag4ClY6d/34kPg=="
 ---
 

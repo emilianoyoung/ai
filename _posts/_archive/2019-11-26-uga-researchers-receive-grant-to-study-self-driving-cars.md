@@ -78,7 +78,18 @@ related:
       - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
         width: 460
         height: 460
+  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
+    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
+    publishedDateTime: 2019-12-06T19:32:00Z
+    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
-secured: "3wf9nHOXXvoyC8FhbC8OrRAwCETQHmTGcxJsa2bpSbZKzmKOswQNt0DXEf63gHSXHMcd/CtlZRb9VhF6mBmJnAg6hJvcC4TqjI0b88YErNvqupeQMij71BrQ9FbmpuQA3kwWgLCitqhs62JY+MMeAE/D0MEz7zKRny2saeVJfF6hsnT8N+SOpJmLlDhedGm2AFyTalDZPGL/fruDpJvNewg1XS08POTXnnW4vZ29vvNEPjiJiO09oEr/BA3RGCBxQszs9fMqc9YMXxuBysn7+w==;3MBauoIr+83QYtsm1vdgQw=="
+secured: "AW3VrWtWk4sojRSDpkaWLcd1CF7sLuSIAhpuGYREHQHPJkCfIeTyH9p/ZrDDPiVPBlnSLebsCMzfp1sP68IYBX43EVoC+LrdRwHVXJN1Eq3rQ8HXx7cdqngW2DEu1hFg5CI0y1smN/oNEgvRNeL2nWl7bh+HMkJjj/6jWkgQCou8rNqmDu92v9fNsK1xCUad7uz0SrC1cm7miq8qwME3xESurB7eCOw47tFO3kvvg8xW6wJwXBnyDpHBmM4rg4xZ5N1H0zsq4WsmP4AGWT31qQ==;yJKg0ohc9Cy6p75FA5d2UQ=="
 ---
 

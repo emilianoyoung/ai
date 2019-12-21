@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       domain: zdnet.com
     quality: 84
   - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-    publishedDateTime: 2019-11-28T00:13:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
-  - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
@@ -58,6 +45,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "dAjURPDNfl/HGCzHcEvAtOidOSwRO61o4/qzMmZURLzD+1xncx+nPrcr6CR8n36GoWlJx9yIf7gBvANIKEtQdFMXrYEk2GAePc69eSvaGnbH6+EGvEvN+2D+L8Hdgp4fXb7FysucRc0ms3U/I1hZAat8Ik1Lt/ETkYIe26MSAdaZgtjFXGVn9ZRg2G1WaCdw0pS00M91045F8i49BvBi9fUse2daASYvslcEUE5TfUl6mTa7jwGg0DbO1KM1r6aYUwfCPHuvWolk7HgaZdwkXQ==;UhvsgVL8oCy6ecdHJI+DrQ=="
+secured: "A8nWd57HrV1CpVo+UWwcecGLC0MbhJpO4bOFBIfg2ih4Ft/EHz2vWczEC9ncSSeG+ReW1L7NpVraq52FsjGs87nnsROjQ3CxWNjpHefNnZwicuZ1QQkpPAUA7nxTwAULcy9aChC1l4TrAAUcUvuZMqhJUBd7ZCkx4sczaApu2IZs+khGz7hntauME9SlHhVDihyd26VjJG7BLOlExZo+mBgkySvbLxVVze+tUAw2nPKrlOeC3Z+jZ0jYodQRiO7PpRs4uZu5yDi9gjN5jrESew==;Xz0TidNroHG34xKXnwVvvw=="
 ---
 
