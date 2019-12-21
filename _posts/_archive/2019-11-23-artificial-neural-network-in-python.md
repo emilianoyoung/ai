@@ -27,6 +27,6 @@ images:
     height: 414
     title: "Artificial Neural Network in Python"
 
-secured: "Hp6CEAXnEPJBBG0yAVAg7ATb3XbKzGyLHIjNA1MyRq2KY06cCpm/X7z99qeMrTz9hYpbjgKncNzvuYT66wxspKkEXWuCCHOOT2P/S1YPHV1m/SrCecUkNjbOcsw7O1rIpjt4EjTEbGjZxV5dOkJeoozC/cuwf9fj8mP7msLHR78O3T9FAeNc6Nh/dyyaoQFsgd28qPZ4IWb3eGJXkU8djQOyHcB8stjBp1jrbFZO9XHcNA8NS4hkDBSDlFmsRbqNIXTh5CLhWmLFni+KHi+r+Q==;QTLrTPlRbmCXqx7t1bLjMw=="
+secured: "VRaUr/bHpZm48Au6cVZBvNGXI5BPrOO5ImafQQxfsAQjmGp7TzHsWJG0pf44mP5dDNhXbNK22VfM4nt0zNkHSfrZ7764GzMJnv/4uA+UE5i5buDgzqaChLnKotaeS7RKkKFgSfOkTzorXhzymd0XepRx2aJOkfqn4sO8r759LwKZeHAjIE0jUuCreVBrA+BC+mDoIyDEF23vZpyqPeJyZIohrZlwc9AH51mTDnKBEYtIX9pj8ha0bS/Y8w2GkOnERiiR2ClRC4cf74Ln9k6lfQ==;v+NrFwPhCVwfndsQKPWnUw=="
 ---
 

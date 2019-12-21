@@ -1207,14 +1207,14 @@ related:
         height: 393
   - title: "Federal study finds race, gender bias in facial recognition technology"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
-    publishedDateTime: 2019-12-19T23:43:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.usatoday.com/amp/2704291001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
+    publishedDateTime: 2019-12-19T23:50:00Z
+    sourceUrl: https://www.jsonline.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+    ampUrl: https://amp.jsonline.com/amp/2704291001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2704291001
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 39
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."

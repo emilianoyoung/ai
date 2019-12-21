@@ -2,18 +2,18 @@
 category: news
 title: "Federal study finds race, gender bias in facial recognition technology"
 excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
-publishedDateTime: 2019-12-19T23:43:00Z
-sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-ampUrl: https://amp.usatoday.com/amp/2704291001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
+publishedDateTime: 2019-12-19T23:50:00Z
+sourceUrl: https://www.jsonline.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+ampUrl: https://amp.jsonline.com/amp/2704291001
+cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2704291001
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI
@@ -1675,6 +1675,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "3hZCtiFeDLKnvNRV2fx2OgYIyNHs+ZP/wOaIQBG51NT6dAlL1atZw4iAvZOHZhodX3f8Z7vr5zXOWD7M0UiHZOYdxrWCtVrbVqjS4sNB88l5UOS8xmA3ijPrOPnGAbIUoYf6HvlfC0wiHmlKawtgQfzdKAszGuXcbAI0IjLfR3p8GyfSIiMlNO0joi3xVH44uSTHjjMd2fXLN6ZKit5mSiJKWF3CRkwBDQ206Eq5uoMbssaRWUn8T3RSb5naz6t/7TyPEEsROMoQhn8E2UmWPQ==;WUC7G1DVMkwjJPeMc6mu+Q=="
+secured: "kDJlmjq6lmLBU3rrZde+seVhocXf4/Ad4aQ3YUGx0Oh84uo+P1E266gs3J/FvIL7fCPmE159v7heP9x/V98EUGxjW1NlbHIFg2yehkUiCYbR6fJFWxGFBwcbHqjkbrz1iqI4eRU/LdXf9V2jTsupgBCUqh9vs8BTei3RJB8VcJzwGn/b95cqKR5XpUHZmO6rihtGEoIc0W/w/HzwogASa7QF31C/eVCCrIRHDEzcMWtOcYb7rYLCxMvMG9pnN4aP1NsQJgi5qjYLNFX2ryjK4A==;3Uwo7zVPqJsxg3HQqPHuFg=="
 ---
 

@@ -24,19 +24,21 @@ images:
     title: "Argo takes different road to skirt self-driving challenges"
 
 related:
-  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
-    publishedDateTime: 2019-12-11T12:31:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG <VOWG_p.DE> - are betting they can answer by ..."
+    publishedDateTime: 2019-12-11T11:46:00Z
+    sourceUrl: https://finance.yahoo.com/news/argo-takes-different-road-skirt-110812834.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/argo-takes-different-road-skirt-110812834.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/argo-takes-different-road-skirt-110812834.html
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.3BCBE11C93EFAAE019BE92D1777E45C3
+        width: 700
+        height: 466
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
