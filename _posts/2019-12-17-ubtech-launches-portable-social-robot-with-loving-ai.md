@@ -33,15 +33,15 @@ related:
         height: 1080
   - title: "From Sky to Ground, XAG Launches Farm Robots and Smart Agriculture Management System"
     excerpt: "Information technology, artificial intelligence and biotechnology are three fundamental variables that enormously ... XAUV™ R80 is an autonomous, multifunctional farm robot which allows third-party payloads and adapts to both plain fields and sloped terrains. While inheriting XAG's technical advantages in centimetre-level RTK navigation ..."
-    publishedDateTime: 2019-12-20T08:47:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/from-sky-to-ground-xag-launches-farm-robots-and-smart/article_85748e96-7ee0-504d-855e-f98217dcab99.html
+    publishedDateTime: 2019-12-20T10:12:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-from-sky-ground-xag-launches-farm-robots-smart-/2019/12/20/9073095.htm
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 32
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/7d/27dd31ed-dd27-56c1-9e41-d5924bc309c3/5dfd7cad14d71.image.jpg?resize=400%2C267
+      - url: https://mma.prnewswire.com/media/1058239/SAC_2020.jpg
         width: 400
         height: 267
   - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
