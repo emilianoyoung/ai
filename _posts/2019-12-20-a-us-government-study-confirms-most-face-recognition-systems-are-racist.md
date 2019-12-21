@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
-excerpt: "The commission’s vote halts plans by Delta Air Lines to roll out facial-recognition cameras at its Sea-Tac this year. (Shutterstock) SEATTLE (AP) — At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the ..."
-publishedDateTime: 2019-12-11T19:51:00Z
-sourceUrl: https://patch.com/washington/across-wa/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-ampUrl: https://patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
+title: "A US government study confirms most face recognition systems are racist"
+excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
+publishedDateTime: 2019-12-20T16:08:00Z
+sourceUrl: https://www.technologyreview.com/f/614986/ai-face-recognition-racist-us-government-nist-study/
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Patch
-  domain: patch.com
+  name: MIT Technology Review
+  domain: technologyreview.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.3D96A573111126F1F82745CDFA8FBBE8
-    width: 700
-    height: 525
-    title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
+  - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
+    width: 1200
+    height: 808
+    title: "A US government study confirms most face recognition systems are racist"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -279,6 +277,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
         width: 457
         height: 305
+  - title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
+    excerpt: "The commission’s vote halts plans by Delta Air Lines to roll out facial-recognition cameras at its Sea-Tac this year. (Shutterstock) SEATTLE (AP) — At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the ..."
+    publishedDateTime: 2019-12-11T19:51:00Z
+    sourceUrl: https://patch.com/washington/across-wa/sea-tac-airport-officials-hit-pause-facial-recognition-plans
+    ampUrl: https://patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
+    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3D96A573111126F1F82745CDFA8FBBE8
+        width: 700
+        height: 525
   - title: "Beijing’s New Airport Is Embracing Facial Recognition Technology"
     excerpt: "In general, Chinese citizens are less bothered by the growing pervasiveness of facial recognition technology than in other countries. But soon, international visitors to Beijing’s newest airport won’t have much of a choice of whether they’re captured by the technology. Flying in and out of Beijing may soon be a Minority Report-like ..."
     publishedDateTime: 2019-12-14T13:00:00Z
@@ -1218,19 +1231,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
         width: 700
         height: 394
-  - title: "A US government study confirms most face recognition systems are racist"
-    excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
-    publishedDateTime: 2019-12-20T16:08:00Z
-    sourceUrl: https://www.technologyreview.com/f/614986/ai-face-recognition-racist-us-government-nist-study/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 39
-    images:
-      - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
-        width: 1200
-        height: 808
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
     publishedDateTime: 2019-12-20T08:15:00Z
@@ -1656,6 +1656,6 @@ related:
       domain: msn.com
     quality: 5
 
-secured: "qhlrvL6R7jqLjdUpuoRmGsZV/TkkM1uy4uzsC3ROSQzsP9w3xQgTJ4FDJC0NlMeVrtARCV3XfODb5rl9k2c1PLXm3g6BT+NUveKUKizcaks5JaYi8xuboxO2Ji2FSC7u+QHEw1Ttz2DxdtbwpJXCJehkxkeSK00HEFQLQo/Mhwv79S/mooN72jTQA+yD+OlW4E/+QmTwXJFirt2mCH3IjZ9bwzrQrSuPKrjoJZZEwl3S4Zuq12i6jIBO+jjFOkcTBhUxMu394W2wsyveVdoNeA==;AOWfNqF97/vYfdoFrTqpJA=="
+secured: "Pe5g4HdXPgSOK/JNHNEylmfH20K24ytdxz+U3IEbBOf1sKa6N5/mLRaPpWYM5UibmCgM4+jlogEYBL0TaYSeHFndEqa/KVjCRVqtpFo+jS08VrML/DyNNgOF83HKDNq3mJoSRsHedmKKUuOXpcOFjO3shLYci2ju/Z6KcWup2MPZIMZS5MVO8bdrYunRPmVBSjE75qTCXfQ+FdotBxGb7fkW0Imu04YYbEPl/4XgrUmBi7IsDCfLKDc6rbiHwCq6z5TAtGL1DTT7e8EyvnZtEg==;YKoELr0/ZwRv6pGzIn20Yw=="
 ---
 

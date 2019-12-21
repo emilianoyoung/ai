@@ -1218,6 +1218,19 @@ related:
       - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
         width: 500
         height: 281
+  - title: "A US government study confirms most face recognition systems are racist"
+    excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
+    publishedDateTime: 2019-12-20T16:08:00Z
+    sourceUrl: https://www.technologyreview.com/f/614986/ai-face-recognition-racist-us-government-nist-study/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 39
+    images:
+      - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
+        width: 1200
+        height: 808
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
     publishedDateTime: 2019-12-20T08:15:00Z
