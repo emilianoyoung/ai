@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Facebook takes down fake accounts with fake faces pushing politics"
-excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
-publishedDateTime: 2019-12-20T21:07:00Z
-sourceUrl: https://www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/
-ampUrl: https://www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/amp/
-cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/amp/
+title: "Facebook removed fake accounts that used AI to create fake profile pictures"
+excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used at such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. Facebook, which owns Instagram, also took down fake accounts from the photo-sharing service."
+publishedDateTime: 2019-12-20T21:51:00Z
+sourceUrl: https://www.cnet.com/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+ampUrl: https://www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
 type: article
-quality: 44
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.328E1541D746291061CED01A26FFA669
-    width: 700
-    height: 466
-    title: "Facebook takes down fake accounts with fake faces pushing politics"
+  - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
+    width: 196
+    height: 110
+    title: "Facebook removed fake accounts that used AI to create fake profile pictures"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -56,21 +59,6 @@ related:
       - url: https://images.wsj.net/im-138654/social
         width: 1280
         height: 640
-  - title: "Facebook removed fake accounts that used AI to create fake profile pictures"
-    excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used at such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. Facebook, which owns Instagram, also took down fake accounts from the photo-sharing service."
-    publishedDateTime: 2019-12-20T21:51:00Z
-    sourceUrl: https://www.cnet.com/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
-    ampUrl: https://www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
-        width: 196
-        height: 110
   - title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
     excerpt: "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab) before taking action against ... Friday that outlined their discoveries — most notably that the network was using artificial intelligence to generate fake profile photos. The network banned by Facebook used fake ..."
     publishedDateTime: 2019-12-20T23:55:00Z
@@ -101,6 +89,21 @@ related:
       - url: https://static01.nyt.com/images/2019/12/20/business/20takedown3/merlin_166226280_01e1cbc9-c350-4082-8c26-13e406edc001-facebookJumbo.jpg
         width: 1050
         height: 550
+  - title: "Facebook takes down fake accounts with fake faces pushing politics"
+    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
+    publishedDateTime: 2019-12-20T21:07:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/
+    ampUrl: https://www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/facebook-takes-down-fake-accounts-with-fake-faces-pushing-politics/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.328E1541D746291061CED01A26FFA669
+        width: 700
+        height: 466
   - title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"
     excerpt: "According to research from AdStage, cost per milles (CPMs) on Facebook have grown 90% year-on-year ... Back in July, Instagram launched its anti-bullying tools, including a pop-up that provided a warning to users when its AI detects that a comment they are posting could be offensive. According to the platform, this prompt has seen some good ..."
     publishedDateTime: 2019-12-20T11:15:00Z
@@ -141,6 +144,6 @@ related:
       domain: ft.com
     quality: 24
 
-secured: "k4cSBvekW2h5VLLsfFMKRRh5+5cE4DWIWTyyGkqXvQNRigPPS3EU+ZgvfGtRmn7LjAdliKIwOHXpwJyUjuAu4WHSOBtQRk+2B1NdjTvnHetm+tf6Z/+otLmGBWFsPUXAT1TzmD/LXW0EKLilEiObPNcMjIWMv40HQOJiRu76Fcy8bGws/NGYC3eGSnnF1eag3CmRJ6Zra8fLvGblQ0mHkHrUB5Vl3KSMkZ7vhw28+pSndRhj6TRb6uBk/OlCE8F1e4RWGnEht1As6Gjibf1CSw==;OnkmZO7TS7vnrZ1rjqOiGg=="
+secured: "XvkGE4rPNDTZukrRWUHVjwHE3JqOkOftwUHLur+sOPcjf755LWKc1tduPPOgYnjhMyiNU8PjodbESOttX2KfFBj/JoaL+sIIujbZY1OSzr/arIhIvgXZcj0BcYdKVlkOauAxlCO4fHMGfyclodAbIChXtw1nt8FWhMXGHEDAogy4L4TlIi60w/+2f4+0e0dmAjuQCkobxNBwtV0bXJ11IbE30rRFFNv4LefmOOzYbcD1rEIaCOUdgSPKktGQw0VTmaspE+7iRZrTyt6TRuG/rw==;muurZH2NHiwFkXTL8jci3Q=="
 ---
 

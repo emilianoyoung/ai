@@ -56,6 +56,21 @@ related:
       - url: https://images.wsj.net/im-138654/social
         width: 1280
         height: 640
+  - title: "Facebook removed fake accounts that used AI to create fake profile pictures"
+    excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used at such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. Facebook, which owns Instagram, also took down fake accounts from the photo-sharing service."
+    publishedDateTime: 2019-12-20T21:51:00Z
+    sourceUrl: https://www.cnet.com/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+    ampUrl: https://www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
+        width: 196
+        height: 110
   - title: "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos"
     excerpt: "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab) before taking action against ... Friday that outlined their discoveries — most notably that the network was using artificial intelligence to generate fake profile photos. The network banned by Facebook used fake ..."
     publishedDateTime: 2019-12-20T23:55:00Z

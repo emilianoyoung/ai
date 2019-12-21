@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
-excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
-publishedDateTime: 2019-12-14T14:03:00Z
-sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
-ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+title: "For self-driving progress, Aurora focuses inward"
+excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
+publishedDateTime: 2019-12-21T04:00:00Z
+sourceUrl: https://www.autonews.com/mobility-report/self-driving-progress-aurora-focuses-inward
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
-    width: 600
-    height: 315
-    title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
+  - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
+    width: 700
+    height: 525
+    title: "For self-driving progress, Aurora focuses inward"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -60,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
         height: 490
+  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
+    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
+    publishedDateTime: 2019-12-14T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
+        width: 600
+        height: 315
   - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
     excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
     publishedDateTime: 2019-12-17T21:32:00Z
@@ -331,19 +340,6 @@ related:
       - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
         width: 400
         height: 300
-  - title: "For self-driving progress, Aurora focuses inward"
-    excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
-    publishedDateTime: 2019-12-21T04:00:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/self-driving-progress-aurora-focuses-inward
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
-        width: 700
-        height: 525
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z
@@ -380,6 +376,6 @@ related:
       domain: seekingalpha.com
     quality: 0
 
-secured: "NaEizHR8stpkTMKalug2OBgbUce64vDsSa+WZ3AyivEzSq6WPqbZwc25mY0MKKjD4Xxqvwynv+vNJ0TiIISNrBESysaYw8ILhN0hx/9frqyhDw0YKsoBB2Z4HbuEbzoekLaYoDahfP/2wxP0TUKitryPg5ZUb+08ZNp4zfbFBLX9EFmbxZXX5bleH32dci2cq+/pLRPLPUvkY4oTxlNIJMttQl0YiXFpdaBtdc0gW29ndy6CeL4GlkiNO9MH8q2DQ6FtTMfwfEhbj5mOlPJLEg==;MeGR8KBV/FoVE31etWLnlw=="
+secured: "lb2EiSUd+p9xzBCrJKay7+6+Z+iK4ldZ6JwnZEbL83hids1DjP7rzMpZ3VUacfLcR7A/Fvab6oiBLPyewoCKq8CrvvH74OBAeUxqz3VEb4zJYLQx3NLVezb8EMW0NoW7jqO9UWEhAnnmFgTSxnoSmAmlvrJh7Qpuphk0ywebt+4EgUu0264xWgSKyRBGAI+2DvuCy2m7KoaEAbuGmznVdeTngYfrKL5AJS6hlvzvs6XHWvSDZpPQWJ0ajwaLRf2JNmV94Pc+Ai26EwY2hPslFw==;HgPMxNc1l1921TBJQT2T4Q=="
 ---
 
