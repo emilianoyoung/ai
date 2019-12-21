@@ -8,7 +8,7 @@ ampUrl: https://sg.news.yahoo.com/amphtml/china-subways-embrace-facial-recogniti
 cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/china-subways-embrace-facial-recognition-094126798.html
 type: article
 quality: 132
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     title: "China’s subways embrace facial recognition payment systems despite rising privacy concerns"
 
 related:
-  - title: "Chinese tech groups shaping UN facial recognition standards"
-    excerpt: "Chinese technology companies are shaping new facial recognition and surveillance standards at the UN, according to leaked documents obtained by the Financial Times, as they try to open up new markets in the developing world for their cutting-edge technologies. Companies such as ZTE, Dahua and China Telecom are among those proposing new ..."
-    publishedDateTime: 2019-12-01T16:14:00Z
-    sourceUrl: https://www.ft.com/content/c3555a3c-0d3e-11ea-b2d6-9bf4d1957a67
-    ampUrl: https://amp.ft.com/content/c3555a3c-0d3e-11ea-b2d6-9bf4d1957a67
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c3555a3c-0d3e-11ea-b2d6-9bf4d1957a67
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.999328753F4E4589F448E4D16FC478AF
-        width: 700
-        height: 393
   - title: "China Demands Facial Recognition From Mobile Chip Purchasers"
     excerpt: "RIO DE JANEIRO, BRAZIL - The adoption of facial recognition by China has just reached a new level: as of December 1st, Chinese consumers contracting a new mobile plan or service must allow their face to be digitized during the registration procedure with the operator. The Chinese government has been using facial recognition for some time."
     publishedDateTime: 2019-12-04T09:10:00Z

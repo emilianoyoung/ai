@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.93041C4C97769E483112B54459D84BB5
         width: 700
         height: 393
-  - title: "Chinese tech groups shaping UN facial recognition standards"
-    excerpt: "Chinese technology companies are shaping new facial recognition and surveillance standards at the UN, according to leaked documents obtained by the Financial Times, as they try to open up new markets in the developing world for their cutting-edge technologies. Companies such as ZTE, Dahua and China Telecom are among those proposing new ..."
-    publishedDateTime: 2019-12-01T16:14:00Z
-    sourceUrl: https://www.ft.com/content/c3555a3c-0d3e-11ea-b2d6-9bf4d1957a67
-    ampUrl: https://amp.ft.com/content/c3555a3c-0d3e-11ea-b2d6-9bf4d1957a67
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c3555a3c-0d3e-11ea-b2d6-9bf4d1957a67
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.999328753F4E4589F448E4D16FC478AF
-        width: 700
-        height: 393
 
 secured: "7SgdS4ileDdH4lZTv/7rwWaHOX7pFUmLDflPQQjTzVDf1FmwxciR6jvHP7daswcN95jpoLWSjEgSjFnRfUcAkj47JYOk2cnq8q+RpWpbiYZYC2CBDPclO8uvJgP+gYKq8znxoyW3Zn+YZlmWWnNLNTJbbyUDHE/qAtwmvIOR3wAHScuK87iSEXS1yXOApxqGJPV49eIV1UAdBl8iBvnRWwJNe7jhYLSo0dMzDHfuXa5lCTFmo2OeLZy2EOWyPBJ5nu4nYwIi5ZgmLvwO1f52mQ==;/gP5EWfFlY2DzsplPQ2pZw=="
 ---

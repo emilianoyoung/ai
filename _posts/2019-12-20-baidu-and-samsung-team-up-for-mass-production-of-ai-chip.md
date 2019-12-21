@@ -104,6 +104,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 54
+  - title: "Samsung and Baidu will start production of new AI Chip in 2020"
+    excerpt: "Samsung has announced that it is working with Baidu on a new AI Chip and production of this new artificial intelligence chip will commence next year. This new AI Chip is built on Samsung;s advance XPU home grown neural processor architecture and on the 14 nm process. “We are excited to lead the HPC industry together with Samsung Foundry ..."
+    publishedDateTime: 2019-12-19T11:05:00Z
+    sourceUrl: https://www.geeky-gadgets.com/samsung-and-baidu-will-start-production-of-new-ai-chip-in-2020-19-12-2019/
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
+        width: 700
+        height: 429
   - title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
     excerpt: "Samsung Foundry and Baidu this week said that the companies were about to start mass production of an AI accelerator chip early in 2020. Baidu’s Kunlun chip is to be made using Samsung’s proven 14 nm process technology, and make use of the company’s Interposer-Cube 2.5D packaging structure. The Baidu Kunlun AI accelerator is based on the ..."
     publishedDateTime: 2019-12-18T15:00:00Z

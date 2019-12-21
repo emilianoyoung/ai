@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Baidu and Samsung Move New AI Chip Into Mass Production"
-excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
-publishedDateTime: 2019-12-20T22:27:00Z
-sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
+title: "Samsung and Baidu will start production of new AI Chip in 2020"
+excerpt: "Samsung has announced that it is working with Baidu on a new AI Chip and production of this new artificial intelligence chip will commence next year. This new AI Chip is built on Samsung;s advance XPU home grown neural processor architecture and on the 14 nm process. “We are excited to lead the HPC industry together with Samsung Foundry ..."
+publishedDateTime: 2019-12-19T11:05:00Z
+sourceUrl: https://www.geeky-gadgets.com/samsung-and-baidu-will-start-production-of-new-ai-chip-in-2020-19-12-2019/
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mobile ID News
-  domain: mobileidworld.com
+  name: Geeky Gadgets
+  domain: geeky-gadgets.com
 
 topics:
   - AI
-  - AI in Autos
   - AI Hardware
 
 images:
-  - url: https://mobileidworld.com/assets/AIchip.jpeg
-    width: 400
-    height: 298
-    title: "Baidu and Samsung Move New AI Chip Into Mass Production"
+  - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
+    width: 700
+    height: 429
+    title: "Samsung and Baidu will start production of new AI Chip in 2020"
 
 related:
   - title: "Samsung to make Baidu's new AI chips"
@@ -81,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.26EB2D6CBB2F393EC87E12B41928667B
         width: 260
         height: 140
+  - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
+    excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
+    publishedDateTime: 2019-12-20T22:27:00Z
+    sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 56
+    images:
+      - url: https://mobileidworld.com/assets/AIchip.jpeg
+        width: 400
+        height: 298
   - title: "Samsung is going to mass produce Baidu’s AI chip Kunlun from next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech giant and the Chinese ..."
     publishedDateTime: 2019-12-18T14:36:00Z
@@ -92,19 +104,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 54
-  - title: "Samsung and Baidu will start production of new AI Chip in 2020"
-    excerpt: "Samsung has announced that it is working with Baidu on a new AI Chip and production of this new artificial intelligence chip will commence next year. This new AI Chip is built on Samsung;s advance XPU home grown neural processor architecture and on the 14 nm process. “We are excited to lead the HPC industry together with Samsung Foundry ..."
-    publishedDateTime: 2019-12-19T11:05:00Z
-    sourceUrl: https://www.geeky-gadgets.com/samsung-and-baidu-will-start-production-of-new-ai-chip-in-2020-19-12-2019/
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
-        width: 700
-        height: 429
   - title: "Baidu and Samsung team up for mass production of AI chip"
     excerpt: "Baidu will provide advanced AI platforms to maximize the performance of AI, while Samsung will apply its foundry manufacturing technologies to high-performance computing chips, which are dedicated to edge computing as well as cloud computing, an area in which Baidu has been trying to catch up with its local rivals including Alibaba and Tencent."
     publishedDateTime: 2019-12-20T03:06:00Z
@@ -159,6 +158,6 @@ related:
       domain: thefastmode.com
     quality: 30
 
-secured: "mfYUg7XzEKWQDKgElvDsg6+lqhYZBxucielSDO4908XCT6hGlRHv/0t38HKfTZxPSd+bs4zR55ft9fH1hoKN46lOfv/oSilQvWyb2pa3ruI6Ek4CtBquM+X6/7nyZV0zCOlEaU3u4SZ6glW7i02SZ8rEfAul36IF9Ykv/euZnsyhJNl0IJwckUiTOQ3GxtPLA/Uhj0E35wUhSFr1o3D0U2FKk/2Pbk3DMx9tr4VxN9zaO4XbbtyiuDeTQ6WSMjTlqxVc+hJrQ6UUK9G7zH9I2g==;Mu9IWFzLMmXOHIIPIunVXw=="
+secured: "G3KATmX0jU7XamtHxu3/+ql75jiD6mBpBQdUYa9J1Das3h9dfb14mv+QYYnVPtt/zkKU7IX+36Hbhgk+fCLLAQnbVFi/4ooBL8Bo4FN4a0bmwMVWpdFLtICwjRfSRz6VGkpx9eaNXfMz9MvqrCd7xq/Ww2XCJq1MQyKaPt9ob/gB1W5Y9IEebdEbLQnEmok4CR1QYWd7fKsh7HrBdKA1TY9hVW9k48bXKE+aLl7X/qU66FQnADExg/5IQDnYNt8crCYKWtlvOmnJL1w0YJui7g==;ndKK+0A4v2M5NPiuAw/rLw=="
 ---
 

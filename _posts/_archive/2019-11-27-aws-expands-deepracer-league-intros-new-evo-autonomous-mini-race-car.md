@@ -49,6 +49,19 @@ related:
         width: 512
         height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+    publishedDateTime: 2019-11-28T00:13:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
+        width: 700
+        height: 554
+  - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
     publishedDateTime: 2019-12-02T00:01:00Z
     sourceUrl: https://www.msn.com/en-nz/autos/other/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
@@ -58,6 +71,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "cYUBGhgHWphxqnl5vPpe+YD0gUc+ZkFekKp8aFvL0BP9+tohtOREexULKWY78amrF04lftAspvbIhUyii6W+HYYV3jRLDAr6zqmM20TvRr6Y4lzbHwmZdiOM40RBovXA36HDcRm7Up9fmTKEouWEpNAzCTHd/io+BEG1FxPa5RV5qmMZ9TRTOxvU7auaRHaz3oYTCrlicu4Ri9fq39o2D644QaJGOoYugUqBPmHdSeAR1VvgNRX0aVaGKh4ZR9P5gA8NBt4c+GrNaX7bqALHag==;x3D+SX4zwzgclKf7tO7Nkw=="
+secured: "gS9QVqSwnE4ug0ZeN5w3c7qCoehKUJbbVOFUbz/kDFrAhgf1Krncs1mcMlgKzXNxpxMnTLy+qUvYBWKav03C4rzhm6xDxwM2KsQ2dkC5+KFcFF6FWXzU0NWEejNIRLOQMLSOPgEoq+0V0ZoMolsTBSjOD0UyQg+WogWVjAhS6ODG06d7znzz98bNV8oNwvubmZmplHCxoamRr9Rd1p62Cl/kKjqOOQmCJvG67OezgGUwsNH/Mkr6/2fOB+v+TpNZqMjKO/r5+q956C9og7xcGw==;sL10cwmaBJ+2Msj8TOG6tA=="
 ---
 
