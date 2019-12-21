@@ -25,6 +25,6 @@ images:
     height: 630
     title: "This dance routine combines machine learning with choreography — Future Blink"
 
-secured: "vjqMD4wqsDE0ds1YA8u8S+88qyPda0+PJ7OyTtIYHDhaBMbhyU9XzHI6/MKZYl8TvnVlq5j2whiWsvjs5FLuOXBBC+iLk89VYY8jp8mMNoiAYb9odfMPwuhkUtwjtUVa/ZAKpEB352V9IWo6azBVizQRwuo1QlMcM5a8A0I6inG9spd/Qy6zIJVMhmjXeMM6xbFue54YVbsOj+lMb2SIBz9aqJIneHSYdatY1rBaAUUUKtZcnNnu3sgNeCqkUfh0KV2rQNjpRrn28OJfg9E12A==;/I0KdkiyNwB9W+Uvfyh+MA=="
+secured: "RMctQnVNC1Glcm16539Qj3lbvwaR/J+fc72/PBGueoUzDLEZjN5MHq9pv92+Gifnr3rHc0T4irHo26alK5beScXi6kYVMWyEeBmxEUFaEbqOjR0TzidiR88YUY2FI7lzoOtY5Nd80exrnhBHQHWDZXTtRkwc6e6PtKvi5c2HD3WVMC465CYcTn3KgNF2QzI0OkTvpnIKsGPewns6VHACMA1PajHRq6TCh273qAQNzs9owdl+V/yY1aCWqd8al5/bguGGHTpqDBGteKSzWPZdgQ==;PT8PsWe32JXRtvAR/LuTDQ=="
 ---
 

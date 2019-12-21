@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T05:53:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -27,19 +27,15 @@ images:
     title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
 
 related:
-  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-    publishedDateTime: 2019-12-21T09:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+  - title: "Machine Learning as a Service (MLaaS) Market"
+    excerpt: "Based on End Use Industry segment, the Machine Learning as a Service (MLaaS) Market is sub segmented into Education, Banking And Financial Services, Insurance, Automotive And Transportation, Healthcare. The report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry ..."
+    publishedDateTime: 2019-12-18T13:36:00Z
+    sourceUrl: https://www.openpr.com/news/1880777/machine-learning-as-a-service-mlaas-market-to-reach-valuation
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
   - title: "Artificial Intelligence Service Market 2019 Size, Share, Growth, Trends, Demand, Manufacturer Analysis and Region with CARG"
     excerpt: "Verticals in the AI as a service market include Banking, Financial Services, and Insurance (BFSI), healthcare and life sciences ... and gross margin Artificial Intelligence Service by regions like North America, Europe, Japan, China and other countries."
     publishedDateTime: 2019-12-17T13:26:00Z

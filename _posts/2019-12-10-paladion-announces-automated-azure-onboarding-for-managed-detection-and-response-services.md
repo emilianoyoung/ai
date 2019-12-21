@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-excerpt: "RESTON, Va., Dec. 10, 2019 /PRNewswire-PRWeb/ -- Paladion, a global leader in AI-Driven Managed Detection and Response, today announced that it is expanding service offerings to include fully automated zero-touch onboarding with Microsoft Azure. This product update of AI.saac will provide greater efficiency and automation during the initial ..."
+excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
 publishedDateTime: 2019-12-10T10:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
 type: article
@@ -108,6 +108,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "mw76tUvZUbMqQAo8pjzccpKYFbZGGqyUkSo4lWY4u/z47T+lSwQW0mO2PgIz/uKa0D6uK0Ti7605imKRdCYLu7NVD2OiU88zxw8qhVWVilM7ZRKcvhO/95ItsE51QavJAEpOohfsnLW1eTAVk1rRt1LKS49z1c1kUhEKHytMCE5SyCwBjqde6cD20Ues19IbZVVHtZvvHj58XXo83f4htv/WkQfJfApFawbvyyJdfUqk61nXEQS/FEw++l2eDvOChP0DLnZR1v2IX/0MGX039w==;96zdmhFOy0lWpjCX7OM+WA=="
+secured: "6Qwr+l7Gs8DM9oU7mSXQFIj3y3JhVUwM1THbcKHsEKBO6wmMg2I+l0U5vXcYcPB2EBfF0wrjRYs41zPpowswbiXIB/jdK7jD5nwLBdQcVMIlpK+bzyiSuFME8r5JURrjaPdB+Z/w86BmizvkPskGI/mGi1154Jz222Y+vQND/lcghOV1lnN2lTLbJmunb2xQZJrtLdMa8pj6x1ape2agUqNYNCVP+041KcUd8Sk4nPUs9WZ2Q+23E4S0KQHygBzrw5hilK5a/RF0WB9IoMw69g==;A6lUVKpEQJrnEi7iAMZApA=="
 ---
 

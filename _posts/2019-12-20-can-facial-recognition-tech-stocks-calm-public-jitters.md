@@ -2,26 +2,28 @@
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T18:00:00Z
-sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+publishedDateTime: 2019-12-20T14:00:00Z
+sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
+ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: /assets/images/organizations/fool.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+    width: 1024
+    height: 512
+    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -391,6 +393,17 @@ related:
       - url: https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201912/ott_now_racialbias_191220_1920x1080.nbcnews-fp-1200-630.jpg
         width: 1200
         height: 630
+  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+    publishedDateTime: 2019-12-21T01:26:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 66
   - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
     excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
     publishedDateTime: 2019-12-19T23:14:00Z
@@ -1673,6 +1686,6 @@ related:
       domain: msn.com
     quality: 5
 
-secured: "o+r1/Nmp+gSrw5ig/3ENS8OgpIjD3TuhQIKrj6/1eWIN6AYXrlldG3mb81BltAbskgcVTUM/Yd9tn6ib/RpC5wlPhXJoS60/mI4oY8qFD/wTsw8I9y777/3Il2snvX8fZHX4QqEH49hze4NhS90fqNEA9rujcaoHHQvdvXj67j9EFYREwoCYHL0oQHvmr63iQr5vBPqHL+4EgRZH56OTDGX2gnCGjAvmg64pvJBuimzhCTPk/R8vRJ5IYUDZHVMu9ZkGoM7mredlAGulGCbRHA==;o+XGKbfLHUJ85zThtqMF5Q=="
+secured: "8w7wD/8cUdGsBsTk9pIahgN8PZc/8X/fTsjki+O5O+DOYrrZo1oYgZPjX3HWwaT5KaadSY1tCUw0oDBtRtRc/FLt5Azw5tEl9dGEIfPbgC7DFPSLGV4jdNucnfJn4e9a/gNeQTqgTV8V6zFsSC57gHY8BLnjnvOS8q05pbR38cXA3+H+9ZQpJlillC2ux9kTnPPNiE/eb6s8YcPK0T9c4f8y8A1SLg+OV5OIXzUX19rxlsTdOpK0E3ZcbGVGoPcvDltM3CxKMLL1vmtRnXJ/AQ==;+V8CeSNHssbCZ4RaxaeCQA=="
 ---
 

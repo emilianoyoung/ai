@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Serie A developing facial recognition tech to combat racism"
-excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
-publishedDateTime: 2019-12-16T15:43:00Z
-sourceUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/
-ampUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
-cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
+title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
+excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+publishedDateTime: 2019-12-21T01:26:00Z
+sourceUrl: https://www.cnbc.com/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
+ampUrl: https://www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
+cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
 type: article
-quality: 59
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: /assets/images/organizations/cnbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
-    width: 700
-    height: 367
-    title: "Serie A developing facial recognition tech to combat racism"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -408,17 +406,6 @@ related:
       - url: https://media14.s-nbcnews.com/j/MSNBC/Components/Video/201912/ott_now_racialbias_191220_1920x1080.nbcnews-fp-1200-630.jpg
         width: 1200
         height: 630
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-21T01:26:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/reuters-america-update-2-u-s-government-study-finds-racial-bias-in-facial-recognition-tools.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
   - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
     excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
     publishedDateTime: 2019-12-19T23:14:00Z
@@ -507,6 +494,21 @@ related:
       - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
         width: 700
         height: 466
+  - title: "Serie A developing facial recognition tech to combat racism"
+    excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
+    publishedDateTime: 2019-12-16T15:43:00Z
+    sourceUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/
+    ampUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
+        width: 700
+        height: 367
   - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
     excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
     publishedDateTime: 2019-12-19T22:25:00Z
@@ -1686,6 +1688,6 @@ related:
       domain: msn.com
     quality: 5
 
-secured: "a7HisxT2cfu9GfXfzSLLjWKUisusqqkBERLdjIb6Wvj2XrDym1QxvC0/nWk8xjfh3qt44uFlCzp/mE8qgC8mYQvOcxJhqYT8/M2OuA1nmHx9+5qGmHaziJ4RfRFjZb36Vlbj7bnJ5BMvZulWWYMHT4ZyiWsG7/Q0Tf8Qmfh2SQjMQzxCNDIVHsIrvwp6YbPmcI7ijLDaSejkdn/uzF2YwKZeNQp//ZN+uo69Fj+YtGhvNlRJdnNUG0XrMDTv9uVDnxfaQYPHPJ0fs9d5OgBMPw==;U2M0j/Yw7KYoCp7k6bl+/A=="
+secured: "AgfJkZWhL+EfT2lZCpJUptmPBL6O5SeTyBFlrOYp3U8y2BHk5Em37YdabmCvbeWu2IE6nsbqCNuo/l3M93H9+HnF5oHNg659jTPGW5r5fydEnpBOoAaYE2qys2Kc6YcEOrg8GtWZ+75QoMmUTHH1ZijeFFcbKjjPon/e4O48jlOLywU6gQY9YEZP9HyHcF3nRU9JbyhEOLn3pOC52Ywit9+1OpII45VGuRP80Q/5iCzS/0yKWi9pYqnGGa4AGuZ8pZIvBAGPsSTk/XdZY+qWmA==;T/9kCf37wcdEh4Og9C3OJg=="
 ---
 
