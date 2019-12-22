@@ -79,6 +79,6 @@ related:
       domain: pymnts.com
     quality: 39
 
-secured: "5fxH9UHEHkj6v3B/ycdNuF/Q78KYhuSfEVfScaLybmg1rPP89OGeUg0Q3BjILXWzGjAr+Pi2JjmpUwuwVYvd3oYRYSotNh82fbpIztYlxQJOsUinsGkUZTSTZuqpUouB/vnbB9vYnuwq8vieT35es15ypKxInwAwD+ZnEXvgJrd1+G+AF78Ni5JfS/Kr/mNeAjPHf4tiyCbEOvxITAMUmTzkMa6MtZ9e66j57rgiGHOw64E0OnI3MJ6I/t0YxdwUzh5g1zi9oVSkTTfweKoe/A==;Nf94UFVlD6MXmgmOlVI+vA=="
+secured: "e1in/sigg6VYnx3vQRDsa9P74WCwQhmDUsjArlYaUEQoqh4itDjMA0m4YzMTxRyUcDOtUwHzCB3q9cuv5dZ8HfwNgr68k+QQXOzsrfehwgWWbMgAM2qN/KmK47zVNa88pgmGw1nuuAbxaZNg9TOa5oFdal8brGSqs7a7mRkcmTqXVgDCfMr09PbaeiBL2Q27HnqwKW6g+pf9/1TcwfX7fX4yFyp8ZqigWyTHsO5VdTzoKzm8tBhd0pzDJh0W0edRCS9ZcUw7KiA5Xlam7BSrWQ==;Z7W5Vdeay5BFoxqFZ84RjA=="
 ---
 

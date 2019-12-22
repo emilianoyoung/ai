@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 129
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -94,19 +94,6 @@ related:
       - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
         width: 700
         height: 466
-  - title: "AWS DeepRacer Evo is coming soon, enabling developers to race their object avoidance and head-to-head models in exciting new racing formats"
-    excerpt: "Since the launch of AWS DeepRacer, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console, by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the 2019"
-    publishedDateTime: 2019-12-02T08:01:52Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-is-coming-soon-enabling-developers-to-race-their-object-avoidance-and-head-to-head-models-in-exciting-new-racing-formats/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/Site-Merch_reInvent_DeepRacerX-League_SocialMedia_2.png
-        width: 800
-        height: 400
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS DeepComputer is a machine learning-enabled musical keyboard. The 32-key, 2-octave keyboard is designed to allow developers to play around with Generative AI. Developers can use either a pretrained model, or train their own model on a data set from their favorite genre. AWS Single Sign-On now integrates with Azure AD AWS Single Sign-On ..."
     publishedDateTime: 2019-12-03T20:34:00Z

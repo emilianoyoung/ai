@@ -102,19 +102,6 @@ related:
       - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
         width: 700
         height: 466
-  - title: "AWS DeepRacer Evo is coming soon, enabling developers to race their object avoidance and head-to-head models in exciting new racing formats"
-    excerpt: "Since the launch of AWS DeepRacer, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console, by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the 2019"
-    publishedDateTime: 2019-12-02T08:01:52Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-is-coming-soon-enabling-developers-to-race-their-object-avoidance-and-head-to-head-models-in-exciting-new-racing-formats/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/Site-Merch_reInvent_DeepRacerX-League_SocialMedia_2.png
-        width: 800
-        height: 400
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS DeepComputer is a machine learning-enabled musical keyboard. The 32-key, 2-octave keyboard is designed to allow developers to play around with Generative AI. Developers can use either a pretrained model, or train their own model on a data set from their favorite genre. AWS Single Sign-On now integrates with Azure AD AWS Single Sign-On ..."
     publishedDateTime: 2019-12-03T20:34:00Z
@@ -259,6 +246,6 @@ related:
         width: 700
         height: 365
 
-secured: "YTCT5Gt1YUMb+fWJtr1k9G3EYsKwCShc2sIGhnd4VYYple1ayKfcCZbwNcWRFPT7iwao7QN+NbWIRqY+tgbjf3E48w3c07PasNBsIAmajo1/hCkbhXEpQmFkVJv/3rr+nWcXplKVG1t6zrwuRTPZllWyB2P+N4ufXc6ttUknYZ1Z75UHOGF+wIj1iiTBgvk6zkiO8SNPboPAaMIF7hV3i7dh4TCHraIUNYxAMXNcJMgnwePneFBFc5nsfqcNYo4vgOxHUKi7nrroiUnHfn3pJQ==;AymTObBM1vLnQcr692MGHg=="
+secured: "B0jz/qCt4dP7LZewsBv71kf7rhD3A9yTlkseHtnw8NfPBBKpSwXQHxtnwTR0XhmPxNVLIxl+xrbwgHSP5K9U+xmzOW1JvmYCMMt5siGSrqgUXKqGiwAWo/0OqYiO1NmiY2GNBW0xkbGt82/lc0a6RUWYQDrL84z/oCdJpiqzxvw/Lx/+80Ypsdyn+lBqMwcWY+g4lWWxsXvgmefG6DdU3sXcSlNZuViX7fYElWa1IjpMbsTmNkESDEYcpL8G9otvM5+sLWkJjtSpNphG2Bx3Ew==;FuYURg9kJ73rU0bLDTxmQQ=="
 ---
 

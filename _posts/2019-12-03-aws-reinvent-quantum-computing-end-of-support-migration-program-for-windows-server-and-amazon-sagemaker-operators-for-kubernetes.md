@@ -107,19 +107,6 @@ related:
       - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
         width: 700
         height: 466
-  - title: "AWS DeepRacer Evo is coming soon, enabling developers to race their object avoidance and head-to-head models in exciting new racing formats"
-    excerpt: "Since the launch of AWS DeepRacer, tens of thousands of developers from around the world have been getting hands-on experience with reinforcement learning in the AWS Management Console, by building their AWS DeepRacer models and competing in the AWS DeepRacer League for a chance to be crowned the 2019"
-    publishedDateTime: 2019-12-02T08:01:52Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-is-coming-soon-enabling-developers-to-race-their-object-avoidance-and-head-to-head-models-in-exciting-new-racing-formats/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/Site-Merch_reInvent_DeepRacerX-League_SocialMedia_2.png
-        width: 800
-        height: 400
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z

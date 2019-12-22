@@ -72,21 +72,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
         width: 700
         height: 367
-  - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
-    excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
-    publishedDateTime: 2019-12-19T16:03:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50851409
-    ampUrl: https://www.bbc.com/news/amp/technology-50851409
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50851409
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
-        width: 700
-        height: 393
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
     excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
     publishedDateTime: 2019-12-20T12:10:00Z
@@ -100,6 +85,21 @@ related:
       - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
+    excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
+    publishedDateTime: 2019-12-19T16:07:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50851409
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50851409
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50851409
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
+        width: 700
+        height: 393
 
 secured: "GLa8diXNOzauxuksbNxNHW3OQEzyFYe5AYp96UoPqY98UfAjjgIObRkX/PtuR4+BcS6zP4WLyDcfVGCER9srcU2MPLqJqHaU7QqPgtQGGgBep72fbWmxCQTUCRfkHdW67tZNlKbbGuKIap5GLQRPGE9UCdSOV5GdgHJ3Q7b6d7gKyN2JQX3cBrTC6opOKWRmxJXaVFLkCwM4vF8546jg9iy/72n5m1aRUfdFzY7tuEu6opd6kfHde7vMHvzoYAJcJLeA9QQCVkHy7GnCJV2caxYR9hOZzKqaJ2azgxyVgP8=;XaLNwaQlFw8PkNx2EeVHFw=="
 ---

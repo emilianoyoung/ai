@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T14:00:00Z
-sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+title: "Facial recognition fails on race, government study says"
+excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
+publishedDateTime: 2019-12-22T00:27:00Z
+sourceUrl: https://www.bbc.com/news/technology-50865437
+ampUrl: https://www.bbc.com/news/amp/technology-50865437
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
-quality: 89
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+  - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
     width: 1024
-    height: 512
-    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    height: 576
+    title: "Facial recognition fails on race, government study says"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -99,21 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
         width: 700
         height: 466
-  - title: "Facial recognition fails on race, government study says"
-    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
-    publishedDateTime: 2019-12-22T00:27:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50865437
-    ampUrl: https://www.bbc.com/news/amp/technology-50865437
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
-        width: 1024
-        height: 576
   - title: "Privacy advocates raise alarms about growing use of facial recognition by U.S. government"
     excerpt: "Let’s face it – facial recognition isn’t going anywhere. Whether we realize it or not, most of use some type of facial technology software every day. It’s being widely used in shopping, home security, and law enforcement, and millions of us use it constantly to open our smart phones. But privacy advocates and civil libertarians ..."
     publishedDateTime: 2019-12-11T20:39:00Z
@@ -189,6 +178,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
+    publishedDateTime: 2019-12-20T14:00:00Z
+    sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
+    ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 89
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Federal study confirms facial recognition is a biased mess"
     excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -1722,6 +1726,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "T9b1AfYv8K+qUAzg7AIsUyG3rlQS2Q3+VGO+cWMxuOWocPJstIYzk/uF/u4hM+TGbXVzPbsQF2iEl15f20Xk88KOTep81JlVWjgNTDL74mXuRRKthyapSG1i9OUPefdMntkm33H2/g6m8ZtQ5qv3b+4eg9c0+MdyhUsLTic5KAjrG0PiNeG/kZ2fzZKP/CuIYl3i5PFW1lFDJyp48vMG4RyCt+a3iokA3fjP+UzrtHXvQOOLWpgcB3b65DP4Oq2BLSEXVnZoLAiAcqbdywyl3w==;u9c1Eo0Qszao0TbbIzdFNg=="
+secured: "Mth4g4DrfFtpcJYmFOY5a63DcSimPx4v/iUATvSzpKnAC21WnRqSj3fB2NjUk3jomDmr0whel1eB+h3oPdX+axgCvKzWoWPtVaULutukRH/duxWmy+xzb6SWA8hfdva7ube64TBxg9e3DURmQy1cLQO5XScYBqNDQnY+QJv/YBHw+vCih+QwYajQ4Ru2yjmu0GTZgVh7H7Xc2iSP+Vw1KT4fs66EX82Wn2d4Q3wmKtmiZ5baKDdF3oZGNYhIg7lYhFmMboluBHCffOJux3FTDg==;+Kh9urHiOb4Wl3OvXOdDXQ=="
 ---
 
