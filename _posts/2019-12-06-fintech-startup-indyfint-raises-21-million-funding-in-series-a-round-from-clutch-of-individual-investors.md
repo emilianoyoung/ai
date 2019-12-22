@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.40E62D361A27E92F0522C8A46E4DEA41
         width: 700
         height: 420
-  - title: "AI Needs Intelligent HPC infrastructure"
-    excerpt: "Fortunately, some existing technologies have adapted well to the growing need to process multimedia data types for AI use cases, most notably – graphics processing units (GPU). A GPU performs the vector and matrix computations that underlie neural network layers. GPUs do so in a parallel way, providing vastly improved training speeds with ..."
-    publishedDateTime: 2019-12-02T18:01:00Z
-    sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/ai-needs-intelligent-hpc-infrastructure/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.E02AE587EB70A5B12DCB94D684FCFEE2
-        width: 412
-        height: 274
 
 secured: "Fi2CD0gSE13bz3lcaU2dzah4Ay61D9D4I42L7KjZvzbjz8gJyCr7tcaR1Go8nAxivhI+GUywj9fkY/THkYC9CkQb8n3nptruJXQz2wg4JXV1BfrOOhl2dxCrNJZWyFACd4fvI3Q29vl4xMMMWyajBkVH5apRvBK4P5fgZ+/CfSVlWc1YNAOBSUCowPH4hmul2CFTjFST8j5ExIpHiFWCwundEy858FFjD8Iuzs6HiXtoZc8PqrfFLTgRWtRtyMdLUnXtQMa5QFJvDxM71FvHaA==;8BUXNPk1Ut3z/fWSb5a58A=="
 ---

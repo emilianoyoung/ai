@@ -46,7 +46,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
+    excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
+    publishedDateTime: 2019-11-27T17:56:00Z
+    sourceUrl: https://siliconangle.com/2019/11/27/aws-new-deepracer-evo-ai-powered-rc-car-serious-mission/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
+        width: 860
+        height: 484
 
-secured: "7AReAsxnNl4Q9TuKpl/svvIiwOi8aIL94QxQyd//DQrB8mZx146bZgjSWYxUnuJykuExbg3u0iRfDYujcZZ2KtIP6Eli4YpExhcW/wXd5H/o3/eV6NOeNF9b5ro/Tic/HnRue5S+gptjPrvWKgb5euul/DvL70Z6/f6q7yZW9y/WM2PXwOu661Qq6xHNHc9ZvgX1S3p1UxNy2W5IncLw65q0lYPeQqfzviahnVwojoHh1gOY0hLha761Tcc6Ds/S2h8p0uSEHWfq1aLBI7kF5A==;wLkWEjXE7Jnqx2NoM0VZPw=="
+secured: "krfxp49XyrFturF1xxENvIvE2r25ykAriyjutFbpYNW7GwA3rdJS/bmozHsg/951qY2nuRkxchVxb83XkeUCYdPHxjiKMf5vqG4tm9z1X41LS15Qf11Mo7LyrslHJv9/HsbH1Oqo5zTwP2+UMWhpB/DCFFxOf6kHVwzzusdqOZAAq5VOYy2IGyuizezlzG2H6LgHGDpWqIX0agqhq5wbJDey/kdUDDX5wgGwUl7eidg7BAHXThRNwF/iLkBYoijWJPuxHbezU8NFDr37Z+d4jw==;WcB9+5sjdnYFkK3NREPVTA=="
 ---
 

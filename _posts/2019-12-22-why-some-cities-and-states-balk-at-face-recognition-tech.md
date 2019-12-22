@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Why some US cities and states balk at face recognition tech"
-excerpt: "SPRINGFIELD, Massachusetts: Police departments around the US are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers – and even some technology giants – are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-publishedDateTime: 2019-12-18T06:54:00Z
-sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/18/why-some-us-cities-and-states-balk-at-face-recognition-tech
+title: "Why some cities and states balk at face recognition tech"
+excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+publishedDateTime: 2019-12-22T18:03:00Z
+sourceUrl: https://www.denverpost.com/2019/12/22/face-recognition-tech-us-police/
+ampUrl: https://www.denverpost.com/2019/12/22/face-recognition-tech-us-police/amp/
+cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/face-recognition-tech-us-police/amp/
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://apicms.thestar.com.my/uploads/images/2019/12/18/443978.jpg
-    width: 1240
-    height: 768
-    title: "Why some US cities and states balk at face recognition tech"
+  - url: https://www.bing.com/th?id=ON.86E04BE1A4C862BFBDAD77DCB7C24AAD
+    width: 700
+    height: 454
+    title: "Why some cities and states balk at face recognition tech"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -625,21 +627,6 @@ related:
       - url: https://www.bing.com/th?id=ON.16191907FE4A7CE06EC149C843E3E897
         width: 700
         height: 377
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-    publishedDateTime: 2019-12-22T18:03:00Z
-    sourceUrl: https://www.denverpost.com/2019/12/22/face-recognition-tech-us-police/
-    ampUrl: https://www.denverpost.com/2019/12/22/face-recognition-tech-us-police/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/face-recognition-tech-us-police/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.86E04BE1A4C862BFBDAD77DCB7C24AAD
-        width: 700
-        height: 454
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
     publishedDateTime: 2019-12-18T21:18:00Z
@@ -1245,6 +1232,19 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 39
+  - title: "Why some US cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Massachusetts: Police departments around the US are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers – and even some technology giants – are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-18T06:54:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/18/why-some-us-cities-and-states-balk-at-face-recognition-tech
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://apicms.thestar.com.my/uploads/images/2019/12/18/443978.jpg
+        width: 1240
+        height: 768
   - title: "Wyden urges HUD review use of facial recognition"
     excerpt: "Harris, D-Calif., and Reps. Yvette D. Clarke, D-N.Y., Ayanna Pressley, D-Mass., and Rashida Tlaib, D-Mich., on Wednesday asked the Department of Housing and Urban Development to review policies regarding the use of facial recognition technologies in federally assisted housing. In a letter to HUD Secretary Ben Carson, the legislators pointed ..."
     publishedDateTime: 2019-12-18T17:58:00Z
@@ -1737,6 +1737,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "npY3qQQYPN1x2zGGSSXrnQ1Hhpsfh+16O4GNPt/an0cTd2JPSuv0keZhzXAKsEKKAoqf03cBfuJvo5bXB8aamRqha9wHe9YzreA7p4E4NpT9t/rLTefwq7bEPs88rw5EwrHWBUgxsl61q5hllyOjR2OM3/hKNSabTtj2agjhLhpUm8zWdF+Qrb/ujIWM24o0E5zPd09LF+xl8f/AM8pqsrCT5QdrM7wkwJ6D0rBAxB4Isu6hYWxuZp4QWIq8hmF4qze9zhiDzOw0eXZMBKQbzQ==;Zoi7g8fOFu82r65P8/o0fA=="
+secured: "TTxkwUGyxWnQDOeiSNXRLaatgi//YFiC4KpOQOkeyXBknYuir0aSrUGcms+aCRb/pzm/bEnxfHNf/aUD0vBU0Q41D3ZQ+2LLuMzPkxGIbC+XvkDzY9r6Q3/9Ksx8vemNFkG25FBxlK6KEN0IVPtbhuV7+XHHUCK8YuQcdFEkwjrYVxkE/A0PX/phF07YcTwyuKhETLV1UuzNlajmSZD7l2vk4HnBNKpWpGwdC5Tc6GxVTk3Zm+HeXjsI9js+DrV63ZF8CnyPHfTfyrLulIYhOQ==;dnnFmZo5IWJJZZ+lBgXBgw=="
 ---
 

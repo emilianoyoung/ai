@@ -8,8 +8,8 @@ ampUrl: https://www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai
 cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: The Next Platform
@@ -24,21 +24,6 @@ images:
     width: 700
     height: 700
     title: "Nvidia Moves Clara Healthcare AI To The Edge"
-
-related:
-  - title: "Opinion: Nvidia will dominate this crucial part of the AI market for at least the next two years"
-    excerpt: "I believe Nvidia (NVDA) will realize better-than-expected growth due to its early lead in AI inferencing hardware accelerator chips. That lead should last for at least the next two years, given industry growth and the company’s current product mix and positioning. Nvidia’s AI business at a glance In most server- and cloud-based applications ..."
-    publishedDateTime: 2019-12-02T17:24:01Z
-    sourceUrl: https://www.msn.com/en-us/money/technologyinvesting/opinion-nvidia-will-dominate-this-crucial-part-of-the-ai-market-for-at-least-the-next-two-years/ar-BBXElhq
-    type: article
-    provider:
-      name: MarketWatch on MSN.com
-      domain: msn.com
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.603ADD6216484C9CDF53FA55B009BCA1
-        width: 600
-        height: 315
 
 secured: "6Fpr7C3XKrEHGPIW/caGXpfg0DMncYN1qRK9NnTNg+clC4vPizGmrZWnh5KRmeWdl5LbDhJ+I228VFaeO9pgU506PybZeJrT38XDNgTQtO0p1yxN9HcftFX2AGjW5SUjXVNJzaPLxXRGzl/L6jShQpKDjTXcL0U+mPJ3z1NN9TWcuoJeOY22fFjLybZVyufhp/Sc7pnpX8GVkJhZTccwlokWIEa0b1PuBAj6/iQGMifQmukfwfT1Gm39jNuyDssz5tjIb2UX+Pallh02z0BEfg==;sYdy6j+BBJY5Xt9dQ+u2iQ=="
 ---

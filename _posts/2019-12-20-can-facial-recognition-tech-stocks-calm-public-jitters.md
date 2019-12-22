@@ -2,26 +2,28 @@
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T18:00:00Z
-sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+publishedDateTime: 2019-12-20T14:00:00Z
+sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
+ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: /assets/images/organizations/fool.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+    width: 1024
+    height: 512
+    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -610,6 +612,21 @@ related:
       - url: https://www.bing.com/th?id=ON.16191907FE4A7CE06EC149C843E3E897
         width: 700
         height: 377
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
+    publishedDateTime: 2019-12-22T18:03:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/22/face-recognition-tech-us-police/
+    ampUrl: https://www.denverpost.com/2019/12/22/face-recognition-tech-us-police/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/face-recognition-tech-us-police/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.86E04BE1A4C862BFBDAD77DCB7C24AAD
+        width: 700
+        height: 454
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
     publishedDateTime: 2019-12-18T21:18:00Z
@@ -1720,6 +1737,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "+Mp1B0SEwVlxbB0Uyb3Pnau5bN8t9219bw/XD2KqrW+ptQz/9a5yTBMH2Z8o3Sn7/V133ITKlm94RDFlFZxUVJG/HFRnQjp+yddn+t6p+pnvAtDVcnNFS1o2Xh1LcHbvCgov0rrQR13VeIkuAC0u2atvlGw8uUebGYY0f7mICYnN7zOqt7HPzC4JBt3K+UCw8MDyIxM8fu64XATy+kB2SLA5fgqh4R2nnTgKriRsccJIvR70CER3Z7yY2vb/YhN2E06XEnVKhXcXqQKxpyAPTw==;2MhN388066hMUy1dy+KICQ=="
+secured: "Z1kJtTalw2FOXu42BsyoihGUxm/irjXjJGhQvOw++RiULN1awcAZ3J9gF5J3gn5dOxb5JnoRfOtf63o7QAbSkJCVuutdOwksIbqaDJUavYrwxrMSInAwpviKSF95Zb8eEO7qQ6yOtMC5sbY5s0zbYdwv5Hy7V31FKe5oYX+rY7e3sJe/BdTDgCtE5/kNAD/DVF1w2jrHxBT5jObw2KEgyVVBOH0OAU+DUleGwXUMHo5pSWnqPVPIo0SUQkENNAlzttBuBS1tcgIJa/BYlBGXYg==;pwBbTe1roM0vWB3pkxYFLQ=="
 ---
 

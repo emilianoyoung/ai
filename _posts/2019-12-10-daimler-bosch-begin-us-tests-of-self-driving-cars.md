@@ -335,21 +335,6 @@ related:
       - url: https://www.bing.com/th?id=ON.747B6979EEFA363F4F2B18DF4C67ACA2
         width: 700
         height: 525
-  - title: "Self-driving tech could be used on buses to squeeze more of them onto N.J. roads"
-    excerpt: "The idea has been around since 2016, but now Port Authority officials want to develop the technology to see if it is possible. Technology that’s made self-driving cars and trucks possible could be applied to buses with a system that is similar to truck platooning -- where several trucks are driving close together in a line. The lead truck ..."
-    publishedDateTime: 2019-12-02T18:00:00Z
-    sourceUrl: https://www.nj.com/traffic/2019/12/self-driving-tech-could-be-used-on-buses-to-squeeze-more-of-them-onto-nj-roads.html
-    ampUrl: https://www.nj.com/traffic/2019/12/self-driving-tech-could-be-used-on-buses-to-squeeze-more-of-them-onto-nj-roads.html?outputType=amp
-    cdnAmpUrl: https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/traffic/2019/12/self-driving-tech-could-be-used-on-buses-to-squeeze-more-of-them-onto-nj-roads.html?outputType=amp
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1E955F10A85A335E8885C23DBE9FD14F
-        width: 700
-        height: 394
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
     excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
     publishedDateTime: 2019-12-13T18:58:00Z

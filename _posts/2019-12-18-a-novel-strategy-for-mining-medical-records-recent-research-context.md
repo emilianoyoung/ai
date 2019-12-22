@@ -74,7 +74,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 11
+    quality: 13
 
 secured: "I9K+IU8hXXEpaZUb8r5zkXO3mvl9iV98h+EbXmQJeXSmQfWabE1FPkdw1NK2axBhG4Y/eRhvY/HVbUmdvIt5CCX6cAhzY8JOcC/pKHtPjjtMEOxJ/96PNZlF2U4SFWPCVKKYJ7YuGuiWH/EGwHyc0hwCmklD0epx3EdkFykv9tzTn3N84lPJKrRhBaTRQZQl02+8bBMEh4rpx/YLi+C0U9TwPu0t5KqWb8GjkhwPgYoe2FXUfCb+rZVdohN0+E6/4Tg0x2TFizCO9HybiFFm8w==;R1YB9ZFibJjfcBiNV0NxZQ=="
 ---

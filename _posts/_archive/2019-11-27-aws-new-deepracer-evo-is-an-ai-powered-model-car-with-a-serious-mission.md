@@ -24,22 +24,42 @@ images:
     title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
 
 related:
-  - title: "AWS intros DeepComposer, an AI-powered piano keyboard for developers"
-    excerpt: "The DeepComposer keyboard is a 32-key, 2-octave keyboard designed to give developers hands on experience with Generative AI, without the complexities of computer science, code, and infrastructure. Using either the physical keyboard or a virtual one in the console, DeepComposer lets developers create original melodies with pre-trained genre ..."
-    publishedDateTime: 2019-12-02T17:36:00Z
-    sourceUrl: https://www.zdnet.com/article/aws-intros-deepcomposer-an-ai-powered-piano-keyboard-for-developers/
-    ampUrl: https://www.zdnet.com/google-amp/article/aws-intros-deepcomposer-an-ai-powered-piano-keyboard-for-developers/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-intros-deepcomposer-an-ai-powered-piano-keyboard-for-developers/
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-27T14:37:00Z
+    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
+    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+  - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
+    excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
+    publishedDateTime: 2019-11-27T17:21:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 84
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+    publishedDateTime: 2019-11-28T00:13:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.055F455E5D9966CD366B615D18F605E2
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
         width: 700
-        height: 525
+        height: 554
 
-secured: "Vj7P/AT35cTtjPUDglEijUedU889OBMp7GDd+9EDg3YUWDqWWuFV6ApUtFcP6JBeHLPHqg1EZdcWOomwjMXZzCJTPkS8TsAWXWCTxO0nXtfjLOIgQcLAjvXB0s3ERT2BZT/mjkhJpMlXSy4Ds3gB69txKiiuLeAqNbPXeOvY882PBnkNVkkGNR9CcbyDiplqie2/MX72oBhYFU10AORb92PeqYWuNELJWLlNSHUxj+PUOGEHWEx+4oLXyLxDpXyFp2obnrnFAebS2H+IgubQ9Q==;8mtZ7ycUH1Dl49GqvcifbQ=="
+secured: "886sEKLZgHk8Zl2pqUaOSZpln+cxp7wcwqLXD2tiKWzZNi80fpJzQY2gEnstmoo+wWZZ+/Y0zaiUtIf1WqLmuWW5g74zbEjCClqmzqMx43waU1SjncjWgj5pa2FVgY1+FRJ7471HMEku46ZMSFZMHPza8bSZ/0HM5Z+T814U2ihXRQ7m+Qm+Yz+g+K6r3XJG0tFIWeTHpGaizmXOpMyEhTXs5Soq7P9nlOiLoZpIcYqTqPtO6rl05byknlKiJ02DFIxgqgdeMV3Em81MXi6reA==;QfRlJcM2AXL4Kxa60WGU+Q=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "\"We are spurring a new area of research on creating artificial intell
 publishedDateTime: 2019-12-20T00:25:00Z
 sourceUrl: https://finance.yahoo.com/news/clarkson-professors-receive-robot-continue-130010673.html
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Facebook AI
 
 related:
   - title: "Intelligent Towing Tank propels human-robot-computer research"

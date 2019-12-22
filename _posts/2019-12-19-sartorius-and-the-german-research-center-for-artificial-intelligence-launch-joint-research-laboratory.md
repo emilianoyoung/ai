@@ -66,7 +66,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 11
+    quality: 13
   - title: "A Novel Strategy for Mining Medical Records: Recent Research Context"
     excerpt: "Hence, the data mining process had low yield for the detection of metastatic disease. The new method is a natural language processing (NLP) model that detects the presence and timing of metastatic breast cancer recurrence using clinical notes from the EMR, which is used in several hospitals including Stanford Health Care. In addition ..."
     publishedDateTime: 2019-12-18T14:30:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial-intelligence.aspx
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.40E62D361A27E92F0522C8A46E4DEA41
         width: 700
         height: 420
-  - title: "AI Needs Intelligent HPC infrastructure"
-    excerpt: "Fortunately, some existing technologies have adapted well to the growing need to process multimedia data types for AI use cases, most notably – graphics processing units (GPU). A GPU performs the vector and matrix computations that underlie neural network layers. GPUs do so in a parallel way, providing vastly improved training speeds with ..."
-    publishedDateTime: 2019-12-02T18:01:00Z
-    sourceUrl: https://www.hpcwire.com/solution_content/ibm/cross-industry/ai-needs-intelligent-hpc-infrastructure/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.E02AE587EB70A5B12DCB94D684FCFEE2
-        width: 412
-        height: 274
   - title: "Fintech startup Indyfint raises $2.1 million funding in series A round from clutch of individual investors"
     excerpt: "The company Indyfint majorly relies on AI algorithms to analyse the transaction history of ... In addition, as per the reports the shift of the fintech landscape in India from payment to include other verticals — like lending tech and insurance ..."
     publishedDateTime: 2019-12-06T02:45:00Z
