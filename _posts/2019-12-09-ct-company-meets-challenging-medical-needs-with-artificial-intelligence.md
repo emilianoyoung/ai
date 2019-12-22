@@ -38,21 +38,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg
         width: 1000
         height: 500
-  - title: "Amazon debuts automatic speech recognition service, Amazon Transcribe Medical"
-    excerpt: "... not alone in working with speech recognition in the healthcare space -- this is an area Google is working in as well, with Google Brain, plus Microsoft, established players like Nuance and Philips, and a wide range of startups. Amazon Transcribe Medical is initially available in the U.S. East (North Virginia) and U.S. West (Oregon) regions."
-    publishedDateTime: 2019-12-02T16:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/amazon-debuts-automatic-speech-recognition-155149727.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/amazon-debuts-automatic-speech-recognition-155149727.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/amazon-debuts-automatic-speech-recognition-155149727.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.F07D9AF60EE9B983D1B3E1850E18B913
-        width: 700
-        height: 466
   - title: "Amazon Introduces Machine Learning Medical Transcription Service"
     excerpt: "December 03, 2019 - Amazon Web Services (AWS) has launched a new machine learning service called Amazon Transcribe Medical, which will automatically convert physician consultations and dictated notes from speech to text. Accurate medical transcriptions are essential for effective healthcare delivery, but these transcriptions are also expensive ..."
     publishedDateTime: 2019-12-03T15:55:00Z
@@ -92,19 +77,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F07D9AF60EE9B983D1B3E1850E18B913
         width: 700
         height: 466
-  - title: "Amazon's new medical transcription service bolsters voice-to-text bid"
-    excerpt: "Amazon Web Services unveiled a medical speech recognition service that converts doctor-patient conversations to text in a bid to streamline onerous clinical documentation and lower administrative costs. Called Amazon Transcribe Medical, the product is HIPAA-eligible and integrates into voice-enabled applications and microphones via an ..."
-    publishedDateTime: 2019-12-02T16:20:00Z
-    sourceUrl: https://www.healthcaredive.com/news/amazons-new-medical-transcription-service-bolsters-voice-to-text-bid/568245/
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 24
-    images:
-      - url: https://www.healthcaredive.com/user_media/cache/86/1c/861c3184b11aa28535c03c3d7b035a72.jpg
-        width: 770
-        height: 364
 
 secured: "iyXUNK0mFaIlqvTF1sI9aRjlkc/r6KqharHz7SmmZ9ksOvFc3DON+nG3IWIzf/Ean7TVs0tIYzmmjSrQ1+v/dcWIIjq77r7XTf1sWx7fB8K+f8jHTV29uNSog2DDICABg6n5KheNzeVpyk30JLUFR2f5IHVVl7C86kOrNf357P2f+BCqxXumI0nZOe8eXrkCStTuRv/a5xNRgczBmgmg8XAjdkM1r9whLl6e+N2yYjosz3PDUHfadeMNIyEyqzrvGvDaoQ6Te/t7fCoxfHVu5Q==;FP65fJoVtkrkaf0K/tSOdQ=="
 ---

@@ -24,34 +24,45 @@ images:
     title: "The rise and fall of MRI studies in major depressive disorder"
 
 related:
-  - title: "Indian case studies talk about AI application but fall short of discussing responsible AI"
-    excerpt: "But these strategy documents mentioning AI need to do more to highlight its implications for access to services in a particular sector. Researchers need to bring specificity in not just impact, but also applications and ethics into their analysis. The proliferation of AI in public and policy discourse is in-part rooted in computational changes ..."
-    publishedDateTime: 2019-12-05T06:30:00Z
-    sourceUrl: https://theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/
-    ampUrl: https://theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/?amp
+  - title: "The role of ethics in artificial intelligence and data usage"
+    excerpt: "The EU’s digital agenda for the next mandate will be marked by a series of broad-ranging reforms, from artificial intelligence and data protection to digital tax. However, the issue of ethics in the digital field continues to be at the centre of the ..."
+    publishedDateTime: 2019-12-05T09:25:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/video/the-role-of-ethics-in-artificial-intelligence-and-data-usage/
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 50
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.E3AB6F528551CBDE3D85218A41FBEBED
+      - url: https://www.bing.com/th?id=ON.0177F89CEEA6139BE59290748187C347
         width: 700
         height: 393
-  - title: "Perficient to Discuss Real-World AI Applications for the Financial Services Industry at AI Summit New York"
-    excerpt: "Perficient, Inc. PRFT, -0.38% (“Perficient”), the leading digital transformation consulting firm serving Global 2000® and other large enterprise customers throughout North America, today announced it will speak at AI Summit New York, the world-leading AI event for business leaders, held Dec. 11-12 at the Javits Center in New York City."
-    publishedDateTime: 2019-12-10T15:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/perficient-to-discuss-real-world-ai-applications-for-the-financial-services-industry-at-ai-summit-new-york-2019-12-10
+  - title: "Data management in the construction sector by means of artificial intelligence"
+    excerpt: "Karlsruhe Institute of Technology (KIT) successfully participated in the innovation competition on the use of artificial intelligence (AI) launched by the Federal Ministry for Economic Affairs and Energy (BMWi). The KIT-coordinated research project SDaC - Smart Design and Construction will be funded. With the help of the new AI platform ..."
+    publishedDateTime: 2019-12-03T15:40:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/kift-dmi120319.php
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.6BC3D2420E208FAF0D80762C7E79859C
+        width: 700
+        height: 466
+  - title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
+    excerpt: "The Dutch bank improves its access to strategic information thanks to the cognitive capabilities of Cogito®, resulting in cost savings, increased efficiency and improved customer experience Rabobank is a bank that is run for clients. Established in the Netherlands, Rabobank has grown to become an international financial services provider ..."
+    publishedDateTime: 2019-12-05T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/rabobank-extends-the-scope-and-scale-of-unstructured-data-management-by-leveraging-expert-systems-artificial-intelligence-300969781.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.41FF7B5F7CBD396559506A9B29C06AB9
+        width: 700
+        height: 367
 
 secured: "JSQU2MmIhr9d0EuU1TUsNdC+72ssgHsqaSD0XIUuPnI1qhpSaHpyC01lzrDfsDE+SXU3K5Ef7yLok/FKJVkiJIkFcdCRiZoABaMUUTfB+3tr2poXIy3i17IAfitRS9UHK7rIbpCArSqZ5zRYdCM6JT8hzdNvav8NCaFA4767OC+Osh3N9LwNAoQQCRvcPTgBl5stw8LTIXFx0m40/Zu2i95HkR6HWWojBLVMjYLY57Zlrl+rzcgWiH18mioqygrsX2QGY4WmNeE/mz1GmQKmlw==;mRPwktPfvvTaQOSWDOYFSg=="
 ---

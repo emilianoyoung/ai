@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/a
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/amp
 type: article
 quality: 104
-heat: 394
+heat: 384
 published: true
 
 provider:
@@ -191,19 +191,6 @@ related:
     quality: 52
     images:
       - url: https://www.bing.com/th?id=ON.389837C0B2AE35446DCC7B5DD5EE1894
-        width: 700
-        height: 350
-  - title: "Uber is exploring ways to make its self-driving cars also be self-cleaning (UBER)"
-    excerpt: "Uber has filed a patent application with US regulators for a robotic vacuum system to keep its self-driving cars clean. The filing also reveals plans for an artificial intelligence-powered camera system to detect soiled spots or items that passengers may have left behind. Autonomous vehicles are key to Uber's plan for eventually turning a ..."
-    publishedDateTime: 2019-12-02T16:38:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/uber-patent-self-cleaning-robotic-vacuum-for-self-driving-cars-2019-12-1028730974
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.72A21F76EAB4A0656A85DEBAF08286D5
         width: 700
         height: 350
   - title: "Cabinet to consider use of public roads for testing self-driving cars"

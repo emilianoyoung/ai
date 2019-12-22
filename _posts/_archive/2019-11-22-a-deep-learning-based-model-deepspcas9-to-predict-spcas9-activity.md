@@ -25,6 +25,6 @@ images:
     height: 3235
     title: "A deep learning-based model DeepSpCas9 to predict SpCas9 activity"
 
-secured: "UEmJe6DVz3p4liKs+4+Tzzmjsq4g/6KMnGTLgSvgM8YSaXWlXilrT/9JhISQJgpSRfKfsjTM/nR5r9bW3wrmgtVTBGPGezaFWSi2Cnjt9bJx169CVx04rORCJUfaH+xL1c8Ceta0MinYyh/JIcKoo08LqSVMbPM/OAJfTXjQEPGogkGBjI0IpD5W1bQHwh5L+iYscWp33RliaAvMhHrpmfcSvlgFnmSmL7nBFkn0rL2oXurs/qK6S+ZTTO8KVXtXfpP2FDB/IeHD4z1tO0ozQg==;6FN2JBDVYXl4UwUdtpAPQQ=="
+secured: "wZ4+1Vyk7WQpLcUXSGKbaR+2DP1VsoyecPw877IYZ4HCTZhKnArufAaxxXW8EQgAB1wV7lNkrDFL6ktmFVqlwsdCPD3LQX6vAqBtO1+NgoGq+xvX51kfKBIQalg4vTRJNxsHw7cbNDzwatD4yrTqy8VyZMztRjIAzzysVPByRE/I2hjH3vy5NgOicoXdiUll+zQhC9RQM27yLePMCA+yR98gr5qiQe5Zi8MP4d50yoqVbSCwhQLAI1BvNnLtCBwPOpCGI7bDWJw0/3/IUkDVXA==;XPl9oPcAGECwn2HS7841Tg=="
 ---
 

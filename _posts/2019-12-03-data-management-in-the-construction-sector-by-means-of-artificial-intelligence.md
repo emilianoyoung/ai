@@ -23,43 +23,45 @@ images:
     title: "Data management in the construction sector by means of artificial intelligence"
 
 related:
-  - title: "John Snow Labs wins the 2019 International Data Science Technology Award"
-    excerpt: "John Snow Labs won the award for its wildly popular Spark NLP library. Spark NLP is an open-source text processing library that provides production-grade versions of the latest research in natural language processing. The Data Science Foundation recognizes Spark NLP for delivering “best practice, innovation, and excellence in data science and ..."
-    publishedDateTime: 2019-12-03T23:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14926478/john-snow-labs-wins-the-2019-international-data-science-technology-award
-    ampUrl: https://amp.benzinga.com/amp/content/14926478
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14926478
+  - title: "The role of ethics in artificial intelligence and data usage"
+    excerpt: "The EU’s digital agenda for the next mandate will be marked by a series of broad-ranging reforms, from artificial intelligence and data protection to digital tax. However, the issue of ethics in the digital field continues to be at the centre of the ..."
+    publishedDateTime: 2019-12-05T09:25:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/video/the-role-of-ethics-in-artificial-intelligence-and-data-usage/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.21DF90204FA7A0E8F3CEE2F57FD6A5B9
+      - url: https://www.bing.com/th?id=ON.0177F89CEEA6139BE59290748187C347
         width: 700
-        height: 473
-  - title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
-    excerpt: "and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking companies ..."
-    publishedDateTime: 2019-12-09T14:36:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005060/en/AppTek-Wins-2019-Northern-Virginia-Technology-Council
+        height: 393
+  - title: "The rise and fall of MRI studies in major depressive disorder"
+    excerpt: "A critical barrier to the clinical translation of many findings is the reverse inference fallacy ... Next, cellular studies using MRI may also provide insight into the pathological features and etiology of MDD. Lastly, machine learning and artificial intelligence will likely aid in the diagnosis of psychiatric disorders in the near future ..."
+    publishedDateTime: 2019-12-09T17:21:00Z
+    sourceUrl: https://www.nature.com/articles/s41398-019-0680-6
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Nature
+      domain: nature.com
+    quality: 24
     images:
-      - url: https://mms.businesswire.com/media/20191209005060/en/761095/23/AppTek_logo.jpg
-        width: 1200
-        height: 627
-  - title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
-    excerpt: "and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking companies, leaders and innovators within the Greater Washington, D.C. technology community. AppTek utilizes ..."
-    publishedDateTime: 2019-12-10T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/apptek-wins-2019-northern-virginia-140300457.html
+      - url: https://www.bing.com/th?id=ON.FF327A153AB0DC4FA62DB39AD653905D
+        width: 685
+        height: 568
+  - title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
+    excerpt: "The Dutch bank improves its access to strategic information thanks to the cognitive capabilities of Cogito®, resulting in cost savings, increased efficiency and improved customer experience Rabobank is a bank that is run for clients. Established in the Netherlands, Rabobank has grown to become an international financial services provider ..."
+    publishedDateTime: 2019-12-05T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/rabobank-extends-the-scope-and-scale-of-unstructured-data-management-by-leveraging-expert-systems-artificial-intelligence-300969781.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 6
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.41FF7B5F7CBD396559506A9B29C06AB9
+        width: 700
+        height: 367
 
 secured: "6VOHtxXhqPn1zrDqybBnHYq0Z3aPwxNIheS6lYpziV6oXUX+g3srVnop9xhJFiPcqydBn2lOQkoQcl7CaMkO64nAjeHNA/1pQl6UaC7RRZs5yuUKk/V817wONJzBjDQvcuNfyvPXA+8Kc7wqARtvbKHlk53hE527QvaZCdyh6Rs+F5g+uSWWSApRLkyEPH4NQsxPKZz6pAQWLE3Y8cRKMXRAqKOpK6F5hT9PMlcV/YZPgS/mdlj7czYPDW/l4LHF51+m/JJ3l/pE4ri4wuvK/w==;xEfRlWxjatc9a1avrgcXwg=="
 ---

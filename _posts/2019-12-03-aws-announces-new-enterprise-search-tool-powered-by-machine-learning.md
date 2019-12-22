@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-to
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-tool-powered-by-machine-learning/amp/
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -46,21 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
         width: 600
         height: 315
-  - title: "AWS announces DeepComposer, a machine-learning keyboard for developers"
-    excerpt: "Today, as AWS re:Invent begins, Amazon announced DeepComposer, a machine learning-driven keyboard aimed at developers. “AWS DeepComposer is a 32-key, 2-octave keyboard designed for developers to get hands on with Generative AI, with either pretrained models or your own,” AWS’ Julien Simon wrote in a blog post introducing the company’s ..."
-    publishedDateTime: 2019-12-02T16:09:00Z
-    sourceUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/
-    ampUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A4563585F31305736610834014D3A0E7
-        width: 533
-        height: 399
   - title: "AWS announces new AI services and quantum computing initiatives"
     excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning experience required, and three key initiatives as a part of the company's plans to help ..."
     publishedDateTime: 2019-12-04T08:34:00Z

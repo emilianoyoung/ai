@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1B9FF573E76A9C08206C719AEF144FBD
         width: 620
         height: 480
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal Life Science Alliance. Colorectal tumors are extremely varied in how they ..."
-    publishedDateTime: 2019-12-02T16:59:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/mdcf-dli120219.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.43905F972D43FC881D7EBF5C44D37F5D
-        width: 700
-        height: 437
   - title: "Machine learning, imaging technique may boost colon cancer diagnosis"
     excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method’s accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report using this ..."
     publishedDateTime: 2019-12-04T14:39:00Z

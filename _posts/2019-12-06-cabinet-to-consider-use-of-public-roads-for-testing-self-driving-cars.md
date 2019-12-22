@@ -204,19 +204,6 @@ related:
       - url: https://www.bing.com/th?id=ON.389837C0B2AE35446DCC7B5DD5EE1894
         width: 700
         height: 350
-  - title: "Uber is exploring ways to make its self-driving cars also be self-cleaning (UBER)"
-    excerpt: "Uber has filed a patent application with US regulators for a robotic vacuum system to keep its self-driving cars clean. The filing also reveals plans for an artificial intelligence-powered camera system to detect soiled spots or items that passengers may have left behind. Autonomous vehicles are key to Uber's plan for eventually turning a ..."
-    publishedDateTime: 2019-12-02T16:38:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/uber-patent-self-cleaning-robotic-vacuum-for-self-driving-cars-2019-12-1028730974
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.72A21F76EAB4A0656A85DEBAF08286D5
-        width: 700
-        height: 350
   - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
     excerpt: "Ride-share giants Uber and Lyft may soon have some driverless competition. Continue Reading Below Mercedes-Benz has teamed up with German-based engineering firm Bosch to develop a new mobile ride-share app that uses automated Mercedes-Benz S-Class vehicles as transportation. A pilot project for the app just launched in San Jose, California ..."
     publishedDateTime: 2019-12-09T22:02:00Z

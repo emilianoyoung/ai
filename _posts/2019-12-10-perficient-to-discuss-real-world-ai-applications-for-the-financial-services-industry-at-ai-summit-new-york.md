@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3AB6F528551CBDE3D85218A41FBEBED
         width: 700
         height: 393
-  - title: "The rise and fall of MRI studies in major depressive disorder"
-    excerpt: "A critical barrier to the clinical translation of many findings is the reverse inference fallacy ... Next, cellular studies using MRI may also provide insight into the pathological features and etiology of MDD. Lastly, machine learning and artificial intelligence will likely aid in the diagnosis of psychiatric disorders in the near future ..."
-    publishedDateTime: 2019-12-09T17:21:00Z
-    sourceUrl: https://www.nature.com/articles/s41398-019-0680-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FF327A153AB0DC4FA62DB39AD653905D
-        width: 685
-        height: 568
 
 secured: "eUsuuDfHr0psoxfHzq+262LV3ClIeXnLjuLg/vD6X2TLRXWU1FPmLeuzhzvWjTLFsnYvSgFQgfsnRnG6/wuMuGYZgUCl8v5eefpQdmAoDZrc4lgmV/fu3s/idIu00WZT15wBRkHsDNQddfkP+KEbIQ2SWPahlNh1GHa6RCtEI9PWJZuUHacwsLKBREdpCWFFGDi0f9yDD2kPQcnWaM20PVgg/RqvqBKQI0oNHQmnQg+maAvNb9yi4VR6wWtqk0aIPKBOa9HgEV0ZCvkvEqfWZw==;BDCrRt9c2245KQZmHrMTsA=="
 ---
