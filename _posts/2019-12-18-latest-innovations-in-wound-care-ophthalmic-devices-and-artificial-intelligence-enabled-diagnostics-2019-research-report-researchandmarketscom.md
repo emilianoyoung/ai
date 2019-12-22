@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage ..."
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
 publishedDateTime: 2019-12-18T12:30:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191218005410/en/Latest-Innovations-Wound-Care-Ophthalmic-Devices-Artificial
 type: article
@@ -82,6 +82,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "tdQabIS89zPD12jikq8VvtvcAAuAfZiOI0DZuwMkfvYEoO2YNWjtlIJJbUK+qrUZlABe5/6Kdw9DSYJeyVrP8f8yKbWkEzLwAmDZp8HRAIFcV/gJdxWMrUio+R4Tt4Vy8LJOxI11gzA8Mr4dGO8h/OlCkyVGYSZTBFwy8bj3wf6ZdFQZuCugIX/ApSpN3eobuYui8rTw8S/ZCELVA6i5qBPVOqKYusWeFajXY9DnsbOJWiKc7zBEI6PqHtLOjTe/LtsERB3Wzdta8JbdvOmM/w==;mDjxZeFuzzmO69NQglDqww=="
+secured: "jHdFd0fx4JACP32JCE40eETHxavT0TkQdfKz6jSxX+wBvgTSrP4Hjmuj9rHJayIbYt6ABwYfK7oXeOR4SFIhiLOq8t5i3QzVOHxsriFM4GFgVujDLh0dB1NL66jvM4hxlArlvUUWaQoZiTio1Nzqe/94oBkhuWyegO1W0jm43apC26+zwrUeIQfaPTNSynaosXrUCXa3WTmfm/qIO6x9/KjVbt2exmt6qHfkPAapggfFKCQnqdOES/6k4zlqozeF3y4sg+gdl0m7fyEATImi0Q==;d3p2fMAWxop4u7iIouen6Q=="
 ---
 

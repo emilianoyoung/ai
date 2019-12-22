@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/02/homeland-security-face-recognition-air
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/homeland-security-face-recognition-airport-citizens/amp/
 type: article
 quality: 203
-heat: 883
+heat: 873
 published: true
 
 provider:
@@ -554,19 +554,6 @@ related:
     quality: 40
     images:
       - url: https://www.bing.com/th?id=ON.E8244AABD4652FE55B7073A866205E32
-        width: 600
-        height: 315
-  - title: "China rolling out facial recognition for all new mobile phone numbers"
-    excerpt: "Facial recognition checks are about to become even more ubiquitous in China, as rules come into force requiring anyone registering a new mobile phone number to submit to facial scans. While the government says the implementation of biometric data \"effectively [protects] citizens' legitimate rights and interests in cyberspace\" and helps fight ..."
-    publishedDateTime: 2019-12-02T09:52:10Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/china-rolling-out-facial-recognition-for-all-new-mobile-phone-numbers/ar-BBXCZJx
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.36949F50839F64959B834C54F013F67A
         width: 600
         height: 315
   - title: "Homeland Security Looking to Use Facial Recognition on U.S. Citizens"

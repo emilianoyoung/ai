@@ -106,19 +106,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Radiology Market 2019 Size, Share, Upcoming Trends, Segmentation and Forecast to 2025 | CAGR of 35.9%"
-    excerpt: "The artificial intelligence in radiology market by region is segmented into North America, Europe, Asia-Pacific, Latin America, Middle East and Africa. North America has captured the largest market share and is expected to continue the same over the forecast period owing to the well-established healthcare and medicine systems that supports the ..."
-    publishedDateTime: 2019-12-02T09:42:00Z
-    sourceUrl: https://www.medgadget.com/2019/12/artificial-intelligence-in-radiology-market-2019-size-share-upcoming-trends-segmentation-and-forecast-to-2025-cagr-of-35-9.html
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 10
-    images:
-      - url: https://www.bing.com/th?id=ON.7AF33C1ABD51F4A61C4F819A27602848
-        width: 700
-        height: 450
 
 secured: "6ZH0Gj/eBFvszIyJBDGAUZD6u65oXnfMsIgiZxXw0Pleyen9edoEFpBlaS6Byqv+Dl2Cdk9+GRc12oj5i8V81Yt9kHrT9fGiCkKmPgYcUMsO5tXb8pSFLIljTIbnhNRdn6x/bv+0uEHVuUA8ujjYCUu2+ccldp/tQqeLIOnnYXm/Twr8mRERFHTywG3g+utYCWnORucG+9okkrdcNwf9KZPXw5+agJSz7tPtCJtr9ql0qlBMzqY98AFhHMAWME76yWmm2eA1XWLQeg46/+l4JQ==;pvr5k+Pt0HnBTTuGvaBHqg=="
 ---

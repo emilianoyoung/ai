@@ -559,19 +559,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E8244AABD4652FE55B7073A866205E32
         width: 600
         height: 315
-  - title: "China rolling out facial recognition for all new mobile phone numbers"
-    excerpt: "Facial recognition checks are about to become even more ubiquitous in China, as rules come into force requiring anyone registering a new mobile phone number to submit to facial scans. While the government says the implementation of biometric data \"effectively [protects] citizens' legitimate rights and interests in cyberspace\" and helps fight ..."
-    publishedDateTime: 2019-12-02T09:52:10Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/china-rolling-out-facial-recognition-for-all-new-mobile-phone-numbers/ar-BBXCZJx
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.36949F50839F64959B834C54F013F67A
-        width: 600
-        height: 315
   - title: "Homeland Security Looking to Use Facial Recognition on U.S. Citizens"
     excerpt: "The Department of Homeland Security is now looking to use facial recognition technology on U.S. citizens, a practice that was previously only used for non-citizens traveling into the country. According to CNN Business, DHS recently filed a proposed regulation change that would allow them to use the technology on all people coming in and leaving ..."
     publishedDateTime: 2019-12-04T00:18:00Z

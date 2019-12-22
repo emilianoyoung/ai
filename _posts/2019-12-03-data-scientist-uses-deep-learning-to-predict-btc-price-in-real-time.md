@@ -95,15 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EEAE00C803847411B5E000CCF2AD641
         width: 700
         height: 525
-  - title: "Owkin Teams up with NVIDIA and King's College London to Deliver AI to Hospitals While Protecting Patient Data With Federated Learning"
-    excerpt: "More recently, GPU deep learning ignited modern AI ― the next era of computing ― with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at https://nvidianews.nvidia.com/. Markets Insider and Business Insider Editorial Teams were not involved in the creation of ..."
-    publishedDateTime: 2019-12-02T09:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/owkin-teams-up-with-nvidia-and-king-s-college-london-to-deliver-ai-to-hospitals-while-protecting-patient-data-with-federated-learning-1028729118
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
 
 secured: "7Sz3xPeKmux1YJc8ead6HzRzQ0zAWIY3duRWmgHG8nV43kBP8Cq8+0MIi4csSILDHBunggyt5DEIDq4igsVZhhrbwKcwIxfoEJgfHYTwA3C+Cg+yg4pNjdi575IUV4norKVLnERi5EnjDEdppafUD6nCtdfhQTtILg0wPTaq9EMJgeCdwBSR3a/TXFJV4U3LVX4dgLjO9YpkxU4x3fNV1gRmjFNEs52NUSbkeBkinn8YlRqRXh3e0roE/5ZKopkKWvi6bZzHGWbnPYUU+4+hag==;A1zhl5rC08Nwfjkb0EFbNA=="
 ---

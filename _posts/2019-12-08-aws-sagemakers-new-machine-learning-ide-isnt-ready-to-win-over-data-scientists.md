@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 118
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EEAE00C803847411B5E000CCF2AD641
         width: 700
         height: 525
-  - title: "Owkin Teams up with NVIDIA and King's College London to Deliver AI to Hospitals While Protecting Patient Data With Federated Learning"
-    excerpt: "More recently, GPU deep learning ignited modern AI ― the next era of computing ― with the GPU acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. More information at https://nvidianews.nvidia.com/. Markets Insider and Business Insider Editorial Teams were not involved in the creation of ..."
-    publishedDateTime: 2019-12-02T09:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/owkin-teams-up-with-nvidia-and-king-s-college-london-to-deliver-ai-to-hospitals-while-protecting-patient-data-with-federated-learning-1028729118
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
 
 secured: "vOKzyvNwZ6x9cEQQke3ucBOj9LnIjETStG/ej76T6O6bTV2KaQJKnQz4VxX/I5dQ5lZRDabCxfwtn1D1oh4+k85OUyossq93xkpSEUfpakXawXyw1yAXIW1zrzwwU/kStaG/1Fq8PpgG6NPX30i1cJtStmq6rpIXZfI4963LF2Qx4UkIuiNSABjepmypwYZW5YyVR+oPNOrBpxuru9qjurLwbuYdOLql2XFz2k8sIOwZCvuShglinMe6//up7WHoH1CrxV4ywV8YgHjCAHDlBg==;asfbKcAca9CwqgkoB7tYPg=="
 ---

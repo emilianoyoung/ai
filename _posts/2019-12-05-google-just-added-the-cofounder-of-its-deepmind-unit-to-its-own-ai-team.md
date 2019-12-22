@@ -2,20 +2,16 @@
 category: news
 title: "Google just added the cofounder of its DeepMind unit to its own AI team"
 excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-publishedDateTime: 2019-12-05T17:45:00Z
-sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+publishedDateTime: 2019-12-05T17:49:43Z
+sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Insider on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -100,6 +96,6 @@ related:
         width: 555
         height: 330
 
-secured: "uFld71G9FfOeEkbBEVn2BM8Cb/EJnVZiEqa0Kdz+rZEfcjlXUAjteq5EuY0VONwyVxUMiEktTe0HnZwEYPVdkjvClp6LJngMoyjAlBOLvpwb4Obf56BJKEKrYwuiVNuobjOgz0/NrdiJVBSZ2CH/CA4MeSqpVtST+8G1zbktod58vki2no5Amc71qTqeEkGmvc7E3yxFtglyHqB7WyIaBqJ0Kb5B5zcDlRl63upXQXLHI8LsjI8Zy05LFadGd78GBll6cuj3Q3NE1xrCPkp5kQ==;IcFl4J9NmCyqTalUlrlqMQ=="
+secured: "IypKmCp6YDMkMOn9fddjad9juarXZaqE/YjCLITl+BKbX8EqHNc6aUQ3OqneoJ2lM8MAC8xCk22PRz/fhokRUSdNmyoUTWfceDofb0nX1ZWXd4evR/yJr34hhqyGJ7DHjbzWRj5AOpwc+LpJ/3Vp0MissMs7EO3Xs7+u/aoFNgREg0Z1N8Ukn+HPXgUSXdEPNxmWzZQGDrQqCOnJQ6fuQpBvwg3WtFzb35c0w1oBr6MfX5N79djXUC4DDDAGTQRl/JVX5FJReUREVtIOw9xKaA==;NRplL+MRC5eJSXLTsa/zpg=="
 ---
 

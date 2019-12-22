@@ -45,17 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.94E85C2847777DA2D9EA9F140F028D09
         width: 700
         height: 466
-  - title: "China's facial recognition rollout reaches into mobile phones, shops and homes"
-    excerpt: "SHANGHAI (Reuters) - China on Sunday put into effect new regulations that require Chinese telecom carriers to scan the faces of users registering new mobile phone services, a move the government says is aimed at cracking down on fraud. The rules, first ..."
-    publishedDateTime: 2019-12-02T09:27:00Z
-    sourceUrl: https://uk.reuters.com/article/uk-china-technology-explainer/chinas-facial-recognition-rollout-reaches-into-mobile-phones-shops-and-homes-idUKKBN1Y60MP
-    ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Y60MP
-    cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Y60MP
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
   - title: "Facial recognition revisited - can it save lives and actually protect privacy?"
     excerpt: "Facial recognition technology has an ominous reputation - and for good reason. But are there beneficial applications? Athena Security and D-ID believe the answer is yes. Here's my take on our recent discussions. If you are a little bit optimistic, even truly awful initiatives tend to be moderated over time (except maybe workout clothes)."
     publishedDateTime: 2019-12-03T10:30:00Z
