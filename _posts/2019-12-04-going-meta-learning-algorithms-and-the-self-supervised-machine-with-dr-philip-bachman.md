@@ -132,19 +132,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4EF9B26233FDC655037271042E3265AB
         width: 648
         height: 420
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
     publishedDateTime: 2019-12-03T18:23:00Z
@@ -223,6 +210,15 @@ related:
       - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
         width: 720
         height: 335
+  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
+    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
+    publishedDateTime: 2019-11-29T00:00:00Z
+    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
   - title: "Amazon SageMaker Processing – Fully Managed Data Processing and Model Evaluation"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Processing, a new capability of Amazon SageMaker that lets you easily run your preprocessing, postprocessing and model evaluation workloads on fully managed infrastructure. This is a companion ..."
     publishedDateTime: 2019-12-03T18:44:00Z

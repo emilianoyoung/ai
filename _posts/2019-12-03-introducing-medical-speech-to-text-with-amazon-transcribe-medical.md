@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-03T14:01:49Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/introducing-medical-speech-to-text-with-amazon-transcribe-medical/
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -123,19 +123,6 @@ related:
       - url: https://www.healthcaredive.com/user_media/cache/86/1c/861c3184b11aa28535c03c3d7b035a72.jpg
         width: 770
         height: 364
-  - title: "Canon Medical Introduces Aquilion ONE / PRISM Edition Combining Deep Learning Reconstruction and Wide-Area Spectral CT"
-    excerpt: "with Deep Learning Spectral Reconstruction imaging capabilities, Canon Medical Systems USA, Inc. introduces the Aquilion™ ONE / PRISM Edition, a spectral CT system designed for deep intelligence. The advanced system integrates artificial intelligence (AI) technology to maximize conventional and spectral CT capabilities and automated workflows ..."
-    publishedDateTime: 2019-12-02T00:01:00Z
-    sourceUrl: https://finance.yahoo.com/news/canon-medical-introduces-aquilion-one-143000785.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 15
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "G8IjrTNgJeWoAsq37Q/TzIotLpmX+I4TY1lAFP5EbJrUCTh6a8eLONXV6qnVmEUDyuXiZDiGYlpBc4C47C3wa9vPPGDpVd/Z1gEE5Of7zdUfNnNxD6S+yUtcHylfpfYsSWz1OU/AyWEeWNhVmXvImXqOG0uzTb86VOHFktD4SnyP/TaPw8a4GykQu/dEBVoDHNJALGvvB33jwkUz0CIH9HBJA8MXeIGwcK/INl92laIu1Bz3z0+RJi1nZ5jrsffLNzk2DV14QCEh+Nn9IwT8LQ==;RufdDEJS3Z6PedDI/fMcyg=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "US talks with GM over deploying self-driving cars without steering wheels"
-excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
-publishedDateTime: 2019-12-21T20:19:00Z
-sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
-ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
-cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+publishedDateTime: 2019-12-22T00:02:00Z
+sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
 type: article
-quality: 43
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: The Daily Star
-  domain: thedailystar.net
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
-    width: 560
-    height: 292
-    title: "US talks with GM over deploying self-driving cars without steering wheels"
+  - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+    width: 700
+    height: 393
+    title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -273,6 +271,21 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
+  - title: "US talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
+    publishedDateTime: 2019-12-21T20:19:00Z
+    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
+    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
+        width: 560
+        height: 292
   - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
     excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
     publishedDateTime: 2019-12-16T16:40:00Z
@@ -396,19 +409,6 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
-  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-22T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
-        width: 700
-        height: 393
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z
@@ -441,6 +441,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "ulv2gTVwoZng9yqN9nVA2o5VHeSKurxq9qdh+Dv5BO5XyQ5zGywqAu3GDqGtRdPPm+dfs+gRDx5wPaHWonYwnT5SE1/iedAxIGcF4nneKA2qPMMQ9ef5duodR8atPLgTOWjfbpzveINauv/Wt8bLNiMg9a/bgMNDn44hU+/Cx+bOohIWjXipswuaRq6dssURvovd3XnrExHVwVOHm0u/V3pyBLZXG6HC3koFW2vYV/MFQvs5QWuDN3hSRO6vr3pJiT3XvUYNo8iPHdbBsdajUg==;ycncJXLI3XwVeQPxGrnpwA=="
+secured: "MZBRpu9gY/Vgb5nZas+mS1cB8nTnb4pD80er4NH4rpXbVv7i21bRJdMm+dh70AI+Xuo136mKAcvXqyg6y2eCmZTvujt3QiGNJNZfA3Eh2/Yv4M8I58MVQjCneVnIScPhSzJifbE4aZW0+CQnC0NJvGhvnH6IwC7NXz4PircP16euAkzsWVusH05/WHsSE2jv8lJF8ud01KArC8ZiGcEVG7GtgwF8eyY1SAhFCMktl1ig9JSAwg+VysPqViZy1SK9WY/4yOZK9+eKnWvambzc4g==;v4uso3vXVGNIFATMaeo/kw=="
 ---
 

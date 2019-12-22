@@ -119,19 +119,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "Canon Medical Introduces Aquilion ONE / PRISM Edition Combining Deep Learning Reconstruction and Wide-Area Spectral CT"
-    excerpt: "with Deep Learning Spectral Reconstruction imaging capabilities, Canon Medical Systems USA, Inc. introduces the Aquilion™ ONE / PRISM Edition, a spectral CT system designed for deep intelligence. The advanced system integrates artificial intelligence (AI) technology to maximize conventional and spectral CT capabilities and automated workflows ..."
-    publishedDateTime: 2019-12-02T00:01:00Z
-    sourceUrl: https://finance.yahoo.com/news/canon-medical-introduces-aquilion-one-143000785.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 15
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "nNeDhOMpX95l/w2FITmo/wlv3ekb7QJTLDimefgG1YXTju0NvwFPJlaFkVcMLI6mm7oYkIXF1vGO5wi5qNhcY4E2GVnIXpUXOt2dqHF3zMr9daoT7zSxJgumLylJlLSiOayzw8QtjhKv5YSfzxunZUEMTJxUsZhg/0OO1Bs/w2ItXTMgw39HdQ6xQC92Icm8hx/8pOuAuKEhVXyc6hdhEBbkCHwUSjwfeQbRbPuBFzLOCu26pyEgnihd3A0x9THgNn6Sfmgx6d0pX6V+12B6/Q==;q7Ws6CAfY00cqnVxFVLmMw=="
 ---

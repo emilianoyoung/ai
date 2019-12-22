@@ -5,7 +5,7 @@ excerpt: "AWS has launched a DeepRacer League and is inviting anyone to particip
 publishedDateTime: 2019-11-29T00:00:00Z
 sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-    width: 932
-    height: 377
-    title: "Unboxing for Business – Amazon DeepRacer AI training car"
 
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
@@ -259,6 +253,6 @@ related:
         width: 700
         height: 365
 
-secured: "JHE2Jrp2K4GA0/7F6DyOkcclbRnUodRSt34PDTBo41aEZqjh9culKzGKuvfPRGiNsA7gCdmYJDUnGGzNusJRBu+FNsX6ZkEvtdSCLlkbWdw2elit1gMeU7s6p24NqAeXX8ms4xWPV6gfAF1tzDwmgN7JERD5S2gs/Z5zdUOVdYcmH5fgs+uA2KXrbVCe6kEW0Hb/TWoU9ZeltEZyufp7MH0ggqZoqw+uM/3LyrC9qdYQiBB1Cuy8j+Ve3rX52WebTR2/86obqKqP4gwM2SlGCg==;x5VD3wQjhhzgs6m95F50fA=="
+secured: "imrV8w1eArD9zmu6o45mhMUKJoolwLWopMq0KQpez7vFXdm8r1krgpqJAI4ETdBx9pX/g+UzHmmuBUcCrNhntbObaX32g+NhofGr38AHdsOwfzC20pVxwFFrsvujWRi3UMe+7MyZ+rp+J/GB/AwywN5WR/LBvWy7Qz2QQDHoUy7aycUfB/iY8rCbr53d2kn2RE54UnR9sqf4yCA3bjMvzNOLcuYLNOQZUMi5a10GswPhmSmGAdN8nBzXoayVpc2jGzn2YBHlUwvKRZyjrg7jnQ==;FGx8XEVE53OKfBE9HPBZaA=="
 ---
 

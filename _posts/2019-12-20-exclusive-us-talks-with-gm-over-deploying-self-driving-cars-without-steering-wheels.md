@@ -1,29 +1,29 @@
 ---
 category: news
-title: "EXCLUSIVE-U.S. talks with GM over deploying self-driving cars without steering wheels"
-excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. By David Shepardson WASHINGTON, Dec 20 (Reuters) - The U.S ..."
-publishedDateTime: 2019-12-20T22:53:00Z
-sourceUrl: https://www.nasdaq.com/articles/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels-2019
-ampUrl: https://www.nasdaq.com/articles/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels-2019?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels-2019?amp
+title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+publishedDateTime: 2019-12-20T21:37:00Z
+sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
+ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
 type: article
-quality: 67
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.41B97C3AEAFF0631AC9B863BAF3E3308
-    width: 640
-    height: 408
-    title: "EXCLUSIVE-U.S. talks with GM over deploying self-driving cars without steering wheels"
+  - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
+    width: 800
+    height: 525
+    title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -396,6 +396,19 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
+  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-22T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+        width: 700
+        height: 393
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z
@@ -428,6 +441,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "s0ZJAvt4JhxxZ22o0vXT3DcPgnItwSpZiDAIq7cNLT4vQvIy44RU2Z0+ZblGvnQ66ZvztpwLNyvybbor+HmPcUNp8YR4i/qNwrFBfe0BQys7+W0EDxQEjwUVzenmfGqf4ml1PM1KSgPzd8NwNslkSJeMmM8ymnAT1wovORdjiKaPgwgVwaFH6/+/v5cDGVauzwN0fxI6HO2LjvkXY0vKWQy6067DkUALo1UlwsvKaQXn0SGkJ9lQtbFJSYUsvSd7rh5k68YOxL3/RZ7sBj9FDg==;7WhhqZfMBB+NGvsiboZwmw=="
+secured: "bOuhE2/OevKeboL4d0DTQplXYC7MTJ1XptOiUZI2qeMChRZwzEIu1l7DEZBZ8HIfJHxDj0j1G1J3B6pCu89wEg6gfOzR8OLOhJQUHzeKBM8T9NuNVj03nz/7iiQchuAvRrzjdzX9E4shNExPd/RiVOiW7tqVQjpcRW/OJo7JQw36zmejqxr66W0cFHykGKH3fOSYSbZ1J/ErG/i9H+mRXXQAjOaAFl+KGavLbP/kGhShmnDLo+S3RFKB1PaKwQ2irqYEAG3MIGzMMmnubill+Q==;EpmmyQKiYmcRZhKNPJqdcg=="
 ---
 
