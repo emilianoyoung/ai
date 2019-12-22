@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.587EB0C11D437DF42752F4DFE2A9E7DB
         width: 443
         height: 249
-  - title: "Critics call China's mandatory facial recognition tech in cellphones a 'wake up call'"
-    excerpt: "Critics call China's mandatory facial recognition tech in cellphones a 'wake up call' originally appeared on abcnews.go.com China's requirement that all new mobile phone users submit a facial scan went into effect, as international critics wary of the new tech called the move a \"wake up call to people everywhere.\" The new regulations were ..."
-    publishedDateTime: 2019-12-02T21:18:00Z
-    sourceUrl: https://www.yahoo.com/gma/critics-call-chinas-mandatory-facial-recognition-tech-cellphones-195600572--abc-news-topstories.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.59B31D3CCD8C45113AF17654BB450988
-        width: 700
-        height: 393
 
 secured: "u2vrd6EF0q2NediqmvsdAmHlerKfPyUOMT68seqHLfZjui3gdXHgrgFAXGjeGHmoUp/LHvY62tJNxXeg9g/KqD7tB9xYP9kgpgotSihGWJHtKlJQSchtc93i9yRcJgo7rwTO1H2RxHujiNx8kuTG+xZeRzIgl+k4EvZL7OgioaKXAEmxJTp4NMi4N/SFwFv9GSi9+Cfpj4U3n9BUi/jeZM9Q/7X+zy2HRL361p5TjUl4zACAGmVu2vxj7p8EZU4afzqa7t5jFA+iy95H+PahJQ==;idTwJhbihP27KVz4NiO/+A=="
 ---

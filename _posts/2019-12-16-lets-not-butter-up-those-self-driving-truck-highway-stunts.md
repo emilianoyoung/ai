@@ -46,14 +46,18 @@ related:
         width: 600
         height: 315
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-16T18:07:47Z
-    sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
     type: article
     provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 4
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
 
 secured: "4Z9FX+mhcgHyCIY5OmVPPmnbhMQPw5pteZRlZsfaz6aKAaGO5+szYtM8g8K7IqfdwrkR0G9muTw39brHqvxG3pKVBMeH4pVTF9b2CLy++Hvl1Cy5IS/Rdcg9Aovq9yYvrbwv5w9vpEaW9L+NjdntxMPt2LWaDu/MfyO/pqTrYhi+4UGrKd51JwHF+YcyJWLiyUomuWiPtwkHnTyFq69hKgIAVo5E3BXexjjYB2Iv8cXM1Oo2eWCxbdGXQC+u5coTB6XsTFz22xd10tsVVAz/rA==;njObV3DIyFczfcr6j4S+mQ=="
 ---

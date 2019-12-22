@@ -112,6 +112,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
         width: 116
         height: 116
+  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
+    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
+    publishedDateTime: 2019-12-20T16:01:00Z
+    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
+        width: 600
+        height: 532
   - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
     excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
     publishedDateTime: 2019-12-13T00:24:00Z

@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
-excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
-publishedDateTime: 2019-12-16T14:12:00Z
-sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
-ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
+excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
+publishedDateTime: 2019-12-20T16:01:00Z
+sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
 type: article
-quality: 69
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-  - Natural Language Processing
+  - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
+  - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
     width: 600
-    height: 315
-    title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
+    height: 532
+    title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
 
 related:
   - title: "2020 Predictions For AI, DL, And ML"
@@ -60,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
+  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
+    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
+    publishedDateTime: 2019-12-16T14:12:00Z
+    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
+    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
+        width: 600
+        height: 315
   - title: "Software predictions for 2020 from around the industry"
     excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
     publishedDateTime: 2019-12-17T20:44:00Z
@@ -99,19 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
         width: 116
         height: 116
-  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
-    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
-    publishedDateTime: 2019-12-20T16:01:00Z
-    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
-        width: 600
-        height: 532
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
     excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
     publishedDateTime: 2019-12-17T08:49:00Z
@@ -135,6 +135,6 @@ related:
       domain: yahoo.com
     quality: 22
 
-secured: "fI0XS5EaAi2qEnfvx9IcXMcg+U+iqWC19Xp9KlmydaNVQa9peKyd9bncvN7ssEaRIyL5Ok/0VacEMvRuOkLngpz7L/7irUmEabW+SgAPbuvcRPADYQxtDlxe0VETkFMK8JGcYCHSN+yKmy6KbnIwBgLhjWRqsYLf/vTkcqLpf9L0fkFGS4tsMWiF/BR9PfUenZ271ise2CxM1Z6aZG/T8H0QQiTAouY1k0Lh37Nf010DlSzL11RxbC3XyrkfLMhjEUz3QcLoZX3/IzuUUTC3Lg==;noUHPYJ9mRuH5kywc3Sw2A=="
+secured: "xXtlmGZ53YqI/FEcwpRbe5HWZz6rQSxH68Jm1pY6L0bXQtdM84AQ7ZV2Pfx40R97CZdFrNfAgQ2+toTRy30cXKyffWXIBIUsN3t0LVpp0nGnWse8ZuTVP6bA1slak18teNfUCDUSlMVhqMHB1BaSn/N7rhE//xudIhDlyV5OlzIX1Ke8KefBDMPgWpD4hZ8numSkEK2wrW7UR/5cKRaaGUe5hq1wryTfbArj2oX4jVSdGzp1ReCrzYJjqoVAlozmD+P47uwvpiHaPKun96RiHg==;qkKurUFKEwZYg/cz9r1t5w=="
 ---
 

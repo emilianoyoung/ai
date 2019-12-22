@@ -99,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
         width: 116
         height: 116
+  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
+    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
+    publishedDateTime: 2019-12-20T16:01:00Z
+    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
+        width: 600
+        height: 532
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
     excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
     publishedDateTime: 2019-12-17T08:49:00Z

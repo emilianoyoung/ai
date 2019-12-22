@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F10F4C61F93B1875832D944889ABE69E
         width: 700
         height: 525
-  - title: "Portag3 Ventures, affiliate of Power Corp., creates Canada’s largest fintech investment fund"
-    excerpt: "“When we started [investing in fintech startups] in 2014 we never would have imagined how hot the sector ... Technology Corp. (known as Clearbanc), robo-adviser Wealthsimple Inc., artificial-intelligence firm Integrate.ai Inc., online lender Borrowell Inc., benefits provider League Inc. and telemedicine firm Dialogue Technologies Inc. Many ..."
-    publishedDateTime: 2019-12-02T21:12:00Z
-    sourceUrl: https://www.theglobeandmail.com/business/article-portag3-ventures-affiliate-of-power-corp-creates-canadas-largest/
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 13
-    images:
-      - url: https://www.bing.com/th?id=ON.C26A0727200BD1D73AFF9B949DB3703F
-        width: 700
-        height: 466
 
 secured: "eq+gh398NR2SnZcVrFxLIPJ5th0hu1hbswh/kAqYECsW2kI5HFtfUzCu3WnYjv5awBI4vYGXAwYThVB47E10y6tEAXz3fpwsQaEkdYAExy728fA4tHXxJilaKi/j3GRRQaXEFg+IN6yNBoFhwsaz/I8e5BVUSbIl1I63lftI1plT10Oys8zof2Rnn+Kmz6xAEiRAXC44+2FzLqrBPJh2CK8xSYeOqWDPRUTw1xWF8hf4QrfY+bJ3OdRUYFrEbXiMILXj+p87rqDRO/0/6K0ORg==;IG9zuoOZHzth9G/W4xFZfw=="
 ---

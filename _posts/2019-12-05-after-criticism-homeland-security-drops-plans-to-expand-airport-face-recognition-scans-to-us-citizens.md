@@ -58,19 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9FD73AA4BD86F5A9A3611CECCD02BFC5
         width: 700
         height: 466
-  - title: "DHS wants to expand airport face recognition scans to include US citizens"
-    excerpt: "Homeland Security wants to expand facial recognition checks for travelers arriving to and departing from the U.S. to also include ... scanners to the largest 20 airports in the United States, despite facing a rash of technical challenges. But although there may not always be a clear way to opt-out of facial recognition at the airport, U.S ..."
-    publishedDateTime: 2019-12-02T21:32:00Z
-    sourceUrl: https://www.yahoo.com/news/dhs-wants-expand-airport-face-202655034.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 136
-    images:
-      - url: https://www.bing.com/th?id=ON.401133CE91C4E0DA55D18E3802264A1B
-        width: 700
-        height: 529
   - title: "Proposal to require facial recognition for US citizens at airports dropped"
     excerpt: "US Customs and Border Protection said Thursday it will drop its plans to require that US citizens go through a biometric face scan when entering or exiting the country. Currently, citizens have the right to opt out of the scans, but a proposed rule indicated the agency was planning to make the program mandatory for all travelers. The proposed ..."
     publishedDateTime: 2019-12-05T23:42:00Z
