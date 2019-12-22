@@ -1,23 +1,22 @@
 ---
 category: news
 title: "How AI came to rule our lives over the last decade"
-excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI
-  - AI Hardware
   - Facebook AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 393
     title: "How AI came to rule our lives over the last decade"
 
-secured: "GJWR/OfDRV97VY7l4DgHdqc1/ncHDi+FuespRrMj45jzTrzgl/VZyVEuRk5/z/cdFQ6CQ9+Jxp+o6IEvOAvOBRD20cmxLlTjIATZ0/qLkkuav7Xf291tXgSQUUAzrUXpIJxkBkeAwPJGfLfw9HR0BHmO59x8MNNOc5ja0dy517QhhOCl8uQQAsh+ONUo/yRR4IgAgVLm3CgqOEphlatcRT4ILwyyOoIRqwBMexkOks96UpgYTSrXnSM7qow6LutdDXlsnL/6wLo5C0sa8gydkQ==;v1jBuMUMXNoLxWck/HyrAw=="
+secured: "VNFSwG4R837A+2D4obQTbgyocSFnRg7G3dQAhat2/TPg5PAmX8wsvjN7UJZJIYySxgUrDHi7imGd26OB2VkEI54fPHt1/nc/lUjYpJxJqpbspqDCXJ1gUFJqP3u/T/MmOjbi7Rv75TIZFt+Sr/qAhjoVfI7wkBy8X3+2d9gLu14yew+jZeu719boiGFx7VZN/h+uI++202/dFMVZBTrCSdANswRcdLSBGH6HiG67UXBgZ9dptc64hrxzAUEVVR1kTpPQ+6ladTrm7E5S2xe/kg==;vaH0Hc4lGwIz0vxmxZILjg=="
 ---
 
