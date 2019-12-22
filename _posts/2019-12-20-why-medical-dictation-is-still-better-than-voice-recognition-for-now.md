@@ -24,19 +24,43 @@ images:
     title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
 
 related:
-  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
-    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
-    publishedDateTime: 2019-12-18T18:52:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
+  - title: "Employee Recognition – Does It Still Work?"
+    excerpt: "And employers who fail to deliver it often have to face the heat of high employee turnover rates. This is why employee recognition still remains one of the most prominent ways to keep your workforce engaged and motivated. Having employee rewards and recognition program is the most cost-effective way to acknowledge great deeds at the workplace."
+    publishedDateTime: 2019-12-22T19:41:00Z
+    sourceUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830
+    ampUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 44
     images:
-      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
-        width: 1024
-        height: 768
+      - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
+        width: 700
+        height: 392
+  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
+    excerpt: "PAYSON, Utah, Dec. 17, 2019 /PRNewswire-PRWeb/ -- AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME's face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify ..."
+    publishedDateTime: 2019-12-17T13:17:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/workmax-time-by-abouttime-technologies-unveils-face-recognition-for-accurate-employee-time-tracking-8332180
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 25
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
+  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition For Accurate Employee Time Tracking"
+    excerpt: "Payson, UT (PRWEB) - AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME’s face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify the employee’s identity ..."
+    publishedDateTime: 2019-12-19T06:52:00Z
+    sourceUrl: https://www.fieldtechnologiesonline.com/doc/workmax-time-by-abouttime-technologies-recognition-accurate-employee-time-tracking-0001
+    type: article
+    provider:
+      name: Field Technologies Online
+      domain: fieldtechnologiesonline.com
+    quality: 5
 
 secured: "s2TV0KRFNS1GmVYaB16s+GnHMqCEGH4CeItddgqc/VJKmHgyuQMX72DPZ54OAvS5gppABfx009OFPe7l/cabrAf++rn8c3JJnt1sPxrUficZVB5WulJ5X3TVJtoPe0Se64BPyJocQCo3W0BpbRHhUCixSSfB76wUY+bXdCDZSPOIjrb05I64RotiU3CdTXLmX60dGztnGV8KkW28B8Uupikr/m9iy9eNb6yKyASAu9keQ40cHE9nL9Pq+g+amRjSJxKOxD8+/LvxLXlAGzyt8A==;Jpv6P6T/x7Sgv4oWd/z6oA=="
 ---

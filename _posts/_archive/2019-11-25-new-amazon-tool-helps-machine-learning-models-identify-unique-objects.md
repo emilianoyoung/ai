@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/25/new-amazon-tool-helps-machine-learning-models-identify-unique-objects/amp/
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "New Amazon tool simplifies delivery of containerized machine learning models"
-    excerpt: "As part of the flurry of announcements coming this week out of AWS re:Invent, Amazon announced the release of Amazon SageMaker Operators for Kubernetes, a way for data scientists and developers to simplify training, tuning and deploying containerized machine learning models. Packaging machine learning models in containers can help put them to ..."
-    publishedDateTime: 2019-12-02T18:46:00Z
-    sourceUrl: https://techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/
-    ampUrl: https://techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: https://www.bing.com/th?id=ON.5449032495EB29EACE7EC46B986EF118
-        width: 529
-        height: 400
-  - title: "New Amazon tool simplifies delivery of containerized machine learning models"
-    excerpt: "As part of the flurry of announcements coming this week out of AWS re:Invent, Amazon announced the release of Amazon SageMaker Operators for Kubernetes, a way for data scientists and developers to simplify training, tuning and deploying containerized ..."
-    publishedDateTime: 2019-12-03T00:17:00Z
-    sourceUrl: https://uk.news.yahoo.com/amazon-tool-simplifies-delivery-containerized-184125788.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.FB0AB837DAB5ADD52216EBEEA1CA2176
-        width: 700
-        height: 529
-
-secured: "ugcKF2aCdARP8VzyK9qsMh00S/jrnJLnGaRZLISlShjS8z9bSz/uZB1hJ8rZgrgEFLLxdvWPfXDjs/3ZGYoDV1WVDmicqWDWJszx1wO7WNhI4d8u3jAy9Ux7pQujgbPjZs9aRqUv7Xj6/ZuhNPQU6te5QHkYuxyFEzhrMii0VxmdpkVdPjGbcTCaHZXnrduiiOctqoncY75sCvDqSnQ20S3KwtQ/ozYsnnxxhgEdvNKUerpMKLLzg6mk9YXpUDXatZ/FV2AZ/uijLcBChAitSw==;+0eXIcHqw0R1O8z5Ogut9g=="
+secured: "XTl9voSXy9Z2URObbRVz2Vqvc1eL2s0TCfieOET012BDlctPRlVDprano/wItnGgcbPahjQ+hNuhvP9zhjxYPx5rUe1zU/211zCO/wGbYtAgkwzJhiJxUx7Whvx/AJtjmbmk2qhtzLL6x4g4jF0gWMo9PQAgAlXbdTPndVGgX8wLopSdJzL2ioLSb0xgDd5dbL4MZRn3SwbD4vgqrxQbSirS22egZLWDbhFPPYCsrdvXJdAJ872D5H9P8ObxEKHTWRsiagZIojnuEkViVuF8Kg==;MRxsaTcZ5gUel+2H5ttkvQ=="
 ---
 

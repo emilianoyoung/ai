@@ -2,28 +2,26 @@
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T14:00:00Z
-sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+publishedDateTime: 2019-12-20T18:00:00Z
+sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: /assets/images/organizations/fool.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
-    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -942,21 +940,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T19:25:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 45
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-        width: 1904
-        height: 1428
   - title: "Federal study finds racial bias in many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z
@@ -1736,7 +1719,16 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T20:28:11Z
+    sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
+    type: article
+    provider:
+      name: MassLive on MSN.com
+      domain: msn.com
+    quality: 5
 
-secured: "Z1kJtTalw2FOXu42BsyoihGUxm/irjXjJGhQvOw++RiULN1awcAZ3J9gF5J3gn5dOxb5JnoRfOtf63o7QAbSkJCVuutdOwksIbqaDJUavYrwxrMSInAwpviKSF95Zb8eEO7qQ6yOtMC5sbY5s0zbYdwv5Hy7V31FKe5oYX+rY7e3sJe/BdTDgCtE5/kNAD/DVF1w2jrHxBT5jObw2KEgyVVBOH0OAU+DUleGwXUMHo5pSWnqPVPIo0SUQkENNAlzttBuBS1tcgIJa/BYlBGXYg==;pwBbTe1roM0vWB3pkxYFLQ=="
+secured: "tbxUOyo69L8lGPr8Q4Hmw0jrdOTiSuicC5JT3Fz6IM5GImqq+CV3RuhY/ShDyC1U+D4rwjbqGcMDfamVfuKf0L2+Bb1W2WVAfqL6xYx/veG+17cQgBB6XmGh7Bf5B5e37ALM80XEQPq37onWRwxMfNhNtOVaAL7aJEU0HMaFt3UrUC5PgkFSg8d4N5BBAoJv3gZeRhzmYRbJ3ZD1FC3WIwkQ2LxClmThXduuP1w1Zkq7QgWe6w+LXcMiSqlHwYSNvmV1TMlCQejTQV/6ivv9AA==;nDdgLWSzdzUB/MepTRlf5Q=="
 ---
 

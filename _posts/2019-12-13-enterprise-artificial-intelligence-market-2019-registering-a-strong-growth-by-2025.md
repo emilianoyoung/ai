@@ -94,6 +94,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
+  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
+    publishedDateTime: 2019-12-10T12:31:00Z
+    sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48386029-natural-language-processing-market-worth-dollar-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-008.htm
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 3
   - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
     excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
     publishedDateTime: 2019-12-18T11:01:00Z

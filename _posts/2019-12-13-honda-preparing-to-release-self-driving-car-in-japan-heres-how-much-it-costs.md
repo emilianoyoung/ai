@@ -309,19 +309,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
         width: 700
         height: 489
-  - title: "Daimler starts pilot testing of self-driving Mercedes taxis in the U.S."
-    excerpt: "FRANKFURT -- Daimler is testing autonomous taxis in the U.S. despite new CEO Ola Kallenius saying that the automaker will \"rightsize\" its spending level on self-driving technologies. Daimler's autonomous-driving technology will more likely be apply to commercial vehicles for freight companies on long haul routes than taxis, Kallenius told ..."
-    publishedDateTime: 2019-12-02T18:39:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/daimler-starts-pilot-testing-self-driving-mercedes-taxis-us
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.747B6979EEFA363F4F2B18DF4C67ACA2
-        width: 700
-        height: 525
   - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
     excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
     publishedDateTime: 2019-12-10T16:42:00Z

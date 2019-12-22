@@ -496,19 +496,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0979C931D8C4C3745E0255E211A5175D
         width: 700
         height: 497
-  - title: "China Requires Citizens to Complete Facial Recognition Scans to Obtain Mobile Phone Service"
-    excerpt: "China implemented a policy on Sunday that requires citizens to complete facial recognition scans in order to obtain new mobile phone services, further increasing the ability of the government to track its citizens. The policy, which was announced in September, mandates facial recognition for new users of China’s telecommunications providers ..."
-    publishedDateTime: 2019-12-02T18:55:00Z
-    sourceUrl: https://news.yahoo.com/china-requires-citizens-complete-facial-185530979.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C4E1BD66F22E10DA1335137107CE6885
-        width: 700
-        height: 394
   - title: "China's move on face-recognition standards"
     excerpt: "Chinese tech companies have ramped up efforts to set technical standards for facial recognition, raising concerns among business competitors, political observers and humanitarian advocates. Why it matters: China has long made a systematic effort to set international standards on data and hardware compatibility across brands so that the ..."
     publishedDateTime: 2019-12-05T17:08:00Z

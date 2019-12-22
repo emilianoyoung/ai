@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "Introducing Farrago A.I. the best way to experience AWS Sagemaker"
-    excerpt: "One of the reasons this technology has such high potential for impact right now is the massive computing power required to build machine learning models is provided by tools like the AWS Sagemaker. These cloud-based machine learning tools have the ..."
-    publishedDateTime: 2019-12-02T18:57:00Z
-    sourceUrl: https://medium.com/@farrago_ai/introducing-farrago-a-i-the-best-way-to-experience-aws-sagemaker-ba91d53c2a78
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: https://miro.medium.com/max/401/1*AogQdSortRjcbS4BZcUXsg.jpeg
-        width: 401
-        height: 327
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z

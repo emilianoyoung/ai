@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 118
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -32,19 +32,6 @@ images:
     title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
 
 related:
-  - title: "Introducing Farrago A.I. the best way to experience AWS Sagemaker"
-    excerpt: "One of the reasons this technology has such high potential for impact right now is the massive computing power required to build machine learning models is provided by tools like the AWS Sagemaker. These cloud-based machine learning tools have the ..."
-    publishedDateTime: 2019-12-02T18:57:00Z
-    sourceUrl: https://medium.com/@farrago_ai/introducing-farrago-a-i-the-best-way-to-experience-aws-sagemaker-ba91d53c2a78
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: https://miro.medium.com/max/401/1*AogQdSortRjcbS4BZcUXsg.jpeg
-        width: 401
-        height: 327
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z

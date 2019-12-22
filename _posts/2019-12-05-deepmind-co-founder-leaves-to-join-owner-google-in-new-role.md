@@ -1,30 +1,26 @@
 ---
 category: news
 title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy over some of the projects he led. In a blog post Thursday, DeepMind said Suleyman is ..."
-publishedDateTime: 2019-12-05T17:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+publishedDateTime: 2019-12-05T17:34:00Z
+sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.28A3294418918B7ECE3E4E7AFB516472
-    width: 700
-    height: 503
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
     title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
@@ -124,6 +120,6 @@ related:
         width: 632
         height: 422
 
-secured: "a8eY9EdGaPb7i1RKZP8jT0uxCs3dI/g8D1q83kipz0Yv7n8Xqm7YO5qqh5GjQ7d9jQ528MeezdeEUh7F7IAiXKWjMhscpt4HAaf03++Hgwz5Q70dG/vn7SEqx9gcsHp4z/CtEX9bisLFFy/JdweW7gKbXuypnT9q6v3RaOqaZ5U03gUUX2ioZdjqRDddhfW2X6GlCBMhpzXGVDxEWaWAestdngSv7DneJjhCgp9rKTqSRWPxOvnYwcdU0Z5OBaMKHSnnMbY81Yy0NtfrMKaN9Q==;QFjXm027+7hbGgh88NdVKQ=="
+secured: "POHY4M/esexCoyBDKxDgarZIqRT209B5r6AQ/He2w5k+z0JbJTrGEzs6SVPwyRhDqdaP/NBdbtLvmtJxjpoirsJrk+pL05PfEaZF4jxnL+YCJvI2koYDvPY5vDuoxqYIuofDlnzidcbZIxXwhvdDP6wZfwKaOIZC0NDKVT+o11e+Ew0GcE6gbAhB0nnpOShz4qeEGSo2/TqKhkazBUoUjAFe2JGzRxaX6kH0H24uU5m7eDi4LTCRYxJkdCYj+VNbW/+wtHjVxn7nFywKpcvOUA==;rxzqZNjQ2EPi9eT52LQ48Q=="
 ---
 

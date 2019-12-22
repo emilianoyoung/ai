@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "Introducing Farrago A.I. the best way to experience AWS Sagemaker"
-    excerpt: "One of the reasons this technology has such high potential for impact right now is the massive computing power required to build machine learning models is provided by tools like the AWS Sagemaker. These cloud-based machine learning tools have the ..."
-    publishedDateTime: 2019-12-02T18:57:00Z
-    sourceUrl: https://medium.com/@farrago_ai/introducing-farrago-a-i-the-best-way-to-experience-aws-sagemaker-ba91d53c2a78
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: https://miro.medium.com/max/401/1*AogQdSortRjcbS4BZcUXsg.jpeg
-        width: 401
-        height: 327
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z

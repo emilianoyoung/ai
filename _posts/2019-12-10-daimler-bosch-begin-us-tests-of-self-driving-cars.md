@@ -322,19 +322,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Daimler starts pilot testing of self-driving Mercedes taxis in the U.S."
-    excerpt: "FRANKFURT -- Daimler is testing autonomous taxis in the U.S. despite new CEO Ola Kallenius saying that the automaker will \"rightsize\" its spending level on self-driving technologies. Daimler's autonomous-driving technology will more likely be apply to commercial vehicles for freight companies on long haul routes than taxis, Kallenius told ..."
-    publishedDateTime: 2019-12-02T18:39:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/daimler-starts-pilot-testing-self-driving-mercedes-taxis-us
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.747B6979EEFA363F4F2B18DF4C67ACA2
-        width: 700
-        height: 525
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
     excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
     publishedDateTime: 2019-12-13T18:58:00Z
