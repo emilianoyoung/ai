@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Paige raises $45M more to map the pathology of cancer using AI"
-excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige — which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
-publishedDateTime: 2019-12-18T18:16:00Z
-sourceUrl: https://techcrunch.com/2019/12/18/paige-raises-45m-more-to-map-the-pathology-of-cancer-using-ai/
-ampUrl: https://techcrunch.com/2019/12/18/paige-raises-45m-more-to-map-the-pathology-of-cancer-using-ai/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/paige-raises-45m-more-to-map-the-pathology-of-cancer-using-ai/amp/
+excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
+publishedDateTime: 2019-12-18T19:22:00Z
+sourceUrl: https://www.yahoo.com/now/paige-raises-45m-more-map-180601977.html
 type: article
-quality: 167
-heat: 227
+quality: 137
+heat: 197
 published: true
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
+
+images:
+  - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
+    width: 2600
+    height: 1730
+    title: "Paige raises $45M more to map the pathology of cancer using AI"
 
 related:
   - title: "How to bring AI to a legacy industry, according to the founders of Luminance and Omnius"
@@ -100,6 +100,6 @@ related:
       domain: medpagetoday.com
     quality: 3
 
-secured: "uHKayr4HS7h8o/rMfXGgu/+arobqjhLPz1vhaSHvlS644bBHTGvNerhwbs/P+HrBNWGAHYEsM4Y6yjb8OKmRhj+fFax/TeqH/rwq7FksVTjLDK9SaRhs89M68LgG6Hxtrs+8yxJjtbpIOQwiFkgKTpDya3/jhb/sg4zCRnoBAFsr3Q/BXdmFDgvxPWP7PYy9CUFVAQSvCOq5md5ZQ8NKdVFSCR5Y3QtWye9VSV6XTOe1K2uN+1bxPCafP/PgY0GOZo6NFuvh1QA7JqomF85+EQ==;zhEp/NHvawa/3zZHUxUgJA=="
+secured: "BmCx7x/hy4wsqM47S2vrgk9P9M6yjwiwgxIhLse2vpKi8CHWRvugql2JePZc7j0lHXCzKDeb56WrCMx7kRxW0ovt0xaVokBB8IZMJf/rwkewkVIFEo5lACQxCsHrwys4LV279C87x4eVbKdjhPNMneV5tllXpUWqSCdKLyTmmRiT+hOwzfwDT7xPtCSWdGZd+A7iRJg3caSz6EypFLM/QJfMj2dcCr5joTc6A+1pYTX1DA9QTIL1S+L/IgPuu0hCHZx+CbGPeidsdcC06naKfA==;vVcv9rSt5xnjxWg+ZOyK5Q=="
 ---
 

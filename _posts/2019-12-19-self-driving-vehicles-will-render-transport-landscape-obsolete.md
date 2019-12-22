@@ -65,21 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1E332684A0B0365BB1C4AF6C65DBBD3A
         width: 700
         height: 393
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
-    publishedDateTime: 2019-12-17T18:55:00Z
-    sourceUrl: https://www.newsobserver.com/news/local/education/article238467493.html
-    ampUrl: https://amp.newsobserver.com/news/local/education/article238467493.html
-    cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/local/education/article238467493.html
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 38
-    images:
-      - url: https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/4b08cc88-9b2e-40b5-a487-22e72f6a25ee/ed8f256c-cbac-4fdf-9d4b-36ba385e13cb/1280x720/match/image.jpg
-        width: 1280
-        height: 720
   - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
     excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
     publishedDateTime: 2019-12-18T22:50:00Z

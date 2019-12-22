@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
 type: article
 quality: 87
-heat: 387
+heat: 397
 published: true
 
 provider:
@@ -424,6 +424,19 @@ related:
     quality: 18
     images:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
+  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
+    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
+    publishedDateTime: 2019-12-22T14:51:00Z
+    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
         width: 700
         height: 393
   - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"

@@ -24,19 +24,21 @@ images:
     title: "Opinion: Nvidia will dominate this crucial part of the AI market for at least the next two years"
 
 related:
-  - title: "Predictions 2020: Will This Be the Year of Cybercrime-as-a-Service?"
-    excerpt: "Matt Kunkel, CEO of LogicGate: The board and cybersecurity Ultimately the board thinks about dollars and cents—both top line and bottom line financial ... as-a-service leveraging more advanced AI for offensive attacks then defenders have available to use. There is a solid chance we will find the use of more advanced AI and machine learning ..."
-    publishedDateTime: 2019-12-03T00:53:00Z
-    sourceUrl: https://www.eweek.com/security/predictions-2020-will-this-be-the-year-of-cybercrime-as-a-service
+  - title: "Nvidia Moves Clara Healthcare AI To The Edge"
+    excerpt: "Nvidia has for years made artificial intelligence (AI) and its various subsets – such as machine learning and deep learning – a foundation of future growth and sees it as a competitive advantage against rival Intel and a growing crop of smaller chip maker and newcomers looking to gain traction in a rapidly evolving IT environment."
+    publishedDateTime: 2019-12-02T18:45:00Z
+    sourceUrl: https://www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/
+    ampUrl: https://www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/02/nvidia-moves-clara-healthcare-ai-to-the-edge/amp/
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 54
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.F6A330DBB9B22F4DE76701F461DAD2F4
-        width: 300
-        height: 200
+      - url: https://www.bing.com/th?id=ON.427F31B75DDB77DBE28ACB2C5B87ABBE
+        width: 700
+        height: 700
 
 secured: "h1IoNzZZOFaAKBaIqlbgpwaVAIctm2bfsBKuxEeaOmvtbEgKUEVAEygbfQoUS7uON8ySbWhPh1jt4O5y2FmXn3LBVBZt5LlontwFIotUyv2QHZSWuHhSmxvGA2ptk+xfYE+wJE7nbufXivX1qBxSDV11K1zoaklJG1oXjmFke8B9U6tNQu1rrBie9qZ23Qs9Tinr1wqMrEYsa6zCC1B9kzVjCI6Dqee1Hm9q+4yPgCB7VgSIAepn08/vGIkh8aE5K3nZxQ7ZovtDa45gKz0I4Q==;/3fndhjjq5VUWwxEljbSLQ=="
 ---

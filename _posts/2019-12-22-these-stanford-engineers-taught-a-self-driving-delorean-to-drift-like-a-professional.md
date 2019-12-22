@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
-excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
-publishedDateTime: 2019-12-20T21:37:00Z
-sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
-ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
-cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
+excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
+publishedDateTime: 2019-12-22T14:51:00Z
+sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
 type: article
-quality: 36
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: The Drive
+  domain: thedrive.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
-    width: 800
-    height: 525
-    title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+  - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
+    width: 700
+    height: 393
+    title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -318,6 +316,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
         width: 700
         height: 393
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2019-12-20T21:37:00Z
+    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
+    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
+        width: 800
+        height: 525
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -422,19 +435,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
         width: 700
         height: 393
-  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
-    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
-    publishedDateTime: 2019-12-22T14:51:00Z
-    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
-        width: 700
-        height: 393
   - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
     excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
     publishedDateTime: 2019-12-20T23:43:00Z
@@ -454,6 +454,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "sV2x9zmuo3SHhNNL5w2CwsriAqQg2dE2r5tg8yHfDNz+616Qz2fnoQJ68WjLW935YFFu9adEpoTXqGTVQ/D9bO+NtN7lR5Zlc5pp1h6EiAgTgvz9DnsKjyRRRHZOC4KBDJX9MPpKgl+Ki7yMB499dHVx3gG72jXNNaIWTPmWvvc4wzupMCbzD5BSsCnpS1E9Z3aCsg/T8ZmHQm2hd3ZeDlN0Pf0u5HNqMs8Z93U4YRlZhkodnysxjfjyfYg19BmHa/HT7xeJomKqP/sj2wSNCQ==;ushWvwXY7QzIdxdqRRHj+Q=="
+secured: "PaXYJWC8yBfeO8/snyW/IAT0U74zbcBFLOwICM4DuaE352CBTQy0c7oeWIFahCDwSnaackT4Nv5BRiJ4vsCST8H5EnVrbSq+bs37+3YQg1H72fzIP5MbdFvXVxfITH3cIxPfTKLGNaraj5Of2arPk3VaLd0m7tk9hD6JfvlORMrWvcbeS36fUV4tuY+FcUPuGQ8CQLVEZYSULsRbFaWVK3p7M3xQrFnOb/sv6bZwN9OTTmoO5+XSYEPJaZOM0z7vwPXAr0O/cClQPS7JovX3sw==;JZdv6f6SAMuRx8H/FuaFug=="
 ---
 

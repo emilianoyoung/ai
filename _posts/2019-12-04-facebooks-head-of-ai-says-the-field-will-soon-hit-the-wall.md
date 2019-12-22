@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
 type: article
 quality: 191
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -76,21 +76,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E2131D04DFF517F06C59A5EF9AE00F69
         width: 700
         height: 366
-  - title: "The 5 Debates That Will Shape Fintech In The 2020s"
-    excerpt: "China’s fintech success derives not just from a technological advantage and unprecedented ... Will the US develop and adopt a national AI policy to become more competitive (and, in fact, does it even need to)? Will the US regulatory environment (e.g., antitrust laws) change to favor a super app approach? Could a Chinese-like Social Credit ..."
-    publishedDateTime: 2019-12-02T13:58:00Z
-    sourceUrl: https://www.forbes.com/sites/ronshevlin/2019/12/02/the-5-debates-that-will-shape-fintech-in-the-2020s/
-    ampUrl: https://www.forbes.com/sites/ronshevlin/2019/12/02/the-5-debates-that-will-shape-fintech-in-the-2020s/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2019/12/02/the-5-debates-that-will-shape-fintech-in-the-2020s/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.65B67D6CD774AF307D2F18E3D881FC37
-        width: 600
-        height: 315
   - title: "Nvidia and Hackster join hands to bring the AI at the Edge Challenge"
     excerpt: "Nvidia is one of the pacesetters in research and development in the field of robotics and artificial intelligence. Just recently ... powerful computer that allows you to run multiple neural networks in parallel) to build creative and novel projects that fall into one of the following three categories: The competitors will be vying for prizes ..."
     publishedDateTime: 2019-12-04T08:20:00Z

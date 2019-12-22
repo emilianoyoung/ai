@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Can Artificial Intelligence Increase Our Morality?"
-excerpt: "Source: May Hill Design with support from Templeton World Charity Foundation and Now You Know Media In discussions of AI ethics, there’s a lot of talk of designing “ethical” algorithms, those that produce behaviors we like. People have variously called for software that treats people fairly, that avoids violating privacy, that cedes to ..."
+excerpt: "Even well-meaning AI applications have potential dark sides, she said. Algorithms aimed at putting at-risk students back on track could conceivably increase conformity. Therapy apps that give points for good behavior might make personal growth feel like a badge-harvesting grind. Social credit systems like that in China, or even more subtle ..."
 publishedDateTime: 2019-12-09T07:38:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
-ampUrl: https://www.psychologytoday.com/intl/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
+ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - AI Ethics
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 280
     title: "Can Artificial Intelligence Increase Our Morality?"
 
-secured: "S9AkZCDME/4pcsGJLw9XsP+zmc68WC+NHQBKpvEyxDuWyGIb6yC6LX9b6ukLUqiv5OwqyoXUruyoJVf7R/yXbh9nW5HczqHPIAyoVDUK/doCxHt2xR322kRobnAWM3n0l8pXAYg9zTL73LbG5BcP+9JHKNfcAQcF1x9wvOk9tR91Eswi18h349bnLOig45xAsXybiT/rFOiesdZ9c5Ov9/2ybV99zY72PbkLK3zjjKTXZQLB7atVGQfnWk9yfXcCJVoKfrpXDoBXlulExW0aeQ==;iig+ekGsgrrth0vKa7cscw=="
+secured: "vS2SiTuVNi6+YBQoYZ54iLSZs9flDsDxHeSm490UAHWPsRsi9S1SFbtR+nlvL1Sr02HH6zd2OveZVo13l4iEk7uITKK7qQY0sAZ5Tc9R0+O1TDjyOPox6CGOJ1GOGS0bEh/KSrDQupTgTgMPLJLefLwx0BtSfXu46Ks5NQugfamW3xGbeZZF9biBHCDJAyQsMePXf8EQCVrgbqPfyTQoJHBTKUXPZXPMVpL9Kp3JicFYUKA3xupIJJqPH9Nknda2ywc1r3IyGW6Jv10bjSu0+Q==;V5kZrSwrASP0eyIs5jO6JQ=="
 ---
 

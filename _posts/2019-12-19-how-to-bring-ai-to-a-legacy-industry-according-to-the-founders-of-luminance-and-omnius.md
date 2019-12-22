@@ -29,16 +29,18 @@ images:
 
 related:
   - title: "Paige raises $45M more to map the pathology of cancer using AI"
-    excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige — which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
-    publishedDateTime: 2019-12-18T18:16:00Z
-    sourceUrl: https://techcrunch.com/2019/12/18/paige-raises-45m-more-to-map-the-pathology-of-cancer-using-ai/
-    ampUrl: https://techcrunch.com/2019/12/18/paige-raises-45m-more-to-map-the-pathology-of-cancer-using-ai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/paige-raises-45m-more-to-map-the-pathology-of-cancer-using-ai/amp/
+    excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
+    publishedDateTime: 2019-12-18T19:22:00Z
+    sourceUrl: https://www.yahoo.com/now/paige-raises-45m-more-map-180601977.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 167
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 137
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
+        width: 2600
+        height: 1730
   - title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
     excerpt: "Paige said on its Linkedin page that it will use its new capital to drive FDA and CE clearances for the products it is looking to bring to the market, which comes in a timely fashion since the company was the first to get FDA breakthrough designation for using AI in oncology pathology. The company also received a CE mark shortly after."
     publishedDateTime: 2019-12-19T11:30:00Z

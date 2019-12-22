@@ -426,6 +426,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
         width: 700
         height: 393
+  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
+    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
+    publishedDateTime: 2019-12-22T14:51:00Z
+    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
+        width: 700
+        height: 393
   - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
     excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
     publishedDateTime: 2019-12-20T23:43:00Z

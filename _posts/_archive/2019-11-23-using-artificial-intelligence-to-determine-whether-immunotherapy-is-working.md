@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunothe
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 1199
     title: "Using artificial intelligence to determine whether immunotherapy is working"
 
-secured: "utXYBalZw+UJoxwdDTP2LtC9Uua1YJOP82mtWh/Gkc3UB5XK26mCa6hgHtpS0lJRUJ3AKBWfV078WIR7lIyDGJfQaO3SU/vH5OVxL9+rNe3BoiPf9MiMuVFLxlb+L0PedcuD60vLPUasECW5ULCKzBD6G3/hEdjiyb8A+EzDSH4kkrUZ5FRwWeYg0fItCJS37l/NrcBPdlqCIvJHSi1HlBnp0+QjwWFw9GsA1uCOmPqPsyfcgeFLr+mf++8TCAStmmgx3kVZ5mB6VV1uciZmTA==;h8ZV7PVwaxRdjex6vSEmnw=="
+related:
+  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
+    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
+    publishedDateTime: 2019-11-25T05:10:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 71
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
+        width: 675
+        height: 365
+
+secured: "+40/eZxq6yrHbQ0AS3ZZ1B1ttLkQnK6MdgiQwliFsJ2gPg+8+UZ93mwK7LG//5xvDKFVRA9589lb7kv9pJXdcwoBqqIJ2PWMtZ8iOT3ytalFtBy3mOzuO2waVCOoUABrs4wMuLvxyCAFpQ54gySoZJgxNjl3oiffB9YTXKE/WDq/v08PR7IzjGgc8yiqu7aRz78nTXPvUEyQOV1wGrR3d7v/kRYYC2SIyWbp0u26IlEtxHwYi6cyI5tlojOvhix5av5ThevbBV1Nz2rjQlATRw==;wVcVzeEtXTXYbVv2675xpg=="
 ---
 

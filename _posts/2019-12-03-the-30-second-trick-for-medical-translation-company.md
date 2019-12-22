@@ -24,19 +24,6 @@ images:
     title: "The 30-Second Trick for Medical Translation Company"
 
 related:
-  - title: "BLEU Has Measured Machine Translation Quality Since 2002. It’s Fast Becoming Useless"
-    excerpt: "In the world of machine translation (MT), human evaluation remains the de facto gold standard for assessing translation quality. But for researchers and developers cycling through hundreds of MT system iterations, human evaluation is simply too slow and too expensive to use for each incremental tweak. The solution: automated metrics ..."
-    publishedDateTime: 2019-12-02T13:20:00Z
-    sourceUrl: https://slator.com/technology/bleu-has-measured-machine-translation-quality-since-2002-its-fast-becoming-useless/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
-        width: 210
-        height: 297
   - title: "5 Tools To Help On Game Translation"
     excerpt: "SmartCat has all features a translation tool must have: a glossary, translation memory, machine translation, automatic proofreading and spell check, terminology. This service takes care of your confidentially and allows limiting access to your files. Working as a team from various spots on the planet is a great advantage for freelancers."
     publishedDateTime: 2019-12-03T16:08:00Z
@@ -50,19 +37,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2A8535D3A158E9BD29D9AC0050491FE0
         width: 85
         height: 85
-  - title: "In-Cab Monitoring Uses Machine Vision to Detect Fatigued, Distracted Driving"
-    excerpt: "(Bison Transport) Seeing Machines’ driver processor employs computer vision algorithms to assess the drivers’ visual attention to their environment, assess their degree of drowsiness and, ultimately, determine the threshold of risk. In-cabin sensors monitor the driver’s level of fatigue and distraction in real time based on factors such ..."
-    publishedDateTime: 2019-12-06T14:15:00Z
-    sourceUrl: https://www.ttnews.com/articles/cab-monitoring-uses-machine-vision-detect-fatigued-distracted-driving
+  - title: "Found in translation: Entrepreneur Oya Koc interprets her way to startup success"
+    excerpt: "An example: “As a foreigner, you may receive a letter in Japanese, which you may not be able to read, let alone machine translate. What you can do on our app is take a picture of the letter—or anything that you’d like to have translated—send it to an interpreter or translator, and receive the translation.” Beyond services for ..."
+    publishedDateTime: 2019-12-08T22:15:00Z
+    sourceUrl: https://japantoday.com/category/features/executive-impact/found-in-translation-entrepreneur-oya-koc-interprets-her-way-to-startup-success
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.03A830555C5934E2D0B0CBDD1E3BF907
-        width: 470
-        height: 246
+      name: Japan Today
+      domain: japantoday.com
+    quality: 0
 
 secured: "8SODccOu+h4xtl/2Odkod11hJQHu4qw1BgJXDzNXTBDnTN96dBAVQyuxYiiLm226/ZC8+0nNO8F8QJ3yewJGGaShslw8Z1kScJ2dQTdcJVH0QbtXXtXbEVdSjOz8qGV7NTMXzgen68/Mf3fl4sapaMnG3tCLZTysEsrdxYzLEJbs+TV57Hs11JYT5Ln/KFSMRYZdgfi1b28sQxpELZh3MjwSWpTZSrk3ZjohohoIl690jA2yw3dfv1n8j3IG2iPm7eZy4Yo1GPSMAbuqJ0gkcg==;7iDhZao/JQOUmDGtvVVRog=="
 ---
