@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/amp/
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 54
+  - title: "New Amazon tool simplifies delivery of containerized machine learning models"
+    excerpt: "As part of the flurry of announcements coming this week out of AWS re:Invent, Amazon announced the release of Amazon SageMaker Operators for Kubernetes, a way for data scientists and developers to simplify training, tuning and deploying containerized ..."
+    publishedDateTime: 2019-12-03T00:17:00Z
+    sourceUrl: https://uk.news.yahoo.com/amazon-tool-simplifies-delivery-containerized-184125788.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.FB0AB837DAB5ADD52216EBEEA1CA2176
+        width: 700
+        height: 529
 
 secured: "/PYgKNTFrLRzcMTo0/MAbIDXjOQ2dpNuXxjk6D4l29KZ8meNrlBGnuJc9atKzHuu6HU9B0DSx8r3KagQW+CcdLCJSzrNIUHZF45/maW8/fDcgQvzMbcyqXlUo5/bqimcKY2QQF4D2zF0aosgRaJaDO0cvdFu2GdkDwIOOvE8pegi9IR+Y6OP9FJbp2eGIifpxv/PWu+jtcSO4KskLrs0QLoSydrXGxXaHSDnSI5Uyu4EFdJEAnF1jYxz/CSFctfdoabD0FmjHF6OqzuCAvbrIg==;SshyFNX5b8gRG4Sg+JIvAw=="
 ---

@@ -39,7 +39,20 @@ related:
       - url: https://www.bing.com/th?id=ON.5449032495EB29EACE7EC46B986EF118
         width: 529
         height: 400
+  - title: "New Amazon tool simplifies delivery of containerized machine learning models"
+    excerpt: "As part of the flurry of announcements coming this week out of AWS re:Invent, Amazon announced the release of Amazon SageMaker Operators for Kubernetes, a way for data scientists and developers to simplify training, tuning and deploying containerized ..."
+    publishedDateTime: 2019-12-03T00:17:00Z
+    sourceUrl: https://uk.news.yahoo.com/amazon-tool-simplifies-delivery-containerized-184125788.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.FB0AB837DAB5ADD52216EBEEA1CA2176
+        width: 700
+        height: 529
 
-secured: "Y3nZTXBK4mdsOca3UcMz2ANi9K+59daN3tu+6bWft0zYLNefFHAiDHBnM2zRIwIrh3J30r277et41UoJfGbxqjJ0KELFmFuTYzXbY4w6wYblNfJWUD3mMg7P65lreqoDz1cePKs2BQ0T5q73jB55sFt1OpsTOmj74woISJrbE/rQSu9xWzOojpKZ8fJmFlkMqJ3P9yCXhHxIkaXMll/SBMPcJQoooUBUCxjMKl/IvzLH8t+80mj6YZBCfedB1gwFH/l7QucikOD5aRuTLslcYQ==;LcVPFtEGOCmsfUKPA6J8Lw=="
+secured: "JU4LXz+tNS8T9BfgzzjHnAv2v7VqcDnPlXpln0gvjztj+9hczFW9VowsBoN6RR24nPjkbyRwnavAy/7+tCM3EXvCBPDvyY1PTZ3q3PF60MscQj3TmDP626voEenxNXy5SdnGlcuvehw8YXRpru7nx0Z9JL60wxi7Z9npWe/l1CAlNSrmS1EeEbEANk6wBN0lW2vChpqR9sh9scNqUNjHx3cgjnVg1EqTYphLR40J8IFk21mnPJwtJZPPm+UJaM66AhiHLznLdt986Wq86ZEbqA==;QeedXp8xhOJ3VsAxgklofA=="
 ---
 

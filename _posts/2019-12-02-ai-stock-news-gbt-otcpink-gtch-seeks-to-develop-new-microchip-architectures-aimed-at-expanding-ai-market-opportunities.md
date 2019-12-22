@@ -65,15 +65,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "GBT Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "The new architectures are various combinations of matrix, vector and scalar styles designed for AI GPU chips, which can be used in a wide variety of applications. The new concepts will be based on the Company's recent filed patent, which seeks to protect 3D multi-planner microchip technologies. The goal is to enable the design of 3D multi ..."
-    publishedDateTime: 2019-12-02T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/gbt-seeks-to-develop-new-microchip-architectures-aimed-at-expanding-ai-market-opportunities-1028729454
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
     excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
     publishedDateTime: 2019-12-13T06:19:00Z

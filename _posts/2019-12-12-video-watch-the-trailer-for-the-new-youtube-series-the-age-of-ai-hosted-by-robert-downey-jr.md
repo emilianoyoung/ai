@@ -96,6 +96,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
         width: 700
         height: 393
+  - title: "Robert Downey Jr launches YouTube doco featuring University of Auckland's AI baby"
+    excerpt: "YouTube has premiered a Robert Downey Jr-fronted series, with the first episode focusing on a University of Auckland lab's research project."
+    publishedDateTime: 2019-12-22T11:23:00Z
+    sourceUrl: https://www.msn.com/en-nz/entertainment/story/robert-downey-jr-launches-youtube-doco-featuring-university-of-aucklands-ai-baby/ar-BBYeKAG?li=BBqd5YP
+    type: article
+    provider:
+      name: Radio New Zealand on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.DFED8E7326823BA8C59EA18DF58FBEC9
+        width: 700
+        height: 367
 
 secured: "2yhHf1HOWsSONC/LUiknTJalmzwnhZN2v3InFPDGO3umiinNKEieCZcIdKI+yrBekEUch8rVWE7mFhb5neA/gYNUfcTunV4Q77/WwXqSFjSFKbzXGKhzfTsTeZUr7QzqJnnF/+Zholt2aQIV3Svfa+uY6JADKpDO992qnwhCANNiVhZjJ2+RuMo7kZbNC91av8t51Q9P9eZ+jYuU/GgEC59CfJeVUFnTCEyaY8+uJQnwYXXqPmwkiByDUe6ap6Utt87e6E5+lYm/i31CZ/ENbA==;/0LN/bCGVXuVRh63LE0hnQ=="
 ---

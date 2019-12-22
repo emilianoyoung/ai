@@ -1,32 +1,26 @@
 ---
 category: news
-title: "YouTube's AI docuseries with Robert Downey Jr arrives on December 18th"
-excerpt: "RDJ hosts a deep dive into the transformative tech. If you're going to throw megabucks at a show about AI, you'd better make sure you've got the right host for it -- and most would agree that YouTube's decision to get Robert Downey Jr, aka Iron Man, on board for their multimillion dollar The Age of AI endeavor was a pretty good shout."
-publishedDateTime: 2019-12-12T16:00:00Z
-sourceUrl: https://www.engadget.com/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-ampUrl: https://www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
+title: "Robert Downey Jr launches YouTube doco featuring University of Auckland's AI baby"
+excerpt: "YouTube has premiered a Robert Downey Jr-fronted series, with the first episode focusing on a University of Auckland lab's research project."
+publishedDateTime: 2019-12-22T11:23:00Z
+sourceUrl: https://www.msn.com/en-nz/entertainment/story/robert-downey-jr-launches-youtube-doco-featuring-university-of-aucklands-ai-baby/ar-BBYeKAG?li=BBqd5YP
 type: article
-quality: 87
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Radio New Zealand on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
+  - url: https://www.bing.com/th?id=ON.DFED8E7326823BA8C59EA18DF58FBEC9
     width: 700
     height: 367
-    title: "YouTube's AI docuseries with Robert Downey Jr arrives on December 18th"
+    title: "Robert Downey Jr launches YouTube doco featuring University of Auckland's AI baby"
 
 related:
   - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
@@ -72,6 +66,21 @@ related:
       - url: https://www.bing.com/th?id=ON.21E0D9E4D5F04BB2D5B6B20372B9531C
         width: 700
         height: 350
+  - title: "YouTube's AI docuseries with Robert Downey Jr arrives on December 18th"
+    excerpt: "RDJ hosts a deep dive into the transformative tech. If you're going to throw megabucks at a show about AI, you'd better make sure you've got the right host for it -- and most would agree that YouTube's decision to get Robert Downey Jr, aka Iron Man, on board for their multimillion dollar The Age of AI endeavor was a pretty good shout."
+    publishedDateTime: 2019-12-12T16:00:00Z
+    sourceUrl: https://www.engadget.com/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
+    ampUrl: https://www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
+        width: 700
+        height: 367
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
     excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
     publishedDateTime: 2019-12-20T12:10:00Z
@@ -100,20 +109,7 @@ related:
       - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
         width: 700
         height: 393
-  - title: "Robert Downey Jr launches YouTube doco featuring University of Auckland's AI baby"
-    excerpt: "YouTube has premiered a Robert Downey Jr-fronted series, with the first episode focusing on a University of Auckland lab's research project."
-    publishedDateTime: 2019-12-22T11:23:00Z
-    sourceUrl: https://www.msn.com/en-nz/entertainment/story/robert-downey-jr-launches-youtube-doco-featuring-university-of-aucklands-ai-baby/ar-BBYeKAG?li=BBqd5YP
-    type: article
-    provider:
-      name: Radio New Zealand on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.DFED8E7326823BA8C59EA18DF58FBEC9
-        width: 700
-        height: 367
 
-secured: "tSPnxd2NBK7QaOeTkuM2xF8Z0pZkENQDOjOXuliLEzCjwzXrnLAVdofL2IHdpb8mx0/4MKIvuhYlqxHCCgsMMHoc4yVR1uTVfLXGnLjaowHQyeh9ICSnCyDSzpjHLLAu7PyG0QZYpyRsDxwwaeGenbLaXn0VZwZdTHZWHdsd22H8u7nk780T9GJNdmOn/GSFDmeCx4m2wgym2s7gxacPscofQQRWKbdzXkpiofdnx6rjbNuKQi4M5g+TPPURCS6IF7fM9lX3T3WEjlqmG8ZUTA==;MXc6z23I2gO6mcaTpBLiPw=="
+secured: "m7TY3hR0++ODdIcpp+SekSiDj9LkZiFo1nVYbA6GtffyI27Z6dTctFiyCDGH3POco3O7AcviUnAg/spteQOBESG2dmLwysPGuunzykBszVHrdOJQsJQf5xA+pBaQMFqhmzYUPhAZEtlEaQNGLDnCNpYpYfTOTyghXrKwNCJzsGI5bQGkOq2IHZVHSuL6S5vBZ/OmoOglxgyZj4HO31815eYQ3vmd46AH3cRv0/Fe/TZZOtLma9BnFK0kWhwYt7IMtSOO+Ud8+S68SER3H4993w==;6mzRTFmvO5Afl/qnj3Vvpg=="
 ---
 

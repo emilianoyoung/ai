@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
   - title: "GBT Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "The new architectures are various combinations of matrix, vector and scalar styles designed for AI GPU chips, which can be used in a wide variety of applications. The new concepts will be based on the Company's recent filed patent, which seeks to protect 3D multi-planner microchip technologies. The goal is to enable the design of 3D multi ..."
-    publishedDateTime: 2019-12-02T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/gbt-seeks-to-develop-new-microchip-architectures-aimed-at-expanding-ai-market-opportunities-1028729454
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "GBT Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
     excerpt: "AI, for both mobile and fixed solutions, announced new microchip architectures aimed at expanding GBT’s AI go-to-market strategy. The new architectures, now in development, are targeted to leverage world-class, on-chip AI technologies for the benefit of IC design houses. GBT is focusing on advanced manufacturing processes for the creation of ..."
     publishedDateTime: 2019-12-03T00:29:00Z
     sourceUrl: https://finance.yahoo.com/news/gbt-seeks-develop-microchip-architectures-120010360.html
