@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-robots-at-heathrow-airport.html
 type: article
 quality: 104
-heat: 125
+heat: 124
 published: true
 
 provider:

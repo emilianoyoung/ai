@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
-excerpt: "A New Market Study, titled \"Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. A New Market Study, titled “Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges” has been featured on WiseGuyReports. This report provides in depth study ..."
-publishedDateTime: 2019-12-19T08:45:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab15015887/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities
-ampUrl: https://amp.benzinga.com/amp/content/15015887
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15015887
+excerpt: "A New Market Study, titled &ldquo;Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges&rdquo; has been featured on WiseGuyReports. This report provides in depth study of &ldquo;Artificial Intelligence Software Market&rdquo; using SWOT analysis i.e. Strength, Weakness, Opportunities and Threat to the organization."
+publishedDateTime: 2019-12-19T08:49:00Z
+sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities-forecast-to-2024-2019-12-19
 type: article
-quality: 14
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
 
 related:
   - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
@@ -520,6 +528,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "nQk0ijwY0GBwbI3nVuej7TlNOT2y2WEPDF+Isk/JK1GoU9T358htbFhQKAOZe91j4ILdb6WbMJUd01INo+e0j2xtYUA3xT0m/Ns9uIUAC7dCukfRAQaqHjPj1EUw83zSNJktTbmjj1tbKMjXWID1C5b/CYP47IMJM/FX0n8OnJ+44RTKea/nVeiglbi9caZi7hWT4kHjZTl7raXVlrV5pkwQBIh6o9LDrdwPMmwe8BT5UTFvnrcdcRyzTwyjtj9Mfk/jhGyZlD7nMsbFrjhFbQ==;EeJ6ywBkhVVpvAu0CqnJ/w=="
+secured: "DERhjD43b45oJDTKBpjt/OPMlB35Kc2r85bHbDda6pFRJJVsgoKTCT6f+mMVb4A19EVr9RUf2ym6AxvIvFkFuk4Y620HT4TSmIGEiDtiTuhIhjEgK3c9fi3uM0pbH0KeannBK5204xGYoB/WV0rho7C/AqW3MDG6jrRPOAKpx2Gzri9x5gXhiFcxNM8wq+SYheQxGl/TQ6hq6lt1h4HHPsJ4mwbgcpmeVKtmNdr25jJY+IgykIg1PpuebA/QT9XFEu7SVjeN6ERW1RyEEBXRGA==;wQPbX751ZA3VH4zH/Y5OTw=="
 ---
 

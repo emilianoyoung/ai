@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunothe
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,23 @@ images:
     height: 1199
     title: "Using artificial intelligence to determine whether immunotherapy is working"
 
-secured: "n3TvxSVv5BCpLgXioAr65uIP+wojJQuGIaCpx2JDQU68Cp0CdqQLcAgH6N1OOOm88OZD0UypCgZvtlYEVOlWwAODUaXhALglquLBRHXxIhhnyIU9Ph+daStw8vQhu5yNf2NcvdzQCUBGKo0c5MxP4fUiH25aIDQIPXzc9Jslf/56meMR7u9djRb2Z192mlwHklueNIV2GjwHlWoQyKAmlYDSsyAZmAC8OjgEMXBZ566j7AaX2UrQNfgI1rz5oXdcmPx/Q12knmdCSNTexQIVBA==;XWY6Yz5VL/qqz0C81AinlQ=="
+related:
+  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
+    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
+    publishedDateTime: 2019-11-25T05:10:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 71
+    images:
+      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
+        width: 675
+        height: 365
+
+secured: "vrgTgt3TO+OENf4n2UmBbJv0i1YskvSKyR1B6NKsufJh74ZCJ5X4gRjv1XGYnoQZPwx2DIZ0qSklSb3b1b/sAR06mP0MUYl67Q1FxXbTh4BFvsJ904PvKX6siQSHDvtDCZHmPftb/tc2iMHXfg+alWSCOkDW88Q5JxLcOONMxq94Gavh1uzNCVDhdrqe+BI56FihRW6nPBvqx8hjm0aDaNWD0EgBBiZ19GmPf4JHNU5m+ueQBpJa22oFeGmnb5ua3yXd+f+hgVnATYRd1iL/CQ==;B/4ZAY0FwdzZcHuIxt3tvw=="
 ---
 

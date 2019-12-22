@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzz
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzzwords-to-solutions/amp/
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 350
     title: "2020 will see AI move from buzzwords to solutions"
 
-secured: "8z9jDtTWYXG2SKI8/7jTbmmRVGCUXlsboavDNOJFPvgWifkjSA9JFaiIpNW1jjZn1U9kvnzqSElE27HaMejAMdSbX8XFwrGBp5F3g87lzHhKJvoyIyNkRh6zprF/AVJITTn7+AdYfjNw6cnLPRNsEvJs0RejymzoR0rX75V5wi/hKU4bgJmtOtZmqTv8f5MhP149fOhuDDxE93RXJ/RfZbMPH4QP3r7hOFiRQ5+szDulv+b4afEPG6wQIwI5yy4v2fX5zFwSzPqaklaIqncAGg==;i4+u8M5Z6Yd+yjDEm7zQ3g=="
+secured: "XTQ4p4riCG8rj5kngpm0ZFUOirsDm114Kkkpo55VyjMXbx9Alt6DA9wYD2J7uzjEJWBDwoWljm74noLKcgzesatEmb7tizek85W1PPMlLUGEE1ytN6pYc3d1HzHNokbmxJDnszKtuZjU2AfDJhGoLYYQrYTCDUzb3sZhmMo4FxEch2+MLnBFMBGK/+Dc1h52SGFwr4y2/+CWeB2MALYkE03Z4eMw59C82h8XWoajVppVerG2QveUZALEq8tdmQShQcIeY/+SLqvQyix8vFN3oQ==;IEdTtX0ltKcRuu5a4N0C8g=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T22:52:00Z
 sourceUrl: https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/
 type: article
 quality: 64
-heat: 66
+heat: 64
 published: true
 
 provider:

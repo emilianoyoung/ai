@@ -8,7 +8,7 @@ ampUrl: https://www.entrepreneur.com/amphtml/344167
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344167
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 466
     title: "This Fintech App Has 10 Million-Plus Downloads Within A Year Of Launch"
 
-secured: "cZkWwuIqm0q/OKFBsQKDwzJTLqQu/0zwbg3106U7wLANX7zBAisT8hHQzrkux6VqGhRPQf+dQDjuhYQKlMVbJlzKq7EN6GmzRRZR1/zqaZrm9g70Cc6ou9FpnP/024UtWTqt91QfMB/VEM+stdiWPSMez/LVugF1v/QnuQ3KeF3Lf8lQro2RFwVoyQ86jUTjAJp6lmNcPi5cxWx7lQIBOV/H7JJpZlJhw/nsfjN5wkCD77ip0c/dtsbtghJVT6rNov2nLSr9pRM6Y+jfDxjfEA==;t46X3GwEhY3CueLXd+xdBQ=="
+secured: "KnfRRBFi8Eb39PvzpJIXN8+WXeVYV7uuXbH+gca3+v8kbOzPMl2dNKnE9QzX9eWxE4Meq1As5l86H5FQ7CpDlRqzgwmpIBUXtTbX1CilSPlR0Exdx8Fcs/+kGsJCa7j67qJLm9U+GqyRBi7YF8iKB87Ku0e59fo1yGgKfcBgorP0aP3/DPsv+SJit+1KTsH6FyUjyj9EjmY4A7ffEudjezdwtmzdJJv5dsEsc/z14NuNnCbJbKGRU2S5U+V9UphMssXWqLqZ3TXOJhXhJt8tFA==;32dcCuN5WNbAp5X80RVXEA=="
 ---
 

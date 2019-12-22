@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Self-driving cars: Hype-filled decade ends soberly"
-excerpt: "A few years ago, Google's self-driving unit Waymo \"seemed remarkably confident. I thought maybe they knew something that I didn't,\" said Pedro Domingos, a professor at the University of Washington who researches artificial intelligence. \"But I'm starting to think, actually, they don't know something I know.\" Domingos is among those who believe ..."
-publishedDateTime: 2019-12-18T20:38:00Z
-sourceUrl: https://www.channel3000.com/news/automotive/selfdriving-cars-hypefilled-decade-ends-soberly/1152527623
+title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
+excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
+publishedDateTime: 2019-12-21T21:51:00Z
+sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
 type: article
-quality: 24
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://static.lakana.com/mmm-global-us-east-1/photo/2018/03/21/uber%20self-driving%20car.jpg_39749904_ver1.0_1280_720.jpg
-    width: 1280
-    height: 720
-    title: "Self-driving cars: Hype-filled decade ends soberly"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -357,6 +351,19 @@ related:
       - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
         width: 800
         height: 600
+  - title: "Self-driving cars: Hype-filled decade ends soberly"
+    excerpt: "A few years ago, Google's self-driving unit Waymo \"seemed remarkably confident. I thought maybe they knew something that I didn't,\" said Pedro Domingos, a professor at the University of Washington who researches artificial intelligence. \"But I'm starting to think, actually, they don't know something I know.\" Domingos is among those who believe ..."
+    publishedDateTime: 2019-12-18T20:38:00Z
+    sourceUrl: https://www.channel3000.com/news/automotive/selfdriving-cars-hypefilled-decade-ends-soberly/1152527623
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 24
+    images:
+      - url: https://static.lakana.com/mmm-global-us-east-1/photo/2018/03/21/uber%20self-driving%20car.jpg_39749904_ver1.0_1280_720.jpg
+        width: 1280
+        height: 720
   - title: "BYU offers 'crash course' in self-driving car technology"
     excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
     publishedDateTime: 2019-12-19T16:47:00Z
@@ -418,16 +425,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
-  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
-    publishedDateTime: 2019-12-21T21:51:00Z
-    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 0
 
-secured: "t6s+Swjt1G+wXzuux5c5L+WbA7nPl1u0oqrPrSnQ09br+wAKElz0x1f/9a2frXPdTXTvj6PHiE/f5Korb0+Kc1vAGq9oRSdk6HTSxn0r6yhYkRUMgPzmNx3RNT1i9c9uHxyJmdlTF2KyUUEWHmzke5PA8sxT8htwk0LFjjzRUIlTlqAR1kymbxIfrU9NrW/3fYdu4BCKjT1DZeBCX7uddIDL4uGohyEByLcAK7VVXbOVKgIpbTMmTElMFpHpXzoatSRRgLDrMiLMi5aUvRPGbw==;Tn/o9Bs1fqtzMGIdfCEAog=="
+secured: "zepWECzW3eYBFy+pp+kjKYu1U66vi9/YvwXdE091bCa04cbef7DGskKP6uVaHUDfQc7oJyAq2IjDuQMRAu6TU3WNnLRnkKzSG4lmmshs1PtEk4Zmpb/O7+GZbHHMafJcFLCWETqJdhg5rriAkzD0oxIX18ler9V+8Xx3lcjnPnzSGv6sYX/WfPwIoNzhIwWHu+KocgTTu9ixB3bZTKxgofLDjkigwvhVpiyDucj8b9SjaD3K2R2/MexE/x3LTVpPLntu+eJfqqgc9Gt1ihdHSQ==;7puo/ssj/A1N9CsIuw4rfA=="
 ---
 

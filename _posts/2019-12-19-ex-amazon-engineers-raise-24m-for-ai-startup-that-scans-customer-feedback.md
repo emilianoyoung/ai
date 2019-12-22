@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/ex-amazon-engineers-raise-2-4m-ai-startup-scans-customer-feedback/amp/
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

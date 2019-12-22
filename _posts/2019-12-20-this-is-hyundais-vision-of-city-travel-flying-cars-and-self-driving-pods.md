@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
 type: article
 quality: 87
-heat: 367
+heat: 377
 published: true
 
 provider:
@@ -421,6 +421,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 0
+  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
+    publishedDateTime: 2019-12-21T21:51:00Z
+    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
     quality: 0
 
 secured: "kFsza4euBLmTxS9gbMHK4mBD7dof6kV5Ibyu1+6t8CMpPZ7uMKbarsIRerGWvFfyyFewVMud+iix/BfntQ2BKFenhYwfg6S22CeevAQ/T8BSlGz8pKun64WewG8qnnvfp+t0YNRuGiUd9Es08aUSWPev97rTTLIFtme6crJu7l09IBmYxuu3t4ZufGn3eZT5OG8fDd+6BVxmAww5pQoD09zTB/8vN6dVYrj1q3Y3pe7LahFLaKntEu5Z+dpwe56iAVYvlkv1tYV50hwoADSDtw==;zt7BozbwdaRrHDwNWjhW1w=="

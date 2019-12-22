@@ -377,6 +377,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
+    excerpt: "A New Market Study, titled &ldquo;Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges&rdquo; has been featured on WiseGuyReports. This report provides in depth study of &ldquo;Artificial Intelligence Software Market&rdquo; using SWOT analysis i.e. Strength, Weakness, Opportunities and Threat to the organization."
+    publishedDateTime: 2019-12-19T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities-forecast-to-2024-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Security Market 2019 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
     excerpt: "The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period. Browse Full Report Here: https://www.marketresearchengine.com/artificial-intelligence-in-security-market The Artificial Intelligence in Security Market is segmented on the lines of its application ..."
     publishedDateTime: 2019-12-11T04:56:00Z
@@ -506,17 +519,6 @@ related:
       - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
         width: 300
         height: 300
-  - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
-    excerpt: "A New Market Study, titled \"Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges\" has been featured on WiseGuyReports. A New Market Study, titled “Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges” has been featured on WiseGuyReports. This report provides in depth study ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab15015887/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities
-    ampUrl: https://amp.benzinga.com/amp/content/15015887
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15015887
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
   - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
     excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
     publishedDateTime: 2019-12-18T12:39:00Z

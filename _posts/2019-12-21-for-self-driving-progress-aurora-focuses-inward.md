@@ -418,6 +418,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
+    publishedDateTime: 2019-12-21T21:51:00Z
+    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 0
 
 secured: "lb2EiSUd+p9xzBCrJKay7+6+Z+iK4ldZ6JwnZEbL83hids1DjP7rzMpZ3VUacfLcR7A/Fvab6oiBLPyewoCKq8CrvvH74OBAeUxqz3VEb4zJYLQx3NLVezb8EMW0NoW7jqO9UWEhAnnmFgTSxnoSmAmlvrJh7Qpuphk0ywebt+4EgUu0264xWgSKyRBGAI+2DvuCy2m7KoaEAbuGmznVdeTngYfrKL5AJS6hlvzvs6XHWvSDZpPQWJ0ajwaLRf2JNmV94Pc+Ai26EwY2hPslFw==;HgPMxNc1l1921TBJQT2T4Q=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-astronauts-stay-healthy-in-space/amp/
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         width: 700
         height: 394
 
-secured: "71mY4UAcr3r4i7L3OCt3w8mH1aQvF9ie8gpGZOvMa+ByfZ5OPZmm6BvzGfBYkltvW61xP2PFCRaKrcOIzA6HrWCdad0BAuu1S23uIYL3xwh7as/1zs3QcONqHj6sbmvWjDUotwgI30oqppfAK4JB1zDSPR0XWown7zL9fQ3ObapAPV0upkqil3g9JpW6O1nCPaA4aHP2j+wBeXcpgQ5LXhVhrwfPHKqD0gHke85SMlruSGlfh5gh+1HxNKR3+6zNnrzTT0H9COW4fsip4JDeEQ==;T+sPEyD1yzVTkjSYC9Ei8g=="
+secured: "59py22uwPSgPru6l5ZRLwWjezI6dxydxs2zSuVz3lgFBynISDQVPkPDmztwgseuVGc1hs8vXMQ2/kdWaYv9PAVa8f8cYGj52QNHuRr3PCFHftjKUN4EFbEr6Rm2DmLg/d22rV0982WoY8CmrNIKnIWzXPQ0jXTs64qbk5BVslyIA2OjTBKKWL73TT3s5UTNU49Usj5VPHMPRHcBvszva302VrS4rlJqtEPP+zIQt97Wb4OI4nnk2MdwnMisl+OLPL/gU5zENoZVikiiQM2GAEw==;DKytqh1fRv+czrk/GS9+dA=="
 ---
 
