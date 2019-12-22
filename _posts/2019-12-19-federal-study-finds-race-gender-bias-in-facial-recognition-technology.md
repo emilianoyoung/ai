@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Federal study finds race, gender bias in facial recognition technology"
-excerpt: "Federal study finds race, gender bias in facial recognition technology A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. Check out this story on Freep.com: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race ..."
-publishedDateTime: 2019-12-19T23:56:00Z
-sourceUrl: https://www.freep.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-ampUrl: https://amp.freep.com/amp/2704291001
-cdnAmpUrl: https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/2704291001
+excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face ..."
+publishedDateTime: 2019-12-19T23:50:00Z
+sourceUrl: https://www.jsonline.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+ampUrl: https://amp.jsonline.com/amp/2704291001
+cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2704291001
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI
@@ -1365,6 +1365,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
+    publishedDateTime: 2019-12-22T21:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfAZn
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
+        width: 700
+        height: 367
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1742,6 +1755,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "5Mx59+AhRvdIDfyypUQ4TSulUedtkURvxFgVsmfSAQiHDnil4HnhazjHfL0sTBDdqwxza/5sUpyZMzxGltnUHBe+1cvWxG6NzYiHfao9CtLvu8eLMLDAx8Q9hIg5MnHMcvDixWRXIqK5AhpTbt36hNO/ggT3KffLkVo42JcIRMKMUdBatWj3vxF0YIeUK/trocYcMhqx9Xaz8NFsbfBvU1MErYSPizX7yKheYFhd3dvC7ivB/TSMKy+Tbml2kgLT+GKITYjB9UiNRAiTTvclvQ==;yyqau5iIwRXKI1994+/zXQ=="
+secured: "YVsG2XQ32g9O3BrqNcqpLRcs/1YEaJMXbydbDBeVQHmi8OwVSxlcA+wNQ3aojruKleTL+eRmhHzbbzjGxHFdYQgTUBG6aEv4Lp/3y+iw5iY+FApRpDFfbVQqNCfVcQvsEnvlBs3B5nvEltVmH425PXHOa71vnt9Co4iT39bLzolW0QLnh9o1sSPs2SeSJ4j56FvH7T37y8EUEpceX+CZj+PoDLfVu9rRtz3pZBCeW50Y0AlpKn2ofsbrBdoYCAT6S2i9QVDD6CrSqkDYxRtpgw==;NhGQQA3qHUhg3xZvzeMgmw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Researchers bypass airport and payment facial recognition systems using masks"
-excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
-publishedDateTime: 2019-12-16T11:35:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2SlE
+title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
+publishedDateTime: 2019-12-22T21:34:00Z
+sourceUrl: https://www.msn.com/en-gb/news/offbeat/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfAZn
 type: article
-quality: 51
+quality: 39
 heat: -1
 published: false
 
@@ -18,10 +18,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
+  - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
     width: 700
     height: 367
-    title: "Researchers bypass airport and payment facial recognition systems using masks"
+    title: "San Francisco loosens facial recognition ban to allow newer iPhones"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -893,6 +893,19 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 53
+  - title: "Researchers bypass airport and payment facial recognition systems using masks"
+    excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
+    publishedDateTime: 2019-12-16T11:35:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2SlE
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
+        width: 700
+        height: 367
   - title: "Brookline bans facial recognition technology, becomes second municipality in Mass. to do so"
     excerpt: "Town Meeting voted 178-8 to ban the technology, according to WGBH. Somerville’s city council passed an ordinance in June banning the use of the facial recognition software, becoming the second known U.S. city to do so, after San Francisco. In a statement, Kade Crockford, director of the Technology for Liberty Program at the ACLU of ..."
     publishedDateTime: 2019-12-12T16:39:00Z
@@ -1367,19 +1380,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
-    publishedDateTime: 2019-12-22T21:34:00Z
-    sourceUrl: https://www.msn.com/en-gb/news/offbeat/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfAZn
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
-        width: 700
-        height: 367
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1757,6 +1757,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "0aWrGfsQ5g9s1BnWjx5pnxjzCJWTLRQlK7spAGwTz6f3a9uXvsSSqT+HRwv/DjKhQFw00CMn/SMqlhhbKuLHq5oMYlRhD0QGSsl7eaF1RUacgnVBYsmfhVdaORzSSw7IqzxZtVyrl0lSSULUq1HUabrMiFx1E8JCTeJU4t8VRY455vVcCgCF0YTbZITru1Vlqar/fVPPBxwIjzcVVWw6sAhKPL8nEpKsEsfw9xP4nJzb1pIMorJA7g2lM+IFNCFrJIpvaWAn8SGEqZ4b6Xm8Xw==;gi4CcHZmhXKAjD4eihOK/Q=="
+secured: "uQH0Icgw0+5BpjwBb6GAcBDmAinD7MOXmLQV5awW8YPvC0mfJJC4cT3rj3vynsDPAxzePsbYnDLUrwflxAZWJpjw3JAPxUoNLOF+uKc/tayDmhC4z+ZXML8HdqnV7TqfqPAYp4kqWBqCIVNoZ+YieCLKrbuphbTbuMp2sGZaO1ljCAk0bQvtdjitSkdVTWv3D9M0wMBF3Vzh8byvTaKOvWNidB5EYo4jtXMIqW3tUNPLEWmeS6xV5isuGEADOIGTFAOsP/wAZrlAgab/XHt4ng==;55R9qsH7m16Yn8d+eUZfHA=="
 ---
 
