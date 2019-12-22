@@ -1,46 +1,44 @@
 ---
 category: news
-title: "How Artificial Intelligence is taking over the world"
-excerpt: "Artificial Intelligence is everywhere. It would be impossible to go your entire life without using artificial intelligence. The software in your smartphones, ATMs, Cars and Robots, its all intelligence. So what is this artificial intelligence, according to the internet of things the AI is a field of computer science that attempts to stimulate ..."
-publishedDateTime: 2019-12-04T09:38:00Z
-sourceUrl: https://www.standardmedia.co.ke/ureport/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
-ampUrl: https://www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
-cdnAmpUrl: https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
+title: "How Is Artificial Intelligence Changing Web Hosting?"
+excerpt: "The potential applications for AI are limitless and can be applied to every industry. Health care, education, and retail are some of the sectors that benefit from the adoption of AI. Artificial Intelligence brings several key benefits to the web hosting industry. Security is always a major concern in any industry. With the prevalence of cyber ..."
+publishedDateTime: 2019-12-02T06:28:00Z
+sourceUrl: https://www.hostreview.com/blog/191202-how-is-artificial-intelligence-changing-web-hosting
 type: article
-quality: 63
-heat: 103
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: The Standard Digital
-  domain: standardmedia.co.ke
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - AI
-  - AI in Robotics
-  - AI in Autos
   - AI in Healthcare
 
 images:
-  - url: http://www.standardmedia.co.ke/ureport-uploads/FILE-1575369658.jpeg
-    width: 800
-    height: 500
-    title: "How Artificial Intelligence is taking over the world"
+  - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
+    width: 400
+    height: 400
+    title: "How Is Artificial Intelligence Changing Web Hosting?"
 
 related:
-  - title: "How Is Artificial Intelligence Changing Web Hosting?"
-    excerpt: "The potential applications for AI are limitless and can be applied to every industry. Health care, education, and retail are some of the sectors that benefit from the adoption of AI. Artificial Intelligence brings several key benefits to the web hosting industry. Security is always a major concern in any industry. With the prevalence of cyber ..."
-    publishedDateTime: 2019-12-02T06:28:00Z
-    sourceUrl: https://www.hostreview.com/blog/191202-how-is-artificial-intelligence-changing-web-hosting
+  - title: "How Artificial Intelligence is taking over the world"
+    excerpt: "Artificial Intelligence is everywhere. It would be impossible to go your entire life without using artificial intelligence. The software in your smartphones, ATMs, Cars and Robots, its all intelligence. So what is this artificial intelligence, according to the internet of things the AI is a field of computer science that attempts to stimulate ..."
+    publishedDateTime: 2019-12-04T09:38:00Z
+    sourceUrl: https://www.standardmedia.co.ke/ureport/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
+    ampUrl: https://www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
+    cdnAmpUrl: https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
     type: article
     provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 39
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 63
     images:
-      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
-        width: 400
-        height: 400
+      - url: http://www.standardmedia.co.ke/ureport-uploads/FILE-1575369658.jpeg
+        width: 800
+        height: 500
   - title: "Israel plans to become world leader in artificial intelligence"
     excerpt: "Israel is in the process of making a national plan to become one of the most advanced countries in the field of artificial intelligence (AI), experts said ... One of the issues is the programming of self-driving cars, due to the ability of the AI system on th cars to predict the consequences of inevitable car accidents."
     publishedDateTime: 2019-12-03T05:51:00Z
@@ -77,6 +75,6 @@ related:
       domain: finextra.com
     quality: 17
 
-secured: "GsYz8I5x8hPujijBVgpkZnTex98pcIBgaXYd7p0ESqELB39u4HiH87QnnOOPk5Y9yfRXEbNCqOekwqXG94KxsdM558wTZsyvAv4egFe71nKKE6n2voi8rzgX4u2zOqUM+lksSgpGfmixj54oym7LWYm5/rKzR149S2zs0rBFSvY8bKKo0cdZic/rNibt7IITYiHw0MCYHQngszUZuES5ODdj+WKEub9y6RWpfEvdP5ymQBAtgkR1dnOX2+ORz+sylKKs6TrhLOwqkcrnB/NtDA==;iM6C6p/6GrECASvZFLVlZA=="
+secured: "RMd91JWROJwvW+1YV7/YzrChScuvBeb9KiyT6sAl3Yc0MwlbBq1sft02XAoPVF5xFn8cdU419+bhU0sgjyxY1Nw6Ftg8c+8CooQ+aUP4JExhv8yIP6QjN7DOvH+TbNmft0cpJhQ/SV2XmRxgLFAZ8gpOxOyUG+MotghEtl0x9o/4rOm05cyi7Zq4UtbyRCTdWHhnIZ+wIyEeVA2f7wQNt4wbjL2MfHvmraoeCoawUNHVEeDBH+JKW4Ri2Ug/xNVN7i6YWPoF0rFGEQc/t8e9UA==;RgbZJzZauy9TB/EkLpXszQ=="
 ---
 

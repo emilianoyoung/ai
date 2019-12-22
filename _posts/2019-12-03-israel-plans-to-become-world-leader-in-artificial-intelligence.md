@@ -39,6 +39,19 @@ related:
       - url: http://www.standardmedia.co.ke/ureport-uploads/FILE-1575369658.jpeg
         width: 800
         height: 500
+  - title: "How Is Artificial Intelligence Changing Web Hosting?"
+    excerpt: "The potential applications for AI are limitless and can be applied to every industry. Health care, education, and retail are some of the sectors that benefit from the adoption of AI. Artificial Intelligence brings several key benefits to the web hosting industry. Security is always a major concern in any industry. With the prevalence of cyber ..."
+    publishedDateTime: 2019-12-02T06:28:00Z
+    sourceUrl: https://www.hostreview.com/blog/191202-how-is-artificial-intelligence-changing-web-hosting
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 39
+    images:
+      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
+        width: 400
+        height: 400
   - title: "52 ideas that changed the world: 26. Artificial intelligence"
     excerpt: "AI is currently used for understanding human speech, competing in game systems such as chess and go, self-driving cars and interpreting complex data. Some people are wary of the rise of artificial intelligence, with the New Yorker highlighting that “a number of scientists and engineers fear that, once we build an artificial intelligence ..."
     publishedDateTime: 2019-12-06T14:47:00Z
@@ -52,6 +65,15 @@ related:
       - url: https://www.bing.com/th?id=ON.0E18AE728B6EBD4F08975927CDFF391F
         width: 700
         height: 394
+  - title: "How Artificial Intelligence Is Changing Accounting"
+    excerpt: "Among the many fields that have been impacted by artificial intelligence, accounting is showing strong signs that it could be one of the most important boiling points for the development of this technology. We’ve already seen various positive impacts on the accounting market thanks to advances in AI, and there are many reasons to believe that ..."
+    publishedDateTime: 2019-12-04T15:01:00Z
+    sourceUrl: https://www.finextra.com/blogposting/18220/how-artificial-intelligence-is-changing-accounting
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "vps0VAonOVrBsFuT80bNof9c9l5b0bRgn40yAXvY+kYnd8wQlUAGRA5SnddDTawdeiTTyGJYcloTkJrp4fUv0aiS5ISGcaW8+wnPoxAWzDO3lzcTrABwFZSEGndLaftjDA2L4YcePEtSNX+0YHMrrz7/ihGqayxMvgWFkCwHQivrUB3w3ujXWKNRypL3fFakr4/akD+S1NRiWdi4IBNbQnfg69FH2Y4XpGkKa9zbCbf8ttHZJzv4JxsUV4OiCK49XongRsbYiF6/tS0xTac55w==;0kUUqj+klrDESicpTML4ag=="
 ---

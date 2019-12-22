@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/21/ai-has-a-privacy-problem-but-these-te
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/21/ai-has-a-privacy-problem-but-these-techniques-could-fix-it/amp/
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 350
     title: "AI has a privacy problem, but these techniques could fix it"
 
-secured: "6xJoHJHzdh5HleXjcoRTM4KDnXURxjfGFTnSSG0aET78IVhNO6Lt4upkbX8qQ+FIQV/TGGu4PL41RZvX7QjcAIXomlVh609yT3hkbgMXnELxu4bHEysI9qQTG4P7ncsR4EWfxwi9wD+gt7jFyM4a7mzvz5hBsqB5uY0CuhIYG66NEc5qrSdc8qP92DTGDQQLglq1kPbSK6XpmLInTYoMoq1y2D03EMp/4/utZIlVumDhFV/tP6ZXZKrkImEvmwXXpk26VdIO37R1m37E4SgrKQ==;DduizVEnZCE4OrJsT/3D9g=="
+secured: "aYOL/3xaIhdsbuWF30RWXJVsZlxQBZmLH+ScegxVSfkujFVGNE3/prleD6gck4Lr+Pagu1UEC1veqZzAphDgwfx3q7QhU07CdVX1FPTS5okXUQHsCJEK+CUas5N98rmDPURVs66iO1lqGlA2Vx3RF8JG3B6Hj4n4cx/A8ijLqVR4kbAQjhzmENrj+sJjloMg0AIifffNu1f+b/YZdGbKe0As1T4RsBO/Zm+BtGws+aFSdJNtNC+++j+MRQCGta3fVB4RBPKX6jrw+SjaMZSoGw==;RpIRaLbSPUjR82JULvbPgQ=="
 ---
 

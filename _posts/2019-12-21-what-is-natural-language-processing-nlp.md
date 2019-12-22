@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 393
     title: "What is Natural Language Processing (NLP)?"
 
-secured: "E01JCbmQ2VOMB8OKNlJuVQoIg4Kvh5x/6JehYf7ppfcGQugskPwQatOwcqu0FKlD8dAMfeQzXgMdVrqZEGI1UpVYJeGAGNUNXjP9jdw5QM/hTNiAL2H2pPAHaWh0DcVNgN1Hst/hzpaoToG3tBciqYh43SsHwEC+Xco1ZKTPzcHE+3qkw3hfFJ4kdgi4Yx1Lu7D6E1ZxhER5Er4dD9+ksQ4qbQv5spB5KPB/nl7NaaGHepwvSBadHJaBzeA/u7Pq46MioTbpEHIQ5vgiY4Y8lg==;usQPFoh8wgrrNSjcOV/m+w=="
+secured: "IF1dcDiGSkI1HjFCOBai3wj7n1wZZcnAtJZhpcTRApyT+cSdCjRq0uYFF/AarY5/lZV8NRpOILpRpAqY7JWfBvIvjuc/gwlFI5j3fE2dziH7bV5WwefH6WdGe/UGCb2Rk8dhWtIHN9ZqeFPp1MwXUHiAiFKTnaQb+MPGW7qE5Jehf43JoR4mULOjbQZYtixJz4ivj7MzPC4DLxj3so7DGCNITInH8E0ttH88ysLeeuzYKYDY9PQi9q1y1NWo7oTLjq8YLEhqNw71y0FzRc1iYQ==;EI6c4cyLBW4DQ6NFtQ5rug=="
 ---
 

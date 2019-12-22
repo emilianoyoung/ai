@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3B1D4F80254943F732EE275362963B28
         width: 529
         height: 400
-  - title: "China brings in mandatory facial recognition for mobile phone users"
-    excerpt: "All mobile phone users in China registering new SIM cards must submit to facial recognition scans, according to a new rule that went into effect across the country on Sunday. The guidelines, first issued in September, require telecoms companies to deploy “artificial intelligence and other technical methods” to check the identities of people ..."
-    publishedDateTime: 2019-12-02T05:55:00Z
-    sourceUrl: https://www.theguardian.com/world/2019/dec/02/china-brings-in-mandatory-facial-recognition-for-mobile-phone-users
-    ampUrl: https://amp.theguardian.com/world/2019/dec/02/china-brings-in-mandatory-facial-recognition-for-mobile-phone-users
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2019/dec/02/china-brings-in-mandatory-facial-recognition-for-mobile-phone-users
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 159
-    images:
-      - url: https://www.bing.com/th?id=ON.63FB934401A138E33FD0E91050B3CAB9
-        width: 700
-        height: 367
   - title: "After criticism, Homeland Security drops plans to expand airport face recognition scans to US citizens"
     excerpt: "Homeland Security has confirmed it will not expand face recognition scans to U.S. citizens arriving and departing the country, days after it emerged ... that it had no plans to expand the face recognition checks to Americans. Currently, U.S. citizens are allowed to opt-out of face recognition scans at the airport, but foreign nationals and ..."
     publishedDateTime: 2019-12-06T12:35:00Z

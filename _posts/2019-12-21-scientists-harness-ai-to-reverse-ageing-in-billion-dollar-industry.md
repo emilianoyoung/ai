@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Scientists harness AI to reverse ageing in billion-dollar industry"
-excerpt: "Who wants to live forever? Until recently, the quest to slow ageing or even reverse it was the stuff of legends – or scams. But, today, an evidence-based race to delay or prevent ageing is energising scientists worldwide."
-publishedDateTime: 2019-12-21T06:02:41Z
-sourceUrl: https://www.msn.com/en-gb/news/uknews/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry/ar-BBYdB4l
+excerpt: "Race on to find proven ways to help people live longer, healthier lives"
+publishedDateTime: 2019-12-21T06:00:38Z
+sourceUrl: https://www.msn.com/en-us/news/technology/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry/ar-BBYdz76
 type: article
 quality: 37
 heat: 37
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.EDB1B6F0F2AC3934D240973DABA77A83
+  - url: https://www.bing.com/th?id=ON.ACB85E7B5FB34BC353E57E2EE6A7036F
     width: 700
     height: 367
     title: "Scientists harness AI to reverse ageing in billion-dollar industry"
 
-secured: "Ag7yMzNIbwGGnJC1E6h6J0eyOKhjAuLfHfNfDgsFeCrS9wAg848N/yXjDhCHQfVpMY4mSyTiN/pr4prIZlKryzVYv3QhAJt8CixMdMZ+bFQmDfSVsyBFB8NkWma9U5O8Dvlw+Wk9LsNNC+M4wbb5/zZEFxmHXcSfeel2EadViqCUi4btp66JS6r4b7mVER3kvLdeArxpGs+l0QSvFKHWjReGn6LsAK+Q2X3tIqNP5wK/v4MJUSfGF4jkkqza6+dm4Mzeut9ev61ViImlkWf5WQ==;yC2aW8e4aGJmvqr9WiryMw=="
+secured: "l4SJG47LLasK9HOSyxGuaLxBaZ+/a2o1jXdUODOU5pC61+vUXxDv+jOsEd5/nDJ591Pe51xldaJKLVq6qmE0uvlewHI2nsmDz/aWkCwAvm1ScIKUmHHqwfC8y1b6kUM/iV77//pNCLWpI+rNyquMJn+j0HC5107S67zH17qjQIGJ26FsJeJRFzKxqrSVwWlnHN+4SoVrOX32l+wDyXFxkLtO39D1NiL0BZWfBirYR4AkEHNOv5Ieo8vvsIYFF12lHVsIenc8yTqmBCGUr8rS9g==;7RzzyQaoE3MaSKDStqRvJg=="
 ---
 

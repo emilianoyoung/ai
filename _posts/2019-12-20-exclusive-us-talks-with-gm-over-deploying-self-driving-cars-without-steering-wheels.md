@@ -1,29 +1,29 @@
 ---
 category: news
-title: "EXCLUSIVE-U.S. talks with GM over deploying self-driving cars without steering wheels"
-excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. By David Shepardson WASHINGTON, Dec 20 (Reuters) - The U.S ..."
-publishedDateTime: 2019-12-20T22:53:00Z
-sourceUrl: https://www.nasdaq.com/articles/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels-2019
-ampUrl: https://www.nasdaq.com/articles/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels-2019?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels-2019?amp
+title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+publishedDateTime: 2019-12-20T21:37:00Z
+sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
+ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
 type: article
-quality: 67
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.41B97C3AEAFF0631AC9B863BAF3E3308
-    width: 640
-    height: 408
-    title: "EXCLUSIVE-U.S. talks with GM over deploying self-driving cars without steering wheels"
+  - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
+    width: 800
+    height: 525
+    title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -441,6 +441,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "XTJ22U4NDIs20HhWlUG2dz3ShcQM/ZrBGC7gYXaBetVHVLpw2CUn7JpLh1mL5Vwd3xBpUlLczRm/BeB3f6TudbZXdJ5ujH67jndliDRPlzQRKd7IIsNpSIxVlyL2JYirMfOKdRUBpUzFuK0w1ktlx0ycpMzeSD8dhgPqwnF3y393ulwqjhxTwzRoH7QCQsOOZpnialCbR9Hfxj0ZRHJKOCAK9hCQMIhH75VY1Wsioygh5vOIcjzSyzJIh9Trbngxpqhz4BucOWcqTl91uB1l9A==;4f/UU2oFAhfkWKdL3AbOcA=="
+secured: "sV2x9zmuo3SHhNNL5w2CwsriAqQg2dE2r5tg8yHfDNz+616Qz2fnoQJ68WjLW935YFFu9adEpoTXqGTVQ/D9bO+NtN7lR5Zlc5pp1h6EiAgTgvz9DnsKjyRRRHZOC4KBDJX9MPpKgl+Ki7yMB499dHVx3gG72jXNNaIWTPmWvvc4wzupMCbzD5BSsCnpS1E9Z3aCsg/T8ZmHQm2hd3ZeDlN0Pf0u5HNqMs8Z93U4YRlZhkodnysxjfjyfYg19BmHa/HT7xeJomKqP/sj2wSNCQ==;ushWvwXY7QzIdxdqRRHj+Q=="
 ---
 

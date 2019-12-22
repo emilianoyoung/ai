@@ -1,21 +1,27 @@
 ---
 category: news
 title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-16T18:07:47Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
+publishedDateTime: 2019-12-16T18:07:00Z
+sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+    width: 640
+    height: 427
+    title: "FOCUS-Argo takes different road to skirt self-driving challenges"
 
 related:
   - title: "Let’s Not Butter Up Those Self-Driving Truck Highway Stunts"
@@ -49,6 +55,6 @@ related:
         width: 600
         height: 315
 
-secured: "kk2mMou8WA3tfB1zUqTWIlNUd/hyp9iEVeUejyn4mPr80L2f7gYtmcWAR94WdPg7RMtKN3EVBB3s1vp7jLnjErZoXXOWULQ1OpcJohGA8jBiAGNehxvDk6nT0vpN/6fYWf5J/ib+jPWlhOozgDI6iCFkwk9nCzlSeX9u5VEADfDBqwDJmrh+f6PKr9mKoe7e56k0/FEfANjVbGvfMNdUOdCXobfH4H5vZ/CIKL4gnY+jDMIswPhQ79s7zca+VNkpwR4T7aemFCuunfsedU3z0g==;V2lr2aHoCFhYSbVdHXqHCA=="
+secured: "D7XeNJjjSZIojLIL9jUCpX2hqi8Z7wEFOdV7nrJi2FS8CXqcygW7kQ0ReiLjOyHKDcnYdfVtMWcyJATeMbDS7QjSMKU28uCNxTOuJsZPwrV9I36qKnQp86U/mu28o80a/0TgqF9maKC8YxkPCMVWI8DmxVqBwjIPyQr7/Yjmwa7YxgmpEmzjxrlf43AReyRBEItB0cLUkYu+f+dbb4A6v/q0kPsQfc4cfwFyXVctBTu2avdDMPTgS0ZDHAWNO5N2mQUP0Eo/g/8NkTCi0mstsg==;OF0qa+Ww9AUKgrddaX/wvA=="
 ---
 
