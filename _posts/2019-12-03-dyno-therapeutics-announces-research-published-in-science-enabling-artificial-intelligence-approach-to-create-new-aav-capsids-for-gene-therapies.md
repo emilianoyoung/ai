@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/dyno-therapeutics-announces-resea
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/dyno-therapeutics-announces-research-published-110000347.html
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
 
 related:
-  - title: "Alternatives to therapy? There’s an app for that"
-    excerpt: "In other words, welcome to Shrink On The Phone, with a dollop of artificial intelligence sprinkled over it, sort of like psychiatric pasta in a light garlic and oil sauce. Silicon Valley has finally done it – on-demand therapy, complete with metrics and ..."
-    publishedDateTime: 2019-12-02T02:08:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/02/alternatives-to-therapy-theres-an-app-for-that
+  - title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
+    excerpt: "Dyno Therapeutics, a biotechnology company pioneering use of artificial intelligence in gene therapy, today announced a publication in the journal Science that demonstrates the power of a comprehensive machine-guided approach to engineer improved capsids ..."
+    publishedDateTime: 2019-12-02T11:35:00Z
+    sourceUrl: https://www.thedailytimes.com/business/dyno-therapeutics-announces-research-published-in-science-enabling-artificial-intelligence/article_f509810a-b769-5440-9c4d-bfec66f30d5a.html
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: thedailytimes
+      domain: thedailytimes.com
+    quality: 2
     images:
-      - url: https://www.bing.com/th?id=ON.D1C72319583E2F776EF55EFA48CE7B44
-        width: 676
-        height: 700
+      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/c/16/c1647b54-e2a5-5ffd-8960-26e1e7e06c81/5de4f2ec58281.image.jpg?crop=1440%2C1080%2C240%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize
+        width: 840
+        height: 630
 
 secured: "pLrkYyaaFN4ijLKG8pWPD8tpd4aPYQxeC27FeC5cM5fgqMapeRFO996iBduGquItgrbBUtdWKCV7YYWTYa48G5uB5Cnmy6e1dgh4+yC/hsaTZl9KAX9/U9nkXQc5O187S7X66Ilqjyku95Zu87qBkxSh8xB3noq7VXZ6/AYcC1A6r8zNeCS+KjrEt2NccdBdu7LpyBDt7mq/2X0R6GT95/omUR5zr+cMdgbWCSMuaFQd342SCPPzoGsKUORWX8/Z5BfrjcmpUvSYBXhziGNYMg==;gurbw6umUjOxHMwUuUPAHw=="
 ---
