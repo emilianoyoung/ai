@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T06:36:00Z
 sourceUrl: https://www.marketwatch.com/press-release/in-depth-ai-artificial-intelligence-image-recognition-market-global-research-and-analysis-2019-2024-2019-12-04
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -133,6 +133,19 @@ related:
       - url: https://www.bing.com/th?id=ON.84394F7BC5D1CEA7721D120511082191
         width: 700
         height: 365
+  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
+    publishedDateTime: 2019-12-10T19:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
+        width: 400
+        height: 137
 
 secured: "Q9rHyiG16sps01fTfpRJONHylFQ141pcUuSCLmLLrs/iZGIRwb9oVRp7BpaoA6gyGfX+SAGotIO0m3M7Y8VfH2iumWB7qjqdYZi9EfXl+IS6S5/gjjvsRUpYFdsOSrHHNkZ+3lMD/OU+Dg35E3T/dftilTyBbJVM75gqp/E1AR2pyuxllypID8MQdS0YtDrsKuhGIGt7HMk08sZYgIKUi2m3OY8NHw+ZZF/DLmk6EyTG+qPNA4RUJx9KCHArBHKz/oWNkkriNYRqTDn6S0MNUg==;Hf8pq2mYMn1ffDsZnfBcew=="
 ---

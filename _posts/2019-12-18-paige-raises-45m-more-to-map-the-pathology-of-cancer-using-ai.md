@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Paige raises $45M more to map the pathology of cancer using AI"
-excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
-publishedDateTime: 2019-12-18T19:22:00Z
-sourceUrl: https://www.yahoo.com/now/paige-raises-45m-more-map-180601977.html
+excerpt: "One of the more notable startups using artificial intelligence ... and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component of understanding ..."
+publishedDateTime: 2019-12-18T18:06:00Z
+sourceUrl: https://news.yahoo.com/paige-raises-45m-more-map-180601977.html
 type: article
 quality: 137
-heat: 197
+heat: 167
 published: true
 
 provider:
@@ -17,25 +17,12 @@ topics:
   - AI
 
 images:
-  - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
-    width: 2600
-    height: 1730
+  - url: https://s.yimg.com/ny/api/res/1.2/VY4rxYG.uINvvqCjNFlDpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTEuMg--/https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
+    width: 1278
+    height: 851
     title: "Paige raises $45M more to map the pathology of cancer using AI"
 
 related:
-  - title: "How to bring AI to a legacy industry, according to the founders of Luminance and Omnius"
-    excerpt: "The companies’ founders, Emily Foges and Sofie Quidenus-Wahlforss, spoke with great insight on this on stage at Disrupt Berlin. Luminance uses AI and natural language processing to help law firms process documents more quickly, not replacing the lawyer but providing additional intelligence and analysis of what may be hundreds or thousands of ..."
-    publishedDateTime: 2019-12-19T22:13:00Z
-    sourceUrl: https://techcrunch.com/2019/12/19/how-to-bring-ai-to-a-legacy-industry-according-to-the-founders-of-luminance-and-omnius/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.D279A2BB3BAB7748AE93C7DF6668418B
-        width: 700
-        height: 466
   - title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
     excerpt: "Paige said on its Linkedin page that it will use its new capital to drive FDA and CE clearances for the products it is looking to bring to the market, which comes in a timely fashion since the company was the first to get FDA breakthrough designation for using AI in oncology pathology. The company also received a CE mark shortly after."
     publishedDateTime: 2019-12-19T11:30:00Z
@@ -64,32 +51,6 @@ related:
       - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
         width: 3143
         height: 3805
-  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
-    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
-        width: 2699
-        height: 1414
-  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
-    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
-    publishedDateTime: 2019-12-19T13:36:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 4
-    images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
   - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
     excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
     publishedDateTime: 2019-12-18T14:31:00Z
@@ -100,6 +61,6 @@ related:
       domain: medpagetoday.com
     quality: 3
 
-secured: "BmCx7x/hy4wsqM47S2vrgk9P9M6yjwiwgxIhLse2vpKi8CHWRvugql2JePZc7j0lHXCzKDeb56WrCMx7kRxW0ovt0xaVokBB8IZMJf/rwkewkVIFEo5lACQxCsHrwys4LV279C87x4eVbKdjhPNMneV5tllXpUWqSCdKLyTmmRiT+hOwzfwDT7xPtCSWdGZd+A7iRJg3caSz6EypFLM/QJfMj2dcCr5joTc6A+1pYTX1DA9QTIL1S+L/IgPuu0hCHZx+CbGPeidsdcC06naKfA==;vVcv9rSt5xnjxWg+ZOyK5Q=="
+secured: "PjTzZlDaJrcWVtRIqafIIExLZ+fIdKZyeKpJ87ZF4/y5orBdecwCzVE2HbvdQwukiUvdZFFz47+3Sw5Q8tJITj3VSKD3+SkZjpsTjsMHuISVmFl+1BY/5NgVqR1p3yjtP13uL99gt5bRbCeLlorSbHFpGApnrW23+rdlF46IqQI0hKJ6RHDSnYRKbV36eVslfIYnExNBFRgdOBBzBZAfSgZgwAVMfxFskY8LRVORBAl1nTZSgiK4pN6oDStw9eUZGIyAtzOLZpyH0jjbkBW+Ww==;NAQ4qwq7huhpWJbjyd57Vg=="
 ---
 

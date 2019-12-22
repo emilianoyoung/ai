@@ -8,8 +8,8 @@ ampUrl: https://www.entrepreneur.com/amphtml/343610
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343610
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Entrepreneur
@@ -30,21 +30,71 @@ images:
     title: "Fintech Start-Ups Are Growing: What's New To Look For In 2020"
 
 related:
-  - title: "How Fintech Startups Are Helping SMEs Keep Cash Flowing"
-    excerpt: "According to the company, it employs two million data points to chase late payments and also provide data about whether a supplier has a late, or on-time payment history. FinTech may not hold the same attraction as superheroes, but it may be the accountants who clean up, as they use AI and blockchain to chase the bad guys."
-    publishedDateTime: 2019-12-02T19:23:00Z
-    sourceUrl: https://www.forbes.com/sites/amyguttman/2019/12/02/how-fintech-startups-are-helping-smes-keep-cash-flowing/
-    ampUrl: https://www.forbes.com/sites/amyguttman/2019/12/02/how-fintech-startups-are-helping-smes-keep-cash-flowing/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2019/12/02/how-fintech-startups-are-helping-smes-keep-cash-flowing/amp/
+  - title: "IBM Tech Trends To Watch In 2020 … And Beyond"
+    excerpt: "But for now, here is IBM’s preview of the year and decade ahead. Artificial intelligence technology probably won’t take your job. But it will change how you work. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will ..."
+    publishedDateTime: 2019-12-09T14:59:00Z
+    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/
+    ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.D55575CC54C9D717DBEEC0332E497EFC
+      - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
         width: 600
         height: 315
+  - title: "TECH 2019: stalls related to technology, artificial intelligence a big draw"
+    excerpt: "The largest crowd gathered near Bibox’s stall which was educating the visitors about artificial intelligence. As the founder of the start-up, Sandeep Senan explained the need to develop artificial intelligence, robots made by his company entertained people by walking around the venue and doing stunts. “It is necessary that we encourage our ..."
+    publishedDateTime: 2019-12-10T12:49:00Z
+    sourceUrl: https://www.thehindu.com/news/national/andhra-pradesh/tech-2019-stalls-related-to-technology-artificial-intelligence-a-big-draw/article30267835.ece
+    ampUrl: https://www.thehindu.com/news/national/andhra-pradesh/tech-2019-stalls-related-to-technology-artificial-intelligence-a-big-draw/article30267835.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/tech-2019-stalls-related-to-technology-artificial-intelligence-a-big-draw/article30267835.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 55
+    images:
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
+  - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
+    excerpt: "IBM Analytics and IBM Security. Watson: FinTechs can infuse AI into their business processes, helping them to make more accurate predictions, automate decisions and optimize processes. IBM Blockchain: Offers the ability to secure cross-border transactions and build an ecosystem of trust for partners and clients around the world. IBM Analytics ..."
+    publishedDateTime: 2019-12-06T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/finance-montréal-aims-to-grow-fintech-start-up-sector-with-ibm-collaboration-1028744363
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
+    excerpt: "and innovation sessions twice a year about emerging technologies and the evolution of AI. Through the Montréal FinTech Station, FinTechs in residency will also access IBM Garage and Design Thinking methodology sessions, enabling them to deliver customer-focused solutions at an accelerated go-to-market pace. \"At the Montréal FinTech Station ..."
+    publishedDateTime: 2019-12-07T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/finance-montr-al-aims-grow-150000140.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.2305C3108B8B4938A9617F4214F0A418
+        width: 400
+        height: 200
+  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
+    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
+    publishedDateTime: 2019-12-09T10:03:00Z
+    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
+        width: 700
+        height: 421
 
 secured: "BcAqGnnMBEeADR9GC5qUepp1FFf4NI8arqRft+cDManCAQp9Tx+zaHFNylqc9322qiGPBVtAOrJvZWwLgGp2jwvHRAIJGkxxKXwBNcJNT9oUs77iDGOonzQrouBIA5qE3ka133o7Fa76rdB3mNgbGSR5cw9roKF1PIX2EGDcO7zYVan3asKjwEuyGJmTBKFwBRWvmQOVjtd3+mB6tFe7b7v2Y8bBP1eiSTi588v5OJfxOME6sa9jdf7ZVQaGbMwUVnNBNjduOffx8Ji5Anmw9A==;aC+z+lO9DMTzzHplxU8dnA=="
 ---

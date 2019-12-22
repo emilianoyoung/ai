@@ -8,8 +8,8 @@ ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-art
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: Popular Mechanics
@@ -24,21 +24,6 @@ images:
     width: 700
     height: 350
     title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-
-related:
-  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
-    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
-    publishedDateTime: 2019-12-09T10:03:00Z
-    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
-        width: 700
-        height: 421
 
 secured: "z5s53QN8Jrwq44jV4ZS+FbzKnr+q88URu4ZXpvEjxGVkjPVfvHSvcnrSIP59kMN2wJ6fOkB73dyg+kdN3HzhorhHCY9Y+oylaf2tuJwjKhdu8CV0Z3YNy3KqH/4Ez5m2P76qOIkR8QwImrKHnQHZuMlaGhfrSTl1vn2mMW7BjhcmU1dymwpJ/2B0h3zf52xlxYlaXBicASwKI/k8Bff1yZGFrkeRNqFXDIM7PjqyGAnm+I2SWRbRatsLgdGlqfIRKw2qAdY6XlNgBJXGyN9UqQ==;KP3mG/dmWWjByX5+fvgWww=="
 ---

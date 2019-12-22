@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T10:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-digital-assets-enabled-customers-and-advisor-platforms-are-wealthtech-trends-to-watch-in-2020-1028736316
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -19,51 +19,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "IBM Tech Trends To Watch In 2020 … And Beyond"
-    excerpt: "But for now, here is IBM’s preview of the year and decade ahead. Artificial intelligence technology probably won’t take your job. But it will change how you work. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will ..."
-    publishedDateTime: 2019-12-09T14:59:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/
-    ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
-        width: 600
-        height: 315
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
-    publishedDateTime: 2019-12-05T04:27:00Z
-    sourceUrl: https://news.yahoo.com/smac-darq-tech-trends-shaping-2020-042708248.html
-    ampUrl: https://news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B17CB274803069B75A006F02A6D2E6B
-        width: 700
-        height: 474
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
-    publishedDateTime: 2019-12-06T00:06:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
-    type: article
-    provider:
-      name: Relaxnews (AFP) on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
-        width: 700
-        height: 367
 
 secured: "7Zgig0bXsZaqA1k5AQkQNoHLO9lp5kMkC5PMqKMzxZuNwj/pxF3M/c4vwPfLsqZg/HsfZisFqRsCkDmttWQ+S03uLIZWXSrHo7OKeKkgnq7ooVpBizNeWXJHVs1xGQD6cnnH2B/kri63TMpUdde5Ss5gTf0HfTN548s1t412IthpnK0pv9DCf/ipRcALFoG0C7QSLOyCUdEm1qmftxBzbWZ6AkGdGQX/co8wcAd2AAspkdBnv4bdyTGjuXF/HiVbtB8qdzdHQ/Bf7XikWRJ12Q==;x++y5hiybC9qej5S60Lcyw=="
 ---

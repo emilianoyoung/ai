@@ -24,21 +24,6 @@ images:
     title: "SMAC in the DARQ: the tech trends shaping 2020"
 
 related:
-  - title: "IBM Tech Trends To Watch In 2020 … And Beyond"
-    excerpt: "But for now, here is IBM’s preview of the year and decade ahead. Artificial intelligence technology probably won’t take your job. But it will change how you work. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will ..."
-    publishedDateTime: 2019-12-09T14:59:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/
-    ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
-        width: 600
-        height: 315
   - title: "SMAC in the DARQ: the tech trends shaping 2020"
     excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
     publishedDateTime: 2019-12-05T04:27:00Z
@@ -54,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B17CB274803069B75A006F02A6D2E6B
         width: 700
         height: 474
-  - title: "Artificial Intelligence, Digital Assets, Enabled Customers and Advisor Platforms are WealthTech Trends to Watch in 2020"
-    excerpt: "NEW YORK, Dec. 4, 2019 /PRNewswire-PRWeb/ -- Xtiva has compiled a collection of insights from 20 top WealthTech and finance industry influencers identifying trends that wealth management firms and advisors should pay attention to in 2020 and beyond. Key insights identified in the WealthTech Trends 2020 report include: AI and data-driven ..."
-    publishedDateTime: 2019-12-04T10:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-digital-assets-enabled-customers-and-advisor-platforms-are-wealthtech-trends-to-watch-in-2020-1028736316
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "kMchXfGP1Y4Q8mX0ZRqXN8w1Q9xXBK/brhSFfAUGOJWChLqlmJASfOysRm1aDGNofi6db+3/KpW839xjDomFYAlpiPs73h9s7T8VdsOhF9WRh+CLjIBHe0+eWcZ2Vw+JfnYzOhc/aZem65+0yzq7FrGti+nhWOBHzryl6DnMLfy5mkLuhu2/Ch5Xyp6ivy0kJOyeWVZm5ugkS/tZ6cRvOKBpTlLHiQmRNtyVDD4ZT0oQc6le320FSbO3MzRjfpe9Drzq9hf2Yk/0uqm5nN3OMA==;EhqBwMpXcxsYnYpdNUXPgA=="
 ---

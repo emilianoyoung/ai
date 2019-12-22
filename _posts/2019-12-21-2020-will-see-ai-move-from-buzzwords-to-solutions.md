@@ -29,6 +29,6 @@ images:
     height: 350
     title: "2020 will see AI move from buzzwords to solutions"
 
-secured: "trQy9X7QLdfatjbuqikXsrNS/6ILWS5EIgXKpsQ4LczmkeiZhzb3GfZvESDECplI7nQRqwuwzKIrihkivLbmJmxcd7TmNm6tuizZ3N0WaUYAqlIYByXxMaaZ+4mqiPfKcOLuF8k68z9Z7S6bt9++/8O/8kVdEKcNqpGqn94A/b8iaDjpRlHbbzidbv8vDrbvSOgfD+VaebL+jrih8E1YeWxnEKBkLa8ZtYUQqds5IoVuIut65m1s5J0F61uD3ZU4ZeObJ+q45cOHTMG6o8aYfw==;VD6+RQbkJmb9tQqrcMBIrg=="
+secured: "BUwglmZhfXt3sJAlxV37GOpfTK9+5ItDwgAbb4/c0WG3aB+xfYbpT4Tog/hPnGYlOXVSj2KH5nYix3HJEq1InXHVa/+D7+LwyOOAFFxGlN10TfjcuSKuiCo3F3MR/BFzQpI370cCBHKQK0iJUWpeb+EV0bzSMBN7glqu/3zoWI0nNJpdAcjpwOpfaY2fEc/31VeRm7lrkQUuXxRvegI+FrYRr8gg/4cVz2xSpZCG2BvAYn5VdaugjpncGe73p476RHIqU3HAAKU2JOYOs73SFQ==;lY2r7X4FcxXO7vlr3Ku5Ew=="
 ---
 

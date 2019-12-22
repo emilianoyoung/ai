@@ -63,19 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
         width: 700
         height: 447
-  - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
-    excerpt: "and innovation sessions twice a year about emerging technologies and the evolution of AI. Through the Montréal FinTech Station, FinTechs in residency will also access IBM Garage and Design Thinking methodology sessions, enabling them to deliver customer-focused solutions at an accelerated go-to-market pace. \"At the Montréal FinTech Station ..."
-    publishedDateTime: 2019-12-07T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/finance-montr-al-aims-grow-150000140.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.2305C3108B8B4938A9617F4214F0A418
-        width: 400
-        height: 200
   - title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
     excerpt: "Alongside this, with the availability of advanced machine learning/artificial intelligence-led tools ... the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA); is demanding demonstrable operational resilience of every conceivable aspect of business across firms’ operation. This is in addition to the abundance ..."
     publishedDateTime: 2019-12-03T09:35:00Z

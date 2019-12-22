@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
-excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
-publishedDateTime: 2019-12-15T08:34:00Z
-sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools/161736/
+title: "Federal study finds race, gender bias in facial recognition technology"
+excerpt: "Federal study finds race, gender bias in facial recognition technology A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. Check out this story on azcentral.com: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race ..."
+publishedDateTime: 2019-12-20T00:24:00Z
+sourceUrl: https://www.azcentral.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+ampUrl: https://amp.azcentral.com/amp/2704291001
+cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2704291001
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Nextgov
-  domain: nextgov.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.2925D8A0EFB7D7ABC1EBB666A9C65C33
-    width: 400
-    height: 400
-    title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1128,6 +1124,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0FF4AD6724AAACCF04D3A065C2039450
         width: 700
         height: 467
+  - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
+    excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
+    publishedDateTime: 2019-12-15T08:34:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools/161736/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2925D8A0EFB7D7ABC1EBB666A9C65C33
+        width: 400
+        height: 400
   - title: "Facial Recognition Systems Easily Fooled By Masks And Photos"
     excerpt: "A new study reveals how Chinese facial recognition terminals are easily fooled Kneron conducted experiments to see if a 3D mask could fool the facial recognition terminals of AliPay and WeChat However, the study has some limitations Nowadays, we view facial recognition as a more secure way to confirm a person’s identity on a device or at ..."
     publishedDateTime: 2019-12-15T01:13:00Z
@@ -1317,17 +1326,6 @@ related:
       - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
         width: 1200
         height: 808
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "Federal study finds race, gender bias in facial recognition technology A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. Check out this story on azcentral.com: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race ..."
-    publishedDateTime: 2019-12-20T00:24:00Z
-    sourceUrl: https://www.azcentral.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.azcentral.com/amp/2704291001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2704291001
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 39
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
     publishedDateTime: 2019-12-20T08:15:00Z
@@ -1744,6 +1742,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "eFBmuKzVkeJ8KmXANnQbFjjQ6dBys5mPpjlbZBYVvQyttLw+EreFOM2iCwlknF83RsS2gbsRe9r/gki0Fkz7HF50mky95Li77xdCY1ACKcGdQk1FnDxfq4fubeZ5iC9CK22qXy0mTYLtAoM66oNczw80XweBWbAp78X0f9NzOg6OjvyEw0u6avaFpLYE2Wh3vfYyAQxw4SAMKdGIWsY7DYS7Ep1MIR5SxLxbOsfNtzniAetsRqOTpzOKomA7x0bMMqVoyxkRnh0LmTF5iAo7Nw==;KBG3f/yE7iB3aqjeI114lQ=="
+secured: "nXigEVNUnLmhirzUZ1UuvdbB+Ou3FPPZVRkHZjzVXk9lrqQc++jBlOOfu50HOfTO7CPDtr3Xm2YHN4z8Hap855k+9uBR+v0FxqD9dJv+p/GUIaKO2cbVtzO3fKmkj+yhoiuMQh7Ak/72P0VNPhhsI6oFxEuNm1f+4/q6wXse6jlmIqSaCis6RV7G5dfktBwwas3+8ZMxevujbVo8OHzxtIuARNzhcVvKoVeftfAVCtl8Hh5lN7ossyAzp+1Stz77bqE6805xqBf9R6R99h3nSQ==;POCyxf1ya92HAo0gKh1aNA=="
 ---
 

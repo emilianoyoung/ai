@@ -95,21 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "Leaked documents show Chinese tech companies are shaping UN facial recognition standards"
-    excerpt: "One of the hottest subjects in tech right now is facial recognition, a technology that's slowly being adopted by governments for its potential to improve surveillance efforts and border control. According to a report from the Financial Times, the United Nations' standards for facial recognition are now being shaped by Chinese tech giants like ..."
-    publishedDateTime: 2019-12-02T19:08:00Z
-    sourceUrl: https://www.techspot.com/news/82989-leaked-documents-show-chinese-tech-companies-shaping-un.html
-    ampUrl: https://www.techspot.com/amp/news/82989-leaked-documents-show-chinese-tech-companies-shaping-un.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/82989-leaked-documents-show-chinese-tech-companies-shaping-un.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 80
-    images:
-      - url: https://www.bing.com/th?id=ON.DD4844F4ADCA900233CE3706B0AE09EB
-        width: 700
-        height: 490
   - title: "Trump administration wants to use facial recognition at airports"
     excerpt: "The Department of Homeland Security (DHS) is planning to use facial recognition technology to identify international travelers at airports, according to a recent filing. Continue Reading Below The purpose of the facial recognition technology would be to ..."
     publishedDateTime: 2019-12-04T12:34:00Z

@@ -28,82 +28,32 @@ images:
     title: "How to bring AI to a legacy industry, according to the founders of Luminance and Omnius"
 
 related:
-  - title: "Paige raises $45M more to map the pathology of cancer using AI"
-    excerpt: "... of the more notable startups using artificial intelligence to understand and fight cancer has raised $45 million more in funding to continue building out its operations and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component ..."
-    publishedDateTime: 2019-12-18T19:22:00Z
-    sourceUrl: https://www.yahoo.com/now/paige-raises-45m-more-map-180601977.html
+  - title: "A look at how Descartes Labs is leveraging AI to alert fire managers of wildfires and decrease the damage on homes and habitats across the US"
+    excerpt: "Nine minutes. That's how fast Descartes Labs can spot a growing wildfire with artificial intelligence. It's a record speed, and the one to beat."
+    publishedDateTime: 2019-12-19T19:43:00Z
+    sourceUrl: https://www.businessinsider.com/how-descartes-labs-leveraging-artificial-intelligence-fight-wildfires-2019-12
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 137
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
     images:
-      - url: https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
-        width: 2600
-        height: 1730
-  - title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
-    excerpt: "Paige said on its Linkedin page that it will use its new capital to drive FDA and CE clearances for the products it is looking to bring to the market, which comes in a timely fashion since the company was the first to get FDA breakthrough designation for using AI in oncology pathology. The company also received a CE mark shortly after."
-    publishedDateTime: 2019-12-19T11:30:00Z
-    sourceUrl: https://www.ibtimes.com/cancer-treatment-research-startup-raises-45m-develop-ai-diagnostic-products-2888594
-    ampUrl: https://www.ibtimes.com/cancer-treatment-research-startup-raises-45m-develop-ai-diagnostic-products-2888594?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cancer-treatment-research-startup-raises-45m-develop-ai-diagnostic-products-2888594?amp=1
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.097919B52904DD92D45B4BEB3FB95871
+      - url: https://www.bing.com/th?id=ON.B4B302C6003F71E0B291872D71D5C5B6
         width: 700
-        height: 463
-  - title: "Using AI to understand spread of cancer"
-    excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
-    publishedDateTime: 2019-12-18T12:58:00Z
-    sourceUrl: https://www.miragenews.com/using-ai-to-understand-spread-of-cancer/
+        height: 350
+  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
+    excerpt: "Artificial intelligence can do a lot of impressive things, like find snow leopards among Himalayan grasses captured by remote cameras, maneuver self-driving cars through traffic, and defeat world-class opponents in the game Go."
+    publishedDateTime: 2019-12-17T23:21:56Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/whats-the-best-way-to-measure-the-smarts-of-ai-systems-researchers-are-developing-an-iq-test/ar-BBY5ZlH
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
+      name: Geekwire on MSN.com
+      domain: msn.com
+    quality: 25
     images:
-      - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
-        width: 3143
-        height: 3805
-  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
-    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
-        width: 2699
-        height: 1414
-  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
-    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
-    publishedDateTime: 2019-12-19T13:36:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 4
-    images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
-  - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
-    excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
-    publishedDateTime: 2019-12-18T14:31:00Z
-    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83936
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 3
+      - url: https://www.bing.com/th?id=ON.2D0756FB6D65DC5606D5A6E3C86572AD
+        width: 700
+        height: 466
 
 secured: "8uOhMASOXSy0E5AzEMmdOEKr/mE+LNwbD5qxuteftPRsUJkjZ4h0M56MAAGKGD1ccHGKVbFXZvZqq8S/R/CgCEtRbJ/al/n3jCasRYgBsWyKYko2y/c/ZaLH8jpRQWiM3yaDzmKiX4qFPziNjbqfu8R0EQzUaZg5WhGTtkXopeu0yN+DY5iwm52pk8mFEZ7Vsm9djBBMMayWu7Wg7MPwmCSSKHSXX26M5iIgR1QVvd/R/Xmbu8o9awmnVKpdJKwZhbDRHzJu8COx7ybljVOiQA==;iTKBclu/WpML93OcTrrPTA=="
 ---
