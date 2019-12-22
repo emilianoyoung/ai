@@ -39,20 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.A7D07FC44822B64A5AA586B5A1742E47
         width: 480
         height: 270
-  - title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
-    excerpt: "Dyno Therapeutics, a biotechnology company pioneering use of artificial intelligence in gene therapy, today announced a publication in the journal Science that demonstrates the power of a comprehensive machine-guided approach to engineer improved capsids ..."
-    publishedDateTime: 2019-12-02T11:35:00Z
-    sourceUrl: https://www.thedailytimes.com/business/dyno-therapeutics-announces-research-published-in-science-enabling-artificial-intelligence/article_f509810a-b769-5440-9c4d-bfec66f30d5a.html
-    type: article
-    provider:
-      name: thedailytimes
-      domain: thedailytimes.com
-    quality: 2
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/c/16/c1647b54-e2a5-5ffd-8960-26e1e7e06c81/5de4f2ec58281.image.jpg?crop=1440%2C1080%2C240%2C0&amp;resize=840%2C630&amp;order=crop%2Cresize
-        width: 840
-        height: 630
 
-secured: "4NdHJAFNac3NtN7r2M3uewjvVOYRjKAi9mA9OwZhhKOSJTvshHPi1S4x6EtYrVWmSZIM39V7LQhWQ1Dhww8zXtGitJk3XU5b2b0W/JfdhHTKyaRL8eZn5qQdcpxPpTibR/4oJswPsCAvPkyNqYvA+Yy1tg9xed29yt9fhn7391ATAA0H9cVuYHnEfTXGq6C0APVeNC1db7XK3pn34FVT76EVPs3xJY9CSXhW/yks9L7eI+ZYrS3BTvlzEDwDKX5qYbbgBRRs93Gp+jnNpG34fQ==;EHyGKBqtM7YyGj7UzR16xw=="
+secured: "2S0o26Lr6RKmRrsECjRexKRrFFV3cf02dJjOzv8s6x+HxYa0oCH4Zs3Z6pZz2nPFGnZQcDK9QsrfSu6mSyzbz6iFyJKhyI+8JdAaN69dvsgzsKY2Yd9GOsh3qbbQRH64KQzZRqCtzvjziGuQl8GCMW352TR+TjAPrqqZBRS0EicE6BNayNoliAKxh2LziWZ9LBkWhrT1rUz0SfLJpvVdFkImL+XLZQnqRpFQl8J6kSoOz9C55ottu3v7OL77RDYQ/j/WeILefSXUt01IhQWdpA==;mtyLFyNXOzKsZ5Z2Y2uD/Q=="
 ---
 

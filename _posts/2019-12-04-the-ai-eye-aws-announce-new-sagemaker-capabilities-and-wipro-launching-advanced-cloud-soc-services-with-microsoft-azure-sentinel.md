@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
 quality: 102
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
         width: 400
         height: 200
-  - title: "Macadamian Boosts Digital Health Capabilities, Launches New HealthConnect Platform as a Service on Microsoft Azure"
-    excerpt: "It enables interoperability with a wide range of connected devices and health data platforms, and the integration of AI in to clinical workflows to help deliver clinicians and patients real-time connected insights to improve health outcomes. \"Today finding ways to effectively use technology to connect clinicians and researchers to share ..."
-    publishedDateTime: 2019-12-02T13:01:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/macadamian-boosts-digital-health-capabilities-launches-new-healthconnect-platform-as-a-service-on-microsoft-azure-1028730091
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
     excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
     publishedDateTime: 2019-12-10T10:00:00Z

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AWS to roll out Alexa voice controls for low-powered devices"
-excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services to make life easier for IoT developers. These include Fleet Provisioning for AWS IoT Core ..."
-publishedDateTime: 2019-12-02T12:27:00Z
+excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+publishedDateTime: 2019-12-02T12:30:00Z
 sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
 ampUrl: https://m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.E9B8D71D763A44D1EF2114DD1E19BBF8
-    width: 700
-    height: 393
-    title: "AWS to roll out Alexa voice controls for low-powered devices"
 
 related:
   - title: "AWS extends Alexa voice controls to low-powered devices"
@@ -42,6 +36,6 @@ related:
         width: 800
         height: 434
 
-secured: "rHa3NSqU0Hpvbbao0LXW8/lmIkESLlQkXQIgn0PYw5KGCWri/jUFEfQ/YuLB/ZumPP2y67LCiMSAKExsQ/HchwO/GA6Pm+VoW7cRqhcY96PcVhFbRL0mH8GcT4jG1AbTwVHieNsxhZzQ4GRoVPcoi2HlTPwktc8SnZr5azEfEJJHQOVDIWevYLMoZMMMD1YaHrvC1VNyJVnL9FEsNTriBQf3AqV6q5YMX81d7NuAqOihphWH5+NxJQGaDdJKUYR1oq/MnYb6Msj4tb5ecouv6g==;yDKyqYGj7jJAaCxVGzTpPg=="
+secured: "d/gPSCzjwm8RCWS0QAaiTx8ESy1hPO1ZT2KS60pGMP4/ishAkkXlnSz5balAv3YRQpIwyyUwhFz4szHAXccjtl+w6RCEbm4BRyo/vOXaZBri+4v2tRBOc9Go5/FVmOHv4rRHzXPXxr+ag7y0FCpnkGKdFlPXYkJu7eLpRSBNhoT3Kwgr8Anvq97ROjvMC/u1Hl0s/zsNTiqlxtkHf6s/BBtIwtWGflAUhZ6LVlPezSXFVzcGUar4x2rfaxvs5lzYEQ9ExrrmS+H38zO+RqSnxA==;8YOjf0CCFcgfS8FmNhPz+g=="
 ---
 

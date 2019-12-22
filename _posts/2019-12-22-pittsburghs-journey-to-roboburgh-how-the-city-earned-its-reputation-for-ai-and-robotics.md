@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Oto raises $5.3 million to improve speech recognition with intonation data"
-excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
-publishedDateTime: 2019-12-17T15:00:00Z
-sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
-ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
+excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
+publishedDateTime: 2019-12-22T13:06:00Z
+sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
+ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
 type: article
-quality: 102
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - AI in Robotics
 
 images:
-  - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
-    width: 1198
-    height: 599
-    title: "Oto raises $5.3 million to improve speech recognition with intonation data"
+  - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
+    width: 400
+    height: 400
+    title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
 
 related:
   - title: "Gecko Robotics raises $40 million for industrial inspection robots"
@@ -75,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
         width: 600
         height: 315
+  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
+    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
+    publishedDateTime: 2019-12-17T15:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
+    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
+        width: 1198
+        height: 599
   - title: "On eve of British election, robotics and automation remains on sidelines"
     excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
     publishedDateTime: 2019-12-11T16:48:00Z
@@ -116,21 +127,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
         width: 700
         height: 435
-  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 80
-    images:
-      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
-        width: 400
-        height: 400
   - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
     excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
     publishedDateTime: 2019-12-16T21:00:00Z
@@ -167,6 +163,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "c8gZKb56T/GjRhYUwsfSPlIhq2fu9iXHsfNzxfmL97KwdPK17F9hXA0X1ibOK/gvESHk/cgCDFbeaUjok7wUHWLg/yynydto0QQ5i+mcbXsVtfLWH4mtoq2/NyUqVPNO5jstkBT1BG3hyP7bKJ0McGDF6NS+iLBMWFAl4BiWdXT8v3/QBkS51tzD9MNtP7zOurmZLyYUG2XeMT1noyCia/kbcdVnum4Gh2UtMm4KkH7z6ifFswj1WHlNYcL7j2z2mIUpEvhINgECXIr9OyoTyw==;DN55ANrzI7572YZpkenyhg=="
+secured: "rGWKzhs0C+Iz0vASGrBIhZzukL3oVHs558w4I2GyzdEnCjVQ9OzkevZUCsKziyUh2PZRegZmjqe8QCa/I/rSc0GUlxILdwgFIYEbUIGfsYNFIrEjQawOLSE+0UqlQiZ3nmFztU3+UI1GPUNVQmR+B9YxEXuUtE1gwS/nJPTneoqWDpt36BBuR3qD5teZ1Km38KKYNXHx9YkhIseBmu9CxV4fU6Jdlb89rDubikKGR/TsXfesW9KOpxTl3lsjWlDBOsiL5AjurrOGDXTh5p6atQ==;B07E2Z43FYqMTnW/XYwMiw=="
 ---
 

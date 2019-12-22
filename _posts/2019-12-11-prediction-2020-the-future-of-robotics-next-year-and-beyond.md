@@ -116,6 +116,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
         width: 700
         height: 435
+  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
+    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
+    publishedDateTime: 2019-12-22T13:06:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 80
+    images:
+      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
+        width: 400
+        height: 400
   - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
     excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
     publishedDateTime: 2019-12-16T21:00:00Z

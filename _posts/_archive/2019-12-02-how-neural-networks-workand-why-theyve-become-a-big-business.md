@@ -1,8 +1,8 @@
 ---
 category: news
 title: "How neural networks work—and why they’ve become a big business"
-excerpt: "Self-driving cars recognize objects on the road and avoid hitting them. Underlying these breakthroughs is an artificial intelligence technique called deep learning. Deep learning is based on neural networks, a type of data structure loosely inspired by networks of biological neurons. Neural networks are organized in layers, with inputs from one ..."
-publishedDateTime: 2019-12-02T13:00:00Z
+excerpt: "Underlying these breakthroughs is an artificial intelligence technique called deep learning. Deep learning is based on neural networks, a type of data structure loosely inspired by networks of biological neurons. Neural networks are organized in layers ..."
+publishedDateTime: 2019-12-02T13:02:00Z
 sourceUrl: https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/
 type: article
 quality: 69
@@ -22,11 +22,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.927B8B771CB60D3DD33BCCB4C3698A80
-    width: 700
-    height: 350
+  - url: https://cdn.arstechnica.net/wp-content/uploads/2019/11/deep-learning-brain-cutaway-760x380.jpg
+    width: 760
+    height: 380
     title: "How neural networks work—and why they’ve become a big business"
 
-secured: "AgtLTFaKv+GcFE0Es2Rro8KTrH510KN/FQpIv4dArjGLi/i0dL+SyZzxK9idPFtNH9aJ1qlBW01whX1e1tSkgXZU562x1o+GBgJ2dmAsHpfYnwEOHHBpewS2pM7Wgop6LuxiZxDwIeHojeSEbbEZqW4aybkXLyo+Un4ZdxEhxtg9GnX3FW7N/q5/x7Al+3Cc23Bpo9DLzeJYE5sEJYX1t2QC7FR5CFRuDCSwloaHP0KHMA7TZxVcAAndph7vnBNDt8fyCKQDV/G0tZn/CnKCxA==;lwnTUvtrFoKxqHAtcl7hNg=="
+secured: "kIPRSAIBBozBkrozYm0jtxc96s9BfdDU2PrpsO8ispCY4fnxWdNFPjCTFvWsByc5FCfV4R2RSqCmgnML1I8tv2PW49J5hvjRxJ+GjzGQoZir27C+vES7WTJEaY9ul6KVBzXsH+BMnwzngifRsgf851JRfjZllAGYY0qlSauGYtb6LRJM8VizKZEKcEX6i/r+w41FoS1GOGPdgBk0ym+UM7bThbI+pixEDg+C0S4xK1Jl1rdt47R0GJ/LXnshSNrnh6I7X4gf4aGLISz8tdpujA==;dU3mQS0/NKtYr3PEN9k+Iw=="
 ---
 

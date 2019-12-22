@@ -274,17 +274,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
-  - title: "2019-20 Book of Lists brings robotics front and center"
-    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
-    publishedDateTime: 2019-12-20T12:45:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
   - title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 to reach USD 3823.45 Million by the year 2025. North America region holds the highest ..."
     publishedDateTime: 2019-12-12T05:19:00Z
@@ -504,15 +493,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
-    excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
-    publishedDateTime: 2019-12-20T13:07:00Z
-    sourceUrl: https://www.openpr.com/news/1882491/artificial-intelligence-robotics-market-potential-growth
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
     excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
     publishedDateTime: 2019-12-17T09:58:00Z

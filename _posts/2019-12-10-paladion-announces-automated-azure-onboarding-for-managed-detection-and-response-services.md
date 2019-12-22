@@ -89,15 +89,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
         width: 400
         height: 200
-  - title: "Macadamian Boosts Digital Health Capabilities, Launches New HealthConnect Platform as a Service on Microsoft Azure"
-    excerpt: "It enables interoperability with a wide range of connected devices and health data platforms, and the integration of AI in to clinical workflows to help deliver clinicians and patients real-time connected insights to improve health outcomes. \"Today finding ways to effectively use technology to connect clinicians and researchers to share ..."
-    publishedDateTime: 2019-12-02T13:01:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/macadamian-boosts-digital-health-capabilities-launches-new-healthconnect-platform-as-a-service-on-microsoft-azure-1028730091
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
     excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
     publishedDateTime: 2019-12-06T18:32:00Z

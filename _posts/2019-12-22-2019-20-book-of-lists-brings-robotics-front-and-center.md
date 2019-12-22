@@ -2,10 +2,10 @@
 category: news
 title: "2019-20 Book of Lists brings robotics front and center"
 excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
-publishedDateTime: 2019-12-20T12:45:00Z
-sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
-ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+publishedDateTime: 2019-12-22T13:12:00Z
+sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.html
+ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
 type: article
 quality: 54
 heat: -1
@@ -37,10 +37,10 @@ related:
         height: 393
   - title: "2019-20 Book of Lists brings robotics front and center"
     excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
-    publishedDateTime: 2019-12-22T13:12:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    publishedDateTime: 2019-12-20T12:45:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
     type: article
     provider:
       name: The Business Journals
@@ -56,6 +56,6 @@ related:
       domain: openpr.com
     quality: 21
 
-secured: "a7z3w1aAeaxPvLxQQXBl623gGN6K6LQUTYKtmf52TE7zpy9kXVNo9VKXhrMb4kQAzx9N/8MQzbAqVwlWjuNAhjI1TY+ywHDZMZSAqUZ8RVbkEv2A8LHxwzzkZ+vnJ7dUQc1sVi+gufhCNK85HdOP6NYnI3mNm4Bumrz1R0jqwwjpanMtxyXN8GYRtC2N3jm/frF4059T+AOdSkjdvKYczKeIfdzhHtkd713EteZv3GjMA2muZsJQoObnNZYXJtB/G7+JHWI1OTcKSXVOTX67Gw==;5SSJY1mEHB5wW/tUKMCfWQ=="
+secured: "KHwWuBd/8Ft6uecBf7xSH5Ljpz+3DLHPtrnEdYfCOiYLoeCFTPyynCKHZWjvPSNtr//xEYSoYpPtkvusbt27SI6P34lILH9YvhM2p2xMy5AaALSpHrRQisjkUNraturSVOJSdH04bKkCUcVfdn6eX7fdays3PDf+0QMYTRyi7uwQz2Jsmob/mRqKsJeQsOmENLGL77+iCfaQ1oqNEi+PEHFdvh1Et60/llRa2BSZar1NlvNnfhQlapic7MD/erQ5rRAuhkYL3JVf6eA+F8PFKg==;dCE/ZLkppvPezpJgSBducQ=="
 ---
 

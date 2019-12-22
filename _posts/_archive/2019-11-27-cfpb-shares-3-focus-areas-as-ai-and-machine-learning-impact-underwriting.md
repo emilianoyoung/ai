@@ -23,6 +23,6 @@ images:
     height: 495
     title: "CFPB shares 3 focus areas as AI and machine learning impact underwriting"
 
-secured: "7h/RMm1ZAr4opVOV5nN2WDW7g1qlybvg4GH8UPoHLAwDNkAhtZy7IK++dtt3/vjXBZV/DZm+irHIjlckPepIJ7KGVE9rQshoF51QL6ZmRyR2Wj1K2YwuivGyboFPS/P3dQ7oUMpjET5wU/WK9BCAEnP7gt94LkpAaSqX9H35HKSUFQAvzIcPcO5RksGV+mHBle6/QeiZpsxPcU6gvXpaN/paUGy6QtaY0RN6JGodcN1Uixed3T8hROc9ipNPbMkA8G+mkJCTvaQjDN1xdn/LVg==;P4q0XYzje6TNUA2Zu/qcYw=="
+secured: "CCfu3gSBtE06XnsVrkTao8WcCUa74Zg/84UxYKj76k2vSYaC54QUtjd5UqIvLL4RWFGdBjcQgyBXkCU+Co+a2K4vdpB0ch8o3DwCro6QPb5iOrkAfLurvhtnk3J3lVP3V6w2lt+q691EPApSTp6kESh+Ut6HW0aVNmzI6dXd7YRjNRxJ68f0IAPg7CkH/D+dcg8D3K9nKkLifCNRtGcffPSvLkXmgB5H0jwsV4oF8C8hx+31BxV8iYGJI+pWTLu4SF6EtZ0tYys4UEYZH8pdGg==;o3d36+xhv/FQuOIxzyzc+w=="
 ---
 

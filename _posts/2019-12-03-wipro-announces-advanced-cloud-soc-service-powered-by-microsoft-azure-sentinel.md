@@ -82,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.220F7A9D783AB823B016E1D4E0B3F345
         width: 336
         height: 224
-  - title: "Introduction to Deep Learning & Neural Networks with Keras online course offered by IBM"
-    excerpt: "Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people are asking nowadays, like what is deep learning, and how do deep learning models compare to artificial neural networks? You will learn about the different deep learning models and build your first deep learning model ..."
-    publishedDateTime: 2019-12-02T13:00:00Z
-    sourceUrl: https://www.sakshieducation.com/Story.aspx?nid=251123
-    type: article
-    provider:
-      name: Sakshi Education
-      domain: sakshieducation.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.A8F8BAB762346C98925776F214EA20C4
-        width: 200
-        height: 150
   - title: "AWS Announces Five New Machine Learning Services That Reinvent and Improve Everyday Enterprise Tasks – With No Machine Learning Experience Required"
     excerpt: "Amazon Kendra reinvents enterprise search by using natural language processing and other machine learning techniques to unite multiple data silos inside an enterprise and consistently provide high-quality results to common queries instead of a random list of links in response to keyword queries Amazon CodeGuru helps software developers automate ..."
     publishedDateTime: 2019-12-04T00:06:00Z

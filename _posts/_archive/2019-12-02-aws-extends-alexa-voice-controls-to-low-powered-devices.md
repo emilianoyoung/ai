@@ -27,8 +27,8 @@ images:
 
 related:
   - title: "AWS to roll out Alexa voice controls for low-powered devices"
-    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services to make life easier for IoT developers. These include Fleet Provisioning for AWS IoT Core ..."
-    publishedDateTime: 2019-12-02T12:27:00Z
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T12:30:00Z
     sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
     ampUrl: https://m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
     cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
@@ -36,12 +36,8 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E9B8D71D763A44D1EF2114DD1E19BBF8
-        width: 700
-        height: 393
+    quality: 39
 
-secured: "+9JjmunWk0LZ5Th6TA1drJhzZTSB9fr0f6ltoHfG2XWqXixzBnWQuE3DmnY5/hV24H9jD9MVJDCI6XGaDGGw0nsSwNGmotmK8NDqwEBJJxRziBC3XLAFRazbMxYw0Cyk9g7iSdZHHTH/BfK4f76iOMALf35LW5sqAiGuazQ++fzI8kIPz/vsP87+QSCmIFGX4pdWqECJZKGzGGElWc1md9wyEHhbAQIFJQliU9M2rheaTtE1AufruzWXm2Go87IXzPwZlSTk4fdE27KXdu/kYg==;J21fL2dd/Mfkcgb4NdfU5w=="
+secured: "RaKpwhNo+n0D1XjuMR+F1N5hnZp7plvlsDYGCyL1a5OQV3e0G4agmjQACB4rB3P20i1w8q5sDxX/p+OyF4Xfdc+yVDzOdg+xe2Q1VzrqXvwxiqSnFzsTmGLHQG4/ViFEL8g1qfTe/XHHy7oIMJNyG/GUt0FvhwRzjKVrIGhBUcCHAxM86WU2xhRuDSpnuwwQVsyAo+Q77TAmTYbRiyr7vL1Za+scCkq40Mj9fOuFDVGOXeSDVnyM505EoigniD68e2O7rL1RMKJBNE3GN3q1jw==;mF16yNLaKnsBQGjG39v4Cg=="
 ---
 

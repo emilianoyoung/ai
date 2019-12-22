@@ -99,19 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F2EF2CF8A2AA2EBF2A09702C9DF87F08
         width: 700
         height: 365
-  - title: "Introduction to Deep Learning & Neural Networks with Keras online course offered by IBM"
-    excerpt: "Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people are asking nowadays, like what is deep learning, and how do deep learning models compare to artificial neural networks? You will learn about the different deep learning models and build your first deep learning model ..."
-    publishedDateTime: 2019-12-02T13:00:00Z
-    sourceUrl: https://www.sakshieducation.com/Story.aspx?nid=251123
-    type: article
-    provider:
-      name: Sakshi Education
-      domain: sakshieducation.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.A8F8BAB762346C98925776F214EA20C4
-        width: 200
-        height: 150
   - title: "An open source library for 3D deep learning research"
     excerpt: "A new resource is now available for the development of 3D models for deep learning applications in robotics, artificial intelligence and other fields ... With their 3D dataset ready for deep learning, researchers can choose a neural network model from a curated collection that Kaolin supplies. The interface provides a rich repository of ..."
     publishedDateTime: 2019-12-03T20:41:00Z
