@@ -578,6 +578,21 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for Asian and African ..."
+    publishedDateTime: 2019-12-22T02:08:00Z
+    sourceUrl: https://www.thejakartapost.com/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
+    ampUrl: https://www.thejakartapost.com/amp/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
+    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/21/massive-errors-found-in-facial-recognition-tech-us-study.html
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.16191907FE4A7CE06EC149C843E3E897
+        width: 700
+        height: 377
   - title: "East Bay city becomes latest to ban use of facial recognition technology"
     excerpt: "ALAMEDA — Alameda has become the latest city to ban the use of facial recognition technology, saying its potential abuse by law enforcement could undermine civil liberties. Alameda police will not be prohibited, however, from working with data developed through the techology if it comes from an outside agency seeking help with an ..."
     publishedDateTime: 2019-12-18T21:18:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
+excerpt: "Moreover, this new integration with Azure Stack Hub delivers an end-to-end solution ... \"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various ..."
 publishedDateTime: 2019-12-01T13:00:00Z
 sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
 ampUrl: https://amp.benzinga.com/amp/content/14908555
@@ -62,6 +62,6 @@ related:
         width: 700
         height: 345
 
-secured: "nVXjUSLBrRGp/34w0T401qbutT/HFkHssb76eIwjLUxX0fuJkudnMKu8BPaIIEm5X6EfvBWPBWtJDwek/HRBMBkN9+gIAuphjDVBIRspfy8r5E9hJvIbji4oK0vktDVsuF4gF/ADLQ78awZI0GFrU/cVGhrjW39BUkEPRYqwZMKLBFkthn/swgZvoqWmnJ/fJnydktO+dL1eXlMjtyMo0n/HyfB1fAD16ICZHlwoQWRJZDVlrVStuVZjx6sPNVNPXQshVXKcM9eUaoQQWjPrkg==;OdZn6s3rSu+EAHEkh7hNwg=="
+secured: "IkyjLbUS+Tc8Nw0NwKJiSpsZ6IDNl5tyOdCfpB+MHZGPg/hQWSSVp5/k3c4w1guam/WM9KvPyKjqwIxWQlHmt1boLNeVDJRgBKtc5DKzqFHJ0az9hguTkpTmThFCkvb8l0bjjm+N8JxJMiur7VuLYNOMx3DWsbgNFPVkOLVD0QpMEf/qcvAz2qZZGluthDNwOVxEwMPSuCb0Lxjyq3mkfVmAMAv1Z+5Lp3T0Ptz//gIS6fcK7+XwVKm2FWftnHXFY88MN9xJP1xEZyvXI7bTsQ==;ZQTYeviWjab1R6+UzZ6fSw=="
 ---
 

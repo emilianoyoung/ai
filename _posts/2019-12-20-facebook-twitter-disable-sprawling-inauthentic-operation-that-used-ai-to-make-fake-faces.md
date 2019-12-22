@@ -8,7 +8,7 @@ ampUrl: https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-di
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/?outputType=amp
 type: article
 quality: 150
-heat: 270
+heat: 280
 published: true
 
 provider:
@@ -52,6 +52,21 @@ related:
       name: CNET
       domain: cnet.com
     quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
+        width: 196
+        height: 110
+  - title: "Facebook removes bogus accounts that used AI to create fake profile pictures"
+    excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used on such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. The company also took down fake accounts from the photo-sharing service Instagram, which it owns."
+    publishedDateTime: 2019-12-21T22:02:00Z
+    sourceUrl: https://www.cnet.com/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+    ampUrl: https://www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
       - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
         width: 196

@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Intel buys AI chipmaker Habana for $2 billion"
-excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
-publishedDateTime: 2019-12-16T16:15:00Z
-sourceUrl: https://www.yahoo.com/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
-ampUrl: https://www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
-cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the A.I. market. The company clearly doesn’t want to repeat past mistakes ..."
+publishedDateTime: 2019-12-16T15:08:00Z
+sourceUrl: https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/
+ampUrl: https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/amp/
 type: article
-quality: 74
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
-    width: 700
-    height: 466
+  - url: https://www.bing.com/th?id=ON.2E9FA08E7A770632EC9EF23421CE43A7
+    width: 600
+    height: 400
     title: "Intel buys AI chipmaker Habana for $2 billion"
 
 related:
@@ -729,6 +733,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "KRyQQE5d40s7i/TFgTGktGSsRAzZ7fN+qz7Ou2O2hi/dA5Hgba5qYfN/Kcv5xyJRW1mWqJBvCw/ZtQFVgTaGTyDd1xRjg0psOjDcIqYZucPjSovQF5bu2rorrr/fTVJY4boGA8Hd4Hm4p4N6EV23f1BXpj/79MrcWGvnsrSjxf1tdCG9nmCiYZDPqNGPhGGLT+UcyMdhtNB0jXW4CiPMuOuZY9yhRljRSZt+kYSS8c7aNUmBKsNcNw2z/NmSxcvcWjevsKnXMcROdOozLDvDJA==;dDaygM5gbT1K+jb9y3FN8A=="
+secured: "z/IHjuQnG50wiH7GaCndrOgdposZXgj+fYP3+TTdwKPGwAlxyWYAZMJIXiO9950QeSlI8CYvEtOPz7uNiA+mvjlbLic7kd9IQrl8w/Ov28GjJ8XqvRkQNTLXdKNOEfNyF7FClFAt0XVDeE50PLyaXHZ/sTHQYp5nCUVdN6RDmI4t/wRuRKsnnZ/hxYS1o3INlnPHrCZ+Q54OXSbSzR3DU35NB+NE43UQHOPqo4ToVxrREN4LJ7tXHF+DfkaSEhg6q/CnxEgrVFCXW9cBkocKaw==;8ytsue2IRxeKzUzpP9ilpQ=="
 ---
 

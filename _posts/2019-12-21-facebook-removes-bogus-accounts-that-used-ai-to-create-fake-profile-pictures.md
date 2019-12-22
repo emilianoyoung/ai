@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Facebook discovers new fakes that show evolution AI generated disinformation"
-excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
-publishedDateTime: 2019-12-21T16:42:00Z
-sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+title: "Facebook removes bogus accounts that used AI to create fake profile pictures"
+excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used on such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. The company also took down fake accounts from the photo-sharing service Instagram, which it owns."
+publishedDateTime: 2019-12-21T22:02:00Z
+sourceUrl: https://www.cnet.com/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+ampUrl: https://www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
 type: article
-quality: 36
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Dhaka Tribune
-  domain: dhakatribune.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
-    width: 443
-    height: 249
-    title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+  - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
+    width: 196
+    height: 110
+    title: "Facebook removes bogus accounts that used AI to create fake profile pictures"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -65,21 +70,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
-        width: 196
-        height: 110
-  - title: "Facebook removes bogus accounts that used AI to create fake profile pictures"
-    excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used on such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. The company also took down fake accounts from the photo-sharing service Instagram, which it owns."
-    publishedDateTime: 2019-12-21T22:02:00Z
-    sourceUrl: https://www.cnet.com/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
-    ampUrl: https://www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-removed-fake-accounts-that-used-ai-to-create-fake-profile-pictures/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
     images:
       - url: https://www.bing.com/th?id=ON.3C3F3605C3E4F3B777591E3E5E37C2AE
         width: 196
@@ -172,6 +162,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
         width: 550
         height: 550
+  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
+    publishedDateTime: 2019-12-21T16:42:00Z
+    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
+        width: 443
+        height: 249
   - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
     excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
     publishedDateTime: 2019-12-20T19:50:00Z
@@ -210,6 +213,6 @@ related:
         width: 650
         height: 365
 
-secured: "FRXfNiFBcdY1dP0bV9MUelTjAf9WO2Uy8xV1Y842IwmSIeuG/zZs8XqeddHD8RddKFjF7/29dNQO0qGyRYNOjVEaFfUl1+tnLLLpnjm1i3Tj2DP/5MRqzSn8u5weVs+Carn7NARKyFU+qWeYWJ7csdmmPXobkevALq28ySZgNsJJIfLsIfmoCEy7Kmgiw/BiVRZETHtLjqTb0x0mI4411vJHBXb1xtNuvYYa5wQMZZrN2xjaFS7UAIhxmVPxJkPSaWX7+1GTG19lI2BV9RZhxg==;ovN+PNm51zkTs5/iW+PBWQ=="
+secured: "ITcqTmGJxTI5Y91moyHaJX2rfqPSSUSgrzG1fJ92/MmyIj7pPyXh7XmeU3a6U/fpmxACjJUo48dIHUuiNGQl81xTXS9hmXAbVoIG2yOzeFearxdffNYKBbiMbi79ULX6nnrCFhyIfE6Ly9zao6tE6p+a1MLnrFCJeM7RsZve9mdQIQbjXaPhOAGZNPYAunKv3n9qT1OsTNc8xYGBHFijJ3nlDqpAKOto1ur21tQ0k5HUVyZ096q3B95tG0cUdaR/QdzymvOQ/VrdpkMS0LRiIg==;Lzf4BoAOZl6zOrIioBmuhA=="
 ---
 
