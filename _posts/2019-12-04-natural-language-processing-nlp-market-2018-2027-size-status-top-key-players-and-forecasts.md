@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Wearable AI Market 2019|Top Key Players Analysis, Trends, Global Size Forecast To 2025"
+    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Wearable AI market is segregated on the basis of Product as Smart Watch, Ear Wear, Eye Wear, and Other Body Wear. Based on Deployment the global Wearable AI market is segmented in Cloud and On-Premises. Based on End-User Industry the global Wearable AI market is segmented ..."
+    publishedDateTime: 2019-12-09T02:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2019top-key-players-analysis-trends-global-size-forecast-to-2025-2019-12-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "ZA2Ms6St4ejwBoyWQcOj4wBVUSFMp0B1HYuY82slOQ38lbSIAdVfhWt22bFM/REBtGI5flDsP42I0M57Wb/SQO1eW5bflB6E12LRh3pcJxSs+zB6uKhk7Kc8AT2y94Kyj5OMGWiIfVg28Z7GT9IEd7514ay4B+f5MF3+yPN6asj75d4lf6QZpWHGjWXv8GGesLd4aZbat77EHMPRgthtZmQk6H8VMJKp1tbnDuB1dF3Gqar0caQkJePTyfmk6woySRK7IxwX/qpg3CfNdVczpA==;ifFoWgHMFNLf3eixFh2ShQ=="
 ---

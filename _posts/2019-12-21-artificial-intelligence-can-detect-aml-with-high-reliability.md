@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-c
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Artificial intelligence can detect AML with high reliability"
 
 related:
+  - title: "Artificial Intelligence can help detect blood cancer: Study"
+    excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added Schultze ... We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze. Data from more than 12,000 blood samples – these ..."
+    publishedDateTime: 2019-12-22T05:24:00Z
+    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/
+    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
+    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-can-help-detect-blood-cancer-study-718275/amp/
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.8527B0B2E6466C345509C302DBF0B50D
+        width: 655
+        height: 353
   - title: "AI can detect blood cancer with high reliability"
     excerpt: "London, Dec 21 : Artificial Intelligence can help detect one of the most common ... could support conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience. In the early stages the symptoms ..."
     publishedDateTime: 2019-12-21T20:53:00Z

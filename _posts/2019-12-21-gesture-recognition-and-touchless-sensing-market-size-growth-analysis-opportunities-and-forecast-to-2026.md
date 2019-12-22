@@ -41,6 +41,19 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
+  - title: "Some cities and states balk at face recognition tech"
+    excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
+    publishedDateTime: 2019-12-22T04:00:00Z
+    sourceUrl: https://www.herald-dispatch.com/business/some-cities-and-states-balk-at-face-recognition-tech/article_cd3e3777-f087-5aab-a88c-81800f0a3012.html
+    type: article
+    provider:
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
+        width: 700
+        height: 469
 
 secured: "z+2mUjlvAFtj0CXg5k2nM3oftMuv/SAmRWjvledoFSSA3ZVfBzHKkbRaTaQzpLx9DHzRTmV9gsOJHchz4/tTX2i2qLphefk4YudJJl/HbQ4VZkRs90zfcTWhjML8SnJUzBtRWfUVb2r7aeM03z/z/HmW/BcxNXaKFM9Lb83+PczVA6FjD+k/LY73f9yIjMjLpoB4imzfNWcLMm23Sq0KttdvmUU/uRRBap4onvYR9pbsnnsIP7VRGBsCiwYbpDLv56DvKErjlOy7z/u3DVJzNg==;RNuZ+6nP0azZSDVjEVwSLg=="
 ---

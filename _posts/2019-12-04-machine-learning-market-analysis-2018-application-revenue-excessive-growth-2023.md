@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T06:54:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-analysis-2018-application-revenue-excessive-growth-2023-2019-12-04
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -38,19 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vehicle Speech Recognition System Market All Set to Achieve Higher Revenues and Analysis by 2026"
-    excerpt: "Dec 02, 2019 (Market Prediction via COMTEX) -- Vehicle Speech Recognition System Market Report is a comprehensive study on current state of Vehicle Speech Recognition System Industry along with competitive and comparative analysis of key players, demand for products and segmentation by type, applications and investment opportunities for ..."
-    publishedDateTime: 2019-12-02T08:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-all-set-to-achieve-higher-revenues-and-analysis-by-2026-2019-12-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

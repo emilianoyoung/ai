@@ -63,15 +63,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
-    excerpt: "Dec 05, 2019 (The Expresswire) -- The report scrutinizes the market by an exhaustive analysis on Global Computer Vision Market dynamics, market size, current trends, issues, challenges, Forecasts, competition analysis, and companies involved. Global \"Computer Vision Market\" 2020 Industry Research Report is a professional and in-depth study on ..."
-    publishedDateTime: 2019-12-05T08:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-industry-2020-global-market-growth-trends-revenue-share-and-demands-research-report-2019-12-05
+  - title: "AI in Social Media Market Trends, Demand, Benefits, Size, Share, Key Players, Future Prospects and Industry Analysis"
+    excerpt: "Reports that review the information and communication technology industry has been presented by Market Research Future, which produces reports on industry ... The eminent competitors in the AI in social media market are Facebook (US), AWS (US), Baidu (China), IBM (US), Adobe Systems (US), Google (US), Salesforce (US), Snap (US), Clarabridge ..."
+    publishedDateTime: 2019-12-04T11:09:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-trends-demand-benefits-size-share-key-players-future-prospects-and-industry-analysis-2019-12-04
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -80,6 +80,19 @@ related:
     excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
     publishedDateTime: 2019-12-05T12:06:00Z
     sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Industry Analysis, Size, Share, Upcoming Trends, Segmentation and Forecast to 2019 - 2026"
+    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- According to MarketInsightsReports, The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2026, growing at a CAGR of 16.25% from 2017 to 2026. Global Natural Language Processing Market Report is highly intended to ..."
+    publishedDateTime: 2019-12-06T05:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-industry-analysis-size-share-upcoming-trends-segmentation-and-forecast-to-2019---2026-2019-12-06
     type: article
     provider:
       name: MarketWatch
@@ -102,19 +115,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Robotics and Automation Markets 2019-2024 in Industrial, Enterprise, Military, and Consumer Segments - ResearchAndMarkets.com"
-    excerpt: "Adoption and usage is anticipated to rapidly increase with improvements to artificial intelligence, robotic form factors, and fitness for use, cloud computing and related business models, such as robotics as a service. The global robotics market is broadly segmented into enterprise, industrial, military, and consumer robotics. Major market ..."
-    publishedDateTime: 2019-12-03T11:27:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191203005553/en/Global-Robotics-Automation-Markets-2019-2024-Industrial-Enterprise
+  - title: "Self-driving Car Market Market 2023 |Global Industry Demand Status with Recent Trends, Size and Share Analysis by with Top Players Forecast"
+    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate ..."
+    publishedDateTime: 2019-12-04T04:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-by-with-top-players-forecast-2019-12-04
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
     images:
-      - url: https://www.bing.com/th?id=ON.84394F7BC5D1CEA7721D120511082191
-        width: 700
-        height: 365
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "B3IfLzpB0VBmCey1QpWmPWNL70lFo8ydBL8spwsxP8GCryAQRmQxAxesED//2GIDK0oAsy/0E/LnLqKfddtoaopLBSO2kXf/lk9KOUPdeFp8VmSmoMKMpqa3bvkl82qFx1KMHEpMcb97HyY/2sy6VAjQut/KANtfRNJIdSbzepdEBVOlBMe3aC41uMVqOv4U/0Jb2FQg5DzQj9CeI6//Uau3MAdp2yBYIobHW8AzcZ/EWK7Dk+QWiRNEReX5rwixGP1gyIDWuqqe+mQ6BNK+AA==;M6v/4KQV5OyoT6NBz4+I/w=="
 ---

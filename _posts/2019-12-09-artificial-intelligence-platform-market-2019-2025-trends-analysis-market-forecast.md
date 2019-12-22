@@ -28,45 +28,6 @@ images:
     title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Key Players Profile and Industry Analysis to 2025"
-    excerpt: "Dec 02, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario ..."
-    publishedDateTime: 2019-12-02T04:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-key-players-profile-and-industry-analysis-to-2025-2019-12-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) In Education Market Analysis and Professional Outlook 2019 to 2025"
-    excerpt: "The Global Artificial Intelligence (AI) In Education market report follows SWOT (Strengths, Weaknesses, Opportunities, and Threats) Analysis with expected of 38.5% CAGR values during forecast period. The major manufacturers covered in this report: Google, IBM, Pearson, Microsoft, AWS, Nuance, Cognizant, Metacog, Quantum Adaptive Learning ..."
-    publishedDateTime: 2019-12-05T17:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-analysis-and-professional-outlook-2019-to-2025-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Robots Market 2019 Opportunity Analysis and Industry Forecast by 2025- MRE"
-    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type, Robot Type, Application Type and Regional Analysis. By Offering Type this market is segmented on the basis of Software, Processors and Hardware. Softwareis segmented into AI Solutions and AI ..."
-    publishedDateTime: 2019-12-09T03:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2019-opportunity-analysis-and-industry-forecast-by-2025--mre-2019-12-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "In-Depth AI (Artificial Intelligence) Image Recognition Market Global Research and Analysis 2019-2024"
     excerpt: "guiding autonomous robots and self-driving cars, and in accident avoidance systems. Avail a Sample Copy before Purchase: https://www.marketinsightsreports.com/reports/05221252967/ai-artificial-intelligence-image-recognition-market-growth-trends-and-forecast-2019-2024/inquiry?source=MW&Mode=21 Market competition by Top manufacturers, with ..."
     publishedDateTime: 2019-12-04T06:36:00Z
@@ -80,88 +41,36 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Disclosing Latest Advancement and Demand 2019 to 2025"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Healthcare Market report provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs. MarketInsightsReports ensures ..."
-    publishedDateTime: 2019-12-03T04:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-disclosing-latest-advancement-and-demand-2019-to-2025-2019-12-03
+  - title: "Vehicle Speech Recognition System Market All Set to Achieve Higher Revenues and Analysis by 2026"
+    excerpt: "Dec 02, 2019 (Market Prediction via COMTEX) -- Vehicle Speech Recognition System Market Report is a comprehensive study on current state of Vehicle Speech Recognition System Industry along with competitive and comparative analysis of key players, demand for products and segmentation by type, applications and investment opportunities for ..."
+    publishedDateTime: 2019-12-02T08:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-all-set-to-achieve-higher-revenues-and-analysis-by-2026-2019-12-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Law Market 2019 Global Analysis and Outlook :AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Law market research report from Reports Value consolidates the most important industry information while highlighting essential and valuable data. A report on the global Artificial Intelligence In Law market has come out incorporating its research and analysis."
-    publishedDateTime: 2019-12-06T05:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2019-global-analysis-and-outlook-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm-2019-12-06
+  - title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
+    excerpt: "Dec 05, 2019 (The Expresswire) -- The report scrutinizes the market by an exhaustive analysis on Global Computer Vision Market dynamics, market size, current trends, issues, challenges, Forecasts, competition analysis, and companies involved. Global \"Computer Vision Market\" 2020 Industry Research Report is a professional and in-depth study on ..."
+    publishedDateTime: 2019-12-05T08:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-industry-2020-global-market-growth-trends-revenue-share-and-demands-research-report-2019-12-05
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 53
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI In Fintech Market 2019 Latest Trend, Technology and Advancement Outlook 2025"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The AI In Fintech Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The AI In Fintech Market report is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ..."
-    publishedDateTime: 2019-12-03T22:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-latest-trend-technology-and-advancement-outlook-2025-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2019 Opportunity Analysis and Industry Forecast by 2025- MRE"
-    excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
-    publishedDateTime: 2019-12-09T03:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-opportunity-analysis-and-industry-forecast-by-2025--mre-2019-12-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Wearable AI Market 2019|Top Key Players Analysis, Trends, Global Size Forecast To 2025"
-    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Wearable AI market is segregated on the basis of Product as Smart Watch, Ear Wear, Eye Wear, and Other Body Wear. Based on Deployment the global Wearable AI market is segmented in Cloud and On-Premises. Based on End-User Industry the global Wearable AI market is segmented ..."
-    publishedDateTime: 2019-12-09T02:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2019top-key-players-analysis-trends-global-size-forecast-to-2025-2019-12-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Automotive Market 2019 analysis by Trends, Demand, Opportunities and Technology Forecast to 2025"
-    excerpt: "Global artificial intelligence (AI) in automotive market was worth US$565.2 million in 2016. With the emergence of self-driving and connected vehicles, this market is expected to register significant CAGR from 2019 to 2025. It is expected to reach an attractive US$10,573.3 million by 2025. The market will grow at a CAGR of about 38.46%."
-    publishedDateTime: 2019-12-03T08:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2019-analysis-by-trends-demand-opportunities-and-technology-forecast-to-2025-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Marketing Market Growing Trends, Scope and Technology Growth 2019 to 2025"
-    excerpt: "The Artificial Intelligence in MarketingMarket report provides a unique tool for evaluating the Market, highlighting opportunities, and supporting strategic and tactical decision-making. This report recognizes that in this rapidly-evolving and competitive environment, up-to-date marketing information is essential to monitor performance and make ..."
-    publishedDateTime: 2019-12-05T05:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-growing-trends-scope-and-technology-growth-2019-to-2025-2019-12-05
+  - title: "Vehicle Speech Recognition System Market 2019 – Competition Landscape, SWOT Analysis with top key players"
+    excerpt: "Dec 05, 2019 (Global QYResearch via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
+    publishedDateTime: 2019-12-05T10:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-competition-landscape-swot-analysis-with-top-key-players-2019-12-05
     type: article
     provider:
       name: MarketWatch
@@ -184,67 +93,71 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chips Market Overview, Scope and Technology Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 07, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence Chips Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Artificial ..."
-    publishedDateTime: 2019-12-07T08:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-overview-scope-and-technology-advancement-outlook-2019-to-2025-2019-12-07
+  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
+    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
+    publishedDateTime: 2019-12-06T12:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Social Media Market Trends, Demand, Benefits, Size, Share, Key Players, Future Prospects and Industry Analysis"
-    excerpt: "Reports that review the information and communication technology industry has been presented by Market Research Future, which produces reports on industry ... The eminent competitors in the AI in social media market are Facebook (US), AWS (US), Baidu (China), IBM (US), Adobe Systems (US), Google (US), Salesforce (US), Snap (US), Clarabridge ..."
-    publishedDateTime: 2019-12-04T11:09:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-trends-demand-benefits-size-share-key-players-future-prospects-and-industry-analysis-2019-12-04
+  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
+    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
+    publishedDateTime: 2019-12-09T18:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
+    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in agriculture market is estimated at $578.0 million in 2019 and is projected to reach $2,015.7 ..."
+    publishedDateTime: 2019-12-06T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-113000263.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 46
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Industry Analysis, Size, Share, Upcoming Trends, Segmentation and Forecast to 2019 - 2026"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- According to MarketInsightsReports, The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2026, growing at a CAGR of 16.25% from 2017 to 2026. Global Natural Language Processing Market Report is highly intended to ..."
-    publishedDateTime: 2019-12-06T05:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-industry-analysis-size-share-upcoming-trends-segmentation-and-forecast-to-2019---2026-2019-12-06
+      - url: https://www.bing.com/th?id=ON.B29BF5305630D9A2599CBFBC3F6556A1
+        width: 400
+        height: 251
+  - title: "Global Robotics and Automation Markets 2019-2024 in Industrial, Enterprise, Military, and Consumer Segments - ResearchAndMarkets.com"
+    excerpt: "Adoption and usage is anticipated to rapidly increase with improvements to artificial intelligence, robotic form factors, and fitness for use, cloud computing and related business models, such as robotics as a service. The global robotics market is broadly segmented into enterprise, industrial, military, and consumer robotics. Major market ..."
+    publishedDateTime: 2019-12-03T11:27:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191203005553/en/Global-Robotics-Automation-Markets-2019-2024-Industrial-Enterprise
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Self-driving Car Market Market 2023 |Global Industry Demand Status with Recent Trends, Size and Share Analysis by with Top Players Forecast"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate ..."
-    publishedDateTime: 2019-12-04T04:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-by-with-top-players-forecast-2019-12-04
+      - url: https://www.bing.com/th?id=ON.84394F7BC5D1CEA7721D120511082191
+        width: 700
+        height: 365
+  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
+    publishedDateTime: 2019-12-10T19:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Medicine Market -Global Opportunity Analysis and Industry Forecast, 2018-2025"
-    excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
-    publishedDateTime: 2019-12-04T12:17:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36635/artificial-intelligence-in-medicine-market-global/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 2
+      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
+        width: 400
+        height: 137
 
 secured: "2bxcVb5etpua2PPNdbfGTYltBcamNruIvBzfSvvBPLNZno5xJEvXuAPgpbhmnJD3UoMhwBp5n9tYs7EK8lqOvBWo8uIuNqnwPSaDqfTDIs/hmlHf1f8GPhxhz0KCF9BKtadrB8vOAW8ECEHoLB8xUyJ4Am6Z17LxC9zj/6nuUvqYU7T6VCOKBterNSxxNbJnM5pU4O2vxuh627M+ELorLzOSiUu0Tudb2QE86LJ2TTs8Z/UM590x/CiXQyf+GMZ2KkDjAuuITWUe4mpLWMfVig==;9brnAo1ZfGFtUdO6wwkt4Q=="
 ---
