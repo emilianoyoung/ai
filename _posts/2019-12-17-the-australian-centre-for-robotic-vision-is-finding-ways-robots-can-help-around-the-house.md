@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
         width: 200
         height: 200
+  - title: "The robots are coming, are we ready?"
+    excerpt: "Artificial Intelligence (AI), the natural or human intelligence that can be demonstrated by machines or computer systems, is all around us, with almost every industry racing to embed AI into their products and services. The insurance industry is no exception, having recognized the way in which AI can assist in making their businesses more user ..."
+    publishedDateTime: 2019-12-22T09:06:00Z
+    sourceUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/
+    ampUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
+    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.056FED87F4B4CD36AAB993E33138A9D4
+        width: 640
+        height: 427
   - title: "Using robots to inspect sewer pipes"
     excerpt: "Data retrieved from the robot will be used for a variety of assessments. For example, core samples taken from the pipes will be analyzed by a scanning electron microscope to relate material chemistry to pipe strength, in addition to using finite element modeling and employing artificial intelligence. In 2015, Abolmaali--a renowned pipe expert ..."
     publishedDateTime: 2019-12-18T19:13:00Z

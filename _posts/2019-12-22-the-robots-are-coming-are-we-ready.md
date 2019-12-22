@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Are Robots Ready for Prime Time?"
-excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
-publishedDateTime: 2019-12-13T17:00:00Z
-sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
-ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
+title: "The robots are coming, are we ready?"
+excerpt: "Artificial Intelligence (AI), the natural or human intelligence that can be demonstrated by machines or computer systems, is all around us, with almost every industry racing to embed AI into their products and services. The insurance industry is no exception, having recognized the way in which AI can assist in making their businesses more user ..."
+publishedDateTime: 2019-12-22T09:06:00Z
+sourceUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/
+ampUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
+cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: businesstech.co.za
+  domain: businesstech.co.za
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
-    width: 200
-    height: 200
-    title: "Are Robots Ready for Prime Time?"
+  - url: https://www.bing.com/th?id=ON.056FED87F4B4CD36AAB993E33138A9D4
+    width: 640
+    height: 427
+    title: "The robots are coming, are we ready?"
 
 related:
   - title: "7 tips to get your resume past the robots reading it"
@@ -56,21 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9F0CD8C662F039E63370E60D6E5FB065
         width: 700
         height: 366
-  - title: "The robots are coming, are we ready?"
-    excerpt: "Artificial Intelligence (AI), the natural or human intelligence that can be demonstrated by machines or computer systems, is all around us, with almost every industry racing to embed AI into their products and services. The insurance industry is no exception, having recognized the way in which AI can assist in making their businesses more user ..."
-    publishedDateTime: 2019-12-22T09:06:00Z
-    sourceUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/
-    ampUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
-    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
+  - title: "Are Robots Ready for Prime Time?"
+    excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
+    publishedDateTime: 2019-12-13T17:00:00Z
+    sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
+    ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
+      name: CMS Wire
+      domain: cmswire.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.056FED87F4B4CD36AAB993E33138A9D4
-        width: 640
-        height: 427
+      - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
+        width: 200
+        height: 200
   - title: "Using robots to inspect sewer pipes"
     excerpt: "Data retrieved from the robot will be used for a variety of assessments. For example, core samples taken from the pipes will be analyzed by a scanning electron microscope to relate material chemistry to pipe strength, in addition to using finite element modeling and employing artificial intelligence. In 2015, Abolmaali--a renowned pipe expert ..."
     publishedDateTime: 2019-12-18T19:13:00Z
@@ -113,6 +113,6 @@ related:
         width: 700
         height: 393
 
-secured: "crstHl0wULEXS4pEeZKe2flknEI6Rx8WvCvudjE8XcN5ujNfpGjOAaCEKOQCOzrK7rVfJ+zFym2QRemezELjF9ft6CQ/IlMeWHs1fx8UNZRo6dwKVr/d0hABsigXITWUMBExitRI7YLb2M1odh7DAXBE4C7STlp7GYFqLnPqr03VweJemKisXnZTeQYNZU3jwotdkp5qlj2eQFaxtlUxgAqdBXfbezwuyHD6CYFbTRN+iEYMx/847ur0AonDrpyXqHmt2+HN542MYrAsFKGpqw==;F0g6JVCYtFTsH6NDVUMfLQ=="
+secured: "iDd/qjK3TlXZjAxKq98H4LG3cS2SsRHVDp8/LmqzIK2PQlojKwopIZ9/wwmhb4SOpOACX2vhqpV8aYd6hDL4CQjEk4j/0mYWW5tBJb7oU9jeYXjQs/tdN55w/AU0n2CqFL7Nwn4zQsslqNQhRN3HdioSYcK6q8hw+pPgynnBOvc5cZjDZ4Z1Q/09SC4JTG2A8GS3P0EN0rdM/tMnVtexfom1Ir6KBhFJNBXhOfyNRtQLLzgRNznoONij8tXO4y5WwRCDENdogw1v15J37JzfyQ==;WH5b/Pq2UUrnl/P9+OdzfA=="
 ---
 

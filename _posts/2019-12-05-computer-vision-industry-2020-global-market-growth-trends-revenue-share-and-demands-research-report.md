@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market All Set to Achieve Higher Revenues and Analysis by 2026"
-    excerpt: "Dec 02, 2019 (Market Prediction via COMTEX) -- Vehicle Speech Recognition System Market Report is a comprehensive study on current state of Vehicle Speech Recognition System Industry along with competitive and comparative analysis of key players, demand for products and segmentation by type, applications and investment opportunities for ..."
-    publishedDateTime: 2019-12-02T08:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-all-set-to-achieve-higher-revenues-and-analysis-by-2026-2019-12-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Vehicle Speech Recognition System Market 2019 – Competition Landscape, SWOT Analysis with top key players"
     excerpt: "Dec 05, 2019 (Global QYResearch via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
     publishedDateTime: 2019-12-05T10:19:00Z

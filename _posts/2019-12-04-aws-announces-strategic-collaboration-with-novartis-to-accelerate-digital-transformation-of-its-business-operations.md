@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F28C69CF486BEB7F1642F204142131
         width: 700
         height: 466
-  - title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
-    excerpt: "Machine translation engines are a good tool, but they are unable to break down language barriers. In the development of machine translation, the next step is to improve the translation of audiovisual material. Many of us are familiar with Google Translate, translation applications for travellers’ smartphones and the instruction manuals of ..."
-    publishedDateTime: 2019-12-02T08:55:00Z
-    sourceUrl: https://www.helsinki.fi/en/news/language-culture/machine-translation-no-match-for-humans-machines-translate-words-humans-the-underlying-message
-    type: article
-    provider:
-      name: Helsinki
-      domain: helsinki.fi
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.96A941A359B3A63A671F1147FE486BF6
-        width: 700
-        height: 367
 
 secured: "iFs5WDSBNtq06qI4Iy3oisCUZ5jUTMk4YALLeD1wcxk+3pp8mTiFqm8Q/k4dWG6qY9ZsJa0uEvTGnJevj62SZo+vy87PFAF4ngCpBGHu8iNvmOkOfk/UeNy1bz0Rk7VxHy+Y8l8STw2/Hb5Nv6psB//MLRFmhv2Oarh9XjHoEtk+i0itQXeY9iB7885kB+jNfBGDykKIYSQZrn3/ne9CriTQLkdjwIbNLG4AEwuplFdrQxwrX9kHbA6zWkW683N2QYkjB+zJqJOHKIFCe9gnSQ==;C3ZMXmWL4V0Xm+3fH7g8Zg=="
 ---

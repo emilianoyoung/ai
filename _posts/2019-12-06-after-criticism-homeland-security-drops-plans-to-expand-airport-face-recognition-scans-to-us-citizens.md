@@ -52,21 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.401133CE91C4E0DA55D18E3802264A1B
         width: 700
         height: 529
-  - title: "Chinese companies want to help shape global facial recognition standards"
-    excerpt: "Human rights campaigners say the proposed standards are a threat to civil liberties. The use of facial recognition technology is continuing to expand, despite concerns about its accuracy and fairness and about how it could be used by governments to spy on people. These concerns have been heightened following a report by the Financial Times ..."
-    publishedDateTime: 2019-12-02T08:55:00Z
-    sourceUrl: https://www.engadget.com/2019/12/02/china-facial-recognition-standards/
-    ampUrl: https://www.engadget.com/amp/2019/12/02/china-facial-recognition-standards/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/02/china-facial-recognition-standards/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.84E5FC9B2551F7F73B5E0A085C1BB34E
-        width: 700
-        height: 367
   - title: "After criticism, Homeland Security drops plans to expand airport face recognition scans to US citizens"
     excerpt: "Homeland Security has confirmed it will not expand face recognition scans to U.S. citizens arriving and departing the country, days after it emerged the agency proposed making the scans for citizens mandatory. The department, whose responsibility is border protection and immigration checks, said in a government filing that it it wanted to ..."
     publishedDateTime: 2019-12-05T18:32:00Z

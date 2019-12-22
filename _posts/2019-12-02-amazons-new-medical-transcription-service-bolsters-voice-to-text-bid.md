@@ -106,19 +106,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F07D9AF60EE9B983D1B3E1850E18B913
         width: 700
         height: 466
-  - title: "Amazon Transcribe Medical – Real-Time Automatic Speech Recognition for Healthcare Customers"
-    excerpt: "In 2017, we launched Amazon Transcribe, an automatic speech recognition service that makes it easy for developers to add speech-to-text capability to their applications: today, we’re extremely happy to extend it to medical speech with Amazon Transcribe ..."
-    publishedDateTime: 2019-12-02T09:00:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/amazon-transcribe-medical-real-time-automatic-speech-recognition-for-healthcare-customers/192576
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 29
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
 
 secured: "nNeDhOMpX95l/w2FITmo/wlv3ekb7QJTLDimefgG1YXTju0NvwFPJlaFkVcMLI6mm7oYkIXF1vGO5wi5qNhcY4E2GVnIXpUXOt2dqHF3zMr9daoT7zSxJgumLylJlLSiOayzw8QtjhKv5YSfzxunZUEMTJxUsZhg/0OO1Bs/w2ItXTMgw39HdQ6xQC92Icm8hx/8pOuAuKEhVXyc6hdhEBbkCHwUSjwfeQbRbPuBFzLOCu26pyEgnihd3A0x9THgNn6Sfmgx6d0pX6V+12B6/Q==;q7Ws6CAfY00cqnVxFVLmMw=="
 ---
