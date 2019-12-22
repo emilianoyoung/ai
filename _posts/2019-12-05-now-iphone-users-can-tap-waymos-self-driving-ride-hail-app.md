@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/a
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/amp
 type: article
 quality: 104
-heat: 404
+heat: 394
 published: true
 
 provider:
@@ -90,21 +90,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
         width: 700
         height: 367
-  - title: "Harman is building a self-driving concert hall"
-    excerpt: "Uber Black has experimented with tying music genres -- or silence -- to an account. And while catching up on TV season-binging may represent the ultimate sign of self-driving triumph, the audio experience may also change as it crosses the bridge. For the past few years, Harman has been working to bring audio personalization to a new level ..."
-    publishedDateTime: 2019-12-02T15:19:00Z
-    sourceUrl: https://www.zdnet.com/article/harman-is-building-a-self-driving-concert-hall/
-    ampUrl: https://www.zdnet.com/google-amp/article/harman-is-building-a-self-driving-concert-hall/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/harman-is-building-a-self-driving-concert-hall/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.AF815BD58224DF3B05E3DC5C459FED9F
-        width: 700
-        height: 525
   - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
     excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers without anyone behind the steering wheel, drivers have complained about the robot cars ..."
     publishedDateTime: 2019-12-04T07:00:00Z

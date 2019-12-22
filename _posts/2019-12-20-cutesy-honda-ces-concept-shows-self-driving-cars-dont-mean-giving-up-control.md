@@ -159,6 +159,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
+    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
+    publishedDateTime: 2019-12-22T16:21:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
+        width: 600
+        height: 315
   - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
     excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
     publishedDateTime: 2019-12-13T22:32:00Z

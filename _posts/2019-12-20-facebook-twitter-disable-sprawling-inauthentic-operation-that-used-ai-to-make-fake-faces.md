@@ -8,7 +8,7 @@ ampUrl: https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-di
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/?outputType=amp
 type: article
 quality: 150
-heat: 290
+heat: 300
 published: true
 
 provider:
@@ -129,6 +129,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8B67C0C7AC285D6F9598B7C829CA375C
         width: 700
         height: 350
+  - title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
+    excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
+    publishedDateTime: 2019-12-22T15:31:00Z
+    sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=home-page
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.99F031CF84883FB69D19AF871087A9CB
+        width: 700
+        height: 393
   - title: "Facebook takes down fake accounts with fake faces pushing politics"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
     publishedDateTime: 2019-12-20T21:07:00Z

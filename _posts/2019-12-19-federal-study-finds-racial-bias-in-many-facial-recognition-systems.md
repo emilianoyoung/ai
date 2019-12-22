@@ -938,6 +938,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T19:25:00Z
+    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 45
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
+        width: 1904
+        height: 1428
   - title: "Federal study finds racial bias of many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z
@@ -1702,15 +1717,6 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T20:28:11Z
-    sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
-    type: article
-    provider:
-      name: MassLive on MSN.com
-      domain: msn.com
-    quality: 5
 
 secured: "iPEOTLdTOdvN9mW21fttkXEWSS0uYb3Za7qYnAxgPxJ5JExZkkbu8NBCsnt4ZESAfh8C5A3lIHFCmrSRYWuGEpZ7rlKhOSkzUzwQL5XdY+NvxeXsT0qT6ZOF18O8ELT5QMls8kPjXYUovbLoY5YGUfzcBApSGC7aH+tgEA+51IXt3uCBACwOQQJBJbUU3xUj7UH/LGvt12k7Xr/Jf6NCxP4rBp2Iof+ejRh3bt/CRVWo7Kw7a8NodEtr7d+tmGbLPS583FUouQO47oTyVH+oBQ==;skzldp+GQrbn0Zx8aqlMlg=="
 ---

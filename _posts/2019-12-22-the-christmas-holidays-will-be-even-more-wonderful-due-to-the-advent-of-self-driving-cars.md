@@ -1,27 +1,33 @@
 ---
 category: news
-title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
-excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-publishedDateTime: 2019-12-22T00:02:00Z
-sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
+title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
+excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
+publishedDateTime: 2019-12-22T16:21:00Z
+sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
+ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
 type: article
-quality: 20
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
-    width: 700
-    height: 393
-    title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+  - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
+    width: 600
+    height: 315
+    title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -168,21 +174,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
-  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
-    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
-    publishedDateTime: 2019-12-22T16:21:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
-        width: 600
-        height: 315
   - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
     excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
     publishedDateTime: 2019-12-13T22:32:00Z
@@ -424,6 +415,19 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
+  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-22T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+        width: 700
+        height: 393
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z
@@ -469,6 +473,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "MZBRpu9gY/Vgb5nZas+mS1cB8nTnb4pD80er4NH4rpXbVv7i21bRJdMm+dh70AI+Xuo136mKAcvXqyg6y2eCmZTvujt3QiGNJNZfA3Eh2/Yv4M8I58MVQjCneVnIScPhSzJifbE4aZW0+CQnC0NJvGhvnH6IwC7NXz4PircP16euAkzsWVusH05/WHsSE2jv8lJF8ud01KArC8ZiGcEVG7GtgwF8eyY1SAhFCMktl1ig9JSAwg+VysPqViZy1SK9WY/4yOZK9+eKnWvambzc4g==;v4uso3vXVGNIFATMaeo/kw=="
+secured: "uzqKtL8zZIpHkGJ+HHERhZU0Uke00VoJkgntekav/5en3nkfPkvcPtXXzRaLdj+kbocvGx+EXU3ygV6CEruvKsWKsb3e9mRUqqE5GLQGNTfkvMT5yYoBJ05rwzzHgG70BCY9VqYDTy8cak3sFukf6FU3lvbj2UHcrzb+Qkbs57cx1OSF8UiWY5+dj6lk8vYLnlbeYAROkcMWV0D5k9bNH7w2+rZaqizLooza4rMuCHTsLYWtqnPQJeCJXk3T7NidGqh+RGM4Pnt4vmFSpXYbFA==;c38yKlFQTknm8133lz3KGw=="
 ---
 

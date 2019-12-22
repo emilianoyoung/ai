@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"
-excerpt: "According to research from AdStage, cost per milles (CPMs) on Facebook have grown 90% year-on-year ... Back in July, Instagram launched its anti-bullying tools, including a pop-up that provided a warning to users when its AI detects that a comment they are posting could be offensive. According to the platform, this prompt has seen some good ..."
-publishedDateTime: 2019-12-20T11:15:00Z
-sourceUrl: https://www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/
-ampUrl: https://www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/amp/
-cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/amp/
+title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
+excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
+publishedDateTime: 2019-12-22T15:31:00Z
+sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=home-page
 type: article
-quality: 39
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Smart Insights
-  domain: smartinsights.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
-    width: 550
-    height: 550
-    title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"
+  - url: https://www.bing.com/th?id=ON.99F031CF84883FB69D19AF871087A9CB
+    width: 700
+    height: 393
+    title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -144,19 +146,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8B67C0C7AC285D6F9598B7C829CA375C
         width: 700
         height: 350
-  - title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
-    excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
-    publishedDateTime: 2019-12-22T15:31:00Z
-    sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=home-page
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.99F031CF84883FB69D19AF871087A9CB
-        width: 700
-        height: 393
   - title: "Facebook takes down fake accounts with fake faces pushing politics"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
     publishedDateTime: 2019-12-20T21:07:00Z
@@ -187,6 +176,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7920CD8894C02750379EEE36399BC359
         width: 700
         height: 466
+  - title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"
+    excerpt: "According to research from AdStage, cost per milles (CPMs) on Facebook have grown 90% year-on-year ... Back in July, Instagram launched its anti-bullying tools, including a pop-up that provided a warning to users when its AI detects that a comment they are posting could be offensive. According to the platform, this prompt has seen some good ..."
+    publishedDateTime: 2019-12-20T11:15:00Z
+    sourceUrl: https://www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/
+    ampUrl: https://www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/amp/
+    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/amp/
+    type: article
+    provider:
+      name: Smart Insights
+      domain: smartinsights.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
+        width: 550
+        height: 550
   - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
     excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
     publishedDateTime: 2019-12-21T16:42:00Z
@@ -238,6 +242,6 @@ related:
         width: 650
         height: 365
 
-secured: "vEjaeO79Dn5df+sh4YUEU71enAIPhYhjoqAIkH+iKuTfq/XCiEE6GzdVOTyR6MYjU5jz7+ByY7ZCaGcwEyZufp4/VABgnH4HS6685XlrumGlq78XP+FZudWV2SuX56v++Rf5CB9uWx96Dku/i8Uu4grbUGr6W18rV8CjgNpb3gj4TW+/3y9kH9ZKl3FJhyS9MsBXIzPHCx8FjBuqnLbyPl0IrnCd93TP45bMhW79+c7ASJChmt0piRYG5PFLnQrVoROQb+Fd6l3fO1fsB/nB7A==;R0j/dqoRXx+2SAP56q2RQQ=="
+secured: "zNQBZ78zN8HBLjYCAYKYPOACYIVb0YvpKTjB6gl2Mtrwcny5vjofg8CmrcvZSjJertgh1qKmLp5Gg3vHy35Fm3xJnn6QNTEpBG4MYsi+1PI060BV4e+FKGxIoji+L7PYYZrKdBsUffeVl/cMmQvFHqgnSQO5iUF64Q4hvHTn4XVlZNexkJbFUuloz677kxCPypebslccVjn8NxJbwjYB5lo+2bnWrSFchgi+yafiaS+dZLqfF4Xj4QmQB3zycaBtPLGs6ai48mnPT++EndyKTQ==;dCS3q5pzcY3KOlY1lKIWSA=="
 ---
 
