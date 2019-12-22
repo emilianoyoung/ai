@@ -29,6 +29,6 @@ images:
     height: 466
     title: "This Fintech App Has 10 Million-Plus Downloads Within A Year Of Launch"
 
-secured: "1S3Bzr4VO9wtTd05cLOioHYmTaHOgmQ3SkcX/R0+9deRcUb/IZd9W0dXSt26BSKGL7QHwCd3+Srb/AaNCGymza0SSugPNo6f7t7+l/adF9FNJUa2DzRya3TrJ94hg2mJPdQ2eACS0ugExuLGKAAix3U5WxTB/yr4oDAgjzaXmU3nBq3bPTBGA311175bmBhF03NFGCGiNItn+cM1PLonRKZy4lmXupHSFEwKHxY2CMtt+35MV6UXI4B9BEEqP5T7XPxEtWT10evxtmE+/jlFug==;dHl8T6saXPjsW/XvlX8sIA=="
+secured: "gRy8xmlDgT59eIo4WeX5fHf48rrFMCgFgSM6UKg2rf7KVSlysuYpetpL2j40FuuG+afGBeJyCBiBoa31hb1Ta396GDQjgCmS/efTHcwznSYf91D1Qh+APNGYpR9tClQ1Odr00WEUdykMmnntf76ccPPRabtEKnSmvNTNQU8VRoZmzfKG2gvX7jd7pgZE1WWE1jmU2xS8xzbybGPKrmX2E9xqRNjlm0PyqQs6pogOOOVJGxZztL5xTNyg/KDBeQ8dF8ta9qOwFwcPzxdPz+vnpA==;/EOVzZ7YW57Jvh4hkCX1Mw=="
 ---
 

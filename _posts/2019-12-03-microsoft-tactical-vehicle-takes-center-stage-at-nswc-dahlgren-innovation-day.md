@@ -57,6 +57,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 45
+  - title: "Telecom Innovation | Microsoft Industry"
+    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
+    publishedDateTime: 2019-12-05T23:43:00Z
+    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
+        width: 770
+        height: 484
 
 secured: "rcdytfA7vKU3yYNAFPk4b4K95ZPxZBC+aL8b3G8PMEnPYGpDYkGdLx8uSj+mwRjt7J/n8CJxEnOl9D9DL3z/V/pcc3PA/Y5frOfGPQYpZlPF6Z8ccFdpFx5vEDXJIOu/1TK7Sqjb1B+hKmgMMdoNe+mvVWC4ikh/sqNFPXdDMvbxDuazR7DgtC7XPNswYdvQeYLMLlNw+VHj6F8DetKPmjUV7VTVOS0Nkb/tAMz38u2bJjyTJ4GsrsiRzsP2fVmXY97/ZaTKUdoWnYVWz2p1RQ==;mCMOgjJjzBu9zw86ga/6oQ=="
 ---

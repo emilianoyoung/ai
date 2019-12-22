@@ -189,21 +189,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-    ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 89
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
   - title: "Many facial recognition tools convey racial bias, study finds"
     excerpt: "Some systems had a harder time identifying people of color than Caucasians, an NIST study says. Many facial recognition systems have a harder time identifying African-American, Asian and native groups than Caucasians, according to a study released Thursday by the National Institute of Standards and Technology. There were higher rates of false ..."
     publishedDateTime: 2019-12-20T00:54:00Z
@@ -369,6 +354,17 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
+    publishedDateTime: 2019-12-20T18:00:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
   - title: "Even The Government Admits Facial Recognition Is Racially Biased"
     excerpt: "A new federal study from the National Institute of Standards and Technology (NIST) confirms, again, that facial recognition technology is riddled with a fundamental racial bias. Using nearly 200 facial recognition algorithms developed by 99 corporations on 18 million images from federal databases, the algorithms’ accuracy was found to vary ..."
     publishedDateTime: 2019-12-20T16:50:00Z
@@ -927,21 +923,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
         width: 700
         height: 394
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T19:25:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 45
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-        width: 1904
-        height: 1428
   - title: "Federal study finds racial bias in many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z
@@ -1721,6 +1702,15 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T20:28:11Z
+    sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
+    type: article
+    provider:
+      name: MassLive on MSN.com
+      domain: msn.com
+    quality: 5
 
 secured: "9kwXxjgjEOWIBdpvJusKUZbqGTl2LixOeEdehfhUe9SNSMocU3SLkyEGjdCWNjvsJW7N0fIwgiG2oRlHGme3LWF1aeMI8AXdn+R8ROfgc+MIF2b1S3iPW1j72u7GvrU9dwHxPHcIwQNPEsY8Md5CxahBNsPHOaouOGwHyFnWyxtANwEo8jTZjwbfLFr0i7VedoTCDM8ZvE5UcFLVhG9FySxllbFhSkX9132lTWie+e49lOjqBwmUSfGV7nFA+iERqYsxWqH8kHs/OGTSYtZwrA==;jyadWc+8h5bGtRh1OesXJg=="
 ---

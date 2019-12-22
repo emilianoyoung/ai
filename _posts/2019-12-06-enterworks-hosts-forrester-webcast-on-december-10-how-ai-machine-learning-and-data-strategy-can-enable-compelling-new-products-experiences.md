@@ -24,15 +24,19 @@ images:
     title: "EnterWorks Hosts Forrester Webcast on December 10: \"How AI, Machine Learning and Data Strategy Can Enable Compelling New Products & Experiences\""
 
 related:
-  - title: "EnterWorks Hosts Forrester Webcast on December 10: \"How AI, Machine Learning and Data Strategy Can Enable Compelling New Products & Experiences\""
-    excerpt: "The webinar, \"How AI, Machine Learning and Data Strategy Can Enable Compelling New Products & Experiences,\" will take place on Tuesday, December 10, 2019 from 11:00 am to 12:00 pm EST. It is sponsored by EnterWorks; Amplifi, an information management consultancy that helps the world's leading brands, retailers and manufacturers to harness and ..."
-    publishedDateTime: 2019-12-05T12:55:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/enterworks-hosts-forrester-webcast-on-december-10-how-ai-machine-learning-and-data-strategy-can-enable-compelling-new-products-experiences-1028740933
+  - title: "Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack"
+    excerpt: "Chris Riccomini talks about the current state-of-the-art in data pipelines and data warehousing, and shares some of the solutions to current problems dealing with data streaming and warehousing."
+    publishedDateTime: 2019-12-09T01:03:00Z
+    sourceUrl: https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
+      name: InfoQ
+      domain: infoq.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.51B8BAC1430CF9B7BECCF2673B409450
+        width: 300
+        height: 282
 
 secured: "2/pTm/0cIcJh131hAbPX9mwKL71KwSUV/QvaPToXg8QktcAJzUrp+iLLxFdj25VTBHufaxnXeAHGx5EKKmiQaYQRAPw7KDPktfUHCiPcgeP2oYJsqP+/XCaDMIdhNzMxhc4SnPuNj53eTq9V4U+48o3Dc1ArMrgaSFfmgxNagXn4E5zEjLfmbJgqYHOggwB3wP5UXWL5qdoW4M0CAm5fVP5zKITQMjMaCf4wMLXzRxjT++MrVPpGPNTp493c0j4ErU9yzDlylIELsmkb1mGJIA==;fZ8LrplSwPQb5O+3QiKRgA=="
 ---

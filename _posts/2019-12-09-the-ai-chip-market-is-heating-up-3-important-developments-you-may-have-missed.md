@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heat
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -94,19 +94,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F565E236054E5BE547259597B52A997
         width: 336
         height: 224
-  - title: "AI Stock News: GBT (OTCPINK: GTCH) Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "The new architectures are various combinations of matrix, vector and scalar styles designed for AI GPU chips, which can be used in a wide variety of applications. The new concepts will be based on the Company's recent filed patent, which seeks to protect 3D multi-planner microchip technologies. The goal is to enable the design of 3D multi ..."
-    publishedDateTime: 2019-12-02T14:14:00Z
-    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12021NewMicrochipArchitectures.asp
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
-        width: 649
-        height: 328
 
 secured: "SZDM9pqFbWwM7HckDWgqzqULuHnMeOvgXEXhGWDTapvr2g35eTyTfYwoa+uT9GbTJkG50gUYeQhxLgdV1mQqVsuaRg7IljuxcZrn2ZErgteLW7bCprzBUarBX9p5M3JQDe4UemOnIwfYVvtI8DugmeBzaaE9COsg7Ajgn8R4saYmTCvW7FQ/6UxaEcjYmtm9VE3YQTjNwyiKHFA+ZyrTVjBC46NkvhjcKsI63/BTk6W/x4ggd84N44JujX575ARQ7DcbWSO5AvfUcuWtB3Mw/Q==;n179KKyVnfxpWerTIO2nrg=="
 ---

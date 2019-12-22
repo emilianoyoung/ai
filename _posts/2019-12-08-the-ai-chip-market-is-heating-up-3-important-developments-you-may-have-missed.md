@@ -89,19 +89,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F565E236054E5BE547259597B52A997
         width: 336
         height: 224
-  - title: "AI Stock News: GBT (OTCPINK: GTCH) Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "The new architectures are various combinations of matrix, vector and scalar styles designed for AI GPU chips, which can be used in a wide variety of applications. The new concepts will be based on the Company's recent filed patent, which seeks to protect 3D multi-planner microchip technologies. The goal is to enable the design of 3D multi ..."
-    publishedDateTime: 2019-12-02T14:14:00Z
-    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12021NewMicrochipArchitectures.asp
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
-        width: 649
-        height: 328
 
 secured: "R7RvR+8J0RAvKKMGAhOQx3LjM2wl1zpnFajHeLHCl7XHLKGJF0ExOA3hBEgZzAQ5WfFpJfiLRFlvCRJhE6YfzZkIw9X7wHl22IKIVL0tH6UvEy6KWdF+Culv0p/hmeoL4N+uwDwjwYb0S80Rr6xptiQ6gYplQm4+n6/mdKnFUhUm7yu6cVfUl8pyCeP1yJArQtgAURVRtBG2Pq2tIjbP8r/hrHP0SMrxlrBMnBtd53Fni4ozeY5Mfr49lNJUQahCC9yyrAgQOCgGQjdpyhST8w==;0c3ecLLdP/d3Y6ldsamDqQ=="
 ---

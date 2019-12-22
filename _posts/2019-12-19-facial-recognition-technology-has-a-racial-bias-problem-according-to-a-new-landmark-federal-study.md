@@ -3,13 +3,11 @@ category: news
 title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
 excerpt: "The study found that black people and Asian people were up to 100 times as likely to produce a false positive than white men."
 publishedDateTime: 2019-12-19T22:21:00Z
-sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12/
-ampUrl: https://amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
-cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
+sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
 type: article
-quality: 60
-heat: 80
-published: true
+quality: 40
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -45,22 +43,22 @@ related:
       - url: https://www.bing.com/th?id=ON.14EF19A2D51E27CF7FBE68E4EE748B29
         width: 700
         height: 393
-  - title: "Why Congress needs to regulate facial-recognition systems"
-    excerpt: "A MASSIVE government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often than men. The federal National Institute of ..."
-    publishedDateTime: 2019-12-21T19:26:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
+  - title: "Federal study finds race, gender affect face-scanning tech"
+    excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law ..."
+    publishedDateTime: 2019-12-19T21:37:00Z
+    sourceUrl: https://www.chron.com/business/technology/article/Federal-study-finds-race-gender-affect-14919032.php
+    ampUrl: https://www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
+    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.8E737D47EF3AECF305981AADA3B04373
+      - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
         width: 700
         height: 466
 
-secured: "2fCqIbjjv3vDfG2r8fy4xsyqfHYdm0SDaNyg4sEko+iCRozWTHzPNaUV3UBU+2hcc4oHIF62s1uNj1hui13bJTq1p7nzG+YwTa67xdYV6PIG82uTk9QUg6dwvHf08bBUnyNajeZAtWxW3YurTTwcFB6fTlEInL0pYTY46YjOi3qtipbualT1U6tIkg/zF4CkbLy1RvICYt9uob1AJudbRiVssUWKqaAwYpJfbj14w7Kum/BJPBuKePaLE5SfVShEayyDJR3PvJFcz/tEGpJBYg==;6eKhnZ2d9WDr1zriLzZCxw=="
+secured: "S/XDul0xQgfajGYsdsj9sI12Ch6q3gaXEz6DhngAa6jsVixRCEU+wtT+xaySMuGRS/q+SYolP0O+DzeU4PzNI4v/L27xVLxuhREbPRBmBfruoVmo1JUGlWwdDl2MvLsjCbLf+umvYEq1+4n3AXWy7PGmg0fIf1Qnn3EDt6aOfzXAx4YuWqqvgSCa0uiqqhAt3fFk5KPwgZrOQblwmxMEMkNMubF9Fuj0ljKgMcqoUClUz+z+u7KHtdtVEcAbCG4uKf/tiy5/CerQKz3qZfXDbg==;gCoM1M0SPtq9c9f+boKSuA=="
 ---
 

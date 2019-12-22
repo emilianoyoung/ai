@@ -75,21 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.17D814F31426CD80316A3C0720C52F40
         width: 600
         height: 315
-  - title: "AI cameras to catch texting Australian drivers"
-    excerpt: "Artificial intelligence (AI) cameras capable of detecting drivers who are using their mobiles illegally have been activated in Australia. The cameras were launched by New South Wales (NSW) Transport on 1 December. Drivers spotted by the AI during its first three months of use will receive a warning letter but after that they could face a fine."
-    publishedDateTime: 2019-12-02T14:53:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50630763
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50630763
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50630763
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.397A9FB8F95E7ACC402DADD8A9D205AA
-        width: 700
-        height: 393
 
 secured: "mz1akya+3zextS1m1R5m3TTKIQPITpoGbjxsP8GQgyVL8+wYkNU76z4Uz7/7JcFJAol7VEvo1cFVp9QOuKN9wSfJmYBt9ggnIB4YWlM27nYYGzd1Lh5O8OboGbnJV3E4HJIgY7uu1MI2clnHEfuuF/3xB3k+4gBGIdaSSbISFLMIbth3rPCTD2WR5DGL5TQPEz9/FagSx5dw/fgMjRgr/I+9i1P25zqnEflraLI+wEYMt8S0Th7MZHX02AAoG1KupNcnUAQkASytWqf9GXhYPQ==;c7NpXDq6vRqRjjJQkPqPpQ=="
 ---

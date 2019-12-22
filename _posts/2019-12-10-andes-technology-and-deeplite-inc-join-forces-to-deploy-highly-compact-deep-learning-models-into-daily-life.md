@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models into Daily Life"
-excerpt: "Hsinchu Taiwan, Dec. 10, 2019 (GLOBE NEWSWIRE) -- Andes Technology, a leading Asia-based supplier of high-performance low-power compact 32/64-bit RISC-V CPU cores and a founding Platinum member of the RISC-V Foundation, and Montreal based AI startup Deeplite, Inc., the creators of Lightweight Intelligence™ making deep learning AI models ..."
-publishedDateTime: 2019-12-10T17:00:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/10/1958796/0/en/Andes-Technology-and-Deeplite-Inc-Join-Forces-to-Deploy-Highly-Compact-Deep-Learning-Models-into-Daily-Life.html
+title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models Into Daily Life"
+excerpt: "MONTREAL, Dec. 10, 2019 /PRNewswire/ - Andes Technology, a leading Asia-based supplier of high-performance low-power compact 32/64-bit RISC-V CPU cores and a founding Platinum member of the RISC-V Foundation, and Montreal based AI startup Deeplite, Inc., the creators of Lightweight Intelligence™ making deep learning AI models smaller ..."
+publishedDateTime: 2019-12-10T22:55:00Z
+sourceUrl: https://finance.yahoo.com/news/andes-technology-deeplite-inc-join-160000000.html
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://www.bing.com/th?id=ON.74B71037F0ACB5F296CD9BDB19CCB2D1
-    width: 150
-    height: 108
-    title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models into Daily Life"
-
-secured: "ufi1SrX5HqVBe56FHBIN7xnF9yC7RwwZFex8i7wSJVZw5ardgIUJHUREzejSQ3Qxm3WqEIUbc4J9XLmLosgNK/PU+mJMLDXvZcggUHcw4QZz7DQVLrhtoaERr0igUYubRFmRw52RhjQrCSRAXSD3OKlRjwQpmUwK5nY9KIgeCYLXDOr3AGXMXQfBMcJtUUiJSYZN4E6eEk6v2TqkyaM6R+DxqI1lxuDovFuBz9zYGh3BXAXLTZIjIMoN0n8yChad5E9RyF5GdyOPcIfEjMp1xw==;VaiPTnnhVljoFV/hty8HYg=="
+secured: "1ckpXj4EEUL9iaJGOs+irxsa0HLapI8JXp8lh7YUPx9T7m60mUnTB5i02M/YrjnpedyQhx28ATY41pKnmB0z92LB8rgqDX74o+oDuZGBsEP5CanAs+sLD4WcsL+HSV64EF9xIK0HoJp6GFbddYni+MRLwXAN7DnvHkXRhw1zxDHJ3CypzGySO6iAYSND1IY1/+m1+sz9f/cQyjyEAP8krhLvJwkbpYSZh1XheWyjho8AAn0G2COzSEUcDimCUH0m3j8PO4p0jbW7meATN/ydKg==;eG+zMELN7NI91Kx+13/vjw=="
 ---
 

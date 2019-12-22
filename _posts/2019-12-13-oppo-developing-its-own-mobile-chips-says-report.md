@@ -89,19 +89,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 44
-  - title: "AI Stock News: GBT (OTCPINK: GTCH) Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "The new architectures are various combinations of matrix, vector and scalar styles designed for AI GPU chips, which can be used in a wide variety of applications. The new concepts will be based on the Company's recent filed patent, which seeks to protect 3D multi-planner microchip technologies. The goal is to enable the design of 3D multi ..."
-    publishedDateTime: 2019-12-02T14:14:00Z
-    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12021NewMicrochipArchitectures.asp
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
-        width: 649
-        height: 328
 
 secured: "0oH+RFMCNpNe6vIVagEovreVbH7Rl5AiUNiVql+zLStxrxNgRSgxM/rb+Ptp/QYDSXSbycwePLluKmCb4xFgVjzdf7T2IlIe1zfXsJF8Ku3fZpdHKylJFGrE6EzTVPJlVbe6o3qsPDyqEp1U8tqn5AyxsVho9ZeH+r1IjKJtAMo0p6iV6UhQPvhn2bK3qLOyCF/UukdZ6cbvM4mKFZOPPgxSkDP7zgz9BgTlKa6jhMnZwif4dFS99LCaAJmQf4Hw+pcdm4jicjTU/Z0Fh/udtg==;Vl+EuFR41rFZSG1EIFpl2w=="
 ---

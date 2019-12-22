@@ -5,8 +5,8 @@ excerpt: "The Apache Software Foundation (ASF) recently announced that SINGA, a 
 publishedDateTime: 2019-11-28T19:15:00Z
 sourceUrl: https://www.infoq.com/news/2019/11/deep-learning-apache-singa/
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "ByhEaAxp8huT7B+2Rfv/BRSak74Nn04bbysufF0kwz/agZX3z8kpww5bWKpzhl1QC02Uc1iz4aVkASND7iPPSfEcJUfjQX4MHHg1wszCZX2xFmJ8YjOVoAmwaWiY/ltWNmN2F2asJ6Hgr6TGFSBOGpvgoIiM4rrD94lmcIWqlp3jFqb3PcwjAn2zS7obcG6RpC6BjjIHb4FmMn1wPisHU6VA4KXeuafVUkTr7vjTG/viS90XxYMQ+Md++iIXgMfcWLk3JhvHq+uETzXz5gH6JQ==;f6Uxo0yZLcLxv/PJkC5Jdw=="
+images:
+  - url: https://res.infoq.com/presentations/play-purpose-entrepreneurship/en/smallimage/Mark-1577026268756.JPG
+    width: 640
+    height: 360
+    title: "Deep-Learning Framework SINGA Graduates to Top-Level Apache Project"
+
+secured: "aasLFnJvYJP/d1l9RG+E7YdQ+Ri6SY98HGUe89aQq3YnrOsbJIuQz6Pvs9DJLeuWZ1r/gLieAnrTg7271m71XF7tuJL9P77i+QfYWZgSeAuD/WSA7bzK+yxAMAez4kV0Lqe8jrXq1P7VNmims0ShV2Gh521AdNetV+RuWOVJPVzprMr1QKUzY4k0r2PNYna6nTZ7tZ7+iGD0wEITCF6I1YRZeTfszGwCzfYw0d102UJkx2iFKCtNeQUge/LygIar9/y9sA+1f0zxqFH62T+ITA==;O/fesPObPW0YzorfvwbI+w=="
 ---
 

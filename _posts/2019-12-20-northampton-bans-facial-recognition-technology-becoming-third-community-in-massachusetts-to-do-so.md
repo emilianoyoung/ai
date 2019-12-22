@@ -2,28 +2,20 @@
 category: news
 title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
 excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-publishedDateTime: 2019-12-20T19:25:00Z
-sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+publishedDateTime: 2019-12-20T20:28:11Z
+sourceUrl: https://www.msn.com/en-us/news/us/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so/ar-BBYcxKx
 type: article
-quality: 45
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: MassLive
-  domain: masslive.com
+  name: MassLive on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-    width: 1904
-    height: 1428
-    title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -189,21 +181,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-    ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 89
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
   - title: "Federal study confirms facial recognition is a biased mess"
     excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -384,6 +361,17 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
+    publishedDateTime: 2019-12-20T18:00:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
   - title: "Even The Government Admits Facial Recognition Is Racially Biased"
     excerpt: "A new federal study from the National Institute of Standards and Technology (NIST) confirms, again, that facial recognition technology is riddled with a fundamental racial bias. Using nearly 200 facial recognition algorithms developed by 99 corporations on 18 million images from federal databases, the algorithms’ accuracy was found to vary ..."
     publishedDateTime: 2019-12-20T16:50:00Z
@@ -1722,6 +1710,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "nB6Uchmxvdk5zxENYjPT8Vbo8hGDS2AnJCvkFDw4uUnU2fz1m6/aSbNS/f3l51nbZUMicV3hBvSU20MvpUjGuwbwdUbl2fAQhWZc7NTiMC5Mvm+WZw199Ur+1yNqNHYlKy2YGZwv4+YhlS52Q2cw9r/76q8e5dSNMDuAphKkwzE2MzxAGGShnvHmdNBiVN4s/wKI9pvJNoUi/oLCY+Dk8pFROwIOdXu3uefWIuTuoPKN6qIYt3RcfmQWz0j3MF3Go84IFLld8WKiWUymrE1qcQ==;tMw9JVSLPuzP2/dtzohPMw=="
+secured: "avRr/yxdZj6Q/O1r9s4BX9biJ+KYMLkJ4/+QE7YeVeF/tKxhpijcQbw/FjcttzDm5rJbH5+IrzDAfz5LC6z/n2sK2EGGWGUNuPQAIxaS49RvUbQTnxkLJZFV4Xc9ec9V8y7vdTAXr56Dnk1fZ27k+V4U3F4DE1MydwzJQedCUj5qTDLhf2e1CuiLtuq1/o7VL+HvZiDMyLP4QesdxpYNWicf9ACI1xM4O10IbVcrUdiXv8bpNtXZQ+t9reqQs0uWKRJyjfDNewyQPkYvO9KZOg==;j1QO878TLLJL4O/YzcE/cw=="
 ---
 

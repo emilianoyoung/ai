@@ -39,19 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2018%2f7%2f91ddc6498ae046de959ddcfb662105d8-620x480.jpg
         width: 620
         height: 480
-  - title: "New device enables battery-free computer input at the tip of your finger"
-    excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. \"The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Researchers created the prototype of Tip-Tap as part of a ..."
-    publishedDateTime: 2019-12-02T14:25:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-11/uow-nde112719.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.455EBE19B4A786408A482E92ACDAC7E2
-        width: 700
-        height: 345
 
 secured: "YCp1loTEaWRhgdTXLRoO3cn0kZ0ac6LAcCuyKRnb/ajtJMZX1XhmbAk9+5E55fynUUgwKU6/IBby8UVtO3JwiRuPdWN/lNVj4qRLCgK39ybZcRu28M3fOoNCKXsOGggNSmith4fU3LwMynqnsbUEeHDbuHPbqhfaPS8sTIEhbqHfqTqWzZjBl10lLLOm07kHXMFU3rOmSALCge0SJX7vlKuX2klY+F5vVUoFGgutJ2iThZYezhYBB5hy27G+v4mo+SYzVfR5//COrmwBaHEVJA==;otY42uyFF+gV+tpI7Ugzlg=="
 ---

@@ -26,19 +26,6 @@ images:
     title: "Novel battery-free device enables discrete fingertip computer input"
 
 related:
-  - title: "New device enables battery-free computer input at the tip of your finger"
-    excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. \"The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Researchers created the prototype of Tip-Tap as part of a ..."
-    publishedDateTime: 2019-12-02T14:25:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-11/uow-nde112719.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.455EBE19B4A786408A482E92ACDAC7E2
-        width: 700
-        height: 345
   - title: "Battery-Free Computer Input at Your Fingertips | IDTechEx Research Article"
     excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Researchers created the prototype of Tip-Tap as part of a ..."
     publishedDateTime: 2019-12-05T08:53:00Z

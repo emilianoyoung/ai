@@ -51,6 +51,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9B17CB274803069B75A006F02A6D2E6B
         width: 700
         height: 474
+  - title: "SMAC in the DARQ: the tech trends shaping 2020"
+    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
+    publishedDateTime: 2019-12-06T00:06:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
+    type: article
+    provider:
+      name: Relaxnews (AFP) on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
+        width: 700
+        height: 367
 
 secured: "7Zgig0bXsZaqA1k5AQkQNoHLO9lp5kMkC5PMqKMzxZuNwj/pxF3M/c4vwPfLsqZg/HsfZisFqRsCkDmttWQ+S03uLIZWXSrHo7OKeKkgnq7ooVpBizNeWXJHVs1xGQD6cnnH2B/kri63TMpUdde5Ss5gTf0HfTN548s1t412IthpnK0pv9DCf/ipRcALFoG0C7QSLOyCUdEm1qmftxBzbWZ6AkGdGQX/co8wcAd2AAspkdBnv4bdyTGjuXF/HiVbtB8qdzdHQ/Bf7XikWRJ12Q==;x++y5hiybC9qej5S60Lcyw=="
 ---

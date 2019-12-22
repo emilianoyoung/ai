@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/there-are-now-traffic-cameras-that-
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/there-are-now-traffic-cameras-that-can-spot-you-using-your-phone-while-driving/
 type: article
 quality: 172
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -74,21 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A47D6C9CDC3A9A4604D120F87E04042
         width: 700
         height: 366
-  - title: "AI cameras to catch texting Australian drivers"
-    excerpt: "Artificial intelligence (AI) cameras capable of detecting drivers who are using their mobiles illegally have been activated in Australia. The cameras were launched by New South Wales (NSW) Transport on 1 December. Drivers spotted by the AI during its first three months of use will receive a warning letter but after that they could face a fine."
-    publishedDateTime: 2019-12-02T14:53:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50630763
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50630763
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50630763
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.397A9FB8F95E7ACC402DADD8A9D205AA
-        width: 700
-        height: 393
 
 secured: "k4gQ6bTOgeiNmcx7zuHDd2bsGOrkXNR28Beoh20j+S+VTYw8+EoY4rIqZJonVvQ82nVC9GDXV9/a+zX7jAMmDDKC3nE/lEzgZK0qzpZgyLGEIHYBN8a6P4fY4ExXel7SC2+4RsuJnbEaMgNb5yWYuHFCKBoE6Mn6b6LLYhHNNCArEik1MwvvupIXf2UZsJjWHpr4pQUzeW9DGZMFjVfhKL7P53D5xkyNtqet1bn4w3IShUMgMkh/hl1SrzhsiTAJKR3gr2JGuUlBbGuQO++28g==;8ntsAjJiJbQMT7b22mBoSw=="
 ---
