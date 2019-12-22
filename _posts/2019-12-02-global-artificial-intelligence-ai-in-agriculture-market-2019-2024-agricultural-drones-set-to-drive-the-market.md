@@ -102,19 +102,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Healthcare Artificial Intelligence Market Global Industry Trends, Share, Size and 2025 Future Report"
-    excerpt: "Healthcare artificial intelligence application market is further divided into medical imaging and diagnosis, drug discovery, therapy planning, hospital workflow, wearable, virtual assistants. Increasing adoption of artificial intelligence in healthcare globally will augment the growth of healthcare artificial intelligence market. Furthermore ..."
-    publishedDateTime: 2019-12-02T11:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-global-industry-trends-share-size-and-2025-future-report-2019-12-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Speech Recognition Market Growth and Precise Outlook 2019-2025"
     excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- Global \"Speech Recognition Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the overall ..."
     publishedDateTime: 2019-12-06T08:15:00Z
@@ -531,6 +518,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "Uk0eK7fsb7k9vdebR6JHJ39QW3fjq1VwXeWlgGF2VLlxYBkPPxi6lxxi1CkW1/ZswlK05WNvq+hBtMlaqpJolBEKbjZ4aJQZuW1tZ3WC+fYpT0VynCMMhM6QbYIaJf7JQFEminVIFK14Sqb4cNHxU6KUXhroFeeTlv0IdlWR/T5GmRIa8XFUxiy4S/kNsA2y/Psh99t+Hnk320Q9Tro3WH4xpu/W5n4LPrErWl9Pyk0X4eFw03JDINb6A89vsk6Ishwblknp/DqfLC5egYzN4w==;xak7C6HfZE/K2NBrFFNy7w=="
+secured: "cSFN3F56KHgJ6Uu520GcS/R4jNJ/WxbOUEZihHQiYLKQd3gypS0VpnyG7WpZu/mEiyAHGoQJo/dN5sfSCreBBFg5EmS2iOheU1D8l6D4ulYfoZEQgcdoiXSKRk0j1OA6DN7qWyGzoy1QUuOFt4jIf8ce9BZbMVNjoVtQyK7pie0PINXboaqxGHI3jwnPdwJ/G1qi4/utq9+ioW2tZnl08k95f6rtCOHrG1tfx9Dfa7jfgshKSd5BjI3l+aPOcWlscPOY4uDUCp0ntOJKxelHZg==;czbseiQ5kH9LMPVlybu/IQ=="
 ---
 

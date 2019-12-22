@@ -740,19 +740,6 @@ related:
       - url: https://www.bing.com/th?id=ON.45B0AF9B77BEE94FECF17738F9A3CDE2
         width: 700
         height: 466
-  - title: "Portland plans to propose the strictest facial recognition ban in the country"
-    excerpt: "As the federal government plods along on developing privacy laws, some cities are taking matters into their own hands—with facial recognition technology at the top of the list. Now, Portland, Oregon, has plans to ban the use of facial recognition for both the government and private businesses in the city, a move that could make Portland’s ..."
-    publishedDateTime: 2019-12-02T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90436355/portlands-proposed-facial-recognition-ban-could-be-the-strictest-yet?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 36
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-portland-facial-AI.jpg
-        width: 1280
-        height: 721
   - title: "Prediction #2: Adversaries to Generate Deepfakes to Bypass Facial Recognition"
     excerpt: "Computer-based facial recognition, in its earliest forms, has been around since the mid-1960s. While dramatic changes have since taken place, the underlying concept remains: it provides a means for a computer to identify or verify a face. There are many use cases for the technology, most related to authentication and to answer a single question ..."
     publishedDateTime: 2019-12-05T05:21:00Z

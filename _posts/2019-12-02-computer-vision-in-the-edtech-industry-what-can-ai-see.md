@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T14:29:00Z
 sourceUrl: https://medium.com/alef-education/computer-vision-in-education-what-can-ai-see-84d679d12a79
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.02D461C743FE4F03B5662ECFFECA0F1B
         width: 480
         height: 270
-  - title: "‘Special report: How will artificial intelligence help run the auto industry?’"
-    excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving aspects of automotive ... Discussion about the use of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a significant place for AI deployment in many other ..."
-    publishedDateTime: 2019-12-02T11:04:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/special-report-how-will-artificial-intelligence-help-run-the-auto-industry-2/
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 15
 
 secured: "lo20YvunMM5agq1NpJJcDDTIZcjIWHv9NBqbrR9O1lSw6BhT6ruJwLh0C+qaUrTt2wsbU3nDQg/b9T1c6VKGLCKRBse3N6E9DVOamBGVJP4zE5IbjWg+LWe7mBC8OUkGTfrdaGLC38trQMxKKvEa1qdLFwKT31pbhdhh/pwaM1IkuUMGOF3kHf8iu9cFqLTmNIIMnbfVJXW2lto3a27mygXb2Ig2emS2NFDeYval6Yc3KsufyJhR9mLLBWdTbSoGWwB2iIES9GMqKnPORWa4Gg==;DavYIavSlrxoXFmqyTvcPA=="
 ---

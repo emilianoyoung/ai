@@ -105,6 +105,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
         width: 1200
         height: 797
+  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
+    excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
+    publishedDateTime: 2019-12-22T12:58:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
+    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
+        width: 600
+        height: 337
   - title: "Facebook says a pro-Trump media outlet used artificial intelligence to create fake people and push conspiracies"
     excerpt: "Facebook and Twitter dismantled thousands of accounts and pages that were part of a global network seeking to push pro-Trump messaging."
     publishedDateTime: 2019-12-21T21:03:00Z

@@ -84,15 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.02D461C743FE4F03B5662ECFFECA0F1B
         width: 480
         height: 270
-  - title: "‘Special report: How will artificial intelligence help run the auto industry?’"
-    excerpt: "A new Automotive World report looks at the use of artificial intelligence (AI) in corporate and non-driving aspects of automotive ... Discussion about the use of AI in the automotive industry most frequently focuses on AI in self-driving and autonomous vehicle (AV) applications, but there is a significant place for AI deployment in many other ..."
-    publishedDateTime: 2019-12-02T11:04:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/special-report-how-will-artificial-intelligence-help-run-the-auto-industry-2/
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 15
 
 secured: "Y3+N1igBbSxorGcnxi5lJvkJW6k9jRsUJpUlNbpKhNBdHnDPxUGZd+eIEsaRizbfCQ/gI0EC/F0/GN8hnxWWIi5uqErhGesCgwfKT7iLBJZEyIVkWXgqZBntq0B2a9+kdSsg7cdQhNMUi4JklKO2gqJjmhF7uNmTYXAloMtmVPQZQorapRqluzHg9vsqPJjCIHCSnNu2wLcFwePbkU61IJJi9Wla8udyOmAlOpCxjl6bDImkzykHOHb5STTPo70QPdQ81ds00+J8AdyRCSqznw==;j+2WsFeqd+8q2VlgjDygfw=="
 ---

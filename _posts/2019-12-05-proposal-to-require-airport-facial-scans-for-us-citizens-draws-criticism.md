@@ -727,19 +727,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15131D2DBEB223907A117C696A478AD9
         width: 700
         height: 393
-  - title: "Portland plans to propose the strictest facial recognition ban in the country"
-    excerpt: "As the federal government plods along on developing privacy laws, some cities are taking matters into their own hands—with facial recognition technology at the top of the list. Now, Portland, Oregon, has plans to ban the use of facial recognition for both the government and private businesses in the city, a move that could make Portland’s ..."
-    publishedDateTime: 2019-12-02T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90436355/portlands-proposed-facial-recognition-ban-could-be-the-strictest-yet?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 36
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-portland-facial-AI.jpg
-        width: 1280
-        height: 721
   - title: "US Citizens Could Be Forced to Use Facial-Recognition Technology at Airports"
     excerpt: "The real reason airlines want you to go by train Something rather funny is happening in the world of travel, airlines want you to go by train. Buzz60’s Maria Mercedes Galuppo has more. Buzz60 Is overtourism a concern in well known tourist destinations CNN's Richard Quest talks with Paul Trainer, Travel Writer and Editor, The Glasgowist about ..."
     publishedDateTime: 2019-12-04T13:51:00Z

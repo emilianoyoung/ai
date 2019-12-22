@@ -106,19 +106,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Healthcare Artificial Intelligence Market Global Industry Trends, Share, Size and 2025 Future Report"
-    excerpt: "Healthcare artificial intelligence application market is further divided into medical imaging and diagnosis, drug discovery, therapy planning, hospital workflow, wearable, virtual assistants. Increasing adoption of artificial intelligence in healthcare globally will augment the growth of healthcare artificial intelligence market. Furthermore ..."
-    publishedDateTime: 2019-12-02T11:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-global-industry-trends-share-size-and-2025-future-report-2019-12-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Trends and Business Outlook 2019 to 2025"
     excerpt: "Dec 09, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence (AI) In Manufacturing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain. The report provides in-depth analysis of ..."
     publishedDateTime: 2019-12-09T06:18:00Z

@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FCA01B38D702C2979C7412FFB6B42FFF
         width: 600
         height: 315
-  - title: "Companies could be fined if they fail to explain decisions made by AI"
-    excerpt: "The Information Commissioner’s Office (ICO) said its new guidance was vital because the UK is at a tipping point where many firms are using AI to inform decisions for the first time. This could include human resources departments using machine learning to shortlist job applicants based on analysis of their CVs. The regulator says it is the ..."
-    publishedDateTime: 2019-12-02T11:26:00Z
-    sourceUrl: https://www.newscientist.com/article/2225186-companies-could-be-fined-if-they-fail-to-explain-decisions-made-by-ai/
-    ampUrl: https://www.newscientist.com/article/2225186-companies-could-be-fined-if-they-fail-to-explain-decisions-made-by-ai/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2225186-companies-could-be-fined-if-they-fail-to-explain-decisions-made-by-ai/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.0D4D66FE234338DC2171E418E2C7DAA5
-        width: 700
-        height: 466
 
 secured: "YHsUtf7V5aw0/F64fVzdvWMIT/+e05HElJNkZjlwYl1V5SKrLSeDx3rAPZVhVSGL64qyLYFAshepYpZOwww33K73d+ifbImvQOajBc45iuktgBwnkL8bXZTESYSsFeUSatmupBEB1mOelPFLKWbRZw96o7cQoa3hSecrkbUY2CS+5uz9zJvCkQxudcIlW79JA0jiHBR8oeVlbClEpM6OOhp5NzxziHYm1mh31AtaYqmkPHZSfHYj5Qc2jY9cUt2P6RzdwrWPfUUoLJ3/xsG9bA==;oRkBlAYSydkUIWgb4/R/QQ=="
 ---

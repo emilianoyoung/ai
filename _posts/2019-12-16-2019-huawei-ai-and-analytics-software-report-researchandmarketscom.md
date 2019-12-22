@@ -68,6 +68,10 @@ related:
       name: thedailytimes.com
       domain: thedailytimes.com
     quality: 0
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
+        width: 600
+        height: 600
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
     excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered. Medical devices and imaging ..."
     publishedDateTime: 2019-12-19T00:41:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-r
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
 type: article
 quality: 73
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 54
+  - title: "Why GM is developing technology for self-driving vehicles for the US military"
+    excerpt: "For example, \"GM has demonstrated leader-follower capability,\" GM Defense President David Albritton told the Free Press. Leader-follower means a manned vehicle leads a dozen unmanned vehicles using GM's self-driving vehicle technology. By removing soldiers from those dozen trailing vehicles, human safety rises dramatically, said Albritton."
+    publishedDateTime: 2019-12-22T12:04:00Z
+    sourceUrl: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+    ampUrl: https://amp.usatoday.com/amp/2709275001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2709275001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.1E332684A0B0365BB1C4AF6C65DBBD3A
+        width: 700
+        height: 393
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
     publishedDateTime: 2019-12-17T18:55:00Z

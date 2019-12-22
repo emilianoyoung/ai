@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Facebook bans pro-Trump media outlet over fake accounts"
-excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
-publishedDateTime: 2019-12-20T20:22:00Z
-sourceUrl: https://www.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
-ampUrl: https://amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
-cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+title: "Facebook says group used AI-generated faces to push pro-Trump messages"
+excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
+publishedDateTime: 2019-12-22T12:58:00Z
+sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
+ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
 type: article
-quality: 24
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI
   - Facebook AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
+    width: 600
+    height: 337
+    title: "Facebook says group used AI-generated faces to push pro-Trump messages"
 
 related:
   - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
@@ -110,21 +116,6 @@ related:
       - url: https://static01.nyt.com/images/2019/12/20/business/20takedown3/merlin_166226280_01e1cbc9-c350-4082-8c26-13e406edc001-facebookJumbo.jpg
         width: 1050
         height: 550
-  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
-    excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
-    publishedDateTime: 2019-12-22T12:58:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
-    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
-        width: 600
-        height: 337
   - title: "Facebook says a pro-Trump media outlet used artificial intelligence to create fake people and push conspiracies"
     excerpt: "Facebook and Twitter dismantled thousands of accounts and pages that were part of a global network seeking to push pro-Trump messaging."
     publishedDateTime: 2019-12-21T21:03:00Z
@@ -209,6 +200,17 @@ related:
       - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
         width: 301
         height: 274
+  - title: "Facebook bans pro-Trump media outlet over fake accounts"
+    excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
+    publishedDateTime: 2019-12-20T20:22:00Z
+    sourceUrl: https://www.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    ampUrl: https://amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 24
   - title: "Facebook removes hundreds of fake accounts promoting Trump"
     excerpt: "Facebook said Friday it removed more than 900 accounts, groups, and pages on its own platform and Instagram for using fake accounts to mislead users, including with false profile photos generated by artificial intelligence ... Graphika and the Digitial Forensics Research Lab. The Epoch Times was founded in 2000 by John Tang and a group of ..."
     publishedDateTime: 2019-12-21T10:46:00Z
@@ -223,6 +225,6 @@ related:
         width: 650
         height: 365
 
-secured: "XCS28hUYgEFWZx0C8FcJR5f8qpfM5Akkt/qXe84341GJhY7xZxUPHu4353F3NhWA6WwS75S2RAudK7UNlzk7nQAxcWhbxAYS6hp2mx/15vwTsLK9MGpzkCAihapLeoNndKZ5sSDOIJAgXY1iKMqCsO02mpiHraHuVrLPK8+LL+ptUPSU2WYnJHHY7VmSZq6C/QQe3zakn+rRCKmRs073yeCKhFQCtNP6oW4vM77kXyDM62/+ykZwdwtSjRB03i4t0ciofukELVA10MVm7MpP9g==;LaSq98k+5T95SwL00mLGxg=="
+secured: "gzC5qQunctgujHOmsgTP9UP1XkmtdxkbK0egWmgr34dcPvAp5tHD3Eal3nm45GJKcL0VXMX/Vzf/w1/KKDNXq+46e3uMgjl7n2TKJJ2bvHDNbr7NkuYp7k40tSCUsfuTIQp/ZXj+wFMCc1J/Tlrx4aWvfrbwayhSRO8WzgSnHkgrYUeD+Tte5lFjCT6Wux0gTvK8mhRbZYlWA8lYXnvAKpXQIScTRTmfw7cy5NCGGSQBYM1Z9RjIj3A3fY0cKi8XnB0+AbBldSC3R1sCLpLMag==;aii/sAYaESzhRCPaPwPLKA=="
 ---
 

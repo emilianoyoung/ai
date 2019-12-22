@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Toyota takes self-driving program in commercial direction"
-excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-publishedDateTime: 2019-12-17T13:07:00Z
-sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+title: "Why GM is developing technology for self-driving vehicles for the US military"
+excerpt: "For example, \"GM has demonstrated leader-follower capability,\" GM Defense President David Albritton told the Free Press. Leader-follower means a manned vehicle leads a dozen unmanned vehicles using GM's self-driving vehicle technology. By removing soldiers from those dozen trailing vehicles, human safety rises dramatically, said Albritton."
+publishedDateTime: 2019-12-22T12:04:00Z
+sourceUrl: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+ampUrl: https://amp.usatoday.com/amp/2709275001
+cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2709275001
 type: article
-quality: 4
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.1E332684A0B0365BB1C4AF6C65DBBD3A
+    width: 700
+    height: 393
+    title: "Why GM is developing technology for self-driving vehicles for the US military"
 
 related:
   - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
@@ -44,21 +52,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 54
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "For example, \"GM has demonstrated leader-follower capability,\" GM Defense President David Albritton told the Free Press. Leader-follower means a manned vehicle leads a dozen unmanned vehicles using GM's self-driving vehicle technology. By removing soldiers from those dozen trailing vehicles, human safety rises dramatically, said Albritton."
-    publishedDateTime: 2019-12-22T12:04:00Z
-    sourceUrl: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-    ampUrl: https://amp.usatoday.com/amp/2709275001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2709275001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.1E332684A0B0365BB1C4AF6C65DBBD3A
-        width: 700
-        height: 393
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon said in a statement. “This research will provide North Carolina with data we need to ..."
     publishedDateTime: 2019-12-17T18:55:00Z
@@ -117,6 +110,15 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
         width: 600
         height: 315
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
     publishedDateTime: 2019-12-19T00:19:00Z
@@ -127,6 +129,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "o5D3wjVtZrkQkMnCVA3YSMUgZHdID86ttMXWke+Z3hpT9wXQkd4ss38hPrFZ/F8MrloMjCv4ojhSqWZYbpMj7mPMz6fqh6YYnAOqQh+XockCcQazzZfen0y8Dabn2zu7b35TGEUopU21t26TPzGCtvo6zlTWKCimCoO2zDOGU2dniJAQyTyIstnkLyqs8tcoYxLbd3tCijiTlr/gXrzcm1u1cbQEFv3l5KqpgHttcxquuG1bSNAuIS86ajfZj2on9Sl+F/fsQ50izV6tJv3PHg==;pI4QPDHdtqTOzjD89WU06A=="
+secured: "XNFg+dxBsDl6d1lqYE6f3lTaUdbbE+gfLEVszSwEMC0kwn9spsXqkbnELPoAxxKCxA7q+NfwYNP0XkxFq7V8KUW79AP1V/OlG/n+/FF7lg3A+OIiQINxJbcBEGPCTVLGD36kanuMp5nO8ATJSIpN1pOsgHcj0d5190/d7buFA4J8SHBYqN/wfBhzDHJ3BnJ216HFgiGUTepO6HrXg9W2E5QAcxheKU2mVKbdl+NI8uSeEole3twbJ5kK9kvExzq7eJLEi3q7q/Z2GDTY+n7eWw==;EtqhVcpLLUN2CkkwIa0EKw=="
 ---
 

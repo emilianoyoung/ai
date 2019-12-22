@@ -117,6 +117,21 @@ related:
       - url: https://static01.nyt.com/images/2019/12/20/business/20takedown3/merlin_166226280_01e1cbc9-c350-4082-8c26-13e406edc001-facebookJumbo.jpg
         width: 1050
         height: 550
+  - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
+    excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
+    publishedDateTime: 2019-12-22T12:58:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages-11577018518743.html
+    ampUrl: https://www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/facebook-says-group-used-ai-generated-faces-to-push-pro-trump-messages/amp-11577018518743.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
+        width: 600
+        height: 337
   - title: "Facebook takes down fake accounts with fake faces pushing politics"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
     publishedDateTime: 2019-12-20T21:07:00Z
