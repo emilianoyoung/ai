@@ -25,6 +25,21 @@ images:
 
 related:
   - title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
+    excerpt: "Dyno Therapeutics founders and collaborators demonstrate machine-guided AAV capsid engineering with the potential to transform gene therapy Dyno Therapeutics, a biotechnology company pioneering use of artificial intelligence in gene therapy, today announced a publication in the journal Science that demonstrates the power of a comprehensive ..."
+    publishedDateTime: 2019-12-03T00:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/dyno-therapeutics-announces-research-published-110000347.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/dyno-therapeutics-announces-research-published-110000347.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/dyno-therapeutics-announces-research-published-110000347.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.A7D07FC44822B64A5AA586B5A1742E47
+        width: 480
+        height: 270
+  - title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
     excerpt: "Dyno Therapeutics, a biotechnology company pioneering use of artificial intelligence in gene therapy, today announced a publication in the journal Science that demonstrates the power of a comprehensive machine-guided approach to engineer improved capsids ..."
     publishedDateTime: 2019-12-02T11:35:00Z
     sourceUrl: https://www.thedailytimes.com/business/dyno-therapeutics-announces-research-published-in-science-enabling-artificial-intelligence/article_f509810a-b769-5440-9c4d-bfec66f30d5a.html
@@ -38,6 +53,6 @@ related:
         width: 840
         height: 630
 
-secured: "zrGdD8jvEm31Ff9F2sc3+e0csiz0hdXC9jXYnE+wT/Z9EZeculQeYhv33sQn7Sk82s9yLJvqEfK5r/oDTOWHPJMI2frWh8orcXWG3Ro625g6NNqGMHq0rcZUqLmi15fOju5BKp5YhCYD6NKzTxVI4FsUV1GWl0J6UZQV2ggMGHx4SzFdiBkHloDNwU81RNE/5iTqDim9Bmf5VwPPfBnFkI+wCS5YvoPdJpSqPliQQSdbzcXDAopHfvzSyWD7i+/wNyCVdONiIobO74j9U7GkRw==;BOMaw6FMOLHqb0hkaq1BdQ=="
+secured: "lDGGc2OQ6SXTvwdVP1spmkMpf3M2RMkSIlD26Z3MpJe3xAcvqSsis2xPp8qOimpNPVvG2juDlk5rABv2wFZ8HLAE21joeFPYCGACYmEnXPl5WZsaCYRO/OzjNb223OE2zYt0WCxRgVJrrw8hFdKL4Ki6/ZuKt8OpkVNaSEQPJj/N6wQx5e84mTyHCLDi/ipAadEOQdX/3+HBDA1Y3pTnpt/5jSSgoelfkf3cs4IbYBaZ2KQ1VnQBH1QI0gfOE64mk1G66ayPxxO1tUePd4h1WA==;gqCdk7bDxnZcDepf2vVl5w=="
 ---
 

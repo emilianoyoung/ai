@@ -8,7 +8,7 @@ ampUrl: https://www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artif
 cdnAmpUrl: https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "How Artificial Intelligence is taking over the world"
 
 related:
-  - title: "How Is Artificial Intelligence Changing Web Hosting?"
-    excerpt: "The potential applications for AI are limitless and can be applied to every industry. Health care, education, and retail are some of the sectors that benefit from the adoption of AI. Artificial Intelligence brings several key benefits to the web hosting industry. Security is always a major concern in any industry. With the prevalence of cyber ..."
-    publishedDateTime: 2019-12-02T06:28:00Z
-    sourceUrl: https://www.hostreview.com/blog/191202-how-is-artificial-intelligence-changing-web-hosting
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 39
-    images:
-      - url: https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg
-        width: 400
-        height: 400
   - title: "Israel plans to become world leader in artificial intelligence"
     excerpt: "Israel is in the process of making a national plan to become one of the most advanced countries in the field of artificial intelligence (AI), experts said ... One of the issues is the programming of self-driving cars, due to the ability of the AI system on th cars to predict the consequences of inevitable car accidents."
     publishedDateTime: 2019-12-03T05:51:00Z

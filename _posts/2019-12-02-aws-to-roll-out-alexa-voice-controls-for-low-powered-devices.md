@@ -41,21 +41,6 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
         width: 800
         height: 434
-  - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
-    excerpt: "... called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range of connected devices. This might be anything from smart vacuum cleaners to something as huge as construction excavators."
-    publishedDateTime: 2019-12-02T06:41:00Z
-    sourceUrl: https://www.gizbot.com/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
-    ampUrl: https://www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
-    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.27518A2C721B8D3D3AD8FD4D3ECCB3D4
-        width: 600
-        height: 337
 
 secured: "rHa3NSqU0Hpvbbao0LXW8/lmIkESLlQkXQIgn0PYw5KGCWri/jUFEfQ/YuLB/ZumPP2y67LCiMSAKExsQ/HchwO/GA6Pm+VoW7cRqhcY96PcVhFbRL0mH8GcT4jG1AbTwVHieNsxhZzQ4GRoVPcoi2HlTPwktc8SnZr5azEfEJJHQOVDIWevYLMoZMMMD1YaHrvC1VNyJVnL9FEsNTriBQf3AqV6q5YMX81d7NuAqOihphWH5+NxJQGaDdJKUYR1oq/MnYb6Msj4tb5ecouv6g==;yDKyqYGj7jJAaCxVGzTpPg=="
 ---
