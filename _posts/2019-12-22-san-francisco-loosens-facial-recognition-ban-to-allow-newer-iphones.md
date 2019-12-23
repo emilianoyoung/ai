@@ -3,7 +3,7 @@ category: news
 title: "San Francisco loosens facial recognition ban to allow newer iPhones"
 excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
 publishedDateTime: 2019-12-22T21:34:00Z
-sourceUrl: https://www.msn.com/en-gb/news/offbeat/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfAZn
+sourceUrl: https://www.msn.com/en-us/news/technology/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfMnE
 type: article
 quality: 39
 heat: -1
@@ -1757,6 +1757,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "LxVZ6L2iTMPsJlTQrb1u2Qh65kyG/imjjYMt6t8PlqZSq4OF0CJmx7JxtgITfe5kWKO0qoANb/IzyrkClE52AVm2wyZSTHjpvlEq2YHAo7/dj9xuzpXbLOyb+UBKecedyIPs9lsN3X1IJ8CkykzP6xjjQqO+kXt8DywOAg980e1kPeStxNpmOi45ftomq3kXCCbnISlmuvVc7QIG2tkegRRSQo2+pjqQsUOEKZc7AYyE51EZp+sf9gaDdTYcdzNdZPlHqmT22iXnEkxaV+ua3g==;vBL3B0I81gi19vJjU+M1+A=="
+secured: "aurBEkoOkEvGr7eaEj2h7aRaPeXhRcZ7/EVX9H0F/IsHOrJzKi+gaRPYN7OQ4HdKZSYfHKWW5FpbrOKl+66Mpr0YIGNdwpGGRzrDckU/2bOZhGOEEl93ZQTT+VmN6KYSMiA/w3fKXvFh4JLfT4niQ7lNR05KGfGgx3xTOwPVA/J4H2OF6vVnIwU06tq8IGUOZbvHw4sCeaPABojz9FX1wSRp9MCeeipWc10bCayqQG+s/nhzDN0C0IC/xvq6zDPvD6jEgOQIzLST9R2mI7SNLg==;XcV6F559ZRM7dybk294GcA=="
 ---
 

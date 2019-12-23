@@ -132,6 +132,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
         width: 600
         height: 337
+  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
+    excerpt: "File photo: AFP Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
+    publishedDateTime: 2019-12-23T03:41:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.D3697D1C44226C24070006236DF10AA1
+        width: 700
+        height: 367
   - title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
     excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
     publishedDateTime: 2019-12-22T15:31:00Z

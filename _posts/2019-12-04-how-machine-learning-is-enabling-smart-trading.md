@@ -24,21 +24,21 @@ images:
     title: "How machine learning is enabling smart trading"
 
 related:
-  - title: "Trade Ideas Brings AI Trading Solution To Changing Industry"
-    excerpt: "Ahead of the 2019 Benzinga Global Fintech Awards in New York, Trade Ideas co-founder and managing partner David ... “There’s no incentive; there’s less money to launch a next-generation platform.” Trade Idea's AI-based Offering Trade Ideas has introduced machine learning artificial intelligence technology that derives tradeable patterns ..."
-    publishedDateTime: 2019-12-03T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/trade-ideas-brings-ai-trading-191932035.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/trade-ideas-brings-ai-trading-191932035.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trade-ideas-brings-ai-trading-191932035.html
+  - title: "How deep learning can reduce bias in advertising"
+    excerpt: "Algorithms, especially those that utilize deep learning in some manner, are notorious for being opaque. To be clear, this means that when you ask a deep learning algorithm to answer a question, the algorithm gives you an answer without any explanation of how it came to that conclusion. It does not show its work; you simply ask it a question and ..."
+    publishedDateTime: 2019-12-04T12:33:00Z
+    sourceUrl: https://searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833
+    ampUrl: https://searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833/amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Search Engine Land
+      domain: searchengineland.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.3B6766C841D52DD693A5F749FBBE548D
-        width: 600
-        height: 400
+      - url: https://www.bing.com/th?id=ON.BB699BCB3F4EC3B64F0DA218C6C3EF5D
+        width: 700
+        height: 393
 
 secured: "mSaYRjRfrf7hJmsHX1eDBbZj5Od3R38fa+4ikd/11RNKvDUNBti3w1lfUmLc5TCfD+FxyHti5UA7CZRmQEQwwmHFV/RA9QZue39xv/aPFF9QJW7zrSpAtKNCEKjt8KQvslblUyy/7Yzf6Hub3ePf95VMY4hojdRhdXglya5Gb90i/jC7DMzp8kXLpDVK+75sT0wFt40nnscvPNBmSk+tG5YZ9UpN0Gz2HdQz30jn9gA8ZmYfSYRj+YiHr+DHWZCEYgBK1LgBcCIzG7foB5YDQA==;o1WtyhNS6U7ZGrnSZdDiGA=="
 ---

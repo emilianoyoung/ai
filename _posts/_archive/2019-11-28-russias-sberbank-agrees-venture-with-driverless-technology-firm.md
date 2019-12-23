@@ -23,6 +23,21 @@ images:
     height: 367
     title: "Russia's Sberbank agrees venture with driverless technology firm"
 
-secured: "B39T1y4TSy3/T+yYdIy+AiaaJl2qeh7ZtnTDUaWXGdJvHQ5oWrCnWOJ47RX7Ow1dyIYf2fgMuNOA7i8URLnYbrzolQ49nTe/2GahRH1bz7lvaY6+aslAZStlHreaHpgV9xl3NGF8Twzx8j4qE9YV/FY7ScyWMbx1/tYOe/KKiRxr48XVT55zkwVuiz8nYYRs23GTBOXctxWM4VSCw1r/zX38iJ4TERq8V4FDXoy5eHzof3pVmYDW584mM2owUQcsjoHxoI2XooGTBCueb3gpHQ==;EQavNDKFNMaFm+TkL0cqFA=="
+related:
+  - title: "Russia's Sberbank Enters the Driverless Cars Game"
+    excerpt: "Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with artificial intelligence (AI) transport developer Cognitive Technologies, the two companies said Thursday. Sberbank and Cognitive ..."
+    publishedDateTime: 2019-11-28T00:00:00Z
+    sourceUrl: https://www.themoscowtimes.com/2019/11/28/russias-sberbank-enters-driverless-cars-game-a68366
+    type: article
+    provider:
+      name: The Moscow Times
+      domain: themoscowtimes.com
+    quality: 39
+    images:
+      - url: https://static.themoscowtimes.com/image/1360/b6/252052_1000x671_1024_6497751e746e7dc0197ba87ee5e042c62.jpg
+        width: 1360
+        height: 913
+
+secured: "CUafbJ4XyenyCr4xJFTVbnJm/QGDOVFLdic4UOVQ6Q2dHYg3Nv39hEryFjOIhvtc053L8Scb31cxIj71Sh+2gxA+Z/QB5RuHTEfZeWGtGiIPT9D3Uh3ZYbO0l1EOSQojFq4yTlknshMo2CYiUqezTGGEkT4/fEOKhAiKkpTqQ2DRxknoH4QL3hQNxwy3m2VqQZckPowIoliEZpLhkWfwqw3FSn8EwBgqurHgDmeG8w2PQe3z/i2ZfzpISSw6tCThhadNVwQcven+PCouoC5mSg==;MHTvUpKIVher/VJj1qvx/g=="
 ---
 

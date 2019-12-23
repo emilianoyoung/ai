@@ -45,15 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-16T18:07:47Z
-    sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
-    type: article
-    provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 4
 
 secured: "vImTNJ9XsYYd4xuw4ckh7jYWxiTKDstNPhu02Vb0RzZ/hCrmXdRhWhEHzom40TajsLkFAdLbvEJHSf6m04CVUdQ4lXXL2MBhT+wsr6bVN4CO5+Sn8s4oKtyUE0v11+L9KvOmPIKDzIVPyvOsqMCMGOrweU3wZ7UaZrhhV6GTRVqN9AqudsIcLT1GCB+AafE4IDBcrgA3YQjKEGY8BnFsAG9M4y8C8ZJX9xACdYnzoaD4DHfRyAua+nia7mPauBlNj2vtoUesI5hoXGLRQLsjTA==;kw4rPSJnjiMVLlc7byl0Dg=="
 ---

@@ -146,6 +146,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8B67C0C7AC285D6F9598B7C829CA375C
         width: 700
         height: 350
+  - title: "Facebook says group used AI-generated faces to push pro-Trump, anti-Chinese government messages"
+    excerpt: "File photo: AFP Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
+    publishedDateTime: 2019-12-23T03:41:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043186/facebook-says-group-used-ai-generated-faces-push-pro-trump-anti
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.D3697D1C44226C24070006236DF10AA1
+        width: 700
+        height: 367
   - title: "Facebook takes down fake accounts with fake faces pushing politics"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.” In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or ..."
     publishedDateTime: 2019-12-20T21:07:00Z

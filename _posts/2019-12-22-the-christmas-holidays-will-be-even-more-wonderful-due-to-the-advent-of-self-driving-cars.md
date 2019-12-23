@@ -163,6 +163,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B15504B2F8E7038418C2E2BD621FD616
         width: 196
         height: 110
+  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
+    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
+    publishedDateTime: 2019-12-23T02:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
+    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
+        width: 700
+        height: 366
   - title: "GM Says Hyundai Poached Exec Who Took Self-Driving Car Secrets"
     excerpt: "General Motors Co. accused Hyundai Motor Co.‘s U.S. unit of poaching one of its top safety executives so it could gain access to trade secrets for self-driving vehicles and electric cars. Brian Latouf, a 26-year GM veteran who left to become Hyundai’s chief safety officer, violated non-compete agreements with the move, GM said in a lawsuit ..."
     publishedDateTime: 2019-12-18T00:11:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google DeepMind gamifies memory with its latest AI work"
-excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term ..."
+excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
 publishedDateTime: 2019-12-02T22:10:00Z
 sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -24,6 +24,34 @@ topics:
   - Google AI
 
 related:
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
+    publishedDateTime: 2019-12-05T17:45:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
+        width: 700
+        height: 350
+  - title: "DeepMind cofounder joining Google directly to work on applied AI"
+    excerpt: "Alphabet-owned DeepMind is widely regarded as the premiere artificial intelligence research lab. Co-founder Mustafa Suleyman announced today that he’s joining Google directly. Suleyman started DeepMind in 2010 with current CEO Demis Hassabis and Shane Legg. Originally chief product officer, the Google acquisition in 2014 saw him become head ..."
+    publishedDateTime: 2019-12-05T17:49:00Z
+    sourceUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/
+    ampUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
+        width: 700
+        height: 350
   - title: "Google’s AI makes memory a game"
     excerpt: "Tiernan Ray explains how DeepMind, a unit of Google that develops ambitious AI projects, found a way to stimulate the kind of long-term planning of risk and reward that humans do by turning memory into a game of actions and future payoffs. Read more: https://zd.net/2YEyR9W"
     publishedDateTime: 2019-12-09T19:56:00Z
@@ -37,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
         width: 700
         height: 525
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-    publishedDateTime: 2019-12-05T17:49:43Z
-    sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
-        width: 700
-        height: 350
   - title: "DeepMind founder leaves to take up separate AI role with Google"
     excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
     publishedDateTime: 2019-12-09T11:05:00Z
@@ -64,6 +79,6 @@ related:
         width: 555
         height: 330
 
-secured: "aaQPbra5JceUbhhSxmgJ8Xrn7T2CjOsbW1KQ0I2lnPCliO2V+ayme2LEQ2fmgYAJZx3RXm+gi9pcc8RfAyBkYNUnV7rbh+oVlkce5h3U0EBc1GUBVwIPPSRZVUZLJGdjg6oaZrea8KXHsxCBKiLmuXi7j/2megCN3kpsWUppi3Thczxazs21+4HPYf4kpnHQP+K5hPkhB2yx0Kw7fPkirhwBOj1Wxx35xTsqq3nPjAxc6mWuiyx2fgA6ll3HzEO0ljL8+8XCsjRtMncMLBy5MA==;//DQlirCSPjcRj6fyt6LhQ=="
+secured: "p/xZk507gDdh8us2Dyas83K5aV6CLjgehJhiApCjBoGclymG1gY7+zeWMBJzSgbcVyF1pwSOdPcfIEBZXwruAitdkq2iS9jFUjjJ4qnApYfzXeVtQuQQkOeC5acKJ95HEuBZAv/cC0eVkhmx4K82ck9BEv6gQfCqY/gNeNO8eb375X2hjb/Eo46QlmmjRa4WNpzLt4ROwDtdNrc0A3pWgN2atoPZRitV8cGOiaBokb9IlYt+Fh+r0tQGKc2B5iZWjsyvGmZWyeizjoS37ewm2w==;5DmUWFwzomp75MW8JZPutQ=="
 ---
 

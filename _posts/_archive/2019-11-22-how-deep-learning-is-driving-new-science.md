@@ -23,6 +23,6 @@ images:
     height: 284
     title: "How Deep Learning is Driving New Science"
 
-secured: "uxFDM4bZzwr//zPt/Hv7b9PfsajetFLNvZHL0Krm+3j0LJ0j+Ajq57nicLOjXOZ9XFtgNTATCRiUDonS5C7GAYpYYAyaytOSfsmk5xZTTlOXVMeCb/LpHE1Rk0JcwywYYXFNTAKywOF1gZ8g0my1AS7z0U5T9wxO9Ta48j1rLZAnILcjr3kaI4mbilWygz2MqpuyGVJ5mvMZd2dg+bRqGY838OV96yCebxLcWYZvteMipXeBSRuc/3AtgurnkZt4ysgx3VWPJizDudgDbI84+g==;hY6vj71E2xZ4URlwQZFP8A=="
+secured: "3EUwH2WoUFPCneYCLdBjgNouFylq4P8lYNmW52q+uyyfDAjCGoDNHt6NrzdgNQ3aqIP+PSE4pJjSOKb7iAt7UssTULUqYpTx/1OHRvOTLvWMLNEtqAuoQE0QZVnGEW8wfyR3c+XQg379aYnl3GhNZKUVeQ5nfmjRfZNpwFgPpQfIFTlPV8QyrOYGJSMU8kbIQR1jEGMBpeFS0g3DeyNnxm12yCpglTf58HUX01vgbV3DUZM6l0uEq0GAPvE/ZCXwHDBnOPM1NG5mVtLumQRJ7w==;+j0dNzppCUuU3kCLMUJjzQ=="
 ---
 

@@ -78,17 +78,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "GBT Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "AI, for both mobile and fixed solutions, announced new microchip architectures aimed at expanding GBT’s AI go-to-market strategy. The new architectures, now in development, are targeted to leverage world-class, on-chip AI technologies for the benefit of IC design houses. GBT is focusing on advanced manufacturing processes for the creation of ..."
-    publishedDateTime: 2019-12-03T00:29:00Z
-    sourceUrl: https://finance.yahoo.com/news/gbt-seeks-develop-microchip-architectures-120010360.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/gbt-seeks-develop-microchip-architectures-120010360.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/gbt-seeks-develop-microchip-architectures-120010360.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
 
 secured: "0oH+RFMCNpNe6vIVagEovreVbH7Rl5AiUNiVql+zLStxrxNgRSgxM/rb+Ptp/QYDSXSbycwePLluKmCb4xFgVjzdf7T2IlIe1zfXsJF8Ku3fZpdHKylJFGrE6EzTVPJlVbe6o3qsPDyqEp1U8tqn5AyxsVho9ZeH+r1IjKJtAMo0p6iV6UhQPvhn2bK3qLOyCF/UukdZ6cbvM4mKFZOPPgxSkDP7zgz9BgTlKa6jhMnZwif4dFS99LCaAJmQf4Hw+pcdm4jicjTU/Z0Fh/udtg==;Vl+EuFR41rFZSG1EIFpl2w=="
 ---

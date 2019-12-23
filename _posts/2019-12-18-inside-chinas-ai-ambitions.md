@@ -23,19 +23,21 @@ images:
     title: "Inside China’s AI ambitions"
 
 related:
-  - title: "Insider Bets His Chips on Intel"
-    excerpt: "AI is a broad term for computers that think like humans ... And it bought Movidius, a maker of vision chips for drones. These acquisitions -- along with organic growth -- will cause sales and earnings to push substantially higher in the weeks and months ahead. I estimate that Intel will earn $4.61 a share this year and more than $5.25 a ..."
-    publishedDateTime: 2019-12-18T20:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/insider-bets-chips-intel-100000345.html
+  - title: "Is China Beating America to AI Supremacy?"
+    excerpt: "Our purpose in this essay is to sound an alarm over China’s rapid progress and the current prospect of it overtaking the United States in applying AI in the decade ahead; to explain why AI is for the autocracy led by the Chinese Communist Party (hereafter, the “Party”) an existential priority; to identify key unanswered questions about ..."
+    publishedDateTime: 2019-12-22T18:46:00Z
+    sourceUrl: https://news.yahoo.com/china-beating-america-ai-supremacy-184600413.html
+    ampUrl: https://news.yahoo.com/amphtml/china-beating-america-ai-supremacy-184600413.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/china-beating-america-ai-supremacy-184600413.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 39
+    quality: 57
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
+      - url: https://www.bing.com/th?id=ON.65B881E523AF9E0545C6A1A82A305E0C
+        width: 700
+        height: 482
 
 secured: "VgIVUbyHel1BVPjuf7ZZmcK3xctqnkMWydou6LHkPNmZ9D9h+RsGYSh4mpAlcJ4wZxP3JSIsWGrndggB+iDv2OG4FO4zeiF/SdQpDz38nXCXFRqVoCz4blyxE7yuimltfEyG3T9frx6F4lEPVMpqmTp/5mfYH8493ZvsNeCaDowiL3XQ6X46DLRksyPqZB6EXN4pG8OSjaf00gJKvKKTj3hgGC6x5Z2gU0S2tjJoQN5jU+kcJiI/RuYIN5QqhcM744nnQyBDiPYxyJXgkGNfnw==;kfqOEg3ubZDCgSA/adweeQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heat
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -70,17 +70,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "GBT Seeks to Develop New Microchip Architectures Aimed at Expanding AI Market Opportunities"
-    excerpt: "AI, for both mobile and fixed solutions, announced new microchip architectures aimed at expanding GBT’s AI go-to-market strategy. The new architectures, now in development, are targeted to leverage world-class, on-chip AI technologies for the benefit of IC design houses. GBT is focusing on advanced manufacturing processes for the creation of ..."
-    publishedDateTime: 2019-12-03T00:29:00Z
-    sourceUrl: https://finance.yahoo.com/news/gbt-seeks-develop-microchip-architectures-120010360.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/gbt-seeks-develop-microchip-architectures-120010360.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/gbt-seeks-develop-microchip-architectures-120010360.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
   - title: "Oppo developing its own mobile chips, says report"
     excerpt: "The report did not provide details of the chip. At the forum, which was held to mark the completion of Oppo's new office ... the company's future R&D push will be also eyeing the development of emerging technologies including 5G/6G, AI, AR and big data, Chen was quoted as saying. Liu, who also serves as dean of Oppo's research institute ..."
     publishedDateTime: 2019-12-13T06:47:00Z

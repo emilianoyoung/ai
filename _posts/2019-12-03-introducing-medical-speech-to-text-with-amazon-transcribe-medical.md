@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-03T14:01:49Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/introducing-medical-speech-to-text-with-amazon-transcribe-medical/
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -67,19 +67,6 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.BAFA85446FEA89249AD174AFDBAC1A6B
-        width: 700
-        height: 466
-  - title: "Amazon debuts automatic speech recognition service, Amazon Transcribe Medical"
-    excerpt: "... not alone in working with speech recognition in the healthcare space -- this is an area Google is working in as well, with Google Brain, plus Microsoft, established players like Nuance and Philips, and a wide range of startups. Amazon Transcribe Medical is initially available in the U.S. East (North Virginia) and U.S. West (Oregon) regions."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://www.yahoo.com/now/amazon-debuts-automatic-speech-recognition-155149727.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.F07D9AF60EE9B983D1B3E1850E18B913
         width: 700
         height: 466
 

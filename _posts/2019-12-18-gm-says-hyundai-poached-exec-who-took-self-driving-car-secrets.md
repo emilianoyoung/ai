@@ -157,6 +157,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B15504B2F8E7038418C2E2BD621FD616
         width: 196
         height: 110
+  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
+    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
+    publishedDateTime: 2019-12-23T02:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
+    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
+        width: 700
+        height: 366
   - title: "EXCLUSIVE-U.S. talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. By David Shepardson WASHINGTON, Dec 20 (Reuters) - The U.S ..."
     publishedDateTime: 2019-12-20T22:53:00Z

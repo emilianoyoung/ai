@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-publishedDateTime: 2019-12-02T13:15:00Z
-sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
+excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+publishedDateTime: 2019-12-02T13:19:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+    width: 800
+    height: 419
+    title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 
 related:
   - title: "Artificial Intelligence (AI) In Healthcare Market Technology Advancements and Business Outlook 2019"
@@ -443,17 +449,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology, lift tools from the ground, recognize the boundaries of a farm, and can be operated remotely ..."
-    publishedDateTime: 2019-12-03T00:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-agriculture-131500404.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-agriculture-131500404.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 33
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
     publishedDateTime: 2019-12-09T12:55:00Z
@@ -512,6 +507,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "CkVmho22mwBjYLOOGnZDv/5k1IZaAWFOrDRF+Mx4ZwRR9Cr50Cp9MZx8V2kM0foOmRf/DHWywd+o88TO1AsCfp20/ixbwZpueZR+qg9sOzNxoh/sCFvLmSEngkFgYz078l/nS+k5aqRpzlJfxsJKpG2RBUiQDeuwzeUwkqEEdH4F0YjXB//VQmhxMPMtGCYNx68fw2YrcRgFkiJOAgKlEO4wDC5OaMlP/6Rr6avLj6pztj6a3K+CqnkgRKkiZHhUheEEvC3LLas4g3pW1+nQRw==;zhnAuoQx850mzTeqh/R0qA=="
+secured: "dlXY2c4PvX+6duiV/yGafpJoy23Ntv74usNvGF6swEGNeU66Fhi95eiXbObM7J/vsJJZwE14pbicHpGPhVJLWhj6nDMAM8XbDRrvG0gbwMTHlCtLxqOO/n1dfrZsiA99KCPLL5F9A7paoIU71HQh756dpeM4MJxalEq2UL9DjUIS2uI/HYlhzK9YGuSRNyPv6noUj8Yr/6nDaM2dB1zT8SaqJMqC25yk2gGtlzHIbaFHlhKzKpEXFZlSbJe/mX3S3Dy4oGXn1+WPZGhBSkxd9g==;J9zhJVwvLCSdR37lSNomjQ=="
 ---
 

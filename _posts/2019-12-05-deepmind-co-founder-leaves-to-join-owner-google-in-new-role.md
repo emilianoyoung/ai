@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B582701F9A78789FC87A3E8692FEBDA1
         width: 700
         height: 350
-  - title: "DeepMind cofounder joining Google directly to work on applied AI"
-    excerpt: "Alphabet-owned DeepMind is widely regarded as the premiere artificial intelligence research lab. Co-founder Mustafa Suleyman announced today that he’s joining Google directly. Suleyman started DeepMind in 2010 with current CEO Demis Hassabis and Shane Legg. Originally chief product officer, the Google acquisition in 2014 saw him become head ..."
-    publishedDateTime: 2019-12-05T17:49:00Z
-    sourceUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/
-    ampUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
-        width: 700
-        height: 350
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which gathered data from millions of NHS patients without direct consent. Streams was integrated into ..."
     publishedDateTime: 2019-12-05T18:48:00Z

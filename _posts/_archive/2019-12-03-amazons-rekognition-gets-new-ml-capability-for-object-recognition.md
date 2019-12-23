@@ -19,11 +19,11 @@ topics:
   - AWS AI
 
 images:
-  - url: https://findbiometrics.com/assets/61769640_thumbnail-3-e1457541721182-1024x645.jpg
+  - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
     width: 1024
     height: 645
     title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
 
-secured: "7TN88andjTWFjoZJxJPlofZ8wcf/GEQdJXaKxtpSUoc9OvYc4HU320TCAQ6TIrWmB2ZR0mRv4KRk9sCu/eiO1o1De94QRZosAXUJgV8espn8iX9vajCa92jdyB7VZRFzEZVn5oRxE/z3aciV+e0KnlHyHPz7w0a5e9dzhFjRhuf3HC46Hhxc59C86bfvHMxdr/MSAc5Bmpb+q87UGB7lyHJQFG2R9IrGsfWPDnv/cQ2H14I2gbdhIlL/VTgWVhE1Qvm/dTXhTkZ35PgQk1ydDw==;ZqdoDnK0wmUHnHvY03pOqg=="
+secured: "1SCKG57MEpJgHkLNyRZrCst/Lo7ggBHTe+d4OE5p4LUV1kofYsTE4ZVQD+iBdWwh74Wx4E/qpgtE9T96P4Ixise2HzZ3bok11zN99jAIy55EbZjNCdkqzl/xFiZMj+Hf9fYxGWiiCWbTkAXDsyy97XC1FE0+R9EUUgEJw+QvuPNKRV1Sve1EG1wwT6Y+jJwJScHQstqGY9pJT0+mdo1GZUy1cGXC7mM64sqSjJs2CLjCwjjPqsrHllHfsRDLobHOKdWZhpfG+U3vK7NZo7OBlw==;3DY32k3oO8zeN8zXOuGOrg=="
 ---
 

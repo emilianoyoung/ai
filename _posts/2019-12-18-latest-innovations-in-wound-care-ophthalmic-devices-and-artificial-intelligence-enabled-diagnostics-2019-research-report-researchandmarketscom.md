@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report ... Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing ..."
+excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added to ... Incisions to Improve Healing Preventing Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing Implants Made of Continuous ..."
 publishedDateTime: 2019-12-18T12:30:00Z
 sourceUrl: https://www.thedailytimes.com/business/latest-innovations-in-wound-care-ophthalmic-devices-and-artificial-intelligence/article_be77a94f-8cab-5038-9033-fed83c0a88d8.html
 type: article
@@ -95,6 +95,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "5TA1Zme+WOvZYfnPEFuF1ekOv5wZgrsZqpxca9V3yrY/q1sx5t8ofWCmQbloXHyl9kVWlGtZHdTPR5FELstnSFWrQcTdxIXNLIJfUMK1ViuH5E17fQMoqSpReEc70vC3d70+e6LrApRVuZLOcTUGCnKJPPakqRK83sIfu9sH1WlCmSX2y5vBwZpO6/USF1/K+ENewiuuXbtJ3doNOA+1Hj94U7PLyeWfQOYXlJPLDnVSJ8FNj/9NGfmMnwutWKSA6NnvumXwzWTlFAejhNL1ig==;KB6wuKM/XbBhGmbmF/zgKQ=="
+secured: "o5pP8Iv11iz5KtXQVeqo6vCwxkZmS+ZNpiCRxCJSOHDckdrWFSg8v2rdtHKgB384QkoYWF5ZF4SXvkFM1JLV4UXyFu8MYJ8sRtkAaPtirRXhk1U4kFN+LmRMTDdPDMJmS4zwOwWhEyvvAXAkaSTnCFtd70zyKGYveo0OtI19C5Rnk8CJdnL5TC/R0KjpX+CkA4RBahk9pY3qgMly8y3ELruwi3niqy5iSxLb4pEt/Qm1RxSI4WEIbI7NP0ORq7mRQ/TJmme3kcZjl96QBWciWQ==;3H0oCuEAhKsYsXYApLd1tg=="
 ---
 
