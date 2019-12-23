@@ -5,8 +5,8 @@ excerpt: "The financial services industry is using machine learning to revolutio
 publishedDateTime: 2019-11-27T01:01:00Z
 sourceUrl: https://www.udel.edu/udaily/2019/november/machine-learning-financial-services-ifsa/
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Finance
 
-secured: "v0kMp8cAstI+Qg6W99UDwX0X9URJ0mDcZSQSzTA+j17Dz5XGxOUkOjdkp+iP+/ppU6lXTMYp1lZcAbZAKdyyMWyKtfvwbaONcdIB9xVdXjMRlvNyNwxkwk/CaQkDCzYg5CYdFWMGM1Wg/6l8mlNMsbB2CiA2DAm8gsrWKf7bx59tRU6KJdlJS6lfKCacr6lfp56GpmvgdwoVH97I5uHmcR1TEr1yJz1YSgQizWyopXhbZESlg63zRiIFvWJ+LsjfZF+Cr1IOjX5gemAEytY8BQ==;fe2RKY1AJQpH2jOiGCshfg=="
+images:
+  - url: https://www.udel.edu/content/dam/udelImages/udaily/2019/november/fb-info-dark-datae-GettyImages-1156834914_dark-800x420.jpg
+    width: 800
+    height: 420
+    title: "Machine learning in financial services"
+
+secured: "+YRm3+IPQ2VBrJI74dZv65JlrIShiC4j9x85/lOARceDf+hPUGfmu/gI28KgK0FYM9YF6vgpHJv93BEymxu7XZ8xuZQTRAAC9lCkx29nYifa2deHebbjpHmc7Fwz6iTYwjF4rt5MRA49qgNGzGVDcFh5Rmm4/Vo/lMnSoRjVhvHM4NKbH4B+i7JgTnZGNdmFBkPyMhnQo1afu9GXTk/GEwepUGzkFBmScqYEEudJNXEavNiHfwqrMdGpJgXhYRC7xX45mCq2vUBiQa9ftlunVw==;I5djms4lcgQmLkXa/lRM8Q=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-di
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/?outputType=amp
 type: article
 quality: 150
-heat: 320
+heat: 330
 published: true
 
 provider:
@@ -265,6 +265,19 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/3449689/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fee%2F1c%2F7792315845418ce71c225b7a822e%2Fgettyimages-586113560.jpg
         width: 1200
         height: 630
+  - title: "Pro-Trump news outlet used AI to create fake Facebook accounts pushing far-right stories, officials say"
+    excerpt: "Facebook has removed hundreds of fake accounts created with artificial intelligence by a right-wing media company meant to promote its ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale use of computer ..."
+    publishedDateTime: 2019-12-23T14:31:00Z
+    sourceUrl: https://www.independent.co.uk/news/world/americas/us-politics/trump-fake-news-facebook-epoch-times-artificial-intelligence-ai-remove-accounts-a9258141.html
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.453D05DB12B4582C5C99A8B7664E931D
+        width: 594
+        height: 397
 
 secured: "u3Ql7gmF4UpZzm0aX4FE8iKI6nMXB7TJIjipZ3BqPow8/8v4nmtwx5SwuF1pIbDa0oic4cuyN27leOTWf/+5m54HtR+WKasHbob0DZimO35cocYGH20WwVVXylHB7uwrvdHwBt/ZW3NmXFnpUL9GXnrLywhL9zOVIYuDKEwoPWdYBbpDUZHIQV7BlPcJH5XXTzvp7MeJdEuPdm1onkj31smI94Ug4ggc1F+oOJ+H6RVumHOWexi7buXKi3U4tJnx5+VNV6o5p7+IdptB1354s6c54yoI9ISecDobjIyi0T0=;/MZCyMwLpRbwOMzWk89jsQ=="
 ---

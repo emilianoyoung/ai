@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.12591F442B77066A207C0BB8EDD24AB3
         width: 700
         height: 387
-  - title: "4 Stocks Likely to Gain as Facial Recognition Picks Up Steam"
-    excerpt: "In addition, facial recognition system is gradually being used in airports to validate flier identity, and will probably make passports and long security checks an obsolete thing in the near future. Key sectors such as banking, healthcare, retail and mobile commerce are fast embracing biometrics to authenticate a transaction, access healthcare ..."
-    publishedDateTime: 2019-12-03T14:35:00Z
-    sourceUrl: https://finance.yahoo.com/news/4-stocks-likely-gain-facial-135501403.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/4-stocks-likely-gain-facial-135501403.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/4-stocks-likely-gain-facial-135501403.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.2E685FC60D1A6B273F7F4AF8A9F7A92C
-        width: 635
-        height: 400
 
 secured: "Fi2CD0gSE13bz3lcaU2dzah4Ay61D9D4I42L7KjZvzbjz8gJyCr7tcaR1Go8nAxivhI+GUywj9fkY/THkYC9CkQb8n3nptruJXQz2wg4JXV1BfrOOhl2dxCrNJZWyFACd4fvI3Q29vl4xMMMWyajBkVH5apRvBK4P5fgZ+/CfSVlWc1YNAOBSUCowPH4hmul2CFTjFST8j5ExIpHiFWCwundEy858FFjD8Iuzs6HiXtoZc8PqrfFLTgRWtRtyMdLUnXtQMa5QFJvDxM71FvHaA==;8BUXNPk1Ut3z/fWSb5a58A=="
 ---

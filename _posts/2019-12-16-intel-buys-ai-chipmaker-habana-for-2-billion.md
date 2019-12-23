@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Intel buys AI chipmaker Habana for $2 billion"
-excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
+excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the A.I. market. The company clearly doesn’t want to repeat past mistakes ..."
 publishedDateTime: 2019-12-16T16:15:00Z
-sourceUrl: https://www.yahoo.com/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
-ampUrl: https://www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
-cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+sourceUrl: https://www.yahoo.com/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
+ampUrl: https://www.yahoo.com/amphtml/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
+cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
 type: article
 quality: 74
 heat: -1
@@ -729,6 +729,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "dJ5sUiHAAh5EJ3nNitXFyo4ubQdhjFbhZhtLuSwzWNX84dGUJ1V7L7yo7gY8sjzSpClUAH6/Hzn46Z5toE8f0FFw/fkVRphAzJ0ST5MuZhWGMsKoO5vK6/1E6z4ReXxhBowC6BOkEZzwiRXnar97E8e2nm6r6dnUd3fC8V4fa6my53uUBuTFWsh7so3bvLeUEiNWV9lFFBkcFBms52cWhsBJ8LmI0ZACmK1bK1I/Co11AbcneYjaDNs/6EFX5kW48TNsG6P483Z0ZEcFNuODvg==;KLjJ+eBA7sr1dX2vKk3RXg=="
+secured: "oFCozAm54l0yH2h0vE19jTUh5JHAMiDXo0sJORUOP5y7JfVCjy4vMPMJE0/Jx6D4sE1XRwT9ZdxEE27J/VMXV9BaX8lo8TR9gsBXkKu0P4SFPIwRl+61OrSwsXItc13/fpctSpmzGY6YIRm4lVuYEqcB4z0+lsxEtzq1OGA6zoKKRIsn8pUt8FAd1PYNegOHH4EP8tdfx9f44KfssrP5798z8VhdZQVj+ECjw8ZhaJdJSV1a+5ee9/hvqNlI03uKqOycByiF8OrXiqUez6M7mQ==;NdzkePWO/OQkpSGbhvyK6g=="
 ---
 

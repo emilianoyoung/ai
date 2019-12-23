@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.600AF0881B4334112E40ACE8365AB24E
         width: 700
         height: 466
-  - title: "Machine learning that works like a dream"
-    excerpt: "Tsukuba, Japan - Researchers at the University of Tsukuba have created a new artificial intelligence program for automatically classifying the sleep stages of mice that combines two popular machine learning methods. Dubbed \"MC-SleepNet,\" the algorithm achieved accuracy rates exceeding 96% and high robustness against noise in the biological signals."
-    publishedDateTime: 2019-12-03T14:33:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uot-mlt120219.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "+NU6NgBgGbDT+XDsfCeA1DbTPdVr4k7wQ+Br7LO9ZInIbHs+RJAcAPhRcX9Lm9shIp/c8VaoB96jM7iNLz/yEe/Y6cxjeu/HlG3qgei8JK9mqH5BRVrWUvaKrtsXmqTPGFb0ATC9TBZYyxa5sbb0V1+M1WnSfHwJ+9nj5jjsGAy2+Q+LZHMRKfDSJ7kfaweO6OmFhjWaePGkJ/RWN37FijE85iy0G7BPa7h+Iiq+7Kc4AvxaSBOJ/oWHhCLu1ebP0ZNt3lvVetf3BCq2aHnvJQ==;1kt3hC+7ptXaph7bWaokBA=="
 ---

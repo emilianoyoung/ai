@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Progenics Pharmaceuticals Announces Phase 3 CONDOR Trial of PyL™ in Prostate Cancer Achieved Primary Endpoint"
-excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Progenics Pharmaceuticals, Inc. (Nasdaq:PGNX), an oncology company developing innovative targeted medicines and artificial intelligence to find ... conventional imaging and/or changes in PSA levels following radiation therapy. Safety results showed PyL was well tolerated, consistent with the Phase ..."
-publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1964007/0/en/Progenics-Pharmaceuticals-Announces-Phase-3-CONDOR-Trial-of-PyL-in-Prostate-Cancer-Achieved-Primary-Endpoint.html
+excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Progenics Pharmaceuticals, Inc. (PGNX), an oncology company developing innovative targeted medicines and artificial intelligence to find ... conventional imaging and/or changes in PSA levels following radiation therapy. Safety results showed PyL was well tolerated, consistent with the Phase 2 OSPREY ..."
+publishedDateTime: 2019-12-23T15:49:00Z
+sourceUrl: https://finance.yahoo.com/news/progenics-pharmaceuticals-announces-phase-3-120010916.html
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -32,6 +32,6 @@ related:
         width: 1200
         height: 630
 
-secured: "nmfY64pZOpyDTgXEPbT1TI3fJLz4JxzXPpI4gT2boM3Z94OKlpPgtRRThIPcvMFnJDzAqD6kArGFX6V/s87beEkDAVJhbkCB2j5V0LunbP0I28cWsGxKBsj0e5QbsWuIbpQxLKjHPzI8xyiF8cMtrtXPywu/+gL9EJzFVlVAvuXvyADAKJE4z2bQZdZRu6jXfc41M0FYPi/xG0QqLYqwMmDa/efSMOf8eyUfAP6z5FfFKqhWjfMM4yoVtWjn6CueHVAQ2rS648Sz3ZI/4B+vbQ==;pQ5+0Hco4GzBO+qaUdTSNw=="
+secured: "m/Qki8FPprvcQqVLcgmTF0AuY02i9vK8aVDhuVBtCmeM6oOjXyRKAomjZOnUachUR07HeWmTwx/KZ0reP8bkQgay1pJD+uL++J/+s1Drxmvxhlsw+sc5FrpdkUvwsbb1srdq2tJv9r9162aobo/FW0GZMfFloq61+4aIXZpe9gH2MfuJcK1xNVB5OZ955CL9xY44sWpv3vF/TEs23DslQO9DG2AAzn/aSQ0zz+aNOfgBO8IjoPdukYtS/e17BxrN/uTx5WtptPIsAlmewmbSaA==;bbK4VTwgxq2CfXMwQNC0Fg=="
 ---
 

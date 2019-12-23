@@ -42,18 +42,18 @@ related:
         width: 457
         height: 199
   - title: "What Machine Learning Will Mean for Asset Managers"
-    excerpt: "Some industry experts argue that machine learning (ML) will reverse an increasing trend toward passive investment ... Nor can ML predict future events if they are not closely related to past trends, such as the 2008 financial crisis. In these cases, investment professionals must make judgments about where future trends are going, based partly ..."
-    publishedDateTime: 2019-12-03T14:26:00Z
+    excerpt: "Some industry experts argue that machine learning (ML) will reverse an increasing trend toward ... events if they are not closely related to past trends, such as the 2008 financial crisis. In these cases, investment professionals must make judgments ..."
+    publishedDateTime: 2019-12-03T14:24:00Z
     sourceUrl: https://hbr.org/2019/12/what-machine-learning-will-mean-for-asset-managers
     type: article
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 41
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.BD966F003C65EA40543E4832D2810BC0
-        width: 700
-        height: 393
+      - url: https://hbr.org/resources/images/article_assets/2019/12/Dec19_03_516601884.jpg
+        width: 1200
+        height: 675
 
 secured: "9E0we55NNFCQMpHkd74uXtyjz+qFC/to1teHLA+T2lNzUyjNvx85x8xTqBpyjG9GHZ2PH6+FI88fJZT+7+ZzRNpRf0hsskx+ewavddEXAb+T8w/x4M4KrcOpsr9Ciu4gGLrh/WGxI4q6NyTmrlagqQzn3P4TtlCFM5tLbx+jVAXv5taKXPwYQKDnXJqRAlcENm/T1wfYIwCcmUMAdMZdWg1hTGQU9S4bVHAwyyNtPWLeNO4Rl+raTZd/nc2DTwyNFl43ujTXAIsdEDknU+CImQ==;WbG9B/l0rC8WUiQdRtwytw=="
 ---

@@ -265,6 +265,19 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/3449689/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fee%2F1c%2F7792315845418ce71c225b7a822e%2Fgettyimages-586113560.jpg
         width: 1200
         height: 630
+  - title: "Pro-Trump news outlet used AI to create fake Facebook accounts pushing far-right stories, officials say"
+    excerpt: "Facebook has removed hundreds of fake accounts created with artificial intelligence by a right-wing media company meant to promote its ... Researchers from New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale use of computer ..."
+    publishedDateTime: 2019-12-23T14:31:00Z
+    sourceUrl: https://www.independent.co.uk/news/world/americas/us-politics/trump-fake-news-facebook-epoch-times-artificial-intelligence-ai-remove-accounts-a9258141.html
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.453D05DB12B4582C5C99A8B7664E931D
+        width: 594
+        height: 397
 
 secured: "FRXfNiFBcdY1dP0bV9MUelTjAf9WO2Uy8xV1Y842IwmSIeuG/zZs8XqeddHD8RddKFjF7/29dNQO0qGyRYNOjVEaFfUl1+tnLLLpnjm1i3Tj2DP/5MRqzSn8u5weVs+Carn7NARKyFU+qWeYWJ7csdmmPXobkevALq28ySZgNsJJIfLsIfmoCEy7Kmgiw/BiVRZETHtLjqTb0x0mI4411vJHBXb1xtNuvYYa5wQMZZrN2xjaFS7UAIhxmVPxJkPSaWX7+1GTG19lI2BV9RZhxg==;ovN+PNm51zkTs5/iW+PBWQ=="
 ---

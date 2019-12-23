@@ -24,17 +24,6 @@ images:
     title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
 
 related:
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-27T14:37:00Z
-    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
     excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
     publishedDateTime: 2019-11-27T17:21:00Z
@@ -46,6 +35,21 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+    publishedDateTime: 2019-11-27T14:48:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
+        width: 700
+        height: 554
   - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
     excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
     publishedDateTime: 2019-11-27T17:56:00Z
@@ -59,20 +63,7 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
         height: 484
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-    publishedDateTime: 2019-11-28T00:13:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
 
-secured: "LcWRTzrDTdLsXixBx9lZRtEngJhxgCHDz8CrPeDLEV9VxjH2PjaK1OpIwKKXin+KLq77eiVfbaSnilzd7Pr8qNK9lsgqVYZ2YMd8eAgnsFFw7u7WCF0LRzpnzlTIGuRwan4fHDtbO1Jt3cyQwaMSePFs+NDTzR/J5/4kIOv6iKv4+tsUEY1HbPbYRT5cwYZtkISQlRPWMEZaolGEBIhz52ETufYqlJAzGx5GCi4mq5SSGDB4Y3JUJ2cYOf34IvSibQ6pMvNtclsfn10t4gyn7g==;F28VOVd4wt9aNXfBkUGxuQ=="
+secured: "qzyAxMde3YwxXOPGCObIf/lpq4wj1rF/n1oOkhRiTuE5T84nu8njd0mErmM3mJI26/myCmMta2c5oW0dIRVFfunR0Scmm6H8zXyjaYSrv7ufAF5LM3o1WIViBYNSrIQmNF09pu4QdmeAIz65l4Qwe5zucNEhuOq5ID/mKNf1bOEZx0lNNSeyD5UOrwDLOx8bAMyZSht1rxgZ2LDFeHfDtLXnuYHAfV2dzGDrf5oW22vmZDMFYLd5y0prb1IhFmIGgNZpjmjvUp7I6fSXbGgADQ==;rdFrcFv4ZawVGez1Qs20uw=="
 ---
 

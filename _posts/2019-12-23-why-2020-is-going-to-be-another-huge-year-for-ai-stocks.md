@@ -8,8 +8,8 @@ ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-
 cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: -1
+published: false
 
 provider:
   name: Profit Confidential
@@ -26,19 +26,21 @@ images:
     title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
 
 related:
-  - title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
-    excerpt: "“Vendors of these chips will move away from offering proprietary software stacks and will start ... the technology complexity for their developers and help them focus on building efficient algorithms for the new AI and ML applications.” What won’t happen in 2020: Quantum computing: “Despite claims from Google in achieving quantum ..."
-    publishedDateTime: 2019-12-23T13:41:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191223005021/en/2020-Banner-Year-AI-Custom-Chipsets-Heterogenous
+  - title: "Apple’s Stock On The Run, Is It Time To Sell? Ask The AI engine"
+    excerpt: "What about the possibility of a 10% drop in Apple’s stock after such a run? You can test the answer and many other combinations on the Trefis AI Engine for Apple Stock: Chances for Rebound after a Fall, or, the chance of a Dip after a Rise. Case 1: Apple stock drops by 5% or more in a week Case 2: Apple stock rises by 5% or more in a week Is ..."
+    publishedDateTime: 2019-12-23T15:05:00Z
+    sourceUrl: https://www.forbes.com/sites/greatspeculations/2019/12/23/apples-stock-on-the-run-is-it-time-to-sell-ask-the-ai-engine/
+    ampUrl: https://www.forbes.com/sites/greatspeculations/2019/12/23/apples-stock-on-the-run-is-it-time-to-sell-ask-the-ai-engine/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2019/12/23/apples-stock-on-the-run-is-it-time-to-sell-ask-the-ai-engine/amp/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.B4B57690C1CA6440F643B842181B3CCB
-        width: 700
-        height: 365
+      - url: https://www.bing.com/th?id=ON.C2B1ED4E7D75A3EA828AE797FF7B019C
+        width: 600
+        height: 315
 
 secured: "Vj+j+i0spvuQ81lj7d84s1tw+yvjFWdDHkmenLHgyK7qglgxPvZZ6Vm1oGZgVN5Iq0XFucHY0Sfb0S0aXkmw2QKzyqnr1JHEFfzwrxM27cc+10YptsiPa+MjLuzirxxGjm4IrJzuaxFVdwGZE4thB/M97rWo9kJk8Sn4ioNOANNQRPDb2wegiAR5ZKzjbRRZBlgSIX6GO8Jm/0NmIqnV6DdEIKRtQ3geVTL480MwLmYUmP2M5Vu/t5Ys+eSF1u2FIdPV1OSAXzjz7ThkgVXeTw==;nS1+wQ5hr9hrnLY4D/hosw=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized reports that counsel patients from diverse demographics about their probability of having a baby."
-publishedDateTime: 2019-12-09T15:03:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/univfy-to-present-at-digital-medicine--medtech-showcase-2020-on-how-ai-and-fintech-make-ivf-easier-to-navigate-for-patients-and-providers-300971455.html
+excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
+publishedDateTime: 2019-12-09T19:19:00Z
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/univfy-to-present-at-digital-medicine-medtech-showcase-on-how/article_4b601435-f3d2-53fe-867c-94e849190ef2.html
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
+  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+    width: 1280
+    height: 720
     title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
 
 related:
@@ -126,6 +126,6 @@ related:
         width: 700
         height: 457
 
-secured: "e4/RORET23RrGt2LU6UAKJ3IwCA7DadLf9QEx1yZYOSR4ISW+Bw8hrvJ+1dEiWZeyX7rYiI/jA0A+z3WKg/coJp7nc3B+9l1JSm6HNj4kwH1Z+QIfw9W4jnJSAxQRy//wSyIpnmMi5nAXZT5nJHZD6w1v01sNE33a8hCJFlsj8yl9srk+JhmQ7Y4NeoYOmC2OOWFlbljIf/0OEbBajxcYZWmF3D0/VW7AYeA0lt/HsrKWgUdN1q5KPNwk+L75M3ofck3/tYcExWeGw/cR/SBQA==;Kvx4oRijrm9WGFeW4CQTmA=="
+secured: "MShOEJpOIn8fPrDPGcUNZvyQLvff+E1tUvRlGwP9UaEL+cU7Cz3J+BBLrUy4gmINFgoQZDJVsUc0nZyyGREzTOglmvJlTgosWPJofy+ms1gUPC8d3XMhHHmgCrH7UtQhmmXgwEHGeosg6Fo2kmwbrypiE1KE2ibhKuDz7hr6QMcEG/B3rH6xCZD3Bo8W3zqRge3kLLB7ij5o6EPXlM+ZM9+fDiTrmJDXShXtdmluZaTbck47zyNJxoLLVV1mCt0Plt9IpQ99kwjySQSyrOG6pA==;gDWHSG1BW7RHTRFZeGkNGA=="
 ---
 

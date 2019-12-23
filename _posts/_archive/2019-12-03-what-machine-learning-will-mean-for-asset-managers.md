@@ -1,11 +1,11 @@
 ---
 category: news
 title: "What Machine Learning Will Mean for Asset Managers"
-excerpt: "Some industry experts argue that machine learning (ML) will reverse an increasing trend toward passive investment ... Nor can ML predict future events if they are not closely related to past trends, such as the 2008 financial crisis. In these cases, investment professionals must make judgments about where future trends are going, based partly ..."
-publishedDateTime: 2019-12-03T14:26:00Z
+excerpt: "Some industry experts argue that machine learning (ML) will reverse an increasing trend toward ... events if they are not closely related to past trends, such as the 2008 financial crisis. In these cases, investment professionals must make judgments ..."
+publishedDateTime: 2019-12-03T14:24:00Z
 sourceUrl: https://hbr.org/2019/12/what-machine-learning-will-mean-for-asset-managers
 type: article
-quality: 41
+quality: 24
 heat: -1
 published: false
 
@@ -16,12 +16,11 @@ provider:
 topics:
   - AI
   - AI in Finance
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.BD966F003C65EA40543E4832D2810BC0
-    width: 700
-    height: 393
+  - url: https://hbr.org/resources/images/article_assets/2019/12/Dec19_03_516601884.jpg
+    width: 1200
+    height: 675
     title: "What Machine Learning Will Mean for Asset Managers"
 
 related:
@@ -56,6 +55,6 @@ related:
         width: 457
         height: 199
 
-secured: "FJkxXLwaZ5yNx3hD2kGCO7LSs5UEFFd0J9BULSXDxeqq4M4nzbXloXFSFdejN7QcUSwJAlgAOCyRx22dn/rajPSjga7Bvvjx8igoORvp7T0TIbPYdcpmdZO9P15RQFoWE1IxS/0AaIBx7PVoxi3kCT5L7rdWu0m0Wj20Ut6YPHUyGYDoUFQ3vdnqEfv0MwiUjagYrcKFA2wKmGF0Z8sv/k5HVVETfR/rRYd2iLAKEQ93O3P9YP+6mzcJirDcyKEmuKGyHnpl1Qs+K4dWEn65Rg==;pXU6IgcE7fftQR7UVQqwBw=="
+secured: "NS1tyhkMM6GiyFErYFsYsjJzu7Wp4OFwoAoMH5yUmzE/OXSvNL54dEJC4/fhSStC5T1qSunx8IyY+1jH5d2J3mICo3RR17OhfuKYxB/TX0ZNSABUd4ea2UoN7m+SEZ198eHSCVD5ShbKfpHbCvTSTf4u4dIWhyxZJiVlgBfVCABO2n51uV7kznMr0oxCNd8KNi4X8Uf2fFIBMqHpesIVngTqDPNoLhrx6FgOGH0YIT0M5/geHefUmyZG8aTgG0ho8IKKuXS076M0xmsQWjfONg==;IUngfAZiQ9KXMQfgnT/qhA=="
 ---
 

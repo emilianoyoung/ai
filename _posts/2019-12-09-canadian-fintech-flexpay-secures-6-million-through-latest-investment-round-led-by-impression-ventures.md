@@ -26,21 +26,34 @@ images:
     title: "Canadian Fintech FlexPay Secures $6 Million Through Latest Investment Round Led By Impression Ventures"
 
 related:
-  - title: "SoftBank leads $30 million investment in Accel Robotics for AI-enabled cashierless stores"
-    excerpt: "Accel Robotics, one of a growing number of AI startups that’s setting out to enable automated cashierless stores, has raised $30 million in a series A round of funding led by SoftBank, with participation from New Ground Ventures, Toyo Kanetsu Corporate Venture Investment Partnership, and RevTech Ventures. Founded out of San Diego in 2015 ..."
-    publishedDateTime: 2019-12-03T14:46:00Z
-    sourceUrl: https://venturebeat.com/2019/12/03/softbank-leads-30-million-investment-in-accel-robotics-for-ai-enabled-cashierless-stores/
-    ampUrl: https://venturebeat.com/2019/12/03/softbank-leads-30-million-investment-in-accel-robotics-for-ai-enabled-cashierless-stores/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/softbank-leads-30-million-investment-in-accel-robotics-for-ai-enabled-cashierless-stores/amp/
+  - title: "UAE's BECO Capital, Global Ventures invest in Silicon Valley fintech firm"
+    excerpt: "Using a proprietary AI-driven approval process and blockchain technology, the Silicon Valley-based fintech provides start-ups with instant access to credit and complete control over their spending. Tribal Credit's backers include Endure Capital, 500 Startups, Valve VC, AR Ventures, Off The Grid Ventures, Rising Tide Fund, RiseUp, and Tribe Capital."
+    publishedDateTime: 2019-12-08T05:24:00Z
+    sourceUrl: https://www.zawya.com/uae/en/wealth/story/UAEs_BECO_Capital_Global_Ventures_invest_in_Silicon_Valley_fintech_firm-ZAWYA20191208050826/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20191208050826/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20191208050826/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 178
+      name: Zawya
+      domain: zawya.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.05314DA7E4A0B773B7BBBE3707348501
-        width: 700
-        height: 335
+      - url: https://www.bing.com/th?id=ON.195FCB1E8419C39DC91942C3AB87864A
+        width: 450
+        height: 300
+  - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
+    excerpt: "MONTREAL, Dec. 9, 2019 /PRNewswire/ - FlexPay—which uses AI and machine-learning to help merchants recover lost revenues from declined transactions—is proud to announce they raised $6 million dollars, led by Impression Ventures, with participation from BMO Capital Partners, Anges Québec and strategic partners. Credit card issuers report ..."
+    publishedDateTime: 2019-12-09T11:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/montreal-fintech-flexpay-raises-6m-from-impression-ventures-and-bmo-capital-partners-300971027.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Portag3 Ventures closes $320 million second fund focused on fintech investment"
     excerpt: "Portag3's Fund II has already been making investments prior to this final closing, and has already put money into KOHO, Clark, Integrate.ai and startup-builder Diagram Ventures, along with 13 other startups. Its first fund invested in a number of fintech-related companies, including Clearbanc, Drop, League and Wealthsimple, as well as some ..."
     publishedDateTime: 2019-12-04T00:14:00Z
@@ -54,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.B6E0918C6C69771E13DAFCF197D7FD2A
         width: 700
         height: 466
+  - title: "South Korea invests in fintech unicorn"
+    excerpt: "“(The government) will actively adopt policies to scale up and advance the fintech ecosystem both quantitatively and qualitatively ... Korea’s big data market has expanded 70% since 2016 and its AI tech sales by 90%. In April this year, the nation became a global pioneer in commercialising 5G network services. Investments in new ventures ..."
+    publishedDateTime: 2019-12-09T00:16:00Z
+    sourceUrl: https://www.thestar.com.my/business/business-news/2019/12/09/south-korea-invests-in-fintech-unicorn
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 4
 
 secured: "QjT95+ielyAjUM+73EyA+4rJeH4QZnNasgN0uDN4BAOKQ+1NJNnVde28FaAFhx1NNfqTIaE8zebq6g1FgiiWfLYYq5WqORloZLxJTzS5rL2+2dXzmN2Y0wqwKeP+A8SXY0J/5/7HioF2AW8uf9px8Ka2A8QkOEPwVuzz4egmSy0af2cNZirgaMHNkHK3w1BVstff5Nlr7P2O1NOfIyjBPzdE+w1RAGlEZsqQ/6hxkScBKRjbCkDhhEBIatR/wa6hy0Rrbzt0kEMiHisIx2NL0Q==;q+vE23mmCK+FB6OW0vCwmQ=="
 ---

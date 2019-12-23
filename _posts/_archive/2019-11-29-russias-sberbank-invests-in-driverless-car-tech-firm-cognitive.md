@@ -37,7 +37,20 @@ related:
       - url: https://www.bing.com/th?id=ON.321D1BF58A9BA57EB568599410B9218E
         width: 700
         height: 367
+  - title: "Russia's Sberbank Enters the Driverless Cars Game"
+    excerpt: "Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with artificial intelligence (AI) transport developer Cognitive Technologies, the two companies said Thursday. Sberbank and Cognitive ..."
+    publishedDateTime: 2019-11-28T00:00:00Z
+    sourceUrl: https://www.themoscowtimes.com/2019/11/28/russias-sberbank-enters-driverless-cars-game-a68366
+    type: article
+    provider:
+      name: The Moscow Times
+      domain: themoscowtimes.com
+    quality: 39
+    images:
+      - url: https://static.themoscowtimes.com/image/1360/b6/252052_1000x671_1024_6497751e746e7dc0197ba87ee5e042c62.jpg
+        width: 1360
+        height: 913
 
-secured: "bDYoe2pfWXTXdVOgp35fJzC+8YUPbEE28t2xrv9vGFMA77oN+TC/CL+fF0OQTKSgrashLcsjF9GxG37FXSm/g2KEiQyx3mjnc/eOavGYBU7COXzbVrpjWvhZuSP/PfadQ0Q5dqTi8aasvr4gJMW3Chfj5wsmgxYdBJ56XycX5piwGDArZeASNsj3O92rbn5Ec74kPI1pLv/sKtY3nlFK/w+2yso+xdTKsfaFrEJzELVCNSWmUrmlOWE+yGJyqYaznAf0uBEefv7wQkZD5wVnYw==;P/Dd1tCx1x87s/pe9mDl6A=="
+secured: "5lzyocmudmiD+uv1FASpJxdOQN7IhTxwGIeDg1WMp0XJa+VYkD0ZQZF1ZMuw2Lu8OdvlKLWtinDI5ni2n197N08FZxsSdNSkhKlGbjUW5296LvNPWlmxyi16TlM39YSOeqSh560BzgwDvDjMIfl0DCKkgBSPSRguVfOWB9xjD1UHzxg4XzDjxPAv4EPimvkfrj5pKLuvqxfvFqwboOvlVFF+Nx6Nn2hVjPa8APAnQGrCRJfgHDl8ShudT60LotX7S3ch1O3e1wX/B6MfLv3cpg==;JGdFm1+sG2pt4cobsuUA7A=="
 ---
 

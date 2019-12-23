@@ -23,6 +23,6 @@ images:
     height: 394
     title: "Robotic arms and osseointegration surgery bring new independence to double amputee"
 
-secured: "az+vwaMObj+th4NKFBJbM1gYOcYg1pD+zhIMb64wlW/tnnrI3wWo+Sid5EPZypZn0Sccq2jmsorHWXEqVzRu7YRYUiwGFBg7vXB4Wu8E5qdimtQSr1gQFKep+4C1ZzmDVXHUwI1uIUcXbJtCSsp+A0ip7/L1EOoH4NPf/RrV7KhTPjlg6N+EhOiPjZ9xW6h1ynwqP17lqN90Ed1C9PcTYwZJxcvqRnWzkGH9qSzkrxoOPpSIoFB/ADlyYJs0ZB150DZ+WQ834+OdK4FJPJ4U0A==;9mpYYuOqVSaZv0PC7FW1kA=="
+secured: "5PZisExULnh+wmi5iMHdtg4+Jm/jZyFj9lTzYgIsot2R3HQWPpQmguSC83XYU9JwdbLvIzHE5s4W1J2Gh/wXRJWmPubqzMnRpHRZ6BSmSXaGRUAwl4hDO3EX2zB8Ou/YIp2t/dx4juKrZFGvrj/f3rj05LKBUKh7euar/PLmgBXCG4zwkcdcJGDSSVBiSyEgN5sC53XEhvRfgPBleEMWACS2Hc5tbI6Ts2INAdkVwdi/G3fkYONT3tRdC/jvhKx0sPigleZb3bd0AXR9UUi4KA==;kZqWEO7lDmpXPt74d1nJhw=="
 ---
 

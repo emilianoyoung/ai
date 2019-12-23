@@ -113,18 +113,18 @@ related:
         width: 615
         height: 384
   - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized reports that counsel patients from diverse demographics about their probability of having a baby."
-    publishedDateTime: 2019-12-09T15:03:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/univfy-to-present-at-digital-medicine--medtech-showcase-2020-on-how-ai-and-fintech-make-ivf-easier-to-navigate-for-patients-and-providers-300971455.html
+    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
+    publishedDateTime: 2019-12-09T19:19:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/univfy-to-present-at-digital-medicine-medtech-showcase-on-how/article_4b601435-f3d2-53fe-867c-94e849190ef2.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 5
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "4CRbOHfCjPupkrLAq64+Cpg24KNTRa6C2oY9sg3gtLdT7w1AlGHXnzTWmN2JSmzDVqmZeOdF/hCmtEPMbGS6fx2L13JLjT+uZR1nG00jy7MTz+rsN4a34CE8Sobo7yCgLsRtR5a42EWtdbfCSTPclEuInN5p7vqvJAfaLpZwoSXUHOvaqYvah2uH4vwGJMd98588C3+yil1OGmsZOSonTVTS/v66EkM2ABQUuyLjx2xYCv786bTitbZJgO+mr5Y4l0l/GHdMNO74e8Z51y3vbA==;axWzLog0bF/Fj0Dfr4aTEg=="
 ---
