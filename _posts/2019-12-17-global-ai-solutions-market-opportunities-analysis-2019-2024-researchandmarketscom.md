@@ -37,6 +37,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI Governance Market Business Overview, Financial Details, Strategies and Forecast - 2024"
+    excerpt: "Market Key Players IBM, FICO, AWS, Google, SAP, Facebook, ZestFinance, Salesforce.com, Microsoft, 2021.AI, SAS Institute, integrate.ai ... This version of the AIF360 Python suite includes nine distinct algorithms created by the wider research community on fairness to mitigate this unwanted bias. This product launch helps the company to attract ..."
+    publishedDateTime: 2019-12-23T09:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-governance-market-business-overview-financial-details-strategies-and-forecast---2024-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "YpmEkcdTaL9td6aKuMunCw7AzOdEBoZ0FUm74EVTaZs8JywqQmbTmFovJzRCwB2hLgDcLvxeWkXiBDz8Ip0FlzBeup5JN6byZ343kPP57PRIJu/a3KKYoIPxCor6khNPCNJNgJMarrLx8cSRUBn3hzV2wVHlHfqpuW5zbvP9duTQ0GBBznf8hJ3rVa13XLHcPeMfdAdNE/Qz0BIqljZ89qMwtaVWukvHpzvQaAKApKQqR1OTnNu3XA1pKmRhm50usyv+5BqKTB7l3nSBWoRACQ==;zEB1XouQkzQSB1u5ndGbng=="
 ---

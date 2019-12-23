@@ -33,15 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
         width: 400
         height: 142
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-    publishedDateTime: 2019-12-23T08:40:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 14
 
 secured: "vMXXC0ZVQ3dj3styRNe0NFeJfcXVYCbZUvG3tax6It38f9kL2M9fI453k8AZyrDrqKk8mTsaqwmqec1sewKtefpLA9lrTsrmEfB232p/xuUtQ+AWSvPUCRtIewEghIhKMbFdo6obSD++s65O/+o89QO72cVjipPa+3a19Lc6z7X/HPe/LuDMQdXp7IBIX2zMlN5IgRGJHqb4eyiIUUl2kQo5MPWIEZXd4zWC0Z9pZSywJKNNlymflxk3FuWFCsdJe0hxQEocw0qSmsqkpU4hUg==;X2PFpb8GOJjZie8XR6MWpQ=="
 ---

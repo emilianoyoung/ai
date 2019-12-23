@@ -303,6 +303,21 @@ related:
       - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
         width: 5616
         height: 3744
+  - title: "Self-driving tractors: Next big thing in agriculture"
+    excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
+    publishedDateTime: 2019-12-23T06:01:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
+        width: 700
+        height: 392
   - title: "US talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
     publishedDateTime: 2019-12-21T20:19:00Z
@@ -348,6 +363,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
         width: 700
         height: 393
+  - title: "Self driving cars are the only way forward."
+    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
+    publishedDateTime: 2019-12-23T09:26:00Z
+    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
+        width: 620
+        height: 465
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -413,19 +441,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
         width: 700
         height: 525
-  - title: "Self-driving tractors: Next big thing in agriculture"
-    excerpt: "Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. If the ..."
-    publishedDateTime: 2019-12-23T06:27:00Z
-    sourceUrl: https://asianage.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
-    type: article
-    provider:
-      name: The Asian Age
-      domain: asianage.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.7FEFABB7B6F3F2AFC80FEA9E9056EDF3
-        width: 400
-        height: 224
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z

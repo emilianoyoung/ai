@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
-    publishedDateTime: 2019-12-17T11:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "oKk2hPQufTiehKNoxDbdV8aTu3k2jKwx5wRZuqncesoejlTtuBR+Sjd1c+Uk3DbF0zRgPOuWyYmMDir259VWqe0RgfzO0dE+gYOHKoLyod8yor5wxkcWWCVAJHbP2Cz+hkVvRNBms0bXx6RV9760R1ba4aGX6ORHGHLeFkKoGxplKt565GiwVCCaoZXWft7TwZZbIFE8LFTCRVtBimvpcQFDLklPQ0NWePQk7GcEVD3Vqx+u79VfaZnnAFvi7v9iZRTPObp4AqRW+FAqk8cwAg==;cp6kVivX5zREhVwxMgv7SQ=="
 ---

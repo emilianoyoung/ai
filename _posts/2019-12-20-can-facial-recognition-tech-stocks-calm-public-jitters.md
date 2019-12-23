@@ -2,28 +2,26 @@
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T14:00:00Z
-sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+publishedDateTime: 2019-12-20T18:00:00Z
+sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: /assets/images/organizations/fool.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
-    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1804,6 +1802,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "nWYsv5BIwz5IuO7qwl5vaiXNjkKJQdDYKAMPEinVHaEPivbHJ7gNjJCuYDQljE7ENpnOlmZu3V7FVavJqUGvUNGrtqW1oJLhKWtxpOor6CY6SuPmWtST/jVNRuDxCH0IGZLXZ09vp88A5TYvusLOn7sgH4P2Yy9ciBSGOGo1hQ4w6nt8wM9YO5VA0pi5yGdQN8Gca2ZyNj9W5NW7C5dKDtYdsB6xBAbuHrzL94oq9tc669g8CjFHsC9PuWOJ4vmlYBex/WONutdyAxrvxKuBdA==;OlmpMv6Tbi21+OkE1oO9ug=="
+secured: "F3y5iWSCcihAE4dwIzSbc6MLQAAmxQ0xYl7p91TV+Ihnp0EHmtB/LkfmwBWcu533NxyKB/EAVYvaOe1qMrFIzHhMugh9ck+FerupJfetbvqcMUKQn1RK+raPCW9atbuDN5Qa02X3Tf5HnClsDfwzj8XNp+HTocbz+L+DwGYuFFD7gxelk3tG59+cyo/9qZSS9FCWEZYfEsmm7ekdoI0ovI1RXLpS9FDZ7l8lZMX3jc84EzU/uZ2oaTb4jSpqKUhU9zJabhk3OWnhQBOUY/N2Zg==;1+b8decnAJcGKLtA0Ze0xw=="
 ---
 

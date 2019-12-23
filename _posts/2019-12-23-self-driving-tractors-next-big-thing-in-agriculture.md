@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Self-driving tractors: Next big thing in agriculture"
-excerpt: "Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. If the ..."
-publishedDateTime: 2019-12-23T06:27:00Z
-sourceUrl: https://asianage.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
+publishedDateTime: 2019-12-23T06:01:00Z
+sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Asian Age
-  domain: asianage.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.7FEFABB7B6F3F2AFC80FEA9E9056EDF3
-    width: 400
-    height: 224
+  - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
+    width: 700
+    height: 392
     title: "Self-driving tractors: Next big thing in agriculture"
 
 related:
@@ -361,6 +363,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
         width: 700
         height: 393
+  - title: "Self driving cars are the only way forward."
+    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
+    publishedDateTime: 2019-12-23T09:26:00Z
+    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
+        width: 620
+        height: 465
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z
@@ -497,6 +512,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "AcU0lxbAm/ojllrklp//hofuq1UGVITLPfrnljB/n5g/oU2deXWU7kpCSFm4J8QPp9d0l8TxylUQrQGer/nIfDnMLq9JnRHv7NYVFIKLO12HfisefCeqXxkP+tj4332NO3FNI/aMEQI1ELt8qRHiplZQB17eHFDZn+XtEU2wu20v8H5HiNEzQdgRsoB2c+jLPosGyeBnUuMR2nQpzF7e6UupNbnmoFxA+A8Tzs51HiZkPKzi16/X9UPE9A3KoTzoPF9fe55sDlDaaP4EY+4g7A==;/RJrMKNkZ0fIR/pLP5RySA=="
+secured: "OndvV58nEjIgNPgFha99bc/MP3Svc7GvTJRhpYubUa9Ts1lwj6nhkh6ZeUDsHXSuSKTk3u+Vtcq/C1B4wgpiSPhHuwK3kPMFbtvUJGG7JIC1zQRcg3FuoZu6iFj1g51j831GzbIKhAxQ49UOXz4gxefKp6QXDApjq8/MHlgtSFO5PnJZzQ2rZjQmPXxugo9RdsZgFIDrP3iOnMMrWAMv1xA1377LbPNWoJTvhqpmiP6G1Ifac1yuWSfmDK6qMlzDmfM+SdyG/u8uU9WTJSN6DA==;xXJslq20he9YQbtHwY76vw=="
 ---
 

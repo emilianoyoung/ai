@@ -25,6 +25,6 @@ images:
     height: 434
     title: "AWS extends Alexa voice controls to low-powered devices"
 
-secured: "qOipwM55fuIwu5UtWoHBS1cXFeuvsQ9EZnQYtLmZvygew/WaDpSbFm6jSg/2WfC+jsaQhoRFcqvGfxuBt4zcCGWySasdsel+xqatWi6ZjoeIh0ZF8GSVPnOfyRLfXdIHYKFcdA9f+31kVcFY5GK4mt7baCdfo9WqArmPj9rULdtVs7iiZFV8UhepVq71qEjz7ABHTWwd9CULWpI5RJAZ+t7Gv3yxTbGLOR6kVH6AMunhHqYMuymYqul2bYXD5chftJ4Y27Y8tUo3fSj/AG8S+w==;zbixxNLMLfAbNq8Ascul0Q=="
+secured: "FPclFsNnEJk/yQPllPV2mktavro8Ox3MR+Am2uUYlCyt9fIas1VJP3JBsdaqqtUS24wa2+A+ZtVsLsSsHqY/6IAcOMW26OaUcBDpr4qWnwpeTrygSCCTiPJ8uQIr1vuRoq0Jlhg27+IMf4YWz0oi5LesK2GY/MLHCC9U3o+9gE1dcZiChWIkRUG4ezez3A+INi2PnzN683MnE95Kulr1iAiY5OLxNmqu3OAj9LifW1ZVViq6sBxdWC6tRXRguowbg2pyCEnPOsYtH6rPHkpGuw==;immZJW2q44cOv5UW2kPDkA=="
 ---
 

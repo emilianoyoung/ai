@@ -23,6 +23,6 @@ images:
     height: 810
     title: "Research enables artificial intelligence approach to create AAV capsids for gene therapies"
 
-secured: "HxYmputP2ygi1BZsYqnC5UDriwOYtIa7Asezh8OjVkUafmHbqqcPYfF8lqktffHN3ZPSn23Ea+WHlw0dfWoZboMBRF9f6bUvrA6X6cPRty4ep0X+K3d1v9C8K46KAQaBwzr9TSIp0nbYHieutNxuJ8ekR+A+vnAyJk7zfv/9HwRrh58d94tvcKeL+MWOGXFk1K0+tUtN06798UxAcBJHZwaU72nc11t2n8nUDOYXq8LonTAU2xJSBAD+WIWXIvvA9yxpfEdtbYmVrtptZeSGfw==;ajXz6Ysf9yVMNwcjjKYhDA=="
+secured: "TgESw/3pf2ufhuo0t341VBF1rf4ddMocf8ExUj070/sckYKm1Mi+GPiI/++J/IkONbLMVOaEje+XmYr55r7/UEGbv5kEbC8RO5XGaGIhNll6xfEJvdgOVjMD3YS8qxYkTlSvL4Rg52KSEGGu6Aiue4023DbRIQ8Ef6qehp9ZFoNes0ij010rP+AMKEoR9M3LuBVWttWenFj+uvK87Cwi5VCasgoR29wlh+TtaYgJb4QIgMV/B7eiqiaVnt6uPkOQGIjJ8kVU2GbrHpaV++pzBg==;9iOu4ZgP/bsbAC9RsaDefQ=="
 ---
 

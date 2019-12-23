@@ -241,19 +241,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Automotive Market 2019 analysis by Trends, Demand, Opportunities and Technology Forecast to 2025"
-    excerpt: "Global artificial intelligence (AI) in automotive market was worth US$565.2 million in 2016. With the emergence of self-driving and connected vehicles, this market is expected to register significant CAGR from 2019 to 2025. It is expected to reach an attractive US$10,573.3 million by 2025. The market will grow at a CAGR of about 38.46%."
-    publishedDateTime: 2019-12-03T08:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-2019-analysis-by-trends-demand-opportunities-and-technology-forecast-to-2025-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Digital health interventions: Predicting individual success using machine learning"
     excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
     publishedDateTime: 2019-12-04T14:20:00Z
@@ -481,6 +468,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "k4iCL/sJ0vZIn4zxbWpGA1fEXirG/EuqPKkIJVAiqWqZbSsJFobZszw1zctHKrC8Lof0vpmr50QY/ZCn63Y6V9vn15l2INMsPbJQA0uM45dmfwjZdw4TQq3zUwntuv0NyJySuxNI12one3n9CzhcknTlohjDIq2I/gQz+Vgfmm1RLPlGvTlyqoChpo/Lx++H+hfslieODpINQaEJv74F5kF3Lt6mOTtj/fYEwMtGadXaBOYaaGiTpL7LvD0ncxeZ8RLG1NnwX3hrIdWw2v49wQ==;1LSpxjlR1QJ4tYZqoBsASQ=="
+secured: "6R6NYnMoOa+adEFPOrgm1508To5vdkEguPICdH/Ab2ll6LSRDqwH8cvy/97X5hL9q0ZFtNca+vOtAPV71xr245p4a/55dKE+cb2+Ag37XisKe9L41sqSfLPTh7NYmmmk673s+DWbQ3SwsGXHcNCwYC9y2F+EGfQdJwBEyZW9c8sA5Ppe57yRFaRLK329cxU0jyJMGHmqswtYFAca622CE1+31Eu1NIhCVv6uwa95WRwf7MHdQeOA66C86nVOiLAej5kj7WGceeImxc/HQypsdw==;hcCaHDciD8fFjAiECvps/Q=="
 ---
 
