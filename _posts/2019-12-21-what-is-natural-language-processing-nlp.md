@@ -29,6 +29,6 @@ images:
     height: 393
     title: "What is Natural Language Processing (NLP)?"
 
-secured: "r2kXJ1AHVv00TSo8XA8Xh1g024K/2Gjvn4850QdbSRmQvoOqEQtvE49tldr2ZX7rsCuk0QFziIduxNX/UwiQGOsa1oFTXhE7VRIGbv+2xfc0vCG9iMXLWj81sc6UtoNbqBNw1KZ6LG9KHFlSgz5N9Mi5kXBnAKY77zJwf0xUAiVcnqS8S5l6sGgupBDaPG8ewYyD5tuNxvioRIjQbJZBsWlQOttqMlaBZ4DeZewU+AM8V7MWMYxxEPQMttoFF9+JZbsqUmuDXBuO25lqSUxt7Q==;ctPVQMMV/psLSf//aVYYZw=="
+secured: "U2+MlYH3eBeG/r4sy4xeqpbeMFM0iUzMon2vbGUwpgSt0gYM2auWqauP195J/zSzUt2zqGf4vvKr4jqk1OTL4f0lP3c4sLTB4orBNGYtQJL+XhubYrw/8+j7XuD2w63WWDErqHaP2uD//elY/zHAxIdoIzro6yuWyONkOwpHmCBwUw251RgwiTKHeWRN9hqVLNL6sZ4UjXNTi2xQi9mj5lpsmo/9FjBl4lEcgQERnEn2m4b6F90GEPlM+o9siGCQmtKPRK6R0fs+udTX8piBhQ==;UEJHx78ance2hey/1Xg9jg=="
 ---
 

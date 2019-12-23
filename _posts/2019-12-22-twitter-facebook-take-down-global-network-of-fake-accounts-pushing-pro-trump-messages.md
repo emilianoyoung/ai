@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
-excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
+excerpt: "Facebook Inc. FB ... including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump at a roundtable discussion with small-business in the Roosevelt ..."
 publishedDateTime: 2019-12-22T15:31:00Z
-sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=hedge-fund-moves-and-insider-trades
+sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=home-page
 type: article
 quality: 46
 heat: -1
@@ -257,6 +257,6 @@ related:
         width: 650
         height: 365
 
-secured: "MSwpxNlRAAnvOdrF3wQauHiB/vjA1STpnDawfoCQPF5zOqb70YwBdyYooLsqUxbA+G1Sv5vXPmd1kVcwhbzIXP8uGVE0X+fN2Dtv6BovESyI5jD+os1R8nGpwyu1Gie5zMyGYz4pDXuSqRUsEAtW7rzXoRp6Up2U5e6ti9vP67bZATCZ0GqgIOIilVMw5dDCjkAAxOIMwAt4nZxhitz5ttebp8bhpOe8/Uz3jcpVgMxIqObKeanujfGW1Gcz1aGBHUtGNeMiZXcjCiFXL8pYQg==;NG67KPOTve6mXakn1OeWiQ=="
+secured: "Br/LYHq9GQOp2e0Vqse4ogyknrcRobpniPu4ExAtZEdApPviM/YnteC5eOMi2OA80xkluLtAZwivKHNq9Mrraf4C3yzDcPh6rBAW1ZDozhAF0CtrJJnGp7LY3/Miy7AL1FD8QRf+8rCv6wu8oKK0wrvzREzjRX2BAglsmz1Dy8n/OjsG9teff3okSKuN8b4WnIjxRaJ0yN6Xlu5WblTQ6FVMaFZ9et3ngBFs+GYVN5h0rOrTc+guxpGnbE1+540gTY9AOhDYvZVdxrrmOd45gg==;xjwx8UD6Ls5GvESakQdgdQ=="
 ---
 

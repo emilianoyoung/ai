@@ -254,19 +254,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2019 Precise Outlook - Intel Corporation, Nvidia Corporation, Google, IBM Corporation"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The Global Artificial Intelligence in Healthcare Market research report presents an in-depth assessment of the Artificial Intelligence in Healthcare including enabling technologies, key trends, market ..."
-    publishedDateTime: 2019-12-03T06:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-precise-outlook---intel-corporation-nvidia-corporation-google-ibm-corporation-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Digital health interventions: Predicting individual success using machine learning"
     excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
     publishedDateTime: 2019-12-04T14:20:00Z
@@ -494,6 +481,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "2la3ZYKCOW1xsgzYMea23J45beNPDbNjd82OtRr4j08FXRUYgXjPL6HpGaEqDi8BlGbu4cyMQPH+PM6zai2S0VtWntvuZvH5JUABFRAnZhYZzzEtiTZ3AjEwZ/inMS+VU63sysmz8x5xtwAxKoT6L9DmEQbicWr9esVIeZL80AMTogv2ymGyDzFcggSjfl1S79f4sNpIqzisj/lTUXi1KiGB4eVgRGfkUkK8iz5yvDMz+auiohrBaRiw+MEMRGd8CqN1uefaQyvDcl9OaJn+Xg==;Mq0ZmuOBubvC5j0eeH7EYg=="
+secured: "YB/ghadRmAfczip9PrP5Fd6q52LwF8goFlNu48iOanC7ISwsrfoyJdNWGIhEJl62ZAwCD2gQpi3MFsEqJKugofDuCMAkJpB4IHHstvAIHqJfSOfAEZIrGvlLGlLbiUaaRHg6XNKlqRKqGLzkGjUCmKdvGR8J+Uujp7GvczfQYk3Ofs057n9hPS8ChaBqhsNXAlsBoBwzFi/VvhiEc61Ok38rnmQFbOUO+hu/Arehh+62Ay5fUxOyqrRrp8+NMdura+CcTfd68VvRnLcEvum+JQ==;B1OjidRIghM/+0EvselhJg=="
 ---
 

@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
         width: 700
         height: 393
+  - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
+    excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
+    publishedDateTime: 2019-12-23T07:33:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/articleshow/72935214.cms
+    ampUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
+        width: 454
+        height: 340
   - title: "2019-20 Book of Lists brings robotics front and center"
     excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
     publishedDateTime: 2019-12-20T12:45:00Z

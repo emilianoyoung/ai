@@ -256,19 +256,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market 2019 Precise Outlook - Intel Corporation, Nvidia Corporation, Google, IBM Corporation"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The Global Artificial Intelligence in Healthcare Market research report presents an in-depth assessment of the Artificial Intelligence in Healthcare including enabling technologies, key trends, market ..."
-    publishedDateTime: 2019-12-03T06:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-precise-outlook---intel-corporation-nvidia-corporation-google-ibm-corporation-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Medical Imaging Market Technology Advancement and Analysis 2019 to 2025"
     excerpt: "Dec 12, 2019 (Market Insight Reports via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence In Medical Imaging Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current ..."
     publishedDateTime: 2019-12-12T04:40:00Z

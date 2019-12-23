@@ -46,6 +46,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
+    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
+    publishedDateTime: 2019-11-27T09:30:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
     publishedDateTime: 2019-11-28T00:13:00Z
@@ -60,6 +73,6 @@ related:
         width: 700
         height: 554
 
-secured: "4iA2k7LCUIQGs5LKXgSU2LItP4bg+i3ZiLWLHKOXlJbsCyiMGhevFdlfqQJsyDq6NAUMWzRk5ZEvNT8q+ZmIRkQ2V2MkvWri67+XWcRJHqz8pfS1DePqcNytLgSXxXgLuc26MXwQcaIGYU71urisUwYujpwrg2is0/M9lQTocw1LxOIbEZPprnmkngxW30IGcp9RNwz3ktMMPQJMAl3n9M8W7zkr21r9XIkJEM7BXPcmOztC7LCSKD7PHXtULFKeqsCISANUN9OT9k8EPoRi2Q==;nVsrwMOB30VWtx3+rIdW4w=="
+secured: "NsgXQwO7JfAgjxa3qqfHcP9+G2uCI0AghfTqlk9bhEVhnSDOH3zjrMf3wBqiJ7JSaBlkWeaVPNco9PnGo6h6o3Uq4Mea3JxusNs5F1HokuaXysGU1ftv5NQ0nomkhFKxc3xPrThzp//+ju6ms+pErvnQDW1dAk5kGdhVkICfTdXmahr5lUqq+15e8IPCpJt64CwjlAxTYP1BDYiggA8AgYAttg9R1RSnm57pGJAHGrzdtvmdorLwuV2IrIup3+/0h7gANPcg68/cyukflV6Wfw==;1XpAnYWsnQfl5ME7QQD4Xw=="
 ---
 

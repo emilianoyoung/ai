@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data ..."
+excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
 publishedDateTime: 2019-12-03T18:23:00Z
 sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
 type: article
@@ -233,6 +233,6 @@ related:
         width: 700
         height: 365
 
-secured: "2wIU1VDlg/qstWs0ib4rkb80u8Rr3HMkyit3dbcr7q02taMGDfNI3kGbFIYwtnLsIBXt36RfHAl3bbOZJaCAv5paUhuJHHSCxcqry1OEhzVEIjDKEauf0nt1HYTBnYaDSPtLKRD1z15qjFx2wQqJksqATc4xGeDBFKTErWSB6Ns/nHke5Uw9vcipwUlcGPPodhQuPXaVyxs+cFOabfzra8HhDbLMyRl+nJwuwUUm8I89F+Jul/lmQKuPJhnI1R5s466fTMidxegtTiP5ed/HRg==;zSL9/aAti2nm7qMYgVLLMw=="
+secured: "QZC/IAL+eCgv2AwaYWLQCzqvCMAbKVX8gn5MVIxPM3mH44MnsC6yoYOB6jVMRYdVw7J0M1WfA+rE12faYmIYFsLi4Av0IyXys1zEwYONahOHRUclSDnSlGlEIj4S7JKCKnn/HfSZI1+9kfNEY46COd+EKGYT1zWUk5Wd6WaOg23PvueQSCn1BLzV09wwx7kdSTtF4ZqqU8DkmOtbjeo+iQJE1iCVd2lOgbhrGWcWNr3FBY1wXBp88UsUKVXY2j3wWoS0/fKWKYYYt1qR7G91Rw==;AoBvza5paum69dqtWVKBIw=="
 ---
 

@@ -3,26 +3,24 @@ category: news
 title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
 excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
 publishedDateTime: 2019-12-19T12:20:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/4g-clinical-launches-innovative-clinical-supply-software-leveraging-natural-language-processing-nlp-300977512.html
+sourceUrl: https://markets.businessinsider.com/news/stocks/4g-clinical-launches-innovative-clinical-supply-software-leveraging-natural-language-processing-nlp-1028775627
 type: article
-quality: 24
-heat: 24
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: https://mma.prnewswire.com/media/554411/4G_Clinical_Logo.jpg?p=facebook
-    width: 5157
-    height: 2700
-    title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
-
-secured: "jTnThzObEPH/ZfzxtOWwb+CYzkIJ8GVmWH9Lm4/tpn8o3Eb9kALg3vSrTpd+/7454Qa02mccFDXaTq8L2pEzEeP+5WwzBPEVLlHNwWbLZ7aM/uinF0jY5AM3oL9el84FuBCdAhXHNimDRC7kRWEX1/9exiKzyLU6fgQlrpwOupfqwfR9F1ajb2ajPzHTdQlO6ysBdVaAJKq7aNIgmi0tO+6p2WBA9jGPPGVR/OCR5AnzgnhYii/xwTEVr90GZIHep8yJDH2BDnfAfbSdY2PUtg==;picVa/9qVMRgN1FdBSUxgg=="
+secured: "/47MnJlkoETdNoaEBjfinSQnmqL5sV6kNGAA01ZjmCNnzUgJEHHYLYQWRVI9CdoV5LZHvIB4aY7J+I8h3E7dWkwuVe21WV8IP+WM4jTi5F+fi7mk9wwLgpZh9f0wt969pbJBdQHELhD7JGSjuoaoTZyy9YEDgcb9OJT8McLNoe84nKhXTMVbVqJYfFpoFc3N98n2ZA1y0BYoIT1jku96ANc2lp0d+1NhLIxyUCu93kcyDAfDOl+2LM4RIZgIS4jqy4x+Ldfww3d5V7+VstvUOQ==;xh8ATnVSX9XsUJLR/i9OGg=="
 ---
 

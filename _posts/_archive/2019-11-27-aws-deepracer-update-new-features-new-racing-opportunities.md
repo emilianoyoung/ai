@@ -46,6 +46,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
+    excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
+    publishedDateTime: 2019-11-27T17:56:00Z
+    sourceUrl: https://siliconangle.com/2019/11/27/aws-new-deepracer-evo-ai-powered-rc-car-serious-mission/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
+        width: 860
+        height: 484
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
     publishedDateTime: 2019-11-28T00:13:00Z
@@ -60,6 +73,6 @@ related:
         width: 700
         height: 554
 
-secured: "AhiV3px1Fez8ySIY8RXXzkCW/e9/+Gh205PKNO+r9MZFF3M+y3k/LiO8oJ/CshVW8Np6L1w5mNRWgq2YTmGU5aqzJtsiHnYMYuBhVMX2wHHu4qk8MNZ4ftFsLKaMWI8jsrNIYOKrs3oiKa72QpITzkZpDkLdLJfoEIRWnSogQZyW5eBYPJHMfqShcstmALquVkUgFX2UTQRdg6JWSeYUJI1fhpt4NH4wG6yUoosvHueYCmgnyeBQYhayozVPXQhKSq5oM8NgjMDWPEfDxRrDlA==;hmApstjwR4Y6yo+nKyjWmA=="
+secured: "dkhqzxY0Ffpuuwn4emSMyL8MY8XcX7rE/RQGs6o148aWe/ww7qFHhWKOWaY2w81OSaRa/pnDIvRbXhPFrX6XDaPSdqwQhxxKL0jvnDRhgq5nEavMV71AGXZH9dWtFYGKbDNtWl9I3pUkjYH7IUEead62DDd3puKzIjFFq4lvboyiahXGrzUI5xaAniIWoxvDSNYxeOT+fgEC+14Sp9CTL8y6vSggyiVYgSI0YxTP1m4k4Xx2B/ZHaPNz9C6YYdrDIaMW6IehAqDIgQheuWEqFw==;YFPNFSFRgU0aWfg7zD0FrQ=="
 ---
 

@@ -48,6 +48,19 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
         height: 484
+  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
+    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
+    publishedDateTime: 2019-11-27T09:30:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
     publishedDateTime: 2019-11-28T00:13:00Z
@@ -62,6 +75,6 @@ related:
         width: 700
         height: 554
 
-secured: "CIlod0OSRuL4e38ANqwFZdw5a0O7irmS6JijqMN21uIcX8i4Grpqq5d+jjpBHN5DcRg4pzzqy9NN8m9rkzJGUBWRiNREeFMMOP6AP+zJOKUECjgQ717mBdiU3svX1c2CagdahcNCTCUK2Dw67h/rF9P4msitP+zHohIUoovnTWv+Uca/gXHv4900YqHpc/WZ8kq60Ipxttzv03uZVo00KtlMPp4BI5JghGiEqONumtXGbMNocaGg+RTBPal2xvBXpO2utLG2b+n8SAsRgEAzzQ==;plZd0VMpIL93dhz/xDQrRw=="
+secured: "P83S0AKMsSq7evINp+G3swES5sp7FgzqmBnpUwtSu8BpqO3dhbQwu7nKP5V5to7f9bKkzZG6CGcB6t9i+9ssCMQbPnt4AJEKSc+bnyqUR/KfGDxf1EiehrQRjw6oZdSc2OckcBW1whhmdxgwXPyfEgjgj0/jtSyW0yziVC6Z+hFv3a/WuZsHLAIay6yzHEMyM+y8gC2FCuE/aB8yMozrY1EUwIH0sUZg/Y5UGJlwdDojpRZr3aDTspLh+TYBJo0mkEtjJ3DudcRypInJLu5ZOA==;4Qpg2yIkAkMxYutv9i3oYg=="
 ---
 
