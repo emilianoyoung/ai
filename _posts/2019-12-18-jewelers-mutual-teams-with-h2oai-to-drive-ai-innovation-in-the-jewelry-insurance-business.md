@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-1700
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
         width: 700
         height: 366
+  - title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
+    excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure, and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Nationwide Insurance, Walgreens, Wells Fargo and MarketAxess. H2O.ai believes in AI4Good with support for wildlife conservation and AI for academics."
+    publishedDateTime: 2019-12-23T16:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000531.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939
+        width: 400
+        height: 400
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
     publishedDateTime: 2019-12-18T18:48:00Z

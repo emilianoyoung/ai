@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-10T17:29:19Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: AWS
@@ -28,90 +28,43 @@ images:
     title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
 
 related:
-  - title: "Amazon Introduces ‘Plug and Play’ AI Tools"
-    excerpt: "The tools, announced at Amazon’s annual cloud event in Las Vegas, aim to help the company’s cloud customers incorporate functionality such as natural language processing, but without long waits often associated with AI-related projects. Amazon says it is making this possible by integrating machine learning into the two new stand-alone services."
-    publishedDateTime: 2019-12-03T19:04:00Z
-    sourceUrl: https://www.wsj.com/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
-    ampUrl: https://www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
+  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
+    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
+    publishedDateTime: 2019-12-10T10:54:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
+    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 189
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.0964C70E0E6C15D525E0806E8132842C
+      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
         width: 700
-        height: 350
-  - title: "AI Weekly: Amazon plays the long game in health care AI"
-    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
-    publishedDateTime: 2019-12-06T19:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
-    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+        height: 233
+  - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
+    excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
+    publishedDateTime: 2019-12-10T15:26:00Z
+    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Purdue University
+      domain: purdue.edu
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
-        width: 700
-        height: 350
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
-    publishedDateTime: 2019-12-05T21:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+      - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
+        width: 800
+        height: 534
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+    publishedDateTime: 2019-12-10T10:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
-        width: 700
-        height: 366
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 43
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
-  - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
-    excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
-    publishedDateTime: 2019-12-03T20:30:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/reinvent-amazon-beefs-cloud-ai-takes-network-edge/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.73C6C5EEC54E79CF8DDB4E23D5B9C6A9
-        width: 700
-        height: 427
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
-    publishedDateTime: 2019-12-05T20:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-06T00:09:00Z
@@ -123,6 +76,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 17
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-13T18:34:00Z
+    sourceUrl: https://apnews.com/06de89d1be9d49978e29d6bdaffb37ab
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "WLfCzPs+XB2e3jcDLyHjpunVtcLxsOrSlBTiREwsSxwZMiBh7oR+G5xCAHOE1rWQoLEnj3cEqByxUDLllod3G2WXyOCnxgJT2/vdMuc3ynvZ0WJ3OzQQno8wrsOi+cgxdRLdR/H9foLsTeeTZWYM304tveeaub57ycvw9KzblUpkY5/9CbIwes09z1EglIrf4Lkdh9WgasDCqBirwmtg/3VMip1N99/fnAW5oC5j07IWMm2OLsH+rhda6Nz2xLXvYVBDcmIP5NetDdW1C9wbjQ==;LZODxIao7R6iQmXJIInvRQ=="
 ---

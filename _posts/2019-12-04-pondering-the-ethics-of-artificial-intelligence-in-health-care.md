@@ -71,6 +71,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
+    publishedDateTime: 2019-12-05T21:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
+        width: 700
+        height: 366
   - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
     excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
     publishedDateTime: 2019-12-04T15:05:00Z

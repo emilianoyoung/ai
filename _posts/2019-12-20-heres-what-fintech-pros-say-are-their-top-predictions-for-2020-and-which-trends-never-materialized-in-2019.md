@@ -28,125 +28,134 @@ images:
     title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
 
 related:
-  - title: "2020 Predictions For AI, DL, And ML"
-    excerpt: "I wanted to share some predictions on what will shape the industry landscape and the work I do at Determined AI. In November 2019, we saw Graphcore make an exclusive deal with Microsoft - in many ways, the first of its kind. This deal provided Azure cloud customers exclusive access to Graphcore's Intelligence Processing Units (IPUs)."
-    publishedDateTime: 2019-12-19T19:20:00Z
-    sourceUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/
-    ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
+  - title: "Here are the top tech trends of 2020, according to top experts"
+    excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
+    publishedDateTime: 2019-12-23T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 122
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39404075%2F0x0.jpg%3FcropX1%3D194%26cropX2%3D4595%26cropY1%3D0%26cropY2%3D2474
-        width: 1200
-        height: 675
-  - title: "10 mobility predictions for 2020: AI, 5G, foldable phones, and more"
-    excerpt: "Won't you join me? If the Google Pixel 4 proved one thing, it's that Artificial Intelligence (AI) is not only here to stay, it's going to continue to lead the mobility charge. I'm fairly confident that Google will push to weave AI deeper into the fabric of Android, leading to improved photos, better Assistant interaction, and drastically ..."
-    publishedDateTime: 2019-12-16T19:57:00Z
-    sourceUrl: https://www.techrepublic.com/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    ampUrl: https://www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
+      - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
         width: 700
-        height: 525
-  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
-    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
-    publishedDateTime: 2019-12-16T14:12:00Z
-    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
-    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+        height: 393
+  - title: "8 biggest AI trends of 2020, according to experts"
+    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
+    publishedDateTime: 2019-12-17T14:18:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
-        width: 600
-        height: 315
-  - title: "Artificial intelligence predictions for 2020"
-    excerpt: "Artificial intelligence (AI) has become integral to practically every segment of the technology industry. It’s having an impact on applications, development tools, computing platforms, database management systems, middleware, management and monitoring tools—almost everything in IT. AI is even being used to improve AI. What changes in core ..."
-    publishedDateTime: 2019-12-23T11:01:00Z
-    sourceUrl: https://www.infoworld.com/article/3509465/artificial-intelligence-predictions-for-2020.html
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
+        width: 796
+        height: 417
+  - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
+    excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
+    publishedDateTime: 2019-12-23T07:33:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/articleshow/72935214.cms
+    ampUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.04FCF9A19F1AEB542FA11CC50E34B3C6
-        width: 116
-        height: 116
-  - title: "Software predictions for 2020 from around the industry"
-    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
+      - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
+        width: 454
+        height: 340
+  - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
+    excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
+    publishedDateTime: 2019-12-23T12:03:00Z
+    sourceUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/
+    ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
+    cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
+      name: Profit Confidential
+      domain: profitconfidential.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C1578C51AC2EBF5FC8BA69D93E6D7F12
+        width: 300
+        height: 184
+  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
+    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
+    publishedDateTime: 2019-12-23T20:12:00Z
+    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
     quality: 54
     images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
-        width: 640
-        height: 426
-  - title: "IBM Research AI Predictions for 2020"
-    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
-    publishedDateTime: 2019-12-17T17:08:00Z
-    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
+      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
+        width: 700
+        height: 467
+  - title: "BYU professor constructs mini town to test self-driving car tech"
+    excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
+    publishedDateTime: 2019-12-23T15:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
+    ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 43
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 44
     images:
-      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
-        width: 1010
-        height: 1003
-  - title: "Healthcare’s digital transformation: 5 predictions for 2020"
-    excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
-    publishedDateTime: 2019-12-19T13:42:00Z
-    sourceUrl: https://www.cio.com/article/3509462/healthcare-s-digital-transformation-5-predictions-for-2020.html
+      - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
+        width: 700
+        height: 380
+  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
+    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
+    publishedDateTime: 2019-12-19T14:08:00Z
+    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
-        width: 116
-        height: 116
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
-    publishedDateTime: 2019-12-17T08:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
         width: 1200
-        height: 630
-  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
-    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
-    publishedDateTime: 2019-12-13T00:24:00Z
-    sourceUrl: https://finance.yahoo.com/news/deloittes-2020-tmt-predictions-forecasts-100000094.html
+        height: 600
+  - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
+    excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
+    publishedDateTime: 2019-12-23T19:59:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/8-healthcare-companies-among-the-top-25-highest-funded-ai-startups-of-2019.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
+  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
+    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
+    publishedDateTime: 2019-12-19T13:36:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 4
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "What will Fintech scene look like in 2020 according to the industry experts"
+    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
+    publishedDateTime: 2019-12-23T13:15:00Z
+    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 2
 
 secured: "xXtlmGZ53YqI/FEcwpRbe5HWZz6rQSxH68Jm1pY6L0bXQtdM84AQ7ZV2Pfx40R97CZdFrNfAgQ2+toTRy30cXKyffWXIBIUsN3t0LVpp0nGnWse8ZuTVP6bA1slak18teNfUCDUSlMVhqMHB1BaSn/N7rhE//xudIhDlyV5OlzIX1Ke8KefBDMPgWpD4hZ8numSkEK2wrW7UR/5cKRaaGUe5hq1wryTfbArj2oX4jVSdGzp1ReCrzYJjqoVAlozmD+P47uwvpiHaPKun96RiHg==;qkKurUFKEwZYg/cz9r1t5w=="
 ---

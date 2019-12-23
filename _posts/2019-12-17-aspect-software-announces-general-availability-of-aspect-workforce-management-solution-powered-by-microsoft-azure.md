@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Aspect Software Announces General Availability of Aspect Workforce Management Solution Powered by Microsoft Azure"
 
-secured: "ubAA7dH5bIZaWvaOXet8KXDPZIsqUT8GHYazEAxgqfORvFAMfVrsXOkk3knO1kcdLQOgf6V2je6ywdQI1kC7izJFm7413C3DtoIXoCO4w7BHlXw8CzJC5Ou4KuOjHVSglmvWuJ0L8RFyNa4UFKVMpOn0vsh1ydMM7y/qQazBthOHoiaKjUCHKhe6F9w7EgsJx/0XKrE7e8px+f3hK55QISqu9OoPz9Npygqux2B6jp48br+Z5QZaBc2Nr8cWWe6F8UQf8b2p6YHo1wUOAPNNLQ==;pV+gDveSTjiTYLpNLkIEmw=="
+secured: "8fYFfWPF4hxTb9mdtxeUYM86VE+r0zidTakafsuY0NmsW+XKIRgbxYUqsdYzXHbER3ff2jjry38eeuMuX1D7W/1EToeMGg0ZcUPUTxq003tHWxTBBy6LnR5yIs5NUhwJ7G3znnCJ4fDbEqVFePHeIyQAPQ8sBDn7N63F9SG1cSesP3r1tTxk+h0vEB70rJ/0IKc56tFUNQOcMWuhd8hzMVaB86g+bTFrcqcKtSonDW7Prf0+bKyJxwj7mlxvSLaZqWPOV4N5QCf7sxEgnJpDYA==;E0dEsz+VGDYvM7ZcjY94iQ=="
 ---
 

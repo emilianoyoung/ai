@@ -4,11 +4,9 @@ title: "UKtech50 2019 winner: Demis Hassabis, co-founder and CEO, DeepMind"
 excerpt: "Just as the queen is the most important piece in chess, with its ability to move anywhere across the board, DeepMind founder and chief executive Demis Hassabis is at the centre of an emerging world order where artificial intelligence (AI) will impact every ..."
 publishedDateTime: 2019-11-28T19:06:00Z
 sourceUrl: https://www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind
-ampUrl: https://www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind?amp=1
-cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252474417/UKtech50-2019-winner-Demis-Hassabis-co-founder-and-CEO-DeepMind?amp=1
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - Google AI
 
-secured: "kwaBqQ04PWAF+TAxU2wGSMQ7XplvxuIdl+M+go8steAh94dYXbcRd9J0vnnWLHGA22+MmTeEoxjyzqSL2l2os7yMIqeVgz/+ooJxiHd2uUnAEf/gHt8IMbsp4sm+IH6QlENJJ4oAq8G1O9JQkqSJvnwngA47BIthBoOmY/0XbyV6JLHQoUc9FFWIw6WYKAwxgxdaZY0LjDadZTBzWa7uooc1yx9k9cB5EVLbjbc+hLSJj7j9RhPO1Jc9r+vXr41Cu0nA/q9Z/EzsL+xw+pqzRg==;1Nd4wsYEMfBWvUoCxruYrQ=="
+secured: "vMQYYc+/sd8pyVQS2AhVuTfnVSaXf/pFlEpK6BCU59GfaRymPjf9ZfhZFakF8I/jWIrKPwXgbc5ivD9MN59Yxm/0xYuutAXSzj0krhW0PvPKpVglKL1c72Zp/XqUAyxOQijk8zKJMhIsuRns+vfZH6rMoqOmo8bdmhdCq2rjdhHM8Q2B+VtKJP7MvmFMBia34cLGcigyB1/xmNLiF/u7IUFpKdwx6otOf9O7Nj4K9yH++HY0UxDoRnPwuSig2P5R5VbbG2ousixZ8mPs2YdBNA==;71bxQZxFQ3j2z58B08UwQQ=="
 ---
 

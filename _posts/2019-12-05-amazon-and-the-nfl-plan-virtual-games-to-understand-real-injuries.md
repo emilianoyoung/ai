@@ -30,99 +30,90 @@ images:
     title: "Amazon and the NFL plan virtual games to understand real injuries"
 
 related:
-  - title: "Amazon Introduces ‘Plug and Play’ AI Tools"
-    excerpt: "The tools, announced at Amazon’s annual cloud event in Las Vegas, aim to help the company’s cloud customers incorporate functionality such as natural language processing, but without long waits often associated with AI-related projects. Amazon says it is making this possible by integrating machine learning into the two new stand-alone services."
-    publishedDateTime: 2019-12-03T19:04:00Z
-    sourceUrl: https://www.wsj.com/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
-    ampUrl: https://www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
+  - title: "MIT creates an AI that understands the laws of physics intuitively"
+    excerpt: "But it turns out that the technology could also help give us a better understanding of ourselves. At least that's what a team of researchers at the Massachusetts Institute of Technology (MIT) think they'll be able to do with their new AI model. Dubbed ADEPT, the system is able to, like a human being, understand some laws of physics intuitively."
+    publishedDateTime: 2019-12-04T16:53:00Z
+    sourceUrl: https://www.engadget.com/2019/12/04/mit-adept-ai-understands-physics-intuitively/
+    ampUrl: https://www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 189
+      name: Engadget
+      domain: engadget.com
+    quality: 187
     images:
-      - url: https://www.bing.com/th?id=ON.0964C70E0E6C15D525E0806E8132842C
+      - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
         width: 700
-        height: 350
-  - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
-    excerpt: "Auto manufacturers are continuously adding new controls, interfaces, and intelligence into their vehicles. They publish manuals detailing how to use these functions, but these handbooks are cumbersome. Because they consist of hundreds of pages in several languages, it can be difficult to search for relevant"
-    publishedDateTime: 2019-12-10T17:29:19Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
+        height: 367
+  - title: "Microsoft Seeing AI can now understand five more languages"
+    excerpt: "Some of us might already be tired of hearing news about this or that AI app or assistant that’s able to identify objects or scenes or even read text off signs. We take such advances in computer vision and AI for granted mostly because we can actually see those things. That doesn’t come naturally to people with visual impairments ..."
+    publishedDateTime: 2019-12-04T11:07:00Z
+    sourceUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/
+    ampUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
     images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
-        width: 387
-        height: 337
-  - title: "AI Weekly: Amazon plays the long game in health care AI"
-    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
-    publishedDateTime: 2019-12-06T19:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
-    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+      - url: https://www.bing.com/th?id=ON.BD2279E868949BA09F61A5B0AAF91D8B
+        width: 700
+        height: 437
+  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
+    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
+    publishedDateTime: 2019-12-10T18:41:00Z
+    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
+    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 82
     images:
-      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
-        width: 700
-        height: 350
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 43
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
-        height: 675
-  - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
-    excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
-    publishedDateTime: 2019-12-03T20:30:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/reinvent-amazon-beefs-cloud-ai-takes-network-edge/
+        height: 600
+  - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
+    excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
+    publishedDateTime: 2019-12-04T16:07:00Z
+    sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
+      name: Flatland Kansas City
+      domain: flatlandkc.org
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.73C6C5EEC54E79CF8DDB4E23D5B9C6A9
+      - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
         width: 700
-        height: 427
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
-    publishedDateTime: 2019-12-05T20:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+        height: 393
+  - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
+    excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
+    publishedDateTime: 2019-12-04T15:05:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/04/exploring-the-present-and-future-impact-of-robotics-and-machine-learning-on-the-healthcare-industry/27173/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 57
     images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-06T00:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+      - url: https://www.bing.com/th?id=ON.B84BF006EEDFFEC951A4D8F86C919641
+        width: 700
+        height: 523
+  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
+    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
+    publishedDateTime: 2019-12-10T21:24:00Z
+    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 17
+      name: Associated Press News
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "xG9k5Am7oV3jB43wAYUAMyaGz6N9rwiwYaOPCtWNJpPCYVp2UZvDr0F3prjeHVnf2cA0yUjm6RVFkfQV+0WYD06n8q83ZDg++jAm/lHtgeItcR3fl7ceiCeGsLVOvJP3fV4OwBBidGSQJYXsyym+eVjpJ639RnZ+eaHnwBMXeayIaU4UNanMOp8CEpihuZ2KgsldWv91u+w3o3TP/8icdzlAR448gWLLsmjdYG8WgBrs1nAYURxnODdY0iWxQQb9+oZU+HrI94+YAId4aBGeDw==;3BbRrY47Uttyg6N2or8/Dw=="
 ---

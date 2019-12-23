@@ -4,12 +4,10 @@ title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
 excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
 publishedDateTime: 2019-11-27T17:21:00Z
 sourceUrl: https://www.zdnet.com/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
-ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
-cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
 type: article
-quality: 84
-heat: 114
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -47,11 +45,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 68
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
-        width: 860
-        height: 484
+    quality: 48
   - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
     excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
     publishedDateTime: 2019-11-27T09:30:00Z
@@ -60,12 +54,8 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+    quality: 34
 
-secured: "ZXhwh3AOvHI5mx8qK2e1rWeIngGxTcTPBuhovqmj8djrwqW2yyZMB9AQCjRuocl2dIXKqWSoD5R+H7rEBYbBL+wA5nuX7AQOJwMTOLatcn/b3znaEuU2fkAyrebpkuxtXrL2JnXp5UnA1znTJbQHTb4OotamTMc38koypLm6Szefem2trqB95VWE8CE34KE7iCF9BXAZmhJll+62kB0f//43g9CnYjlLmPZ/BvT+HmRPnzl6ISICmlgyuLfimDyTZD1rG46LAT2Bdw0SSsjhfQ==;1vGGfzSAxJVxS732uHoW5Q=="
+secured: "l2vnulOmWUz+GVKFU5rMlsH9lwfAgC6Bs00pXoPCb4viQJDKwLC5m8XzqVKmzGQjILPSAsK+ydOuSVYBqEBkXvbPkZvhvf2SvfD3P/DHHQ7k2MnulBZ73SdQmw+raOBJevKqhdbvuazLvnL2suhIKXNpsdLKzb1TsQmTHkIeSq5oYCbhZOqv5inFuKxWxcFWvpAUZvG5IM4iDhM+LNCSbJoApPFtQX1taqFWOC9KjYYIEPgnM/WxrH0ItOqHHQLRBQFR/V5FIrv3MyasYx1FLw==;H9t28Px2OilZyaVQCBjlzA=="
 ---
 

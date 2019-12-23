@@ -187,19 +187,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F314D8502E4F1008C539FACAB80F90CE
         width: 700
         height: 389
-  - title: "Qualcomm's latest Snapdragon chips include two with built-in 5G"
-    excerpt: "They should improve performance in categories like AI and 8K video capture (Qualcomm won't share much more until December 4th), but this time around the highest-end chip isn't the star. The upper mid-range 765 series represents Qualcomm's first systems-on-a-chip with integrated 5G, saving them from using separate, power-hungry modems to take ..."
-    publishedDateTime: 2019-12-03T19:20:00Z
-    sourceUrl: https://news.yahoo.com/2019-12-03-qualcomm-snapdragon-865-765.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D0268EFC4EEAB408D5E58E5AAEDAD274
-        width: 700
-        height: 457
   - title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
     excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
     publishedDateTime: 2019-12-06T02:07:00Z

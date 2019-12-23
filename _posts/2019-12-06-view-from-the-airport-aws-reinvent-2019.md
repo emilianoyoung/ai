@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C7C016DA9D302E6B28E134676E28D0
         width: 600
         height: 315
+  - title: "The Top Five AWS Re:Invent 2019 Announcements That Impact Your Enterprise Today"
+    excerpt: "“Amazon Augmented Artificial Intelligence (A2I) helps machine learning developers validate machine learning predictions through human confirmation” Why this matters I will posit that there’s more market opportunity for AWS in ML PaaS and SaaS if for nothing else the lack of data scientists and framework-savvy developers. If you’re not a ..."
+    publishedDateTime: 2019-12-09T21:01:00Z
+    sourceUrl: https://www.forbes.com/sites/moorinsights/2019/12/09/the-top-five-aws-reinvent-2019-announcements-that-impact-your-enterprise-today/
+    ampUrl: https://www.forbes.com/sites/moorinsights/2019/12/09/the-top-five-aws-reinvent-2019-announcements-that-impact-your-enterprise-today/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2019/12/09/the-top-five-aws-reinvent-2019-announcements-that-impact-your-enterprise-today/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
+        width: 600
+        height: 315
   - title: "What we learned at AWS re:invent 2019"
     excerpt: "Then AWS announced some new machine learning services, starting with Fraud Detector ... what we are seeing is AWS outmanoeuvring Azure in the early race to become the best cloud for hybrid and edge application development.\" AWS entered the quantum computing fray this week for the first time with the launch of Braket, as well as an AWS Center ..."
     publishedDateTime: 2019-12-06T12:55:00Z

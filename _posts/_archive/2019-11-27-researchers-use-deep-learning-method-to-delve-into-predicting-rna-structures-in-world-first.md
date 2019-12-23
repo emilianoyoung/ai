@@ -4,11 +4,9 @@ title: "Researchers use deep learning method to delve into predicting RNA struct
 excerpt: "RNA and DNA are among the four major macromolecules in lifeforms. The team employed the use of deep learning—a subset of artificial intelligence used to create complex, numerical functions to approximate specific tasks automatically without explicit ..."
 publishedDateTime: 2019-11-27T14:32:00Z
 sourceUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.html
-ampUrl: https://phys.org/news/2019-11-deep-method-delve-rna-world.amp
-cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-11-deep-method-delve-rna-world.amp
 type: article
-quality: 49
-heat: 49
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -19,12 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://scx2.b-cdn.net/gfx/news/hires/2017/rna.png
-    width: 1111
-    height: 2048
-    title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
-
-secured: "/VHABcu+hHzZe6UyfC/VBZhr+oVvzWtblMHTPt16QkJBTVpuGvvKfKFoocsiD5+SUsneFA/98xyZQcXvhpjj3PlLN9uKbxjITSbs4U7uBfxgciVkb4pxBnMSxNfWflopv68eGM+JA1+5LfbeiDoTDC08/bIHtSD3skY2g7b2tGcKOTxxalbV9LbiV0gaG+3YSwlkf1QTSUHC7mX9tOIve72pZZqCAHIPzolDhyJG5ChF+TwEgvUVfeClE0I6B/bT/LQtkf5Y2OZn53lN69uUeg==;Vk8wcrFb7yNJjsVfB3ccKg=="
+secured: "fDeRz3EcPJC+W64kQYQjU70RN98ghHK3T8VFC3E+IWu3lEPkpRcQkdV5gpmtTiycZSQtbNjVP3pUZ1EgD/Z7mkYn4j4u+fEc152uwwPEWgqDE+XiF9GC+JGfHFSMOGT3CtswB8yLDur7Gf0iZcyrrq0RZ92EUd90BkY7hzIQ/rx/FA3jC1u/SjfaCutqyx8D6qmqUy51DsTiHaWI8nvVXQ6Psm8WccZcMnGVxEHJsS9asyps8N0Z/48aeszJ22tIvxygxgpnZUbw9d3J34m8Zw==;rN+OYJJWyGEKovjxKOXO3Q=="
 ---
 

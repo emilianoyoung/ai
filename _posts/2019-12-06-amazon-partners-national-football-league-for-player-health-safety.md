@@ -24,6 +24,21 @@ images:
     title: "Amazon Partners National Football League For Player Health, Safety"
 
 related:
+  - title: "AI Weekly: Amazon plays the long game in health care AI"
+    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
+    publishedDateTime: 2019-12-06T19:30:00Z
+    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
+    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
+        width: 700
+        height: 350
   - title: "NFL turns to Amazon for help addressing player injuries"
     excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
     publishedDateTime: 2019-12-06T14:41:00Z
@@ -39,28 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
         width: 700
         height: 525
-  - title: "NFL, AWS to use player digital twins to model scenarios and combat injury"
-    excerpt: "The National Football League is partnering with Amazon Web Services to apply artificial intelligence and machine learning to derive insights about player safety and treatment, the organizations announced Thursday. The underlying goal is to \"predict the risk of player injuries\" to make way for prevention. AWS and the NFL will analyze data on ..."
-    publishedDateTime: 2019-12-06T15:07:00Z
-    sourceUrl: https://www.ciodive.com/news/NFL-AWS-AI-ML-safety/568619/
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 38
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 43
     images:
-      - url: https://www.ciodive.com/user_media/cache/02/e8/02e8239a620be54bbad472344ff9db22.jpg
-        width: 770
-        height: 363
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
 
 secured: "2cTkjW3++TeB9rBu0FdbsB5DtLcbKA56RFBxyKnDDppIG4xW1rm62iRMZpSKvn9Blkt7OAXIuKDz068X+OJ2iWc2I2IBEVcMVXLBbbKgFwMcEsSNVLbzLPd/YE1fNc7SdQUR89InmIfFwiLORKtG6yzGJaqGSd8A8ie2hPGnlNcMfAiBqTDLxdjIkwUy7G0GcaXjhmyJFSU7DCYE5yu8fAxMpoM33kcSw1ILu/S6UrWaYY8Kl2s8IgjnaNzwKN7ypadqg+YNwkW410RbZ0kppw==;tgBXB4jo45VJTsY7V3KOhw=="
 ---

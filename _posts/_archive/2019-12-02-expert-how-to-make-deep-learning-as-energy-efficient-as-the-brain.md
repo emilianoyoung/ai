@@ -5,7 +5,7 @@ excerpt: "WHAT: Computers are gradually thinking like humans thanks to the devel
 publishedDateTime: 2019-12-02T15:53:00Z
 sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/expert-how-to-make-deep-learning-as-energy-efficient-as-the-brain.html
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://news.uns.purdue.edu/images/2019/roy-handwriting.gif
-    width: 871
-    height: 490
-    title: "Expert: How to make deep learning as energy efficient as the brain"
 
 related:
   - title: "AWS announces the Machine Learning Embark program to help customers train their workforce in machine learning"
@@ -50,7 +44,31 @@ related:
       - url: https://www.bing.com/th?id=ON.0B31AAD169E643317783157513853DE9
         width: 700
         height: 394
+  - title: "Amazon sticks AI inference chip up for rent in the cloud for machine-learning geeks"
+    excerpt: "Gravitons, Neoverse... you'd be forgiven for thinking AWS's second-gen 64-core Arm server processor was a sci-fi re:Invent Amazon Web Services has made Inf1, its cloud instance for running machine-learning software on its custom-designed AI chip Inferentia, available to all. AWS CEO Andy Jassy announced the service on Tuesday during the ..."
+    publishedDateTime: 2019-12-04T09:09:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/04/aws_reinvent_ai/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 50
+  - title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
+    excerpt: "By Donna Goodison December 04, 2019, 09:51 AM EST Amazon Web Services unveiled new EC2 Arm-based instances powered by its AWS-designed Graviton2 processors, along with Inf1 machine-learning inference instances powered by its custom AWS Inferentia chips. “If you look at instances to start, it's not just that we have meaningfully more instances ..."
+    publishedDateTime: 2019-12-04T15:01:00Z
+    sourceUrl: https://www.crn.com/news/cloud/aws-launches-new-ec2-arm-based-machine-learning-inference-instances
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 24
+    images:
+      - url: https://www.crn.com/img/CRN_stacked_1000x600.jpg
+        width: 1000
+        height: 600
 
-secured: "HjevhV65bXIDjt4k+bBTXS9IsgBf2SJ0FXoSfEksSPHly+6T1whtA24uy+2UuHjQPuTe07IVtDR6TdLl90Y/dNyByp/rUJTBAWuLgenfperz8MIfZwoNkOFcir7aKLmJkEdColbzD8wX3xtaHe3hfyCZjQqf7uvrgko+i2ZTsvEbjtFOV9h+TcIC8jY/3vyrBHJEEqjs4vnDec7t05qGiyx4a4oD1vrIQV3dLA+RJlyy32X5gREEEOGgP8Zmr6Y3rSZj4A9m7a+smkT68jxvdQ==;QfkCYKkY76E6blsJI9gzjA=="
+secured: "PhYAukPxsXGqdBfjQbLinVIA74p+0J6hCF9hcbRLkFj9qmrGTSBdieV8vSJYbgmaNVdoWMwS9eVJyiBU1GCOO1/qRD1FvZlPMTDUd397ndHHWSpi7G3+mZj39/+TZneEcbPRrmfkzTLFusO84neqwAFhN+W75I96RorpTN12AsH9UbXoSzldOOD6C6F8CyoejQLy65Ce/FlkEA14qxX7TOJSiJFrx0RL8pfooLQ/hULTrYZj1n4uSHXZizPVwDwZR6QVfLG6ZXlg2DFjIkYg1A==;p5l2XlE8L7vTnrXpWjQf1w=="
 ---
 

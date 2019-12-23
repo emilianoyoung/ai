@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/intel-reportedly-acquire-habana-l
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/intel-reportedly-acquire-habana-labs-144102922.html
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Intel to Reportedly Acquire Habana Labs to Gain AI Chip Tech"
 
 related:
-  - title: "Intel To Acquire Israeli AI Chipmaker Habana Labs For $1 Billion?"
-    excerpt: "Intel could soon acquire artificial intelligence chip developer Habana Labs Ltd. Although yet to corroborated by either Intel Corporation or Habana Labs Ltd., the acquisition deal appears to be in advanced stages of negotiation. If the acquisition goes through, Intel is expected to pay about a billion dollars for the AI chip designer."
-    publishedDateTime: 2019-12-03T19:51:00Z
-    sourceUrl: https://appuals.com/intel-to-acquire-israeli-ai-chipmaker-habana-labs-for-1-billion/
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B02D9F0BD7082827B79CE5116CFDFFFE
-        width: 700
-        height: 437
   - title: "Intel in talks to buy Israeli AI chip co Habana Labs - report"
     excerpt: "In June, Habana Labs announced the launch of a new chip called Gaudi. Gaudi is an AI Training Processor for data centres, which the company says will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs."
     publishedDateTime: 2019-12-04T07:50:00Z

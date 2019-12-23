@@ -89,6 +89,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
+    publishedDateTime: 2019-12-23T20:15:00Z
+    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
+        width: 700
+        height: 464
   - title: "Third Massachusetts Community Bans Facial Recognition Tech"
     excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
     publishedDateTime: 2019-12-23T16:21:00Z

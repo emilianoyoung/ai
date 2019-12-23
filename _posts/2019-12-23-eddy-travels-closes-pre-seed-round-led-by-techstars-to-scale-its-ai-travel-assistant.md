@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/12/23/eddy-travels-closes-pre-seed-round-
 ampUrl: https://techcrunch.com/2019/12/23/eddy-travels-closes-pre-seed-round-led-by-techstars-to-scale-its-ai-travel-assistant/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/23/eddy-travels-closes-pre-seed-round-led-by-techstars-to-scale-its-ai-travel-assistant/amp/
 type: article
-quality: 80
-heat: 80
+quality: 180
+heat: 180
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 400
     title: "Eddy Travels closes pre-seed round led by Techstars to scale its AI travel assistant"
 
-secured: "5sYtjeAH0Pb9ZN1g+HCSU34Kjm/n5S+NWrQG3zPWx0x1C7JZ92FX2yjSsN66PX4RjujHS2YMecl5y46TbDkc7I6K2jACZE69okpQqa53vRwVv3dEUCSl4EPxjdRfWSbaVZCy3DuV6s+4BeUTwaEVgnNpP42gCU4YLQvv334wAVzX8dFBfXIxwydke4d7HUFmTTWFGJy2BWRpksLSUF1xCqr0ItPFWx9BaJWJ/+3aChRw2JI3fKDKG8IMA7VIJKNpxt2tXz7a8UJO0eP/ghUfjA==;YT/v8dZN3LCdw5J6Td34+g=="
+secured: "gtFELOIiaINz31J5y0TcsiZCQ9rJaHLcl7LVpsuiZbADsVKq9OUTvCRKG+l2bdePSAxICRj2FlIAs2c260+L7O3kM1IAPb4XAMmuOJIEi/uaTAGTM2WfMZTJE0DBCtRqzZ4jY5NlnLsEknlvE+ibVy8bdWcpivbss/x+/mfXTmmdQOz03l5X6H8bGG/T0EIsnPVoaQfE/Zi6IgeUcwwuj8+aqNskGzBTApeessHCUDunxKPqUGGvj6ZflLFWPnTDCBGjICLjCPkhB3oJgnEzJYojnFOKMZSnvcv1ew5uyKA=;ioKWwhmmjHiaAW/ReoFT/A=="
 ---
 

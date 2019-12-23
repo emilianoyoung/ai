@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-14T13:42:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
 type: article
 quality: 81
-heat: 451
+heat: 441
 published: true
 
 provider:
@@ -132,19 +132,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "National Defense in the Age of Ethical AI"
-    excerpt: "Picture a similar scenario in a future war zone—with the agents replaced by soldiers and the drones armed and fully autonomous—and you can begin to imagine how artificial intelligence (AI) promises to reshape global security. The stakes are high. According to Secretary of Defense Mark Esper, “whoever gets to robotics and AI first ..."
-    publishedDateTime: 2019-12-20T18:43:00Z
-    sourceUrl: https://www.theatlantic.com/sponsored/booz-allen-2019/national-defense-age-ethical-ai/3235/?preview=1
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
-        width: 700
-        height: 424
   - title: "Artificial Intelligence Market 2019 Global Analysis and Forecast Report by 2025"
     excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
     publishedDateTime: 2019-12-11T10:00:00Z

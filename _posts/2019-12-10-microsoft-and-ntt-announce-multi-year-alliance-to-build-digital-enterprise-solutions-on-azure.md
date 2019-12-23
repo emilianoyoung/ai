@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
         width: 697
         height: 700
+  - title: "AWS announces new AI services and quantum computing initiatives"
+    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning experience required, and three key initiatives as a part of the company's plans to help ..."
+    publishedDateTime: 2019-12-04T08:34:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.220F7A9D783AB823B016E1D4E0B3F345
+        width: 336
+        height: 224
   - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
     excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
     publishedDateTime: 2019-12-11T15:17:00Z
@@ -78,15 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
         width: 400
         height: 200
-  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
-    publishedDateTime: 2019-12-10T10:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
     excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
     publishedDateTime: 2019-12-06T18:32:00Z

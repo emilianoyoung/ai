@@ -43,19 +43,6 @@ related:
       - url: https://news.yale.edu/sites/default/files/styles/opengraph_image/public/748122_ex307707_obj00681-cc_1.jpg?itok=4Ryrg93k
         width: 766
         height: 402
-  - title: "The machines are learning, and so are the students"
-    excerpt: "Machine-learning powered systems not only track students’ progress, spot weaknesses and deliver content according to their needs, but will soon incorporate humanlike interfaces that students will be able to converse with as they would a teacher. “Education, I think, is going to be the killer app for deep learning,” said Terrence Sejnowski ..."
-    publishedDateTime: 2019-12-19T11:25:00Z
-    sourceUrl: https://www.bizjournals.com/albany/news/2019/12/19/the-machines-are-learning-and-so-are-the-students.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
-    images:
-      - url: https://media.bizj.us/view/img/11563437/educ-machine-learning-1-2*1200xx3000-1688-0-156.jpg
-        width: 1200
-        height: 675
 
 secured: "No55qABcWEJzY8APehj630e2LY//GtzGrqd93rKPSuvMmlrhb9kjxnnUqNx8jpulkujBgri2Cf+UwFChTA406XBnE+qhIrOcwXsx1L/Rhg0OkTYl7l1CEDBkU6Iew9KZrbOd5ZR5+S1bO4vtNNA2q3w1wfq2yOrPKvJ6zKRWupx2vTvB/k3wC7EGTp7BbANwayG2WVoL1r3iEq4sARHt/gTaWFpX32BTC5+ZhSNgQnyObUoNBksiL6f0k29nHzxeyIyLrDdTR2SxpsH/zQBCVQ==;F/PZIC4ZyH1YHP+E+krv2Q=="
 ---

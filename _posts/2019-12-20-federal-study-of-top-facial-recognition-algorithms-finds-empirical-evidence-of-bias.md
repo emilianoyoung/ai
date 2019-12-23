@@ -2,16 +2,20 @@
 category: news
 title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T20:57:00Z
-sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
+publishedDateTime: 2019-12-20T14:27:00Z
+sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
 type: article
-quality: 12
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -1792,6 +1796,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "SSGCVlhVEMo0G49RV5Bwx9VushfbI8W+ZMSXfS+fHzXP0Wts9KadnR27vCucKGBgFLkgwwQGpdg7uJU3V46O9WTNUEbJgbsbRwULGVGgIaa17Gpn7s6Y0J6ybHvhZi/56cbFHeSrLVeuAf7J983Up5bGoJ7DylpwaDDre7Gx5/hhwLgrblVKb1D9Fp88nbZ208zVYAMlrYR0URG/CtLcHl5GXD6KTB80CiqZmcqs0NMIvQpxSwyxDM15uzd/qbGaWW0X0ma6vDWSptKhr0Yi5A==;VAfxtH49Nu2NnJE+0eE7sA=="
+secured: "raot3XnnJUbk7rzrESFIOzUWGIpxYCSMCBdqZE5xco++r9GV7f9RlZ2Rz7dlxmZ2wCGrt6msaP/WKt/doqLmEPSwWUZTJTox2zhMndpV5Sbr9SRLGATvr9b2po5NKJGLAz8caEN/QqcmhAd9tGx5vkdk4XkfCMeR+cCKzYOYkUOi7AxUHWkIzpJbKNpYj3bT0sUiQAqnXDjziXqGaNSLOqRRQBn8iWQJwJ8e+pBObCr15G4T34grhPBdMGhmfGd0gyNTVeyjNUARZlhYjB+jbQ==;FmswS7De/JNiXxLZFa3m1Q=="
 ---
 

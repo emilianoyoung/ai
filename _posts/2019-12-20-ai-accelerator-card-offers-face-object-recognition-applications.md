@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T23:49:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       - url: https://www.bing.com/th?id=ON.1B6FC08A1BF1CBCA43DD13C0A576F48F
         width: 700
         height: 365
+  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
+    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
+    publishedDateTime: 2019-12-23T20:30:00Z
+    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 5
 
 secured: "8oVtSMJNqF7HebUtVAYXZhI0AGwWtckj+lkt1JFx4uUhM78zy8up2A/nCdFpBHO7kGvwm0Lx9UlsSPClsUBntsNf7kPUMUH9hIEa0Ob5EkTnViiOksyO7KeQsvJMT0IMMavxeF5EmP13XYLG/OpEqF0mu3lWnSq8jn19q1cPg4EdbdICCaOgIyP9tZIn+IL5QTItFqMsRgjM4h8Eoez9Ei1QYzS66dRuReazVYWvQPE/G4DrkrhfLJwkIvi4jlBH+G+ava0nx/8m9caHNphKqA==;vtWv8yt8DG6Gk4ijWVSdag=="
 ---

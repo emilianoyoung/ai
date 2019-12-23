@@ -1039,6 +1039,15 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:00Z
+    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 42
   - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
     excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
     publishedDateTime: 2019-12-11T16:41:00Z
@@ -1784,15 +1793,6 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T20:57:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 12
 
 secured: "NGlJCJsU0J6Rtq79nAJH25G0iidw8hP4cPduStbz+4Vwq6nh9BYDLAsIPD+gdWMjfh+fs7yyoTOgjqkqs+Ao49K2OrVzp+koYmupCWn1SOVizVdH7PJ4YpQ8ujd0h7ONmJHgVaxfJamLNKl/8HxZvoeUFandXnRtrISZSWszS7fjGv4hOdIvevrW6jYCWUyRMBtfOO7OfxcFTRe0UK9qwl6JfheUk1vL1XuiyvDw594oiGOMXMMDgBT8tIH05zTtGMz7K85LYIblxVoQmal4GA==;y8yOFKeULc8J/ZmrMyRMlg=="
 ---

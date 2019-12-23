@@ -1,27 +1,22 @@
 ---
 category: news
 title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
-excerpt: "OYSTER BAY, N.Y.--(BUSINESS WIRE)--The year 2020 will be an exciting one for the Artificial Intelligence (AI) chipset market. In 2020 alone, more than 1.4 million cloud AI chipsets and 330 million edge AI chipsets are forecasted to be shipped, generating a total revenue of US$9 billion, states global tech market advisory firm, ABI Research."
-publishedDateTime: 2019-12-23T13:41:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191223005021/en/2020-Banner-Year-AI-Custom-Chipsets-Heterogenous
+excerpt: "\"Vendors of these chips will move away from offering proprietary software stacks and will start ... simplify the technology complexity for their developers and help them focus on building efficient algorithms for the new AI and ML applications.\" What won’t happen in 2020: Quantum computing: \"Despite claims from Google in achieving quantum ..."
+publishedDateTime: 2019-12-23T18:54:00Z
+sourceUrl: https://finance.yahoo.com/news/2020-banner-ai-custom-chipsets-133000383.html
 type: article
-quality: 11
-heat: 11
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
+  - AI Hardware
 
-images:
-  - url: https://www.bing.com/th?id=ON.B4B57690C1CA6440F643B842181B3CCB
-    width: 700
-    height: 365
-    title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
-
-secured: "feTJhW0tWmsQdQh6cYy4w5jcf1cOTABebMD02ehKWH6pCQAjQl8Tk2/FbLk5Y+YT4m0uE/in2ZTWigI2ky81SeyqykIpn0Y+9DttQa+BSaDEbKX71sPmjsg/rqegBxCUnLFyJsgYy6I2qPCV0tq/nLA5XCW68Xmr8SooZyVOtOcw1EeAS45r6WBdrPCkE/dmPnZvMn+Ix2mKs/3VS++aAcvS7EPBpjWOCdl0IexIkuCJ/YryMTm8zhkEoQYTxMTHjhfoVMmCR7VDOHqV+kftNQ==;ztGOI4+jD5pbDZMLnFm9cQ=="
+secured: "RgD+h7mHP7qerUxz0sKDCRLYgboblddXxvNDH6CGRuw9+f370HOlUHY04s86OsipGVX2ooSV88ZlgJnqOOUvOVlnvU87VN9JhHyCizE4IQZnMLU/mUWu4YJWtX1jhpAcPRHFqkuQEwlwpnN+qMP38wc/YYsnVcpFpumNvk0mvWp6GwUfKyM+b9bzoToDJa0sCZbJzKk3w1umG2Cx8mqkFYd920OfEdRh9kEMn42fWq1qbbI8fksEisJ2D6vHe4Av+iPIYLY21clHB5ZTW4TSkw==;DS0bjSfLrevhIVUb5/RJAg=="
 ---
 

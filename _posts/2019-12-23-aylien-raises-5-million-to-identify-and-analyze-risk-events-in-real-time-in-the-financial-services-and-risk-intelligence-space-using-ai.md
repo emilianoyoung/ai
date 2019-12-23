@@ -2,16 +2,20 @@
 category: news
 title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
 excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-publishedDateTime: 2019-12-23T12:58:00Z
-sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48486047-aylien-raises-euro-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-008.htm
+publishedDateTime: 2019-12-23T12:53:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -34,6 +38,6 @@ related:
         width: 1200
         height: 710
 
-secured: "6o9Vsx9Yv8TGmK0EG1ReBys9LPSKo2laFmbjrx2KMtv/AYIONYW9SNj8pE/sbmD1PCu/cmC8mDEyRWJvlTGLbUv7H8Clpt5JTbBJwjYTmUEVTaIV9tTJLSEfAVxZHLXiVRyRtq6y1/mEmqKy8PWYJukURLcDwjsPXAEutEfHtm5UcTdWGQ/MzXVVad1vy7a+WN83iyn5MXrM8oHbIN7soLshZ1b5RAgmwnooPSLtwgXz5usPyhaSUutq41zYPcP7n6Anxud3SaCqtsmEUV96Ew==;vXnddtJEa6PkojiToUpgbw=="
+secured: "DypHaDbqhllUO6nI29CJ5C4Cyi3Nf6a5xqwBd1v2kMtL7L4ZDqSMrskgw9SmSkdKsi2BtUSRsB1ZAM8FDK0CwU97wWtWoKPBjxKmO/uuwTkUr2gTlKKI5EOIYwJ3qMTS0AuzdYPmyQE10sY5MyPppEKAcWlOhxElkuN/amf0Jlr59//ainN6AmalXV2KX4Kzxactotj+kS+4Jmwy2rlDj8H/m5Cw88C/9ULjz2MQXI++kyhYHjyPaWsY0Ney+QucFqTe6Z99yl2QDeMEENDzOQ==;NctAWKbqPqvWLosSgl7aJA=="
 ---
 

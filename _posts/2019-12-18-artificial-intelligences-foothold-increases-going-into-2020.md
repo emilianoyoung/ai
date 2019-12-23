@@ -32,13 +32,13 @@ images:
 related:
   - title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
     excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-    publishedDateTime: 2019-12-23T12:58:00Z
-    sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48486047-aylien-raises-euro-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-008.htm
+    publishedDateTime: 2019-12-23T12:53:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
 
 secured: "8NOGA09V1DMZEdtAjAzcObfFe1qn4w+xHGjxDu26A1N8zGz9PBhtNNxNtys1tGANSIwDaKdvDEHg6qpP2bWFhOFgHjdVHgL99fcBaT6Lr30D5+IWN1OCkzR10esZpZVhJUjurLnH9Fl4ApXFZw+wMMVxE0rhHcoYlkkrbcytzKdtUrngY8ZBgQnkBVwGlEabMpp56LdRSpi9o/hKN7b97jOA7xVmeu8IZ+VTBJtyppbbHvpoZhb7ke6hM3Ikx3BXVYkfTVNs7O2F/a8GRtcSmw==;TmXTAVwnSCC+0D2blbox8w=="
 ---

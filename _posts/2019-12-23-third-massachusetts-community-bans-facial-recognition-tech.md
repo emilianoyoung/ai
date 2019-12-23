@@ -93,6 +93,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
+    publishedDateTime: 2019-12-23T20:15:00Z
+    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
+        width: 700
+        height: 464
   - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
     excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
     publishedDateTime: 2019-12-19T16:50:00Z

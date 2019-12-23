@@ -1039,6 +1039,15 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:00Z
+    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 42
   - title: "Homeland Security announces easing of facial recognition rule"
     excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s ..."
     publishedDateTime: 2019-12-10T11:11:00Z
@@ -1784,15 +1793,6 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T20:57:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 12
 
 secured: "UnmWUqi6kYoaC2yohyavK6ggV5uGFx2PKfjwGpg9rK4HFno8nk75rS6gF71qmah4K0u1vxWI70HU11g+MG8bFFuI2l2VAy2/iej73S1SaAVPEhCNCMQxa3lEA6nPx+ShEurRMjjaO6DfBzUdz+5akYDXd3t5yh3GoNr4LJP7f4iYcRfVJ55BNZ4ubr9alhvKE2PiNSsSA/Ps4hb3aBEDT+XVD5+dIx04ycGkwr8bfakCwa3TXxh3c4sMOJ1SQ6ypC+ZGwVqDeqmgcswEYWy3Mg==;q60cqOl2TofCgC2Ulkpguw=="
 ---

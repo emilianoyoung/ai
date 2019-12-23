@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "IQ test for artificial intelligence systems"
-    excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI ... and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he ..."
+    excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how ... \"We are focused on testing and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he said."
     publishedDateTime: 2019-12-13T14:44:00Z
     sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
     type: article

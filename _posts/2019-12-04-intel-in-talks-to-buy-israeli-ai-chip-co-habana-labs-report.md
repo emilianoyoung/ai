@@ -33,19 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0ABEA6E1C7F8CDA73CE2619F42CCCEB1
         width: 635
         height: 400
-  - title: "Intel To Acquire Israeli AI Chipmaker Habana Labs For $1 Billion?"
-    excerpt: "Intel could soon acquire artificial intelligence chip developer Habana Labs Ltd. Although yet to corroborated by either Intel Corporation or Habana Labs Ltd., the acquisition deal appears to be in advanced stages of negotiation. If the acquisition goes through, Intel is expected to pay about a billion dollars for the AI chip designer."
-    publishedDateTime: 2019-12-03T19:51:00Z
-    sourceUrl: https://appuals.com/intel-to-acquire-israeli-ai-chipmaker-habana-labs-for-1-billion/
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B02D9F0BD7082827B79CE5116CFDFFFE
-        width: 700
-        height: 437
 
 secured: "BkrIl9BH6SajNkcbCP6t0fss6NwUC34diIcBCK/ZYwGXMxrUneOjRea/SD5/f+LTJvNenv4woruzcoQ9cJufXUpVkefgToRVx3uKnZkFbkIBWmUuXO5Udo+6iwv5I9lUQaYAl05Gssangii9rlDxuCBUHdwHdbYwWqM189oDt2kVY3zbqFqOGA0eibEBNqkRRFwUSeXPTbjcIeWItKTKe3NTWllZa1WmT36aApGnZ/7Ty4XGci5eup0pvH0d7P2+bCjyr7DvZVUYOr3lHy8NzQ==;jRAdNiZOadSP9Q1kD3CREw=="
 ---

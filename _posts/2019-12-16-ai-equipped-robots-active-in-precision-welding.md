@@ -154,6 +154,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7FC084780B0FE0217E388D3DFA83A37A
         width: 700
         height: 393
+  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
+    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
+    publishedDateTime: 2019-12-23T15:03:00Z
+    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
+        width: 700
+        height: 366
   - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
     excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
     publishedDateTime: 2019-12-19T09:28:00Z

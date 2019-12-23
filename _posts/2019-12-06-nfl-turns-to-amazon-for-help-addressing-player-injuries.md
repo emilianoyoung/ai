@@ -8,8 +8,8 @@ ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,6 +30,21 @@ images:
     title: "NFL turns to Amazon for help addressing player injuries"
 
 related:
+  - title: "AI Weekly: Amazon plays the long game in health care AI"
+    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
+    publishedDateTime: 2019-12-06T19:30:00Z
+    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
+    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
+        width: 700
+        height: 350
   - title: "Amazon Partners National Football League For Player Health, Safety"
     excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
     publishedDateTime: 2019-12-06T15:34:00Z
@@ -43,28 +58,19 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "NFL, AWS to use player digital twins to model scenarios and combat injury"
-    excerpt: "The National Football League is partnering with Amazon Web Services to apply artificial intelligence and machine learning to derive insights about player safety and treatment, the organizations announced Thursday. The underlying goal is to \"predict the risk of player injuries\" to make way for prevention. AWS and the NFL will analyze data on ..."
-    publishedDateTime: 2019-12-06T15:07:00Z
-    sourceUrl: https://www.ciodive.com/news/NFL-AWS-AI-ML-safety/568619/
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 38
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 43
     images:
-      - url: https://www.ciodive.com/user_media/cache/02/e8/02e8239a620be54bbad472344ff9db22.jpg
-        width: 770
-        height: 363
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
 
 secured: "aD9gVwRwW6BvCDKKatkhT99lGLmfRoS2mzpxWa3GQkiMWjSVnVxqKFNJsVYFkmnTs/LKItVaUXWw3JzC3dchv0nrGEHcXIPwxsQvciiocOH9BauCZW/O7AK75Fs1xvAhpY2JU1WzdKFyjxSAsOqUFgpa7Jx2n65fHEoupxfU/zesqTg3mMK0OnFjBPbh2AbfC6HwKiHtk3Y7C8w3yuT4RJEESzZ/Wuupr44av5Dfa6/KJZXutirpg/zoWzeB1xFf+50z1XSIyMZjLnNKE5andQ==;HCjV7A5aaIVbiAqBf4DIXg=="
 ---

@@ -4,11 +4,9 @@ title: "AWS launches major SageMaker upgrades for machine learning model trainin
 excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
 publishedDateTime: 2019-12-03T18:16:00Z
 sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
-ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
-quality: 112
-heat: 142
+quality: 72
+heat: 92
 published: true
 
 provider:
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
-    width: 1080
-    height: 530
-    title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
 
 related:
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
@@ -51,25 +43,8 @@ related:
     provider:
       name: IT World Canada
       domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
-  - title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
-    excerpt: "By Donna Goodison December 04, 2019, 09:51 AM EST Amazon Web Services unveiled new EC2 Arm-based instances powered by its AWS-designed Graviton2 processors, along with Inf1 machine-learning inference instances powered by its custom AWS Inferentia chips. “If you look at instances to start, it's not just that we have meaningfully more instances ..."
-    publishedDateTime: 2019-12-04T15:01:00Z
-    sourceUrl: https://www.crn.com/news/cloud/aws-launches-new-ec2-arm-based-machine-learning-inference-instances
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: https://www.crn.com/img/CRN_stacked_1000x600.jpg
-        width: 1000
-        height: 600
+    quality: 34
 
-secured: "M60JNU/5qJUjfON8njDT4wrdTq637dqJpwrosX2R14TbX4VAIEjdmq+dpku5WgbJY4/jNeGqZ7yDwWlppDhoFcgZVCC/Y/OLg3znyk8XLz0kIvuYTdfc565M/vHKWIgJsrfV5MFIuR28pdGp74IkZvbvqWXiHvckmI0gyIimBgXTtnD//TUSX+sEBFuRm47xAqtq93uny3wiHp8eQ/7a4tnauwkHA85jYhe/9B92Up8yW0IP9LX5Qo7JA5mXfyh/RqVO2W+dP2dIS2DSybQGhw==;XJoRc8xmJ41gYGzSV9AFIQ=="
+secured: "tgWhLwbDIZp7Zvw3qG7Ijh8sN5620NG+VT3yKVEFfWVuA8Zz4Hd+o0M+OMLLjkkHusGHiBMl97mKHaptIu1gMlF20Ayqmjqn2iJ7JwKlbMwZ3PbLUGwjSdM7IAs9qOWrVVzGDLdP2x8elN2Y8K/bg03PuDDvzCpHvzcBN/+08TxTHqRp+sUjIFHOMzIWrvRm5dVFwh4yoLtMgaD7IjIGMst+FsY528KXtXiDIqEkz6KPZ8JqC7UeHFjqb5JF2vbtYEU0v5e/GSeNVewIkYv9YA==;gRyO+0xW3IOgOP7KGMQ5lw=="
 ---
 

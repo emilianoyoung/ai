@@ -147,6 +147,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7FC084780B0FE0217E388D3DFA83A37A
         width: 700
         height: 393
+  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
+    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
+    publishedDateTime: 2019-12-23T15:03:00Z
+    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
+        width: 700
+        height: 366
   - title: "AI-equipped robots active in precision welding"
     excerpt: "Vision sensors are placed on the robot and used in conjunction with artificial intelligence. That allows the robot's motions to be tracked in real time using visual feedback. Minyue Tech's technology offers three advantages. First, SmartEye uses structured light to perform 3D measurements. By combining vision with deep learning, various parts ..."
     publishedDateTime: 2019-12-16T14:18:00Z

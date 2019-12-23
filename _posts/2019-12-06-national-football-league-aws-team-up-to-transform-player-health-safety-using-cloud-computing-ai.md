@@ -18,32 +18,56 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS aims to bring machine learning, natural language processing to call center"
-    excerpt: "Amazon Web Services (AWS) has packaged up another in-house Amazon capability and made it available to customers, on Tuesday announcing Contact Lens for Amazon Connect. Contact Lens for Amazon Connect -- the company's omnichannel cloud contact centre service -- is touted by CEO Andy Jassy as stitching together new abstractions for machine ..."
-    publishedDateTime: 2019-12-03T19:14:00Z
-    sourceUrl: https://www.zdnet.com/article/aws-aims-to-bring-machine-learning-natural-language-processing-to-call-center/
-    ampUrl: https://www.zdnet.com/google-amp/article/aws-aims-to-bring-machine-learning-natural-language-processing-to-call-center/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-aims-to-bring-machine-learning-natural-language-processing-to-call-center/
+  - title: "NFL and AWS using data to improve player health"
+    excerpt: "They are combining AWS' cloud and its capabilities in machine learning and artificial intelligence with NFL data to improve player health and safety."
+    publishedDateTime: 2019-12-05T21:26:00Z
+    sourceUrl: https://www.zdnet.com/video/nfl-and-aws-using-data-to-improve-player-health/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 117
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.7F7F3CD4D5C1A4E1222DED51696B0EC6
+      - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
         width: 700
         height: 525
-  - title: "Amazon sticks AI inference chip up for rent in the cloud for machine-learning geeks"
-    excerpt: "Gravitons, Neoverse... you'd be forgiven for thinking AWS's second-gen 64-core Arm server processor was a sci-fi re:Invent Amazon Web Services has made Inf1, its cloud instance for running machine-learning software on its custom-designed AI chip Inferentia, available to all. AWS CEO Andy Jassy announced the service on Tuesday during the ..."
-    publishedDateTime: 2019-12-04T09:09:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/04/aws_reinvent_ai/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
+  - title: "Google Isn't Looking To Revolutionize Health Care, It Just Wants To Improve On The Status Quo"
+    excerpt: "managing and treating diseases), Google Fit (tracking and encouraging healthier lifestyles), Calico (research aimed at treating and even slowing aging), DeepMind Health (applying AI to health and health care), Senosis (turning smartphones into health monitors) and the recently acquired Fitbit (activity tracking). While these efforts have to a ..."
+    publishedDateTime: 2019-12-12T14:08:00Z
+    sourceUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html
+    ampUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
+    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
     type: article
     provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 50
+      name: Newsweek
+      domain: newsweek.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.8AAB57F771A66DF3973908ACEFF3DD68
+        width: 700
+        height: 350
+  - title: "NFL, AWS to use player digital twins to model scenarios and combat injury"
+    excerpt: "The National Football League is partnering with Amazon Web Services to apply artificial intelligence and machine learning to derive insights about player safety and treatment, the organizations announced Thursday. The underlying goal is to \"predict the risk of player injuries\" to make way for prevention. AWS and the NFL will analyze data on ..."
+    publishedDateTime: 2019-12-06T15:07:00Z
+    sourceUrl: https://www.ciodive.com/news/NFL-AWS-AI-ML-safety/568619/
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 38
+    images:
+      - url: https://www.ciodive.com/user_media/cache/02/e8/02e8239a620be54bbad472344ff9db22.jpg
+        width: 770
+        height: 363
+  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
+    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
+    publishedDateTime: 2019-12-07T00:09:00Z
+    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
 
 secured: "VcT1a8/V8YKZ7a5gWM4t/4DjDbVtvzoy8MFoShOoVG/HfuYboNgdlAVBfo0odXJZmikccbe3iFbh7WUfSXXkmTdkMHi9k0HLYbT8x6FHy6sqLDMx0+Q2r6qDeNZ2YmZCOI8JxtGRlsNXycu3kpQFyCSWgpWR2aKiEQowahGqdwkr0U2UdheGQvFTiU2rd2A2IMrLHf9lBkmZmUfN3f0Acc0ebqfbtE9sd5INIvX5/BczLKuRILRY70vnLINHBVleUiKoTk3MvaWvwaL3bPoRQg==;wABh5kBhcBKd51+PUsj6+g=="
 ---

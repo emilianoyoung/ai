@@ -24,86 +24,82 @@ images:
     title: "AWS announces new AI services and quantum computing initiatives"
 
 related:
-  - title: "AWS announces new enterprise search tool powered by machine learning"
-    excerpt: "Matt Wood, AWS VP of artificial intelligence said that the new search tool uses machine learning, but doesn’t actually require machine learning expertise of any kind. Amazon is taking care of that for customers under the hood. You start by identifying your content repositories. This could be anything from and S3 storage repository to OneDrive ..."
-    publishedDateTime: 2019-12-03T19:46:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-tool-powered-by-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-tool-powered-by-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-tool-powered-by-machine-learning/amp/
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "Today, with these launches, we are bringing these concepts to machine learning developers for the very first time.\" Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
     images:
-      - url: https://www.bing.com/th?id=ON.76AAB24D6E634C36211870C15A374D30
-        width: 533
-        height: 399
-  - title: "The Top Five AWS Re:Invent 2019 Announcements That Impact Your Enterprise Today"
-    excerpt: "“Amazon Augmented Artificial Intelligence (A2I) helps machine learning developers validate machine learning predictions through human confirmation” Why this matters I will posit that there’s more market opportunity for AWS in ML PaaS and SaaS if for nothing else the lack of data scientists and framework-savvy developers. If you’re not a ..."
-    publishedDateTime: 2019-12-09T21:01:00Z
-    sourceUrl: https://www.forbes.com/sites/moorinsights/2019/12/09/the-top-five-aws-reinvent-2019-announcements-that-impact-your-enterprise-today/
-    ampUrl: https://www.forbes.com/sites/moorinsights/2019/12/09/the-top-five-aws-reinvent-2019-announcements-that-impact-your-enterprise-today/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2019/12/09/the-top-five-aws-reinvent-2019-announcements-that-impact-your-enterprise-today/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
-        width: 600
-        height: 315
-  - title: "AWS Announces Five New Machine Learning Services That Reinvent and Improve Everyday Enterprise Tasks – With No Machine Learning Experience Required"
-    excerpt: "Amazon Kendra reinvents enterprise search by using natural language processing and other machine learning techniques to unite multiple data silos inside an enterprise and consistently provide high-quality results to common queries instead of a random list of links in response to keyword queries Amazon CodeGuru helps software developers automate ..."
-    publishedDateTime: 2019-12-04T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/aws-announces-five-machine-learning-191400732.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/aws-announces-five-machine-learning-191400732.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aws-announces-five-machine-learning-191400732.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 1200
-  - title: "An open source library for 3D deep learning research"
-    excerpt: "A new resource is now available for the development of 3D models for deep learning applications in robotics, artificial intelligence and other fields ... With their 3D dataset ready for deep learning, researchers can choose a neural network model from a curated collection that Kaolin supplies. The interface provides a rich repository of ..."
-    publishedDateTime: 2019-12-03T20:41:00Z
-    sourceUrl: https://insights.globalspec.com/article/13095/an-open-source-library-for-3d-deep-learning-research
+        height: 630
+  - title: "Improve cyber supply chain risk management with Microsoft Azure"
+    excerpt: "Azure Sentinel is a cloud-native security information and event manager (SIEM) platform that uses built-in artificial intelligence (AI) to help analyze large volumes of data across an enterprise—fast. Azure Sentinel aggregates data from all sources, including users, applications, servers, and devices running on-premises or in any cloud ..."
+    publishedDateTime: 2019-12-09T16:00:00Z
+    sourceUrl: https://www.microsoft.com/security/blog/2019/12/09/improve-cyber-supply-chain-risk-management-microsoft-azure/
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.5A59EA770315125D5D5BD982BB4E2D60
-        width: 500
-        height: 280
-  - title: "AWS announces new enterprise search tool powered by machine learning"
-    excerpt: "Matt Wood, AWS VP of artificial intelligence, said the new search tool uses machine learning, but doesn’t actually require machine learning expertise of any kind. Amazon is taking care of that for customers under the hood. You start by identifying your content repositories. This could be anything from an S3 storage repository to OneDrive to ..."
-    publishedDateTime: 2019-12-04T00:07:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/aws-announces-enterprise-search-tool-194442344.html
+      - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
+        width: 697
+        height: 700
+  - title: "Microsoft and NTT announce multi-year alliance to build digital enterprise solutions on Azure"
+    excerpt: "while Microsoft will bring its trusted Azure cloud platform and AI expertise. NTT has also announced that it has selected Microsoft Azure as its preferred cloud platform. “NTT is committed to helping enterprises realize their digital transformation initiatives to help create a smarter world. We believe that the combination of the Microsoft ..."
+    publishedDateTime: 2019-12-10T15:47:00Z
+    sourceUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/
+    ampUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 63
     images:
-      - url: https://www.bing.com/th?id=ON.A2AC131803C76930B7F1EA65DFA745E2
+      - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
+        width: 932
+        height: 537
+  - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
+    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
+    publishedDateTime: 2019-12-11T15:17:00Z
+    sourceUrl: https://winbuzzer.com/2019/12/11/microsoft-and-ntt-corporation-announces-azure-powered-collaboration-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
-        height: 525
-  - title: "AWS Announces Five New Machine Learning Services That Reinvent and Improve Everyday Enterprise Tasks - With No Machine Learning Experience Required"
-    excerpt: "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers choose a confidence threshold for their specific application and all predictions with a confidence score below the threshold are automatically sent to human reviewers for validation. Developers can choose to have ..."
-    publishedDateTime: 2019-12-03T19:18:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-aws-announces-five-new-machine-learning-services-that-/2019/12/03/9063555.htm
+        height: 466
+  - title: "Wipro launches advanced cloud SOC services using Microsoft Azure Sentinel"
+    excerpt: "Wipro Limited, a leading global information technology, consulting and business process services company, announced the launch of advanced cloud Security Operations Centre (SOC) services using Microsoft Azure Sentinel. As part of this integration, Wipro will offer managed cloud SOC services with built in Artificial Intelligence (AI) and ..."
+    publishedDateTime: 2019-12-04T02:01:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2019/12/04/wipro-advanced-cloud-soc/
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
+        width: 400
+        height: 200
+  - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
+    excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
+    publishedDateTime: 2019-12-06T18:32:00Z
+    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12061AIEye-GTCH-AMZN.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 2
 
 secured: "ObhE9R4Z6IJ5M+w/GJEMLI9+gtr9DotX/RfnVEvKgcir84eFHwlk2J1IFcYKM3QX7JZx9sVoLK4yANr3MlRZhH6FWRn5k7i3P7HQcV18m47AXgf8SJLUTv5LcXSMWO85ciB5f7TSMiY5rTr0Gw8O4Ngr8I4GEeUBn9Ms2A7HDir4Oe3t+lpRdfoAY0k5Bnuf9io1upmjAnbAYnRv6tqrCGSFmpkRRwjhnQUAGFtgNhIfW1ACKRe+INCZ3M3VMoIyzOuv1+P2FK09xsWuBy2B4w==;yilEUsYWMEIsTapcZ/E1Qw=="
 ---

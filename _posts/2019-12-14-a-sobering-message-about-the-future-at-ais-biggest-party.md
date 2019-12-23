@@ -57,19 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BE5836D1B55B6F2E42218548FC17C84B
         width: 700
         height: 525
-  - title: "8 biggest AI trends of 2020, according to experts"
-    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
-    publishedDateTime: 2019-12-17T14:18:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
-        width: 796
-        height: 417
 
 secured: "6GC0RMEOMHRZTTJGfks9cLQtanu6uqEpoFRwZHLDVFkHUmJtEOzrUcpuep9EiA82dofPwYNHFH7LvjCj8vQYhkgUzik4zdwDKdgCunQdaHqg36OEgOYhd6wU0YyS0ktJ2A6C4KfFv0BI9clZwwwXO6BFZKEJR/BTiMoLAdooJwXPjd/Zf8tdyP4b7pKGbHFQbJ3Parug6gT5JSHOBmn6q1mOG/5fo2D8pYNujKpJfo3e+XlZ2pGTtMO5kGr2dDIhdu602C73+pd70aUNsRB2sA==;ulaOvTvwbA7TEB2Jvf51cw=="
 ---

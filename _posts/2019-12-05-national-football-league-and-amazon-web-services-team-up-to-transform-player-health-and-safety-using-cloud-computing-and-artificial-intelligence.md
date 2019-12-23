@@ -24,101 +24,60 @@ images:
     title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
 
 related:
-  - title: "Amazon Introduces ‘Plug and Play’ AI Tools"
-    excerpt: "The tools, announced at Amazon’s annual cloud event in Las Vegas, aim to help the company’s cloud customers incorporate functionality such as natural language processing, but without long waits often associated with AI-related projects. Amazon says it is making this possible by integrating machine learning into the two new stand-alone services."
-    publishedDateTime: 2019-12-03T19:04:00Z
-    sourceUrl: https://www.wsj.com/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
-    ampUrl: https://www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-introduces-plug-and-play-ai-tools-11575399371
+  - title: "How to provide a seamless chat experience with ServiceNow and Watson"
+    excerpt: "The customer service challenge A new generation of customers expect quality service anytime, anywhere, on the channel they choose, and in the language of their choice. If they do not receive immediate support, your business may end up losing a customer. Businesses today can simply not afford to sacrifice"
+    publishedDateTime: 2019-12-05T22:03:15Z
+    sourceUrl: https://www.ibm.com/blogs/watson/2019/12/how-to-provide-a-seamless-chat-experience-with-servicenow-and-watson/
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 189
+      name: IBM
+      domain: ibm.com
+    quality: 117
     images:
-      - url: https://www.bing.com/th?id=ON.0964C70E0E6C15D525E0806E8132842C
+      - url: https://www.ibm.com/blogs/watson/wp-content/uploads/2019/12/KBC_Group_Blog_v2-990x448.jpg
+        width: 990
+        height: 448
+  - title: "Creating Seamless, Personalized Self-Service Experiences With AI"
+    excerpt: "An increasing number of organizations are offering digital self-service options backed by artificial intelligence (AI) and automation, like chatbots and avatars, that allow customers to resolve support issues when they want, where they want. What’s more, customers expect self-service options. In fact, recent data from Gartner on customer self ..."
+    publishedDateTime: 2019-12-10T14:46:00Z
+    sourceUrl: https://www.cmswire.com/customer-experience/creating-seamless-personalized-self-service-experiences-with-ai/
+    ampUrl: https://www.cmswire.com/customer-experience/creating-seamless-personalized-self-service-experiences-with-ai/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/creating-seamless-personalized-self-service-experiences-with-ai/amp/
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.431F9940E9D78F6D7B485404AD472AAC
+        width: 200
+        height: 200
+  - title: "Using AI to improve your customer experience"
+    excerpt: "Now we’re in a similar place, at the advent of artificial intelligence (AI), a powerful resource that has gone largely untapped. In a recent survey of local business leaders conducted by Brunner and the Atlanta Business Chronicle, nearly 75% said they believe AI enhances the customer experience. And yet 41% said they weren’t using any kind ..."
+    publishedDateTime: 2019-12-09T21:23:00Z
+    sourceUrl: https://www.bizjournals.com/atlanta/news/2019/12/09/using-ai-to-improve-your-customer-experience.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7B0635D24A1F288AACB7E7598A776B36
         width: 700
-        height: 350
-  - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
-    excerpt: "Auto manufacturers are continuously adding new controls, interfaces, and intelligence into their vehicles. They publish manuals detailing how to use these functions, but these handbooks are cumbersome. Because they consist of hundreds of pages in several languages, it can be difficult to search for relevant"
-    publishedDateTime: 2019-12-10T17:29:19Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
+        height: 393
+  - title: "Snowflake Deepens its Relationship with AWS to Provide a More Seamless Customer Experience"
+    excerpt: "Recent milestones include: Pre-configured integration between Snowflake and Amazon SageMaker, a solution that provides developers and data scientists with the ability to build, train and deploy ML models quickly. In addition, AWS and Snowflake recently published an eBook on using Amazon SageMaker with Snowflake. Snowflake integration with ..."
+    publishedDateTime: 2019-12-04T19:05:00Z
+    sourceUrl: https://www.thedailytimes.com/business/snowflake-deepens-its-relationship-with-aws-to-provide-a-more/article_e0feb43a-daee-53f7-9812-b517cefc018a.html
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 29
     images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
-        width: 387
-        height: 337
-  - title: "AI Weekly: Amazon plays the long game in health care AI"
-    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
-    publishedDateTime: 2019-12-06T19:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
-    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
-        width: 700
-        height: 350
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
-    publishedDateTime: 2019-12-05T21:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
-        width: 700
-        height: 366
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 43
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
-  - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
-    excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
-    publishedDateTime: 2019-12-03T20:30:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/reinvent-amazon-beefs-cloud-ai-takes-network-edge/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.73C6C5EEC54E79CF8DDB4E23D5B9C6A9
-        width: 700
-        height: 427
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-06T00:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 17
+      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
+        width: 600
+        height: 600
 
 secured: "aVOuil4VIUpT4BGRD66CqC09slikHB8zEJJAWT126cyZGkzzbR1bcDNCxH62FVhbYSu60JL4qcPJwTbH5lFLo6lyf88boR6uIzIL3LIIFV4O6KnDHuZgcLrY2ZHodxQUEP+3LNiFZdgZrjQpsd5B2mgRVvkg9WRwahdVPh6rLBp2RJQN8pcexYjFwVG6t+30Ujyxx9cpIFHmkh8VD7GnRw0IZz30NZjilBD0N3OyygtYOicwAcLVQUXGoSb9R4pIsTr5fJIzfGXWBdbtn164Mg==;2fzRw931FHaDu3ICnP7dBg=="
 ---

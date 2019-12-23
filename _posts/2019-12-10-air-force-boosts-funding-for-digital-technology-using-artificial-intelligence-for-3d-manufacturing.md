@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T15:26:00Z
 sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,69 @@ images:
     width: 800
     height: 534
     title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
+
+related:
+  - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
+    excerpt: "Auto manufacturers are continuously adding new controls, interfaces, and intelligence into their vehicles. They publish manuals detailing how to use these functions, but these handbooks are cumbersome. Because they consist of hundreds of pages in several languages, it can be difficult to search for relevant"
+    publishedDateTime: 2019-12-10T17:29:19Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
+        width: 387
+        height: 337
+  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
+    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
+    publishedDateTime: 2019-12-10T10:54:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
+    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
+        width: 700
+        height: 233
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+    publishedDateTime: 2019-12-10T10:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-06T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 17
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-13T18:34:00Z
+    sourceUrl: https://apnews.com/06de89d1be9d49978e29d6bdaffb37ab
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "QU5IXdSWlgLFYXOVWQRNI2bp1Ki8kuF++FpI5mYhoa5MYEII65twSJII768uyxlRedSurDJZAsPboyMp6IYSlY+u7HVC6NJ7sXJCHvX6lVRrW0XUChKAcaY2q4HpW6xejOlYofh0Aa+xiPmT7/ezgPoYTvTspzKbiuQNxoSzqNoSaiuc9mLh6xhtysdt9SbbV1BkkphfNiDyf9aOsSWtj4V4RNOiXGWFUG5fEjH0dVtWljEBbHedRsg3llgmepKnWoZAABxW6tDj5Itgb3D/eg==;Cf4yQ8SXklFCh8V6G2ws3A=="
 ---

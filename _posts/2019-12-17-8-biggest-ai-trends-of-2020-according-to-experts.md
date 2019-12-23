@@ -29,49 +29,134 @@ images:
     title: "8 biggest AI trends of 2020, according to experts"
 
 related:
-  - title: "A Sobering Message About the Future at AI's Biggest Party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-13T09:00:00Z
-    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
-    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
+  - title: "Here are the top tech trends of 2020, according to top experts"
+    excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
+    publishedDateTime: 2019-12-23T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 122
     images:
-      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
+      - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
         width: 700
-        height: 366
-  - title: "LinkedIn's Azure move is less about scale and more about the speed of innovation"
-    excerpt: "Those are things that we want to start leveraging on our way to Azure.\" LinkedIn uses very large graph databases; there's a lot of Kafka (which was developed at LinkedIn and was handling over a trillion events a day there by 2015), and the Samza stream-processing systems built on top of Kafka such as offline compute and machine learning."
-    publishedDateTime: 2019-12-10T11:02:00Z
-    sourceUrl: https://www.techrepublic.com/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
+        height: 393
+  - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
+    excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
+    publishedDateTime: 2019-12-23T07:33:00Z
+    sourceUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/articleshow/72935214.cms
+    ampUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.BE5836D1B55B6F2E42218548FC17C84B
-        width: 700
-        height: 525
-  - title: "A sobering message about the future at AI’s biggest party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-14T14:00:00Z
-    sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/?comments=1
+      - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
+        width: 454
+        height: 340
+  - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
+    excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
+    publishedDateTime: 2019-12-23T12:03:00Z
+    sourceUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/
+    ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
+    cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: Profit Confidential
+      domain: profitconfidential.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.E6C24EF77EBE6ED174C1F0C8A0D6F082
+      - url: https://www.bing.com/th?id=ON.C1578C51AC2EBF5FC8BA69D93E6D7F12
+        width: 300
+        height: 184
+  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
+    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
+    publishedDateTime: 2019-12-23T20:12:00Z
+    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
         width: 700
-        height: 350
+        height: 467
+  - title: "BYU professor constructs mini town to test self-driving car tech"
+    excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
+    publishedDateTime: 2019-12-23T15:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
+    ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    type: article
+    provider:
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
+        width: 700
+        height: 380
+  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
+    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
+    publishedDateTime: 2019-12-20T16:01:00Z
+    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
+        width: 600
+        height: 532
+  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
+    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
+    publishedDateTime: 2019-12-19T14:08:00Z
+    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
+        width: 1200
+        height: 600
+  - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
+    excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
+    publishedDateTime: 2019-12-23T19:59:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/8-healthcare-companies-among-the-top-25-highest-funded-ai-startups-of-2019.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
+  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
+    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
+    publishedDateTime: 2019-12-19T13:36:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 4
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "What will Fintech scene look like in 2020 according to the industry experts"
+    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
+    publishedDateTime: 2019-12-23T13:15:00Z
+    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 2
 
 secured: "aYearvWeMEZBh4GzRzwjrPMz1h+rqMBG0liLqiq2WWDteOXHeqwU1SfUvga4JXvSWcpO36Qlk65omHV/MVdyv5xmwlNDmnLP4sEuh/CbTi8ffqyQqR3f7HrpRyIk8jEuZhY6vj4l0Q73YAXSFVFRMVwstnP4mKc+V5r2TKD3fpSdNQnXlfxMFC4ws9hK3s/QR7rvw1PNfbFSwpTKfUsAk1/FtL7lD2OhTXlWMfCFWPrYq6h3Li5w8N7x5KeI5UxdVkivz5qfTZuF9ofBJzP99Q==;cBBpzhk21hHmjBK1brFtYA=="
 ---

@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
         width: 700
         height: 366
+  - title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
+    excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure, and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Nationwide Insurance, Walgreens, Wells Fargo and MarketAxess. H2O.ai believes in AI4Good with support for wildlife conservation and AI for academics."
+    publishedDateTime: 2019-12-23T16:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000531.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939
+        width: 400
+        height: 400
   - title: "Top Risk Concerns for Business Leaders in 2020 Include Talent, Culture, Technology and Innovation, Finds Protiviti-NC State Survey"
     excerpt: "\"As the future of work evolves, businesses need to upskill and reskill existing employees ‑ particularly as digital innovations, such as artificial intelligence, natural language processing and robotics become a mainstay in organizations ‑ to ensure they remain competitive with 'born digital' companies and are future-proofed for the next ..."
     publishedDateTime: 2019-12-12T11:03:00Z

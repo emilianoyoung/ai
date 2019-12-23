@@ -24,34 +24,21 @@ images:
     title: "The machines are learning, and so are the students"
 
 related:
-  - title: "Machine learning helps tame a sea of plankton species data"
-    excerpt: "So many fossils, so little time — to train people to identify them. As scientists grapple with a vast backlog of marine fossils waiting for identification, an international group led by Yale has begun using machine-learning techniques to tackle the mammoth task facing researchers who study the oceans’ most prolific forms of life."
-    publishedDateTime: 2019-12-18T16:29:00Z
-    sourceUrl: https://news.yale.edu/2019/12/18/machine-learning-helps-tame-sea-plankton-species-data
+  - title: "Cornell University academics uses machine learning to analyse Oktoberfest data"
+    excerpt: "Academics from Cornell University have concluded that machine learning could potentially be used for applications such as automated checkout systems following an experiment using the technology to identify what food and drink Oktoberfest-goers preferred. The published datasets [PDF] revealed that 1,100 images were analysed as part of the research."
+    publishedDateTime: 2019-12-23T04:50:00Z
+    sourceUrl: https://www.zdnet.com/article/cornell-university-academics-uses-machine-learning-to-analyse-oktoberfest-data/
+    ampUrl: https://www.zdnet.com/google-amp/article/cornell-university-academics-uses-machine-learning-to-analyse-oktoberfest-data/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornell-university-academics-uses-machine-learning-to-analyse-oktoberfest-data/
     type: article
     provider:
-      name: Yale Environment 360
-      domain: yale.edu
-    quality: 139
+      name: ZDNet
+      domain: zdnet.com
+    quality: 185
     images:
-      - url: https://news.yale.edu/sites/default/files/styles/opengraph_image/public/748122_ex307707_obj00681-cc_1.jpg?itok=4Ryrg93k
-        width: 766
-        height: 402
-  - title: "The Machines Are Learning, and So Are the Students"
-    excerpt: "For years, people have tried to re-engineer learning with artificial intelligence, but it was not until the machine-learning revolution of the past seven years that real progress has been made. Slowly, algorithms are making their way into classrooms, taking over repetitive tasks like grading, optimizing coursework to fit individual student ..."
-    publishedDateTime: 2019-12-18T10:00:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html
-    ampUrl: https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: https://static01.nyt.com/images/2019/12/18/multimedia/18sp-ff-edai-1/18sp-ff-edai-1-facebookJumbo.jpg
-        width: 1050
-        height: 550
+      - url: https://www.bing.com/th?id=ON.4FAE2756EF2E7D97F658AC99BC841462
+        width: 700
+        height: 525
 
 secured: "q5hpha5oi2cPLCvIhXqRVHQIX8iAMSCXuoyXYpBwO/lGqLLAynEJ2PsqSkEFWygZ88Ou3S52mGfix8yn/N9U06cFof3KPyQPywdQjMKwDqK+dEJuyMDDaymJH/O52MSU2ZN0BFM/mKh+pXriyHmgA0RvoNj5mPQZAbBIJc80mFkXTcnjDMYzSXwHFYeUiK/V6hgEKgQgRnqyj1hhKaBBX43hpVVlg4aji39uEDIuxeb7Lxk67vNKWstyxlzYV9trOwu1EUTEDx9/fF5orl/Biw==;1WeTnJMiDBnRcbOQb5xURQ=="
 ---

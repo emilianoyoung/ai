@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T22:03:15Z
 sourceUrl: https://www.ibm.com/blogs/watson/2019/12/how-to-provide-a-seamless-chat-experience-with-servicenow-and-watson/
 type: article
 quality: 117
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -68,6 +68,19 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
         width: 600
         height: 600
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
 secured: "GkXnGxA4dsm/9cmOxQHZB/ibHQ2oh0DoezDmUdZvmux5hudazy7W//qNo/c8TZRZmejItfRTLXkXaOS9h+KBJJLfRtuNCD+5UnfMsiF6KTx8EuCeF7eyWMOTw+1SRp+oWIIQt4ndIPnPFnuIxEy8P0y2mLGQNr1LqQqbNf7SDgxKTPP6hlpKD+oo0Iu7iknoqWYjbkBvHpArdHKzOIwslI60auPzyaNYtyG+kjsds75AQ2smI8GF5V0ybvIYycAIJ/MDPLTd6gQ6rw7CPOsdTQ==;YyhO03ZieySK9iudJnCycQ=="
 ---

@@ -7,9 +7,9 @@ sourceUrl: https://www.pymnts.com/fraud-prevention/2019/tripadvisor-false-review
 ampUrl: https://www.pymnts.com/fraud-prevention/2019/tripadvisor-false-reviews-travel-security/amp/
 cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2019/tripadvisor-false-reviews-travel-security/amp/
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: pymnts.com
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: https://www.bing.com/th?id=ON.C2EEC55920C64A4B1D3EC394EFE88F40

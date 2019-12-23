@@ -8,7 +8,7 @@ ampUrl: https://ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-o
 cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally/amp
 type: article
 quality: 57
-heat: 67
+heat: 77
 published: true
 
 provider:
@@ -39,6 +39,21 @@ related:
       - url: https://www.kmworld.com/images/subscribe_magazines_km.png
         width: 772
         height: 594
+  - title: "AWS Announces Five New Machine Learning Services That Reinvent and Improve Everyday Enterprise Tasks – With No Machine Learning Experience Required"
+    excerpt: "Amazon Kendra reinvents enterprise search by using natural language processing and other machine learning techniques to unite multiple data silos inside an enterprise and consistently provide high-quality results to common queries instead of a random list of links in response to keyword queries Amazon CodeGuru helps software developers automate ..."
+    publishedDateTime: 2019-12-04T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/aws-announces-five-machine-learning-191400732.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/aws-announces-five-machine-learning-191400732.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aws-announces-five-machine-learning-191400732.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 40
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
 
 secured: "dAyKx+0V8zR9WzpsK8pRc3PZieLf1Lhc/XPMlxiq5ncUUiPErNOhTXuiIUH/RjKdkRkXusbdnfXNo1z8b5ULQaOeX9uSdX5v+L9my9Xrl24APUZBmByA3rb3N2KE+GkMvhpEAVtx9PDClTCZd4AlpKZgc/pXyF/fDrgiJRmXPqNG1X04hOkGWGQIksnA3h7mpdlkspvKNRTTqwzZmw4XynbLblDjmycMpsYMTJX0ioCsiA2aDq95civsgh3gwtCr3KreTULBkeSuxBGAyx1CLw==;vrqNIGpQW+laMbcJM3LPSA=="
 ---

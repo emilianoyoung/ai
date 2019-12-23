@@ -59,19 +59,6 @@ related:
       - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
         width: 680
         height: 340
-  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
-    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
-    publishedDateTime: 2019-12-19T14:08:00Z
-    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
-        width: 1200
-        height: 600
 
 secured: "tLuW8cVASmkBTiLMEYDGuNrraM5H1tN9ix5KQblfTc0IDBjFRTmHzHPEl32Z/GxSz97UkjQCcqPj3Sd1ISfZJ/HqgjLUvOQEgK/2HlQtpEN87t0/cBGrmuX+xvN26Igb7FBOBZ/zeh3DVxXo31JdABNgprP8kggdkH4YK9DRmStLm6g5DuTzyisn6xOh6fYbX4J+x3PrCUnn4S1AdNkabuTh5nt/TDYFYgQq62HA4pkk+pW7uvX8oG5Aqg8QDAsGLcQoDtoyoYdSHMmSmgZbKA==;cBlmXee7AspvWMHvkyWXeg=="
 ---

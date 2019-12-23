@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BE5836D1B55B6F2E42218548FC17C84B
         width: 700
         height: 525
-  - title: "8 biggest AI trends of 2020, according to experts"
-    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
-    publishedDateTime: 2019-12-17T14:18:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
-        width: 796
-        height: 417
   - title: "A sobering message about the future at AI’s biggest party"
     excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
     publishedDateTime: 2019-12-14T14:00:00Z

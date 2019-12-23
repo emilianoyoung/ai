@@ -5,8 +5,8 @@ excerpt: "A Kiwi behind a driverless car pilot in London says he sees a future w
 publishedDateTime: 2019-11-25T00:00:00Z
 sourceUrl: https://www.stuff.co.nz/business/117626324/kiwi-engineers-ai-software-tested-in-driverless-cars-across-london
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://resources.stuff.co.nz/content/dam/images/1/y/1/k/t/p/image.related.StuffLandscapeSixteenByNine.1420x800.1y151w.png/1574635065341.jpg
-    width: 1420
-    height: 800
-    title: "Kiwi engineer's AI software tested in driverless cars across London"
-
-secured: "49oKNxeTf21L3pUF2GADEw27f5DvnwzfHXv1xDPKFqjbJUNBjFR7pf3zfl+LpYhAWPMGnw6eVAj+K30BLJXprNLdFJfhHTSphoK/ZLVUJgigSuloLylmbSQmapDBI1tmQ3vvcRfMPl8/cBxdV7ps16hgFpcg48ahl12KBa1pbC9EC6vmWKzqaBJZciO6PJtPT1TbkUpNqVD1NmxppT8oSgkp8Q4+U3slNkcO8sViDUm9dmpEm8UQXMwAOXDHP9PsFrhkIBcySWOe0nODFaV5iw==;kWLIrr41+f5bZrjrRbVfkQ=="
+secured: "are4Ft/7JPfAzgux60v82LqMP4Xy2+0ZQE8wQJS9l/OBQwLwrcLQRCpsuYNz7wiFfC1qpG7KivHXjLDP5l1NzzaGtNI7W4pHux6wfNF/wC38fkRKpdDch0qmNsHRUHGOPSRCKtPzmMkR7HaUBmaZ9STh3+/vx5rBm0TLn9pDw99eFxaODF6OlFmdYaF2IscQNzYg82pBMrfea5ZbNz6rglUG0qrYIYOiW1Z9VftAaL9QBj1k/86o3qEWKGNLcmQamISfvqFnal4beSQhY5jNlg==;kE+nkxDoQdgR2TKFIHnynQ=="
 ---
 

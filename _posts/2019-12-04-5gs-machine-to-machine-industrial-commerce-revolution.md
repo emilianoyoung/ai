@@ -49,11 +49,7 @@ related:
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 24
-    images:
-      - url: https://hbr.org/resources/images/article_assets/2019/12/Dec19_03_516601884.jpg
-        width: 1200
-        height: 675
+    quality: 4
 
 secured: "9E0we55NNFCQMpHkd74uXtyjz+qFC/to1teHLA+T2lNzUyjNvx85x8xTqBpyjG9GHZ2PH6+FI88fJZT+7+ZzRNpRf0hsskx+ewavddEXAb+T8w/x4M4KrcOpsr9Ciu4gGLrh/WGxI4q6NyTmrlagqQzn3P4TtlCFM5tLbx+jVAXv5taKXPwYQKDnXJqRAlcENm/T1wfYIwCcmUMAdMZdWg1hTGQU9S4bVHAwyyNtPWLeNO4Rl+raTZd/nc2DTwyNFl43ujTXAIsdEDknU+CImQ==;WbG9B/l0rC8WUiQdRtwytw=="
 ---

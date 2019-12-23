@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
-    publishedDateTime: 2019-12-23T14:23:00Z
-    sourceUrl: https://krdo.com/money/2019/12/23/how-ai-came-to-rule-our-lives-over-the-last-decade/
+    excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
+    publishedDateTime: 2019-12-23T11:35:00Z
+    sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.64ECFBCFD3B90328665A5360434907A1
-        width: 500
-        height: 373
+      - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
+        width: 700
+        height: 393
 
 secured: "JZvnkKbH+DPI6D+RatdjuyQ8hiCch9ULs3IumivwF+KbZLKRhOHkC5FDc926XTf6lJtDFLFJ/8qIIe6suQQDQk6070Vn1tXIrtBJtwO63krR9DRNRLznF71PulO7EwnNNe1L0WwmPQ8q7FYVK9EM0l26qajRA40X2R0b3VCIDcFRNR1XRn3PSPKosAFJs1ro7ehuJ+j9hnGZAk6kdIBayu0PERElvfqNx+l5VDDjbAavTaHo0GKyfvgn6M5/JMY+aJfruFM7OB+FTFsohhYaTg==;Kw7SnPviUzcjKQ30qKEDwg=="
 ---

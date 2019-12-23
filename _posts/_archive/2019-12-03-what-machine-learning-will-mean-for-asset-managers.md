@@ -5,7 +5,7 @@ excerpt: "Some industry experts argue that machine learning (ML) will reverse an
 publishedDateTime: 2019-12-03T14:24:00Z
 sourceUrl: https://hbr.org/2019/12/what-machine-learning-will-mean-for-asset-managers
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: https://hbr.org/resources/images/article_assets/2019/12/Dec19_03_516601884.jpg
-    width: 1200
-    height: 675
-    title: "What Machine Learning Will Mean for Asset Managers"
 
 related:
   - title: "Why 5G Will Make Machines — And Machine Payments — Much Smarter"
@@ -55,6 +49,6 @@ related:
         width: 457
         height: 199
 
-secured: "8+abW2OEk46RMNARUM0YsUPtPgt/dSIvygPVqvmL9XMuT0cm4o3W4ajJkAPON9x5jaCIbu+OJRR/AnIZzIm+ltPJdfNvns2QZy7VFltl6GDd27xR5Eb0Km9GJ4APguxETK0L8CsE5IrbmDeycUZJDekyELjtk0yOI3YRVRAWK9wO8CWw5vNaxqoEq4yJyzrhE43XcKuLECHhbj/rfucvr460w/LECPswdU/b5GEgXRCIgWSCVLqJrFCHY9Q8NWhd4PEcvm6UgPN5gYCTrIiz5Q==;3efA60aiugqs7ExGZ8xliQ=="
+secured: "j4seSITzNIXBN84uutfE1cMaN0bZS+q5Xld8q+qznKdt5JrsMZ77u6mFoiTNHPtMMFSFvsO/XJohCXMaHk3nW0Ugr3xfXbYKhD3iXLjeSkhKRo7ZaLaVFUPh3Cuck/AMBusgCm9zvfLAbaz6ZfuXxakp0i1mRgGMXK0qgupISfoFgZWR304aro1GakVUj8xAzSbuVmVLfTCwosm/5IhQxySlOXzAW9IG4yzaGmR4nYEnRGnNXrlXHCO5zGXPkI/mPrsYXpymmA4YzCz+DgVr2Q==;cVkpFEpx3I2Yu0m8ioLNWw=="
 ---
 

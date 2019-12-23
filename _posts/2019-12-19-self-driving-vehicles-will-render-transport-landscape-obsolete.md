@@ -24,108 +24,24 @@ images:
     title: "Self-driving vehicles will render transport landscape obsolete"
 
 related:
-  - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
-    excerpt: "HOUSTON, TEXAS - NOVEMBER 1: A Nuro delivery vehicle completes training routes around the Meyerland ... [+] neighborhood on Nov. 1, 2019, in Houston, TX. (Photo by Annie Mulligan for The Washington Post via Getty Images) The California Department of Motor Vehicles will soon allow light-duty autonomous vehicles to be tested in a commercial ..."
-    publishedDateTime: 2019-12-19T20:42:00Z
-    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/
-    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
-        width: 600
-        height: 315
-  - title: "California allows 'light-duty' self-driving delivery vehicles"
-    excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
-    publishedDateTime: 2019-12-18T18:35:00Z
-    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
-    publishedDateTime: 2019-12-22T12:03:00Z
-    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-    ampUrl: https://amp.azcentral.com/amp/2709275001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
-        width: 700
-        height: 393
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
-    publishedDateTime: 2019-12-18T22:50:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 33
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
-    publishedDateTime: 2019-12-19T16:34:00Z
-    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    type: article
-    provider:
-      name: Santa Cruz Sentinel
-      domain: santacruzsentinel.com
-    quality: 33
-    images:
-      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
-    publishedDateTime: 2019-12-23T06:00:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
-    type: article
-    provider:
-      name: USA TODAY on MSN.com
-      domain: msn.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
-        width: 700
-        height: 367
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
-  - title: "California allows 'light-duty' self-driving delivery vehicles"
-    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
+  - title: "AdTheorent's Dining Trends Report Examines Role of Mobile in the Dining Journey, Visitation Drivers as well as Payment, Menu and AI Trends"
+    excerpt: "The AdTheorent/Harris Poll Consumer Survey ... brand experience PAYMENT: Cash is no longer king - credit card and credit card via mobile wallet payments are increasing For QSRs specifically: For FCRs specifically: MENU TRENDS: More options equate to more orders 71% of consumers would be open to QSRs/FCRs incorporating AI into their businesses ..."
+    publishedDateTime: 2019-12-19T01:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/adtheorents-dining-trends-report-examines-145500228.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 4
+    quality: 83
+  - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
+    excerpt: "Computer vision is helping make queue lines more efficient in the UK, quantum computing for ML is gaining traction, and machine learning frameworks are releasing new iterations: PyTorch 1.0 and TensorFlow 2.0 are new in the last year. Meanwhile, hardware for AI and ML applications is also progressing. Google’s TPUs are in their third ..."
+    publishedDateTime: 2019-12-13T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/algorithmia-machine-learning-2020-report-140010514.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 15
 
 secured: "NKd70Yu6Prmvf2Ox4CxlpflhVWnBOmcbxubcxS1deNiT1erF9V/1ghVXOQE5LFOe36NarXTjBojJ9aLJAJ4RfWCpx3vJZ4MDiSR9io7xGUH5+C8JwXW+PRhLhN1vTf7RBPGa2aWxuTmE9wMMfYlgGa70Bu/Bb+BxGNhw/1ZUA56G50A6SH0kNPQ0aqft/dAhsPbXXmf/1vQl15IevrzKJ4DkyGc+j+1UoDxnRybM+cLCVRRJaqPMwc3p4h4oeYe70mR6ozX4pOVPnjXROXpEPA==;ZToakibvvPDE2pUiq4OTFA=="
 ---

@@ -28,6 +28,32 @@ images:
     title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
 
 related:
+  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
+    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
+    publishedDateTime: 2019-12-23T20:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
+    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
+    publishedDateTime: 2019-12-17T07:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
     excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
     publishedDateTime: 2019-12-17T09:48:00Z
@@ -41,6 +67,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
+    publishedDateTime: 2019-12-21T09:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
+    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
+    publishedDateTime: 2019-12-17T17:44:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
+        width: 700
+        height: 365
 
 secured: "xQzIp6TUxeKkoIObcLfvLP5FUugVfRvztIh8wBDkKJN2lj7zlewMbJpH1QM3B7ZLUaYrbz4eayBbGelcHIzPfOrFbCf85NHBueHs6GRT7K33Ull4+nGlA0Q3HxOLFuQE9tIyTDQVyHhq9RXeSQCI5L/dLGHBKTN3f1YtXaod6iBJv+8IdqHu5dm7cqDBiP66kECV7YN+2/rYsP5C0iCAL0aOZUudfHOeLngDSupZrNUKlz8PPUwk+vm9JiwejxufqaDN3FQQiSB8yc1uBvLDnQ==;kpLJc8rCilny+9TSpxgTDg=="
 ---

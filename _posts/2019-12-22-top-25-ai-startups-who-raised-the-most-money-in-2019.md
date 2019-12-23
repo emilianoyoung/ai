@@ -28,6 +28,6 @@ images:
     height: 466
     title: "Top 25 AI Startups Who Raised The Most Money In 2019"
 
-secured: "8E0AO+h2rjFvwATRBq6nxOWBo2cOTyzU4F8vwJZV0oTINksaKhB3empMQYayRjxBKMuYHvXbOWM5Fzi2zj2aLB6cMJywmtbkEJ+izwvZs1ubszfEUJX7vDtHgpc9F0toNjR4HADKiNITfAFbvf2vpptXBsXf235Wbxpgg5cdPiB4Ugh4A29QmaGZT7GoZfLBmNqbiGbReS5C12ggMAMKgloFaMyRgPTN2bwbp2Xfm83+uYgHBNHHjyqSefvba389miM925Xwfyu+NbhCKbGugg==;l19UHvvI47PuobsB+HImpQ=="
+secured: "SKY7hYujGwUxdqJVXt3lbCXpVhOFlnp/DmBBwTm9vTT29hm49cvVlsyAGlBEcpYPVY9UrsG6Szs0BpPfGnhRNUxcMfHYP/GhRFNv1m+QN9QiUEyfqoyM+bq+D9aIivtojadNCnitOQHdTntamtJ2+Lahb0/nRRMg+sYjTJvvt6YioBb2+dYSCCIDobAsTRlwB4Z1UxTyBY7yOxDhpW19UtYcW87t7BwnUJ/LlPVBUmCL9rtmmW8IJ1LsijJGSieFPf3Ts5jkxKxeSZG+WKUq9w==;YGNIFhEknHx1abuTAuHD9w=="
 ---
 
