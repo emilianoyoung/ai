@@ -2,22 +2,16 @@
 category: news
 title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
 excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-publishedDateTime: 2019-12-23T12:53:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
-ampUrl: https://markets.businessinsider.com/amp/news/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
+publishedDateTime: 2019-12-23T12:58:00Z
+sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48486047-aylien-raises-euro-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-008.htm
 type: article
-quality: 36
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI
@@ -40,6 +34,6 @@ related:
         width: 1200
         height: 710
 
-secured: "TKvaYwDLpvLzRPL4IffyInCQJvuochG/QFgy3GYeJC4Rp9mKQ3df6Ch369rbZNo/oOnoFbGi+IW+LohLbXR+tw97pMTpIiVsZayJnY6zu4oa5ZfP6if9TOTC+E+5uwkYdM7V8snuJoRVOzarLFpOr5Efg7bekl0oPNwt08zaqjk1Xpzuujw5y3IasLgHenIHTWzosAav8q5W+UMtBMzFAfTCCONq9CuBX9GGSjkUy9NQWdxhRVKoy7wSLksp3AqvwRoZazizf5zZA905f7cjfA==;DdQKEUvwv2zsW+VbBHyyHA=="
+secured: "6o9Vsx9Yv8TGmK0EG1ReBys9LPSKo2laFmbjrx2KMtv/AYIONYW9SNj8pE/sbmD1PCu/cmC8mDEyRWJvlTGLbUv7H8Clpt5JTbBJwjYTmUEVTaIV9tTJLSEfAVxZHLXiVRyRtq6y1/mEmqKy8PWYJukURLcDwjsPXAEutEfHtm5UcTdWGQ/MzXVVad1vy7a+WN83iyn5MXrM8oHbIN7soLshZ1b5RAgmwnooPSLtwgXz5usPyhaSUutq41zYPcP7n6Anxud3SaCqtsmEUV96Ew==;vXnddtJEa6PkojiToUpgbw=="
 ---
 

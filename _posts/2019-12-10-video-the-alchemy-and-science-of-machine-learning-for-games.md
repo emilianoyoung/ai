@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CD944CF00FB2940F871C09183FBD964A
         width: 700
         height: 367
+  - title: "Raising the standard with Artificial Intelligence (AI) and Deep Learning"
+    excerpt: "There are no limits to the applications the camera can be used for, and the solution platform is particularly suitable for sectors such as building engineering, energy, civil engineering, industry and production, public services, retail, healthcare, and education. Focus on smart video technologies with Artificial Intelligence and Deep Learning ..."
+    publishedDateTime: 2019-12-05T17:03:00Z
+    sourceUrl: https://securitynewsdesk.com/raising-the-standard-with-artificial-intelligence-ai-and-deep-learning/
+    type: article
+    provider:
+      name: securitynewsdesk.com
+      domain: securitynewsdesk.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.0BF13792F0EE2F77B8D79510CDB177F3
+        width: 700
+        height: 382
 
 secured: "DdYhdHWNgsH5JQEfK2bn3QnWHrXn8KUJmeimCLBjUUIo/pQom4BJ/G1j0iUKdLWBn4nTD2IHbTu+iXENqVA4kHmr3C+kO31Nxgn/z+urJFmRjsI0b/dq6dza1MFrJECDXbTNtEN2qC8pe5woaI3DuGl9Q+4hanm0ylJs/xwIwCVqU0ALKhRrcp76qW7TMwRSPyv2Z3gTWJq2ncZHrdxrwfCjc7dLYhqha9TrohxWDngdDsU4d5hlD4/ctDVlj8FqE0JIYlz2DOC96n8BvMKd3w==;/6AA6QjBXAMOV/zsLQi/hg=="
 ---

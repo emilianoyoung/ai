@@ -22,6 +22,6 @@ images:
     height: 225
     title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
 
-secured: "ji3WDhCApLM5wxqDOhUzd5lgrr/WOAOMbwGXqN2AtHtBr+kNQMidk6QT0iQWac+GGcdf3pacZww11Tt4zV5cxh/RqL2E1UFNJZVUEqWhnoZLWiIudhEllKMbQQWBtyGVjXu7pYJrmJJUmyDtRbEV2f4ey/UQEqEkVFAEGmDz/49fnfk3u9rv8XyGaa12S3GIz2fsQZGt7bHd2eiY8IARX2JZsjuOuMNoV9M/Ol01LSdICR2w1N7inndBy7HR7jLgn6rS714Axc6dWac5sBI9XQ==;pdhGu3lbSnIm6g7gOf8uQw=="
+secured: "3TC46+eJkKSm3Oow4ZXd7pmUMVb8a8FK7sxIIcGdvWxGQMwvpfH19ihyL458efdvuz36pxLpqetTRJ6i+csutR8z1oNPEan7zrU2IRzODa89pKBR+3JfFWqnB6Ou/tIqjpjlPl9ERbDZVlH5aF6ozHV9NxZU3q9h8dHvfBfhgshd2X0P/hKuakKTa14/mE1+0w2UTYXxlfsyYbJHnaxvQfI2Wb+Th5y3iMBQAd0ZqQ0DE0OykE1xipuDCs8TTKGclXnCXA+CPsR/cIUK7JHnnA==;T8aYM3NZGxcdT8Xg43qpFg=="
 ---
 

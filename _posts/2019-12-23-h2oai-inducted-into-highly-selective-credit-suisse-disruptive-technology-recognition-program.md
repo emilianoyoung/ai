@@ -5,8 +5,8 @@ excerpt: "Wall Street Endorses H2O.ai's Vision to Democratize AI MOUNTAIN VIEW, 
 publishedDateTime: 2019-12-23T16:06:00Z
 sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000531.html
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939

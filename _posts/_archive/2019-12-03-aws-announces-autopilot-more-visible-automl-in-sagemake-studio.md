@@ -19,6 +19,17 @@ topics:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    publishedDateTime: 2019-12-03T18:31:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
     excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you have no idea how it was built. The idea behind AutoPilot is to give you ..."
     publishedDateTime: 2019-12-04T00:04:00Z
     sourceUrl: https://www.yahoo.com/entertainment/aws-autopilot-gives-more-visible-182248355.html
@@ -33,33 +44,20 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
         width: 700
         height: 466
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T18:32:00Z
-    sourceUrl: https://au.finance.yahoo.com/news/aws-autopilot-gives-more-visible-182248355.html
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
+    publishedDateTime: 2019-12-03T21:24:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
     type: article
     provider:
-      name: Yahoo7 Finance
-      domain: yahoo.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 68
     images:
-      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-        width: 5184
-        height: 3456
-  - title: "Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models With Full Control And Visibility"
-    excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Autopilot to automatically create the best classification and regression machine learning models, while allowing full control and visibility. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-03T18:44:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/amazon-sagemaker-autopilot-automatically-create-high-quality-machine-learning-models-with-full-control-and-visibility/194733
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 15
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
+        width: 700
+        height: 391
 
-secured: "aDKPDflSs9QcvlrDXJTmJqn9pH+0Qm6RNBhdLJeuzXise5tVe1PHJQjtbH2bbM7NyOH4FhI8c9+Nxn6FLRdVC4ftZtlKwLI9DJfQdJFMEvbsA8hWUPueVLsyrFROv+AJkRO4j0AJQZyeLxbd5B92VPmOCp2nOqktrICo2TA0V/BM0vcOuXuS1xQ6W6aCW2n6dEVc9ngbaDbnhR1pUlN6xYM6pbigT1pJg/pTVO5dbo7L74/NbIjwq9UAtMEg9ADCeFGUBe3pF8KTGTLHvwkBLA==;GH5g2m/qn0sqP/5Haiqtqg=="
+secured: "sZvE1mOxP50hJaE6hRw6l6h4ugeDOOm4VVaPT23A8iGotSHJ2Pb2chdHGNSHVwCNVIbVl3zwBaOed7bXNy7+TFECT88ET4qvBEYDCegT6aQMl8Mycgu4bBtKRB1pc9eMetb9IKrBuZD4YydaNlH2d9q1wacLRKQAsAQHJ7y2TDdCyTkWLqDHMknKd9v6toaOaJge1VQ5PBaQd/d6l+m/x6lFCAENM01ynBjcsoIRuvkLPTBp1aqWxYZG2DRzaZUzTdSJ0Bw6NOZQ/UUzcj7lWQ==;lbPdcUoNNgUyiqwnUD2THg=="
 ---
 

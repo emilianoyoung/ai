@@ -239,21 +239,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AFE0719154568A160BC596697E0B140B
         width: 700
         height: 466
-  - title: "All U.S. Travelers Abroad Should Submit to Facial Recognition Scans, Says Homeland Security"
-    excerpt: "To facilitate the implementation of a seamless biometric entry-exit system that uses facial recognition and to help prevent persons attempting to fraudulently use U.S. travel documents and identify criminals and known or suspected terrorists, DHS is proposing to amend the regulations to provide that all travelers, including U.S. citizens ..."
-    publishedDateTime: 2019-12-03T18:30:00Z
-    sourceUrl: https://reason.com/2019/12/03/all-u-s-travelers-abroad-should-submit-to-facial-recognition-scans-says-homeland-security/
-    ampUrl: https://reason.com/2019/12/03/all-u-s-travelers-abroad-should-submit-to-facial-recognition-scans-says-homeland-security/?amp
-    cdnAmpUrl: https://reason-com.cdn.ampproject.org/c/s/reason.com/2019/12/03/all-u-s-travelers-abroad-should-submit-to-facial-recognition-scans-says-homeland-security/?amp
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.A48AB6D0E271CB3CCC43EF5DAEFDFE64
-        width: 700
-        height: 367
   - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
     excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
     publishedDateTime: 2019-12-11T20:44:00Z

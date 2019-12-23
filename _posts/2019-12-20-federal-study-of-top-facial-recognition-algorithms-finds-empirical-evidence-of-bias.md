@@ -2,32 +2,20 @@
 category: news
 title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T14:27:00Z
-sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+publishedDateTime: 2019-12-20T20:57:00Z
+sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
 type: article
-quality: 82
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
-    width: 1400
-    height: 933
-    title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1804,6 +1792,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "w4HC470xjpLf7SFuvWW3Ps7NbD4+AGVk1FzR7vu3WsVrvnQO1relRF4cPRFuePQiyX2sSgTJbq3z0SIuRl7CWBot5gIpM0jnasJDQ/W7usibJ+MpIzIV6nb7pPzC2MXXwhOZyg9BKBOxQi4KwCOpMHGGY8Zlhu8guO3h1fVHVw3OFTNilJ0rN9eAfeee3Ut2o5sw3zrgdxcHUFtTdpSIa7JztWu7tkSPqd7bs15IIY08QitDzlU3q3oxxF/2CNrbaSLYBYQo2maP7v5Vwr2lIg==;kenUtGOt/4iR/yABznayZw=="
+secured: "SSGCVlhVEMo0G49RV5Bwx9VushfbI8W+ZMSXfS+fHzXP0Wts9KadnR27vCucKGBgFLkgwwQGpdg7uJU3V46O9WTNUEbJgbsbRwULGVGgIaa17Gpn7s6Y0J6ybHvhZi/56cbFHeSrLVeuAf7J983Up5bGoJ7DylpwaDDre7Gx5/hhwLgrblVKb1D9Fp88nbZ208zVYAMlrYR0URG/CtLcHl5GXD6KTB80CiqZmcqs0NMIvQpxSwyxDM15uzd/qbGaWW0X0ma6vDWSptKhr0Yi5A==;VAfxtH49Nu2NnJE+0eE7sA=="
 ---
 

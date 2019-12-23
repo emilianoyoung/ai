@@ -37,6 +37,19 @@ related:
       - url: https://www.eejournal.com/wp-content/uploads/2019/10/CoolBeans.png
         width: 500
         height: 362
+  - title: "Cover Story: The Enormous Potential of Fintech"
+    excerpt: "And a greater emphasis would need to be placed on science, technology, engineering and mathematics (STEM) education. On-the-ground AI research to bridge knowledge gap & incorporate African factors Artificial intelligence (AI) is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent ..."
+    publishedDateTime: 2019-12-04T16:48:00Z
+    sourceUrl: https://africanbusinessmagazine.com/scTr8
+    type: article
+    provider:
+      name: African Business
+      domain: africanbusinessmagazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.F77D542500267096B5E2EE571366B720
+        width: 700
+        height: 419
 
 secured: "oPUKbEZhGGZFeXARMX+Ui7LsTI4RKTd8pXniTuokQITtvDptRt7Pie5WHSzsjyv+IPFyayZmmoznVkvvZykJsZcBwiILcZzGL7zw6ObYXkieX9m/wOxvl+oVfedF6Gjoj2ewuykIjGr/nhaE2aB1wBwLR5dqCbHmGp8FTlhgdFdCPpPhevMXbGMqh3X7ybdDrWQUlN8R6ok7TUJ/WWoe+le3qrttnlw8xMczUo0GejVnKfLy91e7LDWqnkUdyVs3pN7a9G5RbQiI45+E/gAgug==;ck8rbB1Agskmu2btqOU4kg=="
 ---

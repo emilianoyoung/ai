@@ -22,6 +22,6 @@ images:
     height: 365
     title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
 
-secured: "6LPGDbpQkkKmjGvPh7QjUuOTfxUjHvJRFmWFEHvogZmc+zpTvZPjWMmXEQozoaPPLT9spqNFj/tp7KtkYrgXNpwnjACgXJ2IHuyydPne9rc97vAe5x5hE8GxMtHK6YJDmKu/c5ftsB93EsPDMWpcFUuJvdfMX5PKrbXMTeTYtsdaBS5Y+xPMj398T9ULz/Q3yXPvDTase0/BNnftxGR0zPBwV8hwcVh/hi9bgsTgWojoDuM5EGkLDUR7GF/VJBJ4s4VnS8WUyUkXsxCS8HEiUA==;PsnaOs38AvN5WEyIrOTPiA=="
+secured: "feTJhW0tWmsQdQh6cYy4w5jcf1cOTABebMD02ehKWH6pCQAjQl8Tk2/FbLk5Y+YT4m0uE/in2ZTWigI2ky81SeyqykIpn0Y+9DttQa+BSaDEbKX71sPmjsg/rqegBxCUnLFyJsgYy6I2qPCV0tq/nLA5XCW68Xmr8SooZyVOtOcw1EeAS45r6WBdrPCkE/dmPnZvMn+Ix2mKs/3VS++aAcvS7EPBpjWOCdl0IexIkuCJ/YryMTm8zhkEoQYTxMTHjhfoVMmCR7VDOHqV+kftNQ==;ztGOI4+jD5pbDZMLnFm9cQ=="
 ---
 

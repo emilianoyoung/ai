@@ -86,17 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.63C6B790F8AFE5B5DD6DF6A8AB19662A
         width: 700
         height: 525
-  - title: "Qualcomm's next-gen Snapdragon 865 mobile chip focuses on 5G"
-    excerpt: "Qualcomm uncorked this year’s version of its Snapdragon Technology Summit by announcing the names of its two new upcoming Snapdragon chips, the Snapdragon 865 and the Snapdragon 765/765G. Not surprisingly, the emphasis this year is on 5G, and the “AI” which those chips will apply for software enhancements. Because this is the Snapdragon ..."
-    publishedDateTime: 2019-12-03T19:00:00Z
-    sourceUrl: https://www.pcworld.com/article/3481783/qualcomms-next-gen-snapdragon-865-mobile-chip-focuses-on-5g.html
-    ampUrl: https://www.pcworld.com/article/3481783/qualcomms-next-gen-snapdragon-865-mobile-chip-focuses-on-5g.amp.html
-    cdnAmpUrl: https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3481783/qualcomms-next-gen-snapdragon-865-mobile-chip-focuses-on-5g.amp.html
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
   - title: "Snapdragon 865 detailed: AI, camera and gaming in focus this year"
     excerpt: "The chipset does not come with an integrated 5G modem as many predicted. While the CPU and GPU saw expected incremental upgrades, the real innovations this time were in the ISP and AI Engine. After teasing some of the features on Tuesday, Qualcomm dropped more details about the Snapdragon 865 and Snapdragon 765 SoCs on Day 2 of the company’s ..."
     publishedDateTime: 2019-12-04T23:44:00Z

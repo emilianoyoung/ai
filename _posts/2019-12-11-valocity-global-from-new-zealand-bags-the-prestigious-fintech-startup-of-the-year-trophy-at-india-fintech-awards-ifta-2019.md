@@ -212,15 +212,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "What will Fintech scene look like in 2020 according to the industry experts"
-    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
-    publishedDateTime: 2019-12-23T13:15:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
 
 secured: "Diu0hG3/9h5n7CB7KKHKDAEMJHmUsfCG13Jro3MYnJBO7ldYM7xphygCG2BQpYuZW19b69XI62BzZ/DXql2Nh06GwSoBsCmAuGZfxrw+vaABBh5t46O4as5xEgRuDV2Mas+tlj2XTc0T3LQua/oW3ayfMEiac+52fJT8jcfQaxmghkxqY/g8Bj2VVoM6D4gKd6ygpu35NzukZFZcrjKejpBfAd2wKqSuoI5lcEjyVcLamWeaH7/FCPY9oq8cxrvVNGtTq9mq7rvNUGMC5hY8ww==;1m/1grOpOtZhAzNg8LaUow=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photo
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Facebook Removes Accounts With AI-Generated Profile Photos"
 
 related:
+  - title: "Hands-on: Adobe Photoshop Camera uses AI to redefine mobile photo editing"
+    excerpt: "Currently in beta, the free app uses AI to identify what the smartphone camera is seeing in real time, then applies Photoshop effects on the fly, without the need to open a separate app or wait for post-processing. Adobe said at Max that Photoshop Camera uses its Sensei AI platform, though it’s worth noting that the AI recognition features ..."
+    publishedDateTime: 2019-12-23T19:25:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/hands-on-adobe-photoshop-camera-uses-ai-to-redefine-mobile-photo-editing/
+    ampUrl: https://venturebeat.com/2019/12/23/hands-on-adobe-photoshop-camera-uses-ai-to-redefine-mobile-photo-editing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/hands-on-adobe-photoshop-camera-uses-ai-to-redefine-mobile-photo-editing/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.489ABF651F99438A3BA888FAA4F1B54E
+        width: 700
+        height: 350
   - title: "Facebook removes accounts with AI-generated profile photos"
     excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
     publishedDateTime: 2019-12-23T14:30:00Z

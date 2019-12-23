@@ -8,8 +8,8 @@ ampUrl: https://www.entrepreneur.com/amphtml/343384
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343384
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,30 +29,34 @@ images:
     title: "Kuwait's Aybiz Uses Crowdsourcing And AI Curation Techniques To Give You The Best Recommendations In MENA"
 
 related:
-  - title: "Accelerate Your Machine Learning and Artificial Intelligence Journey Using These DevOps Best Practices"
-    excerpt: "deployment and production due to lack of process and tooling know-how Special report: Blockchain in business: Where are we now, and predictions for the next decade Microsoft Ignite 2019: Azure Arc, HoloLens 2, Edge, Quantum and Teams Year-round IT budget template Digital Transformation ebook: Guide to becoming a digital transformation champion"
-    publishedDateTime: 2019-12-03T19:00:00Z
-    sourceUrl: https://www.techrepublic.com/resource-library/casestudies/accelerate-your-machine-learning-and-artificial-intelligence-journey-using-these-devops-best-practices/
-    ampUrl: https://www.techrepublic.com/google-amp/resource-library/casestudies/accelerate-your-machine-learning-and-artificial-intelligence-journey-using-these-devops-best-practices/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/accelerate-your-machine-learning-and-artificial-intelligence-journey-using-these-devops-best-practices/
+  - title: "Blockchain And AI Subsidiary Of China's Largest Insurer Raises US IPO Expectations To $504M"
+    excerpt: "In an updated filing with the U.S. Securities and Exchange Commission, OneConnect Financial Technology Limited, a blockchain and AI subsidiary of Chinese insurer Ping An Insurance (Group) Co of China Ltd’s (OTC: PNGAY) increased the amount it hopes to raise as part of its initial public offering. The fintech company, which has the second ..."
+    publishedDateTime: 2019-12-05T10:04:00Z
+    sourceUrl: https://www.benzinga.com/markets/cryptocurrency/19/12/14935831/blockchain-and-ai-subsidiary-of-chinas-largest-insurer-raises-us-ipo-expectations-to-504m
+    ampUrl: https://amp.benzinga.com/amp/content/14935831
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14935831
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 70
-  - title: "Raising the standard with Artificial Intelligence (AI) and Deep Learning"
-    excerpt: "There are no limits to the applications the camera can be used for, and the solution platform is particularly suitable for sectors such as building engineering, energy, civil engineering, industry and production, public services, retail, healthcare, and education. Focus on smart video technologies with Artificial Intelligence and Deep Learning ..."
-    publishedDateTime: 2019-12-05T17:03:00Z
-    sourceUrl: https://securitynewsdesk.com/raising-the-standard-with-artificial-intelligence-ai-and-deep-learning/
-    type: article
-    provider:
-      name: securitynewsdesk.com
-      domain: securitynewsdesk.com
-    quality: 53
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
     images:
-      - url: https://www.bing.com/th?id=ON.0BF13792F0EE2F77B8D79510CDB177F3
-        width: 700
-        height: 382
+      - url: https://www.bing.com/th?id=ON.28397D5EB2BBE227BAAD477BF9D7FE81
+        width: 400
+        height: 300
+  - title: "WebAssembly 1.0 Becomes a W3C Recommendation and the Fourth Language to Run Natively in Browsers"
+    excerpt: "He explains why he is making a bit bet on these programming models in the Azure Functions service. Chris Riccomini talks about the current ... that can be achieved by simply using Open Web Platform technologies. In a world where machine learning and Artificial Intelligence become more and more common, it is important to enable high performance ..."
+    publishedDateTime: 2019-12-06T10:52:00Z
+    sourceUrl: https://www.infoq.com/news/2019/12/webassembly-w3c-recommendation/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.C949DBDA3E5F45E0322A48C48A7A7E13
+        width: 200
+        height: 200
 
 secured: "xl3LpBaFqMbybVys9UEIHuOJd9B7X6vjdhywCZryRrkt/hlrD5NpR+zjsYffGR7muFCgiMosjI9kRt/GuM/Uc2AptlSiQNh6WLxaDvIzZe6POeEwgrQILhFsac5odZZjdRbexXbdlZglB7r5NjSGhRHHDVOdAlPkqdnJwf4KDmjMCwvtdABvNpCsNuF6UGE3KJjbqsdc1t9GVIMvXMsiMSo0QcNXlP2/xaDtFMf/gFR+oOl7h3xBQ0SMiwmLmbLNudhYTYHZ5/1fM6IyFj6LoQ==;STf7LSBMvgs62ZIcRAENQw=="
 ---

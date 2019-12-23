@@ -245,21 +245,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AFE0719154568A160BC596697E0B140B
         width: 700
         height: 466
-  - title: "All U.S. Travelers Abroad Should Submit to Facial Recognition Scans, Says Homeland Security"
-    excerpt: "To facilitate the implementation of a seamless biometric entry-exit system that uses facial recognition and to help prevent persons attempting to fraudulently use U.S. travel documents and identify criminals and known or suspected terrorists, DHS is proposing to amend the regulations to provide that all travelers, including U.S. citizens ..."
-    publishedDateTime: 2019-12-03T18:30:00Z
-    sourceUrl: https://reason.com/2019/12/03/all-u-s-travelers-abroad-should-submit-to-facial-recognition-scans-says-homeland-security/
-    ampUrl: https://reason.com/2019/12/03/all-u-s-travelers-abroad-should-submit-to-facial-recognition-scans-says-homeland-security/?amp
-    cdnAmpUrl: https://reason-com.cdn.ampproject.org/c/s/reason.com/2019/12/03/all-u-s-travelers-abroad-should-submit-to-facial-recognition-scans-says-homeland-security/?amp
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.A48AB6D0E271CB3CCC43EF5DAEFDFE64
-        width: 700
-        height: 367
   - title: "Homeland Security Looking to Use Facial Recognition on U.S. Citizens"
     excerpt: "The Department of Homeland Security is now looking to use facial recognition technology on U.S. citizens, a practice that was previously only used for non-citizens traveling into the country. According to CNN Business, DHS recently filed a proposed regulation change that would allow them to use the technology on all people coming in and leaving ..."
     publishedDateTime: 2019-12-04T00:18:00Z

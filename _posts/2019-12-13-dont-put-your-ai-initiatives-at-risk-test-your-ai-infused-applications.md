@@ -88,19 +88,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 23
-  - title: "EMERITUS Partners with UC Berkeley Executive Education to Offer New Online Artificial Intelligence Course in Business Strategies and Applications"
-    excerpt: "BOSTON, Dec. 3, 2019 /PRNewswire/ -- Berkeley Executive Education is collaborating with online education provider EMERITUS to offer Artificial Intelligence: Business Strategies and Applications, which launches December 5, 2019. This online certificate is for professionals eager to upskill and boost their careers with recent advancements in ..."
-    publishedDateTime: 2019-12-03T18:06:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/emeritus-partners-with-uc-berkeley-executive-education-to-offer-new-online-artificial-intelligence-course-in-business-strategies-and-applications-300968521.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.0616B4DA4A2DF992D29AAE4DBAAAA87C
-        width: 700
-        height: 367
 
 secured: "I+rsbl47cqDz89dv1IAsLbBheAbzt0SgM/6tz/yCgmqe6wrnqdLQIsq5M2bGFKmiLdy+0ZmfiTbKKxsM36VoiCfLICte3ammGZqXUTLn9umddeYNlyEyv8ebneqAWifEoIDBbbtQZrHif8w0NqpzwTjKHPFlwEU3h3yFyvPD22rvZYvoKLSCG4xoabPXITz4agv45z3ihq7L2DGADVLFYO0LHAf8Jpp0j+WDqGXNuVgjaYgfXbkz+VkbkNAypnvxc42RsfPB6+f0qIhKupL5AQ==;+pUTZC4o5ZlkS10ZXIozNA=="
 ---

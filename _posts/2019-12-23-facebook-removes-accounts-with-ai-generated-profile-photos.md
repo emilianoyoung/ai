@@ -42,6 +42,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
         width: 400
         height: 430
+  - title: "Hands-on: Adobe Photoshop Camera uses AI to redefine mobile photo editing"
+    excerpt: "Currently in beta, the free app uses AI to identify what the smartphone camera is seeing in real time, then applies Photoshop effects on the fly, without the need to open a separate app or wait for post-processing. Adobe said at Max that Photoshop Camera uses its Sensei AI platform, though it’s worth noting that the AI recognition features ..."
+    publishedDateTime: 2019-12-23T19:25:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/hands-on-adobe-photoshop-camera-uses-ai-to-redefine-mobile-photo-editing/
+    ampUrl: https://venturebeat.com/2019/12/23/hands-on-adobe-photoshop-camera-uses-ai-to-redefine-mobile-photo-editing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/hands-on-adobe-photoshop-camera-uses-ai-to-redefine-mobile-photo-editing/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.489ABF651F99438A3BA888FAA4F1B54E
+        width: 700
+        height: 350
   - title: "Innodisk Improves Computer Vision with New AI Accelerator Card"
     excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card essentially functions like the video card on a standard PC, which handles some of the graphical ..."
     publishedDateTime: 2019-12-20T21:05:00Z

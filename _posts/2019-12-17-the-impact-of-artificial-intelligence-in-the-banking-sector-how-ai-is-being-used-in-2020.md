@@ -202,15 +202,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "What will Fintech scene look like in 2020 according to the industry experts"
-    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
-    publishedDateTime: 2019-12-23T13:15:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
   - title: "Valocity Global from New Zealand bags the prestigious Fintech Startup of the Year trophy at India FinTech Awards (IFTA) 2019"
     excerpt: "Two fintech reports were launched by The Digital Fifth on Middle East and Indian markets. Sougata Basu, Founder, CashRich said that, “We were glad to be a part of IFTA 2019. The event was really engaging with discussions on payment, lending, wealth management, Open Banking, AI and Blockchain. It was a great experience to connect with fintech ..."
     publishedDateTime: 2019-12-11T06:08:00Z

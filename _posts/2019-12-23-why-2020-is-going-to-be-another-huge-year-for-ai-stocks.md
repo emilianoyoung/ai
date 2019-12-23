@@ -26,21 +26,45 @@ images:
     title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
 
 related:
-  - title: "Apple’s Stock On The Run, Is It Time To Sell? Ask The AI engine"
-    excerpt: "What about the possibility of a 10% drop in Apple’s stock after such a run? You can test the answer and many other combinations on the Trefis AI Engine for Apple Stock: Chances for Rebound after a Fall, or, the chance of a Dip after a Rise. Case 1: Apple stock drops by 5% or more in a week Case 2: Apple stock rises by 5% or more in a week Is ..."
-    publishedDateTime: 2019-12-23T15:05:00Z
-    sourceUrl: https://www.forbes.com/sites/greatspeculations/2019/12/23/apples-stock-on-the-run-is-it-time-to-sell-ask-the-ai-engine/
-    ampUrl: https://www.forbes.com/sites/greatspeculations/2019/12/23/apples-stock-on-the-run-is-it-time-to-sell-ask-the-ai-engine/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2019/12/23/apples-stock-on-the-run-is-it-time-to-sell-ask-the-ai-engine/amp/
+  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
+    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
+    publishedDateTime: 2019-12-23T12:00:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C2B1ED4E7D75A3EA828AE797FF7B019C
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
+        width: 700
+        height: 466
+  - title: "BYU professor constructs mini town to test self-driving car tech"
+    excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
+    publishedDateTime: 2019-12-23T15:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
+    ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    type: article
+    provider:
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
+        width: 700
+        height: 380
+  - title: "What will Fintech scene look like in 2020 according to the industry experts"
+    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
+    publishedDateTime: 2019-12-23T13:15:00Z
+    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 2
 
 secured: "Vj+j+i0spvuQ81lj7d84s1tw+yvjFWdDHkmenLHgyK7qglgxPvZZ6Vm1oGZgVN5Iq0XFucHY0Sfb0S0aXkmw2QKzyqnr1JHEFfzwrxM27cc+10YptsiPa+MjLuzirxxGjm4IrJzuaxFVdwGZE4thB/M97rWo9kJk8Sn4ioNOANNQRPDb2wegiAR5ZKzjbRRZBlgSIX6GO8Jm/0NmIqnV6DdEIKRtQ3geVTL480MwLmYUmP2M5Vu/t5Ys+eSF1u2FIdPV1OSAXzjz7ThkgVXeTw==;nS1+wQ5hr9hrnLY4D/hosw=="
 ---

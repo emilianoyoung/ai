@@ -39,19 +39,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
-    publishedDateTime: 2019-12-18T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
     excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
     publishedDateTime: 2019-12-11T10:13:00Z

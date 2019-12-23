@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
 quality: 72
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
-    publishedDateTime: 2019-12-18T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
     excerpt: "It’s one of two main languages used for computer science for his project that involved Speech Recognition, Natural Language Processing, and building an application with a Neural Machine translation backend that converts speech and text from English to Spanish. Bickham noted that students have numerous opportunities to utilize faculty and the ..."
     publishedDateTime: 2019-12-15T00:00:00Z

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "IQ test for artificial intelligence systems"
-excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how ... \"We are focused on testing and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he said."
-publishedDateTime: 2019-12-13T14:43:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
+excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI ... and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he ..."
+publishedDateTime: 2019-12-13T14:44:00Z
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
 type: article
 quality: 39
 heat: -1
@@ -38,6 +38,6 @@ related:
         width: 700
         height: 466
 
-secured: "LgcAdYNa6wj9O3cCr3IMahP5Z0O6bOkAs+cOPe0auEhCI9pb+n38CYtJnV2RVeknuk2Xnd2/2odXU0MeL/JxwTzhUqtkS51zu7EugpVdtOjteJkaImpJpIVhrjxn6To3eZ93+z7wgbF4s3RyY0QGHYNfg2wnNmWpbp/DbkFrZWFEcoTitzKmQiFDA/qoCfcSfXtdDWSet3Smssx6RkGHkQjMIpL2bP2r3FfdNwPT1tKyq0/l35SruJDHGWrEqBJx1ZVusXfHE29pZR9R0SU1XA==;5XWBvF/yZgUCM9aWweZIqg=="
+secured: "J90FFai4J0PP62mYMuXnqO/xBqtGZaPa34C+Pno29Gbqc+wStXMXRXM6GCkGaVhJx0B07lIV5tmaftOmhqPEzJoSeNOa0byo/PbOoLohJRddinAReANCSrAdnJ+vt1Q5dDo/iSkfxxsCaVBUMZqx/LZKcre2xIfzG6cBnUhxA5UGVdgzWgVfAC9qrNxmFybaT/MWMpf+HsBf5E7Ao0Mw+VR15BYtIWMUMZbZIBjK0lr66eaNC715Rg3NcaTK/NDTOuXH/leXv/okSzjPmeaT2w==;60P9dwN8Hhkaxo95sKOIIA=="
 ---
 
