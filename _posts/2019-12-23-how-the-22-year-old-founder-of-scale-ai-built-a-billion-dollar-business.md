@@ -28,6 +28,6 @@ images:
     height: 315
     title: "How The 22-Year-Old Founder Of Scale AI Built A Billion-Dollar Business"
 
-secured: "ftTuvrRwBXViV5i/P6ZY2oY3NtFEWP4AoiA2TdyjEEl1QdRk9Yd4vibNBon4jR7i7fet5g+Or2xGOozkL0exQ9oo70xFL8Jth8R1q0e23s7TRDGmu43EtWmNoJGkyA6+6xq96tyWtFVyLMzs1s81MRbyUTH6M0ZFUE0hAC/w8gWvRlY5R+/qGordEBWoLZLm7Sb9bSo+q6BrZsiHd4gYv2M2cBXDh3RTc7Enp7jXhpjYRLKh8phOZiXwpApWbxVBPOhn4ZvbvmkrcE+cZLEyVg==;NeEyYZYI6GKDbNh3VMB73w=="
+secured: "hZlJ2e477tiIfqBFasmAsy2T2g3MaYWI3KVNYm/Om0jJFopcZRxccIuQ4LKzvsCmGL4jBq0fkkS/Ib7Y/uDWpF7kHzlbOwoiYBqSXXWc7BMdJ9iRwWl8vyaLY02l5QsXz7DrzvwBFDCaFR4yhbMMpG6aE5mpVy15DFNfn7tqZTuDZrevxePSWGT6FfHL3nxdu/j1X+SUkjQCwz5wz9pUzBdMfivSDR16ziejWSoZdfjfAGAGkXhVJPMIfplOMRFlCOTwtAC1PPV4uKR9rnRtFg==;LUHTMjCGjpjdIOsP8V6A/g=="
 ---
 

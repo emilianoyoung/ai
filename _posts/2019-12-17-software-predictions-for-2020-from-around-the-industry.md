@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
         width: 600
         height: 315
+  - title: "Artificial intelligence predictions for 2020"
+    excerpt: "Artificial intelligence (AI) has become integral to practically every segment of the technology industry. It’s having an impact on applications, development tools, computing platforms, database management systems, middleware, management and monitoring tools—almost everything in IT. AI is even being used to improve AI. What changes in core ..."
+    publishedDateTime: 2019-12-23T11:01:00Z
+    sourceUrl: https://www.infoworld.com/article/3509465/artificial-intelligence-predictions-for-2020.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.04FCF9A19F1AEB542FA11CC50E34B3C6
+        width: 116
+        height: 116
   - title: "IBM Research AI Predictions for 2020"
     excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
     publishedDateTime: 2019-12-17T17:08:00Z

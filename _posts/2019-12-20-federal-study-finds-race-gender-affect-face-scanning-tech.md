@@ -106,6 +106,19 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 36
+  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
+    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
+    publishedDateTime: 2019-12-23T11:43:00Z
+    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
+        width: 700
+        height: 466
 
 secured: "9jeXiii5z5M4/gLdFgFXQ/HOnjl2nYCdU1CtCUrW5P5T1Iu6jx+6lCoR4n5nGPjk/SqKCiDljCbQsYfVm2Kro8J/dXO9B6k1EwUiw2RUZyyDaS6jfxpYunrC7AnTu756ViA81sTojHWkrOKpIJr2PpYOlUKJel6m5a67/XlIEO0Wc8+9DBCugciZUlHxyte33Vb7HAZaqjbGsjSg4Vcb+aeSyKhbW5+aAF/A+b1GxjqeFfBvzaMPBnlTPnnZ+QTg7nlwLBU4uiezMkhiZlHhyw==;PFDMh3+GbVZKPHI0Xv0i1Q=="
 ---

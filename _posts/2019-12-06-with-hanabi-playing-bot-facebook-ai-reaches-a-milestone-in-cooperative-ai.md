@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BA3FC279D4AC07289DADE8053BD88C4A
         width: 700
         height: 350
-  - title: "AI capsule system classifies digits with state-of-the-art accuracy"
-    excerpt: "In pursuit of a more humanlike approach, researchers at Google, Alphabet subsidiary DeepMind, and the University of Oxford propose what they call the Stacked Capsule Autoencoder (SCAE), which reasons about objects using the geometric relationships between their parts. Since these relationships don’t depend on the position from which the model ..."
-    publishedDateTime: 2019-12-03T18:40:00Z
-    sourceUrl: https://venturebeat.com/2019/12/03/ai-capsule-system-classifies-digits-with-state-of-the-art-accuracy/
-    ampUrl: https://venturebeat.com/2019/12/03/ai-capsule-system-classifies-digits-with-state-of-the-art-accuracy/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/ai-capsule-system-classifies-digits-with-state-of-the-art-accuracy/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.5681803B8267C7C76C74E11D2332A911
-        width: 700
-        height: 350
   - title: "Facebook's new card-playing bot shows AI can work with others"
     excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research engineer at Facebook AI Research. \"It's about figuring out how to build these capabilities into ..."
     publishedDateTime: 2019-12-06T17:11:00Z

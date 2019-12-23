@@ -79,19 +79,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B84BF006EEDFFEC951A4D8F86C919641
         width: 700
         height: 523
-  - title: "AWS creates an AI keyboard to teach coders how machines think"
-    excerpt: "TAX DODGING TECH GIANT Amazon has created a new tool to teach coders to make the most of AI. The AWS DeepComposer is a 32-key USB keyboard that plugs into your computer and gives you two octaves (you've got to allow for sharps and flats, you see) and either uses it as a regular MIDI keyboard, or engages the artificial intelligence to create ..."
-    publishedDateTime: 2019-12-03T10:11:00Z
-    sourceUrl: https://www.theinquirer.net/inquirer/news/3084424/aws-deepcomposer-keyboard-official
-    type: article
-    provider:
-      name: The Inquirer
-      domain: theinquirer.net
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6070E8B774A55BDD793ED190208C1B75
-        width: 580
-        height: 358
 
 secured: "eYNPSgQuWrjc42TkZoCdLwO58q9oh92fMuA+km1XFDIBnBUj6ka/I/PMleF0p1Bn0SieLb0+vSrgTRP1NMEEPDqlCX01xcP1AUloc2gcHwDQGSuHTdfJdAaS9VbAI9oF48mcs51XMd/LLxGJrYYxZqACQS1zrxR3w2IHkL/qIcT+LggEfi81jn4dd/H0Q6XmCJvV1CHjXZPaqnwX0B0gVVAyQXgQEptjNfOseDLXsw/8nXHmR4UlQHMxtJnLlzv4aSZd9AXzCxvoYzoVIahIJQ==;BERy8gSbKNlsG98aP1LBhQ=="
 ---

@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.81C68FE83F2CF81A50BFA71FD6C90506
         width: 400
         height: 400
-  - title: "Galaxy S11 face recognition speculation would be a miracle if true"
-    excerpt: "One of those may relate to Samsung’s choice for the Galaxy S11’s primary or only biometrics security feature. And no, it’s almost next to impossible that it would use face recognition. It’s not that face recognition isn’t that secure. Apple proved that with the right mix of hardware and software, it could be both as secure and as ..."
-    publishedDateTime: 2019-12-03T10:33:00Z
-    sourceUrl: https://www.slashgear.com/galaxy-s11-face-recognition-speculation-would-be-a-miracle-if-true-03602008/
-    ampUrl: https://www.slashgear.com/galaxy-s11-face-recognition-speculation-would-be-a-miracle-if-true-03602008/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s11-face-recognition-speculation-would-be-a-miracle-if-true-03602008/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.4929284E69CB43D8F42CEB2694C6DB3D
-        width: 700
-        height: 437
   - title: "Proposal to require facial recognition for US citizens at airports dropped"
     excerpt: "US Customs and Border Protection said Thursday it will drop its plans to require that US citizens go through a biometric face scan when entering or exiting the country. Currently, citizens have the right to opt out of the scans, but a proposed rule indicated the agency was planning to make the program mandatory for all travelers. The proposed ..."
     publishedDateTime: 2019-12-05T23:42:00Z

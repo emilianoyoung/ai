@@ -1,17 +1,17 @@
 ---
 category: news
 title: "AWS blames Trump for its loss in the JEDI bid"
-excerpt: "AWS concluded its introduction by saying that it was “impossible to shield ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
-publishedDateTime: 2019-12-09T19:28:00Z
-sourceUrl: https://www.defensenews.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
+excerpt: "AWS alleges that President Trump influenced in the JEDI cloud contract proceedings ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
+publishedDateTime: 2019-12-09T19:12:00Z
+sourceUrl: https://www.federaltimes.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Federal Times
+  domain: federaltimes.com
 
 topics:
   - AI
@@ -23,23 +23,6 @@ images:
     height: 367
     title: "AWS blames Trump for its loss in the JEDI bid"
 
-related:
-  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
-    publishedDateTime: 2019-12-09T17:57:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
-    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
-        width: 700
-        height: 350
-
-secured: "N4NhHDFq8qKyzZvUEcCv9zLB4QhS/7vMAXBN4XSMMsFgXRaUAYf9lbleNSdaWG1egGLZoaKkkrfHK5lP3/fFRrgc+96kyOpmIH3Lw6fS6dZmDwsMJVLdVm0ZdvFnmLG/SlPB+P6t4kDvCJIGSq9OZSXFqIihjEkcCu1le1Dqc6Koa+iJX4+uasYzomtBlwplttZqjxeBcsuxy/llCdy2Q6I8DkpRmvMdthHNZV+JzPB8E4hPHO2ktg2NLyuKS1SoHIKbNY/KWxhydUJdjixdPQ==;8T7TO/OruRQURcwTGv25FQ=="
+secured: "AkNX19GI92N1tdvHpzQS0F73GylP69UiMH3xWI73TDKtMeN0bKNcSq3ZoHYN4BXrajYWySLh48cCe8PQsjo1beH3sPq6ohoeQnP72JDZvyzWd3mT4PnYeNf/y+QAWOoqWLfGLtX2N+6hhDo5FufUy4YJER9Ylv0T02BrjCgwoZvFE6NWtp/X1udn6eW5r/s+l4/WlznETjzsWcLiLgmsGIFF/9sCQzKZiF6kwD2xnLfWIEJQD5VNgmKF7VVEibEFBVanIo6SjR5tB9+Ziq3jxg==;f2nrL/uEHG1iBYwERwFcDw=="
 ---
 

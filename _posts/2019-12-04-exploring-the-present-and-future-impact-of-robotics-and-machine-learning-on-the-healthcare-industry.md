@@ -68,19 +68,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
         width: 700
         height: 393
-  - title: "AWS creates an AI keyboard to teach coders how machines think"
-    excerpt: "TAX DODGING TECH GIANT Amazon has created a new tool to teach coders to make the most of AI. The AWS DeepComposer is a 32-key USB keyboard that plugs into your computer and gives you two octaves (you've got to allow for sharps and flats, you see) and either uses it as a regular MIDI keyboard, or engages the artificial intelligence to create ..."
-    publishedDateTime: 2019-12-03T10:11:00Z
-    sourceUrl: https://www.theinquirer.net/inquirer/news/3084424/aws-deepcomposer-keyboard-official
-    type: article
-    provider:
-      name: The Inquirer
-      domain: theinquirer.net
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6070E8B774A55BDD793ED190208C1B75
-        width: 580
-        height: 358
   - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
     excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
     publishedDateTime: 2019-12-10T21:24:00Z

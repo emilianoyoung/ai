@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T20:13:29Z
 sourceUrl: https://www.ibm.com/blogs/watson/2019/12/ibm-watson-enables-your-business-to-get-started-with-text-analytics/
 type: article
 quality: 117
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 990
     height: 498
     title: "IBM Watson enables your business to get started with text-analytics"
+
+related:
+  - title: "BUSINESS INTELLIGENCE AND ANALYTICS"
+    excerpt: "\"Business Intelligence and Analytics Market\" research currently out there at Stratagem ... Manufacturing and Construction, Services, and Healthcare, and ICT. Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Cloud Backup Market Future ..."
+    publishedDateTime: 2019-12-23T11:38:00Z
+    sourceUrl: https://www.openpr.com/news/1883677/business-intelligence-and-analytics-market-is-set-to-experience
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "uPbTrqFrfx5KR4gBFQGgoay1F1KI5SIEyuP8Q1TVdzG4N0QMUG2HIsTKlavE2zbk3vkGnsLcepTtp2sbHu5mxrmVs5zaFbkTDYI8W383wkpPWXLqm4NLNh4RGzVQXo1+YEV4RTB5esS42XomEGjNN4Ov4z6gX7rKa56OsVW6BdZbithcsQ+tQ+TFyJvoyoMUd0W9hCqCYk4AzvOVLFT0NJTWFGrZ4lAxSBd+s5fjuB36J/c9bvHPy16iLTxPY9hIErsG7ZDwK9Sbb3Rr1oAthQ==;jEpHHtCd0sm7OHqoX1Emrw=="
 ---

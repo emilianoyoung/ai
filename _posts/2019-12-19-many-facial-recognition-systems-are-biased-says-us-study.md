@@ -97,6 +97,19 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 36
+  - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
+    excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
+    publishedDateTime: 2019-12-23T11:43:00Z
+    sourceUrl: https://www.ibtimes.com/apple-iphone-exemption-san-francisco-facial-recognition-law-creates-hassle-2890788
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
+        width: 700
+        height: 466
   - title: "Federal study finds race, gender affect face-scanning tech"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
     publishedDateTime: 2019-12-20T13:32:00Z
