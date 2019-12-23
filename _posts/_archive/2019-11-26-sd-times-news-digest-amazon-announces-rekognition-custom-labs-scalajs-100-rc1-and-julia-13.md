@@ -28,6 +28,21 @@ images:
     title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
 
 related:
+  - title: "Amazon now lets customers label and track specific objects with Rekognition"
+    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
+    publishedDateTime: 2019-11-25T17:06:00Z
+    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
+    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T18:59:00Z
@@ -67,20 +82,7 @@ related:
       name: pymnts
       domain: pymnts.com
     quality: 39
-  - title: "For now, Lockport wants facial recognition security system just for guns"
-    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
-    publishedDateTime: 2019-11-24T10:01:00Z
-    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 38
-    images:
-      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
-        width: 2000
-        height: 1500
 
-secured: "5Y/jXo1pxxnUxAAXjYFEYWQ1pAILRdLoLg7viSM//nsZT6pnH7kXgBucQ+u/mQf0oEeCL9EdzrINlWchSxpON8e2yOddotStWU8O7+rncYVKwJXUxGINUhssG2Zmtputyws9LBQQjpf7bLC1WibEgRCCcC/tHcAZjKhvF1PVtzGGJDeGIWSuLSCsxazGEAAiLy0oOfMZNjq1BIUIY5WMethqAvw4ZPkWI8wHBic0iMSWAmYA413YpIBAxfO5hUR1VLbkCo2WF4g7yOlM8rs7Yw==;oWuYi6yj/QEgkm5Mk+jJ5Q=="
+secured: "ltmQuOGi8415+24b+xJ8m1U7qazh9T6mBXXWBdNrNGfGaLSMXTYbD9pNg77lSZ6if9q5q1A1LsfUJ1H4TXrIE4aP58IBGpkS6kvzuUzMPEDvWClsw3ufFxT8Ayb2Umy83EG7mboDF2OR1iVODiJ5vNdtjjHdXa5d5QcXCkZpOdkGaL2hrr8L22JHWKvt4qs78LSczALB7QyGtCD8rPqVDugGwy0BmZvJypQ7T4acgRuvVyuDYP1mA/AiTpoPYey6qrRQ4hsMhhTXImZp1+cH9g==;NdD4B0QD3xrB9CHrWNe1ew=="
 ---
 

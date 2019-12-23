@@ -8,8 +8,8 @@ ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-
 cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: telecom.economictimes.indiatimes.com
@@ -25,6 +25,19 @@ images:
     height: 434
     title: "AWS extends Alexa voice controls to low-powered devices"
 
-secured: "MWUhwC11v1yLhYv1Yy9TouXx84VQS4h7Cc4K0Tg5q2sU14otHfzkfAReSZsJJ9hduoaW42F0mAhlTvvrTN5/bTd9V2DsSpEOO5esolBn09qhw1JULqoE1qH0giG9pUqbNMyVkfrckQJYzXaBwEfhl0+MnMH3QACTTWKpdA6Ircvcz8S+AldcW1FOJ7p2XgFbuVsiXJk0lENRRcWIl1Nmqpiq6h1zWgIxIz4naSJtmZaCyTjvUvAiZ2lwk9MNqg/HJxfrkXt425VJepy22a3Iew==;pt6q9P64rW3ijhP9a2GFcA=="
+related:
+  - title: "AWS to roll out Alexa voice controls for low-powered devices"
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T12:30:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
+    ampUrl: https://m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+
+secured: "5lCooFxqfUFhMHLFoG6YI6jK9XMxIVp8tzJYrU6bzb2nlH/WgTJojnz7ob1Rn+9oBS6qbUCVCKyYSYGki7O6QKUl23vvc6qas1Oc0Yh3w6/6TQkf5P1Z1umB3nvhJTiLV0Mk5IyR05VzbxqHXNFRp1f2l+CISWRoQSdguKDxSIInKAutjrPjMjMRJyBk+JSJHfZJiRsluoQDA3MojWH9NwtUNCvVg4A1zEuOF7HA5ABzwC8lzTSe8/VgpMLr0s+KqKIDoAs/ICh4Z16F++yqsQ==;qT3Ykwg8QxWNxlKbNn4IDA=="
 ---
 

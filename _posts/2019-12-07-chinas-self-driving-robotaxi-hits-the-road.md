@@ -303,19 +303,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
         width: 620
         height: 251
-  - title: "Self-Driving Cars Are Predicting Driving Personalities"
-    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and drive safer on roads. It’s already been made evident that autonomous vehicles lack social awareness. Drivers around a car are regarded as obstacles ..."
-    publishedDateTime: 2019-12-03T03:11:00Z
-    sourceUrl: https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.23C0D911186B210096CAAB4BEAB85914
-        width: 700
-        height: 372
   - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
     excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
     publishedDateTime: 2019-12-10T00:07:00Z

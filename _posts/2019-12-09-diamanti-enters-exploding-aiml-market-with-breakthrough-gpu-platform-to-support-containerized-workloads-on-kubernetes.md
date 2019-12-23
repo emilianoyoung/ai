@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Diamanti Enters Exploding AI/ML Market with Breakthrough GPU Platform to Support Containerized Workloads on Kubernetes"
-excerpt: "LAS VEGAS, Dec. 09, 2019 (GLOBE NEWSWIRE) -- Gartner IT Infrastructure, Operations & Cloud Strategies Conference -- Diamanti today announced the availability of the first enterprise platform with GPU support for running containerized workloads under Kubernetes, ideal for the demanding requirements of emerging artificial intelligence (AI ..."
-publishedDateTime: 2019-12-09T11:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/diamanti-enters-exploding-ai-ml-market-with-breakthrough-gpu-platform-to-support-containerized-workloads-on-kubernetes-1028746988
+excerpt: "In conjunction with its recent announcement of Diamanti Spektra, customers can now provide to their end users GPU capacity in cloud clusters for scaling AI/ML workloads on premises out to public clouds to accelerate model development and training."
+publishedDateTime: 2019-12-09T12:04:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/09/1957786/0/en/Diamanti-Enters-Exploding-AI-ML-Market-with-Breakthrough-GPU-Platform-to-Support-Containerized-Workloads-on-Kubernetes.html
 type: article
-quality: 40
-heat: 40
+quality: 10
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -36,6 +32,6 @@ related:
         width: 700
         height: 476
 
-secured: "JH7rQq1L+tj8Oqr8HvUGhtTB2KEW9J/kMwcLmK7TY3aeftxZIUVhISPzEQ0AoA+cIiAYdkLFy00c48u1eBdew8Sr7eWByGClo6efvrOeFAToPazZ9ycgoLHhL3xcVae4bZcYEQPEyv29oV03WbfvjKSFpXjb0o2hqpNfcBFAA8hTyrl2YazGcnpo+iP78m8Cw79b7v8HRaDmpAvJIWMoIWMX20G1wKLLY7XcZubBzvt2ucVjAe8LGdHqQV1kbF0dKjp4m2KqUUZBFmKGXjg8DA==;+YR1wZ0++/Yxpjx7woY0VA=="
+secured: "ZJ8c2UzNqdgKOBmGIPguTDa1FaROKAzIguEtgBKktlH1RbUdAqyB+UUOAOeL5QlBDIfQrkfflFJoZj9zBMbhq7vphdLGNy1BWF7XnbEH5cNj+mKnpW88hbgnUq3nE49tc2RignXlDDH1fejbx0DlgkadPfX5zKwERyQ96KFlK1hOMMjesbrYXnjbIp1yVVA1qG1MyZs3DCdwgOq8lBjayVP8C+7NDxuanv6QXhgxYpwCuPtC5tYVzQnW0iAnqj9bmT4hDZtGBXnjiMVb5pS+Xw==;M6EM+lQ6gzdqa3YdrDPobQ=="
 ---
 

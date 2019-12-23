@@ -8,8 +8,8 @@ ampUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-softw
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
 type: article
 quality: 61
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -30,6 +30,21 @@ images:
     title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
 
 related:
+  - title: "Amazon now lets customers label and track specific objects with Rekognition"
+    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
+    publishedDateTime: 2019-11-25T17:06:00Z
+    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
+    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
     excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
     publishedDateTime: 2019-11-25T18:50:00Z
@@ -67,20 +82,7 @@ related:
       name: pymnts
       domain: pymnts.com
     quality: 39
-  - title: "For now, Lockport wants facial recognition security system just for guns"
-    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
-    publishedDateTime: 2019-11-24T10:01:00Z
-    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 38
-    images:
-      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
-        width: 2000
-        height: 1500
 
-secured: "0YE1i4FB9HrHomuPtDubiAgVuc7Hpm2sY5BBM9yxlg+0R73c+vNzXUIe4iUwzuqVMFOdUWIwJX6hcTuP/7bVzEHBiA/wKRokUbGl9NI4IvwuJNObJYn6yQBYrcZtT0m4csSvJ/TUVDmtY4f0uaLaBLYLWQ/xl88+yvKMFFbKA4frZAkbyjCKsK9SX71ZhdC4hEvyIufQKeybNp5k9X7tfAoNwsgHnELXngKKZ3QF8P/60CnzfhwoGwoaWdyMPgnUrU3JDSzhyysEK7ZitIe90w==;Voa2IaxDyw20UnirWKsT6w=="
+secured: "H4XyFfOhSdzmGkbiLD8n7I1L2IhAMTBf+9t1PUYTgm6c1+c/o23qMZUKe968AyeGAOOOgyJjDPVao+6HmQdsHNX0V7cJyLDjIf24Acz6+IPHpYALzhWTyY8N0Cb7t61sPU0r69cWtt9YjqnaiaffszAyjJ3pWhDGtFy4jEs84hzegYCFpLWvAhDBWyCxDzWLSRgQQj6EvpRQC1brv8By/kz6sNksOXVavSCbvsJPBau2ksLk9SmlkfAWTJ8JCbVkM+HU1makviRFA2D3FukL0w==;6n0pAjxv6ar+cvef7hkyPg=="
 ---
 

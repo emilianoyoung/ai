@@ -3,19 +3,17 @@ category: news
 title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
 excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
 publishedDateTime: 2019-12-10T10:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
+ampUrl: https://amp.benzinga.com/amp/content/14960691
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -99,6 +97,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "6Qwr+l7Gs8DM9oU7mSXQFIj3y3JhVUwM1THbcKHsEKBO6wmMg2I+l0U5vXcYcPB2EBfF0wrjRYs41zPpowswbiXIB/jdK7jD5nwLBdQcVMIlpK+bzyiSuFME8r5JURrjaPdB+Z/w86BmizvkPskGI/mGi1154Jz222Y+vQND/lcghOV1lnN2lTLbJmunb2xQZJrtLdMa8pj6x1ape2agUqNYNCVP+041KcUd8Sk4nPUs9WZ2Q+23E4S0KQHygBzrw5hilK5a/RF0WB9IoMw69g==;A6lUVKpEQJrnEi7iAMZApA=="
+secured: "nVIKultOQSE2Rniui8M5ArwZd/ExZAZmaIC7e/Fvn6NbX1g6GD8hHloxnwFYlEZ4CtRuAtfCwtnFYMFqYPs30tG+mZDdaaxjhETaUf8YiMC9tEHHgr1DswDGytVfWSc8CwGSsK/VdFP5p7TWD/FNqzgaOn7LQtKxApoITDoh8H33LmuuIfNNVT9/XCTrBdmTEBVgPfLNxinHTYh+85YpySSXRcCthXkjm2vo+E8zfZ02H14cozfJV3g9l7u0l0Qf63iHjhNqPaJw1pnCPfdiHg==;3ioRkrjD3JDZdsDldb9TgQ=="
 ---
 
