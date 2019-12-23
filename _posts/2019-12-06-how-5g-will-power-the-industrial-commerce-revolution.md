@@ -26,19 +26,6 @@ images:
     title: "How 5G Will Power The Industrial Commerce Revolution"
 
 related:
-  - title: "4 Industries Shaken By The Artificial Intelligence Revolution"
-    excerpt: "Artificial intelligence has had a profound impact on our lives ... There have been so many medical advancements over the last few years and this is especially the case when you look at the world of healthcare. Medical devices and even surgical equipment have come a huge way and the recovery time of patients has also been reduced."
-    publishedDateTime: 2019-12-03T20:34:00Z
-    sourceUrl: https://www.smartdatacollective.com/4-industries-shaken-by-artificial-intelligence-revolution/
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F18C46FC3A37CD38B6D82FB6CF5441D6
-        width: 700
-        height: 466
   - title: "What will the digital healthcare revolution look like?"
     excerpt: "Abbott explains how remote monitoring, artificial intelligence and predictive analytics will all influence a new era of digital healthcare. Editor's Note: This publication originially appeared on Abbott's website. Healthcare has evolved at an incredible pace. The industry has brought forth a number of cutting-edge developments, including ..."
     publishedDateTime: 2019-12-06T21:00:00Z

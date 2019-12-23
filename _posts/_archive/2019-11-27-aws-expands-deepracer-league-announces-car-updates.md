@@ -8,8 +8,8 @@ ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces
 cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: YAHOO!
@@ -30,11 +30,13 @@ related:
     excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
     publishedDateTime: 2019-11-27T17:21:00Z
     sourceUrl: https://www.zdnet.com/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 64
+    quality: 84
   - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
     excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
     publishedDateTime: 2019-11-27T17:56:00Z
@@ -43,7 +45,11 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 48
+    quality: 68
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
+        width: 860
+        height: 484
   - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
     excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
     publishedDateTime: 2019-11-27T09:30:00Z
@@ -52,8 +58,12 @@ related:
     provider:
       name: BCW
       domain: businesscomputingworld.co.uk
-    quality: 34
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
-secured: "JDJGjUbFoeadb4JpcFa9B+LcE5dfazQtd5O1VrySHpSCR+dzIbiXaCJD9Rk+0ja5XQSHKQ7Ffj4MizpTUJo8EwbycX5TItSG+IlLPTSBc7cB77fOsxpkfPzQbA55zIA2KF5CkyUBaMKG+CrcHNfzjoBwzE5LptWNlMh9T/JbX6NoaGxuRYEI8r7jcjsfe3Vsk8us0YM65iJ2PJOFDAilasmRzeKBQ5gu0KnRItSYXnifAkuHSQJCGsHAbc5i+3w0Nd256k3dIQa1zpgjLyksig==;E+kxp9+q/1H59sGkg1DO9g=="
+secured: "yhMxSQA/xkX/dsG3nhFXqrfSSxRh0FreJ83LTFIVvIEcwya00+sxyeVeVxCOqzwCy08yhxi3gEaKRdNOilbnimPBaDKrjjHaEsxv+tlmp+2WM5HKFDrgRGAmIMHfMAUFwmHKmYNLI3KmdZP9RT+YsFrmkiZAlO9Ve2eOPUbyn8TY9ckHhap+bw/REesazkaHKqmd/S8VM1QWW74FyBPBpgl+k5wjPorTRQy/MHXxD040I6HfiurjOuJPJJ3gYjy5qNvo/kUiJ9nm5KBnxPsPWQ==;VDZ7xdnbmhtSxUzyEuXw6A=="
 ---
 

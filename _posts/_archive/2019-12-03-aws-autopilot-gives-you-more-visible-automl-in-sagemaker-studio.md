@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-a
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
         width: 700
         height: 466
-  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
-    excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
-    publishedDateTime: 2019-12-03T21:24:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
-        width: 700
-        height: 391
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T00:00:00Z
@@ -62,6 +49,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "AKttrb1Jg/Xj8Mb05uJ6XNkr+IgWmkaXMGyykadrL8Khs7b5U/4Sc0sMG1Ol1IuPu/1AgPE8/HRJyEsM7pGFPx3jTp8G45nv7DbACUHNjfBPlBpWEgybw47pJu1V1anwmHTNlpRBRWoHuvEOQ122v7EHhliYfjvm8cA728H/egTmydbg7j0T/ykF1E/sym+xCSivcXUWB8jt1wC1hjN7NnECTxGT9luy0cRQjv87j0Oqeny3RdsYVytR0qTilFXFWj+IZr3OmvWOQWL6CeyABw==;F1e6xizxUd9eAPH4/rsurA=="
+secured: "3f4xNVhUflFgFAoPdbGi7N9WfYhrQiNm94v8eWkx7eG6+x87zyBnl58XnZoSlAwprnD6N5L8yUcaqFP/+tg6R13DCRdFd5nLD/rJ8lZahWAekuf69aoCf7bWlYcNu9G3tKBUNeT6EF2Q43GNlkNYoFtoJK4uvekqJ7Nk/lgOdifT87ejJagOvEcF2cRl0wwW+Maj+JQijiJqurFFG9G7aL1F3xamNcWohVpxFx/OgXBBsySCkffDZBgHpFaL11hND5ABnGQtmhjxALNCPTHlSA==;mSeunb7QsLtafb5yb/XVjQ=="
 ---
 

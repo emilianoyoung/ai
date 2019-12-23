@@ -51,19 +51,6 @@ related:
       name: CMS Wire
       domain: cmswire.com
     quality: 39
-  - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
-    excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
-    publishedDateTime: 2019-12-03T20:30:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/reinvent-amazon-beefs-cloud-ai-takes-network-edge/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.73C6C5EEC54E79CF8DDB4E23D5B9C6A9
-        width: 700
-        height: 427
   - title: "ClearDATA Introduces New SaaS Solution for Automated Healthcare Cloud Compliance at AWS re:Invent"
     excerpt: "“With Comply, leading-edge technologies like artificial intelligence, machine learning and other cloud technologies like those introduced at AWS re:Invent this week become more accessible to healthcare – mitigating risk in the background and automatically enforcing compliance.” ClearDATA’s new SaaS solution provides transparency of ..."
     publishedDateTime: 2019-12-05T14:35:00Z

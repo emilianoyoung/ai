@@ -44,20 +44,7 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
         width: 700
         height: 466
-  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
-    excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
-    publishedDateTime: 2019-12-03T21:24:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
-        width: 700
-        height: 391
 
-secured: "P5kuTrhhpMZlZc7qztj/mpXL/u2TQvMoa31oMCnoqX8DU497nIEIBygdBerpoXMwi3jSayipVEpRUym9cyJtc45UdJRywCbhtojZceBWNJsZkYbA/IjjXUqiI3KFXUtxk/IqIw8wJzOnt4xDRJ6+K3CmqE4yfuEayEaZb4TMTElZ1oZjyrYa02vdDcCwXEij8I7YVBd76BkpXJDxcKCs54PpszdVY62DgsYkxA8GLsJnJqnULKmCuQVH/ucmd1RzkKiJQgSd6IzSzTH/Set4Eg==;50CbFiiMay96GjQ5UyLFaA=="
+secured: "mva1kp63+IBHEyydtD8HjM9Hoz5EUsNS4CZ+I2iYHg+k6uYEhJvjLrwXeWmAYyDFEmXs70WKBDrV36g1xoZpijMJifjotrOV6i7BaPPXwc1PEqEZUXmTRU62sC9ev0SjoLgVgCVBnfz5n2GqgP3CRIK84eQthln6ZMvYywkMTD4/avWhtql7a2mFWQrOo5M/ovjO9irH8EqN3fV2cQhLDPBrpOZOExlaPBRfz/opxndZ0AmRNtKa2FvmzCILwytirmTj52AunSu0A8wDkdfT4g==;iLDuH1fr3dOT05kNvfbzxg=="
 ---
 

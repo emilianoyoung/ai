@@ -4,8 +4,10 @@ title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Ag
 excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology, lift tools from the ground, recognize the boundaries of a farm, and can be operated remotely ..."
 publishedDateTime: 2019-12-02T12:15:00Z
 sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
+ampUrl: https://amp.benzinga.com/amp/content/14911193
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
@@ -438,6 +440,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "VTaL+3DYk1goSjNfTtG78IFlRPvawxqeBqwjpUZQQMKp/7baYuVERBORLOeTC+1GhSUulacl1X6wz35Hm2Qp0D5YHp0BXuqvImrrKA+jFeY7tdUnUSy2BcKoTYGcBIZITVgsmTt7w9BQCESPLhaJynMhhuklOmbxpwXJNTRAb/XdkNLC0HKsOweklL8Ul6LVDsiWz0Mf6baf2IGqV0u8K7OpUyb7GUoDmUCGokXUuS4HUHiu3JK5gfTc+PJXyH2LtLFyhjRuTzkcFa9aqEgXtA==;S5gBeuvkEduMsB7IBLv/yg=="
+secured: "b1iRfwFNuUED6+Nv1awRqxzf5nKWoX1+YsUMowV3Kg9MbWktOERV/fvFby85toGnhB2hxw5RGF1+CGlolUw96zeCYnINS1p+xkcovfnAzOeHgTzqdNwU0VG98fWYa8W2rxo+HFawFN00h7G2I6Y0+/EuHCxDHdipRkt5ESlto8tIHaIgJYl6GV3jbnXSW7aVAnBHkHn3qQj+bPcYzlocfqWZ+8062JSLxKvoFK7hbY/0E69OOcoMTi4/WaRSewH100pWj+oNCleo+H813ZtpHQ==;6a7LLULSHsux2Kzv6a5g1w=="
 ---
 

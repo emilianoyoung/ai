@@ -5,8 +5,8 @@ excerpt: "Although the spokeswoman was unable to say whether gun recognition wou
 publishedDateTime: 2019-11-24T10:01:00Z
 sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "2KYVZ1RBx5n/jz+L+oDNKDfnDNZ+A3fthSMW2yBbvIFuJl7ZWvPehocIX+qW8q5m1FJ8wTO2FjajvuJaKyfh2+lqDrKcd1DnR4sLmWV9jcagScKYe2pOZxW8SG9ORukJ7+J2QnVhu6/CYVVbiVr7I/Z2KGl3E97Tt8Xq1nKbrd1XaCjwPUlaMMrqA/CSnqa0O9PbXDKMU/UCj8SQabAsk0uDkZeaYF7wzyIcfXONawEoh89hqjNHzbbevS3Pl9VXbYexxTvfC1s9pD+vNEnR/Q==;hetvZ69d7AFr/fpJK5ykfg=="
+images:
+  - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
+    width: 2000
+    height: 1500
+    title: "For now, Lockport wants facial recognition security system just for guns"
+
+secured: "PWZsdCMZVsxMGsN3HzHOpn3QWuZop2r8AAZJjSh9A1Kc5Ve5LUjPA0tGgKE8viMd/51WaGMDUNfI8RpEYF1apsMgtumbQBunLdCpulLNwR2uCInvchp1OxbPidJpPjxsl2zmdAOlTabQArC/eAzFdT/Zu6RGrZHAaQds5mA9YS9PQ2GmUr+xsUm/DcXhZGeUsvO1fjjnay83Yd2oolAerhCS85EjoDNbhhxdERP1aHj1igIOU8K/ZrR/FpQUqEq/HS+MXb5zD/0gsc7IwKF/sA==;p560TSxU4HYMordjPEHE3w=="
 ---
 

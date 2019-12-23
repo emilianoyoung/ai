@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-04T14:13:00Z
 sourceUrl: https://www.zdnet.com/video/how-angry-birds-is-evolving-with-ai/
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -27,21 +27,6 @@ images:
     title: "How Angry Birds is evolving with AI"
 
 related:
-  - title: "At 10 years old, Angry Birds is keeping players hooked with machine learning"
-    excerpt: "With the launch of Angry Birds Dream Blast at the start of this year, Rovio stepped up its use of AI, leveraging machine learning to help optimize the difficulty of game levels. While level optimization is a key part of reducing churn, it's typically a time-consuming process that requires manually testing new game levels that have yet to be ..."
-    publishedDateTime: 2019-12-03T21:00:00Z
-    sourceUrl: https://www.zdnet.com/article/at-10-years-old-angry-birds-is-keeping-players-hooked-with-machine-learning/
-    ampUrl: https://www.zdnet.com/google-amp/article/at-10-years-old-angry-birds-is-keeping-players-hooked-with-machine-learning/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/at-10-years-old-angry-birds-is-keeping-players-hooked-with-machine-learning/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.B68417D5C67465BAA0F5226AC78B362D
-        width: 700
-        height: 525
   - title: "At 10 years old, Angry Birds is keeping players hooked with machine learning"
     excerpt: "At AWS re:Invent, Rovio Entertainment lays out how it's leveraging AI to optimize games, with plans to integrate AI across the whole value chain."
     publishedDateTime: 2019-12-04T14:04:03Z

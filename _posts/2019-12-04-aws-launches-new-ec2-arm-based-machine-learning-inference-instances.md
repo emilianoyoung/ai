@@ -24,52 +24,47 @@ images:
     title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
 
 related:
-  - title: "AWS announces the Machine Learning Embark program to help customers train their workforce in machine learning"
-    excerpt: "Today at AWS re:Invent 2019, I’m excited to announce the AWS Machine Learning (ML) Embark program to help companies transform their development teams into machine learning practitioners. AWS ML Embark is based on Amazon’s own experience scaling the use of machine learning inside its own operations as"
-    publishedDateTime: 2019-12-05T13:34:47Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/aws-announces-the-machine-learning-embark-program-to-help-customers-train-their-workforce-in-machine-learning/
+  - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
+    excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
+    publishedDateTime: 2019-12-03T18:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
+    ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 112
     images:
-      - url: https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png
-        width: 1260
-        height: 630
-  - title: "AWS launches ML Embark program to help enterprises adopt machine learning"
-    excerpt: "For enterprises, the path to adopting artificial intelligence involves more than just development tools and algorithms ... ML Embark is an employee training service delivered by the cloud giant’s machine learning staff. Michelle Lee, head of the AWS Machine Learning Solutions Lab, wrote in a blog post that the offering draws on lessons ..."
-    publishedDateTime: 2019-12-05T19:56:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/aws-launches-ml-embark-program-help-enterprises-adopt-machine-learning/
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
+        width: 1080
+        height: 530
+  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
+    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
+    publishedDateTime: 2019-11-29T00:00:00Z
+    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 70
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.0B31AAD169E643317783157513853DE9
-        width: 700
-        height: 394
-  - title: "Amazon sticks AI inference chip up for rent in the cloud for machine-learning geeks"
-    excerpt: "Gravitons, Neoverse... you'd be forgiven for thinking AWS's second-gen 64-core Arm server processor was a sci-fi re:Invent Amazon Web Services has made Inf1, its cloud instance for running machine-learning software on its custom-designed AI chip Inferentia, available to all. AWS CEO Andy Jassy announced the service on Tuesday during the ..."
-    publishedDateTime: 2019-12-04T09:09:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/04/aws_reinvent_ai/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
+      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
+        width: 932
+        height: 377
+  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
+    publishedDateTime: 2019-12-03T20:32:00Z
+    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
     type: article
     provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 50
-  - title: "Expert: How to make deep learning as energy efficient as the brain"
-    excerpt: "WHAT: Computers are gradually thinking like humans thanks to the development of artificial intelligence networks capable of learning on their own, called “deep learning.” These networks can already recognize images and play chess, for example."
-    publishedDateTime: 2019-12-02T15:53:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/expert-how-to-make-deep-learning-as-energy-efficient-as-the-brain.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 34
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+        width: 648
+        height: 420
 
 secured: "JqOyv0ffBpWKkeijijm5UKGhpuVhUgzLO7PmtJQkcjpNxSpyd+EGRijK18fpX3O05VxbiJfVpPj5xp+QkLg4kclohszTdMwldFNXk9Iqq3F5XxQ+AP6iWixnYJWIU9KBihykbz2DDrbW/76uVSOqoOxxRv5UCGHCOJAfjpa1e7UTDrwXi/WrJSlb/OAEmBJmxngIUJX3j3SoTE6NVF/jwi/DDTJvD2dq88wzhaKvaTxZfAJY6g6A1z6CHuO2Q//iuC4KPlS8p7HYjbA0UFMgRg==;05oDvEYNqfPbmmOtrin5MQ=="
 ---

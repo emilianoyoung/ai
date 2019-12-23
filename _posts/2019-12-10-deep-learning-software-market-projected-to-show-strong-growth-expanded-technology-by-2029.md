@@ -39,7 +39,11 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 7
+    quality: 27
+    images:
+      - url: https://mma.prnewswire.com/media/825036/Valuates_Reports_Logo.jpg?p=facebook
+        width: 920
+        height: 482
 
 secured: "TvjyYCK+7/6BZ6qWEVmsJYHR9yH3QEIU/ycWqnt4MKpP15NmHgHt06WxYMVbHZ1aTAgdFUmBzIatl8we3dUgQEaj/h1fWG++SDHTu9VYf54T6T2MQt16vUYSAq+ay42WRuCfMwDSAh8/ys2Y4UOrqlvG21Pckpc8tH+oGyITdSoQoXDXoGbBm7ZYBePIgdphWYPSmTEGmrQn7SWMOeuarKtfapAN7MoMQepXSGR/hptuirBTSwPwmIkFnNfHGxcChaJWmrGyqYHlqMMuaWZPLw==;ES5R9kJIyIcvqVhsvKPXxg=="
 ---

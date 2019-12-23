@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T13:34:47Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/aws-announces-the-machine-learning-embark-program-to-help-customers-train-their-workforce-in-machine-learning/
 type: article
 quality: 85
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -52,28 +52,6 @@ related:
       name: The Register
       domain: theregister.co.uk
     quality: 50
-  - title: "Expert: How to make deep learning as energy efficient as the brain"
-    excerpt: "WHAT: Computers are gradually thinking like humans thanks to the development of artificial intelligence networks capable of learning on their own, called “deep learning.” These networks can already recognize images and play chess, for example."
-    publishedDateTime: 2019-12-02T15:53:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/expert-how-to-make-deep-learning-as-energy-efficient-as-the-brain.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 34
-  - title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
-    excerpt: "By Donna Goodison December 04, 2019, 09:51 AM EST Amazon Web Services unveiled new EC2 Arm-based instances powered by its AWS-designed Graviton2 processors, along with Inf1 machine-learning inference instances powered by its custom AWS Inferentia chips. “If you look at instances to start, it's not just that we have meaningfully more instances ..."
-    publishedDateTime: 2019-12-04T15:01:00Z
-    sourceUrl: https://www.crn.com/news/cloud/aws-launches-new-ec2-arm-based-machine-learning-inference-instances
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: https://www.crn.com/img/CRN_stacked_1000x600.jpg
-        width: 1000
-        height: 600
 
 secured: "keFKGZeB03sUzy0HgV1Q2ObwPMq4b4HSF3Y66KOToIvKxClpUrXqxJIJjkW/9oysHz45Ek1IwAMP6QjNNHRMWODmM4tLSfxQiZ0rp4qFPIlwj7PPL4zRUgo30DpXKw5k4bY8bolxFFvJqeMxtaQkOmGYyr6QOGJ71aIgdM/9X0ejNYLjizaYmsAoQaO9r4kSYe3jLRKCfos5bkFtsO2jFVUVYUPWL/X6FtZG5FlWd9m2D3wk+BSjdlJLIfOVaBBCgSakX4aR0QDNoX5kQYfpRQ==;oVL49LMnUP9k9WQ4FkBl8w=="
 ---

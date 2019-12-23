@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFCF0AE44207EE6198372D579EAC0F9
         width: 457
         height: 199
-  - title: "4 Industries Shaken By The Artificial Intelligence Revolution"
-    excerpt: "Artificial intelligence has had a profound impact on our lives ... There have been so many medical advancements over the last few years and this is especially the case when you look at the world of healthcare. Medical devices and even surgical equipment have come a huge way and the recovery time of patients has also been reduced."
-    publishedDateTime: 2019-12-03T20:34:00Z
-    sourceUrl: https://www.smartdatacollective.com/4-industries-shaken-by-artificial-intelligence-revolution/
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F18C46FC3A37CD38B6D82FB6CF5441D6
-        width: 700
-        height: 466
 
 secured: "7ZuqSrkpgUf0cdvLbE63g3Z0GLFjfxs5V/WnCfiGBVb3Z8Q4hye+NI4Agtkdp6oL4oxi2JRYtWNr18XgszliEgII37ekuuXfEje+fT9KOhFz4JbJzdD60aKIwGYa5+KlroEY0SDvE8jofboXqEpILN45oW4UPmQkcLsgfIbEHH1bCbEIuwLPrPmGasyJP5Aqz0pYHZycNu1cMETxvwHeXbWjCF0cheJMJl21OHFR0TbAgkQDRpiXtNFjdl5A8IXy2enHlS+k6OzUtlOczh0DSw==;b82rZR33NNLN558PZXx4mw=="
 ---

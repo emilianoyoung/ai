@@ -5,7 +5,7 @@ excerpt: "BANGALORE, India, Nov. 27, 2019 /PRNewswire/ -- The Global Deep Learni
 publishedDateTime: 2019-11-27T13:04:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/global-deep-learning-market-is-expected-to-grow-at-a-cagr-of-33-64-by-2025--valuates-reports-300966092.html
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://mma.prnewswire.com/media/825036/Valuates_Reports_Logo.jpg?p=facebook
+    width: 920
+    height: 482
+    title: "Global Deep Learning Market is Expected to Grow at a CAGR of 33.64% by 2025 : Valuates Reports™"
 
 related:
   - title: "Vision Screeners Market CAGR Projected to Grow at 6% through 2029"
@@ -41,6 +47,6 @@ related:
       domain: cso.com.au
     quality: 9
 
-secured: "4DlZoFz5F0QEakQIAR9TW9pw2fydC0I2uKWZfPlrwFuIuXN9+arRVvsCWGCdp/ah+pqOc+MEYCSVd/ZmcslKYxJIun1gi2znNgDhiISKaD5E1dRcTrkZ2Zbotrwjwpo5TzjmY6+r6rxiD2ifQMHPxQdm9xMX6jKVDluSCqVbiHRZJEZvGaIJKA4SPg1AZemN9a58Au1sO2VmLx/DbM//wX3/GAMn0RWX/Q6wNngb2buzkz46JEFRNMfPcnnFZvKZC5J/klYT9cSBcVTo28PM8A==;dy6fNbfgWmL1fTkNXNIT1A=="
+secured: "NZWhlJBvlm8M15Gvfiuj7bC2Cek+OzoyW1F8rRBdHfUGC/GK5dENg0XlQvHc0cDtvIGqLWzVnk6lb2oHDaMWMfgL8OO/fkkpcb4HNjZ2Z68SBPiq+gp+a6XQGLvVxk94WZswYHC6obYL7FLi07Z+lXD4sacCeHRtqyqLS9r5p++tJSPE1ix4krlu23bPLPT/Be2Q0lRZZaAvzwOoXDfcsvOThhWmAvbULs7KGukdJXo6BUO6xp/a0GunYDVH9Hv3rdkH0v6FwpsVpzyz3jrO1A==;Vb1O5TvN4pTWcz6AHv+fdw=="
 ---
 
