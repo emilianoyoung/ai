@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69825E93910DE13AD824F9A025315212
         width: 700
         height: 525
-  - title: "Manufacturing industry turning to robotics and AI in challenging economic landscape, says Deloitte"
-    excerpt: "The manufacturing industry is turning to robotics and artificial intelligence as well as a range of other strategies to navigate an increasingly challenging economic landscape, according to a report by Deloitte. The management consultancy says that, as the risk of a global economic downturn grows, the industrial manufacturing industry faces a ..."
-    publishedDateTime: 2019-12-03T11:20:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/03/manufacturing-industry-turning-to-robotics-and-ai-in-challenging-economic-landscape-says-deloitte/27132/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.A0FC45226C223CD4A4E67BFF11F60E96
-        width: 700
-        height: 578
 
 secured: "H/5A6Ze2BellmWJ1ZI/0zzSa26xAvD+LrMtBKwJ0nrwjfQ659yGWO8Y6XUiifmydprxEo39J6Do+CzApkXyx5T1siAIjwEbvmYWx7wdzm3WxKzCr3iVtuHY2NkZ4Zdo4joC3yoxKucuOMyQVtAnFivK6wUMKCWx+xNyhshaFYgihYX1HVvjJGyvPPBEPWnOrD7o0RYfpPndaFHK4FloRZzbQYAWDizVKdPuZDf8ly1M1pAYq9gJ1bS0KaeqPKmmhuVwo1Bkn9BZSxKiIeK7ZOA==;ihl10KcSopBsggbHPXU/pg=="
 ---

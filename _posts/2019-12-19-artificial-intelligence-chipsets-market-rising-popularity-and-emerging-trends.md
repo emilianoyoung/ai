@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T18:35:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-rising-popularity-and-emerging-trends-2019-12-19
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Chipsets Market Segmentation, Application, Technology and Analysis Research Report 2025"
-    excerpt: "Global Deep Learning Chipsets Market Professional Survey Report 2019 studies the latest industry trends, market development aspects, market gains, and industry scenarios during the forecast period. The report provides the details related to fundamental overview, development status, latest advancements, market dominance, and market dynamics."
-    publishedDateTime: 2019-12-23T09:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-segmentation-application-technology-and-analysis-research-report-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

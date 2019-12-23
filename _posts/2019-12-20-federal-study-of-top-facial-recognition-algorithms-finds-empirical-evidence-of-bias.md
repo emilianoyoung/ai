@@ -1,33 +1,21 @@
 ---
 category: news
 title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T14:27:00Z
-sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in ..."
+publishedDateTime: 2019-12-20T20:57:00Z
+sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
 type: article
-quality: 82
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
-    width: 1400
-    height: 933
-    title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1804,6 +1792,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "L2kKlgEcKqcOkzwsH0zg0QnitrWYDVC1USgVxGXxqE+qiHL7EY020cnh9sC49/b1eJqj7xfBEOzSC08aVTIYewMHo2jX1J6HwXn5nHfN1W1PbGqu2FBQC+71hrWDGDO2MSne1zNIvx3s68fWBrLFXMvwksQFTxcTfwpOJ7vZifS2qMjbcvIalCKkNM24WbMEaNM1bFv4ZrlW8csXUJu340ant6UzYM78jou3EqMIrMeO160UyxZFUvX+VEpJkPnwUuPyHcrHJPT9VbbbVGICBw==;7qayhdv8VYvZhRz3CjKSbA=="
+secured: "sRXwqVMXhcxZ6yxyG+p0gmvQycSxJRKUpO9oFPqPUxw+RDj0hhXKnlP7U02ZBNeqbHpi5YmrfnFzAP8EcckK0ADzs00+4d57iHtEmZzG0Zr6XpfdappfHpnspPxwkdNoBBF/yCphJA7ySrOLJdqcqRALSnXvERuFF6mkimLu/s6TcoKDDAcQ86coiNG+d8m/tQx4FAxdyf1oqmQsYexO7uUGx/9ZaoI91f/JiWzt/iPsGHq2eSFaFJ1sCDugzM+oUJA4tGHJ7Bkn9+iTk38s+g==;onH8LF3tbEc3l3ShhnCNag=="
 ---
 

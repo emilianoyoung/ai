@@ -8,8 +8,8 @@ ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-le
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: Medical Xpress
@@ -24,6 +24,23 @@ images:
     width: 700
     height: 393
     title: "Artificial intelligence tracks down leukemia"
+
+related:
+  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
+    excerpt: "Artificial intelligence is a much-discussed topic in medicine ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
+    publishedDateTime: 2019-12-23T12:56:00Z
+    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
+        width: 300
+        height: 250
 
 secured: "j01OXkO/7VAoYtmlBCh8eenhpiIY4TUqMIPVECsTl6VuDBkFqhsxShbcRd3BZeiXPPTnC/DjAhyf3zBwy9Umfkc+EMRwtjnYCUZvFBRXqXV99ExQxTxkB1GGAueHpO3bKCxzLSepLTQuibxa9aVRd2A+MLEONKiBtuCvwozXcsA+gmc+gjPyTAxVR3wOLBHsykpdx3/3+K+MuK4Cyb4UAsxXdeVMVOr6JfjnN4+tnHF0FcUBgBBnHvraxiX0LmuCVm06mprJwsAXMS8yY61EGw==;fHJPs00KZubSOurcQ1g0sg=="
 ---

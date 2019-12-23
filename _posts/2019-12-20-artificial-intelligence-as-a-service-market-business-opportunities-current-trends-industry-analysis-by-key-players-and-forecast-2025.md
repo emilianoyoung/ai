@@ -53,19 +53,6 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
-  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-    publishedDateTime: 2019-12-21T09:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
     excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
     publishedDateTime: 2019-12-23T08:36:00Z
@@ -75,6 +62,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
+    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
+    publishedDateTime: 2019-12-23T11:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

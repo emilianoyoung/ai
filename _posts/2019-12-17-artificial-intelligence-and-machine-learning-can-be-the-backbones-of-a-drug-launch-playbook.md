@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
         width: 600
         height: 315
+  - title: "As consumers find value in AI, now is the time to invest further"
+    excerpt: "Artificial intelligence has reached a point in its advancement where the masses have an understanding of its capabilities. In fact, consumers already see the near future where AI simplifies specific tasks of their everyday lives such as booking travel, educating them, preparing their taxes, and driving their cars. It’s no surprise that the AI ..."
+    publishedDateTime: 2019-12-23T12:10:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/
+    ampUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.383123F8C62131FB51E5F676CE178CD2
+        width: 700
+        height: 358
   - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
     excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
     publishedDateTime: 2019-12-17T19:43:00Z

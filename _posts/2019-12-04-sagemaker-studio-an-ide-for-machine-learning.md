@@ -167,19 +167,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "AI is Moving Too Fast, and That’s a Good Thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
   - title: "Amazon SageMaker Processing – Fully Managed Data Processing and Model Evaluation"
     excerpt: "Today, we’re extremely happy to launch Amazon SageMaker Processing, a new capability of Amazon SageMaker that lets you easily run your preprocessing, postprocessing and model evaluation workloads on fully managed infrastructure. This is a companion ..."
     publishedDateTime: 2019-12-03T18:44:00Z

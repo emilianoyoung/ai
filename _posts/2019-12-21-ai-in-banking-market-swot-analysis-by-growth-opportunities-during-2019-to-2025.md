@@ -27,120 +27,80 @@ images:
     title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
 
 related:
-  - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
-    excerpt: "A full report of Global Artificial Intelligence (Ai) In Manufacturing Market is available at: https://www.omrglobal.com/industry-reports/ai-in-manufacturing-market According to the investigation of the International Federation of Robotics (IFR), various manufacturing robots deployed in factories accounted to be around 1.3 million globally in 2018."
-    publishedDateTime: 2019-12-23T07:25:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-share-forecast-2019-2025-2019-12-23
+  - title: "Machine Learning Market to Gain Impetus as Demand for Smarter Devices Rises"
+    excerpt: "PUNE, India, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- PUNE, India, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Market Highlights The elevated emphasis on AI is creating several opportunities for the progress of the machine learning market. Reports that convey interpretations into the information and communication technology industry has been offered ..."
+    publishedDateTime: 2019-12-23T11:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 82
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
-    excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
-    publishedDateTime: 2019-12-16T12:01:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-forecast-poised-to-touch-usd-54-billion-by-2026-2019-12-16
+  - title: "Deep Learning System Market is Booming Worldwide with CAGR of 40.79%"
+    excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global Deep Learning System Marketstudy with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. Deep Learning System Market explores effective study on varied sections of Industry like ..."
+    publishedDateTime: 2019-12-17T20:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-system-market-is-booming-worldwide-with-cagr-of-4079-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 69
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
-    publishedDateTime: 2019-12-17T13:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Drivers, Restraints, Market Demands And Forecast"
+    excerpt: "Dec 20, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-20T05:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-drivers-restraints-market-demands-and-forecast-2019-12-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 66
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-    excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
+  - title: "Deep Learning Chipsets Market Segmentation, Application, Technology and Analysis Research Report 2025"
+    excerpt: "Global Deep Learning Chipsets Market Professional Survey Report 2019 studies the latest industry trends, market development aspects, market gains, and industry scenarios during the forecast period. The report provides the details related to fundamental overview, development status, latest advancements, market dominance, and market dynamics."
+    publishedDateTime: 2019-12-23T09:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-segmentation-application-technology-and-analysis-research-report-2025-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
-    publishedDateTime: 2019-12-17T11:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
+  - title: "Artificial Intelligence in Marketing Market Scope, Growth Overview and Development Forecast 2019 to 2025"
+    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Marketing Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2025 Artificial Intelligence in Marketing Market report contains a forecast of the next 5 years, starting 2019 and ending 2025 with a host of metrics like supply-demand ratio, Artificial ..."
+    publishedDateTime: 2019-12-17T10:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-scope-growth-overview-and-development-forecast-2019-to-2025-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
-    publishedDateTime: 2019-12-20T16:02:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191220005450/en/Global-Artificial-Neural-Network-Market-Analysis-Trends
+  - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
+    excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
+    publishedDateTime: 2019-12-17T09:58:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
-        width: 1200
-        height: 627
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-    publishedDateTime: 2019-12-23T08:40:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 14
-  - title: "Artificial Intelligence Service Market 2019 Size, Share, Growth, Trends, Demand, Manufacturer Analysis and Region with CARG"
-    excerpt: "Verticals in the AI as a service market include Banking, Financial Services, and Insurance (BFSI), healthcare and life sciences ... and gross margin Artificial Intelligence Service by regions like North America, Europe, Japan, China and other countries."
-    publishedDateTime: 2019-12-17T13:26:00Z
-    sourceUrl: https://www.openpr.com/news/1880317/artificial-intelligence-service-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
-    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market ..."
-    publishedDateTime: 2019-12-21T00:42:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-neural-network-market-170200987.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
 
 secured: "9cFZ14DnTBeA3S+zxjvg038r3y+7PZ8Fkt/f7UuCFC9cG5dTw1qruEFSkquqYiRxMesKUQ3aaOdnxv8HhmqFdWRRf4azXojsPz+toCqkLP3T6Zmx5IafF623za3k0b15TIPP4povHLK/aUgCnQ6JqOpJ965pXh9gQgivwB/eJypgUogG44Uf4HmRIQMP/RZxcgozSuzhFMXkTDMjJQadvTF7e+lNvotfoOs+MWCMVpsRGzdcx1TMyyHF3aafndVvLUyUbtE2RlqN3hZF9lw4Ww==;bBFm3lzmEH3sFzmrd9CPzQ=="
 ---

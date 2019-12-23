@@ -2,25 +2,25 @@
 category: news
 title: "Why GM is developing technology for self-driving vehicles for the US military"
 excerpt: "For example, \"GM has demonstrated leader-follower capability,\" GM Defense President David Albritton told the Free Press. Leader-follower means a manned vehicle leads a dozen unmanned vehicles using GM's self-driving vehicle technology. By removing soldiers from those dozen trailing vehicles, human safety rises dramatically, said Albritton."
-publishedDateTime: 2019-12-22T12:04:00Z
-sourceUrl: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-ampUrl: https://amp.usatoday.com/amp/2709275001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2709275001
+publishedDateTime: 2019-12-22T12:05:00Z
+sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+ampUrl: https://amp.jsonline.com/amp/2709275001
+cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2709275001
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.1E332684A0B0365BB1C4AF6C65DBBD3A
+  - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
     width: 700
     height: 393
     title: "Why GM is developing technology for self-driving vehicles for the US military"
@@ -127,6 +127,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "XNFg+dxBsDl6d1lqYE6f3lTaUdbbE+gfLEVszSwEMC0kwn9spsXqkbnELPoAxxKCxA7q+NfwYNP0XkxFq7V8KUW79AP1V/OlG/n+/FF7lg3A+OIiQINxJbcBEGPCTVLGD36kanuMp5nO8ATJSIpN1pOsgHcj0d5190/d7buFA4J8SHBYqN/wfBhzDHJ3BnJ216HFgiGUTepO6HrXg9W2E5QAcxheKU2mVKbdl+NI8uSeEole3twbJ5kK9kvExzq7eJLEi3q7q/Z2GDTY+n7eWw==;EtqhVcpLLUN2CkkwIa0EKw=="
+secured: "CQ/U03xWsJCFK5yslxd+27I64JchAa2AIvaod0XZa6SDwt3BcZewgyG1DJ1mKDD44KLm7pVuuNFmV2p8cv7wT2KdcgwRS1096rU1B4b/ABVWveLzOSQjaABIOJFXwN9hvlZW5ij/s1aRHKaUoc6SmISC1V2HtDdaPCGH5pyXBPld3PGMojC+Qqt6Xo24l0hmLO+qZ0fjFpQNEK+5grWnaBhwD5OQUIf+7W9u7fLTTCpPGFTjoOtYCdKWA/jK2+9bUxbWFDHxPZYtOTS3c+lNSw==;NBlqogcvhOXNP7Q8eKlEbw=="
 ---
 

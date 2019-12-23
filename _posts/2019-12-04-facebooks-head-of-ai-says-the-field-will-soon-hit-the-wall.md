@@ -31,6 +31,21 @@ images:
     title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
 
 related:
+  - title: "Facebook taught an AI the 'theory of mind'"
+    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
+    publishedDateTime: 2019-12-06T16:00:00Z
+    sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+    ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
+        width: 700
+        height: 367
   - title: "Qualcomm’s big Snapdragon 2020: The 5G, the chips, the wildcard"
     excerpt: "The week-long event kicked off with new chipsets for smartphones before hitting AR/VR and finally computing, with 5G and AI ever-present themes along the way. Read on for the big news you need to know. Qualcomm was so enthused by the prospect of talking all things Snapdragon, it invited SlashGear along with hundreds of other global media to ..."
     publishedDateTime: 2019-12-07T20:05:00Z
@@ -89,19 +104,6 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2019/12/1575436571_jetson_nano_family.0_story.jpg
         width: 760
         height: 506
-  - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-06T17:00:00Z
-    sourceUrl: https://news.yahoo.com/2019-12-06-facebook-taught-an-ai-the-theory-of-mind.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.61BE5DB85CFF21C4BE405B0420B9B596
-        width: 700
-        height: 466
   - title: "Facebook taught an AI the 'theory of mind'"
     excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
     publishedDateTime: 2019-12-07T00:02:00Z

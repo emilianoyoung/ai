@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.47E52A5B35A4632D66CF600F5BC302EB
         width: 600
         height: 315
+  - title: "Mayo Clinic Names Health IT Vet to Head Its Digital Health-Care Businesses"
+    excerpt: "The Mayo Clinic has named health-care technology veteran John Halamka as the head of its digital health-care businesses. One of his focus areas will be looking at how neural networks, machine learning and artificial intelligence can improve health care."
+    publishedDateTime: 2019-12-23T12:24:00Z
+    sourceUrl: https://www.wsj.com/articles/mayo-clinic-names-health-it-vet-to-head-its-digital-health-care-businesses-11577097000
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.E8C81C1BD49BE4D51DE0CE9EA53183E9
+        width: 700
+        height: 350
 
 secured: "0mbahE7F1txE6JFazKxzI8e7MArYPjO3barmtYW7ML02a2M82jXpz9+QJsL4OEGL3E5GfRit7FonTQWij6YRwiNHhCxi7c5R0QUl8Tr6wM59rMjiK1e1e5JXMco3q5CihJ4ZKliFGbnUG6i0F80WuOECN/+apo2K6H/a8EeY38+M01JhsjxX8ibwzzHjZ/jPJZ5ax4AJ2NPMSo/Y8hgKNyc/gf1p+DeXRqRusUSrqKC/nkzwwRNl0pyk3F89mh1iLW20sUmeim6gk1FCSHOBAA==;hfjOnVD4QwY1MfWLNKYfKA=="
 ---

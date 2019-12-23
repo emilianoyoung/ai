@@ -154,19 +154,6 @@ related:
       - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
         width: 800
         height: 500
-  - title: "AI is Moving Too Fast, and That’s a Good Thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z

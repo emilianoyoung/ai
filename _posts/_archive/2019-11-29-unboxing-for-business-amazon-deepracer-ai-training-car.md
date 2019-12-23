@@ -154,19 +154,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "AI is Moving Too Fast, and That’s a Good Thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -233,6 +220,6 @@ related:
         width: 700
         height: 365
 
-secured: "0dRnoLWgBg6kxtjWvZlNfS5VnqMZox4ZNn3heN5Myh8iQ5X4YaQuBkJRDzzxQ1Ro5ETKhwVgZXvXjRA1saM2bMkTjjBF6/DhMsJ2mpHuCrmUN9VBzwPq8Fd3ViTOIAI15zaXk9/qCCImMxERw5oXF1uw9oMzZsyp8fSVrg0qIvo8KlTucCfT8occX/KMu4vIoEsnr0aCR8UmtUA1Ixp1EsJm0eC5fu4xZmRa20MsQ74sJOdCUQ9bP5gn444t1zvNhJv2P09YWSPmX8b35mArXw==;bAjBpwGwUOslFF1dBhcumg=="
+secured: "dz7fzdsRvkDJoyggVHE4T6BUGMbbnK6kBONobkSAHkUYZEX1CVlg3zzWplsdTf+nasW4WHJED69F3hUTllOL3K0Zji7Si1ISHL0FMsr0uHDGhYqFNE4euYjZ4bq+vAL9zcOoZt/7DtCMd3Ql0G2SJeSsP4EsW0FFJjDNyBx0Rl2muC+sUePDS9QZ326GwvGaPetIfNDCd+1E9mA0tUwZj6Lmnqt+dA2dFGlNucrzEK+S10Y1Zlmzs0CVhf54u3fY9Sn+6KiEsQeSaveapiDFnA==;dp4dalSOLS6h23DAMltnlA=="
 ---
 

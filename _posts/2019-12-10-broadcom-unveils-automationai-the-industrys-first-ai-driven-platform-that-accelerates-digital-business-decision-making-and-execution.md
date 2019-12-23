@@ -23,32 +23,32 @@ images:
     title: "Broadcom Unveils Automation.ai, the Industry’s First AI-driven Platform that Accelerates Digital Business Decision-Making and Execution"
 
 related:
-  - title: "Confirmit announces AI-driven digital experience solutions"
-    excerpt: "The major developments include: new partnerships with Brandwatch and Tealium, a new Digital Feedback module for easily configuring web and app intercepts, and enhanced, AI-driven text analytics. This combination enables businesses to intelligently analyze and act on digital feedback across key digital channels of social, app and online."
-    publishedDateTime: 2019-12-10T19:43:00Z
-    sourceUrl: https://finance.yahoo.com/news/confirmit-announces-ai-driven-digital-140300579.html
+  - title: "Broadridge (BR) Unveils AI/ML Based Automation Platform"
+    excerpt: "Broadridge Financial Solutions, Inc. BR yesterday announced that it has launched Broadridge Data Control Intelligent Automation, an AI and ML platform for reconciliation, matching and exception management applications. Alastair McGill, general manager of Data Control Solutions at Broadridge, stated, “By leveraging AI and ML we are helping ..."
+    publishedDateTime: 2019-12-04T16:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/broadridge-br-unveils-ai-ml-121512974.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.3867A8EC503ED0076A82B409019EA7A0
-        width: 400
-        height: 198
-  - title: "KPMG reinforces the importance of customer experience and artificial intelligence"
-    excerpt: "KPMG in Nigeria launches a publication titled ‘AI-Powered Transformation’ to reinforce customer experience and artificial intelligence at its 2019 Digital Summit in Lagos The KPMG Digital Summit 2019 is part of series of events by KPMG to provide insights to organisations on how to leverage digital to create transformational value ..."
-    publishedDateTime: 2019-12-06T14:20:00Z
-    sourceUrl: https://www.pulse.com.gh/bi/tech/kpmg-reinforces-the-importance-of-customer-experience-and-artificial-intelligence/x667qwv
+      - url: https://www.bing.com/th?id=ON.3A2FE3D5E3EC14C118388AE5FA9137F0
+        width: 635
+        height: 400
+  - title: "Siemens Unveils AI Apps for Automatic MRI Image Segmentation"
+    excerpt: "Siemens Healthineers is releasing a couple of AI-driven and cloud-based software applications, one for the brain and one for the prostate, that automate a great deal of the manual tasks that radiologists have to perform. Both of the applications can be used with data coming from any MRI machine, so can be deployed by just about any facility ..."
+    publishedDateTime: 2019-12-04T17:26:00Z
+    sourceUrl: https://www.medgadget.com/2019/12/siemens-unveils-ai-apps-for-automatic-mri-image-segmentation.html
     type: article
     provider:
-      name: pulse.com.gh
-      domain: pulse.com.gh
-    quality: 32
+      name: Medgadget
+      domain: medgadget.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.0D4626CBDDD879266B24AF66861BC791
+      - url: https://www.bing.com/th?id=ON.8701809E3473B645462B1FDE2FB39952
         width: 700
-        height: 367
+        height: 546
 
 secured: "MuG+K+sgOC8PZQFTf9qfyvCM8++wLaEzmf+coMAHrsyCk/bI1N9kV1mFm4ivqoSIObMyTFHuxV1RY/PH2Md19eA+ZdZsxIqDDe1Rv3i0sN/YiZ4dLL1qWgXSYMiq7Ll9/AKJwpx7Dwgx87Oa0BMpTvei3zttv+d09dS9ypy4xuQvMJFq+HAO0x+i1kS31otYOXp2H1tD48thwcM0OX5KUHduFnPjTOVp/9kO+ivuzQ8HKvz9Vm98uFOHpA2KSIsM/yjN0bRCQPM88Y4yyQEUYw==;OZbAd6yP44osWie3F1r5Wg=="
 ---

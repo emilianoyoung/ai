@@ -3,7 +3,7 @@ category: news
 title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
 excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
 publishedDateTime: 2019-12-22T15:31:00Z
-sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=china
+sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22
 type: article
 quality: 46
 heat: -1
@@ -256,7 +256,20 @@ related:
       - url: https://www.bing.com/th?id=ON.14436AD3D5B1BE9D50F15C56F797C997
         width: 650
         height: 365
+  - title: "Fake Facebook accounts using artificially-generated faces"
+    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or more ..."
+    publishedDateTime: 2019-12-23T12:21:00Z
+    sourceUrl: https://www.thedenverchannel.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 24
+    images:
+      - url: https://ewscripps.brightspotcdn.com/dims4/default/3449689/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fee%2F1c%2F7792315845418ce71c225b7a822e%2Fgettyimages-586113560.jpg
+        width: 1200
+        height: 630
 
-secured: "whgn5OD64VA0+OVA0qS7rt9SgMgAIdjWAR9jry8uZwShKedNlSovcifhR9nvQkmiAIzxocgbbt6UoJlSch5xIKOQmBHRKxPxtCpEbH/a0kPwP73lWPyd9j/5F9R28nD5ynlmjH34DHUpg4QQfjKyFws2HgHlN1pM/KwqEIKjWiavxn6ODPFGzptT1DwMl11p3bo85DZNsYvH2MbVe90ejRDToHbT5qTqPdkCrcgtfIut+Z9jgy8E3w99cCZM34wt66gfb3ypHmf1U96CT5B+wQ==;YKV5Sdqt8bWxfIKQAQErbA=="
+secured: "OvYjHMEsED5v3SB6no96wcFGKPzr7weTOI1sfAWl5fbsTrL1DWWNO3HAo6vTVlGJBGIs5H1pkuvfRYDT4lX3q5c/LBQXgY4fjwLWfB/eEOgD1tpHn/VGv/aotg36VaSIEQC97bUotQb6S+8U4w4vgBYBzPlbVTaaBQfb3whP45Eab1/KEl7z1CTmuX7qbZYqTgIYlkQkY96WAMtwPaT6Hi9cIiMc06Hpe4fhDzUNYbbG+PkqtqhsYhbaMeDxvEYlEmwG9rvnCDraH+uwcT4lew==;3gDFOqt5TlbEKSgMdVb8lA=="
 ---
 

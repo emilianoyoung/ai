@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2E685FC60D1A6B273F7F4AF8A9F7A92C
         width: 635
         height: 400
-  - title: "The Top Fintech Trends to Look Out For in 2020"
-    excerpt: "AI is capable of identifying fraud, detecting money laundering and making customer ... “One of the trends that everyone should look out for in 2020 is agility, and not only agility in its classic definition. In Fintech, we talk about agility not only as the ability to reconfigure or replace your information technology systems when needed ..."
-    publishedDateTime: 2019-12-03T11:28:00Z
-    sourceUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/
-    ampUrl: https://techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-top-fintech-trends-to-look-out-for-in-2020/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.40E62D361A27E92F0522C8A46E4DEA41
-        width: 700
-        height: 420
 
 secured: "Fi2CD0gSE13bz3lcaU2dzah4Ay61D9D4I42L7KjZvzbjz8gJyCr7tcaR1Go8nAxivhI+GUywj9fkY/THkYC9CkQb8n3nptruJXQz2wg4JXV1BfrOOhl2dxCrNJZWyFACd4fvI3Q29vl4xMMMWyajBkVH5apRvBK4P5fgZ+/CfSVlWc1YNAOBSUCowPH4hmul2CFTjFST8j5ExIpHiFWCwundEy858FFjD8Iuzs6HiXtoZc8PqrfFLTgRWtRtyMdLUnXtQMa5QFJvDxM71FvHaA==;8BUXNPk1Ut3z/fWSb5a58A=="
 ---

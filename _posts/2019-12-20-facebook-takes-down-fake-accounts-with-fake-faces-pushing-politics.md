@@ -162,7 +162,7 @@ related:
   - title: "Twitter, Facebook take down global network of fake accounts pushing pro-Trump messages"
     excerpt: "Facebook Inc. FB, +0.12% and Twitter Inc. TWTR, +0.31% have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior, the companies and outside research firms they worked with said. President Donald Trump ..."
     publishedDateTime: 2019-12-22T15:31:00Z
-    sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22?mod=china
+    sourceUrl: https://www.marketwatch.com/story/twitter-facebook-take-down-global-network-of-fake-accounts-pushing-pro-trump-messages-2019-12-22
     type: article
     provider:
       name: MarketWatch
@@ -252,6 +252,19 @@ related:
       - url: https://www.bing.com/th?id=ON.14436AD3D5B1BE9D50F15C56F797C997
         width: 650
         height: 365
+  - title: "Fake Facebook accounts using artificially-generated faces"
+    excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or more ..."
+    publishedDateTime: 2019-12-23T12:21:00Z
+    sourceUrl: https://www.thedenverchannel.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 24
+    images:
+      - url: https://ewscripps.brightspotcdn.com/dims4/default/3449689/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fee%2F1c%2F7792315845418ce71c225b7a822e%2Fgettyimages-586113560.jpg
+        width: 1200
+        height: 630
 
 secured: "k4cSBvekW2h5VLLsfFMKRRh5+5cE4DWIWTyyGkqXvQNRigPPS3EU+ZgvfGtRmn7LjAdliKIwOHXpwJyUjuAu4WHSOBtQRk+2B1NdjTvnHetm+tf6Z/+otLmGBWFsPUXAT1TzmD/LXW0EKLilEiObPNcMjIWMv40HQOJiRu76Fcy8bGws/NGYC3eGSnnF1eag3CmRJ6Zra8fLvGblQ0mHkHrUB5Vl3KSMkZ7vhw28+pSndRhj6TRb6uBk/OlCE8F1e4RWGnEht1As6Gjibf1CSw==;OnkmZO7TS7vnrZ1rjqOiGg=="
 ---

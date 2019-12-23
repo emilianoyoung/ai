@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-publishedDateTime: 2019-12-23T08:40:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
+excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
+publishedDateTime: 2019-12-23T07:40:00Z
+sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
 type: article
-quality: 14
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
 
 related:
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
@@ -27,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
-    publishedDateTime: 2019-12-21T03:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -137,6 +134,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "H6uiz8DgooLswthrYb7BEPP3pDQK0/VAAk9dAVni67NnW8+KT8yxyyOXHMPDeZhDvDN3s9DvenJH+pJBrZ5cdC71eKdtXnhtCkbtRHIUEeRqOFQOOh/rT/yHX4tINwH0PMUR9OaMHV+NisTVMqO6vXr9Vz2zLZ7Q0nmFCGsOnkeLmzwc94x1I+DPZE7KZAdFWbv8gUdNiyfkkAmSYaXZMs0WhVmvn7fw8m3a4+Qd9oy9mQt4ucvKZJOEwGekHrQuxWZFu2odrV+zKO0Sk1V53w==;7Yg2jOMaHWwo2rKexJJjgQ=="
+secured: "/SnrEOR+9/DW1humA5zLVSiOWKtplFrkS02+mIFonVzfAI1iJi0ZFSDvAPlJJqoS1UnP4TxnqLElDLkbRLbREjXQgoQsCFQk/XILzrJtZfMJ6eHmV0u+gYjBWulcfoSOQvR8IWyDPJ1UOHX8vOAxjrrULlzGIGUlxoMFjtYZbjFcBw21vT/8s/+QTPhxNb0Vu9v2gi1GjVMztUngfbAysprdKR8VlCMrP/Ats9uwt2Y33R7+ZX1KDcPAxKlckwBfaF+8QirnyAZCCFyoHm2Q7Q==;ROEDtItD+M/XVGh39D+loQ=="
 ---
 

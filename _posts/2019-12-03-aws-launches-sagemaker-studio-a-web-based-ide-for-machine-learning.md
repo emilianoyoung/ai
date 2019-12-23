@@ -154,19 +154,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "AI is Moving Too Fast, and That’s a Good Thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -233,6 +220,6 @@ related:
         width: 700
         height: 365
 
-secured: "kHC6E3FxywuSw9JCDvqqpKdlXS+V1aRnm9NW6ibfgU0j8z1Orm6sx/vCbhz36+5hxS/dv2AlzND1xbQWUutCd4+oX+lgCGE/iyHWY4grFyed2tP+uJgUgsDmvW/Kx6RQ0LtS6xD3KMpx/Hbodk1kkV0zv9NaFYNX7zRIwA4QhY4sV/Ib44DKC7ZV8IopZuYW2Fmi1NR/m8m149Ay9AkeDC7eiRKk8eSDui2clzlRjy7yaRuHYq6znDsVwV8j8JsXtCuDL8mom6lpBda786W15w==;nRhD8+cV5tlYUy14GS0N1A=="
+secured: "HygZdDEh8B5qAJra72qRHJmS3A8DLxjYC1V/tWZZ7owluF5IGeCey8rlSv7c+4e+5pVCTcisAN0jruVaCSarRu+CyCJe/vsp3TtYvJAddLwsobPlhKMf9PTkNN0s5Pj0vIC+n4Qqh10JGOfqK2q+T6G8TV454lfYObCh2KxyHMzbMepUFIcS5AJQuiIBipNoFRAwIMrqqMhFzwRYky7dvsrEqcTlIiMnOJ4OqIekhAkvVE5QO1ECCmJjGn5AU4QfY1xb8gScj+/+qnyVwPqqag==;YxdvgSTKzKT5TP3X7MM3vA=="
 ---
 

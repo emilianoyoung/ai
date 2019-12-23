@@ -118,19 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B29BF5305630D9A2599CBFBC3F6556A1
         width: 400
         height: 251
-  - title: "Global Robotics and Automation Markets 2019-2024 in Industrial, Enterprise, Military, and Consumer Segments - ResearchAndMarkets.com"
-    excerpt: "Adoption and usage is anticipated to rapidly increase with improvements to artificial intelligence, robotic form factors, and fitness for use, cloud computing and related business models, such as robotics as a service. The global robotics market is broadly segmented into enterprise, industrial, military, and consumer robotics. Major market ..."
-    publishedDateTime: 2019-12-03T11:27:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191203005553/en/Global-Robotics-Automation-Markets-2019-2024-Industrial-Enterprise
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.84394F7BC5D1CEA7721D120511082191
-        width: 700
-        height: 365
   - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
     publishedDateTime: 2019-12-10T19:45:00Z
