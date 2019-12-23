@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4B8C5A4565FACAD03AE81B28A8A19855
         width: 600
         height: 315
-  - title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
-    excerpt: "The tools in the flow support the company’s Intelligent System Design ™ strategy, enabling advanced-node system-on-chip (SoC) design excellence for AI and HPC applications. About Cadence Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play."
-    publishedDateTime: 2019-12-10T06:04:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005160/en/Global-Unichip-Corporation-Cadence-Digital-Implementation-Signoff
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
-        width: 700
-        height: 365
 
 secured: "oYU5t2udhsAYBCCgFQm6GHB9rfv4wdrXY5cFjHk0fOV44jZmH9JNctmbfwaryXevO59mF6fg1ciIN+ulghHw2c+b+WRyslmcXdV8zbqs+dArJjX8+tjmetPTrakG3cWTfx1F3mChhgn4Ijhgvfj/mtgJdJhxrzay7IlpR6cRYGmPouu/clzWvhH6V8coxVz7jU0zcj1LkqTo6l1VKJjKkLupjOeODusY632o4hEZyLrTcQ2XGQ25WYwvFdj+dhQOze3xCv/A6GZ0FGtpgsW+uQ==;LFo5HmhBpMmdWQueSwxbfA=="
 ---

@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0177F89CEEA6139BE59290748187C347
         width: 700
         height: 393
-  - title: "Data management in the construction sector by means of artificial intelligence"
-    excerpt: "Karlsruhe Institute of Technology (KIT) successfully participated in the innovation competition on the use of artificial intelligence (AI) launched by the Federal Ministry for Economic Affairs and Energy (BMWi). The KIT-coordinated research project SDaC - Smart Design and Construction will be funded. With the help of the new AI platform ..."
-    publishedDateTime: 2019-12-03T15:40:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/kift-dmi120319.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.6BC3D2420E208FAF0D80762C7E79859C
-        width: 700
-        height: 466
   - title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
     excerpt: "The Dutch bank improves its access to strategic information thanks to the cognitive capabilities of Cogito®, resulting in cost savings, increased efficiency and improved customer experience Rabobank is a bank that is run for clients. Established in the Netherlands, Rabobank has grown to become an international financial services provider ..."
     publishedDateTime: 2019-12-05T12:30:00Z

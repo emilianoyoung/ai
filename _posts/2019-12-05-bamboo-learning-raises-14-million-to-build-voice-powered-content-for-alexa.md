@@ -52,24 +52,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
         width: 400
         height: 300
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented ..."
-    publishedDateTime: 2019-12-06T21:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/06/1957454/0/en/Throne-speech-recognition-of-mental-health-and-addiction-support-applauded-by-pan-Canadian-health-organizations.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
-    publishedDateTime: 2019-12-07T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/throne-speech-recognition-mental-health-210431884.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "SGaXvgEfNqHZzaSfQ3O0HcXY2LDDoeJkI9Atr+e7CiR0DWSwfWqUzU72+iUbgf7RET+MZnGHV9TR1c7Mlk4fMGtBxLBhJChu3pT3EEQQKAdJxSaLRI9TMTwGqkWt9SWwtGJNYVxWDW2BO03WRFALdoTdPwIpOBO+GIlM/0E1zPYw6Wu+6BEhayc+Rg2cGcmlKnjwNt+9WRfbbZhDVQfdUPh6aLqQZHS/IvsZs2p9XuM6FUjv5kfUUeXV7cucgesgZxO9acrFixYhA6Bb40zaUA==;SADWOqIf9d2u5/CUeThaRw=="
 ---

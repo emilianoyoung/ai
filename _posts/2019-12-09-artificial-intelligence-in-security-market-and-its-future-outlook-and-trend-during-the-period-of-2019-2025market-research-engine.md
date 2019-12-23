@@ -311,19 +311,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI In Call Center Applications Market Detailed Business Analysis, Latest Trends and Demand 2019 to 2024"
-    excerpt: "Global AI In Call Center Applications Market This market research provides an analysis of the most important trends expected to impact the market outlook during the forecast period. Research classifies an emerging trend as a major factor that has the potential to significantly impact the market and contribute to its growth or decline."
-    publishedDateTime: 2019-12-09T04:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-call-center-applications-market-detailed-business-analysis-latest-trends-and-demand-2019-to-2024-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence-based Security Market Technology Innovations and Future Prospects 2019 to 2025"
     excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The report titled \"Artificial Intelligence-based Security Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
     publishedDateTime: 2019-12-11T05:45:00Z

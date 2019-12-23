@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T10:18:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-55523-x
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 685
     height: 514
     title: "Identification of clinical and urine biomarkers for uncomplicated urinary tract infection using machine learning algorithms"
+
+related:
+  - title: "Detection of anaemia from retinal fundus images via deep learning"
+    excerpt: "Owing to the invasiveness of diagnostic tests for anaemia and the costs associated with screening for it, the condition is often undetected. Here, we show that anaemia can be detected via machine-learning algorithms trained using retinal fundus images, study participant metadata (including race or ethnicity, age, sex and blood pressure ..."
+    publishedDateTime: 2019-12-23T16:15:00Z
+    sourceUrl: https://www.nature.com/articles/s41551-019-0487-z
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.19C51A1405BE85B8D7B18A025EF1CA5A
+        width: 685
+        height: 657
 
 secured: "nC1mpuH/fKaRiz3FnKAuMGd9pd4BMw6CaEX90RJlp+3nlJ3Z/ZGByhMGhgJz6mNFZfH5iFJllffTsXcPNXTF7rqRgmQQWffwbz2PU889EVZQih6IxnUma6J/87rmn+hCwCOWSjfwui6MWoaFRkMYOvCesQ3crqOD/mAaMpxW1ZRW8dwG/2GDU5fWbnD9Yd4V4HvYJyzm5EWWEI81CBAiy0KJ7tAh8nnTGDqn6LjhwAMuXeGxoHGGdsAGD1PX9Ea6502v144wJw/ZdRG7K9Ke4w==;76+3x8gKQf2czzvC0BCeLA=="
 ---

@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
         width: 700
         height: 367
-  - title: "From algae to AI, the 12 themes experts predict will shape the world in 50 years"
-    excerpt: "From their 550 answers, some clear themes emerged: AI will be transformative, climate change will dominate, the genetic revolution will be in full swing. When taken together, these themes paint a fascinating picture of our future world, from the perspective of people who have laid the groundwork to shape it. The themes show that, while experts ..."
-    publishedDateTime: 2019-12-03T15:34:00Z
-    sourceUrl: https://qz.com/1755751/twelve-themes-experts-predict-will-shape-the-world-in-50-years/
-    ampUrl: https://qz.com/1755751/twelve-themes-experts-predict-will-shape-the-world-in-50-years/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1755751/twelve-themes-experts-predict-will-shape-the-world-in-50-years/amp/
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.9A4DEBF7C33ABE3140DD64C895A6E46E
-        width: 700
-        height: 466
   - title: "Spotting drivers on their phone is just the tip of the iceberg for AI-enabled cameras"
     excerpt: "The state’s transport agency said it had integrated machine vision into roadside cameras to spot offenders. The AI automatically flags suspects, humans confirm what’s going on, and a warning letter is sent out to the driver. “It’s a system to change the culture,” the assistant police commissioner of New South Wales, Michael Corboy ..."
     publishedDateTime: 2019-12-04T11:59:00Z

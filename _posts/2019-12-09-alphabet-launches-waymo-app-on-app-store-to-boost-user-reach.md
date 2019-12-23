@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Alphabet Launches Waymo App on App Store to Boost User Reach"
-excerpt: "Given this upbeat scenario, companies like Baidu BIDU, General Motors and Apple, among others, are also making every effort to reap benefits from this market. In fact, Apple hired Doug Field, a former chief vehicle engineer of Tesla, and Jaime Waydo, a former engineer of Waymo and a veteran of NASA for its self-driving project, in an attempt to ..."
-publishedDateTime: 2019-12-09T16:12:00Z
-sourceUrl: https://finance.yahoo.com/news/alphabet-launches-waymo-app-app-152503511.html
+excerpt: "Meanwhile, Baidu received license for five of its self-driving vehicles in China in September 2019. Nevertheless, Alphabet’s growing autonomous driving initiatives are likely to aid it in ..."
+publishedDateTime: 2019-12-09T20:27:00Z
+sourceUrl: https://in.finance.yahoo.com/news/alphabet-launches-waymo-app-app-152503511.html
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Alphabet Launches Waymo App on App Store to Boost User Reach"
 
-secured: "ju2r1NUWJPnYgRjLlnMmyHiBUYVBhskQ/l0bG2I707uBLg/Aa9yvPCA9yufQHiT3QY4yu5o6FbthjG8P0IyMU4OWC3EgX52Mv847d/aJ5sVZYKkkkFP8OSIL8pLVx40zHTukwMgn+I9mwqJ5POq1e1bWWEf/x4q869zzZm4MBRVfJOHoJaZRCN/OdyoJa8tJQ9eFUehmLy4dcDUgdraQGEjvl+lXScKkftSigwWk+RJHaGx5MicNHxLB6cGNi8OEIxc+QHQ0Fx8Cst5qrFk0jQ==;fFY4y+KRBf/Lbteja0qwWA=="
+secured: "srm7zHXtEP+2vD+tmUe7qaQJ1eik/ORBsqGH/KaKi8OwO2QWr+u0Bq3s4/syj9NbPeS4YTRsx4D0jbiup6/2nQBOB/VN8HirfADOJ8NEEZR9YgmMHuVjxHDYHWpOeLLLnlLIMDM5Ol/W3rPPIfPcTUt0nOkJjGgY98zqiQeV/kgDdn5VCFEAF3iCsXsYVXa5q55PKoFCK7KbidOgcxwIIJvj7P5VkIJ3lCkQmuvMtbS7M5yhsUlFs1zAnRf5qCpuvRDJEc/EmJIa7czuhT1j0A==;nCkEDUYoXJ/wn+5+49KYTA=="
 ---
 

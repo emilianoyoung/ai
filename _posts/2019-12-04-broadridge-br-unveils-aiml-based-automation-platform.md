@@ -23,19 +23,6 @@ images:
     title: "Broadridge (BR) Unveils AI/ML Based Automation Platform"
 
 related:
-  - title: "Siemens Unveils AI Apps for Automatic MRI Image Segmentation"
-    excerpt: "Siemens Healthineers is releasing a couple of AI-driven and cloud-based software applications, one for the brain and one for the prostate, that automate a great deal of the manual tasks that radiologists have to perform. Both of the applications can be used with data coming from any MRI machine, so can be deployed by just about any facility ..."
-    publishedDateTime: 2019-12-04T17:26:00Z
-    sourceUrl: https://www.medgadget.com/2019/12/siemens-unveils-ai-apps-for-automatic-mri-image-segmentation.html
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8701809E3473B645462B1FDE2FB39952
-        width: 700
-        height: 546
   - title: "Broadcom Unveils Automation.ai, the Industry’s First AI-driven Platform that Accelerates Digital Business Decision-Making and Execution"
     excerpt: "LAS VEGAS, Dec. 10, 2019 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) today announced the availability of Automation.ai, the industry’s first AI-driven software intelligence platform purpose built to accelerate decision-making across multiple business and technology domains that support digital transformation initiatives. As enterprises ..."
     publishedDateTime: 2019-12-10T16:52:00Z

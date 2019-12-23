@@ -52,24 +52,6 @@ related:
       - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
         width: 480
         height: 480
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented ..."
-    publishedDateTime: 2019-12-06T21:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/06/1957454/0/en/Throne-speech-recognition-of-mental-health-and-addiction-support-applauded-by-pan-Canadian-health-organizations.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
-    publishedDateTime: 2019-12-07T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/throne-speech-recognition-mental-health-210431884.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "ikSSyXzczUv+guemOHQBlztMnU2N+ayIsbe3D0qw+tagsj6DwHNjgCnTdSlbwtA+MypGH53RGUiO+AhrFscZrRED+VP87jhmdIoAxCmU45XYtz26ABrr7qh2fLl+fRvKDcee9HQ5s3M/H8GjKdHk/ve1dS8I8AeziMPtFaUU/mW8qSYPCanstYScfkE5VYn1frJkPFBb8CPhX41tkUh1yTwAi6ffTzJ78sLhX4nNftfkJTSFsC/LwMxA+NPSOWp9l04NgzY7VnVh7f65x95N3w==;BGS566RNLprJlfOy1jCx/w=="
 ---

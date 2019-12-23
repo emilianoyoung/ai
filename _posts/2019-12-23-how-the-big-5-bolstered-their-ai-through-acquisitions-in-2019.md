@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-thro
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/amp/
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -75,6 +75,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2A28CF672EF7C47EA35BBD8F97470294
         width: 600
         height: 338
+  - title: "Automotive Industry Puts the Pedal to the Metal with AI"
+    excerpt: "The growing importance of AI to the industry is underscored by the substantial investments the industry is making in new technologies. To that end, the research firm Tractica forecasts that the market for automotive AI hardware, software and services will reach $26.5 billion by 2025, up from $1.2 billion in 2017.[1] While significant amounts of ..."
+    publishedDateTime: 2019-12-23T16:28:00Z
+    sourceUrl: https://www.hpcwire.com/2019/12/23/automotive-industry-puts-the-pedal-to-the-metal-with-ai/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
+        width: 700
+        height: 373
   - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
     excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
     publishedDateTime: 2019-12-18T18:14:00Z

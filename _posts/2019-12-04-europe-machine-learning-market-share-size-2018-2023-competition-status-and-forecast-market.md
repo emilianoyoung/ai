@@ -55,6 +55,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "North America Machine Learning Market Analysis by Top Companies, Driver, Existing Trends and Global Forecast by 2018-2023"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others. There is a notable trend of using machine learning models in the media and entertainment industry. This is done to better the customer experiences, keep them engaged by providing them relevant content and make a drive towards greater viewer personalisation ..."
+    publishedDateTime: 2019-12-04T06:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/north-america-machine-learning-market-analysis-by-top-companies-driver-existing-trends-and-global-forecast-by-2018-2023-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine learning as a Service Market: Meticulous Research Reveals Why This Market is Growing at a CAGR of 41.5% to Exceed $13.5 Billion by 2025"
     excerpt: "Dec 05, 2019 (Heraldkeepers) -- Machine learning as a service is a set of services that offers machine learning tools and algorithms as an integral part of cloud computing services in order to reduce the time and cost required to set up a professional machine learning team in an organization. Services such as data visualization, natural ..."
     publishedDateTime: 2019-12-05T13:06:00Z

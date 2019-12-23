@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/current-health-raises-11-5-million-to
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/current-health-raises-11-5-million-to-predict-diseases-with-ai-and-remote-monitoring/amp/
 type: article
 quality: 85
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -55,24 +55,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
         width: 400
         height: 300
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented ..."
-    publishedDateTime: 2019-12-06T21:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/06/1957454/0/en/Throne-speech-recognition-of-mental-health-and-addiction-support-applauded-by-pan-Canadian-health-organizations.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
-    publishedDateTime: 2019-12-07T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/throne-speech-recognition-mental-health-210431884.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "1jtQq2sYOex3wCfMejGvUpe/b721CVJ4AgIuCR1M3PNQwfaNk2HejBQUcw87hN0V6rRQIlEdzBQIbCNj59mCNoMcZaTnKBgd6adrk46Yn0uETnNCUhmvEWaiOw8MJGpPYYboPeC1pDdQtiAr2BL+jBvralZ3ViNTGVCNPJDk0cpMczfSkHjop8Xh1LiBO8nYqDYGzP9RoIBOO0CI29Hbmik2Vyh5aB51e0MY+xL6HfMatTJm/86oEtJ0KSqcIyPNkB5/npuognEAntOyP5yiBQ==;Ynkq50Wdw+Wc1xxr5DBNbA=="
 ---

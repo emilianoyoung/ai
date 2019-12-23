@@ -311,19 +311,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI In Call Center Applications Market Detailed Business Analysis, Latest Trends and Demand 2019 to 2024"
-    excerpt: "Global AI In Call Center Applications Market This market research provides an analysis of the most important trends expected to impact the market outlook during the forecast period. Research classifies an emerging trend as a major factor that has the potential to significantly impact the market and contribute to its growth or decline."
-    publishedDateTime: 2019-12-09T04:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-call-center-applications-market-detailed-business-analysis-latest-trends-and-demand-2019-to-2024-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in the Education Sector Market Technology Advancements and Business Outlook 2019"
     excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The report Artificial Intelligence in the Education Sector Market provides a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and supply data (as applicable). The research ..."
     publishedDateTime: 2019-12-04T03:07:00Z

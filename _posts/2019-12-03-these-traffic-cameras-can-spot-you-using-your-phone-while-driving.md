@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/there-are-now-traffic-cameras-that-
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/there-are-now-traffic-cameras-that-can-spot-you-using-your-phone-while-driving/
 type: article
 quality: 172
-heat: 192
+heat: 172
 published: true
 
 provider:
@@ -27,38 +27,6 @@ images:
     width: 700
     height: 525
     title: "These traffic cameras can spot you using your phone while driving"
-
-related:
-  - title: "AI cameras to catch texting Australian drivers"
-    excerpt: "Artificial intelligence (AI) cameras capable of detecting drivers who are using their mobiles illegally have been activated in Australia. The cameras were launched by New South Wales (NSW) Transport on 1 December. Drivers spotted by the AI during its first three months of use will receive a warning letter but after that they could face a fine."
-    publishedDateTime: 2019-12-03T15:42:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50630763
-    ampUrl: https://www.bbc.com/news/amp/technology-50630763
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50630763
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.397A9FB8F95E7ACC402DADD8A9D205AA
-        width: 700
-        height: 393
-  - title: "Making The Case For High-Performance AI Driving Skills In A Self-Driving Car"
-    excerpt: "It seems like an unsolvable problem. Wait a second, what about the advent of driverless cars? Here’s a worthwhile question: Would we be wise to ensure that true self-driving cars have high-performance driving skills as an integral part of their AI driving capabilities? I say the answer is yes, very much so. Let’s unpack the matter and see."
-    publishedDateTime: 2019-12-03T15:24:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/03/making-the-case-for-high-performance-ai-driving-skills-in-a-self-driving-car/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/03/making-the-case-for-high-performance-ai-driving-skills-in-a-self-driving-car/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/03/making-the-case-for-high-performance-ai-driving-skills-in-a-self-driving-car/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.17D814F31426CD80316A3C0720C52F40
-        width: 600
-        height: 315
 
 secured: "k4gQ6bTOgeiNmcx7zuHDd2bsGOrkXNR28Beoh20j+S+VTYw8+EoY4rIqZJonVvQ82nVC9GDXV9/a+zX7jAMmDDKC3nE/lEzgZK0qzpZgyLGEIHYBN8a6P4fY4ExXel7SC2+4RsuJnbEaMgNb5yWYuHFCKBoE6Mn6b6LLYhHNNCArEik1MwvvupIXf2UZsJjWHpr4pQUzeW9DGZMFjVfhKL7P53D5xkyNtqet1bn4w3IShUMgMkh/hl1SrzhsiTAJKR3gr2JGuUlBbGuQO++28g==;8ntsAjJiJbQMT7b22mBoSw=="
 ---

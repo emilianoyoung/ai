@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T06:54:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-analysis-2018-application-revenue-excessive-growth-2023-2019-12-04
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -51,6 +51,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "North America Machine Learning Market Analysis by Top Companies, Driver, Existing Trends and Global Forecast by 2018-2023"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others. There is a notable trend of using machine learning models in the media and entertainment industry. This is done to better the customer experiences, keep them engaged by providing them relevant content and make a drive towards greater viewer personalisation ..."
+    publishedDateTime: 2019-12-04T06:44:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/north-america-machine-learning-market-analysis-by-top-companies-driver-existing-trends-and-global-forecast-by-2018-2023-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/12/ai-and-the-dea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/12/ai-and-the-death-of-exploration/amp/
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
         width: 685
         height: 274
-  - title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
-    excerpt: "The tools in the flow support the company’s Intelligent System Design ™ strategy, enabling advanced-node system-on-chip (SoC) design excellence for AI and HPC applications. About Cadence Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play."
-    publishedDateTime: 2019-12-10T06:04:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005160/en/Global-Unichip-Corporation-Cadence-Digital-Implementation-Signoff
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
-        width: 700
-        height: 365
 
 secured: "oVyuu7NP7RlFWQxZaEiL9YI1ZY4FCgz3hFKHTh6QEdlmUPIwCg7vs+0N799HrgDNC3KVkCQSlc8KgdEkzWq1L4owKOib3TeNmTMybpxdS4YResDoPQXpucMon6mg96xh+/61nz6/2MV+y6H7pWE0ATVQAa+3aNSGjayMEyFjX7xv9sEu5dTDvpuUS9JNH8ox/xnkR9QLDGeT1zQYCG0C593OjV73krgy0BUF9LYvZKZrzeCe6Oat2smaUuddZyIvLB9gzHXAQWQup63ZKLDR6Q==;IAyx3MHlW3G9KwBj+zOHew=="
 ---

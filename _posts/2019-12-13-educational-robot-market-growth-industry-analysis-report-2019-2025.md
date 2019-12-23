@@ -471,6 +471,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 19
+    images:
+      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+        width: 300
+        height: 300
   - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
     excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
     publishedDateTime: 2019-12-18T12:39:00Z
@@ -480,15 +493,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:01:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "O2u7zBpKzmUlnS6jL+QIeyitLX7c1FJVWB0BaPhx60Onu91WfmVpa4pXcCgGVjBoD75OThZocsQt7o5eqPk6rPSvA4D2nNfbs4h6S/ZdQyIRjPIHcC6hqmuhVyu0GlNJpNnWzfxTxEt6P39BxaHv6DlIT8v/v/0wne6T4BV84Zh/e1m/D6oGATbWRQNsgKoX7O6SrRGe3D5ZZdUV6sDg0YwMFRIDtmJIun51aFtB/TFbGrfRMHd78F1hQnskR7cb7nHBtDFjvgTqK6FwXsArLw==;dr8XHx/xMDmJSzNroVz5cw=="
 ---

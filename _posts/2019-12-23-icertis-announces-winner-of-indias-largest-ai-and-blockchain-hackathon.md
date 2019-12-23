@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
-excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"I would like to thank all the 10,000 participants in the Hackathon,\" said Monish Darda, CTO & Co-Founder, Icertis. \"We were amazed ..."
-publishedDateTime: 2019-12-23T12:41:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/icertis-announces-winner-of-indias-largest-ai-and-blockchain-hackathon-300978906.html
+excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
+publishedDateTime: 2019-12-23T13:54:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
 type: article
 quality: 39
 heat: 39
@@ -11,18 +11,33 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.4B02FC7E608BF444AFF1C6DFD24FA021
-    width: 533
-    height: 300
+  - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
+    width: 600
+    height: 315
     title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
 
-secured: "CnLdE+av2Y2ppmxHq+8ox7/aKHpMakbNaCPTJYHZB+dwDWS6eiaNcFFdwmEPVl6X+dIME26H7DNnrsl50OCPb+rwTZT7tuI+7cW+c86Hh5PhCDzqZWGUx5jMoiX9SWmY7+N9MpVi5YWSJWkAMnNqi/lFve/CZnXU/olNihZZeektc9u6lHNc1JTfCvWPSD1kCqXaZVVe7kreYSd5XsvB15po/ykiPzC6NJ8dc7uJ1atrzPVJBqe2JE6SdrU6haJcXdWSvKLD+h7HWVJjeDYLdQ==;p532tUZbkWNRXHg3v6HMGA=="
+related:
+  - title: "Best AI stories of 2019"
+    excerpt: "Moving AI from the cloud to the edge was a big trend in 2019. Chris Cheng, distinguished technologist on the hardware machine learning team at Hewlett Packard, takes a look at some of the latest research being done on AI inference at the edge. Using novel ..."
+    publishedDateTime: 2019-12-23T11:59:00Z
+    sourceUrl: https://www.designnews.com/artificial-intelligence/best-ai-stories-2019/106107540362100
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7F3183FE8058D5C2950C2AE826925AEF
+        width: 700
+        height: 298
+
+secured: "a59KVoaa0X+5il0Gms1ogxwIzyTCeNIbOTvowtk1NLC5D161UTRiVb5ebnE4wcNNPruMCgQu6nL4243AVxmwDFwwBhi64HSpxuRwxjhrMEiMmHNlF0Vrmrrl1Iz3G8QjgMO3lJEAfSXs54HKRs4za5d48+lpM+43MO6bs7TXJXL+GaFbgR47jXmCCVXucYXI59zZp4iWUg5Gp7Lx35fn/J8c8wmMoxITn+0ggpa7XdFz5CU03s1ySOtDuFcA+53SNVCL5x2yjLxbHm5o45WWDg==;v2DxJmvABMbdg9FnAXnSiQ=="
 ---
 

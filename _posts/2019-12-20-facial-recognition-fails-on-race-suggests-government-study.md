@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
+  - title: "Third Massachusetts Community Bans Facial Recognition Tech"
+    excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
+    publishedDateTime: 2019-12-23T16:21:00Z
+    sourceUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
+    ampUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
     excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
     publishedDateTime: 2019-12-19T16:50:00Z
