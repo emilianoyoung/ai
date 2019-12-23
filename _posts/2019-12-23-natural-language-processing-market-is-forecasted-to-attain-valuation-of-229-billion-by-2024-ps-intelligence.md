@@ -1,31 +1,21 @@
 ---
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
-publishedDateTime: 2019-12-23T07:40:00Z
-sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
+excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
+publishedDateTime: 2019-12-23T08:40:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
 type: article
-quality: 64
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
 
 related:
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
@@ -147,6 +137,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "ExluyFXkC+nQiA1zPCPYz17dD35U+IWfvoLO8dklXyySzHhB3YCjKB3haEmfvESc9tQnXcaoB3pBfRqDvw0W1PA8SiSnsOHxMeOWUMBw2ENSe5h0E8qLsf6+dSzAk/6l14rT2jEUJ3DZ+pn9feSfozJvVUEbyWuxEhGeygkNQ7mEbDcmEwBzF39zLs9oP3Axp1QYf58aoanz21zQ2KmDfac5EnzLWoBDvITIItAbImw7m9XSO3r/JNJjJtPSw77sm8v3QU+/Hn2PED8AE0Ctkw==;mC3nny6F7Jd/ikK1KBjdpA=="
+secured: "eBH7A7lIrODovuwVEpodicqYkqXeco79Y4c6WncAgIAK9lEkwIQ2zuYjX5IcXEEqwbzxOHFtINZ7mAFJLKbQ7uiVdzpUCJ6RSq9E4wP9vRKmKgpEEflN5liZg/Bv9IWIvMfKeak2g6Z1aONPa8vq9X/j32f+GIbWq8XqFoJRdejra3QHhepTJGg0qlMoJg3jRz/NIHKw8aUlRgTfEE9s5J+4AYqkFBpE1MGz1Dn6AXuAloK1xekVUAJ2PFglqMdxygpJsX7nAvIWcKe6RZQqhA==;nhNE0TuZw95NhDLbvVh+4A=="
 ---
 

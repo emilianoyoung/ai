@@ -42,21 +42,6 @@ related:
         width: 700
         height: 335
   - title: "Portag3 Ventures closes $320 million second fund focused on fintech investment"
-    excerpt: "Portag3’s Fund II has already been making investments prior to this final closing, and has already put money into KOHO, Clark, Integrate.ai and startup-builder Diagram Ventures, along with 13 other startups. Its first fund invested in a number of fintech-related companies, including Clearbanc, Drop, League and Wealthsimple, as well as some ..."
-    publishedDateTime: 2019-12-03T09:07:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/portag3-ventures-closes-320-million-second-fund-focused-on-fintech-investment/
-    ampUrl: https://techcrunch.com/2019/12/03/portag3-ventures-closes-320-million-second-fund-focused-on-fintech-investment/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/portag3-ventures-closes-320-million-second-fund-focused-on-fintech-investment/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: https://www.bing.com/th?id=ON.24C407A2D7A3996A6D7092B0090646D4
-        width: 600
-        height: 400
-  - title: "Portag3 Ventures closes $320 million second fund focused on fintech investment"
     excerpt: "Portag3's Fund II has already been making investments prior to this final closing, and has already put money into KOHO, Clark, Integrate.ai and startup-builder Diagram Ventures, along with 13 other startups. Its first fund invested in a number of fintech-related companies, including Clearbanc, Drop, League and Wealthsimple, as well as some ..."
     publishedDateTime: 2019-12-04T00:14:00Z
     sourceUrl: https://news.yahoo.com/portag3-ventures-closes-320-million-090038986.html

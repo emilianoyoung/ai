@@ -65,19 +65,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Key focus areas for risk and operational resilience in the UK banking and financial services sector in 2020"
-    excerpt: "Alongside this, with the availability of advanced machine learning/artificial intelligence-led tools ... the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA); is demanding demonstrable operational resilience of every conceivable aspect of business across firms’ operation. This is in addition to the abundance ..."
-    publishedDateTime: 2019-12-03T09:35:00Z
-    sourceUrl: https://www.continuitycentral.com/index.php/news/erm-news/4679-key-focus-areas-for-risk-and-operational-resilience-in-the-uk-banking-and-financial-services-sector-in-2020
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 21
-    images:
-      - url: https://www.continuitycentral.com/images/banners/fortressjuly2019-650.jpg
-        width: 270
-        height: 670
 
 secured: "wC89hSGKt2rIEk482/2RY3WNwcMTbsEFutp7uxCmCPVc2kZDp6H88IdK97Sdngfxv36PhObSzv/iqVDbtCOcq/ySM2z+G7bzBer9Q48u2FrwxK0u2l3U1WqxuCr7LVkNu6NgG01fvOCmIW+Kj0Kl3Ofu/8JRDyHSZUwgvfjyc207YkjHBLbHCp51jo98GMRNuKJ3OqiRL9Nhdn3H1EJw1JEH0jBcvHccaY3gw7NzDpufX++U+8i1UVzs8e34X+3RInJ09SBXBL8KorJrRyyiBA==;zWdu2iqmQ4Y9Lg7kunbAIQ=="
 ---

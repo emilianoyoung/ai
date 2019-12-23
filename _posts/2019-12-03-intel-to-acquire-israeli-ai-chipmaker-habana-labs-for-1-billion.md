@@ -67,19 +67,6 @@ related:
       - url: https://www.crn.com/resources/0258-0e204f335c94-fe3964c3e127-1000/ai-400.jpg
         width: 399
         height: 399
-  - title: "Intel in talks to buy Israeli AI chip co Habana Labs"
-    excerpt: "In June this year, Habana Labs announced the launch of a new chip called Gaudi. Gaudi is an AI Training Processor for data centers, which the company says will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs. The Gaudi chip joins the company's Goya AI Inference Processor launched a year ago."
-    publishedDateTime: 2019-12-03T09:55:00Z
-    sourceUrl: https://en.globes.co.il/en/article-intel-in-talks-to-buy-israeli-chip-co-habana-labs-1001309508
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.DA66937117B3BDD960F93EF77E49F3ED
-        width: 700
-        height: 343
   - title: "Intel in talks to buy Israeli AI chip co Habana Labs - report"
     excerpt: "In June, Habana Labs announced the launch of a new chip called Gaudi. Gaudi is an AI Training Processor for data centres, which the company says will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs."
     publishedDateTime: 2019-12-04T07:50:00Z

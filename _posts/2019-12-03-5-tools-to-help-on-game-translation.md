@@ -24,19 +24,6 @@ images:
     title: "5 Tools To Help On Game Translation"
 
 related:
-  - title: "The 30-Second Trick for Medical Translation Company"
-    excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
-    publishedDateTime: 2019-12-03T09:14:00Z
-    sourceUrl: https://adnews.com.br/sem-categoria/the-truth-about-medical-translation-company/
-    type: article
-    provider:
-      name: Ad News
-      domain: adnews.com.br
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.599495EC5362E26B6744D939D0ADCC81
-        width: 307
-        height: 217
   - title: "Found in translation: Entrepreneur Oya Koc interprets her way to startup success"
     excerpt: "An example: “As a foreigner, you may receive a letter in Japanese, which you may not be able to read, let alone machine translate. What you can do on our app is take a picture of the letter—or anything that you’d like to have translated—send it to an interpreter or translator, and receive the translation.” Beyond services for ..."
     publishedDateTime: 2019-12-08T22:15:00Z

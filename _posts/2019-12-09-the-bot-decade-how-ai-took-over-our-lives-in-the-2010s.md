@@ -8,8 +8,8 @@ ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-art
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: Popular Mechanics
@@ -24,6 +24,21 @@ images:
     width: 700
     height: 350
     title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
+
+related:
+  - title: "AWS blames Trump for its loss in the JEDI bid"
+    excerpt: "AWS concluded its introduction by saying that it was “impossible to shield ... Industry leaders say that the DoD's enterprise cloud will allow the warfighter to access data quicker, consolidate data and develop artificial intelligence. As expected, the lawsuit cites several of Trump’s own statements as interference in the contract ..."
+    publishedDateTime: 2019-12-09T19:28:00Z
+    sourceUrl: https://www.defensenews.com/it-networks/cloud/2019/12/09/aws-blames-trump-for-its-loss-in-the-jedi-bid/
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7ECFC7138165B95AFD7FF9E47F273001
+        width: 700
+        height: 367
 
 secured: "z5s53QN8Jrwq44jV4ZS+FbzKnr+q88URu4ZXpvEjxGVkjPVfvHSvcnrSIP59kMN2wJ6fOkB73dyg+kdN3HzhorhHCY9Y+oylaf2tuJwjKhdu8CV0Z3YNy3KqH/4Ez5m2P76qOIkR8QwImrKHnQHZuMlaGhfrSTl1vn2mMW7BjhcmU1dymwpJ/2B0h3zf52xlxYlaXBicASwKI/k8Bff1yZGFrkeRNqFXDIM7PjqyGAnm+I2SWRbRatsLgdGlqfIRKw2qAdY6XlNgBJXGyN9UqQ==;KP3mG/dmWWjByX5+fvgWww=="
 ---

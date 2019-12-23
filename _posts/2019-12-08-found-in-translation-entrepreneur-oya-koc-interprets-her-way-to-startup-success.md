@@ -31,19 +31,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2A8535D3A158E9BD29D9AC0050491FE0
         width: 85
         height: 85
-  - title: "The 30-Second Trick for Medical Translation Company"
-    excerpt: "Choosing the ideal service could be challenging. Improving another section of the development Comparison of different machine translation approaches approach may not compensates the reduction of data quality. Process CAT tools are used and the way was built on by glossaries. Every culture and language on Earth are found in New York. If you ..."
-    publishedDateTime: 2019-12-03T09:14:00Z
-    sourceUrl: https://adnews.com.br/sem-categoria/the-truth-about-medical-translation-company/
-    type: article
-    provider:
-      name: Ad News
-      domain: adnews.com.br
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.599495EC5362E26B6744D939D0ADCC81
-        width: 307
-        height: 217
 
 secured: "N5B21/bY4AHRDsbasGYPrAnvUW416ScdxQDrZ8hEOi7T2mhNoFC2ebw5MUBJa5yIdgl7i1FQ1SX7rTVFABavG+5vg+WwMX0eILLIlLUAw0e/LC40DPfnz89RM3kMncXwHbxN8peszF9zo7NufDq4tD4UV5bxnx39akrsuNQgGNrG7mBdhJadHYaleK+tnWpzeCOiC+wRsfwm3BW8nzp9ZWfHlkKNctyzvXrNJ8/1DXeeEwr6hfmSgwU6CEalE42ISvYqcIuOL/uXCPJvvdgvyQ==;14wzcZnC1jArjZ26ExvNYA=="
 ---

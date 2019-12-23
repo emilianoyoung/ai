@@ -410,19 +410,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-    publishedDateTime: 2019-12-02T13:19:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
-        width: 800
-        height: 419
   - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
     excerpt: "The global artificial intelligence (AI) in construction market is expected to grow by USD 1.13 billion during 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
     publishedDateTime: 2019-12-11T17:14:00Z
@@ -449,6 +436,15 @@ related:
       - url: https://www.bing.com/th?id=ON.CE487D7226F561728E206E9A2AED3F18
         width: 700
         height: 365
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    publishedDateTime: 2019-12-02T13:15:00Z
+    sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 13
   - title: "Artificial Intelligence in Medicine Market -Global Opportunity Analysis and Industry Forecast, 2018-2025"
     excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
     publishedDateTime: 2019-12-04T12:17:00Z

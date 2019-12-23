@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Aspect Software Announces General Availability of Aspect Workforce Management Solution Powered by Microsoft Azure"
-excerpt: "Cloud and AI at Microsoft. “We are pleased that Aspect is bringing their workforce management solution to Microsoft Azure. We look forward to working with them to bring the solution to our joint customers going forward.” Major enhancements in WFM Cloud ..."
+excerpt: "Microsoft has been a user of Aspect WFM operating a multi-thousand seat contact center in an Azure environment. “We have had a lot of success using Aspect for workforce optimization in our contact center,” said Jeana Jorgensen, General Manager, Cloud and AI at Microsoft. “We are pleased that Aspect is bringing their workforce management ..."
 publishedDateTime: 2019-12-17T13:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191217005218/en/Aspect-Software-Announces-General-Availability-Aspect-Workforce
+sourceUrl: https://www.marketwatch.com/press-release/aspect-software-announces-general-availability-of-aspect-workforce-management-solution-powered-by-microsoft-azure-2019-12-17
 type: article
-quality: 28
-heat: 28
-published: false
+quality: 78
+heat: 78
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "Rn4ePjFNBSrMtmM19j1lIluu+HuVF3lS8wJWSZ2UGesmtGHMrkJXITOA4LIrJhcK+8c5MBfOiTG/09jK7deJDiDb/z3AAjn4HIxZYxB4enOhVJurODgwznHDVOebq4PdKHKllMllxE256nSDthgDnI/JgmAwCRjqD3z0GWcGuw87sX0PmNi/JPcuTcsWeWQcaGJ4smyCIUSv6d0uAZS0YBtINcjifGhHxN4n3OwIjDiPmYFfDvF6gHEU09knCxwU+oN7jnd0/bga3nuy4CGi2A==;MdQ++feyl8C7wXbzl8yD4A=="
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Aspect Software Announces General Availability of Aspect Workforce Management Solution Powered by Microsoft Azure"
+
+secured: "ubAA7dH5bIZaWvaOXet8KXDPZIsqUT8GHYazEAxgqfORvFAMfVrsXOkk3knO1kcdLQOgf6V2je6ywdQI1kC7izJFm7413C3DtoIXoCO4w7BHlXw8CzJC5Ou4KuOjHVSglmvWuJ0L8RFyNa4UFKVMpOn0vsh1ydMM7y/qQazBthOHoiaKjUCHKhe6F9w7EgsJx/0XKrE7e8px+f3hK55QISqu9OoPz9Npygqux2B6jp48br+Z5QZaBc2Nr8cWWe6F8UQf8b2p6YHo1wUOAPNNLQ==;pV+gDveSTjiTYLpNLkIEmw=="
 ---
 

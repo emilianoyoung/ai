@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
-    publishedDateTime: 2019-12-23T07:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
     excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
     publishedDateTime: 2019-12-21T03:56:00Z
@@ -119,6 +106,15 @@ related:
       - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
         width: 1200
         height: 627
+  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
+    publishedDateTime: 2019-12-23T08:40:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 14
   - title: "Artificial Intelligence Service Market 2019 Size, Share, Growth, Trends, Demand, Manufacturer Analysis and Region with CARG"
     excerpt: "Verticals in the AI as a service market include Banking, Financial Services, and Insurance (BFSI), healthcare and life sciences ... and gross margin Artificial Intelligence Service by regions like North America, Europe, Japan, China and other countries."
     publishedDateTime: 2019-12-17T13:26:00Z

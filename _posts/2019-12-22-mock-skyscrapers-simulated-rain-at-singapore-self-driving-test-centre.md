@@ -23,6 +23,21 @@ images:
     height: 466
     title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
 
+related:
+  - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
+    excerpt: "The road sweeper and a golf buggy move around the track with ease, jamming their brakes on when a pedestrian steps out and negotiating sharp turns."
+    publishedDateTime: 2019-12-23T10:19:00Z
+    sourceUrl: https://www.arabnews.com/node/1602926/mock-skyscrapers-rain-singapore-self-driving-test-centre
+    type: article
+    provider:
+      name: Arab News
+      domain: arabnews.com
+    quality: 39
+    images:
+      - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
+        width: 480
+        height: 315
+
 secured: "NB5yLCaYZ7Y74G1IYcS8KsrQEbo2aDEtsuH01J5gixk+Tpg4OyTQZ2VqZ0oxfo5YK4ASnwPf3PmYMC4qDVBUdy293a5LBl28CTZK9Kk2N6zkU58vk0mlRvSoqvTIJt1lJL6HOVksRXSCCJ4BSKNMH+6ikpZZMsFS5ZWKtWwCTiuPs8VYldQ6TrrDrvZGI6mkiShGIEmDo4ojLpP6VS9BuMniG0675BEqU2CHpBhn8Po83DzOkzZ4b/m7BBLk6hIjPwlBWcqirkQVAUpBIGHyKw==;yRoI3slCqmCiLokJKTKwDw=="
 ---
 
