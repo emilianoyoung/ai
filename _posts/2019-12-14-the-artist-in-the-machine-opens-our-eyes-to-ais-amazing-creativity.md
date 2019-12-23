@@ -7,7 +7,7 @@ sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the
 ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29

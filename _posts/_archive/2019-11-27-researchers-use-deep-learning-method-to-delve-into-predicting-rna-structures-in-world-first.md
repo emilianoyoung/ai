@@ -25,21 +25,6 @@ images:
     height: 2048
     title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
 
-related:
-  - title: "Army Grant Supports Machine Learning Research"
-    excerpt: "Share on Facebook ... is developing a method that employs artificial intelligence to clearly understand the electrical brain activity data conveyed through electroencephalogram monitoring. Vasileios Maroulas’s method has applications in neuroscience and is of interest to the US Army Research Laboratory’s Brain-Computer Interface initiative."
-    publishedDateTime: 2019-12-03T17:58:00Z
-    sourceUrl: https://news.utk.edu/2019/12/03/army-grant-supports-machine-learning-research/
-    type: article
-    provider:
-      name: The Daily Beacon
-      domain: utk.edu
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.300EB6E9402E560CD3D1CE9C41172F85
-        width: 700
-        height: 466
-
-secured: "xgUNV/KDlof74FTkXCC5SuTdwINNlx6Gu0BpzS6zpLTIPqivCa9/2sithJpJZZUsLrqsQW4jFSoOGjW1fyERr05YBujmnex7nIktgVsTye3Ap8CYdKgfSbgJKcp3PcxymLq0t5gSAsZ6d8ENp+2A29ARc7nz6Muul2Z81Iji2Dw7NGi6mdpGBJjhMq3urcMXG0WkBKGXcubVc+JNhvDxJkslk8DrfilpSV6M6FxmXjuR2qrN9tUdmkxLgfa9iP35SmSqWHc0487R8kp/00SUNA==;9Jct5gyf4zJME+ZUsgPAgQ=="
+secured: "U8sgvHfLIcG+H6XjySYuZ1LJSFkKEGse/n4zvxUJIyUPHk2HwEN3XQmBXbCZ+CKeVLfYVJIa9V6AZwBsLi0urAtAJOeRtKzIrUEDTfAkitZDsRlMkv86n0F4waviLHC27VQKdRK3Wa/pcYmnnvl6dCnEIGeoRC0YQFFZA+ddrvlDy9DgVKK4lHjk9A6KQDbTTG1CJ2KJP9WK+i7i2Fasb8GNqQ7f3Ya94DRzvlVzXSK+qG3ILAMF/KmaJb/p6ciaJWWZ5kKyRTFaeKarWMoWNw==;kaf4MluqLJDDNnSUuIchiA=="
 ---
 

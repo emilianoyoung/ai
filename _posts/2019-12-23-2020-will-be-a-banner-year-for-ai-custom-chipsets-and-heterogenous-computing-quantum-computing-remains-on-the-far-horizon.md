@@ -1,12 +1,12 @@
 ---
 category: news
 title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
-excerpt: "“Vendors of these chips will move away from offering proprietary software stacks and will start ... the technology complexity for their developers and help them focus on building efficient algorithms for the new AI and ML applications.” What won’t happen in 2020: Quantum computing: “Despite claims from Google in achieving quantum ..."
+excerpt: "OYSTER BAY, N.Y.--(BUSINESS WIRE)--The year 2020 will be an exciting one for the Artificial Intelligence (AI) chipset market. In 2020 alone, more than 1.4 million cloud AI chipsets and 330 million edge AI chipsets are forecasted to be shipped, generating a total revenue of US$9 billion, states global tech market advisory firm, ABI Research."
 publishedDateTime: 2019-12-23T13:41:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191223005021/en/2020-Banner-Year-AI-Custom-Chipsets-Heterogenous
 type: article
-quality: 28
-heat: 28
+quality: 11
+heat: 11
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.B4B57690C1CA6440F643B842181B3CCB
@@ -23,6 +22,6 @@ images:
     height: 365
     title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
 
-secured: "tve7GFCXiNeM8NFLzu5+jWP/bTIUT0K8uirVxxHfdmmSppfZEt2lnEdxjP1Ii76FZ6oefapyKPqv2K2hPNuPSZJvriQWASGAF0QAMPgnqHAHD9MNhwGFa+w7iMdbeZncC7SuciDJuA2cO8u/YIF7kRq2CpY4+mU2Erow3WSCueYVoGXlsi6pwjs8PYf0UohmyJn5ClyD72rrfBeQmwkdubdfZLBOVCdUdY39uFauBJt4X+I6xtq+IAz8+5xW8iLEPM63XwvMz2cmWAfBCqFwkQ==;N5xdoy44900JySQD9asR3w=="
+secured: "6LPGDbpQkkKmjGvPh7QjUuOTfxUjHvJRFmWFEHvogZmc+zpTvZPjWMmXEQozoaPPLT9spqNFj/tp7KtkYrgXNpwnjACgXJ2IHuyydPne9rc97vAe5x5hE8GxMtHK6YJDmKu/c5ftsB93EsPDMWpcFUuJvdfMX5PKrbXMTeTYtsdaBS5Y+xPMj398T9ULz/Q3yXPvDTase0/BNnftxGR0zPBwV8hwcVh/hi9bgsTgWojoDuM5EGkLDUR7GF/VJBJ4s4VnS8WUyUkXsxCS8HEiUA==;PsnaOs38AvN5WEyIrOTPiA=="
 ---
 

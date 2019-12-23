@@ -78,7 +78,7 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 57
+    quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
         width: 700

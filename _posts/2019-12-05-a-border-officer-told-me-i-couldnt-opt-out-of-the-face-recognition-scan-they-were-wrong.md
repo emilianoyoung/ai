@@ -453,21 +453,6 @@ related:
       - url: https://www.bing.com/th?id=ON.685E5C78213D88F0B66EDA68530F9289
         width: 640
         height: 360
-  - title: "Homeland Security proposal would allow facial-recognition scanning on all travelers — even citizens"
-    excerpt: "The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed upon entry ..."
-    publishedDateTime: 2019-12-03T17:13:00Z
-    sourceUrl: https://www.thedenverchannel.com/news/national/homeland-security-proposal-would-allow-facial-recognition-scanning-on-all-travelers-even-citizens
-    ampUrl: https://www.thedenverchannel.com/news/national/homeland-security-proposal-would-allow-facial-recognition-scanning-on-all-travelers-even-citizens?_amp=true
-    cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/homeland-security-proposal-would-allow-facial-recognition-scanning-on-all-travelers-even-citizens?_amp=true
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.646038227A60DA87753A72B96B18EBEE
-        width: 700
-        height: 367
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
     excerpt: "Temitope Akinyemi, the chief privacy officer for the New York State Eduction Department, wrote to Lockport Superintendent Michelle Bradley saying that if the changes, which further clarify students won't be in the system database, are made then the state education department will allow the district to use its facial and object recognition system."
     publishedDateTime: 2019-12-04T22:28:00Z

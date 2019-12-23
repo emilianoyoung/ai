@@ -42,6 +42,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
+    excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
+    publishedDateTime: 2019-12-23T17:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-expert-guide-to-boost-the-industry-in-global-market-by-2024-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deep Learning System Market is Booming Worldwide with CAGR of 40.79%"
     excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global Deep Learning System Marketstudy with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. Deep Learning System Market explores effective study on varied sections of Industry like ..."
     publishedDateTime: 2019-12-17T20:28:00Z

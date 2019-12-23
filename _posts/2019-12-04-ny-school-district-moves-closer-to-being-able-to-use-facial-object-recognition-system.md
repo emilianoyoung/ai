@@ -453,21 +453,6 @@ related:
       - url: https://www.bing.com/th?id=ON.685E5C78213D88F0B66EDA68530F9289
         width: 640
         height: 360
-  - title: "Homeland Security proposal would allow facial-recognition scanning on all travelers — even citizens"
-    excerpt: "The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed upon entry ..."
-    publishedDateTime: 2019-12-03T17:13:00Z
-    sourceUrl: https://www.thedenverchannel.com/news/national/homeland-security-proposal-would-allow-facial-recognition-scanning-on-all-travelers-even-citizens
-    ampUrl: https://www.thedenverchannel.com/news/national/homeland-security-proposal-would-allow-facial-recognition-scanning-on-all-travelers-even-citizens?_amp=true
-    cdnAmpUrl: https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/homeland-security-proposal-would-allow-facial-recognition-scanning-on-all-travelers-even-citizens?_amp=true
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.646038227A60DA87753A72B96B18EBEE
-        width: 700
-        height: 367
   - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
     excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
     publishedDateTime: 2019-12-05T20:01:00Z
