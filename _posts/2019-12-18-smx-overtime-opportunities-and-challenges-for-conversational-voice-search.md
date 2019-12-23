@@ -56,6 +56,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/07/MVIMG_20190318_133330_1-e1576620054263.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "AI used for creation of novel, unconventional artworks"
+    excerpt: "A lot of talk is going on about unconventional and extravagant works of art created by artificial intelligence (AI) -- currently on display in various places across the nation. An artistic toy car named Gangu with quirky tires and a twisted body colored in red, blue and green has been on display since Nov. 14 at the National Museum of Emerging ..."
+    publishedDateTime: 2019-12-23T06:49:00Z
+    sourceUrl: https://www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038
+    ampUrl: https://www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038?amp
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.5B94862F708E73388F33EDCAD8005302
+        width: 560
+        height: 292
   - title: "NVIDIA Enables Era of Interactive Conversational AI with New Inference Software"
     excerpt: "Accelerating Inference from Edge to Cloud TensorRT 7 can rapidly optimize, validate and deploy a trained neural network for inference by hyperscale data centers, embedded or automotive GPU platforms. NVIDIA’s inference platform — which includes TensorRT, as well as several NVIDIA CUDA-X AI™ libraries and NVIDIA GPUs — delivers low ..."
     publishedDateTime: 2019-12-18T00:00:00Z

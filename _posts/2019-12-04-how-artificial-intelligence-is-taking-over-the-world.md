@@ -8,7 +8,7 @@ ampUrl: https://www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artif
 cdnAmpUrl: https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "How Artificial Intelligence is taking over the world"
 
 related:
-  - title: "Israel plans to become world leader in artificial intelligence"
-    excerpt: "Israel is in the process of making a national plan to become one of the most advanced countries in the field of artificial intelligence (AI), experts said ... One of the issues is the programming of self-driving cars, due to the ability of the AI system on th cars to predict the consequences of inevitable car accidents."
-    publishedDateTime: 2019-12-03T05:51:00Z
-    sourceUrl: https://newsghana.com.gh/israel-plans-to-become-world-leader-in-artificial-intelligence/
-    type: article
-    provider:
-      name: News Ghana
-      domain: newsghana.com.gh
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.33540327B7FE00A05AE0EBC3249DEF4E
-        width: 540
-        height: 394
   - title: "52 ideas that changed the world: 26. Artificial intelligence"
     excerpt: "AI is currently used for understanding human speech, competing in game systems such as chess and go, self-driving cars and interpreting complex data. Some people are wary of the rise of artificial intelligence, with the New Yorker highlighting that “a number of scientists and engineers fear that, once we build an artificial intelligence ..."
     publishedDateTime: 2019-12-06T14:47:00Z

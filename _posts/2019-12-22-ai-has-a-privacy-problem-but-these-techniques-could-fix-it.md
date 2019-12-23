@@ -29,6 +29,6 @@ images:
     height: 350
     title: "AI has a privacy problem, but these techniques could fix it"
 
-secured: "J6Z7YakZV9qHw76TDasVFxCscAvFj3nnKbZEZZwblMMGbrjRHo5u7BZX6Qw2c1Eof5Dvdlli7TOWQi59VBrA4xnnw+xRu5VNslBTKmaNmpqx/MKV723jgbCrdOKcV23/hsgIVOac/elyyu4ZkoHMB+eaxBJCh/2dJd70x6pDjYFsgaikSIoLsEII9ofSRdmMcZCVuux7v7KyIp7AFzH6alwoDRTOy5t0pC9eiwGpOAqM4HHA8nIkaXEwoU2qEBnr6K+7K57tdW+POuPgLEWmEA==;IjFr6n7h4WHDwg6EBrdyLw=="
+secured: "D6FSeJ06PY1gRGP4QHcfy7P88sNJgM56gOUcd9X2J3UuzF6pPXKBv/2Q+JHTPhVWRif6Oxc1fb7lJiLZ0MKwQPjhfD0SdRLB7RtYrDoPF75wRV3PJsPYBoGhfkpnZMZpqPOiUoralxDwGEJEv3s2UoKu8kBu+3WqPnf/7nhODmIihSqU9+rLb710/IH1xnRxvjv75gaHMRmg6gInN4j0HuJUyouvAxYwUV8RenfqjauPGX1JiWIcTi9Jo/UIuOqnXhKlu1jYxEZ20CQfVKjuLw==;wiiUxedQAtN/Gqb46w6XlA=="
 ---
 

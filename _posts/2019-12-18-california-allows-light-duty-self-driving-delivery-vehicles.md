@@ -97,6 +97,19 @@ related:
       - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
         width: 600
         height: 315
+  - title: "Why GM is developing technology for self-driving vehicles for the US military"
+    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
+    publishedDateTime: 2019-12-23T06:00:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb4R5
+    type: article
+    provider:
+      name: USA TODAY on MSN.com
+      domain: msn.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
+        width: 700
+        height: 367
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
     publishedDateTime: 2019-12-19T00:19:00Z

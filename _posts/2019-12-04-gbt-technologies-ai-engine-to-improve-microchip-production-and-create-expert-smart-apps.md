@@ -35,19 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AA3ECC92B8D0344CD67EE38DFBFD0FA3
         width: 600
         height: 315
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
   - title: "Telecom Innovation | Microsoft Industry"
     excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
     publishedDateTime: 2019-12-05T23:43:00Z

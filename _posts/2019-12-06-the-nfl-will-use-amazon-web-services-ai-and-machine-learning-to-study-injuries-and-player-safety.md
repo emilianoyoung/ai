@@ -83,6 +83,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
         width: 700
         height: 366
+  - title: "Amazon expanding its speech recognition tool to the healthcare industry"
+    excerpt: "The company recently launched a medication management tool for Alexa, allowing users to request refills and set medication reminders via voice. However, it's not alone in the space, as Google is tapping into the market with Google Brain as well. Microsoft and Philips also have a strong presence in the industry."
+    publishedDateTime: 2019-12-03T12:30:00Z
+    sourceUrl: https://www.itproportal.com/news/amazon-expanding-its-speech-recognition-tool-to-the-healthcare-industry/
+    ampUrl: https://www.itproportal.com/amp/news/amazon-expanding-its-speech-recognition-tool-to-the-healthcare-industry/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/amazon-expanding-its-speech-recognition-tool-to-the-healthcare-industry/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DAB803B998DF38AD0D3DB33B59DEFE91
+        width: 700
+        height: 466
   - title: "At re:Invent, Amazon beefs up its cloud with AI and takes it to the network edge"
     excerpt: "It also announced a new version of Inferentia, its chip for machine learning inference ... what it calls the first fully integrated development environment or IDE for machine learning workflows, and SageMaker Autopilot to train AI models automatically. Also on the machine learning front, AWS announced a number of new services that run on ..."
     publishedDateTime: 2019-12-03T20:30:00Z

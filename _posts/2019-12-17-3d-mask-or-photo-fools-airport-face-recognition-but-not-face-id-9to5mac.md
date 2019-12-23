@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
         width: 700
         height: 350
+  - title: "After criticism, Homeland Security drops plans to expand airport face recognition scans to US citizens"
+    excerpt: "Homeland Security has confirmed it will not expand face recognition scans to U.S. citizens arriving and departing the country, days after it emerged ... that it had no plans to expand the face recognition checks to Americans. Currently, U.S. citizens are allowed to opt-out of face recognition scans at the airport, but foreign nationals and ..."
+    publishedDateTime: 2019-12-06T12:35:00Z
+    sourceUrl: https://www.yahoo.com/news/criticism-homeland-security-drops-plans-182719080.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 138
+    images:
+      - url: https://www.bing.com/th?id=ON.9FD73AA4BD86F5A9A3611CECCD02BFC5
+        width: 700
+        height: 466
   - title: "Emotion recognition technology should be banned, says AI research institute"
     excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
     publishedDateTime: 2019-12-13T12:16:00Z
@@ -123,6 +136,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E0C85F059FE379405C21387AC3F31961
         width: 700
         height: 393
+  - title: "No Facial Recognition Screening for Americans: Homeland Security"
+    excerpt: "But it’s still using the practice on foreign visitors — something not all travelers will be happy with. The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial ..."
+    publishedDateTime: 2019-12-06T11:00:00Z
+    sourceUrl: https://skift.com/2019/12/06/no-facial-recognition-screening-for-americans-homeland-security/
+    ampUrl: https://skift.com/2019/12/06/no-facial-recognition-screening-for-americans-homeland-security/amp/
+    cdnAmpUrl: https://skift-com.cdn.ampproject.org/c/s/skift.com/2019/12/06/no-facial-recognition-screening-for-americans-homeland-security/amp/
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.9D11D500875D4BE70288D8FDE030CAE2
+        width: 700
+        height: 466
   - title: "Some cities and states balk at face recognition tech, here’s why"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-17T22:20:00Z
@@ -183,6 +211,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
         width: 700
         height: 349
+  - title: "U.S. Customs was right to reverse course on mandatory facial recognition scans"
+    excerpt: "The Post reported Wednesday that the Department of Homeland Security had proposed a regulation that would make facial recognition scans mandatory not only for noncitizens entering and exiting the country but for citizens as well. Advocates were alarmed, and, after some outcry, officials not only appeared to reverse course: They also insisted ..."
+    publishedDateTime: 2019-12-07T18:07:00Z
+    sourceUrl: https://www.washingtonpost.com/opinions/us-customs-was-right-to-reverse-course-on-mandatory-facial-recognition-scans/2019/12/06/e69c1e9c-17a5-11ea-a659-7d69641c6ff7_story.html
+    ampUrl: https://www.washingtonpost.com/opinions/us-customs-was-right-to-reverse-course-on-mandatory-facial-recognition-scans/2019/12/06/e69c1e9c-17a5-11ea-a659-7d69641c6ff7_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/us-customs-was-right-to-reverse-course-on-mandatory-facial-recognition-scans/2019/12/06/e69c1e9c-17a5-11ea-a659-7d69641c6ff7_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.8095D9DB1BB757AD7F08155B2DB1195C
+        width: 150
+        height: 84
   - title: "Drawing a blank: Airport's facial recognition system remains inoperable"
     excerpt: "Drawing a blank: Airport's facial recognition system remains inoperable Monroe County committed $1 million for state-of-the-art surveillance systems at the Rochester airport, but after 18 months they're still not in use. Check out this story on DemocratandChronicle.com: https://www.democratandchronicle.com/story/news/2019/12/19/rochester ..."
     publishedDateTime: 2019-12-19T19:40:00Z
@@ -220,6 +263,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "CBP Pulls Support for Broader Facial Recognition Use"
+    excerpt: "The Department of Homeland Security’s (DHS) Customs and Border Protection (CBP) operation has pulled its support for a mandatory biometric entry-exit system that would require facial recognition scans for all travelers – including U.S. citizens – entering or departing the United States, according to a Dec. 5 press release from Sen."
+    publishedDateTime: 2019-12-06T15:54:00Z
+    sourceUrl: https://www.meritalk.com/articles/cbp-pulls-support-for-broader-facial-recognition-use/
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.5E81CE8C61632E16A73562F560B63E56
+        width: 700
+        height: 393
   - title: "Facial recognition is everywhere in China. People are worried about it"
     excerpt: "In China, surveillance cameras equipped with facial recognition technology are often hailed as important tools for improving security while offering convenience. But as these devices become more pervasive, some Chinese people are questioning whether facial recognition comes with its own set of safety and privacy concerns."
     publishedDateTime: 2019-12-06T17:12:47Z
@@ -233,6 +289,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C8B487525662B23C9AAA7B1753F38D
         width: 600
         height: 315
+  - title: "Facing up to facial recognition technology"
+    excerpt: "The benefits of facial recognition technology are that it offers a quick, non-invasive means of identifying people. Those are also its dangers. Last month, it was reported that facial recognition will be used to take attendance in Singapore's Parliament and check into certain hotels. The latest phones already unlock with Face ID and many ..."
+    publishedDateTime: 2019-12-06T21:17:00Z
+    sourceUrl: https://www.straitstimes.com/opinion/facing-up-to-facial-recognition-technology
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: https://www.straitstimes.com/sites/default/files/author/2015/06/26/byline-simon-chesterman.png
+        width: 502
+        height: 335
   - title: "Residents In China Worry Over The Facial Recognition System"
     excerpt: "A survey by a Beijing research institute shows that many residents are expressing a pushback against facial recognition technology in China. As the country seeks more control over its population, the surest way to pull through is to use facial recognition system across the country. In September, the information technology ministry announced ..."
     publishedDateTime: 2019-12-06T16:29:00Z
@@ -309,6 +378,19 @@ related:
       - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
         width: 1200
         height: 675
+  - title: "Customs and Border Protection reverses course on mandatory facial recognition program"
+    excerpt: "U.S. Customs and Border Protection announced Thursday it no longer plans to move forward with a facial recognition program that would conduct a mandatory scan of all U.S. citizens arriving or departing the country at airports and ports of entry, reversing course on a Trump administration plan. Customs currently permits U.S. citizens to ..."
+    publishedDateTime: 2019-12-06T14:37:38Z
+    sourceUrl: https://www.msn.com/en-us/lifestyle/lifestyle-buzz/customs-and-border-protection-reverses-course-on-mandatory-facial-recognition-program/vi-BBXQTRU
+    type: article
+    provider:
+      name: ABC on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.AC0020A3C0E901261884017F2DEBF17C
+        width: 700
+        height: 393
   - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
     excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
     publishedDateTime: 2019-12-16T14:46:00Z

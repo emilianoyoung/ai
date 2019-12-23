@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "The Power Of Purpose: How Saqib Shaikh And Microsoft Are Turning Disability Into An Engine For Innovation (Part 2)"
 
 related:
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
   - title: "GBT Technologies’ AI Engine to Improve Microchip Production and Create Expert Smart Apps"
     excerpt: "and GBT is implementing its AI engine with its work on EDA technology to create IC analysis software. GBT says this software will analyze microchips during their design process to ensure the ultimate reliability, optimal power consumption and fast performance, creating clean-by-construction chips. Salomon Ocon says, “When it comes to ..."
     publishedDateTime: 2019-12-04T00:10:00Z

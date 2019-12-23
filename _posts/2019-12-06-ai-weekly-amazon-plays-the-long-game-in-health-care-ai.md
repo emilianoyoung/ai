@@ -72,6 +72,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
         width: 700
         height: 366
+  - title: "Amazon expanding its speech recognition tool to the healthcare industry"
+    excerpt: "The company recently launched a medication management tool for Alexa, allowing users to request refills and set medication reminders via voice. However, it's not alone in the space, as Google is tapping into the market with Google Brain as well. Microsoft and Philips also have a strong presence in the industry."
+    publishedDateTime: 2019-12-03T12:30:00Z
+    sourceUrl: https://www.itproportal.com/news/amazon-expanding-its-speech-recognition-tool-to-the-healthcare-industry/
+    ampUrl: https://www.itproportal.com/amp/news/amazon-expanding-its-speech-recognition-tool-to-the-healthcare-industry/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/amazon-expanding-its-speech-recognition-tool-to-the-healthcare-industry/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DAB803B998DF38AD0D3DB33B59DEFE91
+        width: 700
+        height: 466
   - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
     excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
     publishedDateTime: 2019-12-06T13:45:00Z

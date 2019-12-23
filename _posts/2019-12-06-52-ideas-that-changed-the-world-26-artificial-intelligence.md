@@ -39,19 +39,6 @@ related:
       - url: http://www.standardmedia.co.ke/ureport-uploads/FILE-1575369658.jpeg
         width: 800
         height: 500
-  - title: "Israel plans to become world leader in artificial intelligence"
-    excerpt: "Israel is in the process of making a national plan to become one of the most advanced countries in the field of artificial intelligence (AI), experts said ... One of the issues is the programming of self-driving cars, due to the ability of the AI system on th cars to predict the consequences of inevitable car accidents."
-    publishedDateTime: 2019-12-03T05:51:00Z
-    sourceUrl: https://newsghana.com.gh/israel-plans-to-become-world-leader-in-artificial-intelligence/
-    type: article
-    provider:
-      name: News Ghana
-      domain: newsghana.com.gh
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.33540327B7FE00A05AE0EBC3249DEF4E
-        width: 540
-        height: 394
   - title: "How Artificial Intelligence Is Changing Accounting"
     excerpt: "Among the many fields that have been impacted by artificial intelligence, accounting is showing strong signs that it could be one of the most important boiling points for the development of this technology. We’ve already seen various positive impacts on the accounting market thanks to advances in AI, and there are many reasons to believe that ..."
     publishedDateTime: 2019-12-04T15:01:00Z

@@ -426,6 +426,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
         width: 700
         height: 525
+  - title: "Self-driving tractors: Next big thing in agriculture"
+    excerpt: "Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. If the ..."
+    publishedDateTime: 2019-12-23T06:27:00Z
+    sourceUrl: https://asianage.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.7FEFABB7B6F3F2AFC80FEA9E9056EDF3
+        width: 400
+        height: 224
   - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
     excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
     publishedDateTime: 2019-12-22T00:02:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/03/3-top-stocks-in-artificial-intelligence.aspx
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "3 Top Stocks in Artificial Intelligence"
 
 related:
+  - title: "4 Stocks Likely to Gain as Facial Recognition Picks Up Steam"
+    excerpt: "In addition, facial recognition system is gradually being used in airports to validate flier identity, and will probably make passports and long security checks an obsolete thing in the near future. Key sectors such as banking, healthcare, retail and mobile commerce are fast embracing biometrics to authenticate a transaction, access healthcare ..."
+    publishedDateTime: 2019-12-03T14:35:00Z
+    sourceUrl: https://finance.yahoo.com/news/4-stocks-likely-gain-facial-135501403.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/4-stocks-likely-gain-facial-135501403.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/4-stocks-likely-gain-facial-135501403.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.2E685FC60D1A6B273F7F4AF8A9F7A92C
+        width: 635
+        height: 400
   - title: "The Top Fintech Trends to Look Out For in 2020"
     excerpt: "AI is capable of identifying fraud, detecting money laundering and making customer ... “One of the trends that everyone should look out for in 2020 is agility, and not only agility in its classic definition. In Fintech, we talk about agility not only as the ability to reconfigure or replace your information technology systems when needed ..."
     publishedDateTime: 2019-12-03T11:28:00Z

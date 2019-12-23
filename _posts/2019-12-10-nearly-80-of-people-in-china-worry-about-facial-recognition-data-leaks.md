@@ -458,6 +458,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
         width: 700
         height: 393
+  - title: "How China cornered the facial recognition surveillance market"
+    excerpt: "What do Uganda’s police force, a Mongolian prison and Zimbabwean airports have in common? All three are in the process of testing facial recognition systems and all three have used Chinese technology to do it. At least 52 governments are doing the same thing, according to research by the Carnegie Endowment for International Peace. Chinese ..."
+    publishedDateTime: 2019-12-09T14:19:00Z
+    sourceUrl: https://www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance
+    ampUrl: https://www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance?_amp=true
+    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance?_amp=true
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C03A31EFB775684DED2D08D37CB03171
+        width: 700
+        height: 367
   - title: "Brookline becomes 2nd Massachusetts community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. “By passing a ban on government use of face surveillance technology, the people of Brookline are standing up in defense of fundamental rights and civil liberties ..."
     publishedDateTime: 2019-12-12T20:08:00Z
@@ -1510,6 +1525,19 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
+  - title: "Department of Homeland Security Proposals Fade, But Facial Recognition is Forever"
+    excerpt: "There’s never a dull moment in facial recognition. On Thursday, the Washington Post reported that the Department of Homeland Security (DHS) withdrew a proposal it made earlier this week that would have expanded airport face scans of passengers arriving in or leaving the U.S. to include American citizens. So why the quick turnaround?"
+    publishedDateTime: 2019-12-09T14:49:00Z
+    sourceUrl: https://www.law.com/legaltechnews/2019/12/09/department-of-homeland-security-proposals-fade-but-facial-recognition-is-forever/
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.727CA7EA950A9EA98882B952807946D4
+        width: 620
+        height: 372
   - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
     publishedDateTime: 2019-12-18T00:04:00Z

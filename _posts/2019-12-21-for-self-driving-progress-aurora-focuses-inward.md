@@ -413,6 +413,19 @@ related:
       - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
         width: 400
         height: 300
+  - title: "Self-driving tractors: Next big thing in agriculture"
+    excerpt: "Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. If the ..."
+    publishedDateTime: 2019-12-23T06:27:00Z
+    sourceUrl: https://asianage.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.7FEFABB7B6F3F2AFC80FEA9E9056EDF3
+        width: 400
+        height: 224
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z
