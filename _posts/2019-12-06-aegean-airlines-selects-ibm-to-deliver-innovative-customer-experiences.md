@@ -39,6 +39,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Telecom Innovation | Microsoft Industry"
+    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
+    publishedDateTime: 2019-12-05T23:43:00Z
+    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
+        width: 770
+        height: 484
   - title: "IBM LivePerson AI Customer Service Chatbot Seems a Bit Too Impersonal to Me"
     excerpt: "IBM also recently announced enhancements to its Watson ... There’s a growing opportunity to deliver that white-glove customer experience by integrating AI to create a personalized touch.” Watson Assistant’s new features “are designed to provide ..."
     publishedDateTime: 2019-12-11T19:59:00Z

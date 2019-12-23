@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning, the social network would be \"dust.\" MOUNTAIN VIEW, Calif. - In 2010, artificial intelligence was more likely to pop up in dystopian science-fiction movies than in everyday life. And it certainly wasn't something people worried might take over their jobs in the near future."
-    publishedDateTime: 2019-12-23T07:27:00Z
-    sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
+    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+    publishedDateTime: 2019-12-23T14:23:00Z
+    sourceUrl: https://krdo.com/money/2019/12/23/how-ai-came-to-rule-our-lives-over-the-last-decade/
     type: article
     provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 41
+      name: KRDO
+      domain: krdo.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.64ECFBCFD3B90328665A5360434907A1
+        width: 500
+        height: 373
 
 secured: "JZvnkKbH+DPI6D+RatdjuyQ8hiCch9ULs3IumivwF+KbZLKRhOHkC5FDc926XTf6lJtDFLFJ/8qIIe6suQQDQk6070Vn1tXIrtBJtwO63krR9DRNRLznF71PulO7EwnNNe1L0WwmPQ8q7FYVK9EM0l26qajRA40X2R0b3VCIDcFRNR1XRn3PSPKosAFJs1ro7ehuJ+j9hnGZAk6kdIBayu0PERElvfqNx+l5VDDjbAavTaHo0GKyfvgn6M5/JMY+aJfruFM7OB+FTFsohhYaTg==;Kw7SnPviUzcjKQ30qKEDwg=="
 ---

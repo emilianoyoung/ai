@@ -25,6 +25,21 @@ images:
     height: 466
     title: "Why Congress needs to regulate facial-recognition systems"
 
+related:
+  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
+    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
+    publishedDateTime: 2019-12-23T16:32:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
+        width: 400
+        height: 400
+
 secured: "qKNWfMjaoP1YU9d1nlXnZThoUibiyFvm471wnF9rsE3Bd/09FPbiPaFPydDjs+aDjZGNQ2gr1c2u3sfwD8beoxh4vAbWVSSyxPWyQzvyBhOLFGWKcSLz0QgAzRwSS4iAAuc+VzzNJAASmUABV9BzMgWgQr17zTHLLkcehItRLSax5GH8RhQDKww6DCcnQuRlf5bij3eOoWisVXENwEKSzKrWI+DXkoJR7GOiQCFJ+9LL5CsKsvFsetxmzD9/7YRRH/W6bOx1ub3NlOBJtRGHew==;EO7xIbQaXgOJ0g+tpqkI8g=="
 ---
 

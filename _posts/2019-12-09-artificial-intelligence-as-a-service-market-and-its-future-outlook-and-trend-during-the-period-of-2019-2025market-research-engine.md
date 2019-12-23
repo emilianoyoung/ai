@@ -352,17 +352,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Analysis on the World Market for Artificial Intelligence (AI) in Healthcare, 2019-2024: Current & Future Opportunities"
-    excerpt: "Dublin, Dec. 03, 2019 (GLOBE NEWSWIRE) -- The \"The Market for Artificial Intelligence (AI) in Healthcare\" report has been added to ResearchAndMarkets.com's offering. Issues facing the healthcare industry are challenging and complex, including staff reductions, increased service demands and funding cuts. It is not surprising then that many are ..."
-    publishedDateTime: 2019-12-03T16:49:00Z
-    sourceUrl: https://finance.yahoo.com/news/analysis-world-market-artificial-intelligence-152355256.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/analysis-world-market-artificial-intelligence-152355256.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/analysis-world-market-artificial-intelligence-152355256.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 45
   - title: "Data Science And Machine Learning Service Market Survey Report by Recent Developments and Professional Outlook till 2025"
     excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The Data Science And Machine Learning Service Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Data Science And Machine Learning Service Market report is a ..."
     publishedDateTime: 2019-12-11T14:13:00Z

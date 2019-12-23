@@ -30,75 +30,64 @@ images:
     title: "AI capsule system classifies digits with state-of-the-art accuracy"
 
 related:
-  - title: "Google DeepMind gamifies memory with its latest AI work"
-    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
-    publishedDateTime: 2019-12-02T22:10:00Z
-    sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+  - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
+    excerpt: "Facebook AI Research (FAIR) says they’ve created the latest AI to achieve state-of-the-art performance when playing the card game Hanabi. The AI system achieves a score of 24.49 out of 25 while the previous best got 23.92 out of 25. In February, researchers from Google, DeepMind, Carnegie Mellon University, and Oxford University proposed a ..."
+    publishedDateTime: 2019-12-06T17:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/
+    ampUrl: https://venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
-        width: 700
-        height: 525
-  - title: "DeepMind cofounder joining Google directly to work on applied AI"
-    excerpt: "Alphabet-owned DeepMind is widely regarded as the premiere artificial intelligence research lab. Co-founder Mustafa Suleyman announced today that he’s joining Google directly. Suleyman started DeepMind in 2010 with current CEO Demis Hassabis and Shane Legg. Originally chief product officer, the Google acquisition in 2014 saw him become head ..."
-    publishedDateTime: 2019-12-05T17:49:00Z
-    sourceUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/
-    ampUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
+      - url: https://www.bing.com/th?id=ON.BA3FC279D4AC07289DADE8053BD88C4A
         width: 700
         height: 350
-  - title: "Google’s AI makes memory a game"
-    excerpt: "Tiernan Ray explains how DeepMind, a unit of Google that develops ambitious AI projects, found a way to stimulate the kind of long-term planning of risk and reward that humans do by turning memory into a game of actions and future payoffs. Read more: https://zd.net/2YEyR9W"
-    publishedDateTime: 2019-12-09T19:56:00Z
-    sourceUrl: https://www.zdnet.com/video/googles-ai-makes-memory-a-game/
+  - title: "Facebook's new card-playing bot shows AI can work with others"
+    excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research engineer at Facebook AI Research. \"It's about figuring out how to build these capabilities into ..."
+    publishedDateTime: 2019-12-06T17:11:00Z
+    sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+    ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
+      - url: https://www.bing.com/th?id=ON.AB2B7A2C545B8E49A1F4273444C7F971
         width: 700
         height: 525
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-    publishedDateTime: 2019-12-05T17:49:43Z
-    sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
+  - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
+    excerpt: "Facebook AI Research says it's created AI that achieves near-perfect results in the game Hanabi, something that may lead to AI better understanding humans. Read More"
+    publishedDateTime: 2019-12-07T00:00:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
+    ampUrl: https://www.yahoo.com/amphtml/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
     type: article
     provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 54
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
-        width: 700
-        height: 350
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+      - url: https://www.bing.com/th?id=ON.8468630C813735984971B9AEE23CB605
+        width: 578
+        height: 289
+  - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
+    excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card ..."
+    publishedDateTime: 2019-12-06T17:13:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
     type: article
     provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
+      - url: https://www.bing.com/th?id=ON.5C45C7CBC17877AECD6802A6C84690F1
+        width: 300
+        height: 226
 
 secured: "NhRjRbF2fKDYiCMSe+76g6vaHHqvRXSdD80c1zt4N1c2ApynzQvFG75oh+Vp+S76fBUalf+cpzyozw3X2MLM8cEKzXdfGPoMNaP9PveATYzYY4aG9Az9PgIbCml1uQZaxuRJibv7c3+8FiAsKXwwXvi6YlHyg6ckfrRzFlc970kdbSSdd3DuGm6yjjrZhcyy1gqO9zzeom4BziGiIc7FHJFNx6mwwJ6gwoI0vWnfV1Nx5GscqDEeqSB+hlz59Qnq1hXrOYXUvkNLvEiy7MipZA==;zKCYITB/FZo20zx7WnghNQ=="
 ---

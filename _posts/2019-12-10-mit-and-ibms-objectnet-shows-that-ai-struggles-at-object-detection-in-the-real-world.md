@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
         width: 700
         height: 367
+  - title: "Microsoft Seeing AI can now understand five more languages"
+    excerpt: "Some of us might already be tired of hearing news about this or that AI app or assistant that’s able to identify objects or scenes or even read text off signs. We take such advances in computer vision and AI for granted mostly because we can actually see those things. That doesn’t come naturally to people with visual impairments ..."
+    publishedDateTime: 2019-12-04T11:07:00Z
+    sourceUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/
+    ampUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.BD2279E868949BA09F61A5B0AAF91D8B
+        width: 700
+        height: 437
   - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
     excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
     publishedDateTime: 2019-12-04T16:07:00Z

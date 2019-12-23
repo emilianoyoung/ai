@@ -41,6 +41,15 @@ related:
       - url: https://www.bing.com/th?id=ON.48E1ABE8D96AFBA19D983319235FD07D
         width: 700
         height: 393
+  - title: "Artificial intelligence tracks down leukemia"
+    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of blood cancer -- acute myeloid leukemia (AML) -- with high reliability. Researchers at the ..."
+    publishedDateTime: 2019-12-23T17:48:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191223095351.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "iwzPYnxUyzGTH3+SE9ZCal4NFUCCvmVpixvwokNzu1DYH4JNrfV6uHPoAP0cxYWGf5TqkPLwePWGBzmb74nO7CZaFAhtJf45jFZ5P6mVwgmjorebzKJHjDEkUS+xuyHx98a7MIImX6j0xo8qDo1ikZK7CMjrZBTQw8Mi1bCv8RVSWMAvlmX4yOKaBfkPdQjacNe1fZd6wB9T+2kYlVSrMBOrPf/6/V3VXQ5AsFdgbVPxShCTW+vLZYgWhCyFIBCQZ/T9TgXXbc+rkcQZY0dkHw==;KjSnLUomHLoK2Q8922mmuA=="
 ---

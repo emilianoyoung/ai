@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
         width: 700
         height: 367
+  - title: "Microsoft Seeing AI can now understand five more languages"
+    excerpt: "Some of us might already be tired of hearing news about this or that AI app or assistant that’s able to identify objects or scenes or even read text off signs. We take such advances in computer vision and AI for granted mostly because we can actually see those things. That doesn’t come naturally to people with visual impairments ..."
+    publishedDateTime: 2019-12-04T11:07:00Z
+    sourceUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/
+    ampUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.BD2279E868949BA09F61A5B0AAF91D8B
+        width: 700
+        height: 437
   - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
     excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
     publishedDateTime: 2019-12-10T18:41:00Z

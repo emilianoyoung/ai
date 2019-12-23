@@ -2,25 +2,29 @@
 category: news
 title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-publishedDateTime: 2019-12-17T23:45:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191217005832/en/Baidu-Samsung-Electronics-Ready-Production-Leading-Edge-AI
+publishedDateTime: 2019-12-17T22:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
-quality: 42
-heat: -1
-published: false
+quality: 72
+heat: 142
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://mms.businesswire.com/media/20191217005832/en/763619/23/Baidu_Kunlun_chip_02.jpg
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
-    height: 627
+    height: 630
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
@@ -52,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
         width: 700
         height: 394
+  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
+    publishedDateTime: 2019-12-11T10:13:00Z
+    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
+        width: 612
+        height: 355
   - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
     publishedDateTime: 2019-12-18T09:48:00Z
@@ -61,6 +78,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
+    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
+    publishedDateTime: 2019-12-20T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/aimotives-latest-aiware3p-delivers-superior-130000725.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.BE6BE70B6A7D17ADE4D9C1CA1FADBABF
+        width: 400
+        height: 142
   - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
     publishedDateTime: 2019-12-18T16:27:00Z
@@ -74,7 +104,16 @@ related:
       - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
         width: 405
         height: 228
+  - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
+    excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
+    publishedDateTime: 2019-12-19T13:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-aimotives-latest-aiware3p-delivers-superior-nn-acceleration-production-/2019/12/19/9072480.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
-secured: "a/q1RQVZFnoShn0Aka/r9kO0zPY2ClpDoWgV+14S0lzAZhd5UI0OxKHn0Yq0KSfTqHjMLsJfEsuq1gNGLZbJAGCY+h03dagRfgnvhIQzmeMNsDPxPN/JTfVtW34j3oGULPdUhuCGW0uRpK1S7L3Y/hgGOte5V1yrTJDsXDt2mHUc6YPkU1E97W4S4/4E/dHpyvrNXTLfMWmFUrjzN3MJT63Sr9CtMNMmWu6BIv86wdbEknYQ8L63T4M080rxwNqN4ir9BX3m+hRXghNC+ML2pw==;E6LwdcobKrUNszHt43l11w=="
+secured: "0NK8QP4s5nn9Y5KfFjD6M7OlYKrq3kZiWL5Q275scFI0P2kGyFQ47M0ozwXQoWx0FjNMWccJH5s8FwjFspbZauMpsp27V+5Lh9MBtKsRlgm6n87KV+8/Q6O+5YI8P4AcjNCjyIDhAVnf9kG6micsLFkM6NeX0Zbi6PdO+NDXPwoXbemiKakqiiooTlJQi7kNwNkYem2eQF9j/GqsJjjIRrVizl4ghjriao/TV1VM5gbPzhAWCCB/Bgn8Lpmh5+kp+NRFQ2ykV+K5LJWi05xh2A==;NdK9Ys5LhiXoBG8OyCrt7w=="
 ---
 

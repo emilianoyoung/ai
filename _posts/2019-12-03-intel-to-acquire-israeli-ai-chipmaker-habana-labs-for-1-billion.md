@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0ABEA6E1C7F8CDA73CE2619F42CCCEB1
         width: 635
         height: 400
-  - title: "Intel In Talks To Buy AI Chip Startup Habana Labs: Reports"
-    excerpt: "and they stick to it,' one Intel partner says of the report that Intel wants to expand its AI portfolio with another acquisition. By Dylan Martin December 03, 2019, 11:04 AM EST Intel is reportedly in advanced talks to acquire Habana Labs, an Israeli artificial intelligence chip startup that has previously raised funding from the semiconductor ..."
-    publishedDateTime: 2019-12-03T16:17:00Z
-    sourceUrl: https://www.crn.com/news/components-peripherals/intel-in-talks-to-buy-ai-chip-startup-habana-labs-reports
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: https://www.crn.com/resources/0258-0e204f335c94-fe3964c3e127-1000/ai-400.jpg
-        width: 399
-        height: 399
   - title: "Intel in talks to buy Israeli AI chip co Habana Labs - report"
     excerpt: "In June, Habana Labs announced the launch of a new chip called Gaudi. Gaudi is an AI Training Processor for data centres, which the company says will deliver an increase in throughput of up to four times over systems built with equivalent number GPUs."
     publishedDateTime: 2019-12-04T07:50:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-03T23:35:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191203005927/en/AWS-Verizon-Team-Deliver-5G-Edge-Cloud
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,51 +22,6 @@ images:
     width: 1200
     height: 627
     title: "AWS and Verizon Team Up to Deliver 5G Edge Cloud Computing"
-
-related:
-  - title: "Cerner Names AWS as Its Preferred Cloud and Machine Learning Provider"
-    excerpt: "Leaders in machine learning and healthcare technology join forces to advance the next evolution of healthcare Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (AMZN), and Cerner Corporation, a global healthcare technology company, announced that Cerner has selected AWS as its preferred cloud, artificial intelligence (AI), and ..."
-    publishedDateTime: 2019-12-03T16:28:00Z
-    sourceUrl: https://finance.yahoo.com/news/cerner-names-aws-preferred-cloud-140000755.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/cerner-names-aws-preferred-cloud-140000755.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/cerner-names-aws-preferred-cloud-140000755.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "FOX selects AWS as its cloud, machine learning provider"
-    excerpt: "AWS analytics services, including Amazon Kinesis, and machine learning services such as Amazon SageMaker will be deployed to enhance live video streams and enable real-time data capabilities. “Our extended partnership with AWS will strategically underpin our video and data workflows with a world class, adaptable, reliable, and scalable set of ..."
-    publishedDateTime: 2019-12-04T12:33:00Z
-    sourceUrl: https://www.rapidtvnews.com/2019120457782/fox-selects-aws-as-its-cloud-machine-learning-provider.html
-    ampUrl: https://www.rapidtvnews.com/2019120457782/fox-selects-aws-as-its-cloud-machine-learning-provider.amp.html
-    cdnAmpUrl: https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2019120457782/fox-selects-aws-as-its-cloud-machine-learning-provider.amp.html
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.B06151EAD853B731D510BCF6D8A90DED
-        width: 700
-        height: 302
-  - title: "AWS wins multiyear cloud and machine learning deal with Fox"
-    excerpt: "Media giant Fox Corp. will use Amazon Web Services Inc.’s cloud infrastructure, as well as managed offerings such as the provider’s SageMaker machine learning platform, to support broadcast operations. AWS announced the deal at its re:Invent conference in Las Vegas today alongside a raft of new product releases, many focused on machine ..."
-    publishedDateTime: 2019-12-03T19:07:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/aws-wins-multiyear-cloud-machine-learning-deal-fox/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DE87D2A84853B122DF92EAF3108049F4
-        width: 700
-        height: 389
 
 secured: "nXptLLfXzY955VmE0lkBHIsXSTAdCalU4QhMlfJWR8nH5ZN5mXoVQ1fIxsODLQ1qnU4cuA2LjyA60iBlbeGeXofkrZYApnFcQAMAHlDnEK6TQfveW1YyWFTNWX8yU5/gXNHRcVPUN4CA0EB6UebJySZNfJwsU0CAdJ5A3VUAwUv6p9GPI6wX27YXY2OT5BbgzarUWpshtVF8e0pb/XtrADTK2xjdEvT8UedcqNcWD2aXuEdvpiRCuZCSXDYJb3goLsPDMotETHMMKg0bhj+9Bw==;nIMugCsldDlV+stAdlV/tA=="
 ---

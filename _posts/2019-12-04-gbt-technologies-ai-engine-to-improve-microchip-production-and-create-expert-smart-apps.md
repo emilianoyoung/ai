@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/gbt-technologies-ai-engine-improv
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/gbt-technologies-ai-engine-improve-140010607.html
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -20,43 +20,15 @@ topics:
   - AI Hardware
 
 related:
-  - title: "The Power Of Purpose: How Saqib Shaikh And Microsoft Are Turning Disability Into An Engine For Innovation (Part 2)"
-    excerpt: "“Computer vision is a broad field and a lot of these technologies that our scientists work on are put it into Microsoft Cognitive services, which any customer can put into whichever business they're in to solve their particular problems. Sometimes they use the term “democratizing AI.” So that could be detecting faults on an assembly line ..."
-    publishedDateTime: 2019-12-03T16:23:00Z
-    sourceUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/
-    ampUrl: https://www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/afdhelaziz/2019/12/03/the-power-of-purpose-how-saqib-shaikh-and-microsoft-are-turning-disability-into-an-engine-for-innovation-part-2/amp/
+  - title: "Wolters Kluwer Introduces AI Technology to Predict C. difficile Infections and Improve Patient Outcomes"
+    excerpt: "Using surveillance technology to predict risk of C. diff, hospitals can reduce time to detection and treatment to improve outcomes and reduce spread of disease Wolters Kluwer, Health is introducing machine learning and artificial intelligence (AI) technology to its surveillance solution—Sentri7®—to predict healthcare-acquired infections ..."
+    publishedDateTime: 2019-12-09T17:24:00Z
+    sourceUrl: https://finance.yahoo.com/news/wolters-kluwer-introduces-ai-technology-155300059.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.AA3ECC92B8D0344CD67EE38DFBFD0FA3
-        width: 600
-        height: 315
-  - title: "Telecom Innovation | Microsoft Industry"
-    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
-    publishedDateTime: 2019-12-05T23:43:00Z
-    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
-        width: 770
-        height: 484
-  - title: "Microsoft Tactical Vehicle Takes Center Stage at NSWC Dahlgren Innovation Day"
-    excerpt: "Microsoft experts discussed their technologies, including DevOps, artificial intelligence, machine learning, as well as Azure and computing at the tactical edge. Mark Bolz – principal engineering architect for Microsoft’s Azure Data – explained Azure in his Dahlgren Innovation keynote speech, entitled, “Adaptive and Aligned systems ..."
-    publishedDateTime: 2019-12-03T20:30:00Z
-    sourceUrl: https://www.navy.mil/submit/display.asp?story_id=111579
-    type: article
-    provider:
-      name: United States Navy
-      domain: navy.mil
-    quality: 16
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 1
 
 secured: "KzFo1gBq3NzqIV8cinv6PDM3KbJkthQDyCJy701m9jgdgbA5ziMF+9QxlmaMKexMVFafSZ+2U2UY0yS1/0HVsjTNDDrhWXGXFxNUhnn+nFyw0NN0ffJRg0iqiyiXe79jN+SxMpn9QGcMXSs8sMIBCwbYWGVD7C3u7gnNc+5SFIiRr+K8SGuR5rZIZoQEp4oyOJCzX3A4M6vF4uTFDjKlBsIMvrhzYhGvNwBQtnjkWOpYVUY8YdanbYraTF4c4IO1mUOCzKx1SFx12wf3wXzgkQ==;fQPATBLOMhX8azwN8z7uKQ=="
 ---

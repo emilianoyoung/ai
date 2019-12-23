@@ -22,6 +22,6 @@ images:
     height: 400
     title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
 
-secured: "nJ/vYv9Sm85iAmCCUp07JjAEA/bJza0j3XpkMaLYuU7tnlG9THQYtfpgCFSwIrHWjcnIbZlkZBF1qrxXu6meLeOEODLqLE8/12aLFQO82iNJ0xQi7bvb9J2eVwH5WYCkbDHn1U8NnEpKG+dOh7i9uIY/osw2jLRGnhyuplr6Pqml2XnUJOLsVeDqTLCvovepHrsx3nibQiY92/AccE57g/2IWNR8B7ROYu/Blw9OKiEPFiG6haddJ3hT5Ko0dkQjuxquYQmbcFI03MPre78xzw==;M0a/e4CmR7imO8WXasw5pQ=="
+secured: "kEAUBPXOXwRs4iMVk0n7gF+mqSn5Ex9xB72q5F5Zw22gg8lXyePTTwcn4Gd5woftddt+QD9KvuMI5IIN95MTbcW1B+v8EfQwvHrBLKXmdgnqsOA7mw64zuwu/kCRKU8fGesV8ji9w8nj/PfBaGqj3QLoswTGyUttbsDkfSCN0O5+TYdvM5zxgYquEYs4GkfXedgJNxSekXr7jzXuAokhjM6jzI7/z717k3vL06JF2TIIeDQMVbqGo1od3sKXL1aSbqLKQ6iP36z62X4G7kSEVw==;jNiIB9PhbnjeMTnyHHFvSg=="
 ---
 

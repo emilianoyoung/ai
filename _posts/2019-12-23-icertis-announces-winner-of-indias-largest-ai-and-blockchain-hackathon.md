@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7F3183FE8058D5C2950C2AE826925AEF
         width: 700
         height: 298
+  - title: "Christmas Lectures presenter Dr Hannah Fry on pigeons, AI and the awesome power of maths"
+    excerpt: "Dr Hannah Fry is the presenter of this year's Royal Institution Christmas Lectures series ‘Secret & Lies - The Hidden Power of Maths’ (Photo: Paul Wilkinson) Driverless cars, robot butlers and reusable rockets – if the big inventions of the past decade and the artificial intelligence developed to create them have taught us anything ..."
+    publishedDateTime: 2019-12-23T17:19:00Z
+    sourceUrl: https://inews.co.uk/news/science/christmas-lectures-dr-hannah-fry-pigeons-ai-maths-1348852
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.323CDEAC5978CAEC3F37AF76F6E92CDD
+        width: 700
+        height: 367
 
 secured: "a59KVoaa0X+5il0Gms1ogxwIzyTCeNIbOTvowtk1NLC5D161UTRiVb5ebnE4wcNNPruMCgQu6nL4243AVxmwDFwwBhi64HSpxuRwxjhrMEiMmHNlF0Vrmrrl1Iz3G8QjgMO3lJEAfSXs54HKRs4za5d48+lpM+43MO6bs7TXJXL+GaFbgR47jXmCCVXucYXI59zZp4iWUg5Gp7Lx35fn/J8c8wmMoxITn+0ggpa7XdFz5CU03s1ySOtDuFcA+53SNVCL5x2yjLxbHm5o45WWDg==;v2DxJmvABMbdg9FnAXnSiQ=="
 ---

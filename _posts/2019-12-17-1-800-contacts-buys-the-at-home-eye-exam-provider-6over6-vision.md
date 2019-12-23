@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
         width: 210
         height: 297
+  - title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
+    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
+    publishedDateTime: 2019-12-18T00:13:00Z
+    sourceUrl: https://www.yahoo.com/now/1-800-contacts-buys-home-120028488.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.23ED5985353306C3291313D39D2120A2
+        width: 700
+        height: 466
 
 secured: "/2jOI2acQRccuYr1R3l2gzZjbMXfNaOxBcSTADx/jB/qKdk577vcSByzND3QxZV/8cixng1PJ8ct/wlkopqU6PlEAfJ2mD3sZL1A2DsnffshZT1FRajcZQ/z82svMJWex8oxfrp6szzvFuGNxN4DvYKJuDZmAwN/ar3Ob0sBDvQd4fYrOqBX2IZ6KvSOE7fjdXXARlhtgg79G0VOaOUuzK0N8PKoeWlhtGQ7WfP84Iz0tf7G42UHHouHv7r0U4olORouHHMErIwDVAv5cPvcBw==;VLjNvJO2OoMgsnZuhep45w=="
 ---

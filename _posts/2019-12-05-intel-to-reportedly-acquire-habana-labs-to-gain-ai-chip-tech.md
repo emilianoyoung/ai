@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/intel-reportedly-acquire-habana-l
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/intel-reportedly-acquire-habana-labs-144102922.html
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Intel to Reportedly Acquire Habana Labs to Gain AI Chip Tech"
 
 related:
-  - title: "Intel In Talks To Buy AI Chip Startup Habana Labs: Reports"
-    excerpt: "and they stick to it,' one Intel partner says of the report that Intel wants to expand its AI portfolio with another acquisition. By Dylan Martin December 03, 2019, 11:04 AM EST Intel is reportedly in advanced talks to acquire Habana Labs, an Israeli artificial intelligence chip startup that has previously raised funding from the semiconductor ..."
-    publishedDateTime: 2019-12-03T16:17:00Z
-    sourceUrl: https://www.crn.com/news/components-peripherals/intel-in-talks-to-buy-ai-chip-startup-habana-labs-reports
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: https://www.crn.com/resources/0258-0e204f335c94-fe3964c3e127-1000/ai-400.jpg
-        width: 399
-        height: 399
   - title: "Intel To Acquire Israeli AI Chipmaker Habana Labs For $1 Billion?"
     excerpt: "Intel could soon acquire artificial intelligence chip developer Habana Labs Ltd. Although yet to corroborated by either Intel Corporation or Habana Labs Ltd., the acquisition deal appears to be in advanced stages of negotiation. If the acquisition goes through, Intel is expected to pay about a billion dollars for the AI chip designer."
     publishedDateTime: 2019-12-03T19:51:00Z

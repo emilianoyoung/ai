@@ -1,27 +1,26 @@
 ---
 category: news
 title: "How AI came to rule our lives over the last decade"
-excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning, the social network would be \"dust.\" MOUNTAIN VIEW, Calif. - In 2010, artificial intelligence was more likely to pop up in dystopian science-fiction movies than in everyday life. And it certainly wasn't something people worried might take over their jobs in the near future."
-publishedDateTime: 2019-12-23T07:27:00Z
-sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
+excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+publishedDateTime: 2019-12-23T14:23:00Z
+sourceUrl: https://krdo.com/money/2019/12/23/how-ai-came-to-rule-our-lives-over-the-last-decade/
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: KRDO
+  domain: krdo.com
 
 topics:
   - AI
   - AI Hardware
-  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
-    width: 700
-    height: 393
+  - url: https://www.bing.com/th?id=ON.64ECFBCFD3B90328665A5360434907A1
+    width: 500
+    height: 373
     title: "How AI came to rule our lives over the last decade"
 
 related:
@@ -41,6 +40,6 @@ related:
         width: 700
         height: 393
 
-secured: "C8LW/Q3zCnQUssWgikSq2SvNFOHH6aJ92Y8JTvWu/VGvdwJUZ8LzS8JY+1syAoIthazYWplx5jmqzAa+8iKfEYu+0P7HtcN+Y+8rrRASXwTcvM/EbMGEAylYfdBxU3BP2akmMgh6CV0M3pMns/CWQehUagIjrQLwMD1C6zu6It8MBVuNlfOns4clzMwokIgXjp3v89nO7+2ZIoWrevGBupooyCeO0qm00BMlQ100cA0SWSMkPip1dxuqFHChvhCn0nkfh7t6+iMbISrLlFFY8A==;OPVzX6mHrxwdf19jC33p5g=="
+secured: "epfF4ue5p0OtD0MXbUWC9cS0oj/wspODhH/P7C5DI/HilpGHdDXag0dzRnqddzpRyZeNZyxIRgwh85UQS0MEMb58QOkvKRjGrRhZfGojF6jmkQW+krdFVrrEwnU0vtraBuR+W33PWvOo0zQKse8ezqdLKHKhooIQvxTuh3w6zOnC0T5Pof9QRVjPn8nDHAh8dJPh2katndxxuy2/nPA8YGBzSUCndHEPBIZ9VPrO42nT/Y2IWHrP3OVW2EH01eYnNzAliaa2vHlAqYve0xH6rA==;CPBJcBTcW2w4uuCTOySElQ=="
 ---
 

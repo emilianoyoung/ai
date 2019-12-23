@@ -8,8 +8,8 @@ ampUrl: https://mspoweruser.com/microsoft-tactical-vehicle-wow-the-military/amp/
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-tactical-vehicle-wow-the-military/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: MSPoweruser
@@ -25,6 +25,17 @@ images:
     height: 525
     title: "Move over Cybertruck – The Microsoft Tactical Vehicle wow the military"
 
-secured: "cP+bLfImJAVFCGvFPk/gvfqVXyjPonnZPQ6w9/L7N9LJcXfUnlPgKoYCuJIiXPGFq7mO2Sk0oPklI5hJEAAmbdvKw7qtznPjWVWxgt237WdkIWgxopzifxUAw8Hy17etKvu5bLpf6ZQR8q46NBi+oAkkJhf4oQ81lTGbpUOyX70E14HK92NFMrVdU6VLPxZoxjllIUvORUbgu8+XbjFu0UmRZUgKpfUMWe91mp1BZVNmwGIGUpPDj6aPtFwuJgYDWYsxyFn9Lj/ISXCAkhgi6A==;rTtLEuTz8aOXcptF6lvItg=="
+related:
+  - title: "Microsoft Tactical Vehicle Takes Center Stage at NSWC Dahlgren Innovation Day"
+    excerpt: "Microsoft experts discussed their technologies, including DevOps, artificial intelligence, machine learning, as well as Azure and computing at the tactical edge. Mark Bolz – principal engineering architect for Microsoft’s Azure Data – explained Azure in his Dahlgren Innovation keynote speech, entitled, “Adaptive and Aligned systems ..."
+    publishedDateTime: 2019-12-03T20:30:00Z
+    sourceUrl: https://www.navy.mil/submit/display.asp?story_id=111579
+    type: article
+    provider:
+      name: United States Navy
+      domain: navy.mil
+    quality: 16
+
+secured: "gCrHTCF0FaP9jDTBlZdv16YFWRJL/tKP37tG2Ue8BgHFFoMR6usfJYW+qO04p+1faZll64EfzZvBS2sUBnCZ5CVfXt6jmWx5BvwZkVGgS43AoLbCjUgVt01PEc8Hy9pDaIUy+4ex7yB9AgmLkN/hmj5rYgLIwg65yRGPLyRPTH+4zuQ+tvbESV7njNNDnB1TZVwTPcx280sFwX30KwPnett5LaN0NusGvLsahqSM0tNPgXe66nrpRiW4C2v4BRHFJ6UjKMQ851NqbaPJC+M1dA==;4L8OwDUM/qOZH01eUpB7aQ=="
 ---
 
