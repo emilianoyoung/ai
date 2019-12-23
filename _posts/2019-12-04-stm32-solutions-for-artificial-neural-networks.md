@@ -61,15 +61,6 @@ related:
       - url: https://www.bing.com/th?id=ON.326169887844D697F07D4EAE4A5A643E
         width: 450
         height: 300
-  - title: "BioSig Technologies Announces New Collaboration on Development of Artificial Intelligence Solutions in Healthcare"
-    excerpt: "“Integration of AI can open new avenues for improved diagnosis and more effective therapy delivery for bioelectronic medicine in particular and healthcare in general. We are thrilled to partner with Alex and his outstanding team, and look forward to working with them on developing world-class artificial intelligence and machine learning ..."
-    publishedDateTime: 2019-12-03T12:52:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/03/1955468/0/en/BioSig-Technologies-Announces-New-Collaboration-on-Development-of-Artificial-Intelligence-Solutions-in-Healthcare.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 13
 
 secured: "/TzR68123ESrvjJu8QEW+ng6lzfoZP5PZGak3ptu4FeONi7n3tqEvvNlJ0+NMf4VtRLqbLmkm2UXKBAPojyNyLbTLxPLZ3LhVcu+rqduY3Og+5d50RPpDa5CWa1DG/24JUvN/vqlCRHiRylWqobZBCIm9Ce9r7zg2MpHpWuNDk3pjnZEq2vHkdzOrqKXvY+Ie2OdD4G2xMe/q9yCj7/lSpkXQDSp6QI26zDEuYxReS91nnf49af9lVzVZQhsTbRD7ABg9ZaCO33XdrVHZ2Pxrg==;P+h1s4i3hwW1G9D4roKsTQ=="
 ---

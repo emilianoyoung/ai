@@ -62,15 +62,6 @@ related:
       name: ST
       domain: st.com
     quality: 19
-  - title: "BioSig Technologies Announces New Collaboration on Development of Artificial Intelligence Solutions in Healthcare"
-    excerpt: "“Integration of AI can open new avenues for improved diagnosis and more effective therapy delivery for bioelectronic medicine in particular and healthcare in general. We are thrilled to partner with Alex and his outstanding team, and look forward to working with them on developing world-class artificial intelligence and machine learning ..."
-    publishedDateTime: 2019-12-03T12:52:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/03/1955468/0/en/BioSig-Technologies-Announces-New-Collaboration-on-Development-of-Artificial-Intelligence-Solutions-in-Healthcare.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 13
 
 secured: "cwsFdMJPpQjqwZbxvK9cKKdEJtJHym3dctN5A/d1gSoePT4ouA0u9C1HlwaustX9Y0j9Qz4mZaiWxukUhsS/FeMnlGUZVGf6t9ehdXGOd0yr/8aJawagDAONfhWHQYsft1nfoG3S64SFDkmZkxg+Y5/2fA6aEVQYtlTpKUN45hwZ7a4yirBx2grZBnk5xcTqmZTrsy4VFdM5eL5TaXThSb0kDQuBqBl2jP6Vqp3gREN078IWcwltocTWbGrnxtXSv1CJhLfFwb3+1J6BHXzltg==;bgByeqES4y3q8W5Tagc4eg=="
 ---

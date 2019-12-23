@@ -8,7 +8,7 @@ ampUrl: https://amp.ibtimes.sg/scientists-develop-cost-effective-method-diagnose
 cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/scientists-develop-cost-effective-method-diagnose-leukaemia-using-ai-36338
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Scientists develop cost effective method to diagnose leukaemia using AI"
 
 related:
+  - title: "Leukemia Reliable Diagnosed by AI in New Study"
+    excerpt: "In fact, we tested various methods from the repertoire of machine learning and artificial intelligence. There was actually one ... the diagnosis would then happen earlier than it does now, and therapy could start earlier,” Schultze concluded."
+    publishedDateTime: 2019-12-23T13:12:00Z
+    sourceUrl: https://www.genengnews.com/news/leukemia-reliable-diagnosed-by-ai-in-new-study/
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.43E0CD4311F8FEEA2F756C0530B4462E
+        width: 500
+        height: 367
   - title: "Beaumont scientist gets closer to autism screening for newborns"
     excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... \"We are always looking for new ways to make a difference in the lives of our patients,\" Dr. Warner said. \"Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
     publishedDateTime: 2019-12-18T21:53:00Z

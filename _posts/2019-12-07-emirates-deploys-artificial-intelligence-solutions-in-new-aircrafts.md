@@ -8,7 +8,7 @@ ampUrl: https://www.vanguardngr.com/2019/12/emirates-deploys-artificial-intellig
 cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2019/12/emirates-deploys-artificial-intelligence-solutions-in-new-aircrafts/amp/
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: ST
       domain: st.com
     quality: 19
-  - title: "BioSig Technologies Announces New Collaboration on Development of Artificial Intelligence Solutions in Healthcare"
-    excerpt: "“Integration of AI can open new avenues for improved diagnosis and more effective therapy delivery for bioelectronic medicine in particular and healthcare in general. We are thrilled to partner with Alex and his outstanding team, and look forward to working with them on developing world-class artificial intelligence and machine learning ..."
-    publishedDateTime: 2019-12-03T12:52:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/03/1955468/0/en/BioSig-Technologies-Announces-New-Collaboration-on-Development-of-Artificial-Intelligence-Solutions-in-Healthcare.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 13
 
 secured: "h0MRuO0BkB+QmT6BLos35LMiv+N8wqhWwSsZ02qH9ufycBcTpru03sYDSn62bQvampudchFIFrZXJ192pfnRpkWHHO8ruth3juYvAJD8SI1hoDW2CY0bSGo6+k2Cl/l9r+yptIBMIX0QgEqyqIobEw9tQB1dnOSAWf2pmpb5JQKx7GTCW4M9ImsQm7Kd03BMV5I7A0eDfpkDFH8Xfbv0KC5VpYlrhXpfA+lbSg1QxjxTe474wu/C3MacXTgzW3Nn29BPR65YlLDiouugxiUg0w==;0KZVPBQBPxwP6GGLX7qEYQ=="
 ---

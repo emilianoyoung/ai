@@ -509,19 +509,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
         width: 400
         height: 267
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
-    publishedDateTime: 2019-12-18T18:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
-        width: 400
-        height: 267
   - title: "Deepak Chopra and the AI Foundation Partner to Bring Personal Transformation to Billions with the Power of Deepak’s Own AI"
     excerpt: "Digital Deepak Supercharges Dr. Deepak Chopra’s Mission to Unlock Human Potential by Cultivating Consciousness for All; Signups Now Open on the Digital Deepak Website and App World-renowned writer and teacher Dr. Deepak Chopra has partnered with The AI Foundation to create an advanced, totally personalized Artificial Intelligence (AI ..."
     publishedDateTime: 2019-12-06T01:57:00Z

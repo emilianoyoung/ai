@@ -24,6 +24,21 @@ images:
     height: 571
     title: "Can an AI fact-checker solve India’s fake news problem?"
 
+related:
+  - title: "India Startup MetaFact Is Fighting Fake News Using AI"
+    excerpt: "But for this one local startup, the fight against misinformation comes with the aid of artificial intelligence. MetaFact is a company born out of the marriage between AI and journalism. What it does is it uses natural language processing (a subfield of AI that deals with the interaction between human and computer language) or NLP to learn and ..."
+    publishedDateTime: 2019-12-23T13:29:00Z
+    sourceUrl: https://www.ibtimes.com/india-startup-metafact-fighting-fake-news-using-ai-2890814
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CF733651BD94B605C71136AFA6D55888
+        width: 700
+        height: 467
+
 secured: "QUVTOrbuF83sBTYJ48yUdeI9uTGyAYYzrtqtL9HZIIbPak1pliQzkVSVMW9Id4XwWXcKclfj7/81DNmHsY9xr2Ufm6YVu+URTFXSXEPUZ6WqsMoDypZUJfj0lT4A5mXUVNRlEGO8e4q3zwopVhnl22ImFMfXfWpCZphsxf0xT4KsrAu/Tqg7vPakd7YcBLyYKYO5QJtt4+C0206XouDGIsX7uxkpigoBwqhYWG4Vq6PwrW0fR1wUMa6t9ol/vuIDlo9rIXvoSPxxj0UW8vlidg==;96w5BS8p5us7jZK87PPYqQ=="
 ---
 

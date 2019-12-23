@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
 
 related:
+  - title: "After eBay improved its translation software, international commerce increased sharply"
+    excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
+    publishedDateTime: 2019-12-23T13:13:00Z
+    sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
+    ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
+        width: 700
+        height: 465
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z

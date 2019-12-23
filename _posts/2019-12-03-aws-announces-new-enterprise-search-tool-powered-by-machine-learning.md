@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-to
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-announces-new-enterprise-search-tool-powered-by-machine-learning/amp/
 type: article
 quality: 106
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -59,19 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.220F7A9D783AB823B016E1D4E0B3F345
         width: 336
         height: 224
-  - title: "Wipro Announces Advanced Cloud SOC Service Powered by Microsoft Azure Sentinel"
-    excerpt: "services using Microsoft Azure Sentinel. As part of this integration, Wipro will offer managed cloud SOC services with built in Artificial Intelligence (AI) and Orchestration capabilities for rapid threat detection and response for its clients across ..."
-    publishedDateTime: 2019-12-03T12:14:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191203005596/en/Wipro-Announces-Advanced-Cloud-SOC-Service-Powered
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.F2EF2CF8A2AA2EBF2A09702C9DF87F08
-        width: 700
-        height: 365
   - title: "AWS Announces Five New Machine Learning Services That Reinvent and Improve Everyday Enterprise Tasks – With No Machine Learning Experience Required"
     excerpt: "Amazon Kendra reinvents enterprise search by using natural language processing and other machine learning techniques to unite multiple data silos inside an enterprise and consistently provide high-quality results to common queries instead of a random list of links in response to keyword queries Amazon CodeGuru helps software developers automate ..."
     publishedDateTime: 2019-12-04T00:06:00Z

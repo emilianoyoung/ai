@@ -58,19 +58,6 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
-  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
-    publishedDateTime: 2019-11-25T18:50:00Z
-    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
-        width: 671
-        height: 386
   - title: "Amazon Rekognition Custom Labels"
     excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
     publishedDateTime: 2019-11-26T03:02:00Z
@@ -83,6 +70,6 @@ related:
       domain: pymnts.com
     quality: 39
 
-secured: "SgliJoYcOiC33wvkP31BnshryX5B61rnuBWEsvrYtSLjAMX50284mopNPhRAOETqzY1RcD7c07xRfBuKl91eqxbF4MvP4GM1f1QWJ9idN0A+63EwNcWb4Emnp0emEMAi0flrLFOgJQIpT3RlUAXEv50PJbDAm/+tGHL169DlpIXDxr6q7v2dgSl9hlyBnDS/nRaKQWuVuFcFu7vCwO5LzWxz+KzpOa3OAiichmtOWsYHhpBwtGG48rgWCu3xR2cYhWOVE9ON8YdnNwnQ416XTQ==;VeWpfHvLbsKyrpBlf1SUew=="
+secured: "yH2Gv1bFqsRo32DSenb0tWbCVUsQqP2FNG0fwzly83YU4szAEGlhN/HbdFNoLQCVETtW+08e2AUKwYdbeyLgO4fxd4Lv6GQYdn720xzRwPWgOdzvms9M4t5Jr5EAZp2rwotCTzrRXjHUUQQS3yS4/mxusQtbJabzKfVlzwdDPZiOjgK+hDTOhcOCp4CBXzcwbsfqbEXFNhR6w23vHP6/QnFo6lfw9bnG/sVEA1xnJ9l/Dm+VIg+y9BXLBUtMrhk5MuMYxWDSWe/YuSjy92gxvw==;Te9q+v4n9utziflb8Lvfzw=="
 ---
 

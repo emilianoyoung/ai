@@ -504,19 +504,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
         width: 400
         height: 267
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
-    publishedDateTime: 2019-12-18T18:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
-        width: 400
-        height: 267
   - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
     excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
     publishedDateTime: 2019-12-16T07:08:00Z

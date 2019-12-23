@@ -25,6 +25,23 @@ images:
     height: 393
     title: "A new frontier in automate sign language interpreting with novel technologies and AI algorithms."
 
+related:
+  - title: "How Emerging Technologies Will Radically Change the Luxury Car"
+    excerpt: "“The artificial intelligence stack has to be taught anew in each city,” Roy says ... “When you think 30 years down the track, and the Waymo [autonomous] driver being an enabler, it becomes a blank sheet.” And creativity need not stop at the vehicle manufacturing. The interior and exterior could be painstakingly hand-finished using ..."
+    publishedDateTime: 2019-12-23T13:02:00Z
+    sourceUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/
+    ampUrl: https://robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/artificial-intelligence-is-changing-the-future-of-car-design-2887645/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F27421521D98E5F079B98AB4E4560E27
+        width: 700
+        height: 394
+
 secured: "v6SyNmjxPiVMKM9ZY2MWHEn6y2Ew4jmqEgnSSx/s90SPf2k2AFdEBmEHPEJSxAjvjeUDGlvCmUA26D8JsTyze/LEpmHU4wt9o7ee4z3GjlXe2w7UcOkof8wPMzCBwAQZNzmfdNaR/iBXbszPKkNMPiL6uPSEMyzBs7OrCSY/Qnm1JNLOURzbatZFyUEqQa8MzZKeAcfSRFl4Xnq1SQHaRFBR5t/UNLDRKKFL7OmGqxpNfzLafHyRhezU7NIgVrtMkrBEMF5A5CkJ+uOGX7fRwg==;zqbjMD6y9m5JrSnI2bZbcA=="
 ---
 

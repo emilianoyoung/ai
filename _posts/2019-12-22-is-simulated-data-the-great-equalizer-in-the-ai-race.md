@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-22T08:57:00Z
 sourceUrl: https://medium.com/@charlesbrun/is-simulated-data-the-great-equalizer-in-the-ai-race-9ed30f9076db?_branch_match_id=link-737069905698870252
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medium
@@ -28,19 +28,64 @@ images:
     title: "Is Simulated Data the Great Equalizer in the AI race?"
 
 related:
-  - title: "Going beyond the ‘gift of time’: How AI, ML can enable greater personalized care"
-    excerpt: "Technologies such as AI and robotics have seen huge leaps in development and deployment in recent years and there is therefore a need to ensure the medical field, and clinicians in particular, keep pace with the opportunities these technologies are driving. The progress in deep learning autocontouring for cancer treatment, whereby contours ..."
-    publishedDateTime: 2019-12-22T18:15:00Z
-    sourceUrl: https://medcitynews.com/2019/12/going-beyond-the-gift-of-time-how-ai-ml-can-enable-greater-personalized-care/
+  - title: "How the ‘big 5’ bolstered their AI through acquisitions in 2019"
+    excerpt: "While Google itself can obviously be used to research most school subjects, Socratic is guided by teachers and ... This was pretty much true of each of Facebook’s and Apple’s AI acquisitions this year. In some cases, it wasn’t always obvious whether the AI element of a product was what the acquirers were looking for — in other words ..."
+    publishedDateTime: 2019-12-23T13:01:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/
+    ampUrl: https://venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/amp/
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 32
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
     images:
-      - url: https://www.bing.com/th?id=ON.8107221E1DE12121E76EFD7027AEFDBB
-        width: 300
-        height: 250
+      - url: https://www.bing.com/th?id=ON.5B5908183CB222A511ED3A7C978F19AE
+        width: 700
+        height: 366
+  - title: "As consumers find value in AI, now is the time to invest further"
+    excerpt: "Artificial intelligence has reached a point in its advancement where the masses have an understanding of its capabilities. In fact, consumers already see the near future where AI simplifies specific tasks of their everyday lives such as booking travel, educating them, preparing their taxes, and driving their cars. It’s no surprise that the AI ..."
+    publishedDateTime: 2019-12-23T12:10:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/
+    ampUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.383123F8C62131FB51E5F676CE178CD2
+        width: 700
+        height: 358
+  - title: "For All That AI Can Do Today, It Still Needs Humans In The Loop"
+    excerpt: "The best way to look at AI is as a prediction engine. We now have recommendation engines to predict what movies we want to watch and voice assistants to predict what we’re saying. But when we use AI in our personal lives, near-perfect answers are often completely adequate. If we only like a couple of Netflix’s recommendations or if Siri ..."
+    publishedDateTime: 2019-12-23T12:19:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/for-all-that-ai-can-do-today-it-still-needs-humans-in-the-loop/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/for-all-that-ai-can-do-today-it-still-needs-humans-in-the-loop/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/23/for-all-that-ai-can-do-today-it-still-needs-humans-in-the-loop/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.51BBC079C4A6BE9C795A454E39FEC990
+        width: 600
+        height: 315
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
+    publishedDateTime: 2019-12-18T18:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
+        width: 400
+        height: 267
 
 secured: "ntSihxeXVDOE2yBebCMuj8ly0yJ+krz6h4bGhT5SzP7HSpPwJE4clVVipiK/fGzEe8KFzveDspT2fAkqnmMfatHHq9rVLn/K1FT8nP6YmaCq+4chge0B/nI2hzvrTPj1dPG5RhT2TJcbgDSLR4kjSnguMdL+fqXFYgQvS1BEuLhk7E8OF7n2TfvkOyktlQln1GgMy+tUjZ2VzsoevmG2kkRMC8PI/wiVCqdwE4JGuStivTgV7uBmLUFVWPHd3NI3nsqlZX8k4+L8jABWyAOxIQ==;WTkqhNLzpB+pGJfmWw5sWw=="
 ---

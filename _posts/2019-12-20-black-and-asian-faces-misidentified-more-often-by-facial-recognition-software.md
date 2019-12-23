@@ -78,6 +78,21 @@ related:
       - url: https://images.wsj.net/im-138364/social
         width: 1280
         height: 640
+  - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"
+    excerpt: "Thanks for starting your day with the Capitol Alert. Andrew Sheeler here, filling in for Hannah Wiley. California law enforcement won’t be allowed to use facial recognition technology in their body cameras beginning Jan. 1. That’s because a new law, sponsored by Assemblyman Phil Ting, D-San Francisco, places a three-year moratorium on that ..."
+    publishedDateTime: 2019-12-23T11:55:00Z
+    sourceUrl: https://www.sacbee.com/news/politics-government/capitol-alert/article238586698.html
+    ampUrl: https://amp.sacbee.com/news/politics-government/capitol-alert/article238586698.html
+    cdnAmpUrl: https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article238586698.html
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
+        width: 700
+        height: 393
   - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
     excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
     publishedDateTime: 2019-12-19T16:50:00Z

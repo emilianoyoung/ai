@@ -50,19 +50,6 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
-  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
-    publishedDateTime: 2019-11-25T18:50:00Z
-    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
-        width: 671
-        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
     publishedDateTime: 2019-11-26T16:35:00Z
@@ -77,6 +64,6 @@ related:
         width: 589
         height: 558
 
-secured: "YGv5QCVi/T2eBmZmBh85RH25LKQSKrHow652k9pTWxDK+juKWfCFn/joAMtlvHuU61tqXyC6OjyQmbDJVaAxGsjKOe+ZBHCTgiC4A/zysSOoJzwQSPcuCjZwUIQRk6mCess7Q2EWok/yO5f91mOHuLCCP7a1K8smz9llmUrP3AD4oOYLdcny7fLURmqmJajk51AJABSj3KJHKkkqHqfMJQJhXF9GYygKhQZsoYghTRPMWgYVXl6HXx0qwWhQcXkx1iESMNQSKhmnIeAHZITF5A==;m00SXtM9bvYQ6nYM4OwGqw=="
+secured: "v+QvsnBQF3AG7hqegQ2fQUuH7oSbjm0apnex9t0mmbzjK8ZnJP1NddeFkxeLDB9jN/3SpvnwKC0fxH48fInfcm45d1fdECX/iWc5Zm0n1Sem704N2lE+7v9qmAigtEhBYJ8U5V6ENOXANj8ThdNgVY0+Btzi0I5FdQXF99pRifCLLDAHRf+rs3VwEmX20rBXwkdW5ASAGeUibY5BRxN1AmIF5FfOE7sK+EGNI8e8Wpp7PiWrCsAXp1vHmw2F3D5pQLEkkaVs9R3ha03lVv3acw==;6CNfOPE3+B0uOsHEqap7vg=="
 ---
 
