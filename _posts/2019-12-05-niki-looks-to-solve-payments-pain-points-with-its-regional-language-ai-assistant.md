@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
         width: 490
         height: 360
+  - title: "What the US and allies can do to fashion an AI future more consistent with shared interests"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill Congress asked us to serve on a bipartisan commission of tech leaders, scientists, and national security professionals to explore the relationship between artificial intelligence (AI) and national security. Our work is not complete, but our initial assessment is ..."
+    publishedDateTime: 2019-12-05T23:00:00Z
+    sourceUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more
+    ampUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.BB5D36A211D35839F0D632A1FD4B3BD3
+        width: 700
+        height: 514
   - title: "World-class Performance with Assistance of Artificial Intelligence"
     excerpt: "STOCKHOLM, Dec. 12, 2019 /PRNewswire/ -- In the latest version of Ortoma Treatment Solution, OTS 4, Ortoma has introduced support of Artificial Intelligence. The system drastically reduces the time needed for pre-operatively planning of a hip implant in 3D, which has created a big interest for the company's unique solution. Performance has been ..."
     publishedDateTime: 2019-12-12T07:24:00Z

@@ -59,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.17D814F31426CD80316A3C0720C52F40
         width: 600
         height: 315
-  - title: "Mercedes-Benz wants to know what you expect from a ride in a self-driving car"
-    excerpt: "With warm weather and indulgent legislation, California has become one of the most popular places in America for companies looking to test autonomous technology. Mercedes-Benz parent company Daimler has joined the list of tech firms and automakers putting driverless systems through their paces in the Golden State, according to a recent report ..."
-    publishedDateTime: 2019-12-03T14:01:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/mercedes-benz-testing-self-driving-cars-in-california/
-    ampUrl: https://www.digitaltrends.com/cars/mercedes-benz-testing-self-driving-cars-in-california/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/mercedes-benz-testing-self-driving-cars-in-california/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.6A47D6C9CDC3A9A4604D120F87E04042
-        width: 700
-        height: 366
 
 secured: "1C6ahKPE7/ltiz0b0pN5jI+GpuRIuwL86aRUD39GIQq0bkIgRyeLPhcARMPrK4sc1X4JoHOD2PBv8bA0qjSoLSMrbbgtiO7/k3idzK0ij1yn6qhZfLVSpglUinWz6zCtEBRR8XdSoGD/jFIR4l68T1I0hgKttpJA354phcMOoYA6reRi+EnR0m5t6a+zsmnWr11gV2ncDs4NZv2boh5P+ZV8Omd/xCl/J6Mwas5mXzx5Byo++ttCVqN3AlBBH1kDgmA3pIAnFPCiiZMKN+RuYw==;aJc+lywC9XEOk1/eMJNlHQ=="
 ---

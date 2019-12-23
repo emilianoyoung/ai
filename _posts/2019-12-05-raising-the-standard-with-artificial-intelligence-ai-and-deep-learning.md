@@ -35,6 +35,21 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 70
+  - title: "Kuwait's Aybiz Uses Crowdsourcing And AI Curation Techniques To Give You The Best Recommendations In MENA"
+    excerpt: "Launched in 2016, Aybiz utilizes crowdsourcing and AI curation techniques to provide an interactive local business search engine that will allow users to easily explore the largest list of places to go in Kuwait and soon across the region. Its founding team consists of Mohammad AlEisa, Chief Executive Officer, Talal AlMousherji, Chief Operating ..."
+    publishedDateTime: 2019-12-04T03:00:00Z
+    sourceUrl: https://www.entrepreneur.com/article/343384
+    ampUrl: https://www.entrepreneur.com/amphtml/343384
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343384
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.ADF155EF5A3288A132B7310ACDE1AADC
+        width: 700
+        height: 466
 
 secured: "64uXm8Ill+RXzh+JV7bZ/iWIvGYC5ikIHCyzFkgBmhZQZFri+Tw9zMdxS23JG+PH73gOrJSkqPQeXBEUV7C8ZJmH9JxkjlMbHVEMXKH11Q7oG2NPqau3pvcy5iESMD+zM2dRc32WpeX5tGUPPSa/c9T3KvMhASegvB+m3s6ezENEslLm02AcJwTxGCEtUIDiCDcUXeZRcYmE2KG4uLVbeToruGgoxgiz78h2pYHqXXYHC5AZA6au4Iw06rJ0ZFQY0x4pAWOIDQHU5yyxc2Ockw==;/Xx38qQSkeLEE/fG0YLMUA=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Deep learning identifies molecular patterns of cancer"
-excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal Life Science Alliance. Colorectal tumors are extremely varied in how they ..."
-publishedDateTime: 2019-12-03T12:43:00Z
+excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
+publishedDateTime: 2019-12-03T12:41:00Z
 sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
 ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.10EE5D7879B1124D4D7674C12A298212
-    width: 700
-    height: 350
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
+    width: 1920
+    height: 960
     title: "Deep learning identifies molecular patterns of cancer"
 
 related:
@@ -55,6 +55,6 @@ related:
         width: 700
         height: 367
 
-secured: "1Gus/4nO81ZAuayPlGpGRAn68ky74dpNtHiS4pxwS7tlLoMCwq5Lga6SbUu3iqFfU2iTxRISzYJVwSbuhwsm+zJlHI+U+qQE7eVcSdUy/mhhMrj+ASHrXB+JQLqaqDblmjWQ4qmz6aGqg7UDpJus+38na3WCYpHAkMlZ1onRpcVrq9H3qDjga43zT90/m3lRpOfugl/sOzByS7UE9WWm+ChfeO+6m9Tu0ytHjocSQ9PveCskKJWZDo2fjJdrTi6pgT2ENMAsQn06910wonl27g==;CvW/1klRZ5R8q0U2ch6GVQ=="
+secured: "9d3n9JcwUEbQiR3dWpQ3J4SmbVBFTA/lVbChgBRLdgimesPfeD28bjpnSXK6Mtbt3Dv/jY4Gja6ZV8Fy9tdlxUpuQX6yNv9hP5GUzWmingB5zDOB7mHlX+2r26+WJOrVQLR2MeanY/VnreKbBXP3fknfhYcQk3PaCFqL/Lv3xvpDJxrQ1XMcMOK8Y/lGCzaWmpZIy4KcFf39FIvwEjYCup8DX6s8G5IRRwshfL/ztkbk8jBeRbEwDZtQt6yELyM1ZtVdG1EecbEqGpf/13lnpQ==;6tubGGCDwnTPXSByndaXhA=="
 ---
 

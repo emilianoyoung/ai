@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
         width: 400
         height: 430
+  - title: "Facebook removes accounts with AI-generated profile photos"
+    excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
+    publishedDateTime: 2019-12-23T14:30:00Z
+    sourceUrl: https://arstechnica.com/tech-policy/2019/12/facebook-removes-accounts-with-ai-generated-profile-photos/?comments=1
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.1B6429B6A645C009FB38E2F188FC753C
+        width: 700
+        height: 350
   - title: "Innodisk Improves Computer Vision with New AI Accelerator Card"
     excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card essentially functions like the video card on a standard PC, which handles some of the graphical ..."
     publishedDateTime: 2019-12-20T21:05:00Z

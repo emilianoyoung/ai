@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7ED73C34B7A7BB3C416C184065472433
         width: 700
         height: 366
+  - title: "CT company meets challenging medical needs with artificial intelligence"
+    excerpt: "So we’re talking about a four to five year development plan with a lot cheaper cost,” Dr. Yocca. It typically takes ten to 15 years to develop a drug. Artificial intelligence they say, is key to BioXcel’s mission to meeting critical needs in medicine that have so far been challenging. That agitation medication could be available by the ..."
+    publishedDateTime: 2019-12-09T21:39:00Z
+    sourceUrl: https://www.wtnh.com/lifestyle/health-news/ct-company-meets-challenging-medical-needs-with-artificial-intelligence/
+    ampUrl: https://www.wtnh.com/lifestyle/health-news/ct-company-meets-challenging-medical-needs-with-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/lifestyle/health-news/ct-company-meets-challenging-medical-needs-with-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: WTNH
+      domain: wtnh.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.865FEFD2AFE63632427CACCCAFD0B326
+        width: 700
+        height: 393
   - title: "Vector processing rises to the challenges of AI and machine learning"
     excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
     publishedDateTime: 2019-12-12T16:56:00Z

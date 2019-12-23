@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/resource-library/casestudies/acc
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/accelerate-your-machine-learning-and-artificial-intelligence-journey-using-these-devops-best-practices/
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,21 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Kuwait's Aybiz Uses Crowdsourcing And AI Curation Techniques To Give You The Best Recommendations In MENA"
+    excerpt: "Launched in 2016, Aybiz utilizes crowdsourcing and AI curation techniques to provide an interactive local business search engine that will allow users to easily explore the largest list of places to go in Kuwait and soon across the region. Its founding team consists of Mohammad AlEisa, Chief Executive Officer, Talal AlMousherji, Chief Operating ..."
+    publishedDateTime: 2019-12-04T03:00:00Z
+    sourceUrl: https://www.entrepreneur.com/article/343384
+    ampUrl: https://www.entrepreneur.com/amphtml/343384
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343384
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.ADF155EF5A3288A132B7310ACDE1AADC
+        width: 700
+        height: 466
   - title: "Raising the standard with Artificial Intelligence (AI) and Deep Learning"
     excerpt: "There are no limits to the applications the camera can be used for, and the solution platform is particularly suitable for sectors such as building engineering, energy, civil engineering, industry and production, public services, retail, healthcare, and education. Focus on smart video technologies with Artificial Intelligence and Deep Learning ..."
     publishedDateTime: 2019-12-05T17:03:00Z

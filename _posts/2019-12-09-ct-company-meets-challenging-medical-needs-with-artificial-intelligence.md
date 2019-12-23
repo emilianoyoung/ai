@@ -25,45 +25,47 @@ images:
     title: "CT company meets challenging medical needs with artificial intelligence"
 
 related:
-  - title: "Introducing medical speech-to-text with Amazon Transcribe Medical"
-    excerpt: "We are excited to announce Amazon Transcribe Medical, a new HIPAA-eligible, machine learning automatic speech recognition (ASR) service that allows developers to add medical speech-to-text capabilities to their applications. Transcribe Medical provides accurate and affordable medical transcription, enabling"
-    publishedDateTime: 2019-12-03T14:01:49Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/introducing-medical-speech-to-text-with-amazon-transcribe-medical/
+  - title: "‘The ethical challenge AI poses is something radically new’"
+    excerpt: "or Kant’s ethics. Therefore I would suggest in cases like this to run a random generator. That’s the analogon to what a human being would do. Which means that the machine would be just as helpless as human beings are — that collides with the expectation many have that artificial intelligence should be better than us. True. But from my ..."
+    publishedDateTime: 2019-12-09T19:35:00Z
+    sourceUrl: https://www.politico.eu/article/ethics-interview-for-ai-print-special/
+    ampUrl: https://www.politico.eu/article/ethics-interview-for-ai-print-special/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ethics-interview-for-ai-print-special/amp/
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: POLITICO
+      domain: politico.eu
+    quality: 74
     images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/06/28/social-transcribe.jpg
-        width: 1000
-        height: 500
-  - title: "Amazon Introduces Machine Learning Medical Transcription Service"
-    excerpt: "December 03, 2019 - Amazon Web Services (AWS) has launched a new machine learning service called Amazon Transcribe Medical, which will automatically convert physician consultations and dictated notes from speech to text. Accurate medical transcriptions are essential for effective healthcare delivery, but these transcriptions are also expensive ..."
-    publishedDateTime: 2019-12-03T15:55:00Z
-    sourceUrl: https://healthitanalytics.com/news/amazon-introduces-machine-learning-medical-transcription-service
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.51999FDE9EBDB9911CC841F397E819FF
-        width: 690
-        height: 399
-  - title: "New Amazon AI can transcribe a doctor's natural speech to text"
-    excerpt: "Amazon's newly introduced Amazon Transcribe Medical is an automatic speech recognition technology that understands medical lingo -- abbreviations and all -- and can transcribe a doctor's speech to text. Two years after Amazon announced the Amazon Transcribe service, a tool that automatically converts speech to text complete with natural ..."
-    publishedDateTime: 2019-12-03T15:37:00Z
-    sourceUrl: https://news.yahoo.com/amazon-ai-transcribe-doctors-natural-speech-text-153724211.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.BAFA85446FEA89249AD174AFDBAC1A6B
+      - url: https://www.bing.com/th?id=ON.7ED73C34B7A7BB3C416C184065472433
         width: 700
-        height: 466
+        height: 366
+  - title: "Analyst Watch: Evaluating the ethics of software"
+    excerpt: "This category involves the professional resources that are responsible for evaluating the ethics of software applications. As AI/ML-based applications proliferate, it becomes important for ethicists to opine on the ethical implications of the implementation of AI/ML, and whether a specific algorithm discriminates against one or more groups of ..."
+    publishedDateTime: 2019-12-09T19:34:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/analyst-watch-evaluating-the-ethics-of-software/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.1EB508FEFED6F7730FEA6029DF2024FC
+        width: 640
+        height: 452
+  - title: "Vector processing rises to the challenges of AI and machine learning"
+    excerpt: "Ideally, a vector computer would combine the benefits of extremely high-performance general-purpose scalar processors with the unique capabilities of vector processors to produce results that neither one alone could achieve. December 09, 2019 In the complex world of computing, a major new technological development in a particular area tends to ..."
+    publishedDateTime: 2019-12-12T16:56:00Z
+    sourceUrl: https://www.datacenterdynamics.com/whitepapers/vector-processing-rises-challenges-ai-and-machine-learning/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.81DDB01FF6C524E99D8C0D5575E98E53
+        width: 700
+        height: 367
 
 secured: "iyXUNK0mFaIlqvTF1sI9aRjlkc/r6KqharHz7SmmZ9ksOvFc3DON+nG3IWIzf/Ean7TVs0tIYzmmjSrQ1+v/dcWIIjq77r7XTf1sWx7fB8K+f8jHTV29uNSog2DDICABg6n5KheNzeVpyk30JLUFR2f5IHVVl7C86kOrNf357P2f+BCqxXumI0nZOe8eXrkCStTuRv/a5xNRgczBmgmg8XAjdkM1r9whLl6e+N2yYjosz3PDUHfadeMNIyEyqzrvGvDaoQ6Te/t7fCoxfHVu5Q==;FP65fJoVtkrkaf0K/tSOdQ=="
 ---

@@ -92,6 +92,21 @@ related:
       - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
         width: 490
         height: 360
+  - title: "What the US and allies can do to fashion an AI future more consistent with shared interests"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill Congress asked us to serve on a bipartisan commission of tech leaders, scientists, and national security professionals to explore the relationship between artificial intelligence (AI) and national security. Our work is not complete, but our initial assessment is ..."
+    publishedDateTime: 2019-12-05T23:00:00Z
+    sourceUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more
+    ampUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.BB5D36A211D35839F0D632A1FD4B3BD3
+        width: 700
+        height: 514
 
 secured: "d47hOgiYtg9GsLsm0AdxRiJcq1wIpMqCLQ+KfCPw7B+YOeZ8VBSC3/KIVb2fp1jnSi/1tmw8D/j4uwb4AHOVEGhohMi0iqdjNyMMkVtxejHT97wCbsqVgSbsqoXlfAInVHjZppSr1DGDUshFRrLHXQhJ1d9RbygjTVurVZxnmwvtVbXgixSlQxe5/HuL2A9E2S+nfxYgqnFt8iDQewrXyMT9tsjaPtUUshKnsoXzvJUGZhUROgBQDASIJPI4NYKG0nNlRhIEq1iOj59gOin4iQ==;sv2n9uBVOewakmOZfWTt7w=="
 ---

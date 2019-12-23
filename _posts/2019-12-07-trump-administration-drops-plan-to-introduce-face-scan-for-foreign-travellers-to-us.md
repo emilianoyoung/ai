@@ -191,19 +191,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
         width: 648
         height: 516
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
   - title: "Homeland Security: U.S. Citizens Can ‘opt Out’ of Using Facial Recognition at Airports"
     excerpt: "Following criticism from its plan to subject U.S. citizens to facial recognition technology as a means to screen people at airports, U.S. Customs and Border Protection has said American citizens can choose to “opt out.” The federal government has been using facial recognition technology to screen non-U.S. citizens traveling into the country ..."
     publishedDateTime: 2019-12-06T00:04:00Z

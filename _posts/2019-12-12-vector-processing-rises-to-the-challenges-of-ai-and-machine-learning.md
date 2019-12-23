@@ -52,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1EB508FEFED6F7730FEA6029DF2024FC
         width: 640
         height: 452
+  - title: "CT company meets challenging medical needs with artificial intelligence"
+    excerpt: "So we’re talking about a four to five year development plan with a lot cheaper cost,” Dr. Yocca. It typically takes ten to 15 years to develop a drug. Artificial intelligence they say, is key to BioXcel’s mission to meeting critical needs in medicine that have so far been challenging. That agitation medication could be available by the ..."
+    publishedDateTime: 2019-12-09T21:39:00Z
+    sourceUrl: https://www.wtnh.com/lifestyle/health-news/ct-company-meets-challenging-medical-needs-with-artificial-intelligence/
+    ampUrl: https://www.wtnh.com/lifestyle/health-news/ct-company-meets-challenging-medical-needs-with-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/lifestyle/health-news/ct-company-meets-challenging-medical-needs-with-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: WTNH
+      domain: wtnh.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.865FEFD2AFE63632427CACCCAFD0B326
+        width: 700
+        height: 393
 
 secured: "qo3LWgh9mgw6t/IwC3+lTVHrtI2oBUfvkrxS2nAV5Fq707nd0j0Ui6DvSlDRLF35C1epyK9Ny08gf5570M9DLZml/p2WQ6XlD7Hg9YhywsUK0wlmx41HqF5B6Eq3+uRQrsKWtWtQ197ZOkcC+e+RfD/r3CWjXoq/Ntzdk0dLn730NvuCHKkImhksN94n9EKnkgXTcs5KdgK4IofIxKI1VJyR4DLoI0cf206fJiioEX0RMcBXYcTsDrttz+SCvmDavK7hcIR2DzubrHQIipW/kQ==;SE5hoP7vodstJz2cWptaNw=="
 ---

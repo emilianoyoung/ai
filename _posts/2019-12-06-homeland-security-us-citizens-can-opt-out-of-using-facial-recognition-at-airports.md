@@ -189,19 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
         width: 648
         height: 516
-  - title: "Looking Back at Microsoft Ignite 2019 - Tech Intensity, End to End Security and AI"
-    excerpt: "Giving the ability to define role-based access to resources in the Azure Portal and assign that to devices/infrastructure running in other clouds or on premise. This could potentially be a big win for operations teams struggling with security and compliance. Democratizing AI and Empowering Users One of the key themes was the concept of making ..."
-    publishedDateTime: 2019-12-03T13:11:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/blogs/microsoft-ignite-security-ai/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.FF665A39983C6134309658C04CDC5B0B
-        width: 300
-        height: 300
   - title: "Homeland Security Reverses Decision To Use Facial Scans For US Travelers"
     excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
     publishedDateTime: 2019-12-06T02:31:00Z

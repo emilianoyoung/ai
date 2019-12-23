@@ -28,79 +28,82 @@ images:
     title: "Collaboration is the key to making AI and IoT work"
 
 related:
-  - title: "When It Comes To Automation And AI, Failure Is Not An Option"
-    excerpt: "CEO of Accelirate Inc., the largest niche RPA and AI Service organization in the United States. Share to facebook Share to twitter Share to linkedin At my previous company, we grew from 10 employees to over 1,000 in five years. The growth put a strain on our small business accounting system, since it was not designed for larger organizations."
-    publishedDateTime: 2019-12-03T13:53:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/03/when-it-comes-to-automation-and-ai-failure-is-not-an-option/amp/
+  - title: "The Myth and Reality of How AI is Changing Work"
+    excerpt: "The way people talk about how jobs and work are changing due to artificial intelligence (AI) and automation often doesn't match up with the reality, according to several speakers at MIT's recent AI and the Work of the Future Congress. In a panel on the myths of AI technology, a number of speakers discussed how AI simply can't do all of the ..."
+    publishedDateTime: 2019-12-11T20:21:00Z
+    sourceUrl: https://www.pcmag.com/article/372474/the-myth-and-reality-of-how-ai-is-changing-work
+    ampUrl: https://www.pcmag.com/article/372474/the-myth-and-reality-of-how-ai-is-changing-work?amp=1
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372474/the-myth-and-reality-of-how-ai-is-changing-work?amp=1
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BB52E4AB9A870E53C131D804CEF2CAA2
-        width: 600
-        height: 315
-  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
-    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
-    publishedDateTime: 2019-12-09T06:17:00Z
-    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
-    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
-        width: 600
-        height: 315
-  - title: "Kuwait's Aybiz Uses Crowdsourcing And AI Curation Techniques To Give You The Best Recommendations In MENA"
-    excerpt: "Launched in 2016, Aybiz utilizes crowdsourcing and AI curation techniques to provide an interactive local business search engine that will allow users to easily explore the largest list of places to go in Kuwait and soon across the region. Its founding team consists of Mohammad AlEisa, Chief Executive Officer, Talal AlMousherji, Chief Operating ..."
-    publishedDateTime: 2019-12-04T03:00:00Z
-    sourceUrl: https://www.entrepreneur.com/article/343384
-    ampUrl: https://www.entrepreneur.com/amphtml/343384
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343384
+      - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
+        width: 700
+        height: 393
+  - title: "How the ‘bigger is better’ mentality is damaging AI research"
+    excerpt: "Something you’ll hear a lot is that the increasing availability of computing resources has paved the way for important advances in artificial intelligence. With access to powerful cloud computing platforms, AI researchers have been able to train larger neural networks in shorter timespans. This has enabled AI to make inroads in many fields ..."
+    publishedDateTime: 2019-12-05T14:50:00Z
+    sourceUrl: https://thenextweb.com/syndication/2019/12/05/how-the-bigger-is-better-mentality-is-damaging-ai-research/
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 70
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.ADF155EF5A3288A132B7310ACDE1AADC
+      - url: https://www.bing.com/th?id=ON.AA539D98380851B1F87698DC28767BB2
         width: 700
-        height: 466
-  - title: "What the US and allies can do to fashion an AI future more consistent with shared interests"
-    excerpt: "The views expressed by contributors are their own and not the view of The Hill Congress asked us to serve on a bipartisan commission of tech leaders, scientists, and national security professionals to explore the relationship between artificial intelligence (AI) and national security. Our work is not complete, but our initial assessment is ..."
-    publishedDateTime: 2019-12-05T23:00:00Z
-    sourceUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more
-    ampUrl: https://thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/technology/473273-what-the-us-and-allies-can-do-to-fashion-an-ai-future-more?amp
+        height: 350
+  - title: "The AI community needs to take responsibility for its technology and its actions"
+    excerpt: "On Monday, at the opening of one of the world’s largest gatherings of AI researchers, Celeste Kidd addressed thousands of attendees in a room nearly twice the size of a football field. She was not pulling her punches. “There’s no such thing as a neutral platform,” the influential scientist and prominent #metoo figurehead told those ..."
+    publishedDateTime: 2019-12-13T10:57:00Z
+    sourceUrl: https://www.technologyreview.com/s/614923/ai-tech-industry-take-responsibility/
+    ampUrl: https://www.technologyreview.com/s/614923/ai-tech-industry-take-responsibility/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614923/ai-tech-industry-take-responsibility/amp/
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 47
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.BB5D36A211D35839F0D632A1FD4B3BD3
+      - url: https://www.bing.com/th?id=ON.0E85B743ACE325A0148BE0562FA62BE5
         width: 700
-        height: 514
-  - title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
-    excerpt: "The tools in the flow support the company’s Intelligent System Design ™ strategy, enabling advanced-node system-on-chip (SoC) design excellence for AI and HPC applications. About Cadence Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play."
-    publishedDateTime: 2019-12-10T06:04:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005160/en/Global-Unichip-Corporation-Cadence-Digital-Implementation-Signoff
+        height: 393
+  - title: "How AI-Infused Machine Learning Is Radically Changing Brand Localization Strategy"
+    excerpt: "Human resources also will provide the crucial quality control role, reviewing and modifying machine translations, ever improving natural language processing models with authentic human understanding and feedback. AI is already used in a wide array of translation solutions, making the localization of your web site, product and services easier ..."
+    publishedDateTime: 2019-12-09T12:14:00Z
+    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy
+    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy/amp
+    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy/amp
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 51
+  - title: "The World Is Changing Too Fast"
+    excerpt: "“2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imagin"
+    publishedDateTime: 2019-12-18T08:53:00Z
+    sourceUrl: https://jewishjournal.com/newsroom/tech/the-world-is-changing-too-fast/
+    type: article
+    provider:
+      name: Jewish Journal
+      domain: jewishjournal.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
-        width: 700
-        height: 365
+      - url: https://jewishjournal.com/wp-content/uploads/2017/11/jjsplash_a_1200x1920.png
+        width: 1198
+        height: 675
+  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
+    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
+    publishedDateTime: 2019-12-11T18:35:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
 
 secured: "fyfL8inIx++Jf9sMFDXYhLF8pqZ9pw5hZ/AFhRKnNknqEeNtQpeAL1FZzlQIg+dGVHvWQW4TiO/8w68pgIcRNG/O9er4b6c5DB5GU6S0Vjf3V7naWGSxIVg2/rISku+upYFQzZ5Dxl3Lh0pYzpw5DQjw98++VRlgyTheIepNv2Rht9hVlmA19U+IHETelKqLPCfNjtfxoU+F+lsi6a0V32SChbcYdy1ZcM4bGEjpyDyEYQm1wJlLv1DPX7OljUd3sUHThawkc495U3oVphbdWg==;Bzp+GSwWTHS2GtDv/MPysw=="
 ---

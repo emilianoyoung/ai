@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AA539D98380851B1F87698DC28767BB2
         width: 700
         height: 350
+  - title: "Collaboration is the key to making AI and IoT work"
+    excerpt: "1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Special report: Blockchain in business: Where are we now, and predictions for the next decade Microsoft Ignite 2019: Azure Arc, HoloLens 2, Edge, Quantum and Teams Year-round IT budget template Digital Transformation ebook: Guide to becoming a digital transformation ..."
+    publishedDateTime: 2019-12-04T20:24:00Z
+    sourceUrl: https://www.techrepublic.com/videos/collaboration-is-the-key-to-making-ai-and-iot-work/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.B1CBB183AA7DB1C8027452D9881B99BB
+        width: 700
+        height: 525
   - title: "The AI community needs to take responsibility for its technology and its actions"
     excerpt: "On Monday, at the opening of one of the world’s largest gatherings of AI researchers, Celeste Kidd addressed thousands of attendees in a room nearly twice the size of a football field. She was not pulling her punches. “There’s no such thing as a neutral platform,” the influential scientist and prominent #metoo figurehead told those ..."
     publishedDateTime: 2019-12-13T10:57:00Z

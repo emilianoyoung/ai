@@ -2,26 +2,26 @@
 category: news
 title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
 excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-publishedDateTime: 2019-12-23T13:57:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-300978912.html
+publishedDateTime: 2019-12-23T12:53:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
+ampUrl: https://markets.businessinsider.com/amp/news/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
 type: article
-quality: 6
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
 
 related:
   - title: "Artificial Intelligence’s Foothold Increases Going Into 2020"
@@ -40,6 +40,6 @@ related:
         width: 1200
         height: 710
 
-secured: "p/EJ2uvPz2oh2KRw6LKhdS5dTA+DHYAEtv7Tq4FSVMCwrgnw6/appuhm+5kw4T3pQkp66qRrU3XIMMqJKF/wTZuo3jCBsJCKaOt9aTUpFgU90ddDrFPmwmjiYsCSFu/sZFVCw62VTx0bShKVPWwPQOhGD/nRRErNnXZB3vMgiNJ23Ykc6mDqWU7kmHy93lojPPssGnbZqsGVayZ10rH/ZoyN74H+Sd+BelqiwRqqWWBspyHgM5aJcKAk+oQVIbfBdu/5VNM0SgEe0+BIx2n+EA==;sRbara7jgX3EKCY6kbb0DA=="
+secured: "JNGJGoDn6w4bvteLwVG2Kpm+wFzRVPdQVjw2FvCuOpsg4utNygq8SJUu8qftu+eSC7FiEHarnkYbRLPbKfjTY3W9t3cED+jlJ9LxaZp7Ker9DlwgQi0+o6gNMx3CicWwBnR4da/oQWmvleIt6WTkBQJdmk4PFmI+stj4n+65siB6lg8nAZCinwLg6AXpURyuOSoWnP0D1qAnWoVhTsUI3GLkns9swi3SbsxegO0L6e5+rz7RVsgZchIeqyucOHkQ76ylaPUtQJ/w5kco48BcFw==;JtiASbVQikBDC6nV2JbBwA=="
 ---
 

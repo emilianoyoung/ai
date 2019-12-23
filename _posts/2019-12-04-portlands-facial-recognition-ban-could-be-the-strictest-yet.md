@@ -209,21 +209,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
         width: 600
         height: 390
-  - title: "Chinese Citizens Express Concern Over the Abuse of Facial Recognition Technology"
-    excerpt: "A man watches as a visitor tries out a facial recognition display at a booth for Chinese tech firm Ping'an Technology at the Global Mobile Internet Conference (GMIC) in Beijing, April 26, 2018. The activist added that past cases have shown that the police failed to put the technology into good use such as locating those who went missing ..."
-    publishedDateTime: 2019-12-03T13:54:00Z
-    sourceUrl: https://www.voanews.com/east-asia-pacific/chinese-citizens-express-concern-over-abuse-facial-recognition-technology
-    ampUrl: https://www.voanews.com/east-asia-pacific/chinese-citizens-express-concern-over-abuse-facial-recognition-technology?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/east-asia-pacific/chinese-citizens-express-concern-over-abuse-facial-recognition-technology?amp
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.0DB98A3DC23138C29FC6E9238B7F9075
-        width: 700
-        height: 466
   - title: "Homeland Security Wants To Expand Facial Recognition To All Entering Or Leaving US"
     excerpt: "Many of us use facial recognition technology daily. The latest iPhone uses it to unlock your phone and conduct transactions. The government has used it for years for non-U.S. citizens arriving in the United States. Now, Homeland Security wants to expand that to include anyone arriving or leaving the U.S. They argue it will make us all safer."
     publishedDateTime: 2019-12-04T02:14:00Z
@@ -373,19 +358,6 @@ related:
       - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
         width: 700
         height: 392
-  - title: "China Collects Human DNA En Masse to Advance Facial Recognition Techniques"
-    excerpt: "China is trying to achieve that accuracy. According to the Times, officials in the city of Tumxuk in the western Xinjiang region have collected blood samples from hundreds of detained Uighurs and are using DNA from the samples to develop more accurate facial recognition techniques. It was impossible to verify if the blood samples were taken ..."
-    publishedDateTime: 2019-12-03T13:16:00Z
-    sourceUrl: https://news.yahoo.com/china-collects-human-dna-en-131631233.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.934436CFB6B3ACFC9AE41DBF85DC09E0
-        width: 700
-        height: 408
   - title: "Department of Homeland Security drops controversial facial recognition plan"
     excerpt: "The Department of Homeland Security has backtracked on a plan to require every person, including U.S. citizens and green-card holders, to submit to a facial recognition screening before entering or leaving the country. Why it matters: Facial recognition has emerged as a privacy flashpoint. As some cities pass bans on the technology, the federal ..."
     publishedDateTime: 2019-12-05T18:52:00Z

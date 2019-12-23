@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.67A39C8A94F947BE52BAD7221FB1C2E1
         width: 700
         height: 466
-  - title: "IBM Tech Trends To Watch In 2020 … And Beyond"
-    excerpt: "But for now, here is IBM’s preview of the year and decade ahead. Artificial intelligence technology probably won’t take your job. But it will change how you work. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will ..."
-    publishedDateTime: 2019-12-09T14:59:00Z
-    sourceUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/
-    ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
-        width: 600
-        height: 315
   - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
     excerpt: "IBM Analytics and IBM Security. Watson: FinTechs can infuse AI into their business processes, helping them to make more accurate predictions, automate decisions and optimize processes. IBM Blockchain: Offers the ability to secure cross-border transactions and build an ecosystem of trust for partners and clients around the world. IBM Analytics ..."
     publishedDateTime: 2019-12-06T14:00:00Z

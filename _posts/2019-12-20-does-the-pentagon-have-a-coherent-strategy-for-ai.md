@@ -23,6 +23,21 @@ images:
     height: 367
     title: "Does the Pentagon have a coherent strategy for AI?"
 
+related:
+  - title: "Can this group become 1-800-AI for the Pentagon?"
+    excerpt: "This breadth of applications is evident in JAIC’s main lines of effort, mandated by the DoD AI strategy. With a scope of projects ranging from software acquisition to workforce development to ethics, the organization has a heavy workload. What will shape AI the most is how the agency chooses to tackle specific problems within that scope."
+    publishedDateTime: 2019-12-23T14:08:00Z
+    sourceUrl: https://www.defensenews.com/newsletters/daily-brief/2019/12/23/can-this-group-become-1-800-ai-for-the-pentagon/
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.731DFAD217E05F0F05063A4AD72DC4F4
+        width: 700
+        height: 367
+
 secured: "RYizVnAgtgtwfs6kPm8pMRBFn3TbXFPRuUqwArWQEsP+wsEuiGCUcPAxC4BtYIsO8pZ6T9WHsxWBB1MclhSf/AM7T38wMR5VlZjNDc8EfT0xVRg6IbmQ9scRkdXkVx64Efo6vZee3SdyE4VmocBaf7EDN+g4jDv4zJwqE4GO6eISkRNE9Y26u8R0TKcduM+wWYhGLPAz8hsAIcBa7XnMdqL6X2ydN5FBkEa2q9gP82vPIKVha3e9pKW35ZWrb76kziZbdVGJMQCcHGrwilr7SA==;SNQUN6hOvzU7lmRJ+oz2Nw=="
 ---
 

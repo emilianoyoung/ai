@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B5A5B8C14ABB6234C95D36EC448CECD1
         width: 700
         height: 393
+  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
+    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
+    publishedDateTime: 2019-12-09T06:17:00Z
+    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
+    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
+        width: 600
+        height: 315
 
 secured: "cDjhr2R/gdWMTPx/g/4ivZjcAEHMRk0AACOI4Jyt8Gdmf1iB38DBx+9CxKXAHetMUKFEq+96SCSIMu7EEW3uc6vOdACn1USkEHCKHVrDTLAycf2tqCJ+ZLLqS336UMIu8AmAqyvue6ImEP32/f9JD6WNKqS60F547c+FTMEg/9I1GicMSjUFHSS7LYRZzStEqeQhR4mcu2gZtmYQ1x+rMYvsz6QfYQv7k2RpXUHmIea8gmN9etLBxwdeBnvDBDfpBg2RdVKLBHdOXB9FOg+XqQ==;vFndiqNiYzQuE0YGXTFsmw=="
 ---

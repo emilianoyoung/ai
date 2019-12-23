@@ -24,30 +24,19 @@ images:
     title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
 
 related:
-  - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
-    excerpt: "Nvidia shares are set to open at a fresh all-time high Wednesday after unveiling three key chip deals with some of China's biggest tech giants. “Developing safe autonomous vehicles requires end-to-end AI, in the cloud and in the car,” said Nvidia's Rishi Dhall. “Nvidia AI will enable DiDi to develop safer, more efficient transportation ..."
-    publishedDateTime: 2019-12-18T11:51:00Z
-    sourceUrl: https://www.thestreet.com/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    ampUrl: https://www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
+  - title: "Nvidia Orin SoC melds next gen GPU and Arm Hercules CPU cores"
+    excerpt: "The fruit of four years of research, development and investment, Orin packs Nvidia's next generation GPU architecture alongside Arm Hercules CPU cores in a 17 ... programmable, software-defined AI platform, asserted Huang. Importantly the Orin SoC based system can meet systematic safety standards such as ISO 26262 ASIL-D. Nvidia reckons ..."
+    publishedDateTime: 2019-12-18T10:11:00Z
+    sourceUrl: https://www.hexus.net/tech/news/cpu/137963-nvidia-orin-soc-melds-next-gen-gpu-arm-hercules-cpu-cores/
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 46
-  - title: "Nvidia secures chip deal with Didi Chuxing"
-    excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.autonews.com/automakers-suppliers/nvidia-secures-chip-deal-didi-chuxing
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Hexus
+      domain: hexus.net
+    quality: 39
     images:
-      - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
-        width: 800
-        height: 600
+      - url: https://hexus.net/media/uploaded/2019/12/e1b22cff-a757-4e71-abf2-6830d2af56f7.jpg
+        width: 700
+        height: 383
 
 secured: "xaY9i+SLXaSDiD957eY6HOhbdO8ZkRYlCU4ziJuNedQBQqquokvoPjbWq7tBlEFUMLe5AV6D5TTs7b5VjJERg1HU4DNT/EgISP4a5CTR3MxMeRqcFN/t1Z+8Cpocz2UR6CPRPkaJMmGcAASmmQKflwC9S0yVt+ept76ZDf7JOX8QILVxUEBcU/YvRTbQPL4aAuYfFmAxewQYRucXG5fR60dDC9HtIae/CdawCx8yVcTYQbUXB+dOeJ0xpgCstCZXfubmfpYE+SGI1XELGgnq8A==;aquBNG59pIQ6MVZP1KiZ+w=="
 ---
