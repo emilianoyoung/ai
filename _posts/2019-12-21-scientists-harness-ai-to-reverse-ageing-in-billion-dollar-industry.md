@@ -2,16 +2,18 @@
 category: news
 title: "Scientists harness AI to reverse ageing in billion-dollar industry"
 excerpt: "Race on to find proven ways to help people live longer, healthier lives"
-publishedDateTime: 2019-12-21T06:00:38Z
-sourceUrl: https://www.msn.com/en-us/news/technology/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry/ar-BBYdz76
+publishedDateTime: 2019-12-21T06:00:00Z
+sourceUrl: https://www.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry
+ampUrl: https://amp.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
@@ -22,6 +24,6 @@ images:
     height: 367
     title: "Scientists harness AI to reverse ageing in billion-dollar industry"
 
-secured: "pDeXYpaXps0+PgF9H+/3sI33NUsqHMuTcL0tPzP4BWN1En6NWaxl02pUI8pOTOd2nkYpa1pep4NJDkr/GRxtWl0xakO0euNj9oVFton95lURuVRJMRmGzLZBpQW1ToWJOSvRGtHK9qW2TOO0NArFYZrMVItTZzKHecpf796UftuhRwTyD28UPZyFT4RKJ0JLWI4CQOpvz+b4JDUppUNqd6wD2LNbmvomTUx2meRkM4QDeYcyjxmngTCeQxHxsd+IbIW9i9z/f956UGQQwj+X/g==;e42EVL12HMq6xiJj0M8dKQ=="
+secured: "5taaeGZu+RIywvpAmwrU7qCNg/eKcceQKBmn0H7LIX1+B5n/wxFV3lKDqQaJ7zc8G5DVT9rlcgnbyHk+vWFlPTfBTAuqtN3fDzd8zYKg4XgdnFLUXL0M+WIF4fTo+LKSvZPHJ9HQCMIJcfGS9+61r5xmFySZ39NmdNXyF4oDicSg2D3LYdkb1Bj8Snn1DYwnsIF2vm1f+OSQWCHXjtRnvm4novKOMeYDKyTh9DkLAiK9Lg9q8igvdaSSe47Iok+If8RDS7uZd4QR+sBFjVhB5g==;7xWgdvvBqVgGIo9uaC8/0g=="
 ---
 

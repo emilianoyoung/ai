@@ -1,21 +1,27 @@
 ---
 category: news
 title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-16T18:07:47Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles, including Class 8 trucks ..."
+publishedDateTime: 2019-12-16T18:07:00Z
+sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+    width: 640
+    height: 427
+    title: "FOCUS-Argo takes different road to skirt self-driving challenges"
 
 related:
   - title: "Argo takes different road to skirt self-driving challenges"
@@ -145,6 +151,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "vevqOzLX0G5n94LFyCk3RjHP50Ex+rtpSnV0gKJhTpzrVuOwRqSpBMAp4/og2xCTk6wDzdJKz+npQxkHzuAK4JyYnxxS70VgxRCWGuJz9FLuzCwSyFdFyNgt03DhzHYqwB+U4SAxbzwGPCncfPNc2XVInBn0SWg9OvLf9ZxUrFOFygbVLEwYDBMOVwN6MDrE2YaakScscHfEoYpzdtDf+6niiW1GSpgPVbiO6bgLl7Ydq1ZNFdNLGXO3aWx2daBU3B2eFl5MvWLnlamu/J+92g==;M5G1I6S5CZYp6/NJUufGSw=="
+secured: "gdU2mreKtwAvjWmW98GSiaS0Pv9Sh36r9xGVYiGpneCvZ9yDZ/+AH/IrnI/zR3hWTifm8p1z/9/aVU+CKfi0/WgLTdMRVZoIxR1/ahEFOCiLx1rdAyoN0RZ8ETf2ZBp9GIHiyMbhCd7MzSoBRgD6YIRuScQFUr1FNwfBYjiQF1I81CfVpOq9kCi4aKvptJbyih5X3zoJu5FoUGWL9G/k37RQpmuNi8ko+QVe9AT/CXAMmgPGX5RqposuVWTONmRdQbFL4udYM+AtoQttFEZbaA==;PlYli1LicDvkxnNnsM1icQ=="
 ---
 

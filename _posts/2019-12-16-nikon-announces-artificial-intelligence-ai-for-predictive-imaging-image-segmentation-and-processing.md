@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T14:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
+  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
+    publishedDateTime: 2019-12-23T08:40:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 14
 
 secured: "ELC4/NWmZyLjerMefE21GwP9s1DbGJpDr//TACmYv7ODQ8LZbGQW9xiFDdQZ4Tq9ihIjiO0jzWN3xev2sO6Eyg/nbNItbA5KgptLrMovKD0PwQcOIP8h9+7Kf3cm1/pEksOhOw8Fq02+hshQmG4DOAfgdws1CyGy22PrrQXpRl6crVu+FPGcRDcQCXrNVW8vZIOcDwPj2H64fhB18YwC7GKsb/Mx+E+VoN5UuO2vI+dYOQ/Y8bGhmlhPOeCCAKvO/L+FGmFrIU4/fthWH3qA+Q==;eQzGMwjlm8J8/LuHdbNLVg=="
 ---

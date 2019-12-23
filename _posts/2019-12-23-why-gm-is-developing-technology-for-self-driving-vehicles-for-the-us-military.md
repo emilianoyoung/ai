@@ -3,7 +3,7 @@ category: news
 title: "Why GM is developing technology for self-driving vehicles for the US military"
 excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
 publishedDateTime: 2019-12-23T06:00:00Z
-sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb4R5
+sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
 type: article
 quality: 21
 heat: -1
@@ -118,6 +118,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "7pEGZpDyhvEyhvI96VbJQwkfGykxxqRyTBN95Sl715AHkaAB7XO8eBrA3cccQXGyHQjsVabFOLo8vOYt/SzrTpAtj1ijNxroekRzYS/tFEkA2LH1HF+0wNHGy8dg9Jq51xvBy1RV5EugTUPA/Bgno0H+bBLEHg4OGRMGRqwIue3GEttDoO6X+JQIvy5BybVE4cuFgC4tYe4rMk2EgNo21y8c/HKJb0aicpkzaJO8KsqCxyPDwRk/0HPJfZZzT2UMHJEz7JvoUAcaQky0VhHksw==;Ihu8vIpSJW5DikKLCCxyig=="
+secured: "eu7lbfqIBDMp0WFRntW0PSfczVCA+wXs2AF9ZW2Xh1mg6+vTKz9gQsyh8vaTufeQwVgfelb3TPEH7EoZqdvdeHtQLWk50Nuph7XkTa1+Kfc7IyFdIGzWc88GkcRKJHWvPPAgyEbIG9IAoNab6+QUlHPJZjrrZuTnfbeEVHoJ4Eb9K4wjujnaL6C8vesXiRPX2sUHcLhJ/jr5AzlhxLaj/+vXmv8GVrU4KLwtM/hrDm6qK3loEiIWt/h6sEXn90srHNvScEAZqouINma1+8IN4w==;9Cd7plFSYsJpEqLsWLSetw=="
 ---
 

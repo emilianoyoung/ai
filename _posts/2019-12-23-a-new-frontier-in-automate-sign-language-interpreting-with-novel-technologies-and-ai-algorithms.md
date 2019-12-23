@@ -1,0 +1,30 @@
+---
+category: news
+title: "A new frontier in automate sign language interpreting with novel technologies and AI algorithms."
+excerpt: "the AI will be trained with the generated database and will apply Natural Language Processing (NLP) and Deep Learning algorithms, so that the spoken language is recognized, converted into gestures and expressions of sign language which the Realatar can execute. Finally, thanks to HbbTV technologies, the Realatar is made accessible to people ..."
+publishedDateTime: 2019-12-23T08:07:00Z
+sourceUrl: https://www.euroscientist.com/a-new-frontier-in-automate-sign-language-interpreting-with-novel-technologies-and-ai-algorithms/
+ampUrl: https://www.euroscientist.com/a-new-frontier-in-automate-sign-language-interpreting-with-novel-technologies-and-ai-algorithms/amp/
+cdnAmpUrl: https://www-euroscientist-com.cdn.ampproject.org/c/s/www.euroscientist.com/a-new-frontier-in-automate-sign-language-interpreting-with-novel-technologies-and-ai-algorithms/amp/
+type: article
+quality: 46
+heat: 46
+published: false
+
+provider:
+  name: euroscientist.com
+  domain: euroscientist.com
+
+topics:
+  - AI
+  - Natural Language Processing
+
+images:
+  - url: https://www.bing.com/th?id=ON.C07A94A96CCC839276125FB771334253
+    width: 700
+    height: 393
+    title: "A new frontier in automate sign language interpreting with novel technologies and AI algorithms."
+
+secured: "v6SyNmjxPiVMKM9ZY2MWHEn6y2Ew4jmqEgnSSx/s90SPf2k2AFdEBmEHPEJSxAjvjeUDGlvCmUA26D8JsTyze/LEpmHU4wt9o7ee4z3GjlXe2w7UcOkof8wPMzCBwAQZNzmfdNaR/iBXbszPKkNMPiL6uPSEMyzBs7OrCSY/Qnm1JNLOURzbatZFyUEqQa8MzZKeAcfSRFl4Xnq1SQHaRFBR5t/UNLDRKKFL7OmGqxpNfzLafHyRhezU7NIgVrtMkrBEMF5A5CkJ+uOGX7fRwg==;zqbjMD6y9m5JrSnI2bZbcA=="
+---
+
