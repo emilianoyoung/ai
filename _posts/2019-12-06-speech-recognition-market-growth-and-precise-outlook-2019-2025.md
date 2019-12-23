@@ -93,19 +93,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Disclosing Latest Advancement and Demand 2019 to 2025"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Healthcare Market report provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs. MarketInsightsReports ensures ..."
-    publishedDateTime: 2019-12-03T04:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-disclosing-latest-advancement-and-demand-2019-to-2025-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Trends and Business Outlook 2019 to 2025"
     excerpt: "Dec 09, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence (AI) In Manufacturing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain. The report provides in-depth analysis of ..."
     publishedDateTime: 2019-12-09T06:18:00Z

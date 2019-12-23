@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-publishedDateTime: 2019-12-18T14:26:00Z
-sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial ..."
+publishedDateTime: 2019-12-18T11:25:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191218005383/en/Innovations-Artificial-Intelligence-Natural-Language-Processing-IoT
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://mms.businesswire.com/media/20191218005383/en/371054/23/ResearchAndMarkets_800px.jpg
+    width: 1200
+    height: 627
+    title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
 
 related:
   - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
@@ -34,6 +38,6 @@ related:
         width: 400
         height: 142
 
-secured: "mbpCZu1I7ie2tndk/c3WSqxyAS3ubTOCeyvnRnEtdf7WYNh2sdjDYa5cFDqGgS3nEwCVL+cX4OOpMNNlB4LH8nxl00qkinr9OERIF+ktAqRfI/ox91XqTWzVe05/YiBwaQteWaoRAlis0odF/qX9NHIRAyYNRiPih2MGFbpgeMEJRgwjgoG6Kx7L7pgAaucZqgq198z9T91U/3pxl2FcgsR8n34l3SLMIrd4Y07T5oYqPmJhnVWJI0ejS1MkmZVxZecWiQAwgCqHP8PHCpxcxg==;xBiJRjKlqRt52gU0Rte5gQ=="
+secured: "pZQJFFUaDhCDLdZef/AosXnVdaqTD5B20fnX1oXeR1dFjf9Qg7UTdwJGAwfLdukPDaC18Kh6bqGQcBFAbpO8cEkT9H2tuzT/bGJBBG2n7nSgxW0RjRwQhy9EyEpjb695h7diRw+Jj6Vr8UcsvbSromLvwRM6tGTvHV85D36Wb07d/u1jL4lEIzylq9L8TWEYNHLtZrB72lndYj9Kh57eGqhHrJqwNBbd33O7DEkLic1aAHL8ejSVJK8D3taETdfRiGz1hGSe2JNPLO3TD8O3Ng==;yqWwWo2pisnbIwAO0w6aHA=="
 ---
 

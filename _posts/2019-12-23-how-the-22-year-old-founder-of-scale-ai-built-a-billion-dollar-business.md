@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 315
     title: "How The 22-Year-Old Founder Of Scale AI Built A Billion-Dollar Business"
 
-secured: "AqkJt+IHrnTj3SX7fw7Un60PaFRoJIaKThd5s4LSRsBm8sWxKMNLMJ3lQXT0kbCQNyB4W6KHOsXgdgXXK+7yhmH/oSezh0x5mauzObbcs2Q0o8i6vDD4IOddZwcfcvD6jXcrusFXwHZAXgisYq+ZfeoJAL2olPDMAac6oeoq0pbeyxbXVMLtfXAmQXrp+NBlkTuS/kaY5gid6eGR1PSwkw9Vdmpo8jzhYTb454Z+Xj8pr9fD8SxTIWz0lsvQoSzUwY+Lhk053k5Oi7+E+NYNKg==;ve0lioyqYzCm1wQUB5L2Vw=="
+secured: "AF8ViU+l4GMkRW2X+8nnwcuI4vsRX9uEXQyDADTQ3X5XHQrjI3X6PJLh3+UuzyDzyYm0aTNfZkpAZksgA+6YBUR0WH1ZJrAxNsoVlFF+8cbVH+3MjqnfKyxk0XM99H7slzBd9VbmUaPD3R9ERpuSuYc8/UaLodhqIDemJglvTtj/5AI2muxpJXoHnQloCx4MLeCyZYfyuXSAKBSgMoOnmG/8ryeCAf9PGE89iz5MSD3v0Vq11InayZS5tuuK6HML3mhV77bm89GXHUEYCtGtcQ==;llD9nGvnsjp5YGbYgL511w=="
 ---
 

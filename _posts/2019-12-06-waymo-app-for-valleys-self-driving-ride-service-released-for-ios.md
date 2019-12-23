@@ -176,19 +176,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3705623F5375B628DEAD4385CFD632E7
         width: 700
         height: 352
-  - title: "Uber is exploring ways to make its self-driving cars also be self-cleaning"
-    excerpt: "New patent filings reveal the ride-hailing giant's interest in robotic vacuums and AI-powered lost-and-found detection."
-    publishedDateTime: 2019-12-03T04:04:00Z
-    sourceUrl: https://www.businessinsider.com/uber-patent-self-cleaning-robotic-vacuum-for-self-driving-cars-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.389837C0B2AE35446DCC7B5DD5EE1894
-        width: 700
-        height: 350
   - title: "Cabinet to consider use of public roads for testing self-driving cars"
     excerpt: "A proposal to allow public roads here to be used to test self-driving cars will be considered by the Government today. Minister for Transport Shane Ross will bring a memo to Cabinet that will mark the first step towards introducing legislation in this area. The legislation will seek to redefine in law the term driver so that autonomous vehicles ..."
     publishedDateTime: 2019-12-06T07:09:00Z

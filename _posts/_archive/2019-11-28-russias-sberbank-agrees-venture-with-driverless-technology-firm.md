@@ -24,20 +24,20 @@ images:
     title: "Russia's Sberbank agrees venture with driverless technology firm"
 
 related:
-  - title: "Russia's Sberbank Enters the Driverless Cars Game"
-    excerpt: "Russia's largest lender, Sberbank, has added driverless cars to its list of technology ventures, by teaming up with artificial intelligence (AI) transport developer Cognitive Technologies, the two companies said Thursday. Sberbank and Cognitive ..."
-    publishedDateTime: 2019-11-28T00:00:00Z
-    sourceUrl: https://www.themoscowtimes.com/2019/11/28/russias-sberbank-enters-driverless-cars-game-a68366
+  - title: "Russia’s Sberbank invests in driverless car tech firm Cognitive"
+    excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally ..."
+    publishedDateTime: 2019-11-29T01:14:00Z
+    sourceUrl: https://siliconangle.com/2019/11/28/russias-sberbank-invests-driverless-car-tech/
     type: article
     provider:
-      name: The Moscow Times
-      domain: themoscowtimes.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: https://static.themoscowtimes.com/image/1360/b6/252052_1000x671_1024_6497751e746e7dc0197ba87ee5e042c62.jpg
-        width: 1360
-        height: 913
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/car-4343634_1280.jpg
+        width: 1280
+        height: 720
 
-secured: "iVfYi0JWIeFlcvy2/61Gax/gJn1yR0jOY1uSfNEE6ghZC7G6f9AHiwwScH1hNQ6FBYNUREKakqT/brTsrJXz5sZ+McPyOUMPeS+xJXjo+vYgu420YtlnaJ5TelrVEue5V6jdRy4XHfE9/7a2rF5We4IL2PFOuIdNcCs3P17g3ZYHUTBTL7HVywAuW6XSBYxESmNMH9xTIi1osO7lpPSmfV49SsMhcCifMgmmg4xzAavU4qW+tvTDvZOGZoKB/EDqeu8t5vpVPAsviIJWQSo8uw==;bWYSD0dgXuZYnn0mn44amg=="
+secured: "F5YeK8fCsjYTD8P/pN1aYTOvJ0HDHREj7W87+9q/2mq2b40SCf2vAuV47tvqy4cr+WEwQyvqWoKnK+Nmu+RiKM1VwKRAlR9eddmhB8LxNyog7H98oVlzA7Eo1Lppe8ubsy0SqldkA7zW8cdKmgQ3JZGSU+lRJILDNsQk+6KWNz0vPAUr4p/OV8KmUC6sPWrORaqk1L0vu2t+LDzvi7KmxVVmUxLGJTugvyeZFRx1eD8bmegfz3qApN+RksHcRlDzG5JzKtAAo+rTXzuGIZEY1w==;gOp0zAproq/xpjFIGJei4Q=="
 ---
 

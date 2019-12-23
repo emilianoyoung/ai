@@ -89,19 +89,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Disclosing Latest Advancement and Demand 2019 to 2025"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Healthcare Market report provides insightful data about business strategies, qualitative and quantitative analysis of Global Market. The report also calls for market - driven results deriving feasibility studies for client needs. MarketInsightsReports ensures ..."
-    publishedDateTime: 2019-12-03T04:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-disclosing-latest-advancement-and-demand-2019-to-2025-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Speech Recognition Market Growth and Precise Outlook 2019-2025"
     excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- Global \"Speech Recognition Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the overall ..."
     publishedDateTime: 2019-12-06T08:15:00Z

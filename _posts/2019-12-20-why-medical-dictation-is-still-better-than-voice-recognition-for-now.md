@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
         width: 700
         height: 437
+  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
+    publishedDateTime: 2019-12-23T05:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+        width: 700
+        height: 466
   - title: "Women in SF police department face barriers in assignments, recognition"
     excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
     publishedDateTime: 2019-12-16T23:52:00Z

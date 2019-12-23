@@ -2,28 +2,26 @@
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T14:00:00Z
-sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+publishedDateTime: 2019-12-20T18:00:00Z
+sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: /assets/images/organizations/fool.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
-    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -884,6 +882,21 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 53
+  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
+    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
+    publishedDateTime: 2019-12-23T04:01:00Z
+    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
+    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
+        width: 200
+        height: 200
   - title: "Researchers bypass airport and payment facial recognition systems using masks"
     excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
     publishedDateTime: 2019-12-16T11:35:00Z
@@ -1761,6 +1774,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "vv0IsF/J2xY+lxltsVzTKYlzRtE6SyzRJvRl6ZHdj4HR1W7Oty1ID3CgWTgJ6vUOzFvNwYQwcCH/gGR/PTz6iGvkNOastqxhPPSY2qYI7alyePc6D12rsSaNCiG9Xz7XNeABPYhztxjKx4cBr/dRI+SM8OnNaVVDBj4Jrp1i9C2lekhFyHuFF2uWb5KSRQxcVjoTe93wHEoB3bc2uBXIpfD1JTvh+Uk3W1Ij8BAiK4IjHbofqoAP5DtH/at72yUn4K9HWdSNxR2maD70h7C01A==;FuMfOJbac+TV6nGREwlzBQ=="
+secured: "sTZ6+offW/ma3N25G/u08RNjWdAwVsORhXP2ZtOp+D4Z8rkGUfGQSP/XZGAoMpqzfCbDS0EycJBwdIP7cotzchIG5cGivRbyywBQOoe13WUiCnGo2ZWeP3QCK076CtdVC4QylpBAoJvSE3id2FWxrjz9lZoHRxBIWRLUC1S7RPT54xWl0liKCaZw+jn4v+yNvKwSo5chNA0WQadtrUs6s2TwI8XTLsaY7si/8zTXBdzOwOBmK2tjcElk6Vg8QvPhZmn3S8UgKYYVlWNR0Ya06A==;fc64x0A+7h2SvRoDy9D6Bw=="
 ---
 

@@ -178,21 +178,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-    ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 89
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
   - title: "Federal study confirms facial recognition is a biased mess"
     excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -373,6 +358,17 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
+    publishedDateTime: 2019-12-20T18:00:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
   - title: "Even The Government Admits Facial Recognition Is Racially Biased"
     excerpt: "A new federal study from the National Institute of Standards and Technology (NIST) confirms, again, that facial recognition technology is riddled with a fundamental racial bias. Using nearly 200 facial recognition algorithms developed by 99 corporations on 18 million images from federal databases, the algorithms’ accuracy was found to vary ..."
     publishedDateTime: 2019-12-20T16:50:00Z
@@ -888,6 +884,21 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 53
+  - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
+    excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
+    publishedDateTime: 2019-12-23T04:01:00Z
+    sourceUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019
+    ampUrl: https://nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    cdnAmpUrl: https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/entertainment-pmn/tea-buses-and-elections-7-uses-of-facial-recognition-that-sparked-debate-in-2019/amp
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
+        width: 200
+        height: 200
   - title: "Researchers bypass airport and payment facial recognition systems using masks"
     excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
     publishedDateTime: 2019-12-16T11:35:00Z

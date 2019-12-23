@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
         width: 700
         height: 437
+  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
+    publishedDateTime: 2019-12-23T05:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+        width: 700
+        height: 466
   - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
     excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
     publishedDateTime: 2019-12-20T22:24:00Z
