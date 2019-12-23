@@ -8,8 +8,8 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: TheHealthSite
@@ -26,27 +26,22 @@ images:
     title: "Artificial Intelligence to determine whether immunotherapy is working or not"
 
 related:
-  - title: "How artificial intelligence (AI) is improving immunotherapy"
-    excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
-    publishedDateTime: 2019-11-25T14:38:00Z
-    sourceUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy
-    ampUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
-    cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 69
   - title: "Using artificial intelligence to determine whether immunotherapy is working"
-    excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
-    publishedDateTime: 2019-11-23T19:01:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
+    excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. \"Even though immunotherapy has changed ..."
+    publishedDateTime: 2019-11-23T07:43:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.html
+    ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 72
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
+        width: 2557
+        height: 1199
 
-secured: "Gl8Oh5KROufXJpkO1vX6EUGbUZ81Sxj+HxsUb3y7WI58vNYcO3p3z3K6nVNvk64GSVATUYmAjvYoC9JIZWAph8y/UTaRh9t/FJ2hghpXCAX0kJTBPzI3Vi0dsqEwOo4zWsZSTGC37d/LnQ6kmvzzOuLWfrqyCI4Qvfu48CLNPa+ZHjQYnYvZ6f8aGfohYxZPmZpZ5VNEx6cHWNi7sxTAjZzD3MTVqUBcyfc+/bJhlez4iGX83n/6SnhJWza2Jim4TpDd0zZASocrh515WDE02A==;3ccAuWclrcsHx+6AEU4Gfg=="
+secured: "7Srp6Og0y1yiKnW4wTo6rU/CMppAPi31BseLToSuYq6fnJoItT36bQEm45m0QxNuNXMI66BJcFACVKIZ4jlvELFs+p9plL+efZDyPPgdcF8K7+aU9c8rEHHx7tVb6AtepTWAsk7MTtVWZjFyVXDitjawXbfZwKqjhYpphCtKZnln7DQxyI4L2n670AH9MxkDKaaPqbhEa9MLv5AJ8gjqFqghKl2P0nNbpPrDJxFMnFHvjNYt5Ds6ejZRA5PCw/KAXpmujbG3Ak1QVwp967Be7A==;/eYAigHKNyP5SjpzZ7Tn1w=="
 ---
 

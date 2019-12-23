@@ -1,9 +1,9 @@
 ---
 category: news
 title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included,"
+excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
 publishedDateTime: 2019-12-22T21:34:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfMnE?li=AAD1l1X
+sourceUrl: https://www.msn.com/en-gb/news/offbeat/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfAZn
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.D710CFCC37D2C05C3629EF6AA00DA090
+  - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
     width: 700
     height: 367
     title: "San Francisco loosens facial recognition ban to allow newer iPhones"
@@ -1757,6 +1757,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "7u7ySJ1uMvlUEqMBEUMbqn8J7T9IDiglKc+6TfL9tVhD7OlJAfq5e2z37qZ3JOjcBnlS3f76uNBcb6+2lRyzy55jZW5p6Xyx0AeGveAzGOkZMxz9oggfeAVlm+Ai/ZL2CaFMUHNU/802l7CewBouNamD9mk2XaU1j1/QbviGYJfH19RaEUVGkzznZS655GLjdbBdkn2cOLpFzDkjfKiagCoQiHKdQ66WWrH6E74HK0NimCZFWvIS5rdhLq9PytwtdlHtEWqwcX+DuDz9KVDdog==;dz/3uGHYB+5cw9DkMB9XTA=="
+secured: "LxVZ6L2iTMPsJlTQrb1u2Qh65kyG/imjjYMt6t8PlqZSq4OF0CJmx7JxtgITfe5kWKO0qoANb/IzyrkClE52AVm2wyZSTHjpvlEq2YHAo7/dj9xuzpXbLOyb+UBKecedyIPs9lsN3X1IJ8CkykzP6xjjQqO+kXt8DywOAg980e1kPeStxNpmOi45ftomq3kXCCbnISlmuvVc7QIG2tkegRRSQo2+pjqQsUOEKZc7AYyE51EZp+sf9gaDdTYcdzNdZPlHqmT22iXnEkxaV+ua3g==;vBL3B0I81gi19vJjU+M1+A=="
 ---
 

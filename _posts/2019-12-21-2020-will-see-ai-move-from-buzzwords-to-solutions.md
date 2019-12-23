@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzz
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzzwords-to-solutions/amp/
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

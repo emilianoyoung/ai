@@ -1,39 +1,100 @@
 ---
 category: news
 title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-publishedDateTime: 2019-12-18T14:26:00Z
-sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision ..."
+publishedDateTime: 2019-12-18T11:25:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191218005383/en/Innovations-Artificial-Intelligence-Natural-Language-Processing-IoT
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Natural Language Processing
 
+images:
+  - url: https://mms.businesswire.com/media/20191218005383/en/371054/23/ResearchAndMarkets_800px.jpg
+    width: 1200
+    height: 627
+    title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
+
 related:
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "MELVILLE, N.Y., Dec. 16, 2019 /PRNewswire/ -- Nikon Instruments Inc., innovator of advanced microscope systems, today announced NIS.ai, a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
+  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
+    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
+    publishedDateTime: 2019-12-16T12:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
-        width: 400
-        height: 142
+      - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
+        width: 700
+        height: 365
+  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
+    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
+    publishedDateTime: 2019-12-17T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/2019-huawei-ai-analytics-software-135600856.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-16T09:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005311/en/Global-Event-Based-Vision-Systems-Patent-Trend-Analysis
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.D42937E6FA9B2FAD8028F84BBFE31D77
+        width: 700
+        height: 365
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-17T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-event-based-vision-systems-105600748.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
+    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report ... Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing ..."
+    publishedDateTime: 2019-12-18T12:30:00Z
+    sourceUrl: https://www.thedailytimes.com/business/latest-innovations-in-wound-care-ophthalmic-devices-and-artificial-intelligence/article_be77a94f-8cab-5038-9033-fed83c0a88d8.html
+    type: article
+    provider:
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 0
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
+        width: 600
+        height: 600
+  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
+    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered. Medical devices and imaging ..."
+    publishedDateTime: 2019-12-19T00:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/latest-innovations-wound-care-ophthalmic-133000404.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "g48Eq+C3tjSp1VmR/xDaFbPXikxbgtBMr9KWgJUO/qmluOCCNr1ngo6snQnlpjkAv0vFSokAzITTc1D8X3+DOER+Jxv/7gFoh4soEsDiQKBd7QQL5Ev7io1Oyj8mvt7bHXIJg7BdL+nWUUGskEFXjMHQzZIqxFWWw/PQ4F8qNINbJeJMiHM33xsWmFHKNR5tb9kETQZeIkGdtXomYXX7y7t4UgOY4ChefwYO11g53c6Le7DInsQfTshh4QCSf5sFlaQTdIjpuWRUmfMrCg2EOg==;DcLI1FHi5GKQ0Y/PeWPtZA=="
+secured: "OlrNAInGs+H81RhzbmLkKniTzoPy6lvcPq0aUYSJMxhSEgUtII8KQIj1nFZsMQe9qU9s+L5bdn8qY62LUxyNX5tk7R6YrAiwyrN60+ZXa3tc3vvHyLU16L/NJB4+FtoWC6JRlVBSsRX1Hwl/VGX0cORrJKU4vovy8Wu2fXUP/xLMSzArWRLW1o9n6WdVHg/2G6XEbOtuyt+NDv/ICvFEWr3cbOGhHFCf9gBh2ceOYdc+IoUHN+ZEaipz5R7M/fghXvkkCdeahUhuFv4CoSRspg==;F9h0lb8azTVDpzrIlSvUmg=="
 ---
 

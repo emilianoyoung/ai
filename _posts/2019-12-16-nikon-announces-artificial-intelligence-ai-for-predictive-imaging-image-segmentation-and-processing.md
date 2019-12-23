@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T14:00:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
 type: article
 quality: 68
-heat: 78
+heat: 68
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     width: 400
     height: 142
     title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-
-related:
-  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-    publishedDateTime: 2019-12-18T14:26:00Z
-    sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
 
 secured: "ELC4/NWmZyLjerMefE21GwP9s1DbGJpDr//TACmYv7ODQ8LZbGQW9xiFDdQZ4Tq9ihIjiO0jzWN3xev2sO6Eyg/nbNItbA5KgptLrMovKD0PwQcOIP8h9+7Kf3cm1/pEksOhOw8Fq02+hshQmG4DOAfgdws1CyGy22PrrQXpRl6crVu+FPGcRDcQCXrNVW8vZIOcDwPj2H64fhB18YwC7GKsb/Mx+E+VoN5UuO2vI+dYOQ/Y8bGhmlhPOeCCAKvO/L+FGmFrIU4/fthWH3qA+Q==;eQzGMwjlm8J8/LuHdbNLVg=="
 ---

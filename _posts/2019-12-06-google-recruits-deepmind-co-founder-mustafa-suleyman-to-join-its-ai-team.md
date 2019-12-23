@@ -37,6 +37,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B582701F9A78789FC87A3E8692FEBDA1
         width: 700
         height: 350
+  - title: "DeepMind cofounder joining Google directly to work on applied AI"
+    excerpt: "Alphabet-owned DeepMind is widely regarded as the premiere artificial intelligence research lab. Co-founder Mustafa Suleyman announced today that he’s joining Google directly. Suleyman started DeepMind in 2010 with current CEO Demis Hassabis and Shane Legg. Originally chief product officer, the Google acquisition in 2014 saw him become head ..."
+    publishedDateTime: 2019-12-05T17:49:00Z
+    sourceUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/
+    ampUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
+        width: 700
+        height: 350
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy over some of the projects he led. In a blog post Thursday, DeepMind said Suleyman is ..."
     publishedDateTime: 2019-12-05T17:00:00Z

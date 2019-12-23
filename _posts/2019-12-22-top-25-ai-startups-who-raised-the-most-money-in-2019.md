@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/22/top-25-ai-startups-who-raised-the-most-money-in-2019/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 466
     title: "Top 25 AI Startups Who Raised The Most Money In 2019"
 
-secured: "+YcJV8oq517YyvsiiRkfFvXRjFocHWaBdO3dMWc4Lj+jB6QArBeABfcpbV3jFPNeT6E+559KYemO4ReWCSFoD4I0+UcvFdRTeu0CxC1KEu8v9b4m1mSMR0BDCAcirEV7K7q3VP5i3cckIIOvMxG0xtTwD5bV9+KZ1LK5bjH+Fzehew+5FizVqJfm5OU7oEkVwdP4ODTl7bTp2/Z0F2uGzd3chcz+Mg3PtfQ1xZr0bxKbtYbN7T0qRLSHbfJUTIX78zZkWUqnOLWJlS/xevCptA==;irY8XNyuFvH/7KbE0NagxQ=="
+secured: "QJCHpF7rKxzEbmAwc6PSbFbp+YOX7KGeHEgdFLkZrGVbmio/Sw2NYh2TcPH815JEKwLAjSjZma8b8KL6sNEBM7fGCQUtzUKcKg2Unkjej6HqA3nievoFN4w0yEu6dHPseD7P8L7UxfZBsaRIlHVYDPMnsH0mEWyCmYRlnRZIp0iPMvsPXImxAnqeo2CIM0raUaG7x+yu83vC6uzZjkArpBrnAfiIzxew8S6O4tC9mJGDlrrEP1WRGpJZDHm/44Xh3+LV7+SYCDLDXHMDTSSjDw==;LnURBeOEGd5kUhS6U2NbZA=="
 ---
 

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Using artificial intelligence to determine whether immunotherapy is working"
-excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
-publishedDateTime: 2019-11-23T19:01:00Z
-sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
+excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. \"Even though immunotherapy has changed ..."
+publishedDateTime: 2019-11-23T07:43:00Z
+sourceUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.html
+ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 72
+heat: 82
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
+    width: 2557
+    height: 1199
+    title: "Using artificial intelligence to determine whether immunotherapy is working"
 
 related:
   - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
@@ -37,18 +41,7 @@ related:
       - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
         width: 675
         height: 365
-  - title: "How artificial intelligence (AI) is improving immunotherapy"
-    excerpt: "Researchers at Case Western Reserve University’s digital imaging lab are pioneering the use of Artificial Intelligence (AI ... patterns before and after initiation of checkpoint inhibitor therapy. (Caption and Image Credit via Case Western University ..."
-    publishedDateTime: 2019-11-25T14:38:00Z
-    sourceUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy
-    ampUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
-    cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 69
 
-secured: "ttYjBHmngPD+BABbad2x/Wzv9ccXRDYAXOxPvqZNj5r/ecOeQOzQYsSq574UvLt+63ue5EwMkESQFMUSHM/7E1AtD0MdY1N/ziLQMIQMcwf49NKFR0vdM4b3rPnXQ/NOrWOcSUCw0YCObFDiJxZvjLA+h6vF+x7I+dVw/vAO6/+DCQjfcRM8ZVcn87W+HTcK9df9zjWPcMI6lpWTrGRnXb6Vum6sMZmefQv33luDKN4FxMuuwP7RQkQlJ1j2qnRY84Anaxz7UFF6f4A+1P8y5g==;ywUws0lnj/b+tTUQzBgT/A=="
+secured: "mXCgyhsq7c1zhMF/x/TWF/zHedfr8k0kFZ6SHyrlgN47/MoDekhNQMWgRNq9ArzzRPgVZgxPmTbHYRs2qdtoM441dvlP3w9a+Gi+RswiKlszDjwnIJwDiYekr9kXXfXJQo7Jn6yayjO8MBdr1Hi+uiYOES6c/YCJ3WQ8p2zfAkh9ryOtsII/L/KYIDt6Rzh2Mk95Oy9SAzKlKQ6a13ejuJ/Bqdo/PvopZzt/IsBQ3w0x1R2hTCFVePLclcljlb9Zy2tLh2CVaqBOfrIhxn2dfQ==;bTzGGze4kR+KtkfpST3pKQ=="
 ---
 

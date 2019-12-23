@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/21/how-ai-can-help-astronauts-stay-healthy-in-space/amp/
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:
