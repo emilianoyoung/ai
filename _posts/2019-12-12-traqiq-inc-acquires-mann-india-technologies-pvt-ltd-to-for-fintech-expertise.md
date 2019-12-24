@@ -36,19 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "Maximizing the digital workplace with new technologies and techniques"
-    excerpt: "Discovering the value in corporate knowledge is amplified by new technologies, such as text analytics, cognitive search, machine learning, natural language processing, mobile email management, and new policy efforts. The road to cognitive computing is ..."
-    publishedDateTime: 2019-12-04T19:42:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135593
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 24
-    images:
-      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
-        width: 772
-        height: 594
 
 secured: "VfglSx43mtkR7HWldS4g15I1L+no9fRm9oVearKeBJ9UJffuBeljdmsQWcLpFs86QebVj9leS775uDCESM7+gydSN6gIwHgQ1l7GZxAdEMK1/hXP/EMocNZkaHWZAxKMsOdTs3Gmp+lmgOU7SZhD4t1GE+HMMJiOV5VmAODB9UAV3fvqbkM0fCEWno9FVNgrQvm1CT6cdpCeATGPi1Sjc0B2FGwCaehwu106CmfCSxuD0MruNbLnLjo/ekNsdrWZj56gH1WAfnr3m5leOv7IkA==;rwAoH00ndKJ2pyX3HpnxFQ=="
 ---

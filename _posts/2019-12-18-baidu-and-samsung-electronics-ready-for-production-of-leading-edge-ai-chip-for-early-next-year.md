@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F26AEB03F21064A332F7FFF3D69E6437
         width: 700
         height: 393
+  - title: "Samsung teases a new HER-like AI assistant called NEON"
+    excerpt: "Samsung is however looking to have another go, and has been teasing a new AI product called NEON with tweets and Instagram posts. While the teasers and NEON.Life website do not give much away, the project comes from Samsung STAR Labs, who’s remit is ..."
+    publishedDateTime: 2019-12-24T20:30:00Z
+    sourceUrl: https://mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/
+    ampUrl: https://mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/amp/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
+        width: 700
+        height: 700
 
 secured: "4GsBSu/z2lMJxIEL9ueqblXNKcczlwsfHqPv6A+50eH3zNZQxuWS126/D0zQNgOV0Wp2Nq7SK+5tGjqcoPYqZEBlugY82t9eLD9iG544lSUumIzLUMpIj5403Zx9JSRCCp9Tm4+4lc8IQ1dEN3fB/reLDM/xonC3Q8BqsXWuVztzrBjog3yVwMkKKeDqKQoayPXLno0KMNpHjjC9/MNcnmtG//R1jJbduAivS6gm06Hywdbqqkob7Nj9U+LsdVch9lQL8lU9eK5LIzkAo6TGCQ==;NkBf3R8m0hTTAub82OOxQw=="
 ---

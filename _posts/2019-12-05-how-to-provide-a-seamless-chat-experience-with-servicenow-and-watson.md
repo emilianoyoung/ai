@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T22:03:15Z
 sourceUrl: https://www.ibm.com/blogs/watson/2019/12/how-to-provide-a-seamless-chat-experience-with-servicenow-and-watson/
 type: article
 quality: 117
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -55,19 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7B0635D24A1F288AACB7E7598A776B36
         width: 700
         height: 393
-  - title: "Snowflake Deepens its Relationship with AWS to Provide a More Seamless Customer Experience"
-    excerpt: "Recent milestones include: Pre-configured integration between Snowflake and Amazon SageMaker, a solution that provides developers and data scientists with the ability to build, train and deploy ML models quickly. In addition, AWS and Snowflake recently published an eBook on using Amazon SageMaker with Snowflake. Snowflake integration with ..."
-    publishedDateTime: 2019-12-04T19:05:00Z
-    sourceUrl: https://www.thedailytimes.com/business/snowflake-deepens-its-relationship-with-aws-to-provide-a-more/article_e0feb43a-daee-53f7-9812-b517cefc018a.html
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 29
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
-        width: 600
-        height: 600
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
     publishedDateTime: 2019-12-05T20:58:00Z

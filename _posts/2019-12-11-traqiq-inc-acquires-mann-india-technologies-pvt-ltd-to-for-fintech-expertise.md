@@ -31,19 +31,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Maximizing the digital workplace with new technologies and techniques"
-    excerpt: "Discovering the value in corporate knowledge is amplified by new technologies, such as text analytics, cognitive search, machine learning, natural language processing, mobile email management, and new policy efforts. The road to cognitive computing is ..."
-    publishedDateTime: 2019-12-04T19:42:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135593
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 24
-    images:
-      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
-        width: 772
-        height: 594
   - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
     excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
     publishedDateTime: 2019-12-12T00:21:00Z

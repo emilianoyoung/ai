@@ -215,6 +215,21 @@ related:
       - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
         width: 600
         height: 315
+  - title: "Self-driving delivery vehicles plus self-flying drones? Now there’s an Amazon patent for that"
+    excerpt: "A diagram accompanying Amazon’s patent application shows how a self-driving ground vehicle and a self-flying drone would work together to make a package delivery. (Amazon Illustration via USPTO) For a long time, Amazon has been looking into applications for self-driving vehicles — and testing fleets of self-flying drones for making package ..."
+    publishedDateTime: 2019-12-24T20:12:00Z
+    sourceUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/
+    ampUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
+        width: 700
+        height: 381
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z

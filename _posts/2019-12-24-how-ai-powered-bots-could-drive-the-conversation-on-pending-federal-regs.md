@@ -1,11 +1,11 @@
 ---
 category: news
 title: "How AI-powered bots could drive the conversation on pending federal regs"
-excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
+excerpt: "Machine learning tools can generating nearly infinite variations of fake speech at scale. Using a natural language processing framework developed by OpenAI, a bot program and a proxy server, Weiss turned his experiment towards a public comment website on Medicaid.gov dealing with a proposed waiver for Idaho residents, where it spit out more ..."
 publishedDateTime: 2019-12-24T18:06:00Z
-sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
+sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx?admgarea=TC_Management
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
@@ -111,6 +112,6 @@ related:
       domain: businessinsider.com
     quality: 13
 
-secured: "WWUT1HWH9fbJCgs8vYXyvMFgbJqP4SfbwaKbNIRao1L9cTI32UeTxB1Q4yYWzUZVvlFwIVcQnVKET/MBeO+1QdhmpRuLDZ7HU3qJpafa7J6qqEBoItgLTT+WViiQVMHy1C82Jn+aepymd+kZQKcL9c9WkEyYiqDsjA20V5ugms0Aq8PsGYnuZNCLM+rEndY54WQmo6ZzIx+byIUuqvAZSlm7pRsqw0b7l/wqFkxRz/KtgGJJnkvjHOnVFyhGS4TZsXnZElSfgCCquy9nmquVTQ==;0fYlAJUdELJ5iqExDiZS0g=="
+secured: "ZmyKJqyq5uBYc0JHBtXoNS9I5n0gpGRAuehTWvV2L/NtvZZSLkR8i6kLnrhMfOUq5G7/XXByUvgOj89fVqWEye0GECPnuVtuQL1RSyxAugNGxVVdG6nPLwCbDfDDSTVeD7Ia49rPmw3W+hJhIrY/C0GHQ8zkmf5DD1X5iZqUf3ii64PUFOy/F/7MB+rg+Oa3TRTp/A9ICFL7WjBXjAMX3JewSYz2JWKFvtdaO+QLJk5LnUSNQXwVDTBVUlGhfrQiLTGzOyFMXr2EHpNKxmwdGg==;kaYavnbuKG8RKjP/cWnYzg=="
 ---
 

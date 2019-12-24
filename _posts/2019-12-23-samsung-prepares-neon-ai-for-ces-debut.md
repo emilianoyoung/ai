@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Samsung teases a new HER-like AI assistant called NEON"
+    excerpt: "Samsung is however looking to have another go, and has been teasing a new AI product called NEON with tweets and Instagram posts. While the teasers and NEON.Life website do not give much away, the project comes from Samsung STAR Labs, who’s remit is ..."
+    publishedDateTime: 2019-12-24T20:30:00Z
+    sourceUrl: https://mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/
+    ampUrl: https://mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/amp/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
+        width: 700
+        height: 700
 
 secured: "2BvksgThjHWDAhlGyPHt7kDcVYKF3aNFtJpOxmJnkgvJWeP084d0WzUqHXrzJpeOPUo9yyYmtH2pN9mWhvUh2WFBAb0DkC6E53pdVkGMlylspPofw/oxoKV6Ubg6fDYkFfzwm1EDl3NhhaTLwltrP6XGKzBxNWuq5nQtf5OuB2ttuoDWE6GkenU7oFXXQ6doa5e5qvnCkE4VrGPE/u/fl9liZ+C39gwdpVXoCZMCvqOBcGXLPvjJ6AUD0VTvIza4alS12LZaL3qG/fZz1AhTWA==;f+cGmcIPrW9EtpLiFY2l0g=="
 ---

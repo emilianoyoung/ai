@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7B0635D24A1F288AACB7E7598A776B36
         width: 700
         height: 393
-  - title: "Snowflake Deepens its Relationship with AWS to Provide a More Seamless Customer Experience"
-    excerpt: "Recent milestones include: Pre-configured integration between Snowflake and Amazon SageMaker, a solution that provides developers and data scientists with the ability to build, train and deploy ML models quickly. In addition, AWS and Snowflake recently published an eBook on using Amazon SageMaker with Snowflake. Snowflake integration with ..."
-    publishedDateTime: 2019-12-04T19:05:00Z
-    sourceUrl: https://www.thedailytimes.com/business/snowflake-deepens-its-relationship-with-aws-to-provide-a-more/article_e0feb43a-daee-53f7-9812-b517cefc018a.html
-    type: article
-    provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 29
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
-        width: 600
-        height: 600
 
 secured: "aVOuil4VIUpT4BGRD66CqC09slikHB8zEJJAWT126cyZGkzzbR1bcDNCxH62FVhbYSu60JL4qcPJwTbH5lFLo6lyf88boR6uIzIL3LIIFV4O6KnDHuZgcLrY2ZHodxQUEP+3LNiFZdgZrjQpsd5B2mgRVvkg9WRwahdVPh6rLBp2RJQN8pcexYjFwVG6t+30Ujyxx9cpIFHmkh8VD7GnRw0IZz30NZjilBD0N3OyygtYOicwAcLVQUXGoSb9R4pIsTr5fJIzfGXWBdbtn164Mg==;2fzRw931FHaDu3ICnP7dBg=="
 ---

@@ -30,15 +30,15 @@ images:
 related:
   - title: "AWS Deepracer — How to train a model in 15 minutes"
     excerpt: "In a previous article I described how I got into DeepRacer and what it is. This article is about the technical parts: How the scoring function was designed and why it works. Almost all scoring functions that I heard of are mostly scoring based on where the ..."
-    publishedDateTime: 2019-12-17T10:15:00Z
-    sourceUrl: https://medium.com/@falktandetzky/aws-deepracer-how-to-train-a-model-in-15-minutes-a07ab77fb793
+    publishedDateTime: 2019-12-17T12:40:00Z
+    sourceUrl: https://medium.com/twodigits/aws-deepracer-how-to-train-a-model-in-15-minutes-3a0dca1175fb?source=rss------reinforcement_learning-5
     type: article
     provider:
       name: Medium
       domain: medium.com
     quality: 99
     images:
-      - url: https://miro.medium.com/max/467/1*YFuQ5_ivo46fYdwVa1ajiA.png
+      - url: https://miro.medium.com/max/467/0*A6UtKugYg3wGqhBj.png
         width: 467
         height: 423
 
