@@ -26,7 +26,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 102
+    quality: 70
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -44,34 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
         width: 697
         height: 700
-  - title: "Microsoft and NTT announce multi-year alliance to build digital enterprise solutions on Azure"
-    excerpt: "while Microsoft will bring its trusted Azure cloud platform and AI expertise. NTT has also announced that it has selected Microsoft Azure as its preferred cloud platform. “NTT is committed to helping enterprises realize their digital transformation initiatives to help create a smarter world. We believe that the combination of the Microsoft ..."
-    publishedDateTime: 2019-12-10T15:47:00Z
-    sourceUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/
-    ampUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 63
-    images:
-      - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
-        width: 932
-        height: 537
-  - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
-    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
-    publishedDateTime: 2019-12-11T15:17:00Z
-    sourceUrl: https://winbuzzer.com/2019/12/11/microsoft-and-ntt-corporation-announces-azure-powered-collaboration-xcxwbn/
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
-        width: 700
-        height: 466
 
 secured: "fHyYq5vOrCCJQARONbAR6LKvR/pSccPksZuBjhVM0hhEayKnQeadechHyW4mHq74tCZnHB+kCwsujJ5EGVPKhnNa0JxieT0RDyr1Ma3hXYiHDrfWKz3Zd07syh3LpuThrnIUWfc5K+MG9cBLscId+SRka4P9NrX4CprMs9QJ3N1o+KBVXBm37m5gpfNtUeZjK2idZlYKx0Od44mUBVd9qF/d2Bn76R0M0r3cQbfrIli6MfEdqo1iZP9H4jH17MlTIreWZMy63Z8fxdbB1mv3Lg==;2wDhAfR4Lr3QuyB402MCoQ=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 700
         height: 410
   - title: "Data released about Providence self-driving shuttle service"
-    excerpt: "PROVIDENCE, R.I. (AP) — A self-driving shuttle service has taken more than 25,000 trips during its first six months of operating in Rhode Island, according to the state Department of Transportation. The Boston Globe reports Wednesday that transportation officials released data for the first six months of Providence's “Little Roady” one-year pilot program, with an average of 146 free shuttle trips daily in November."
-    publishedDateTime: 2019-12-04T20:13:01Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/data-released-about-providence-self-driving-shuttle-service/ar-BBXQsHy
-    type: article
-    provider:
-      name: Associated Press on MSN.com
-      domain: msn.com
-    quality: 4
-  - title: "Data released about Providence self-driving shuttle service"
     excerpt: "PROVIDENCE, R.I. (AP) — A self-driving shuttle service has taken more than 25,000 trips during its first six months of operating in Rhode Island, according to the state Department of Transportation. The Boston Globe reports Wednesday that transportation ..."
     publishedDateTime: 2019-12-05T00:10:00Z
     sourceUrl: https://www.seattlepi.com/news/article/Data-released-about-Providence-self-driving-14882032.php

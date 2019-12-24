@@ -8,7 +8,7 @@ ampUrl: https://www.martechadvisor.com/news/data-management/amperity-joins-aws-p
 cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/data-management/amperity-joins-aws-partner-network-to-simplify-retail-marketing/
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     title: "Amperity Joins AWS Partner Network To Simplify Retail Marketing"
 
 related:
-  - title: "TensorIoT Achieves AWS Retail Competency Status"
-    excerpt: "AWS Retail Competency Partners have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning Data Lakes, artificial intelligence (AI) / machine learning (ML), Voice, Recognition, Internet of Things (IoT), Microservices, and Retail Transformation. The AWS Retail Competency ..."
-    publishedDateTime: 2019-12-04T20:36:00Z
-    sourceUrl: https://medium.com/tensoriot/tensoriot-achieves-aws-retail-competency-status-501d32366849
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 64
   - title: "Amperity Achieves Amazon AWS Retail Competency Status and Joins the AWS Partner Network Global Startup Program"
     excerpt: "AWS Retail Competency The AWS Retail Competency highlights top AWS Partner solutions that have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning artificial intelligence (AI) / machine learning (ML), Voice Recognition, Customer Engagement, and Retail Transformation."
     publishedDateTime: 2019-12-05T00:22:00Z

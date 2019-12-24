@@ -24,43 +24,21 @@ images:
     title: "Making robots more perceptive"
 
 related:
-  - title: "Robots more likely to replace US workers in these 10 areas"
-    excerpt: "The labor market may be humming right now, but there may be a dark cloud looming ahead. Continue Reading Below Over the course of the next decade, up to 800 million jobs globally could disappear due to advances in artificial intelligence and robotics, according to research from the McKinsey Global Institute, a top consulting firm. An estimated ..."
-    publishedDateTime: 2019-12-04T20:47:00Z
-    sourceUrl: https://www.foxbusiness.com/markets/robot-apocalypse-is-it-coming-to-a-city-near-you
-    ampUrl: https://www.foxbusiness.com/markets/robot-apocalypse-is-it-coming-to-a-city-near-you.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/robot-apocalypse-is-it-coming-to-a-city-near-you.amp
+  - title: "Work Is A Fundamental Part Of Being Human, Robots Won’t Stop Us Doing It"
+    excerpt: "A recent study conducted by Brookings Institute researchers found artificial intelligence could “affect work in virtually every occupational ... Predictions about the rise of the robots either take a pessimistic stance, focusing on disruptions to economic organisations, or view “undoing work” as an opportunity to move to a fairer social ..."
+    publishedDateTime: 2019-12-10T02:15:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/work-is-a-fundamental-part-of-being-human-robots-wont-stop-us-doing-it/
+    ampUrl: https://www.gizmodo.com.au/2019/12/work-is-a-fundamental-part-of-being-human-robots-wont-stop-us-doing-it/amp
+    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/work-is-a-fundamental-part-of-being-human-robots-wont-stop-us-doing-it/amp
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.E3F8EB05A4D23E8319017477C133E697
+      - url: https://www.bing.com/th?id=ON.00C3798879007011F16CA37D53B89823
         width: 700
-        height: 393
-  - title: "Robots more likely to replace US workers in these 10 areas"
-    excerpt: "The labor market may be humming right now, but there may be a dark cloud looming ahead. Over the course of the next decade, up to 800 million jobs globally could disappear due to advances in artificial intelligence and robotics, according to research from the McKinsey Global Institute, a top consulting firm. An estimated one-third of the 2030 ..."
-    publishedDateTime: 2019-12-05T00:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/robots-more-likely-replace-us-204303008.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "LLOYD Shoes uses Magazino robots in warehouse"
-    excerpt: "After the delivery at the beginning of December 2019, the first two robots are now exploring their new working environment and are subject to a number of tests before being integrated into live operations. Through a link to a global cloud and the use of Artificial Intelligence (A.I.), TORU can constantly learn from its own experience in its ..."
-    publishedDateTime: 2019-12-11T12:26:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/lloyd-shoes-uses-magazino-robots-in-warehouse/14541/
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 19
+        height: 350
 
 secured: "MsZsEayzSAS7asRv/VbNSL+SW3bNRhdKG0oDDeyBujcHd5sO6az9zPcELjSnSKtIyQxQzGUZWMqLq/4QhcU50fuTYScdjwKWlbEEiGg5XMEn0rXZJTvfQX4EnRrpZ0hy21jhgwslL/T5qn/m77L7Wd7LgIYTccIUhJW12PCAJWW6zkZTKxIbjZ7evSHIzD1geJrwb1iSIEMnGVk20iE0FCJbPh8rnNPC2g8vLNX4POlmA4hFkYDiemlwQ47xQ//eGJm8BV71OLmHSMmjOO+jng==;KRgavNTWnp0zz0UNAMOmtw=="
 ---

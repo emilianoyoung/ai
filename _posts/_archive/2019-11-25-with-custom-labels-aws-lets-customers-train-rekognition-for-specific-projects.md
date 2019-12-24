@@ -24,21 +24,6 @@ images:
     title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
 
 related:
-  - title: "Amazon now lets customers label and track specific objects with Rekognition"
-    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
-    publishedDateTime: 2019-11-25T17:06:00Z
-    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
-    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T18:59:00Z
@@ -67,7 +52,20 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
+  - title: "For now, Lockport wants facial recognition security system just for guns"
+    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
+    publishedDateTime: 2019-11-24T10:01:00Z
+    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 38
+    images:
+      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
+        width: 2000
+        height: 1500
 
-secured: "ew9TPEMNS85RRylEScg+m4wHorknL6ylzR2ObHUn7zxwxYLBnHb4KnkpsM/WfYwF1DTD0qOpCIy/fYyo2EhLyP/QRvEUwoAzGqe0GuAMlF0RZXV16S5JeIt9JdQTI7z2AwatE361GB50MP2MRRviPAQRJsnO0qemBjuMhYYF2+bUxy25DGoVyy33yunnCYT7jVAgCqUzLbyzxr8qwZPwty4wGePYC33urbc5XNgYuJtbf4+0QLQBO7jCXtPwL9FNoI6qDu0PDYwdXiIXdiVQWA==;PQg+tW7hV1VUDTDpeC6N0g=="
+secured: "zxWViPQsCQoCXZ5XRxYjo5RyGCYj8CRs7P33otH2y/BRyH6kejUoZH1rgK0s3P/V6WLQ8o99aTiQT2vKz2gGkpBKJ6Ed9D5ht8afyFOFYjt5vcc0ITEH7AqLWlJZdgULXdY2u3iPMYL6w7EABBh67TLNmjGZKZTCq/Wsw5aLcO3fUrrKXhAiDBVFzSrtllOOKv8oibh+Z7JL/LxHaNIGzG7nD6RPyyiDp2OjGc2zrEir3djq4FYvGyHCrAjhoeNCrBg7ceL+G0qDzag10a0DWg==;rV2pmpYEbLTJX2BeM1xesA=="
 ---
 

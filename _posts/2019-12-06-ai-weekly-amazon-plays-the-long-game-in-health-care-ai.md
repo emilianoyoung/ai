@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -70,6 +70,19 @@ related:
       - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
         width: 1200
         height: 675
+  - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
+    excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
+    publishedDateTime: 2019-12-04T16:07:00Z
+    sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
+    type: article
+    provider:
+      name: Flatland Kansas City
+      domain: flatlandkc.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
+        width: 700
+        height: 393
 
 secured: "1SO9/KiH1ynUIvv5JRMSgs9+2U9bSt4RYFQMUHt89IKtCUmlbrxiaJKByrXGeXbfK6PQOm/A+66xIBRfJGwnf/JF/dDtQCwfQiKh3NMJIi7uz+eZO8m9OvZpXg2Uqc0R4Q2xLsBGtWewoNr+ipd9qFzNBodtdYUbDILG+74ZrEA++DYnDn4mZcxHh0quaX8Ehc6KYms+3YhcpXVgS/xcNJVd2s4OnafoPKRHsGW4MSOpQpnVTvFWm+7Omr0omxl/15vXif7K3hOahbCeODCsDw==;uzBDsMZv9ZnsRahR8NYq9w=="
 ---

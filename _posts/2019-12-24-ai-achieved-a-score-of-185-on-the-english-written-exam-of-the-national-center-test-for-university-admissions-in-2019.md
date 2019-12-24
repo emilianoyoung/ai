@@ -1,11 +1,11 @@
 ---
 category: news
 title: "AI achieved a score of 185 on the English written exam of the National Center Test For University Admissions in 2019"
-excerpt: "This achievement was made possible by the English team and its insight into natural language processing technologies based on deep learning. The team improved its score by more than 30 points (corresponding to 7 T-score points) compared to the simple application of deep learning technologies. [Background and significance] NTT Communication ..."
+excerpt: "This reflects its research and development of corevo(*1), which is one of NTT's AI-related technologies, and its participation in the AI project called \"Todai Robot Project - Can a robot get into the University of Tokyo?\" (*2) with the Inter-University Research Institute Corporation Research Organization of Information and Systems, National ..."
 publishedDateTime: 2019-12-24T14:34:00Z
 sourceUrl: https://eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
 type: article
-quality: 16
+quality: 14
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.09A240E7C46C453F5C4B3C90C7F9D4CF
@@ -109,6 +108,6 @@ related:
         width: 400
         height: 267
 
-secured: "avx92eSvkvTm2SgGHNb4Zd3PbisTgIUU6Cvv7zK1ZC4eM3Re6cN5659h+BgLI1XEyHWyMfMW3arnIrqXzXZAzLcbP3EkzbkykpbBkRinFiD5Tq5p0EVbbXFj2lPA2BHkAEFsy1Ua0AfXaT+2pGkf79OMdvfg23m6ENOJCe+sf5o+Ftgs0ssuKcbGyNxDIe8epDn0YBoXkJTJ7lW+hbfm/+ei0PNRfQcA78KF/6jlCEuaDAgprmUXYY/KEH+pBQiOKLMEaw75T96NBZztJgzR5A==;kGoAlBMkC0gGANqXiAzrdg=="
+secured: "/h1kDwsLiryMaOJxdCzcTi2Mgj+oIDKWRxWAHzaw3xEWYxOFNy+KCU/dkkJ8960EKhrM+98OXoPUTjF7WAqu8GOcn8bky+FKv0VndhEFD3HDoQMz0p6WUVkXDhOLT/2l7ahFQo3QcRc0Pqt9tE1DeA0N+UFNg/YmHVhTqpYjWSlNVm9KkrvAtmVLgD21kFDOVbbP1pOKXY2WnvTIyCPTllgX8naEM6at65JCMW0zdDG2iszc9eIiAdoPiaNJCzvDh7bdjSxVwicOAE50AiF5zw==;o3ec5fOBV+d33WeGRh05aA=="
 ---
 

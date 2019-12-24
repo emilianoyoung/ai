@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/devils-in-the-details-in-bengio-marcus-
 ampUrl: https://www.zdnet.com/google-amp/article/devils-in-the-details-in-bengio-marcus-ai-debate/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/devils-in-the-details-in-bengio-marcus-ai-debate/
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: https://www.bing.com/th?id=ON.C47656BCB2961EDF17BF92F0E529F338

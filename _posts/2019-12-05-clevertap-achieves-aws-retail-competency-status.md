@@ -33,15 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.096EE1C2868CBA9971B48E56D04E3FC4
         width: 700
         height: 382
-  - title: "TensorIoT Achieves AWS Retail Competency Status"
-    excerpt: "AWS Retail Competency Partners have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning Data Lakes, artificial intelligence (AI) / machine learning (ML), Voice, Recognition, Internet of Things (IoT), Microservices, and Retail Transformation. The AWS Retail Competency ..."
-    publishedDateTime: 2019-12-04T20:36:00Z
-    sourceUrl: https://medium.com/tensoriot/tensoriot-achieves-aws-retail-competency-status-501d32366849
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 64
   - title: "Amperity Achieves Amazon AWS Retail Competency Status and Joins the AWS Partner Network Global Startup Program"
     excerpt: "AWS Retail Competency The AWS Retail Competency highlights top AWS Partner solutions that have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning artificial intelligence (AI) / machine learning (ML), Voice Recognition, Customer Engagement, and Retail Transformation."
     publishedDateTime: 2019-12-05T00:22:00Z

@@ -23,6 +23,6 @@ images:
     height: 627
     title: "AWS Announces Contact Lens for Amazon Connect, a New Machine Learning-Powered Analytics Capability for Customers to Better Assess Call Contacts"
 
-secured: "8aV8fsdSSMqFewcBeYmlcsq7afceL8M844jYBVzjysRnnNi11V3Blt69f8dwfqX+4SBGjOMTQRR8ZBcXsqGHtv6GVzyYvd1Z27bvwu+HUuyhuMjEuFd1ADKpKsIlqxWXL5SdPndJ6Lf9no88m6blpExk0w3AFU6HMr8gq0t9BfaXztPugmc4trnUOJ7VG4BY3PC1k1F2hElcAe7NcBoRZJ7YN2Pl9Lmb8tWWVj6tCgfaK2s6NcBp+y2i2B5pVxnWzFk1KNjRBZKZMW9EYTPvFQ==;x3H2txwpyEnTBMKOtJ4TTA=="
+secured: "Ni6ySzwmJFxpS48dJn+mfanNMFluVngqXRcgw8ldnlcjaFaENv6eqN8PjN3dssNx/z7HoVglxbYp4ONLGwozNw5+q3l3QTR0D77jNvF6VnGDdlVrytTDJTDdqZ9Vs/Y9ccPVSV4/OdLUMBq7oV5dlRZBcaF9P7cZxk3phM3OMO+3f1i77A2GXNsJcn2k6gh1L7zuVvk33RvQtVY0RwifbeNcFpFv8Qyp9w1lNqWKiPxTKCp3p1kuIk0d5o9qCeSfsCQkHsIveQIws1c9eDvZ2A==;jVkOd96ZxktQQf3X+PR6/g=="
 ---
 

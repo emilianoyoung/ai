@@ -41,15 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.096EE1C2868CBA9971B48E56D04E3FC4
         width: 700
         height: 382
-  - title: "TensorIoT Achieves AWS Retail Competency Status"
-    excerpt: "AWS Retail Competency Partners have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning Data Lakes, artificial intelligence (AI) / machine learning (ML), Voice, Recognition, Internet of Things (IoT), Microservices, and Retail Transformation. The AWS Retail Competency ..."
-    publishedDateTime: 2019-12-04T20:36:00Z
-    sourceUrl: https://medium.com/tensoriot/tensoriot-achieves-aws-retail-competency-status-501d32366849
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 64
   - title: "SoftServe Achieves AWS Retail Competency Status"
     excerpt: "The recognition acknowledges that SoftServe has technical proficiency and proven customer success across numerous innovative solution areas in retail spanning data lakes, artificial intelligence (AI) / machine learning (ML), predictive analytics, internet of things (IoT), intelligent automation, and retail transformation. AWS Retail Competency ..."
     publishedDateTime: 2019-12-05T11:00:00Z

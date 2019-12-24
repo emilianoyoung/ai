@@ -1,17 +1,23 @@
 ---
 category: news
 title: "General Motors pushes for self-driving car tests sans steering wheel"
-excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
-publishedDateTime: 2019-12-23T18:40:02Z
-sourceUrl: https://www.msn.com/en-us/autos/news/general-motors-pushes-for-self-driving-car-tests-sans-steering-wheel/ar-BBYhprm
+excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future ..."
+publishedDateTime: 2019-12-23T18:36:00Z
+sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
+ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: CNET on MSN.com
-  domain: msn.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -200,6 +206,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "VwSftaBdSJVlxZaJIzOiYwT1q8sTm7CBs9FKKHlXXjLFsQcgPOVdK7gpgVd+FClX8S9Cx1dfoiZHtysorz4ihdJIXCO2+0RCv+10tuB6VWFjVXXo0tLQlfFh/13MckxvQq0dULQqg6a1bsE1wFZ0vzB4P/LL9F3+32Sp/HSXr7Jq2jYAFb1fddN0zGKY+PyftNCiu/6MWTct6G8Ul+astaX/cynIwstu7k7LQrjTUCcxomQfmEL2WBwL2JM25lzdDSFe+gnalQQuIa9UbMZmug==;KTPD7U1QRJ81RZQl3kkJUQ=="
+secured: "Vmz4JQ/ZbzsYoAGiGNxDwqqvYwI0hOfQGIMc3DEbM29wLsxLOVFm6d9L19zW1gzHNNA6FWqmwZuzIGOO/akytgV8cz00pV/m/oOiw8v+sLoC9YlYNtREwhHuRC5CozJv/oxinAgFH5YwSSv425wu83VyTAv+lciFvazxdadfJ6r7IbWjR43mflU0Ka9yozFJU+o9L9lvZKPJ1d+D322ZJfh7ER2Vd1FOdzR7K/FvBWfW5XpSmJNVGlk7Z4Dyxs9vZZH+NuATvbvcNnFMUYiT2Q==;pUGBCZWPxSs8rY0zwsy2mg=="
 ---
 

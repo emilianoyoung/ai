@@ -50,21 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
         width: 700
         height: 412
-  - title: "Alibaba-financed AutoX wants to test self-driving cars without humans"
-    excerpt: "According to the report, there are 60 companies that test self-driving cars in California with backup drivers. It's not clear if any other units are currently in the process of applying for and securing a permit to remove the human backup driver. The move is obviously, a major step and vote of confidence in a company's technology. Waymo has ..."
-    publishedDateTime: 2019-12-04T20:13:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/china-self-driving-cars-alibaba-autox/
-    ampUrl: https://www.cnet.com/google-amp/news/china-self-driving-cars-alibaba-autox/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/china-self-driving-cars-alibaba-autox/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.783185E2BFDE8EBDCB5803DEF2AE690E
-        width: 700
-        height: 367
   - title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
     excerpt: "The autonomous luxo-barges are part of a test program that hopes to develop a true Level 4/5 autonomous vehicle. Many companies working on self-driving car projects seem to think that people want to be wafted about between destinations in some kind of living room-like pod thing. Sure, that idea will appeal to some consumers but I think there is ..."
     publishedDateTime: 2019-12-09T13:03:00Z

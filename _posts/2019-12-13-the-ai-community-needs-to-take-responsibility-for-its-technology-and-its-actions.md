@@ -53,19 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AA539D98380851B1F87698DC28767BB2
         width: 700
         height: 350
-  - title: "Collaboration is the key to making AI and IoT work"
-    excerpt: "1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Special report: Blockchain in business: Where are we now, and predictions for the next decade Microsoft Ignite 2019: Azure Arc, HoloLens 2, Edge, Quantum and Teams Year-round IT budget template Digital Transformation ebook: Guide to becoming a digital transformation ..."
-    publishedDateTime: 2019-12-04T20:24:00Z
-    sourceUrl: https://www.techrepublic.com/videos/collaboration-is-the-key-to-making-ai-and-iot-work/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.B1CBB183AA7DB1C8027452D9881B99BB
-        width: 700
-        height: 525
   - title: "How AI-Infused Machine Learning Is Radically Changing Brand Localization Strategy"
     excerpt: "Human resources also will provide the crucial quality control role, reviewing and modifying machine translations, ever improving natural language processing models with authentic human understanding and feedback. AI is already used in a wide array of translation solutions, making the localization of your web site, product and services easier ..."
     publishedDateTime: 2019-12-09T12:14:00Z

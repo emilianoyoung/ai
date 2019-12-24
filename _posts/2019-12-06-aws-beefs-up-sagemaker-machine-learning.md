@@ -91,19 +91,19 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-    publishedDateTime: 2019-12-03T18:23:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
+    publishedDateTime: 2019-12-03T18:09:00Z
+    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: YAHOO!
+      name: Yahoo News
       domain: yahoo.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
-        width: 700
-        height: 525
+      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
+        width: 1280
+        height: 960
 
 secured: "dWQn3+uWwHghEUMkl8N20CJIZLp75kYsxD6+JSJ9ZDS6KWEDdmiReH/iOEyTtuzJxwJ1zPPFcz6ARY+wzyUGAnkxlQZYHzQBiU3B4HDaRwFsv17lw3ctqyG9OjNsC6aGu3bhyveAy4CQjAJ9t0NlBD8KjEp+eJaoLZD2pRfjqdfWPYoNz0CVcNZLa9s4us9Y7419AlGCLlSvOhLI10GirvNfuq8nf9B3oEFUUI2WsyGj29otNPNqnkWOtcgH2bc00Ze0EMGo9CSWggwofkqxKw==;uxIq2teL7od8gN1yuDtX+w=="
 ---

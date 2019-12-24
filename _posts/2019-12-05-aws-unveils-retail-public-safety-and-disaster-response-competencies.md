@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T00:20:00Z
 sourceUrl: https://www.crn.com/news/cloud/aws-unveils-retail-public-safety-and-disaster-response-competencies
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "AWS Unveils Retail, Public Safety and Disaster Response Competencies"
 
 related:
-  - title: "ECS Achieves AWS Public Safety & Disaster Response Competency"
-    excerpt: "The AWS Public Safety & Disaster Response Competency serves to differentiate ECS ... About ECS ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science, and engineering. The company solves critical, complex challenges for customers ..."
-    publishedDateTime: 2019-12-04T20:41:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191204005017/en/ECS-Achieves-AWS-Public-Safety-Disaster-Response
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A913FC53DD24FED1A092059409B1A219
-        width: 700
-        height: 365
   - title: "ECS Achieves AWS Public Safety & Disaster Response Competency; George Wilson, John Sankovich Quoted"
     excerpt: "The AWS Public Safety & Disaster Response Competency serves to differentiate ECS ... ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science and engineering. The company solves critical, complex challenges for customers across ..."
     publishedDateTime: 2019-12-05T21:33:00Z
