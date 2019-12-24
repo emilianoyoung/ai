@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/amp/
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
         width: 700
         height: 357
-  - title: "Qualcomm's Snapdragon 865 5G, AI, camera specs bolster 2020 smartphone upgrade cycle"
-    excerpt: "For instance, devices in China, the US and Europe can use the same platform even if the 5G approaches are different. Qualcomm is also betting that combining the 5th generation Qualcomm AI Engine will bolster camera, audio, voice and gaming feature on devices when enabled with 5G. The Snapdragon 865 AI Engine includes a new Qualcomm Hexagon ..."
-    publishedDateTime: 2019-12-04T19:00:00Z
-    sourceUrl: https://www.zdnet.com/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    ampUrl: https://www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.63C6B790F8AFE5B5DD6DF6A8AB19662A
-        width: 700
-        height: 525
   - title: "Qualcomm Refreshes Snapdragon Chips"
     excerpt: "The SoC (System on a chip) will offer 5G connectivity, advanced AI processing, and select gaming support. The 865 is a premium chip that will show up during CES and MWC. And since 2020 will usher a new wave of 5G devices and services, Qualcomm will benefit greatly from the device refresh. Notably, designing the chip without an integrated modem ..."
     publishedDateTime: 2019-12-11T10:58:00Z

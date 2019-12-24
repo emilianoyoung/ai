@@ -23,23 +23,6 @@ images:
     height: 270
     title: "AWS, Novaritis Partner to Digitize Business Operations; Bertrand Bodson Quoted"
 
-related:
-  - title: "Slalom and AWS Announce Launch Centers to Help Enterprises Accelerate Business Transformation and Modernize IT Services"
-    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
-    publishedDateTime: 2019-12-04T18:28:00Z
-    sourceUrl: https://finance.yahoo.com/news/slalom-aws-announce-launch-centers-141500217.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/slalom-aws-announce-launch-centers-141500217.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/slalom-aws-announce-launch-centers-141500217.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 35
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-
 secured: "l28momVjTtvPlNE4zWA22WOvwXa6qAP4+vP5E3ZAw0rUJ2bO5iIlLX3IBUlk5y9FJYbEFt0MbPGPxgClfEZkd+mVrtPI1+3dXLVKP8sFuh0ZzR/Lz9FUO2WuT9tFSbL2vK4KJZM82cKrjlZXZRa/F8SwRgBFIHyaSkCbfRVElcv0HEbsOFCRsKrCxf+XUQ/NQ+TKbQHh2CkpsFukgD80I/oernLCaoLAY++34zChiU1uCeN20KLvei/MLvIrMtg6D+CCT9naQv4OEf1ZVQ1VhQ==;/Zf31PeJ5IXbRb0JN/1Uzg=="
 ---
 

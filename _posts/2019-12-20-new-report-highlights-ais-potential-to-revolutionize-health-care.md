@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -26,32 +26,21 @@ images:
     title: "New report highlights AI's potential to revolutionize health care"
 
 related:
-  - title: "Health professor: AI has huge potential, provided ethical issues can be solved"
-    excerpt: "Despite all the enthusiasm for AI, plenty of questions remain when it comes to the link between AI and ethics in the field of healthcare. This is particularly the case with regards to patients’ protection of privacy and data. Among those is the use of patient data for commercial purposes, Brkljačić says, as some AI products will eventually ..."
-    publishedDateTime: 2019-12-18T08:15:00Z
-    sourceUrl: https://www.euractiv.com/section/health-consumers/news/health-professor-ai-has-huge-potential-provided-ethical-issues-can-be-solved/
+  - title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
+    excerpt: "After all, a lot has happened in the last 10 years – and advancements in health care are no exception. In looking back at the health achievements ... I don't know. That's been a major trend.\" Artificial intelligence made big strides throughout the decade, though its potential benefits remain vast. AI systems allowed health organizations ..."
+    publishedDateTime: 2019-12-24T19:24:00Z
+    sourceUrl: https://www.phillyvoice.com/decade-health-story/
+    ampUrl: https://www.phillyvoice.com/decade-health-story/amp/
+    cdnAmpUrl: https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/decade-health-story/amp/
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 50
+      name: PhillyVoice
+      domain: phillyvoice.com
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.7B3971CF721659CC92F54BF6A05F432C
+      - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
-        height: 525
-  - title: "Regenstrief VP co-authors National Academy report on AI's potential to improve health"
-    excerpt: "Eneida Mendonca, M.D., PhD, an expert in natural language processing, machine learning, predictive analytics and AI adoption, is a co-author of \"Artificial Intelligence in Health Care: The Hope, The Hype, The Promise, and The Peril,\" a National Academy of Medicine (NAM) Special Publication. Other authors are from Harvard University, the Mayo ..."
-    publishedDateTime: 2019-12-17T18:45:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/ri-rvc121719.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: https://eurekalert.org/multimedia/pub/web/219961_web.jpg
-        width: 720
-        height: 445
+        height: 463
 
 secured: "geNAZYHTC+M50FRmmNnwgJEqEWtAqtUmOtDKmO6MEqsORcbKp5Un9mK6flhB9IVsBJ38VwIYDTvo5hOaaF6aYWR5J8/qKc66DBK8ZCzqZkgRiSRSJW80mrN7oWr7I2rvA1vYQU6hJng8PWJgmqtuzLK59IP2YUwY2p96TioBf/Uy7tHpyXz1+1iSvBXeasdSvk2/zFb8v33/lZ25tBtvyq08Zrei8+SI/cUtDr6/WqSyZH2LciMI8G2DFTaPZO1g2Ts/fQS9vjnP35TOqn7thg==;Ds1+51tuW0v2bYyLqMm7jg=="
 ---

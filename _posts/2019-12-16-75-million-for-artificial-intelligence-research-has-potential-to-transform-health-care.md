@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D0F809D0F2DCE6173B02937DCD356CDF
         width: 700
         height: 466
+  - title: "Nvidia built an AI that creates 3D models from 2D images"
+    excerpt: "What if developing a 3D gaming world were as easy as snapping pics with your phone? Nvidia researchers recently developed an AI system capable of predicting a complete 3D model from any 2D image. Called “DIB-R,” the AI takes a picture of any 2D object – an image of a bird, for example – and predicts what it would look like in three ..."
+    publishedDateTime: 2019-12-09T20:14:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/09/nvidia-built-an-ai-that-creates-3d-models-from-2d-images/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.C64E2F39B6518C98F6F8C15D748BE7EA
+        width: 700
+        height: 350
   - title: "NVIDIA Is Using Machine Learning To Transform 2D Images Into 3D Models"
     excerpt: "Researchers at NVIDIA have come up with a clever machine learning technique for taking 2D images and fleshing them out into 3D models. Normally this happens in reverse—these days, it's not all that difficult to take a 3D model and flatten it into a 2D image. But to create a 3D model without feeding a system 3D data is far more challenging."
     publishedDateTime: 2019-12-09T19:20:00Z

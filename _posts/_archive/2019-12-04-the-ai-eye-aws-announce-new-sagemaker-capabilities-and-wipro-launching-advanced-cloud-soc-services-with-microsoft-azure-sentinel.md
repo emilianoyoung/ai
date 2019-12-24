@@ -5,7 +5,7 @@ excerpt: "According to the press release, SageMaker Studio \"delivers greater au
 publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
-quality: 102
+quality: 70
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
@@ -123,6 +122,6 @@ related:
         width: 800
         height: 500
 
-secured: "BROesZuE0E9nfY9K85TASgMSTjBiIdsYzaH4ZFyP2XhAGP/ftYyvgM1K+dIIucKPj0RHG1Zo73Saw/2vH7ygsEvsi3umcn65VcYxwnkU3AYVluPFbuu5rhTqyvjWcarpvy9EVwXpFvCwjRMe4WnbBfAWHGtrcONRxOG9NyFPJqOiX/AJC9ji6yEXD2wSTH3cfLU75RA3i8RSq+d+8eBuonyZy5atX9L5CnK8otal4DK2l17w0IoMcpY8QnYXsv6/eFI+ApXxqc7jGf+T2BxXtQ==;C5/9oKEoDPAxSS42ZSSStw=="
+secured: "qJwHS+UiKCXQ74eHylNX668vo+V3tMFZqpu/13RaluhtqMW6OeIse4FKv07Nj8QI/Bbv9NXTQfrtSIGNUpfPqH2KfeMgaxyMOR9++w7k6GTOMiKHkwEAou3Mh9LQAr41X6s5BtNxA3UL0P3lumcWKcZEnAzWZ8XmylJj4ef4d0v44DPnU9QrDoEBTLkuDMshYt485j+Z22s6/isMp5skKAViZk48P0OTL1S3wrSQ7SHiGEcA7K2fONThYbUlyV7C/Bcc7bpA7IJXIfHJKI63Mg==;lgU8wAI3kTXDGhw2t4VZHg=="
 ---
 

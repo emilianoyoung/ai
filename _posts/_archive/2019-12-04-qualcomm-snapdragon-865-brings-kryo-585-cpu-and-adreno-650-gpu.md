@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
-excerpt: "There also one other wrinkle with this two-chip solution. According to The Verge ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents a doubling in performance over its ..."
-publishedDateTime: 2019-12-04T19:12:00Z
-sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+title: "Qualcomm Snapdragon 865 brings Kryo 585 CPU and Adreno 650 GPU"
+excerpt: "After 845 and 855 comes the, well you might guess it the Snapdragon 865. This is a 7nm SoC with new Kryo 500 series CPU cores and the new Adreno 650 GPU, new AI Tensor cores, new DSP and Spectra ISP and of course the 5G modem. The new Kryo 585 provides a 25 percent faster performance than then predecessor and 25 percent higher power efficiency."
+publishedDateTime: 2019-12-04T19:54:00Z
+sourceUrl: https://www.fudzilla.com/news/mobile/49912-qualcomm-snapdragon-865-brings-kryo-585-cpu-and-adreno-650-gpu
 type: article
-quality: 58
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: HotHardware
-  domain: hothardware.com
+  name: Fudzilla
+  domain: fudzilla.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
-    width: 700
-    height: 525
-    title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
+  - url: https://www.bing.com/th?id=ON.A6381C9E4E12E31BA7BFE9A0F2783F92
+    width: 620
+    height: 465
+    title: "Qualcomm Snapdragon 865 brings Kryo 585 CPU and Adreno 650 GPU"
 
 related:
   - title: "What we know about Qualcomm’s next-gen Snapdragon 865 and 765 chips"
@@ -56,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
         width: 700
         height: 357
-  - title: "Qualcomm's Snapdragon 865 5G, AI, camera specs bolster 2020 smartphone upgrade cycle"
-    excerpt: "For instance, devices in China, the US and Europe can use the same platform even if the 5G approaches are different. Qualcomm is also betting that combining the 5th generation Qualcomm AI Engine will bolster camera, audio, voice and gaming feature on devices when enabled with 5G. The Snapdragon 865 AI Engine includes a new Qualcomm Hexagon ..."
-    publishedDateTime: 2019-12-04T19:00:00Z
-    sourceUrl: https://www.zdnet.com/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    ampUrl: https://www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.63C6B790F8AFE5B5DD6DF6A8AB19662A
-        width: 700
-        height: 525
   - title: "Qualcomm Refreshes Snapdragon Chips"
     excerpt: "The SoC (System on a chip) will offer 5G connectivity, advanced AI processing, and select gaming support. The 865 is a premium chip that will show up during CES and MWC. And since 2020 will usher a new wave of 5G devices and services, Qualcomm will benefit greatly from the device refresh. Notably, designing the chip without an integrated modem ..."
     publishedDateTime: 2019-12-11T10:58:00Z
@@ -129,6 +112,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F9A94ABC6717C7241F4D35CBBD7F5C84
         width: 600
         height: 337
+  - title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
+    excerpt: "There also one other wrinkle with this two-chip solution. According to The Verge ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents a doubling in performance over its ..."
+    publishedDateTime: 2019-12-04T19:12:00Z
+    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
+        width: 700
+        height: 525
   - title: "Qualcomm Snapdragon 865: Here's What You Need To Know About The Latest 5G Chip"
     excerpt: "Not only is the AI engine supposedly twice as powerful as the previous one ... and battery life cycles can be extended by up to 200 days. Qualcomm's latest Snapdragon 865 chip If all that was not enough, there's also the benefits to smartphone photography. In fact, this is another of the major selling points. In recent times, the Snapdragon ..."
     publishedDateTime: 2019-12-04T19:05:00Z
@@ -187,19 +185,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3F6181C11DCD5CD8370D5D30FBF5F0B7
         width: 668
         height: 445
-  - title: "Qualcomm Snapdragon 865 brings Kryo 585 CPU and Adreno 650 GPU"
-    excerpt: "After 845 and 855 comes the, well you might guess it the Snapdragon 865. This is a 7nm SoC with new Kryo 500 series CPU cores and the new Adreno 650 GPU, new AI Tensor cores, new DSP and Spectra ISP and of course the 5G modem. The new Kryo 585 provides a 25 percent faster performance than then predecessor and 25 percent higher power efficiency."
-    publishedDateTime: 2019-12-04T19:54:00Z
-    sourceUrl: https://www.fudzilla.com/news/mobile/49912-qualcomm-snapdragon-865-brings-kryo-585-cpu-and-adreno-650-gpu
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A6381C9E4E12E31BA7BFE9A0F2783F92
-        width: 620
-        height: 465
   - title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
     excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
     publishedDateTime: 2019-12-06T02:07:00Z
@@ -227,6 +212,6 @@ related:
         width: 700
         height: 393
 
-secured: "2WHoJsuT/BBcQD6GpmpIdwXkDCoRqIi29pdSNelxFslIi/JMcP0FLUmwV8yVD796ZDlK8ezR8obtkUhWSXkHYuEp3I0a7j95dw9/4MIamx3neQ79iFOuQBffwzbOtr7SHo+o6gF7lmaRzo6YcEEI9lQSZ+cJVyauYXmxOVG4YnzypiPuqxJv+Y4uSqQ6I8fWKPVr6mMy3iD3rw4sGngI9UmahXCoXirB8EvR7dfThTK0FUsmyMYQNFcY4ZSuFxGjusbJfoj8C1jgr1xVNDPP/A==;hGv2P4P0znwOPG07djKWzQ=="
+secured: "upuuLiKZe9FfrV577RnkdPlXG/NA4BEgT/ASKv+DCrHZot0faGVkp550512U+fS7cUthFpYYW6huqIN3UxMfOuRpgog5F0340+L2RRPVEj0ZchBG4//nWkJmPQWkclpsMJL3sEPO3Or99YQlJiaSbPDTl6JOPeeAogFs5KFp54hj2OYIQuAPw0m54M/q2yQB5SkbppOgZgK0+tYVt5eUWO8gEHFQg86P/TQLNxVXmkiecqmnnEnoGwa20HCQqVjPZLpJd5fMobPwck2Sxi9kuA==;lH4JEVEtjNnyN3KEEpgRdQ=="
 ---
 

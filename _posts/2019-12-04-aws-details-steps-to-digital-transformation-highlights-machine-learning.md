@@ -8,7 +8,7 @@ ampUrl: https://www.itworldcanada.com/article/aws-details-steps-to-digital-trans
 cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-details-steps-to-digital-transformation-highlights-machine-learning/424776?amp=1
 type: article
 quality: 92
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 700
     height: 525
     title: "AWS details steps to digital transformation, highlights machine learning"
-
-related:
-  - title: "AI and digital tech have transformed the competitive landscape for many Accenture clients"
-    excerpt: "If you want to move quickly into new spaces, you only have one choice. And that is to get really good at managing and harnessing digital technologies, inclusive of AI.” With its broad enterprise portfolio, Accenture has seen digital transformation affect companies in every industry, including many that have not traditionally embraced ..."
-    publishedDateTime: 2019-12-04T18:55:00Z
-    sourceUrl: https://siliconangle.com/2019/12/04/ai-and-digital-tech-have-transformed-the-competitive-landscape-for-many-accenture-clients-reinvent/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.F4F28C69CF486BEB7F1642F204142131
-        width: 700
-        height: 466
 
 secured: "uV3cmBuspaS1N113WMVU2TqQ2M9Rec03FJDdbYINfqS+g5cxqzYFwGC5B6PxLTAskvwOBKFqegJ4H7EltcC2WQzRtRg4VFlvyVzvJjZuaqhgm4NYtDcRjYsPbZIjYGiT63AefKTk3vlmgp72/2Mv/QaGZ0ethQy7e1SRWuNiGRSOg3I9A6+9hYV38tQpA3olekNsgPTcSzK+W2SlvXFc9gm7kiLgpBkxC/moOGuWMYGsE6LFaljvg+IrkyJ82mgayRVYrpEPLrF1oTLhF9ayog==;6l82G43diH1NxaUPBvE9Fw=="
 ---

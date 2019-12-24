@@ -56,19 +56,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 103
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 102
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -82,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -122,6 +122,6 @@ related:
         width: 800
         height: 500
 
-secured: "sgoNhe3tKTijV2vS+2HcH0OYBo2BaPlnH7BOb5Hocl5zXDn40DN023zph/B0K5VHzU1HJ8wHksnFyNDCdGVmBNQBuV78Od78Hm3Y57qKSJYWeNPpkXFLlhvVV73GVgPelxsTxHERfjEVrZfH52FL8QyzhZG2WQsz7YWnY1GOOJX3/iFjIuAgLeZP7mD/AvlW5dAv1zorTw8o+T/xunyg3c/F27jZw7d6iP3P6sGiQNtzIT0KcLlL9Jyen7sBjtzYKu24fbD3/HEWiBy3abkQBw==;6F4jbdbtoaOHCZQKJ4UGqQ=="
+secured: "OLSy6W1L++J/1ZRbtlGtBQqBsaaKa8bNNWmExz6sXISkr0fLoIUdsipsxH21rU+qWMB/PCyO9FV9LTTt4Vr4fytHSSovwNYY7EoG7028jf03gqa8mnPo4Dy4N6xCIOuDUtW237biaSi6GXUjEtFzz/VkBqSQnErbfQlh1EfTy4suVlvHL3cUkQQoq78YiSBTMi8QOfRPdeO3Ywc/mfPvNWUvx2HqX+18L0KXEE6wzwotZ7TJ92e2bk4jvVp4IZlAQmM2VCJBAezPo+HwXHGrTQ==;rTOIXUtBCJmOmbqQJcZoIA=="
 ---
 

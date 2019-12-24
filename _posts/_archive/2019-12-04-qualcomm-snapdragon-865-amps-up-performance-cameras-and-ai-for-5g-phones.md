@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Qualcomm Snapdragon 865: Here's What You Need To Know About The Latest 5G Chip"
-excerpt: "Not only is the AI engine supposedly twice as powerful as the previous one ... and battery life cycles can be extended by up to 200 days. Qualcomm's latest Snapdragon 865 chip If all that was not enough, there's also the benefits to smartphone photography. In fact, this is another of the major selling points. In recent times, the Snapdragon ..."
-publishedDateTime: 2019-12-04T19:05:00Z
-sourceUrl: https://www.androidheadlines.com/2019/12/qualcomm-snapdragon-865-5g-camera-features.html
-ampUrl: https://www.androidheadlines.com/2019/12/qualcomm-snapdragon-865-5g-camera-features.html/amp
-cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/qualcomm-snapdragon-865-5g-camera-features.html/amp
+title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
+excerpt: "There also one other wrinkle with this two-chip solution. According to The Verge ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents a doubling in performance over its ..."
+publishedDateTime: 2019-12-04T19:12:00Z
+sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
 type: article
-quality: 55
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Android
-  domain: androidheadlines.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.6705C1EDE9CDA7EF2CE7EA64ECA5B165
+  - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
     width: 700
-    height: 466
-    title: "Qualcomm Snapdragon 865: Here's What You Need To Know About The Latest 5G Chip"
+    height: 525
+    title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
 
 related:
   - title: "What we know about Qualcomm’s next-gen Snapdragon 865 and 765 chips"
@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
         width: 700
         height: 357
-  - title: "Qualcomm's Snapdragon 865 5G, AI, camera specs bolster 2020 smartphone upgrade cycle"
-    excerpt: "For instance, devices in China, the US and Europe can use the same platform even if the 5G approaches are different. Qualcomm is also betting that combining the 5th generation Qualcomm AI Engine will bolster camera, audio, voice and gaming feature on devices when enabled with 5G. The Snapdragon 865 AI Engine includes a new Qualcomm Hexagon ..."
-    publishedDateTime: 2019-12-04T19:00:00Z
-    sourceUrl: https://www.zdnet.com/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    ampUrl: https://www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.63C6B790F8AFE5B5DD6DF6A8AB19662A
-        width: 700
-        height: 525
   - title: "Qualcomm Refreshes Snapdragon Chips"
     excerpt: "The SoC (System on a chip) will offer 5G connectivity, advanced AI processing, and select gaming support. The 865 is a premium chip that will show up during CES and MWC. And since 2020 will usher a new wave of 5G devices and services, Qualcomm will benefit greatly from the device refresh. Notably, designing the chip without an integrated modem ..."
     publishedDateTime: 2019-12-11T10:58:00Z
@@ -129,21 +114,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F9A94ABC6717C7241F4D35CBBD7F5C84
         width: 600
         height: 337
-  - title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
-    excerpt: "There also one other wrinkle with this two-chip solution. According to The Verge ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents a doubling in performance over its ..."
-    publishedDateTime: 2019-12-04T19:12:00Z
-    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+  - title: "Qualcomm Snapdragon 865: Here's What You Need To Know About The Latest 5G Chip"
+    excerpt: "Not only is the AI engine supposedly twice as powerful as the previous one ... and battery life cycles can be extended by up to 200 days. Qualcomm's latest Snapdragon 865 chip If all that was not enough, there's also the benefits to smartphone photography. In fact, this is another of the major selling points. In recent times, the Snapdragon ..."
+    publishedDateTime: 2019-12-04T19:05:00Z
+    sourceUrl: https://www.androidheadlines.com/2019/12/qualcomm-snapdragon-865-5g-camera-features.html
+    ampUrl: https://www.androidheadlines.com/2019/12/qualcomm-snapdragon-865-5g-camera-features.html/amp
+    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/qualcomm-snapdragon-865-5g-camera-features.html/amp
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
+      name: Android
+      domain: androidheadlines.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
+      - url: https://www.bing.com/th?id=ON.6705C1EDE9CDA7EF2CE7EA64ECA5B165
         width: 700
-        height: 525
+        height: 466
   - title: "Qualcomm Snapdragon 865 Amps Performance, Cameras And AI For Flagship 5G Phones"
     excerpt: "There also one other wrinkle with this two-chip solution. Reportedly, Qualcomm is mandating that OEMs will only be ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents ..."
     publishedDateTime: 2019-12-05T14:55:00Z
@@ -227,6 +212,6 @@ related:
         width: 700
         height: 393
 
-secured: "P+q80RXWftxJtX5T+ovjo+bw1FVF0BAb+STRBBJRGpFlM4DDasjNg/m6Cy5Yu8WmslT6ojEJ4wU4c0VtkveIhgtmkfxscUc9A1Gha2NyE5gPCZoXmahf4HR+ByTR3GIf7Rlf7ZJoLy4PE523CTuJ06VEjGs30++Af0G3EsKBGUk7CLI1QzSpCOXZrG3q+LzVBZTT0H5G5MUaOU61f2Nk9QQs1jyOVfrvCz8cc5rBFEzDlyM1x5pGUYpm0KJxnBTrvYGXVEDOJzhnJb47DMlOPQ==;8wee9Zjea4PoTGyjAP1wug=="
+secured: "2WHoJsuT/BBcQD6GpmpIdwXkDCoRqIi29pdSNelxFslIi/JMcP0FLUmwV8yVD796ZDlK8ezR8obtkUhWSXkHYuEp3I0a7j95dw9/4MIamx3neQ79iFOuQBffwzbOtr7SHo+o6gF7lmaRzo6YcEEI9lQSZ+cJVyauYXmxOVG4YnzypiPuqxJv+Y4uSqQ6I8fWKPVr6mMy3iD3rw4sGngI9UmahXCoXirB8EvR7dfThTK0FUsmyMYQNFcY4ZSuFxGjusbJfoj8C1jgr1xVNDPP/A==;hGv2P4P0znwOPG07djKWzQ=="
 ---
 

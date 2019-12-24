@@ -58,21 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
         width: 700
         height: 357
-  - title: "Qualcomm's Snapdragon 865 5G, AI, camera specs bolster 2020 smartphone upgrade cycle"
-    excerpt: "For instance, devices in China, the US and Europe can use the same platform even if the 5G approaches are different. Qualcomm is also betting that combining the 5th generation Qualcomm AI Engine will bolster camera, audio, voice and gaming feature on devices when enabled with 5G. The Snapdragon 865 AI Engine includes a new Qualcomm Hexagon ..."
-    publishedDateTime: 2019-12-04T19:00:00Z
-    sourceUrl: https://www.zdnet.com/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    ampUrl: https://www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomms-snapdragon-865-5g-ai-camera-specs-bolster-2020-smartphone-upgrade-cycle/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.63C6B790F8AFE5B5DD6DF6A8AB19662A
-        width: 700
-        height: 525
   - title: "Qualcomm Snapdragon 865: What does it mean for Artificial Intelligence?"
     excerpt: "Artificial Intelligence is becoming more and more important in everyday life ... Related: Best Phones The most exciting part is probably the implications for low-power usage. The Snapdragon 865 can run always-on neural networks at low power; less than 1mW for the camera, and less than 1mA for voice multi-word wake-up. This not only means ..."
     publishedDateTime: 2019-12-04T22:14:00Z

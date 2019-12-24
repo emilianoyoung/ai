@@ -215,19 +215,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E8244AABD4652FE55B7073A866205E32
         width: 600
         height: 315
-  - title: "CBP Starts Process to Include U.S. Citizens in Facial Recognition Program"
-    excerpt: "Outbound travelers were first introduced to the facial recognition at Dulles International Airport in September 2018, though the program has expanded to more than 20 ports of entry across the country. At airports, as passengers move to board the plane ..."
-    publishedDateTime: 2019-12-04T18:14:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/cbp-starts-process-include-us-citizens-facial-recognition-program/161671/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.2F3F74B73B4D4E0F8CC416DEC15B5510
-        width: 400
-        height: 400
   - title: "Proposal to require facial screening of U.S. citizens at borders is dropped by feds"
     excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
     publishedDateTime: 2019-12-06T15:44:00Z
