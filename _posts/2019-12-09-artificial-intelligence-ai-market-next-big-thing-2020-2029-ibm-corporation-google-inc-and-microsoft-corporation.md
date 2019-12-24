@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T08:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-next-big-thing-2020-2029-ibm-corporation-google-inc-and-microsoft-corporation-2019-12-09
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Artificial intelligence (AI) Market Next Big Thing (2020-2029) | IBM Corporation, Google Inc. and Microsoft Corporation"
 
 related:
-  - title: "Chatbots Market Set for Rapid Growth During 2019 – 2023 | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
-    excerpt: "Chatbots Global Market Report 2019-2023 A chatbot is a computer program or an artificial intelligence which conducts a conversation via auditory or ... sample Companies Profiled in this report includes: Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer ..."
-    publishedDateTime: 2019-12-04T08:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/chatbots-market-set-for-rapid-growth-during-2019-2023-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Machine Learning Market Report 2019 By Key Players | Microsoft Corporation, Sap Se, Sas Institute Inc., Amazon Web Services, Inc., Bigml, Inc."
     excerpt: "Dec 05, 2019 (Reporthive Research via COMTEX) -- Chicago, United States, -- The global Machine Learning Market is extensively studied in the report with the intention of helping players to take crucial bottom-line decisions and create strategic action plans. Analysts authoring the report have provided comprehensive and reliable research studies ..."
     publishedDateTime: 2019-12-05T23:08:00Z

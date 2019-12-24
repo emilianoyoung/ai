@@ -90,19 +90,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E2131D04DFF517F06C59A5EF9AE00F69
         width: 700
         height: 366
-  - title: "Nvidia and Hackster join hands to bring the AI at the Edge Challenge"
-    excerpt: "Nvidia is one of the pacesetters in research and development in the field of robotics and artificial intelligence. Just recently ... powerful computer that allows you to run multiple neural networks in parallel) to build creative and novel projects that fall into one of the following three categories: The competitors will be vying for prizes ..."
-    publishedDateTime: 2019-12-04T08:20:00Z
-    sourceUrl: https://www.neowin.net/news/nvidia-and-hackster-join-hands-to-bring-the-ai-at-the-edge-challenge
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 71
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2019/12/1575436571_jetson_nano_family.0_story.jpg
-        width: 760
-        height: 506
   - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
     excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
     publishedDateTime: 2019-12-04T16:07:00Z

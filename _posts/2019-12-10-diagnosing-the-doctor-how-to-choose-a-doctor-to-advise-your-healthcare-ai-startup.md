@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing-the-doctor-how-to-choose-a-doctor-to-advise-your-healthcare-ai-startup/amp/
 type: article
 quality: 98
-heat: 148
+heat: 128
 published: true
 
 provider:
@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.999BAEF5D11AC131952FCD3DF58446C2
         width: 555
         height: 330
-  - title: "Ping An Good Doctor and Merck Form Strategic Collaboration to Advance Intelligent Healthcare in China"
-    excerpt: "The representative of Ping An Good Doctor echoed the importance of the partnership: \"Ping An Good Doctor will take the advantages of the healthcare ecosystem platform and rely on its unique service model of 'internet + artificial intelligence + more than 1,000 in-house physicians', combining Merck's advanced technology and high-quality ..."
-    publishedDateTime: 2019-12-04T08:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/ping-good-doctor-merck-form-080200541.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ping-good-doctor-merck-form-080200541.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ping-good-doctor-merck-form-080200541.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "Will AI replace humans in health care? Not likely, but here’s how to talk to your staff about it"
     excerpt: "Artificial intelligence may seem like just a buzzword in health care today, but the technology is poised to significantly transform how health care is delivered — and the type of work required to deliver it. A third or more of the tasks being performed by people in hospitals and health systems could be automated in the future, performed ..."
     publishedDateTime: 2019-12-05T16:06:00Z
@@ -71,15 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.791C447D9381C6D1C16D8CA87CEB65E3
         width: 700
         height: 311
-  - title: "Ping An Good Doctor and Merck KGaA, Darmstadt, Germany Form Strategic Collaboration to Advance Intelligent Healthcare in China"
-    excerpt: "The representative of Ping An Good Doctor echoed the importance of the partnership: \"Ping An Good Doctor will take the advantages of the healthcare ecosystem platform and rely on its unique service model of 'internet + artificial intelligence + more than 1,000 in-house physicians', combining Merck KGaA, Darmstadt, Germany's advanced technology ..."
-    publishedDateTime: 2019-12-04T08:09:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/04/9063808.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Ping An Good Doctor and Merck KGaA, Darmstadt, Germany Form Strategic Collaboration to Advance Intelligent Healthcare in China"
     excerpt: "The representative of Ping An Good Doctor echoed the importance of the partnership: \"Ping An Good Doctor will take the advantages of the healthcare ecosystem platform and rely on its unique service model of 'internet + artificial intelligence + more than 1,000 in-house physicians', combining Merck KGaA, Darmstadt, Germany's advanced technology ..."
     publishedDateTime: 2019-12-05T00:22:00Z

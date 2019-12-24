@@ -24,6 +24,19 @@ images:
     title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
 
 related:
+  - title: "Farmers' kids win India's largest AI, Blockchain hackathon"
+    excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"We were amazed by the range and depth of submissions and the sheer quality of talent on display. It also underscores the talent ..."
+    publishedDateTime: 2019-12-24T09:46:00Z
+    sourceUrl: https://www.moneylife.in/article/farmers-kids-win-indias-largest-ai-blockchain-hackathon/58981.html
+    type: article
+    provider:
+      name: Moneylife
+      domain: moneylife.in
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.71D789837F670A3C2C8F0A41B8C600C0
+        width: 700
+        height: 302
   - title: "Christmas Lectures presenter Dr Hannah Fry on pigeons, AI and the awesome power of maths"
     excerpt: "Dr Hannah Fry is the presenter of this year's Royal Institution Christmas Lectures series ‘Secret & Lies - The Hidden Power of Maths’ (Photo: Paul Wilkinson) Driverless cars, robot butlers and reusable rockets – if the big inventions of the past decade and the artificial intelligence developed to create them have taught us anything ..."
     publishedDateTime: 2019-12-23T17:19:00Z

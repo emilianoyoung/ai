@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. Hosted jointly by the southern mainland city of Shenzhen and its neighbor Hong Kong, the Bi-City ..."
-publishedDateTime: 2019-12-24T06:09:00Z
-sourceUrl: https://www.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
+excerpt: "It indicates a way to close an interaction, or dismiss a notification. By David KIRTON SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on ..."
+publishedDateTime: 2019-12-24T09:14:00Z
+sourceUrl: https://www.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
+ampUrl: https://amp.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
+cdnAmpUrl: https://amp-insider-com.cdn.ampproject.org/c/s/amp.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: insider
+  domain: insider.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.FACEDF6982D9BBBCECD4B481499EA890
-    width: 700
-    height: 495
-    title: "Exhibition in China reflects on loss of anonymity to recognition technology"
 
 related:
   - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
@@ -96,6 +92,6 @@ related:
         width: 874
         height: 355
 
-secured: "3u9pqJNleiFLnZmcZYikUdPs/4TfpR4HvzkRJ+SKSAXL7I02DgVCadxMEF1OZZZmswaqJcF/pSj3WmdABkDhRP8WdYSGOdIFVvLX6lS1BCdLhD1URU3P0Qc4zEFB5Sq4Xl2d0tpQgNVF0VKQ5VLYC4DMEaRN5wu1VxFDkj0CRcQ/L9YgM1XkpY7bqQXJNglkHmlKLZQXtCR1W3qZK65Dy/xxkiY3AGIuhs2T2lcbjxYLtWCWJJXe5eIiVK/qHqo2HWOkWbhG1Irb9O8AB3OWwA==;J99bplcvSCN2br4l74HiQA=="
+secured: "7v1SVN4mYigo2Vm2WBy8fT3PGIT8d9PF4SbFAhykvdHbkbg7fxziIb66pUp3KNdjyK7YJzGJSRo+/wvcahzKCAYodcwNIIPPIYuWSikr9AVfJC5290GivNzJF/h7Qo72M93V1/KsVipTa0mWIBQhG+ZvxNunLbVGw0nwwuwzseonosGMh4HwJ/2N53mvh6YyWXrF6S3HsVCe02PwzEbJCSkwi62SNJmi+YLrWoVOtnNO+s7gmDGN7aNMWzB1+RbMGMr0s6E0Ll4nHWw18NN1+w==;ZGB7qZGSRTG/hukaC/m/xw=="
 ---
 

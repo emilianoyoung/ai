@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-ne
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,23 @@ images:
     width: 600
     height: 315
     title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+
+related:
+  - title: "Amazon Makes Machine Learning More Accessible To Developers"
+    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
+    publishedDateTime: 2019-12-24T09:02:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
+        width: 600
+        height: 315
 
 secured: "Rm6phQBjvhMXrYo6qmeSQMr5205NuG/E+1ToC3UJud+PjMotvQVfMNgF86lvy4ElcTLjChrfAWBcsabMfJztN3el4+YfnpMN+3poqFtQYTGkcnn9T+I5UVojFCCDL9M6w08cXSPPKrbPKlQoiWFGqyHT4OC5J9+ZZGM+UXDs9q9i8vgEap5kIZabogHUu2jURkb6ESPOj2m4BOo/NdAP6xNQUxO2gRYomQEV9BMAkMvskBXcJAcazoyW8M0wpckaj8/EErfolCjlT2ydVC4Hjw==;EIyFBxaEJHDFNqgQsub61Q=="
 ---

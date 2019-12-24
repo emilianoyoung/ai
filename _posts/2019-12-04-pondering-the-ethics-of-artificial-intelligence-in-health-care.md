@@ -101,19 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
         width: 700
         height: 366
-  - title: "Nvidia and Hackster join hands to bring the AI at the Edge Challenge"
-    excerpt: "Nvidia is one of the pacesetters in research and development in the field of robotics and artificial intelligence. Just recently ... powerful computer that allows you to run multiple neural networks in parallel) to build creative and novel projects that fall into one of the following three categories: The competitors will be vying for prizes ..."
-    publishedDateTime: 2019-12-04T08:20:00Z
-    sourceUrl: https://www.neowin.net/news/nvidia-and-hackster-join-hands-to-bring-the-ai-at-the-edge-challenge
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 71
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2019/12/1575436571_jetson_nano_family.0_story.jpg
-        width: 760
-        height: 506
   - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
     excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
     publishedDateTime: 2019-12-04T15:05:00Z

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
-excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
-publishedDateTime: 2019-12-16T01:08:00Z
-sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
-ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
+excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
+publishedDateTime: 2019-12-24T08:48:00Z
+sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
 type: article
-quality: 74
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: New Atlas
-  domain: newatlas.com
-  images:
-    - url: /assets/images/organizations/newatlas.com-50x50.jpg
-      width: 50
-      height: 50
+  name: News18 on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
-    width: 700
-    height: 367
-    title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
+  - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
+    width: 600
+    height: 315
+    title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
 
 related:
   - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
@@ -41,6 +35,21 @@ related:
     quality: 114
     images:
       - url: https://www.bing.com/th?id=ON.02E53F182B01F0DCF14F4A9C089D25DA
+        width: 700
+        height: 367
+  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
+    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
+    publishedDateTime: 2019-12-16T01:08:00Z
+    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
+    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
         width: 700
         height: 367
   - title: "GM requests green light to ditch steering wheel in its self-driving cars"
@@ -172,19 +181,6 @@ related:
       - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
         width: 700
         height: 367
-  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
-    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
-    publishedDateTime: 2019-12-24T08:48:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
-    type: article
-    provider:
-      name: News18 on MSN.com
-      domain: msn.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
-        width: 600
-        height: 315
   - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
     excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
     publishedDateTime: 2019-12-22T00:02:00Z
@@ -217,6 +213,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "zG7XfioP+wDFlyMR/Ej6JvJC2mLBV3+0WOtDK0ulP0cuCcBVASVu6PH8SLvMGLr0sJGOI1pg/hcqmeD68Vy6nAKk0XuNiiGaymlRd1BGOT8sr1zWuxhTOrgcE/pXTcISCnn40FAWLXRv5LhDtlTfdhXEOurhp4bC4simtmJ0CV9hZ2zljiYhfklEEUvTuy1dWaMuDE4q7UyUVAF6w72/SnxP4aiPB0BIZV2klbJJ4alcHlk3MeuwbfpdKuOzhI1ltYxQ67Nifpw1IVMa07N8BA==;LKyiQrXSbhZrZmsx/KoTrQ=="
+secured: "9aEjlZdMIc7uU+JNAozto+gZV/oJiVShQDnHdCguqK9iaNTS3OTadnJIFPLwgY5zzly3eJdhk+4w6BlahZzF3SgeuFOWqpb1Z7Fdwb0UdYT52e9TLlPVpxsudm+gynDrytVPH4UWW0Y7QPHVOxeQgheonX7EnwgvwOPnuahm6msqqtn09JoOaYr4rSyXP3hZl4N8fyqsie4LHdGzKGBqXICgx5DR1MHWTfVft1N4Qv0+1ZbMMeaHCv4cPA6+WGrejphdH2Gc8PI+MniQG9QqAA==;sMQPeRFvT152u6/OoBDkaA=="
 ---
 

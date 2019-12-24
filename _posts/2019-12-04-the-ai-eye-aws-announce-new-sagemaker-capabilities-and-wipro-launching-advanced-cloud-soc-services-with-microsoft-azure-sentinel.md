@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
 quality: 102
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -57,19 +57,6 @@ related:
       - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
         width: 932
         height: 537
-  - title: "AWS announces new AI services and quantum computing initiatives"
-    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning experience required, and three key initiatives as a part of the company's plans to help ..."
-    publishedDateTime: 2019-12-04T08:34:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.220F7A9D783AB823B016E1D4E0B3F345
-        width: 336
-        height: 224
   - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
     excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
     publishedDateTime: 2019-12-11T15:17:00Z

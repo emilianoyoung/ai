@@ -181,6 +181,19 @@ related:
       - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
         width: 700
         height: 367
+  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
+    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
+    publishedDateTime: 2019-12-24T08:48:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
+        width: 600
+        height: 315
   - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
     excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
     publishedDateTime: 2019-12-20T23:43:00Z

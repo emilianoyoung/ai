@@ -18,20 +18,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
-    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
-    publishedDateTime: 2019-12-03T20:24:00Z
-    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
+    publishedDateTime: 2019-12-03T18:32:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 45
+      name: Yahoo!
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
-        width: 1000
-        height: 667
+      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
+        width: 5184
+        height: 3456
 
-secured: "op6t2Lv8TBdKWqLi2pa9ZlPqO1ui6W177C4DgzwsN9Qzrex7Xd7O+1l+APFBDeFu1pa7KmB80aSm2KiBYscglx5Ya8PtOGeldbgW7FvGzP7EPkScYTR3KalE1NAYydsmkq2Ip3R7GyL8iklRDjtRH2HGvsttfV6CEVHRtlGCAw8KU+BHyiwW2lVCv6dNwOTqSthnIaUcZITD8Cor6tt/H9Ryq6fwq/QLGf/MFVwVsJoh9E7T1YFEk8L58FEp/FF0Cpi8mktXx3EKyEE32PTNgA==;3Mb2yeo6P4xPZaxi2bl0MA=="
+secured: "uJa4NJCEuZo4xJbJPQiRCFHieZABnhWrq8Xb6d7VJ7cg2ICbKdtV2ojTyBkLWXXhKLMGboSMWABUm3huXVku3VdrcYScoi4D6B0KJvZ7on6MF4rwoLwViycQYX5Rkz72sINx3juRaTwRjnHYa91yt9wvYZ4bZCgJTBHQ4NDN91EkOKX59YNF9edTx/2KKGtYnxPNJb15fzh9CFS2a93uSQsNBjBfQr8DBt+cpyeTOMzWZMSiNx3A2BsI+oq+YC/6GjGyePmWQazjr2ukaFPzaw==;bOTQaOR2078k8HQ83AaKuw=="
 ---
 

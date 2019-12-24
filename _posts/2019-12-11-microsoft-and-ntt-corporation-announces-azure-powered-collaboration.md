@@ -65,19 +65,6 @@ related:
       - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
         width: 932
         height: 537
-  - title: "AWS announces new AI services and quantum computing initiatives"
-    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning experience required, and three key initiatives as a part of the company's plans to help ..."
-    publishedDateTime: 2019-12-04T08:34:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.220F7A9D783AB823B016E1D4E0B3F345
-        width: 336
-        height: 224
   - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
     excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
     publishedDateTime: 2019-12-06T18:32:00Z
