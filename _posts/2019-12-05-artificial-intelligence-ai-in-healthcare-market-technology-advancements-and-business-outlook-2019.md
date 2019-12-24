@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T04:40:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-technology-advancements-and-business-outlook-2019-2019-12-05
 type: article
 quality: 85
-heat: 405
+heat: 395
 published: true
 
 provider:
@@ -295,19 +295,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Education Sector Market Technology Advancements and Business Outlook 2019"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The report Artificial Intelligence in the Education Sector Market provides a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and supply data (as applicable). The research ..."
-    publishedDateTime: 2019-12-04T03:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-technology-advancements-and-business-outlook-2019-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

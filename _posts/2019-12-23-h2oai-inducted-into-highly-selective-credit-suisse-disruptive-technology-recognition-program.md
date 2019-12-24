@@ -3,9 +3,11 @@ category: news
 title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
 excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure, and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Nationwide Insurance, Walgreens, Wells Fargo and MarketAxess. H2O.ai believes in AI4Good with support for wildlife conservation and AI for academics."
 publishedDateTime: 2019-12-23T16:06:00Z
-sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000531.html
+sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000219.html
+ampUrl: https://finance.yahoo.com/amphtml/news/h2o-ai-inducted-highly-selective-160000219.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/h2o-ai-inducted-highly-selective-160000219.html
 type: article
-quality: 28
+quality: 48
 heat: -1
 published: false
 
@@ -79,6 +81,6 @@ related:
         width: 598
         height: 315
 
-secured: "dFhkCgS9MRYSwpFCYBr+0wWRVfrpQ/ZP7zUL5an4sO63G6Gm8CNrbow08jRNCxxR6STwhFyuAbAfflfQY3doBNUvaw4obI6/q8IMadrqOfaixbm6rx7nd6jKJXT+qkpYw6zzLuDnYqcW5KlJ01Ycbvjatd9sgk8rEzIMC6DJKzE2MrqhielaTOH5JhldEyrVjZL1xQwka9W/gNnmTjKVFGErmJfZa7xGzX6McNLzP2DSITy+eTNyix6serYKtmkOsXMEYzJE5PruBkwTph/sDA==;p6QDGgupFOvi0O/1H7I5hA=="
+secured: "7RNxzz0XXOLb9ZbP4ANsXnE8DLa0NFQreT2d/Rg2eZroqNcdM9ggBNibuqmePfky6NCriWHsBj7Ux+SvQ8aLqSUvb1Oo2tM7OfDBBhtCVeydbEzuKoyta4NzPvtW6VjiP9WSSmIAwBfkQGc5bMMASlAfuW2m6FAez1XIcsFBWSNclJfr+WbXsqlTLEnNkupTETRVmDgqBXB9zQDPman/Ad1X+/xbl/pY4SFHYkY00VJGSAXMsuEQ25EM+/OY41GhqxS/oXiQSCM4zO9UKNuuyw==;s6lOxx23zRvYhoaT35Vgzg=="
 ---
 

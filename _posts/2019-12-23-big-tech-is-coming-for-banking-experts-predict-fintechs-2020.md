@@ -3,21 +3,15 @@ category: news
 title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
 publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -29,6 +23,6 @@ images:
     height: 466
     title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 
-secured: "SKZ59jwb31FQ67XPwbXJoerGZWxJdHikN+ZfSjb2Pz6cKIpovL7TGLlEW8C1UN941JPws9xPDovBz5dMkwfBPDPtXqJLGezv/yoHTt45ap/rDZ0un6rthpMHnMDHjdOXSBmZ8wJXaXqHdLUzkRzrCiP+jxgN2FdkBC3Cin3VxJfZ9kHtXo04OR7vUS7xsSlCBLt7RUSfx7z5Ayo/9sO5J3YLh3Uu1Pxkp/AP88bI48buffeBci0kvXyEU8g22+IexiCkw33/oB0IlmOFqYQPow==;Bt6sQd2aBpRQHV1+zH5LZw=="
+secured: "8YfgYXszPTOLfNQ8XLC5sIkCBMZpGyhgobe/FtD1IpX5wioeVyCcjCo9fwHvwcgqzg0T8CCv59ejkXtOlmkfrtugSULKsVbwcJp1eA1xYL7pYMB45u+gh/rdewi5q4IJcnybQDVh4x+64xNssNTS40Bi8e01cXfinA7vZe23wK3FKJomBXfp9jHTzqff53t0k9EfN9t5Armhz3DhhRfn/g2DNOJZa1FRs6nXPteK8o4DAhgyyPrKl8+iaAtTRbmp3T3DAK1w0cP8EpHbKDEm0Q==;ZH79gnj+l2qEUU+kvkXBZg=="
 ---
 

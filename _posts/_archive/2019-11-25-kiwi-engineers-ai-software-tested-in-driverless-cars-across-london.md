@@ -23,6 +23,6 @@ images:
     height: 800
     title: "Kiwi engineer's AI software tested in driverless cars across London"
 
-secured: "yIDjiGgQl+YC1XTwzJi1LJxSAfDd8RRpBDpnTj3Egwm/3HP4lZarVyVv0H+uAEJriu+J40VpQmSnp56RKD9GLwEmgn9E5av5xwccqwqVku0vceU7xA5YTcl2L5bHz6ZqgDqmdHZ6Vp0igLUwyOgGiIm2x/FYGmWjQBsz1dTguG7+lKrQWIuNbyT38XyuxZYr+IuIKfiab4vCwRx28qzgwkHAbTithAO5UkImV3l+tp/sO1o1nXiij1B0k9bOm6kDyUirFiYKxWp2YbYXBFXFeg==;O0sF1lFkrtyoZySgzmcJ2Q=="
+secured: "GXnNuWtxqrHVBVC84dOP61wfS2dIh4hFQL79jgO7h+IdFQTi03FeCReksCeBPGNO50rK5a1L5V/XNEroCQhpm1cMhsRuhuoraST/jyqXdSJ6xKlFslS1UF9mwXfMvj/5aOn7Zke2lfIYxHlX6lri7RqMu3lxK9bNE6fGLzLSQHuuyZhBEzPa3PmK3i4yXaPb662N7Ps8w+CKMemYVBYGAbg1qk4dXlnDJnHABJmEdnJbz3HNNKHjAFLCMvWmERj0axhOmAjX2EfgemAcIEd/UA==;a1VY1pWfE6Yh2Vk7qebkQA=="
 ---
 
