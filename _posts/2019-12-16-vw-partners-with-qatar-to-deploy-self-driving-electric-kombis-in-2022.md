@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.02E53F182B01F0DCF14F4A9C089D25DA
         width: 700
         height: 367
-  - title: "General Motors pushes for self-driving car tests sans steering wheel"
-    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
-    publishedDateTime: 2019-12-23T18:36:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
-    ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
-        width: 700
-        height: 367
   - title: "GM requests green light to ditch steering wheel in its self-driving cars"
     excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
     publishedDateTime: 2019-12-24T04:40:00Z
@@ -174,6 +159,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
         width: 700
         height: 393
+  - title: "General Motors pushes for self-driving car tests sans steering wheel"
+    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
+    publishedDateTime: 2019-12-23T18:40:02Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/general-motors-pushes-for-self-driving-car-tests-sans-steering-wheel/ar-BBYhprm
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
+        width: 700
+        height: 367
   - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
     excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
     publishedDateTime: 2019-12-24T08:48:00Z

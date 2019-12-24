@@ -53,19 +53,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Insight Series Market 2018-2023 |Recent Trends, Size and Share Analysis"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The application of Artificial Intelligence (AI) is growing exponentially. This rapid expansion of AI software development, therefore, calls for a focused effort to build new hardware that can process the emerging AI algorithms. Future of AI hardware will be defined by biologically-inspired neuromorphic ..."
-    publishedDateTime: 2019-12-04T11:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2018-2023-recent-trends-size-and-share-analysis-2019-12-04?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
     excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
     publishedDateTime: 2019-12-09T18:49:00Z

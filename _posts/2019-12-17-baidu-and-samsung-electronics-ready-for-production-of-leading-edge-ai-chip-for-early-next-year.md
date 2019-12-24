@@ -2,25 +2,29 @@
 category: news
 title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-publishedDateTime: 2019-12-17T23:45:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191217005832/en/Baidu-Samsung-Electronics-Ready-Production-Leading-Edge-AI
+publishedDateTime: 2019-12-17T22:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 72
+heat: 132
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://mms.businesswire.com/media/20191217005832/en/763619/23/Baidu_Kunlun_chip_02.jpg
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
-    height: 627
+    height: 630
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
@@ -97,6 +101,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "eb1WCjFOZje6cZGFAyWEl6t7t2wkEucnh1K2n4ScGKtTTGsDskppf4tIewdOhm1fpYpI1nHnwRcib3mpyv+LLyBiNYQqQAvl9eFBhxEKwWCC/FelgCuLaL0nNuBhrUdEnEGCeO0FATaKGB7dRaIQKpNKI12yj9mGqVQ9F88Un0ph8FO/I1d9nhOe9Bclrq1LJngkv1AoALyDXjbLQ9z00MDk4YH5EPapjaTFP5o6lXEXLiBcGdtqzBMIElRh84rC4+swdJtLFvGRKw1UXbNLiw==;cqkzbSYXIKKf4i1gzgxj2w=="
+secured: "zwIpY8Hxe/M17iRtDI6SG3m+cKJHpuNlt5KlHs+P+UrKhF8QE9urVhg7wRTiGRXQRUjwYuDgX06PB7ZwZW+8z962VwMegWKgel4CeNMjbN5gICEpzsQqx201SvIl9DqYo5Yzddz9+Dz+AKSQZxObx+T0TopoiHNLek9IRKbHoPxOtuBr54kpYLYBAgYmnYdgdZbDIbGQCcROfx1CqKD6YUQnlaTzOPWmIw7tfBLsFypAnRKgaXRAJRWX572ma6vpgsTtU3IN0UgRCy70luF/SA==;P/yUmTkZ9VcEW9JdAHek3w=="
 ---
 

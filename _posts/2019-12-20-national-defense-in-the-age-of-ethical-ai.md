@@ -42,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
         width: 700
         height: 525
+  - title: "The United States Needs a Strategy for Artificial Intelligence"
+    excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
+    publishedDateTime: 2019-12-24T12:40:00Z
+    sourceUrl: https://foreignpolicy.com/2019/12/24/national-artificial-intelligence-strategy-united-states-fall-behind-china/
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
+        width: 700
+        height: 466
 
 secured: "xDeZMylV60aaDl6qEmoZWPWzggUP8iGhNlmp0DfCCS5oi8btC2if4hj2P7p2SeQPT4myWTAK0b5eMBkoZlnMDjD330mqeuQy16mif4GPN3DTuSvn7EoOqfYp8a0D1zQk3ZW/gVDUAUB1nfPsBFRXbgL1T2rfjXYajyZS4ErkkukyvA+acb9PCwXhv++7/dLdlzBdEHW/D03G1LGycYW3EovUM/n+3S2CGSwzxxoQK2nLOmdcomb20yZUfpaybytTON690rwqYIddzkzU+6K5WA==;MsyyiszSUkCdcx0GLDLwxQ=="
 ---

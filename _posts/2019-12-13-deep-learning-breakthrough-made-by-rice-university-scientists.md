@@ -108,19 +108,6 @@ related:
       - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
         width: 800
         height: 500
-  - title: "Going meta: learning algorithms and the self-supervised machine with Dr. Philip Bachman"
-    excerpt: "Deep learning methodologies like supervised learning have been very successful in training machines to make predictions about the world. But because they’re so dependent upon large amounts of human-annotated data, they’ve been difficult to scale. Dr. Phil Bachman, a researcher at MSR Montreal, would like to change that, and he’s working ..."
-    publishedDateTime: 2019-12-04T11:26:00Z
-    sourceUrl: https://www.microsoft.com/en-us/research/blog/going-meta-learning-algorithms-and-the-self-supervised-machine-with-dr-philip-bachman/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.BE2E02F14C993276709E7DD42793D530
-        width: 700
-        height: 365
 
 secured: "E5CZU7acVkPQ5iIfTJye2yBqbLfusOIPBdGgc6eVeTSFYIrZ9rMC+YCtCEoCkeih5wkNRJObVFkuLtkRSzpHanQ5bzgMbHxT9AlKN4BJRssx6styESVwohTbi3tBeIxax5WpcZcGEMgOdQAN/3IzG7EZjedOh3ngrKuP8F0tNDhTJiviWmCollegyjdBPSJquVtun6YwqeTZEiM9okamGhxsU7mp9Pd5x2tcHTxuKAFZ/mVjd3eLnmJOKukiQYkfPLfLPl+B1huq45NFHbr3xA==;wZ/xXV3y/r+oAC2hUNXsVQ=="
 ---

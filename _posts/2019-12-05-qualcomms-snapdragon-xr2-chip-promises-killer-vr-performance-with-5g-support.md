@@ -142,21 +142,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F314D8502E4F1008C539FACAB80F90CE
         width: 700
         height: 389
-  - title: "Qualcomm Snapdragon 865 SoC goes official: New chip to power 2020 flagship phones"
-    excerpt: "Interestingly enough, Qualcomm’s newer chip will need a separate modem to enable 5G – similar to the X55 modem ... Qualcomm has said that the 765/765G comes with AI processing capabilities and select Qualcomm Snapdragon Elite Gaming experiences. The X55 modem supports SA/NSA networks, mmWave and Sub-6 GHz 5G networks with better bandwidth ..."
-    publishedDateTime: 2019-12-04T11:22:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-snapdragon-865-soc-goes-official-new-chip-to-power-2020-flagship-phones/story-7wqWdMg2BwUDVEAaLdo1QO.html
-    ampUrl: https://m.hindustantimes.com/tech/qualcomm-snapdragon-865-soc-goes-official-new-chip-to-power-2020-flagship-phones/story-7wqWdMg2BwUDVEAaLdo1QO_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-snapdragon-865-soc-goes-official-new-chip-to-power-2020-flagship-phones/story-7wqWdMg2BwUDVEAaLdo1QO_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.0FF1F7780E060F79A0FB0CA0BF4B032D
-        width: 700
-        height: 393
 
 secured: "soet1OU5DgZ+jFmOZ7rgwigrIybvBS0phfbSCh9RsR8HNBtBJciX+0F2tEPZ9L0pCAmsQg+uPEtirqFR2dVmQXuRhwBFFJfMrx3S5oYnMzhkVAHfKm7cNWVeJSRgBRBanFIVfN+tOsf95Szl0ogK7D0ElvF9139UCgB5Xsf/aDItPVlqGpT5tWvcKpZw1Y+pZqpDQ72ze/neFEOSGZgb+wRY5VeW8QP3Ct3bW6gFefzk+FuDt+HQJefsqnxgMG1kX7itF9ddymAyLReQrUMAmw==;LeEhATEvg9Fbc/7k/wcBlg=="
 ---

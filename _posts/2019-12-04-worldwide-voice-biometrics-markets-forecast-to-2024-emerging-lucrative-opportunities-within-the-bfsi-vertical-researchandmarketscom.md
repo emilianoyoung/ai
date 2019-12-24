@@ -26,17 +26,6 @@ images:
 related:
   - title: "Global Voice Biometrics Market Report, 2019-2024 - Security Concerns Pertaining to Third Party (Cloud) Data Storage Hampers Growth"
     excerpt: "This factor has led to the rapid growth of real-time voice recognition-based biometric solutions. Voice recognition is being extensively used in Banks and Call Centers to prevent frauds. Several players like Verint have developed solutions that use voice biometrics to verify callers in real-time passively, without the use of any password making ..."
-    publishedDateTime: 2019-12-04T11:58:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14928322/global-voice-biometrics-market-report-2019-2024-security-concerns-pertaining-to-third-party-cloud-
-    ampUrl: https://amp.benzinga.com/amp/content/14928322
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14928322
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 9
-  - title: "Global Voice Biometrics Market Report, 2019-2024 - Security Concerns Pertaining to Third Party (Cloud) Data Storage Hampers Growth"
-    excerpt: "This factor has led to the rapid growth of real-time voice recognition-based biometric solutions. Voice recognition is being extensively used in Banks and Call Centers to prevent frauds. Several players like Verint have developed solutions that use voice biometrics to verify callers in real-time passively, without the use of any password making ..."
     publishedDateTime: 2019-12-05T00:41:00Z
     sourceUrl: https://finance.yahoo.com/news/global-voice-biometrics-market-report-125852239.html
     ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-biometrics-market-report-125852239.html

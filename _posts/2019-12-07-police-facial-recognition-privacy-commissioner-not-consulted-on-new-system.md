@@ -241,19 +241,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15C70DE6589F2814DBB9CFA98FF6DFD2
         width: 600
         height: 350
-  - title: "Why I Opt Out of Facial Recognition"
-    excerpt: "To get it delivered daily to your in-box, sign up here. When Fortune employees moved into a new office building in Manhattan a few months ago, we had the option to sign up for facial recognition scanning. This meant we could access the premises without showing an authorized ID badge. I ruminated on the convenience for some time. Imagine ..."
-    publishedDateTime: 2019-12-04T11:56:03Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/why-i-opt-out-of-facial-recognition/ar-BBXLWuY
-    type: article
-    provider:
-      name: Fortune on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.43C8CCC66AA3FA252081FF4407A20BD3
-        width: 700
-        height: 367
   - title: "CBP walks back facial recognition for citizens"
     excerpt: "The proposed rule drew outrage from privacy groups as well as members of Congress, who cast the move as a dramatic expansion of the use of facial recognition and biometric scanning programs at Department of Homeland Security and the federal government writ large. Law enforcement agencies like the FBI and DHS component agencies like the ..."
     publishedDateTime: 2019-12-05T22:48:00Z

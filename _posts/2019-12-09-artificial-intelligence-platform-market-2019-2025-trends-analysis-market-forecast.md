@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T02:33:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2019---2025-trends-analysis-market-forecast-2019-12-08
 type: article
 quality: 62
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Insight Series Market 2018-2023 |Recent Trends, Size and Share Analysis"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The application of Artificial Intelligence (AI) is growing exponentially. This rapid expansion of AI software development, therefore, calls for a focused effort to build new hardware that can process the emerging AI algorithms. Future of AI hardware will be defined by biologically-inspired neuromorphic ..."
-    publishedDateTime: 2019-12-04T11:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2018-2023-recent-trends-size-and-share-analysis-2019-12-04?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

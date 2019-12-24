@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
         width: 700
         height: 367
-  - title: "Microsoft Seeing AI can now understand five more languages"
-    excerpt: "Some of us might already be tired of hearing news about this or that AI app or assistant that’s able to identify objects or scenes or even read text off signs. We take such advances in computer vision and AI for granted mostly because we can actually see those things. That doesn’t come naturally to people with visual impairments ..."
-    publishedDateTime: 2019-12-04T11:07:00Z
-    sourceUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/
-    ampUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.BD2279E868949BA09F61A5B0AAF91D8B
-        width: 700
-        height: 437
   - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
     excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
     publishedDateTime: 2019-12-10T18:41:00Z
@@ -75,21 +60,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "Spotting drivers on their phone is just the tip of the iceberg for AI-enabled cameras"
-    excerpt: "The state’s transport agency said it had integrated machine vision into roadside cameras to spot offenders. The AI automatically flags suspects, humans confirm what’s going on, and a warning letter is sent out to the driver. “It’s a system to change the culture,” the assistant police commissioner of New South Wales, Michael Corboy ..."
-    publishedDateTime: 2019-12-04T11:59:00Z
-    sourceUrl: https://www.theverge.com/2019/12/4/20994959/ai-automated-surveillance-australia-drivers-texting
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/4/20994959/ai-automated-surveillance-australia-drivers-texting
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/4/20994959/ai-automated-surveillance-australia-drivers-texting
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: https://www.bing.com/th?id=ON.E2131D04DFF517F06C59A5EF9AE00F69
-        width: 700
-        height: 366
   - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
     excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
     publishedDateTime: 2019-12-04T16:07:00Z

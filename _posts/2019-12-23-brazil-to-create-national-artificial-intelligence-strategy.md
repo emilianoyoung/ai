@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artif
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
         width: 700
         height: 424
+  - title: "The United States Needs a Strategy for Artificial Intelligence"
+    excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
+    publishedDateTime: 2019-12-24T12:40:00Z
+    sourceUrl: https://foreignpolicy.com/2019/12/24/national-artificial-intelligence-strategy-united-states-fall-behind-china/
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
+        width: 700
+        height: 466
 
 secured: "zEiPmcbnbpb8jAMS3MUQy72U2y9zRGO/4RBQQTCUzt82CIwnZ1NrIJEPvjQ6wMg/RWG3PfkgldNZa/8tKtMXwk2UX7uzVZwNMoQIBx2GtDNmh07ksvdqt6aQGND7rn3kn3L4w3bBhvq3xhWXtNY2KmBt4GxO560kp18FtCPA2y48btZGlAqRYb3KOpnz0wFn/KUz54/sAXImZak1bkIK0G6730PQULbhcnwDQ3ULyUT5dRp1pStC6A3hr12DVbqXPa8WNrAELnSVf7SFulqAFA==;s2fAtJEb4Be1ViNh3g53zQ=="
 ---

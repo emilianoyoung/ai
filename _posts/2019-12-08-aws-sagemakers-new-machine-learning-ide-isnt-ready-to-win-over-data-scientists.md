@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 118
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -110,19 +110,6 @@ related:
       - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
         width: 800
         height: 500
-  - title: "Going meta: learning algorithms and the self-supervised machine with Dr. Philip Bachman"
-    excerpt: "Deep learning methodologies like supervised learning have been very successful in training machines to make predictions about the world. But because they’re so dependent upon large amounts of human-annotated data, they’ve been difficult to scale. Dr. Phil Bachman, a researcher at MSR Montreal, would like to change that, and he’s working ..."
-    publishedDateTime: 2019-12-04T11:26:00Z
-    sourceUrl: https://www.microsoft.com/en-us/research/blog/going-meta-learning-algorithms-and-the-self-supervised-machine-with-dr-philip-bachman/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.BE2E02F14C993276709E7DD42793D530
-        width: 700
-        height: 365
 
 secured: "vOKzyvNwZ6x9cEQQke3ucBOj9LnIjETStG/ej76T6O6bTV2KaQJKnQz4VxX/I5dQ5lZRDabCxfwtn1D1oh4+k85OUyossq93xkpSEUfpakXawXyw1yAXIW1zrzwwU/kStaG/1Fq8PpgG6NPX30i1cJtStmq6rpIXZfI4963LF2Qx4UkIuiNSABjepmypwYZW5YyVR+oPNOrBpxuru9qjurLwbuYdOLql2XFz2k8sIOwZCvuShglinMe6//up7WHoH1CrxV4ywV8YgHjCAHDlBg==;asfbKcAca9CwqgkoB7tYPg=="
 ---

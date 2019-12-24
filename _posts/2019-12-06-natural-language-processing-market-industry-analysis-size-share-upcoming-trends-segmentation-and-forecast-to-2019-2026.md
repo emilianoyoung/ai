@@ -80,19 +80,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Social Media Market Trends, Demand, Benefits, Size, Share, Key Players, Future Prospects and Industry Analysis"
-    excerpt: "Reports that review the information and communication technology industry has been presented by Market Research Future, which produces reports on industry ... The eminent competitors in the AI in social media market are Facebook (US), AWS (US), Baidu (China), IBM (US), Adobe Systems (US), Google (US), Salesforce (US), Snap (US), Clarabridge ..."
-    publishedDateTime: 2019-12-04T11:09:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-trends-demand-benefits-size-share-key-players-future-prospects-and-industry-analysis-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
     excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
     publishedDateTime: 2019-12-05T12:06:00Z
