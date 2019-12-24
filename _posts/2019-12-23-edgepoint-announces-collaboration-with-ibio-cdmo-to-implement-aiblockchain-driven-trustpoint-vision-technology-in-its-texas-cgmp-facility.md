@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T13:30:00Z
 sourceUrl: https://www.marketwatch.com/press-release/edgepoint-announces-collaboration-with-ibio-cdmo-to-implement-aiblockchain-driven-trustpoint-vision-technology-in-its-texas-cgmp-facility-2019-12-23-91843024
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "iBio Announces Collaboration with EdgePoint AI for Next Gen Quality in Biologics Manufacturing"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- iBio, Inc. (NYSE AMERICAN:IBIO) today announced that it has entered into a collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc. (OTCQB:MATN), to deploy EdgePoint’s proprietary artificial intelligence ... cell and gene therapy, small molecule manufacturing, bulk drug substance ..."
-    publishedDateTime: 2019-12-23T14:27:00Z
-    sourceUrl: https://apnews.com/Globe Newswire/8202d23a810bbfe5fcdf59d3811252c3
+    excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- iBio, Inc. IBIO, -8.89% today announced that it has entered into a collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc. (otcqb:MATN), to deploy EdgePoint's proprietary artificial intelligence (\"AI ... cell and gene therapy, small molecule manufacturing, bulk drug ..."
+    publishedDateTime: 2019-12-23T12:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ibio-announces-collaboration-with-edgepoint-ai-for-next-gen-quality-in-biologics-manufacturing-2019-12-23
     type: article
     provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "gRxweWDoyELLxR5doNn5vIp7dCXDOkuV+w4W+IiwxDtTc6AG7LbXdpIBf5TAlHq+k50OM51xBN/c0jXeZE9M/yoKWSt4Cs5q0SoHJALo9KWrx2n/k+VZNnwfEOdKyiWB3pbifzUSK1pxlOF3E1bUli1wzA3Ga+VsKWzZsT/zFyzowAIvsZMosqnVgYN6ZPJqniqScJWhfkdn//MEbVraqyCX5I32EkyoDL0ykFeDtW1aNH6Jx94kdb18WeXbN6xpQ1/39BshyBJErHJ9e/zniA==;0ncU96qs2v1UQJGUWVLptA=="
 ---

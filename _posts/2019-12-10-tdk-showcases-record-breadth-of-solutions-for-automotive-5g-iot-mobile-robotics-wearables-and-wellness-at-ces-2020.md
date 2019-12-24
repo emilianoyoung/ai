@@ -18,19 +18,19 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "KYOCERA to Showcase AI, 5G, and Mobility Technologies at CES 2020"
-    excerpt: "Many innovations will be shown in the U.S. for the first time including new AI and camera-LIDAR fusion sensors for ADAS and autonomous driving; a rugged 5G smartphone, router, and tablet; a smart carbohydrate monitoring system; clean energy innovations, and more. Kyocera’s booth will be located in the AI & Robotics marketplace, Las Vegas ..."
-    publishedDateTime: 2019-12-10T16:29:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191210005775/en/KYOCERA-Showcase-AI-5G-Mobility-Technologies-CES
+  - title: "Inspur Showcases HPC & AI Solutions at SC19"
+    excerpt: "Inspur also unveiled the new MX1 AI System, the first OAM AI system that supports different types of AI chips from multiple manufacturers on a single server. Inspur is committed to promoting the establishment of specifications in the AI industry, and hopes to promote the development of AI chips and technologies through an open and common ..."
+    publishedDateTime: 2019-12-04T16:39:00Z
+    sourceUrl: https://insidehpc.com/2019/12/inspur-showcases-hpc-ai-solutions-at-sc19/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B529E3C9B96271AD1025D9175ADBF932
-        width: 700
-        height: 365
+      - url: https://www.bing.com/th?id=ON.CFBEC436D9A6E8FCAE0A8C2A275FEC2D
+        width: 553
+        height: 415
 
 secured: "uieQd5t5OHzesi2HWEtE34vgJsuWIL0aS8T+RmSIYyCh0cFLQ/1AYo+O/LdSlauCnvtKTrIgNBdIhnk2H2z8XWbcw1FyZ08nZ6NYBpOnfYDOtvxhINRg9j8IFuyKYKPDKo7RKV3+uSi0f2yuRoTyXhR+5UYKQ3NATduq9Ya58erLyfuGSdpfiT9gnifSRAfqa1/h2vzEBz8RE/yesONrOZU1aXjB2E4ZL/PxH5oMQavK4eiUdqW8mFtsv7rqNNQqwWQfQ6QXKU62y7XiNnpI2g==;QzFbQLhTkIrjdDhFijUz6Q=="
 ---

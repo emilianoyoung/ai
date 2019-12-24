@@ -53,6 +53,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4BE8C4D98D5ABA9A43542ADC99B6480D
         width: 600
         height: 315
+  - title: "7 Classic Books To Deepen Your Understanding of (Artificial) Intelligence"
+    excerpt: "M.C. Escher's artwork was an inspiration for Douglas Hofstadter's 1979 book \"Gödel, Escher, Bach: An ... [+] Eternal Golden Braid\", sometimes referred to as the Bible of artificial intelligence. The field of artificial intelligence has never been the subject of more attention and analysis than it is today. Almost every week, it seems ..."
+    publishedDateTime: 2019-12-24T01:19:00Z
+    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
+        width: 1199
+        height: 675
 
 secured: "bk5bTt+jP8w7HLIe3BG+jKx+KscLxHFMUrqgL3XwfYFUXfclkIkRIC+8WlRkbfhG0JDifkq/3Rd6mkWzjF8TJx4nwBdYj6HMP8XQ5HFUrQCCdyy0U/ujK+zcc+8XLwjNmTK5QJGDXq6FaYcFdzzpzYiqwvrskAbtUGhCjyCX5tGUaQ9l+TRiwfLQG2H5BNUQxN5gVGeIE30m8v4jJIqg5HtT5JY2kNiFfeONVid4o5lEZSd281mHt+c15c6vnd2rnHrk2yDt2alsslMl45rqew==;tgbLcUH7FcyViWu770Qwlg=="
 ---

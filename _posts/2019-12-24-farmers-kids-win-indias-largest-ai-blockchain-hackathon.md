@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Farmers' kids win India's largest AI, Blockchain hackathon"
-excerpt: "The team then harnessed Blockchain-enabled smart contracts for instant and automated claim settlements to those adversely affected by crop failures and natural disasters, the company said in a statement on Tuesday."
-publishedDateTime: 2019-12-24T11:40:00Z
-sourceUrl: https://www.msn.com/en-in/news/other/farmers-kids-win-indias-largest-ai-blockchain-hackathon/ar-BBYiN72
+excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"We were amazed by the range and depth of submissions and the sheer quality of talent on display. It also underscores the talent ..."
+publishedDateTime: 2019-12-24T09:46:00Z
+sourceUrl: https://www.moneylife.in/article/farmers-kids-win-indias-largest-ai-blockchain-hackathon/58981.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Zee Business on MSN.com
-  domain: msn.com
+  name: Moneylife
+  domain: moneylife.in
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.6ADA1E580A94B4BA844790F1F3210A7A
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.71D789837F670A3C2C8F0A41B8C600C0
+    width: 700
+    height: 302
     title: "Farmers' kids win India's largest AI, Blockchain hackathon"
 
 related:
@@ -51,6 +51,6 @@ related:
         width: 700
         height: 367
 
-secured: "xSkl4Lw5xAIM1Mp/WieoYDa5qrbPvhNEX4G53c87kSLKAeNlBMMMLQW8n9Y9IiyhGf1kTRJwYG0YIfscF8yIm3hLyKJbJDdAW0wBCbHD5k3tz2rbtpnhQQInrLOo5nHuWOZl3oxUm8T0dJGkc03egSqP12d9kHg2Nx4TTs/1xwrZan+80Bee+zF0IfMp3IV7bIhEsp0fsTLAfwxLInrLX89Xi+25gVe/DCxiXzHVKubsWEQDEY4aCNeqklWoDqq5u6FgNBb2b6dKE+edR30DoQ==;l2A9kN5mS7Yokbiu80+WCQ=="
+secured: "B5eheNWcQ3wpLnHAJ2RGPuBQy11WidsiE6IJJQ5WUPcSCnpL3zQBN+RfAMQc9LMGRarRbPpuCyn7xdvJMQ0IOyV3FLNFkos+cYWUyxX1knOeEmIIvrypYd0JjEiVGcssH1jWABzLQ98DA2q3qTQ7WsgVLQySOCh1nfCirSw6o31BwfzhSOJNg8DUZalGyTx+3uTlMzUu6dRhl1IskQSUOPq7YTw6jWaB/flL8WHkf2t0VihfpfTvAKniAnrC/kkEkRflY7WR3HC4NRD00T46lA==;nHxEIoudbGxMcxMBdVyIDQ=="
 ---
 

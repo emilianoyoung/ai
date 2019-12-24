@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology, lift tools from the ground, recognize the boundaries of a farm, and can be operated remotely ..."
-publishedDateTime: 2019-12-02T12:15:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
-ampUrl: https://amp.benzinga.com/amp/content/14911193
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
+excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+publishedDateTime: 2019-12-02T13:15:00Z
+sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
 type: article
-quality: 33
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -382,15 +380,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CE487D7226F561728E206E9A2AED3F18
         width: 700
         height: 365
-  - title: "Artificial Intelligence in Medicine Market -Global Opportunity Analysis and Industry Forecast, 2018-2025"
-    excerpt: "Shortage of skilled healthcare professionals and increase in the processing power of AI systems that is projected to help improve the efficiency of drug discovery and management of clinical trials majorly drive the growth of the global artificial intelligence in medicine market. Furthermore, the growth in importance of precision medicine and ..."
-    publishedDateTime: 2019-12-04T12:17:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36635/artificial-intelligence-in-medicine-market-global/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 2
   - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
     excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
     publishedDateTime: 2019-12-09T11:45:00Z
@@ -401,6 +390,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "gd5A5ai/GHETpMGUjHvhES73F6/rVgFiUTwkQh0By8Izh9XLofWfjGdO3JIgHUAiP1LUct7xYxCYLczEcplQcsge2TO1A+sugrvvK8mLTzscr7GC3rh+mm6sfT191uZncCvoAGmoBGEs37SE8mdTK4I7lJq5wdSvLnFW8uR1jz6A4QOUfoipyqUdAf6M1ybBU+0/gb8y1ozIjU3fKzj/vqp+hEOfKqquVIt54vgRzQ5ND7n8s7N7htZ1H7Cktj4oZn4AR8kdjc0KlJKC1q5IJA==;douMfH//zKI35z991m2vZQ=="
+secured: "0mINYJlRq7pNJ/pzAVf+m+lW7NhcGtrZqlIhGHBw2/q/SbZ3nRg/jwSP0n3uHvMZVtuG6/IDnw93XXyBp9aZxuEmTowJuCx20TmyMIGsOV8jpvO3tAjQskzA7xEAUvFrn+Zc/6X89SAcQI5t4wJxEKKe1d3KKsyELHdv55X6XBqVOf/785C4X0zSZ5/AGQrTWpLwGwboMBJcJwHDtP0JyxN4WFHhsKJ8pBvP2FVS2X/rWMob212PXyOWKLN4YXvAUOcSjDUAj/w17dSp/+1QtQ==;sR3BBrG4shJWjhpv9nOcbA=="
 ---
 

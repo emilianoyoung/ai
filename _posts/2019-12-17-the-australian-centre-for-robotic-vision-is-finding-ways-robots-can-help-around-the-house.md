@@ -99,6 +99,19 @@ related:
       - url: https://www.eurekalert.org/multimedia/pub/web/220093_web.jpg
         width: 562
         height: 854
+  - title: "Service Robots Are Coming To Your Door"
+    excerpt: "The development of robotic technology and artificial intelligence (AI) is increasing at a rapid pace. Where once, robots were experimental lab-based creations that were a little shaky on their feet. They are now ready to come into our home to ‘help’ us with our lives. Don’t think that you will never need a robot in your home or life?"
+    publishedDateTime: 2019-12-24T12:20:00Z
+    sourceUrl: https://www.roboticstomorrow.com/story/2019/12/service-robots-are-coming-to-your-door/14598/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DEC596C15F8687A66FDA8A83EDA3FBBE
+        width: 680
+        height: 583
   - title: "Film review: 'Machine' charts the upcoming rise of the robots"
     excerpt: "Artificial intelligence will have a momentous influence on the future of humankind ... We learn about AI companions which allow people to interact with a machine programmed to respond like a human being. There are discussions of driverless cars, and the issue of whether we should let drones decide when it is time to kill an enemy."
     publishedDateTime: 2019-12-13T13:12:00Z

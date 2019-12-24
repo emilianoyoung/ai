@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Angel, a Machine Learning Platform Contributed by Tencent, Graduates from Linux Foundation AI"
-excerpt: "SHENZHEN, China, Dec. 19, 2019 /PRNewswire/ -- Angel, an artificial Intelligence project contributed by Tencent, successfully graduated from LF AI on December 19 th after evolving from a pure model training platform to a full-stack machine learning platform, an umbrella foundation of the Linux Foundation said in a statement released on Thursday."
-publishedDateTime: 2019-12-19T17:25:00Z
-sourceUrl: https://finance.yahoo.com/news/angel-machine-learning-platform-contributed-170000770.html
+excerpt: "SHENZHEN, China, Dec. 19, 2019 /PRNewswire/ -- Angel, an artificial Intelligence project contributed by Tencent, successfully graduated from LF AI on December 19 th after evolving from a pure model training platform to a full-stack machine learning ..."
+publishedDateTime: 2019-12-19T16:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/angel-a-machine-learning-platform-contributed-by-tencent-graduates-from-linux-foundation-ai-300977765.html
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "zMr10YQ7f2+5cX2a8HTr9THBODENGe+pZoAFvKvL7dJSahAJ9M2JDQe2zOuoJi+bJOT9atvlaVlO1qBj7lSlltjajWtHmcvumeCfTTQt6dAu9j+c2ES+5xFxhyh3XPkP6dUoeE9bl4Xo3/Pd0aqKDawsdzRap2h+ADaMsUK7FZqjjtnimdYIwwUDqZUMTIRk/M594aVoGR55kRuITmNte2ytPXUR0ncFDv6eKcLJbeKC70FPuOahp5xo/R6P5knkF0Qt05ieBeDPOuuHZaTRVw==;pbTBtxFVLdAdkcgWUyi9tQ=="
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "Angel, a Machine Learning Platform Contributed by Tencent, Graduates from Linux Foundation AI"
+
+secured: "N43ZEZ/Ah2/eYR2cD+t2ty6fQcLgNijaDPqRvBOddpfN764TdTYRgiNL25YrqO2FYmeM1H+s1nQ1ZerHGkoXfsEzIrfcS0JFKXMlTPpoagkQTLhERW5739jaJb1SF/vAjGb4CPZzxyxAljM1y3RRi7jbHSx27aCXF30mFK9NzLHeRp5zmIc7IrcrQRQtCyghE2wKRLw4Byej7IJra7BH9nV51FOQ+9ly4G4VUhV4NSARESLRRA7CuahhCwTW7Md4fPRqta65d2FMRHzBu0Mgpg==;Lm6TPI/gKvPr0GIBtIXoRQ=="
 ---
 

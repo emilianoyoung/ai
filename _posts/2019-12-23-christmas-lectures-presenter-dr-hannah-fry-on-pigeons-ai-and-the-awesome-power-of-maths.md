@@ -38,18 +38,18 @@ related:
         width: 400
         height: 225
   - title: "Farmers' kids win India's largest AI, Blockchain hackathon"
-    excerpt: "The team then harnessed Blockchain-enabled smart contracts for instant and automated claim settlements to those adversely affected by crop failures and natural disasters, the company said in a statement on Tuesday."
-    publishedDateTime: 2019-12-24T11:40:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/farmers-kids-win-indias-largest-ai-blockchain-hackathon/ar-BBYiN72
+    excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"We were amazed by the range and depth of submissions and the sheer quality of talent on display. It also underscores the talent ..."
+    publishedDateTime: 2019-12-24T09:46:00Z
+    sourceUrl: https://www.moneylife.in/article/farmers-kids-win-indias-largest-ai-blockchain-hackathon/58981.html
     type: article
     provider:
-      name: Zee Business on MSN.com
-      domain: msn.com
+      name: Moneylife
+      domain: moneylife.in
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.6ADA1E580A94B4BA844790F1F3210A7A
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.71D789837F670A3C2C8F0A41B8C600C0
+        width: 700
+        height: 302
 
 secured: "Ee8JhLWWm0+dgIXQohdQSzbKYYAHcFATU5+7rt+PognkNeWDo8Gb156wFXXaNhjRFzzt8mS57TEHYrVQKVz7MafzxoBKiiJlmv2wXtfLhUdxMhOFcF5yJ/9X5YU27xa1+lGoBf4f53uSwWcB++r3OXQdCfU9QaoM6ItUS100Q/OFETvnWb9iKSLhd+h1jdL6T13zTY1xnWxMeIOXFkYKbm9LQlkbjUTBrvIt9fVm0ctr7fG0IuFn2gy0Q6WzkK3eMSJ09Nw7exQAZ+rnF9X5JA==;kNtX24BVUqpRCr4f3ITMZg=="
 ---

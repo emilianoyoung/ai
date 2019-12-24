@@ -20,37 +20,71 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "\"What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world's development of technology that will power self-driving vehicles. We're proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current standing as ..."
-    publishedDateTime: 2019-12-04T18:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green-300969351.html
+  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-11T12:31:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-12T10:05:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
+      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
-        height: 367
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "New Pittsburgh Technology Center will advance the development of autonomous technology for self-driving cars PITTSBURGH, Dec. 4, 2019 /PRNewswire/ -- Aptiv PLC (NYSE: APTV), a global technology company enabling the future of mobility, announced today that its Pittsburgh Technology Center will relocate to new offices at Mill 19 in Hazelwood Green."
-    publishedDateTime: 2019-12-05T08:55:00Z
-    sourceUrl: https://www.autoblog.com/press-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green_21394/
+        height: 466
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. \"Waymo, however, is now working on adapting its automated 'driver' to commercial vehicles ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
-  - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
-    excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
-    publishedDateTime: 2019-12-09T19:40:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+        width: 700
+        height: 467
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
+    publishedDateTime: 2019-12-12T08:12:00Z
+    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
     type: article
     provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 4
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+        width: 700
+        height: 419
 
 secured: "9SUkGIHM0RRogD2q78aEtugP0QKB4M6aHCXjo1aaAkKOsQIR0PDSvlX5ol5mAlbgDJD6SJ/XqlbltGoG9WkesAHnJE77gAjPamFbtrtULYvhZi2BZv5WXPhUasFD6ms/GzaOZb0eU1vdg5uG1dBA8Siye+xncSWiE64uxdAGaqfPpsq53Z0lO+mI6RzlZPNvah/kiRgOmr1Luq0zA52JLI21FMH5eSKOmbcm4iIAFTovORSA5KyhQakS1xgpIeyVy77Uydp0ivq9PMwDrHdKcA==;zO1Rnhfz1C2Dq3j41qrxNQ=="
 ---

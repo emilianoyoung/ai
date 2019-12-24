@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -99,20 +99,7 @@ related:
       - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
         width: 800
         height: 448
-  - title: "Google founders Page, Brin step back from top roles"
-    excerpt: "EPA/Boris Roessler Co-founders of the internet giant Google, Larry Page and Sergey Brin, have stepped down from their executive positions at Alphabet Inc., Google’s parent company, that does ambitious research projects, including artificial intelligence and driverless vehicles. Page, chief executive and Brin, president of Alphabet ..."
-    publishedDateTime: 2019-12-04T12:08:00Z
-    sourceUrl: https://www.neweurope.eu/article/google-founders-page-brin-step-back-from-top-roles/
-    type: article
-    provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.961716E136636E77E154A7F43604FB19
-        width: 700
-        height: 476
 
-secured: "aPiHvuD4yogKaq9FrhvwG6Wejfp/LK9Pyt5EZgEO7lRgFANLFm38ilQnt+r5mgoxCutAC3VMkT3KNfELrgUnWTCG1vK/5tY0d1+cLPvtFskjBqjogya1fbdFaDyqIjJnRq+RaAWYMBfIyuNKI19TgKH78E6PX8T2XMrgaTpVbnPTeWopTvCLmwO3smE3lRH/ILHPwy9osDM33MXorlMc6bbcgMa8SdEujkdJFMceZBjqv2P28ecp7AlkMOgHFXNZJnwPppL4kdqL7Bnqx5JDBA==;e2Pip2+13uf3D+8WN4i7cg=="
+secured: "w1ua12p9pmys7YOWeIYJ3PY6ZMKC3Tv2fFbZXazqqzffaYu6VoS0TbXPk8d8GOkCcMSuGScbvziPNLtDLTlMonTlWAbsJ2eTlZbIpOBXWVP9lwUmRu+W6ksS4cfnyh7PxbFtPh+Cc3eMmRrmL4Z4RfLO90DxPCpAl2i83HDXH7LLb94IcA7X0wkh2GzBg/zVNYAv1iwtXvMe1OQRM/Q7wiOxwoUiUpMFuSbogAY5yS9di9H0vTP2B6gSha7nVwf9Kb+j9lSeFonThEHsSj1kjA==;3brE5Yi+bOquD+L2nw/hCA=="
 ---
 

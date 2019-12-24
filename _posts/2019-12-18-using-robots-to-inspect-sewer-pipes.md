@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.056FED87F4B4CD36AAB993E33138A9D4
         width: 640
         height: 427
+  - title: "Service Robots Are Coming To Your Door"
+    excerpt: "The development of robotic technology and artificial intelligence (AI) is increasing at a rapid pace. Where once, robots were experimental lab-based creations that were a little shaky on their feet. They are now ready to come into our home to ‘help’ us with our lives. Don’t think that you will never need a robot in your home or life?"
+    publishedDateTime: 2019-12-24T12:20:00Z
+    sourceUrl: https://www.roboticstomorrow.com/story/2019/12/service-robots-are-coming-to-your-door/14598/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DEC596C15F8687A66FDA8A83EDA3FBBE
+        width: 680
+        height: 583
   - title: "The Australian Centre for Robotic Vision is finding ways robots can help around the house"
     excerpt: "Factory robots perform specific tasks repetitively, while social robots are trained to interact in conversation. Getting a robot to be a generalist, to walk into a new environment and make sense of it using computer vision, and work out how to pick up and handle new objects is complex. To that end, The Australian Centre for Robotic Vision has ..."
     publishedDateTime: 2019-12-17T10:09:00Z

@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "Trump administration wants to use facial recognition at airports"
-    excerpt: "The Department of Homeland Security (DHS) is planning to use facial recognition technology to identify international travelers at airports, according to a recent filing. Continue Reading Below The purpose of the facial recognition technology would be to ..."
-    publishedDateTime: 2019-12-04T12:34:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/dhs-facial-recognition-airports
-    ampUrl: https://www.foxbusiness.com/technology/dhs-facial-recognition-airports.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/dhs-facial-recognition-airports.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.5CF4DB706BAC7B8600ED3B8AEDBDC510
-        width: 700
-        height: 393
   - title: "AirAsia X to use facial recognition instead of boarding passes at Avalon Airport"
     excerpt: "AirAsia X Malaysia CEO Benyamin Ismail shows the new face recognition technology to Avalon Airport CEO Justin Giddings. Picture: Alison Wynd Mr Ismail said AirAsia X has worked to secure the personal data of those using the FACES technology. “It’s an option for passengers if they want to use this facility; if they want a seamless process st ..."
     publishedDateTime: 2019-12-05T06:25:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T11:59:00Z
 sourceUrl: https://www.designnews.com/artificial-intelligence/best-ai-stories-2019/106107540362100
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,17 +23,19 @@ images:
     title: "Best AI stories of 2019"
 
 related:
-  - title: "Top 10 artificial intelligence stories of 2019"
-    excerpt: "According to Gartner’s 2019 CIO Agenda survey, organisations that have deployed artificial intelligence (AI) grew from 4% to 14% between 2018 and 2019. Organisations are looking to take advantage of smart speakers such as Alexa and Google Home to provide another channel to market, and are rolling out chatbots as an alternative to call centre ..."
-    publishedDateTime: 2019-12-19T11:49:00Z
-    sourceUrl: https://www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019
-    ampUrl: https://www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019?amp=1
+  - title: "Slator’s Most Popular Language Industry Stories of 2019"
+    excerpt: "On the tech side, Google introduced Lingvo, a framework for building neural networks in TensorFlow. In a move that seems to be increasingly common for tech companies, Google open-sourced Lingvo — which is specifically tailored for natural language processing (NLP) — as a way of supporting the research community while assessing whether the ..."
+    publishedDateTime: 2019-12-23T08:28:00Z
+    sourceUrl: https://slator.com/features/slators-most-popular-language-industry-stories-of-2019/
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
+      name: Slator
+      domain: slator.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.DA014F7F1C28D9A6D7D50C5BDFB821A8
+        width: 210
+        height: 297
   - title: "UCSF’s 11 Most Popular Health and Science Stories of 2019"
     excerpt: "Artificial Intelligence Can Detect Alzheimer’s Disease in Brain Scans Six Years Before ... cancer gene panel test – that helped to reveal an unusual genetic alteration in his cancer and identified a long-shot therapy. Multiple sclerosis (MS) is an autoimmune disease caused by immune cells that attack the protective coating around nerve ..."
     publishedDateTime: 2019-12-16T20:47:00Z

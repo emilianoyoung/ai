@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AWS expands DeepRacer league, announces car updates"
-excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-publishedDateTime: 2019-11-27T14:48:00Z
-sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
-cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
+publishedDateTime: 2019-11-27T14:37:00Z
+sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
+ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 84
+heat: 104
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-    width: 700
-    height: 554
-    title: "AWS expands DeepRacer league, announces car updates"
 
 related:
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
@@ -51,6 +49,6 @@ related:
         width: 860
         height: 484
 
-secured: "hl16Y6kyjpwESm8VBqn3af+BY0Krtw7CiOrMnMf/0G8Vogi1ay+5atfUqTiicd1LgkqnQ/TqGcneUtwd8bP1cl0l71lmmaMV3l8ZzTFhUYrtov6KUfhn+Fjrl3nc2w1lAErSpiL3Gb2c8b2KwJd9BOGwmB7XUuI11BCFLHknPMGhaxeinqgZD/wPJfFbhY3JiiyoWIT3dsuHUXcDU+PZeTegVx/Yio/FJ3wFehUVqxRpqrq4L75A1iDJpCbfCO8X8A2hOPjYdd+6tF/A88iszA==;xQ2JuMvY+XT5nN+owcV3fQ=="
+secured: "x8ruF22xhPwwNr+DtupbZv5mAhZWVvCFxBkEH9Mw/h83Glb8qUX7R7vQQUmRJlQHcwI4dsCAk8/EUcZmA8YnGI+gVgS7dWEDCju+AT1CJrrkBTptpYBG6BdztGmMysKcuectq+Wp1UOfs5XlS0yRgrulVMBA+rZzlRbBVWslcVN9hZJe+xcCfWzFMxu/uGrxwC/KuJOcWkehkXGltXa04sW5G7kRcmREfSKZIKK6vpd/3+TjCSs1nUPPelgATi2jYaN7cKaORl1pechUQShjrg==;kyiOpKw2+jIuRQprDpeXCg=="
 ---
 

@@ -99,19 +99,6 @@ related:
       - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
         width: 800
         height: 448
-  - title: "Google founders Page, Brin step back from top roles"
-    excerpt: "EPA/Boris Roessler Co-founders of the internet giant Google, Larry Page and Sergey Brin, have stepped down from their executive positions at Alphabet Inc., Google’s parent company, that does ambitious research projects, including artificial intelligence and driverless vehicles. Page, chief executive and Brin, president of Alphabet ..."
-    publishedDateTime: 2019-12-04T12:08:00Z
-    sourceUrl: https://www.neweurope.eu/article/google-founders-page-brin-step-back-from-top-roles/
-    type: article
-    provider:
-      name: New Europe
-      domain: neweurope.eu
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.961716E136636E77E154A7F43604FB19
-        width: 700
-        height: 476
 
 secured: "8Ew6DipKNOTLlXwQgDNNn5hINknXD3gYihPcVKK9pnZ4oyM6t5rdk4dXm4ogjEq9gjpBFTmq7/Iuyj/1RkhaC8GavZV5MNzV7RHFIR9DceztaErMYuenNXm8yoQrqlHphBSek+goij+SpsmFItApUpseZyty610QLxsWRxccO1KKLftWFClV50tvoDSRrNmxSCk3ditEMz7JKug5TbLEvtjTTtOIjJjA5MuZN0vLK1vXGn5y8ohckMrSnR5iW4Y8+yRnyUjMntDtZz4LRAjO4g==;ZRrUAz4uU596H/JPs1C8RA=="
 ---

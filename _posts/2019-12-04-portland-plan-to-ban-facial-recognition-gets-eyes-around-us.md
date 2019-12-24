@@ -68,21 +68,6 @@ related:
         width: 700
         height: 525
   - title: "Trump administration wants to use facial recognition at airports"
-    excerpt: "The Department of Homeland Security (DHS) is planning to use facial recognition technology to identify international travelers at airports, according to a recent filing. Continue Reading Below The purpose of the facial recognition technology would be to ..."
-    publishedDateTime: 2019-12-04T12:34:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/dhs-facial-recognition-airports
-    ampUrl: https://www.foxbusiness.com/technology/dhs-facial-recognition-airports.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/dhs-facial-recognition-airports.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.5CF4DB706BAC7B8600ED3B8AEDBDC510
-        width: 700
-        height: 393
-  - title: "Trump administration wants to use facial recognition at airports"
     excerpt: "The Department of Homeland Security (DHS) is planning to use facial recognition technology to identify international travelers at airports, according to a recent filing. The purpose of the facial recognition technology would be to identify those coming in and out of the country and catch criminals and known terrorists, the filing states."
     publishedDateTime: 2019-12-05T00:05:00Z
     sourceUrl: https://finance.yahoo.com/news/trump-administration-wants-facial-recognition-122435248.html

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T07:25:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-share-forecast-2019-2025-2019-12-23
 type: article
 quality: 77
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -67,6 +67,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
+    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
+    publishedDateTime: 2019-12-24T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
+    ampUrl: https://markets.businessinsider.com/amp/news/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
   - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
     excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
     publishedDateTime: 2019-12-18T16:58:00Z

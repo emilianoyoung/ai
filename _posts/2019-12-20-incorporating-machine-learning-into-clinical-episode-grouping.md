@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Incorporating Machine Learning into Clinical Episode Grouping"
-excerpt: "That's why Certilytics built CORE Pathways, which optimizes data for machine learning and deep learning, empowering our customers to: Identify, report, and benchmark cost trends, provider treatment patterns, condition severity, and health outcomes across billions of member records. Standardize and aggregate raw claims data to perform analysis ..."
-publishedDateTime: 2019-12-20T00:50:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/incorporating-machine-learning-into-clinical-episode-grouping/article_0aee5f1b-92be-5da9-b2e5-1e79d0938bd0.html
+excerpt: "LOUISVILLE, Ky., Dec. 19, 2019 /PRNewswire/ -- As healthcare organizations increasingly incorporate predictive analytics into their operational workflows, it is becoming more important for clinical episode groupers to be designed with machine learning in mind. But many existing commercial episode groupers continue to leverage decades-old ..."
+publishedDateTime: 2019-12-20T00:25:00Z
+sourceUrl: https://finance.yahoo.com/news/incorporating-machine-learning-clinical-episode-215600171.html
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -32,6 +32,6 @@ related:
         width: 700
         height: 366
 
-secured: "GGpAi/8Wk27wXyexHOBHaiWpqrOZp1XPzFHv+5tRaQO4dy3+3RRxzVPQnDn/b8w8F6eXtK2oDqGOcbsF6C1QCKjGrzRUf+b2PeYqJbeAaenlzH2e1qP18HVZKw9U+o7HzlIwUXWOp0G/ggflT39rdw5SvIdDkpGhzXszJGRJFyyA7/7v1XtZQqyx9RK7cWwgNoWcHgC9ztLbIm91E55v37gvfV6peiSiIb0YxdGr0CjY8+lDDMJK5k3qPuzt+ySpDzDpRpA1kP95VlafblyAOg==;WlxGzfBwGnA90BBoqZ6jPQ=="
+secured: "Car0SiviMs2fA170CwSrKXAZudB7HBZXFqj1Ie4wKgfa8Fd9JGhkbqS+NS68BfqUMsgDLfvG11EEX+HBcRtpE//mXw+QiM2ZlsiwrbA1G2M/8jwEvhY4wGOCP6ESogJN/D79nFMixQYasyFpwUja0PrVNs+MZIRuCvF8ghfkR7kKZtZM4pzn5CHEUAh3qVGR81OU9wTx/Ty0rx4U+k26QjYCrH6gl0nNphcjS9uAAiKzZtXcDUuwSTJKoHWw1hqv6BcyC9tWS+Yb+GOm02u6xg==;cOCvKZrTfgbIu0pvJsokeg=="
 ---
 

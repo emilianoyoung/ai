@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Machine learning as a Service Market: Meticulous Research Reveals Why This Market is Growing at a CAGR of 41.5% to Exceed $13.5 Billion by 2025"
 
+related:
+  - title: "Deep Learning Software Market Projected to Show Strong Growth, Expanded Technology by 2029"
+    excerpt: "Global Deep Learning Software Market Is Growing To The Increasing Number Of Large Enterprise and SMB Industry Worldwide (2020-2029). Market.us has recently published a comprehensive and exclusionary research report titled, \"Deep Learning Software Market Trends by Types (Cloud-based, On-premise), Investigation by Application (Large Enterprise ..."
+    publishedDateTime: 2019-12-10T05:09:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36799/deep-learning-software-market-projected-to-show/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 9
+
 secured: "DIjT+Jq27Zbbd+FR0+fl/MxToNyX1S/FjfZ1/M2PM1FbYTX5pjshCsPn5p2/M7AcEOWyiBx+YrHsgfupO98Ekm0hy2IQeO1xDnVVBmuurwy0oRNnaJxskcNaay15xOC+8jSP3fLK9NhLZztnrSjToety7sqblh2xipotmTfOS7+H4b2l6m/lO1jPMA3O9p3qVir+uVdymkhLwxk0Cw86w3zlTApOl6HSyftKlwzZIEXbZBmWH6TR0luAIaHygHYotT0wcuwNGS5qloNYvAs4nw==;2h2aqQrSioPmq9kmWedMCA=="
 ---
 
