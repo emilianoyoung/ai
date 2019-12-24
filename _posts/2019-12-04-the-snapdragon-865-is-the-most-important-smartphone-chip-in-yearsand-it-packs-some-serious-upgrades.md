@@ -129,19 +129,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A819C9C5838927F376B3921CDA0C3D3
         width: 700
         height: 495
-  - title: "Advancing 5G, Qualcomm debuts new crop of AI-optimized Snapdragon chips"
-    excerpt: "Compared to the version that shipped in last year’s flagship chip, the new Hexagon provides twice as much processing power for a total of up to 15 trillion operations per second. Qualcomm said that this gives the Snapdragon 865 enough horsepower to perform real-time AI translation locally on a device. Also new is the Spectra 480. It’s the ..."
-    publishedDateTime: 2019-12-04T21:05:00Z
-    sourceUrl: https://siliconangle.com/2019/12/04/advancing-5g-qualcomm-debuts-new-crop-ai-optimized-snapdragon-chips/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F314D8502E4F1008C539FACAB80F90CE
-        width: 700
-        height: 389
   - title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
     excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
     publishedDateTime: 2019-12-06T02:07:00Z

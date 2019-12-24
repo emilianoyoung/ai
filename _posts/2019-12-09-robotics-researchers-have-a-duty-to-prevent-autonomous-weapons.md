@@ -8,7 +8,7 @@ ampUrl: https://www.gizmodo.com.au/2019/12/robotics-researchers-have-a-duty-to-p
 cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/robotics-researchers-have-a-duty-to-prevent-autonomous-weapons/amp
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
-  - title: "Robotics researchers have a duty to prevent autonomous weapons"
-    excerpt: "Christoffer Heckman, University of Colorado Boulder (THE CONVERSATION) Robotics is rapidly being transformed by advances in artificial intelligence. And the benefits are widespread: We are seeing safer vehicles with the ability to automatically brake in an emergency, robotic arms transforming factory lines that were once offshored and new ..."
-    publishedDateTime: 2019-12-04T21:27:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Robotics-researchers-have-a-duty-to-prevent-14880917.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 54
-    images:
-      - url: https://www.sfgate.com/img/pages/article/opengraph_default.png
-        width: 500
-        height: 261
   - title: "Robotics researchers have a duty to prevent autonomous weapons"
     excerpt: "(THE CONVERSATION) Robotics is rapidly being transformed by advances in artificial intelligence. And the benefits are widespread: We are seeing safer vehicles with the ability to automatically brake in an emergency, robotic arms transforming factory lines that were once offshored and new robots that can do everything from shop for groceries to ..."
     publishedDateTime: 2019-12-05T00:41:00Z

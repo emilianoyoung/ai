@@ -2,36 +2,42 @@
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
 excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-publishedDateTime: 2019-12-03T00:00:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+publishedDateTime: 2019-12-03T19:18:00Z
+sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MSN
-  domain: msn.com
+  name: Yahoo!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
 
+images:
+  - url: https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
+    width: 4032
+    height: 3024
+    title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
+
 related:
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
-    publishedDateTime: 2019-12-03T18:32:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
+    publishedDateTime: 2019-12-03T20:24:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
     type: article
     provider:
-      name: Yahoo!
-      domain: yahoo.com
-    quality: 39
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
     images:
-      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-        width: 5184
-        height: 3456
+      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
+        width: 1000
+        height: 667
 
-secured: "eo/F88EyiygGl9KR3oDgvGsCNPiQv/rfqP3sSFAO0FyjdKfuqbUh9OJTvULSlL/gb0XrxjoYP6FExqOkdoT0wT7maSgimEQ61NOmZfgpecq7TbbA6tKsMuTk3IS7rXeBql9z2IC4AfJ1bNuT3MfKejs0wHCKQXivAl1LIGg23C6DxS+RvyJBeYrUFOYxp2V2vlu4W2vTQ5UE2NswhGwWPAlp6AzNJGQ+sHjvBwSWBF/uayANTirX2kmO6qELI6JrtLGnS2qJe9gl4bGJtE97Yg==;SalDHP27XhA5O7dXkeLeHA=="
+secured: "hCMXMk20WEYKZASBoXJvjh8rKLdcbEmmBBXst2qLnyGCxWIfoywsiNodu0qSboONBOk1SIynjSzWb7nAFzc6AHsa6VXgtEk6W+L2c/r1FTzsTM+4GjpdGIDv7qLCCQN6JFH45O1a7vpugAcpRAlUFg527CI0SQs8MRKl2psZp8ekpyPuC2YCDS7J5reasYB/5oTjFNCPEXS9jWZTvXuDGaCNDNsD0VgS818A4NnhyU/wbdRh/RgXIk/zyYts9OwKksz+QnpoO0T3LF1C21cKJQ==;DWsgVy1KkwbIaN3yvEKZ8g=="
 ---
 

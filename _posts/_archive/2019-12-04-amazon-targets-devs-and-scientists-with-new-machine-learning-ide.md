@@ -82,19 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
-  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
-    publishedDateTime: 2019-12-03T18:09:00Z
-    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    publishedDateTime: 2019-12-03T18:23:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: Yahoo News
+      name: YAHOO!
       domain: yahoo.com
     quality: 54
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
-        width: 1280
-        height: 960
+      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
+        width: 700
+        height: 525
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
     publishedDateTime: 2019-12-06T00:00:00Z
@@ -109,6 +109,6 @@ related:
         width: 800
         height: 500
 
-secured: "Z4j7fM5ddwLU4xgKnUamMctRZbDAppZwdK6vgCL3CCGqtMdDwi1qhjVISCs/lWF7k6obwugDqtTYNpxk3iHAuezwmIl4+QWPK0507hsH1OVsC7rW13oKGp0BcuyFOHbfoWO0RDybZmu1OhGs2Uk+14+Ba6qUW/BZE6MBpdPw1i6CUD94eftLF5x8oshXwA30L+GjF1jAA7/iP+yAaQWwiUH0BW3ljVw2mtqOR+ZatYYd0XlLzgnrJdQzJaAG+8wbdfWgGROGV8ZYu6YN8hx9cQ==;uBEGQfZRxJehbUt+zHimGw=="
+secured: "0iG3L5r1OC2WRmMKmIrPzSnj9c+1LRHfuu6TwdjkmyCzaj7ZDc6p1UkmjUscS2+9SXsdl3hr0VPna9Dn06qY+ocSqv6alVjrIqIkpKrt0Lne5jxREhFGYtaz6B36xk3YmWAlXpBtTPLO/8x0YyerkPKRzkKaTr9hEp7JC/XSR9jBAubNiztSuhAuRfaTpXp6DqnN7d+eIxGQHkGdLZcDohJqY85wCGSU4WRHoBNeq8u5LUaWBHgshLOWc12eF/W6Y7vNqJSLn8fT2wrr6k3mXA==;DhtBZue80xhR5I4GYEjUiw=="
 ---
 

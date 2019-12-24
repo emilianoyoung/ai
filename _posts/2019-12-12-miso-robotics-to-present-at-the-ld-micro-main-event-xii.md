@@ -40,19 +40,6 @@ related:
         width: 700
         height: 472
   - title: "Robotics researchers have a duty to prevent autonomous weapons"
-    excerpt: "Christoffer Heckman, University of Colorado Boulder (THE CONVERSATION) Robotics is rapidly being transformed by advances in artificial intelligence. And the benefits are widespread: We are seeing safer vehicles with the ability to automatically brake in an emergency, robotic arms transforming factory lines that were once offshored and new ..."
-    publishedDateTime: 2019-12-04T21:27:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Robotics-researchers-have-a-duty-to-prevent-14880917.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 54
-    images:
-      - url: https://www.sfgate.com/img/pages/article/opengraph_default.png
-        width: 500
-        height: 261
-  - title: "Robotics researchers have a duty to prevent autonomous weapons"
     excerpt: "(THE CONVERSATION) Robotics is rapidly being transformed by advances in artificial intelligence. And the benefits are widespread: We are seeing safer vehicles with the ability to automatically brake in an emergency, robotic arms transforming factory lines that were once offshored and new robots that can do everything from shop for groceries to ..."
     publishedDateTime: 2019-12-05T00:41:00Z
     sourceUrl: https://www.ctpost.com/news/article/Robotics-researchers-have-a-duty-to-prevent-14880917.php

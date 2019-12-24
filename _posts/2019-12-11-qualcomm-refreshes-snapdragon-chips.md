@@ -118,19 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A819C9C5838927F376B3921CDA0C3D3
         width: 700
         height: 495
-  - title: "Advancing 5G, Qualcomm debuts new crop of AI-optimized Snapdragon chips"
-    excerpt: "Compared to the version that shipped in last year’s flagship chip, the new Hexagon provides twice as much processing power for a total of up to 15 trillion operations per second. Qualcomm said that this gives the Snapdragon 865 enough horsepower to perform real-time AI translation locally on a device. Also new is the Spectra 480. It’s the ..."
-    publishedDateTime: 2019-12-04T21:05:00Z
-    sourceUrl: https://siliconangle.com/2019/12/04/advancing-5g-qualcomm-debuts-new-crop-ai-optimized-snapdragon-chips/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F314D8502E4F1008C539FACAB80F90CE
-        width: 700
-        height: 389
   - title: "The Snapdragon 865 is the most important smartphone chip in years—and it packs some serious upgrades"
     excerpt: "But on a basic level, Qualcomm has thrown much more silicon at the already-quite-powerful Hexagon DSP, resulting in performance gains of 2x (15 TOPS —fifteen trillion operations per second) over the outgoing Snapdragon 855 in some AI-dependent operations. There's now a dedicated Tensor accelerator on the new Hexagon 698 chip, too, meaning ..."
     publishedDateTime: 2019-12-04T23:34:00Z

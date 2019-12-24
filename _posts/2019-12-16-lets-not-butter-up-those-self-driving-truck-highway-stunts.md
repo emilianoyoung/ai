@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-16T18:07:47Z
-    sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
-    type: article
-    provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 4
 
 secured: "4Z9FX+mhcgHyCIY5OmVPPmnbhMQPw5pteZRlZsfaz6aKAaGO5+szYtM8g8K7IqfdwrkR0G9muTw39brHqvxG3pKVBMeH4pVTF9b2CLy++Hvl1Cy5IS/Rdcg9Aovq9yYvrbwv5w9vpEaW9L+NjdntxMPt2LWaDu/MfyO/pqTrYhi+4UGrKd51JwHF+YcyJWLiyUomuWiPtwkHnTyFq69hKgIAVo5E3BXexjjYB2Iv8cXM1Oo2eWCxbdGXQC+u5coTB6XsTFz22xd10tsVVAz/rA==;njObV3DIyFczfcr6j4S+mQ=="
 ---

@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DABDF5F5F6259EAF71BFBA3D3B13A33B
         width: 600
         height: 315
+  - title: "The next generation of user experience is artificially intelligent"
+    excerpt: "Not only does enhanced automaton help deliver the right information on demand, but also incorporates natural language processing to get smarter about questions being asked, relates Chris McNabb, CEO of Dell Boomi. I recently had the opportunity to chat with McNabb, who talked about the urgency of focusing in UX. \"You can't increase productivity ..."
+    publishedDateTime: 2019-12-08T15:43:00Z
+    sourceUrl: https://www.zdnet.com/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    ampUrl: https://www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.80A154FBF2D40BED7417210693E14E0F
+        width: 700
+        height: 525
   - title: "Friendly floating robot CIMON-2 headed for International Space Station"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the ..."
     publishedDateTime: 2019-12-06T23:40:00Z
@@ -168,6 +183,21 @@ related:
       - url: https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg
         width: 570
         height: 380
+  - title: "China introduces new digital courts: Artificial-intelligence judges deliver verdicts via chat app"
+    excerpt: "HANGZHOU (China): Artificial-intelligence judges, cyber-courts, and verdicts delivered on chat apps -- welcome to China's brave new world of justice spotlighted by authorities this week. China is encouraging digitisation to streamline case-handling within its sprawling court system using cyberspace and technologies like blockchain and cloud ..."
+    publishedDateTime: 2019-12-06T12:26:00Z
+    sourceUrl: https://www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.html
+    ampUrl: https://www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.A321953B08EBAFCE417C1BA3654D4BBA
+        width: 600
+        height: 390
   - title: "Ambient Clinical Intelligence Improves Physician EHR Workflows"
     excerpt: "Using an incremental approach to improve natural language processing, virtual scribes review the conversation and physically update the EHR. “Information is captured in the visit. That raw data is going through the natural language processing engine. That then goes to a human who’s not in Nebraska. That person then updates the chart with ..."
     publishedDateTime: 2019-12-09T14:34:00Z

@@ -50,19 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D6FEBBFCB5CDBCCEA3F87A26285B2B26
         width: 450
         height: 250
-  - title: "Fighting bias in AI-powered decisions"
-    excerpt: "At a Nov. 20 panel on “Artificial Intelligence at Work” hosted by Workday and Politico, Rep. Bill Foster (D-Ill.) pointed to the history of loan discrimination against minority groups to highlight the need for to the ability to overwrite neural networks to prevent unintended bias. “It is statistically true that people of different racial ..."
-    publishedDateTime: 2019-12-04T22:02:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/04/algorithm-bias.aspx?admgarea=TC_EmergingTech
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CD57EAA25957A2E0AA820CB7835CD19C
-        width: 700
-        height: 338
 
 secured: "Hics14s9wXx0eDbmT+A5G+K6GilN0zAeuif9nr6rzcgAMOMtKZ5e+cx3duhw2Se4TxO5MaHRDO53M48JVfqwBtHMAvqcKU9MzExF76x3P+wQ14HRaCLr7MClpcS5TnH+uMpkkHsyBDqd5y+nWDWgSirDt+p70wZFiT0be9BhDQ43dZeGdPinI/IPt1k97djhGTS/XAkQ8xzy4EtnjpO7gk/rP6qgc9VNdYS/lRQKGYCZHeKp6sc17HCAcZJ+zIx/O6tjJbMc6aQGtuR/RbeF4g==;N7s9rQKpk5HmDRVcVz4MWw=="
 ---

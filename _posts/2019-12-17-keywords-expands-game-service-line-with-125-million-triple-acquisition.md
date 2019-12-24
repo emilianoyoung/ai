@@ -24,6 +24,32 @@ images:
     title: "Keywords expands game service line with $12.5 million triple acquisition"
 
 related:
+  - title: "Keywords Studios Buys Machine Translation Provider KantanMT for Up to EUR 7 Million"
+    excerpt: "Keywords Studios, the Ireland-based, London-listed technical services provider to the video games industry (including game localization), on December 17, 2019, announced the acquisition of fellow Dublin-headquartered machine translation company KantanMT, which trades under the name Xcelerator Machine Translations Ltd. Keywords is paying a total ..."
+    publishedDateTime: 2019-12-17T09:04:00Z
+    sourceUrl: https://slator.com/ma-and-funding/keywords-studios-buys-machine-translation-provider-kantanmt-for-up-to-eur-7-million/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
+        width: 210
+        height: 297
+  - title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
+    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
+    publishedDateTime: 2019-12-17T12:00:00Z
+    sourceUrl: https://news.yahoo.com/1-800-contacts-buys-home-120028488.html
+    type: article
+    provider:
+      name: Yahoo! News
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.647AABA4B02CD537046675E27910C265
+        width: 700
+        height: 466
   - title: "Keywords Studios makes fresh batch of acquisitions"
     excerpt: "The Dublin-headquartered company has purchased Kantan, giving it machine translation technology; Ichi, expanding the group's marketing services; and Syllabes, giving the company a games and film/TV audio recording studio. Keywords acquired Kantan, which employs nine people and is based at Dublin City University's ADAPT Centre for a potential ..."
     publishedDateTime: 2019-12-17T09:41:00Z
@@ -50,6 +76,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CF8662A8F677A4AB30A30B4AF47D5F8A
         width: 300
         height: 160
+  - title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
+    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
+    publishedDateTime: 2019-12-18T00:13:00Z
+    sourceUrl: https://www.yahoo.com/now/1-800-contacts-buys-home-120028488.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.23ED5985353306C3291313D39D2120A2
+        width: 700
+        height: 466
 
 secured: "ADC1LUsYHb+fn545e5PXp+3VqIIpABMaBu0MmM5d4aHtBn0GJaV8F70ZkI5HXLlJqGMR+RwOzFHnSn0RKajUV4NUQVDoHhfwVpt1nzlGyYj+chQuRnH9kOE8vX+V/rH2W3n1/qnLkMUFyHDPD5FFi2BlATUdPYrMfg72Jbgv/OsKoreAQaKgCoJsVZm1EcMo0zUaBq4wTUIvR1EYOul/1mUQdEXsRqfoi7dRarQE9Iuthqc+WYB8CvlFqOqL0Ss0xe9d3nPnYRXkMQoYY7ZhCw==;Mcfe9w3UlSGDIVF9xeFHYQ=="
 ---

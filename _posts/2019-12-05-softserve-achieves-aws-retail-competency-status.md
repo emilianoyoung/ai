@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.68F9ECA175D61D318FA1302272B10A5B
         width: 343
         height: 400
-  - title: "WalkMe™ Joins the AWS Partner Network Global Startup Program"
-    excerpt: "AWS is enabling scalable, flexible, and cost-effective solutions from startups ... guidance and automation capabilities. Using artificial intelligence/machine learning, analytics and automation, WalkMe's context-intelligent platform anticipates users' needs and provides help exactly when and where they need it. WalkMe is used by over 2,000 ..."
-    publishedDateTime: 2019-12-04T21:38:00Z
-    sourceUrl: https://finance.yahoo.com/news/walkme-joins-aws-partner-network-183000829.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8F9B370CCBD36DBF14F610C7FEC47A72
-        width: 400
-        height: 209
   - title: "New additions for global AWS Partner Network"
     excerpt: "Available to APN advanced and premier tier consulting partners, immersion day workshop topics and services are set to include database migration service, artificial intelligence (AI), machine learning (ML), EC2 Spot, Elastic MapReduce, Redshift, containers, running Microsoft workloads on AWS, landing zone, data engineering, security and ..."
     publishedDateTime: 2019-12-05T02:45:00Z

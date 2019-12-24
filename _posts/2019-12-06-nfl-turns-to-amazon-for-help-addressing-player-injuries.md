@@ -71,19 +71,6 @@ related:
       - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
         width: 1200
         height: 675
-  - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
-    excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
-    publishedDateTime: 2019-12-04T16:07:00Z
-    sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
-    type: article
-    provider:
-      name: Flatland Kansas City
-      domain: flatlandkc.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
-        width: 700
-        height: 393
 
 secured: "aD9gVwRwW6BvCDKKatkhT99lGLmfRoS2mzpxWa3GQkiMWjSVnVxqKFNJsVYFkmnTs/LKItVaUXWw3JzC3dchv0nrGEHcXIPwxsQvciiocOH9BauCZW/O7AK75Fs1xvAhpY2JU1WzdKFyjxSAsOqUFgpa7Jx2n65fHEoupxfU/zesqTg3mMK0OnFjBPbh2AbfC6HwKiHtk3Y7C8w3yuT4RJEESzZ/Wuupr44av5Dfa6/KJZXutirpg/zoWzeB1xFf+50z1XSIyMZjLnNKE5andQ==;HCjV7A5aaIVbiAqBf4DIXg=="
 ---

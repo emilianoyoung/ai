@@ -51,6 +51,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "mJWLCl+gbJqRgyIwSCB44PmF29xCpv5gCAT7nHizMo6vMxrxAfK0DYrX+AxhFDJ1N1pWcUihdb5Cju/EqeNFQqoLRtf1/LtOLdD3WI1TILLy/zM/V9WWwt8zhQwkmPCRzMXpA/FLwX0yIyTLM3/okXA5BlbX8uJzYHNsAxk1mCBJHI1SqiFOgKo+K9dJ5Gu5ReF7m1A8d42iriRglDfgfIPuCqgoY5KPLwPoOAHjaSm98deH9xUNZCFsaQlBI5vrnhXv9uWt3X64fCgmNE8fWQ==;L8gixnAN+OY/BC8HuCTU4g=="
+secured: "LxtGJTeWZ6okp3rMFt5jNZG3fIt4DqVJEx2ADep9Gm4ACTbW+sx+SMVxXoCuxu2lk7/5rgLaK4Z2bHJ1hpqGUeI9zqeHS1nbLnwRbKP1Vag21LNpAJjX9CY5IdKLml3cQ1dIqNPZJ7ui2Ibd8TyLH2zNZ9wVDB44LN6Jb0dRnfSzXWd0G44VJDV+NyOKj7RsnH92BBEpLFmztXeFZ6HP5RINYzAfco9gMmFp6hJMfLnDABX6virk0EU28oT9FmLTYhNaw/aoZYjjs2KpYt7ymQ==;Nhn/EacKS2wwlXfib6ezxw=="
 ---
 

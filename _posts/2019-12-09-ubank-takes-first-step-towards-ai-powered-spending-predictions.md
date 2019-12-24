@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F39AEE96B8A490E46D76687F3DB0E20
         width: 600
         height: 397
-  - title: "Fighting bias in AI-powered decisions"
-    excerpt: "At a Nov. 20 panel on “Artificial Intelligence at Work” hosted by Workday and Politico, Rep. Bill Foster (D-Ill.) pointed to the history of loan discrimination against minority groups to highlight the need for to the ability to overwrite neural networks to prevent unintended bias. “It is statistically true that people of different racial ..."
-    publishedDateTime: 2019-12-04T22:02:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/04/algorithm-bias.aspx?admgarea=TC_EmergingTech
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CD57EAA25957A2E0AA820CB7835CD19C
-        width: 700
-        height: 338
   - title: "UBank adopts Basiq's AI-powered tools to help Millennials budget"
     excerpt: "Peter Braig Other major banks are also ramping up investment in mobile banking applications using artificial intelligence technology. At RBS, McEwan had the mantra of being \"a smaller, simpler and smarter bank”. Ms Hatton says UBank is true to that philosophy. She says it is developing a data ethics policy guided by a principle that “the ..."
     publishedDateTime: 2019-12-09T13:28:00Z

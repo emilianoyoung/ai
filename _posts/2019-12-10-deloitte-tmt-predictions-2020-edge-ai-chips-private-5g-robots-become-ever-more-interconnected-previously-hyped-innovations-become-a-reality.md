@@ -48,19 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
-  - title: "What healthcare will look like in 2020: 6 predictions"
-    excerpt: "In 2020, artificial intelligence will face more ethical challenges ... consulting firm predict themes and global forces that will define the next 12 months in healthcare. Below are six predictions for healthcare in 2020, according to Frost & Sullivan ..."
-    publishedDateTime: 2019-12-04T21:49:00Z
-    sourceUrl: https://www.beckershospitalreview.com/strategy/what-healthcare-will-look-like-in-2020-6-predictions.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png
-        width: 460
-        height: 460
 
 secured: "4OVUmYj1z7aESnu6N5dzqymcdM2uof4JyYLyPB408mGA5XQ8AnKDPXgNzkcRmZKYz18M6UFAVsn9Y4D/J026h7hKMGWDGP6c+NxVkpA6gLneDr2Lnvt/6U8MUA70N9AV0bNUPWYgKAkWS7T37D9ikAac71xwhEPmn962hpUVzKI7fTx7h9aTwl7d0OOXRCaYo6vH3OLNQrpp1iv9b/ugRwZii2nZCmgO6Bf3tj25z32GNYB45i6mGtLRbhsTb10FeOdZHhXzwjLMNrPMabRogA==;VGvIaKGzzlu6zrcNjPXIDA=="
 ---
