@@ -215,21 +215,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
         width: 600
         height: 390
-  - title: "Homeland Security Wants To Expand Facial Recognition To All Entering Or Leaving US"
-    excerpt: "Many of us use facial recognition technology daily. The latest iPhone uses it to unlock your phone and conduct transactions. The government has used it for years for non-U.S. citizens arriving in the United States. Now, Homeland Security wants to expand that to include anyone arriving or leaving the U.S. They argue it will make us all safer."
-    publishedDateTime: 2019-12-04T02:14:00Z
-    sourceUrl: https://miami.cbslocal.com/2019/12/03/homeland-security-expand-facial-recognition-entering-leaving-united-states/
-    ampUrl: https://miami.cbslocal.com/2019/12/03/homeland-security-expand-facial-recognition-entering-leaving-united-states/amp/
-    cdnAmpUrl: https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2019/12/03/homeland-security-expand-facial-recognition-entering-leaving-united-states/amp/
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.04746E1AB79632853AE4C793FF039C48
-        width: 700
-        height: 393
   - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
     excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
     publishedDateTime: 2019-12-11T20:44:00Z

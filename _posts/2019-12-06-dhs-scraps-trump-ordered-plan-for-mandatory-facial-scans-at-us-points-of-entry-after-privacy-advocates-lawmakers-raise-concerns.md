@@ -221,21 +221,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E8244AABD4652FE55B7073A866205E32
         width: 600
         height: 315
-  - title: "Portland, the largest city in Oregon, plans to propose first facial recognition ban affecting private companies"
-    excerpt: "The city of Portland, Oregon, is considering a unique ban on facial recognition software that could limit how private companies use it. Current bans on facial recognition technology, such as ones in San Francisco and Oakland, California, only affect city agencies such as police departments. If the Portland City Council passes the pending ..."
-    publishedDateTime: 2019-12-04T02:49:00Z
-    sourceUrl: https://www.jsonline.com/story/tech/2019/12/03/facial-recognition-portland-oregon-ban/2601966001/
-    ampUrl: https://amp.jsonline.com/amp/2601966001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2601966001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.84D3711EA8921BA32321B374A33F71F9
-        width: 700
-        height: 367
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-06T00:04:00Z

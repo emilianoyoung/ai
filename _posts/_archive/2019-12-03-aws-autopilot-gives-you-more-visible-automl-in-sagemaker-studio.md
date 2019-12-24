@@ -23,6 +23,17 @@ images:
     height: 3456
     title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
 
-secured: "Fnt615TnLabOkePFyxIkEYqUQUqlxtbJ7xz3TOmJmE11fW9Ho3krOnC5LZLSxQh1g8ldT0LfN1XeGhxLo/HuFQCfiwMYd2Itbrc+SoW6z3uvBUwH8C1c1ZDvyP1RS2h0N4jEFrfyHu6SyMVVI1gi1RzknhU8LMC5QD1QVTcrPEaDK3tOzfhO+BzTMS6EQ+m+aIrSTu7pYbCRzMCxWNvC0tjOTWxG5YoA9f3k+huZr09/iNOzGPsUPwQTzU6B0sH5u/mjYIib92zqXmiuC/kV4A==;5FGBlF3eFcui/1OloWF40Q=="
+related:
+  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    publishedDateTime: 2019-12-03T00:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 19
+
+secured: "rytd4wV1ajxpMy5X8ypQJJds8Vq1Ce702WN9ZOb2xtLLea7zFINL7SL0YYeGB/jR5bBdaA2GgE+hV+1VEmmsAWU7PhVUu0V1Hi7CU9f4uowc/y2CwL6RtPXZPaWR/Fv9WZ670WS++8SoidD1G+CMtZv1xiprUsPhzSziMBq+rHaWEQsmC65bzgA9cr4bQNyeeCF6gjr7iuKO8u/h42JV8cYLxnJio0BlF5qclKaNJ4TeklOStkj72FCPs4Xp17n29d/scJvw+2E8XxgFms4B3w==;eV+bu0JioKcU2b1p/2Ovkg=="
 ---
 

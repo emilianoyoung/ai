@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-it
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
-quality: 84
-heat: 94
+quality: 104
+heat: 144
 published: true
 
 provider:
@@ -23,7 +23,28 @@ topics:
   - AI
   - Google AI
 
+images:
+  - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
+    width: 700
+    height: 525
+    title: "Google DeepMind gamifies memory with its latest AI work"
+
 related:
+  - title: "DeepMind cofounder joining Google directly to work on applied AI"
+    excerpt: "Alphabet-owned DeepMind is widely regarded as the premiere artificial intelligence research lab. Co-founder Mustafa Suleyman announced today that he’s joining Google directly. Suleyman started DeepMind in 2010 with current CEO Demis Hassabis and Shane Legg. Originally chief product officer, the Google acquisition in 2014 saw him become head ..."
+    publishedDateTime: 2019-12-05T17:49:00Z
+    sourceUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/
+    ampUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
+    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
+        width: 700
+        height: 350
   - title: "Google’s AI makes memory a game"
     excerpt: "Tiernan Ray explains how DeepMind, a unit of Google that develops ambitious AI projects, found a way to stimulate the kind of long-term planning of risk and reward that humans do by turning memory into a game of actions and future payoffs. Read more: https://zd.net/2YEyR9W"
     publishedDateTime: 2019-12-09T19:56:00Z
@@ -37,7 +58,33 @@ related:
       - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
         width: 700
         height: 525
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
+    publishedDateTime: 2019-12-05T17:49:43Z
+    sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
+    type: article
+    provider:
+      name: Business Insider on MSN.com
+      domain: msn.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
+        width: 700
+        height: 350
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
 
-secured: "21ZM/EqcJ49cXXvUSsXCT73oP/xvVNZvM8C9dU8/4q4dzVfNmC5uRRQ8/a9MwACS8ArlmZhz3M49weBT2JmUn8sSJ7tGJBWoGFoGpzbphk6FRjylxg/71xFMu0ArMYMqUp//HIchJOgVJkg4D0VsSYpvyarqp4FqWmjvkwYv557bq+IPAgQPd5Aa2iUWcUfHR6O3q13a5sD0/JPfRs9Pfd7sRC2IKsps0wj01nHy6dKVe2CGjsG05A7LFvdsgQIBYNh1WRph6cKOPOi20Gphig==;SinregE4SFgir7EHxGPtIA=="
+secured: "MaQHzcz9CJyOQJcyS1tD16DRne8CAS1eE4YRWsSz5hWcVKFb0EY59jtk7ohkOuVLk+/2GZ+iGN7dVFXeJtqxkJ6lib7rctb5buADnls4NPixEBQ8cRyNTRe0bUqL19y4Rx/26H1I617BUwX0foleqamhwxjLyPx0t9azqKVKsuSsRLvV7Ygzo14GpjFSw3MeuB2UddNCagVqr3XgQhGJ2Fdf+0w/k21Gi+PkqAxSBFzq1bT3ZaLsJiaYuNvxitjejdJksk1LBmV07sML5XP4yA==;ZNvRrM6evUx/B8qkBrKJNg=="
 ---
 

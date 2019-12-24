@@ -1,11 +1,13 @@
 ---
 category: news
 title: "Intel buys AI chipmaker Habana for $2 billion"
-excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the A.I. market. The company clearly doesn’t want to repeat past mistakes ..."
-publishedDateTime: 2019-12-16T15:03:00Z
-sourceUrl: https://news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
+excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
+publishedDateTime: 2019-12-16T16:15:00Z
+sourceUrl: https://www.yahoo.com/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+ampUrl: https://www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -18,7 +20,7 @@ topics:
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.AD8BAAEFBE89562C8B0E9FA41E146A6E
+  - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
     width: 700
     height: 466
     title: "Intel buys AI chipmaker Habana for $2 billion"
@@ -721,6 +723,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "OrVyexzC+/QsytoECpIui+EtIlwhvbp+T8CgQ8ZDb4RIzr80kPTQ25tRNqrMy8JA3mBHMbkq7SIucP1ngY2/0RD8I8S/4sjfML72sIqUXQ4YJWbfp4l0m+uSWwhxLTNRBwru+wVnPHYz5UZfRCLLLq051VIeA/9N1p+0mTGGPHPpy+tqzjEqX0v3/7goEBMAotOcZliCkSXt1Qx7lQBiq/wy2djHMt3uC6cUdo2w/aqthbHPt0EGZ1YsIo8wtBjJiSKqTBuI1Xb2j43Ajs9Q3A==;7k5FjmdKm2LOVQHScSjCNg=="
+secured: "LxEOjSdZB/8givJ4Uzt5++irOLTtnIvvrOcnT5XJPhQ5j+O+RNEE36WKOOZKwu3HIKHPjljIoS9QmJJ+mwVdrJhOGIBslX7Xp02Xd793Utq1KSF8fomvhC+qSitp5f+fyqG86jcxSna2TJ3rC4vpZ+iKP9XxgOC55+L5oDI5P2BNzzh0m826oqLX1nMua++XWefhz6qrPRXWrut785bYgPkzAkhiDmgf5o36QrpiWnrI5qg+cuL70PSk+5ZnIV40Ma8Ab/fG05wdPckShFGOkg==;jIv7WCacJtF2UGsj7L0FIA=="
 ---
 

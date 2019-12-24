@@ -18,20 +18,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
-    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center market by selling $250,000 Outpost racks. This project is being overseen by Amazon Sr."
-    publishedDateTime: 2019-12-04T02:22:00Z
-    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
+    publishedDateTime: 2019-12-03T18:32:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 45
+      name: Yahoo!
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.09130902963B03403B5903EBE0A7231C
-        width: 700
-        height: 466
+      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
+        width: 5184
+        height: 3456
 
-secured: "5vDVHleGfwY8TE89b4Kj1SxWRfYZHU+gjDyABDJhY87G3ku7ASaljCu3YERsQZG5bc7MCCR2JFtmln3l3P6wvKM0KDvD08E5FvvjaiS4fh020NkLyttDM05aeotgeuV0qcB+Q/cCPR3XMy4sstg18VzMhMRzfwCp1nK7CLvRH/ZQ4cDT+6fx7gDn3kBJTZHxETf40RQR+euoPQYv2nOmLQq+eYNPiWKseZ3/e2i2HrrDkVU2gy26gvSUS1N2lhjdjBaIp1rDyfT1eAUNUZQP/A==;FYBhNyCfZhOf2N7JV16zFw=="
+secured: "gO/ThDsZtXjNApp0WuK2r2GG+qSfhGmuH1dlSwodvynlMxogjqipEXMMh+9fcMEc+1Uh/YSuuUqmA3ratxjZ00As7Bp8HHgPMDf+zu2fGh5SqBP+ZSdndflIKStxmZElCb2si+zI0V9RpKSqqOT1mMS1T4AVwhggX0MBoZU41ZrGVuSQNmmu/KB7VUozTfi55FcoQSYwy7nGA51tY3Av8S/BYO1I6hxZpbF7yjF5jFppgGffpvvhhf24LrcfdkJZhyI5TGPDIybt/csuqG2UhA==;tMBKkwv98hZdUK1MQD+D5w=="
 ---
 

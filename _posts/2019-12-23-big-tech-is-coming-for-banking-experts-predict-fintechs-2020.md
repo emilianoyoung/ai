@@ -3,15 +3,21 @@ category: news
 title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
 publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
+sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +29,6 @@ images:
     height: 466
     title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 
-secured: "ztLtA1LZliWwfL4BHKkil1cVMnVlvPDqSMxDEIcc8EPePbRKlcOi8/wksSS1+0hgJ4U8l99SeAoUF0p5xwgwnsje/Oq/2mqby/e/9G1vMp9phOI3zNPyVEwpDCT2qjUzXd9FloDGzX68KBNiCFH5wyNkjFTRCnIArnNRuryRy/V3EqJUEXaTmT3jemVMDw4N4is47yZtV3oLwHj4moGRMnRXDkbHI5KmjG5bvwTLnebh7R+nl8af0+LMJq/VwtXDBpulrKrru2whGffe9dcamg==;Di8oYhO1YYLWkTSvLuhTwA=="
+secured: "SKZ59jwb31FQ67XPwbXJoerGZWxJdHikN+ZfSjb2Pz6cKIpovL7TGLlEW8C1UN941JPws9xPDovBz5dMkwfBPDPtXqJLGezv/yoHTt45ap/rDZ0un6rthpMHnMDHjdOXSBmZ8wJXaXqHdLUzkRzrCiP+jxgN2FdkBC3Cin3VxJfZ9kHtXo04OR7vUS7xsSlCBLt7RUSfx7z5Ayo/9sO5J3YLh3Uu1Pxkp/AP88bI48buffeBci0kvXyEU8g22+IexiCkw33/oB0IlmOFqYQPow==;Bt6sQd2aBpRQHV1+zH5LZw=="
 ---
 

@@ -87,6 +87,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
         width: 700
         height: 466
+  - title: "Singapore investors plow into health care startups"
+    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
+    publishedDateTime: 2019-12-24T03:35:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
+        width: 700
+        height: 350
   - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
     excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
     publishedDateTime: 2019-12-19T04:24:00Z

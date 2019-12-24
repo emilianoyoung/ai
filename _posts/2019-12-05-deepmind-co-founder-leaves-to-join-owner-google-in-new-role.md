@@ -52,21 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B582701F9A78789FC87A3E8692FEBDA1
         width: 700
         height: 350
-  - title: "DeepMind cofounder joining Google directly to work on applied AI"
-    excerpt: "Alphabet-owned DeepMind is widely regarded as the premiere artificial intelligence research lab. Co-founder Mustafa Suleyman announced today that he’s joining Google directly. Suleyman started DeepMind in 2010 with current CEO Demis Hassabis and Shane Legg. Originally chief product officer, the Google acquisition in 2014 saw him become head ..."
-    publishedDateTime: 2019-12-05T17:49:00Z
-    sourceUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/
-    ampUrl: https://9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/deepmind-cofounder-joins-google/amp/
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
-        width: 700
-        height: 350
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "While Mr Hassabis runs the core artificial intelligence research at DeepMind ... infra and [self-driving car company] Waymo,” according to LinkedIn profiles of employees. Mr Hassabis pointed to other examples of collaboration, including research using machine learning to accelerate ecological research in the Serengeti, and work with Waymo ..."
     publishedDateTime: 2019-12-05T17:22:00Z
@@ -110,32 +95,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
         width: 400
         height: 300
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-    publishedDateTime: 2019-12-05T17:49:43Z
-    sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
-        width: 700
-        height: 350
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman (pictured) moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman made the announcement on Twitter, saying he would be joining Google to work with its head of AI Jeff Dean and chief legal officer ..."
     publishedDateTime: 2019-12-06T01:34:00Z
@@ -189,6 +148,6 @@ related:
         width: 632
         height: 422
 
-secured: "SjJ5ty6QRa8kil4zXXb0rc7xOZHKx2VI7/YGWZXyOcFBUEvO0Qtzi1IWPUarbRnBHtIWkgrX3nzQKWRmPU9EOFiL/fAsdvXVKqO2Dl3lUNAIc4lkMLferSUMZZn0zzezfeujBeqYk754oLKsBmS3u4n9UKHEMv6bmJXPhR6N+hpxHRZGDCWp7W/gLjEOuNvfsk/lWgK1tTgFR3BZFXD87a3BBocZVSvuJNZ9FKp0uzT862lIWONC7MqdeVEUZS4AWlvX96X2dJO42uDkCPQOdw==;LgRrxFCezaz9cXIpDYc9jg=="
+secured: "NiFQmmUCAtXLYKqoBi55+QnpXNzBhLn9X0dmqwIR/YBdLaagKAVmFcYVDuz1cdBYB8r7zvdd/Dwc9pPvnKyxmvDbYWjjFC6DpIemd4+940v9BZNA3SS6FybLgTBbM3C1ZQjVBq5qGWBoOVekVZN8uwLj34dHAMyIPzhvJfqeoDPipQLNmraXa0jfOsttvLCAz2zaCF39LfjKIORh0Qd4oA8if9Gg2Po26ULPVtAZHG2ov0rMAMPt0Mq2sm5orW++Cf4qcO0USv+chE0xRhwF1w==;bW6jZDzu2Ikf69hw9MKOWw=="
 ---
 
