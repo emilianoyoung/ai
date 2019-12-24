@@ -51,15 +51,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-18T17:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
     excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
     publishedDateTime: 2019-12-20T12:08:00Z
@@ -86,15 +77,6 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 0
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-19T00:47:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
     quality: 0
 
 secured: "5CKVMN/QWkdw3vF6WprOMJm7NJTrDhbx0NP71RWFjgU/6ENZ+Ka0ZpNKM5CzcWTnsxgpkjLX2TRGThj5CYYkFkt9SIbzgx9hUGNEYDwpBIwpWttJCi/eFiLctr95Y4OoI8V0elcRa9gMEkyR7nOWmwQ+xnvSyopzn3s87QaERJo4VMTwzrq0XGe2YARduLuY2WDrJNUdQ+0AQhIvfkFwBVuWtXohNeBB371USf0yD3BsQ/ZJ+hmCM7LUWCL+YevjaseI125MRHjCzwqUE0dDLA==;aQlCk+Md1Xfr4Sa+CVqoCg=="

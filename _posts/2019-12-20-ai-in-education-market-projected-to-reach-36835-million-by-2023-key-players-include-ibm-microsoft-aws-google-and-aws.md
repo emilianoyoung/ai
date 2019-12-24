@@ -59,15 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
         width: 600
         height: 300
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-18T17:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
     excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
     publishedDateTime: 2019-12-11T08:30:00Z
@@ -85,15 +76,6 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 0
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-19T00:47:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
     quality: 0
 
 secured: "0IEvgnkM4TlaUOeG+oQPY6OO/Yy7rO0bddaDI97cVnWBbQ6HV7pXO9ycRYAmYb9REjHvYdXxxtD67Q+n3f5yyB/Jr7UFRR0C1z1NM62UWoh7xEDtY61MIFivf3VR3O/umsDY9o81ZWHfyq3DnjMx08RutevT6vWtVV9atjPcP5HRyyHb01sS5rxA+HTX3S6blcsRalWTf/ng7+zCqgw9FXo9IL8SLXDqkJkD56OTBCTYOefI+syzmH35Xctiur0UaKNZz754aN2b9/h2P8v0UQ==;+Wlqx5jsQy5vqHtkJZExyw=="

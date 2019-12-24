@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DF68BB8A55867B0995C272856E1E6AA6
         width: 700
         height: 504
-  - title: "China Demands Facial Recognition From Mobile Chip Purchasers"
-    excerpt: "RIO DE JANEIRO, BRAZIL - The adoption of facial recognition by China has just reached a new level: as of December 1st, Chinese consumers contracting a new mobile plan or service must allow their face to be digitized during the registration procedure with the operator. The Chinese government has been using facial recognition for some time."
-    publishedDateTime: 2019-12-04T09:10:00Z
-    sourceUrl: https://riotimesonline.com/brazil-news/miscellaneous/china-demands-facial-recognition-from-mobile-chip-purchasers/
-    type: article
-    provider:
-      name: The Rio Times
-      domain: riotimesonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B2E61F7CDF38170B330C0ABA1C109EB2
-        width: 700
-        height: 465
 
 secured: "oG/+kfhXt7uFbbSQqmNcp/1xS+TOb+hZCOCgU5B9Yp6XRpAQgGiFAyqgAL5Ab4qpHet+abF2Kv+sOCzw19Xk3gdbVRuzU8iVh6XqI3ZSrk82kmPVFv1jsAyNc9MkxmNWwFXMxAYzqg15i5F2HqJbCvd6qsZSk2mqjpdU5RA+BM61SPTMXbA/Qr/XIzmgEJYVk9Re8Lpb8P+i2An8pO5SlSHCnSUqhkFI/ZSVtYjiuJU0ByMriz/Pt3Ti+a6M3m2jOHK96ANVKQuJAOqj5cKl6Q==;CWOkKyv/T8jrTCpc7+s4wQ=="
 ---

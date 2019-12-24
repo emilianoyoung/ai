@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T13:34:47Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/aws-announces-the-machine-learning-embark-program-to-help-customers-train-their-workforce-in-machine-learning/
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0B31AAD169E643317783157513853DE9
         width: 700
         height: 394
-  - title: "Amazon sticks AI inference chip up for rent in the cloud for machine-learning geeks"
-    excerpt: "Gravitons, Neoverse... you'd be forgiven for thinking AWS's second-gen 64-core Arm server processor was a sci-fi re:Invent Amazon Web Services has made Inf1, its cloud instance for running machine-learning software on its custom-designed AI chip Inferentia, available to all. AWS CEO Andy Jassy announced the service on Tuesday during the ..."
-    publishedDateTime: 2019-12-04T09:09:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/04/aws_reinvent_ai/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 50
 
 secured: "keFKGZeB03sUzy0HgV1Q2ObwPMq4b4HSF3Y66KOToIvKxClpUrXqxJIJjkW/9oysHz45Ek1IwAMP6QjNNHRMWODmM4tLSfxQiZ0rp4qFPIlwj7PPL4zRUgo30DpXKw5k4bY8bolxFFvJqeMxtaQkOmGYyr6QOGJ71aIgdM/9X0ejNYLjizaYmsAoQaO9r4kSYe3jLRKCfos5bkFtsO2jFVUVYUPWL/X6FtZG5FlWd9m2D3wk+BSjdlJLIfOVaBBCgSakX4aR0QDNoX5kQYfpRQ==;oVL49LMnUP9k9WQ4FkBl8w=="
 ---

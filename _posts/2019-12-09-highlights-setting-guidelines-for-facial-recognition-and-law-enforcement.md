@@ -8,7 +8,7 @@ ampUrl: https://www.brookings.edu/blog/techtank/2019/12/09/highlights-setting-gu
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2019/12/09/highlights-setting-guidelines-for-facial-recognition-and-law-enforcement/amp/
 type: article
 quality: 58
-heat: 78
+heat: 68
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.22C30B1D3B90076B616338056377DA81
         width: 700
         height: 393
-  - title: "China Demands Facial Recognition From Mobile Chip Purchasers"
-    excerpt: "RIO DE JANEIRO, BRAZIL - The adoption of facial recognition by China has just reached a new level: as of December 1st, Chinese consumers contracting a new mobile plan or service must allow their face to be digitized during the registration procedure with the operator. The Chinese government has been using facial recognition for some time."
-    publishedDateTime: 2019-12-04T09:10:00Z
-    sourceUrl: https://riotimesonline.com/brazil-news/miscellaneous/china-demands-facial-recognition-from-mobile-chip-purchasers/
-    type: article
-    provider:
-      name: The Rio Times
-      domain: riotimesonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B2E61F7CDF38170B330C0ABA1C109EB2
-        width: 700
-        height: 465
 
 secured: "6009Ulnr7Vc0OTENT1FpZbQmLR6gLrA0QWeTIod1lkToaWiwZ/Ie5J864ip9ueUBzMu2FjGbHLnpWYtGZdlAzjoIj6RLJjOVqbD1F9/Y55uu2UkkRSl+/nnwZN625kLyneaVJvrT1oPqg3/dCiZ9xmb3VplywTHLtRr+TRxvC1ew8kNBgyhh0kzaPTcMsf14Sr66aaDeAQ8TFWkhf8R6IIqlaP49OD/agG3hbpiBPva1nAopaLcihRk4Iyr3ItBZl3f4xqAeLC82DV19Acg8OA==;NNRdHAzZDb4krwkBpVPo/Q=="
 ---

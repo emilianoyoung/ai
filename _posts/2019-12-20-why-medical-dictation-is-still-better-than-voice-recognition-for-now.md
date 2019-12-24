@@ -82,17 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
         width: 700
         height: 632
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By David KIRTON SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on ..."
-    publishedDateTime: 2019-12-24T09:14:00Z
-    sourceUrl: https://www.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
-    ampUrl: https://amp.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
-    cdnAmpUrl: https://amp-insider-com.cdn.ampproject.org/c/s/amp.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 22
 
 secured: "s2TV0KRFNS1GmVYaB16s+GnHMqCEGH4CeItddgqc/VJKmHgyuQMX72DPZ54OAvS5gppABfx009OFPe7l/cabrAf++rn8c3JJnt1sPxrUficZVB5WulJ5X3TVJtoPe0Se64BPyJocQCo3W0BpbRHhUCixSSfB76wUY+bXdCDZSPOIjrb05I64RotiU3CdTXLmX60dGztnGV8KkW28B8Uupikr/m9iy9eNb6yKyASAu9keQ40cHE9nL9Pq+g+amRjSJxKOxD8+/LvxLXlAGzyt8A==;Jpv6P6T/x7Sgv4oWd/z6oA=="
 ---

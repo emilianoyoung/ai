@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T06:02:00Z
 sourceUrl: https://www.thepeninsulaqatar.com/article/09/12/2019/QCB-set-to-announce-FinTech-strategy
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 502
     height: 355
     title: "QCB set to announce FinTech strategy"
-
-related:
-  - title: "Place your bets at the fintech casino"
-    excerpt: "If you think that’s a complex environment, fintech introduces a whole new level of complexity involving digital banks and their data sharing APIs, payment rails, distributed ledger technology (aka blockchain) and artificial intelligence (AI). It all connects to money, so it should matter to accountants. The annual December pilgrimage to ..."
-    publishedDateTime: 2019-12-04T09:38:00Z
-    sourceUrl: https://www.accountingweb.co.uk/tech/tech-pulse/place-your-bets-at-the-fintech-casino
-    type: article
-    provider:
-      name: accountingweb.co.uk
-      domain: accountingweb.co.uk
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8B8FDE3CACA98E333465B470E83B6B99
-        width: 700
-        height: 486
 
 secured: "m8MgxF4VjkdHRuYPg2EdH2Q4Q13xKeAkwIXAjZL3o0AkuSZmQk7Ov7ZqDMttlxjpzFKqdzo7ISd1q3qORHHKDZArD1JWeK1VkImK3dXVJoSRiKhqAUOs1NGhz9+gfibl5uip1lc62VN/SJXiFuygPDnUOMt5EktCop4PMMS31cBfUoEZDCkrfKJyWXSfQJH6GRZ525wPS+I5fPdKc5W003LFmVsaVq9xGs+2EsibRn5d3519ZrjwIYyshGhqwp96zh08Ke+yihZFpMx0rGJUiA==;wWwL8PW2+GsTmktYcBcryQ=="
 ---

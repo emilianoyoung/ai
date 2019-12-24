@@ -54,15 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
         width: 700
         height: 367
-  - title: "Artificial Intelligence, Digital Assets, Enabled Customers and Advisor Platforms are WealthTech Trends to Watch in 2020"
-    excerpt: "NEW YORK, Dec. 4, 2019 /PRNewswire-PRWeb/ -- Xtiva has compiled a collection of insights from 20 top WealthTech and finance industry influencers identifying trends that wealth management firms and advisors should pay attention to in 2020 and beyond. Key insights identified in the WealthTech Trends 2020 report include: AI and data-driven ..."
-    publishedDateTime: 2019-12-04T10:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-digital-assets-enabled-customers-and-advisor-platforms-are-wealthtech-trends-to-watch-in-2020-1028736316
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
 
 secured: "OPCNEXa9VDgzlAvKInqjGAD3jtegi7jV0sUcI6k/e+1aikRSQWxTwHUiJMwgdxLtlDscEBsBxaxUYmSiZzyF0txdfM5QCYTJpTMTM3BsarFxBFVlzYtL7Oy/7uQ+fWZnS2LDUIM818WBbo5xmxMgEM6FIZiikMGeqZQ42cp4nlN2sVPOpXCQdyMpwBjUEZGy/Swd0hrYm720FV8i8w2yGxdrqfpvDsNzS80bD0D5nSoAd8E8sIQC8jstN90dqOGXrdsDXamgr8F+LA0a9Wy/Xg==;UdDbY/bW7LPPdUwuT3eA1A=="
 ---

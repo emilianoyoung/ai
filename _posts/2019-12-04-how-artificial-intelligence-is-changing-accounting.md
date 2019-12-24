@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T15:01:00Z
 sourceUrl: https://www.finextra.com/blogposting/18220/how-artificial-intelligence-is-changing-accounting
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -15,36 +15,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How Artificial Intelligence is taking over the world"
-    excerpt: "Artificial Intelligence is everywhere. It would be impossible to go your entire life without using artificial intelligence. The software in your smartphones, ATMs, Cars and Robots, its all intelligence. So what is this artificial intelligence, according to the internet of things the AI is a field of computer science that attempts to stimulate ..."
-    publishedDateTime: 2019-12-04T09:38:00Z
-    sourceUrl: https://www.standardmedia.co.ke/ureport/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
-    ampUrl: https://www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
-    cdnAmpUrl: https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/ureport/amp/article/2001351990/how-artificial-intelligence-is-taking-over-the-world
-    type: article
-    provider:
-      name: The Standard Digital
-      domain: standardmedia.co.ke
-    quality: 63
-    images:
-      - url: http://www.standardmedia.co.ke/ureport-uploads/FILE-1575369658.jpeg
-        width: 800
-        height: 500
-  - title: "52 ideas that changed the world: 26. Artificial intelligence"
-    excerpt: "AI is currently used for understanding human speech, competing in game systems such as chess and go, self-driving cars and interpreting complex data. Some people are wary of the rise of artificial intelligence, with the New Yorker highlighting that “a number of scientists and engineers fear that, once we build an artificial intelligence ..."
-    publishedDateTime: 2019-12-06T14:47:00Z
-    sourceUrl: https://www.theweek.co.uk/52-ideas-that-changed-the-world/104744/52-ideas-that-changed-the-world-26-artificial-intelligence
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0E18AE728B6EBD4F08975927CDFF391F
-        width: 700
-        height: 394
 
 secured: "SD72X57fLJXJW0nhVH5xWn9FTbYG+YiHep6AEgqgHlg/X8xprRWZcLwoOfuD+BVJRiNVn7iRde5i1Y6Auy3qjWV6iyePty90I9GTzjnQtEFecJTeHDddp5gEDEQnBJJ0q6zpo2VsDwtQgsSI7W1HOwqDsndXoLlfD2GQ3iyJnmlwL6ToUSmpga1bB3I98+6HTazebNDeGo1fJDA82jFCIvy5ySP9ZQ9MrNW+cl8Atx0cMXYF+3jS1LMPwwuZJCijNC0vQNcfOls8EgldXkck0g==;yi8LTdYoT949WFT3ZjrmfA=="
 ---

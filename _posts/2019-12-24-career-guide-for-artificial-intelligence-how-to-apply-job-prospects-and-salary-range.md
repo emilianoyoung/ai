@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Career guide for Artificial Intelligence: How to apply, job prospects and salary range"
-excerpt: "The Artificial Intelligence industry is booming right now and skilled professionals are very much in demand. Here is a short career guide to the field of AI. Know how to build a career in AI, salary range,"
-publishedDateTime: 2019-12-24T09:29:10Z
-sourceUrl: https://www.msn.com/en-in/news/other/career-guide-for-artificial-intelligence-how-to-apply-job-prospects-and-salary-range/ar-BBYiExr
+excerpt: "The Artificial Intelligence industry is booming right now and skilled professionals are very much in demand. Here is a short career guide to the field of AI. Know how to build a career in AI, salary range, and the growth prospects in India."
+publishedDateTime: 2019-12-24T09:29:00Z
+sourceUrl: https://www.indiatoday.in/education-today/jobs-and-careers/story/career-guide-for-artificial-intelligence-how-to-apply-job-prospects-and-salary-range-1631155-2019-12-24
+ampUrl: https://www.indiatoday.in/amp/education-today/jobs-and-careers/story/career-guide-for-artificial-intelligence-how-to-apply-job-prospects-and-salary-range-1631155-2019-12-24
+cdnAmpUrl: https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/jobs-and-careers/story/career-guide-for-artificial-intelligence-how-to-apply-job-prospects-and-salary-range-1631155-2019-12-24
 type: article
-quality: 31
-heat: 31
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: India Today on MSN.com
-  domain: msn.com
+  name: India Today
+  domain: indiatoday.in
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.876F3233F0332C92EE1B334792FAAB5A
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.85AA450A6C7779FB5D9D90F128492314
+    width: 647
+    height: 363
     title: "Career guide for Artificial Intelligence: How to apply, job prospects and salary range"
 
-secured: "yyy+bPTRCc+Nj6KRJuqmBTI7/Da/4Ymh6G6/YtBmnfcLb7MgHaryqhLbihzDzpHvzubnf7Pk7ncKw4I/Ns/xK1q1Ws6LhK7hhtGTCIKln9jaa1MxHvpwk/XOn+Doj5u6KyO5Qn1BmYYfNNv8pK3ZRi/quosvIJCQn76K4jSlJcTvJ5AfF4Cl+NwOKye0RVe7s8WBmrfiWL0SzgjqYP6CmcnLW+aB3EruhvYh2rsdNS/C+QRhMb/1jf33bqYxj6BNP+XtkEJqo9OsDd02p5u80g==;7LR6s+i0/y+cdqsmaWn0tQ=="
+secured: "hqT9c7soo95rLke+IQ9PGco4QjinKzxWnlSMVzmRPaV142aZa6J5kVCOKTbtZMBlwJPp96oyg8Oc18/X/gLQaittdEU5OGZwobtEDcxgetOsdgjqa3BpXfsssdkHrii2OnYPfTajIJkh2sXhkDffcctZp1x7Wf+p6Ajzk3s+38Jv2hmvu2U2O+HZB0XDrpXj7Pa6/tEvmQ9MdV6MVJnQ1OwwBcKuaq4XecGAytfQLTBNAnvdPxkrKbSKiyQsQ6eGfHZIE0rQpHHc3ecrgrh6Jw==;LT3lJoKgYpxqFpIJ6jtCsA=="
 ---
 

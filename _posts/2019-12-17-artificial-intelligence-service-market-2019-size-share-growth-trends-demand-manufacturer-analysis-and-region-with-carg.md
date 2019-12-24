@@ -57,6 +57,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The generation of massive amounts of data in data centers has necessitated the need for more power than what ..."
+    publishedDateTime: 2019-12-18T15:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005451/en/Global-Artificial-Intelligence-AI-Chips-Market-2019-2023
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 52
+    images:
+      - url: https://mms.businesswire.com/media/20191218005451/en/763775/23/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
+        width: 1200
+        height: 627
   - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
     excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
     publishedDateTime: 2019-12-18T16:58:00Z
@@ -135,6 +148,15 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
+    quality: 0
+  - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is ..."
+    publishedDateTime: 2019-12-24T10:15:00Z
+    sourceUrl: https://www.cmo.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
     quality: 0
 
 secured: "HsLyhIhPFKNRyQSkjWOhyMfakakfDN82IB/MJ+eo41KNmmNMwMvloGFDuL/casN0c8NY43soxMYCOr1SOuKabAh4oBaD2dxN9snI5vYV4eaDK58Lx3pEB04gatrjx0vX7p6li2TlzYAj+GHoJ60ng0RUDP2J+C+7qX3xxEDf6UxtZKHbIqFslBJPGHVZNiGI6WQbTkLmYbREh+L2aIeutKnYpaAByya567eUzNuZQaOm3E/5hpBxq7r9kh54wUk3cratB9JLD+auBD2NAn3RAA==;7TQJk4GI5jdJfu/CFiyQ/g=="

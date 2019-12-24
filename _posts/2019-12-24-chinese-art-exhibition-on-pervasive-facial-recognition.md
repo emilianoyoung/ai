@@ -84,6 +84,21 @@ related:
       - url: https://images.wsj.net/im-138364/social
         width: 1280
         height: 640
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
+    publishedDateTime: 2019-12-24T10:08:00Z
+    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
+    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
+        width: 640
+        height: 433
   - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"
     excerpt: "Thanks for starting your day with the Capitol Alert. Andrew Sheeler here, filling in for Hannah Wiley. California law enforcement won’t be allowed to use facial recognition technology in their body cameras beginning Jan. 1. That’s because a new law, sponsored by Assemblyman Phil Ting, D-San Francisco, places a three-year moratorium on that ..."
     publishedDateTime: 2019-12-23T11:55:00Z

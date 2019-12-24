@@ -1,27 +1,23 @@
 ---
 category: news
 title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
-excerpt: "TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise, automated 3D structure of the patients' hip for physicians to better plan surgery. The new ..."
-publishedDateTime: 2019-12-17T12:38:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/rsip-vision-launches-ai-based-total-hip-replacement-solution-300975757.html
+excerpt: "New Technology Provides A Precise Automated 3D Structure for Physicians to Better Plan Surgery TEL AVIV, Israel, Dec. 17, 2019 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI), computer vision, and image processing technology, announced today a new AI-based total hip replacement solution that provides a precise ..."
+publishedDateTime: 2019-12-17T14:09:00Z
+sourceUrl: https://finance.yahoo.com/news/rsip-vision-launches-ai-based-133800882.html
+ampUrl: https://finance.yahoo.com/amphtml/news/rsip-vision-launches-ai-based-133800882.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/rsip-vision-launches-ai-based-133800882.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://mma.prnewswire.com/media/1055531/RSIP_Vision_Logo.jpg?p=facebook
-    width: 883
-    height: 461
-    title: "RSIP Vision Launches AI-Based Total Hip Replacement Solution"
 
 related:
   - title: "RSIP Vision Launches AI-Based, 3D Total Hip Replacement Solution"
@@ -47,6 +43,6 @@ related:
       domain: globenewswire.com
     quality: 17
 
-secured: "yoXkcH0tqC307Sc1SmE4QahpX4qtVEq7bwBWjWcQo2bpvy7u0ReRPal/T9esM0yQEMZoI8soymR5IbMBfvME6XPsZgv187c5P8RmRuvIt4n4Jc+0hqhqgyOpjmgTEMmoCq2aAy1BOsr1c9d7AxkAxlJjecsVJhF99DWUYokGwOfz5DQRHYuftTsRb/dsclN0rXpvPCj6PXHpPCvDVivUfYZ/sr3rZrV2HuMGBGRiAeJVgeEJssLh9JTFYMJu8IvMJkDLbc09oeC6z88GONAgDw==;xHM3KHufxXnetMZBp4xAgw=="
+secured: "Maxl9+2fuVS1Qc4hRTNF53GCpLz8yvisDBKbZXOAn2vAPdTRWB4KP17kEqNOjOILlDSMX/QwRn2RKxW4qPHI2j5+ARV4r60KV4ukkNMQBb0sSUc4SHmwtgVXZMtklFo8V4f4WyQlFQ0jF2Y88VbJ3T9YJOmboyuyA22pSaBU++GuUFr2vmrDt/VRn0mjPp7CuLA5fb8UnMIXzUKOALHmedBx6EB5rnCpf21yUF339ECSFMS38J7bheBX6xesIka7XKyVv09g0JVtxyMBEpAs2w==;RVSD/JJ35zEsFZ21/UiGRA=="
 ---
 

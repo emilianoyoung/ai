@@ -73,6 +73,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
         width: 700
         height: 366
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. By David KIRTON SHENZHEN, China, Dec 24 (Reuters) - An art exhibition exploring the impact of facial recognition technology has ..."
+    publishedDateTime: 2019-12-24T10:08:00Z
+    sourceUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24
+    ampUrl: https://www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12-24?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
+        width: 640
+        height: 433
   - title: "Chinese art exhibition on pervasive facial recognition"
     excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
     publishedDateTime: 2019-12-24T05:30:00Z

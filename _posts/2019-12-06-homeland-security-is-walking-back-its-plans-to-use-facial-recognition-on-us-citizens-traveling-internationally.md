@@ -110,21 +110,6 @@ related:
       - url: https://www.bing.com/th?id=ON.13395A142C83965C66FDC0588B26D25B
         width: 700
         height: 394
-  - title: "Facial recognition needs a wider policy debate"
-    excerpt: "In his dystopian novel 1984, George Orwell warned of a future under the ever vigilant gaze of Big Brother. Developments in surveillance technology, in particular facial recognition, mean the prospect is no longer the stuff of science fiction. In China, the government was this year found to have used facial recognition to track the Uighurs ..."
-    publishedDateTime: 2019-12-04T10:00:00Z
-    sourceUrl: https://www.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
-    ampUrl: https://amp.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.CE1D62F650AF8E58E5AA156119E04F18
-        width: 700
-        height: 393
   - title: "Portland plan to ban facial recognition gets eyes around US"
     excerpt: "PORTLAND, Ore. (KOIN) — The proposal in front of Portland City Council to place more restrictions on facial recognition technology than any other city is making national headlines. This proposal, different than other city-bans across the country, seeks to ban the controversial technology in both the public and the private sector. No other ..."
     publishedDateTime: 2019-12-04T22:27:00Z

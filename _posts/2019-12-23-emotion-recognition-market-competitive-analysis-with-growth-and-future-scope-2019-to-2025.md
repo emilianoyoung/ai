@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
+    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
+    publishedDateTime: 2019-12-24T09:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
     excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
     publishedDateTime: 2019-12-21T09:38:00Z

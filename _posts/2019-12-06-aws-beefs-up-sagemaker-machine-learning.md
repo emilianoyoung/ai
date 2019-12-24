@@ -104,19 +104,6 @@ related:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ML more expansively. Launched in 2017, there have been numerous features and capabilities ..."
-    publishedDateTime: 2019-12-04T09:38:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3EEAE00C803847411B5E000CCF2AD641
-        width: 700
-        height: 525
   - title: "Going meta: learning algorithms and the self-supervised machine with Dr. Philip Bachman"
     excerpt: "Deep learning methodologies like supervised learning have been very successful in training machines to make predictions about the world. But because they’re so dependent upon large amounts of human-annotated data, they’ve been difficult to scale. Dr. Phil Bachman, a researcher at MSR Montreal, would like to change that, and he’s working ..."
     publishedDateTime: 2019-12-04T11:26:00Z

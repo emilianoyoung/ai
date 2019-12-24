@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
         height: 466
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR ..."
+    publishedDateTime: 2019-12-10T11:07:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-8308256
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 30
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
   - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
     excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
     publishedDateTime: 2019-12-06T18:32:00Z

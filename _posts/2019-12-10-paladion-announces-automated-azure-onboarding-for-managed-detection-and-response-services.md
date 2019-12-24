@@ -1,93 +1,93 @@
 ---
 category: news
 title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
-publishedDateTime: 2019-12-10T10:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
+excerpt: "Azure's capabilities reduce manual operations while making ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR ..."
+publishedDateTime: 2019-12-10T11:07:00Z
+sourceUrl: https://www.finanzen.net/nachricht/aktien/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-8308256
 type: article
-quality: 40
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
-    excerpt: "Auto manufacturers are continuously adding new controls, interfaces, and intelligence into their vehicles. They publish manuals detailing how to use these functions, but these handbooks are cumbersome. Because they consist of hundreds of pages in several languages, it can be difficult to search for relevant"
-    publishedDateTime: 2019-12-10T17:29:19Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
-        width: 387
-        height: 337
-  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
-    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
-    publishedDateTime: 2019-12-10T10:54:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
-    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
-        width: 700
-        height: 233
-  - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
-    excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
-    publishedDateTime: 2019-12-10T15:26:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 40
-    images:
-      - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
-        width: 800
-        height: 534
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-06T00:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 17
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-13T18:34:00Z
-    sourceUrl: https://apnews.com/06de89d1be9d49978e29d6bdaffb37ab
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+images:
+  - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+    width: 600
+    height: 315
+    title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
 
-secured: "f5WqFetkL+KkZK3I3QwLPkcYPRGW8XWn0yBL/Sr0NzXBVFgKMh5nYsCY2ErMMl8QqdcRsJBEN3tyoowelRJP8grNaMgblzfqgFWL8FR4hv1G11QYt9bfAFu0v9oDBcTO5sZnjjPXo//RdmRi0+IVIANqGmuAqiDmaDBz0v9yyWrwGAfWQNGtZZJgv8Shoae0EiEDbSeE22PvPdc30cmHBhVX55rNws+7zqD8ulqnT1/u1k8yrQQnxbU+0o2whsaNszMcWzEfKIVi3JKZvze2Cg==;DWac4o0SUn6BRvRqNLX/MA=="
+related:
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "Today, with these launches, we are bringing these concepts to machine learning developers for the very first time.\" Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Improve cyber supply chain risk management with Microsoft Azure"
+    excerpt: "Azure Sentinel is a cloud-native security information and event manager (SIEM) platform that uses built-in artificial intelligence (AI) to help analyze large volumes of data across an enterprise—fast. Azure Sentinel aggregates data from all sources, including users, applications, servers, and devices running on-premises or in any cloud ..."
+    publishedDateTime: 2019-12-09T16:00:00Z
+    sourceUrl: https://www.microsoft.com/security/blog/2019/12/09/improve-cyber-supply-chain-risk-management-microsoft-azure/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
+        width: 697
+        height: 700
+  - title: "Microsoft and NTT announce multi-year alliance to build digital enterprise solutions on Azure"
+    excerpt: "while Microsoft will bring its trusted Azure cloud platform and AI expertise. NTT has also announced that it has selected Microsoft Azure as its preferred cloud platform. “NTT is committed to helping enterprises realize their digital transformation initiatives to help create a smarter world. We believe that the combination of the Microsoft ..."
+    publishedDateTime: 2019-12-10T15:47:00Z
+    sourceUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/
+    ampUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 63
+    images:
+      - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
+        width: 932
+        height: 537
+  - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
+    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
+    publishedDateTime: 2019-12-11T15:17:00Z
+    sourceUrl: https://winbuzzer.com/2019/12/11/microsoft-and-ntt-corporation-announces-azure-powered-collaboration-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
+        width: 700
+        height: 466
+  - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
+    excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
+    publishedDateTime: 2019-12-06T18:32:00Z
+    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12061AIEye-GTCH-AMZN.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 2
+
+secured: "B8PfZjAl3eojrakPEZU7jfBJ+aYKzLL06jivdfyZFrTCE8w1WfVX8zfTSUyEYXKdGtMtGPui0MEPf27dM6pbE9Cl3HoeHP+/o6TvnUwCDCIVl00K4zc6ZhvtDQS5i4YAx4px938MMh4FOmefXpyblTSpELJrYY/I0hiWzzm2sGtkyOLddbBckkuJFuVItz6CG87XCnAQEoTD+21yBfifckF9mlPrszOMJUBJsb5UMctX7lnBu7FEzCoX9TEw47JrVAGfStCXTL0c+Oip+6aPsw==;eVOtc/3YngDmM9IS+tJrCQ=="
 ---
 

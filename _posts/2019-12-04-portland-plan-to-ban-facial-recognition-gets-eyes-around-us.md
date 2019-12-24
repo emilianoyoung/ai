@@ -112,21 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.13395A142C83965C66FDC0588B26D25B
         width: 700
         height: 394
-  - title: "Facial recognition needs a wider policy debate"
-    excerpt: "In his dystopian novel 1984, George Orwell warned of a future under the ever vigilant gaze of Big Brother. Developments in surveillance technology, in particular facial recognition, mean the prospect is no longer the stuff of science fiction. In China, the government was this year found to have used facial recognition to track the Uighurs ..."
-    publishedDateTime: 2019-12-04T10:00:00Z
-    sourceUrl: https://www.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
-    ampUrl: https://amp.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5aa57c56-15c7-11ea-9ee4-11f260415385
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.CE1D62F650AF8E58E5AA156119E04F18
-        width: 700
-        height: 393
   - title: "China survey shows high concern over facial recognition abuse"
     excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
     publishedDateTime: 2019-12-05T10:12:00Z

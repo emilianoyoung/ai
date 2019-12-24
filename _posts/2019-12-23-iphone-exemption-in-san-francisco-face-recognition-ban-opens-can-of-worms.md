@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recogni
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
 type: article
 quality: 88
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -86,17 +86,6 @@ related:
       - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
         width: 874
         height: 355
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By David KIRTON SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on ..."
-    publishedDateTime: 2019-12-24T09:14:00Z
-    sourceUrl: https://www.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
-    ampUrl: https://amp.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
-    cdnAmpUrl: https://amp-insider-com.cdn.ampproject.org/c/s/amp.insider.com/exhibition-in-china-reflects-on-loss-of-anonymity-to-recognition-technology-2019-12
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 22
 
 secured: "uSs4AwYD69yQusNq9JZZNyHkIwi7U4pyokRm/RpuRjaL4CCbmJguztbGOfX2auGJuWOVC84X7VWz05QvBZkDamBdb6KaqDE6X/4uI25yoO0gMCEOpnT+beBOsU8COmI80rScX/AQs2bqh8/sW6ts/wY8eGyi+4vBYJj49gh+lxN624xK37lK32h141yZYCk7WhPVV5MS3rU1qSRyT9iavj2xuig8Aoh9oLdo9EjeeO2+atJjVovbrp3Jgyg1DdNF862gI8t/33e6cq7R8RN4VA==;GlOPqsvFuhAXhdqm6Oct2A=="
 ---

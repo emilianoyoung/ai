@@ -65,15 +65,6 @@ related:
       - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
         width: 800
         height: 534
-  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
-    publishedDateTime: 2019-12-10T10:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-1028750209
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-06T00:09:00Z

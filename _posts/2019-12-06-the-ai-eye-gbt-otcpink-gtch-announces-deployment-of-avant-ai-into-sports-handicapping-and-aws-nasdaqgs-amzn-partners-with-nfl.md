@@ -72,6 +72,19 @@ related:
       - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
         height: 466
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR ..."
+    publishedDateTime: 2019-12-10T11:07:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services-8308256
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 30
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
 
 secured: "fHyYq5vOrCCJQARONbAR6LKvR/pSccPksZuBjhVM0hhEayKnQeadechHyW4mHq74tCZnHB+kCwsujJ5EGVPKhnNa0JxieT0RDyr1Ma3hXYiHDrfWKz3Zd07syh3LpuThrnIUWfc5K+MG9cBLscId+SRka4P9NrX4CprMs9QJ3N1o+KBVXBm37m5gpfNtUeZjK2idZlYKx0Od44mUBVd9qF/d2Bn76R0M0r3cQbfrIli6MfEdqo1iZP9H4jH17MlTIreWZMy63Z8fxdbB1mv3Lg==;2wDhAfR4Lr3QuyB402MCoQ=="
 ---
