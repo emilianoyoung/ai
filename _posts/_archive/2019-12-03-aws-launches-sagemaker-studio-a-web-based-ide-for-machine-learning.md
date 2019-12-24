@@ -143,19 +143,6 @@ related:
       - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
         width: 800
         height: 500
-  - title: "Sagemaker Studio - An IDE for Machine Learning"
-    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
-    publishedDateTime: 2019-12-04T00:00:00Z
-    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
-    type: article
-    provider:
-      name: I Programmer
-      domain: i-programmer.info
-    quality: 39
-    images:
-      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
-        width: 720
-        height: 335
   - title: "Going meta: learning algorithms and the self-supervised machine with Dr. Philip Bachman"
     excerpt: "Deep learning methodologies like supervised learning have been very successful in training machines to make predictions about the world. But because they’re so dependent upon large amounts of human-annotated data, they’ve been difficult to scale. Dr. Phil Bachman, a researcher at MSR Montreal, would like to change that, and he’s working ..."
     publishedDateTime: 2019-12-04T11:26:00Z
@@ -170,6 +157,6 @@ related:
         width: 700
         height: 365
 
-secured: "WFfobUM2zeFeMkzKqG1z5fz7RLHyYu80eq6rL/6RbFahdSO03oIGwUo/83gwt+KNqmD/LICXbT1ccTs43uLcAmfaYnW83SXsUdgARMUiD85DLIqwyE3+niKMd857scjGNCcEdgKBRZVgLyhCKYIYRusnOap8QghyEK57/ZnYvBpyiQWSA0uA0r62BG3Ify3wRkNSJ5zkbMi2VT0ItsoWnyAs5pwgVhmSBvwLcD1WWNGJWErQ6YD9Rsvpyb9vp8P3dje5GZ8EUYU09IBhWXTdcw==;IWqRIaOQ4T2Kkh6P18jTGw=="
+secured: "zjUTVtA7kO4w4i8eJaHCV74h2xF9OHAUcPhYO6qMicT0i2ycyB8gb03QUlOL8L1iBw8/ZxvZr4AqmBQ29HrecGWtKw3Ln/T+hFEYHSL5qJXH7y2fTwjrIrBKRWDR1hnycApKu9S1gKeNddO+mNkKI23sO025cSehCABPXjILS/sf1toO9trk0xnTZkarFHGX4JcN/YgYUPsNMZZaGF30r8PVZfQykAXZppa60XST1HmN8r9rCE3MQv9Gy5eglNfspCl9vR4mwxNwagFvgt8/qA==;WAj127ECdmbBLcQpv2V3ng=="
 ---
 

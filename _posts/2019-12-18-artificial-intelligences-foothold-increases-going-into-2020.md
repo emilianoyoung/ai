@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/joemckendrick/2019/12/17/artificial-intelli
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2019/12/17/artificial-intelligences-foothold-increases-going-into-2020/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 16
+  - title: "Aylien Raises EUR5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
+    excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
+    publishedDateTime: 2019-12-23T12:53:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aylien-raises-eur-million-to-identify-and-analyze-risk-events/article_e696c7ee-cdb7-55b3-9ba6-09309939308c.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "8NOGA09V1DMZEdtAjAzcObfFe1qn4w+xHGjxDu26A1N8zGz9PBhtNNxNtys1tGANSIwDaKdvDEHg6qpP2bWFhOFgHjdVHgL99fcBaT6Lr30D5+IWN1OCkzR10esZpZVhJUjurLnH9Fl4ApXFZw+wMMVxE0rhHcoYlkkrbcytzKdtUrngY8ZBgQnkBVwGlEabMpp56LdRSpi9o/hKN7b97jOA7xVmeu8IZ+VTBJtyppbbHvpoZhb7ke6hM3Ikx3BXVYkfTVNs7O2F/a8GRtcSmw==;TmXTAVwnSCC+0D2blbox8w=="
 ---

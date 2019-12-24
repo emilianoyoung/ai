@@ -1,28 +1,27 @@
 ---
 category: news
-title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
-excerpt: "Machine-learning models are like pancakes; the first one is usually crummy. In fact, if they fed on models, developers might drop shirt sizes before they got one to the table. Speeding up iterations and cutting guesswork as well as cost can expedite an algorithm’s trip to piping hot, accurate insights. ML doesn’t just sit there — it works ..."
-publishedDateTime: 2019-12-04T00:53:00Z
-sourceUrl: https://siliconangle.com/2019/12/03/aws-revs-machine-learning-train-custom-silicon-new-sagemaker-goodies-reinvent/
+title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+publishedDateTime: 2019-12-04T00:14:00Z
+sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
 type: article
-quality: 69
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
+  - url: https://www.bing.com/th?id=ON.52955C3AB42254C636E380E50047BF5A
     width: 700
-    height: 466
-    title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
+    height: 525
+    title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -79,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
         width: 700
         height: 393
+  - title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
+    excerpt: "Machine-learning models are like pancakes; the first one is usually crummy. In fact, if they fed on models, developers might drop shirt sizes before they got one to the table. Speeding up iterations and cutting guesswork as well as cost can expedite an algorithm’s trip to piping hot, accurate insights. ML doesn’t just sit there — it works ..."
+    publishedDateTime: 2019-12-04T00:53:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/aws-revs-machine-learning-train-custom-silicon-new-sagemaker-goodies-reinvent/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
+        width: 700
+        height: 466
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -103,19 +115,6 @@ related:
     quality: 54
     images:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
-        width: 700
-        height: 525
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-    publishedDateTime: 2019-12-04T00:14:00Z
-    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.52955C3AB42254C636E380E50047BF5A
         width: 700
         height: 525
   - title: "AWS ramps up SageMaker tools at Re:Invent"
@@ -144,19 +143,6 @@ related:
       - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
         width: 800
         height: 500
-  - title: "Sagemaker Studio - An IDE for Machine Learning"
-    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
-    publishedDateTime: 2019-12-04T00:00:00Z
-    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
-    type: article
-    provider:
-      name: I Programmer
-      domain: i-programmer.info
-    quality: 39
-    images:
-      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
-        width: 720
-        height: 335
   - title: "Going meta: learning algorithms and the self-supervised machine with Dr. Philip Bachman"
     excerpt: "Deep learning methodologies like supervised learning have been very successful in training machines to make predictions about the world. But because they’re so dependent upon large amounts of human-annotated data, they’ve been difficult to scale. Dr. Phil Bachman, a researcher at MSR Montreal, would like to change that, and he’s working ..."
     publishedDateTime: 2019-12-04T11:26:00Z
@@ -171,6 +157,6 @@ related:
         width: 700
         height: 365
 
-secured: "P63pd1c3b8heHVucpRso/zVYugu+8vFbotYsrmNR4Wl8vEhmI6ncRkXnzBQwqkRosRFNq2co0ygFmnaqME4cSnM8Z9QQbSyg+VtDsS51G/9plC+I23SPa6n9SciMT3Cs1QgeVK/UN4u8DVW2ceYsWRr4ESxOZ3MHKqg1aMo2m7+k9Tev0NsJCc9Wl79i2V1u1VhOQEsMCTuZ/g+dauiHgGki/bnoquhgXYG/zWsSwJCb7jFfda/ReEIEx4rKpe43hxCNfeb0WxdBMJ1ZuPgI9g==;cKd3otGmYo0tBo9d4vx3eg=="
+secured: "ZzsqL6jJWNiVrhsYf55Fl2ZNBtTfMEX23JulBP4za8/bCoN27yuOzw+jFzIHRidf57boF+KLA6uWDq1S0vQt6vIEPCd0mJXee36BebewNA4pSnxGKvRJl+B8p4WDBe2SqQdkxTaR3enoiZEXfQashiLB4aWFw9c55Y0nw9F192m9WgfqmGm1isdPyNbyDDCiLFg7ZwfZq8muyNybw9EgxDZxFRjxarg2bhl5xwqczKpIxdrGSQauYpRwu3ii46Avo2OwsVMFyMpTGVkL6oTv7Q==;faliQkbP1/d+xT+r0pDheQ=="
 ---
 

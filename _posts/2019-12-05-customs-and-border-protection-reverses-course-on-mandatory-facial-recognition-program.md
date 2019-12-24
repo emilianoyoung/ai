@@ -146,21 +146,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2C0F5CA3B2A2ABA3849C015B72E3E8FB
         width: 700
         height: 446
-  - title: "Homeland Security facial recognition expansion plan slammed by Senator Ed Markey"
-    excerpt: "Democratic Senator Ed Markey says he will propose legislation to block the Department of Homeland Security (DHS) from expanding its use of facial recognition at airports and border checkpoints to include American travelers. The DHS Biometric program has come under fire from lawmakers of both parties — one opponent includes Senator Mike Lee ..."
-    publishedDateTime: 2019-12-03T23:21:00Z
-    sourceUrl: https://www.cbsnews.com/news/homeland-security-facial-recognition-expansion-plan-slammed-by-senator-ed-markey/
-    ampUrl: https://www.cbsnews.com/amp/news/homeland-security-facial-recognition-expansion-plan-slammed-by-senator-ed-markey/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/homeland-security-facial-recognition-expansion-plan-slammed-by-senator-ed-markey/
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.E330FB7C04A0DA3A5B471EEE4D31F869
-        width: 700
-        height: 367
   - title: "US Homeland Security backs off on scanning US citizens, Amazon ups AI ante, and more"
     excerpt: "WebAssembly gets nod from W3C and, most likely, an embrace from cryptojackers online Roundup Hello, welcome to this week's machine learning musings. We bring you news about the hottest topics in AI: Facial recognition, the so-called AI arms race between the US and China, and erm, GPUs in the cloud. US citizens won’t be subjected to facial ..."
     publishedDateTime: 2019-12-09T07:15:00Z

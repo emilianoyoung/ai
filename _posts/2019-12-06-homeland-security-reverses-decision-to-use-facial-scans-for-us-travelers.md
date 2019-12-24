@@ -146,21 +146,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2C0F5CA3B2A2ABA3849C015B72E3E8FB
         width: 700
         height: 446
-  - title: "Homeland Security facial recognition expansion plan slammed by Senator Ed Markey"
-    excerpt: "Democratic Senator Ed Markey says he will propose legislation to block the Department of Homeland Security (DHS) from expanding its use of facial recognition at airports and border checkpoints to include American travelers. The DHS Biometric program has come under fire from lawmakers of both parties — one opponent includes Senator Mike Lee ..."
-    publishedDateTime: 2019-12-03T23:21:00Z
-    sourceUrl: https://www.cbsnews.com/news/homeland-security-facial-recognition-expansion-plan-slammed-by-senator-ed-markey/
-    ampUrl: https://www.cbsnews.com/amp/news/homeland-security-facial-recognition-expansion-plan-slammed-by-senator-ed-markey/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/homeland-security-facial-recognition-expansion-plan-slammed-by-senator-ed-markey/
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.E330FB7C04A0DA3A5B471EEE4D31F869
-        width: 700
-        height: 367
   - title: "Customs and Border Protection reverses course on mandatory facial recognition program"
     excerpt: "U.S. Customs and Border Patrol announced Thursday it no longer plans to move forward with a facial recognition program that would conduct a mandatory scan of all U.S. citizens arriving or departing the country at airports and ports of entry, reversing course on a Trump administration plan. Customs currently permits U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-05T21:31:00Z

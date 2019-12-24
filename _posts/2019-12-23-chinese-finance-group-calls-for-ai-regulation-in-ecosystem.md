@@ -8,7 +8,7 @@ ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/chinese-finance
 cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/amp/
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
       - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
         width: 480
         height: 270
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
+    publishedDateTime: 2019-12-24T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "eFPmt1F71LSK/Vl9hKOPpULoe7CGKh8TAtfQyuOG1Ye8MVaKMi/wnboJBGrF/kMPDiiQwrx4SltgCQw5ogOF8f731Kit3G0hY2PLxyGXgMqpoNjaOxdQSX/XE8NU3k1Yl2khpNhoLkeZC9kAOC2ZkRUYTJvnvff59OK3gK0qzjiVh6Ahy7SsNw6Yx0gwLOpA48t0lmzed4eabBGIgRQ44iPkjhd6iXS8Udj8oPJ1VQR4WmPZJ0p6PybBW2Ph5ol7xv4eAZtfAIth5Aa7aqgAqg==;fFEBkh0IkKOtyw6vwZTYiw=="
 ---

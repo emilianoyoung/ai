@@ -3,7 +3,7 @@ category: news
 title: "Detection of anaemia from retinal fundus images via deep learning"
 excerpt: "Owing to the invasiveness of diagnostic tests for anaemia and the costs associated with screening for it, the condition is often undetected. Here, we show that anaemia can be detected via machine-learning algorithms trained using retinal fundus images, study participant metadata (including race or ethnicity, age, sex and blood pressure ..."
 publishedDateTime: 2019-12-23T16:15:00Z
-sourceUrl: https://www.nature.com/articles/s41551-019-0487-z
+sourceUrl: https://www.nature.com/articles/s41551-019-0487-z?error=cookies_not_supported&code=e89ff1a0-d8f9-42f7-b965-6e899f5b659f
 type: article
 quality: 39
 heat: 39
@@ -38,6 +38,6 @@ related:
         width: 685
         height: 514
 
-secured: "YLUvBiWS0sh1z6eXA9fOZfotHnr72SAuhU0xBH05kiIuWZbSRHkzxitHm9nA8AoI8sFg1Vz8DSaIN0hkwAi5xdN2T9hzHlUDiKRr2PG/UkNIGI1bVeiAmSWmhdMsNFJReiIsx3fz+hvUjZ2j1cLmRl8hD0XYfPD5xkwLUUu2G+8iAOGWQ7qZa8ynQzDgEYpkc/X637P2+tlp9d8B25kyCRauA5l5hkZQu/nPd2cmpwCJKgjlVP+Fps40wrvnSiIAgWpvoZ+kaPrjlsg8LvxdJA==;SVWcRPh9ey+MbeMTst+5Jg=="
+secured: "XCqIBvR2STtg0JhVtuhMd6v1tD1ygqc1kCysg3g/nXFdK7h/s+gD3Tr8WyRq6FAjzHPddm4/QW/BufwjaQETbgxm0/meQByp0Z6CVh91unf1Vt7lOZGsVSKxsGErkW4nkKns8YM3aVFk3Pb2McERlsSmDuy+bbM12m9nrgKml5Bhk2l863muTYiBQ3xLKRiwwq7ClMy9+6iETJ4iECIJAYbzoLmvn4i0YPqe3MTpTKjReZRqllObfknfWkDdO98TvCEtFu9bhmJ0zj1bpyp/xw==;M716iRz+2hjU0ka2laOPYw=="
 ---
 

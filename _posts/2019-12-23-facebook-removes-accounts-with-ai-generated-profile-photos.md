@@ -3,7 +3,7 @@ category: news
 title: "Facebook removes accounts with AI-generated profile photos"
 excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
 publishedDateTime: 2019-12-23T14:30:00Z
-sourceUrl: https://arstechnica.com/tech-policy/2019/12/facebook-removes-accounts-with-ai-generated-profile-photos/?comments=1
+sourceUrl: https://arstechnica.com/tech-policy/2019/12/facebook-removes-accounts-with-ai-generated-profile-photos/
 type: article
 quality: 67
 heat: -1
@@ -84,6 +84,6 @@ related:
         width: 1200
         height: 799
 
-secured: "XPaObvOBViiHcfvK+03QhJGoPrQjYAcN0ck7n+qPksGPYPUed2e5RPbE3IwZSgfqp5kniSRvA59AdL59Y1zzqtYRJhsMbVPmJupOxacfrOQZ2kzwkij6g9cAxDCr1oEfU4MCDew4UVuLyB0Y5ypUXKDcMiAI/R3FDBeb1jV0siqWA9YknYX3zQW7BjdZtaaIewdmLQd2P+7kk8JBAUGYt7Afp/QgYSpOdojNdU/+e2noLFJ/J4JDBWfWopfrHKr4IUiMYOOfXU4hVDhOnek0RQ==;dM807Oc9lgvbvL/AhgN3ng=="
+secured: "E96Na4uNqj16Zpa6W0ScgT7mMi72rorGy00/aJYzz62gAdZtfgRcwNTMdeJmY+7luM8lm7cSG1lNa92W46M7ld7ChGWBlxxGaU80IHoYuQp036paZLb8mzyp5Wes47X8pMl2iV0PP2zjaj0z0ea/qZf8mXarrmZXM09mcy6ZU5S2lg5FIcc3yiLtSzdbfJvaevsANrqKleo56C1ed8ueOvX2a89rOz0t1vJA925dz9d2eZ2CE4pxPn/dUH8XiUNWIx+tNj7qH6EM+72NtUm3yQ==;dyldMUMl+aTJ9b/36mSPjA=="
 ---
 

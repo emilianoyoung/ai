@@ -38,6 +38,19 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png
         width: 1260
         height: 630
+  - title: "Expert: How to make deep learning as energy efficient as the brain"
+    excerpt: "WHAT: Computers are gradually thinking like humans thanks to the development of artificial intelligence networks capable of learning on their own, called “deep learning.” These networks can already recognize images and play chess, for example."
+    publishedDateTime: 2019-12-02T15:53:00Z
+    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/expert-how-to-make-deep-learning-as-energy-efficient-as-the-brain.html
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 54
+    images:
+      - url: https://news.uns.purdue.edu/images/2019/roy-handwriting.gif
+        width: 871
+        height: 490
   - title: "Amazon sticks AI inference chip up for rent in the cloud for machine-learning geeks"
     excerpt: "Gravitons, Neoverse... you'd be forgiven for thinking AWS's second-gen 64-core Arm server processor was a sci-fi re:Invent Amazon Web Services has made Inf1, its cloud instance for running machine-learning software on its custom-designed AI chip Inferentia, available to all. AWS CEO Andy Jassy announced the service on Tuesday during the ..."
     publishedDateTime: 2019-12-04T09:09:00Z

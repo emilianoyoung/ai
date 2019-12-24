@@ -1,31 +1,21 @@
 ---
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
-publishedDateTime: 2019-12-23T07:40:00Z
-sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
+excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
+publishedDateTime: 2019-12-23T12:02:00Z
+sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
 type: article
-quality: 64
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
 
 related:
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
@@ -147,6 +137,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "/SnrEOR+9/DW1humA5zLVSiOWKtplFrkS02+mIFonVzfAI1iJi0ZFSDvAPlJJqoS1UnP4TxnqLElDLkbRLbREjXQgoQsCFQk/XILzrJtZfMJ6eHmV0u+gYjBWulcfoSOQvR8IWyDPJ1UOHX8vOAxjrrULlzGIGUlxoMFjtYZbjFcBw21vT/8s/+QTPhxNb0Vu9v2gi1GjVMztUngfbAysprdKR8VlCMrP/Ats9uwt2Y33R7+ZX1KDcPAxKlckwBfaF+8QirnyAZCCFyoHm2Q7Q==;ROEDtItD+M/XVGh39D+loQ=="
+secured: "DBrjvClJebsDT6bZGeutLEoFZjInAs5Z8ibl/32M7K+8y8HT5GUS9EaPZ8WzzhTuyuKPIVUheRVIVXSQWvicPP3vlR4qyKJgJDRuWNnOs2UcSXJNuDF0zp6h/gWcOvpKS7Cn8YCR6o/qz13xCfXvKOuzLgqSjPkp12HjmH20IFJnMP+G5yW38jt5cSkkeimU6NX4V8+9gRYO70dyEens0fHlNpnml35i1qHJxCK9aKpTPEMoJ/+k1KsSvuRdSaZXl2A0BTXBfI26GBy4oNfHgA==;v3CkL7rOwIsToaLro/6xKA=="
 ---
 

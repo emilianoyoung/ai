@@ -129,6 +129,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FEA4B48A57A75D28B4EB6C80294BA8A6
         width: 600
         height: 337
+  - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
+    excerpt: "Disinformation experts at Graphika and the Atlantic Council's Digital Forensic Research Lab - which were given access to Facebook data in advance of the takedown announced Friday - said it marked the \"first time\" they had seen \"AI-generated pictures deployed at scale to generate a mass collection of fake profile pictures deployed in a social ..."
+    publishedDateTime: 2019-12-23T16:45:00Z
+    sourceUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic
+    ampUrl: https://www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
+    cdnAmpUrl: https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/business/10505019-181/facebook-twitter-disable-sprawling-inauthentic?view=AMP
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.0DBA2293CCFD12658E01C8C2419A9206
+        width: 700
+        height: 466
   - title: "Facebook says a pro-Trump media outlet used artificial intelligence to create fake people and push conspiracies"
     excerpt: "Facebook and Twitter dismantled thousands of accounts and pages that were part of a global network seeking to push pro-Trump messaging."
     publishedDateTime: 2019-12-21T21:03:00Z
@@ -254,12 +269,12 @@ related:
         height: 365
   - title: "Fake Facebook accounts using artificially-generated faces"
     excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or more ..."
-    publishedDateTime: 2019-12-23T12:21:00Z
-    sourceUrl: https://www.thedenverchannel.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
+    publishedDateTime: 2019-12-23T12:36:00Z
+    sourceUrl: https://www.abcactionnews.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
     type: article
     provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
+      name: ABC Action News
+      domain: abcactionnews.com
     quality: 24
     images:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/3449689/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fee%2F1c%2F7792315845418ce71c225b7a822e%2Fgettyimages-586113560.jpg

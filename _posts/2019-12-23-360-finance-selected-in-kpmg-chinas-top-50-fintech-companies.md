@@ -78,6 +78,15 @@ related:
       - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
         width: 480
         height: 270
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
+    publishedDateTime: 2019-12-24T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "GMVUgAsEoFt/cTlWE03cnVIcgGuXFCi0Eidtn18pW77xVe/X6wbxtpRIsvqfkJHW5XPrz22wYH7tZDT5Az975OZprxRoy3MOL8XZzz/WPxwbAioqSNAJjEMR5+0WQCebP5LTUtLezIdvA0UmJluO6jxX9nLSvCD9COlBMRJglb6LOIT049mc0nEaI7YxmUNwBSxXVmB43j39yY9q6U+Sbd8oHxh8tq6jnRq5nPU9+a0d3ntUvgB0hgHZIYojavnC9bQ3YJI5g4RDiKqm1wV8JQ==;sKOFyebcI4yZVSXU0jztTQ=="
 ---
