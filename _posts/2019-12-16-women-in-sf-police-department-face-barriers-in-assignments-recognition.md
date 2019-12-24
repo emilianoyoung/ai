@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
         width: 700
         height: 466
+  - title: "New face recognition feature at airport"
+    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
+    publishedDateTime: 2019-12-23T23:56:00Z
+    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
+        width: 700
+        height: 466
   - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
     excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
     publishedDateTime: 2019-12-20T22:24:00Z

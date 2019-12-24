@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
         width: 700
         height: 437
+  - title: "New face recognition feature at airport"
+    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
+    publishedDateTime: 2019-12-23T23:56:00Z
+    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
+        width: 700
+        height: 466
   - title: "Women in SF police department face barriers in assignments, recognition"
     excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
     publishedDateTime: 2019-12-16T23:52:00Z

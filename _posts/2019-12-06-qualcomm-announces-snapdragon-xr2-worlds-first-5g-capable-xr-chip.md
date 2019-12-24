@@ -26,21 +26,6 @@ images:
     title: "Qualcomm announces Snapdragon XR2, world’s first 5G capable XR chip"
 
 related:
-  - title: "Qualcomm’s Snapdragon Tech Summit focuses on 5G AI chips and use cases"
-    excerpt: "But the bigger theme of the event is demonstrating real world use cases for the company’s new 5G AI chips, which will drive consumer demand for next-generation smartphones and devices. Even though 5G data services are still in their earliest days, uptake from OEMs, carriers, and consumers has already been encouraging — stronger than 4G ..."
-    publishedDateTime: 2019-12-03T22:27:00Z
-    sourceUrl: https://venturebeat.com/2019/12/03/qualcomms-snapdragon-tech-summit-focuses-on-5g-ai-chips-and-use-cases/
-    ampUrl: https://venturebeat.com/2019/12/03/qualcomms-snapdragon-tech-summit-focuses-on-5g-ai-chips-and-use-cases/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/qualcomms-snapdragon-tech-summit-focuses-on-5g-ai-chips-and-use-cases/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.BCEE9543ECCA978167BC3742F7243AFB
-        width: 700
-        height: 350
   - title: "What we know about Qualcomm’s next-gen Snapdragon 865 and 765 chips"
     excerpt: "Again, no surprise. It’s been an increasingly important aspect of smartphone evolution for several years now. That’s powered by a fifth-gen AI chip that doubles the performance of its predecessor. There’s also on-board support for wake word listening for use with the likes of Alexa and Assistant, at low power. Imaging improvements include ..."
     publishedDateTime: 2019-12-04T23:54:00Z
@@ -86,6 +71,34 @@ related:
       - url: https://www.bing.com/th?id=ON.63C6B790F8AFE5B5DD6DF6A8AB19662A
         width: 700
         height: 525
+  - title: "Qualcomm Refreshes Snapdragon Chips"
+    excerpt: "The SoC (System on a chip) will offer 5G connectivity, advanced AI processing, and select gaming support. The 865 is a premium chip that will show up during CES and MWC. And since 2020 will usher a new wave of 5G devices and services, Qualcomm will benefit greatly from the device refresh. Notably, designing the chip without an integrated modem ..."
+    publishedDateTime: 2019-12-11T10:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/qualcomm-refreshes-snapdragon-chips-2019-12-11-61975856
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Qualcomm Snapdragon 865: What does it mean for Artificial Intelligence?"
+    excerpt: "Artificial Intelligence is becoming more and more important in everyday life ... Related: Best Phones The most exciting part is probably the implications for low-power usage. The Snapdragon 865 can run always-on neural networks at low power; less than 1mW for the camera, and less than 1mA for voice multi-word wake-up. This not only means ..."
+    publishedDateTime: 2019-12-04T22:14:00Z
+    sourceUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016
+    ampUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
+    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.7E9DD07D9EB0AD75178BD2DA9B27D291
+        width: 700
+        height: 472
   - title: "Snapdragon 865 detailed: AI, camera and gaming in focus this year"
     excerpt: "The chipset does not come with an integrated 5G modem as many predicted. While the CPU and GPU saw expected incremental upgrades, the real innovations this time were in the ISP and AI Engine. After teasing some of the features on Tuesday, Qualcomm dropped more details about the Snapdragon 865 and Snapdragon 765 SoCs on Day 2 of the company’s ..."
     publishedDateTime: 2019-12-04T23:44:00Z
@@ -116,21 +129,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
         width: 700
         height: 525
-  - title: "Qualcomm's Snapdragon XR2 chip promises killer VR performance with 5G support"
-    excerpt: "Qualcomm's processor, which also incorporates the chip maker's work with artificial intelligence can ... as well as four times the video bandwidth and a 6x improvement to resolution. AI performance should also get a big boost from this updated processing ..."
-    publishedDateTime: 2019-12-05T19:17:00Z
-    sourceUrl: https://www.tomsguide.com/news/snapdragon-xr2-mixed-reality-platform
-    ampUrl: https://www.tomsguide.com/amp/news/snapdragon-xr2-mixed-reality-platform
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/snapdragon-xr2-mixed-reality-platform
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.B4FC505300D6689D589F976D448CE2FE
-        width: 700
-        height: 437
   - title: "Qualcomm Snapdragon 865: Here's What You Need To Know About The Latest 5G Chip"
     excerpt: "Not only is the AI engine supposedly twice as powerful as the previous one ... and battery life cycles can be extended by up to 200 days. Qualcomm's latest Snapdragon 865 chip If all that was not enough, there's also the benefits to smartphone photography. In fact, this is another of the major selling points. In recent times, the Snapdragon ..."
     publishedDateTime: 2019-12-04T19:05:00Z
@@ -174,6 +172,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F314D8502E4F1008C539FACAB80F90CE
         width: 700
         height: 389
+  - title: "The Snapdragon 865 is the most important smartphone chip in years—and it packs some serious upgrades"
+    excerpt: "But on a basic level, Qualcomm has thrown much more silicon at the already-quite-powerful Hexagon DSP, resulting in performance gains of 2x (15 TOPS —fifteen trillion operations per second) over the outgoing Snapdragon 855 in some AI-dependent operations. There's now a dedicated Tensor accelerator on the new Hexagon 698 chip, too, meaning ..."
+    publishedDateTime: 2019-12-04T23:34:00Z
+    sourceUrl: https://www.androidpolice.com/2019/12/04/qualcomm-snapdragon-865-release-date-specs-5g-details/
+    ampUrl: https://www.androidpolice.com/2019/12/04/qualcomm-snapdragon-865-release-date-specs-5g-details/?amp
+    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2019/12/04/qualcomm-snapdragon-865-release-date-specs-5g-details/?amp
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.3F6181C11DCD5CD8370D5D30FBF5F0B7
+        width: 668
+        height: 445
   - title: "Qualcomm Snapdragon 865 brings Kryo 585 CPU and Adreno 650 GPU"
     excerpt: "After 845 and 855 comes the, well you might guess it the Snapdragon 865. This is a 7nm SoC with new Kryo 500 series CPU cores and the new Adreno 650 GPU, new AI Tensor cores, new DSP and Spectra ISP and of course the 5G modem. The new Kryo 585 provides a 25 percent faster performance than then predecessor and 25 percent higher power efficiency."
     publishedDateTime: 2019-12-04T19:54:00Z
@@ -213,15 +226,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8281FBBA882531557B0A027A06200499
         width: 700
         height: 393
-  - title: "Qualcomm expands laptop chip range with Snapdragon 7c, 8c for mainstream computers"
-    excerpt: "Purpose-built with the instant-on responsiveness and multi-day battery life of a smartphone, it comes with an integrated Snapdragon X24 LTE modem and the Qualcomm AI Engine and is designed to support ultra-thin, fan-less designs for mainstream use. The Snapdragon 8cx is the most advanced of the chips, targeting enterprise computers. This comes ..."
-    publishedDateTime: 2019-12-06T08:47:00Z
-    sourceUrl: https://www.telecompaper.com/news/qualcomm-expands-laptop-chip-range-with-snapdragon-7c-8c-for-mainstream-computers--1318933
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 28
 
 secured: "lsflUvfISzx6f+OYPO+GNh+lta/IysIQbuNReNBFPN7CU8AkCk5G6TCJ5zYLPg7YLtiXO4fZ1+MRIUMgiWNwxaMKOW2YeB9xdzaxvt/J80ZFV7QpkkV7Db3rw8G3PXmqNWKHseSub90iVO17fC7P69qeswPsgIkE6j+8g98VRS7XXxJJKx4HPDLCVbi8r/wDBqeDJxILf3jazhJaDRuf/VyYQhLj0iq7f163u1dS7+KfaKEOvBbuz34PTd2i/ezaKhaygeti3X6GyHlC51S9Vg==;q3OCu7HQetrFvUHRKOt5dg=="
 ---

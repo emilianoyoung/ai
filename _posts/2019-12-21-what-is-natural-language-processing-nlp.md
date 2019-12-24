@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

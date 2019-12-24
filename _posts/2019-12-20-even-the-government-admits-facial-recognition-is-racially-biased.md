@@ -191,21 +191,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-    ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 89
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
   - title: "Federal study confirms facial recognition is a biased mess"
     excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -371,6 +356,17 @@ related:
       - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
         width: 700
         height: 367
+  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
+    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
+    publishedDateTime: 2019-12-20T18:00:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
   - title: "U.S. Government Study Finds Racial Bias in Facial Recognition Tools"
     excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
     publishedDateTime: 2019-12-20T10:46:00Z
@@ -1034,15 +1030,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T14:27:00Z
-    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 42
   - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
     excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
     publishedDateTime: 2019-12-11T16:41:00Z
@@ -1801,6 +1788,15 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T20:57:00Z
+    sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 12
 
 secured: "Als9AXnIdkq0Sozss72IJeP3cYixnYRXA1CtHiyYq/fvfZ5TiXhCXy1IeLrfPiFYVOA8sV14lPsH+cKkuwoMovj6UvlLjq2O+EHNQczK7eFl6Mps8gF6lpmWCJ9uK826mivtdLN+kqPUZNoUJxKqE5+mEyS3VzZSQ52usJAwF0BOQF7geLoEJC9+CI4iX/rS7QS+4HLDZVNp6L2APWdM8kFBMJ3YDoW/UilSJ6q77JXAZeL8KB2MqAWU5LoBAjhhUqHQ+Z38rumJZQI2p4cuFA==;t6lTtFLizRKu1QQyehJI0g=="
 ---

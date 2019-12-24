@@ -204,21 +204,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
         width: 700
         height: 390
-  - title: "Advocates rally on Capitol Hill for self-driving car legislation"
-    excerpt: "The push comes as lawmakers are circulating draft legislation on self-driving cars among stakeholders after long delays but with no bills formally introduced in Congress. The advocates, brought together by the Coalition for Future Mobility, warned of the danger of falling behind the rest of the world in creating and testing these cars ..."
-    publishedDateTime: 2019-12-03T22:48:00Z
-    sourceUrl: https://thehill.com/policy/cybersecurity/472889-advocates-rally-on-capitol-hill-for-self-driving-car-legislation
-    ampUrl: https://thehill.com/policy/cybersecurity/472889-advocates-rally-on-capitol-hill-for-self-driving-car-legislation?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/472889-advocates-rally-on-capitol-hill-for-self-driving-car-legislation?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A35423A15F7CD7699EA638B6CF1A9B79
-        width: 700
-        height: 393
   - title: "UAE to soon have 5G-enabled self-driving cars?"
     excerpt: "The deployment of self-driving cars is part of a government strategy to make Dubai a world leader in autonomous transport. Part of the plan is to transform 25 per cent of the total transportation in Dubai to autonomous mode by 2030, involving five million daily trips and saving 22 billion dirhams in annual economic costs in the process."
     publishedDateTime: 2019-12-09T03:43:00Z
@@ -417,17 +402,6 @@ related:
       - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
         width: 700
         height: 466
-  - title: "25 MPH Self-Driving Bus Moving Too Fast for Spokane"
-    excerpt: "Three of Spokane’s city council members voted against the slow-moving, self-driving bus, Olli, on Monday, which halted the pilot program’s progress. Now, the fate of the two shuttles is uncertain. (TNS) — The Spokane City Council hit the brakes Monday on a proposal that would have brought a self-driving bus to Riverfront Park. Had the ..."
-    publishedDateTime: 2019-12-03T22:36:00Z
-    sourceUrl: https://www.governing.com/news/headlines/25-MPH-Self-Driving-Bus-Moving-Too-Fast-for-Spokane.html
-    ampUrl: https://www.governing.com/news/headlines/25-MPH-Self-Driving-Bus-Moving-Too-Fast-for-Spokane.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/25-MPH-Self-Driving-Bus-Moving-Too-Fast-for-Spokane.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
   - title: "New rules to allow testing of self-driving vehicles on Irish roads"
     excerpt: "The Government is to introduce legislation to allow for the testing of autonomous vehicles on Irish roads. The Department of Transport say that Cabinet has agreed to support a range of measures to be delivered under the Future Jobs Initiative. The Road Traffic (Miscellaneous Provisions) Bill will be amended in the Oireachtas to allow for ..."
     publishedDateTime: 2019-12-06T17:25:00Z

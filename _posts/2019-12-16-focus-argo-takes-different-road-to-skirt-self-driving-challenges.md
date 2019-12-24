@@ -1,77 +1,42 @@
 ---
 category: news
 title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-16T18:07:47Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/focus-argo-takes-different-road-to-skirt-self-driving-challenges/ar-BBY3gEF
+excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+publishedDateTime: 2019-12-16T18:07:00Z
+sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Autos
 
+images:
+  - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+    width: 640
+    height: 427
+    title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+
 related:
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG ( VOWG_p."
-    publishedDateTime: 2019-12-11T11:19:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-11T12:31:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
-        width: 700
-        height: 466
-  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
-    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
-    publishedDateTime: 2019-12-17T16:43:00Z
-    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
-    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
-        width: 700
-        height: 349
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: New York Times
+      domain: nytimes.com
     quality: 54
-  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
-    publishedDateTime: 2019-12-09T18:36:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
-        width: 700
-        height: 393
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -99,19 +64,6 @@ related:
         width: 700
         height: 467
   - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T10:22:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
-        width: 700
-        height: 525
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
     publishedDateTime: 2019-12-12T08:12:00Z
     sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
@@ -135,16 +87,7 @@ related:
       name: Irish Examiner
       domain: irishexaminer.com
     quality: 19
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
-secured: "nRmBXmAJKesHNCfBP1mHpENDIRvinRk+oAPCYCCVwsWpCmu+ex+7NTJgI2MQJj3yTqzcCctmecnH1kcXZOdrsKWNkaRpG9fJK0muhSAxx2cXuqZD/jpDiWmyBj0Xb7/ALFyIiuXc/adUToTdC8hxrHBYCtSya4IK5PqiGMp0H/vaA/o2VNe2xDYajf4k3vebLHy+jTXqugWWDUhsusGjRPtpyVZJTlfNpRzwTsBH4HQPDzntPz3PSsWK4sWLH7Ksn2PXOL9LB6Tx1n5Etq6kWg==;Bszt9nLZiiAY7qN873vmMQ=="
+secured: "NGh7SnP+2YZOQrIL1HRmUO2EgqYSVefobLgS3hBLFJ0UXqVY9LFTGgFpxyaOTvws0o548v75aZJ02d9bCIt2McLW0TIVrarY6z0G/MCapH1sKT/fWVJUHGDlRTO5XVFtNZeGSMPESn6NAxlBgMfzf6QXX9PvG8SBBs92eUz5JzLgLCsq79/7kNpdfjljGvLIFd8L6WfCRuM047U6kUV8JiULdLFSDaRmrrfVgI3OlIwOa9SM7cIF5+K4A9ZcxH4/ng/uHtD4zJueIEvc9PvANQ==;Ii9kgGMHpzcSP04xoAQoRg=="
 ---
 

@@ -99,21 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2665EEE0505FF35CE7CFF3745D971E6B
         width: 700
         height: 364
-  - title: "UPDATE 4-Google co-founders step aside as Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have shared an emphasis on developing artificial intelligence software to ... companies including self-driving car business Waymo and health care software company Verily ..."
-    publishedDateTime: 2019-12-03T22:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/1-google-chief-pichai-takes-220013979.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/1-google-chief-pichai-takes-220013979.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-google-chief-pichai-takes-220013979.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.77B174C08046E88EC17B9704257EE9E4
-        width: 700
-        height: 466
   - title: "UPDATE 3-Google co-founders step aside as Pichai takes helm of parent Alphabet"
     excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to ... self-driving car technology business Waymo and health care software company Verily, emerged ..."
     publishedDateTime: 2019-12-04T15:23:00Z
@@ -172,19 +157,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9D98D2504C97BC77A36E1D48543B5C97
         width: 700
         height: 350
-  - title: "Google Co-Founders Step Down as Execs of Parent Alphabet"
-    excerpt: "Alphabet CEO Larry Page speaks at the Fortune Global Forum in San Francisco. (AP Photo/Jeff Chiu, File) Google co-founder Sergey Brin speaks during a press conference after finishing the third match of the Google DeepMind Challenge Match in Seoul, South Korea. (AP Photo/Lee Jin-man, File) The co-founders of Google are stepping down as ..."
-    publishedDateTime: 2019-12-03T22:09:00Z
-    sourceUrl: https://hamodia.com/2019/12/03/google-co-founders-step-execs-parent-alphabet/
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D1C5CBBA17EFBDD28F15B5EE9A61603C
-        width: 300
-        height: 201
   - title: "Google founders Page, Brin step back from top roles"
     excerpt: "EPA/Boris Roessler Co-founders of the internet giant Google, Larry Page and Sergey Brin, have stepped down from their executive positions at Alphabet Inc., Google’s parent company, that does ambitious research projects, including artificial intelligence and driverless vehicles. Page, chief executive and Brin, president of Alphabet ..."
     publishedDateTime: 2019-12-04T12:08:00Z

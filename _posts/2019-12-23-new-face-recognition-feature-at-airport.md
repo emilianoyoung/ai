@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
-excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
-publishedDateTime: 2019-12-20T22:24:00Z
-sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
+title: "New face recognition feature at airport"
+excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
+publishedDateTime: 2019-12-23T23:56:00Z
+sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
 type: article
-quality: 23
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: HealthITOUTCOMES
-  domain: healthitoutcomes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-    width: 874
-    height: 355
-    title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
+  - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
+    width: 700
+    height: 466
+    title: "New face recognition feature at airport"
 
 related:
   - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
         width: 700
         height: 466
-  - title: "New face recognition feature at airport"
-    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
-    publishedDateTime: 2019-12-23T23:56:00Z
-    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
-        width: 700
-        height: 466
   - title: "Women in SF police department face barriers in assignments, recognition"
     excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
     publishedDateTime: 2019-12-16T23:52:00Z
@@ -82,7 +69,20 @@ related:
       - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
         width: 700
         height: 632
+  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
+    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 23
+    images:
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
 
-secured: "s2TV0KRFNS1GmVYaB16s+GnHMqCEGH4CeItddgqc/VJKmHgyuQMX72DPZ54OAvS5gppABfx009OFPe7l/cabrAf++rn8c3JJnt1sPxrUficZVB5WulJ5X3TVJtoPe0Se64BPyJocQCo3W0BpbRHhUCixSSfB76wUY+bXdCDZSPOIjrb05I64RotiU3CdTXLmX60dGztnGV8KkW28B8Uupikr/m9iy9eNb6yKyASAu9keQ40cHE9nL9Pq+g+amRjSJxKOxD8+/LvxLXlAGzyt8A==;Jpv6P6T/x7Sgv4oWd/z6oA=="
+secured: "w+HQsK4+O/uSr+OXN87MgAKwyMA0DJrdcem321fOjk7tlUNgWOooJ4PdtmKbNIlqeK4ScIA8ZcQNpOG5fG58dVjpm2VPGutLLTUigT9dgy46QIeGYXd+Cj+wndyU+N086ALDrDvSsst+h6vsBwcNCWDNaX3H0wfmyjVZZhpY+nVHRvgdZ0CwDDRkwvgNvpECL1OLkRoQOIrT2WB8tUsCcq9vYF/1kg9nlZLLlHBgKlVwwIv7D+Ko0rObmS22APkFylZI3CbNsQbkPIOqVjjSpg==;kMNM9yqCSWW1AIFY6drNhg=="
 ---
 

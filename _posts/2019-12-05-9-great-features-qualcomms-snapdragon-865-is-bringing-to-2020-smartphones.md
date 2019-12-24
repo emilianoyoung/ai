@@ -8,7 +8,7 @@ ampUrl: https://au.pcmag.com/gallery/64788/9-great-features-qualcomms-snapdragon
 cdnAmpUrl: https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/gallery/64788/9-great-features-qualcomms-snapdragon-865-is-bringing-to-2020-smartphones?amp=1
 type: article
 quality: 72
-heat: 132
+heat: 102
 published: true
 
 provider:
@@ -30,34 +30,6 @@ images:
     title: "9 Great Features Qualcomm's Snapdragon 865 Is Bringing to 2020 Smartphones"
 
 related:
-  - title: "Qualcomm Refreshes Snapdragon Chips"
-    excerpt: "The SoC (System on a chip) will offer 5G connectivity, advanced AI processing, and select gaming support. The 865 is a premium chip that will show up during CES and MWC. And since 2020 will usher a new wave of 5G devices and services, Qualcomm will benefit greatly from the device refresh. Notably, designing the chip without an integrated modem ..."
-    publishedDateTime: 2019-12-11T10:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/qualcomm-refreshes-snapdragon-chips-2019-12-11-61975856
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Qualcomm Snapdragon 865: What does it mean for Artificial Intelligence?"
-    excerpt: "Artificial Intelligence is becoming more and more important in everyday life ... Related: Best Phones The most exciting part is probably the implications for low-power usage. The Snapdragon 865 can run always-on neural networks at low power; less than 1mW for the camera, and less than 1mA for voice multi-word wake-up. This not only means ..."
-    publishedDateTime: 2019-12-04T22:14:00Z
-    sourceUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016
-    ampUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.7E9DD07D9EB0AD75178BD2DA9B27D291
-        width: 700
-        height: 472
   - title: "Qualcomm Snapdragon 865 SoC goes official: New chip to power 2020 flagship phones"
     excerpt: "Interestingly enough, Qualcomm’s newer chip will need a separate modem to enable 5G – similar to the X55 modem ... Qualcomm has said that the 765/765G comes with AI processing capabilities and select Qualcomm Snapdragon Elite Gaming experiences. The X55 modem supports SA/NSA networks, mmWave and Sub-6 GHz 5G networks with better bandwidth ..."
     publishedDateTime: 2019-12-04T11:22:00Z
@@ -73,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0FF1F7780E060F79A0FB0CA0BF4B032D
         width: 700
         height: 393
-  - title: "The Snapdragon 865 is the most important smartphone chip in years—and it packs some serious upgrades"
-    excerpt: "But on a basic level, Qualcomm has thrown much more silicon at the already-quite-powerful Hexagon DSP, resulting in performance gains of 2x (15 TOPS —fifteen trillion operations per second) over the outgoing Snapdragon 855 in some AI-dependent operations. There's now a dedicated Tensor accelerator on the new Hexagon 698 chip, too, meaning ..."
-    publishedDateTime: 2019-12-04T23:34:00Z
-    sourceUrl: https://www.androidpolice.com/2019/12/04/qualcomm-snapdragon-865-release-date-specs-5g-details/
-    ampUrl: https://www.androidpolice.com/2019/12/04/qualcomm-snapdragon-865-release-date-specs-5g-details/?amp
-    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2019/12/04/qualcomm-snapdragon-865-release-date-specs-5g-details/?amp
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.3F6181C11DCD5CD8370D5D30FBF5F0B7
-        width: 668
-        height: 445
   - title: "5 Ways Machine Learning Is Leading to Smarter Manufacturing"
     excerpt: "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and overall production speed, AI – with the help of the Industrial Internet of Things – is ..."
     publishedDateTime: 2019-12-04T15:03:00Z

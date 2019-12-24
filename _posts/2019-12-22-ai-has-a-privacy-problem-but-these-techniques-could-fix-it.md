@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/21/ai-has-a-privacy-problem-but-these-te
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/21/ai-has-a-privacy-problem-but-these-techniques-could-fix-it/amp/
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

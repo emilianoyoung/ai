@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recogni
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
     quality: 81
     images:
       - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+        width: 700
+        height: 466
+  - title: "New face recognition feature at airport"
+    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
+    publishedDateTime: 2019-12-23T23:56:00Z
+    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
         width: 700
         height: 466
   - title: "Women in SF police department face barriers in assignments, recognition"

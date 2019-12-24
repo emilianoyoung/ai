@@ -145,19 +145,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI In Fintech Market 2019 Latest Trend, Technology and Advancement Outlook 2025"
-    excerpt: "Dec 03, 2019 (Market Insight Reports via COMTEX) -- The AI In Fintech Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The AI In Fintech Market report is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ..."
-    publishedDateTime: 2019-12-03T22:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-latest-trend-technology-and-advancement-outlook-2025-2019-12-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
     excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast period of 2025. This comprehensive research report is titled 'Finned Tubes Market' with ..."
     publishedDateTime: 2019-12-11T08:08:00Z
