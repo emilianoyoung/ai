@@ -23,6 +23,6 @@ images:
     height: 3456
     title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
 
-secured: "Q3GRZJUj1CFDXtbkvakVbq2vQLg5AOwqib+koAevWoKB4afI8zjRV12D3MiA0wNimmONVWw6SgIsE9SFD+Tgtaq3FhYoXHjHvEcTkXzPovF2CeH2PHBIHmBNtngvLZVqZtF99dqQeDxt9aFtVffAMNKGPCbQAP4qcWvW0ABA9BL5fglPaCQf9JLCjQl2GCS4L2t65iYRWpQiV86GhtTQFLorYz686EkfsoLJzqU9fTECiqNA1WqmI2KvZDb/MpKMxbBGRm5P/hESHpmVgU89DQ==;Imk26uCl9UUH9xcFAEBGGw=="
+secured: "Fnt615TnLabOkePFyxIkEYqUQUqlxtbJ7xz3TOmJmE11fW9Ho3krOnC5LZLSxQh1g8ldT0LfN1XeGhxLo/HuFQCfiwMYd2Itbrc+SoW6z3uvBUwH8C1c1ZDvyP1RS2h0N4jEFrfyHu6SyMVVI1gi1RzknhU8LMC5QD1QVTcrPEaDK3tOzfhO+BzTMS6EQ+m+aIrSTu7pYbCRzMCxWNvC0tjOTWxG5YoA9f3k+huZr09/iNOzGPsUPwQTzU6B0sH5u/mjYIib92zqXmiuC/kV4A==;5FGBlF3eFcui/1OloWF40Q=="
 ---
 

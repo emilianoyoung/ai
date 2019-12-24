@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/google-brains-ai-achieves-state-of-th
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/google-brains-ai-achieves-state-of-the-art-text-summarization-performance/amp/
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 427
     title: "Google Brain’s AI achieves state-of-the-art text summarization performance"
 
-secured: "PLpg/XP7PCs4wqT7uNb0tCbvFMOJ0VYoamjVtelmZ1sOcy85oo8MU2+wORvmG8rp6/rJ3eUZdYu82nnELjs+bN2IymvR4wOwovieJCCHgHOfFOZ0LElHwjcA/3SrX/s7UNO58yxS5Qg7a+8MlP9DOLLjacc3t5kQ/hq06CCs7UTM4QMO8KK6pVr5c9/16L8pwyipyHH13SKIFp0HiIrVC7Op67w0eVldfGwjhuAlzqCpwNGDtcfa1kR3c8wrFvwNTvtJiNa0u7toErOvK6+lcQ==;PA5403WKlZBRORjfIUgpkA=="
+secured: "8ZGWtSFu8wN5w4XDwCXI9BMfTJEPXDkdiHLqAq6B0TGGGO8oxrIJJwYZZ6ogqju/T4YLcjsYgvUTTBG4Gy8KbsdmIQ4KctHqRcAQARCwI9aEmazadhvwXvlJSwoROip/nmxa9b2L9Gv/MVDfNeH905sZAYQ1wGXMmoYMJqFaWwZccpLWGp/8ejEuqEvG0EtGDiOgVz6gsfJKQ+x9YSVWvFn6PLtYpoao56sfT/GgvABI4cBFMptiC7C3EKQx38PH4qHIkeTGKLm4D52Xn2UKKw==;gyYrvcICBkCwKv506SEfHQ=="
 ---
 

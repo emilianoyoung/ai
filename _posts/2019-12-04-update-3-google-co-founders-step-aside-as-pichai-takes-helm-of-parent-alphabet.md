@@ -86,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F1CD04791F855E6E2934607C73867D4C
         width: 700
         height: 442
-  - title: "Google co-founders step aside as Sundar Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching and other tasks faster ... Alphabet, which owns more than a dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as part of a restructuring of Google."
-    publishedDateTime: 2019-12-04T01:50:00Z
-    sourceUrl: https://english.manoramaonline.com/business/news/2019/12/04/google-larry-page-sergey-brin-sundar-pichai-alphabet.html
-    ampUrl: https://english.manoramaonline.com/business/news/2019/12/04/google-larry-page-sergey-brin-sundar-pichai-alphabet.amp.html
-    cdnAmpUrl: https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/news/2019/12/04/google-larry-page-sergey-brin-sundar-pichai-alphabet.amp.html
-    type: article
-    provider:
-      name: Manorama Online
-      domain: manoramaonline.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2665EEE0505FF35CE7CFF3745D971E6B
-        width: 700
-        height: 364
   - title: "Google CEO Sundar Pichai has been named the CEO for Alphabet, Google’s parent company"
     excerpt: "Google CEO, Sundar Pichai is now the CEO of Alphabet Inc., the parent company of Google, DeepMind, Sidewalk Labs, Waymo, Calico, etc. This comes after the stepping down of the co-founders of Google itself, Larry Page and Sergey Brin, who were Alphabet’s CEO and President, respectively. In a joint founders’ letter from the co-founders ..."
     publishedDateTime: 2019-12-04T13:17:00Z

@@ -71,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F1CD04791F855E6E2934607C73867D4C
         width: 700
         height: 442
-  - title: "Google co-founders step aside as Sundar Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching and other tasks faster ... Alphabet, which owns more than a dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as part of a restructuring of Google."
-    publishedDateTime: 2019-12-04T01:50:00Z
-    sourceUrl: https://english.manoramaonline.com/business/news/2019/12/04/google-larry-page-sergey-brin-sundar-pichai-alphabet.html
-    ampUrl: https://english.manoramaonline.com/business/news/2019/12/04/google-larry-page-sergey-brin-sundar-pichai-alphabet.amp.html
-    cdnAmpUrl: https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/news/2019/12/04/google-larry-page-sergey-brin-sundar-pichai-alphabet.amp.html
-    type: article
-    provider:
-      name: Manorama Online
-      domain: manoramaonline.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2665EEE0505FF35CE7CFF3745D971E6B
-        width: 700
-        height: 364
   - title: "UPDATE 3-Google co-founders step aside as Pichai takes helm of parent Alphabet"
     excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to ... self-driving car technology business Waymo and health care software company Verily, emerged ..."
     publishedDateTime: 2019-12-04T15:23:00Z
@@ -171,6 +156,6 @@ related:
         width: 700
         height: 476
 
-secured: "QxOToWs+cPUHleTc1YEHuOzkT8C40sEGSeoJjp/Cd516WkN9BtnQS77Dlu6i1wVMf0Zb4V9jF9f2aAB0voEFNDYSHzY0Q3xTg5ctxgc2H7mFsknwSvWBZxMmjKpl0fhiOtQ/bqE+ggUZw/M801aM9K6mnbKDdb+UQBslY1SVahXPIOaMZpGEAKZSZmXhroqVTYs4EkQcZyvrUdnN6hyKXGoCt0lay9F5SP8NPQim4Lu3CJWdFRlpDl9EQDXX0M6iiDoBZFZMT37T1ArPUASMvQ==;BqiXE5Cn6Ma4DmIti//flg=="
+secured: "r/LzfWkLpp93C3T2hMii/OZqi0gcoL+RGkVHqn1yYyKdjn/V5JB09wjOkjuZELSV5/UBtVBvw6fGK+96Hd8RL65mBs4H22aafzkdYD485H7oQTBN1c0sJzZfuSLKYZxvEBRMR0jG3FsOuKchCVmIfDQyRSwUVniKlNGO5Gxv8QKZ3xxV1o6utPTMRkVXjTZuM2+V6qhynEnN8PcQOJw/7GCI96tR/uRYdTqHlm0wT8hixVhecwNO+irNGpMqcoDFXf+D2yNJsTjb2Er3JOAvFg==;G2IrkuTaRQyYM31JXkhMBA=="
 ---
 

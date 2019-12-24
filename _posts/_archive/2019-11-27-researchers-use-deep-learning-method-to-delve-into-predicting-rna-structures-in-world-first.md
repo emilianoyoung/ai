@@ -25,6 +25,6 @@ images:
     height: 2048
     title: "Researchers use deep learning method to delve into predicting RNA structures in world first"
 
-secured: "ZJsI6iceZ+PDHep0clFT36K0Xxg74zcjHI4oeC+qmfcfDGvss873Q+56XGLPaYv+k/jEFxc4jY7T1HMrc84VBwZf5DZP6drC14H2NZKbGWLGYHhBsauzttVyvZqHr/RBqe0weW5RKUWNPSR/fdi9gOubPVy1tXkmt8eUNpYoGxWFg6suvZ/lBChGQPM1Wq9BOqU4fcjFkiZa0C/iFGwT7U78og6V4vTPWtmEitjcR3VcyVTNiiGnPBat9xf/81tkXNbuP2BHx8vkg/7Y50buqw==;m1cI7dOW8jpgIr/n4cWgNg=="
+secured: "48RdR8aUg3ZiCkXKHIWRwyqrSzhIj+Z+MxwqqIBGJ5psgrQhitpqj7vJgpOiXQGk4x45BO98uD4/40du9IIfDGmlG4NdqONA7fqNM2doNsus/AkZFcmG12xSawGgrYhPkh+LxkUDFJ/uk84eLiKUe8SfGWx4rwaVrmniv5T0kvGa2q64ASl/csrBzglgQ2nTEyCNlDOhHobLXTTxatW2CyU5WpOoVjq8nGFD/Iy4ZLUijcjZpEYa95QgRsjp7Vobm0ephVq5izBHm5f7W9omzw==;w7ISnnYusGnSDLwpMOfdIg=="
 ---
 

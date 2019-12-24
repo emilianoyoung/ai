@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
 quality: 102
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -83,19 +83,6 @@ related:
       - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
         height: 466
-  - title: "Wipro launches advanced cloud SOC services using Microsoft Azure Sentinel"
-    excerpt: "Wipro Limited, a leading global information technology, consulting and business process services company, announced the launch of advanced cloud Security Operations Centre (SOC) services using Microsoft Azure Sentinel. As part of this integration, Wipro will offer managed cloud SOC services with built in Artificial Intelligence (AI) and ..."
-    publishedDateTime: 2019-12-04T02:01:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2019/12/04/wipro-advanced-cloud-soc/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
-        width: 400
-        height: 200
   - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
     excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
     publishedDateTime: 2019-12-06T18:32:00Z

@@ -86,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
         width: 700
         height: 393
-  - title: "DHS renews facial recognition plans"
-    excerpt: "The Department of Homeland Security recently updated its proposal to include U.S. citizens in facial recognition databases when entering or leaving the country. Where it stands: U.S. citizens can opt-out of having their picture processed at airports to verify their identity, per Customs and Border Protection (CBP) policy. Yes, but: ACLU senior ..."
-    publishedDateTime: 2019-12-04T01:37:00Z
-    sourceUrl: https://www.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    ampUrl: https://amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5FF77E851C02CA7A459DFEB99AB7B086
-        width: 700
-        height: 393
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "The ACLU, which spoke out against plans to conduct biometric scans on US citizens, is still concerned. In a statement, ACLU Senior Policy Analyst Jay Stanley said: \"The Department of Homeland Security's plans to spread face recognition surveillance nationwide remain alarming, especially given the lack of congressional authorization and ..."
     publishedDateTime: 2019-12-05T20:44:00Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/tencent-details-how-its-moba-playing-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/tencent-details-how-its-moba-playing-ai-system-beats-99-81-of-human-opponents/amp/
 type: article
 quality: 183
-heat: 183
+heat: 184
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 353
     title: "Tencent details how its MOBA-playing AI system beats 99.81% of human opponents"
 
-secured: "tn/nhAUF/Nmzq17aSuJM5N9d8en7YkfjU698h6bn6u2V9halrKCEYFIccTRATy+ijo2d3fLoelXCbTUCYZEd+GPfRL19U2GQuSHCaqO2KUHN3mZZWI2rsjhhSVNdHzbzE40R63pg1JfI4b7KTPfwNxqkKIV395gHbcMozf1o/R9Zdtp4YDUk3HB455FvAPA57RPyjrcSoBTJyNsR1ny22NMKFnuYyaNDW7OHDn7WtcrC/nToTxAp8gwHHM7KwrJN947Geve0gLO0OmTmI5NzMeCVaMGAKPKYRQbYLfH3KrM=;uyGYQ6iiy+iugBESsdh5Aw=="
+secured: "oCK18WZqnB6rQmq5DXACTooTB2b032Oa8Mj6+PbpvTFqjLtPtGSHjfR5RaZTlBuqD45GBCXxkXmCTFB/dMddDTdh5FpbMuvqHlgCABFObaa9n5ulYKzn/aFQBTxNqJTCGrrjBf8Yxgo9GoFK4liqNoexpWceHbox3VGJiI54KP/PGhF3zPNxe5+HuM7KmcmmUK6w0gONZGDT28QkcMQg4kbBDWMRPPWKEQIdzc7E3i9lXUJST2KJ/OjPpHbYlZXEfFsP0snJEZRttrUMQC3uKYEbjKVx2usz84WfWmmbKe4=;ezqF2sx3tnwdqbWh6wVw6w=="
 ---
 

@@ -85,19 +85,6 @@ related:
       - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
         height: 466
-  - title: "Wipro launches advanced cloud SOC services using Microsoft Azure Sentinel"
-    excerpt: "Wipro Limited, a leading global information technology, consulting and business process services company, announced the launch of advanced cloud Security Operations Centre (SOC) services using Microsoft Azure Sentinel. As part of this integration, Wipro will offer managed cloud SOC services with built in Artificial Intelligence (AI) and ..."
-    publishedDateTime: 2019-12-04T02:01:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2019/12/04/wipro-advanced-cloud-soc/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.FDEAE1FDD3C70F463B6EC923C3543928
-        width: 400
-        height: 200
 
 secured: "fHyYq5vOrCCJQARONbAR6LKvR/pSccPksZuBjhVM0hhEayKnQeadechHyW4mHq74tCZnHB+kCwsujJ5EGVPKhnNa0JxieT0RDyr1Ma3hXYiHDrfWKz3Zd07syh3LpuThrnIUWfc5K+MG9cBLscId+SRka4P9NrX4CprMs9QJ3N1o+KBVXBm37m5gpfNtUeZjK2idZlYKx0Od44mUBVd9qF/d2Bn76R0M0r3cQbfrIli6MfEdqo1iZP9H4jH17MlTIreWZMy63Z8fxdbB1mv3Lg==;2wDhAfR4Lr3QuyB402MCoQ=="
 ---
