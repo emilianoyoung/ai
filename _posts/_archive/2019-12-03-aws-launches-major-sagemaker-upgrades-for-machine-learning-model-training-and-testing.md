@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
 
 related:
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+    publishedDateTime: 2019-12-03T21:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+        width: 936
+        height: 523
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -70,6 +83,6 @@ related:
         width: 1000
         height: 600
 
-secured: "5xGbpCQ6WeF8CXSY5kisWD2s/Bdk7/fcY4J5uAgVVcVRGgFhab2HXftZUx5Ho1ybnlT7cVO6FehbH1/3I/Cc6DlGUZyH3POlZ+XvXywKHq3Qbjw87PCNH6tLFT4y4LtLq42swJbc6+rVfHlKzGx7/G3fkw6ZWsMyevu7AiUnfppm/lL9okr5kbgZxcvSV6P/h74J5dLucCdEs8rEftkZprRPDQeZc5apEW2o698XDQP1BksAegEugsQMV0dcl0XJKEhumAoKPko6BTiaYG63Ug==;7PKJcfWzmM9VziazeRF13w=="
+secured: "i/oP2i4CJyMEuITKcrPhU9wb9vJytMUqPE1SuILUYul1F+8rcvwEdDswClK34JUG6ID4Ewostr91QI+/0dcVg95qMzvFxLR27DHPxA7UF6KB71ZjuVpKscogk6NdNCQRQfa/HSYYjTFZqpi3caz1k1z1M77AJD0TuWMlGFXF1sg3LGW6M0Q6ZYPz98KlllX1x65FNW6DY/MSVe1kNyloYO5NNH0PvGle/lJfkYTHmijdelQt+1JpJB6HrT1c9woeiJrnrLKKup+KJWKBP+MLww==;pu3jRXWyMBUE9TQNohmD+A=="
 ---
 

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-publishedDateTime: 2019-12-03T18:32:00Z
-sourceUrl: https://au.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
-ampUrl: https://au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
-cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-autopilot-gives-more-visible-182248355.html
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+publishedDateTime: 2019-12-03T18:31:00Z
+sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
+ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
-quality: 59
-heat: 69
+quality: 84
+heat: 94
 published: true
 
 provider:
-  name: Yahoo7 News
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: https://s.yimg.com/ny/api/res/1.2/eNhrNpu9lmfXQn.3bmlqsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-    width: 1279
-    height: 853
-    title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
+  - AWS AI
 
 related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
@@ -36,6 +34,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "hEV7rLS0tJCJI0UzSKyDWSopv7690sChKcE4aYLKL1wQnD0+btTGMDqHh24qgpgVWaBez+8RY9lcyUfXeNzfGSKJ6TMrjcEPgeb9CUzUiAwwKGILLtOMMv4+Qx99FpMPc5NiWn1WPOvHxMeSsYgWlzOXFa0w9HXEI5rnyjPEohUvW212Tda1eBOPbKLQ+wGKcxhUvvte1vXylfUy2HHmgF/keI7BXrIN6hRn/ULcMHT/YGVm7ov3MpedWs22vsImnIGkWWG7tHwOVNe6ww0r/A==;eE33cC2Z2jHVwvt6Rc/BQQ=="
+secured: "vYaKQm7qKCIxtep9D/4JFTMa+oZIBodEEwBtenJcyCmMug3F4aqR8fx/OcsUZosUkAIVefTcAeI0JAXmTQfheIOp4ujR485TkbajlX90tgK69fMpW0PfpNVvwfxoUHZZINHVgXlvF1R1jiGwbt373TKwtYwTjEY5SUilAxMjloudopF4xYkPZ4Vke5lccRe5Jb7eeEmcB4b2l8ZqRONSKSEJ9s7xEnLXu7lMJOkVxRWmTtCVoQtQym/i1b2MIbYtIaiVS6bw0wvAN1fbyRh97A==;YKZE4uiAQ6u9jlsQqrp9Rw=="
 ---
 

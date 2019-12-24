@@ -23,6 +23,6 @@ images:
     height: 1229
     title: "Artificial intelligence: Towards a better understanding of the underlying mechanisms"
 
-secured: "zKBzxHODXWfSqbvqj/11AhpLQZ7hcBHK02Y458s6zR4mVzrsg69uInduaZnUy4roqrGyGMFmJVVSlacCbYrcsCiEpTpPj3bJmrHP1tIUn3cTGhdDoPbC7hyYZ6UyL8zjvPM3yaiYZV8T3RIsTeTviPyWrNFJXXJJrPCeWDNtQOX+qAvl0Xyh97HKIxfWf+EXQERBLiR4eZtO01mdcTPy8a6jGt2H6wcMdN53vEeSt2GJM5Yo29M2jcv5hkObhJmGubpeeHj6P4HZkwzsCGgkqQ==;1aCMzZ9I+yrA3dn62y8dFg=="
+secured: "RhGLjVf+GR8/wSq7u+juG5GUp1iu7siEctrh1spkWBfBE6Vw6KPkz/MOyMqmzCl8CIRlDIwEJUTdrS8967lmnHaWwiliwoK0+/b1PtDJjuscUfJbyxenxRjkUHWqLXhRkFt2En/Mgfkql7nW5q9aH52hMXs97U/7qMPJ3lJ0Gf/JRp4U3gIxUzMY7nbdI5a7UbiDSKP3b9XzyBuZWxrQvUop7+dYoXm+yE4UjJYF/WhpcuEi0UOsdYmBYeHnSeOjRfV4pl5TMuVTkUGfaGtbsA==;b/wGz/9xYNaCwfIOO/F8Hw=="
 ---
 

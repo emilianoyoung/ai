@@ -1,11 +1,11 @@
 ---
 category: news
 title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
-excerpt: "Kicking re:Invent into high gear, Amazon Web Services Inc. today unveiled a massive array of artificial intelligence solutions spanning more than a half-dozen ... The new AI offerings fill in key pieces of the product vision AWS Chief Executive Andy Jassy outlined during his keynote address this morning. The provider’s objective, he said ..."
-publishedDateTime: 2019-12-03T21:24:00Z
+excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+publishedDateTime: 2019-12-03T21:16:00Z
 sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
 type: article
-quality: 68
+quality: 66
 heat: -1
 published: false
 
@@ -16,51 +16,69 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.DAC8B3D632DE9DFE10A923B4CA88E8E3
-    width: 700
-    height: 391
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+    width: 936
+    height: 523
     title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
 
 related:
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
-    publishedDateTime: 2019-12-03T18:31:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
+  - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
+    excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
+    publishedDateTime: 2019-12-03T18:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
+    ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you have no idea how it was built. The idea behind AutoPilot is to give you ..."
-    publishedDateTime: 2019-12-04T00:04:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/aws-autopilot-gives-more-visible-182248355.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/aws-autopilot-gives-more-visible-182248355.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/aws-autopilot-gives-more-visible-182248355.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 112
     images:
-      - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
-        width: 700
-        height: 466
-  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
+        width: 1080
+        height: 530
+  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
+    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
+    publishedDateTime: 2019-11-29T00:00:00Z
+    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 19
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 54
+    images:
+      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
+        width: 932
+        height: 377
+  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
+    publishedDateTime: 2019-12-03T20:32:00Z
+    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+        width: 648
+        height: 420
+  - title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
+    excerpt: "By Donna Goodison December 04, 2019, 09:51 AM EST Amazon Web Services unveiled new EC2 Arm-based instances powered by its AWS-designed Graviton2 processors, along with Inf1 machine-learning inference instances powered by its custom AWS Inferentia chips. “If you look at instances to start, it's not just that we have meaningfully more instances ..."
+    publishedDateTime: 2019-12-04T15:01:00Z
+    sourceUrl: https://www.crn.com/news/cloud/aws-launches-new-ec2-arm-based-machine-learning-inference-instances
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 24
+    images:
+      - url: https://www.crn.com/img/CRN_stacked_1000x600.jpg
+        width: 1000
+        height: 600
 
-secured: "5U2WXXk0T4Gh2ZuziQqzwJL0r33hD6BLQ9XdQ3o5koZ9t2W72foZfozd2UGg9nlR+20L+hujCbPO/qZ5icfWuZOPhCHZ+Golh9BPPGKAtBNoJHr2V7EaJn1feiXobbWhT3cNBiyAjEMCxQY6emgkeLZlLsGigzj3pJ5XzeQK0aJ0J2JGwB2e7Y97fp5/eaPnoBpS5isSg3peeT7nICqMWJl8xg4laMkvTZ5Y6nXyoggykp8CP4PlihewCikhl+Arzw9ComLaUcCF9gdyav2WDw==;FMt8EnzDi/RDIEXHfFLxwA=="
+secured: "JFRqCqros7bcIp2e3+7yqgOqpCtfEZijpzYsmGhUuaA6rI95VI77Pp6OR3U/JaaKScTWfP2kPmtd7NwzZLawM7zE2zS+b08rLqnyIJFfFRSKo3GB9EzYebFROTtduPccw5nQL0gx4v8lfYUzqOpSBtAicNo6rv7LyZcKSS7fwqmh38RII1wFZsI8F1M/hb+77V9KoEZxu2wp+srpACHwfkgM4q4zKNQiU0MsVS74tPY4LTTVW7vQh78eArcFlAnjy0JodMJHfc3YHD1E55pwbQ==;+aMmodsccDitV2ihoStRQQ=="
 ---
 

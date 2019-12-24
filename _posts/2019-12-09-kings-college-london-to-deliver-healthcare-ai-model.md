@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0B51D913DAC9D2383F419AB653E1C507
         width: 600
         height: 315
-  - title: "AHA: Four building blocks are critical for AI in healthcare"
-    excerpt: "Artificial intelligence has the potential to transform care delivery ... However, to realize this promise, hospitals and health systems must build a clinical AI infrastructure based on four building blocks that are critical in healthcare. People: Hospitals and health systems will need to set up organizational charts and assign responsibilities ..."
-    publishedDateTime: 2019-12-04T05:08:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/aha-four-building-blocks-are-critical-for-ai-in-healthcare
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BD9790894548E3904FA8D82FE86C22AC
-        width: 700
-        height: 367
   - title: "Ping An Good Doctor and Merck Form Strategic Collaboration to Advance Intelligent Healthcare in China"
     excerpt: "The representative of Ping An Good Doctor echoed the importance of the partnership: \"Ping An Good Doctor will take the advantages of the healthcare ecosystem platform and rely on its unique service model of 'internet + artificial intelligence + more than 1,000 in-house physicians', combining Merck's advanced technology and high-quality ..."
     publishedDateTime: 2019-12-04T08:14:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T11:13:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
 type: article
 quality: 82
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 20
+  - title: "Machine Learning Chip Market :Technology, Future Trends, Market Opportunities 2019 & Key Players"
+    excerpt: "Machine learning is derived from the field of artificial intelligence (AI), which uses algorithm to find out natural patterns in data for the development of computers. This data is used to take better decisions and make predictions in applications, such as stock trading, medicals, machine load forecasting, and others. For instance, many media ..."
+    publishedDateTime: 2019-12-24T06:14:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37187/machine-learning-chip-market-technology-future/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 6
 
 secured: "s/8U+NVMV1mfByCNWmbZO+ZvQ4fZWycKkt8NAq2bLkcppA+KyXvPosP3VCqoUjVoYIE4Ng+gASuZr1/44FENUoFinUAxSCAvjb1WZM7UAhGVxJTnPhlFux6VDThy82abiaZyUyhEyjQ7mzkP+DGd0jCD20+devPZ9+GZueua89J9GnkHNpD93T70eqAvZGubRh/j2Atc8w1qNGFChZ4+x7LP+99a8Hog/HViMfrZT0deFgrE94eaMSIqVkvkj9/AmNGP3FOnB32DIXZ22T012A==;BNQwMbXln4Hs+xOHX/JLEw=="
 ---

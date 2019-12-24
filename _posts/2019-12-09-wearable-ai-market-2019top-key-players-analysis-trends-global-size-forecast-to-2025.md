@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market 2018-2027 / Size, Status, Top key players, And Forecasts"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
-    publishedDateTime: 2019-12-04T05:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2018-2027-size-status-top-key-players-and-forecasts-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "Ao6sz4HMW2k6lh1mlZIGB1ud1NLzgTRPCQpdVYxaR849wc+YIqtF70mrTEujCRCcpnE5iccPE0D6enqYq9nYKYm0kFBKzySpmuhPgOcSO/9uGaJmgnA4R9XCcP1Ghhg/3NlrpumVpWbUnZ5rpUd+7RGtZXu/lfSDSjN4bxm2yPbigElKxy1/jbJvX7l/zTSbmZY4w8v0TRLuElTMyAm9UA6+Vv/PYeZebaW/C+5vzge0aIZ44NATYMnVcKNp/1Cw19XIHkJwVOl24EbtfGm6CA==;UntPNa3K1ei4axuUFgVyUA=="
 ---

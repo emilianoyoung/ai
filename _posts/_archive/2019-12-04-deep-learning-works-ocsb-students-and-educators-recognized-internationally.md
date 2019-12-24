@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Deep Learning works: OCSB students and educators recognized internationally"
-excerpt: "They developed a sense of citizenship and a deep understanding of diverse values and world views. Deep Learning is why. “It’s learning in action,” says Debbie Lewis, an educator at St. James. Lewis is one of several educators at St. James co-creating this learning activity with their students. “Deep Learning takes into account the ..."
-publishedDateTime: 2019-12-04T05:05:00Z
+excerpt: "They developed a sense of citizenship and a deep understanding of diverse values and world views. Deep Learning is why. “It’s learning in action,” says Debbie Lewis, an educator at St. James. Lewis is one of several educators at St. James co-creating ..."
+publishedDateTime: 2019-12-04T05:03:00Z
 sourceUrl: https://ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally
 ampUrl: https://ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally/amp
 cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/life-sponsored/deep-learning-works-ocsb-students-and-educators-recognized-internationally/amp
 type: article
 quality: 57
-heat: 67
-published: true
+heat: 57
+published: false
 
 provider:
   name: Ottawa Citizen
@@ -20,26 +20,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.600AF0881B4334112E40ACE8365AB24E
-    width: 700
-    height: 466
+  - url: https://postmediaottawacitizen2.files.wordpress.com/2019/11/ocsb-deep-learning1.jpg?w=1024&amp;quality=80
+    width: 1024
+    height: 683
     title: "Deep Learning works: OCSB students and educators recognized internationally"
 
-related:
-  - title: "Gaining insights with machine learning"
-    excerpt: "Machine learning is still the new kid on the block. From identifying use cases to selecting data sets and tools, there are many success factors to keep in mind. Every industry is finding value in machine learning projects. At the same time, most projects ..."
-    publishedDateTime: 2019-12-06T14:58:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135610
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
-        width: 772
-        height: 594
-
-secured: "dAyKx+0V8zR9WzpsK8pRc3PZieLf1Lhc/XPMlxiq5ncUUiPErNOhTXuiIUH/RjKdkRkXusbdnfXNo1z8b5ULQaOeX9uSdX5v+L9my9Xrl24APUZBmByA3rb3N2KE+GkMvhpEAVtx9PDClTCZd4AlpKZgc/pXyF/fDrgiJRmXPqNG1X04hOkGWGQIksnA3h7mpdlkspvKNRTTqwzZmw4XynbLblDjmycMpsYMTJX0ioCsiA2aDq95civsgh3gwtCr3KreTULBkeSuxBGAyx1CLw==;vrqNIGpQW+laMbcJM3LPSA=="
+secured: "nA7j8Jerp0ogVFxfppqHBHpKSxYaKI/AFpLq1Xmv2kOWG7qzHgrurx2d5NtuXa2sJNHSzj6R9w6HUyAxSc3JV1PAX9UqUpEEEu3LRiSR/ehyuekjO8Hkye6z7SukQI09PrdRwVBMVcFKplqyPKx2fDunV1nG0rduGrIjfTwLP67wGeYVK5yxXNsG/H0tuBdiACj43RXspI81MWmsCV2x//R0ccz9C+8Old7viiTNmxEWPa8XfDvlSRZKFYQhuPm2JURL6Y9U5p7QtcEIIW3rZw==;Ye6QMTbtAMvKoJCxtNASNw=="
 ---
 

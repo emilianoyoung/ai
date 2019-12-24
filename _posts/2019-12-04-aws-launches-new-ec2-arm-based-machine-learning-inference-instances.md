@@ -39,6 +39,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+    publishedDateTime: 2019-12-03T21:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+        width: 936
+        height: 523
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z

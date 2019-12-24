@@ -43,6 +43,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+    publishedDateTime: 2019-12-03T21:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+        width: 936
+        height: 523
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -70,6 +83,6 @@ related:
         width: 1000
         height: 600
 
-secured: "ldMEKJ3g5LR6LzEXAo5G1Ilvf7pwAeN18lv7ZiKrG5VVg8TJDBA/wrb7zCD9Xca41SdvYFKzoNzFKehyx690ErF1K6L7gz2BIvc/j+ACs8MlgxzqshZPV9VqCBstZNB8Jnx1XQqiQkFOYJxPdKfMOrgD0Ltwd4nX0rinxChpVxZaZE15TLvXXVWAlQZRU2UIMeFsneiNcWhyI0N2Mu8XV40VfxavDJEi06kB0lBQZ6DxynwL/o1zivsZ+7cX2r12ylacXlXSFvM2oFjPaSzYkg==;X0G0sFanGxb7P4qYrk1rYw=="
+secured: "p9Lgshbh0dCdRBJCP4R+bFgduAqbGC9baGt/RVb6byBNwizUGi05XJuIQ0uqbn6ziLhDSUomgfXSn3SrOJdnuzYUt7Xu6AiDtZA1ksoSf7IHjwlGSWH/MvrJMWpAkNCw3eUlo/SHMwUIcql5gKdGTfRc8qYjTETB/d4OYYlBzRFOyoYWMapC9EtIak5g1CQ0wHCx4lxscWALRXhcp7On1lN2SPJNZFYYh0F//RKxB+MYH58uuGyZJcwP0PAcEk5Ih5O8xosr6rL69EGNWVG5Bw==;wXXHVe1gYD5TrMkSdNdJSw=="
 ---
 

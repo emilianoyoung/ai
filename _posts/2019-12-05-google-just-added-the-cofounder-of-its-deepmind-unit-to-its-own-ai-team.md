@@ -2,16 +2,20 @@
 category: news
 title: "Google just added the cofounder of its DeepMind unit to its own AI team"
 excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-publishedDateTime: 2019-12-05T17:49:43Z
-sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
+publishedDateTime: 2019-12-05T17:45:00Z
+sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Business Insider on MSN.com
-  domain: msn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -67,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A1C5DF8994569E3AFC7ADDB67A17765D
         width: 700
         height: 350
-  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
-    publishedDateTime: 2019-12-05T17:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.28A3294418918B7ECE3E4E7AFB516472
-        width: 700
-        height: 503
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "While Mr Hassabis runs the core artificial intelligence research at DeepMind ... infra and [self-driving car company] Waymo,” according to LinkedIn profiles of employees. Mr Hassabis pointed to other examples of collaboration, including research using machine learning to accelerate ecological research in the Serengeti, and work with Waymo ..."
     publishedDateTime: 2019-12-05T17:22:00Z
@@ -162,6 +153,19 @@ related:
       - url: https://www.bing.com/th?id=ON.88E991F1A6D1B05F29BB8CDABBFEAA1A
         width: 700
         height: 393
+  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    publishedDateTime: 2019-12-05T17:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly unscathed and will now take up a role involving AI at Google. It's not clear exactly what ..."
     publishedDateTime: 2019-12-06T10:39:00Z
@@ -189,6 +193,6 @@ related:
         width: 632
         height: 422
 
-secured: "b+A+wq+k/2OD6zp62q7KN9gdZ3DAqIQ3mKLsUr8w/AOq4XqInn4wTvHQhKMOgK+C1gK0D6OrEyK2plcAcEA8RSMT2kVPOZMavkxLy0bxlh+7RTyqGPkg5avOy0onYmg58URmasgIdZh43w5xHCKmUMAdiPAV/eisNxcuhUh4klNNsyOR638+7vhAXruWItQUxqIfU74r4LEvK4hjBD0IrKY3ZlgrVNGVwiuaoXgDyeB3ghKTv06t2fNm3gxP0RgaKbEW4wLso5eKGj68MYxzMQ==;6o7BYjXPToYKtCD68RQ7oA=="
+secured: "TylzbeMiX2Gzh4ymSF0CqCYv3Cd/cBe9HFW1v04SDl3ONwx7PGTJf8ZERb5WXn/8XGdOGDivIjTq4w+QKfQZ9DAG8XPb2RpJeUAmnZvGf0Lr1g5nNRzi9uSQtUygXe9m+HPwXe1V9ZlD0vKyILsQKJMQeSuT7keSP8xjwpkqijOZ0/BXtCmEXr9ezHf9qAvVhvsWgpUHJoAKsDXfaV7Dmpi0zoTKMS2huslEeom6/ICQtO262Oroq/1Aiqe3m6zG8Xl6PYq5nPBdH+kgyu1GJg==;kZhZE0B0rYp1ZW1TJ4v0Ug=="
 ---
 

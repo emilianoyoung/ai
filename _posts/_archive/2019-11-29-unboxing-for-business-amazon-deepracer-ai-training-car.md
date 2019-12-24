@@ -39,6 +39,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+    publishedDateTime: 2019-12-03T21:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+        width: 936
+        height: 523
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -66,6 +79,6 @@ related:
         width: 1000
         height: 600
 
-secured: "obeMA5zTb/DVskpOTPNIAybJWDMkyKOJ73smD3zpEprU0e0fzgad0E8IWYz6WwYK5DkydOp8gQxrsMkATo3b8qs58l5jelcw1+dYpIuhH1k1LGSnl4PwNmvcBHYB7mbRNB2/C1CjodmTZf+IHz/YxMDCDsimYxrnFiM94Clukx6kv6JbsNvlD0oQhrmD6XptoojJ8+27urIhlTCcYmzu7fp78hBpyY9t+uvn6zlkhIWzGNuKWJZ4zuJmQiVKOBQC7y8itmx6E36JT4uzZNo8vA==;7s4TKkXhyRB7Rne5tcdz5A=="
+secured: "nRXPkFBOmoUqy4u7/jFV5OPbfOehtp1Zc+o5qEEC0wcS4LYGlpR6yZlkNphwkiS6qzk/NGFptm2rmxT6wEBfkSoViSkKEyvWp7NGBi/M4iXzGqeQ5vL7Yl+3InxrICdTmIA7CohVi+iMBoBSX3d6zKgxQZo3ndPWl65ndZ4o0ZMBZNqPa/0cnDzeuSiUrqwB8OEAcyQ5XbU6oonl+72pku3nRVet7lkGUX4znOVLnTrmpIb3azF+abMdknptWk5rdo9QNutjCmghKBAsejTbnA==;hsn9aoiJIzBgsA2pQfYXmg=="
 ---
 

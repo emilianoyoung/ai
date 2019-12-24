@@ -115,6 +115,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 20
+  - title: "Machine Learning Chip Market :Technology, Future Trends, Market Opportunities 2019 & Key Players"
+    excerpt: "Machine learning is derived from the field of artificial intelligence (AI), which uses algorithm to find out natural patterns in data for the development of computers. This data is used to take better decisions and make predictions in applications, such as stock trading, medicals, machine load forecasting, and others. For instance, many media ..."
+    publishedDateTime: 2019-12-24T06:14:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37187/machine-learning-chip-market-technology-future/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 6
 
 secured: "Cp+DEYNDdxrcxf9AXhkps8tU99okljnLlC23QPAJKsFr7Qs5T1J+Ii1p4fgTb3B7rDDayFrB0sqN4aRGrgEowU+j14u0TGR6zxHdNZTnHdivL60aI/UT5MLRqIKAcvFP/6WPwORNx/z6rP82sP3i8NlOiLASRo9AKK/5NvW12xvsyUq5JqyCgisbnTH/kBBREV+DgTcgaqtyb9dUyszF22/QfaXHts6dY83hro4o4AC33aXjM3O4YTQOujcP+MGhIVcLKUr4jAycJbTGNUOX6A==;9uCCL8DgFWRz6eZcSsrK/Q=="
 ---

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
-publishedDateTime: 2019-12-05T17:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+publishedDateTime: 2019-12-05T17:34:00Z
+sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.28A3294418918B7ECE3E4E7AFB516472
-    width: 700
-    height: 503
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
     title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
@@ -43,6 +39,19 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
+    publishedDateTime: 2019-12-05T17:45:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
+        width: 700
+        height: 350
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise. And for its sister. Ouch. After a wonderful decade at DeepMind, I’m very excited to ..."
     publishedDateTime: 2019-12-06T00:44:00Z
@@ -114,19 +123,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
         width: 400
         height: 300
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-    publishedDateTime: 2019-12-05T17:49:43Z
-    sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
-        width: 700
-        height: 350
   - title: "DeepMind founder leaves to take up separate AI role with Google"
     excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
     publishedDateTime: 2019-12-09T11:05:00Z
@@ -193,6 +189,6 @@ related:
         width: 632
         height: 422
 
-secured: "hJYp0Bmd7MbYV8hKA15uDYPC6Rut3yiKZSaGFkxWZefEHW2fYlDo75g0XSZG2QOI4JGyO6sa4UgVFzrIWW2PVAQGn6hnR4NkpT+qlvLLtYLs6I66dD0kBrx4PeqtejdPm16Xfi4Dgxeu8/mPpMj3rk8ORx9qsM8qdEhdeSLUIzqQdNTLdGokcZr3W09tIpl/7wjcBcxy56gNZ2K4UDob4LUIgspaLszuue7cixQQKY8djzv1m1vG1wX++rBk0vsDzI6y6vQgzG1rAmW7n85lEg==;jUM+nC8v/BraSDYPJmzqWw=="
+secured: "YmGzM/Ln7u80IxXLeFBzIyGQ1GG6zyW29v6mYmLOLifZEWEPsyyd9uWA2FWWsRH+hwmzgmVi7JT2vQ/INsx1GNJZAodA9DjFEd8Jbrq/5nwLMZxHHakgY1cmJb48rq5czmefPOnCmonlBhCRTqSY6yTe6FN9FGJ8AVeuuQWaLYS2nclMIkbkv7/QngQsI1T1TM69NpzamtOLuodtQ3WEjBRvjBIPiyD6YDZdSl8PO+pRS7qzrfAgWNCdqKHKjpH2p5OWmK+pcftYrYxvwVWEpw==;6L4ReV4AUxpbCKpsGjWF7w=="
 ---
 

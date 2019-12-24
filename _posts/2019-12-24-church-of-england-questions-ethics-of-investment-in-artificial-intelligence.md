@@ -1,23 +1,27 @@
 ---
 category: news
-title: "2019-20 Book of Lists brings robotics front and center"
-excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
-publishedDateTime: 2019-12-20T12:45:00Z
-sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
-ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+title: "Church of England questions ethics of investment in Artificial intelligence"
+excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
+publishedDateTime: 2019-12-24T06:31:00Z
+sourceUrl: https://tribune.com.pk/story/2123994/8-church-england-questions-ethics-investment-artificial-intelligence/
 type: article
-quality: 54
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI
-  - AI in Robotics
+  - AI Ethics
+
+images:
+  - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
+    width: 640
+    height: 480
+    title: "Church of England questions ethics of investment in Artificial intelligence"
 
 related:
   - title: "Church of England to review ethics of its investments in AI and robotics"
@@ -35,6 +39,17 @@ related:
       - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
         width: 700
         height: 393
+  - title: "2019-20 Book of Lists brings robotics front and center"
+    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
+    publishedDateTime: 2019-12-20T12:45:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
   - title: "2019-20 Book of Lists brings robotics front and center"
     excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
     publishedDateTime: 2019-12-22T13:12:00Z
@@ -59,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
         width: 700
         height: 499
-  - title: "Church of England questions ethics of investment in Artificial intelligence"
-    excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
-    publishedDateTime: 2019-12-24T06:31:00Z
-    sourceUrl: https://tribune.com.pk/story/2123994/8-church-england-questions-ethics-investment-artificial-intelligence/
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
-        width: 640
-        height: 480
   - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
     excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
     publishedDateTime: 2019-12-20T13:07:00Z
@@ -82,6 +84,6 @@ related:
       domain: openpr.com
     quality: 21
 
-secured: "a7z3w1aAeaxPvLxQQXBl623gGN6K6LQUTYKtmf52TE7zpy9kXVNo9VKXhrMb4kQAzx9N/8MQzbAqVwlWjuNAhjI1TY+ywHDZMZSAqUZ8RVbkEv2A8LHxwzzkZ+vnJ7dUQc1sVi+gufhCNK85HdOP6NYnI3mNm4Bumrz1R0jqwwjpanMtxyXN8GYRtC2N3jm/frF4059T+AOdSkjdvKYczKeIfdzhHtkd713EteZv3GjMA2muZsJQoObnNZYXJtB/G7+JHWI1OTcKSXVOTX67Gw==;5SSJY1mEHB5wW/tUKMCfWQ=="
+secured: "ZVwJFzuDx5y4wNto4AsJ8b+HCd7dCPCa/orBNARtQmhOvuFJc1Z3mQDtkFGOhCG0OXAvpi6MGyv9GutWeFXd6pQQ76nxF2EJltjiOzrBef4VsuNVhkDay34fxXVkZpU/QFgCQ+a1Ql/g4x31ql3qb8DwvLImHtmHFA0FtHSwR5ZI+ylWssXCpYvJurTZBPoJ/MwfqnIxHsDocKKabM85C4HQkbJ5gjwl5KHZE1loPDNQOVimfkigGdZjCTs1mNUd0eilaIg2oQ8pEYYEj6uUVQ==;PUWRcFGmJ3VhIoI9zuMJPQ=="
 ---
 

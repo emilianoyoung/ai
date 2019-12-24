@@ -8,8 +8,8 @@ ampUrl: https://www.cnbc.com/amp/2019/12/04/reuters-america-update-4-google-co-f
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/04/reuters-america-update-4-google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.html
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: CNBC
@@ -30,21 +30,6 @@ images:
     title: "UPDATE 4-Google co-founders step aside as Pichai takes helm of parent Alphabet"
 
 related:
-  - title: "Google co-founders step away, making Sundar Pichai Alphabet's CEO"
-    excerpt: "As part of the move, Google's internet businesses, including its search engine and maps app, were separated from more experimental projects like driverless cars. Pichai became CEO of Google ... They've complained about Google's contract with the Pentagon to develop artificial intelligence and its proposed work on a search engine for China ..."
-    publishedDateTime: 2019-12-04T05:03:00Z
-    sourceUrl: https://www.cnet.com/news/sundar-pichai-becomes-ceo-of-alphabet-googles-parent-company/
-    ampUrl: https://www.cnet.com/google-amp/news/sundar-pichai-becomes-ceo-of-alphabet-googles-parent-company/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sundar-pichai-becomes-ceo-of-alphabet-googles-parent-company/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.E1A82831B8631735C5D72F02A7277BFF
-        width: 700
-        height: 525
   - title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
     excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
     publishedDateTime: 2019-12-04T03:03:00Z

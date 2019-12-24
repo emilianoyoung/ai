@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing-the-doctor-how-to-choose-a-doctor-to-advise-your-healthcare-ai-startup/amp/
 type: article
 quality: 98
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Diagnosing The Doctor: How To Choose A Doctor To Advise Your Healthcare AI Startup"
 
 related:
-  - title: "AHA: Four building blocks are critical for AI in healthcare"
-    excerpt: "Artificial intelligence has the potential to transform care delivery ... However, to realize this promise, hospitals and health systems must build a clinical AI infrastructure based on four building blocks that are critical in healthcare. People: Hospitals and health systems will need to set up organizational charts and assign responsibilities ..."
-    publishedDateTime: 2019-12-04T05:08:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/aha-four-building-blocks-are-critical-for-ai-in-healthcare
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BD9790894548E3904FA8D82FE86C22AC
-        width: 700
-        height: 367
   - title: "King’s College London to deliver healthcare AI model"
     excerpt: "King’s College London (KCL) is partnering up with two companies to deliver an artificial intelligence model in the healthcare and life sciences sector. KCL is joining forces with Owkin, a company that develops AI algorithms for cancer centres and pharmaceutical companies, and American technology company, NVIDIA, to provide Federated Learning ..."
     publishedDateTime: 2019-12-09T00:45:00Z
