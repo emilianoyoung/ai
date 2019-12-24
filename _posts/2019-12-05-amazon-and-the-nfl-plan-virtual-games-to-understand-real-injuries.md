@@ -30,58 +30,78 @@ images:
     title: "Amazon and the NFL plan virtual games to understand real injuries"
 
 related:
-  - title: "MIT creates an AI that understands the laws of physics intuitively"
-    excerpt: "But it turns out that the technology could also help give us a better understanding of ourselves. At least that's what a team of researchers at the Massachusetts Institute of Technology (MIT) think they'll be able to do with their new AI model. Dubbed ADEPT, the system is able to, like a human being, understand some laws of physics intuitively."
-    publishedDateTime: 2019-12-04T16:53:00Z
-    sourceUrl: https://www.engadget.com/2019/12/04/mit-adept-ai-understands-physics-intuitively/
-    ampUrl: https://www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
+  - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
+    excerpt: "Auto manufacturers are continuously adding new controls, interfaces, and intelligence into their vehicles. They publish manuals detailing how to use these functions, but these handbooks are cumbersome. Because they consist of hundreds of pages in several languages, it can be difficult to search for relevant"
+    publishedDateTime: 2019-12-10T17:29:19Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 187
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
+        width: 387
+        height: 337
+  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
+    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
+    publishedDateTime: 2019-12-10T10:54:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
+    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
         width: 700
-        height: 367
-  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
-    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
-    publishedDateTime: 2019-12-10T18:41:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
-    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+        height: 233
+  - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
+    excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
+    publishedDateTime: 2019-12-10T15:26:00Z
+    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Purdue University
+      domain: purdue.edu
+    quality: 40
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
-  - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
-    excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
-    publishedDateTime: 2019-12-04T16:07:00Z
-    sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
+      - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
+        width: 800
+        height: 534
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+    publishedDateTime: 2019-12-10T10:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
+    ampUrl: https://amp.benzinga.com/amp/content/14960691
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
     type: article
     provider:
-      name: Flatland Kansas City
-      domain: flatlandkc.org
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
-        width: 700
-        height: 393
-  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
-    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
-    publishedDateTime: 2019-12-10T21:24:00Z
-    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-06T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 17
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-13T18:34:00Z
+    sourceUrl: https://apnews.com/06de89d1be9d49978e29d6bdaffb37ab
     type: article
     provider:
       name: Associated Press News
       domain: apnews.com
-    quality: 37
+    quality: 17
     images:
       - url: https://apnews.com/images/PaidContent3.png
         width: 700

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:54:00Z
 sourceUrl: https://eurekalert.org/pub_releases/2019-12/i-rri120619.php
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -18,32 +18,28 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Taiwan's Appier raises $80M for AI-based marketing technology"
-    excerpt: "Artificial intelligence continues to be the theme of the moment in enterprise software, and today a company out of Asia that has built a suite of AI-powered marketing and ad tools is announcing a round of funding. Appier, a Taipei-based startup that provides an artificial intelligence engine to brands and retailers to help improve customer ..."
-    publishedDateTime: 2019-12-04T16:13:00Z
-    sourceUrl: https://www.yahoo.com/now/taiwans-appier-raises-80m-ai-001426677.html
+  - title: "KPMG’s digital shift fuels AI-empowered audits and more, reducing risk across every industry"
+    excerpt: "KPMG uses Azure Cognitive Services to provide more continuous ... In addition, KPMG Clara will integrate with Microsoft Teams, providing a platform for audit professionals to work together on a project, centrally managing and securely sharing audit files, tracking audit-related activities and communicating using chat, voice and video meetings."
+    publishedDateTime: 2019-12-05T14:11:00Z
+    sourceUrl: https://news.microsoft.com/en-au/features/kpmgs-digital-shift-fuels-ai-empowered-audits-and-more-reducing-risk-across-every-industry/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.3398F681CA3C4ECCD69413F4179B6017
+        width: 700
+        height: 350
+  - title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models Into Daily Life"
+    excerpt: "MONTREAL, Dec. 10, 2019 /PRNewswire/ - Andes Technology, a leading Asia-based supplier of high-performance low-power compact 32/64-bit RISC-V CPU cores and a founding Platinum member of the RISC-V Foundation, and Montreal based AI startup Deeplite, Inc., the creators of Lightweight Intelligence™ making deep learning AI models smaller ..."
+    publishedDateTime: 2019-12-10T22:55:00Z
+    sourceUrl: https://finance.yahoo.com/news/andes-technology-deeplite-inc-join-160000000.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.F5E43E34A31CFF748524ABCF9C35F09D
-        width: 700
-        height: 393
-  - title: "Rad AI, developer of workflow automation tool for radiology, raises $4M in seed round"
-    excerpt: "Most AI-powered startups in radiology tackle an image problem: they strive to scan millions of patient images to detect the earliest signs of disease. But Dr. Jeffrey Chang and the team at Rad AI have been focused on a workflow problem: the 100 or more reports that radiologists dictate every day. In late November, the Berkeley, California ..."
-    publishedDateTime: 2019-12-04T17:38:00Z
-    sourceUrl: https://medcitynews.com/2019/12/rad-ai-developer-of-workflow-automation-tool-for-radiology-raises-4m-in-seed-round/
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.AB8A1EC112CDBE727B84E6019B80A93B
-        width: 700
-        height: 456
+    quality: 15
 
 secured: "ufMAk/7T0GOkvN3h2f8XDsM7rdUMssSjvQaLIuKlMpVt0UYzykDM10SyBuIsN/hRADru3R6UZk0TVtklVz/nzl6EeG6yrDeT48FHEnTHIv0NctLlRfBu+AKqZlbh4WwpyCaiTjZLMtwhg7wr91CT8qkypYxFB75egI67iors/OEQskDgDQHhYQ/QThv9nJXG6BMAi2CZkUgrDmqb+KK7Uah0vM/TZv2ct08QjxrRCSgn6H1aOaJeRf9OPVrg5vgw7LRrP2oD1zXQzGdRnvcWDA==;pfxYLJgARcZG3ljHqi8enA=="
 ---

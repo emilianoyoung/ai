@@ -36,6 +36,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3867A8EC503ED0076A82B409019EA7A0
         width: 400
         height: 198
+  - title: "Broadcom Unveils Automation.ai, the Industry’s First AI-driven Platform that Accelerates Digital Business Decision-Making and Execution"
+    excerpt: "LAS VEGAS, Dec. 10, 2019 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) today announced the availability of Automation.ai, the industry’s first AI-driven software intelligence platform purpose built to accelerate decision-making across multiple business and technology domains that support digital transformation initiatives. As enterprises ..."
+    publishedDateTime: 2019-12-10T16:52:00Z
+    sourceUrl: https://apnews.com/Globe Newswire/4aaa9a30ed7cab945724a7e940b78598
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "5bCz+2vA161OALW8qLKgV+16aRTISYDKyVGeIepvkCQ3zO3k3R3yf2958Gw5IcEUwx7IsTxewd+aTBxpKNmD49PQ8ppbPR/R6zR0pHhxjhNjWr4+64gYEpyiPyonKJOzoN+9wFfJyQHy5pNcE1/OMVJur3K/QOUPvmBgsheqThic2pmZLlZOxXHg2SoiS7daOY14fhvkrrDEdpBMswgZJNVCSf0ISFkKnJYBiaqVh/XIjMkH91GzpHnBgwZjox3tHtmF5A99R46cPvy7KpP55Q==;vh6dgeudlzZppWMPNJ8Xmg=="
 ---

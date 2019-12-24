@@ -357,15 +357,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
         width: 700
         height: 393
-  - title: "AutoX joins self-driving race in California"
-    excerpt: "Chinese startup AutoX has applied to regulators in California for the right to test self-driving vehicles without an in-car backup driver, reports Reuters. A remote human operator would be the backup system for the company's autonomous vehicles during the testing. \"After three years of efforts, we believe that we have a technology that can go ..."
-    publishedDateTime: 2019-12-04T16:53:00Z
-    sourceUrl: https://seekingalpha.com/news/3523702-autox-joins-self-driving-race-in-california
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "Taking the self-driving enterprise for a spin - Aera CEO Fred Laluyaux on learning from users, building a category and not being Siebel"
     excerpt: "Laluyaux has talked previously has talked about what Aera sets out to enable as being “the self-driving enterprise” and he frequently returns to the metaphor of the self-driving car: Does it actually work? Now you have to take the car on the road and drive it across the country and see if it's actually delivering the value that you want."
     publishedDateTime: 2019-12-09T12:08:00Z

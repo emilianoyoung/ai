@@ -5,7 +5,7 @@ excerpt: "Artificial Intelligence (AI) — the ability of machines to make decis
 publishedDateTime: 2019-12-04T16:07:00Z
 sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
 type: article
-quality: 58
+quality: 39
 heat: -1
 published: false
 
@@ -16,8 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - AI in Healthcare
-  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
@@ -26,65 +24,63 @@ images:
     title: "Pondering the Ethics of Artificial Intelligence in Health Care"
 
 related:
-  - title: "MIT creates an AI that understands the laws of physics intuitively"
-    excerpt: "But it turns out that the technology could also help give us a better understanding of ourselves. At least that's what a team of researchers at the Massachusetts Institute of Technology (MIT) think they'll be able to do with their new AI model. Dubbed ADEPT, the system is able to, like a human being, understand some laws of physics intuitively."
-    publishedDateTime: 2019-12-04T16:53:00Z
-    sourceUrl: https://www.engadget.com/2019/12/04/mit-adept-ai-understands-physics-intuitively/
-    ampUrl: https://www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 187
-    images:
-      - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
-        width: 700
-        height: 367
-  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
-    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
-    publishedDateTime: 2019-12-10T18:41:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
-    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+  - title: "AI Weekly: Amazon plays the long game in health care AI"
+    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
+    publishedDateTime: 2019-12-06T19:30:00Z
+    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
+    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 87
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
-    publishedDateTime: 2019-12-05T21:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
+        width: 700
+        height: 350
+  - title: "NFL turns to Amazon for help addressing player injuries"
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
+    publishedDateTime: 2019-12-06T14:41:00Z
+    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
+      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
         width: 700
-        height: 366
-  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
-    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
-    publishedDateTime: 2019-12-10T21:24:00Z
-    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+        height: 525
+  - title: "Amazon Partners National Football League For Player Health, Safety"
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
+    publishedDateTime: 2019-12-06T15:34:00Z
+    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
     type: article
     provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 37
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
     images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 43
+    images:
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
 
-secured: "hbstApPnF/b54ih2SeNITbre7HIkPiv22vHalucy7KJ3wl1RWWJGfvC6lP+9pmV+Owg+zppncs1M8+y7in2TI2QPFAqAMHI2vVYZ2NGVExN4Z14igFk0Tai87ZT/SM1zEaAu+xAXeg61j6vhYCGBi3PBqVThIqArw29woXrdylS46DEjVEODgS7hgY9fNeVvq0gGKbMGZVw0IvIwCfVkrWBTJf8EMVsKo995TF2cyWtZFQ263K5NRaTR/ZIF3uK7pBRG+W3t60boRZsuS/M0Ig==;PANYH42cOSIEW657FUJq1w=="
+secured: "COEbEw/KETiKN5EsTSt7Fr0J/hifRryosPzhq3jUsKC8tzLss5Q+knVL32OHQx2nuj/HigmmIWayq9Ht0nP/40AtHkjfEqTcuYLU6muREUHZVGtdqV4YMA1O/g9EPN/lTHOF7ZW3O8mcTTsM00PnnVSJURUM+JnbuukHr/C1LNIe2mZtiaw4wrf+W3lZyOKA5/Z8t4gHxKp8Qb6VP5oljYxwdOzt+R+TqL0S1AYjcQDkG3ADp4sA/msp10WN5smGyGYroDektHrC/d3rge/GSw==;LvtRC+OdrE35mbLf+J9x4g=="
 ---
 

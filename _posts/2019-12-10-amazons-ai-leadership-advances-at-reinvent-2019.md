@@ -35,21 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1DBEA466DE5F5189E0FE275ED0C35BE6
         width: 700
         height: 525
-  - title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
-    excerpt: "The views expressed by contributors are their own and not the view of The Hill Artificial intelligence (AI) will shape the destiny of humanity, but first humanity has the opportunity to shape AI. At times, anxiety about the former causes us to overlook the latter. We forget that artificial intelligence is going to serve the goals with which we ..."
-    publishedDateTime: 2019-12-10T17:00:00Z
-    sourceUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial
-    ampUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 64
-    images:
-      - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
-        width: 980
-        height: 551
   - title: "ClearDATA Introduces New SaaS Solution for Automated Healthcare Cloud Compliance at AWS re:Invent"
     excerpt: "“With Comply, leading-edge technologies like artificial intelligence, machine learning and other cloud technologies like those introduced at AWS re:Invent this week become more accessible to healthcare – mitigating risk in the background and automatically enforcing compliance.” ClearDATA’s new SaaS solution provides transparency of ..."
     publishedDateTime: 2019-12-05T14:35:00Z

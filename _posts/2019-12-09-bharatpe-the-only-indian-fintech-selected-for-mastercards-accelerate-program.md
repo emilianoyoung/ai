@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.454C6CB756FA62325D3D2898A13F5D32
         width: 680
         height: 510
-  - title: "Tech startup using artificial intelligence to detect bridge flaws"
-    excerpt: "A technology startup company based in New York and Israel has begun deploying artificial intelligence to find flaws in bridges and tunnels long before a collapse occurs. Dynamic Infrastructure aims to create “medical records” for bridges, tunnels and elevated highways. Using images captured by smartphone, drones and laser scanning ..."
-    publishedDateTime: 2019-12-04T16:31:00Z
-    sourceUrl: https://www.equipmentworld.com/tech-startup-using-artificial-intelligence-to-detect-bridge-flaws/
-    type: article
-    provider:
-      name: Equipment World
-      domain: equipmentworld.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.D7B185F3CF75F011F1CD9E457270E41F
-        width: 700
-        height: 466
 
 secured: "evo4GX0cgKWDyVqxPZ52/ZOHi0cMMO4orr9hr/wcbWgD/BHpjLmscp0InjysGa5emKs0yCHlW4PKqf1lUWN78Ic1rLmIXqhvpjmbquN6ellAFC4XZN1yy+akLg8K09E73It+DM/BSk7EIE4kc6J3EfupUYqF8liwXLh3JW6v9i0uGW7BgPrX5C8neTNnJu+aOpj3Qe+gQZS+nP9W2/ZVe89q2LfdkKj/w7VMtfWjppCEiPnK1QG8A4yLQJZ9GmotqFnR5iT6JYyQkK8F5KQ3yA==;oOh5e87b9+Jthg/17fNOOQ=="
 ---

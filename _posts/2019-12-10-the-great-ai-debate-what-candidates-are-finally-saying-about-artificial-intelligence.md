@@ -25,45 +25,47 @@ images:
     title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
 
 related:
-  - title: "The buzz at AWS re:Invent: What tech leaders are talking about at Amazon’s big cloud confab"
-    excerpt: "He has attended the AWS re:Invent conference for five years ... Like many of the other buzzworthy pieces of news, it reflects an effort by Amazon to make machine learning and artificial intelligence more accessible to software developers and businesses. Somasegar also pointed to Amazon CodeGuru, a newly announced tool that uses machine learning ..."
-    publishedDateTime: 2019-12-04T18:28:00Z
-    sourceUrl: https://www.geekwire.com/2019/buzz-aws-reinvent-tech-leaders-talking-amazons-big-cloud-confab/
-    ampUrl: https://www.geekwire.com/2019/buzz-aws-reinvent-tech-leaders-talking-amazons-big-cloud-confab/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/buzz-aws-reinvent-tech-leaders-talking-amazons-big-cloud-confab/amp/
+  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
+    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
+    publishedDateTime: 2019-12-10T18:41:00Z
+    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
+    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 79
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: https://www.bing.com/th?id=ON.1DBEA466DE5F5189E0FE275ED0C35BE6
-        width: 700
-        height: 525
-  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
-    excerpt: "AWS also continued its expansion into business and vertical applications in what we call the fields of applied AI. These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects ..."
-    publishedDateTime: 2019-12-10T15:50:00Z
-    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
-    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "This object-recognition dataset stumped world’s best computer vision models"
+    excerpt: "In an effort to close this performance gap, a team of MIT and IBM researchers set out to create a very different kind of object-recognition dataset. It’s called ObjectNet, a play on ImageNet, the crowdsourced database of photos responsible for launching much of the modern boom in artificial intelligence. Unlike ImageNet, which features photos ..."
+    publishedDateTime: 2019-12-10T16:41:00Z
+    sourceUrl: https://www.miragenews.com/this-object-recognition-dataset-stumped-world-s-best-computer-vision-models/
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-  - title: "ClearDATA Introduces New SaaS Solution for Automated Healthcare Cloud Compliance at AWS re:Invent"
-    excerpt: "“With Comply, leading-edge technologies like artificial intelligence, machine learning and other cloud technologies like those introduced at AWS re:Invent this week become more accessible to healthcare – mitigating risk in the background and automatically enforcing compliance.” ClearDATA’s new SaaS solution provides transparency of ..."
-    publishedDateTime: 2019-12-05T14:35:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005021/en/ClearDATA-Introduces-New-SaaS-Solution-Automated-Healthcare
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.FCDB1B8C96FEC6E64090833048B2E506
+      - url: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/objectnet%20collage%201800.png?itok=dMr5X_p8
+        width: 639
+        height: 426
+  - title: "MIT project uses camera and AI to 'record' hidden objects using the shadows they cast"
+    excerpt: "Though humans can perceive the movement of objects using their shadows, we cannot determine their colors and may not be able to determine their shape. The newly detailed MIT AI can, however, recreate videos that include hints about an object's color and shape based on the shadows it produces. As demonstrated in the video above, the AI was ..."
+    publishedDateTime: 2019-12-09T19:26:00Z
+    sourceUrl: https://www.dpreview.com/news/0774234764/mit-project-uses-camera-and-ai-to-record-hidden-objects-using-the-shadows-they-cast
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.6402C4C13062E06016B3AA716EB0C774
         width: 700
-        height: 365
+        height: 393
 
 secured: "JIbA/srUhHBhjWsvX115Lw3pS9SW2OOL24iDIa+03gI0pomPQ5ms6ju0AtcRoi7Bo12H9g2wm9ZTLVnAKHz7cM7wLwIlb+DrBWRQaAgsOayATHOhcjlEXD3RRGEsQx901v8+QM5HCP9eqafmOZDrSjZDKuqgD/EyxydjhuYppuJpkJUKMlXrMbI1n3Q+xcFKQltTNgMicBIXRZi1KBie9vBAENnVnHsMD/wHx7gFYXEtBiVKxWxVxh+DjG/nDmEa1KH2VBraXWyLrvLd/wVxXw==;aULOrQr/zu96ttl0S85JFA=="
 ---

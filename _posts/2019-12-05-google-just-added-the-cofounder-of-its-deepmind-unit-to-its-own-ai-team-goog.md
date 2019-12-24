@@ -99,6 +99,19 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
         width: 1020
         height: 600
+  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
+    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
+    publishedDateTime: 2019-12-10T21:24:00Z
+    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "vl/0a87Cj/LGvMmqefp4sRuqCHnEUdXzAGA6vddcOggfGIOPSSgP+OTR5etwSQu611WFbzi5FtcoG6fcptRLn7jNP7aWn77aw4erxf0i8oa2DIoXjJlW0VVX3CwO9DedjoVdXq4X6C5UQkWrvq4xOq5IbvTpyn6M0vV1tT2q6biV0Oxh74P1RooVJGVdATke1Qv3+6TTV5HPWtJ9XxHrFPx/nHDewWlyDk8q7+spt2qheMk746KukUh3Gk0jj4Zd/kNuEVXU9KzKS+7WopTNIg==;fu01w+1ilxDjlZF6p8cJmA=="
 ---

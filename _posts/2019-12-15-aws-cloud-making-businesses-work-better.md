@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Cloud: Making businesses work better"
-excerpt: "developers can quickly spin up apps that run at AWS scale, performance and security. Our customers have 2,500 integration apps at their disposal and we see about 200 million app invocations a month.” Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). “We have leveraged ..."
-publishedDateTime: 2019-12-15T23:00:00Z
-sourceUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/
-ampUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
-cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
+excerpt: "developers can quickly spin up apps that run at AWS scale, performance and security. Our customers have 2,500 integration apps at their disposal and we see about 200 million app invocations a month.\" Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). \"We have leveraged ..."
+publishedDateTime: 2019-12-15T23:07:00Z
+sourceUrl: https://in.finance.yahoo.com/news/aws-cloud-making-businesses-better-225735250.html
+ampUrl: https://in.finance.yahoo.com/amphtml/news/aws-cloud-making-businesses-better-225735250.html
+cdnAmpUrl: https://in-finance-yahoo-com.cdn.ampproject.org/c/s/in.finance.yahoo.com/amphtml/news/aws-cloud-making-businesses-better-225735250.html
 type: article
 quality: 59
 heat: 69
 published: true
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.26A47844F34C03C9CB6928A18EF7EAD3
+  - url: https://www.bing.com/th?id=ON.C3F4383E05AF103E22BD5160C9B4DED1
     width: 660
     height: 440
     title: "AWS Cloud: Making businesses work better"
@@ -40,6 +40,6 @@ related:
         width: 400
         height: 300
 
-secured: "cbaMg1rAgQhwIZSjpy2OPxYZBPE+BTdymjSuaY6SfAOf3kKjHT9hi/KbC6D3qxOuXfurhK3pDpThLAUVnZp9cHaW+oeS0lO8+oMjS39cMW/oUrBlsApdKbsjGxvFB3hOaKgan3W7tLuQ8SjS1SilzZdyd/HFru2J9tEfq14XpKhfEk/yj0Xtm30zcMSEOUQpSlS8kevnSejLAVgrvGwlbgAPyTLWd6K8CsM/eMlelc1KKf0NEuD8Zf0m34HwxzRImX8FKE0KFYNG7gTWglYfFw==;j1gyd+LS0dh/0vHXNrWIFg=="
+secured: "V/cs09d5oEbAngsVrI0gRvqFRk/YqMGkCPjWA85lfGMI5xRtWsRsOlKmKt0OiSYEi+FHfkIz3t6XMQEyk8//8Sy4RRYjNNVcLMjCGWLOKwCj9sakO+XtJDeuy+meDdCy90iQTFUU02BW5VzgQk1R5LCd3dB7DfwsUo1UkeBPux9y3dKpOvWI0CvMbP5OwC6jeAfEKjoSxFVzwzKEz1BT43j5NsWl1pl4rezJXifealjuEkZdPFonzlF9JoMUvdthhqlAoTqfbcLLxGg6cB90HA==;nt2ZAfGdeRcri4zqkZaPjw=="
 ---
 

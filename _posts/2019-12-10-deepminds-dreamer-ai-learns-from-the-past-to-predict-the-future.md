@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -104,6 +104,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2C648F2A8F369331B7DE745DD1674969
         width: 700
         height: 367
+  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
+    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
+    publishedDateTime: 2019-12-10T21:24:00Z
+    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "k8z/AO24ItOflwBcYi/QekY17Oc4sG4RBPSAVUy0cFLKb1/3ymVpjCFlrGuGUXnbXngP6B+KAL3JACZV3t4o1QjwpN2Z26mQdpdD32DVX3S2VaDTY+ZGO9Tw5aQsvWvmMytnnKL4bK8F3k1kdadYtX92MBIJy77a+uSd+kmFCrBv0bZ6HI34kMp9UVSW97y4AobebVAJvddalN0ZFIFATxxSrpadQ8JbsGtHC4Aa0Sq58EZIll9iH0wwKvirpfkkS59w7E4qa8K9TD8T6Z9Tyg==;bcMrGX3kvCkfCufQS/HLjg=="
 ---

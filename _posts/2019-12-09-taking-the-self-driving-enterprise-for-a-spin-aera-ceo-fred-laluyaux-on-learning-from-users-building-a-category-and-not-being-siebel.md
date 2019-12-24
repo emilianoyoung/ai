@@ -366,15 +366,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
         width: 700
         height: 393
-  - title: "AutoX joins self-driving race in California"
-    excerpt: "Chinese startup AutoX has applied to regulators in California for the right to test self-driving vehicles without an in-car backup driver, reports Reuters. A remote human operator would be the backup system for the company's autonomous vehicles during the testing. \"After three years of efforts, we believe that we have a technology that can go ..."
-    publishedDateTime: 2019-12-04T16:53:00Z
-    sourceUrl: https://seekingalpha.com/news/3523702-autox-joins-self-driving-race-in-california
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "4AIOh8S+Jo9oTvncbC7yc9UImUuRQRabGxO8hhPHD7a1GyR5SQ70tbW9A96m6nx5U+OBDCX5HqDH8Wuso25OYMtM0dJKBo/WdATlmXUaKD4Cph6TG1g8B68RAvq/jxWdBgSt2sfBqyPj2GAPVUyDOlEYyrCzwemkErj/MaUnDR7GN1S3TE9qrPSeb3ySqGmnZeTRwnDShVrnmmSdjNPVMi+QYXW+vB82dP+nDiMWkePYAt6e5cZ8EcYh/Judv4slghSQ5zJuiaklUFIYwzGr7A==;b04haMp0+EFBUiv2Tdgitw=="
 ---
