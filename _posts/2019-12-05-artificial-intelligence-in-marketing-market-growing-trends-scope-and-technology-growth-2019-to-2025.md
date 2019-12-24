@@ -259,19 +259,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Enterprise Artificial Intelligence (AI) Market Segmentations by Application and Geography Trends, Growth and Forecasts to 2019-2026"
-    excerpt: "Dec 04, 2019 (Hitech News Daily via COMTEX) -- Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Manufacturers in the market witness enormous underlying ..."
-    publishedDateTime: 2019-12-04T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-segmentations-by-application-and-geography-trends-growth-and-forecasts-to-2019-2026-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Chips Market Overview, Scope and Technology Advancement Outlook 2019 to 2025"
     excerpt: "Dec 07, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence Chips Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Artificial ..."
     publishedDateTime: 2019-12-07T08:59:00Z

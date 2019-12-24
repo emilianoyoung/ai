@@ -2,16 +2,18 @@
 category: news
 title: "Durham machine learning startup acquired by real estate giant"
 excerpt: "A Durham-based machine learning and analytics company has been bought by one of the largest residential real estate companies in the world. RE/MAX said this week it has acquired the startup First for an undisclosed amount — a move that will mean its services will only be available to RE/MAX agents going forward. Denver-based RE/MAX operates ..."
-publishedDateTime: 2019-12-21T15:03:25Z
-sourceUrl: https://www.msn.com/en-us/travel/news/durham-machine-learning-startup-acquired-by-real-estate-giant/ar-BBYe3ZJ
+publishedDateTime: 2019-12-21T11:30:00Z
+sourceUrl: https://www.newsobserver.com/news/business/article238583293.html
+ampUrl: https://amp.newsobserver.com/news/business/article238583293.html
+cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article238583293.html
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 59
+heat: 69
+published: true
 
 provider:
-  name: Raleigh News & Observer on MSN.com
-  domain: msn.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI
@@ -38,6 +40,6 @@ related:
         width: 700
         height: 466
 
-secured: "0W7snqMo65rUgVeggjssnUunCNHvfjkF/Q7SSGP25kx10j2yq8nKirW7L55cBBpSNJanJc5qtqi7DAUq1C7OIbvd7Z71N/gufyRSzE0I97x4lzlK0p2c1vHxQ20KoLPMo/G+aQS5erayxFaMEcaIywN019McjsacXAP/pjvgeMM+V/erZcHftfYs9isc0wws/OrWBxUutei4En90oxwp8iwHttFs4eJ54rYAn/FAF5WUf2xx20gBe+HBSskRKGFO5dhEyrjgMR5CLhRpwzkPMw==;cNhBy8qEDf34xMBn3vDT9A=="
+secured: "datSe0JyYXwhy7zuwmaLeJ3L3vw+JNnkvOrCakYzXWyPYmR69gq2d0R4XhdfUy3byEKqVKSy1DMA1vSG1LX5TCQ5v8j8gtss/iM67F+riWQmwzICI+Y1qL6uwAoihuOW+dhIghq59loJlMwxzjmPfJuBq1/KKoBmcPjNz17r8oFNHE/EM8K9NBdRG2DYrn01dr6NoFolcg9DrIrViEKP6RSFMErX/+0p74kUCbGNh5hFlCqoUfvwO5tXXyARwccJAQ1j/gwz9LZpiOEvWRId6g==;v/UHaCaXIna4swzzqgPczg=="
 ---
 

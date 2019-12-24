@@ -82,6 +82,19 @@ related:
       - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
         width: 874
         height: 355
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government. Hosted jointly by the southern mainland city of Shenzhen and its neighbor Hong Kong, the Bi-City ..."
+    publishedDateTime: 2019-12-24T06:09:00Z
+    sourceUrl: https://www.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.FACEDF6982D9BBBCECD4B481499EA890
+        width: 700
+        height: 495
 
 secured: "w+HQsK4+O/uSr+OXN87MgAKwyMA0DJrdcem321fOjk7tlUNgWOooJ4PdtmKbNIlqeK4ScIA8ZcQNpOG5fG58dVjpm2VPGutLLTUigT9dgy46QIeGYXd+Cj+wndyU+N086ALDrDvSsst+h6vsBwcNCWDNaX3H0wfmyjVZZhpY+nVHRvgdZ0CwDDRkwvgNvpECL1OLkRoQOIrT2WB8tUsCcq9vYF/1kg9nlZLLlHBgKlVwwIv7D+Ko0rObmS22APkFylZI3CbNsQbkPIOqVjjSpg==;kMNM9yqCSWW1AIFY6drNhg=="
 ---

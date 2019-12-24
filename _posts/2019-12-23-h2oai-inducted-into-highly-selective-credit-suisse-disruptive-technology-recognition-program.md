@@ -7,8 +7,8 @@ sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-16000
 ampUrl: https://finance.yahoo.com/amphtml/news/h2o-ai-inducted-highly-selective-160000219.html
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/h2o-ai-inducted-highly-selective-160000219.html
 type: article
-quality: 48
-heat: 48
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
 
 images:
   - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939
@@ -25,6 +24,6 @@ images:
     height: 400
     title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
 
-secured: "aVvP32eU4wuy46sEISeCfUYlafrlJH9vOMelaa13vwgxVbMMJ4roTQo5nyXdW4t9F8hVPxMtb4VXVNvbHMB3OX6LBbYEMVQ74FuSP1e8JdiHSKVbsGWTyRoZqBCHXyG4sck8LP7LDVJdmwec8MMH/xl+QB0AvnRgOErA5mE6R1EK8k6G8GSGFeByBGVRByKjucDQi/Mt9SS5FjyreT6ZHKI6kBXVVwc0HwkhYdhp2D6zNCkUIEYMkY3dwAxF6F3KyayVD/yx7PZ8qA6WKQJjCg==;MV7rJ0S4h+dNY71hmVT18w=="
+secured: "G1Q3HJbu/SNE//SRBURT9xjeI7gfWMkKJ4Ge9cUl/ws9JJfpsFk6VmV0E2G0InEnf/Mqa9MafnHgcikJlINP+PWegzX9k5Wi4U/8sLlHVqErZOF0RQF5TAgn1C4AVzZqXDwyRbG8t3eiZqpbd7zdkwqdOnJIHJHuVibbiGfD5OK7ViWT/gygjeOJ0rE13CJ5rafhkD9DzR3P51igowwP1c1TzE4KFLWEJPxBNYQ0EzPIvCFj8nYdYY8MPCHYyCZfxCPLb4M1Q9x+ez7HwvwEgg==;DaYGUyEjVBmM8zrA8GwdWg=="
 ---
 

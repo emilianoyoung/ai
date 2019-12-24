@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
-    excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
-    publishedDateTime: 2019-12-23T17:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-expert-guide-to-boost-the-industry-in-global-market-by-2024-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
     excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
     publishedDateTime: 2019-12-17T13:22:00Z

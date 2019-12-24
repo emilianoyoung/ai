@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.11213D6C0984A65BAFB152A90AFE24DA
         width: 452
         height: 400
+  - title: "Travel-focused AI startup TravelFlan raises $7m in series A round"
+    excerpt: "TravelFlan, a Hong Kong-based travel and lifestyle solutions provider backed by AI, announced it has raised US$7 million in a series A funding round led by Sogong PinPoint Kclavis AI Travel Tech Fund, an investment arm of Lazard Korea. Artesian Capital, Linear Venture, Construction-Radiant Tech Ventures Fund, Hong Kong government’s ITVFC fund ..."
+    publishedDateTime: 2019-12-24T08:57:00Z
+    sourceUrl: https://www.techinasia.com/travelflan-raises-7m
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.C83591253A656DAAF2CC4E11B4EE0712
+        width: 700
+        height: 350
 
 secured: "ZUPPo/CjOpCOKZi0L1SmW31hVmJOVY14D0O6L1fxmlEk9fFlQymtv1eI7+BOL3Wo233KySwtWg2BvucYapDu1TOmG3WPUzD3BQcl0RY2yfNSZDUm6MxplxHfJcFSITjYvD30DffaolCm57jzMcQg6DErhdXTUYpyEvBs4TKzIFofavi7AWGk5kQH+ON0R9v20qqCnYz4dAjTGaYM3gFT8hGXPehx2We0sda20WcXGp3gYJZxZb9V1DsQ9qm8AHEEWsnH+jIkiRr2EXXzpjVwHg==;pxCcCky2tb1GvwG4m7oGtA=="
 ---

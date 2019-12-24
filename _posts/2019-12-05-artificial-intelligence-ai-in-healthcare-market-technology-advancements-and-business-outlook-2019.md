@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T04:40:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-technology-advancements-and-business-outlook-2019-2019-12-05
 type: article
 quality: 85
-heat: 395
+heat: 385
 published: true
 
 provider:
@@ -243,19 +243,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Enterprise Artificial Intelligence (AI) Market Segmentations by Application and Geography Trends, Growth and Forecasts to 2019-2026"
-    excerpt: "Dec 04, 2019 (Hitech News Daily via COMTEX) -- Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Manufacturers in the market witness enormous underlying ..."
-    publishedDateTime: 2019-12-04T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-segmentations-by-application-and-geography-trends-growth-and-forecasts-to-2019-2026-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

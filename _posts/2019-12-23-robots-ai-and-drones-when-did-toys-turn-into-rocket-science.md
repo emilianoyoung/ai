@@ -5,8 +5,8 @@ excerpt: "Once upon a time, placing a microcontroller (a single chip microproces
 publishedDateTime: 2019-12-23T08:10:00Z
 sourceUrl: https://www.gizmodo.com.au/2019/12/robots-ai-and-drones-when-did-toys-turn-into-rocket-science/
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: https://www.bing.com/th?id=ON.1CFE5C0B043272C9424EFAAB8B7E3D53

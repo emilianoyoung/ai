@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
-    excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
-    publishedDateTime: 2019-12-23T17:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-expert-guide-to-boost-the-industry-in-global-market-by-2024-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
     excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
     publishedDateTime: 2019-12-16T12:01:00Z

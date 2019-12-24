@@ -8,8 +8,8 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: ETCIO.com
@@ -26,21 +26,6 @@ images:
     title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
 
 related:
-  - title: "UPDATE 4-Google co-founders step aside as Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have shared an emphasis on developing artificial intelligence software to make web searching faster and more personalized ... Alphabet, which owns more than a dozen companies including self-driving car business Waymo and health care software company Verily, was created in 2015 as part of a restructuring."
-    publishedDateTime: 2019-12-04T07:58:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/04/reuters-america-update-4-google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/04/reuters-america-update-4-google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/04/reuters-america-update-4-google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
-    images:
-      - url: https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif
-        width: 1200
-        height: 630
   - title: "Google’s Sundar Pichai has been named CEO of Alphabet"
     excerpt: "This is despite being founded in 2015, 17 years later than Google. The umbrella company owns Google along with several other businesses, including AI research company DeepMind, self-driving tech company, Waymo and drone delivery company, Wing. I’m excited about Alphabet’s long term focus on tackling big challenges through technology."
     publishedDateTime: 2019-12-04T15:49:00Z
@@ -86,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4741B51769F42FC035A45F65920B8315
         width: 700
         height: 525
-  - title: "Google's founders came up with the Alphabet model after meeting Warren Buffett"
-    excerpt: "Google founders Larry Page and Sergey Brin stepped down as heads of Alphabet this week. The pair had the idea for Alphabet — a holding company that houses Google, DeepMind, Waymo, and other businesses — while visiting Warren Buffett more than 10 years ago. \"The genesis of Alphabet is a meeting that Larry and Sergey and I had about a decade ..."
-    publishedDateTime: 2019-12-04T13:34:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-1028737463
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.7BBC9416335821324736A7C0C4BF37A9
-        width: 700
-        height: 350
   - title: "Google Could Dominate Self-Driving Cars. New Alphabet CEO Sundar Pichai Could Make It Happen."
     excerpt: "The Wedbush team estimates Alphabet is spending nearly $1 billion a year on its self-driving fleet and technology, well ahead of Uber from a research and development perspective. The Wedbush team notes that most of Waymo’s contribution to autonomous ride-share vehicles comes from a partnership with Lyft. Last year the company launched its own ..."
     publishedDateTime: 2019-12-09T16:37:00Z
@@ -141,6 +113,6 @@ related:
         width: 700
         height: 476
 
-secured: "CEniX8icyC7PuBH1zlMNgY5yv9u17ToUttTpqCepWIGgDs5loUrxu4wLtj9RS/C/6TlkiG3TvGiYK71pdwzk3l6AFvLBkHrAmLKitwre5AEBG3TaiwL2mzVgFbHMMDsW6ryO8FSpyvhZ5d8CZiyDefP4Wda+KTDi5aNmyw0/WtSq6QVttTggLGGlCp8WyT/ThHfB09kBLDre8nOf8Bqw/auWhWe3MttjjxkGghPpH3kI0xj3y0UPkAS8ZLnINe9lK1S+6hEn69MC6JSfVw2TWw==;FMJnW0uMX8KSf5vUYZUmyQ=="
+secured: "8C7wXAu4VW0QoG7Yo4VB7FonYxrOuT1dX2zGAkCt8yncomD4c1njLbsyeYbiU+hWxYexL+98H3QIk3+xGyZM7fupX+HbayVgioURXM6fV6mI5hfTmgjdmM3L2vAigOglFf44gNykCaUwlpof2ff6b6NRptlihVANMAMFIy4xwUuHxyzwY2JycObCLQsg7xYIeKoq2PFAj12L3v7mFcz2r01unT1SzvQos3D5ySM+qArmRv46JBEbg9kYo7X2uRBRaZya/YKeqoJHByITuUlLRA==;HuuPFQ08UgFKmUB4n1ofIA=="
 ---
 

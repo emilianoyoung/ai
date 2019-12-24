@@ -2,23 +2,21 @@
 category: news
 title: "Holberton School Launches New Machine Learning Curriculum Encouraging Greater Diversity in this Increasingly Important Field"
 excerpt: "The announcement was made at the flagship San Francisco campus featuring Grammy award-winner NE-YO, Black Girls Code founder and CEO Kimberly Bryant and representatives from Google (Tensorflow) and IBM. \"Machine Learning, and by extension Artificial Intelligence, are increasingly dominating how we interact with technology at all levels ..."
-publishedDateTime: 2019-12-17T17:35:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/g15005018/holberton-school-launches-new-machine-learning-curriculum-encouraging-greater-diversity-in-this-in
-ampUrl: https://amp.benzinga.com/amp/content/15005018
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15005018
+publishedDateTime: 2019-12-17T18:35:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961819/0/en/Holberton-School-Launches-New-Machine-Learning-Curriculum-Encouraging-Greater-Diversity-in-this-Increasingly-Important-Field.html
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - Google AI
 
-secured: "Bu4RTp/BlebL4zAFGqKqegaOPJMugq4v9S8rSJTntqCMEutsq6AiNUxKIpdFsBoh195LHETiDEljAkhUvRMPkwR/cfnG+JFr+krEvTfjF3+Geu/g+M3pxDzO0INOzsjkDSIHYaTpB6//eI4x0AAKVFV+BVJI3DKQmH5Ob4qSQa4XnG73crKKSS9jeoxLzP6oe1wS8XXGx7bIOimbNVxScMKNDrVvQEJZSD4XP75h5Ytb+kU1vx6ic4ShGQqhWVH5QlLPvOylXp3vy0hw9jajNw==;/99KNCCotnQ8CN3T7taCPw=="
+secured: "pM2Si/RiTx94S8JooDzudCpSWR43vQdgne0ksnuIci80ZkfIHtYLJXeL6t8EeQNnbdT17WBk6BvNyECENXN2EJMZew+qmKHEK9I3QM6eOhSsssvtTDqwV/Yd0ajEG3qdPVdtoySaeYnyPkeeQoWEzEj1I8/cjN/g9MkarS6RoltPRrWYOxI1OZJ/rbtzdGEkYrxrzPMHJQK/VQwoaW8a6Yo9EqXLKOoisb9knq4DUzxg8PO2o/teCAd/q+YqRU2cgl6l5b5rBb0UOIN7l6K5bg==;Rf3N7sgsmWBDRkGMzs4lrA=="
 ---
 

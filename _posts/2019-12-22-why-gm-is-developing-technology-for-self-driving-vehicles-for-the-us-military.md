@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Why GM is developing technology for self-driving vehicles for the US military"
-excerpt: "For example, \"GM has demonstrated leader-follower capability,\" GM Defense President David Albritton told the Free Press. Leader-follower means a manned vehicle leads a dozen unmanned vehicles using GM's self-driving vehicle technology. By removing soldiers from those dozen trailing vehicles, human safety rises dramatically, said Albritton."
-publishedDateTime: 2019-12-22T12:05:00Z
-sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-ampUrl: https://amp.jsonline.com/amp/2709275001
-cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2709275001
+excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
+publishedDateTime: 2019-12-22T12:03:00Z
+sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+ampUrl: https://amp.azcentral.com/amp/2709275001
+cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI
@@ -114,6 +114,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "D6xmGeJMBGXIljSLyv8hjnWRfEDPGzOLBQvdWO/so2uKfCvYtDC7aYccKmS3OUwuZpKuTpaoq6fieXHYH+m472CPvI0X2v2OwxmAiT2aAdkRitjG5EeuzwE2+/sUV0hJjttvxrr5pDGGo+665iaeipx/XGfkLhmFj5IRJh0lTbRMj8xfEUZwXqRteWt/9FwEZ9EJYrSHtsgfGCQA4T5IoRWmwovA5Ss3B7UkVYDMyyXyiRhhMDfv0XOr1+2odzDNBvrGGZLPm41s6MPgghcrpg==;wLVda2Y8qcq9iYyq8XV/0g=="
+secured: "CTNO3SCDGKhSuhEcpaUFOwg6SfcSMmOosun6Glaw4qmmN2i2IvEkxOfx8wt85aYRkRONyU0pJ/usHLDgpOePieGLpQ6qbt18zwl9FVFLgpHSsO+Qy5kQnFQU4MUHqfyb/Tg0oew3OwhUQAW5v5S/svMg/OkVPfdvF2D3uupGG8CjuX7zfCKpkAcVeT5DAsGgC4+xZ4kLOfTf7ECjObT/92nojzRYkEQBxw61rynxwFHh7XGxwBxK19LoE7tt05/9MmLfLS+SW59R7RmxVA6c8w==;dbEEpKbokSsMLIMakLs29A=="
 ---
 

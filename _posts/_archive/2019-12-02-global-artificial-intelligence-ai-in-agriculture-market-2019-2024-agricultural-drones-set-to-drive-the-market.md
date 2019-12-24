@@ -256,19 +256,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Enterprise Artificial Intelligence (AI) Market Segmentations by Application and Geography Trends, Growth and Forecasts to 2019-2026"
-    excerpt: "Dec 04, 2019 (Hitech News Daily via COMTEX) -- Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Manufacturers in the market witness enormous underlying ..."
-    publishedDateTime: 2019-12-04T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-segmentations-by-application-and-geography-trends-growth-and-forecasts-to-2019-2026-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Marketing Market Growing Trends, Scope and Technology Growth 2019 to 2025"
     excerpt: "The Artificial Intelligence in MarketingMarket report provides a unique tool for evaluating the Market, highlighting opportunities, and supporting strategic and tactical decision-making. This report recognizes that in this rapidly-evolving and competitive environment, up-to-date marketing information is essential to monitor performance and make ..."
     publishedDateTime: 2019-12-05T05:23:00Z
@@ -418,6 +405,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "kcxlLpzQtLZmcRax0hR2JR/cFTorkCJkcteHc/zKM2Xz5KUKei+wLvN5rTX6gEDVyCLBMyHiz5FoHEEGDynWxJVeboxlsAdB0aK/Lx1/yBA1r4c8MUapABsnso8Lyw3tjj3TSuXHuB5D45oDcFK/qLCGVwcy3bEsW4/vhOkAF5id9HW0n5MWYiGmnXPOAGWkSrMuewsvlZ0RfdROYSL1eb6caFscvUYeoj0cQwaJuP5RsuAY7TebubexFJKx19Ny0OBdSoBuD5UNjALWQWN4bQ==;EHg0VD6CVe3ILePTcu8k/g=="
+secured: "ZBkW/pCzqqREUC27EQql8XooXwJoXTbd68zecIYSeA/o7qlX5zIf105FYssp7rIpHlqdZrVid+vfVuRbSquJmQA/QT6ukKVvbqVQ8n1B6Q7/d5QwZmMQw6+Q605uP7/nc+2mnaOjX2AJbZexSB8zVc102BXB1LbVFiFOCLIalRek4xVQL0gaPgmM20xiCmbM4Km31sitGPOXYobihMG1eq1ZZqYAvmQH5Vk5Hjq+DqsIyPviQbXYJfMeB6SN2AclPoAY+35nRkNyWW7aomXiUg==;v4iK1uUqm1t/EB5QXF8jKw=="
 ---
 

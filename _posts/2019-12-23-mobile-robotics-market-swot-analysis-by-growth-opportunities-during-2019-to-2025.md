@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T20:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
 type: article
 quality: 79
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
-    publishedDateTime: 2019-12-21T03:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
