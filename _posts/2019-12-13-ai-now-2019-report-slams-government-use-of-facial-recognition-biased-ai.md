@@ -74,6 +74,36 @@ related:
       - url: https://images.wsj.net/im-138364/social
         width: 1280
         height: 640
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive surveillance by tech companies and the government."
+    publishedDateTime: 2019-12-24T05:07:00Z
+    sourceUrl: https://www.reuters.com/article/us-china-tech-ai-idUSKBN1YS0A4
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YS0A4
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YS0A4
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.427E3ADF34905DB66408EC465A65F988
+        width: 700
+        height: 494
+  - title: "Chinese art exhibition on pervasive facial recognition"
+    excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
+    publishedDateTime: 2019-12-24T05:30:00Z
+    sourceUrl: https://www.deccanherald.com/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
+    ampUrl: https://www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
+    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
+        width: 700
+        height: 466
   - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"
     excerpt: "Thanks for starting your day with the Capitol Alert. Andrew Sheeler here, filling in for Hannah Wiley. California law enforcement won’t be allowed to use facial recognition technology in their body cameras beginning Jan. 1. That’s because a new law, sponsored by Assemblyman Phil Ting, D-San Francisco, places a three-year moratorium on that ..."
     publishedDateTime: 2019-12-23T11:55:00Z

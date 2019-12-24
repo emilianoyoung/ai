@@ -150,6 +150,21 @@ related:
       - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
         width: 700
         height: 466
+  - title: "Intel buys Israeli AI chip startup for $2B"
+    excerpt: "Habana’s AI training chip, called Gaudi, is in the hands of certain large data center customers for early testing. The company said those customers can expect four times the performance compared to equivalent systems using graphics processing units. Additionally, the company has a chip called Goya that is already available for commercial use ..."
+    publishedDateTime: 2019-12-16T14:40:00Z
+    sourceUrl: https://www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.html
+    ampUrl: https://www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.23BB0609B89D51DCEDC657FB7DCE244F
+        width: 700
+        height: 393
   - title: "Intel buys Israeli AI chip startup Habana for $2B"
     excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business. The company ..."
     publishedDateTime: 2019-12-16T19:41:00Z
@@ -659,15 +674,6 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 34
-  - title: "Intel Buys Israeli AI Chip Startup for $2B"
-    excerpt: "The combination strengthens Intel's artificial intelligence (AI) portfolio and accelerates its efforts in the nascent, fast-growing AI silicon market, which Intel expects to be greater than $25 billion by 2024. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the ..."
-    publishedDateTime: 2019-12-16T17:04:00Z
-    sourceUrl: https://www.lightreading.com/artificial-intelligence-machine-learning/intel-buys-israeli-ai-chip-startup-for-$2b/d/d-id/756319
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
     quality: 34
   - title: "Intel acquires Israeli artificial intelligence company Habana Labs for $2-billion"
     excerpt: "Intel Corp has acquired Israel-based artificial intelligence firm Habana Labs for about $2 billion, the chipmaker said on Monday. Habana will remain an independent business unit and will continue to be led by its current management team, reporting to Intel’s data platforms group."

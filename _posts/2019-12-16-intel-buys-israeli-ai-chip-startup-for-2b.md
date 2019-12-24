@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Intel Buys Israeli AI Chip Startup for $2B"
-excerpt: "The combination strengthens Intel's artificial intelligence (AI) portfolio and accelerates its efforts in the nascent, fast-growing AI silicon market, which Intel expects to be greater than $25 billion by 2024. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the ..."
-publishedDateTime: 2019-12-16T17:04:00Z
-sourceUrl: https://www.lightreading.com/artificial-intelligence-machine-learning/intel-buys-israeli-ai-chip-startup-for-$2b/d/d-id/756319
+title: "Intel buys Israeli AI chip startup for $2B"
+excerpt: "Habana’s AI training chip, called Gaudi, is in the hands of certain large data center customers for early testing. The company said those customers can expect four times the performance compared to equivalent systems using graphics processing units. Additionally, the company has a chip called Goya that is already available for commercial use ..."
+publishedDateTime: 2019-12-16T14:40:00Z
+sourceUrl: https://www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.html
+ampUrl: https://www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.amp.html
+cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/portland/news/2019/12/16/intel-buys-israeli-ai-chip-startup-for-2.amp.html
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Light Reading
-  domain: lightreading.com
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI
   - AI Hardware
+
+images:
+  - url: https://www.bing.com/th?id=ON.23BB0609B89D51DCEDC657FB7DCE244F
+    width: 700
+    height: 393
+    title: "Intel buys Israeli AI chip startup for $2B"
 
 related:
   - title: "Intel acquires AI chip startup Habana Labs for $2 billion"
@@ -721,6 +729,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "snbxllnHQrH8FJasiuUFiMTr5WDeIKn/uhlhd8mbJcfLAqsLWdGgxqBaVdBpI4aKWhfbQ66sCQOYsjYQzvdMWKnmAF2SQaxWYovB/r1N7NVs45ck3yyXKCd1tMoaZ4TMD4Oko0UTB4c/DB84rqPgdnKA8STIb2PxHuTaolzhZ93IsX7rlkRa0y7k073DxwztaIWyhzSo3EsAgAiNTe0H5zvtudxskLhb5YkciJ8/+ygH3xCOBhATIhMKgsWZ+UlOWLtFhUJ/6LMdHHpB2jFHCw==;Aagm0WJ9a0jNMTQO/7lbgA=="
+secured: "Wb9180RDXEpdK4N2AJDEFgB56sJcmBnPP2rwvA0PcL17Pu6v/eyEYqZeCYZ84PQxylbRjt9SFHqw+5j+mrdMTDN+cwBZIa2f6jUYrGYmB/4T5ser67xm/NR9gSApAZewtlLuS3/FL56kIiR8icWIprus69EjeskIjZclT+BSxvsM7OqZD+HbU/xqXkyH/R6+1A4a4sOBd2OubcNAvXAv1qRr6O8a+uuGnuAYip51+Yyw41HNhG4IAARMfq70sK8tRGp48MgwUzejYm1StxzBBg==;1NUhVbUt59gmopI8gJ8LBQ=="
 ---
 

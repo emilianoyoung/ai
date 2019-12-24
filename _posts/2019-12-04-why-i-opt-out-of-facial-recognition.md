@@ -256,19 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15C70DE6589F2814DBB9CFA98FF6DFD2
         width: 600
         height: 350
-  - title: "Plan to expand facial recognition to U.S. travelers hits hurdle"
-    excerpt: "from expanding its use of facial recognition at airports and border checkpoints to include American travelers. The DHS Biometric program has come under fire from lawmakers of both parties — one opponent includes Senator Mike Lee, a Republican. Lee and Markey have repeatedly called on DHS to stop expanding the technology, and privacy experts ..."
-    publishedDateTime: 2019-12-04T04:20:00Z
-    sourceUrl: https://www.msn.com/en-us/news/us/plan-to-expand-facial-recognition-to-us-travelers-hits-hurdle/ar-BBXIT7r
-    type: article
-    provider:
-      name: CBS News on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D9D3E1CEA22E173AB2AB60172172B897
-        width: 700
-        height: 367
   - title: "CBP walks back facial recognition for citizens"
     excerpt: "The proposed rule drew outrage from privacy groups as well as members of Congress, who cast the move as a dramatic expansion of the use of facial recognition and biometric scanning programs at Department of Homeland Security and the federal government writ large. Law enforcement agencies like the FBI and DHS component agencies like the ..."
     publishedDateTime: 2019-12-05T22:48:00Z

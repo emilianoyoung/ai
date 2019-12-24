@@ -119,19 +119,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-driving Car Market Market 2023 |Global Industry Demand Status with Recent Trends, Size and Share Analysis by with Top Players Forecast"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate ..."
-    publishedDateTime: 2019-12-04T04:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-market-2023-global-industry-demand-status-with-recent-trends-size-and-share-analysis-by-with-top-players-forecast-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "yu7bnVYeY6CU5ThDf8zaX7Z5pDAmKKEXD6bPiw2or6jbk7oKSphbykN7wZgLncOoVrOTIbd+9EdBXlA0KYIW8aj3+aV4J4Cf/Mow9eZ0nJ1fsw7zdQE4RdsqOy49lW33H6uVRVsfEX9Su9/p8GUTvseM69BiQvGcevnva3S5rCNdZ04NNTBD/d4GGOdrOl+s77ZEoVDfZMnJ9CE1xiHe2e8rqOHIyxq6xnEywIu+p8mpgWc20+PnCRx0XmgYCEs0emKhtSfVkFhX2zjCHTHqqg==;n/75Dr2H0aPmSQkf90avuw=="
 ---

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Progenics Pharmaceuticals Announces Phase 3 CONDOR Trial of PyL(TM) in Prostate Cancer Achieved Primary Endpoint"
-excerpt: "About PROGENICS Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find ... who require systemic anticancer therapy; and oral and subcutaneous formulations of RELISTOR (methylnaltrexone bromide) for the treatment of opioid-induced constipation ..."
+excerpt: "About PROGENICS Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find ... who require systemic anticancer therapy; and oral and subcutaneous formulations of RELISTOR [(R)] (methylnaltrexone bromide) for the treatment of opioid-induced constipation ..."
 publishedDateTime: 2019-12-23T11:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-phase-3-condor-trial-of-pyltm-in-prostate-cancer-achieved-primary-endpoint-2019-12-23
+sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-phase-3-condor-trial-of-pyltm-in-prostate-cancer-achieved-primary-endpoint-2019-12-23-7184024
 type: article
 quality: 33
 heat: 33
@@ -29,15 +29,15 @@ images:
 
 related:
   - title: "Progenics Pharmaceuticals Announces Phase 3 CONDOR Trial of PyL™ in Prostate Cancer Achieved Primary Endpoint"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Progenics Pharmaceuticals, Inc. (PGNX), an oncology company developing innovative targeted medicines and artificial intelligence to find ... conventional imaging and/or changes in PSA levels following radiation therapy. Safety results showed PyL was well tolerated, consistent with the Phase 2 OSPREY ..."
-    publishedDateTime: 2019-12-23T15:49:00Z
-    sourceUrl: https://finance.yahoo.com/news/progenics-pharmaceuticals-announces-phase-3-120010916.html
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Progenics Pharmaceuticals, Inc. (Nasdaq:PGNX), an oncology company developing innovative targeted medicines and artificial intelligence to find ... conventional imaging and/or changes in PSA levels following radiation therapy. Safety results showed PyL was well tolerated, consistent with the Phase ..."
+    publishedDateTime: 2019-12-23T12:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1964007/0/en/Progenics-Pharmaceuticals-Announces-Phase-3-CONDOR-Trial-of-PyL-in-Prostate-Cancer-Achieved-Primary-Endpoint.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
-secured: "mbDeq2d7pfd4ivQ+3VuipnIphXcz69T8kCuMfGCiFcd124zESBP/ohI0t+8wOUeVvZYKQ2yxBPf9ZXtQYprvN+FiwB7qPAQcfD1InX3IQM1USiJOxTPUVBhe42rkAA9iP5tmZaz7CcR+0m9kBiLxaKPtlHZR4PfeDxh1nfPXPF2rcGYgnNkHyQGHCSh5iqq7k1gqLla+6oQ+xl0ImrFGaZOHnJYt4vkLVzSSSGDISACtq8/eOMMrdEe+8S9+PB7JgCdPR8ujE8BN0m/eeiS3FQ==;4M8qTWWuU9Buq4IwON4gFA=="
+secured: "bmFp7MgJ90v1CJoRC6p+9fVyP6ZGkxpiQMaV7C3UMC66TS6u7eQRR/qRm/peIsxQ+tfgH4KU3fMs1dTmwm52UC5/dx0NzG+V3arH1dOQaEOAjpJisWe/MWjQsylR2rI9QFvk3EHbbafnGWf7fhpI0ll/ntrCD3Efq12zcuH1WEIsf6cR3si5N3aFc16xueWLcbrDA9E4Muz1SspaMly0aKqgKea0i7bob1okbOhRReOCKVf212RQJ/WwOpLcoWL8bnjyuUio7T0lYr9cB0LoTQ==;6ImmXXovoRFKSWJIEXsVdg=="
 ---
 

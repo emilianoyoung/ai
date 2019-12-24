@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Scientists harness AI to reverse ageing in billion-dollar industry"
-excerpt: "Race on to find proven ways to help people live longer, healthier lives"
-publishedDateTime: 2019-12-21T06:00:00Z
-sourceUrl: https://www.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry
-ampUrl: https://amp.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry
-cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2019/dec/21/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry
+excerpt: "Who wants to live forever? Until recently, the quest to slow ageing or even reverse it was the stuff of legends – or scams. But, today, an evidence-based race to delay or prevent ageing is energising scientists worldwide."
+publishedDateTime: 2019-12-21T06:02:41Z
+sourceUrl: https://www.msn.com/en-gb/news/uknews/scientists-harness-ai-to-reverse-ageing-in-billion-dollar-industry/ar-BBYdB4l
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Guardian on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.ACB85E7B5FB34BC353E57E2EE6A7036F
+  - url: https://www.bing.com/th?id=ON.EDB1B6F0F2AC3934D240973DABA77A83
     width: 700
     height: 367
     title: "Scientists harness AI to reverse ageing in billion-dollar industry"
 
-secured: "hkW7w+RaM/FDXw7EMN9ChBBjELgn9zToB7n9aJ2LkX+wSnetmhGkYa1/ERbwb5hwPT0r167D3y0Uwv63PjK+KsIilL0q+oCXMEEtrgsWdi1zUWkJqzk7QHTM0YVUoPYN1oZA6EXwPSa+M9ObRZ+9Qs8x0DHmmUBkeyo7fkYmMzxDHeOsr9Q3TVWoI41g4aBcI6H6j3cJNBOOznkAGuipNEXi8Cua+HEjweiib+jx0hY/qsXlYj1PN2gRWDRbSMkekMEo/z/Dnpa3OQPakBrMcg==;t11xbXqg+fdrUFiONIah5Q=="
+secured: "3uyk16BLTZc/S2t/nf8GtvcxLAJmRCJ+S6+hESfy1MPf/kZmtEFd2PFFmaudXYwSgVWPMtFBOxzgv4Al9GDU3mxjdYhYkAMuHeAM7MihGIapSCNASofoL5X/1afXt5HCoI0ISDe1nYwX/iuI8FpFfFWq0XT1BPV7svog37TVK4EWEHIdcM2VxWmm937Gpn/aQr5DSvFJ5CpeQQkdzNkxeu2jgs5r24E/lLZyYuQnmasBT5Up+veAcL0NJqnsQIASh91IygV877ORwHNrweqM7A==;C0MP9aL1DOxVHyjW7j5txw=="
 ---
 

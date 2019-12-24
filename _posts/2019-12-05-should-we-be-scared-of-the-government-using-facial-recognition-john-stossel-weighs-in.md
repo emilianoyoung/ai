@@ -256,19 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15C70DE6589F2814DBB9CFA98FF6DFD2
         width: 600
         height: 350
-  - title: "Plan to expand facial recognition to U.S. travelers hits hurdle"
-    excerpt: "from expanding its use of facial recognition at airports and border checkpoints to include American travelers. The DHS Biometric program has come under fire from lawmakers of both parties — one opponent includes Senator Mike Lee, a Republican. Lee and Markey have repeatedly called on DHS to stop expanding the technology, and privacy experts ..."
-    publishedDateTime: 2019-12-04T04:20:00Z
-    sourceUrl: https://www.msn.com/en-us/news/us/plan-to-expand-facial-recognition-to-us-travelers-hits-hurdle/ar-BBXIT7r
-    type: article
-    provider:
-      name: CBS News on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D9D3E1CEA22E173AB2AB60172172B897
-        width: 700
-        height: 367
   - title: "Why I Opt Out of Facial Recognition"
     excerpt: "To get it delivered daily to your in-box, sign up here. When Fortune employees moved into a new office building in Manhattan a few months ago, we had the option to sign up for facial recognition scanning. This meant we could access the premises without showing an authorized ID badge. I ruminated on the convenience for some time. Imagine ..."
     publishedDateTime: 2019-12-04T11:56:03Z

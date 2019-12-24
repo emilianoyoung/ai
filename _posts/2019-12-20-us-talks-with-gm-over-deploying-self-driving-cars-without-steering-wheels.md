@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
         width: 700
         height: 367
+  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
+    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
+    publishedDateTime: 2019-12-24T04:40:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
+    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
+        width: 700
+        height: 366
   - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
     excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
     publishedDateTime: 2019-12-21T01:44:00Z
@@ -101,6 +116,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
         width: 560
         height: 292
+  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
+    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
+    publishedDateTime: 2019-12-24T05:04:00Z
+    sourceUrl: https://www.usatoday.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
+    ampUrl: https://amp.usatoday.com/amp/2735603001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2735603001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.F23670FFDD276C9E6243F0884672CFCC
+        width: 700
+        height: 394
   - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
     excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
     publishedDateTime: 2019-12-23T17:36:00Z
