@@ -29,36 +29,66 @@ images:
     title: "Spotting drivers on their phone is just the tip of the iceberg for AI-enabled cameras"
 
 related:
-  - title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
-    excerpt: "As VP of artificial intelligence at Facebook, he oversees hundreds of scientists and engineers whose work shapes the company’s direction and its impact on the wider world. Pesenti joined Facebook in January 2018, inheriting a research lab created by Yann Lecun, one of the biggest names in the field. Before that, he worked on IBM’s Watson AI ..."
-    publishedDateTime: 2019-12-04T07:00:00Z
-    sourceUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/
-    ampUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
+  - title: "MIT creates an AI that understands the laws of physics intuitively"
+    excerpt: "But it turns out that the technology could also help give us a better understanding of ourselves. At least that's what a team of researchers at the Massachusetts Institute of Technology (MIT) think they'll be able to do with their new AI model. Dubbed ADEPT, the system is able to, like a human being, understand some laws of physics intuitively."
+    publishedDateTime: 2019-12-04T16:53:00Z
+    sourceUrl: https://www.engadget.com/2019/12/04/mit-adept-ai-understands-physics-intuitively/
+    ampUrl: https://www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 191
+      name: Engadget
+      domain: engadget.com
+    quality: 187
     images:
-      - url: https://www.bing.com/th?id=ON.D3CE5A5AAC9A439DF7AB8D3692EC90CB
+      - url: https://www.bing.com/th?id=ON.67B00EE90019DB6ECCD12E9613CC3E3F
         width: 700
-        height: 366
-  - title: "Qualcomm’s big Snapdragon 2020: The 5G, the chips, the wildcard"
-    excerpt: "The week-long event kicked off with new chipsets for smartphones before hitting AR/VR and finally computing, with 5G and AI ever-present themes along the way. Read on for the big news you need to know. Qualcomm was so enthused by the prospect of talking all things Snapdragon, it invited SlashGear along with hundreds of other global media to ..."
-    publishedDateTime: 2019-12-07T20:05:00Z
-    sourceUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/
-    ampUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
+        height: 367
+  - title: "Microsoft Seeing AI can now understand five more languages"
+    excerpt: "Some of us might already be tired of hearing news about this or that AI app or assistant that’s able to identify objects or scenes or even read text off signs. We take such advances in computer vision and AI for granted mostly because we can actually see those things. That doesn’t come naturally to people with visual impairments ..."
+    publishedDateTime: 2019-12-04T11:07:00Z
+    sourceUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/
+    ampUrl: https://www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-seeing-ai-can-now-understand-five-more-languages-04602244/amp/
     type: article
     provider:
       name: SlashGear
       domain: slashgear.com
-    quality: 89
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.57F5F58F705255A056E30181AE3C9171
+      - url: https://www.bing.com/th?id=ON.BD2279E868949BA09F61A5B0AAF91D8B
         width: 700
-        height: 451
+        height: 437
+  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
+    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
+    publishedDateTime: 2019-12-10T18:41:00Z
+    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
+    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
+    publishedDateTime: 2019-12-05T21:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
+        width: 700
+        height: 366
   - title: "Nvidia and Hackster join hands to bring the AI at the Edge Challenge"
     excerpt: "Nvidia is one of the pacesetters in research and development in the field of robotics and artificial intelligence. Just recently ... powerful computer that allows you to run multiple neural networks in parallel) to build creative and novel projects that fall into one of the following three categories: The competitors will be vying for prizes ..."
     publishedDateTime: 2019-12-04T08:20:00Z
@@ -72,32 +102,45 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2019/12/1575436571_jetson_nano_family.0_story.jpg
         width: 760
         height: 506
-  - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-06T18:42:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/facebook-taught-an-ai-the-theory-of-mind/ar-BBXS7kA
+  - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
+    excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
+    publishedDateTime: 2019-12-04T16:07:00Z
+    sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
     type: article
     provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
+      name: Flatland Kansas City
+      domain: flatlandkc.org
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
+      - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
         width: 700
-        height: 367
-  - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-07T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-06-facebook-taught-an-ai-the-theory-of-mind.html
+        height: 393
+  - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
+    excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
+    publishedDateTime: 2019-12-04T15:05:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/04/exploring-the-present-and-future-impact-of-robotics-and-machine-learning-on-the-healthcare-industry/27173/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.9F085686C69B24B42130AA2403C8F642
+      - url: https://www.bing.com/th?id=ON.B84BF006EEDFFEC951A4D8F86C919641
         width: 700
-        height: 466
+        height: 523
+  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
+    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
+    publishedDateTime: 2019-12-10T21:24:00Z
+    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "QQifBbBKwcV4LF0OdoT/I54d5WLTf2dXMSOp1ptFxJ9hrG9GKCZKXVEuEcNm0aeZ5NvHdDrkbPr+kOXT6jXBQlHY/NBZXcrRTZMRbEx+SF5SrVMjCygOpSa+wzrKoxvrlCe/h4YD+KUHh4xnkUV9sonYp77WRcY1MdXgWg2NoioOduuPZpE0xKhe2+I+s3cUIrDTzm5lUK3o3a7HLAxfhaY0FsWY7xEiqC2GFGWiDOjX3vJazNXz2hJI7YYPvc5jx0qI97SoI3tJgjNjvG3f8A==;RpCNu+wQ72JrWuLbG0XDHA=="
 ---

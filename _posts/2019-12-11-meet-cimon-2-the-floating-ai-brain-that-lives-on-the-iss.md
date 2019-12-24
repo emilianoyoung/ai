@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
         width: 600
         height: 315
+  - title: "Qualcomm’s big Snapdragon 2020: The 5G, the chips, the wildcard"
+    excerpt: "The week-long event kicked off with new chipsets for smartphones before hitting AR/VR and finally computing, with 5G and AI ever-present themes along the way. Read on for the big news you need to know. Qualcomm was so enthused by the prospect of talking all things Snapdragon, it invited SlashGear along with hundreds of other global media to ..."
+    publishedDateTime: 2019-12-07T20:05:00Z
+    sourceUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/
+    ampUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.57F5F58F705255A056E30181AE3C9171
+        width: 700
+        height: 451
   - title: "There’s No Such Thing as the Machine Learning Platform"
     excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
     publishedDateTime: 2019-12-13T01:57:00Z

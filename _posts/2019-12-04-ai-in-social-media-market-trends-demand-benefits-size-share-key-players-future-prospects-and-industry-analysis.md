@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
+    excerpt: "Dec 05, 2019 (The Expresswire) -- The report scrutinizes the market by an exhaustive analysis on Global Computer Vision Market dynamics, market size, current trends, issues, challenges, Forecasts, competition analysis, and companies involved. Global \"Computer Vision Market\" 2020 Industry Research Report is a professional and in-depth study on ..."
+    publishedDateTime: 2019-12-05T08:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-industry-2020-global-market-growth-trends-revenue-share-and-demands-research-report-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
     excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
     publishedDateTime: 2019-12-05T12:06:00Z

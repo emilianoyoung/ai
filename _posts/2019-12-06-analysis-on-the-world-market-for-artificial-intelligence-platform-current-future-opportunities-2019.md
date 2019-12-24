@@ -27,19 +27,6 @@ images:
     title: "Analysis on the World Market for Artificial Intelligence Platform current & Future Opportunities 2019"
 
 related:
-  - title: "In-Depth AI (Artificial Intelligence) Image Recognition Market Global Research and Analysis 2019-2024"
-    excerpt: "guiding autonomous robots and self-driving cars, and in accident avoidance systems. Avail a Sample Copy before Purchase: https://www.marketinsightsreports.com/reports/05221252967/ai-artificial-intelligence-image-recognition-market-growth-trends-and-forecast-2019-2024/inquiry?source=MW&Mode=21 Market competition by Top manufacturers, with ..."
-    publishedDateTime: 2019-12-04T06:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/in-depth-ai-artificial-intelligence-image-recognition-market-global-research-and-analysis-2019-2024-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
     excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. Browse Full Report: https://www.marketresearchengine.com/artificial-intelligence-platform-market The global Artificial Intelligence Platform ..."
     publishedDateTime: 2019-12-09T02:33:00Z
@@ -53,41 +40,41 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
-    excerpt: "Dec 05, 2019 (The Expresswire) -- The report scrutinizes the market by an exhaustive analysis on Global Computer Vision Market dynamics, market size, current trends, issues, challenges, Forecasts, competition analysis, and companies involved. Global \"Computer Vision Market\" 2020 Industry Research Report is a professional and in-depth study on ..."
-    publishedDateTime: 2019-12-05T08:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-industry-2020-global-market-growth-trends-revenue-share-and-demands-research-report-2019-12-05
+  - title: "Cloud Natural Language Processing (NLP) Market 2018-2027 / Trends, Share, Size And Forecast"
+    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-04T10:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2018-2027-trends-share-size-and-forecast-2019-12-04
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market 2019 – Competition Landscape, SWOT Analysis with top key players"
-    excerpt: "Dec 05, 2019 (Global QYResearch via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-05T10:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-competition-landscape-swot-analysis-with-top-key-players-2019-12-05
+  - title: "Artificial Intelligence in Medicine Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Medicine Market was valued at USD 1.6 Billion in the year 2017. Global Artificial Intelligence in Medicine Market is further estimated to grow at a CAGR of 38.7% from 2019 to reach USD 21.05 Billion by the year 2025. In the global Artificial Intelligence in Medicine Market by ..."
+    publishedDateTime: 2019-12-12T05:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-key-facts-and-forecast-predictions-presented-until-2025-2019-12-12
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
-    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
-    publishedDateTime: 2019-12-06T12:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
+  - title: "Artificial Intelligence Insight Series Market 2018-2023 |Recent Trends, Size and Share Analysis"
+    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The application of Artificial Intelligence (AI) is growing exponentially. This rapid expansion of AI software development, therefore, calls for a focused effort to build new hardware that can process the emerging AI algorithms. Future of AI hardware will be defined by biologically-inspired neuromorphic ..."
+    publishedDateTime: 2019-12-04T11:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2018-2023-recent-trends-size-and-share-analysis-2019-12-04?mod=mw_quote_news
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -105,32 +92,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
-    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in agriculture market is estimated at $578.0 million in 2019 and is projected to reach $2,015.7 ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-113000263.html
+  - title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- AI in Social Media Market Research Report, by Technology (Deep Learning ... Key players Some prominent players in the AI Social Media market are Google (US), Facebook (US), AWS (US), IBM (US), Adobe Systems (US), Baidu (China), Salesforce (US), Twitter (US) and Snap (US). Other emerging players in the AI ..."
+    publishedDateTime: 2019-12-10T12:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-2023-competition-status-and-forecast-market-by-players-regions-2019-12-10
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 46
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.B29BF5305630D9A2599CBFBC3F6556A1
-        width: 400
-        height: 251
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-    publishedDateTime: 2019-12-10T19:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automated Material Handling Equipment Market 2019 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
+    publishedDateTime: 2019-12-09T02:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2019-12-08
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
-      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-        width: 400
-        height: 137
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "3uSX1GgJHmqBwXkx6CnZM9mikkfWGmelSk370f56nbGtzh+2jR9DzszJxoahUcH8o9/vT2+mhdQqJbgTLsUDuNTtXgjtstqlvU8y0AKyNwACwZ0OGaPnDeW78B0IRhGxCdMnQ9JqHeYgebqRuc9uRtnnkDEwQlZ0OdIVqIUXJjO9JAIDu0aHV9DWL9ZEErMfVRbHOGHEYM1TBL21eh/6QxewwlRNfrEJV6xsMuhpZL+1JxugK/3UA+PQjLVWM8GAYSUPE9zJ5epuBO3NWHI/sg==;1NpXwFcXy2j4PmU6ofrB2A=="
 ---

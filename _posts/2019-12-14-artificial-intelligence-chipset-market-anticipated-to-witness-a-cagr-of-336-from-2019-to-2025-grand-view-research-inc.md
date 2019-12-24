@@ -38,6 +38,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Supply Chain Market Inclinations & Development Status Highlighted During Forecast Period 2018-2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
+    publishedDateTime: 2019-12-12T12:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-inclinations-development-status-highlighted-during-forecast-period-2018-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
     excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2019-12-18T17:30:00Z

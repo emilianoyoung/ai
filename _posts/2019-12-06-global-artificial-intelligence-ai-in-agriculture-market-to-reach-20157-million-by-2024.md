@@ -25,110 +25,65 @@ images:
     title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
 
 related:
-  - title: "In-Depth AI (Artificial Intelligence) Image Recognition Market Global Research and Analysis 2019-2024"
-    excerpt: "guiding autonomous robots and self-driving cars, and in accident avoidance systems. Avail a Sample Copy before Purchase: https://www.marketinsightsreports.com/reports/05221252967/ai-artificial-intelligence-image-recognition-market-growth-trends-and-forecast-2019-2024/inquiry?source=MW&Mode=21 Market competition by Top manufacturers, with ..."
-    publishedDateTime: 2019-12-04T06:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/in-depth-ai-artificial-intelligence-image-recognition-market-global-research-and-analysis-2019-2024-2019-12-04
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research(R)"
+    excerpt: "https://www.meticulousresearch.com/product/artificial-intelligence-in-retail-market-4979/ Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography - Global Forecast to 2025 ..."
+    publishedDateTime: 2019-12-10T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027--exclusive-report-by-meticulous-researchr-2019-12-10
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 58
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. Browse Full Report: https://www.marketresearchengine.com/artificial-intelligence-platform-market The global Artificial Intelligence Platform ..."
-    publishedDateTime: 2019-12-09T02:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2019---2025-trends-analysis-market-forecast-2019-12-08
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
+    excerpt: "BIS Research Report: https://bisresearch.com/industry-report/artificial-intelligence-agriculture-market.html Some of the popular use cases of AI in agriculture include predictive analytics, robotics, unmanned aerial vehicles, and autonomous farm vehicles. As per agricultural applications, crop protection, weather forecasting, farm machinery ..."
+    publishedDateTime: 2019-12-05T10:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-to-reach-2-015-7-million-by-2024--300969688.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
-    excerpt: "Dec 05, 2019 (The Expresswire) -- The report scrutinizes the market by an exhaustive analysis on Global Computer Vision Market dynamics, market size, current trends, issues, challenges, Forecasts, competition analysis, and companies involved. Global \"Computer Vision Market\" 2020 Industry Research Report is a professional and in-depth study on ..."
-    publishedDateTime: 2019-12-05T08:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-industry-2020-global-market-growth-trends-revenue-share-and-demands-research-report-2019-12-05
+      - url: https://www.bing.com/th?id=ON.EADC4EFC848C08E651CC3B2E6F2086B1
+        width: 700
+        height: 439
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
+    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
+    publishedDateTime: 2019-12-10T10:59:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14961035/artificial-intelligence-ai-in-supply-chain-market-worth-21-8-billion-by-2027-exclusive-report-by-m
+    ampUrl: https://amp.benzinga.com/amp/content/14961035
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14961035
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vehicle Speech Recognition System Market 2019 – Competition Landscape, SWOT Analysis with top key players"
-    excerpt: "Dec 05, 2019 (Global QYResearch via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-05T10:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-competition-landscape-swot-analysis-with-top-key-players-2019-12-05
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
+    publishedDateTime: 2019-12-09T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Analysis on the World Market for Artificial Intelligence Platform current & Future Opportunities 2019"
-    excerpt: "Dec 05, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence Platform Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
-    publishedDateTime: 2019-12-06T03:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/analysis-on-the-world-market-for-artificial-intelligence-platform-current-future-opportunities-2019-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
-    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
-    publishedDateTime: 2019-12-06T12:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-    publishedDateTime: 2019-12-10T19:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
+        width: 669
+        height: 229
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
+    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
+    publishedDateTime: 2019-12-11T00:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-ai-supply-chain-115931747.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-        width: 400
-        height: 137
+    quality: 9
 
 secured: "6fCo7KEsKv+abR4VvLdLq3zzxWI+2cBeB7fEbDvx/VURJRFdN3S/PrUuonZVLJxil9ANWQ57F7HvVTVOvwmLAf471zVIL6wZ0mQVbUULb3v5XcovTsjmeq0uC47vqRjD75k2/1yDq2V5IHXAvVHToia6umoucgdiSiTRe7DfdWEOQwIzS15SQUWGnIQ237xrI5pqczmjcE3bmnVwEOLrJQHGV6ABrZq67MJ2eN1/m6+pjVDmdPj424glBIvUDx6hXxI9G9v/hfM/rhg5EiBVug==;QtZ92NEBCQwZRtLTleFu6Q=="
 ---

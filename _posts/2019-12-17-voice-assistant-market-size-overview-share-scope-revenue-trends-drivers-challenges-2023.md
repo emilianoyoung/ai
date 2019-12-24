@@ -69,19 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ED902756560EB4DBEA45FF5F7214A5BA
         width: 700
         height: 401
-  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-    excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
-    publishedDateTime: 2019-12-17T13:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
+  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
+    publishedDateTime: 2019-12-10T19:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
+        width: 400
+        height: 137
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Reduction in traffic congestion due to improved safety and increase in connected infrastructure have boosted the growth of the global self-driving bus market. PORTLAND, Oregon, Dec. 13, 2019 /PRNewswire/ -- Allied Market Research recently published a report, titled, \"Self-Driving Bus Market by Level of Automation (Level 3, Level 4, and Level 5 ..."
     publishedDateTime: 2019-12-14T00:06:00Z

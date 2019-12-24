@@ -71,6 +71,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Spotting drivers on their phone is just the tip of the iceberg for AI-enabled cameras"
+    excerpt: "The state’s transport agency said it had integrated machine vision into roadside cameras to spot offenders. The AI automatically flags suspects, humans confirm what’s going on, and a warning letter is sent out to the driver. “It’s a system to change the culture,” the assistant police commissioner of New South Wales, Michael Corboy ..."
+    publishedDateTime: 2019-12-04T11:59:00Z
+    sourceUrl: https://www.theverge.com/2019/12/4/20994959/ai-automated-surveillance-australia-drivers-texting
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/4/20994959/ai-automated-surveillance-australia-drivers-texting
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/4/20994959/ai-automated-surveillance-australia-drivers-texting
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 80
+    images:
+      - url: https://www.bing.com/th?id=ON.E2131D04DFF517F06C59A5EF9AE00F69
+        width: 700
+        height: 366
   - title: "Amazon and the NFL plan virtual games to understand real injuries"
     excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
     publishedDateTime: 2019-12-05T21:16:00Z
@@ -86,6 +101,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
         width: 700
         height: 366
+  - title: "Nvidia and Hackster join hands to bring the AI at the Edge Challenge"
+    excerpt: "Nvidia is one of the pacesetters in research and development in the field of robotics and artificial intelligence. Just recently ... powerful computer that allows you to run multiple neural networks in parallel) to build creative and novel projects that fall into one of the following three categories: The competitors will be vying for prizes ..."
+    publishedDateTime: 2019-12-04T08:20:00Z
+    sourceUrl: https://www.neowin.net/news/nvidia-and-hackster-join-hands-to-bring-the-ai-at-the-edge-challenge
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 71
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2019/12/1575436571_jetson_nano_family.0_story.jpg
+        width: 760
+        height: 506
   - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
     excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
     publishedDateTime: 2019-12-04T15:05:00Z

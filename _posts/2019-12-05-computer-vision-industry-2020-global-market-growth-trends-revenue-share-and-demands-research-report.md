@@ -28,110 +28,110 @@ images:
     title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
 
 related:
-  - title: "In-Depth AI (Artificial Intelligence) Image Recognition Market Global Research and Analysis 2019-2024"
-    excerpt: "guiding autonomous robots and self-driving cars, and in accident avoidance systems. Avail a Sample Copy before Purchase: https://www.marketinsightsreports.com/reports/05221252967/ai-artificial-intelligence-image-recognition-market-growth-trends-and-forecast-2019-2024/inquiry?source=MW&Mode=21 Market competition by Top manufacturers, with ..."
-    publishedDateTime: 2019-12-04T06:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/in-depth-ai-artificial-intelligence-image-recognition-market-global-research-and-analysis-2019-2024-2019-12-04
+  - title: "AI Robots Market Trends, Growth, Demand, Competitive Landscape, Emerging Opportunities and Industry Analysis"
+    excerpt: "Growth Boosters and Top Barriers Artificially intelligent robots can be described as service and industrial robots, which are integrated with artificial intelligence (AI) technology. AI robots have the ability to certain repetitive tasks with no human intervention and are able to communicate with humans. Sometimes, they are also able to ..."
+    publishedDateTime: 2019-12-09T08:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-robots-market-trends-growth-demand-competitive-landscape-emerging-opportunities-and-industry-analysis-2019-12-09
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 65
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. Browse Full Report: https://www.marketresearchengine.com/artificial-intelligence-platform-market The global Artificial Intelligence Platform ..."
-    publishedDateTime: 2019-12-09T02:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2019---2025-trends-analysis-market-forecast-2019-12-08
+  - title: "Enterprise Artificial Intelligence Market 2023|Overview with Detailed Analysis, Competitive landscape, Forecast"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Enterprise Artificial Intelligence Market: Solution (Business Intelligence, Customer Management, Sales & Marketing), Service (Professional, Managed), Deployment, Industry Vertical (Retail, Healthcare, Automotive, Aerospace) - Forecast till 2023 Market synopsis Enterprises hold a prominent market value ..."
+    publishedDateTime: 2019-12-10T13:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2023overview-with-detailed-analysis-competitive-landscape-forecast-2019-12-10
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market 2019 – Competition Landscape, SWOT Analysis with top key players"
-    excerpt: "Dec 05, 2019 (Global QYResearch via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-05T10:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-competition-landscape-swot-analysis-with-top-key-players-2019-12-05
+  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
+    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
+    publishedDateTime: 2019-12-16T06:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Analysis on the World Market for Artificial Intelligence Platform current & Future Opportunities 2019"
-    excerpt: "Dec 05, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence Platform Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
-    publishedDateTime: 2019-12-06T03:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/analysis-on-the-world-market-for-artificial-intelligence-platform-current-future-opportunities-2019-2019-12-05
+  - title: "AI in Social Media Market Trends, Demand, Benefits, Size, Share, Key Players, Future Prospects and Industry Analysis"
+    excerpt: "Reports that review the information and communication technology industry has been presented by Market Research Future, which produces reports on industry ... The eminent competitors in the AI in social media market are Facebook (US), AWS (US), Baidu (China), IBM (US), Adobe Systems (US), Google (US), Salesforce (US), Snap (US), Clarabridge ..."
+    publishedDateTime: 2019-12-04T11:09:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-social-media-market-trends-demand-benefits-size-share-key-players-future-prospects-and-industry-analysis-2019-12-04
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
-    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
-    publishedDateTime: 2019-12-06T12:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
-    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in agriculture market is estimated at $578.0 million in 2019 and is projected to reach $2,015.7 ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-113000263.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
     quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.B29BF5305630D9A2599CBFBC3F6556A1
-        width: 400
-        height: 251
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-    publishedDateTime: 2019-12-10T19:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-        width: 400
-        height: 137
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Industry Analysis, Size, Share, Upcoming Trends, Segmentation and Forecast to 2019 - 2026"
+    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- According to MarketInsightsReports, The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2026, growing at a CAGR of 16.25% from 2017 to 2026. Global Natural Language Processing Market Report is highly intended to ..."
+    publishedDateTime: 2019-12-06T05:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-industry-analysis-size-share-upcoming-trends-segmentation-and-forecast-to-2019---2026-2019-12-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The Growing Emergence of Robots in Healthcare: Key Opportunities & Benefits"
+    excerpt: "3. Chatbots and Bedside Robots Companies like Conversa Health and others believe chatbots powered by artificial intelligence have transformative potential in healthcare. A HIPAA-compliant chatbot could, for example, deliver personalized or timed reminders for medications, appointments and more. Patients could also speak to a chatbot to describe ..."
+    publishedDateTime: 2019-12-05T04:45:00Z
+    sourceUrl: https://hitconsultant.net/2019/12/05/the-growing-emergence-of-robots-in-healthcare-key-opportunities-benefits/
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.C2CEDB90E3CE7C1FC73199E2476D847F
+        width: 700
+        height: 393
+  - title: "Automated Material Handling Equipment Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
+    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
+    publishedDateTime: 2019-12-11T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "sP0GtBC/dSLYSmmbfJ3flV1P3wc5l+2PRZ4O0D681vG+KdwVCS9W0ut+jbZFYzJl66fzBz4duqJEX6S43gYDUVk33Q49fR/1u3raEid29oNWBjoE+hInWB+H+hWTdQBcEvwUAj+RCIrZ6ybRpsQGRtEfGC2WlVFS0eHl0SOwxjgWcscAwPXeqhAaduNO8SXqERY1M+pZb9QTaytcwoYP+ZTnKZUVnjiVBeD+prSEW+TY96l2nfSFFKUmRvqWWWKdJRmE+Q/rGOXLhTzuAUYk2A==;KhYwjz9+92bRDiafKGqsFA=="
 ---

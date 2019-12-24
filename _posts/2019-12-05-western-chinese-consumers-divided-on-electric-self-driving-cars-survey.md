@@ -105,21 +105,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
         width: 700
         height: 367
-  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
-    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers without anyone behind the steering wheel, drivers have complained about the robot cars ..."
-    publishedDateTime: 2019-12-04T07:00:00Z
-    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-    ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A791D58A37A0B86B15BDB1996BAE2F86
-        width: 700
-        height: 366
   - title: "Waymo launches an iOS app for its self-driving taxi service"
     excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
     publishedDateTime: 2019-12-05T23:30:00Z

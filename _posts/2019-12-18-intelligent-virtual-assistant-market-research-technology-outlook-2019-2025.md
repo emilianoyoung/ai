@@ -132,6 +132,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
         width: 700
         height: 445
+  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
+    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
+    publishedDateTime: 2019-12-06T12:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
     excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
     publishedDateTime: 2019-12-17T19:00:00Z
