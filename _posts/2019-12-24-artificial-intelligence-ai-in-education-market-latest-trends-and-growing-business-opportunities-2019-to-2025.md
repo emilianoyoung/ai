@@ -55,6 +55,15 @@ related:
       - url: https://insights.globalspec.com/images/assets/194/13194/Whisky1.png
         width: 713
         height: 425
+  - title: "Year in Review: Cloud Security"
+    excerpt: "AWS and Google have both introduced network traffic mirroring in their respective cloud platforms, with Microsoft Azure soon to follow. Lack of visibility has been one ... Along with the pivot towards better detection and response (particularly via tools with advanced machine learning capabilities that will detect more than just known-bad ..."
+    publishedDateTime: 2019-12-18T12:59:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/blogs/year-review-cloud-security/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 4
 
 secured: "pKXGv61Q2pBBEQ0O+pLHEb7m+FVu6qqU2hpJclGv7mpAQcT0TH50WaQt/+BBbUxMLpha1n9/nu2L1IkubKeosyCQoLCw2O3UBUZyhvqj+xDhGKwFAam4WZ2g2QB646wwPpPrmQRllqLx9cf42j8hMNG2k2VSQbBqeaePEjBJN7J63PKCJ1p+s1ZTEFZPrwnafm6NAjNIrSzK+DaiORxguFI0JKPAeewEzn+y8kRu0B91Hslnhf44xeN3Hzrp+cIbrCRXx5pOvXDCe4pVw4qOJg==;HWSPWKzJhaBy0qeYUU38FA=="
 ---

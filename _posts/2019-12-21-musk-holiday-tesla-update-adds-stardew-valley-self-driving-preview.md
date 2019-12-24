@@ -33,6 +33,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FEFD7B5658F0BD8C6C27EC7399C96286
         width: 700
         height: 393
+  - title: "First look at Tesla’s ‘Full Self-Driving Sneak Preview’"
+    excerpt: "Now that Tesla started pushing its holiday update to the fleet, we get our first look at what Elon Musk called Tesla’s “Full Self-Driving Sneak Preview.” Last week, the CEO announced that Tesla is working on a “holiday update” that would include a “Full Self-Driving sneak preview,” new video games, and “a few more things.”"
+    publishedDateTime: 2019-12-24T14:25:00Z
+    sourceUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/
+    ampUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.E7D02C6B98985FA7CC62B0B5C6A57F1D
+        width: 700
+        height: 337
   - title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
     excerpt: "The update is quite extensive and includes critical upgrades to voice recognition, including text message reading and sending, better “driving visualization,” and a few other more minor enhancements. Perhaps most notable in this update is the improvement to the driving visualization that Tesla owners see on their displays. According to the ..."
     publishedDateTime: 2019-12-24T00:01:00Z

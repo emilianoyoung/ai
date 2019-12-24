@@ -3,7 +3,7 @@ category: news
 title: "Here are the top tech trends of 2020, according to top experts"
 excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
 publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
+sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts?partner=rss
 type: article
 quality: 122
 heat: 222
@@ -152,6 +152,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "qheqhma788KkifJ8veFOFk1uLOGeQBVlE236f8IOy6oHn0mos1V5tx0kmI5IWevYBrMu4PUenlPVksIDOzIt4wMebcHr3/G61tWMf4jlMNGMA96JGechBgOvzT407wVGwIRiQg6M09YFT56wxOHXYwNUA1ha1QGvbRWAKfqPBfmBE84O6hVd/UQmE1c7YBoOlrQNt+IWddY4B+p7azLEjgZj7nxSiHTiml7+PNwXjHbpSwmReKLkAyW62oYPK1WrhJA4NaCfzlrF5PX/D+W69A==;e9cRR9fDYglP2KiHBewwrw=="
+secured: "Glu7Fk9oVmlAjKsXVaSNwLA6RQOPCjDKZy+8qCwwCwqE7+IrnJXXlwhEQgTMfRb5qDZxgpoh7XrZ05jWrauEWtURyT62PvORsmzYdEILvzi8lUXh9Qb+GxoJetMgHSwf6vQimcIIxhiRCjbypDbk0YaTTuuViucmkk6ZfsaQ97yExDDeJEcInXPmC9Vazb7DmWEG5PE3Y5JjqkWQs+i0DEqZ8CAThrCYexfsvVVCLFH+/d2websMqOqIeKOMQ2xDIJy9n8BSDuv1SCFFjsDSAQ==;T5cGvmzMM+hRhinpuno8/A=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.androidauthority.com/qualcomm-snapdragon-8c-7cx-1060485/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-8c-7cx-1060485/amp/
 type: article
 quality: 85
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -30,36 +30,6 @@ images:
     title: "Beyond phones: Qualcomm unveils affordable 4G laptop and 5G mixed reality chips"
 
 related:
-  - title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
-    excerpt: "There also one other wrinkle with this two-chip solution. According to The Verge ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents a doubling in performance over its ..."
-    publishedDateTime: 2019-12-04T19:12:00Z
-    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
-        width: 700
-        height: 525
-  - title: "Qualcomm Snapdragon 865 Amps Performance, Cameras And AI For Flagship 5G Phones"
-    excerpt: "There also one other wrinkle with this two-chip solution. Reportedly, Qualcomm is mandating that OEMs will only be ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents ..."
-    publishedDateTime: 2019-12-05T14:55:00Z
-    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.4A819C9C5838927F376B3921CDA0C3D3
-        width: 700
-        height: 495
   - title: "Qualcomm expands laptop chip range with Snapdragon 7c, 8c for mainstream computers"
     excerpt: "Purpose-built with the instant-on responsiveness and multi-day battery life of a smartphone, it comes with an integrated Snapdragon X24 LTE modem and the Qualcomm AI Engine and is designed to support ultra-thin, fan-less designs for mainstream use. The Snapdragon 8cx is the most advanced of the chips, targeting enterprise computers. This comes ..."
     publishedDateTime: 2019-12-06T08:47:00Z

@@ -24,19 +24,76 @@ images:
     title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
 
 related:
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "MELVILLE, N.Y., Dec. 16, 2019 /PRNewswire/ -- Nikon Instruments Inc., innovator of advanced microscope systems, today announced NIS.ai, a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
+  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
+    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
+    publishedDateTime: 2019-12-16T12:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
-        width: 400
-        height: 142
+      - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
+        width: 700
+        height: 365
+  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
+    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
+    publishedDateTime: 2019-12-17T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/2019-huawei-ai-analytics-software-135600856.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-16T09:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005311/en/Global-Event-Based-Vision-Systems-Patent-Trend-Analysis
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.D42937E6FA9B2FAD8028F84BBFE31D77
+        width: 700
+        height: 365
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-17T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-event-based-vision-systems-105600748.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
+    publishedDateTime: 2019-12-18T12:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005410/en/Latest-Innovations-Wound-Care-Ophthalmic-Devices-Artificial
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: https://mms.businesswire.com/media/20191218005410/en/371054/23/ResearchAndMarkets_800px.jpg
+        width: 1200
+        height: 627
+  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
+    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered. Medical devices and imaging ..."
+    publishedDateTime: 2019-12-19T00:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/latest-innovations-wound-care-ophthalmic-133000404.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "DaK1Yd5sEUMMt84uvGF6QWFG4gM0OjV+4aMulVWRMuq9Q0QcmDtGRFVWI75k4rRq1fORaNyB19KyUS1AVJfmNt423OWIlpSlcn7kIL63F1HfpAYmHxNWXFhTMAtniLAcOttwCX7tr9KfqBvflnNRzrWxBbhH2satBmr6+FxIV87BtYX+FvohjE7TfUIh59d8yuaiCtZyYLIkBA3Jb8BXoibScq9JgYEybHfysiCww1odeIik3WjNmCuUYmirXF2R31NbGHpYSZjBg4PPk7eeaQ==;RSdBtODDDBO0aVQlvAfb2A=="
 ---

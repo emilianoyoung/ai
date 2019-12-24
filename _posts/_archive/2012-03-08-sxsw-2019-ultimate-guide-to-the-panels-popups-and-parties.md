@@ -5,8 +5,8 @@ excerpt: "The iconic tech arts music festival, South by Southwest (SXSW), is nea
 publishedDateTime: 2012-03-08T00:00:00Z
 sourceUrl: https://medium.com/hackernoon/sxsw-2019-ultimate-guide-to-the-panels-parties-performances-9c1c9f25c599
 type: article
-quality: 132
-heat: 132
+quality: 152
+heat: 152
 published: true
 
 provider:
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
 
-secured: "8ZruXKWDvJBpJZg+39vXb4ViyT+wbiriY8s4zYGHdiJN4OwK4Fr9fWusqs6wijulag46HHIex66m70RkKib++3xRybtnDyNNQZajW4S9qgtqSuFNA71JVwr0i76Juv2jqUeEGKaN7NsSHFoqEqrWhFwRlvMDm7sHth/9NtJfiB6pEl3MXk1Kyf51trXpv5S9DorCe07ZZzV63kUZpHK/vQ5mAbSxZuJmYlLRBIHmHQ8hj5giCdAd2uQ2ebIyt29VktDtTLRfbfdvT4qV3A08dg==;et//SfJywmW4h5N5/YzWxA=="
+images:
+  - url: https://miro.medium.com/max/1005/1*M4cfrwHfU964H3h3ITTaXw.jpeg
+    width: 1005
+    height: 613
+    title: "SXSW 2019 Ultimate Guide to the Panels, Popups and Parties"
+
+secured: "kqJu/yEVIVo7bW7ZL16cHZ0Lz05DD+wNzMk6q++zAq0Dd61e/XCFec6HZzxOt5UEL8t6mZcv9nWE5rfh00igetLjFYNLY2p8WYAbcqqYoYkvwye0+x5CqDCbij/6M8tNBofInMvA8VTOUMDM+SUSOjPK2zLW1s4nwDLL95j+XgykrXri/nymp3tr6rFiXkvq81WSBI3wCCm2vtaH8FULXGcGG1MFiWjZTL+48vZUR+490f84TIBZJ8EcDuZenGvAqf5Uszj5Wxk4F0+BRFXvFg==;YqRyCj6xOLK2yHtk3F6GkQ=="
 ---
 

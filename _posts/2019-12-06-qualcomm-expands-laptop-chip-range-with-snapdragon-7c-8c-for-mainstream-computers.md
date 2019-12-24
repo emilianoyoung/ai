@@ -33,36 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.35C2CD33F87BF0A92A2ADDF646FE35C4
         width: 700
         height: 357
-  - title: "Qualcomm Snapdragon 865 Amps Up Performance, Cameras And AI For 5G Phones"
-    excerpt: "There also one other wrinkle with this two-chip solution. According to The Verge ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents a doubling in performance over its ..."
-    publishedDateTime: 2019-12-04T19:12:00Z
-    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.E0FEA3208BA40292896AFF82CA55911E
-        width: 700
-        height: 525
-  - title: "Qualcomm Snapdragon 865 Amps Performance, Cameras And AI For Flagship 5G Phones"
-    excerpt: "There also one other wrinkle with this two-chip solution. Reportedly, Qualcomm is mandating that OEMs will only be ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents ..."
-    publishedDateTime: 2019-12-05T14:55:00Z
-    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.4A819C9C5838927F376B3921CDA0C3D3
-        width: 700
-        height: 495
 
 secured: "aROVhRrU7WofQAXi71L+nNa0qlgIst/wCVDjkg6z3AW3cK2Zwl2c3XxpfIUtCZiRLvxtQtY+EWHF+u057kvR8omu7MJnLtcAdLLKx2h2FoLEU4UqaHK60NopPbGB10VEnd0SOv+AJAw1hqF0rBZVcnR5Bd9Be9LMkHsWoRwDHPhF37/1K4op3vcFabPzN4+h0w9lLBhRws8ARppOEt1JyhHtJ7GpP9TnT/I8Cl9vc0u9fjI/79QV3+vDTdp2Y6mmjVXruZMTWbBFn+dCBfO/Ig==;DlQjEx9QOuVIEeI5gacNUg=="
 ---

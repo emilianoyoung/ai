@@ -31,7 +31,7 @@ related:
   - title: "Here are the top tech trends of 2020, according to top experts"
     excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
     publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
+    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts?partner=rss
     type: article
     provider:
       name: Fast Company

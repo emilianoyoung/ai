@@ -46,6 +46,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FEFD7B5658F0BD8C6C27EC7399C96286
         width: 700
         height: 393
+  - title: "First look at Tesla’s ‘Full Self-Driving Sneak Preview’"
+    excerpt: "Now that Tesla started pushing its holiday update to the fleet, we get our first look at what Elon Musk called Tesla’s “Full Self-Driving Sneak Preview.” Last week, the CEO announced that Tesla is working on a “holiday update” that would include a “Full Self-Driving sneak preview,” new video games, and “a few more things.”"
+    publishedDateTime: 2019-12-24T14:25:00Z
+    sourceUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/
+    ampUrl: https://electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/24/tesla-full-self-driving-sneak-preview-first-look/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.E7D02C6B98985FA7CC62B0B5C6A57F1D
+        width: 700
+        height: 337
   - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
     excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
     publishedDateTime: 2019-12-20T09:06:00Z

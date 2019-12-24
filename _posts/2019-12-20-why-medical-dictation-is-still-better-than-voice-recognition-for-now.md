@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
         width: 700
         height: 466
+  - title: "San Francisco tweaks facial recognition ban that made it illegal for city employees to use iPhones"
+    excerpt: "In brief: The San Francisco administration's ban on the use of facial recognition has had the surprising side effect of making devices like newer iPhones illegal to use by municipal workers. Officials are now tweaking the law to allow their use while still maintaining a strict ban on using facial recognition features. While San Francisco may ..."
+    publishedDateTime: 2019-12-24T14:53:00Z
+    sourceUrl: https://www.techspot.com/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+    ampUrl: https://www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 75
+    images:
+      - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
+        width: 700
+        height: 490
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z

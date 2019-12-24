@@ -5,8 +5,8 @@ excerpt: "We have machine learning and artificial intelligence that’s really g
 publishedDateTime: 2019-12-23T22:15:00Z
 sourceUrl: https://www.govexec.com/sponsored/leadership-voices/google-cloud/google-cloud-sullivan-open-source-fedramp-high-security/
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: https://www.bing.com/th?id=ON.F9B18BF03BE39443DEBA733C70F27BCB

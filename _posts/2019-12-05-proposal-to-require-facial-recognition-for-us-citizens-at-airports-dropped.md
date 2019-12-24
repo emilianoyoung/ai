@@ -282,19 +282,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
         width: 700
         height: 394
-  - title: "US Citizens Could Be Forced to Use Facial-Recognition Technology at Airports"
-    excerpt: "The real reason airlines want you to go by train Something rather funny is happening in the world of travel, airlines want you to go by train. Buzz60’s Maria Mercedes Galuppo has more. Buzz60 Is overtourism a concern in well known tourist destinations CNN's Richard Quest talks with Paul Trainer, Travel Writer and Editor, The Glasgowist about ..."
-    publishedDateTime: 2019-12-04T13:51:00Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/us-citizens-could-be-forced-to-use-facial-recognition-technology-at-airports/ar-BBXKoPE
-    type: article
-    provider:
-      name: TravelPulse on MSN.com
-      domain: msn.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.924E2474DFAE20893369D96EFE029732
-        width: 600
-        height: 315
   - title: "Homeland Security drops plan to use facial recognition on traveling US citizens"
     excerpt: "UPDATE: US Customs and Border Protection, which is overseen by the Department of Homeland Security, said Thursday that it is no longer seeking a regulation change that would have enabled it to use facial-recognition technology to identify all people entering and leaving the United States, including US citizens."
     publishedDateTime: 2019-12-05T20:51:36Z

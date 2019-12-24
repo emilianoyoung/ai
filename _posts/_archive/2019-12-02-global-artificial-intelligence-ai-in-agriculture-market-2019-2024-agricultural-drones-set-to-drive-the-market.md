@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-publishedDateTime: 2019-12-02T13:15:00Z
-sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
+excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology, lift tools from the ground, recognize the boundaries of a farm, and can be operated remotely ..."
+publishedDateTime: 2019-12-02T12:15:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
+ampUrl: https://amp.benzinga.com/amp/content/14911193
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -390,6 +392,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "0mINYJlRq7pNJ/pzAVf+m+lW7NhcGtrZqlIhGHBw2/q/SbZ3nRg/jwSP0n3uHvMZVtuG6/IDnw93XXyBp9aZxuEmTowJuCx20TmyMIGsOV8jpvO3tAjQskzA7xEAUvFrn+Zc/6X89SAcQI5t4wJxEKKe1d3KKsyELHdv55X6XBqVOf/785C4X0zSZ5/AGQrTWpLwGwboMBJcJwHDtP0JyxN4WFHhsKJ8pBvP2FVS2X/rWMob212PXyOWKLN4YXvAUOcSjDUAj/w17dSp/+1QtQ==;sR3BBrG4shJWjhpv9nOcbA=="
+secured: "CEZOJMAlIoDH3sJi03wfWpQxtT1gRlkGEW8jwDIOoXkTR8g0N3mF3GtkF0QLsGRdiURsQenRckauefXqHtXsPmKWqhXw2IDz+1G+EdnJYezytNBhy8XHoUnKBaDldh6YY2CCkvB8iuCDlMhcADLT0AKoavXU6KYzVhmSUZd65Eg2zrfa71nZmuJQO1S7BaqxMnu28w9PYI/jkqhoVS7hL6xzOPJgsHsClRmsV7HdqismTUCvBmPgmjYTENxFxbmqbsfQNBf58TjQiMi5zu2lJQ==;kbGbLltAL+Z8FIb/dZ9pMg=="
 ---
 

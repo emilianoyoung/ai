@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
 
 related:
+  - title: "Content optimization using entities: An actionable guide"
+    excerpt: "BERT (Bidirectional Encoder Representations from Transformers) is a Natural Language Processing model that Google introduced in 2018 and began rolling out in October 2019. BERT has the ability to consider the full context of a word based on the words that come before or after named entities. We won’t dive deep, but we’ll look at an example ..."
+    publishedDateTime: 2019-12-24T14:33:00Z
+    sourceUrl: https://www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/
+    ampUrl: https://www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/amp/
+    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/amp/
+    type: article
+    provider:
+      name: Search Engine Watch
+      domain: searchenginewatch.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.6852875905E4632CF5B495ADE3C6E8CD
+        width: 360
+        height: 240
   - title: "After eBay improved its translation software, international commerce increased sharply"
     excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
     publishedDateTime: 2019-12-23T13:13:00Z

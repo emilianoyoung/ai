@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,21 +56,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/WpRxhr4QN29YpJmd0fKtlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/UwF2ko48.kqBj2NEjFogtA--~B/aD0zMDcwO3c9NDYwNTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-09/00f88080-d595-11e9-bff5-eb7264b1768a
         width: 1279
         height: 853
-  - title: "Google CEO Sundar Pichai has been named the CEO for Alphabet, Google’s parent company"
-    excerpt: "Google CEO, Sundar Pichai is now the CEO of Alphabet Inc., the parent company of Google, DeepMind, Sidewalk Labs, Waymo, Calico, etc. This comes after the stepping down of the co-founders of Google itself, Larry Page and Sergey Brin, who were Alphabet’s CEO and President, respectively. In a joint founders’ letter from the co-founders ..."
-    publishedDateTime: 2019-12-04T13:17:00Z
-    sourceUrl: https://www.jbklutse.com/google-ceo-sundar-pichai-now-ceo-of-alphabet/
-    ampUrl: https://www.jbklutse.com/google-ceo-sundar-pichai-now-ceo-of-alphabet/?amp
-    cdnAmpUrl: https://www-jbklutse-com.cdn.ampproject.org/c/s/www.jbklutse.com/google-ceo-sundar-pichai-now-ceo-of-alphabet/?amp
-    type: article
-    provider:
-      name: GhanaWeb - Ghana HomePage
-      domain: jbklutse.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.4741B51769F42FC035A45F65920B8315
-        width: 700
-        height: 525
   - title: "Google Could Dominate Self-Driving Cars. New Alphabet CEO Sundar Pichai Could Make It Happen."
     excerpt: "The Wedbush team estimates Alphabet is spending nearly $1 billion a year on its self-driving fleet and technology, well ahead of Uber from a research and development perspective. The Wedbush team notes that most of Waymo’s contribution to autonomous ride-share vehicles comes from a partnership with Lyft. Last year the company launched its own ..."
     publishedDateTime: 2019-12-09T16:37:00Z
@@ -100,6 +85,6 @@ related:
         width: 800
         height: 448
 
-secured: "w1ua12p9pmys7YOWeIYJ3PY6ZMKC3Tv2fFbZXazqqzffaYu6VoS0TbXPk8d8GOkCcMSuGScbvziPNLtDLTlMonTlWAbsJ2eTlZbIpOBXWVP9lwUmRu+W6ksS4cfnyh7PxbFtPh+Cc3eMmRrmL4Z4RfLO90DxPCpAl2i83HDXH7LLb94IcA7X0wkh2GzBg/zVNYAv1iwtXvMe1OQRM/Q7wiOxwoUiUpMFuSbogAY5yS9di9H0vTP2B6gSha7nVwf9Kb+j9lSeFonThEHsSj1kjA==;3brE5Yi+bOquD+L2nw/hCA=="
+secured: "ZcSz7TSm8yyNiVQLNOzz7KblpeBMJfsoV/w4iir25bD25wUnn8X+7ateN593qWl+6/ALnzr5uns1YnvCqhuHJJfWCuiMeLuExYIIrdDOQnHdlUjijZtFnvdh2l6nq98Uv5BHvkYARvVM3D1z5jjeojxpzWmi8YuGLfawO4GsuZWnGFi+gRnXM67hh66l8qDUMjpbSylwt3qrBN+ABS+8omHMaacZD8GV43SbcYzrvDZclLeVOYBza9PAp8nqKJl6Uxt09zy0q9bmlweDeDbH2Q==;xHy0nNDSnHIsdZ6B7NeP+Q=="
 ---
 

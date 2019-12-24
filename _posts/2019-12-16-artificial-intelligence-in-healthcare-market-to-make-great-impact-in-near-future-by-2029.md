@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T08:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
+    excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
+    publishedDateTime: 2019-12-16T12:01:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-forecast-poised-to-touch-usd-54-billion-by-2026-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

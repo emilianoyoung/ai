@@ -71,21 +71,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/WpRxhr4QN29YpJmd0fKtlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/UwF2ko48.kqBj2NEjFogtA--~B/aD0zMDcwO3c9NDYwNTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-09/00f88080-d595-11e9-bff5-eb7264b1768a
         width: 1279
         height: 853
-  - title: "Google CEO Sundar Pichai has been named the CEO for Alphabet, Google’s parent company"
-    excerpt: "Google CEO, Sundar Pichai is now the CEO of Alphabet Inc., the parent company of Google, DeepMind, Sidewalk Labs, Waymo, Calico, etc. This comes after the stepping down of the co-founders of Google itself, Larry Page and Sergey Brin, who were Alphabet’s CEO and President, respectively. In a joint founders’ letter from the co-founders ..."
-    publishedDateTime: 2019-12-04T13:17:00Z
-    sourceUrl: https://www.jbklutse.com/google-ceo-sundar-pichai-now-ceo-of-alphabet/
-    ampUrl: https://www.jbklutse.com/google-ceo-sundar-pichai-now-ceo-of-alphabet/?amp
-    cdnAmpUrl: https://www-jbklutse-com.cdn.ampproject.org/c/s/www.jbklutse.com/google-ceo-sundar-pichai-now-ceo-of-alphabet/?amp
-    type: article
-    provider:
-      name: GhanaWeb - Ghana HomePage
-      domain: jbklutse.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.4741B51769F42FC035A45F65920B8315
-        width: 700
-        height: 525
   - title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
     excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
     publishedDateTime: 2019-12-04T11:28:00Z

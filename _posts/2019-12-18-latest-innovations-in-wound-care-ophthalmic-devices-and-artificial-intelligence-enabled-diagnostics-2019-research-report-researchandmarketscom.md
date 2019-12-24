@@ -48,6 +48,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 39
+  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial ..."
+    publishedDateTime: 2019-12-18T11:25:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005383/en/Innovations-Artificial-Intelligence-Natural-Language-Processing-IoT
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20191218005383/en/371054/23/ResearchAndMarkets_800px.jpg
+        width: 1200
+        height: 627
   - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2019-12-16T09:56:00Z
@@ -82,6 +95,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "E98gMgecnnOz41wOCcVeEWYUbtQLRDhmm8mKir1p7E1SObcWylvpExd8xtsgfWdR08e7Zfzhrbx+7rV4/0FqS2srSUBRCOGGz08sJ9YDnPokk1BnXr5gzX46V4Gmhu/sQAGdYRoMa5kCdh1ptGOGUb6Ykrr6bvScHhUc6kTQW06jUQ/WvkksdixdhPFPs/RQrfPjkSeFVYJq0qWzGy7tNKQzYfBmqOVv1gNkxVacAuDyTLwphSrtsoRer9hT7tIqs3lbEP+1QtNG2x94N2zVYw==;giT2UPIOPXHVg5gIOtQhqA=="
+secured: "OASfAVAr8BgZGEioabFXs+sM2LM5Uad/IYc2xi6GeVwjI6MUbOU+espU7XKwBr3JlI/bCQ7ZNknBlqQZZatTAHjeOhZaHbTgHKdLf+NsNRH9btIobf9tLtNfR39XZnP6jRVWdbwlZhtlgG1J/w8WDn1ECvmZkiWANx1l2hYSn/CcwG5HYfqCPbaCfB6bA+UpDadE6AWGyTM7iPfm8MNwCWs9LeaHnjUUHyyvHjKJ5/ouRmkMPdcOc+tvCUbdGc4RV0lZF46CoUGKKXmVxHAZJQ==;FYplGtkMj7vTdM7dbQb2pA=="
 ---
 

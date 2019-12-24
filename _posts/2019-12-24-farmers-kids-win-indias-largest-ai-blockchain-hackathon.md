@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Farmers' kids win India's largest AI, Blockchain hackathon"
-excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"We were amazed by the range and depth of submissions and the sheer quality of talent on display. It also underscores the talent ..."
-publishedDateTime: 2019-12-24T09:46:00Z
-sourceUrl: https://www.moneylife.in/article/farmers-kids-win-indias-largest-ai-blockchain-hackathon/58981.html
+title: "Farmers’ kids win India’s largest AI, Blockchain hackathon"
+excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. “We were amazed by the range and depth ..."
+publishedDateTime: 2019-12-24T14:33:00Z
+sourceUrl: https://www.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP.html
+ampUrl: https://m.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP_amp.html
+cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP_amp.html
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 69
+published: true
 
 provider:
-  name: Moneylife
-  domain: moneylife.in
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.71D789837F670A3C2C8F0A41B8C600C0
+  - url: https://www.bing.com/th?id=ON.AA2934010CD097B899217A016CC6C78A
     width: 700
-    height: 302
-    title: "Farmers' kids win India's largest AI, Blockchain hackathon"
+    height: 393
+    title: "Farmers’ kids win India’s largest AI, Blockchain hackathon"
 
 related:
   - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
@@ -37,20 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.8015649BF09EA12B4CCB5926DF5207B2
         width: 400
         height: 225
-  - title: "Christmas Lectures presenter Dr Hannah Fry on pigeons, AI and the awesome power of maths"
-    excerpt: "Dr Hannah Fry is the presenter of this year's Royal Institution Christmas Lectures series ‘Secret & Lies - The Hidden Power of Maths’ (Photo: Paul Wilkinson) Driverless cars, robot butlers and reusable rockets – if the big inventions of the past decade and the artificial intelligence developed to create them have taught us anything ..."
-    publishedDateTime: 2019-12-23T17:19:00Z
-    sourceUrl: https://inews.co.uk/news/science/christmas-lectures-dr-hannah-fry-pigeons-ai-maths-1348852
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.323CDEAC5978CAEC3F37AF76F6E92CDD
-        width: 700
-        height: 367
 
-secured: "B5eheNWcQ3wpLnHAJ2RGPuBQy11WidsiE6IJJQ5WUPcSCnpL3zQBN+RfAMQc9LMGRarRbPpuCyn7xdvJMQ0IOyV3FLNFkos+cYWUyxX1knOeEmIIvrypYd0JjEiVGcssH1jWABzLQ98DA2q3qTQ7WsgVLQySOCh1nfCirSw6o31BwfzhSOJNg8DUZalGyTx+3uTlMzUu6dRhl1IskQSUOPq7YTw6jWaB/flL8WHkf2t0VihfpfTvAKniAnrC/kkEkRflY7WR3HC4NRD00T46lA==;nHxEIoudbGxMcxMBdVyIDQ=="
+secured: "iFrcp4GCcCb8gtNRpghHLkFSX86vMMLYrzUJoX3PFQMKzEHoh0yVrYDF48f156l2t0uuSmDOBvUZd6qZwdZym0n8292Q7U+rbgazydMx71ilMHgQvlZcbCZzpjBoiAhGR8NUC5QD8YZ+HjhIiRyeb+zuQbBxg6qzMhEJX4nD2hxPmVtopD1OVbdCqrtmrE7Lq5QIbPjxpc/4+sn91FtFX02PHk5/MTKUPzDw8govNSRpxDhxx4AACO4rwc8Src54bdJkvvrAMSwzkeBxo6jxkg==;FtjpLIK7BpxkiLJlnKh7lg=="
 ---
 

@@ -347,6 +347,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology, lift tools from the ground, recognize the boundaries of a farm, and can be operated remotely ..."
+    publishedDateTime: 2019-12-02T12:15:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
+    ampUrl: https://amp.benzinga.com/amp/content/14911193
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
     excerpt: "The global artificial intelligence (AI) in construction market is expected to grow by USD 1.13 billion during 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
     publishedDateTime: 2019-12-11T17:14:00Z
@@ -373,15 +384,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CE487D7226F561728E206E9A2AED3F18
         width: 700
         height: 365
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    publishedDateTime: 2019-12-02T13:15:00Z
-    sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 13
   - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
     excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
     publishedDateTime: 2019-12-09T11:45:00Z

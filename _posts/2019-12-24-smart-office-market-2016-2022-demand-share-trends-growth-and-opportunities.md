@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-24T09:31:00Z
 sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -28,97 +28,28 @@ images:
     title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
 
 related:
-  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
-    publishedDateTime: 2019-12-23T20:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
+  - title: "Continuing Economic Growth and Opportunity"
+    excerpt: "That makes the current role of the state’s universities and colleges even more crucial – and heightens the significance of Louisville’s partnership with Microsoft to establish a cluster for artificial intelligence and big data used ... Entrepreneurial Development, occupational therapy and other health care programs. We are actively ..."
+    publishedDateTime: 2019-12-20T18:44:00Z
+    sourceUrl: https://www.lanereport.com/120134/2019/12/continuing-economic-growth-and-opportunity/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
+      name: Lane Report
+      domain: lanereport.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
-    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
-    publishedDateTime: 2019-12-17T07:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
+      - url: https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2019/12/20124600/Amazon-Prime-Air.jpg
+        width: 800
+        height: 543
+  - title: "Artificial Intelligence Service Market 2019 Size, Share, Growth, Trends, Demand, Manufacturer Analysis and Region with CARG"
+    excerpt: "Verticals in the AI as a service market include Banking, Financial Services, and Insurance (BFSI), healthcare and life sciences ... and gross margin Artificial Intelligence Service by regions like North America, Europe, Japan, China and other countries."
+    publishedDateTime: 2019-12-17T13:26:00Z
+    sourceUrl: https://www.openpr.com/news/1880317/artificial-intelligence-service-market-2019-size-share
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
-    publishedDateTime: 2019-12-21T03:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
-    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-to-witness-a-healthy-growth-during-2017-2027-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-    publishedDateTime: 2019-12-23T05:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-    publishedDateTime: 2019-12-21T09:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
-    publishedDateTime: 2019-12-17T17:44:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
-        width: 700
-        height: 365
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "pU3ZIHf96rZUcdN+8k7qp1L7c83bNhnYkjabwFoiwmfVWOqjxLhmoIVbdWkw+5RdH3nuZxOh0VVQ2qcaFpkrHConiDSod5u+AoVvPg5xBzdbuf/w2T2XPu4y7lBC/RzG4j6AfBm8c6zaPNK2Faju4bTDVwb/9tFTyOVA6xkKiCXBHZi5EtlFDB9/FDyBYZ7bMnTO1lJqJjtCmm+/OqZQSBvPzf0I/OLQTwcVGNEpmlsBK5BF0UtFh0T/gRav/PIWC7Qx6rUqaUia0rQGpnT8Og==;YowHqswpd4vexA/SgCGYww=="
 ---

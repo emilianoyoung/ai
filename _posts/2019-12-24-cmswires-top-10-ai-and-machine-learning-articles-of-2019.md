@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machin
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machine-learning-articles-of-2019/amp/
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     title: "CMSWire's Top 10 AI and Machine Learning Articles of 2019"
 
 related:
+  - title: "Top Articles of 2019: Artificial Intelligence"
+    excerpt: "In September 2019, Stephanie Neil, Automation World’s Senior Editor, reported on how Siemens is using neural networks in its controller programs to enable controllers to recognize complex patters, much like the human brain. By bringing this technology into the company’s S7-1500 controller and ET 200MP I/O system with the release of the S7 ..."
+    publishedDateTime: 2019-12-24T14:06:00Z
+    sourceUrl: https://www.automationworld.com/factory/iiot/article/21107558/top-articles-of-2019-artificial-intelligence
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
+        width: 500
+        height: 375
   - title: "Top 10 artificial intelligence stories of 2019"
     excerpt: "According to Gartner’s 2019 CIO Agenda survey, organisations that have deployed artificial intelligence (AI) grew from 4% to 14% between 2018 and 2019. Organisations are looking to take advantage of smart speakers such as Alexa and Google Home to provide another channel to market, and are rolling out chatbots as an alternative to call centre ..."
     publishedDateTime: 2019-12-19T11:49:00Z

@@ -34,6 +34,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CB3195B5D98AF6FC92B4F60F937935CC
         width: 640
         height: 480
+  - title: "Top Articles of 2019: Artificial Intelligence"
+    excerpt: "In September 2019, Stephanie Neil, Automation World’s Senior Editor, reported on how Siemens is using neural networks in its controller programs to enable controllers to recognize complex patters, much like the human brain. By bringing this technology into the company’s S7-1500 controller and ET 200MP I/O system with the release of the S7 ..."
+    publishedDateTime: 2019-12-24T14:06:00Z
+    sourceUrl: https://www.automationworld.com/factory/iiot/article/21107558/top-articles-of-2019-artificial-intelligence
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
+        width: 500
+        height: 375
 
 secured: "w+Twh4PXPiAcILRgV014t1TdlhgE+Mu8M9RA1CLpInGZNM3RipC9loHuFxqjf+2JcZqH+TRbF65X2ZL3SlMFRrbmAdGp5hGDtKZs9QpxO5woCKFFgQI9EV4+rg8swxUYxDVllRkErV8q7pIJ+tb6V6p34pvlRBqip5vwwNbgXfv+il69pzdod7zMCNiJ/4gwQ8QbBKwQ4xIsAPJ0rBmsrfHR1HmelShRTGq2+DdFyawwjfSf3Y+UIzXT+M4uo3bEHLluJ3YkbWIgZ3sScOvKvg==;mSp2VID4aydF9xlpcqh3Tg=="
 ---

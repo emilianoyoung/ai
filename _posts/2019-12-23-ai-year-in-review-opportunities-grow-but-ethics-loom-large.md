@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/ai-year-in-review-opportunities-grow-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/ai-year-in-review-opportunities-grow-but-ethics-loom-large/amp/
 type: article
 quality: 112
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       - url: https://insights.globalspec.com/images/assets/194/13194/Whisky1.png
         width: 713
         height: 425
+  - title: "Year in Review: Cloud Security"
+    excerpt: "AWS and Google have both introduced network traffic mirroring in their respective cloud platforms, with Microsoft Azure soon to follow. Lack of visibility has been one ... Along with the pivot towards better detection and response (particularly via tools with advanced machine learning capabilities that will detect more than just known-bad ..."
+    publishedDateTime: 2019-12-18T12:59:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/blogs/year-review-cloud-security/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 4
 
 secured: "iEqmCTVwSuCL7H5Xk2jtL3uDX55T6xhedlX2nmee1v2X+j/vWmzXyZKUySHJBqo7u1a/q3JvuVYkIgsHxR4UmF9wlFyto9Qfg6oe7jq3uVI+xnHBZhIXBXmRRI7ljcfTGUmo5CzlNBXUkUzDT9iHX0yurJmryKvBQmstWtmAvRQ2tH5lvfrijGm9rmruwPhUUIV6qj5MKZMLGQUWovCFdQwxl1risLK4GZCepBBtXWy/JH3JSoTczKMCI/H9NkTjptFHyeLqslBAuvTDDiivSw==;7QNa4YFoXf5I6wIxbFipkA=="
 ---

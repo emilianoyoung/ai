@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/aws-reinvent-2019-postmortem-in
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-reinvent-2019-postmortem-introducing-cassandra-and-bringing-ml-to-aurora/
 type: article
 quality: 67
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -23,21 +23,6 @@ topics:
   - AI
   - AWS AI
   - Microsoft AI
-
-related:
-  - title: "5 Ways Machine Learning Is Leading to Smarter Manufacturing"
-    excerpt: "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and overall production speed, AI – with the help of the Industrial Internet of Things – is ..."
-    publishedDateTime: 2019-12-04T15:03:00Z
-    sourceUrl: https://www.business.com/articles/machine-learning-and-manufacturing/
-    type: article
-    provider:
-      name: Business.com
-      domain: business.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.AECC42FCED6EB1A44F43EE080F9A2206
-        width: 700
-        height: 466
 
 secured: "MZO3V286huPgmDgjU1W6SIjQR3U9xQqGK4Wwjrl8mZiTmPUoX6RH1UD4ABgUnaxe2graU6LxKhx2g/cxNgbUctVjSMdUEcS8IQLfSc9m+hWIXT6JDtYlx+o85Mi6YYlyVcQek4M6NoG5hWrMobkpReciCrXMgs96JldrQTvhI3VDAYXmpBUknCtAOa3JUaN/xFKsl+oQls8B9WXKjXgRKwZg3JgGZgI4LvXBBhM5EBfd9Q5FWGvGyVyTXbIZ8Wy2cvZWX3GQHKceJqk/mYMSDg==;qUBvA6376QokCLDTdKW6NA=="
 ---

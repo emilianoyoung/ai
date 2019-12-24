@@ -24,23 +24,10 @@ images:
     title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
 
 related:
-  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
-    publishedDateTime: 2019-12-23T20:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
-    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
-    publishedDateTime: 2019-12-17T07:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
+  - title: "Global AI Governance Market Analysis, Drivers & Constraints Up to 2028"
+    excerpt: "Report Highlights: Key Topics Covered: 1 Market Outline 1.1 Research Methodology 1.1.1 Research Approach & Sources 1.2 ... SAS Institute 8.4 SAP 8.5 Salesforce.Com 8.6 Pymetrics 8.7 Microsoft 8.8 Integrate.AI 8.9 H2O.AI 8.10 Google 8.11 Fico 8.12 Facebook 8.13 AWS 8.14 2021.AI For more information about this report visit https ..."
+    publishedDateTime: 2019-12-18T15:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-ai-governance-market-analysis-drivers-constraints-up-to-2028-2019-12-18
     type: article
     provider:
       name: MarketWatch
@@ -50,67 +37,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
-    publishedDateTime: 2019-12-21T03:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
+  - title: "AI Governance Market Business Overview, Financial Details, Strategies and Forecast - 2024"
+    excerpt: "Market Key Players IBM, FICO, AWS, Google, SAP, Facebook, ZestFinance, Salesforce.com, Microsoft, 2021.AI, SAS Institute, integrate.ai ... This version of the AIF360 Python suite includes nine distinct algorithms created by the wider research community on fairness to mitigate this unwanted bias. This product launch helps the company to attract ..."
+    publishedDateTime: 2019-12-23T09:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-governance-market-business-overview-financial-details-strategies-and-forecast---2024-2019-12-18
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
-    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-to-witness-a-healthy-growth-during-2017-2027-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
-    publishedDateTime: 2019-12-24T09:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-    publishedDateTime: 2019-12-23T05:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-    publishedDateTime: 2019-12-21T09:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+    quality: 62
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
