@@ -59,6 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
         width: 620
         height: 350
+  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
+    excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
+    publishedDateTime: 2019-12-23T16:33:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12-1028782819
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.779759E614A8501F92FE415FD74EFD0A
+        width: 700
+        height: 350
 
 secured: "zAyi/a8kNCJgqub6FWWgg0/OOTcVJUlxNsTuble/PObbYER/kd/uGPlXBNg19zbMfx4xc7uET43Xbyex0A/Hom2RuoIH9+Q8/jPRFjHgQXy1ZZWg6q/Nr+AZAbcj26Kk0L9xcI2Kr+CI3eBSse/dq5ctyWDiPCWB7ZMYgFjZjypE+wEJKj2Zp64mkO53oloeg+zxnq2SEwYQBO86hVk+Fq2ZhW9WgCmfN3SnbL/Mfld/Yd2mhcIjmmfQzEuPM735w8QBLijdDvfIhMfpRTil2w==;EruCm1g6oomYE02Hwc3bXA=="
 ---

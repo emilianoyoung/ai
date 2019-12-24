@@ -50,19 +50,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Key Opportunities and Challenges in Artificial Intelligence in Healthcare Market"
-    excerpt: "Media Contact Company Name: MarketsandMarkets Contact Person: Mr. Shelly Singh Email: Send Email Phone: 1-888-600-6441 Address:630 Dundee Road Suite 430 City: Northbrook State: IL Country: United States Website: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-healthcare-market-54679303.html COMTEX ..."
-    publishedDateTime: 2019-12-04T17:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/key-opportunities-and-challenges-in-artificial-intelligence-in-healthcare-market-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Education Market Analysis and Professional Outlook 2019 to 2025"
     excerpt: "The Global Artificial Intelligence (AI) In Education market report follows SWOT (Strengths, Weaknesses, Opportunities, and Threats) Analysis with expected of 38.5% CAGR values during forecast period. The major manufacturers covered in this report: Google, IBM, Pearson, Microsoft, AWS, Nuance, Cognizant, Metacog, Quantum Adaptive Learning ..."
     publishedDateTime: 2019-12-05T17:20:00Z
@@ -355,6 +342,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "yyLnzd1ighOzzsYpM5QmflwfNEdz5XxEHF7+cuxEO4WnlI00ElBB/87+uQEzO8sc3N7DFWYjDOvkTApF0XNw6xO967bdla7pqv4esymzVuPFzmtPYH4nYnsryyVUZmuY+bEAPmS/eWgUrGr6t7hz3mbOpGHSg8ta+irrNq/KFWDwVuyoRjYbmOn+7NeEjSj1GY8c478/lp+UJJqhOJrllXZmfjnsEeOML5SjAob18uL3FCSxq1YMO+oDzVTl4vl6jgKkSsinnZFXhzWVPVyWRA==;9LeRE3YnXzAurEvBxSiP6A=="
+secured: "k2alAhWrpgYIlhr77yixq5S3GOu//K73S2BCOsVGoufLbQq7NqEfsNwc3zFE0YCB8z9Hrd9Uuy0xGnF8WWJmP+Eak628rdg8kCGkVUBFdbyz2AhUFVvkLprKC10Ue3UVGjOfGTe65Co6BWKfJtrV3T90Pc8KlHAZpppr5AuK3rHZ6wvBk0aFg3CAOiFdiDdF2JsIJIOuz/ikpyvBV6bUHXUU9AeiIr4+5lRv7x2IvHvDfm3LAPyAELN4xtHGPrh5a+XpV41GlBDV/WPv0YMorg==;lfbsIkKmezIkM6YUWOI71g=="
 ---
 

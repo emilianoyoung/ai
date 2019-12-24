@@ -1,30 +1,26 @@
 ---
 category: news
-title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
-excerpt: "QINGDAO, China/BEIJING — China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday. \"We should not deify artificial intelligence as it could go wrong just like any ..."
-publishedDateTime: 2019-12-22T06:30:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/12/22/business/22reuters-china-economy-artificial-intelligence.html
+title: "China should step up regulation of artificial intelligence in finance, think tank says"
+excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
+publishedDateTime: 2019-12-22T07:00:00Z
+sourceUrl: https://www.msn.com/en-us/money/markets/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says/ar-BBYeHL6
 type: article
-quality: 59
-heat: 69
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Reuters on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
+  - url: https://www.bing.com/th?id=ON.FDBB539EFE4BD3D0D8BFB9A9CC286BFB
+    width: 700
+    height: 367
+    title: "China should step up regulation of artificial intelligence in finance, think tank says"
 
 related:
   - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
@@ -42,7 +38,53 @@ related:
       - url: https://www.bing.com/th?id=ON.97331B7269776F2B2C73CE8D888D034D
         width: 457
         height: 305
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading ..."
+    publishedDateTime: 2019-12-23T11:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
+    ampUrl: https://markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
+  - title: "EC expert group issues call to action on fintech regulation"
+    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
+    publishedDateTime: 2019-12-18T00:38:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
+        width: 480
+        height: 270
+  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
+    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
+    publishedDateTime: 2019-12-24T00:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
-secured: "tNryiRwqs/1YUEfV8kWffvEw6m+SbiJ0ltDLEj6O5z1RoWafrJXfFs/Br0zPCf2HJkU5D9XIaeRjIa44OI5hqP8KvV8Ub08XepPuXN1SrAnfa8qqDICp2X0mXJYoatfWZ72kOYjjEYjZHAUBV/U+Zxb2NY91oEKr2h/OfPb0yojuTqZ2d6dk8ziMyaEfLM9rtGSCoIc3E4CNH9Etcx4iSssTFvyTj5HoVWF/+hsQNYYLmR1m7YwTDT9ZIhJRU7BCwjg/kr5fXFYVLjjUYvfWng==;10LRkXnTcTnFQ+vWYUbBvA=="
+secured: "lZirHPnEP30bLIxDTXZ1uKvueKjC3wJ7PYoQ9Xtldt5J5ufvAHn2FebnyXDrFMnkRd4JxOSeUOeAPhDMZ0sNY3EJ0jHoH6G62yQWIgPVmQmuhCPdu+R1Gpm6Jv+i9SMZLofh+TKwDShivxtDIquZoAzynwTJ/w3/ZffBkuPgTL/cmWsmwrK3YcRBC+V/vaW8DzDkRdn8FpZCYNWyxbtEu19d5UPcE8SzxvR5XhgL8MIwzkHUnZKwVYZTz/dInVJM4BQ8MY2wtk+IlCzt8xvcUg==;tg6XCmM4K89oirurzSJY1g=="
 ---
 

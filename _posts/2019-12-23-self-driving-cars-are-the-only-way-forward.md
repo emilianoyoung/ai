@@ -318,6 +318,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
+  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
+    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
+    publishedDateTime: 2019-12-24T18:44:00Z
+    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
+        width: 700
+        height: 350
   - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
     excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
     publishedDateTime: 2019-12-23T22:33:00Z

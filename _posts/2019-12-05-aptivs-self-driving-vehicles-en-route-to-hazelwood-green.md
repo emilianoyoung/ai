@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T08:55:00Z
 sourceUrl: https://www.autoblog.com/press-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green_21394/
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -18,19 +18,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Aptiv's Self-Driving Vehicles en Route to Hazelwood Green"
-    excerpt: "\"What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world's development of technology that will power self-driving vehicles. We're proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current standing as ..."
-    publishedDateTime: 2019-12-04T18:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green-300969351.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.971EE35C16032F75D3CBAA279737A992
-        width: 700
-        height: 367
   - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
     excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
     publishedDateTime: 2019-12-09T19:40:00Z

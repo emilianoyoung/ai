@@ -59,21 +59,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/paige-2.jpg?fit=1200%2C629&amp;strip=all
         width: 1200
         height: 629
-  - title: "Augtera raises $4 million for AI-driven network management"
-    excerpt: "Augtera today announced that it raised $4 million for its operation that takes data from datacenter networks to create AI systems for management and optimization. The money will be used to grow Augtera’s engineering and research and development teams and accelerate product adoption. Augtera uses network domain knowledge and semantics ..."
-    publishedDateTime: 2019-12-04T17:25:00Z
-    sourceUrl: https://venturebeat.com/2019/12/04/augtera-raises-4-million-for-ai-driven-network-management/
-    ampUrl: https://venturebeat.com/2019/12/04/augtera-raises-4-million-for-ai-driven-network-management/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/04/augtera-raises-4-million-for-ai-driven-network-management/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.B72A687FE54AC4386A38B1317D6512AB
-        width: 700
-        height: 350
   - title: "AI Analytics in Adtech: 3 Competitive Advantages of Proactive Incident Management"
     excerpt: "Many still use dashboards and static alerts, even when that leaves detection to chance. The adtech industry, along with eCommerce, fintech, telecom and gaming, are increasingly moving away from traditional monitoring to AI/ML for autonomous business monitoring. What used to take an analyst hours or even days to notice, only takes minutes for ..."
     publishedDateTime: 2019-12-06T13:50:00Z

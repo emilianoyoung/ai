@@ -54,21 +54,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/paige-2.jpg?fit=1200%2C629&amp;strip=all
         width: 1200
         height: 629
-  - title: "Augtera raises $4 million for AI-driven network management"
-    excerpt: "Augtera today announced that it raised $4 million for its operation that takes data from datacenter networks to create AI systems for management and optimization. The money will be used to grow Augtera’s engineering and research and development teams and accelerate product adoption. Augtera uses network domain knowledge and semantics ..."
-    publishedDateTime: 2019-12-04T17:25:00Z
-    sourceUrl: https://venturebeat.com/2019/12/04/augtera-raises-4-million-for-ai-driven-network-management/
-    ampUrl: https://venturebeat.com/2019/12/04/augtera-raises-4-million-for-ai-driven-network-management/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/04/augtera-raises-4-million-for-ai-driven-network-management/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.B72A687FE54AC4386A38B1317D6512AB
-        width: 700
-        height: 350
   - title: "LeanDNA raises $15 million for AI factory inventory and delivery management software"
     excerpt: "LeanDNA’s solutions suite automatically prioritizes messages in visual dashboards, allowing top actions to be identified swiftly by AI. It makes an effort to incorporate stakeholders from every level and business unit into a single source of truth, in part by assigning tasks for proactive inventory optimization while automatically responding ..."
     publishedDateTime: 2019-12-11T14:00:00Z

@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
         width: 700
         height: 259
+  - title: "How AI-powered bots could drive the conversation on pending federal regs"
+    excerpt: "Machine learning tools can generating nearly infinite variations of fake speech at scale. Using a natural language processing framework developed by OpenAI, a bot program and a proxy server, Weiss turned his experiment towards a public comment website on Medicaid.gov dealing with a proposed waiver for Idaho residents, where it spit out more ..."
+    publishedDateTime: 2019-12-24T18:06:00Z
+    sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx?admgarea=TC_Management
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
+        width: 700
+        height: 338
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z

@@ -91,19 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC7E3C028C7D6130B10CD10E53D0F435
         width: 700
         height: 437
-  - title: "Amperity Achieves Amazon AWS Retail Competency Status and Joins the AWS Partner Network Global Startup Program"
-    excerpt: "The AWS Retail Competency highlights top AWS Partner solutions that have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning artificial intelligence (AI) / machine learning (ML), Voice Recognition, Customer Engagement, and Retail Transformation. Amperity was awarded this ..."
-    publishedDateTime: 2019-12-04T17:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/amperity-achieves-amazon-aws-retail-competency-status-and-joins-the-aws-partner-network-global-startup-program-300969078.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.7F5E2F5A5D688081D79A0DA4EF91B4E6
-        width: 700
-        height: 365
   - title: "CleverTap Achieves AWS Retail Competency Status"
     excerpt: "CleverTap, a provider of artificial intelligence-powered customer lifecycle and user retention platforms, has achieved Amazon Web Services (AWS) Retail Competency status for technical proficiency and proven customer success across numerous solutions in the Customer Engagement category of the AWS Retail Competency that help marketing leaders ..."
     publishedDateTime: 2019-12-05T17:06:00Z

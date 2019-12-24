@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-in
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -25,20 +25,16 @@ topics:
 
 related:
   - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-    publishedDateTime: 2019-11-27T14:48:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-    ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
-    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-27T14:37:00Z
+    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
+    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
   - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
     excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
     publishedDateTime: 2019-11-27T17:56:00Z
@@ -53,6 +49,6 @@ related:
         width: 860
         height: 484
 
-secured: "H0ot6bBjueBMM0Hf5YJdpCWMnlQQY1l0FgNDVG0O3oHDX4jIiTPpXueb9cb3mt8aE3MTf9WM2+kNZ6wFVLLYe8Bh5JyVWHs1hHdz4K8XSFAWkt6r5lY45zzMKcnnGzijkRCZ1uiMrixEMWJGdibXMb7sIlnBPYpTjdGHxJdjD2b9ZwedpjNX1e7Z9bQ3/Gmv5tQlxWOK9vIITHXIBfNhoiumVs7DHPT8A+6ch+0RogRiLrpB1hCCeHSMhwCjLjdwxWOn1F+8tHDvGenWLr5erQ==;Yg8FAV6tlPBbSK8soqREiA=="
+secured: "zI7iRIOxL9QAMHI9asy4NKjQvITb4guu7C5K1fHxcRnv1hkQ9aA23m9FN04D148CF/yH1j0aPsVoX4cetr8sVmH0B+PL8UuIieXFqnBMR7/k0qnOfLqN3ASqNVHRluBTi0KRlgCsC2gSUmldbpNKp7ofUDXLAFOEAxBOFBn+V607QhnLZ2+60HvKLVzfXrvESjJeFQCFxNhENeVbnH1w5cj084wuQNiwh9byALCIxWN7mFGZFbK93fmVtI4RfGM6UDFt/bPcWAjCaMa3fxcuhQ==;3flLTFFwQXCJcLNUANEchA=="
 ---
 

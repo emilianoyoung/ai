@@ -309,6 +309,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
+  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
+    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
+    publishedDateTime: 2019-12-24T18:44:00Z
+    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
+        width: 700
+        height: 350
   - title: "Self driving cars are the only way forward."
     excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
     publishedDateTime: 2019-12-23T09:26:00Z

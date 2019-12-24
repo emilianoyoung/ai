@@ -24,18 +24,18 @@ images:
 
 related:
   - title: "AWS Cloud: Making businesses work better"
-    excerpt: "developers can quickly spin up apps that run at AWS scale, performance and security. Our customers have 2,500 integration apps at their disposal and we see about 200 million app invocations a month.\" Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). \"We have leveraged ..."
-    publishedDateTime: 2019-12-15T23:07:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/aws-cloud-making-businesses-better-225735250.html
-    ampUrl: https://in.finance.yahoo.com/amphtml/news/aws-cloud-making-businesses-better-225735250.html
-    cdnAmpUrl: https://in-finance-yahoo-com.cdn.ampproject.org/c/s/in.finance.yahoo.com/amphtml/news/aws-cloud-making-businesses-better-225735250.html
+    excerpt: "developers can quickly spin up apps that run at AWS scale, performance and security. Our customers have 2,500 integration apps at their disposal and we see about 200 million app invocations a month.” Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). “We have leveraged ..."
+    publishedDateTime: 2019-12-15T23:00:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/
+    ampUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.C3F4383E05AF103E22BD5160C9B4DED1
+      - url: https://www.bing.com/th?id=ON.26A47844F34C03C9CB6928A18EF7EAD3
         width: 660
         height: 440
 

@@ -179,19 +179,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
         width: 600
         height: 390
-  - title: "Trump Administration Wants Facial Recognition in Airports—For American Citizens"
-    excerpt: "The Department of Homeland Security is proposing a rule that would allow the government to use facial recognition data to identify everyone traveling to and from the country, including U.S. citizens. Non-citizens traveling through U.S. airports have been required to get their fingerprints scanned and have their picture taken since the mid ..."
-    publishedDateTime: 2019-12-04T17:27:00Z
-    sourceUrl: https://nationalinterest.org/blog/buzz/trump-administration-wants-facial-recognition-airports—-american-citizens-101962
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.AFE0719154568A160BC596697E0B140B
-        width: 700
-        height: 466
   - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
     excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
     publishedDateTime: 2019-12-11T20:44:00Z
@@ -363,15 +350,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1D37F73B7AC7DE95A59FE43A68D8F10E
         width: 647
         height: 340
-  - title: "Portland's facial recognition ban could be the strictest yet"
-    excerpt: "As Portland, Oregon and other cities ban facial recognition technology, Mutale Nkonde warns of companies using biometric data. “The capturing and encoding of our biometric data is going to probably be the new frontier in creating value for companies in terms of AI,” says Mutale Nkonde"
-    publishedDateTime: 2019-12-04T17:17:00Z
-    sourceUrl: https://cyber.harvard.edu/story/2019-12/portlands-facial-recognition-ban-could-be-strictest-yet
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
   - title: "Homeland Security is walking back its plans to use facial recognition on US citizens traveling internationally"
     excerpt: "The announcement reverses a proposal the agency made last week that would have mandated all US citizens have their faces scanned in airports."
     publishedDateTime: 2019-12-06T17:53:00Z

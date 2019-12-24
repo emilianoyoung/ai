@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D0A6410D50EDD5DDD459DF3A0C70C7D7
         width: 700
         height: 515
-  - title: "Siemens Unveils AI Apps for Automatic MRI Image Segmentation"
-    excerpt: "Siemens Healthineers is releasing a couple of AI-driven and cloud-based software applications, one for the brain and one for the prostate, that automate a great deal of the manual tasks that radiologists have to perform. Both of the applications can be used with data coming from any MRI machine, so can be deployed by just about any facility ..."
-    publishedDateTime: 2019-12-04T17:26:00Z
-    sourceUrl: https://www.medgadget.com/2019/12/siemens-unveils-ai-apps-for-automatic-mri-image-segmentation.html
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8701809E3473B645462B1FDE2FB39952
-        width: 700
-        height: 546
   - title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
     excerpt: "The tools in the flow support the company’s Intelligent System Design ™ strategy, enabling advanced-node system-on-chip (SoC) design excellence for AI and HPC applications. About Cadence Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play."
     publishedDateTime: 2019-12-10T06:04:00Z

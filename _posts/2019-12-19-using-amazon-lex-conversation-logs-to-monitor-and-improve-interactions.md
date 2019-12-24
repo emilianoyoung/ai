@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
         width: 700
         height: 259
+  - title: "How AI-powered bots could drive the conversation on pending federal regs"
+    excerpt: "Machine learning tools can generating nearly infinite variations of fake speech at scale. Using a natural language processing framework developed by OpenAI, a bot program and a proxy server, Weiss turned his experiment towards a public comment website on Medicaid.gov dealing with a proposed waiver for Idaho residents, where it spit out more ..."
+    publishedDateTime: 2019-12-24T18:06:00Z
+    sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx?admgarea=TC_Management
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
+        width: 700
+        height: 338
   - title: "After eBay improved its translation software, international commerce increased sharply"
     excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
     publishedDateTime: 2019-12-23T13:13:00Z

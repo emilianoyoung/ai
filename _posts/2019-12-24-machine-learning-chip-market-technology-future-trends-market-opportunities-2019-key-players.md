@@ -18,10 +18,88 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
-    publishedDateTime: 2019-12-24T09:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
+  - title: "Machine Learning Market to Gain Impetus as Demand for Smarter Devices Rises"
+    excerpt: "PUNE, India, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- PUNE, India, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Market Highlights The elevated emphasis on AI is creating several opportunities for the progress of the machine learning market. Reports that convey interpretations into the information and communication technology industry has been offered ..."
+    publishedDateTime: 2019-12-23T11:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
+    excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
+    publishedDateTime: 2019-12-23T17:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-expert-guide-to-boost-the-industry-in-global-market-by-2024-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning System Market is Booming Worldwide with CAGR of 40.79%"
+    excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global Deep Learning System Marketstudy with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. Deep Learning System Market explores effective study on varied sections of Industry like ..."
+    publishedDateTime: 2019-12-17T20:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-system-market-is-booming-worldwide-with-cagr-of-4079-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Drivers, Restraints, Market Demands And Forecast"
+    excerpt: "Dec 20, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-20T05:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-drivers-restraints-market-demands-and-forecast-2019-12-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
+    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
+    publishedDateTime: 2019-12-21T03:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning Chipsets Market Segmentation, Application, Technology and Analysis Research Report 2025"
+    excerpt: "Global Deep Learning Chipsets Market Professional Survey Report 2019 studies the latest industry trends, market development aspects, market gains, and industry scenarios during the forecast period. The report provides the details related to fundamental overview, development status, latest advancements, market dominance, and market dynamics."
+    publishedDateTime: 2019-12-23T09:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-segmentation-application-technology-and-analysis-research-report-2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Marketing Market Scope, Growth Overview and Development Forecast 2019 to 2025"
+    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Marketing Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2025 Artificial Intelligence in Marketing Market report contains a forecast of the next 5 years, starting 2019 and ending 2025 with a host of metrics like supply-demand ratio, Artificial ..."
+    publishedDateTime: 2019-12-17T10:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-scope-growth-overview-and-development-forecast-2019-to-2025-2019-12-17
     type: article
     provider:
       name: MarketWatch
@@ -31,28 +109,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Continuing Economic Growth and Opportunity"
-    excerpt: "That makes the current role of the state’s universities and colleges even more crucial – and heightens the significance of Louisville’s partnership with Microsoft to establish a cluster for artificial intelligence and big data used ... Entrepreneurial Development, occupational therapy and other health care programs. We are actively ..."
-    publishedDateTime: 2019-12-20T18:44:00Z
-    sourceUrl: https://www.lanereport.com/120134/2019/12/continuing-economic-growth-and-opportunity/
+  - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
+    excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
+    publishedDateTime: 2019-12-17T09:58:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
     type: article
     provider:
-      name: Lane Report
-      domain: lanereport.com
-    quality: 24
-    images:
-      - url: https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2019/12/20124600/Amazon-Prime-Air.jpg
-        width: 800
-        height: 543
-  - title: "Artificial Intelligence Service Market 2019 Size, Share, Growth, Trends, Demand, Manufacturer Analysis and Region with CARG"
-    excerpt: "Verticals in the AI as a service market include Banking, Financial Services, and Insurance (BFSI), healthcare and life sciences ... and gross margin Artificial Intelligence Service by regions like North America, Europe, Japan, China and other countries."
-    publishedDateTime: 2019-12-17T13:26:00Z
-    sourceUrl: https://www.openpr.com/news/1880317/artificial-intelligence-service-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: ARN
+      domain: arnnet.com.au
+    quality: 20
 
 secured: "T6djFAgOnzEIKZ4daT2R9aFSbozU1Y9GEUPCFXSA+C/DIciFsBcNyZbCjzl2Tgn6z2qDjIdUUxZeKMmxPY6sK7vdyE9hd8jk1CHVbiCXAQ5MoVnDnHixIB4CkjvW/Mb+iM5C4V44AgWslFujk6TmeUW+Tc0xJqu+oZSn9BCqAeyULNq+hhtmOY+/RB245DDBs2jZ86afPceGvJYyB+QSN3U4/gU1/dW0w6u39R38LQbwNNeqLEIoyBv0y9tODYkK29DTxKkDLW9M9qpuQhFDdA==;Ni7EwEx0qwkf+V12DjnKcw=="
 ---

@@ -142,19 +142,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F23670FFDD276C9E6243F0884672CFCC
         width: 700
         height: 394
-  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
-    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
-    publishedDateTime: 2019-12-23T17:36:00Z
-    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
-        width: 700
-        height: 350
   - title: "General Motors pushes for self-driving car tests sans steering wheel"
     excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
     publishedDateTime: 2019-12-23T18:40:02Z
