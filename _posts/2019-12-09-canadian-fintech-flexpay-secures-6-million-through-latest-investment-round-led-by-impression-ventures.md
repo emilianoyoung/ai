@@ -54,6 +54,15 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
+  - title: "South Korea invests in fintech unicorn"
+    excerpt: "“(The government) will actively adopt policies to scale up and advance the fintech ecosystem both quantitatively and qualitatively ... Korea’s big data market has expanded 70% since 2016 and its AI tech sales by 90%. In April this year, the nation became a global pioneer in commercialising 5G network services. Investments in new ventures ..."
+    publishedDateTime: 2019-12-09T00:16:00Z
+    sourceUrl: https://www.thestar.com.my/business/business-news/2019/12/09/south-korea-invests-in-fintech-unicorn
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 4
 
 secured: "QjT95+ielyAjUM+73EyA+4rJeH4QZnNasgN0uDN4BAOKQ+1NJNnVde28FaAFhx1NNfqTIaE8zebq6g1FgiiWfLYYq5WqORloZLxJTzS5rL2+2dXzmN2Y0wqwKeP+A8SXY0J/5/7HioF2AW8uf9px8Ka2A8QkOEPwVuzz4egmSy0af2cNZirgaMHNkHK3w1BVstff5Nlr7P2O1NOfIyjBPzdE+w1RAGlEZsqQ/6hxkScBKRjbCkDhhEBIatR/wa6hy0Rrbzt0kEMiHisIx2NL0Q==;q+vE23mmCK+FB6OW0vCwmQ=="
 ---

@@ -201,6 +201,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
         width: 600
         height: 315
+  - title: "Federal study finds racial bias of many facial-recognition systems"
+    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
+    publishedDateTime: 2019-12-24T16:06:00Z
+    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
+        width: 700
+        height: 465
   - title: "It’s hard to ban facial recognition tech in the iPhone era"
     excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
     publishedDateTime: 2019-12-23T17:22:00Z

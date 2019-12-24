@@ -7,7 +7,7 @@ sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-16000
 ampUrl: https://finance.yahoo.com/amphtml/news/h2o-ai-inducted-highly-selective-160000219.html
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/h2o-ai-inducted-highly-selective-160000219.html
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939

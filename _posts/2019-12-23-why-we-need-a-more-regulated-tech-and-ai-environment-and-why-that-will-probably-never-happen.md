@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/why-we-need
 ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/why-we-need-a-more-regulated-tech-and-ai-environment-and-why-that-will-probably-never-happen/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/23/why-we-need-a-more-regulated-tech-and-ai-environment-and-why-that-will-probably-never-happen/amp/
 type: article
-quality: 75
-heat: 85
+quality: 77
+heat: 87
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.A5DCC65DD6241C7931057955A00D8627

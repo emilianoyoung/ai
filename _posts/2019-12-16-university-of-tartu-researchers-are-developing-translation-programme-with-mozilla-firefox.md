@@ -67,15 +67,6 @@ related:
       - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
         width: 672
         height: 475
-  - title: "Compensation: Lost In Translation"
-    excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
-    publishedDateTime: 2019-12-20T22:05:00Z
-    sourceUrl: https://www.industryweek.com/leadership/companies-executives/article/21953642/compensation-lost-in-translation
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
 
 secured: "CZVSWd32HPafaKdwWr+yzzAsNtboR14qdKB+EXEvf9YEBguFnw0LZ6ai02DXAP4YBMUbI3fNR0qdPG64Y4R4Ppa8K6KRvMd8I/AxqMFJ4KTEiNNrvcI1nCx1cE80sm4AKpcENxWtSVyyIYmee+EBecJkrYKByOsHFAYP7gMxAj9LgvxMtMwBT3w4jrAa8nJE7ATWEvD/RToMoqKajWufcKCHBgY/RgQ/bKzr1yPM2H7/ync5DMLyMedBLwg5s3TrM76UpPkfv8ULcvO7VB25HQ==;StX3B1em48svWBv5RYavAg=="
 ---

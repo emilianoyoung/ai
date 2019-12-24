@@ -28,19 +28,6 @@ images:
     title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
 
 related:
-  - title: "Is Professional Translation Service Necessary?"
-    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
-    publishedDateTime: 2019-12-18T17:59:00Z
-    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 24
-    images:
-      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
-        width: 711
-        height: 310
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z

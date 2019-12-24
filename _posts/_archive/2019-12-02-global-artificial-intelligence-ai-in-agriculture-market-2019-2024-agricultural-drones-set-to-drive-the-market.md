@@ -341,19 +341,6 @@ related:
       - url: https://www.bing.com/th?id=ON.56383493308BD7368369A82BCCD2A169
         width: 480
         height: 270
-  - title: "The Global AI Market in Call Center Applications - Growth, Trends, and Forecasts (2019-2024) - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"AI Market in Call Center Applications - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. The Global AI Market in Call Center Applications is anticipated to witness a CAGR of 25.8% over the forecast period 2019-2024. AI technology has gained widespread ..."
-    publishedDateTime: 2019-12-04T15:14:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191204005686/en/Global-AI-Market-Call-Center-Applications--
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.CE487D7226F561728E206E9A2AED3F18
-        width: 700
-        height: 365
   - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
     excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
     publishedDateTime: 2019-12-09T11:45:00Z
@@ -364,6 +351,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "KlSzZQ88hfJM5rv1yshhjQZjCSF/cYx0MTyu5N2vu72+oHS3iXnLcFnXStTp0+hBm8ozdjkzm6xqSBrzlMBObg1oW1lFtO0VlQQZP28YHMLkQ0rkyg8GSjPaQs7Z6BzeH8hnnat8Gd1xdypvgDbpQTql/jpn3ZWYVJ+jFdTt98arhmmZzfPYsLNwisRPFDqzSEA3TE0GPj6RcXT6s/A2TdRK3KoD2w+ghX9K0MXBxeJnShHAOAQa8J38MwqfkEN27eJp3f3ZW42jsjcg+v5Evg==;l/Oz/lnxHSdaBA22jsHw0A=="
+secured: "JqylUoF2G62k1u+yzisTqNewRbMDB/OVW/dJys2UqFOtgW4r6M7m/dh4sKOGREy1+kGmlDuUHK8evlaoWKp7/Fwj2aKZ3hpXQ7bTkjIr9QHZ9A3iB+q30fc5HMPzLFgIfSYUB+Vn7U2lnGLNtzGMu7OOVJCUzMAiP9HxfSoUoG/JuhI+ndhLG58WwBrISJT9SDOtWAKeMdcgo4cI4mpk0qbRkRsAtojqwznWQkURsby87yCt75ll/ZiE6mImLmb1cCYtB6BHZYmxBP8Jvu2ITg==;2JxrET9nqLyNPe0kerwqMQ=="
 ---
 

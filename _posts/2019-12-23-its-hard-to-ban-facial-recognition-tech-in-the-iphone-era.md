@@ -208,6 +208,19 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
         width: 1200
         height: 630
+  - title: "Federal study finds racial bias of many facial-recognition systems"
+    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
+    publishedDateTime: 2019-12-24T16:06:00Z
+    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
+        width: 700
+        height: 465
 
 secured: "vcpEjwVnNJ3N5X6MavkOnt7PQRC48EsG9haIfV86o8iPOlDDSERFCuXJ3pw1BiK54C0+cipXaQvnqVKsRxE9V82/KF6j8xrJ6toBVDifiRZemUnUaNdF8p5DoCanvS0zV79CsISM7FSd1jMUYsnzbPoKCQ4HsWCrbOaQW6OoBni/UKk1ApYTe4Jz+8DpnowqMT/MDScqv35Yf7CJZbpSTLDQrdTMO4KO0oeaXU7siz8M92H03eDnU+YxlttkVIPDf93XgbVhlLyghKHtwKJTBA==;5Uqdmh+bcG+p6RKZ1A32CA=="
 ---

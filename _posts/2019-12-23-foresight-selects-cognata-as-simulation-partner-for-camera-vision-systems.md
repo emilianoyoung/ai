@@ -19,6 +19,21 @@ topics:
   - AI
   - Computer Vision
 
+related:
+  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
+    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
+    publishedDateTime: 2019-12-24T00:40:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems/article_0521f10e-d3f3-52e8-8b5f-d6556f5ea209.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
+
 secured: "TIH8bs3oLru+PbzFqwUZTYDFBYK6dHMXTM7beC+9IJxoY3vCfpylzi1Hwm01wAEWVbR8nymTp4kH2X4Ff8bYZBc49m1b4j7S54prLuNVbtjn9jYIFcYZA5yLvztVMESipYN36NPFSm+T8XPUkHkXrMa/uRkaSN/yTruTdggJmg3vumQQRZBD7YsnH9Ac3J/vJwFx6dmHFLiV7haqJRbGZ9abZoXaac2gOpf5K3PqO4biRemnk1q3GOrZLvjgjOuujLXxICuUMNqLL0qipZdhkg==;l/x4tIdLVE6VsYt9INBIqg=="
 ---
 

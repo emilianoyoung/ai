@@ -39,36 +39,6 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72358468,imgsize-232067,width-800,height-434,overlay-etcio/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
         width: 800
         height: 434
-  - title: "Google’s Sundar Pichai has been named CEO of Alphabet"
-    excerpt: "This is despite being founded in 2015, 17 years later than Google. The umbrella company owns Google along with several other businesses, including AI research company DeepMind, self-driving tech company, Waymo and drone delivery company, Wing. I’m excited about Alphabet’s long term focus on tackling big challenges through technology."
-    publishedDateTime: 2019-12-04T15:49:00Z
-    sourceUrl: https://www.trustedreviews.com/news/sundar-pichai-named-as-the-new-ceo-of-google-parent-company-alphabet-3961838
-    ampUrl: https://www.trustedreviews.com/news/sundar-pichai-named-as-the-new-ceo-of-google-parent-company-alphabet-3961838/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/sundar-pichai-named-as-the-new-ceo-of-google-parent-company-alphabet-3961838/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F1CD04791F855E6E2934607C73867D4C
-        width: 700
-        height: 442
-  - title: "UPDATE 3-Google co-founders step aside as Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to ... self-driving car technology business Waymo and health care software company Verily, emerged ..."
-    publishedDateTime: 2019-12-04T15:23:00Z
-    sourceUrl: https://finance.yahoo.com/news/1-google-chief-pichai-takes-220013979.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/1-google-chief-pichai-takes-220013979.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-google-chief-pichai-takes-220013979.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 55
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/WpRxhr4QN29YpJmd0fKtlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/UwF2ko48.kqBj2NEjFogtA--~B/aD0zMDcwO3c9NDYwNTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-09/00f88080-d595-11e9-bff5-eb7264b1768a
-        width: 1279
-        height: 853
   - title: "Google Could Dominate Self-Driving Cars. New Alphabet CEO Sundar Pichai Could Make It Happen."
     excerpt: "The Wedbush team estimates Alphabet is spending nearly $1 billion a year on its self-driving fleet and technology, well ahead of Uber from a research and development perspective. The Wedbush team notes that most of Waymo’s contribution to autonomous ride-share vehicles comes from a partnership with Lyft. Last year the company launched its own ..."
     publishedDateTime: 2019-12-09T16:37:00Z
@@ -85,6 +55,6 @@ related:
         width: 700
         height: 350
 
-secured: "dm/j4VE1qCPKoBo+hYY4I1WbQ/PtHI8KRkUmjNvE/a/sW8FAC031LbGeZLxCXJ6yDKmozfdqVZi0lE2uden+sMlZOrG4Z7dykKnqIz5t5bDQJjLF1OftntKiN+xEg6N9JtbQag8Dk2ePhQB5dIlpmNrt4vq/m7oiZbT7T7t+MidDVPsxf9U+MDHBh2MdxuAgN5d4/ROFq4RKZNdzxOqn2IvOjATEP6X388vqMGpsQt5w+7/8XfHYVd0MFteVJmzCviBowc4PZRL7H3YUMorpzA==;MftVY/TEjeZWmMP4ojwr6A=="
+secured: "97+RmGA+CSXhDtOBqLaOA6n7Vf+vLQzWyxU+scqsbwAROmsf+P1UVglBrfr+Q21+1FKb08JFxy9n33YYqxGGWLjWGRCcb46hO9WFCnlIxzXjJoq5aznfzoNf8yQ5mCwq7s3baWcxh/VHxXIBJeYEGtnziw615JkJMVx3lhA2ay9fQPUDbujxfqeGdcn+PdDxtpm23pbHUJAtwmED+cffYN08eyFqKf9zrbzdsgU3TvkFEK4n7GbC0fA0Ou/x6W6k456Wj+LGt9OsUGybbRYnMg==;bUPdYpCF+ORYB6KseeFLtw=="
 ---
 

@@ -77,6 +77,19 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
+  - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
+    excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
+    publishedDateTime: 2019-12-24T15:18:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/td-ameritrade-institutional-innovation-director-on-artificial-intelligence-voice-tech-2019-12-1028783981
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9F530980463CA01C2AD7F3BD7567CA79
+        width: 700
+        height: 350
   - title: "H1 Continues Momentum With Record Customer Growth and Expansion of Healthcare Machine Learning Analytics Platforms"
     excerpt: "H1, a New York-based healthcare data-driven solutions provider, today announced continued momentum and record customer growth and expansion of its global healthcare analytics platforms. The company has grown to an impressive customer base with more than 35 pharma clients, with record revenue growth by 350% in the last year. “4 out of the top ..."
     publishedDateTime: 2019-12-16T13:07:00Z

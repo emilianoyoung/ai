@@ -18,62 +18,47 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
-    excerpt: "who identifies himself as a doctoral student of machine learning at the University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app would draw associations between the flag ..."
-    publishedDateTime: 2019-12-17T07:55:00Z
-    sourceUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/
-    ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
+  - title: "Jarvisen Translator Review: A translator for serious travel"
+    excerpt: "However, it’s not so much the hardware, but rather the software that will really determine how far it goes. Language translation, especially when there’s some element of machine learning involved, needs constant refinement. So far, it looks like Jarvisen is serious about improving on what it has here, and that’s good news. The company ..."
+    publishedDateTime: 2019-12-24T15:45:00Z
+    sourceUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/
+    ampUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 68
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
+      - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
-        height: 395
-  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
-    excerpt: "who identifies himself as a doctoral student of machine learning at Canada’s University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app could be drawing associations between the ..."
-    publishedDateTime: 2019-12-18T18:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/wechat-had-translation-glitch-canadian-075537126.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
+        height: 366
+  - title: "Is Professional Translation Service Necessary?"
+    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
+    publishedDateTime: 2019-12-18T17:59:00Z
+    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
-        width: 620
-        height: 350
-  - title: "University of Tartu developing translation programme with Mozilla Firefox"
-    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
+      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
+        width: 711
+        height: 310
+  - title: "Tilde’s AI-Powered EU Presidency Translator has provided more than 1.4 million translations for the EU Council Presidencies"
+    excerpt: "Finland's presidency of the Council of the EU has set new records using customised machine translation developed by the language technology company Tilde. In less than six months, Finland’s Presidency has used Presidency Translator more than 600 thousand times, translating over 12 million words. Tilde has already supported six Presidencies of ..."
+    publishedDateTime: 2019-12-18T11:32:00Z
+    sourceUrl: https://www.baltictimes.com/tilde_s_ai-powered_eu_presidency_translator_has_provided_more_than_1_4_million_translations_for_the_eu_council_presidencies/
     type: article
     provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 23
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 13
     images:
-      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
-        width: 672
-        height: 475
-  - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
-    excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
-    publishedDateTime: 2019-12-16T14:41:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/erc-uot121619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
-        width: 700
-        height: 493
+      - url: https://www.baltictimes.com/media/photos/146888_15356388205dfa082d396cb_big.jpg
+        width: 855
+        height: 570
 
 secured: "vcA3x8vdBBCz2F020fI4d6lVS2F8yMwry1JsQiMNQjUtJBDzNl1bLGesl2mOzF1ztRxM+FjeGAKFJuE/bpArD5uzhOFz6qSfIJ0PB39lEe7cHokRGbZqbKr/T3e8OVk02FgpkHy2d0/pxu+R4rxWDq35N88gBlKDnW7nGF7n87jwjTEhoNE4LhH2amd2CkUJmyIC7Yu+WhhTeNPjrfCCypqY8k5KrUlxdRNAQbqS1pGowiIJo67WGouNwVtbp/JNI28xzwiOU+Ges5xUZ4y8Fg==;+ohUNHkzjwP3ec4y9KwkCQ=="
 ---

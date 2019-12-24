@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6852875905E4632CF5B495ADE3C6E8CD
         width: 360
         height: 240
+  - title: "How to Cash in on Conversational AI"
+    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
+    publishedDateTime: 2019-12-24T16:19:00Z
+    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
+        width: 700
+        height: 259
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z

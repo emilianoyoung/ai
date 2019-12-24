@@ -26,19 +26,19 @@ images:
     title: "Slalom and AWS Announce Launch Centers to Help Enterprises Accelerate Business Transformation and Modernize IT Services"
 
 related:
-  - title: "AWS announces new Arm CPU, and dedicated inference chip"
-    excerpt: "AWS has announced the new Graviton2, a CPU based on Arm's Neoverse cores, and the Inferentia, a dedicated inference chip to help its customers run their AI applications. Unlike rivals Intel and AMD, Arm does not sell its own chips - it licenses out core designs, which other companies build upon, adding elements like memory, storage and PCIe ..."
-    publishedDateTime: 2019-12-04T15:42:00Z
-    sourceUrl: https://www.datacenterdynamics.com/news/aws-announces-new-arm-cpu-and-dedicated-inference-chip/
+  - title: "AWS, Novaritis Partner to Digitize Business Operations; Bertrand Bodson Quoted"
+    excerpt: "AWS boasts over 150 services for computation, security, application development and artificial intelligence (AI) among other things developed over the past 13 years in 69 Availability Zones and 22 geographic regions with plans for further expansions to Indonesia, Italy, South Africa and Spain. Bertrand Bodson, chief digital officer at Novaritis ..."
+    publishedDateTime: 2019-12-04T21:32:00Z
+    sourceUrl: https://www.executivegov.com/2019/12/aws-novaritis-partner-to-digitize-business-operations-bertrand-bodson-quoted-2/
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.BC1168E841646D80DF3B601B93DBFE85
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.FDD9145A5E3534EF433E128487FBF695
+        width: 272
+        height: 270
 
 secured: "KsE0vXKPztJErlB0CuO6Kq8n5xj/fUvPBSxUhqlrIhd5U2gszogEZzoWcsON7EM0b0NEwOGoNzesE355IzsHvdR+Cgo4ez5UHY7Vw9YG5K00PLe8ti3IFaqw/bhByAmToMY9cerXQgpDYR+MUgk3JUD75y1Zrs/rbpyHPbksZPnc3f5gtrhzVBjtQX5Dk+6ifkJsk+XDXdIebrDVwO+bI1Mejb2UjYXvo7igDYZFxxFPtF3GrefIU0A/alCEDGpwNfqcD8Nua8XoUF7fuhsLww==;XqbmcAYgM+ebPlOkYFuOMg=="
 ---

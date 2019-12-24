@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6852875905E4632CF5B495ADE3C6E8CD
         width: 360
         height: 240
+  - title: "How to Cash in on Conversational AI"
+    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
+    publishedDateTime: 2019-12-24T16:19:00Z
+    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
+        width: 700
+        height: 259
   - title: "After eBay improved its translation software, international commerce increased sharply"
     excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
     publishedDateTime: 2019-12-23T13:13:00Z

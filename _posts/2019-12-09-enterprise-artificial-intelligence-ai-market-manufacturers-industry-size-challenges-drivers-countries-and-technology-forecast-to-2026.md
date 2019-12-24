@@ -350,19 +350,6 @@ related:
       - url: https://www.bing.com/th?id=ON.56383493308BD7368369A82BCCD2A169
         width: 480
         height: 270
-  - title: "The Global AI Market in Call Center Applications - Growth, Trends, and Forecasts (2019-2024) - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"AI Market in Call Center Applications - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. The Global AI Market in Call Center Applications is anticipated to witness a CAGR of 25.8% over the forecast period 2019-2024. AI technology has gained widespread ..."
-    publishedDateTime: 2019-12-04T15:14:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191204005686/en/Global-AI-Market-Call-Center-Applications--
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.CE487D7226F561728E206E9A2AED3F18
-        width: 700
-        height: 365
 
 secured: "Z9iEpTWfJICr3G2JtfXZivvzebFqanGsOVEnE0pN44QA/pBZS5O0qp63dE1xQHQAygDrvZav7gTlzoXmTztwCvq0MuB4wBH8Wn099HXzdBvJUCR1cTpFZWEDgclEfsmzQgOyfRwnlB/CTI8pJgdgMSHjrN4enYnY5nxkoaoB5bpQSg1t1lQCxLHt2bzyQVp/LL9aLgMXBvmFklEPnF9K8V52D2I4SSzQWOs5VHThtin1RTCJjLlafvBhNTf1WFOpxCLtaJzWsop/YjY02UGQFQ==;WcxZ/tuw9Rj97zYw4iiXQA=="
 ---

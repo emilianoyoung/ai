@@ -18,34 +18,49 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Can Investing in Artificial Intelligence Increase Starbucks Sales?"
-    excerpt: "It's done this with the clear objective of using all available innovations to push boundaries outward, and it's using artificial intelligence to break open new channels in sales. Former CEO Howard Schultz, who led Starbucks to its current success, left the company in the hands of current CEO Kevin Johnson in April 2017. Johnson comes from a ..."
-    publishedDateTime: 2019-12-04T15:30:00Z
-    sourceUrl: https://www.nasdaq.com/articles/can-investing-in-artificial-intelligence-increase-starbucks-sales-2019-12-04
+  - title: "UAE's BECO Capital, Global Ventures invest in Silicon Valley fintech firm"
+    excerpt: "Using a proprietary AI-driven approval process and blockchain technology, the Silicon Valley-based fintech provides start-ups with instant access to credit and complete control over their spending. Tribal Credit's backers include Endure Capital, 500 Startups, Valve VC, AR Ventures, Off The Grid Ventures, Rising Tide Fund, RiseUp, and Tribe Capital."
+    publishedDateTime: 2019-12-08T05:24:00Z
+    sourceUrl: https://www.zawya.com/uae/en/wealth/story/UAEs_BECO_Capital_Global_Ventures_invest_in_Silicon_Valley_fintech_firm-ZAWYA20191208050826/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20191208050826/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20191208050826/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: Zawya
+      domain: zawya.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.C55D2EC2910E6C61A8893FF671211C85
+      - url: https://www.bing.com/th?id=ON.195FCB1E8419C39DC91942C3AB87864A
+        width: 450
+        height: 300
+  - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
+    excerpt: "MONTREAL, Dec. 9, 2019 /PRNewswire/ - FlexPay—which uses AI and machine-learning to help merchants recover lost revenues from declined transactions—is proud to announce they raised $6 million dollars, led by Impression Ventures, with participation from BMO Capital Partners, Anges Québec and strategic partners. Credit card issuers report ..."
+    publishedDateTime: 2019-12-09T11:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/montreal-fintech-flexpay-raises-6m-from-impression-ventures-and-bmo-capital-partners-300971027.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
+  - title: "Canadian Fintech FlexPay Secures $6 Million Through Latest Investment Round Led By Impression Ventures"
+    excerpt: "FlexPay, a Canada-based fintech that uses AI and machine learning to help merchants recover lost revenues from declined transactions, announced on Monday it secured $6 million through its latest investment round, which was led by Impression Ventures with ..."
+    publishedDateTime: 2019-12-09T12:25:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2019/12/154967-__trashed-2/
+    ampUrl: https://www.crowdfundinsider.com/2019/12/154967-__trashed-2/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/154967-__trashed-2/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.7EF66A649519D722BD11F849F858CDD9
         width: 700
-        height: 473
-  - title: "Can Artificial Intelligence Increase Our Morality?"
-    excerpt: "Even well-meaning AI applications have potential dark sides, she said. Algorithms aimed at putting at-risk students back on track could conceivably increase conformity. Therapy apps that give points for good behavior might make personal growth feel like a badge-harvesting grind. Social credit systems like that in China, or even more subtle ..."
-    publishedDateTime: 2019-12-09T07:38:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
-    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.0D7E8886982F40E58026CB4D19C2E645
-        width: 639
-        height: 280
+        height: 659
 
 secured: "kDdA/2Gei4FTLYvSv1IdvGijHYo/g1dTNIA463DG8RHtEuceaX3Yf3vegMDki/iqQhnjzVjLKImpzMcSvnmxUOVX6+K+8EthZVpJbyI13o9lSW8Z0+DmMQ6jrhpYu1meNFPmIa6xORmvHhELsj1LfEt5EMqKy4zcZDkoSHPm3tJ/awlmn2RNVu61sjUH5uYVp5pORP439SkxSL0ZiR+2zTnDV3W99drgdQxDL9UkqLVMZgn4z4CXCEFzE0tHJJPy21GA7TIgOaLbTnArIhRbAw==;M6jic8c72kISBMXQJXUiwA=="
 ---

@@ -33,7 +33,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 75
+    quality: 77
     images:
       - url: https://www.bing.com/th?id=ON.A5DCC65DD6241C7931057955A00D8627
         width: 600

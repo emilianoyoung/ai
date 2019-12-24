@@ -44,6 +44,15 @@ related:
       - url: https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2019/12/20124600/Amazon-Prime-Air.jpg
         width: 800
         height: 543
+  - title: "Machine Learning Chip Market :Technology, Future Trends, Market Opportunities 2019 & Key Players"
+    excerpt: "Machine learning is derived from the field of artificial intelligence (AI), which uses algorithm to find out natural patterns in data for the development of computers. This data is used to take better decisions and make predictions in applications, such as stock trading, medicals, machine load forecasting, and others. For instance, many media ..."
+    publishedDateTime: 2019-12-24T06:14:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37187/machine-learning-chip-market-technology-future/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 6
 
 secured: "HsLyhIhPFKNRyQSkjWOhyMfakakfDN82IB/MJ+eo41KNmmNMwMvloGFDuL/casN0c8NY43soxMYCOr1SOuKabAh4oBaD2dxN9snI5vYV4eaDK58Lx3pEB04gatrjx0vX7p6li2TlzYAj+GHoJ60ng0RUDP2J+C+7qX3xxEDf6UxtZKHbIqFslBJPGHVZNiGI6WQbTkLmYbREh+L2aIeutKnYpaAByya567eUzNuZQaOm3E/5hpBxq7r9kh54wUk3cratB9JLD+auBD2NAn3RAA==;7TQJk4GI5jdJfu/CFiyQ/g=="
 ---

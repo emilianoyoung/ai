@@ -70,6 +70,19 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
+  - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
+    excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
+    publishedDateTime: 2019-12-24T15:18:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/td-ameritrade-institutional-innovation-director-on-artificial-intelligence-voice-tech-2019-12-1028783981
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9F530980463CA01C2AD7F3BD7567CA79
+        width: 700
+        height: 350
   - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
     excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
     publishedDateTime: 2019-12-20T14:03:00Z

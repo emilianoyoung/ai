@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/04/mit-adept-ai-understands-physics-intuitively/
 type: article
 quality: 187
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -72,19 +72,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
         width: 700
         height: 393
-  - title: "Exploring the Present and Future Impact of Robotics and Machine Learning on the Healthcare Industry"
-    excerpt: "Robotics has already revolutionized the manufacturing industry, but it has begun to impact the healthcare industry as well. AI is already showing that it can do a lot of what humans can, only faster and cheaper. The potential benefits of machine learning and artificial intelligence are only starting to be seen, though we can make an educated ..."
-    publishedDateTime: 2019-12-04T15:05:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/04/exploring-the-present-and-future-impact-of-robotics-and-machine-learning-on-the-healthcare-industry/27173/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.B84BF006EEDFFEC951A4D8F86C919641
-        width: 700
-        height: 523
   - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
     excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
     publishedDateTime: 2019-12-10T21:24:00Z

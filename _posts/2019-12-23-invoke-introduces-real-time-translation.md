@@ -8,7 +8,7 @@ ampUrl: https://www.research-live.com/amp-page.html?id=5063282&name=invoke-intro
 cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -20,19 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Is Professional Translation Service Necessary?"
-    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
-    publishedDateTime: 2019-12-18T17:59:00Z
-    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 24
-    images:
-      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
-        width: 711
-        height: 310
   - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
     excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
     publishedDateTime: 2019-12-23T11:50:00Z

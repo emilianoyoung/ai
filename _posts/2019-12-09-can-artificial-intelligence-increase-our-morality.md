@@ -8,8 +8,8 @@ ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-in
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -25,30 +25,6 @@ images:
     width: 639
     height: 280
     title: "Can Artificial Intelligence Increase Our Morality?"
-
-related:
-  - title: "Can Investing in Artificial Intelligence Increase Starbucks Sales?"
-    excerpt: "It's done this with the clear objective of using all available innovations to push boundaries outward, and it's using artificial intelligence to break open new channels in sales. Former CEO Howard Schultz, who led Starbucks to its current success, left the company in the hands of current CEO Kevin Johnson in April 2017. Johnson comes from a ..."
-    publishedDateTime: 2019-12-04T15:30:00Z
-    sourceUrl: https://www.nasdaq.com/articles/can-investing-in-artificial-intelligence-increase-starbucks-sales-2019-12-04
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.C55D2EC2910E6C61A8893FF671211C85
-        width: 700
-        height: 473
-  - title: "South Korea invests in fintech unicorn"
-    excerpt: "“(The government) will actively adopt policies to scale up and advance the fintech ecosystem both quantitatively and qualitatively ... Korea’s big data market has expanded 70% since 2016 and its AI tech sales by 90%. In April this year, the nation became a global pioneer in commercialising 5G network services. Investments in new ventures ..."
-    publishedDateTime: 2019-12-09T00:16:00Z
-    sourceUrl: https://www.thestar.com.my/business/business-news/2019/12/09/south-korea-invests-in-fintech-unicorn
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 4
 
 secured: "vS2SiTuVNi6+YBQoYZ54iLSZs9flDsDxHeSm490UAHWPsRsi9S1SFbtR+nlvL1Sr02HH6zd2OveZVo13l4iEk7uITKK7qQY0sAZ5Tc9R0+O1TDjyOPox6CGOJ1GOGS0bEh/KSrDQupTgTgMPLJLefLwx0BtSfXu46Ks5NQugfamW3xGbeZZF9biBHCDJAyQsMePXf8EQCVrgbqPfyTQoJHBTKUXPZXPMVpL9Kp3JicFYUKA3xupIJJqPH9Nknda2ywc1r3IyGW6Jv10bjSu0+Q==;V5kZrSwrASP0eyIs5jO6JQ=="
 ---

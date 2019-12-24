@@ -28,6 +28,6 @@ images:
     height: 353
     title: "Tencent details how its MOBA-playing AI system beats 99.81% of human opponents"
 
-secured: "X8B2APF0S+dKaHbVbz3brg/Tj3wgoLaHeIw1aMJp+zQ4zdsAoZb6jrQ7xfR0lR9eFwiqNoABgdbtEyN4R3vd3ZpKYaZgLWC9Ikvj4G1ukn1HWjEq7G8BEU2Vf60evwyuxAQk8RRaQzMdN8vZ4ZnDdKPmKM2H9h2ljC5fVFgwG4Y0FX5iGSUNIo5NLFeYEUPb4IIR+JyCU8WK8LzAnMLlNkV5RpDgrpMJrMqKgxrfacdU6/hvPYyw3Ats5KDRIrX3xjiMytc3GlipK0SsHa/hsjWGPy5cbmV88XbK8nJ8uAQ=;57Sxe/ge4G5sQYpoeV/f0Q=="
+secured: "I5DEuJAms28uNB1H8aKeqbQrr2nVEPfWmvIYZfi96Tmm/83vug9AoSTIM81Y+PB6pnW/msZkC+yXRnBfZJz9hBeKDvq2/f4FuJ3O/VSJ+EpMn6/1kcBw9P6a7MXgJZfZDK9dmfQLAtByO9vFgXIkxU+2lL8KDhT7AaohyAKSVKUjCEmyKQkif6uZZsBtcpXwAHVsUQzK4HxCCbrjZuVHFXzKTJ4EmrtKI7avD9SeP57CIAZkpBxQxiZ5dSSGEDYkYfB9/H/alxsecINokRwL2mSZrLb8zcZWozUSdHeHGJc=;188BFbMJ0LJksgHxBWsO7Q=="
 ---
 
