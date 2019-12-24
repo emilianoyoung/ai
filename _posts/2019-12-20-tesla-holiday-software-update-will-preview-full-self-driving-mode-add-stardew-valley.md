@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/tesla-software-update-full-self-dri
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-software-update-full-self-drive-mode-stardew-valley/
 type: article
 quality: 97
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Tesla holiday software update will preview full-self driving mode, add Stardew Valley"
 
 related:
+  - title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
+    excerpt: "The update is quite extensive and includes critical upgrades to voice recognition, including text message reading and sending, better “driving visualization,” and a few other more minor enhancements. Perhaps most notable in this update is the improvement to the driving visualization that Tesla owners see on their displays. According to the ..."
+    publishedDateTime: 2019-12-24T00:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/
+    ampUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
+        width: 720
+        height: 376
   - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
     excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
     publishedDateTime: 2019-12-20T09:06:00Z

@@ -158,6 +158,15 @@ related:
       - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
         width: 700
         height: 466
+  - title: "It’s hard to ban facial recognition tech in the iPhone era"
+    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
+    publishedDateTime: 2019-12-23T17:22:00Z
+    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 19
 
 secured: "9jeXiii5z5M4/gLdFgFXQ/HOnjl2nYCdU1CtCUrW5P5T1Iu6jx+6lCoR4n5nGPjk/SqKCiDljCbQsYfVm2Kro8J/dXO9B6k1EwUiw2RUZyyDaS6jfxpYunrC7AnTu756ViA81sTojHWkrOKpIJr2PpYOlUKJel6m5a67/XlIEO0Wc8+9DBCugciZUlHxyte33Vb7HAZaqjbGsjSg4Vcb+aeSyKhbW5+aAF/A+b1GxjqeFfBvzaMPBnlTPnnZ+QTg7nlwLBU4uiezMkhiZlHhyw==;PFDMh3+GbVZKPHI0Xv0i1Q=="
 ---

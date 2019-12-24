@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FEFD7B5658F0BD8C6C27EC7399C96286
         width: 700
         height: 393
+  - title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
+    excerpt: "The update is quite extensive and includes critical upgrades to voice recognition, including text message reading and sending, better “driving visualization,” and a few other more minor enhancements. Perhaps most notable in this update is the improvement to the driving visualization that Tesla owners see on their displays. According to the ..."
+    publishedDateTime: 2019-12-24T00:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/
+    ampUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
+        width: 720
+        height: 376
   - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
     excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
     publishedDateTime: 2019-12-20T04:12:00Z

@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EF970114D5E2633FDE0E4039216358D4
         width: 700
         height: 525
-  - title: "AlphaSense Applauded by Frost & Sullivan for its AI-powered Search Platform that Helps Users Find Critical Information from Fragmented Data"
-    excerpt: "The platform's search, view, sort, and annotation capabilities enhance business intelligence and drive informed decision making. Through its flexible AI-based natural language processing (NLP) architecture, AlphaSense eclipses competing vendors by offering a more comprehensive, data-driven, and accurate algorithmic analysis of market landscapes."
-    publishedDateTime: 2019-12-04T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphasense-applauded-frost-sullivan-ai-140000117.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 5
-    images:
-      - url: https://www.bing.com/th?id=ON.9AD6884BF9455F59EDE9039BFD76CF85
-        width: 400
-        height: 366
   - title: "Wipro Recognized as a Leader in Artificial Intelligence Consultancies by Independent Research Firm"
     excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, has been recognized as a \"Leader\" by global research and advisory firm Forrester Research Inc. in its report, The Forrester Wave™: AI Consultancies, Q3 2019. The firm evaluated participating companies ..."
     publishedDateTime: 2019-12-12T00:05:00Z

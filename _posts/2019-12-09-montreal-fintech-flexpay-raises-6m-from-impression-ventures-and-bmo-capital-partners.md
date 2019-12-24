@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7EF66A649519D722BD11F849F858CDD9
         width: 700
         height: 659
-  - title: "Portag3 Ventures closes $320 million second fund focused on fintech investment"
-    excerpt: "Portag3's Fund II has already been making investments prior to this final closing, and has already put money into KOHO, Clark, Integrate.ai and startup-builder Diagram Ventures, along with 13 other startups. Its first fund invested in a number of fintech-related companies, including Clearbanc, Drop, League and Wealthsimple, as well as some ..."
-    publishedDateTime: 2019-12-04T00:14:00Z
-    sourceUrl: https://news.yahoo.com/portag3-ventures-closes-320-million-090038986.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.B6E0918C6C69771E13DAFCF197D7FD2A
-        width: 700
-        height: 466
 
 secured: "2nNqG7Bmvjm1ZpEuqETqR/zWwwJhx3jhlg519DCCHA4XQrUH6LqA/Je5Llpte+AA/SxR5tQxFUZM26Zbu/1cfRdeanfkArWPh6CHmA5XAds07z76u4EHgHfOE+19bU07bKncLkhaydK6lzcA0yg7QGr/D1UDH3HSEMGUEu5+IT0G8Fgt75j47UBEqO/rM7au9OpEQntx+p3YirL/fU+34AKjtY4e6S/TzYk7pe4VVW8BkS+JBjvy4tw/m4xRkqQE9RfcsGVWjCSC7ctrQw1wfw==;vLlcVlepqT21PuKR/OGp6Q=="
 ---

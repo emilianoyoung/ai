@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Massive errors found in facial recognition tech: US study"
-excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
-publishedDateTime: 2019-12-23T20:15:00Z
-sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
+title: "It’s hard to ban facial recognition tech in the iPhone era"
+excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
+publishedDateTime: 2019-12-23T17:22:00Z
+sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Daily Times
-  domain: dailytimes.com.pk
+  name: The Loop
+  domain: loopinsight.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
-    width: 700
-    height: 464
-    title: "Massive errors found in facial recognition tech: US study"
 
 related:
   - title: "Facial recognition fails on race, suggests government study"
@@ -97,6 +91,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
+    publishedDateTime: 2019-12-23T20:15:00Z
+    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
+        width: 700
+        height: 464
   - title: "Third Massachusetts Community Bans Facial Recognition Tech"
     excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
     publishedDateTime: 2019-12-23T16:21:00Z
@@ -158,16 +165,7 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
         width: 1200
         height: 630
-  - title: "It’s hard to ban facial recognition tech in the iPhone era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-23T17:22:00Z
-    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 19
 
-secured: "6o1PPchc9eTaIa2A7O80L6CspzXZmjiwcGGau2Do3k3S6JBBglGmJkZFqEsYf+hly6xl7CbvOXpmNq5Tz4ETo8pNkurchv09KYC1KdrWbVr4Sqy+9A55vZAKYiC5h16xQMKFAIW34aMbaazOvlkcZkIUdmBxzLdDO27gU3/5q7kFx1SfW4IoTMp9DC1Pt15Qc1eZp4PJXfxLbyL0MsGipGdS1utgJP2YlGlpj8HOVFK5XPCJ+++dyZfTF+hkmL5+R6TH0aj2BhjAw7Coo/oNPw==;/XWcKeeReKBXVmQ7ioEn1Q=="
+secured: "vcpEjwVnNJ3N5X6MavkOnt7PQRC48EsG9haIfV86o8iPOlDDSERFCuXJ3pw1BiK54C0+cipXaQvnqVKsRxE9V82/KF6j8xrJ6toBVDifiRZemUnUaNdF8p5DoCanvS0zV79CsISM7FSd1jMUYsnzbPoKCQ4HsWCrbOaQW6OoBni/UKk1ApYTe4Jz+8DpnowqMT/MDScqv35Yf7CJZbpSTLDQrdTMO4KO0oeaXU7siz8M92H03eDnU+YxlttkVIPDf93XgbVhlLyghKHtwKJTBA==;5Uqdmh+bcG+p6RKZ1A32CA=="
 ---
 

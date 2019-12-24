@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
-excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
-publishedDateTime: 2019-12-20T04:12:00Z
-sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
-ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
-cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
+excerpt: "The update is quite extensive and includes critical upgrades to voice recognition, including text message reading and sending, better “driving visualization,” and a few other more minor enhancements. Perhaps most notable in this update is the improvement to the driving visualization that Tesla owners see on their displays. According to the ..."
+publishedDateTime: 2019-12-24T00:01:00Z
+sourceUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/
+ampUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
+cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
 type: article
-quality: 85
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: Digital Trends
+  domain: digitaltrends.com
   images:
-    - url: /assets/images/organizations/electrek.co-50x50.jpg
+    - url: /assets/images/organizations/digitaltrends.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
+  - Natural Language Processing
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
-    width: 700
-    height: 337
-    title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
+  - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
+    width: 720
+    height: 376
+    title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
 
 related:
   - title: "Tesla holiday software update will preview full-self driving mode, add Stardew Valley"
@@ -45,21 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEFD7B5658F0BD8C6C27EC7399C96286
         width: 700
         height: 393
-  - title: "Tesla update includes full self-driving ‘preview,’ better voice recognition"
-    excerpt: "The update is quite extensive and includes critical upgrades to voice recognition, including text message reading and sending, better “driving visualization,” and a few other more minor enhancements. Perhaps most notable in this update is the improvement to the driving visualization that Tesla owners see on their displays. According to the ..."
-    publishedDateTime: 2019-12-24T00:01:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/
-    ampUrl: https://www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/tesla-holiday-2019-sotware-updae/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
-        width: 720
-        height: 376
   - title: "Elon Musk promises Tesla holiday software update with Full Self-Driving preview"
     excerpt: "Remember when your car got you nothing for Christmas? If you own a Tesla, that's all behind you. Tesla CEO Elon Musk tweeted on Friday that a \"holiday software update\" is coming for Tesla, bringing an FSD (Full Self-Driving) preview. The update will also come with two new games: Stardew Valley and Lost Backgammon, as well as a few other ..."
     publishedDateTime: 2019-12-20T09:06:00Z
@@ -75,6 +61,21 @@ related:
       - url: https://mondrian.mashable.com/2019%252F12%252F20%252F12%252F1c0a887a9e2747f68c71386dd77d9ae8.dbd35.jpg%252F1200x630.jpg?signature=QlWeXGtn4lnpV4HbssIk-ipOnlo=
         width: 1200
         height: 630
+  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
+    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
+    publishedDateTime: 2019-12-20T04:12:00Z
+    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
+    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
+        width: 700
+        height: 337
   - title: "Musk: Holiday Tesla Preview Adds 'Starview Valley,' Self-Driving Preview"
     excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
     publishedDateTime: 2019-12-20T15:30:00Z
@@ -148,6 +149,6 @@ related:
       domain: yahoo.com
     quality: 19
 
-secured: "bMTPX50toGbS1/c+DfyueqUsQi+7BPEX21d9uYlDrrOekgys3IahsOeXvwWdrrFqliqsdspY1WWyJWcWok4zjEpBWDaMu1DEYC13UX6yge8GaM9CXNTobuwknewiPoovyjbcxevAhTbe9M0I1AsMq3pkMJGf4h4SJMDIC3ejjIHebGvo9gXiJu9+I4f2ge7EAzoEQ68rzcOp7B2sAjZZKZ0QIlJvmBeOM6lUUK31qiB1+zMN3chJSo18KL6EptNyuEW1xXe1nsbYEc8sBf+tHA==;jTsx6xZYswkrWFS+GKAW/Q=="
+secured: "Ozsx2NyoMvB0NOcbvhfGYRyOh5vxMMqKmIgmPqpc7/fsDQsWNHB6VqkEvUmT47uxpt7IyYVhggmYZOY+vSjbpDPpueNt6SpUjnQ9x/+Mhh23dHp5nO/er8BPb2R5nH9L0QOnnL9/VGIcGJP4gzWXIfvb/vzixq1rPOxNKFA2x3Oqbwo0rRlad7DB2i0qdDYvZZT7LpEVQXekEyD+k/qzW91Q8WlBebfHewn9kW4gvlgC6pnLW+PFmHQmMeeVJtJZUQNELwCxHT9NpK/ATHEDtg==;uFYRG72NH20WbLjUTCBk6g=="
 ---
 

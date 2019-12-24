@@ -99,19 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9F65351E0EF217F2BAFBBD661A5845E6
         width: 700
         height: 365
-  - title: "AlphaSense Applauded by Frost & Sullivan for its AI-powered Search Platform that Helps Users Find Critical Information from Fragmented Data"
-    excerpt: "The platform's search, view, sort, and annotation capabilities enhance business intelligence and drive informed decision making. Through its flexible AI-based natural language processing (NLP) architecture, AlphaSense eclipses competing vendors by offering a more comprehensive, data-driven, and accurate algorithmic analysis of market landscapes."
-    publishedDateTime: 2019-12-04T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphasense-applauded-frost-sullivan-ai-140000117.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 5
-    images:
-      - url: https://www.bing.com/th?id=ON.9AD6884BF9455F59EDE9039BFD76CF85
-        width: 400
-        height: 366
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
     excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
     publishedDateTime: 2019-12-17T00:09:00Z

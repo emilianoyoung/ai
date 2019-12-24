@@ -258,19 +258,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "Homeland Security Looking to Use Facial Recognition on U.S. Citizens"
-    excerpt: "The Department of Homeland Security is now looking to use facial recognition technology on U.S. citizens, a practice that was previously only used for non-citizens traveling into the country. According to CNN Business, DHS recently filed a proposed regulation change that would allow them to use the technology on all people coming in and leaving ..."
-    publishedDateTime: 2019-12-04T00:18:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/homeland-security-looking-facial-recognition-161009523.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D3133A1918FE2317D601DB417DCDE298
-        width: 700
-        height: 393
   - title: "Plan to expand facial recognition to U.S. travelers hits hurdle"
     excerpt: "from expanding its use of facial recognition at airports and border checkpoints to include American travelers. The DHS Biometric program has come under fire from lawmakers of both parties — one opponent includes Senator Mike Lee, a Republican. Lee and Markey have repeatedly called on DHS to stop expanding the technology, and privacy experts ..."
     publishedDateTime: 2019-12-04T04:20:00Z

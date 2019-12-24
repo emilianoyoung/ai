@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
         width: 1200
         height: 630
+  - title: "It’s hard to ban facial recognition tech in the iPhone era"
+    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
+    publishedDateTime: 2019-12-23T17:22:00Z
+    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 19
 
 secured: "1SgP9aoHLARlZ0MSTbVIcmLxgiEXNVKPJTDPrGlYjecZvbjPRL+NgSIVZLo99SjRgArg8qadP5YkpAeTr+t37Z9JdNTKnjTyQodTDTdhr1VQOB7ssI34O2Vl2ALdAmeYSRoDGptg63x8YUCoFHE8ti2t2Fd3jN/XHhMhoTPWucJK2wyrBc1UbQ8GM1lVl3ANM+NzjaSssrPPY/cUYs5rApPs9/q3mqKKUR2pMXdJEJVEn5n499AkOUyVux+CAcMN67HIm+99nFLZ7/dfkRLhyA==;PNCsAT2oy/fDtH9a5EZ3zw=="
 ---

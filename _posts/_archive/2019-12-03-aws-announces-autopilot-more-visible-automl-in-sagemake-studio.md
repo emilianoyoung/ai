@@ -18,35 +18,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you have no idea how it was built. The idea behind AutoPilot is to give you ..."
-    publishedDateTime: 2019-12-04T00:04:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/aws-autopilot-gives-more-visible-182248355.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/aws-autopilot-gives-more-visible-182248355.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/aws-autopilot-gives-more-visible-182248355.html
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center market by selling $250,000 Outpost racks. This project is being overseen by Amazon Sr."
+    publishedDateTime: 2019-12-04T02:22:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.DDC9EF7008D60C30B37ACD5B30C15632
+      - url: https://www.bing.com/th?id=ON.09130902963B03403B5903EBE0A7231C
         width: 700
         height: 466
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
-    publishedDateTime: 2019-12-03T18:32:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
-    type: article
-    provider:
-      name: Yahoo!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/MknsZUlRq2xaH3TP4dgusQ--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/ef5a5bb68cabab3175f847953724cf58
-        width: 5184
-        height: 3456
 
-secured: "6YvU82cKLXpxALIr9ws8WBD3vsbWafiu2DNe1O/ky3dHsz+Jkje2zNLFg/ceeLsCf5GOzNJSwTXY2VXcIGgYNYU3oIQLc7nops/o7XdYJPJq5Ug0xTiQJnfOXSXI84h5xku4tfiZpmLHQlmlW7ov+d9pe9rmpEENksRubPoaSvw6HSyuvUE+qTinYuancXTGijm4uO38jXGxiKI2+1SAkDA+9c/TE/Rq7fTlE6hydr6S0s0iVzRsBe8HG6pqJnmYYX8XgapmyJ3+iqavDYndSQ==;7P5wNnwU9flu1sjdwNl50w=="
+secured: "2UG7aBTZRyUGnRdExG7AivxPfVArX/EXscgj0pBhogIklBS5PA0Mhzj7h25nCcLlNJa14woACHk2J2eQI6jIi3UPNu/I6ZfdGfcgKzu6BUN+GiplaC813LOX1sDHbt/9bahMSI1YSr3tsO9OE5is9arK0XSKw/AIniL4jiJ7IaftfueDPcwauuNUWR7NTSaRq14NLlAO2pfkh+P3maljLHKHU2IoD5gKoQQjT19rBnx2ZdtyZz7vwOBgJBEI52xoWFIUxQLmL60vxl45g1NL/Q==;Gt+iVpbU8nrpz8SlFMUj5w=="
 ---
 

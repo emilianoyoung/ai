@@ -82,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
         width: 700
         height: 393
-  - title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
-    excerpt: "Machine-learning models are like pancakes; the first one is usually crummy. In fact, if they fed on models, developers might drop shirt sizes before they got one to the table. Speeding up iterations and cutting guesswork as well as cost can expedite an algorithm’s trip to piping hot, accurate insights. ML doesn’t just sit there — it works ..."
-    publishedDateTime: 2019-12-04T00:53:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/aws-revs-machine-learning-train-custom-silicon-new-sagemaker-goodies-reinvent/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
-        width: 700
-        height: 466
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
     publishedDateTime: 2019-12-03T18:23:00Z
@@ -106,19 +93,6 @@ related:
     quality: 54
     images:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
-        width: 700
-        height: 525
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-    publishedDateTime: 2019-12-04T00:14:00Z
-    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.52955C3AB42254C636E380E50047BF5A
         width: 700
         height: 525
   - title: "AWS ramps up SageMaker tools at Re:Invent"

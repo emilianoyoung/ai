@@ -24,36 +24,21 @@ images:
     title: "China Demands Facial Recognition From Mobile Chip Purchasers"
 
 related:
-  - title: "China’s subways embrace facial recognition payment systems despite rising privacy concerns"
-    excerpt: "Cities across China have been trialing face recognition payment systems for their subway networks. Now Zhengzhou, the capital of northeast Henan province, has become the first to roll out the technology on a wide scale. Starting Tuesday, local commuters can board and exit any of Zhengzhou’s subway ... the South China Morning Post."
-    publishedDateTime: 2019-12-04T00:07:00Z
-    sourceUrl: https://sg.news.yahoo.com/china-subways-embrace-facial-recognition-094126798.html
-    ampUrl: https://sg.news.yahoo.com/amphtml/china-subways-embrace-facial-recognition-094126798.html
-    cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/china-subways-embrace-facial-recognition-094126798.html
+  - title: "Highlights: Setting guidelines for facial recognition and law enforcement"
+    excerpt: "Today, facial recognition technologies significantly augment the government’s ability to monitor or surveil individuals, prompting unique constitutional and ethical questions. On Dec. 5, Senators Chris Coons (D-DE) and Mike Lee (R-UT) joined Brookings scholars Darrell West and Nicol Turner-Lee to discuss how Congress and law enforcement ..."
+    publishedDateTime: 2019-12-09T17:38:00Z
+    sourceUrl: https://www.brookings.edu/blog/techtank/2019/12/09/highlights-setting-guidelines-for-facial-recognition-and-law-enforcement/
+    ampUrl: https://www.brookings.edu/blog/techtank/2019/12/09/highlights-setting-guidelines-for-facial-recognition-and-law-enforcement/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2019/12/09/highlights-setting-guidelines-for-facial-recognition-and-law-enforcement/amp/
     type: article
     provider:
-      name: Yahoo News Singapore
-      domain: yahoo.com
-    quality: 132
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.93041C4C97769E483112B54459D84BB5
+      - url: https://www.bing.com/th?id=ON.DF68BB8A55867B0995C272856E1E6AA6
         width: 700
-        height: 393
-  - title: "DHS renews facial recognition plans"
-    excerpt: "The Department of Homeland Security recently updated its proposal to include U.S. citizens in facial recognition databases when entering or leaving the country. Where it stands: U.S. citizens can opt-out of having their picture processed at airports to verify their identity, per Customs and Border Protection (CBP) policy. Yes, but: ACLU senior ..."
-    publishedDateTime: 2019-12-04T01:37:00Z
-    sourceUrl: https://www.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    ampUrl: https://amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5FF77E851C02CA7A459DFEB99AB7B086
-        width: 700
-        height: 393
+        height: 504
   - title: "China's move on face-recognition standards"
     excerpt: "Chinese tech companies have ramped up efforts to set technical standards for facial recognition, raising concerns among business competitors, political observers and humanitarian advocates. Why it matters: China has long made a systematic effort to set international standards on data and hardware compatibility across brands so that the ..."
     publishedDateTime: 2019-12-05T17:08:00Z
@@ -69,34 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.22C30B1D3B90076B616338056377DA81
         width: 700
         height: 393
-  - title: "Portland, the largest city in Oregon, plans to propose first facial recognition ban affecting private companies"
-    excerpt: "The city of Portland, Oregon, is considering a unique ban on facial recognition software that could limit how private companies use it. Current bans on facial recognition technology, such as ones in San Francisco and Oakland, California, only affect city agencies such as police departments. If the Portland City Council passes the pending ..."
-    publishedDateTime: 2019-12-04T02:49:00Z
-    sourceUrl: https://www.jsonline.com/story/tech/2019/12/03/facial-recognition-portland-oregon-ban/2601966001/
-    ampUrl: https://amp.jsonline.com/amp/2601966001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2601966001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.84D3711EA8921BA32321B374A33F71F9
-        width: 700
-        height: 367
-  - title: "Prediction #2: Adversaries to Generate Deepfakes to Bypass Facial Recognition"
-    excerpt: "Computer-based facial recognition, in its earliest forms, has been around since the mid-1960s. While dramatic changes have since taken place, the underlying concept remains: it provides a means for a computer to identify or verify a face. There are many use cases for the technology, most related to authentication and to answer a single question ..."
-    publishedDateTime: 2019-12-05T05:21:00Z
-    sourceUrl: https://www.cso.com.au/article/669444/prediction-2-adversaries-generate-deepfakes-bypass-facial-recognition/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.69DF3E457A7DE56452B0F23505F4161E
-        width: 700
-        height: 540
 
 secured: "7SgdS4ileDdH4lZTv/7rwWaHOX7pFUmLDflPQQjTzVDf1FmwxciR6jvHP7daswcN95jpoLWSjEgSjFnRfUcAkj47JYOk2cnq8q+RpWpbiYZYC2CBDPclO8uvJgP+gYKq8znxoyW3Zn+YZlmWWnNLNTJbbyUDHE/qAtwmvIOR3wAHScuK87iSEXS1yXOApxqGJPV49eIV1UAdBl8iBvnRWwJNe7jhYLSo0dMzDHfuXa5lCTFmo2OeLZy2EOWyPBJ5nu4nYwIi5ZgmLvwO1f52mQ==;/gP5EWfFlY2DzsplPQ2pZw=="
 ---

@@ -162,6 +162,15 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
         width: 1200
         height: 630
+  - title: "It’s hard to ban facial recognition tech in the iPhone era"
+    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
+    publishedDateTime: 2019-12-23T17:22:00Z
+    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 19
 
 secured: "wkG9H2M7WfFE1qbt8bU6ZmAC0B25m8EBNAYVWbQitHQ35+2lE/ynk3mirY737wL93N8VDoi5xpn6eYD+s/qA2NZjHa0T5USU0CJFUkTykQNG6eCM9j5dQTWAOtyXK/t42JrmgeUVVUFBfL3m1JzDTG2yrBBO0g/EWeG5TvP7Go7qWhw+DnX9ja0HLmp3ci/sjhj5S9auRDDAcy23oGTKKP0DjVpMGI6ZKMMdPMeQCSnLhzJkgX2JXlIaEb4i0o05PW/UHJJDe/SbyLWhCAGhhw==;vKF2zso6NpXs+25Tx4zL8g=="
 ---

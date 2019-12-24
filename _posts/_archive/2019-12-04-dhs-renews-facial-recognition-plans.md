@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Homeland Security Reverses Decision To Use Facial Scans For US Travelers"
-excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
-publishedDateTime: 2019-12-06T02:31:00Z
-sourceUrl: https://www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/
-ampUrl: https://www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/amp/
+title: "DHS renews facial recognition plans"
+excerpt: "The Department of Homeland Security recently updated its proposal to include U.S. citizens in facial recognition databases when entering or leaving the country. Where it stands: U.S. citizens can opt-out of having their picture processed at airports to verify their identity, per Customs and Border Protection (CBP) policy. Yes, but: ACLU senior ..."
+publishedDateTime: 2019-12-04T01:37:00Z
+sourceUrl: https://www.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
+ampUrl: https://amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
+cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
 type: article
-quality: 43
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: Axios
+  domain: axios.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
-    width: 457
-    height: 299
-    title: "Homeland Security Reverses Decision To Use Facial Scans For US Travelers"
+  - url: https://www.bing.com/th?id=ON.5FF77E851C02CA7A459DFEB99AB7B086
+    width: 700
+    height: 393
+    title: "DHS renews facial recognition plans"
 
 related:
   - title: "After criticism, Homeland Security drops plans to expand airport face recognition scans to US citizens"
@@ -84,21 +84,6 @@ related:
     quality: 60
     images:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
-        width: 700
-        height: 393
-  - title: "DHS renews facial recognition plans"
-    excerpt: "The Department of Homeland Security recently updated its proposal to include U.S. citizens in facial recognition databases when entering or leaving the country. Where it stands: U.S. citizens can opt-out of having their picture processed at airports to verify their identity, per Customs and Border Protection (CBP) policy. Yes, but: ACLU senior ..."
-    publishedDateTime: 2019-12-04T01:37:00Z
-    sourceUrl: https://www.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    ampUrl: https://amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5FF77E851C02CA7A459DFEB99AB7B086
         width: 700
         height: 393
   - title: "Homeland Security wants to face scan US citizens at airports"
@@ -204,6 +189,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0979C931D8C4C3745E0255E211A5175D
         width: 700
         height: 497
+  - title: "Homeland Security Reverses Decision To Use Facial Scans For US Travelers"
+    excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
+    publishedDateTime: 2019-12-06T02:31:00Z
+    sourceUrl: https://www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/
+    ampUrl: https://www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
+        width: 457
+        height: 299
   - title: "Government Drops Plan for Mandatory Face Scans for Travelers. Now Congress Needs to Ban Facial Recognition"
     excerpt: "Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us. Common Dreams is not your normal news site. We don't survive on clicks. We don't want advertising dollars. We want the world to be a better place. But we can't do it alone. It doesn't work that way. We need you ..."
     publishedDateTime: 2019-12-05T19:54:00Z
@@ -417,6 +417,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "e6iC82B2hNz6IX/Cd2pU6US0fu/Nh+3UVHsC5GKir2zOhxwMq/q678wwezWh2E9Z5qA/cC5X0MRE0kp/vy8lSKc6iTMdffjFta1AJ5e1VsZ+fm5j+uTaZZYfojVRGwclQePSF2pHtNwH0yOVDm95FzDSXJNqo2BO00t+S0clmCTFZlLtc12l7qDFdxPSQOb8mXLr+NPaxc7W7N/8HBLCGZeomrr4nloiJ0G842WLQ8GMNgz3x+V32ZouyTmLUyBJ+HLqiEvefnWAdszCA9KSjw==;qlR5ZNjd9mgHVWSmYYJDJA=="
+secured: "07Xfy+RwqtlNsJCYB3zwgZy3kZCgGnmqei6hQUcx5nXSPpvaxHjWW81R1puOyDBp6FwFq8fNIZ2JBPgYoGK6si4huxkNykSD6w7Zm4z/p8BJ+nHahU8XXVbPkOIF3TNicyTZXqGGxraQfcRaYRmIXq6/5NSUrCQLpVbuHbkFIKp7ggfZjsMBpSF5pdFMQSXaQV4OtOPSrQS8DnmwR8X1/Bm9H8dLWW3eVXs6Wnc7ftVWd53Oe79jQkVLTGlie24IIb/pMZB+3scd7MEKr49mjQ==;9bswR663fqy5QfLspJ9Eyw=="
 ---
 

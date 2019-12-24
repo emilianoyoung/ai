@@ -84,6 +84,21 @@ related:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
         width: 700
         height: 393
+  - title: "DHS renews facial recognition plans"
+    excerpt: "The Department of Homeland Security recently updated its proposal to include U.S. citizens in facial recognition databases when entering or leaving the country. Where it stands: U.S. citizens can opt-out of having their picture processed at airports to verify their identity, per Customs and Border Protection (CBP) policy. Yes, but: ACLU senior ..."
+    publishedDateTime: 2019-12-04T01:37:00Z
+    sourceUrl: https://www.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
+    ampUrl: https://amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/dhs-facial-recognition-border-fb1b2ddd-bf1d-4613-beb5-e646adc410cb.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.5FF77E851C02CA7A459DFEB99AB7B086
+        width: 700
+        height: 393
   - title: "Homeland Security wants to face scan US citizens at airports"
     excerpt: "DALLAS — Federal officials are considering requiring that all travelers — including American citizens — be photographed as they enter or leave the country as part of an identification system using facial-recognition technology. The Department of Homeland Security says it expects to publish a proposed rule next July. Officials did not ..."
     publishedDateTime: 2019-12-04T14:33:00Z
@@ -230,6 +245,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E8244AABD4652FE55B7073A866205E32
         width: 600
         height: 315
+  - title: "Portland, the largest city in Oregon, plans to propose first facial recognition ban affecting private companies"
+    excerpt: "The city of Portland, Oregon, is considering a unique ban on facial recognition software that could limit how private companies use it. Current bans on facial recognition technology, such as ones in San Francisco and Oakland, California, only affect city agencies such as police departments. If the Portland City Council passes the pending ..."
+    publishedDateTime: 2019-12-04T02:49:00Z
+    sourceUrl: https://www.jsonline.com/story/tech/2019/12/03/facial-recognition-portland-oregon-ban/2601966001/
+    ampUrl: https://amp.jsonline.com/amp/2601966001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2601966001
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.84D3711EA8921BA32321B374A33F71F9
+        width: 700
+        height: 367
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-06T00:04:00Z
@@ -299,6 +329,19 @@ related:
       - url: https://www.bing.com/th?id=ON.45B0AF9B77BEE94FECF17738F9A3CDE2
         width: 700
         height: 466
+  - title: "Prediction #2: Adversaries to Generate Deepfakes to Bypass Facial Recognition"
+    excerpt: "Computer-based facial recognition, in its earliest forms, has been around since the mid-1960s. While dramatic changes have since taken place, the underlying concept remains: it provides a means for a computer to identify or verify a face. There are many use cases for the technology, most related to authentication and to answer a single question ..."
+    publishedDateTime: 2019-12-05T05:21:00Z
+    sourceUrl: https://www.cso.com.au/article/669444/prediction-2-adversaries-generate-deepfakes-bypass-facial-recognition/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.69DF3E457A7DE56452B0F23505F4161E
+        width: 700
+        height: 540
   - title: "Customs Reverses Course on Mandatory Facial Scans for U.S. Citizens"
     excerpt: "Customs and Border Protection reversed course on a proposed plan to require all U.S. citizens to participate in its facial recognition entry/exit programs—a move that would have removed the ability to opt out. Since CBP’s facial recognition program began in September 2018, U.S. citizens and green card holders have technically been exempt ..."
     publishedDateTime: 2019-12-05T17:39:00Z
