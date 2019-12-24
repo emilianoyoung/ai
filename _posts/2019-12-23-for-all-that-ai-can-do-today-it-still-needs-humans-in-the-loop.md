@@ -98,6 +98,19 @@ related:
       - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
         width: 400
         height: 267
+  - title: "AI achieved a score of 185 on the English written exam of the National Center Test For University Admissions in 2019"
+    excerpt: "This achievement was made possible by the English team and its insight into natural language processing technologies based on deep learning. The team improved its score by more than 30 points (corresponding to 7 T-score points) compared to the simple application of deep learning technologies. [Background and significance] NTT Communication ..."
+    publishedDateTime: 2019-12-24T14:34:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.09A240E7C46C453F5C4B3C90C7F9D4CF
+        width: 700
+        height: 436
 
 secured: "KVZ724PMu/lhjroaovfTkg5kO/Vaj0yQoeQBKfntimixCdMihI5c1+WiB+LxQtsVlMoSzXjMfE+XaLyGPLW7imdQZRupvX0JiA/pon5/vf/yemLSgyRerWsiUVnd34Jdljvy7+me5ZG9Q57Tj5VBzHkD1jG+FshIQCxpzcBJlY9eEyD43AyLRaqrEUJ05VC8MLZHJLjTDYZuqfoOgnlJSA4hakCMMeptjIpbcZX7APT1mGuvLu9k8DlRnrwsAZDhe7oWRpAnb2kF6H4MJnz82w==;dmg0ljrNwomyWBdEIjzlBg=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/05/homeland-security-drops-airport-citize
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/05/homeland-security-drops-airport-citizens-face-scans/amp/
 type: article
 quality: 88
-heat: 348
+heat: 338
 published: true
 
 provider:
@@ -75,21 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
         width: 700
         height: 393
-  - title: "Homeland Security wants to face scan US citizens at airports"
-    excerpt: "DALLAS — Federal officials are considering requiring that all travelers — including American citizens — be photographed as they enter or leave the country as part of an identification system using facial-recognition technology. The Department of Homeland Security says it expects to publish a proposed rule next July. Officials did not ..."
-    publishedDateTime: 2019-12-04T14:33:00Z
-    sourceUrl: https://nypost.com/2019/12/04/homeland-security-wants-to-face-scan-us-citizens-at-airports/
-    ampUrl: https://nypost.com/2019/12/04/homeland-security-wants-to-face-scan-us-citizens-at-airports/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/12/04/homeland-security-wants-to-face-scan-us-citizens-at-airports/amp/
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F8526A3F1022C9F140B96A2E14218C8C
-        width: 700
-        height: 466
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "The ACLU, which spoke out against plans to conduct biometric scans on US citizens, is still concerned. In a statement, ACLU Senior Policy Analyst Jay Stanley said: \"The Department of Homeland Security's plans to spread face recognition surveillance nationwide remain alarming, especially given the lack of congressional authorization and ..."
     publishedDateTime: 2019-12-05T20:44:00Z

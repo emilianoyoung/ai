@@ -175,6 +175,19 @@ related:
       name: CBC.ca
       domain: www.cbc.ca
     quality: 36
+  - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
+    excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
+    publishedDateTime: 2019-12-24T15:12:31Z
+    sourceUrl: https://www.msn.com/en-sg/news/other/art-exhibition-in-china-offers-rare-reflection-on-facial-recognition-and-surveillance/ar-BBYj7hN
+    type: article
+    provider:
+      name: Abacus on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
+        width: 600
+        height: 315
   - title: "Federal study finds race, gender affect face-scanning tech"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
     publishedDateTime: 2019-12-20T13:32:00Z

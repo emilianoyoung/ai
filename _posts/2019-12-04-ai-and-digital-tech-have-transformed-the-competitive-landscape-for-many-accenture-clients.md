@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A257805B4F38CE66066F1BC2AEB5442
         width: 700
         height: 525
-  - title: "AWS Announces Strategic Collaboration with Novartis to Accelerate Digital Transformation of Its Business Operations"
-    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
-    publishedDateTime: 2019-12-04T14:53:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191204005238/en/AWS-Announces-Strategic-Collaboration-Novartis-Accelerate-Digital
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191204005238/en/760307/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
 secured: "Snj8Dr4mBvURxoylRmv6SmmiTrEplCry+MwmSDNun93hT3uPIrdzad2bb6F8ZhOdBvduSupQQu1YD1FNiDt489RPcqXkzq5m4z9KRKiDiY/A8YySurD/wxkksm9/94a4LwVBcZZQyZgCRF+rx5nPYbixVXxpARC0eqS6Mb4dOPs91IBrSYIptVShkblbN91TACU2Cz5788BLT1yWsGNOkD/hOydPjhWvPFhXnY3IetgND8R7HMCljkAMnrshVTig13jrj17DAb+gYOjXmywO5A==;YF49xQZ8O21xZQzgR1F5Ug=="
 ---

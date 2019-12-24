@@ -86,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
         width: 700
         height: 393
-  - title: "Homeland Security wants to face scan US citizens at airports"
-    excerpt: "DALLAS — Federal officials are considering requiring that all travelers — including American citizens — be photographed as they enter or leave the country as part of an identification system using facial-recognition technology. The Department of Homeland Security says it expects to publish a proposed rule next July. Officials did not ..."
-    publishedDateTime: 2019-12-04T14:33:00Z
-    sourceUrl: https://nypost.com/2019/12/04/homeland-security-wants-to-face-scan-us-citizens-at-airports/
-    ampUrl: https://nypost.com/2019/12/04/homeland-security-wants-to-face-scan-us-citizens-at-airports/amp/
-    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/12/04/homeland-security-wants-to-face-scan-us-citizens-at-airports/amp/
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F8526A3F1022C9F140B96A2E14218C8C
-        width: 700
-        height: 466
   - title: "DHS withdraws proposal to require airport facial scans for U.S. citizens"
     excerpt: "“Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.” Even so, Markey said he still intends to introduce legislation that would block homeland security officials from requiring such scans. Jay Stanley, a senior policy analyst with ..."
     publishedDateTime: 2019-12-05T21:15:00Z

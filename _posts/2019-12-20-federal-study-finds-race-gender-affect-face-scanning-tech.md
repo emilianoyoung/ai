@@ -188,6 +188,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
         width: 700
         height: 466
+  - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
+    excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
+    publishedDateTime: 2019-12-24T15:12:31Z
+    sourceUrl: https://www.msn.com/en-sg/news/other/art-exhibition-in-china-offers-rare-reflection-on-facial-recognition-and-surveillance/ar-BBYj7hN
+    type: article
+    provider:
+      name: Abacus on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
+        width: 600
+        height: 315
   - title: "It’s hard to ban facial recognition tech in the iPhone era"
     excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
     publishedDateTime: 2019-12-23T17:22:00Z

@@ -350,6 +350,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
         width: 700
         height: 393
+  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
+    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
+    publishedDateTime: 2019-12-24T15:32:00Z
+    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
+        width: 700
+        height: 350
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
     publishedDateTime: 2019-12-16T21:23:00Z

@@ -25,21 +25,6 @@ images:
     title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
 
 related:
-  - title: "European Union financial regulations shake up investment research"
-    excerpt: "“Not only has unbundling impacted US money managers, it is in the process of changing the whole nature of investment research,” Tabb Group, a markets consultancy, said in a recent report. The intrigue: \"Nowadays, analysts sift through non-traditional information such as satellite imagery and credit card data, or use artificial intelligence ..."
-    publishedDateTime: 2019-12-04T14:47:00Z
-    sourceUrl: https://www.axios.com/european-union-financial-regulations-shake-up-investment-research-07721dac-1d61-4402-8f98-d0fa14032275.html
-    ampUrl: https://amp.axios.com/european-union-financial-regulations-shake-up-investment-research-07721dac-1d61-4402-8f98-d0fa14032275.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/european-union-financial-regulations-shake-up-investment-research-07721dac-1d61-4402-8f98-d0fa14032275.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.7AE218589D11A61659E7CCBDCD9240D4
-        width: 700
-        height: 393
   - title: "Harvard Law School researchers call for more regulation in medical AI"
     excerpt: "Existing safeguards from the FDA and other regulatory bodies will require significant updates in order to maintain safety and ethics in healthcare's use of constantly \"learning\" adaptive artificial intelligence algorithms, according to an article published Dec. 6 in Science. In the article, researchers from Cambridge, Mass.-based Harvard Law ..."
     publishedDateTime: 2019-12-09T21:44:00Z

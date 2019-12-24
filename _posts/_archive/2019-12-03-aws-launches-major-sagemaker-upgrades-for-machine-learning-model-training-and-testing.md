@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -69,20 +69,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
-    excerpt: "By Donna Goodison December 04, 2019, 09:51 AM EST Amazon Web Services unveiled new EC2 Arm-based instances powered by its AWS-designed Graviton2 processors, along with Inf1 machine-learning inference instances powered by its custom AWS Inferentia chips. “If you look at instances to start, it's not just that we have meaningfully more instances ..."
-    publishedDateTime: 2019-12-04T15:01:00Z
-    sourceUrl: https://www.crn.com/news/cloud/aws-launches-new-ec2-arm-based-machine-learning-inference-instances
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: https://www.crn.com/img/CRN_stacked_1000x600.jpg
-        width: 1000
-        height: 600
 
-secured: "4f8Zyv3ubWrvupaiVJy26wPFoPVRNkaMK8CS7c38QTvFK5oICrtYIqdZGbH1m/mgJdVjevYVlAFFg7EZC/kKcrW4tQIdP5C1tDpokPsubTOcyPLVBkcVXElWdMiQ2odxyQQI11JcmtPdAv4tGFqeNFf1uZmteSSYBfAECWBep9N6YX2vwNpqyUB9bSRw8yfStpcNdcH6K5KqnlpSvKzDC5KZxkWYyfenO8SHaefwo+OCdolzmd82G6Fxh8iAAakWDzupEi7gBsuAYxzWNHDi6A==;s5WfSvyx9sTgWsl2dXRfAg=="
+secured: "Jbnan/XvjxYFhbDLw3u7BgIf7SAdAkhlea5GrzC/toGV7CJO77qXLgkcAK3JgUolgZW/SAXMq/38s1QNt80pfRI9wPx7cDU4lIvBdsSClWsf4Kc/8QSPo6Goy/6TogRnjmtFbkW7pU+WhSyJmqdqmH6dHA0MNrLLxhEZePeGjSHzMwPOEA5tKdwOjVpr4OaLm3POHILwXSL+HPfmbiM5eS6+d9ZdVsHLTmXCCNN845G5g399zwsKfapg/byQWJ3t81ZsWDmPh2pTdnCaPqvEkg==;aHohSlTzQjEnZtXoNPaCNA=="
 ---
 

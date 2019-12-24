@@ -224,21 +224,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Digital health interventions: Predicting individual success using machine learning"
-    excerpt: "Health apps could be better tailored to the individual needs of patients. A new statistical technique from the field of machine learning is now making it possible to predict the success of smartphone-based interventions more accurately. These are the findings of an international research team led by the University of Basel and reported in the ..."
-    publishedDateTime: 2019-12-04T14:20:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.html
-    ampUrl: https://medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-digital-health-interventions-individual-success.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.63183DB0F4514DFE4F5E973D21C9858B
-        width: 700
-        height: 350
   - title: "Artificial Intelligence In Medical Imaging Market Technology Advancement and Analysis 2019 to 2025"
     excerpt: "Dec 12, 2019 (Market Insight Reports via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence In Medical Imaging Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current ..."
     publishedDateTime: 2019-12-12T04:40:00Z
@@ -287,19 +272,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Learning Infrastructure As A Service Market 2019 Disclosing Latest Trend and Advancement Outlook 2025"
-    excerpt: "Dec 04, 2019 (Market Insight Reports via COMTEX) -- The Machine Learning Infrastructure As A Service Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Machine Learning Infrastructure As A Service Market report is a valuable source of insightful data for business strategists. It provides the ..."
-    publishedDateTime: 2019-12-04T15:01:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-infrastructure-as-a-service-market-2019-disclosing-latest-trend-and-advancement-outlook-2025-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -392,6 +364,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "CEZOJMAlIoDH3sJi03wfWpQxtT1gRlkGEW8jwDIOoXkTR8g0N3mF3GtkF0QLsGRdiURsQenRckauefXqHtXsPmKWqhXw2IDz+1G+EdnJYezytNBhy8XHoUnKBaDldh6YY2CCkvB8iuCDlMhcADLT0AKoavXU6KYzVhmSUZd65Eg2zrfa71nZmuJQO1S7BaqxMnu28w9PYI/jkqhoVS7hL6xzOPJgsHsClRmsV7HdqismTUCvBmPgmjYTENxFxbmqbsfQNBf58TjQiMi5zu2lJQ==;kbGbLltAL+Z8FIb/dZ9pMg=="
+secured: "KlSzZQ88hfJM5rv1yshhjQZjCSF/cYx0MTyu5N2vu72+oHS3iXnLcFnXStTp0+hBm8ozdjkzm6xqSBrzlMBObg1oW1lFtO0VlQQZP28YHMLkQ0rkyg8GSjPaQs7Z6BzeH8hnnat8Gd1xdypvgDbpQTql/jpn3ZWYVJ+jFdTt98arhmmZzfPYsLNwisRPFDqzSEA3TE0GPj6RcXT6s/A2TdRK3KoD2w+ghX9K0MXBxeJnShHAOAQa8J38MwqfkEN27eJp3f3ZW42jsjcg+v5Evg==;l/Oz/lnxHSdaBA22jsHw0A=="
 ---
 

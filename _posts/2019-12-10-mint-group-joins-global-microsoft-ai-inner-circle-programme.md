@@ -8,7 +8,7 @@ ampUrl: https://amp.itweb.co.za/content/Gb3Bw7WoP5m72k6V
 cdnAmpUrl: https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Gb3Bw7WoP5m72k6V
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Mint Group joins Global Microsoft AI Inner Circle Programme"
 
 related:
-  - title: "Learn about Artificial Intelligence, join the Global AI Bootcamp meetups in Ghana"
-    excerpt: "The Global AI Bootcamp is a free one-day event organized across the world by local communities that are passionate about artificial intelligence on Microsoft Azure. This event is Hosted by the Accra .NET User Group. Learn how to implement AI solutions using pre-trained AI services like Cognitive Services and Bot Framework, or by building your ..."
-    publishedDateTime: 2019-12-04T14:45:00Z
-    sourceUrl: https://microsoftcaregh.com/2019/12/04/learn-about-artificial-intelligence-join-the-global-ai-bootcamp-meetups-in-ghana/
-    type: article
-    provider:
-      name: microsoftcaregh.com
-      domain: microsoftcaregh.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.56E01BF45BCB380B086F352D007B7E6E
-        width: 80
-        height: 80
   - title: "Innovaccer Joins the AWS Partner Network Global Startup Program"
     excerpt: "AWS is enabling scalable, flexible, and cost-effective solutions from startups ... company committed to making a powerful and enduring difference in the way care is delivered. The company leverages artificial intelligence and analytics to automate routine workflows and reduce manual overhead to facilitate more patient-centered care."
     publishedDateTime: 2019-12-13T17:30:00Z

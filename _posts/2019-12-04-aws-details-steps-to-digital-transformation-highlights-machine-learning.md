@@ -8,7 +8,7 @@ ampUrl: https://www.itworldcanada.com/article/aws-details-steps-to-digital-trans
 cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/aws-details-steps-to-digital-transformation-highlights-machine-learning/424776?amp=1
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F28C69CF486BEB7F1642F204142131
         width: 700
         height: 466
-  - title: "AWS Announces Strategic Collaboration with Novartis to Accelerate Digital Transformation of Its Business Operations"
-    excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
-    publishedDateTime: 2019-12-04T14:53:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191204005238/en/AWS-Announces-Strategic-Collaboration-Novartis-Accelerate-Digital
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191204005238/en/760307/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
 secured: "uV3cmBuspaS1N113WMVU2TqQ2M9Rec03FJDdbYINfqS+g5cxqzYFwGC5B6PxLTAskvwOBKFqegJ4H7EltcC2WQzRtRg4VFlvyVzvJjZuaqhgm4NYtDcRjYsPbZIjYGiT63AefKTk3vlmgp72/2Mv/QaGZ0ethQy7e1SRWuNiGRSOg3I9A6+9hYV38tQpA3olekNsgPTcSzK+W2SlvXFc9gm7kiLgpBkxC/moOGuWMYGsE6LFaljvg+IrkyJ82mgayRVYrpEPLrF1oTLhF9ayog==;6l82G43diH1NxaUPBvE9Fw=="
 ---

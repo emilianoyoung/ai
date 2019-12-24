@@ -27,6 +27,6 @@ images:
     height: 380
     title: "How neural networks work—and why they’ve become a big business"
 
-secured: "DiK+rLQB/XM83YbW09TtSk1KxEHKSrqCTW4qCk9YKdt8QsSQo7OtlYM/VH/PMfOcI37xxDTdbztPf6F9b4kzakzjB9VJ0E8mSm4NEiTNb2PhbCuK/2K174UDMZXg3x8HsPZsY6NMJMmCxHGEcw7+BeWtWI+nHGP4u0N4WZTB5sPTbrxaZqoK4TsKbNozotvSIveBGQOr5niq74O4mI0CFUrwNWjfU5nNXy2UFUsOqnliQwVPFTM1kq4KZppojo5WG6p1r7nXyyQwmPwbNapOZA==;lvph8r5rDVBF1A4pkn8q5g=="
+secured: "FtbiAiRNVs8xYhZZTVBLqy0FIhAMMeXk/c56Y7oyO9J6kt29xC02LzkkBaDyna7tACGnVzliUzbTaSSyDVvq80hMDEb8CAqkosL+qRRR9Bx217R8IiG2U8o0vG9IVzwYgDypv4U8938WHKLklKRjwvTJbE5h8RLH6OnPyvO7/vMXpmujzHRK1gj8RxSh5mQPqTwCAxKGNcJbZo5LzjQCwYOJqmFWMaCtyPv6sUqX2NUU6U41EcAgjKMw+ErtX6WUAnrb/Oqy2Y3SyXSj8FQPAQ==;ehNUUsG362zMedNUgldLFQ=="
 ---
 

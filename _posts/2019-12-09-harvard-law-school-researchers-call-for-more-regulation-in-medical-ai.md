@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
         width: 700
         height: 446
-  - title: "European Union financial regulations shake up investment research"
-    excerpt: "“Not only has unbundling impacted US money managers, it is in the process of changing the whole nature of investment research,” Tabb Group, a markets consultancy, said in a recent report. The intrigue: \"Nowadays, analysts sift through non-traditional information such as satellite imagery and credit card data, or use artificial intelligence ..."
-    publishedDateTime: 2019-12-04T14:47:00Z
-    sourceUrl: https://www.axios.com/european-union-financial-regulations-shake-up-investment-research-07721dac-1d61-4402-8f98-d0fa14032275.html
-    ampUrl: https://amp.axios.com/european-union-financial-regulations-shake-up-investment-research-07721dac-1d61-4402-8f98-d0fa14032275.html
-    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/european-union-financial-regulations-shake-up-investment-research-07721dac-1d61-4402-8f98-d0fa14032275.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.7AE218589D11A61659E7CCBDCD9240D4
-        width: 700
-        height: 393
   - title: "Chorus.ai Offers Permissions for Revenue Team Sharing and Collaboration"
     excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Chorus.ai, the leading Conversation Intelligence Platform for high-growth sales teams, today announced Roles & Permissions, enterprise-grade control and access to specific features and data based on roles and teams. IT administrators and sales operations today are tasked with managing a company’s most important ..."
     publishedDateTime: 2019-12-10T20:29:00Z

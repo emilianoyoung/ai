@@ -65,20 +65,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "AWS Launches New EC2 Arm-Based, Machine-Learning Inference Instances"
-    excerpt: "By Donna Goodison December 04, 2019, 09:51 AM EST Amazon Web Services unveiled new EC2 Arm-based instances powered by its AWS-designed Graviton2 processors, along with Inf1 machine-learning inference instances powered by its custom AWS Inferentia chips. “If you look at instances to start, it's not just that we have meaningfully more instances ..."
-    publishedDateTime: 2019-12-04T15:01:00Z
-    sourceUrl: https://www.crn.com/news/cloud/aws-launches-new-ec2-arm-based-machine-learning-inference-instances
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: https://www.crn.com/img/CRN_stacked_1000x600.jpg
-        width: 1000
-        height: 600
 
-secured: "DGOWV3x7wJ7wrIgQGYFHWS7ZeG/CEwNjoSsnJO5To7ANnKplOceRCL7QhdkjIb0TzQOwUcG7brESIuLssjICyakNI0iTYZcT9H+Jq8yolHmWvPCNZ8K8BXKSYHyccSeoO3ZtvG4lKf0ctmVa3J3qdCHR0jdZvTne41E5A97yhT9Q4U8sxJiZO+Vzvi7gvPK2HofB4C0dxXeqZI4XNR0umiZUS3oUKBma7RUR1SJyoZ7/b6GOPTcv2KICVKIMZKdHHgsD25BssAfBTFiKVpl3Hg==;hQk+wvsbYRL0oJH/nD/cUQ=="
+secured: "0OwzedHLetxUY5++W6cwJfMNNamRaPBORkoHHssTv8zjpAcFVD8nb+Exo3QHQaEMRS7JD10ubbdBRasfuVdDnDv2bPN6xKZG/jnLGD2Z71IFNrPrKZa1FzNahXmUQe/276tow94uNzKO6GpSAHeDzSI58Un/QUMV/3sSbO9CbmdOD9UM6CrnoNt5iyFC3qGf9u0AZVxg/C3NX5QQrmUmcZ2rvWQVIl3ImU7FLslcRvPf0Sld/YMcf9T7elfn+ztl31tNEI4FVq2EMjNn74iA1A==;OGlN/Sz/CVrs0atkn/ICmw=="
 ---
 
