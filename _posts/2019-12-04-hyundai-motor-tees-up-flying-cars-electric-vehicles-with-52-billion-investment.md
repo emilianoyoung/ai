@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/hyundai-motor-flying-cars-electric-
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-motor-flying-cars-electric-vehicles-investment/
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.86D6051A5232D09D06BF52F3F17165DF
         width: 700
         height: 463
-  - title: "Hyundai spends big on EVs, self-driving cars"
-    excerpt: "Hyundai Motor (OTCPK:HYMTF) is also looking at developing flying cars, which could be commercialized ahead of the most advanced self-driving cars, according to executive vice chairman Euisun Chung."
-    publishedDateTime: 2019-12-04T10:10:00Z
-    sourceUrl: https://seekingalpha.com/news/3523542-hyundai-spends-big-on-evs-self-driving-cars
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "UL73bL2ltmq++Pj6npFt7RtB2VfZuXvUVWmI83fSAMuLS1c291FWBeObZkA9gPKAlZPngqst3tUlGSopy9xt+XK2z6lB9lGLBkZho1D/ibiFZ2NjwCxklmeUonGI+0+4lP3ZABZjXe/vlY4spNV7kIzVUGNHKCL+iwQQ7UoD8MvwgHAqIjJ0VdbJKb1lKBe08i4X2L0evPS/iiAuOBbwCp7E1X5I7JwetELUrBcJAy2si9Ha0SXzyBCjH71PmNjBtnJLxEdi+5B1ljcpwITEjA==;42vBiXiryHvatRtIkkfotw=="
 ---

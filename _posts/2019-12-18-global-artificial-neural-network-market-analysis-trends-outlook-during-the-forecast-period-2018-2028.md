@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
+    excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
+    publishedDateTime: 2019-12-23T17:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-expert-guide-to-boost-the-industry-in-global-market-by-2024-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
     excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
     publishedDateTime: 2019-12-16T12:01:00Z
@@ -67,19 +80,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The generation of massive amounts of data in data centers has necessitated the need for more power than what ..."
-    publishedDateTime: 2019-12-18T15:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005451/en/Global-Artificial-Intelligence-AI-Chips-Market-2019-2023
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 52
-    images:
-      - url: https://mms.businesswire.com/media/20191218005451/en/763775/23/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
-        width: 1200
-        height: 627
   - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
     excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
     publishedDateTime: 2019-12-17T11:37:00Z
@@ -156,13 +156,13 @@ related:
       domain: yahoo.com
     quality: 0
   - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is ..."
-    publishedDateTime: 2019-12-24T10:15:00Z
-    sourceUrl: https://www.cmo.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
+    publishedDateTime: 2019-12-24T10:14:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
+      name: Australian Techworld
+      domain: techworld.com.au
     quality: 0
 
 secured: "88Ogx0xE/4/9csYeECvDxsq+cUvXcW9F09hXHdwZyvblq0v4OgNSMviwx8yB/nmXNYf2mRJFnqh/7QE2ioIKdSpSRCi9GUiM6YMtn3brFl2eHhltgFcFUrxEO1OxCe9R8v+AE4NlxW5RZ0kZOGaV+/bVa5CG9YmWvU/ydfgPYMSmDy9GpSiBlCh0a+lle95SF2rfFEyjXDw33FE9rW49PO06A1vVLmNMAxy174rWtBGTExHIFKXYPuvDgv9JBCQDT+Urgo1ZbDQwZbHjJO9VJA==;dTTi3XoJidG904t61ZG0zQ=="

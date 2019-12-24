@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
-excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning, learning, problem solving, and others. Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is ..."
-publishedDateTime: 2019-12-24T10:15:00Z
-sourceUrl: https://www.cmo.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
+excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
+publishedDateTime: 2019-12-24T10:14:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
@@ -26,6 +27,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
+    excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
+    publishedDateTime: 2019-12-23T17:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-expert-guide-to-boost-the-industry-in-global-market-by-2024-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -56,19 +70,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The generation of massive amounts of data in data centers has necessitated the need for more power than what ..."
-    publishedDateTime: 2019-12-18T15:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005451/en/Global-Artificial-Intelligence-AI-Chips-Market-2019-2023
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 52
-    images:
-      - url: https://mms.businesswire.com/media/20191218005451/en/763775/23/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
-        width: 1200
-        height: 627
   - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
     excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
     publishedDateTime: 2019-12-18T16:58:00Z
@@ -158,6 +159,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "LKp7W5ONNk2uDc9iC6jwVMSrxdlE1eL1akd5b84c3vHX7Dcyr1JFaEI8sDJdiXLUb9V0VV+KTIdLBtiY4E6iJorUYFPxrL+E4YgupiN2GQZxXSRbvwAkZZT7ga5Ox/7S/WxM7UvVl83m4cUIdd1DwNEVt+VKQHoLWZlkw7QwxgNkRZGoig3MTaDCM6aV5nV+yfW6nsVf2EBB3VqnikkhBnex6ELcBA/+6twObUPRQqSCGJVkCOK2CAFROmWYihNZbeFnZmHMYZAiJ8qPvzBtpw==;myfmmBvX/Lfl+C2ZqmVPZg=="
+secured: "vH3s6QRVdJo1CU6w+azWSy63suyS0n45rJBbUNkKTnGm1RDDvtKfLX+XcJmx8S7Afdw22wuVkGEs4l9FxlOpICwwuh0V5Qk9OVBnW3OdosOiM4YEDpD6QvWyDSL24g9XPdbenI14P4PYMdzVPhd6biZ1OZilbgT5siGv0qB7hi2jeAa+bSw3075O7XgMAZ7A57KlzIR6RPOrjkUP/rJF414DGULnHA+B+zQPpwy3z+27p2/q+MPxSTBvQMdY20VS6JNa/celaD9AWqKKvYy+/w==;KVz7E7uRvVZIP+PkK1ujxQ=="
 ---
 

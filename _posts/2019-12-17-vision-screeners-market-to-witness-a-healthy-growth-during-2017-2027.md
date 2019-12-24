@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI in Banking Market SWOT analysis by Growth Opportunities during 2019 to 2025"
+    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global AI in Banking Market Report tracks the major market procedures including Market Overview, Business Revenue, Introduction, Gross profit & business strategies opted by key market players. The report also focuses on market size, volume and ..."
+    publishedDateTime: 2019-12-21T03:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-banking-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-20
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
     excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
     publishedDateTime: 2019-12-24T09:31:00Z

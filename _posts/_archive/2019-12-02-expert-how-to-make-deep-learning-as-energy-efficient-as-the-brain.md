@@ -50,18 +50,7 @@ related:
       - url: https://www.bing.com/th?id=ON.0B31AAD169E643317783157513853DE9
         width: 700
         height: 394
-  - title: "Amazon sticks AI inference chip up for rent in the cloud for machine-learning geeks"
-    excerpt: "Gravitons, Neoverse... you'd be forgiven for thinking AWS's second-gen 64-core Arm server processor was a sci-fi re:Invent Amazon Web Services has made Inf1, its cloud instance for running machine-learning software on its custom-designed AI chip Inferentia, available to all. AWS CEO Andy Jassy announced the service on Tuesday during the ..."
-    publishedDateTime: 2019-12-04T09:09:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/04/aws_reinvent_ai/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/04/aws_reinvent_ai/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 50
 
-secured: "5WlLi3e9gNWXQeBQakT7+S9J+T2z3NUYVBhIwb8LZgUpxC1ieQs8edZ+2BZqjMmYVP++nPUanMbjkMAiUkYnr4riLHvTRZ9A4K837nUvd7PEGCczZtoADU5nKpmHvd7Wi9t6EtnmU3NTNXHMqyoXT6jGBquM2CA+P3+9byUw4qQEPpbdMu6a+eUW2AKa1/iA143PIpUuPgbu/LKww8ovAyk2bwNKAnrgDgEhhh3L16KOysFJAEHJmg6yshytYQ7ioSEDCUnondJqdTMNvG4Ofg==;dwQhVKVrcV62yxGbkY0K3w=="
+secured: "KoO08XC/LBy0dfw46jRA/lKYXf8+Kgef4WQsjdNmusX3Bv0Lvq0uENImlJJjnwC1PjF1pq7U+lqiUzeXlf8CiZCm5qiwVGZZE55FEBSFaUZjwXLEK86Qk/VRVw+pR4poJP2LV+xT54pk8zlIjbqzoLlm+kntyogOvqqFfWarBagwDH2Urs602wEALbGj9jkKPLdF70qd3TZo0OS6R7za3Cu3cj2Uu6ajWFPYmnOtBg08sEtaMtrNH8UZGuwGoEV/ibZ0QY/0g+UFC+DJq7ASFg==;XM16ra7HI4Wf5eOi5oBoww=="
 ---
 

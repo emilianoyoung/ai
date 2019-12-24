@@ -42,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.64BB90D666F0F3BCB4EF74DF6094471F
         width: 700
         height: 350
+  - title: "Alcohol and technology: The year in review"
+    excerpt: "An AI algorithm run from Microsoft’s Azure cloud platform and AI cognitive services received data, including information about the distillery’s legacy recipes, customer preferences and sales numbers, from the Mackmyra Distillery in Sweden. That data was then used to enable the algorithm to create new ingredient combinations, resulting in as ..."
+    publishedDateTime: 2019-12-19T22:33:00Z
+    sourceUrl: https://insights.globalspec.com/article/13194/alcohol-and-technology-the-year-in-review
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: https://insights.globalspec.com/images/assets/194/13194/Whisky1.png
+        width: 713
+        height: 425
 
 secured: "pKXGv61Q2pBBEQ0O+pLHEb7m+FVu6qqU2hpJclGv7mpAQcT0TH50WaQt/+BBbUxMLpha1n9/nu2L1IkubKeosyCQoLCw2O3UBUZyhvqj+xDhGKwFAam4WZ2g2QB646wwPpPrmQRllqLx9cf42j8hMNG2k2VSQbBqeaePEjBJN7J63PKCJ1p+s1ZTEFZPrwnafm6NAjNIrSzK+DaiORxguFI0JKPAeewEzn+y8kRu0B91Hslnhf44xeN3Hzrp+cIbrCRXx5pOvXDCe4pVw4qOJg==;HWSPWKzJhaBy0qeYUU38FA=="
 ---

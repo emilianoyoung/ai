@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8FFA6CE57DAFDFEA8FFA4AFAB5B021F8
         width: 700
         height: 367
-  - title: "Hyundai spends big on EVs, self-driving cars"
-    excerpt: "Hyundai Motor (OTCPK:HYMTF) is also looking at developing flying cars, which could be commercialized ahead of the most advanced self-driving cars, according to executive vice chairman Euisun Chung."
-    publishedDateTime: 2019-12-04T10:10:00Z
-    sourceUrl: https://seekingalpha.com/news/3523542-hyundai-spends-big-on-evs-self-driving-cars
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "K1UGkmUQmnKWyLOCufy7N5VpOJcVRTTQ78Ecw8avtByanOUwH7Ztmt8KekEKL2pIC3G/jel69Qx7AlSxOKTo8MM+21aTPr4pbOxz/G/rIbtkQ+O9Dj/2Mp3bNCHa2TvZi2N4kkYsfeSxFX4Bqrb+xLE5YriTaDxV4sPz/juA35RmKXVUQLsHuYObEWrSGknuglSikNu0hFJ6ESLwGNTVbj2AkU9306EAijraq9dhv0duyP+5ofvbVx/qaQzBFybqq3ONZIvoImaqy0bugMLJFw==;Ttsstj+jnmz+uZWK6XlbdA=="
 ---

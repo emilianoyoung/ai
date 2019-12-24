@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market 2018-2027 / Trends, Share, Size And Forecast"
-    excerpt: "Dec 04, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-04T10:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2018-2027-trends-share-size-and-forecast-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Medicine Market : Key Facts and Forecast Predictions Presented Until 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Medicine Market was valued at USD 1.6 Billion in the year 2017. Global Artificial Intelligence in Medicine Market is further estimated to grow at a CAGR of 38.7% from 2019 to reach USD 21.05 Billion by the year 2025. In the global Artificial Intelligence in Medicine Market by ..."
     publishedDateTime: 2019-12-12T05:19:00Z

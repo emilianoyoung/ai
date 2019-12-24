@@ -24,6 +24,6 @@ images:
     height: 363
     title: "Career guide for Artificial Intelligence: How to apply, job prospects and salary range"
 
-secured: "hqT9c7soo95rLke+IQ9PGco4QjinKzxWnlSMVzmRPaV142aZa6J5kVCOKTbtZMBlwJPp96oyg8Oc18/X/gLQaittdEU5OGZwobtEDcxgetOsdgjqa3BpXfsssdkHrii2OnYPfTajIJkh2sXhkDffcctZp1x7Wf+p6Ajzk3s+38Jv2hmvu2U2O+HZB0XDrpXj7Pa6/tEvmQ9MdV6MVJnQ1OwwBcKuaq4XecGAytfQLTBNAnvdPxkrKbSKiyQsQ6eGfHZIE0rQpHHc3ecrgrh6Jw==;LT3lJoKgYpxqFpIJ6jtCsA=="
+secured: "3XfxrgWEQW8s8U80zD5ik4CAGPJHLJtknMCQvjdVAMbMCnXPoFkJ4g7s6BlnLM2SU6bUohTdNMEbzniWbFZ1g0pSXxwfLlK3Gj/XjGE3RteJTrqd1NM0Gocd/ybGemCKxnhT8g00iLCA7JSiyq8A6sNKulgW7BS6rSlUxCwlZK+Ph30TcSZzwlf0lS+JaVtGeL4c83nYWdsfvp+a/ZH0S6/bsdaoIszQ0SHl8TbaPtbytC9ljbmIC03cRI03EuvY22bmyj3egk8WRKYw9U4jqQ==;vOhWcqQTQ1fGwffpkPcNdA=="
 ---
 

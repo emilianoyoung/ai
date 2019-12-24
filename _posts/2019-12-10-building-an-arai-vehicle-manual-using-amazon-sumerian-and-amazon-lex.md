@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T17:29:19Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
       - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
         width: 800
         height: 534
+  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
+    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
+    publishedDateTime: 2019-12-10T10:00:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
+    ampUrl: https://amp.benzinga.com/amp/content/14960691
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-06T00:09:00Z

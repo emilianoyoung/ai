@@ -8,8 +8,8 @@ ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-1700
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: YAHOO!
@@ -27,6 +27,19 @@ images:
     title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
 
 related:
+  - title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
+    excerpt: "Dec. 23, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... In 2019, Dean and Anurag Sehgal at Credit Suisse chose H2O Driverless AI to accelerate AI adoption in front-office and back-office investment banking use cases in global markets, fixed income and capital ..."
+    publishedDateTime: 2019-12-23T15:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/h2o-ai-inducted-into-highly-selective-credit-suisse-disruptive-technology-recognition-program-1028782605
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.1B0029445D4E3578BE3C2AB13785C479
+        width: 400
+        height: 400
   - title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
     excerpt: "Dec. 17, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... Jewelers Mutual is using H2O-3 open source and H2O Driverless AI to deliver exceptional customer experiences, prevent losses, and provide better protection and policies for both jewelers and customers."
     publishedDateTime: 2019-12-17T16:00:00Z
@@ -40,32 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
         width: 700
         height: 366
-  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
-    excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
-    publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://apnews.com/bdf8aa8701e44448ad562bd9a3ee942b
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
-  - title: "Top Risk Concerns for Business Leaders in 2020 Include Talent, Culture, Technology and Innovation, Finds Protiviti-NC State Survey"
-    excerpt: "\"As the future of work evolves, businesses need to upskill and reskill existing employees ‑ particularly as digital innovations, such as artificial intelligence, natural language processing and robotics become a mainstay in organizations ‑ to ensure they remain competitive with 'born digital' companies and are future-proofed for the next ..."
-    publishedDateTime: 2019-12-12T11:03:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/top-risk-concerns-for-business-leaders-in-2020-include-talent-culture-technology-and-innovation-finds-protiviti-nc-state-survey-300973766.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.CF8ADAAD07907BF2E74489810069B472
-        width: 598
-        height: 315
 
 secured: "ZEP+68xcnRz5KYNx9EAOs6th90yPMmDoK/tBZR4uSeIZZ9WUBXUskj/ojDROLz6JSmutuJ8lOZipPlsCXISUL77l4joaV4m6sulLadRAuGSd3LqraRElJI6UhjH31sE92SUq7qXf96+h65vcpjv3tIP+YnlkIQYXL34zTApPgrWJDa/F1vgjlYwHKhSOYqqN8YvrigG8nfKIqJFV8IB5YOrHY120EPypxhd3+u6MT55sZsyigzVLgsIlh3ZycBatm84WBJqzJ7LS7l79J4o6Nw==;4WREmGBho6RDyIhZg05TDw=="
 ---

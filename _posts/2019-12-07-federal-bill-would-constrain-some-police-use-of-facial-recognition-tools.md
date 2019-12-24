@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 448
+heat: 438
 published: true
 
 provider:
@@ -319,17 +319,6 @@ related:
       - url: https://www.bing.com/th?id=ON.924E2474DFAE20893369D96EFE029732
         width: 600
         height: 315
-  - title: "Homeland Security wants to use facial recognition on traveling US citizens, too"
-    excerpt: "(CNN) -- The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed ..."
-    publishedDateTime: 2019-12-04T10:38:00Z
-    sourceUrl: https://www.wxyz.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us-citizens-too
-    ampUrl: https://www.wxyz.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us-citizens-too?_amp=true
-    cdnAmpUrl: https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us-citizens-too?_amp=true
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 35
   - title: "Homeland Security drops plan to use facial recognition on traveling US citizens"
     excerpt: "UPDATE: US Customs and Border Protection, which is overseen by the Department of Homeland Security, said Thursday that it is no longer seeking a regulation change that would have enabled it to use facial-recognition technology to identify all people entering and leaving the United States, including US citizens."
     publishedDateTime: 2019-12-05T20:51:36Z

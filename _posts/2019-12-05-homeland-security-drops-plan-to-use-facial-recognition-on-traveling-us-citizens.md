@@ -332,17 +332,6 @@ related:
       - url: https://www.bing.com/th?id=ON.924E2474DFAE20893369D96EFE029732
         width: 600
         height: 315
-  - title: "Homeland Security wants to use facial recognition on traveling US citizens, too"
-    excerpt: "(CNN) -- The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed ..."
-    publishedDateTime: 2019-12-04T10:38:00Z
-    sourceUrl: https://www.wxyz.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us-citizens-too
-    ampUrl: https://www.wxyz.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us-citizens-too?_amp=true
-    cdnAmpUrl: https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us-citizens-too?_amp=true
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 35
   - title: "Privacy concerns over police's new 'state of the art' facial recognition system"
     excerpt: "NZ Police has enlisted the services of an American company to design a \"state of the art\" facial recognition system. Stuff can exclusively reveal Dataworks Plus has been selected to upgrade the existing outmoded police biometric system. The law enforcement ..."
     publishedDateTime: 2019-12-05T04:59:00Z
