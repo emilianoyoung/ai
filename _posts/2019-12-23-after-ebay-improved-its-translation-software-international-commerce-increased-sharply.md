@@ -68,14 +68,14 @@ related:
         width: 700
         height: 259
   - title: "How AI-powered bots could drive the conversation on pending federal regs"
-    excerpt: "Machine learning tools can generating nearly infinite variations of fake speech at scale. Using a natural language processing framework developed by OpenAI, a bot program and a proxy server, Weiss turned his experiment towards a public comment website on Medicaid.gov dealing with a proposed waiver for Idaho residents, where it spit out more ..."
+    excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
     publishedDateTime: 2019-12-24T18:06:00Z
     sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
     type: article
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 38
+    quality: 36
     images:
       - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
         width: 700

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T13:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
 type: article
 quality: 80
-heat: 330
+heat: 340
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
+    excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
+    publishedDateTime: 2019-12-23T07:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -247,15 +260,6 @@ related:
       - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
         width: 1200
         height: 627
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-    publishedDateTime: 2019-12-23T12:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 14
   - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
     excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
     publishedDateTime: 2019-12-25T00:04:00Z
@@ -318,6 +322,15 @@ related:
     provider:
       name: Odessa American
       domain: oaoa.com
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "bQQePpRjAdRlJBw+kcBLVrj2BRFxRNWDeNZaqCK5TTWaU8xrE9lK478aVhRw3dHIlZRXwRkVNs8qc7de26/mH+C3mSzjxoESdCpIrcyPfC3ACje+a1KuOTYEXbj1s+xCnsHkC2Pq2VIhbVgbRirZ/XbFUNNXJ1u6NoV57Op2JPqW5et0YW5RC4U+0M5c1gEJz2ewpSmK23JJ9vcJS4d5R0XAiO9aLvwKNkJjWLHqtu6f6vbsR5By8lpo/HVKwVaQxPxst6T/uTfBigYjekpSXw==;Y4Ku9pf2kM8n3pFFMAH5XQ=="

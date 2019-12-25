@@ -24,6 +24,6 @@ images:
     height: 645
     title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
 
-secured: "4Ic3O3HiwyzEDnBO4FrLvi9K07QCeyta3V3PWEZtNVWWSDvt5tGYFlf8Qlt6FCJlUVMtTnF10ekT5/TwDRgHqkE8xkPKrIuIn2Y9EGsxs3sX+ZcWz5DWyrS8Kbg7vIuXw5KYrlvycjfgSzMGDUE0+4FOdYL/xN3ZR81lcc/wEN6OEUAg23ezjPPzxnV+Oi2AlQj3I40E2ZRdgDa7FQCcg6uDWbtGKeI6rJQ6zkOhxrvbeAYiyLPgOC4YdtcxBPnsV9ac8I4lCh/7k+YtXZLd9A==;EbgW98SZznvDpdv7kGEbQA=="
+secured: "qkCCl9gDGJ0MUBG6MyBrceD7A+kPlCQFmE89towz1JPXGSb5u2w+fErqfYMIZesKfHVT6Mx/E+vD8VKWjRFeh4MF0QtPVjvOoIdLsiKZwSnA5qWSPrp6zbx+AP//IbR6j4VdkBrbKS0AFtfxmVA+yWTMekhLkH1JpOLY1M6gaxlCv72URH6c+bWaeIDXNfx7wrorcnS5WpQxFph4A9DJinAcFt2NrPLlt0jQbkco0DGxbeZP6RdcY52bO3YRIMwSrTMhW5fDZPqNY888+4mtzg==;6x9q1TpeP4mIz0cFS6WuYA=="
 ---
 

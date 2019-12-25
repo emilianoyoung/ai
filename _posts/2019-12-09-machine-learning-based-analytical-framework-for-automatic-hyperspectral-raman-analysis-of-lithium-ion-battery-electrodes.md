@@ -24,19 +24,19 @@ images:
     title: "Machine Learning based Analytical Framework for Automatic Hyperspectral Raman Analysis of Lithium-ion Battery Electrodes"
 
 related:
-  - title: "A Deep Learning Framework for Design and Analysis of Surgical Bioprosthetic Heart Valves"
-    excerpt: "However, such analyses are often computationally intensive. In this work, we introduce the concept of deep learning (DL) based finite element analysis (DLFEA) to learn the deformation biomechanics of bioprosthetic aortic valves directly from simulations. The proposed DL framework can eliminate the time-consuming biomechanics simulations ..."
-    publishedDateTime: 2019-12-06T10:22:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-54707-9
+  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
+    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
+    publishedDateTime: 2019-12-11T10:13:00Z
+    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 30
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.A5CCC78E7C9574BEC3A4D52813E56432
-        width: 685
-        height: 400
+      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
+        width: 612
+        height: 355
 
 secured: "GFuUnEGUrJfmCf3xlU4Dsw9pyFK7vSvZAb8kvarTpXj2CVhRajzf/JGrJXFitMar3G4Bl7orQezEtchQjmhVgbqCqhGyWUBc1bvDalIF19caFBBSJ8rkrS8lAak7TzTMbHYyByUSmdWxmGsPoRT/UmKpLqkYCxh/moPSYln7MltadhrVsPOcRlMFIQ5ke8T7rITNWuoRTTpNU0g2w6ptEdKYAgLoJBRySYnhKcb7Z+DY5szdTZJGUfpjNgqzQPB2uHDQ6NSG1YNCK5eNciIM6g==;GNXPiOtnzAmnxqXjJEboAA=="
 ---

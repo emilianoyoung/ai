@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Self-driving Car Market, Forecast to 2030"
-excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
-publishedDateTime: 2019-12-19T00:27:00Z
-sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+publishedDateTime: 2019-12-25T00:06:00Z
+sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
 type: article
-quality: 4
+quality: 0
 heat: -1
 published: false
 
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
+  - Natural Language Processing
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -281,6 +281,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 4
+  - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
+    publishedDateTime: 2019-12-19T00:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
   - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
     excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
     publishedDateTime: 2019-12-20T07:52:00Z
@@ -317,16 +326,7 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 0
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-25T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
-secured: "u+Jy/xhxmXPPuLS/tetwd49HJry94Sg6K3+bnfSkKGJmEHDO46isxL2x7EoSrS0wDfgPILeMRcTlN+a3WqMUvQnRc/UZ+4YQ2VerYwlmL0MYxstMdkW4K29i4R1HI7GjRiINFQEPPSpiQYgwD1iFGk4DjdIY1BQRTe9h/L6ScO3/XylDSUs5nESYQtv4ALESjBCLEPGHqqUB3Qg8cCDU8B9fTUbxkGnMLm/kbNjPixmO+4L4DeNdblXgPby37TURli7LWRIkKet6B5vtqAk5AQ==;tAH9+wfRDoDPb4MRL5i1Rw=="
+secured: "N33djKOeXN0xZe6cL8x67SCx64I/8bsjQAEljRd4UNxkgJLBUf4h5BoUmn8MmFYqEAALwdlkDYqrLcFV6cQQv+o1S92fPs05hH5q49U+9q2GJ3GH6j6efkD5DTnYpmZyQKDJ+zEA3JMjVztpZHpUQ0j7htmZoP+owndHAmPY2+bCWJF+vcFiycuEuNsQcystod4y8DE6gskcqPT23BdcB8xNR8dQ8c6UfoGfk6QIre1+jEiZkW2rTlfOZG0Q3KdEbFGtEfXrXI15mVSSBwQc4Q==;sU9zUsbR19o0v3UIkSrkIg=="
 ---
 

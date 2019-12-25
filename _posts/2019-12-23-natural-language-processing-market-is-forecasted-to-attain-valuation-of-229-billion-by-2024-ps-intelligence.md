@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-publishedDateTime: 2019-12-23T12:02:00Z
-sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
+excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
+publishedDateTime: 2019-12-23T07:40:00Z
+sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
 type: article
-quality: 14
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -313,7 +323,16 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "UHZV/DHnPtRhQv7XfYwBnnUxvOhZOxgW/FVRO+gr5Hv25iC5s5JpSesYN+qZinwT/D4kwwMcuaZgUnrsyj4SNXBJy241uGn9WjBNnZ71smQQ5dm2xa5Y6+dXKP90dCXEcRAtCMihXMdMyfN5PWyD+yZtxRTyN+6FayZ+soaYf6kRtKFLlLrAxwGfyV2QGsXRGsc1kGJ4qm4bWuctwiyXHdmb2lor+jE0XGm1Mj2xPhWWGJ39HYzvtTjkZbcvUfwDSA/MxlNHZM5GYoAGhKWREg==;+utvZ8EL/5zx2pTjrAXS9A=="
+secured: "eeR3kbGJ/ruMZV3YlgtB1cDvbwWgR/yM//QWIKK2hfrX6Vx3uRfnAnru9ns8xe9kZbCzXmcwUhByNiE3OlWGpteaE61zterPvs6EClnHfNiDD6JjNIBWkVyhUk5OBxZuODGIv9zoFIudOSxrrMODG9/dpAXLAbzXJ4LE8B/9X33Q4I3Rvg1M2zs8jKW0cAOaxngf2eIzCGmPKAX4mifasy8cswsj7BG757klNNk4jFN77zuhebqwLB4xQn2oX+PJhhTRSXBzD5vlXnPQzpO7aw==;G/YamtSXyJ2mxKB06fbicw=="
 ---
 
