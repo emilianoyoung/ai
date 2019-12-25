@@ -2,8 +2,8 @@
 category: news
 title: "GSK puts faith in AI to make more successful drugs more quickly"
 excerpt: "Firm is recruiting artificial intelligence specialists and developing new genomics lab"
-publishedDateTime: 2019-12-25T18:03:23Z
-sourceUrl: https://www.msn.com/en-gb/finance/news/gsk-puts-faith-in-ai-to-make-more-successful-drugs-more-quickly/ar-BBYkTeA
+publishedDateTime: 2019-12-25T18:00:48Z
+sourceUrl: https://www.msn.com/en-gb/news/world/gsk-puts-faith-in-ai-to-make-more-successful-drugs-more-quickly/ar-BBYl0jq
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 367
     title: "GSK puts faith in AI to make more successful drugs more quickly"
 
-secured: "Ph/Tebcd4jy5s4jTAelVz+Je53QsXKtUOPdT0njiYx5+Sy183EWwe3b/qJa079svtWOjifmfLgjuRmod1y9/GVtkIdGyjSA+seoarblS4E2sDNIvQ22wlSkw3VjrK+90ySFw+EcKqGLRtajhZ/5D8HCjDUl0vU3NhH45gplT6yDzVPMNdIgBvaysH/fq/8OOQpNvZgTqe/HWmpLMkgpTIdXvIN05Isn01V1CoOKlsBD+V78GsQmpA1twBOJRhPJ+HL9NRz4C+pOw0akuqjStGw==;mOpMaOeFzE8g1vWo/QSz/g=="
+secured: "QsnVZ6JMyndDqPyYcMmdbc9my7aaE5DPfMpDatq54pIBo7H1Zc0jK7vyf+iPjMGTU2cD070ing9CLT8R0g6MwKnxBVTxSQirWNsEfGcfxqUxPOr0B5XCwwh+7zBfhXkQts5OmVu8AUNhScb5X9iD0v84rSGV7O4vrCCQUfWHAc783ZY2CqHDz4q55VIsrvzFrE4y/atepiADvH1Y/c9Fw8aCiiVb/zH0r4gwMAnWp2zOtWJKZTUXLI+gsJt+dEwb+947xfOmrjhOYc9dn8KU9Q==;WAQIaLkbdnLKZkvyoMmduw=="
 ---
 

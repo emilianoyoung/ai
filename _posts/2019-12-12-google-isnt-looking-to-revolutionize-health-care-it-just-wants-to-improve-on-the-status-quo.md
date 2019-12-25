@@ -8,8 +8,8 @@ ampUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-147
 cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Newsweek
@@ -31,50 +31,32 @@ images:
     title: "Google Isn't Looking To Revolutionize Health Care, It Just Wants To Improve On The Status Quo"
 
 related:
-  - title: "NFL and AWS using data to improve player health"
-    excerpt: "They are combining AWS' cloud and its capabilities in machine learning and artificial intelligence with NFL data to improve player health and safety."
-    publishedDateTime: 2019-12-05T21:26:00Z
-    sourceUrl: https://www.zdnet.com/video/nfl-and-aws-using-data-to-improve-player-health/
+  - title: "Have your health care records been obtained by Google?"
+    excerpt: "BRYAN, Texas — Google has been, and is paving its way into the healthcare industry. The tech company recently formed a partnership ... “Ascension is sharing health information of its patients to Google and with the objective of creating artificial intelligence and machine learning software tools to make health information more useful ..."
+    publishedDateTime: 2019-12-05T23:02:00Z
+    sourceUrl: https://www.kiiitv.com/article/news/national/google-health-care-records-privacy-project-nightingale/503-17289f27-4459-489e-8d18-7a3b73c4b3df
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
+      name: Kiii3 News
+      domain: kiiitv.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.19A91DBADC2B4DD0545FDCE35FE49403
+      - url: https://www.bing.com/th?id=ON.507A49C3848B2DE1F078ADA6CD3506ED
         width: 700
-        height: 525
-  - title: "NFL, AWS to use player digital twins to model scenarios and combat injury"
-    excerpt: "The National Football League is partnering with Amazon Web Services to apply artificial intelligence and machine learning to derive insights about player safety and treatment, the organizations announced Thursday. The underlying goal is to \"predict the risk of player injuries\" to make way for prevention. AWS and the NFL will analyze data on ..."
-    publishedDateTime: 2019-12-06T15:07:00Z
-    sourceUrl: https://www.ciodive.com/news/NFL-AWS-AI-ML-safety/568619/
+        height: 393
+  - title: "What will the digital healthcare revolution look like?"
+    excerpt: "Abbott explains how remote monitoring, artificial intelligence and predictive analytics will all influence a new era of digital healthcare. Editor's Note: This publication originially appeared on Abbott's website. Healthcare has evolved at an incredible pace. The industry has brought forth a number of cutting-edge developments, including ..."
+    publishedDateTime: 2019-12-06T21:00:00Z
+    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/what-will-the-digital-healthcare-revolution-look-like.html
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 38
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: https://www.ciodive.com/user_media/cache/02/e8/02e8239a620be54bbad472344ff9db22.jpg
-        width: 770
-        height: 363
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
-  - title: "National Football League, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-06T08:57:00Z
-    sourceUrl: https://www.telecompaper.com/news/national-football-league-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 20
+      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/6.jpg
+        width: 400
+        height: 300
 
 secured: "uf5V1pvK16mN2dMfiejLvrR1jmecb7MvF+fCYeA/NEozXgrIWHUwcn2cwtHc6249iQ1Cp99+SuX3VYS7QEOewaCNkeGzo7HrphyxJAJcoCgRMnySf8ugI8fvDyW0TJDbYBNREWdlwB4qXvuUwWgIHYVPIdVf16movN577tOaM65uchkxHpjRSx0JPmS+yEy0eymlXGd8FWCBjjptxgQDuGdsGfLBSIkCqWOzyvPG7j4LipaZxku6tPJaMcCgsfgggQbMSNPTE8tc9e7c+yKOcw==;Oa/Jb+wP0+i9lttLg8WPJA=="
 ---

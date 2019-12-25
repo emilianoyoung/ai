@@ -46,7 +46,7 @@ related:
         width: 700
         height: 418
   - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows ..."
     publishedDateTime: 2019-12-04T17:39:00Z
     sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
     type: article
@@ -137,6 +137,6 @@ related:
         width: 800
         height: 500
 
-secured: "iugxXU6bbCQ8H+XN5wocjMLxEP63Kkhyh2BplssfKlLGp9FQJoC1fgQf157CSHhc9FUKWamxvHchl8kFVirGYrFxqiKFRhQVYp9y6gUtpm4kT7EfSVk/2hg/dHRGm9l/OTdfdnnpASVBOzo4TcSwKUf9yLAsH9Bi+ePiHOr/XuCEe5lJX3zIIJtdO5VDfzz4G/2eYQ1RPLwXAvoNEo+gwpcm4X3nl2kaUdx5C3rWN6lE2oI9OB6CK1bGr1LJr2ORB/ZmBUwGLZX3zADeeIRxVw==;GzokRMP28cikIXLFWkEURA=="
+secured: "prkn8DbyyvuFxBJeJIdNm30jBzgkYM+t7hvTFJkNDD3rEMrbmodyiHhStefS4spEMR1RFqmanGjqKmwDNOrEcsjIWzZh/bacHPnQQS2URiR24+QaMaIUy4En3KKkLAPExc1CERn7xMIxXTVzrUelGgI+wMKgoEKx8deViTM1FBsVEB5xQHak17909yTyYUcjL9QF/YXq04b2ECx9B0MszAlkpAyZjUCUc1aQ4Jn0emWnj7WarzbZZWgFIkr34A3vg8dvXYOHN9xTZXB5aEHYtQ==;V25iwI7vUccBkZ5N+KNQdg=="
 ---
 

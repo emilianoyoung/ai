@@ -38,21 +38,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
         width: 387
         height: 337
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
-    publishedDateTime: 2019-12-05T21:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
-        width: 700
-        height: 366
   - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
     excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
     publishedDateTime: 2019-12-10T15:26:00Z

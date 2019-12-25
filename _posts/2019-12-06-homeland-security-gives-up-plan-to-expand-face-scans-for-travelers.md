@@ -39,6 +39,45 @@ related:
       - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
         width: 648
         height: 516
+  - title: "Homeland Security doesn’t want Americans' airport face scans after all"
+    excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
+    publishedDateTime: 2019-12-06T00:04:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-05-homeland-security-cbp-biometric-face-scans.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B7BD733EB6E99DF9CED445F181928142
+        width: 700
+        height: 437
+  - title: "DHS retreats on possible facial screening of US citizens"
+    excerpt: "DALLAS (AP) — The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda ..."
+    publishedDateTime: 2019-12-05T23:55:00Z
+    sourceUrl: https://gazette.com/ap/business/dhs-retreats-on-possible-facial-screening-of-us-citizens/article_9dd35c3d-a336-5996-8627-4f4191a7bf64.html
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.96882A3977B0EEE2645EE6336554D1E9
+        width: 700
+        height: 394
+  - title: "DHS retreats on possible facial screening of US citizens"
+    excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
+    publishedDateTime: 2019-12-06T18:42:00Z
+    sourceUrl: https://www.abcactionnews.com/news/national/dhs-retreats-on-possible-facial-screening-of-us-citizens
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.C29C37C553EB29A7B9F6E91D8ACDB229
+        width: 700
+        height: 367
 
 secured: "5yguo5gRAN6Q1188YaZvN/w5t3ZsRX4kbWv7emEFZJf0ofAE7YkItz0HLPbcIAwUy8TQ1SicyAQJZwrEZsHEPwBxK2Iiq1k/0mbhlp0fNo8wIXlI7a4eg4rF1UrNji3fU06CFUtKsFQzyl5sKnbgIyaYIOTKfXgd/HfJs3zoC7Ka09ZJhTfq3iBL2YhjrWfOSo+uTI5S6OmeSYTUhXhBF/cnJfm9gzj39H6wFptmIFF5EzIPB21nHqA4a3tNZilIpLhflSmOSHtqOYbcTRrTIQ==;ac+K8GrMHbEsY8ACN+zjlg=="
 ---

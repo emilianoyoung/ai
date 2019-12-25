@@ -24,51 +24,21 @@ images:
     title: "Homeland Security doesn’t want Americans' airport face scans after all"
 
 related:
-  - title: "DHS withdraws proposal to require airport facial scans for U.S. citizens"
-    excerpt: "“Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.” Even so, Markey said he still intends to introduce legislation that would block homeland security officials from requiring such scans. Jay Stanley, a senior policy analyst with ..."
-    publishedDateTime: 2019-12-05T21:15:00Z
-    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/dhs-withdraws-proposal-to-require-airport-facial-scans-for-us-citizens/2019/12/05/0bde63ae-1788-11ea-8406-df3c54b3253e_story.html
-    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/dhs-withdraws-proposal-to-require-airport-facial-scans-for-us-citizens/2019/12/05/0bde63ae-1788-11ea-8406-df3c54b3253e_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/dhs-withdraws-proposal-to-require-airport-facial-scans-for-us-citizens/2019/12/05/0bde63ae-1788-11ea-8406-df3c54b3253e_story.html?outputType=amp
+  - title: "US Homeland Security backs off on scanning US citizens, Amazon ups AI ante, and more"
+    excerpt: "WebAssembly gets nod from W3C and, most likely, an embrace from cryptojackers online Roundup Hello, welcome to this week's machine learning musings. We bring you news about the hottest topics in AI: Facial recognition, the so-called AI arms race between the US and China, and erm, GPUs in the cloud. US citizens won’t be subjected to facial ..."
+    publishedDateTime: 2019-12-09T07:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/09/ai_roundup_061219/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 58
+      name: The Register
+      domain: theregister.co.uk
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.330C4A79C65A1CABE522382CA2D1E2D3
-        width: 700
-        height: 417
-  - title: "Homeland Security Reverses Decision To Use Facial Scans For US Travelers"
-    excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
-    publishedDateTime: 2019-12-06T02:31:00Z
-    sourceUrl: https://www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/
-    ampUrl: https://www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/homeland-security-reverses-facial-scan-decision-for-us-travelers/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
-        width: 457
-        height: 299
-  - title: "Proposal to require facial screening of U.S. citizens at borders is dropped by feds"
-    excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
-    publishedDateTime: 2019-12-06T15:44:00Z
-    sourceUrl: https://www.chicagotribune.com/business/ct-biz-biometric-screening-plan-dropped-20191206-csmd5gurffapxj4yqweekulate-story.html
-    ampUrl: https://www.chicagotribune.com/business/ct-biz-biometric-screening-plan-dropped-20191206-csmd5gurffapxj4yqweekulate-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-biometric-screening-plan-dropped-20191206-csmd5gurffapxj4yqweekulate-story.html?outputType=amp
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.C763338FD2DA80BA5B18BBCDE1209AF8
-        width: 700
-        height: 466
+      - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
+        width: 648
+        height: 516
   - title: "DHS retreats on possible facial screening of US citizens"
     excerpt: "DALLAS (AP) — The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda ..."
     publishedDateTime: 2019-12-05T23:55:00Z
@@ -95,32 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C29C37C553EB29A7B9F6E91D8ACDB229
         width: 700
         height: 367
-  - title: "Administration drops plan to require facial scans for citizens entering or leaving U.S."
-    excerpt: "\"Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.\" Even so, Markey said he still intends to introduce legislation that would block department officials from requiring such scans. Jay Stanley, a senior policy analyst with the ..."
-    publishedDateTime: 2019-12-06T18:10:00Z
-    sourceUrl: https://www.postbulletin.com/news/nation/administration-drops-plan-to-require-facial-scans-for-citizens-entering/article_75325b58-1850-11ea-ba07-a30a7c631222.html
+  - title: "Homeland Security Gives Up Plan To Expand Face Scans For Travelers"
+    excerpt: "The proposal would have required all travelers, including citizens, to participate in a facial recognition scan when exiting or entering the U.S."
+    publishedDateTime: 2019-12-06T01:57:00Z
+    sourceUrl: https://www.newsy.com/stories/dhs-gives-up-plan-to-face-scan-all-international-travelers/
     type: article
     provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 16
+      name: Newsy
+      domain: newsy.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.096BD659FB37F482F08DDFA7D4CB5BDA
-        width: 700
-        height: 525
-  - title: "Department of Homeland Security drops plan to require facial scans for citizens entering or leaving US"
-    excerpt: "\"Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.\" Even so, Markey said he still intends to introduce legislation that would block department officials from requiring such scans. Jay Stanley, a senior policy analyst with the ..."
-    publishedDateTime: 2019-12-06T11:16:00Z
-    sourceUrl: https://www.stripes.com/news/us/department-of-homeland-security-drops-plan-to-require-facial-scans-for-citizens-entering-or-leaving-us-1.610069
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 8
-    images:
-      - url: https://www.bing.com/th?id=ON.939477F9503622A41A88865A3C088C09
-        width: 490
-        height: 327
+      - url: https://www.bing.com/th?id=ON.B340A89109BDF6373CA4DB64283BB746
+        width: 640
+        height: 360
 
 secured: "waOOmh/4e5hIMwe83u9+pM+zSCZRtL6ocL7WFmThHoz5uvM26RUoDilbxnf8SIb+HKQkZIL5NTvgoIO/Bm7dO4x++3zkhmmDjFAODNCtKkHJvrGettJO1bSaRtma56iuryui5Ovke/9dki7VJ4ulBRDje+UAx880/MMBYv1695C9Nh8BP6L1Je8FRJ620cbhlSew8tAf+uBTWDBenehOhduLaogVjjuN/WDeAVXaD+uFdKHRYko4gJvyy7SkWGRWs8pcLB9gY9GYXgbeiVYboQ==;ahFgVifJ6uAvl7/s4X9thg=="
 ---

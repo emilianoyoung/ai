@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T08:13:00Z
 sourceUrl: https://www.therecord.com/news-story/9766881-waterloo-professor-says-artificial-intelligence-is-a-useful-tool-to-help-fight-wildfires/
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 685
     height: 416
     title: "Waterloo professor says artificial intelligence is a useful tool to help fight wildfires"
-
-related:
-  - title: "Artificial intelligence helps spot wildfires faster"
-    excerpt: "SANTA FE, N.M. — As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within minutes — in some cases far faster than these fires might otherwise be noticed by firefighters or civilians. Santa Fe-based Descartes Labs, which uses AI to analyze ..."
-    publishedDateTime: 2019-12-05T21:35:00Z
-    sourceUrl: https://fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-wildfires-faster/
-    ampUrl: https://fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-wildfires-faster/amp/
-    cdnAmpUrl: https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-wildfires-faster/amp/
-    type: article
-    provider:
-      name: Fox 5 San Diego
-      domain: fox5sandiego.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.CBD32D55087725E16C4148A3A6F38B77
-        width: 700
-        height: 393
 
 secured: "kKg0KTGFbLublcXRf5VgQlPmd7k9WYX8u8XTG1KG3j4AfxS1HWAIIr61NDMqEg6Pt96vDwQDxUqgLh6i5/TRiVWtr49L8MK4pv+TMHpn8mOfgRLVSJIIyoLdI5aEUBKMj9PTqY69v79iiRyHDdS+FgKwOngsSi5Gja2wNrFai5PrKwGOMKatzLYWq5suKaZmlsjtt8S1ar4CphlFvT8Hu3KOX4uo29Hdq3R1A4USc5BvOnuEuG6qwPQHnbHWfEAISjxuWyd5x0rG4/LVdjyOBw==;6kU9mVaoDRZpn/yPBtk6SQ=="
 ---

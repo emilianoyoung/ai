@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T12:01:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/manthan-achieves-aws-retail-competency-status-300974031.html
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B98002FE4C9173566C85DCC69D46F6F
         width: 300
         height: 104
-  - title: "ECS Achieves AWS Public Safety & Disaster Response Competency; George Wilson, John Sankovich Quoted"
-    excerpt: "The AWS Public Safety & Disaster Response Competency serves to differentiate ECS ... ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science and engineering. The company solves critical, complex challenges for customers across ..."
-    publishedDateTime: 2019-12-05T21:33:00Z
-    sourceUrl: https://www.executivegov.com/2019/12/ecs-achieves-aws-public-safety-george-wilson-john-sankovich-quoted/
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.8A4E1FBED515532392839DA34CF73717
-        width: 272
-        height: 270
 
 secured: "lQ+3j+B5fSsEzglvXd15vEQZu/zFsVGI6IyTDuVS6pAA3JmeDbJ/jaC6xMxKkqZF9AKkV3zsddtEi6z7ZtAp1swjaCOEfmjxMnK4Rc4PZWb8gmFwclba6UfSkCNqHRVuxntXMFIwcTdJNqeuL+p3zVfyTMgT/Pl7EPfNIhoKX1ayoNptMmmjaJtHrt9al9/Rg7rvCsxPV93HAROt8JisXWVEgXQcgpYzFxiQO6W59ov9KhXkDDXJGTZSfWUgYdzH0AC1px5MK+CscR5JIYU8Lg==;vtwlfKWwd5We0lj6yE+mEQ=="
 ---

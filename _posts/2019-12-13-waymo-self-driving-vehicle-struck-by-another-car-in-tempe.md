@@ -168,6 +168,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C7D1ECFF3BFF77C9030FA1FFBECB8E17
         width: 700
         height: 393
+  - title: "Cabinet to consider use of public roads for testing self-driving cars"
+    excerpt: "A proposal to allow public roads here to be used to test self-driving cars will be considered by the Government today. Minister for Transport Shane Ross will bring a memo to Cabinet that will mark the first step towards introducing legislation in this area. The legislation will seek to redefine in law the term driver so that autonomous vehicles ..."
+    publishedDateTime: 2019-12-06T07:09:00Z
+    sourceUrl: https://www.rte.ie/news/ireland/2019/1206/1097360-self-drive/
+    ampUrl: https://www.rte.ie/amp/1097360/
+    cdnAmpUrl: https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1097360/
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.7663786457C632354DCCF2521BA139BF
+        width: 700
+        height: 393
   - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
     excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
     publishedDateTime: 2019-12-09T16:13:00Z

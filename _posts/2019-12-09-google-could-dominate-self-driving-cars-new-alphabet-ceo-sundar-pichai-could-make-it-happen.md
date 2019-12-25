@@ -41,19 +41,6 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72358468,imgsize-232067,width-800,height-434,overlay-etcio/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
         width: 800
         height: 434
-  - title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
-    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
-    publishedDateTime: 2019-12-04T11:28:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/041219/chennai-man-sundar-pichai-appointed-ceo-to-alphabet-inc.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 39
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
-        width: 800
-        height: 448
 
 secured: "9mIcFRyyAq6V7/81YBhUmNYx8KVHGwYw1DvdYODSUpotUaaBFBheX0niiTB9ZOEeJZb8VNAAvL8V3foL5w2gY1hC9lEG7W5Kds0EOs2QnVEoILWDotOTgMtn2il6XEaENfJiWcccpY32qouZZT9XWUrpwkzXsgSmt+SHFpOwzRmzcnSSHZGhvVjsxuGn2Nu3pRm25sQZCy3Fl5T1ZQQUVYFS2ZFTDGd/EiyERYhcYyFiTPMUWKaRVtG5AhBL+ilAME+hgtiODfECv7m4u+bFhQ==;mvDFZj401wqxqIyW3PqrHQ=="
 ---

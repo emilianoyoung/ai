@@ -50,21 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "Criticism Prompts DHS To Abort Facial Recognition Of US citizens"
-    excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
-    publishedDateTime: 2019-12-05T21:36:00Z
-    sourceUrl: https://www.pymnts.com/news/biometrics/2019/criticism-prompts-dhs-to-abort-facial-recognition-of-us-citizens/
-    ampUrl: https://www.pymnts.com/news/biometrics/2019/criticism-prompts-dhs-to-abort-facial-recognition-of-us-citizens/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/criticism-prompts-dhs-to-abort-facial-recognition-of-us-citizens/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
-        width: 457
-        height: 299
   - title: "SHC orders face recognition facility installed at police record office"
     excerpt: "KARACHI: The Sindh High Court on Thursday expressed concerns over lack of face recognition system at the criminal record office (CRO) of police and directed the home secretary, the provincial police officer and the director general of the National Database and Registration Authority to ensure that such facility must be exclusively available at ..."
     publishedDateTime: 2019-12-06T02:28:00Z
@@ -149,19 +134,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
         width: 700
         height: 394
-  - title: "Homeland Security drops plan to use facial recognition on traveling US citizens"
-    excerpt: "UPDATE: US Customs and Border Protection, which is overseen by the Department of Homeland Security, said Thursday that it is no longer seeking a regulation change that would have enabled it to use facial-recognition technology to identify all people entering and leaving the United States, including US citizens."
-    publishedDateTime: 2019-12-05T20:51:36Z
-    sourceUrl: https://www.msn.com/en-us/travel/article/homeland-security-drops-plan-to-use-facial-recognition-on-traveling-us-citizens/ar-BBXFClp
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.6942E1106F955EB9B1D3DA2A98E9F9AD
-        width: 600
-        height: 315
   - title: "Children’s Hospital buys potentially illegal face-recognition technology"
     excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
     publishedDateTime: 2019-12-08T01:07:00Z
@@ -189,6 +161,6 @@ related:
         width: 700
         height: 350
 
-secured: "06k2TmOJBaFJ8TSklZqufd821+eKcojQ9LC5ns+SUAVHjkrBrsCGDn0OesziUxEMTKWNOvTek6BinrOhQ05xnwsxS5LVVlUicsooLX63xwgssHi2y2PuMpLjgHOn1wXIKVKRKT1uH731gthTX0cbQjgyiEQw7a3kBxwnrNpMBkyRrB/cNTVB9bZusxUv5HzWSanIanZdN2qOEMp8PKKNjBoX6pqmzdTuk9558G6GSFvgXMqV5u6wE0soVnEcoI+cCEK4U5UDWehR5ND1LLxwcA==;JhRcxRsn1Ns1B1IJ38l+kA=="
+secured: "79+PmIe6JB8U63CqmzllZ7whTNGgd52EkmrvXB3j7H7npRPzDo7bmfU0lAmqXblHBPZ3vxTxLO/v6whidT3a/dB7wnLI/PR0JE0L21l82cfBit/eWa+KlFFztYwmp8ilkHrpu4pzaSCSIHPrKpEkcaBdxnI+J3cpEwITa8m95n3gzv9228UjznunhY4f0QYjLschGxHdP6/fFqaGrWovQTBzg66wgDmrWgQ+kcvIa7W3p5Ux6MMf00uSHeUdwgx7fPNHF4MauAew9eWCdS8VCQ==;hH2rkn/UnRVpRKxyhy1ooA=="
 ---
 

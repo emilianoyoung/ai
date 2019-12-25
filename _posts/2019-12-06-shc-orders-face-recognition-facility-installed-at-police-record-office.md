@@ -52,21 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "Criticism Prompts DHS To Abort Facial Recognition Of US citizens"
-    excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
-    publishedDateTime: 2019-12-05T21:36:00Z
-    sourceUrl: https://www.pymnts.com/news/biometrics/2019/criticism-prompts-dhs-to-abort-facial-recognition-of-us-citizens/
-    ampUrl: https://www.pymnts.com/news/biometrics/2019/criticism-prompts-dhs-to-abort-facial-recognition-of-us-citizens/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/criticism-prompts-dhs-to-abort-facial-recognition-of-us-citizens/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
-        width: 457
-        height: 299
   - title: "Facial recognition to monitor sanitary workers in Andhra's Ongole district"
     excerpt: "ONGOLE: As per the directives of the State government, the Ongole Municipal Corporation (OMC) authorities are planning to monitor the activities of sanitation staff via facial recognition using CCTV cameras installed across the city. At present, all municipal bodies in the district including OMC use biometric thumb impression system for ..."
     publishedDateTime: 2019-12-08T05:04:00Z
@@ -136,6 +121,19 @@ related:
       - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
         width: 700
         height: 394
+  - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
+    excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
+    publishedDateTime: 2019-12-04T22:24:00Z
+    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 30
+    images:
+      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
+        width: 960
+        height: 640
   - title: "Children’s Hospital buys potentially illegal face-recognition technology"
     excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
     publishedDateTime: 2019-12-08T01:07:00Z

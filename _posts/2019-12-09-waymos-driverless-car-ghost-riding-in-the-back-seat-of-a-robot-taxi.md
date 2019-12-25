@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/9/21000085/waymo-fully-dri
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Waymo’s driverless car: ghost-riding in the back seat of a robot taxi"
 
 related:
-  - title: "Waymo self-driving taxi service app finally arrives on iOS"
-    excerpt: "Waymo, Alphabet’s self-driving tech company, has officially launched a mobile app on iOS, making it possible for residents in Phoenix to directly hail one of the company’s autonomous taxis. The app for iPhone joins the Android version Waymo launched on the Google Play Store earlier this year. The move hints at the eventual large-scale ..."
-    publishedDateTime: 2019-12-05T21:55:00Z
-    sourceUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/
-    ampUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.8BDFBBFC8A5B01944C4B8D8813F65932
-        width: 700
-        height: 437
   - title: "Self-driving Tesla slams into a cop car — and the driver blames his dog"
     excerpt: "On Saturday, a Tesla Model 3 on auto-pilot crashed into two vehicles — one of them belonged to the Connecticut State Police, according to ABC News. So why was driver relying on the self-driving software? He explained that he was checking on his dog in the back seat, said police, who were called to the scene in Norwalk, Conn., to assist with a ..."
     publishedDateTime: 2019-12-08T20:57:00Z

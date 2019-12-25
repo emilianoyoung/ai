@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DA999978419E4CC8B8B6DD228E70B5A3
         width: 700
         height: 366
-  - title: "Waymo self-driving taxi service app finally arrives on iOS"
-    excerpt: "Waymo, Alphabet’s self-driving tech company, has officially launched a mobile app on iOS, making it possible for residents in Phoenix to directly hail one of the company’s autonomous taxis. The app for iPhone joins the Android version Waymo launched on the Google Play Store earlier this year. The move hints at the eventual large-scale ..."
-    publishedDateTime: 2019-12-05T21:55:00Z
-    sourceUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/
-    ampUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.8BDFBBFC8A5B01944C4B8D8813F65932
-        width: 700
-        height: 437
   - title: "Gridlock solutions envisioned with driverless cars, flying taxis and delivery drones"
     excerpt: "\"The challenge is that AV and AI (artificial intelligence) is complicated to implement in urban environments,\" said Bernard Schmidt of the authority's AV division. \"There is human bias in programming the computers. If I only provide a picture of a German shepherd, the vehicle won't run over the German shepherd but it will run over the chihuahua.\""
     publishedDateTime: 2019-12-07T14:12:00Z
