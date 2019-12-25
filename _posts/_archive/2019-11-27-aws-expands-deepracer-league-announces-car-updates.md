@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS expands DeepRacer league, announces car updates"
-excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
+excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with ..."
 publishedDateTime: 2019-11-27T14:48:00Z
 sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
 ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
@@ -64,6 +64,6 @@ related:
         width: 512
         height: 512
 
-secured: "MD+7MYFYgdGxKpNiOZcXMIIsxhCLHNDPgKYS02hiHIcLjXwjvPsqfuIZz270sDK4ayiQ189FRw68ynAsAv3JJInBgQQyqSraqyd3f6pUOytYF3MvehbUWyOBzDH5c9DRDyPSskJCm/VUVTZ45MYva/zbIRlGzN/CK29Eau9mwxkMJ7pKLEsfefZI7G5q3fjEXXqf8Kt4cksqN1bVNABZ7JUBk0lNLTzoEcTcIOI2l4Tll7G3D/Yy15O8rttn2FNsMiZKMMp0FBfK4cpGCtGH+w==;0oRpt/0M/VLkWe4GsRdSbA=="
+secured: "zLbw5Zvg+8ol8vq3164lmbRlEMyxm3mPZiaoHUJO511f0DgSi754i07aoiZUnT4Mki6A8DVm3XKNWcBSYNJFHSDYICY9IgaRAZAcuDemK+v+UXGXC/ZRnt8YPVF4lkkoTkama2VrUfPb1y1GYTVtzLOqLaashfMyZTECvfqsjTl2AnVMs2krQoTLwcJ8GDdfP+3uzGvuDVpnj0bTjuFHWcZ4xnpkYqJIoNSGS8uaiVqEO1CuQH757PDSq95D9ywVlTKFJe8ATezsbVbNVnDN8g==;qzsNcgT+qt9ft8j8COZkqg=="
 ---
 

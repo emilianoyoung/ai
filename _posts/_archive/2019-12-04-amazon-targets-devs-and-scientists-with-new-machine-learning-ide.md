@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Amazon targets devs and scientists with new machine learning IDE"
-excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
 publishedDateTime: 2019-12-04T14:52:00Z
 sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
 ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -83,7 +83,7 @@ related:
         width: 700
         height: 350
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data ..."
     publishedDateTime: 2019-12-03T18:23:00Z
     sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
@@ -95,6 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
     publishedDateTime: 2019-12-06T00:00:00Z
@@ -109,6 +122,6 @@ related:
         width: 800
         height: 500
 
-secured: "icruT95w+iLv0drkEgAD3rvCpf83sARc+i36vXyKaj1k3CCl0ylSZWIiRf8bTqtsMPoqsW1zPhMObCLgjPmdx1exvSRS1iBAIcZb3CDZaV5kRxqnqmpmGVGgAZXRIBXKIr0MzYUCWl4LX16Kma29hoku7q6EpAfWX/vSqAOK6UcTNEM7kX+FF5P7HR3DEPRDzYErOS5I0XiQ+e3t4lyKMTfXGgZynXnITxzpsCdueYV4V0vgKQm4sRdeLnziuc7NcoUND3UPKausdqL1/FwE0w==;irti5alJpukmqCRJYN337A=="
+secured: "xfQUP4PQdIu5v007BixBl7Y4rVul+Q7481pCDcN8b6iGFzBm5uLZuRRyl1/vK+yI8BX86veIk5pW4tauWGDH9zoiUF5PcsHQtQuHKF5Km+azde5m8w2/GDOQbODsVaKX4+TZ8Jv1B3T/Ixm4FHe7Faw23W8ZbmdVbIjEob+1bp4hjek7AQymVK0J7AxkkudvYmK7XQ4q/hdgiDkDx1ZlKdEM6kIJka75Egd8Ub8Pl0CL2h62r1d1c46xSVLGBb4FC4rcFITQkK7fHDSz3DE9IA==;PkqjdQMArXmFSxrWO/r32w=="
 ---
 

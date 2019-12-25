@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "AirAsia X to use facial recognition instead of boarding passes at Avalon Airport"
-    excerpt: "AirAsia X Malaysia CEO Benyamin Ismail shows the new face recognition technology to Avalon Airport CEO Justin Giddings. Picture: Alison Wynd Mr Ismail said AirAsia X has worked to secure the personal data of those using the FACES technology. “It’s an option for passengers if they want to use this facility; if they want a seamless process st ..."
-    publishedDateTime: 2019-12-05T06:25:00Z
-    sourceUrl: https://www.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    ampUrl: https://amp.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    cdnAmpUrl: https://amp-geelongadvertiser-com-au.cdn.ampproject.org/c/s/amp.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.13395A142C83965C66FDC0588B26D25B
-        width: 700
-        height: 394
   - title: "Criticism Prompts DHS To Abort Facial Recognition Of US citizens"
     excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
     publishedDateTime: 2019-12-05T21:36:00Z

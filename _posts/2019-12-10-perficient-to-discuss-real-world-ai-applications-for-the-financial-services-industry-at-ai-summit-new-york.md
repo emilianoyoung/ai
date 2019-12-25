@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T15:33:00Z
 sourceUrl: https://www.marketwatch.com/press-release/perficient-to-discuss-real-world-ai-applications-for-the-financial-services-industry-at-ai-summit-new-york-2019-12-10
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     width: 1200
     height: 630
     title: "Perficient to Discuss Real-World AI Applications for the Financial Services Industry at AI Summit New York"
-
-related:
-  - title: "Indian case studies talk about AI application but fall short of discussing responsible AI"
-    excerpt: "But these strategy documents mentioning AI need to do more to highlight its implications for access to services in a particular sector. Researchers need to bring specificity in not just impact, but also applications and ethics into their analysis. The proliferation of AI in public and policy discourse is in-part rooted in computational changes ..."
-    publishedDateTime: 2019-12-05T06:30:00Z
-    sourceUrl: https://theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/
-    ampUrl: https://theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/opinion/niti-aayog-meity-want-responsible-ai-but-dont-say-whose-job-it-is-to-do-that/329379/?amp
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.E3AB6F528551CBDE3D85218A41FBEBED
-        width: 700
-        height: 393
 
 secured: "eUsuuDfHr0psoxfHzq+262LV3ClIeXnLjuLg/vD6X2TLRXWU1FPmLeuzhzvWjTLFsnYvSgFQgfsnRnG6/wuMuGYZgUCl8v5eefpQdmAoDZrc4lgmV/fu3s/idIu00WZT15wBRkHsDNQddfkP+KEbIQ2SWPahlNh1GHa6RCtEI9PWJZuUHacwsLKBREdpCWFFGDi0f9yDD2kPQcnWaM20PVgg/RqvqBKQI0oNHQmnQg+maAvNb9yi4VR6wWtqk0aIPKBOa9HgEV0ZCvkvEqfWZw==;BDCrRt9c2245KQZmHrMTsA=="
 ---

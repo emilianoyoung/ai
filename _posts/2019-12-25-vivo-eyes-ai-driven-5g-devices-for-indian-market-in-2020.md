@@ -1,33 +1,43 @@
 ---
 category: news
-title: "Machine Learning Market to Gain Impetus as Demand for Smarter Devices Rises"
-excerpt: "PUNE, India, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- PUNE, India, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Market Highlights The elevated emphasis on AI is creating several opportunities for the progress of the machine learning market. Reports that convey interpretations into the information and communication technology industry has been offered ..."
-publishedDateTime: 2019-12-23T11:13:00Z
-sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
+title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
+excerpt: "New Delhi: Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with ..."
+publishedDateTime: 2019-12-25T07:21:00Z
+sourceUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020-11577257069395.html
+ampUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
+cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
 type: article
-quality: 82
-heat: 182
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI
-  - Machine Learning
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Machine Learning Market to Gain Impetus as Demand for Smarter Devices Rises"
+  - url: https://www.bing.com/th?id=ON.969ABF7B6FC6366519D18FF1657274B3
+    width: 600
+    height: 338
+    title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
 
 related:
+  - title: "Machine Learning Market to Gain Impetus as Demand for Smarter Devices Rises"
+    excerpt: "PUNE, India, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- PUNE, India, Dec. 23, 2019 (GLOBE NEWSWIRE) -- Market Highlights The elevated emphasis on AI is creating several opportunities for the progress of the machine learning market. Reports that convey interpretations into the information and communication technology industry has been offered ..."
+    publishedDateTime: 2019-12-23T11:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial intelligence (AI) Market Expert Guide To Boost The Industry In Global Market By 2024"
     excerpt: "Healthcare, Oil and Gas, Media and Advertising, Retail, Transportation and Automotive, Other. The research presents the performance of each player active in the global Artificial intelligence (AI) market. It also offers a summary and highlights the current ..."
     publishedDateTime: 2019-12-23T17:17:00Z
@@ -80,21 +90,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
-    excerpt: "New Delhi: Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with ..."
-    publishedDateTime: 2019-12-25T07:21:00Z
-    sourceUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020-11577257069395.html
-    ampUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.969ABF7B6FC6366519D18FF1657274B3
-        width: 600
-        height: 338
   - title: "Deep Learning Chipsets Market Segmentation, Application, Technology and Analysis Research Report 2025"
     excerpt: "Global Deep Learning Chipsets Market Professional Survey Report 2019 studies the latest industry trends, market development aspects, market gains, and industry scenarios during the forecast period. The report provides the details related to fundamental overview, development status, latest advancements, market dominance, and market dynamics."
     publishedDateTime: 2019-12-23T09:26:00Z
@@ -153,6 +148,6 @@ related:
       domain: arnnet.com.au
     quality: 6
 
-secured: "wvFwDpfaY6BZZAAXBfIqD2U0ymiTM13YzQdOg3zhbtJFKil0pKz+q1rnzJhsyO/d+ynCjO5sg0t1n6o/H5SUvtM6X75hAMrpkryx6sILlpviUZaSMXNGjNL3tuGbLbqoS69HIIwjH0B4uYVHshwwZuskW/UISUSKd6OOtPT8OeD0+Vus2fumgK/M19xIiGT48nsWObaCGGP1penZdjv9IUdEBztdTMlhVF41K418KwnDffsesOGfB7qAkzztHGmp0bgodlKqKbxTwO9z82KDpA==;j/8siMUg5Bx+6jFUJyjmpQ=="
+secured: "ITvO9E4/jN9LmAb353fSKDlD6kga4Q1DFwkL2xPj5M+7NdwO+IJwaKAG1cBJnG2CZ/dAukmf4mADh6W0dPVubkLRRhwpVaM+C0IIrnQh6uNf66zsYackcIL/pEAOMM0tT1waHUuf59qVh6Hcfiv7y3iLAPdqsLKIPWXf42oujw6N6a9NCgh9kHJP2fNG3Tz5y+M7lLq9bA7MkEq5E80uo7Y4viPaBLKIR6XlT72mpOUh84E0Wf71tgbrJF6e7BDOMLrFeFv+AxOXcZiilOE5aw==;V6ptWqZk0B5d+T2Q9Kc+hg=="
 ---
 

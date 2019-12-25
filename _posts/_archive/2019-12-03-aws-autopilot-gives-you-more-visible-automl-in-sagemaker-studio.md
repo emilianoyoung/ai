@@ -1,16 +1,16 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "This is available as part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. “First they build this OK, simple model initially ..."
+excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
 publishedDateTime: 2019-12-03T18:32:00Z
-sourceUrl: https://uk.news.yahoo.com/aws-autopilot-gives-more-visible-182248355.html
+sourceUrl: https://au.finance.yahoo.com/news/aws-autopilot-gives-more-visible-182248355.html
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
-  name: Yahoo!
+  name: Yahoo7 Finance
   domain: yahoo.com
 
 topics:
@@ -26,18 +26,14 @@ images:
 related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T19:18:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
+    publishedDateTime: 2019-12-03T00:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
     type: article
     provider:
-      name: Yahoo!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
-        width: 4032
-        height: 3024
+      name: MSN
+      domain: msn.com
+    quality: 19
 
-secured: "RJA2W9HXt1o1rak/PL7YUFXkje7roOau2vmk7+BMzIEeWPuaXSAGjdeGlEgN3ElO98Hv22fOXu2FMK3wQCqEfaB2neeJ8DIuzAk+kceb/c5E54LUAk5McWVO+ZSxQL7RxQL2apDtCVXACovFjuYrUSVG0DUnXUaQP5ZKMzmuUvYpCThtjQ+PbGh8MveDAXRfqWfyTj4n2cfzBL8Kmj2VYp1Tl9cRsdUd9vk07cluJmQSG2D09OgJK2xPBuvUw1X6uXv05Bbfffgm9WBeYVCOrA==;MB70lcHrTeLKkB7UJXbiuw=="
+secured: "8D6VRdh2yZGGA9GezbnBLOBEg6a7zLEQ6ZQxlkgWeKS08k+tD37T8qrNHEqtlvkPrWxeBW/fHnQSC6isP028gWfHlRwyzesbKRE8C6GXR/O0fkD171DzSPc2pq9rg9WyxOq3Jr3LNbIN4xp7BQqzGDYjYm5CEAqEJ+LVhmKQhBoOkZQ4AsGJQxAr64MkuHWr1B1NfrRWGfj2Vv3IkZOHIeOahYsfYNWcHVITTzDglF08vweZdetYYBLcplmHOlxx193RBGCYwHstHZ+Pk0VoEg==;DenPgUuEFW6kZIubYI7lJQ=="
 ---
 

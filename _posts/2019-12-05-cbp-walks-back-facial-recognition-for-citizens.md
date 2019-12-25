@@ -65,21 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "AirAsia X to use facial recognition instead of boarding passes at Avalon Airport"
-    excerpt: "AirAsia X Malaysia CEO Benyamin Ismail shows the new face recognition technology to Avalon Airport CEO Justin Giddings. Picture: Alison Wynd Mr Ismail said AirAsia X has worked to secure the personal data of those using the FACES technology. “It’s an option for passengers if they want to use this facility; if they want a seamless process st ..."
-    publishedDateTime: 2019-12-05T06:25:00Z
-    sourceUrl: https://www.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    ampUrl: https://amp.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    cdnAmpUrl: https://amp-geelongadvertiser-com-au.cdn.ampproject.org/c/s/amp.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.13395A142C83965C66FDC0588B26D25B
-        width: 700
-        height: 394
   - title: "China survey shows high concern over facial recognition abuse"
     excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
     publishedDateTime: 2019-12-05T10:12:00Z

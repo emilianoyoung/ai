@@ -3,7 +3,7 @@ category: news
 title: "Invoke introduces real-time translation"
 excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
 publishedDateTime: 2019-12-23T10:10:00Z
-sourceUrl: https://www.research-live.com/article/news/invoke_introduces_real-time_translation/id/5063282
+sourceUrl: https://www.research-live.com/article/news/invoke-introduces-realtime-translation/id/5063282
 ampUrl: https://www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
 cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
 type: article
@@ -34,6 +34,6 @@ related:
         width: 1200
         height: 630
 
-secured: "DxFrNeszzBzbmM8+w6ciLkWna1eoywMMhTBAW63teDg39xd4GbZ+m9CpiIHN1Pl/tl/GJaNpLwU9Cen/id3Op/DVipxDEvk3aBdBgbbfv4suHgVn0dfzg9La4XXExxit26SpczPP13jgAOnoyWC+dOIgO/EenEbLAdC1bnxkF4cX17iLjvoTUDWPOLrkl9ulBsx7QDr+u66rDVSjUmmX6Zi1JfxbixhZ4zVc9uWw5eeVjtNrxZQiJTQ3iiBuAaBb+/cc5ew9tLw/H74jyxXRLQ==;udA52TZKDpWpQDHSIe3YsA=="
+secured: "1eGtagGxegNWk69w0g8B8ZlGrdRf60mE33+HX3Hl3QzhiUc9O6x/roVIoSVcpnuOeWfcfGhNYmrSqVNUlgRkmKTC7DaMaEoA9ewfSGNjA8TGqQjQjnEvzblkMGUlePSrpHHC1l4s5JyFB/lwrG+pDeNEk7R8y1osaPYxVXNtCsigdQFizims3Hv/pCSM/8Axg5ajGOmNiwRPC0nslUIuFujo5aFl3R6FO4FSbUm2FyUbdO1NTmYh8qcBoAoWEk2Qjp/PlVJaPqs6L8/xLmFI5Q==;Aaa2TtKFkoOs0yCjYucT0Q=="
 ---
 

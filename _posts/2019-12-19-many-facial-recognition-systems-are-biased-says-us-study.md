@@ -7,7 +7,7 @@ sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias
 ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
 cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87

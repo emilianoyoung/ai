@@ -65,21 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "AirAsia X to use facial recognition instead of boarding passes at Avalon Airport"
-    excerpt: "AirAsia X Malaysia CEO Benyamin Ismail shows the new face recognition technology to Avalon Airport CEO Justin Giddings. Picture: Alison Wynd Mr Ismail said AirAsia X has worked to secure the personal data of those using the FACES technology. “It’s an option for passengers if they want to use this facility; if they want a seamless process st ..."
-    publishedDateTime: 2019-12-05T06:25:00Z
-    sourceUrl: https://www.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    ampUrl: https://amp.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    cdnAmpUrl: https://amp-geelongadvertiser-com-au.cdn.ampproject.org/c/s/amp.geelongadvertiser.com.au/news/geelong/airasia-x-to-use-facial-recognition-instead-of-boarding-passes-at-avalon-airport/news-story/d352eb8c862a7d2a11b57fcf5fafa2e8
-    type: article
-    provider:
-      name: Geelong Advertiser
-      domain: geelongadvertiser.com.au
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.13395A142C83965C66FDC0588B26D25B
-        width: 700
-        height: 394
   - title: "China survey shows high concern over facial recognition abuse"
     excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
     publishedDateTime: 2019-12-05T10:12:00Z
@@ -288,6 +273,6 @@ related:
         width: 700
         height: 350
 
-secured: "v6my2DpF63hFtELmPE10giWFpBVtp4K/37bfPBNv8RDVB6CSZwbRwIrcBG3V4KDq2ldLFgFu3CTlaIqmJqvaW32Wca9Wd/0RhajlAKV3bip6NmXNwXcw44hKPByni1Rh8hMFNRqyb+GqYMDtFTzY3eVrfaMTcNO9nTS7ZJuZIifLGqokXMXyR3oadWKkiW1zPSqwYZi8UCyVHXb8wu7jrHqwAqZPoEh7lX3xG8w1bxfsGGC/EZXULk51QrSe+YanZVXSz0KOVhb36NTfO9inOw==;HPgqozjGrs2g0UKyFEUNKQ=="
+secured: "CyCP9Po6eV0Hk5mHpUXjazdFVKwd3xF8UQNzLXj/rYkBJoYh/XrNu8GFVv1XKFiZ3NTTsCoFzLaWfvTG0tePcBtPhB3BXctFDzuLX3Rt+rD5YX3frwtsorpV66cEIVFznJMeSdT2BW1dCdKCzkPHmcKQSnIqbod/NhBSYVPiJ5Dz/hw3FvWbZ3vbiIevXS69LD0N41B7VKKnrK83Wj+9c/MeC96A1Kg9ai8A0BCo9jZVNt4t5ssHX4lcfUo8FxEZb569JmrMyu4HsFA+Fb4+mg==;5CngFWbPyqc8JNHrGg4Ymw=="
 ---
 

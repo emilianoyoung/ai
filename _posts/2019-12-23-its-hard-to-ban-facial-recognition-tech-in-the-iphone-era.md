@@ -56,7 +56,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 74
+    quality: 76
     images:
       - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
         width: 700

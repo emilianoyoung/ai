@@ -94,6 +94,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
+    excerpt: "New Delhi: Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with ..."
+    publishedDateTime: 2019-12-25T07:21:00Z
+    sourceUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020-11577257069395.html
+    ampUrl: https://www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/vivo-eyes-ai-driven-5g-devices-for-indian-market-in-2020/amp-11577257069395.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.969ABF7B6FC6366519D18FF1657274B3
+        width: 600
+        height: 338
   - title: "Artificial Intelligence in Marketing Market Scope, Growth Overview and Development Forecast 2019 to 2025"
     excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Marketing Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2025 Artificial Intelligence in Marketing Market report contains a forecast of the next 5 years, starting 2019 and ending 2025 with a host of metrics like supply-demand ratio, Artificial ..."
     publishedDateTime: 2019-12-17T10:33:00Z
