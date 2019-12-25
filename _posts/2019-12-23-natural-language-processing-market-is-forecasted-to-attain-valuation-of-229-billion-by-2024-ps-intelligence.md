@@ -250,6 +250,15 @@ related:
       - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
         width: 1200
         height: 627
+  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
+    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
+    publishedDateTime: 2019-12-25T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/ai-auto-insurance-market-2027-130500599.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 6
   - title: "Global Self-driving Car Market, Forecast to 2030"
     excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
     publishedDateTime: 2019-12-18T15:03:00Z
@@ -305,6 +314,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "kjm7BQLSOntrsSL1sN4E1jzGt2sx9cvFIiO0Y68ZnYKYEY+c6n4aK/uqry8Nu5xrQYr9Eiqr1yP2DTYSHKGuznv6A7hcPfwK8dabz7DeiQ6L41zum0YbBnbR4zeg4r18+bAhQkHom97YBpId4PDTydzot28PO2nBxeG4uIQ5UrS15u7mUAzsFiUxBCZm3D6oP8HSMCbmagVx9bpgdGDG4b7ZulshyYW7gkdf4M6Vv95a/792fywSVU6Rt3288uISiqxJGEkAQwsHXZB5bxSXAA==;sKDjfeVMGRd5Bd5uTQbMew=="
+secured: "AtrladPnIK0aI7uRkvocFkQxI2rfMKBEl5SXhnQoGRuC+NcTIGL6zDueBRL3Uf6mDxUnihW4MDyR0i/zGP6UcAvqOKEcw6boQ7R5raEgW9c1Oh7lARVYFWWPpmq/vXjh5MkwQEblT3lpWycuLECUMz+fCiGptVj0EfNKXk1/j438VEQqnd14zJ3VrtFOFpKmd4JF+9z4dC5Hw9U0Ix8aLRXcSK19wrqEEhs5qnvTBij67heX0BtU6vRl2/ZReK7vkc7J2A8heKmUuNMn9Q+F0Q==;mC+iZ+MTAPinfRYEI4AK+A=="
 ---
 

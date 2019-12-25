@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
+    publishedDateTime: 2019-12-25T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
+        width: 700
+        height: 495
 
 secured: "zRqLEgSPz/HWzNbRpdswRVqpc+FlUPAtVHEvDGYm1jx8yipRhTTOHj1qsrHbtsxCoCbkZCG0is5M6TucZ9CZ9A5MVsP4XCH+kzGxhPafTWcmKMLPC+PldkcCDTc1WFhJlgwK6Z1c9WM9UxOyrvn7LN+dtl1IWNr6Jsi8HigJfpo7V+KZVl7Wu6OhG+fA3flgv2XYxb+EnCKH9FiMV7vR0wEElJ0EPRLUtvsplv+dov3QxSTv4XNfJy9ki2kkbBDcupiptSQeVVVJvB+zPmiw0g==;ebeb9dzor8J7cyjHlTfr1g=="
 ---

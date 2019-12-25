@@ -307,6 +307,19 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
+  - title: "Baidu and BMW To Launch First Self-Driving Car On Chinese Roads"
+    excerpt: "Chinese search giant – Baidu – and the Bavarians from BMW are joining powers to compete with Silicon Valley’s best and brightest. The two companies are working on a joint project to produce a self-driving car for the Chinese market. Baidu reports ..."
+    publishedDateTime: 2019-12-11T00:00:00Z
+    sourceUrl: https://www.bmwblog.com/2015/12/11/baidu-and-bmw-to-launch-first-self-driving-car-on-chinese-roads/
+    type: article
+    provider:
+      name: BMW BLOG
+      domain: bmwblog.com
+    quality: 39
+    images:
+      - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
+        width: 980
+        height: 551
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
     excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
     publishedDateTime: 2019-12-13T18:58:00Z

@@ -316,6 +316,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
         width: 700
         height: 392
+  - title: "Baidu and BMW To Launch First Self-Driving Car On Chinese Roads"
+    excerpt: "Chinese search giant – Baidu – and the Bavarians from BMW are joining powers to compete with Silicon Valley’s best and brightest. The two companies are working on a joint project to produce a self-driving car for the Chinese market. Baidu reports ..."
+    publishedDateTime: 2019-12-11T00:00:00Z
+    sourceUrl: https://www.bmwblog.com/2015/12/11/baidu-and-bmw-to-launch-first-self-driving-car-on-chinese-roads/
+    type: article
+    provider:
+      name: BMW BLOG
+      domain: bmwblog.com
+    quality: 39
+    images:
+      - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
+        width: 980
+        height: 551
   - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-10T14:03:00Z

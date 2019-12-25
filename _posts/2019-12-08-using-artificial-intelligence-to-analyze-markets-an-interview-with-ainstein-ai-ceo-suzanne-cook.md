@@ -70,19 +70,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Virtual banks and FinTech to shake up banking industry in Hong Kong in 2020, according to KPMG's outlook"
-    excerpt: "Leading banks will take greater strides in the year ahead to adopt AI and related digital solutions and collaborate closely with FinTech players to achieve longer-term savings. The year 2020 may also see an increased focus on customer intimacy in the corporate market. Banks that are able to leverage the data to predict behaviour and create ..."
-    publishedDateTime: 2019-12-04T23:25:00Z
-    sourceUrl: https://www.yahoo.com/news/virtual-banks-fintech-shake-banking-084400150.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "Verint Systems to Spin off Cyber Intelligence Unit"
     excerpt: "CFOs and their companies are becoming inundated with data. Finance teams are continuously incorporating big data sources and tools, Internet of Things technologies, artificial intelligence and machine learning solutions, advanced computing power, and evolving finance software and systems into their work processes. Download this research report ..."
     publishedDateTime: 2019-12-06T02:11:00Z

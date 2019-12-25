@@ -253,6 +253,15 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 14
+  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
+    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
+    publishedDateTime: 2019-12-25T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/ai-auto-insurance-market-2027-130500599.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 6
   - title: "Global Self-driving Car Market, Forecast to 2030"
     excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
     publishedDateTime: 2019-12-18T15:03:00Z

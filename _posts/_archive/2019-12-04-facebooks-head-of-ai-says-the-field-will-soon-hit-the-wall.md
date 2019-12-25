@@ -32,15 +32,13 @@ images:
 related:
   - title: "Facebook taught an AI the 'theory of mind'"
     excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-06T16:00:00Z
-    sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+    publishedDateTime: 2019-12-06T18:42:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/facebook-taught-an-ai-the-theory-of-mind/ar-BBXS7kA
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
         width: 700
@@ -59,6 +57,6 @@ related:
         width: 700
         height: 466
 
-secured: "uYCJwmzfAO7To6tdvtsYUDwNg97nndX2pIW+WbWwxpgzg7QXy55qHluVqqN+2wFqImHCPer6i24SbhOHqIxQag1frjRCAGW7gfRvGQdSX0BhBOxGlAfgTqB92sgMjIorvmoJd2qTObHZ4PFXC2+PCSuJm8CDQGAII8+KOO9yP99wRsDcxLvXXkuoyPg8BVSGrryMcZGxrtCl6Em/E6qgnmcySYbMjWzLnKZrap1B08E38vgOkUpsxZ4cN/t/TjR7Sfa5df2c5R7L2+XXrjcGMQ==;R9mgn62yKa78jkus2idh7A=="
+secured: "QdGxG7zpsBa7auaEpwf3TGd/w1AcTrFCfT+I058lWYbDXaejKrvg7tyamq5DceV8kSzbAGJR292nSSXWdMllqKuRaM+IBfywVihBragbfz+AOhfhn9N+fFa268s1oo/srMMjZRlHn83PfecD4+0K4cG1nAXOCf+pUgYnfDHlyWAKQRNV72jhPs5m/MyI/oCyzad7ob04U6lsLUlzuvZ0M3Gn76Bdh3/B2Tq31NR4O7ZAdHk/EONJ8IvUQJJawZ/qRsEkn5QzmovBS42dqc7zaA==;Qd6oBIYTAt7A5U65wmsGSA=="
 ---
 

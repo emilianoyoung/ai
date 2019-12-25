@@ -328,15 +328,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3FB74C69A3E2DF643492D3FDBB380E8B
         width: 700
         height: 350
-  - title: "JCDecaux and Movember use facial recognition to test mos for 'pash rash' potential"
-    excerpt: "JCDecaux partnered with Movember to launch the moustache facial recognition dispenser panel, which used special facial recognition technology to identify if a person had a moustache and then offered them a facial scan - with a twist. “Show Us Your Mo” scanned a man’s face, detected a mo and then cleverly analysed the potential for “pash ..."
-    publishedDateTime: 2019-12-04T23:22:00Z
-    sourceUrl: https://www.adnews.com.au/campaigns/jcdecaux-and-movember-use-facial-recognition-to-test-mos-for-pash-rash-potential
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 13
 
 secured: "eb9UcpwzfT1Elhd/37RyzMutoMVL4rafNuyyDpbpB6NYODLafJPZa6/olT+Pvbmu4spgqNrpOX7q1JRs2iNJR2ziZn+AWCCFdMOWMpCkQuFKRRheuT/tTFgHDCvCweWJqMVyBHJk9cZb/AVffanpznawEB3YwRuoNxKRbegvpBoxyGgpZBkOclZ/OONwAJFsAhglZeuXI2livl335ak5QEq1zCrEm6PmT75K/gZtOzVJjPeGKs6hxlCoM8unDPaseJ2PCQcUflrBUmu14pqGMA==;qri5kLsVHHk2ItMMlAeULQ=="
 ---

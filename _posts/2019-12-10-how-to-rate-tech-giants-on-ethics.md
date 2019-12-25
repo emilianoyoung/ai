@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/charlesradclyffe/2019/12/09/ethical-tech-co
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2019/12/09/ethical-tech-company-rating/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.95FE99422FAB9FF49B55F06ACD61FE10
         width: 700
         height: 507
-  - title: "To Stop A Tech Apocalypse, We Need Ethics And The Arts"
-    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
-    publishedDateTime: 2019-12-04T23:25:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.B164F5E927949445526F27D920C6F66C
-        width: 700
-        height: 393
 
 secured: "AcOum5kwkZWzXG7buFP4sQ0tkZUP3UdMH1FjbEkoreJhugcfyQxVeod+LEZs9NHzIUy2ISXdKOqILFrHZ5JP9cIh1uaQ6vTdP5L3gq3vzBZRQEjNyY4k3pEKFngIB+vdJLvjpVGsp61AAEDs0C25KO8Pv60qS+6psGYT5OT0nfx4aKdkS0NxtzliFp+Cs2jRDr8WV9uR3q+EqP7ucxtqIh+82ouG9cqqeyib4Bs0rm8Kf5QrJVzL/OQpfbFhZ809i4x9qXVwTWXe6LDNSW0YNQ==;TxD0cSbpTpgsIuhxSCdI/w=="
 ---

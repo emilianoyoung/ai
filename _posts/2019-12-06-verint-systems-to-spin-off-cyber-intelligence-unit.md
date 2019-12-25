@@ -79,19 +79,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Virtual banks and FinTech to shake up banking industry in Hong Kong in 2020, according to KPMG's outlook"
-    excerpt: "Leading banks will take greater strides in the year ahead to adopt AI and related digital solutions and collaborate closely with FinTech players to achieve longer-term savings. The year 2020 may also see an increased focus on customer intimacy in the corporate market. Banks that are able to leverage the data to predict behaviour and create ..."
-    publishedDateTime: 2019-12-04T23:25:00Z
-    sourceUrl: https://www.yahoo.com/news/virtual-banks-fintech-shake-banking-084400150.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
 
 secured: "wUtD+MOJgKxNcluZi8bdLUxunhv9LasMPqkB1MWWrRpgP1l1L6jkvYhdNWyvdn1Uhg8ZL0hswI2p4XScURJ7uz08zUiM7IWH3Wf1zYiMH6F+uzio9J+rmF+RPtL/+KA/95pDse9UTplI4D3uvm64zmpyC9mIwgFmsrefhuY9psjCjIcWuRn+r1VYawsRLmXtKLmy6Qg8XpBciuDkgIBD6MiBeO76zugOPQsNtOdNFl/JiPJ8tSHGktGVE6UpOKzpNVsRRtkMl/VAC+Bt+C66WQ==;V08QyVO0F63ApBR6IJvCLw=="
 ---

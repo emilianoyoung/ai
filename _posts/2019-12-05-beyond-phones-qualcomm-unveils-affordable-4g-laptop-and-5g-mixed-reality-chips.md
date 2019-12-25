@@ -8,7 +8,7 @@ ampUrl: https://www.androidauthority.com/qualcomm-snapdragon-8c-7cx-1060485/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/qualcomm-snapdragon-8c-7cx-1060485/amp/
 type: article
 quality: 85
-heat: 95
+heat: 125
 published: true
 
 provider:
@@ -30,6 +30,51 @@ images:
     title: "Beyond phones: Qualcomm unveils affordable 4G laptop and 5G mixed reality chips"
 
 related:
+  - title: "Qualcomm wants everyone to have a 5G phone, announces two new Snapdragon chips"
+    excerpt: "The takeaway theme this year, much like last year, is that Qualcomm is betting big on 5G and AI. To that end, Qualcomm is announcing not one, but two 5G mobile chipsets this year, along with a whole host of other 5G talking points across various market segments. As a flagship chip, the Snapdragon 865 boasts Qualcomm’s highest-performing ..."
+    publishedDateTime: 2019-12-05T00:10:00Z
+    sourceUrl: https://www.androidauthority.com/snapdragon-tech-summit-2019-1058502/
+    ampUrl: https://www.androidauthority.com/snapdragon-tech-summit-2019-1058502/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/snapdragon-tech-summit-2019-1058502/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
+        width: 700
+        height: 357
+  - title: "Qualcomm announces Snapdragon XR2, world’s first 5G capable XR chip"
+    excerpt: "The company claims that the XR2’s CPU and GPU performance are double that of the earlier version, while artificial intelligence (AI) processing speeds have increased by 11 times ... the XR2 doesn’t seem like something mainstream consumers will take advantage of. Instead, the chip is aimed at enterprise customers who will use the platform ..."
+    publishedDateTime: 2019-12-06T01:25:00Z
+    sourceUrl: https://www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip-11575594860091.html
+    ampUrl: https://www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip/amp-11575594860091.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip/amp-11575594860091.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.F9A94ABC6717C7241F4D35CBBD7F5C84
+        width: 600
+        height: 337
+  - title: "Qualcomm Snapdragon 865 Amps Performance, Cameras And AI For Flagship 5G Phones"
+    excerpt: "There also one other wrinkle with this two-chip solution. Reportedly, Qualcomm is mandating that OEMs will only be ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents ..."
+    publishedDateTime: 2019-12-05T14:55:00Z
+    sourceUrl: https://hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+    ampUrl: https://amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-865-x55-flagship-android
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.4A819C9C5838927F376B3921CDA0C3D3
+        width: 700
+        height: 495
   - title: "Qualcomm expands laptop chip range with Snapdragon 7c, 8c for mainstream computers"
     excerpt: "Purpose-built with the instant-on responsiveness and multi-day battery life of a smartphone, it comes with an integrated Snapdragon X24 LTE modem and the Qualcomm AI Engine and is designed to support ultra-thin, fan-less designs for mainstream use. The Snapdragon 8cx is the most advanced of the chips, targeting enterprise computers. This comes ..."
     publishedDateTime: 2019-12-06T08:47:00Z

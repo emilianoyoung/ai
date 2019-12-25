@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T20:00:00Z
 sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/apple-reveals-new-neural-network-training-modules-for-truedepth-camera-to-allow-partial-face-id-shots-more.html
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 600
     height: 334
     title: "Apple reveals new Neural Network Training Modules for TrueDepth Camera to allow Partial Face ID Shots & more"
-
-related:
-  - title: "AWS reveals new additions for global Partner Network"
-    excerpt: "artificial intelligence (AI), machine learning (ML), EC2 Spot, Elastic MapReduce, Redshift, containers, running Microsoft workloads on AWS, landing zone, data engineering, security and compliance, server-less, Internet of Things (IoT), among others."
-    publishedDateTime: 2019-12-04T23:56:00Z
-    sourceUrl: https://www.arnnet.com.au/article/669431/aws-reveals-new-additions-global-partner-network/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/aws_andy_jassy_2.jpg
-        width: 740
-        height: 462
 
 secured: "BbWYw/xFATvHaSy5GfS6ua19Z+sPp4eCS/TkvN0QuT8W2dVJWJKLPqypndB5D9Gu2rtDY+vY40L0VeYgBYBoLs178NVyx/xQii8FPWNcCVbvU5VF3BUwp4vj/BJzeHQ8XaSGQidOh7JgaWVVwp20iOpRsCWHRzGCvZcyrUbX8V8LgWHZ9jSRGkbiL0Vjg5sTTDkyuwP/Fw3GNUtpUisOP2IrnFAly5ozmP0BRX77zO5CoifcfhBCkLMJaaLOrW1nV90wtCZBaAkHMmVJN5rxuA==;JOnZwUgszuQ0aNET4l1dnQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 368
+heat: 358
 published: true
 
 provider:
@@ -328,15 +328,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3FB74C69A3E2DF643492D3FDBB380E8B
         width: 700
         height: 350
-  - title: "JCDecaux and Movember use facial recognition to test mos for 'pash rash' potential"
-    excerpt: "JCDecaux partnered with Movember to launch the moustache facial recognition dispenser panel, which used special facial recognition technology to identify if a person had a moustache and then offered them a facial scan - with a twist. “Show Us Your Mo” scanned a man’s face, detected a mo and then cleverly analysed the potential for “pash ..."
-    publishedDateTime: 2019-12-04T23:22:00Z
-    sourceUrl: https://www.adnews.com.au/campaigns/jcdecaux-and-movember-use-facial-recognition-to-test-mos-for-pash-rash-potential
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 13
 
 secured: "yWaelQFU/bqRuy2kTxxH0hgKtdIgruBel3XeyN8ypHVVESeNel1mLRg+LzOVWMo7FEGF1xLsZVXALPo5mVzyM9BmkDt8Td32Zdr4YNW31JfRBM3c+YXoONE/l73kmPjY+OhezGNGC54eqUwevVPdDC7VEN1rDnk/M5i6y6zXqxucdbnhvXOayJLERmygAEUiOp4rd2XUm9Q7o2fFVLUln8mhoAXAUyyuZ+GbEUcYkSS3EK5L+TURONZ5e4JAgwfQmWwevsL9pBlPyc9TMcjv8nqwQq1ncVkXSpeOXSl9/08=;mWgFCBFLYCyRLrcK8QkPOA=="
 ---
