@@ -25,6 +25,19 @@ images:
     title: "Top 5 Industries Disrupted by Artificial Intelligence in 2019"
 
 related:
+  - title: "Top Videos Created by Artificial Intelligence In 2019"
+    excerpt: "Artificial Intelligence is ‘the’ technology of the 21st century ... But when you think about the fact that this Nike commercial was written by a neural network trained on seven years of Nike ad videos, the AI enthusiast inside you might want to hit that play button again. In 2019, Google introduced what they called Video Inbetweening ..."
+    publishedDateTime: 2019-12-25T04:33:00Z
+    sourceUrl: https://analyticsindiamag.com/top-videos-created-artificial-intelligence-2019/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9838C36D4B842F4AC9A6BB8A1462C48E
+        width: 700
+        height: 466
   - title: "Why Commercial Real-Estate is the next industry to be disrupted by Visual Artificial Intelligence"
     excerpt: "After all, it’s not a coincidence that we instinctively refer to a deeper understanding of something as ‘looking at the big picture’. Visual Artificial Intelligence mirrors our ability to make quick and detailed assessments based on sight. It’s now becoming possible to create powerful and intuitive interactions between humans and ..."
     publishedDateTime: 2019-12-18T18:49:00Z

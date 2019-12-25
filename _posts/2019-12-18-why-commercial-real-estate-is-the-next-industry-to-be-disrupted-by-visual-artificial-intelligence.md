@@ -32,6 +32,19 @@ related:
       - url: https://www.analyticsinsight.net/wp-content/uploads/2019/12/Top-5-Industries-Disrupted-by-Artificial-Intelligence-in-2019.png
         width: 1592
         height: 994
+  - title: "Top Videos Created by Artificial Intelligence In 2019"
+    excerpt: "Artificial Intelligence is ‘the’ technology of the 21st century ... But when you think about the fact that this Nike commercial was written by a neural network trained on seven years of Nike ad videos, the AI enthusiast inside you might want to hit that play button again. In 2019, Google introduced what they called Video Inbetweening ..."
+    publishedDateTime: 2019-12-25T04:33:00Z
+    sourceUrl: https://analyticsindiamag.com/top-videos-created-artificial-intelligence-2019/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9838C36D4B842F4AC9A6BB8A1462C48E
+        width: 700
+        height: 466
 
 secured: "5g4GwgX7YlQDO756phEPw/9HZOrGqWVy4o0VgbNhlQBDfqwAP9UJlEKsAxe4npoqnJzsu2FHW1b6sM2K+o32AN04h8EfFBWZ8qXa0srWTVm4VxsuPUswZ74pDHInRWnettrbnue7IJtYmIct/yO/BKLwbfejMg3Sg8mprO4IvNaHBD/QV/bepqkgMQB4B21NBGHmgGKVMB9a2F0f8dsjAlkwwxnlM2YqtxtXDdHfWPetlZR0tbaLc0Cbo8Gqjhv4vKY3wZde2LtBRxm8phzGeg==;NQr2VMPoV7yXlZf+GpvyuA=="
 ---

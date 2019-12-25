@@ -8,8 +8,8 @@ ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-
 cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: TheHealthSite
@@ -25,23 +25,6 @@ images:
     height: 365
     title: "Artificial Intelligence to determine whether immunotherapy is working or not"
 
-related:
-  - title: "Using artificial intelligence to determine whether immunotherapy is working"
-    excerpt: "Scientists from the Case Western Reserve University digital imaging lab, already pioneering the use of Artificial Intelligence (AI ... know which patients would actually benefit from the therapy, and who would not. \"Even though immunotherapy has changed ..."
-    publishedDateTime: 2019-11-23T07:43:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.html
-    ampUrl: https://medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-11-artificial-intelligence-immunotherapy.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 72
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/8-usingartific.jpg
-        width: 2557
-        height: 1199
-
-secured: "yDeoa6kpvUM2STPDjgwnLV/0K/GrOvHt27SKqnlWFyy2zreOtB+YSq2w62/jdgUUAb+IbbrGWTwNPiiBZ6mtQ9C144LX3Vikjt4xqmEZY9E2oVBCfCvlgNXREZt7YzOXWvklilCHTFkxp9boa3hUN/4FYbMn2c8r2dGKbhgHAHUS/cfDlTKlsTNzfkS5sKxVKhgmRoM0M86v6JHAVEo3J8IHm54EgsgUtCMoUqSJGS12MGt6Cmhjl9rKc4sGZ1wQUa4R1jC4vYnLgKSNgQZiFA==;0vk3p2Qp8UKDUd+wSoTXjQ=="
+secured: "Vh1ei+VXbbKD+ItAnoQfEia5xJaCgA4reKvYqLDSuMk5EAJnWAbAB7Ty63v0J1WIAPEz6Fl5C/wfA45q14v8M++pP6+qsJyA36KaB4ouKPo3auSjsqlekF8ZBI7FN4rDWd5AKP4r0GnHeZYjim2DrU3Oox5DjkG31I/RGKqQJNdM9mQScjkCN1v5d4QNWUbUrXT8h1BHAxipqu7MDi573GMHRvHMsmLKmDZH5F6wH5IZ2D/5/vz9d2aGxh4rlR+4hcjftXm23RhoIhU/K9GIkg==;Ez3qss5VANxpnDVOGf0QNQ=="
 ---
 
