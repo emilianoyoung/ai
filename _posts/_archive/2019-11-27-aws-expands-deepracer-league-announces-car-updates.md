@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -61,7 +61,16 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-12-01T23:55:00Z
+    sourceUrl: https://www.msn.com/en-nz/motoring/science-amis/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 34
 
-secured: "7/i6BUMC6vn5Yy3X+mguiUspnJLcZjc22D3yRANl1CKTMob+7dbX8tP1UWc4JZHYdZw/KmTUrCcqXKHboEH8ZrqiXKmLsMxgmuxOzrxFz/bnGuYeT2ebgZHge+OmGlrrVVLwYSyryKA41cGn5Fyy3UtI/FyW6Vqa7U1TpaqDnWXOZzoIG7qzVUBde/Cvp50uRmxY/dtW5oFe7tCRuFG3xe8wfKRpQkbeqVSzS2/vh1NL2CMio4KcE1aOCer5FZVF6RUCMkI/ccV6VLCSK3PI+A==;W6pEYeBLCq353O8U1W9Whg=="
+secured: "b0XozUbnmCpSH16uDA70eizPyjdWYAAsjMi01gm91RdF1RD2IiGg/IOj48qFhmigcdQM+lAh7WV0P9OXo1rp3vdOTArY+AdZrg1qSjxp6zyUHd8rFTKZtP92hyA6obdaI4qafs2xdHv2ADTvanRPFrg70HEoQIsnVFr+QejR2l7UKVbz4hCqlY1MsN3/vQbnc9wmw1xka18fRvavs8Tf+TKv2rJgapNpogJAzwe+vbQm/e81DhHX7tyFFsEYpZbXwFeNP7VVhkbBJv9fk5o97w==;PprCGnq+uN+fuqUBwqqx5g=="
 ---
 

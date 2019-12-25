@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T10:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/qualcomm-refreshes-snapdragon-chips-2019-12-11-61975856
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -71,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.63E60029B173F9D4130BBB2E60EEB367
         width: 700
         height: 466
-  - title: "Qualcomm's Snapdragon XR2 is a Dedicated Chip for AR, VR, MR, and Every Other Kinds of 'R'"
-    excerpt: "it also has a bunch of AI stuff coming with it too. A concept headset shown off at the Qualcomm summit The whole thing is being powered by a platform Qualcomm promises to be better than the exiting XR1 chip (obviously). That means 2x the CPU and GPU ..."
-    publishedDateTime: 2019-12-05T20:33:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/qualcomm-xr2-chip-announcement/
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.8281FBBA882531557B0A027A06200499
-        width: 700
-        height: 393
   - title: "Qualcomm expands laptop chip range with Snapdragon 7c, 8c for mainstream computers"
     excerpt: "Purpose-built with the instant-on responsiveness and multi-day battery life of a smartphone, it comes with an integrated Snapdragon X24 LTE modem and the Qualcomm AI Engine and is designed to support ultra-thin, fan-less designs for mainstream use. The Snapdragon 8cx is the most advanced of the chips, targeting enterprise computers. This comes ..."
     publishedDateTime: 2019-12-06T08:47:00Z

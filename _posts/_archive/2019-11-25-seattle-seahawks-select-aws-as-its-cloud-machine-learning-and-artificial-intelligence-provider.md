@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Seattle Seahawks Select AWS as Its Cloud, Machine Learning, and Artificial Intelligence Provider"
-excerpt: "AMZN), announced that AWS is now a cloud, machine learning (ML), and artificial intelligence (AI) provider for the Seattle Seahawks. In addition to moving the vast majority of its infrastructure to AWS, the National Football League (NFL) team will use the ..."
-publishedDateTime: 2019-11-25T14:26:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191125005201/en/Seattle-Seahawks-Select-AWS-Cloud-Machine-Learning
+excerpt: "AWS offers over 165 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
+publishedDateTime: 2019-11-25T14:09:00Z
+sourceUrl: https://finance.yahoo.com/news/seattle-seahawks-select-aws-cloud-140000784.html
+ampUrl: https://finance.yahoo.com/amphtml/news/seattle-seahawks-select-aws-cloud-140000784.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/seattle-seahawks-select-aws-cloud-140000784.html
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://mms.businesswire.com/media/20191125005201/en/758783/23/AWS_logo_RGB.jpg
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
     width: 1200
-    height: 627
+    height: 1200
     title: "Seattle Seahawks Select AWS as Its Cloud, Machine Learning, and Artificial Intelligence Provider"
 
-secured: "p7OdjienD6PzNESkIRl0VLYNSfSLoIro+CYlDHbOUSybg3IzvuHJG+5Vm1pAIQ1Sf1DdhkGjGJQJcYQcWbOQLFnV+JlgHan2DVIC6EB7vXKtpDxqQ0pIZaI5BCdr65CflFZr7msyrychDapluobgX6C5IQ6sEgE5CYS0FonMFyPL+3auyyK1wX1rIxbbmMF70OLzO5Sk9k44kFET4jGlrmEP4bBYlI+n2iVPl0Ppglzb3aQSzdFsseqJBMDNozP28fjQkpocge57UoPPx34f1Q==;Tvzff0BiSurOglDkiGzyjg=="
+secured: "r3fbCefrk+UyaqkfeuUirFZBhjRpTWUk14WwZSsjJW9AXOJiu2W686WpbtSSBznIPAnsTReH2HXSpLBwYJ+vQHAiKVLGcNwg2UbTHh+o7NN8AbCnmpnXMj1AqJO1QwVEP4PXgqce8G/TSQwIfQqGlSAkb6HojRQ6AH5b3MN7rXCxvg2Y/a9pYaV/E1VojsNjMZ3EFPy3N4MZUGJiKx8NHlg1+PfEM+VuDv74cuqvbvwAkDUsRigsAZXg0u1TaAKYK4mdPCqYNvqN1wnEuJ+ecg==;sihhR6c0ldUWY0nUFbcm2w=="
 ---
 

@@ -74,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.63E60029B173F9D4130BBB2E60EEB367
         width: 700
         height: 466
-  - title: "Qualcomm's Snapdragon XR2 is a Dedicated Chip for AR, VR, MR, and Every Other Kinds of 'R'"
-    excerpt: "it also has a bunch of AI stuff coming with it too. A concept headset shown off at the Qualcomm summit The whole thing is being powered by a platform Qualcomm promises to be better than the exiting XR1 chip (obviously). That means 2x the CPU and GPU ..."
-    publishedDateTime: 2019-12-05T20:33:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/qualcomm-xr2-chip-announcement/
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.8281FBBA882531557B0A027A06200499
-        width: 700
-        height: 393
 
 secured: "aROVhRrU7WofQAXi71L+nNa0qlgIst/wCVDjkg6z3AW3cK2Zwl2c3XxpfIUtCZiRLvxtQtY+EWHF+u057kvR8omu7MJnLtcAdLLKx2h2FoLEU4UqaHK60NopPbGB10VEnd0SOv+AJAw1hqF0rBZVcnR5Bd9Be9LMkHsWoRwDHPhF37/1K4op3vcFabPzN4+h0w9lLBhRws8ARppOEt1JyhHtJ7GpP9TnT/I8Cl9vc0u9fjI/79QV3+vDTdp2Y6mmjVXruZMTWbBFn+dCBfO/Ig==;DlQjEx9QOuVIEeI5gacNUg=="
 ---

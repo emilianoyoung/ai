@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Deep learning shows potential to improve chest X-ray interpretation"
-excerpt: "Researchers said their findings, based on a type of AI called deep learning, could provide a valuable resource for the future development of AI chest radiography models. Chest radiography, or X-ray, one of the most common imaging exams worldwide, is performed to help diagnose the source of symptoms like cough, fever and pain. Despite its ..."
-publishedDateTime: 2019-12-03T17:50:00Z
+excerpt: "Researchers said their findings, based on a type of AI called deep learning, could provide a valuable resource for the future development of AI chest radiography models. Chest radiography, or X-ray, one of the most common imaging exams worldwide ..."
+publishedDateTime: 2019-12-03T17:49:00Z
 sourceUrl: https://www.news-medical.net/news/20191203/Deep-learning-shows-potential-to-improve-chest-X-ray-interpretation.aspx
 ampUrl: https://www.news-medical.net/amp/news/20191203/Deep-learning-shows-potential-to-improve-chest-X-ray-interpretation.aspx
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191203/Deep-learning-shows-potential-to-improve-chest-X-ray-interpretation.aspx
@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Deep learning shows potential to improve chest X-ray interpretation"
 
-secured: "Xq8xV/K8nVoojR0Kd8GxWqswPthI3E9UAQ2CZiktIftNa2Tqq17RvrVP4EcEk7Pzhx8LGtOhPvVysjplR9/ByVHsphSFHYdbioWjOL33T6wa0uEZ9M7kJ4XKJ70OYaQGJe63aHeOjLXrXHPvCoXy3SQ4TC8xpZEtKrM2sCrA24LimqC0UtLtZAFW7+jNdj0Ir4Vfaj0rGcc/1hl8Xs5SKcs7tqDtk7mYB0JD6LvVt0L+UD5lQFUzuGG+PX9WtDmNROoDoMJQC3pZ1qk5a8J9+g==;kOV+Kw6JouhGGYjJ+/FClQ=="
+secured: "eosXs+HUQlOKOYpkAIctgnd/8ldhWC0FG8VTuuAWadTq3VffNxLahs/zTzLAyu9rKct6IO7KIZDfynMKEX/8fTBSQY39qHgRObmlZReOnkJtGWHwOl3LtIbV5GpqNF90oX2O/0RQ6fh3ylAtKCzE3i2bWNZEsn5MuKxFkgrGIEsp7AKvvBi143Gzlirmjk9Xqdv0g+Z4r3aAx8bIev+tzqbt3X1SxPlqhQtRoAz+QHK+jaRdTUGdG/fTQ9e0s1y+9+//Nle7bZtJ/Tv+sN+5EA==;4l7KzgE16drM551751oHkw=="
 ---
 

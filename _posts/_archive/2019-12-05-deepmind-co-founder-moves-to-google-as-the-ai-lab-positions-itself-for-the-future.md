@@ -1,8 +1,8 @@
 ---
 category: news
 title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
-excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company’s influential AI lab DeepMind — moving to Google. Suleyman announced the news on ..."
-publishedDateTime: 2019-12-05T18:58:00Z
+excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
+publishedDateTime: 2019-12-05T19:00:00Z
 sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
@@ -24,9 +24,9 @@ topics:
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.66590EE1A6E93F4A98B100F630F134D8
-    width: 700
-    height: 366
+  - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
+    width: 1400
+    height: 933
     title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 
 related:
@@ -117,6 +117,6 @@ related:
         width: 700
         height: 450
 
-secured: "yZVFUqCUGDERbkgr4gFNW5sA32TBO09mTok2isEe/MyUWKYmu7CupSbVs6HPY3cLGOkT/+Nn5ep0DxqRt5uH+bjZtMIypeMwzbjsq+ln3A103Ch3HxWdBVVkf2goFWueZOgZhrGtgYmApO24jD+doBvzUAlMsgWFUSyQW946pEZTIZc6CavCcmQGJyODBaacYTQsmE8jU7sw2GQVIHo3NdyAV+ariT2kkahGTAPKjqQIh1QX3pbtcAxlLuxsf6CsMeG9/fN3541rWiX5BxTfhg==;eyIi4PGPtEH5l4X+gGku9g=="
+secured: "IuajkKdcljIJfdH3QeoR0r/7hg9aEwRT8S8di+JUJewiPunDB8mSc8vqOWIk3lUXygBL+7Ez48Wyf4S6XPgsMq/QVOPaARt7XoD9KDAXugpgTrSpOr3lkRep2c9VBBnqw54Xx7yKLInpVIR7qyFZ4tAMWUdUieUtSpX5IGsqzjKu5UKyQ+NEbDi997cPcNti+RBnB0oijVDeRocWoNSJ5e87ScuPauxuzxmfj6dT3uhevERKtiE5GRCiHtdZBlj6SxLQ/VwhfOmyMbf5U7LMWQ==;u3682y6yHueIEYAMcwsanw=="
 ---
 

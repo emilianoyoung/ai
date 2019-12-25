@@ -26,19 +26,19 @@ images:
     title: "US Homeland Security backs off on scanning US citizens, Amazon ups AI ante, and more"
 
 related:
-  - title: "DHS retreats on possible facial screening of US citizens"
-    excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
-    publishedDateTime: 2019-12-06T18:42:00Z
-    sourceUrl: https://www.abcactionnews.com/news/national/dhs-retreats-on-possible-facial-screening-of-us-citizens
+  - title: "Homeland Security Gives Up Plan To Expand Face Scans For Travelers"
+    excerpt: "The proposal would have required all travelers, including citizens, to participate in a facial recognition scan when exiting or entering the U.S."
+    publishedDateTime: 2019-12-06T01:57:00Z
+    sourceUrl: https://www.newsy.com/stories/dhs-gives-up-plan-to-face-scan-all-international-travelers/
     type: article
     provider:
-      name: ABC Action News
-      domain: abcactionnews.com
+      name: Newsy
+      domain: newsy.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.C29C37C553EB29A7B9F6E91D8ACDB229
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.B340A89109BDF6373CA4DB64283BB746
+        width: 640
+        height: 360
 
 secured: "ghLjHtdUH4lFBXpi5HSH1ztD89K9Rymu212KDYVmUx+hi1S2j1vTphRHmHUsNBvaN1TmzTfrfY/mTTCqQP35tkln1p/0SPPOqDEyOrgN3uh3n/GtW08SA9jSWuZZsmSAtSuf49tm0OmT2q+vdJFeS8e4SmxfDFfjDqt8d5XF+RW3wyQ/kKzWjVBqmZ+7XEQGYU3nPbmlcommC4sCM8B1YT/22GNO+54DLoaBe3qYt1YiHicxDSIOuxZXFJZZ2+LjB8NCv1KX3laGw/01k0ZkHw==;5QeW1opWS9jgxg5P+pIqjA=="
 ---

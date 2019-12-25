@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.41051A2E3B6FC34F18866881196334A7
         width: 700
         height: 367
-  - title: "Emotion-sensing robot launches to assist space station astronauts"
-    excerpt: "WASHINGTON (Reuters) - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after ... whose midday launch had been delayed from Wednesday due to high winds. \"The overall goal is to really create a true companion. The relationship between an astronaut and CIMON is really important ..."
-    publishedDateTime: 2019-12-05T20:42:00Z
-    sourceUrl: https://news.yahoo.com/emotion-sensing-robot-launches-assist-204203636.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 122
-    images:
-      - url: https://www.bing.com/th?id=ON.B2820ECDFC5CD54110987BD149A2F8D1
-        width: 700
-        height: 466
   - title: "AI-enabled assistant robot returning to the Space Station with improved emotional intelligence"
     excerpt: "But CIMON is much more than an Alexa for space, and CIMON-2, which launched aboard today's SpaceX ISS resupply mission, will demonstrate a number of ways the astronaut support robot can help those working in space ... So for example, on the artificial intelligence side, we have something called emotional intelligence, based on our IBM ..."
     publishedDateTime: 2019-12-06T00:07:00Z
@@ -68,21 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F941D8276FC27419031D60E10A16F367
         width: 700
         height: 394
-  - title: "SpaceX launches beer malt, an emotion-sensing robot and ‘mighty mice’"
-    excerpt: "It’s the third in a series of Budweiser experiments to look at how barley germination is affected by weightlessness. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It’s named Cimon, pronounced Simon, the same as the prototype that flew up last year."
-    publishedDateTime: 2019-12-05T20:30:00Z
-    sourceUrl: https://www.ocregister.com/2019/12/05/spacex-launches-beer-malt-an-emotion-sensing-robot-and-mighty-mice/
-    ampUrl: https://www.ocregister.com/2019/12/05/spacex-launches-beer-malt-an-emotion-sensing-robot-and-mighty-mice/amp/
-    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/05/spacex-launches-beer-malt-an-emotion-sensing-robot-and-mighty-mice/amp/
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.6C2005977C560D0AA7283098492CE53A
-        width: 700
-        height: 467
   - title: "Emotion-sensing Robot Heads to Space Station to Help Astronauts"
     excerpt: "WASHINGTON - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2, or CIMON 2, is a spherical droid with microphones ..."
     publishedDateTime: 2019-12-06T03:16:00Z

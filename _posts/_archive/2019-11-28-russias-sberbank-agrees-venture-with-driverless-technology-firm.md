@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Russia's Sberbank agrees venture with driverless technology firm"
-excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
-publishedDateTime: 2019-11-28T10:59:00Z
-sourceUrl: https://www.reuters.com/article/us-sberbank-driverless-deal-idUSKBN1Y217X
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Y217X
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Y217X
+excerpt: "Russia's largest lender, Sberbank , has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday."
+publishedDateTime: 2019-11-28T10:59:32Z
+sourceUrl: https://www.msn.com/en-ca/money/topstories/russias-sberbank-agrees-venture-with-driverless-technology-firm/ar-BBXsdKI
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Reuters on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.321D1BF58A9BA57EB568599410B9218E
+    width: 700
+    height: 367
+    title: "Russia's Sberbank agrees venture with driverless technology firm"
 
 related:
   - title: "Russia’s Sberbank invests in driverless car tech firm Cognitive"
@@ -38,6 +38,6 @@ related:
         width: 1280
         height: 720
 
-secured: "BFYtJxbmPG/sWcRm9OGqgdVwyCDpTrUPT+Xaw7PLZF38Pkj3F1GDUifFR8LI9mBXvJCuoLdSlYqsUWpjClKNv9NrySoqGPuQNe8hNeAcJ1nzAaepdidBaOPDLFPsXbeU7DfC97t/KQ2KcFynIGrYGJzNf095L1y2c2lkJ4I9T/T7YDx0qG+TJeuEIbB8ySJdRofGerfqUOUIoEnw/KL845tWC1P/UU1fpmixnrp2xIU1vPfql0qWGoqm8Fd0kEQ42iGW+M17YFDa48xjDOWGdA==;9o0HLs3FBRpX1Vyzdw21MQ=="
+secured: "CSMaz6d9ZKKDAlCn0SrQHdxNClPq7YaXLpqvzy6C1GfIs+whzqi9UlzG81pHBVlXGDqmLcP5qMpx5ZoUcHDCQpUQHmVWSIwfp1t0ihJ7Gyy135qbKsWhhW6mwYsxZOlzMipGGmzSzXBkrfOQDs7W8HGZXqRvQVKahjlY0aR/gLTZ00KSCDdoE23HxxphiPHfFfFQ7InrrEZjbimQEaifVR9RV4sKEETaTXnBPvqDOmXDu8o2pQh7cEal2Y3yY51tHPInuXc8tQg7dfzCg+j4fA==;opyE/hqEDOc6dRKG1VxlsQ=="
 ---
 

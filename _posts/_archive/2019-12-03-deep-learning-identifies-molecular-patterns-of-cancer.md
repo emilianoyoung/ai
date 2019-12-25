@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.am
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Deep learning identifies molecular patterns of cancer"
 
 related:
-  - title: "Imaging technique and machine learning may provide accurate diagnosis of colorectal cancer"
-    excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method's accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report using this ..."
-    publishedDateTime: 2019-12-05T20:51:00Z
-    sourceUrl: https://www.news-medical.net/news/20191205/Imaging-technique-and-machine-learning-may-provide-accurate-diagnosis-of-colorectal-cancer.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191205/Imaging-technique-and-machine-learning-may-provide-accurate-diagnosis-of-colorectal-cancer.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191205/Imaging-technique-and-machine-learning-may-provide-accurate-diagnosis-of-colorectal-cancer.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.1B9FF573E76A9C08206C719AEF144FBD
-        width: 620
-        height: 480
   - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
     excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical coherence tomography (OCT) system that automates image processing and identified tumors with ..."
     publishedDateTime: 2019-12-06T04:03:00Z
@@ -55,6 +40,6 @@ related:
         width: 700
         height: 367
 
-secured: "rrU2+mQJpd4iB8tdh6QpRs2q3LE5zKbPFhlbLpt92vZbanWyyZ4npDRM5aBvDeyxo4MitQnTB6gPzjJqZGp12K36BJ/LFINJIVtGpIcHLNBdHlEaqdOdET7TPVLgrzwr6MmqY2EIJ+227Qu3OJlC26vfFm5JTiNM6JkHSAgoTOJkmIG9NGnJQDJrQQhZcyTpOJo/uVwIkLrMXK+qoztjVueUcg05UnkwmQACvZEL1ukvjBOzcEzOYekDJTvntqbDyTsUG14v98+FLTZkAYfqpw==;itruMDyGydEuTDA/8g7hxw=="
+secured: "MWdRTLP0qmIdbcshrWJMKSFVeL4R/N1rLsd70/6pmu9RD4nLKdlcgWSueXuQPPz2SNuVeRkfRGCTJjDZ2G+yDVshJ/iDmUTNgsAEfKETq+NfKHWTLo9axAmAjbfoAJa7lI7LNRopQpv5cNK95+pa4FQ2pE7hCh7dpSR/GeaIb3YfpgVCqe8bCysZqTgZCH/0DcZFD7m44mHbhuhy4NKS7ULwNMvQDB/FWwrkHEbb9mPAsS0Cpx12n1IZtUQeQXJSixmHhqEKnDNUPEnoVQlMPw==;ii5b8LVi9l6QWQImNPXFBw=="
 ---
 

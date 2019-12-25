@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
-excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet, Suleyman will now be joining Google directly. After a wonderful decade at DeepMind, I’m very ..."
+excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
 publishedDateTime: 2019-12-05T19:56:00Z
 sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
 type: article
@@ -90,6 +90,6 @@ related:
       domain: yahoo.com
     quality: 23
 
-secured: "IL6xmWjk7qa1ynPe/NEV8upEgnJlaFNrR2C2t81NuhItcPdSFdTzkhFCdqFKJpalu0kU3sIF4lfgm2RjXKYrd0WJaJgndJsC90Aw1t/huEPsTIieuy2pkfDVRnvoW3jqxavZWm5gAoaPlNDQGv1sBk+IaW6ACX0Ut/6GazvFA5H29eFI6feBq4pHCoYqGKjlHC456saEo9AtqHt1YAhlCsMIFDqKpEpmyM/3YUwuJr0gHeA9sPnmmQmt45Wewehm5AS4D5Z0H8WZxevYFt7VYw==;CN4MGY28EgTW8O3dfq3SpQ=="
+secured: "A3IUSXCFb+pa4TeiRLBxe7ERvF5skXDbOl7aP0KHN3QODefXrmqYtJ79GEAE+Bj5ee59oIK3PSTIRNoKBPqm8dfqoWOAihiQBlzVt3sOkeIu5s56LHU2qdoBnPXJYT0CJE1/LRDNMBb7DD9HDSQ4cnROYUd9vJAgT2DsnhrDejFhugX9dT54fAoOuynddq+n5xTn87RTcUwp5GvFE7DBoJrkRfrKksUCcOY1xGd5tdK+Hk7ZriayOUtPeS/Wz831mAuxVOq8KKr+hY3+G2C3PA==;Nv4jZc2Y3FlMMe6uiQ+LLg=="
 ---
 
