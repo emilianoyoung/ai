@@ -65,21 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "Trump administration wants to use facial recognition at airports"
-    excerpt: "The Department of Homeland Security (DHS) is planning to use facial recognition technology to identify international travelers at airports, according to a recent filing. The purpose of the facial recognition technology would be to identify those coming in and out of the country and catch criminals and known terrorists, the filing states."
-    publishedDateTime: 2019-12-05T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/trump-administration-wants-facial-recognition-122435248.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/trump-administration-wants-facial-recognition-122435248.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trump-administration-wants-facial-recognition-122435248.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "AirAsia X to use facial recognition instead of boarding passes at Avalon Airport"
     excerpt: "AirAsia X Malaysia CEO Benyamin Ismail shows the new face recognition technology to Avalon Airport CEO Justin Giddings. Picture: Alison Wynd Mr Ismail said AirAsia X has worked to secure the personal data of those using the FACES technology. “It’s an option for passengers if they want to use this facility; if they want a seamless process st ..."
     publishedDateTime: 2019-12-05T06:25:00Z
@@ -276,19 +261,6 @@ related:
       - url: https://www.bing.com/th?id=ON.725132A3A9F71FC335477CA8E1A6191A
         width: 700
         height: 394
-  - title: "Should we be scared of the government using facial recognition? John Stossel weighs in"
-    excerpt: "The Department of Homeland Security is proposing a new regulation to use facial recognition on traveling U.S. citizens. Fox Business contributor John Stossel joins ‘Kennedy’ to discuss this."
-    publishedDateTime: 2019-12-05T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/video/scared-government-using-facial-recognition-025645872.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.685E5C78213D88F0B66EDA68530F9289
-        width: 640
-        height: 360
   - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
     excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
     publishedDateTime: 2019-12-05T20:01:00Z
@@ -329,6 +301,6 @@ related:
         width: 700
         height: 350
 
-secured: "iS3n53s0NelPccjPR+JK1rAqOnvx2zcnOVgGBbQJ5fdZ3xuR9bDNQ4uIUzala0oF+VoBKX8ylqTloXM6WRRWmfg5thDxLdpIOyaMTeu2+ALCEQKdTkoLT0QZBQleaHtcFyX81x3tDkJKacOzb9G8VAGkQr6rvc/LoNYo7RsBbXS7AQAVjCh5+gyh2HfGFVjmBjEnX6i+A66FiE0E8WsdZqAUrAZoeMgH0vvZH2ibGbatLLg8QlYiHR2zBCHNeiij9L8KIDmfwqF0+0NTAI6VaA==;q5djdGjFVFtxT4niW9ZElQ=="
+secured: "Abkg7SBs0+ZPxm4sk6Crubx1y/NbfVMkItcasaCIcHs9PXoY2MgE32OoWJK2LH7wxekudERcZzAo/1/CL5Rbdvm+7rSvWbjHNYh8u944HnNJffxwc4YIJzo2X9sKFWkWYUgJeQ9AXVcp8o7AQgcDLA+UNvHBlzYWMYiltu0MqyA0Qb4Mj8+h15P2aFJk95x3uSFm31Iapw9d1YFGQIBXfiUszc21qL6A7z853wmU0Ldhv+YiWa/09MbaarHc7UKdxHh7tmRgYJqylqj9ttmRXw==;JjdldLddgIr6jvylmJuDEw=="
 ---
 

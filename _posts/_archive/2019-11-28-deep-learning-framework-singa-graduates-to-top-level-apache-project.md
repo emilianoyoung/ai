@@ -23,6 +23,6 @@ images:
     height: 360
     title: "Deep-Learning Framework SINGA Graduates to Top-Level Apache Project"
 
-secured: "S50gaLPTUlhYgsIKlqdWYV/xmeim57ApOUbxB0RhpuO7+jpozse/slnKbYAFRvfRVgpdKWETZJzJwZhxxyrQIWJCGP54ZOgHH5PRy0I8PIerb1xghp/HFqiO/d72m9WqPt2Z1Y3BYDnHdmtP/0L7Lk46Z9j1vo3ACC0naekO7j9G/xJlzuewyfKtL+JkvB7sMaahSGXySGAR449bhVpEELVBT5twq0UzFYn6ehgx7n5iEsdCb2Bxpbn11UY9VHOESROy8o2A0QrL5zUdcolOSg==;lt+iRIBwc8n40xVGdkLp2g=="
+secured: "BhUL7+Z78Knb1F3M3f5kGBwvsUK9lceDN5OHOcL0Rmk0RBUE5qgmxA3v6hOWYBb+kzHZT1Y4WkZhT4toIyGOLOJrT2bMqEze3j7cenAkaF3InifDmnYmBwewupQCg6+nApExBFaCyoO4wRZrPIlBVC4BGD5nf96IMpMMO/0rOuebF/Jvhtyr7zTRjQZY5594FPn41b8dJ7SGgnb5fDddppalRWkf1vGjmHdmfEeke04xFcgw0OZcwfLyyzx3vJlnbfk4ZBzsWgmVWxjXlOmb8Q==;qZcE64RYazQ19lN2YxojUw=="
 ---
 

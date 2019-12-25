@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.096EE1C2868CBA9971B48E56D04E3FC4
         width: 700
         height: 382
-  - title: "Amperity Achieves Amazon AWS Retail Competency Status and Joins the AWS Partner Network Global Startup Program"
-    excerpt: "AWS Retail Competency The AWS Retail Competency highlights top AWS Partner solutions that have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning artificial intelligence (AI) / machine learning (ML), Voice Recognition, Customer Engagement, and Retail Transformation."
-    publishedDateTime: 2019-12-05T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/amperity-achieves-amazon-aws-retail-183000696.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/amperity-achieves-amazon-aws-retail-183000696.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/amperity-achieves-amazon-aws-retail-183000696.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.68F9ECA175D61D318FA1302272B10A5B
-        width: 343
-        height: 400
   - title: "SoftServe Achieves AWS Retail Competency Status"
     excerpt: "The recognition acknowledges that SoftServe has technical proficiency and proven customer success across numerous innovative solution areas in retail spanning data lakes, artificial intelligence (AI) / machine learning (ML), predictive analytics, internet of things (IoT), intelligent automation, and retail transformation. AWS Retail Competency ..."
     publishedDateTime: 2019-12-05T11:00:00Z

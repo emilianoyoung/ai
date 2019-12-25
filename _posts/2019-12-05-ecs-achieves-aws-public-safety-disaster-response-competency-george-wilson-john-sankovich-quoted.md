@@ -24,19 +24,32 @@ images:
     title: "ECS Achieves AWS Public Safety & Disaster Response Competency; George Wilson, John Sankovich Quoted"
 
 related:
-  - title: "AWS Unveils Retail, Public Safety and Disaster Response Competencies"
-    excerpt: "These partners are retail specialists who set a very high bar in deploying AI/ML (artificial intelligence/machine learning), data lakes, analytics, IoT (internet of things) and cost change management needed for successful retail modernization and transformation.” The key benefits for the new retail competency are promotion on the AWS website ..."
-    publishedDateTime: 2019-12-05T00:20:00Z
-    sourceUrl: https://www.crn.com/news/cloud/aws-unveils-retail-public-safety-and-disaster-response-competencies
+  - title: "Manthan Achieves AWS Retail Competency Status"
+    excerpt: "SANTA CLARA, California, Dec. 12, 2019 /PRNewswire/ -- Manthan, a leading artificial intelligence (AI) - powered Cloud Analytics Company, announced today that it achieved Amazon Web Services (AWS) Retail Competency status in the Advanced Retail Data ..."
+    publishedDateTime: 2019-12-12T12:01:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/manthan-achieves-aws-retail-competency-status-300974031.html
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.3176736F31F642B8B6062A511101EEDB
-        width: 610
-        height: 457
+      - url: https://www.bing.com/th?id=ON.A8BE117E53FA79A8EBDC04A381A7ABAB
+        width: 300
+        height: 104
+  - title: "Manthan Achieves AWS Retail Competency Status"
+    excerpt: "SANTA CLARA, California, Dec. 12, 2019 /PRNewswire/ -- Manthan, a leading artificial intelligence (AI) - powered Cloud Analytics Company, announced today that it achieved Amazon Web Services (AWS) Retail Competency status in the Advanced Retail Data Science & Customer Engagement category. AWS Retail Competency Partners deliver highly ..."
+    publishedDateTime: 2019-12-14T00:24:00Z
+    sourceUrl: https://finance.yahoo.com/news/manthan-achieves-aws-retail-competency-130000821.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.9B98002FE4C9173566C85DCC69D46F6F
+        width: 300
+        height: 104
 
 secured: "PSJ6HyXoR83C6NDZ/Qr2+FQm4QrlsuLRsgLYZpPAN48ZUZcK+gQlCXU0DUZOGChjtUG7qkkr6ftRqaA8lPXHHheiR8iBTjSplF9TjAFYyqfiYHM3+EL/lGVWP6bCrzynrtZK1GXN3vCVBv0KEwqSyHkwDIAsAh2sYjUt53VhS9rmhXlKiRA8rL1Ojlh3QmxJEhkThwj4MZhkDeDV5rkfbkjPc0t0pPT2C5ILONxKsBtMDZkmCvgROKlzMFVsOo5qxZTcRBaFgYrABnV/JAm8lg==;YyO25mCNRgfJqNJgaNtYXQ=="
 ---

@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2F22561081FA8A7BD236A313F77FA15E
         width: 700
         height: 472
-  - title: "Robotics researchers have a duty to prevent autonomous weapons"
-    excerpt: "(THE CONVERSATION) Robotics is rapidly being transformed by advances in artificial intelligence. And the benefits are widespread: We are seeing safer vehicles with the ability to automatically brake in an emergency, robotic arms transforming factory lines that were once offshored and new robots that can do everything from shop for groceries to ..."
-    publishedDateTime: 2019-12-05T00:41:00Z
-    sourceUrl: https://www.ctpost.com/news/article/Robotics-researchers-have-a-duty-to-prevent-14880917.php
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 54
-    images:
-      - url: https://s.hdnux.com/photos/01/07/25/22/18699421/23/core_thumbnail_list.jpg
-        width: 600
-        height: 400
 
 secured: "quW0ZC3+jfHoEqY2tUcI3ihswgFdCADDteZiHigWhBkO//zvGhMM4K2Gp9MdYGKdUaEHMnQx3Bep8qL40QyPdHpAC5TY3i22oCRzaelMKI1Iglj5lTEowpvAdU0uwCiXIVcwTthwRF1a/6XVpDtrZixxUI00b6Bb4wq5k07i1DFGbLdw5IePI3droeKa/2yFjkWUgiOAqFn8eVRC3h7Pwpn+th9ICZDJenG1bLILsh4T2RZY8+2wIFQL/8tkkscH7X0hbn9+FkSdn8Gx7ccDkQ==;nNDmgzeppgSJGn6XDe3wiw=="
 ---

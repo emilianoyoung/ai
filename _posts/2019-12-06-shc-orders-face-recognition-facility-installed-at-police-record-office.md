@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "Trump administration wants to use facial recognition at airports"
-    excerpt: "The Department of Homeland Security (DHS) is planning to use facial recognition technology to identify international travelers at airports, according to a recent filing. The purpose of the facial recognition technology would be to identify those coming in and out of the country and catch criminals and known terrorists, the filing states."
-    publishedDateTime: 2019-12-05T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/trump-administration-wants-facial-recognition-122435248.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/trump-administration-wants-facial-recognition-122435248.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trump-administration-wants-facial-recognition-122435248.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "AirAsia X to use facial recognition instead of boarding passes at Avalon Airport"
     excerpt: "AirAsia X Malaysia CEO Benyamin Ismail shows the new face recognition technology to Avalon Airport CEO Justin Giddings. Picture: Alison Wynd Mr Ismail said AirAsia X has worked to secure the personal data of those using the FACES technology. “It’s an option for passengers if they want to use this facility; if they want a seamless process st ..."
     publishedDateTime: 2019-12-05T06:25:00Z
@@ -263,19 +248,6 @@ related:
       - url: https://www.bing.com/th?id=ON.725132A3A9F71FC335477CA8E1A6191A
         width: 700
         height: 394
-  - title: "Should we be scared of the government using facial recognition? John Stossel weighs in"
-    excerpt: "The Department of Homeland Security is proposing a new regulation to use facial recognition on traveling U.S. citizens. Fox Business contributor John Stossel joins ‘Kennedy’ to discuss this."
-    publishedDateTime: 2019-12-05T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/video/scared-government-using-facial-recognition-025645872.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.685E5C78213D88F0B66EDA68530F9289
-        width: 640
-        height: 360
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
     excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
     publishedDateTime: 2019-12-04T22:24:00Z

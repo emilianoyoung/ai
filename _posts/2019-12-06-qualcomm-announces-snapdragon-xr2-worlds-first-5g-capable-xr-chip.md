@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.35C2CD33F87BF0A92A2ADDF646FE35C4
         width: 700
         height: 357
-  - title: "Qualcomm wants everyone to have a 5G phone, announces two new Snapdragon chips"
-    excerpt: "The takeaway theme this year, much like last year, is that Qualcomm is betting big on 5G and AI. To that end, Qualcomm is announcing not one, but two 5G mobile chipsets this year, along with a whole host of other 5G talking points across various market segments. As a flagship chip, the Snapdragon 865 boasts Qualcomm’s highest-performing ..."
-    publishedDateTime: 2019-12-05T00:10:00Z
-    sourceUrl: https://www.androidauthority.com/snapdragon-tech-summit-2019-1058502/
-    ampUrl: https://www.androidauthority.com/snapdragon-tech-summit-2019-1058502/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/snapdragon-tech-summit-2019-1058502/amp/
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
-        width: 700
-        height: 357
   - title: "Qualcomm Snapdragon 865 Amps Performance, Cameras And AI For Flagship 5G Phones"
     excerpt: "There also one other wrinkle with this two-chip solution. Reportedly, Qualcomm is mandating that OEMs will only be ... LPDDR4x memory is also supported at up to 2133MHz. As you might imagine in this AI-centric tech world, Qualcomm has added in its fifth-generation AI engine that can deliver 15 TOPS of compute performance, which represents ..."
     publishedDateTime: 2019-12-05T14:55:00Z

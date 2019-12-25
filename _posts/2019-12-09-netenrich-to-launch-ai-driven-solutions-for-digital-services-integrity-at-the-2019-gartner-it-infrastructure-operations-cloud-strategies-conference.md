@@ -20,45 +20,19 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "IBM Security adds AI features to its Cloud Identity solution"
-    excerpt: "IBM Security announced it is extending its artificial intelligence (AI) technology originally developed to protect users ... compromised and weak credentials are cited as the cause for more than 80% of data breaches. Meanwhile, 2017 research found that large companies are managing hundreds of applications – up to 788 custom applications ..."
-    publishedDateTime: 2019-12-12T03:52:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2019/12/12/ibm-cloud-identity/
+  - title: "Organizations Globally Select VMware Cloud on AWS as the Foundation for their Cloud Strategy"
+    excerpt: "Once applications are migrated, customers can extend the capabilities of applications through integration of native AWS services, such as Amazon Simple Storage Service (Amazon S3), Amazon Relational Database Service (Amazon RDS), and Amazon SageMaker. Customers can run containers and Kubernetes on VMware Cloud on AWS today with VMware PKS ..."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/organizations-globally-select-vmware-cloud-on-aws-as-the-foundation-for-their-cloud-strategy-2019-12-03-8184035
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.7B4089196A443C569D6B89897BE9385D
-        width: 400
-        height: 200
-  - title: "IBM AI Innovations Sharpen Risk Detection in Identity Management"
-    excerpt: "CAMBRIDGE, Mass., Dec. 10, 2019 /PRNewswire/ -- IBM (NYSE: IBM) Security today announced it is extending its artificial intelligence (AI) technology originally developed to protect users in the financial services industry, to clients in all industries via the company's identity-as-a-service (IDaaS) offering. IBM Cloud Identity now ..."
-    publishedDateTime: 2019-12-10T10:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-ai-innovations-sharpen-risk-detection-in-identity-management-300971958.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.630770D6AFB4E5A28A438E3CC9C05A1B
-        width: 700
-        height: 366
-  - title: "IBM AI Innovations Sharpen Risk Detection in Identity Management"
-    excerpt: "CAMBRIDGE, Mass., Dec. 10, 2019 /PRNewswire/ -- IBM (NYSE: IBM) Security today announced it is extending its artificial intelligence (AI) technology originally developed to protect users in the financial services industry, to clients in all industries via the company's identity-as-a-service (IDaaS) offering. IBM Cloud Identity now features AI ..."
-    publishedDateTime: 2019-12-11T09:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-ai-innovations-sharpen-risk-110000855.html?soc_src=community&soc_trk=tw
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "Ho5YcZzXTgfgvmF34miYajOa8pdxNPYs0aAQPPcPNq55PW47/LfVavBYhtSz9sBiJ1cWAcjXMJCHlCQujfJSgq6UpqNx+BLLq0VUX9nFTzBRJtyghkMwLxMIWTcwbcQNFq3FolJidzT6itjDXeelJSo2/A/56OHeJFNNQXB4b3rarijQf2zlpRnJvAWv8ghARal7jCMHnjZHlm+513H4KMVwxkTxo/78woQ14EduW9mrvb//AjJLJjkm8pUghAB3f2ogEJlTm8eirfBrvPo1sg==;8FEEc1t0yUUPHzB0DzeO/Q=="
 ---

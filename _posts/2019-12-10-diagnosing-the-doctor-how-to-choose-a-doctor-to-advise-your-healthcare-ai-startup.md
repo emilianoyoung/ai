@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing-the-doctor-how-to-choose-a-doctor-to-advise-your-healthcare-ai-startup/amp/
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.791C447D9381C6D1C16D8CA87CEB65E3
         width: 700
         height: 311
-  - title: "Ping An Good Doctor and Merck KGaA, Darmstadt, Germany Form Strategic Collaboration to Advance Intelligent Healthcare in China"
-    excerpt: "The representative of Ping An Good Doctor echoed the importance of the partnership: \"Ping An Good Doctor will take the advantages of the healthcare ecosystem platform and rely on its unique service model of 'internet + artificial intelligence + more than 1,000 in-house physicians', combining Merck KGaA, Darmstadt, Germany's advanced technology ..."
-    publishedDateTime: 2019-12-05T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/ping-good-doctor-merck-kgaa-080100413.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "sqzsP//urpRU53xhLuvWma/LJij0X0J0EcfWIOsbMJ/v2zW/kbXM1d2nJ+zCGh72x28Du6rI/y3A+9XJJdxEQ/i4DVise0OUCZozIK5g5bIW0VW2qVW977oGaY91lRH1RcGo+JmSdoK5IHkWyj9QpzQZXIL7H6WYWbGlzzsAmvq8ammPwy/gf7fmJUsdEww26pVD8rIjm7E04O9i0D4s+ldA7fxovTsJ+4YoXR6TcpRLRxFTKdXrf9LVZ+ULwc2GLQX/dnbZvJikHS3DI1kZtw==;a3cqQAg4Ti41hc+TiCUnwQ=="
 ---

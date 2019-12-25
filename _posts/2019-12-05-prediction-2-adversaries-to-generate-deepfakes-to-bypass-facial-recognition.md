@@ -114,21 +114,6 @@ related:
       - url: https://www.bing.com/th?id=ON.330C4A79C65A1CABE522382CA2D1E2D3
         width: 700
         height: 417
-  - title: "DHS proposal to require U.S. citizens undergo airport facial scans draws fire"
-    excerpt: "The use of facial recognition technology at U.S. airports is growing more widespread as a means of identification, but citizens are allowed to opt out. Now officials with the Department of Homeland Security want to make the scans mandatory for all travelers, including citizens. In a filing, the agency said that to “facilitate the ..."
-    publishedDateTime: 2019-12-05T00:37:00Z
-    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/dhs-proposal-to-require-us-citizens-undergo-airport-facial-scans-draws-fire/2019/12/04/3cd663fe-16b0-11ea-8406-df3c54b3253e_story.html
-    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/dhs-proposal-to-require-us-citizens-undergo-airport-facial-scans-draws-fire/2019/12/04/3cd663fe-16b0-11ea-8406-df3c54b3253e_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/dhs-proposal-to-require-us-citizens-undergo-airport-facial-scans-draws-fire/2019/12/04/3cd663fe-16b0-11ea-8406-df3c54b3253e_story.html?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2C0F5CA3B2A2ABA3849C015B72E3E8FB
-        width: 700
-        height: 446
   - title: "Customs and Border Protection reverses course on mandatory facial recognition program"
     excerpt: "U.S. Customs and Border Patrol announced Thursday it no longer plans to move forward with a facial recognition program that would conduct a mandatory scan of all U.S. citizens arriving or departing the country at airports and ports of entry, reversing course on a Trump administration plan. Customs currently permits U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-05T21:31:00Z
@@ -258,19 +243,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC855CE22CE627B9F2F360818A6A6DEA
         width: 700
         height: 415
-  - title: "Proposal to require airport facial scans for U.S. citizens draws criticism"
-    excerpt: "The use of facial recognition technology at U.S. airports is growing more widespread as a means of identification, but citizens are allowed to opt out. Now officials with the Department of Homeland Security want to make the scans mandatory for all travelers, including citizens. In a filing, the agency said that to \"facilitate the implementation ..."
-    publishedDateTime: 2019-12-05T00:57:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Proposal-to-require-airport-facial-scans-for-U-S-14882790.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.45B0AF9B77BEE94FECF17738F9A3CDE2
-        width: 700
-        height: 466
   - title: "Customs Reverses Course on Mandatory Facial Scans for U.S. Citizens"
     excerpt: "Customs and Border Protection reversed course on a proposed plan to require all U.S. citizens to participate in its facial recognition entry/exit programs—a move that would have removed the ability to opt out. Since CBP’s facial recognition program began in September 2018, U.S. citizens and green card holders have technically been exempt ..."
     publishedDateTime: 2019-12-05T17:39:00Z

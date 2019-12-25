@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
         width: 700
         height: 410
-  - title: "Data released about Providence self-driving shuttle service"
-    excerpt: "PROVIDENCE, R.I. (AP) — A self-driving shuttle service has taken more than 25,000 trips during its first six months of operating in Rhode Island, according to the state Department of Transportation. The Boston Globe reports Wednesday that transportation ..."
-    publishedDateTime: 2019-12-05T00:10:00Z
-    sourceUrl: https://www.seattlepi.com/news/article/Data-released-about-Providence-self-driving-14882032.php
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 4
 
 secured: "iwbnc33Wd9sMB4L2bs3U5UJ1pt6YYm3J7F28cpYblDgMmuDI5DLvhAqygjsHZsfE75qLfk8RGqc3OiuP8nlpLahbjRGd7RKEE1Efihg2ruzQbDVqu8UUtyIOp1+8m5PimNnJf6CajYlKPrP2jtr4CzP1QrB+1j0AY7jpikoGyBo2TQ8w15zCF1h2JDfxG//ovcJmyWFdZicWYN5buAbrmmyE1ngHA9CAGoYURpYkP9GGHYdnOf4l0CuVWGWfn/sS1vcZaH359okv14XkRh41Rg==;OZF2AQi9MUOspuyPY0j/fQ=="
 ---

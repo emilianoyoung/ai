@@ -1,13 +1,13 @@
 ---
 category: news
 title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-excerpt: "Today, with these launches, we are bringing these concepts to machine learning developers for the very first time.\" Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial ..."
+excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
 publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
 quality: 102
-heat: 142
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,8 +19,8 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
@@ -29,57 +29,100 @@ images:
     title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
 
 related:
-  - title: "Improve cyber supply chain risk management with Microsoft Azure"
-    excerpt: "Azure Sentinel is a cloud-native security information and event manager (SIEM) platform that uses built-in artificial intelligence (AI) to help analyze large volumes of data across an enterprise—fast. Azure Sentinel aggregates data from all sources, including users, applications, servers, and devices running on-premises or in any cloud ..."
-    publishedDateTime: 2019-12-09T16:00:00Z
-    sourceUrl: https://www.microsoft.com/security/blog/2019/12/09/improve-cyber-supply-chain-risk-management-microsoft-azure/
+  - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
+    excerpt: "AWS SageMaker, the machine learning brand of AWS, announced the release of SageMaker Studio, branded an “IDE for ML,” on Tuesday. Machine-learning has been gaining traction and, with its compute-heavy training workloads, could prove a decisive factor in the growing battle over public cloud. So what does this new IDE mean for AWS and the ..."
+    publishedDateTime: 2019-12-08T16:45:00Z
+    sourceUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/
+    ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 118
+    images:
+      - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
+        width: 700
+        height: 418
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "As CEO Andy Jassy presents it, AWS—like rivals Google Cloud and Microsoft Azure—wants to become the leading, full-service environment for data scientists, data engineers, and non-specialist developers to run all of their machine learning workloads. For AWS this means a triple-layered stack of services, starting with the basic building ..."
+    publishedDateTime: 2019-12-05T11:04:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 103
+  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    publishedDateTime: 2019-12-04T20:48:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
+        width: 700
+        height: 335
+  - title: "Amazon targets devs and scientists with new machine learning IDE"
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    publishedDateTime: 2019-12-04T14:52:00Z
+    sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+    ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
+        width: 700
+        height: 393
+  - title: "Deep Learning breakthrough made by Rice University scientists"
+    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
+    publishedDateTime: 2019-12-13T18:42:00Z
+    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
-        width: 697
-        height: 700
-  - title: "Microsoft and NTT announce multi-year alliance to build digital enterprise solutions on Azure"
-    excerpt: "while Microsoft will bring its trusted Azure cloud platform and AI expertise. NTT has also announced that it has selected Microsoft Azure as its preferred cloud platform. “NTT is committed to helping enterprises realize their digital transformation initiatives to help create a smarter world. We believe that the combination of the Microsoft ..."
-    publishedDateTime: 2019-12-10T15:47:00Z
-    sourceUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/
-    ampUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
+      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
+        width: 700
+        height: 350
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    publishedDateTime: 2019-12-03T18:23:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 63
-    images:
-      - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
-        width: 932
-        height: 537
-  - title: "Microsoft and NTT Corporation Announces Azure-Powered Collaboration"
-    excerpt: "“Our strategic alliance combines NTT’s global infrastructure and services expertise with the power of Azure,” said Satya Nadella, CEO, Microsoft. “Together, we will build new solutions spanning AI, cybersecurity and hybrid cloud, as we work to help enterprise customers everywhere accelerate their digital transformation.” “NTT is ..."
-    publishedDateTime: 2019-12-11T15:17:00Z
-    sourceUrl: https://winbuzzer.com/2019/12/11/microsoft-and-ntt-corporation-announces-azure-powered-collaboration-xcxwbn/
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
+      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
-        height: 466
-  - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
-    excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
-    publishedDateTime: 2019-12-06T18:32:00Z
-    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12061AIEye-GTCH-AMZN.asp
+        height: 525
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
+    publishedDateTime: 2019-12-06T00:00:00Z
+    sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
     type: article
     provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 2
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
+        width: 800
+        height: 500
 
-secured: "nQ4IUi9QNkaFwr9aJ0FwiCyjK1IR1nqQOLWLfxEup0zqjbPvp1HmuRZQciEsrNf9qPMcQVffoOMOOWrg5ZOT1ejDL5TEQKZpSTylTekEBr0UGikRQw77br7bu2zY18NR49bJZcqBzQ7CxC7KpObumRcRCI5EiOb87hrFDj2Jyzb84PLQLF/10w0VXmOR2aUtcmMeewUBIwTD8PNM1QBofN6TEdPgnlUDZ9OSK3LEAwLUUc773Jtx19geErTnJr+YPi6KFgM1NmGwwwG8t9BiGg==;cXm7KeCB9ROLK3BdfcuI1A=="
+secured: "vshC+MDLotX47qQYT9Vnatu4/7TDSQFaODRo7Q9B1SsG+9QwtGjb3CgolTfZ7BcwDblRtrT+/2zMDi9bMcqUfXnk35PWWUEwl1vLyWQmbDU5Vb/1Yf4f6bmaJ/oitdxKqrHvoKX6p23xrNF+nu+Swc3pug0TgYLjka7m5twMFwRFbRFv3KkvaYUPtKOV1WMmZbodNBdp1q8+0RY8HZqACn+6pGGAnXNmtYMytH2/VPE5RcA2EwVb7JGVSCc4zfbji4ISUqPmo+z9S/NzsbecNg==;fVMS4He+vmvm8m7cG9t2Cg=="
 ---
 

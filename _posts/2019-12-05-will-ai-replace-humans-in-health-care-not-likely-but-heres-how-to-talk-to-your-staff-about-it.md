@@ -52,15 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.999BAEF5D11AC131952FCD3DF58446C2
         width: 555
         height: 330
-  - title: "Ping An Good Doctor and Merck KGaA, Darmstadt, Germany Form Strategic Collaboration to Advance Intelligent Healthcare in China"
-    excerpt: "The representative of Ping An Good Doctor echoed the importance of the partnership: \"Ping An Good Doctor will take the advantages of the healthcare ecosystem platform and rely on its unique service model of 'internet + artificial intelligence + more than 1,000 in-house physicians', combining Merck KGaA, Darmstadt, Germany's advanced technology ..."
-    publishedDateTime: 2019-12-05T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/ping-good-doctor-merck-kgaa-080100413.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "A5BvCiuIaezDxp8gLPAv+3ktXtzBrj4rXI3rw9OJ0nWqCzn5PjAnF+lfhrn7WPYSNtsGfM42JJ+bP7t0BhHJvH9IC37kWJ5vtTvXvQgfXZmfB41fRFtc4bHyXEaURn8vMIqnSCU9GZ8zT87ePC+a0fF5xuqMduBTwt8azifRg+0unMRncNv7yreHtqyQEGWcyVL/Y1yYLmX6SLUxaek6IitbTVPRJnYsXd2fJ5TqVnbcgNFCwdu2a+qk0jmx0S20CLT7dJJWSDsxkQfNngdbvQ==;3St4zlVChjMfeDEq+FUKpg=="
 ---
