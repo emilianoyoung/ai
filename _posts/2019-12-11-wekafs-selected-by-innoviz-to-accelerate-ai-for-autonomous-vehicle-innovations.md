@@ -2,27 +2,27 @@
 category: news
 title: "WekaFS Selected by Innoviz to Accelerate AI for Autonomous Vehicle Innovations"
 excerpt: "“Weka is being used by many AI companies to significantly reduce AI training Epochs. We can help companies shorten wall clock time by ensuring the GPU cluster is fully saturated with as much data as the application needs. Managing large amounts of data is challenging when the AI training system spans multiple GPU nodes. A shared file system ..."
-publishedDateTime: 2019-12-11T13:24:00Z
-sourceUrl: https://www.hpcwire.com/off-the-wire/wekafs-selected-by-innoviz-to-accelerate-ai-for-autonomous-vehicle-innovations/
+publishedDateTime: 2019-12-11T14:02:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191211005589/en/WekaFS-Selected-Innoviz-Accelerate-AI-Autonomous-Vehicle
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.02526686A15D424E3206B08D57469026
-    width: 405
-    height: 228
+  - url: https://www.bing.com/th?id=ON.354458FEC2C384B1EF33BB7DB3BED232
+    width: 700
+    height: 365
     title: "WekaFS Selected by Innoviz to Accelerate AI for Autonomous Vehicle Innovations"
 
-secured: "70oAShnXRP1OL6JwYC19qAyTtSK/GR8AC1IQPKKir1av1j6Dr32QCnAElWjTyysRqLDNsAHWQTUwpd8s36QK2aaLDYVjUUMYsHwd0dmToDc0bJh2fPswZsCy2MTq0jpOYqyX1OVf47/besSTw+H12iawJrxJ4gsUzGxaxAovRI/d6uuuD3l+0LF5C+6xLfto169hSiSPh2KwaO1zZR9h6P8ylA2uOklWvuY+wLTqXF/xirwoi6DFsyEWkm8WiVs9ibS2xWiuGcP9MkYNlomC/w==;7RD0M4ZBn2sjXnPMQBqJ6Q=="
+secured: "A67N2rfJw8hsduKKzY/xg6xUp84Fy52/6M8gNymhUmY4catKapIawyZmYI/enrzw3r/nJq+pz7vQ1ErKM91WbYdYq7Msq8bW3dxdPKjSEKLHQqId99YPK+nOqbHMROvovwC2oSaLupD09mbgx/aq7Co0zEfwrzjBDsroNB5+ZnWyFYfgAHMIdPpU4uouaeBSVagHvwBHg7sBK+QuhMMTc2DXmJyBZlKRpoV8WRPuj/9DVfaXRW5+0gHI8ZOH8ju8JAJY2bS+mlSLoTn51Z02cQ==;Ucmo1LTwTiPiLQbsWfwz4Q=="
 ---
 

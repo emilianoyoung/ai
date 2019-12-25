@@ -38,6 +38,17 @@ related:
       - url: https://www.bing.com/th?id=ON.969ABF7B6FC6366519D18FF1657274B3
         width: 600
         height: 338
+  - title: "Vivo bets big on AI-driven 5G devices for India market in 2020"
+    excerpt: "Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per ..."
+    publishedDateTime: 2019-12-25T12:07:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/vivo-bets-big-on-ai-driven-5g-devices-for-india-market-in-2020/story-mYgegVq25vJSFjcQ3ehOYJ.html
+    ampUrl: https://m.hindustantimes.com/tech/vivo-bets-big-on-ai-driven-5g-devices-for-india-market-in-2020/story-mYgegVq25vJSFjcQ3ehOYJ_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/vivo-bets-big-on-ai-driven-5g-devices-for-india-market-in-2020/story-mYgegVq25vJSFjcQ3ehOYJ_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 37
 
 secured: "oaeEXy+8bnMT0dmo9RXWfBKSjytl/mOCTI+0zBu9rwpP8YhyyfBvZ5xy8UD2CEM0p/0uo6tiJBifqDmCBmhrLr6ogD3QvMk9ba7881u9HsoSF9s6RzdyAjQqhYO+hdkL8k3VUMa06jKuNTiRvAR4V3+MLKPrpz2XUp3U91Q6W30l9UeZXR9HKWSoEaYKfUgRjibTTqyYBZHYDuy1jPqgQfprVbS+fEWrGhVg7rDYgDoJruW/48lLiYTkwWJKtSthF0FKsmm9AizRFp03mCDhFQ==;OThB6RyXRKGX8bHLw82eZQ=="
 ---

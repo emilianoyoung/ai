@@ -101,21 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
         width: 700
         height: 367
-  - title: "Western, Chinese consumers divided on electric, self-driving cars: survey"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on Thursday showed."
-    publishedDateTime: 2019-12-05T11:13:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-selfdriving-survey-idUSKBN1Y916X
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Y916X
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Y916X
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.AF2A9F481E912E3A3F302D7C68785E51
-        width: 700
-        height: 466
   - title: "Waymo One marks self-driving service’s first anniversary with iOS app"
     excerpt: "One year ago, Waymo launched a public self-driving ride service in Phoenix, Arizona. To mark that anniversary, Waymo One is getting an iOS app, while the Alphabet division shared usage details for the Lyft/Uber competitor. The app for calling autonomous Chrysler Pacifica minivans is pretty standard and has a layout similar to Lyft and Uber."
     publishedDateTime: 2019-12-05T18:07:00Z

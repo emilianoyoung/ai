@@ -24,21 +24,21 @@ images:
     title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 
 related:
-  - title: "Big tech is coming for banking: Experts predict fintech's 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-25T04:22:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
+  - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
+    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
+    publishedDateTime: 2019-12-25T05:42:00Z
+    sourceUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020-11577251234356.html
+    ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Mint
+      domain: livemint.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.5CCD7F74CFB6CA05FB5C59EB4D0AA1B8
-        width: 700
-        height: 379
+      - url: https://www.bing.com/th?id=ON.61239B8EEC47D72D3ED19ED8AEE64190
+        width: 600
+        height: 338
   - title: "Fintech startups to make a bigger move in 2020, experts suggest"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-24T06:59:00Z

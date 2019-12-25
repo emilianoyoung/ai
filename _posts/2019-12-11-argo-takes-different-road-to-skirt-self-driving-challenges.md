@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
-excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
-publishedDateTime: 2019-12-11T12:31:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
+title: "Argo takes different road to skirt self-driving challenges"
+excerpt: "... takes different road to skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https ..."
+publishedDateTime: 2019-12-11T15:10:00Z
+sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
+ampUrl: https://amp.detroitnews.com/amp/4396982002
+cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
 type: article
-quality: 54
-heat: 104
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+  - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
+    width: 700
+    height: 393
+    title: "Argo takes different road to skirt self-driving challenges"
 
 related:
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
@@ -80,18 +78,7 @@ related:
       - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
         width: 700
         height: 419
-  - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
-    excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
-    publishedDateTime: 2019-12-06T19:32:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/transport-minister-law-needs-to-change-to-allow-self-driving-vehicles-on-roads-968961.html
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 19
 
-secured: "VaGACRZHKmKDZyfRpPKD9Qpl5mvt3tYuddeqVpFR6L50M2dnSsNDORPS2xb8vPdjC4wfzx0BiiLQI78xK2j60l2KWrRRiBGDecAYGC0EYFzIAFerMpEHovnZeihNjKJey4OzGXUrUbuWjIVuF7+/LKIrAwa4W0hruiU2NRjRr2o3KMObAqJdwI0L6qrl6oQUuT9ymL5a6Tbq/My6VOQ8uChKWsLjJQM0jaQy2Ku6xIhMrCIK9+BYNoJ1offULVUbLOvJjwR3ltbUn8npDMhflg==;bTp+/CrkFmNshgX8YLb9JQ=="
+secured: "iAdsvRM2QvdPTsJE2BjHWxsfoC2e9C0bGETR7D531bwn6l7KX+DJRnDcK9a1y1uFV/KFblb9C8jYOQWfBI1MhSKM1v4U4LccsKOxg/fq9f2m5Kg8LQO4e07KSWHoFzmq64Lo6+eXLXhGUoPep3u+LguT6QR5mhytRZ38etf+bpxo3UcmpgrjFNN68Y21Y+95F7SGvQapRfXXTpWKymq22iySuLIpho9rvf3eGLLCraUb/aN9aOJyz97EieMXX7YzCbE+VLOPAYYc6/4rPws1pg==;r5zM1j0afRAYhYfpbNulLA=="
 ---
 

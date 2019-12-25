@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AWS beefs up SageMaker machine learning"
-excerpt: "As CEO Andy Jassy presents it, AWS—like rivals Google Cloud and Microsoft Azure—wants to become the leading, full-service environment for data scientists, data engineers, and non-specialist developers to run all of their machine learning workloads. For AWS this means a triple-layered stack of services, starting with the basic building ..."
-publishedDateTime: 2019-12-05T11:04:00Z
+excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+publishedDateTime: 2019-12-05T11:03:00Z
 sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 103
+quality: 86
 heat: -1
 published: false
 
@@ -21,9 +21,8 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
   - AWS AI
-  - Machine Learning
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -41,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 102
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -122,6 +108,6 @@ related:
         width: 800
         height: 500
 
-secured: "LBmICqNGhXuIaM1dw//Ryr/UZXqPJnOVoMmi7JNnq2n9gs3bj3LIr1DlSoOs+jkmdPXk785P3Y9cBkOX+N+/SFeQ6jhFn5dun7rcyJQV5/aOWpd6zpbL3DAsBNkWhLfhey6ghTdb6F0uqFVIiZaoIFGmwbQ2QoIbitBz5EZu3HvZRS9B/WlQmgRBhyge0S2XsiuluVftjRCunDk1FUnfq9lTqZY/sFNemkYEVMvNlv+3AJUlGJ98BQjbpjFOmi4lbyWZxtr/GqkCjGJmxZDEeA==;zeI2O93h1IuFj84qRXdA6Q=="
+secured: "hd+/kn9H51HFVQ/YcqYntLz+HwMgSct7EY3Gynr7h0ghoiowAN04Xw4ZZIjy92gggP9YdmVgdprYB4vvsQzxGFMeiwgJT6kAT5PftvzGDq7LwOLe4leW5iIKilOEJl4tnZAj9QQ0sXrQYU22eEt1Un2gPsSCwgJ5pyQ0kDwhvfH8YuqDYnxn4DaYTX/MYjRIyIXxsFS1sESVy9ldcKv7oxfonZ4Ucynw2V31hXEl3wJyPtOJVFtPrrpWr289uQ0L6a/NfkJy9olO5uQ6c9m9Rg==;DX892R9ohfFHzGrFzzzTrg=="
 ---
 
