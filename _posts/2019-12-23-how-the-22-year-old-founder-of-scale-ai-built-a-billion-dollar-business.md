@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

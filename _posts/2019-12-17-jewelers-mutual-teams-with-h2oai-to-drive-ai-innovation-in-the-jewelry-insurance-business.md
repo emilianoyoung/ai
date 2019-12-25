@@ -26,7 +26,7 @@ images:
 
 related:
   - title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
-    excerpt: "Dec. 23, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI ... and Anurag Sehgal at Credit Suisse chose H2O Driverless AI to accelerate AI adoption in front ..."
+    excerpt: "Dec. 23, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... In 2019, Dean and Anurag Sehgal at Credit Suisse chose H2O Driverless AI to accelerate AI adoption in front-office and back-office investment banking use cases in global markets, fixed income and capital ..."
     publishedDateTime: 2019-12-23T15:00:00Z
     sourceUrl: https://markets.businessinsider.com/news/stocks/h2o-ai-inducted-into-highly-selective-credit-suisse-disruptive-technology-recognition-program-1028782605
     type: article
@@ -36,6 +36,21 @@ related:
     quality: 58
     images:
       - url: https://www.bing.com/th?id=ON.1B0029445D4E3578BE3C2AB13785C479
+        width: 400
+        height: 400
+  - title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
+    excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Nationwide Insurance, Walgreens and MarketAxess. H2O.ai believes in AI4Good with support for wildlife conservation and AI for academics. Learn more at ..."
+    publishedDateTime: 2019-12-18T18:24:00Z
+    sourceUrl: https://finance.yahoo.com/news/jewelers-mutual-teams-h2o-ai-170000852.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.536B952C762FE3D5A030E430CF138B90
         width: 400
         height: 400
 

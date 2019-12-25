@@ -95,21 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.13395A142C83965C66FDC0588B26D25B
         width: 700
         height: 394
-  - title: "Portland plan to ban facial recognition gets eyes around US"
-    excerpt: "PORTLAND, Ore. (KOIN) — The proposal in front of Portland City Council to place more restrictions on facial recognition technology than any other city is making national headlines. This proposal, different than other city-bans across the country, seeks to ban the controversial technology in both the public and the private sector. No other ..."
-    publishedDateTime: 2019-12-04T22:27:00Z
-    sourceUrl: https://www.koin.com/news/civic-affairs/portland-plan-to-ban-facial-recognition-gets-eyes-around-us/
-    ampUrl: https://www.koin.com/news/civic-affairs/portland-plan-to-ban-facial-recognition-gets-eyes-around-us/amp/
-    cdnAmpUrl: https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/civic-affairs/portland-plan-to-ban-facial-recognition-gets-eyes-around-us/amp/
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A7CAA4985734B18FACC15B63339F8BEE
-        width: 700
-        height: 393
   - title: "China survey shows high concern over facial recognition abuse"
     excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
     publishedDateTime: 2019-12-05T10:12:00Z
@@ -200,19 +185,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "Like San Francisco, Chicago Should Ban Facial Recognition Technology"
-    excerpt: "Facial recognition technology has been used by cities across the U.S., however, it is often for controversial purposes. A landlord for in Brooklyn had planned to replace the key fobs with facial recognition. Amazon was reported to have sold its facial recognition software to immigration officials. Police departments in both Chicago and Detroit ..."
-    publishedDateTime: 2019-12-04T22:05:00Z
-    sourceUrl: https://goodmenproject.com/featured-content/like-san-francisco-chicago-should-ban-facial-recognition-technology/
-    type: article
-    provider:
-      name: Good Men Project
-      domain: goodmenproject.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.15C70DE6589F2814DBB9CFA98FF6DFD2
-        width: 600
-        height: 350
   - title: "CBP walks back facial recognition for citizens"
     excerpt: "The proposed rule drew outrage from privacy groups as well as members of Congress, who cast the move as a dramatic expansion of the use of facial recognition and biometric scanning programs at Department of Homeland Security and the federal government writ large. Law enforcement agencies like the FBI and DHS component agencies like the ..."
     publishedDateTime: 2019-12-05T22:48:00Z
@@ -305,8 +277,8 @@ related:
         width: 640
         height: 360
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
-    excerpt: "Temitope Akinyemi, the chief privacy officer for the New York State Eduction Department, wrote to Lockport Superintendent Michelle Bradley saying that if the changes, which further clarify students won't be in the system database, are made then the state education department will allow the district to use its facial and object recognition system."
-    publishedDateTime: 2019-12-04T22:28:00Z
+    excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
+    publishedDateTime: 2019-12-04T22:24:00Z
     sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
     type: article
     provider:
@@ -314,9 +286,9 @@ related:
       domain: securityinfowatch.com
     quality: 30
     images:
-      - url: https://www.bing.com/th?id=ON.E08131CF066105FEF1AAEC1D01E05C35
-        width: 700
-        height: 466
+      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
+        width: 960
+        height: 640
   - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
     excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
     publishedDateTime: 2019-12-05T20:01:00Z

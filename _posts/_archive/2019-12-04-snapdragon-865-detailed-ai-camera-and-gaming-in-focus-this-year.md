@@ -1,35 +1,46 @@
 ---
 category: news
-title: "What we know about Qualcomm’s next-gen Snapdragon 865 and 765 chips"
-excerpt: "Again, no surprise. It’s been an increasingly important aspect of smartphone evolution for several years now. That’s powered by a fifth-gen AI chip that doubles the performance of its predecessor. There’s also on-board support for wake word listening for use with the likes of Alexa and Assistant, at low power. Imaging improvements include ..."
-publishedDateTime: 2019-12-04T23:54:00Z
-sourceUrl: https://techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/
-ampUrl: https://techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/amp/
+title: "Snapdragon 865 detailed: AI, camera and gaming in focus this year"
+excerpt: "The chipset does not come with an integrated 5G modem as many predicted. While the CPU and GPU saw expected incremental upgrades, the real innovations this time were in the ISP and AI Engine. After teasing some of the features on Tuesday, Qualcomm dropped more details about the Snapdragon 865 and Snapdragon 765 SoCs on Day 2 of the company’s ..."
+publishedDateTime: 2019-12-04T23:44:00Z
+sourceUrl: https://www.digit.in/news/mobile-phones/snapdragon-865-detailed-ai-camera-and-gaming-in-focus-this-year-51277.html
+ampUrl: https://www.digit.in/article/amp/mobile-phones/51277/snapdragon-865-detailed-ai-camera-and-gaming-in-focus-this-year
+cdnAmpUrl: https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/51277/snapdragon-865-detailed-ai-camera-and-gaming-in-focus-this-year
 type: article
-quality: 89
-heat: 179
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Digit
+  domain: digit.in
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.7633BA71664D858E2B7ABB2123B6D22D
-    width: 700
-    height: 392
-    title: "What we know about Qualcomm’s next-gen Snapdragon 865 and 765 chips"
+  - url: https://www.bing.com/th?id=ON.2AE8C7A211D59FF45DE7F6DC2CD4F383
+    width: 650
+    height: 488
+    title: "Snapdragon 865 detailed: AI, camera and gaming in focus this year"
 
 related:
+  - title: "What we know about Qualcomm’s next-gen Snapdragon 865 and 765 chips"
+    excerpt: "Again, no surprise. It’s been an increasingly important aspect of smartphone evolution for several years now. That’s powered by a fifth-gen AI chip that doubles the performance of its predecessor. There’s also on-board support for wake word listening for use with the likes of Alexa and Assistant, at low power. Imaging improvements include ..."
+    publishedDateTime: 2019-12-04T23:54:00Z
+    sourceUrl: https://techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/
+    ampUrl: https://techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/04/what-we-know-about-qualcomms-next-gen-snapdragon-865-and-765-chips/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.7633BA71664D858E2B7ABB2123B6D22D
+        width: 700
+        height: 392
   - title: "Qualcomm wants everyone to have a 5G phone, announces two new Snapdragon chips"
     excerpt: "The takeaway theme this year, much like last year, is that Qualcomm is betting big on 5G and AI. To that end, Qualcomm is announcing not one, but two 5G mobile chipsets this year, along with a whole host of other 5G talking points across various market segments. As a flagship chip, the Snapdragon 865 boasts Qualcomm’s highest-performing ..."
     publishedDateTime: 2019-12-05T00:10:00Z
@@ -58,36 +69,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Qualcomm Snapdragon 865: What does it mean for Artificial Intelligence?"
-    excerpt: "Artificial Intelligence is becoming more and more important in everyday life ... Related: Best Phones The most exciting part is probably the implications for low-power usage. The Snapdragon 865 can run always-on neural networks at low power; less than 1mW for the camera, and less than 1mA for voice multi-word wake-up. This not only means ..."
-    publishedDateTime: 2019-12-04T22:14:00Z
-    sourceUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016
-    ampUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.7E9DD07D9EB0AD75178BD2DA9B27D291
-        width: 700
-        height: 472
-  - title: "Snapdragon 865 detailed: AI, camera and gaming in focus this year"
-    excerpt: "The chipset does not come with an integrated 5G modem as many predicted. While the CPU and GPU saw expected incremental upgrades, the real innovations this time were in the ISP and AI Engine. After teasing some of the features on Tuesday, Qualcomm dropped more details about the Snapdragon 865 and Snapdragon 765 SoCs on Day 2 of the company’s ..."
-    publishedDateTime: 2019-12-04T23:44:00Z
-    sourceUrl: https://www.digit.in/news/mobile-phones/snapdragon-865-detailed-ai-camera-and-gaming-in-focus-this-year-51277.html
-    ampUrl: https://www.digit.in/article/amp/mobile-phones/51277/snapdragon-865-detailed-ai-camera-and-gaming-in-focus-this-year
-    cdnAmpUrl: https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/51277/snapdragon-865-detailed-ai-camera-and-gaming-in-focus-this-year
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.2AE8C7A211D59FF45DE7F6DC2CD4F383
-        width: 650
-        height: 488
   - title: "Qualcomm announces Snapdragon XR2, world’s first 5G capable XR chip"
     excerpt: "The company claims that the XR2’s CPU and GPU performance are double that of the earlier version, while artificial intelligence (AI) processing speeds have increased by 11 times ... the XR2 doesn’t seem like something mainstream consumers will take advantage of. Instead, the chip is aimed at enterprise customers who will use the platform ..."
     publishedDateTime: 2019-12-06T01:25:00Z
@@ -160,6 +141,6 @@ related:
         width: 700
         height: 393
 
-secured: "q9CJrho3UDu+56NMRrUXHgrcut90dlESDaR4ktGTcwtS/VdD8PLa1lrYaibE7vKoAyQeUmek8Q4zxr2PjD6UOXFTBzFB2HKSgYVlguYN8+fmjHThKP97NfrvIbjRMHS64nzNJMKS46uf9M1dX8eqD+qWxjqj8OCwEp6X6zUQUMs24yudNaSvYl/BOx09gVD9FNC2J75y6ybPv37UnP5PkPnP51y+4L4dcd7/6+HZoUtmALxNeauqgqXbxJ6RE9Yyj1n5sRT8tu3XLaPLzYisrg==;/FogN35hd+0Njt8MWDR0Og=="
+secured: "+0Cg7xa727Q11tgtLa0EjI3uH2I/YlEOUmB+CRpPCK+ZWCzZJv+1F/mYQJroLSa6WmU+S2Umzwwm3p7LsNjPqx4J9m9v03gaAqDj9RurDej8lWnsV3n8F0T8xLJz3pE4kfNynT2zjWVEwsLE3ApeaTWhkqbEJM/dI29HbwCXerfdNor7HVitP88a5fEhrzLfj5sNBAUshXz09HhaEDl608MhhlkUywCk6oMqxzgC2PcsNlL9iAkk1BivNTPFZvbM4t1FaRNb/UeXGmpzHjLXNg==;JtxyEUN0ekbuD66HPiBI9g=="
 ---
 

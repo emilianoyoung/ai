@@ -58,21 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.177D2403CF430331E9E8831E7FD83E8A
         width: 700
         height: 357
-  - title: "Qualcomm Snapdragon 865: What does it mean for Artificial Intelligence?"
-    excerpt: "Artificial Intelligence is becoming more and more important in everyday life ... Related: Best Phones The most exciting part is probably the implications for low-power usage. The Snapdragon 865 can run always-on neural networks at low power; less than 1mW for the camera, and less than 1mA for voice multi-word wake-up. This not only means ..."
-    publishedDateTime: 2019-12-04T22:14:00Z
-    sourceUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016
-    ampUrl: https://www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/qualcomm-snapdragon-865-mean-artificial-intelligence-3962016/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.7E9DD07D9EB0AD75178BD2DA9B27D291
-        width: 700
-        height: 472
   - title: "Snapdragon 865 detailed: AI, camera and gaming in focus this year"
     excerpt: "The chipset does not come with an integrated 5G modem as many predicted. While the CPU and GPU saw expected incremental upgrades, the real innovations this time were in the ISP and AI Engine. After teasing some of the features on Tuesday, Qualcomm dropped more details about the Snapdragon 865 and Snapdragon 765 SoCs on Day 2 of the company’s ..."
     publishedDateTime: 2019-12-04T23:44:00Z
