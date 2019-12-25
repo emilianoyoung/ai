@@ -334,19 +334,6 @@ related:
       - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
         width: 600
         height: 375
-  - title: "Chinese AV startup AutoX applies for fully self-driving permits in California"
-    excerpt: "Chinese self-driving startup AutoX has applied to test autonomous vehicles (AV) without human safety drivers in California, Reuters has reported. Why it matters: AutoX’s move is the latest example of Chinese autonomous driving companies stepping onto the global stage in the race for dominance in driverless mobility. AutoX is seeking to ..."
-    publishedDateTime: 2019-12-05T10:24:00Z
-    sourceUrl: https://technode.com/2019/12/05/autox-apply-human-free-test/
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.3538C9F328A95559B29A9F29F2C416C4
-        width: 700
-        height: 467
 
 secured: "Dlp8PX8rY2r3JMOOzbm7ncyptvaMNi2+DsOcuQ+3Oi5tZZpeNHVLFMtUInZRgNUSLQIckVsYsvUzwCuoTDLbWtIZAwVXds4VnasiqkXQ8UZl5E9V2yS4L02OxwHU02+Seh49lGGQwSbGykL7ROVL35aZZrauZtZkFyFNjNcH2qru0+giI5a5jt8XvIqoXGd6LJzDS+u5BCABGbn9QBDzzLvl6wYhzt03B73mhdPECqzkI3X6NGeREFMuAdGjoqQxLqdhDncW2JlTi/xxvncR2Q==;MT72e1vvvAFp/uSh3vG1pw=="
 ---

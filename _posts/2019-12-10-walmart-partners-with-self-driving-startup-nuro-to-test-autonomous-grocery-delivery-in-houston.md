@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T15:12:00Z
 sourceUrl: https://news.yahoo.com/walmart-partners-self-driving-startup-151221887.html
 type: article
 quality: 110
-heat: 340
+heat: 330
 published: true
 
 provider:
@@ -333,19 +333,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8B3953AC5574BA956B27E2F0709E0B0D
         width: 700
         height: 466
-  - title: "Chinese AV startup AutoX applies for fully self-driving permits in California"
-    excerpt: "Chinese self-driving startup AutoX has applied to test autonomous vehicles (AV) without human safety drivers in California, Reuters has reported. Why it matters: AutoX’s move is the latest example of Chinese autonomous driving companies stepping onto the global stage in the race for dominance in driverless mobility. AutoX is seeking to ..."
-    publishedDateTime: 2019-12-05T10:24:00Z
-    sourceUrl: https://technode.com/2019/12/05/autox-apply-human-free-test/
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.3538C9F328A95559B29A9F29F2C416C4
-        width: 700
-        height: 467
 
 secured: "p5rHpAXycz9uIdjmE2rQIzAznBa2RVUl5f+9sSiXvL7OuGdy3WAIK3sfKoExpqQt4evqVEA1t1Z5tLZF8Pg8ZyIHODUJ+Bid9AT3teIBzZ9JLpaTyMQB2TuPpefSyUXAnAj61wsj234hZIZwLuqcwppskRdxZHLIHn9UA27p24OsFztJaT0rGBTDI6JqW6twd8lu+VIkB/UUX9k5OX1GIGB1xrWnlARXX5W97M4iD0BUoPEkO46Em4OxC2a0YmUeaPY5S4+fAJZvnZwYWlzrqA==;SJApK/YGJAZUVEEWMxRRdg=="
 ---

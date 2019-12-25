@@ -55,19 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A0E5FD74435CD5824C62FE8125DA3370
         width: 600
         height: 338
-  - title: "A transferable machine-learning framework linking interstice distribution and plastic heterogeneity in metallic glasses"
-    excerpt: "The machine-learnt QS encompasses both ends of the spectrum and provides a complete ... Here we show that ML is indeed capable of learning a mapping that best explains the data (even if there are some noises inside), and the learnt model can even be generalized to completely unseen compositions or chemical systems with appropriate ..."
-    publishedDateTime: 2019-12-05T10:31:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13511-9
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.9743E92C23D6621834550D0BD002F759
-        width: 685
-        height: 453
 
 secured: "PkLYtRkW5qV9H7BX6lPiU9dmz74hj6ifDqeZxpO+uHtQQKUKBZ1MsMmONwAPEWexdBId85a55k4cFKzS/bDk46EBkQp0MoCWQbjs8nYZ7kI0DwPgwDECEHFcIHHacEcqcnE18E8WiY51tpD35c8lQUvSLjby/bJ4Q8VJXcyed44dQyakOoz0GSIML7s8cjNJ4uHWKo3NKi7RbAEozYgLD9mjruQDjip7qNbyaO/hlsGx26NG7mjDxTqgK+3WsmKOjtbPew82qmmb6Ubi8mCKHw==;WW6gXYnbokgcVvN+jVUiRg=="
 ---

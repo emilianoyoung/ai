@@ -91,19 +91,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market 2019 – Competition Landscape, SWOT Analysis with top key players"
-    excerpt: "Dec 05, 2019 (Global QYResearch via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-05T10:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-2019-competition-landscape-swot-analysis-with-top-key-players-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Analysis on the World Market for Artificial Intelligence Platform current & Future Opportunities 2019"
     excerpt: "Dec 05, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence Platform Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
     publishedDateTime: 2019-12-06T03:12:00Z
@@ -130,19 +117,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
-    excerpt: "BIS Research Report: https://bisresearch.com/industry-report/artificial-intelligence-agriculture-market.html Some of the popular use cases of AI in agriculture include predictive analytics, robotics, unmanned aerial vehicles, and autonomous farm vehicles. As per agricultural applications, crop protection, weather forecasting, farm machinery ..."
-    publishedDateTime: 2019-12-05T10:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-to-reach-2-015-7-million-by-2024--300969688.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.EADC4EFC848C08E651CC3B2E6F2086B1
-        width: 700
-        height: 439
   - title: "Data Science And Machine Learning Service Market Survey Report by Recent Developments and Professional Outlook till 2025"
     excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The Data Science And Machine Learning Service Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Data Science And Machine Learning Service Market report is a ..."
     publishedDateTime: 2019-12-11T14:13:00Z

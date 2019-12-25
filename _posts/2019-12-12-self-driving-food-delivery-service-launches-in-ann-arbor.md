@@ -334,19 +334,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8B3953AC5574BA956B27E2F0709E0B0D
         width: 700
         height: 466
-  - title: "Chinese AV startup AutoX applies for fully self-driving permits in California"
-    excerpt: "Chinese self-driving startup AutoX has applied to test autonomous vehicles (AV) without human safety drivers in California, Reuters has reported. Why it matters: AutoX’s move is the latest example of Chinese autonomous driving companies stepping onto the global stage in the race for dominance in driverless mobility. AutoX is seeking to ..."
-    publishedDateTime: 2019-12-05T10:24:00Z
-    sourceUrl: https://technode.com/2019/12/05/autox-apply-human-free-test/
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.3538C9F328A95559B29A9F29F2C416C4
-        width: 700
-        height: 467
 
 secured: "eh+K6OGCm6KHDWYh/nqDKEC9GI7iy/wZ/bC11wRH5W72t727hd14R4yYXPQd+nu+wGTKLbnNduD4KLoRQS6SjZU/7KtRWSAjpEGEhhvl52LvCfW67lCMvMLj/aJNdpFfNcJ0i08skaKhcQ6Id+uQspqc5+dKug2YSTzzU5vQ/BpJOPI7+BNYTgtJzDsQYNG68mMQen1L02TMwdNQGUIjsYA0LbJJcRl73KDQqBUUQqqSP92cY1BK7BzMyAnl6aZR325LgU4oWWf5qcs7WY1ktw==;SYUEW1jGaTR0kroWW5lhJA=="
 ---

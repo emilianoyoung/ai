@@ -65,21 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "China survey shows high concern over facial recognition abuse"
-    excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
-    publishedDateTime: 2019-12-05T10:12:00Z
-    sourceUrl: https://www.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
-    ampUrl: https://amp.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F6339ACFD9DC037CCB7BC6006DA09BC5
-        width: 700
-        height: 393
   - title: "Criticism Prompts DHS To Abort Facial Recognition Of US citizens"
     excerpt: "The Department of Homeland Security (DHS) has reversed its plans for mandatory facial recognition scans of Americans arriving and departing the country, TechCrunch reported on Thursday (Dec. 5). The DHS said in a government filing by Customs and Border Protection (CBP) that it wanted to “amend the regulations to provide that all travelers ..."
     publishedDateTime: 2019-12-05T21:36:00Z
@@ -273,6 +258,6 @@ related:
         width: 700
         height: 350
 
-secured: "iv8o1U3Zf2hR9KeVTYHv2Zd1uoXOXOJI7NLKar7+V3z9PxTTRgaYHoZ8MNcZCocM1kOss7dRc518vdHhxzlINyhLWK2pjv4+0NJKC1AlIFDGI9PVsZNaNC/lbxLFvT4uAdSYCAOaaejwz3RfAMbDCWRSagbwaZr2pIm6lCUPTFgp7a9CevEh1K4lYjIoXUiRqpHO76wQqnX3aznmGa/mepx5cwqxaonGpo4tvTRiytCZ1mwO9ebR3kBG9241kximgcFXzDxT+PJwkZjoW6s59A==;qzkT/DYhKoJh/Ng82WlWzA=="
+secured: "QKZfQSINPAJqAK6k88vmIQWxYmH7IHXlEdnT7wDchLonE6j21GiwrqGPKZsMOIm6CpnI5/rfqMgn4hGrCobvbtbgiRRc1Q/5XvSH1rby1ZDjy5KUFoXddswsQR98ZS75SAzWQT0+cs//6zTUMF7CHy9jBXUZFo890yUSPaUUrKXQH8BQdhC7Gb6NK9Vj/fG6Hck6G2ilDx0WzS7gGydtaq0VwS+xPMSKhlnQijdfjD0RMI08BwaCNjydy2TqEhyFmBTrUbP87EumpUdobgtReQ==;ytChfOsCy1aWhtGXHBjX6A=="
 ---
 

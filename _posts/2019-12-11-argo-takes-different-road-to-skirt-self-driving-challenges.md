@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T12:31:00Z
 sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
 
 related:
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -79,6 +92,6 @@ related:
       domain: irishexaminer.com
     quality: 19
 
-secured: "TLHjbhHnfMiDNNTDjYo4ZeopdN+0SXySIQuvg0w02unxi6aOWwfMrl8h/dFNshsG6PntXOV5RChRA+vaBBLr/x8djUf3TZeGvFFcTHm2pQoVFtL5NboFbmXjzSASepKQLK7YIneTIfpNP5DRTBRsu6wzBDMR/IX9eAUYiFYn6zN9e2ILB414cw4UoDZ7KpZwjgEAAF7d3qbkw0vT5vN3DeOH6qVkJuaffBm46NKQP3gKmzGcaTTYBqM1lo1ngB/vGUUP3J15YGwR1XlP9iwbaw==;IIkMh172zxpTZdda3hNHVw=="
+secured: "VaGACRZHKmKDZyfRpPKD9Qpl5mvt3tYuddeqVpFR6L50M2dnSsNDORPS2xb8vPdjC4wfzx0BiiLQI78xK2j60l2KWrRRiBGDecAYGC0EYFzIAFerMpEHovnZeihNjKJey4OzGXUrUbuWjIVuF7+/LKIrAwa4W0hruiU2NRjRr2o3KMObAqJdwI0L6qrl6oQUuT9ymL5a6Tbq/My6VOQ8uChKWsLjJQM0jaQy2Ku6xIhMrCIK9+BYNoJ1offULVUbLOvJjwR3ltbUn8npDMhflg==;bTp+/CrkFmNshgX8YLb9JQ=="
 ---
 

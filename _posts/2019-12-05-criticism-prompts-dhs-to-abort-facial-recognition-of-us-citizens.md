@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
         width: 700
         height: 525
-  - title: "China survey shows high concern over facial recognition abuse"
-    excerpt: "Most people would like to be able to choose traditional methods of identification over facial recognition technology, the first major public opinion in China has shown, reflecting increasing concern in the world’s second-largest economy about personal data protection. China has led the rollout of facial recognition globally, installing face ..."
-    publishedDateTime: 2019-12-05T10:12:00Z
-    sourceUrl: https://www.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
-    ampUrl: https://amp.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7c32c7a8-172e-11ea-9ee4-11f260415385
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F6339ACFD9DC037CCB7BC6006DA09BC5
-        width: 700
-        height: 393
   - title: "SHC orders face recognition facility installed at police record office"
     excerpt: "KARACHI: The Sindh High Court on Thursday expressed concerns over lack of face recognition system at the criminal record office (CRO) of police and directed the home secretary, the provincial police officer and the director general of the National Database and Registration Authority to ensure that such facility must be exclusively available at ..."
     publishedDateTime: 2019-12-06T02:28:00Z

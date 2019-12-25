@@ -8,7 +8,7 @@ ampUrl: https://www.martechadvisor.com/news/data-management/amperity-joins-aws-p
 cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/data-management/amperity-joins-aws-partner-network-to-simplify-retail-marketing/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Amperity Joins AWS Partner Network To Simplify Retail Marketing"
 
 related:
-  - title: "SoftServe Achieves AWS Retail Competency Status"
-    excerpt: "The recognition acknowledges that SoftServe has technical proficiency and proven customer success across numerous innovative solution areas in retail spanning data lakes, artificial intelligence (AI) / machine learning (ML), predictive analytics, internet of things (IoT), intelligent automation, and retail transformation. AWS Retail Competency ..."
-    publishedDateTime: 2019-12-05T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/softserve-achieves-aws-retail-competency-status-300969441.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.E91D3E29051AA6038320BDCAA1567CF4
-        width: 700
-        height: 366
   - title: "CleverTap Achieves AWS Retail Competency Status"
     excerpt: "CleverTap, a provider of artificial intelligence-powered customer lifecycle and user retention platforms, has achieved Amazon Web Services (AWS) Retail Competency status for technical proficiency and proven customer success across numerous solutions in the Customer Engagement category of the AWS Retail Competency that help marketing leaders ..."
     publishedDateTime: 2019-12-05T17:06:00Z

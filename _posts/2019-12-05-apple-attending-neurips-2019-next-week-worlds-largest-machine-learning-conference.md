@@ -8,7 +8,7 @@ ampUrl: https://www.macrumors.com/2019/12/05/apple-attending-neurips-2019/amp/
 cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2019/12/05/apple-attending-neurips-2019/amp/
 type: article
 quality: 155
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -55,19 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A0E5FD74435CD5824C62FE8125DA3370
         width: 600
         height: 338
-  - title: "A transferable machine-learning framework linking interstice distribution and plastic heterogeneity in metallic glasses"
-    excerpt: "The machine-learnt QS encompasses both ends of the spectrum and provides a complete ... Here we show that ML is indeed capable of learning a mapping that best explains the data (even if there are some noises inside), and the learnt model can even be generalized to completely unseen compositions or chemical systems with appropriate ..."
-    publishedDateTime: 2019-12-05T10:31:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13511-9
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.9743E92C23D6621834550D0BD002F759
-        width: 685
-        height: 453
 
 secured: "5MbNr7iNnOGhWWECoKPK3ipLReApOPE2oAo53MZTpIRNTmu4yMOeNtntr9pNLb61vw9/oNzLBtfk8YUbmxUkvx8QYp1fM8wwXAI/GVIDetyZy8Vgf3pkwTGBMxZ2gi860tEQ7QfFdTNL2zjm0hDPgDHEG7uhL8zzQAuABfP0V9KKuymvbHVloVMCbm+2tdPqlJc57bLC0cTBRjPxCF3qOTL0O78dxutrpqtBUCDpsdKBGwR3eYPOUTnrlWxECCz/Co4wNaF3O4gNiwqLX8hWmEVYECVNkfKJ0HBtA+nUHjo=;zDSysO/wV11RhClzdPOE2g=="
 ---
