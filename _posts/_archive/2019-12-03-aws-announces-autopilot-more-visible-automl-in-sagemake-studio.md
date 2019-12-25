@@ -28,8 +28,8 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 69
+    quality: 101
 
-secured: "I+YV+hx1EFOD7vda4cRKa1g9uJKXwOFeF3PGgUrLYyJ3LpMPh5tw0jqqniCW/3CKE4kmAaXxExcrqBX8yGh6EJXSIG4lPHnBqCAVR4JiWdasH4orKtUt1QFj2pw1eIA2EFsPvqkDQenF6Mw0lffw57cvvRgwlcWiCl8uDLnupYxtVnjVtnuWmTYVHNha2D8FHnj2lK6kI/ooQ1gLIVjs4H1u2Pr2xHdpLLtqHocDnydNu6rCZhBgq4B45CeoEw8Un6tpi0XrAd/KTKP30N9F6w==;eo9VdYLdiOREL1bXmom3fQ=="
+secured: "XbO5kGzNpBaRxtvOyKrhCc6YSfHBcgzMrEWDa0K2dD5OuzqBSvly3l5TEHMGr1aggaIEgWXP9sEQf3UItYOdsStW5kmgghQC+R7N4pWCrfstOwnTnua8cdlSeOg1w3aWvn1IfCamIFELdBN4h9LCBuRaGlA3HAReNzMHIF/b16fdNxz3oYE1S1Kpe5Th8vBGiS9AOrgl/aNzSa6imBpv8+DkXLzDhOTZgAsDFv6X1w+cwFvT8m0cSl5dQQJjG+IhWcjn7DIi6NeTnxZBpSrv0A==;3+RA0RwYoTbDDn7HFYLFJA=="
 ---
 

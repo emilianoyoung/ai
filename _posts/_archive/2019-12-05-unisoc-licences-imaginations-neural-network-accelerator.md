@@ -1,8 +1,8 @@
 ---
 category: news
 title: "UNISOC licences Imagination's neural-network accelerator"
-excerpt: "We’re delighted to deepen our strategic partnership and enable artificial intelligence capabilities for commerce, medical care, home, education and more.” For those who came in late, IMG Series3NX is an embedded solution for hardware acceleration of neural networks in the market. It followed the successful Series3NX and provides scalability ..."
-publishedDateTime: 2019-12-05T09:34:00Z
+excerpt: "We’re delighted to deepen our strategic partnership and enable artificial intelligence capabilities for ... IMG Series3NX is an embedded solution for hardware acceleration of neural networks in the market. It followed the successful Series3NX and ..."
+publishedDateTime: 2019-12-05T00:00:00Z
 sourceUrl: https://www.fudzilla.com/news/ai/49915-unisoc-licences-imagination-s-neural-network-accelerator
 type: article
 quality: 24
@@ -18,11 +18,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.05959E36BBB81FB016EF8A0720139662
+  - url: https://www.fudzilla.com/media/k2/items/cache/c6a6f8ae6c5661ff73097cdc00ba4f5d_L.jpg
     width: 620
     height: 464
     title: "UNISOC licences Imagination's neural-network accelerator"
 
-secured: "qpSd2dSuY3X1KwcL+RiIq73qPP+qA2X508ySUK90wlp2OVBX7dngUtYgNmjQnyW2plndrzBDWNtDvjPeobWaYyM4k6RlDiWRLayFodsYe96M8nS9z3qLf5HOqb0C6I6Pf6zjz/PgzpMUxHrUppW5CFJITpigKZ9oRsI6nNmzniC1U7Hfr3DNHLZ+GkcoHqX/m6ldj77hn1HGzbfcJS27EFITS/6gX/gmM6NYDGELpiV8vohxAmxzRksEoVR1uh7QE6shFMuIWsiBpwoundRM/Q==;faYqgIVDqHVS8SL0txsWmA=="
+secured: "7sAJzPuAXDB/MqeBzE3SkrwLt81WJQ3IFtgmcBx0stIfyos/JI8zKomop88tnes+TVZ11A6Q7cKFYHcxXdYyFB9Hl1HbUtDi1KwwGqkHcrcfbXsOr8YjdIsUiC367E9JCqm/InTk6K4NijAZ6mnNK5VHOzRE7EvFnSswpkSO5hRbAO5MMxmZS7qOORv4V7rC5l7VH7H90wUZjs9zn/QsTsI1fN96z0b7PJQZ20Ak7QNpIe2IUhBsypiKPXnhs3IGhEYF+m3xwKHXvX313Vq7SQ==;RCR1vqmjx9keJXVmn8Cr3A=="
 ---
 

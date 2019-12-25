@@ -45,21 +45,8 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 102
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
     publishedDateTime: 2019-12-05T11:03:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -122,6 +109,6 @@ related:
         width: 800
         height: 500
 
-secured: "7rTCiDbjCa5aFbf9W1AhVSZYKKY8iUPBb7TmTDuIXvf5U5nvIN+VQz3R4yGHCABkkrnn614KBrSJXKVbPRYKtCiXLrkXli4GDQquvuwv9E2hTvASKKN6WSARTdqdjdMRnnclz853gzHiD489aPPb7R9oGbSr9T7XVKgFO0Q73XZxIid4VkzFSiOldkJvk8z/llCBh53kehRlrXZsF/qKrNaIGaPnkfjnaD5xOjB5qahX1d5A2XzzB1Xyo53fIbcBiagV9epfjJ5GkVvpFJYRLA==;FrV7NM1RtO9kpwiaPABitw=="
+secured: "zvfj5i9Mi698L3CjvfQq3CRnfv1q3+8WFOmv4Ld1u73PlPQD4j56qIR2LEdNHrDRv5E4mFlUNMRtENhWJ/GPUqLGCQMGjFr9MY/S8PFbcQP7zv046dkCQEgm0/s+AM7YNyg5NF5XTcN58duTLUxLYejzMEPMXygFENBVF3YkG3B3Tjahg9DypKtLGXOz0/yRFqYs7gZ/sJ24EcWfCci1OHJfKbBq20X/iyWq7JunHSVTQcB2MThp8+017Ds9dcmjR6dvTzsjyf0k8sIkIUvoSQ==;cyJHkb55uQrW49o/5vvV8w=="
 ---
 

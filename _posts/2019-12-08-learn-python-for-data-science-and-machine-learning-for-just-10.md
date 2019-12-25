@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-08T10:00:00Z
 sourceUrl: https://mashable.com/shopping/dec-8-python-data-science-online-course/
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Learn Python for data science and machine learning for just $10"
 
 related:
-  - title: "Raising the standard with Artificial Intelligence (AI) and Deep Learning"
-    excerpt: "There are no limits to the applications the camera can be used for, and the solution platform is particularly suitable for sectors such as building engineering, energy, civil engineering, industry and production, public services, retail, healthcare, and education. Focus on smart video technologies with Artificial Intelligence and Deep Learning ..."
-    publishedDateTime: 2019-12-05T17:03:00Z
-    sourceUrl: https://securitynewsdesk.com/raising-the-standard-with-artificial-intelligence-ai-and-deep-learning/
-    type: article
-    provider:
-      name: securitynewsdesk.com
-      domain: securitynewsdesk.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.0BF13792F0EE2F77B8D79510CDB177F3
-        width: 700
-        height: 382
   - title: "Video: The alchemy and science of machine learning for games"
     excerpt: "In this 2019 GDC talk, Ubisoft Montreal's Yves Jacquier explains Ubisoft's strategy for incorporating modern AI and machine learning in big-budget triple-A games. Jacquier's presentation shed light on how Ubisoft incorporates these new technologies into its production process for making games like Assassin's Creed Odyssey, Rainbow Six ..."
     publishedDateTime: 2019-12-10T20:36:00Z

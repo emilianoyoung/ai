@@ -7,8 +7,8 @@ sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visibl
 ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
-quality: 69
-heat: 79
+quality: 101
+heat: 111
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
@@ -34,6 +35,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "3X8ZRtuo8rlj17rHh1wR4IqlCaOhx/fDwmhXyl22CNwS3QsbqF2B9Kf6urQAgNPh5iDS/S3Cgk6QqE+IiBEAoyNHlhbLpkwyrF0QNMOmvwfkHWE6j1P75wSDsfmqDTSEoUmx2hgMLkJQKGyYgtMumG88nevipdQ8mixVD4wz+4IMoOFO4COFXF5pUKh/OA8bBA0sUJRXrCuhF7WBezfJYdXVV7nDVjj7yQ1/dttbJ8pRQUSvrXI1Kn+bfU5MwfuxWqp6qXF4CUDJX3O7sR21yA==;zT+oCyTLxP55/XcNG0nWHw=="
+secured: "qVtoDRM3vxtajjrpNouegaqumPA/8EFChUuYxx1v27qeOBStvAOaCZWJpA4KPXUehCj1XcrjREXexLK/yGNZK6Q1J/qFRk5EQMaU3Owp4CujoUogqcA8KZqS0NFASpXfHz9fhPT7TTBcy1XyHe+oaYSYf+EgUeCM4D7+OQ7EMTIMFA5tPc6e06q8pWH0d2M4pdR/8sexUyGycOYSKmxWZV9G3nV/cuzrjrODXEsLdkkUcRleGJB1S3vwVLfyNIQ6ebdlJrlb7jxzfAsXrt1OLQ==;ozmTLD6DAJ5bQ8ljZuSwtg=="
 ---
 

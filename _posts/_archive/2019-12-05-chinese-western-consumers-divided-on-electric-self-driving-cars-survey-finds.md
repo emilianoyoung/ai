@@ -1,29 +1,27 @@
 ---
 category: news
-title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-excerpt: "... to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo. For more insights into China tech, sign up for our"
-publishedDateTime: 2019-12-08T00:41:00Z
-sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
+excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
+publishedDateTime: 2019-12-05T17:05:00Z
+sourceUrl: https://www.autonews.com/china/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
 type: article
-quality: 39
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.CB42C20B1631461C7E8289E0A12519E4
+  - url: https://www.bing.com/th?id=ON.133F7429E34CB6B16DBA2B56700FA648
     width: 700
-    height: 367
-    title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
+    height: 525
+    title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
 
 related:
   - title: "We tried out a futuristic, self-driving robotaxi in China"
@@ -54,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.54648040F7CCE5BB298C0E7D7AB42D17
         width: 700
         height: 466
+  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
+    excerpt: "... to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo. For more insights into China tech, sign up for our"
+    publishedDateTime: 2019-12-08T00:41:00Z
+    sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CB42C20B1631461C7E8289E0A12519E4
+        width: 700
+        height: 367
   - title: "CORRECTED-Western, Chinese consumers divided on electric, self-driving cars -survey"
     excerpt: "(Corrects name to \"OC&C Consultants\" from \"OC&C Consulting\" in second paragraph) By Tina Bellon Dec 5 (Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on ..."
     publishedDateTime: 2019-12-06T00:07:00Z
@@ -71,19 +84,6 @@ related:
         height: 1200
   - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
     excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-05T17:05:00Z
-    sourceUrl: https://www.autonews.com/china/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.133F7429E34CB6B16DBA2B56700FA648
-        width: 700
-        height: 525
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
     publishedDateTime: 2019-12-06T10:12:00Z
     sourceUrl: https://europe.autonews.com/automakers/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
     type: article
@@ -96,6 +96,6 @@ related:
         width: 700
         height: 525
 
-secured: "JZ7yfxdMvSyGDnCjaKs30kPDHEw5FQKorvxh+XMYpqdoiEUTNyvYQ19umvl5Uhd3trT33Kkaptaw+UsXpkzNm/fTS6Dq5Y3osFzrGumMzwAyo7ymoZdeDOmQDliJSrUcfokQyOLvaGZ3VZitApkUrPZ6h1/ivaFQZOlZOLMshZOTeMHcj8uEpWoXtyewldmvobMHp/8gPJXu53RQ5Ceg9KD+j2DHj918Z87VhEbrlrjJeOMWqZDR8ltkudg3daoqDOhVm0rlWxtUIMWyW9xQ3g==;JPZG1rdVoFsBRj4HPX+29Q=="
+secured: "PN8xBvNYq4/GVlVzjf2y9TrmfxWtd/uZgkxy78FCxNQQ9GuqMotrr5Pv0PnUk4L+h1fRBXcMi1A5YqJEuOxypAjRyedbrnq3WN/RzYlZ196bN7bVkpEAsGd6k6zQ36pzneNzb8yi+7gBJIeJ3SQP92vzLR7WIn4DudzOJR2L+Xxgfkwt8oDKcbDChtDIyVSU92IaEbeaD1fZFBagICsV0glF3kmYCCPtSnLYsnNpj27whLvFE2Db2yl1JR/TgVObKURGpcckBBLmZX2AniIEgg==;TmaOOfwhvqYChLXH6tbUMw=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/10/diagnosing-the-doctor-how-to-choose-a-doctor-to-advise-your-healthcare-ai-startup/amp/
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.999BAEF5D11AC131952FCD3DF58446C2
         width: 555
         height: 330
-  - title: "Will AI replace humans in health care? Not likely, but here’s how to talk to your staff about it"
-    excerpt: "Artificial intelligence may seem like just a buzzword in health care today, but the technology is poised to significantly transform how health care is delivered — and the type of work required to deliver it. A third or more of the tasks being performed by people in hospitals and health systems could be automated in the future, performed ..."
-    publishedDateTime: 2019-12-05T16:06:00Z
-    sourceUrl: https://www.aha.org/news/healthcareinnovation-thursday-blog/2019-12-05-will-ai-replace-humans-health-care-not-likely
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.791C447D9381C6D1C16D8CA87CEB65E3
-        width: 700
-        height: 311
 
 secured: "sqzsP//urpRU53xhLuvWma/LJij0X0J0EcfWIOsbMJ/v2zW/kbXM1d2nJ+zCGh72x28Du6rI/y3A+9XJJdxEQ/i4DVise0OUCZozIK5g5bIW0VW2qVW977oGaY91lRH1RcGo+JmSdoK5IHkWyj9QpzQZXIL7H6WYWbGlzzsAmvq8ammPwy/gf7fmJUsdEww26pVD8rIjm7E04O9i0D4s+ldA7fxovTsJ+4YoXR6TcpRLRxFTKdXrf9LVZ+ULwc2GLQX/dnbZvJikHS3DI1kZtw==;a3cqQAg4Ti41hc+TiCUnwQ=="
 ---

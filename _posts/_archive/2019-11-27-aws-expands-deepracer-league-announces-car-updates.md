@@ -63,7 +63,16 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-12-01T23:55:00Z
+    sourceUrl: https://www.msn.com/en-nz/motoring/science-amis/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 34
 
-secured: "y/+EilOZJgMXo88lJt8/qw1iMT6wzzd4y7W8e7aazlMWIYHeW97lGLsUv4Y4heiQLV2n21aNo7s3vpL7GEaLXhVeCFW0F56QaF8cN+h7mRbZbRY/5UczJREcr4jwf+APuXIFt22DyEPMI9k7uUR9Ol3whSTCshZ8Bg2ws5a/CmWb5ZwcllacWeC8z/JZ7KlpoNcc8zP6pKcKJvXJTGgi57jH6LRJizeNNNa6nVeD+5NfPCLVZ09goJnEtu/Z44beTH8tKGgi8Wg6+rLkeCg7pw==;DMrgI9xi3Gp9gncAHnmtOg=="
+secured: "22z4eS03VevyxuObmCY7CiqsfChELZVwf3u4AzQpao2eUYjAIJiQiQQjLrsKiJ7QB3to0Gy9v02TcWnk3haCtF32CFG/FRJjlKyp4+amRzOUsJps+4vJMi75KLKUn5Gk/BBtYn4wyLLkT4lkLlobHy2LtuAjsFCwnl6JXViLHUsB19QqMTRjv8cUHtiZWlPgrLEPRqBrj3pqdx37vUDBnhjlWmhZ5wgFNX7BO2ZzJgOfQl03n8PbM0MphzTZbZ7H/Gh/v1EAzzNYucJk2JeWZw==;HbPZNjV7NCYs3aTZLaF4lg=="
 ---
 

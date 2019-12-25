@@ -24,138 +24,142 @@ images:
     title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
 
 related:
-  - title: "Mind Tricks: How Digital Nudging By In-Car AI Will Shape Where Your Self-Driving Car Takes You"
-    excerpt: "Here’s an interesting question: With true self-driving cars, will you always be taken to whatever destination you’ve indicated, or might the AI system attempt to digitally nudge you to go to a different endpoint? Most people assume that the AI system that’s driving the self-driving car will strictly do whatever you’ve specified and be ..."
-    publishedDateTime: 2019-12-05T16:29:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T22:58:00Z
+    sourceUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/
+    ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.490A60431B515F43B53607D51EC0B4E3
+      - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
         width: 600
-        height: 315
-  - title: "Uber says it may have to pay Waymo for self-driving car technology"
-    excerpt: "It appears that Uber is going to be dealing with the after-effects of its self-driving car technology trade secrets suit with Waymo for some time to come. In a filing with the U.S. Securities and Exchange Commission, Uber said that it “will likely” have to either enter a licensing deal with Google’s Waymo, or make some high-priced changes ..."
-    publishedDateTime: 2019-12-06T21:52:00Z
-    sourceUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology
-    ampUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
-    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
+        height: 400
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+    publishedDateTime: 2019-12-14T13:48:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 59
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
-        width: 700
-        height: 393
-  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
-    publishedDateTime: 2019-12-11T12:31:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
-    publishedDateTime: 2019-12-05T10:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-2018-2024-size-industry-growth-share-global-forecasts-analysis-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-12T10:05:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
+      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
         width: 700
         height: 466
-  - title: "CES 2020: Embedding lidar into automotive headlamps for self-driving cars"
-    excerpt: "SiLC Technologies Inc. and Varroc Lighting Systems will demonstrate a new lighting and electronics system that will integrate lidar into automotive headlamps. The demonstration will take place at the upcoming CES 2020 in Las Vegas. Varroc’s light emitting diode (LED) headlamp will be integrated with four silicon photonics frequency-modulated ..."
-    publishedDateTime: 2019-12-09T13:34:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14384/ces-2020-embedding-lidar-into-automotive-headlamps-for-self-driving-cars
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 23
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
-        height: 319
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T10:22:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+        height: 349
+  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
+    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
+    publishedDateTime: 2019-12-10T13:14:00Z
+    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
-        width: 700
-        height: 525
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
-    publishedDateTime: 2019-12-12T08:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
+        width: 600
+        height: 300
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-15T00:05:00Z
+    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
         width: 700
-        height: 419
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-05T17:05:00Z
-    sourceUrl: https://www.autonews.com/china/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
+        height: 466
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.133F7429E34CB6B16DBA2B56700FA648
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
         width: 700
-        height: 525
+        height: 367
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-16T00:03:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
+        width: 700
+        height: 466
+  - title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
+    publishedDateTime: 2019-12-17T11:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
+        width: 700
+        height: 466
+  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
+    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
+    publishedDateTime: 2019-12-15T05:11:00Z
+    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 12
+    images:
+      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
+        width: 668
+        height: 355
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "1pOrCs9XtTMgCv8URXbvM7a5HFCOHi9W0VQLZsUvlxDeZeBB/xSuboNK1KbeO9boHo0Tg3awQzU29K1GpRaOhmzFH5DaA3gtKDHMthFmwIwLYDsUMMmzfszHs+3fEEcF/+UwRQrWBjby5A1QbiPgoERYoEnins2eRmIhhoqGsQpw/CVWXCqiyAODKzvGdDmRqh6NNxPsPOf5Sy5tyD8nkQmvbX+3yv8uJO+ekmdvtlZfiFozEW4PzNc7qwtCNa6xGw2/OhXzUvyk7j6KgyT12w==;VZMWVxm1hRQG4gjVMCxD1Q=="
 ---

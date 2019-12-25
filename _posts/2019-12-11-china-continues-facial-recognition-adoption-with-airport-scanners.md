@@ -264,21 +264,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
         width: 700
         height: 525
-  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-    publishedDateTime: 2019-12-20T14:27:00Z
-    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 82
-    images:
-      - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
-        width: 1400
-        height: 933
   - title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
     excerpt: "The commission’s vote halts plans by Delta Air Lines to roll out facial-recognition cameras at its Sea-Tac this year. (Shutterstock) SEATTLE (AP) — At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the ..."
     publishedDateTime: 2019-12-11T19:51:00Z
@@ -1799,6 +1784,15 @@ related:
       name: CNN on MSN.com
       domain: msn.com
     quality: 17
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T20:57:00Z
+    sourceUrl: https://www.msn.com/en-nz/news/techandscience/federal-study-of-top-facial-recognition-algorithms-finds-e2-80-98empirical-evidence-e2-80-99-of-bias/ar-BBYcTlS
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 12
 
 secured: "JUDPoynqsX34meEjluPlig7J9gveLNNFbZspx/53sih+T07KVoz0WyaHQgDotXsY4SU9EMtXGQF/kD7XMD21aCm2ci4slAOmDlAL7Gg9kh0LLzi2a4CbKzMk9zqCyjQCvSGQaf12fUcWV2oRGPt30xDjKpQOo4tqmFcS/WAEUPc3damAV7hTxuuDDeH6TZYDCbiR43kWrt4pNuRVA3Q13S5x1bJQgn8sION91Lxo6aC8bgX5F3l/PRmtVLFw5O7DIKU/TZMmRyxUJXJXk01icQ==;UeAE+UnC2+6nZ7GPX2N5lw=="
 ---

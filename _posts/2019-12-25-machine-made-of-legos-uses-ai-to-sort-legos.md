@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Top Articles of 2019: Artificial Intelligence"
-excerpt: "In September 2019, Stephanie Neil, Automation World’s Senior Editor, reported on how Siemens is using neural networks in its controller programs to enable controllers to recognize complex patters, much like the human brain. By bringing this technology into the company’s S7-1500 controller and ET 200MP I/O system with the release of the S7 ..."
-publishedDateTime: 2019-12-24T14:06:00Z
-sourceUrl: https://www.automationworld.com/factory/iiot/article/21107558/top-articles-of-2019-artificial-intelligence
+title: "Machine Made of LEGOs Uses AI to Sort LEGOs"
+excerpt: "LEGO enthusiast and YouTuber Daniel West has created what he believes to be the next evolution of LEGO sorting machines. His creation is the first of its kind and uses AI and Neural Networks to sort any kind LEGO brick — something that's never been done. His machine is capable of identifying and sorting any LEGO brick every made using an ..."
+publishedDateTime: 2019-12-25T17:03:00Z
+sourceUrl: https://www.ign.com/articles/2019/12/25/machine-made-of-legos-uses-ai-to-sort-legos
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Automation World
-  domain: automationworld.com
+  name: IGN
+  domain: ign.com
 
 topics:
   - AI
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
-    width: 500
-    height: 375
-    title: "Top Articles of 2019: Artificial Intelligence"
+  - url: https://www.bing.com/th?id=ON.6D06F9D0624E3987B512C89E67FD1467
+    width: 700
+    height: 393
+    title: "Machine Made of LEGOs Uses AI to Sort LEGOs"
 
 related:
   - title: "CMSWire's Top 10 AI and Machine Learning Articles of 2019"
@@ -39,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CB3195B5D98AF6FC92B4F60F937935CC
         width: 640
         height: 480
+  - title: "Top Articles of 2019: Artificial Intelligence"
+    excerpt: "In September 2019, Stephanie Neil, Automation World’s Senior Editor, reported on how Siemens is using neural networks in its controller programs to enable controllers to recognize complex patters, much like the human brain. By bringing this technology into the company’s S7-1500 controller and ET 200MP I/O system with the release of the S7 ..."
+    publishedDateTime: 2019-12-24T14:06:00Z
+    sourceUrl: https://www.automationworld.com/factory/iiot/article/21107558/top-articles-of-2019-artificial-intelligence
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
+        width: 500
+        height: 375
   - title: "Top 10 artificial intelligence stories of 2019"
     excerpt: "According to Gartner’s 2019 CIO Agenda survey, organisations that have deployed artificial intelligence (AI) grew from 4% to 14% between 2018 and 2019. Organisations are looking to take advantage of smart speakers such as Alexa and Google Home to provide another channel to market, and are rolling out chatbots as an alternative to call centre ..."
     publishedDateTime: 2019-12-19T11:49:00Z
@@ -50,20 +62,7 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
-  - title: "Machine Made of LEGOs Uses AI to Sort LEGOs"
-    excerpt: "LEGO enthusiast and YouTuber Daniel West has created what he believes to be the next evolution of LEGO sorting machines. His creation is the first of its kind and uses AI and Neural Networks to sort any kind LEGO brick — something that's never been done. His machine is capable of identifying and sorting any LEGO brick every made using an ..."
-    publishedDateTime: 2019-12-25T17:03:00Z
-    sourceUrl: https://www.ign.com/articles/2019/12/25/machine-made-of-legos-uses-ai-to-sort-legos
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6D06F9D0624E3987B512C89E67FD1467
-        width: 700
-        height: 393
 
-secured: "x5Ui8q8NSSOM/KfZnUPjDsErhkPtmvfo3AgWsejAya0syKvC+pQw+R5SsGDGRdefmSqZB/vKzLRoE46319VEeTs4az3erYrubTmjSgoWssGOjFCmXyAPBZh5erVlFHVSS34Aq8X7paXmCahbwq6hsrskn+Uj2+jLUidcuhdgsEDsqnw1/CTmnAo9IyCMhLq64ZHmej/62qGjZ+8jA2rlxNTIKqf9EjFSmZ6tn0SC4nVFuvtwXLCFl9NXnnMmNgCkG9nCuwkIJ12P1e7fuHkBTQ==;JOSsOXJ/rWMf4rxXBqw+iQ=="
+secured: "dBsldbiGA7EthG+QFgDX6oEkYHampaHqmnhleUrM7eAjFGWEUijTJSMvkFlRHCPECTZH6i0PKjZOkbtz3WEieTDQXCiFZidGylXiskZM+zXdBELZ05gN3QJ9Ke1JnzgQ8oVzB/5qGS8ehhY2LAscl7jd9Y1LMPLk/qeYgaZ+LHb/0ClWZhFcpSgDoLTm+P7L3Iji5OKMwWeYW/p08w7AWYbdvbYEyxbDyE8HmenC7lvLy/Oo+LKbGj+PMQ7wprTpBJpFSQUc5ByK2Qc+WTKiJQ==;+Luawege3wLcAg3QLFBWYQ=="
 ---
 

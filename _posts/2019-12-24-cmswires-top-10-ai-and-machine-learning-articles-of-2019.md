@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machin
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machine-learning-articles-of-2019/amp/
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -51,6 +51,19 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Machine Made of LEGOs Uses AI to Sort LEGOs"
+    excerpt: "LEGO enthusiast and YouTuber Daniel West has created what he believes to be the next evolution of LEGO sorting machines. His creation is the first of its kind and uses AI and Neural Networks to sort any kind LEGO brick — something that's never been done. His machine is capable of identifying and sorting any LEGO brick every made using an ..."
+    publishedDateTime: 2019-12-25T17:03:00Z
+    sourceUrl: https://www.ign.com/articles/2019/12/25/machine-made-of-legos-uses-ai-to-sort-legos
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.6D06F9D0624E3987B512C89E67FD1467
+        width: 700
+        height: 393
 
 secured: "jpdPTXbnhSAc+ZeNh3T/hjRijceGb7yPUQ3gCx6QbdJ6wEHPcdW/LilWTBA9TIJfQfKVI3QMl+djYbWgrPA89kvN4YGCyhHnVbxzXiDagjJl9XsrnlvxLk6sef6XElN3h7Qu9amILSeCRwsBGHdTgyrHOVH3fjgKNcfMpx4iPcdrxfEk3dS+pQzwaa4A1KA37OQ2DhY6lE0O4fRoXR4KWzo1W2/5q1SM5DuoasiEjZyK5yJ83/4WrseAQGWtgDJiWRE6va/33EcwV0dj8gZvHw==;ACty/tiL15s+ry0GJ66eVA=="
 ---

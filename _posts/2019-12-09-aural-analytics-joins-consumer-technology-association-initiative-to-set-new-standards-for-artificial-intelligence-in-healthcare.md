@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9B064325792C1E70CA47945092FF79C2
         width: 700
         height: 455
+  - title: "Uber says it may have to pay Waymo for self-driving car technology"
+    excerpt: "It appears that Uber is going to be dealing with the after-effects of its self-driving car technology trade secrets suit with Waymo for some time to come. In a filing with the U.S. Securities and Exchange Commission, Uber said that it “will likely” have to either enter a licensing deal with Google’s Waymo, or make some high-priced changes ..."
+    publishedDateTime: 2019-12-06T21:52:00Z
+    sourceUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology
+    ampUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
+    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
+        width: 700
+        height: 393
 
 secured: "cmO+Yp8tr3CyKQSJxoAHw4BTfKUdnpS8x0SWanyj6ppkrdNOAGAxoshvGe1bkGdk8KLkxebFeY2RTDZFtgqKS74nOHWnCNPgyWNilOH+HleEPLlc4lZYt9XXpYa7GruDQBzp3e6pDBy3EQ9BLOmmOGZagDBsMSTAcUtdWw+k/BL2CRH7KI4zA/KmR3xWQl8UXLdl882NwFRIBnoycJBnP+uAqAe4QD910/NSgHOGBTKWc9zD1kwpIQFHoAmKDkeO9ILVQL4e7JyRJN8X8uW0PQ==;OxNVRgBZoM2Vynh8qDYz5w=="
 ---

@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0B51D913DAC9D2383F419AB653E1C507
         width: 600
         height: 315
-  - title: "Will AI replace humans in health care? Not likely, but here’s how to talk to your staff about it"
-    excerpt: "Artificial intelligence may seem like just a buzzword in health care today, but the technology is poised to significantly transform how health care is delivered — and the type of work required to deliver it. A third or more of the tasks being performed by people in hospitals and health systems could be automated in the future, performed ..."
-    publishedDateTime: 2019-12-05T16:06:00Z
-    sourceUrl: https://www.aha.org/news/healthcareinnovation-thursday-blog/2019-12-05-will-ai-replace-humans-health-care-not-likely
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.791C447D9381C6D1C16D8CA87CEB65E3
-        width: 700
-        height: 311
 
 secured: "XSOFjEZWDarcQaNwJz2CJhkSm94JPi8bNHRjMdkUghKjrueamZtFR5i5TTUHaSMWWWUWEMUKfSNcsZj7uPUyNmvUuzKwFVBR27sP+QgEC0EpCR72+NXK7IrPWl3PdTtwN1LPwOO1MraHXIWsTwPUDDMIaC17Y+hqtvg7LWoTeBQnKs9vvrO6ZF14r64436CMTeuIwnvqu6RjjXx4eXtxCjFsoVNvtYfg7raetEEloRLLrKf8w3TbOCzxGKUzFsGMlpgk5Wdn8gVKpC8lMAOiFA==;QQrZAJUBtfLCXe//4Dx0Ng=="
 ---

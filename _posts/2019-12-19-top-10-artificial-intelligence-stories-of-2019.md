@@ -47,6 +47,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
         width: 500
         height: 375
+  - title: "Machine Made of LEGOs Uses AI to Sort LEGOs"
+    excerpt: "LEGO enthusiast and YouTuber Daniel West has created what he believes to be the next evolution of LEGO sorting machines. His creation is the first of its kind and uses AI and Neural Networks to sort any kind LEGO brick — something that's never been done. His machine is capable of identifying and sorting any LEGO brick every made using an ..."
+    publishedDateTime: 2019-12-25T17:03:00Z
+    sourceUrl: https://www.ign.com/articles/2019/12/25/machine-made-of-legos-uses-ai-to-sort-legos
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.6D06F9D0624E3987B512C89E67FD1467
+        width: 700
+        height: 393
 
 secured: "w+Twh4PXPiAcILRgV014t1TdlhgE+Mu8M9RA1CLpInGZNM3RipC9loHuFxqjf+2JcZqH+TRbF65X2ZL3SlMFRrbmAdGp5hGDtKZs9QpxO5woCKFFgQI9EV4+rg8swxUYxDVllRkErV8q7pIJ+tb6V6p34pvlRBqip5vwwNbgXfv+il69pzdod7zMCNiJ/4gwQ8QbBKwQ4xIsAPJ0rBmsrfHR1HmelShRTGq2+DdFyawwjfSf3Y+UIzXT+M4uo3bEHLluJ3YkbWIgZ3sScOvKvg==;mSp2VID4aydF9xlpcqh3Tg=="
 ---
