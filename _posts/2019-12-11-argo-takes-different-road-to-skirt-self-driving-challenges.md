@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "... skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/"
-publishedDateTime: 2019-12-11T15:10:00Z
-sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
-ampUrl: https://amp.detroitnews.com/amp/4396982002
-cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
+excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
+publishedDateTime: 2019-12-11T11:14:00Z
+sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
-    width: 700
-    height: 393
+  - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
+    width: 991
+    height: 557
     title: "Argo takes different road to skirt self-driving challenges"
 
 related:
@@ -159,6 +157,6 @@ related:
         width: 700
         height: 525
 
-secured: "Htr/OuidUkqSKwJxm7AoXSJzW5rBUXnbJkdR1thHyRe7QJIeESzggMOYBDi92vdf6gnDai8apvHRa0YUDfZFbH5oDx8fvtnCQ1P5vnA5nr1EHdChFm7kkHEaiyJVsM+32apfrBdE9hecfO/sG5NYvQIB4kc6IsiKqbi8qlaS1WE9YHo0KK2b47UCbeLD4Yb3Uyw4/Bz1p5f0ZsGvYP13Av7NTj1NFuxH2dLp9nTi2AF95/sdz89x0g7nSpTCUZ3ZCa7udjD7LCndf8LljdkJgA==;C1EGcxtAok2Gm2oVQ2gC/A=="
+secured: "0ahtPtd864Ywq8qq4Hfi4u5/xHFVZ7x5NVzAiogOUwnC4LrEikHk6h4Ft+UeHmFM3kEKD1Gdtt+UVqqcAswEW28sQMHZwtKdCj0SEClJxXf7gAfDSX5ajw4V4uJAIYDr/zG0P4CJwJ6NYWzPJoFl8Z9+6qh1boVAahc+CCBep2VPPKGQdAhI0t7mzNCO5Jl8MNQiQIqllFMNRBAd4kx4HyqNS1qY1FSo7MbtTF7JCE53UWuwVrZcc4YdyxP/QcqHcyh530JyF5XQxTWrgJbcUQ==;wUWT6X4TFNJoRwy1NTpE6g=="
 ---
 

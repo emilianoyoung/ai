@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
         width: 700
         height: 393
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "... skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/"
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
-    ampUrl: https://amp.detroitnews.com/amp/4396982002
-    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
-        width: 700
-        height: 393
   - title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
     excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
     publishedDateTime: 2019-12-05T10:20:00Z
@@ -95,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
         width: 700
         height: 393
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
+    publishedDateTime: 2019-12-11T11:14:00Z
+    sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
+        width: 991
+        height: 557
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z

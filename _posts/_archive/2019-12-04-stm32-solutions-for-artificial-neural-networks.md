@@ -5,7 +5,7 @@ excerpt: "Robots, Smart Agriculture, and Intelligent Helmet, All the Educational
 publishedDateTime: 2019-12-04T00:00:00Z
 sourceUrl: https://www.st.com/content/st_com/zh/stm32-ann.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg
-    width: 1132
-    height: 831
-    title: "STM32 solutions for Artificial Neural Networks"
 
 related:
   - title: "Emirates deploys Artificial Intelligence solutions in new aircrafts"
@@ -68,6 +62,6 @@ related:
         width: 450
         height: 300
 
-secured: "K4oF6lwBpOapEn/r39+Th5eF45oMPHcmFM+456p0mr6csEMnaShk211oYv6wmKhaaXXqrPNsEC+GzME/rCrnjPfiNoqqF8zEv44j+wiKZmUkc/l32dchSFK8nidaH+b3bRx51ZxKN8lyTbWU7zk0T3rdItw09HfmItGfhrSV0r/X4ciCkDMAqUMlzIvg3ISiFjEDkn43gHquzuVk1G168q46mPouAUlCN+DN8fEPrpGeRggiqADgedELiPmgEdbzPapvINxWC6qZD0DZ4wYg1w==;DaGi+lzJv7yCLX2qJTDM3g=="
+secured: "6uXUPIuldCsKkUgboajzQaZExZGQz+lYljFhRzZVVRFZxNTPy8UAChl7W60pcxX9SnPLSo87bGBe1n2B8MHaNP2ahGvoQ496VJgzh6GkrejHU2X0x0PfuJj/QuzsOd7djE0JrjsPFwyNMKNzZGUi7W/e5SBE0uypAH+hFnkHx+KbsyrFarb8+LbyrfYVym/LiWo2R/b7+L9kKXEawfvic0UPUw0+tAwSPk0ddzVCJz/wA0Jp2UnyOt8f37v4CbBCMcstJ7A7KNBDD4o+RwY1Lg==;EH19g1HOT3BpkOt75LHWng=="
 ---
 

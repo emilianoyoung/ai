@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
         width: 700
         height: 259
+  - title: "How AI-powered bots could drive the conversation on pending federal regs"
+    excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
+    publishedDateTime: 2019-12-24T18:06:00Z
+    sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
+        width: 700
+        height: 338
   - title: "After eBay improved its translation software, international commerce increased sharply"
     excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
     publishedDateTime: 2019-12-23T13:13:00Z
@@ -80,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
-  - title: "How AI-powered bots could drive the conversation on pending federal regs"
-    excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
-    publishedDateTime: 2019-12-24T18:06:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
-        width: 700
-        height: 338
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z

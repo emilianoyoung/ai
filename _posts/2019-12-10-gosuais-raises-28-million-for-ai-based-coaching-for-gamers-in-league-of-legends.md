@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-ba
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-based-coaching-for-gamers-in-league-of-legends/amp/
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: VentureBeat
@@ -29,21 +29,21 @@ images:
     title: "Gosu.ai’s raises $2.8 million for AI-based coaching for gamers in League of Legends"
 
 related:
-  - title: "Gosu.ai’s AI-driven voice assistant coaches gamers as they play League of Legends"
-    excerpt: "Gosu.ai, the AI-driven video game coach, unveiled its plans for a desktop voice assistant that proactively offers strategy, tactics, and feedback to gamers as they play League of Legends. Previously, Gosu.ai’s virtual assistant used machine learning to offer detailed post-match analysis with recommendations regarding training matches ..."
-    publishedDateTime: 2019-12-05T14:02:00Z
-    sourceUrl: https://venturebeat.com/2019/12/05/gosu-ai-creates-ai-driven-voice-assistant-for-coaching-as-you-play-league-of-legends/
-    ampUrl: https://venturebeat.com/2019/12/05/gosu-ai-creates-ai-driven-voice-assistant-for-coaching-as-you-play-league-of-legends/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/05/gosu-ai-creates-ai-driven-voice-assistant-for-coaching-as-you-play-league-of-legends/amp/
+  - title: "Machine learning for next-best offers"
+    excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
+    publishedDateTime: 2019-12-11T12:34:00Z
+    sourceUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110
+    ampUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/machine-learning-for-next-best-offers-326110/amp
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.CE613AE75EBCE5D857CFF4653FA43F49
+      - url: https://www.bing.com/th?id=ON.2F2F58CF9FD824C8AADB268976688168
         width: 700
-        height: 328
+        height: 466
 
 secured: "SBDKHjiFAA02ukgdXzs7gPaqzkwlh3xOi81VAOUnBt3UnipnzZO16BjMRBdEdL0RALvOsSlXBUQ3xmzBUXc/oJLoTz48+wX2ZQ/wIuPYGNlr1cR6UK++6MihpLvUPPQ4DgKakhPjbfd3nhhCkvDTybToVd9Dfk/V3zpNac1v5IwOMo6NpvLl9Dd4yzPh3UcvLFohNiCDU94i30cAkwsWi/ynJVnjciThR9f2jm9IuOgGzWK2tH4+fXFNBqY2m8w6+wOGJrKyzPksa5cLRWCZtg==;L3wt8HxzasOxf5hA4NFSTg=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 400
     title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
 
+related:
+  - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
+    excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
+    publishedDateTime: 2019-12-06T18:32:00Z
+    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12061AIEye-GTCH-AMZN.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 2
+
 secured: "7a9C7IbgKBJpjgBM0Sb82T827oYnp58yYOQKPD5QUL9S20MIKNIX1GhLhoMHO8lbanuuk4SqRPbuXL3mFMehjHopsUnhjdCL9mZ+B3HVvT8hvQ0Hmd+stiU9K8LKNcmF5mntS1tBEOaAmy/xqRruzCZH7Gzb9YqPiz8badTDmXLKqO/Oi8PXMl1CiuURsxf/EVfcYpssVpVNCpaDkrv53c9aNF8G03SlEd591OX7Altbs58l8MHvM5ugDO26ecj2SRAReausHttlyZabGDbYyQ==;hv/clOHORz4JXvxevQAdFg=="
 ---
 

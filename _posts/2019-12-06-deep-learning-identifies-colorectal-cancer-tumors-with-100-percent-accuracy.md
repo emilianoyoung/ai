@@ -24,34 +24,36 @@ images:
     title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
 
 related:
-  - title: "Apple attending & presenting at NeurIPS Machine Learning conference"
-    excerpt: "Apple has announced that it will again be appearing at and sponsoring the NeurIPS conference on Machine Learning, from December 8 to December 14. Apple's Machine Learning icon Members of Apple's product teams are to attend the Neural Information Processing Systems conference —also known as NeurIPS or sometimes NIPS - in Vancouver, Canada."
-    publishedDateTime: 2019-12-05T13:59:00Z
-    sourceUrl: https://appleinsider.com/articles/19/12/05/apple-attending-presenting-at-neurips-machine-learning-conference
-    ampUrl: https://appleinsider.com/articles/19/12/05/apple-attending-presenting-at-neurips-machine-learning-conference/amp/
-    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/19/12/05/apple-attending-presenting-at-neurips-machine-learning-conference/amp/
+  - title: "Deep learning identifies molecular patterns of cancer"
+    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
+    publishedDateTime: 2019-12-03T12:41:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
+    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 61
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.F11A8B6C7417C74F67E04CAE0DF89809
-        width: 700
-        height: 390
-  - title: "Apple attending NeurIPS 2019 in Canada on Sunday and Delivering a Presentation Titled 'Private Federated Learning'"
-    excerpt: "machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day. Apple will be making a presentation on Sunday as noted below. Abstract: Federated Learning is a new approach that is picking up steam in the machine learning community as a way to improve global models in the cloud by ..."
-    publishedDateTime: 2019-12-05T19:06:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/apple-will-be-attending-neurips-2019-in-canada-on-sunday-and-delivering-a-presentation-titled-private-federated-learning.html
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
+        width: 1920
+        height: 960
+  - title: "Imaging technique and machine learning may provide accurate diagnosis of colorectal cancer"
+    excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method's accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report using this ..."
+    publishedDateTime: 2019-12-05T20:51:00Z
+    sourceUrl: https://www.news-medical.net/news/20191205/Imaging-technique-and-machine-learning-may-provide-accurate-diagnosis-of-colorectal-cancer.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20191205/Imaging-technique-and-machine-learning-may-provide-accurate-diagnosis-of-colorectal-cancer.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191205/Imaging-technique-and-machine-learning-may-provide-accurate-diagnosis-of-colorectal-cancer.aspx
     type: article
     provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 2
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
     images:
-      - url: https://www.bing.com/th?id=ON.A0E5FD74435CD5824C62FE8125DA3370
-        width: 600
-        height: 338
+      - url: https://www.bing.com/th?id=ON.1B9FF573E76A9C08206C719AEF144FBD
+        width: 620
+        height: 480
 
 secured: "Gg5nTFsUNHYEXSB432pHqykyGUI+GlfdUv1mx3q0Ge2x279Xa+cKOg/q8mcz01cu/sRnQa6K9OfgiX3dyKpPXHXp0T4yU2uJD6j083K4RscefP/XLXT1kh3dBu5whSb/3Cf+Ev91LLML5P8yaa+sOzcRb9/CEnJKgPh2uQfHFEl3xCkK+N2LZ8O1CqyJ5PiT2i7HX5AD8KgFjtIBFC639jOjH+kdweHa0YAE1wSElPJaLZ+SFx5MORA1qPfgGCjDSEu78TXkO9AXNmXebvL5lA==;Gl4GwWyJW1W/imBA4yykZA=="
 ---

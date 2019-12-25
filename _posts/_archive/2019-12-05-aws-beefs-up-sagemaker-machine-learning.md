@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -108,6 +121,6 @@ related:
         width: 800
         height: 500
 
-secured: "PX2w0T+60m3kdieAEdYNi2SAXkBEcboD8yWVMofR3hu7Y/xQJHcyVJfRyR/UJXr7izFj495LNTP8cNcR3u9WcPuMPdqSsPyxhvlBw4TCETzSln1yF2P1QyqeXF50B2/qa3wxcb/SpHzMqRfBHMYmRLGT+v3IWKXUpu6egEnBVBQFuDmJSCeo16068Yo9JVpQv84if5nlqamtwpdV9RXvb9Fj4rwbn0LdI15NXXGTjG+dKMGdf9BScfeiaoRuBqoYKvjNYH7iIk7t/TazFvCZrg==;xbnuohuvxvEZy7QqI5eHbg=="
+secured: "CdCkY8uOq7slJrcQQkAlsYP8XFNan7V85zbl3h6DUBfL+FZDhuCjq8/MJfW0MNUDZhD+B0l3P4JSqAgBMj+tsnK+Yvx6hc+CVOe7vvPrZKEJ3oiRS9JTjovMLliT4HgvaqWV83g+pJ9Z8Quf0UthqmwCvfMhEdEgl+ujA+A9H9oMHzTGA25D1/8qD/xFjm8ssFW0wKbKLZnbXaZU87x1G/gXQsIhEoOv39tUzQpVX8rV1kct5EHesEN6NjXKyJD48pdP8flm/j7zzrq5xDcWXw==;uwOzmdg7nX7/SfsBkLq4lA=="
 ---
 

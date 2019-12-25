@@ -5,7 +5,7 @@ excerpt: "In 2017, bots flooded the Federal Communications Commission's online p
 publishedDateTime: 2019-12-24T18:06:00Z
 sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744

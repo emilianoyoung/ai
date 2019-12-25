@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Panasonic Begins Offering API for Facial Recognition Utilizing Deep Learning Technology"
 
-secured: "DYptO+5sYqhcFk3pIIi5EhRVaE3yABCs42/bHmLNRB7AXXrYfKhLLEVdX/RoI6XWmf7bVpqaQpUnCjWSBWqTxnHMnQEHqJU2FsqmfSfF5ISOHB1Pih8UqQzlUiA7fpQTh1H9mi+NIJP9IDdA00wN1bVWF8kQd2N4HiVekMN1UhoMC8KMJ2DIcdvdKmHZU0u6FsXw3FCU1l4dOtxTqUXc5c3xsWmhkcp1wDtTJ94GqqRqKH+Aq3y3Hmm6ql0Naf7t3Id/emDROLDZ2yrs+XEFLA==;IR9Pj6t1G47fo7+/v2sXWw=="
+secured: "bHPhHJpGla/kIieP8X7nqnZODFC60sY5ShrNDCjIr9kGk2MSLqoiuH4F1ClS2zsk2vDymEY/LltOBScYGNAhG093mzyO3awKHf2e82JHOs8n4Q7rWO7UMwvof3RRhRPafY9HF5mIdLM1GTL8oxsBK8MRC9+Em208FP6tEQySPMWob8R5FmhJ//U5+FT379dWgg+h1tSIiaD+G/z9JwVienMXrDY0YS+cpmwoXeYPvhnB+DOhKkNj3oXbc+Gzwm+v9Y55M1xBTvMWBg7Pzn/s8g==;vm0o7DHy1ojVpvf88hRnhA=="
 ---
 

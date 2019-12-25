@@ -26,6 +26,6 @@ images:
     height: 613
     title: "SXSW 2019 Ultimate Guide to the Panels, Popups and Parties"
 
-secured: "XFNWY2C0Bosw2sWVat6JqMkN+wcuKJTSXOkCp0lzTjM/H/WVBX9Aa2TVcCV9dcPg9qhGWKVwU+t+h69g9IqztyV7eFuxcwtulQWzUGWI5A7o7ksNkSi27EdHIegeQVmHmtpwZM9TVV5iXCS7TH345BvVRvATzlNz8lLdOWclsNixQWmOIFgDNMvshOqp0/kRuATkJhBOJXdId8jxCIVTyLU12jYl/8zSrZeFeFLaRFAh81XrtAM2S9hlGUXBWAUKp2gKuMZditPQG7EU9Rn6Gg==;9G8nspsbBTL1Im4YBNej0A=="
+secured: "uPg3Lqnr12arHU20fET36KjDlghyLtCPbaZyY6FUiPNo82YS0imFva3jOsRSLxxTfI//CzS2uJ3oSoAkMwSrhgnQcTe+EJaA1PfzvWEWi3MH39VZbh9F0xE00HAXVn1eV+yElQX/UdmiD4ReY1jo6yrGsGJl0g9J+6o+cTguOzzhraLq+OqJNONvwytfuyMoeurezn63Bz3NFdYd3Zvr7rsmZNwKaQt6cAlti8GuO3Z2aZUZT25da5O56t4BepeTRztGtMGFoy/RIVdNb5wWvQ==;IhxOYVEBfU67m5UoSP8+vA=="
 ---
 

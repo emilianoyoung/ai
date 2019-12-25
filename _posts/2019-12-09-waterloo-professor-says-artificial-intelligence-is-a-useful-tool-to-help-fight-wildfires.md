@@ -53,19 +53,6 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/ai_wilfires_list.jpg?w=1024&amp;h=663
         width: 1024
         height: 662
-  - title: "How AI is helping spot wildfires faster"
-    excerpt: "As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within ... that can be done in less than 30 minutes is pretty good, said Ernesto Alvarado, a research associate professor who studies wildfires at the University of Washington."
-    publishedDateTime: 2019-12-05T13:57:00Z
-    sourceUrl: https://ktvz.com/lifestyle/technology/2019/12/05/how-ai-is-helping-spot-wildfires-faster/
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.762BADB5C9AE8D173700511B9660AA51
-        width: 700
-        height: 393
   - title: "How AI is helping spot fires faster"
     excerpt: "As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within minutes — in some cases far faster than these fires might otherwise be noticed by firefighters or civilians."
     publishedDateTime: 2019-12-05T15:35:00Z

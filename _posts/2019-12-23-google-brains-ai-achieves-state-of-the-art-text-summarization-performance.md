@@ -28,6 +28,6 @@ images:
     height: 427
     title: "Google Brain’s AI achieves state-of-the-art text summarization performance"
 
-secured: "fWVDrST5F0Wz+zWx1jWkSQPV/36wxpQ5C+O71SxC6Y9LokXEuHFK7UKyE5eJwEIHofsDwLMM9Cq/w2Ni2bopl2JyH6gdfuZwTpLOd2ENki3Wldgk7GZxvFkZEHpiwJ6EzHubGNkMgFovwqUDw8pAcrDH4alYeCv9jyhTtiUB0Ave/CoIIjxeqJUUfx5xKl2yiO5gjsVY+sImTsa6A1jnq1E4P/tObePmS84SGg5mZrndJqNHFsnQWqoUyThvWodyIUQM47WMJ2Eyyi26BSn/8A==;zRMyZaK217I5Tg7olNm/hw=="
+secured: "z8xf/IsPttWIh1ZPH7erzCdagCUH7udagk4AgdudRD4A7x2LndD/yReM/x+qkgEHoYXXPqM1IqHHkJrq5G2G6xEY+zRI6t4ginQOFTBPLYJ4LTynFZaOgmYNE7qJQB6Gbk5Dv7MrGSHZ9+KEIymsfbkPg4LeIIsLhqEArTcyhkdmbSrevO4FqIb+xHhv5tPNvtsf48tYMBou7vyqQdRWe7+bqH8FJkgSE2R+YpuEnwsHR0jwaYog5S7Kaw1oa3/guUrlLKbQjAsS0cgflAy3Kg==;2HiN0hNPw6QZSti9tbPbqg=="
 ---
 

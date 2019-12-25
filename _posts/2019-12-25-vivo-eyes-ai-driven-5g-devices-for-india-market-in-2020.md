@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Vivo eyes AI-driven 5G devices for India market in 2020"
-excerpt: "Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers,"
-publishedDateTime: 2019-12-25T06:07:58Z
-sourceUrl: https://www.msn.com/en-in/news/other/vivo-eyes-ai-driven-5g-devices-for-india-market-in-2020/ar-BBYkbV7
+excerpt: "enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per cent market share - its highest-ever -- in the third quarter (July-September period) this year."
+publishedDateTime: 2019-12-25T14:28:57Z
+sourceUrl: https://www.msn.com/en-in/news/other/vivo-eyes-ai-driven-5g-devices-for-india-market-in-2020/ar-BBYkgXw
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IANS on MSN.com
+  name: Zee Business on MSN.com
   domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.7079212EE8B97E0F1DF457C1F1C3B4E0
-    width: 399
-    height: 314
+  - url: https://www.bing.com/th?id=ON.3B27C049A1B4D1B4F546725F336605B9
+    width: 600
+    height: 315
     title: "Vivo eyes AI-driven 5G devices for India market in 2020"
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: hindustantimes.com
     quality: 37
 
-secured: "oaeEXy+8bnMT0dmo9RXWfBKSjytl/mOCTI+0zBu9rwpP8YhyyfBvZ5xy8UD2CEM0p/0uo6tiJBifqDmCBmhrLr6ogD3QvMk9ba7881u9HsoSF9s6RzdyAjQqhYO+hdkL8k3VUMa06jKuNTiRvAR4V3+MLKPrpz2XUp3U91Q6W30l9UeZXR9HKWSoEaYKfUgRjibTTqyYBZHYDuy1jPqgQfprVbS+fEWrGhVg7rDYgDoJruW/48lLiYTkwWJKtSthF0FKsmm9AizRFp03mCDhFQ==;OThB6RyXRKGX8bHLw82eZQ=="
+secured: "7g2JeJeANMmLtrh6Zxm+yvUUaR59caQVSU5wXA2CS8/oYmWVJiAxg81bNiUiYtUeqAOF4rn7vC516d21L2XmTfnTCb/+UemY6nYIYwBs2kh8NV0N+gwKaDCKgjc9u2xXIMlfFFGB837WdrN5rCNf5ulsILDY5Ytqp4eX0bPq4ICdczaw3ALvkSEFBR4vBAtZcKTF2v/kCCyiadTJyQsySXBB6ITUk9tv/oBBckDK01U4k0a9rEJ714miY7I483f+kWU6KRzDyswj139UsA99HA==;sueIMccHYZm5mE6WyJ66Rg=="
 ---
 
