@@ -26,17 +26,17 @@ images:
 related:
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-17T23:45:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005832/en/Baidu-Samsung-Electronics-Ready-Production-Leading-Edge-AI
+    publishedDateTime: 2019-12-17T22:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
-      - url: https://mms.businesswire.com/media/20191217005832/en/763619/23/Baidu_Kunlun_chip_02.jpg
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 627
+        height: 630
   - title: "Fascination with dissecting electronics leads to degree for SIU Carbondale graduate"
     excerpt: "It’s one of two main languages used for computer science for his project that involved Speech Recognition, Natural Language Processing, and building an application with a Neural Machine translation backend that converts speech and text from English to Spanish. Bickham noted that students have numerous opportunities to utilize faculty and the ..."
     publishedDateTime: 2019-12-15T00:00:00Z

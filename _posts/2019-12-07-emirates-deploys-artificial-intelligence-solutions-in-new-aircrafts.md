@@ -8,7 +8,7 @@ ampUrl: https://www.vanguardngr.com/2019/12/emirates-deploys-artificial-intellig
 cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2019/12/emirates-deploys-artificial-intelligence-solutions-in-new-aircrafts/amp/
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.326169887844D697F07D4EAE4A5A643E
         width: 450
         height: 300
+  - title: "STM32 solutions for Artificial Neural Networks"
+    excerpt: "Robots, Smart Agriculture, and Intelligent Helmet, All the Educational Projects at the Center of Maker Faire Rome 2019"
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://www.st.com/content/st_com/zh/stm32-ann.html
+    type: article
+    provider:
+      name: ST
+      domain: st.com
+    quality: 39
+    images:
+      - url: https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg
+        width: 1132
+        height: 831
 
 secured: "h0MRuO0BkB+QmT6BLos35LMiv+N8wqhWwSsZ02qH9ufycBcTpru03sYDSn62bQvampudchFIFrZXJ192pfnRpkWHHO8ruth3juYvAJD8SI1hoDW2CY0bSGo6+k2Cl/l9r+yptIBMIX0QgEqyqIobEw9tQB1dnOSAWf2pmpb5JQKx7GTCW4M9ImsQm7Kd03BMV5I7A0eDfpkDFH8Xfbv0KC5VpYlrhXpfA+lbSg1QxjxTe474wu/C3MacXTgzW3Nn29BPR65YlLDiouugxiUg0w==;0KZVPBQBPxwP6GGLX7qEYQ=="
 ---

@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
-excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
-publishedDateTime: 2019-12-20T13:07:00Z
-sourceUrl: https://www.openpr.com/news/1882491/artificial-intelligence-robotics-market-potential-growth
+title: "Church of England questions ethics of investment in AI"
+excerpt: "Read also: 'Faster with AI': Indonesia to replace ministerial aides with machines \"Artificial intelligence (AI) is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion ..."
+publishedDateTime: 2019-12-25T03:14:00Z
+sourceUrl: https://www.thejakartapost.com/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
+ampUrl: https://www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
+cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
 type: article
-quality: 21
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI Ethics
+
+images:
+  - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
+    width: 700
+    height: 417
+    title: "Church of England questions ethics of investment in AI"
 
 related:
   - title: "Church of England to review ethics of its investments in AI and robotics"
@@ -33,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
         width: 700
         height: 393
-  - title: "Church of England questions ethics of investment in AI"
-    excerpt: "Read also: 'Faster with AI': Indonesia to replace ministerial aides with machines \"Artificial intelligence (AI) is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion ..."
-    publishedDateTime: 2019-12-25T03:14:00Z
-    sourceUrl: https://www.thejakartapost.com/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    ampUrl: https://www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
-    type: article
-    provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
-        width: 700
-        height: 417
   - title: "2019-20 Book of Lists brings robotics front and center"
     excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
     publishedDateTime: 2019-12-20T12:45:00Z
@@ -96,7 +89,16 @@ related:
       - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
         width: 640
         height: 480
+  - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
+    excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
+    publishedDateTime: 2019-12-20T13:07:00Z
+    sourceUrl: https://www.openpr.com/news/1882491/artificial-intelligence-robotics-market-potential-growth
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
-secured: "6B+fyXZ/eFU0Got/5NwcVWbGgKPDbHpLrefPoGSrPOnuw/VosT93NgbjPlLNSLZB+VYv0BfSAciCE3vDbtCd5nHU+QtI2IrJXPgGDQPZ8fKhOuyyvfkGIpkXEG/kJly9loMsXqK8/EMp4pbDgNxspBFTRUhwG9DCwM/cS9nX7OZT5BSzPsknjm1s+kGIbgMsqSU54rZnbENLtRkI7GYtDb340vMoZ0hcGhm7cjpWvqNJ73Ps50a6gXzii4z508lT41wR5kh8vEGAeibqyMaxNA==;gnBvDyXcRF7/5RjlQWhldA=="
+secured: "uNqh8C+SKLjzjNbed5ydbt0S8x7+vzBa9s+z7uFT67F7TDMI9G0CHk7Iu87whQ2/6WTLtRJV4DCV2jy6m/Fa4no8hS9vuGpDmIUOY1w1YSAyG0qLagzBr8gc1wtzk4Ukjxaxx/3ETK9MTbx9MQEABsJkw4wzfRr98GQbgFqYcbFXZs0WuQMIUxEbMZH+pu+zv11Bk6l1D0oE9HMho8xgmeBNuBCw8I8DFH51KjxdZKH1R29nsKiBBb5mbnrq1rk3vi1wxFfgYvgGC6hKAwPJ6Q==;f/JQ2KbD3K7Xn0WbKVW5Vw=="
 ---
 

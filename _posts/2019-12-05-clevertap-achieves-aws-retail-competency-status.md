@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E91D3E29051AA6038320BDCAA1567CF4
         width: 700
         height: 366
-  - title: "New additions for global AWS Partner Network"
-    excerpt: "Available to APN advanced and premier tier consulting partners, immersion day workshop topics and services are set to include database migration service, artificial intelligence (AI), machine learning (ML), EC2 Spot, Elastic MapReduce, Redshift, containers, running Microsoft workloads on AWS, landing zone, data engineering, security and ..."
-    publishedDateTime: 2019-12-05T02:45:00Z
-    sourceUrl: https://www.arnnet.com.au/article/669431/aws-reveals-new-additions-global-partner-network/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FC7E3C028C7D6130B10CD10E53D0F435
-        width: 700
-        height: 437
 
 secured: "TUassvL1zyoF4eKnL4x+n3rZe+FaP5WO1ac6pXEupBje9YGWDA53km0Z7A1+497OwtTKfTn4MAMLamdadqFREqH5vO2wqVihmA41XtgkbvQqFJ5NUTfErhRmGnKcSPRGkwExF7V/kDE7o6wu6RdJv9opPbf2fDbZmDXUgE54BgSo2j2v64EBuWN1fg4xBgU6UqeqpgToBFtqhbEkHVfOkqFouv6nVuLPajzod4gduRdZeNuhZRpx91JaKUEvydZ1CdI/WzaOR8twHxAwHqLyPA==;Gcp56TrNu6ngNH2M4k+Etg=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-softw
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -30,6 +30,21 @@ images:
     title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
 
 related:
+  - title: "Amazon now lets customers label and track specific objects with Rekognition"
+    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
+    publishedDateTime: 2019-11-25T17:06:00Z
+    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
+    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
     excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
     publishedDateTime: 2019-11-25T18:50:00Z
@@ -57,6 +72,6 @@ related:
         width: 589
         height: 558
 
-secured: "vUY1FoGxbcnhVHNBBkdKyAC2ZZsH1u2rkjI7qiC6/Id2WdAs7n1RAGdtKjFXWHut37cMCoCO9zARjV/ZLQhDJg07nTDeL5eKtlwV/7RdURV93sYy7s/BIN+0K9E3VI4LU/l7qGFtOu1he8d+JjEf+t8YxgEB37XUF+lFNMKgjs9tjK2PrmLgwhwfxznXu4YEsMxjWPa0lYcSdFuaQSwHl3yVWH3eLAWmC9RGOIWsCU2lfBbN5MZnCYP6HjeXHzFIAz6g32zJ8ax3MQJtHJ9cJA==;65PF3y8Ouky0I3isesljHQ=="
+secured: "atPQi+vzgsCXX8wPZArPv6MQz2+y1m8LNMn0sGI3WAM3DDJpaqBV1XRemzjL8sng6jYPco5tJOB597JmLRG+MxTUmX1VBWzvNt/Q8GMXkNqZ8aXC0g03iswJrSX2wRBaXldoy34fj1sJ2+udjxr8gd2KKxpF4xDwsuSlkC5iOgTyA4iXzRsj6gjSS58P0qJeIr+b4OJLbkJ/R4RYIzSYG6GB12F2ev5hr18AzGueps/rLn2AYhWtAwUPfE+cGpkrgC+st8iAsr+OIDuHzuVbBA==;He4nhcACBfkjvsy8JMODkw=="
 ---
 

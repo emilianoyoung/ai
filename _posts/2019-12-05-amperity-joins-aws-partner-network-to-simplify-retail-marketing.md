@@ -8,7 +8,7 @@ ampUrl: https://www.martechadvisor.com/news/data-management/amperity-joins-aws-p
 cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/data-management/amperity-joins-aws-partner-network-to-simplify-retail-marketing/
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E91D3E29051AA6038320BDCAA1567CF4
         width: 700
         height: 366
-  - title: "New additions for global AWS Partner Network"
-    excerpt: "Available to APN advanced and premier tier consulting partners, immersion day workshop topics and services are set to include database migration service, artificial intelligence (AI), machine learning (ML), EC2 Spot, Elastic MapReduce, Redshift, containers, running Microsoft workloads on AWS, landing zone, data engineering, security and ..."
-    publishedDateTime: 2019-12-05T02:45:00Z
-    sourceUrl: https://www.arnnet.com.au/article/669431/aws-reveals-new-additions-global-partner-network/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FC7E3C028C7D6130B10CD10E53D0F435
-        width: 700
-        height: 437
   - title: "CleverTap Achieves AWS Retail Competency Status"
     excerpt: "CleverTap, a provider of artificial intelligence-powered customer lifecycle and user retention platforms, has achieved Amazon Web Services (AWS) Retail Competency status for technical proficiency and proven customer success across numerous solutions in the Customer Engagement category of the AWS Retail Competency that help marketing leaders ..."
     publishedDateTime: 2019-12-05T17:06:00Z
