@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-c
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
 type: article
 quality: 184
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.26EB2D6CBB2F393EC87E12B41928667B
         width: 260
         height: 140
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "View the full release here: https://www.businesswire.com/news/home/20191217005832/en/ Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm ..."
-    publishedDateTime: 2019-12-17T22:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
     excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
     publishedDateTime: 2019-12-20T22:27:00Z

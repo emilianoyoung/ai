@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 338
+heat: 328
 published: true
 
 provider:
@@ -248,19 +248,6 @@ related:
       - url: https://www.bing.com/th?id=ON.725132A3A9F71FC335477CA8E1A6191A
         width: 700
         height: 394
-  - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
-    excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
-    publishedDateTime: 2019-12-04T22:24:00Z
-    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
-        width: 960
-        height: 640
   - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
     excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
     publishedDateTime: 2019-12-05T20:01:00Z

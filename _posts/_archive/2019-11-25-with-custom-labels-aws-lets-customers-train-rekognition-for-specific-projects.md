@@ -24,21 +24,6 @@ images:
     title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
 
 related:
-  - title: "Amazon now lets customers label and track specific objects with Rekognition"
-    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
-    publishedDateTime: 2019-11-25T17:06:00Z
-    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
-    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T18:59:00Z
@@ -68,6 +53,6 @@ related:
         width: 589
         height: 558
 
-secured: "3U58vOsaED0F4uT9JDNQB2pQYANedpLYG/CiAYKmNNrAgjnBkFmeAednJI0SfuWCD0HDk/van1G9w6dS4wDTwazFHHEPC8OTWNklSMT0L+ZVt9y3216GoGZf8OFdmbN9PlqbreI8gA86b2NX6uaaLaspm60b4WcfDeHzkRBq4nQiHmLInm49d7GMlrFZYoJ2ORZm1lF5dgf+WmXw4OdC/E+GP8Ay6s55tWQ/8dfw3B6F5ptyIbCSTTlWuW/A+0Z6i+QyTpltcQqB0UQH/H+Sng==;gtxkfvlB87Q7SAyEwgnn3w=="
+secured: "L1e5b7d95P5J8v2TBJo+yvk66CnF8xOhhvLynsBifRwW3sC6Jv2qgHYP/vocyq0CvgUr0wFVLoG0YbbOkw2Jya+kltefXTrsEGmC5s0qd0sJwwNF2mTa/4Jy21IN7dBI4bBNRkpANT0rZT2/VbG+GKi2+4ivas69ZWClBv9bmkKc1/cKF5I2lza9+25mJCeJgPNQtRyRLDtOz/iGKGPCiQX+Cogwz9g/3H61pMyac3h+wGQzmBn7xJ6axLlYUuDdkRg9DysjgrIf9dkEYkTh1w==;gCJWZbPIjDK+WjjRDr5Tog=="
 ---
 

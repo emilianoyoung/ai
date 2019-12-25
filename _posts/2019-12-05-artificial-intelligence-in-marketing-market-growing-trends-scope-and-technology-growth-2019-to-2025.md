@@ -296,17 +296,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "DUBLIN, Dec. 2, 2019 /PRNewswire/ -- The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence (AI) market in agriculture is ..."
-    publishedDateTime: 2019-12-02T13:31:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14911193/global-artificial-intelligence-ai-in-agriculture-market-2019-2024-agricultural-drones-set-to-drive
-    ampUrl: https://amp.benzinga.com/amp/content/14911193
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14911193
-    type: article
-    provider:
-      name: benzinga.com
-      domain: benzinga.com
-    quality: 33
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
     publishedDateTime: 2019-12-09T12:55:00Z

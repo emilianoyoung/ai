@@ -28,21 +28,6 @@ images:
     title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
 
 related:
-  - title: "Amazon now lets customers label and track specific objects with Rekognition"
-    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
-    publishedDateTime: 2019-11-25T17:06:00Z
-    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
-    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T18:59:00Z
@@ -72,6 +57,6 @@ related:
         width: 671
         height: 386
 
-secured: "PmdFXxgMs5NEgjj8huF8JhuGChQFxUUClRQIRMWgUo7RRNHYqsLY4HNEBo81AsCF6QqpVqq/dH0ta1WQ/kzse7079ru/L160h5+YXiy9AtK9pNNaWrUbX3R5ijc6C6jfePMB7faIwOsHQUPH+7ewzthr1kIeZ7WXk43RUdU8O4lPkYXuC/QpuQA9z4wFYg5MrgfLqjAESGpv0mqkhmhyJYJzRtUNHueHfflUFgZK159dXyAGsij7b2w/HHHYrKe8S1s3YvJYpEGVpUPiTY8jiA==;yg+FXfgJFeIY9sBsYjOmwg=="
+secured: "EJrmC07LSL/lBAvjqudn9FV5oqO6yVriIjsN3sEGknT+8HgbaCVw827nklNECX8zTjhZBYgz6ucZH9WMf5JyFXyA8SARsJuWFo4Tgqq61fC7dLbg9zQ58xfJDN70LnKVyWCxoCbakBEJf4MoyjuBupIZLe0yqyZuu0xljPpq29bzdf50JDIJAcMRTrCu40PDzMxLxfLLSvWakwBuJDw0T4NK98E06lmao6Tm/3pjGSSlYBypAE5yg+1gxKbp+KnmquPfmklMkh/qUh/0YeDC8g==;d5btAmggHxQzzcXqZ1gOyw=="
 ---
 
