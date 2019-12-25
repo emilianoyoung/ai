@@ -82,21 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F941D8276FC27419031D60E10A16F367
         width: 700
         height: 394
-  - title: "New, Emotionally Intelligent Robot CIMON 2 Heads to Space Station"
-    excerpt: "The little droid can assess astronauts' emotional states. Another robot with artificial intelligence is headed for the International Space Station (ISS). The astronaut assistant known as CIMON 2 just launched for the orbiting lab aboard SpaceX's robotic Dragon cargo capsule, which lifted off today (Dec. 5) from Cape Canaveral Air Force Station ..."
-    publishedDateTime: 2019-12-05T19:51:00Z
-    sourceUrl: https://www.space.com/cimon-2-artificial-intelligence-robot-space-station.html
-    ampUrl: https://www.space.com/amp/cimon-2-artificial-intelligence-robot-space-station.html
-    cdnAmpUrl: https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/cimon-2-artificial-intelligence-robot-space-station.html
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D7429AE230D5419329B8670A62016D9
-        width: 700
-        height: 466
   - title: "Emotion-sensing Robot Heads to Space Station to Help Astronauts"
     excerpt: "WASHINGTON - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2, or CIMON 2, is a spherical droid with microphones ..."
     publishedDateTime: 2019-12-06T03:16:00Z

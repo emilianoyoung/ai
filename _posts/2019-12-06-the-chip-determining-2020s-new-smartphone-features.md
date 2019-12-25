@@ -24,47 +24,21 @@ images:
     title: "The chip determining 2020's new smartphone features"
 
 related:
-  - title: "9 Great Features Qualcomm's Snapdragon 865 Is Bringing to 2020 Smartphones"
-    excerpt: "The coolest feature we saw was live, on-device voice translation, taking everything I said in English and turning it into Chinese. This is all being done in the phone's AI processor; it doesn't have to go out to the network. PCMag.com's lead mobile analyst, Sascha Segan, has reviewed hundreds of smartphones, tablets and other gadgets in more ..."
-    publishedDateTime: 2019-12-05T19:33:00Z
-    sourceUrl: https://au.pcmag.com/gallery/64788/9-great-features-qualcomms-snapdragon-865-is-bringing-to-2020-smartphones
-    ampUrl: https://au.pcmag.com/gallery/64788/9-great-features-qualcomms-snapdragon-865-is-bringing-to-2020-smartphones?amp=1
-    cdnAmpUrl: https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/gallery/64788/9-great-features-qualcomms-snapdragon-865-is-bringing-to-2020-smartphones?amp=1
+  - title: "NextGen smartphone chips are about more than just 5G"
+    excerpt: "More AI apps While AI performance of a chipset is somewhat difficult to quantify, almost every chipset maker has touted this performance over the past couple of years. In 2020, Samsung’s and Qualcomm’s premier chips support 10 and 15 trillion operations per second, while Huawei has also claimed improvements in AI processing capabilities of ..."
+    publishedDateTime: 2019-12-12T15:46:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/nextgen-smartphone-chips-are-about-more-than-just-5g-11576165007547.html
+    ampUrl: https://www.livemint.com/technology/tech-news/nextgen-smartphone-chips-are-about-more-than-just-5g/amp-11576165007547.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nextgen-smartphone-chips-are-about-more-than-just-5g/amp-11576165007547.html
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 72
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.120A3305E50DA440F1D0B2C7D9B5588B
-        width: 700
-        height: 393
-  - title: "Qualcomm Refreshes Snapdragon Chips"
-    excerpt: "The SoC (System on a chip) will offer 5G connectivity, advanced AI processing, and select gaming support. The 865 is a premium chip that will show up during CES and MWC. And since 2020 will usher a new wave of 5G devices and services, Qualcomm will benefit greatly from the device refresh. Notably, designing the chip without an integrated modem ..."
-    publishedDateTime: 2019-12-11T10:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/qualcomm-refreshes-snapdragon-chips-2019-12-11-61975856
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Qualcomm's Snapdragon XR2 is a Dedicated Chip for AR, VR, MR, and Every Other Kinds of 'R'"
-    excerpt: "it also has a bunch of AI stuff coming with it too. A concept headset shown off at the Qualcomm summit The whole thing is being powered by a platform Qualcomm promises to be better than the exiting XR1 chip (obviously). That means 2x the CPU and GPU ..."
-    publishedDateTime: 2019-12-05T20:33:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/qualcomm-xr2-chip-announcement/
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.8281FBBA882531557B0A027A06200499
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.8478BE8F4AF9A29634026E04F4DFDB9D
+        width: 600
+        height: 337
 
 secured: "iKk/BRMt/xeY7nihCOU0FKOFffDteYTJ6kYEadYCbYRR1GuuEOMBBdI92S7X0Zh2QrIuqoUMqe0ypI+jQVfCSPQp7/DrTz/VvIAeCHkwguFwpSSLFu0fQzJQqGASfqc5CiHeQOGLjJdCC9u93vB4RbO5eKY2a+A8XIwKS1c8nGzK4VLIpDJgRRr/rSoihw8Ru9U2t9HlbaRjCfLR69b2gzCQFesbZsh5om7Kh9rz4heyCihCaX5yvQxXxyUhrKeIjLgVlsLNDV6CUYKYYOHI/A==;Yiom2idvzo/76MojWdVQ7w=="
 ---

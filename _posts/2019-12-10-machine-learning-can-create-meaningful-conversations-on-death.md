@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
         width: 700
         height: 466
-  - title: "Apple attending NeurIPS 2019 in Canada on Sunday and Delivering a Presentation Titled 'Private Federated Learning'"
-    excerpt: "machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day. Apple will be making a presentation on Sunday as noted below. Abstract: Federated Learning is a new approach that is picking up steam in the machine learning community as a way to improve global models in the cloud by ..."
-    publishedDateTime: 2019-12-05T19:06:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/apple-will-be-attending-neurips-2019-in-canada-on-sunday-and-delivering-a-presentation-titled-private-federated-learning.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.A0E5FD74435CD5824C62FE8125DA3370
-        width: 600
-        height: 338
 
 secured: "MjSqy793/CNVdiIcDtDgwyjFUKnUdZJ3oecGe56lCXx+bBivAtTtyUJq9QvBvmVpPaJDrEobc/BCSlEAW9f35Q0oD2Thl2cSZ2UPGkkBMqn99GpWFG7JiVdR7C8MjC520hrFFdzsgmYzGaDceeg59L54jE2g+U04pH/k05I/tfkuXKAKi5Nch1OHnKDQnCqckfbtabOcmIpN5GgJRLUxGXOL0GtnvxitDYfY2ixlup0ctGFBcgBv2oAopQiygv+hAVv9iGKP4tTyzqDEMJykKA==;thWjpUqPmLeVRxVI9JMMqg=="
 ---

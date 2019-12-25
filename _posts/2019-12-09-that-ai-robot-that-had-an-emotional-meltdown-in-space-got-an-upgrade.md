@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T07:10:00Z
 sourceUrl: https://www.msn.com/en-us/news/technology/that-ai-robot-that-had-an-emotional-meltdown-in-space-got-an-upgrade/ar-BBXVP5p
 type: article
 quality: 137
-heat: 377
+heat: 367
 published: true
 
 provider:
@@ -66,21 +66,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F941D8276FC27419031D60E10A16F367
         width: 700
         height: 394
-  - title: "New, Emotionally Intelligent Robot CIMON 2 Heads to Space Station"
-    excerpt: "The little droid can assess astronauts' emotional states. Another robot with artificial intelligence is headed for the International Space Station (ISS). The astronaut assistant known as CIMON 2 just launched for the orbiting lab aboard SpaceX's robotic Dragon cargo capsule, which lifted off today (Dec. 5) from Cape Canaveral Air Force Station ..."
-    publishedDateTime: 2019-12-05T19:51:00Z
-    sourceUrl: https://www.space.com/cimon-2-artificial-intelligence-robot-space-station.html
-    ampUrl: https://www.space.com/amp/cimon-2-artificial-intelligence-robot-space-station.html
-    cdnAmpUrl: https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/cimon-2-artificial-intelligence-robot-space-station.html
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D7429AE230D5419329B8670A62016D9
-        width: 700
-        height: 466
   - title: "SpaceX launches beer malt, an emotion-sensing robot and ‘mighty mice’"
     excerpt: "It’s the third in a series of Budweiser experiments to look at how barley germination is affected by weightlessness. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It’s named Cimon, pronounced Simon, the same as the prototype that flew up last year."
     publishedDateTime: 2019-12-05T20:30:00Z

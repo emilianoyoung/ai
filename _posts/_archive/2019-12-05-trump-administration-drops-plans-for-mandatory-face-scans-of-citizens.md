@@ -1,46 +1,35 @@
 ---
 category: news
-title: "Homeland Security doesn’t want Americans' airport face scans after all"
-excerpt: "The ACLU, which spoke out against plans to conduct biometric scans on US citizens, is still concerned. In a statement, ACLU Senior Policy Analyst Jay Stanley said: \"The Department of Homeland Security's plans to spread face recognition surveillance nationwide remain alarming, especially given the lack of congressional authorization and ..."
-publishedDateTime: 2019-12-05T20:44:00Z
-sourceUrl: https://news.yahoo.com/2019-12-05-homeland-security-cbp-biometric-face-scans.html
-ampUrl: https://news.yahoo.com/amphtml/2019-12-05-homeland-security-cbp-biometric-face-scans.html
-cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2019-12-05-homeland-security-cbp-biometric-face-scans.html
+title: "Trump Administration Drops Plans For Mandatory Face Scans of Citizens"
+excerpt: "\"Thanks to our pressure, DHS is reversing course and NOT moving forward with its dystopian facial recognition proposal at U.S. airports,\" Markey said Thursday. \"But we cannot take our right to privacy for granted. I still plan to introduce legislation to ban this kind of surveillance.\" Congress in 2016 authorized up to $1 billion in funding for ..."
+publishedDateTime: 2019-12-05T20:23:00Z
+sourceUrl: https://www.usnews.com/news/national-news/articles/2019-12-05/trump-administration-drops-plans-for-mandatory-face-scans-of-citizens
+ampUrl: https://www.usnews.com/news/national-news/articles/2019-12-05/trump-administration-drops-plans-for-mandatory-face-scans-of-citizens?context=amp
+cdnAmpUrl: https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/national-news/articles/2019-12-05/trump-administration-drops-plans-for-mandatory-face-scans-of-citizens?context=amp
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 74
+heat: 204
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.D737232956AB12137FEDA9A6FA8BD288
+  - url: https://www.bing.com/th?id=ON.E7310AEE467C800B9E1EBD49693837D3
     width: 700
-    height: 437
-    title: "Homeland Security doesn’t want Americans' airport face scans after all"
+    height: 467
+    title: "Trump Administration Drops Plans For Mandatory Face Scans of Citizens"
 
 related:
-  - title: "Trump Administration Drops Plans For Mandatory Face Scans of Citizens"
-    excerpt: "\"Thanks to our pressure, DHS is reversing course and NOT moving forward with its dystopian facial recognition proposal at U.S. airports,\" Markey said Thursday. \"But we cannot take our right to privacy for granted. I still plan to introduce legislation to ban this kind of surveillance.\" Congress in 2016 authorized up to $1 billion in funding for ..."
-    publishedDateTime: 2019-12-05T20:23:00Z
-    sourceUrl: https://www.usnews.com/news/national-news/articles/2019-12-05/trump-administration-drops-plans-for-mandatory-face-scans-of-citizens
-    ampUrl: https://www.usnews.com/news/national-news/articles/2019-12-05/trump-administration-drops-plans-for-mandatory-face-scans-of-citizens?context=amp
-    cdnAmpUrl: https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/national-news/articles/2019-12-05/trump-administration-drops-plans-for-mandatory-face-scans-of-citizens?context=amp
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E7310AEE467C800B9E1EBD49693837D3
-        width: 700
-        height: 467
   - title: "DHS scraps Trump-ordered plan for mandatory facial scans at US points of entry after privacy advocates, lawmakers raise concerns"
     excerpt: "The Trump administration announced Thursday that it's backing away from a proposal that would have required all U.S. citizens to submit to facial recognition scans at airports and other ports of entry whenever they leave or enter the country. The Department of Homeland Security said it removed the idea from its regulatory agenda following ..."
     publishedDateTime: 2019-12-06T10:52:00Z
@@ -56,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
         width: 700
         height: 393
+  - title: "Homeland Security doesn’t want Americans' airport face scans after all"
+    excerpt: "The ACLU, which spoke out against plans to conduct biometric scans on US citizens, is still concerned. In a statement, ACLU Senior Policy Analyst Jay Stanley said: \"The Department of Homeland Security's plans to spread face recognition surveillance nationwide remain alarming, especially given the lack of congressional authorization and ..."
+    publishedDateTime: 2019-12-05T20:44:00Z
+    sourceUrl: https://news.yahoo.com/2019-12-05-homeland-security-cbp-biometric-face-scans.html
+    ampUrl: https://news.yahoo.com/amphtml/2019-12-05-homeland-security-cbp-biometric-face-scans.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2019-12-05-homeland-security-cbp-biometric-face-scans.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D737232956AB12137FEDA9A6FA8BD288
+        width: 700
+        height: 437
   - title: "DHS withdraws proposal to require airport facial scans for U.S. citizens"
     excerpt: "“Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.” Even so, Markey said he still intends to introduce legislation that would block homeland security officials from requiring such scans. Jay Stanley, a senior policy analyst with ..."
     publishedDateTime: 2019-12-05T21:15:00Z
@@ -114,21 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
         width: 457
         height: 299
-  - title: "Government Drops Plan for Mandatory Face Scans for Travelers. Now Congress Needs to Ban Facial Recognition"
-    excerpt: "Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us. Common Dreams is not your normal news site. We don't survive on clicks. We don't want advertising dollars. We want the world to be a better place. But we can't do it alone. It doesn't work that way. We need you ..."
-    publishedDateTime: 2019-12-05T19:54:00Z
-    sourceUrl: https://www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban
-    ampUrl: https://www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban?amp
-    cdnAmpUrl: https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban?amp
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 41
-    images:
-      - url: https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png
-        width: 288
-        height: 342
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-06T00:04:00Z
@@ -225,6 +214,6 @@ related:
         width: 490
         height: 327
 
-secured: "VwgAkmCqsBs4tF5vSl9BS2Gjhx3TEkogK6MQveYeE7S9K38o9yg0Q4JjADlVJRbP9zYc7hepKloXvTGAcuODKFKcttBqWiXy2ewqdhubzcZ6UwO1cjnnnBP1cbDh5Y27gfId+iTjvGTbrAqBwSOl+R8cxWx98hyz1B+mAd8O/SOLkj1y6nYThBipQ4F1zfIWWPN5HDn8w8mtXP8ZyHpVmiB4W0rsqTHQmZdgQWyGHOYKOyvY0zQlcEvvJhsplFzl0CgFJErrCmuMNUaD2rCG/A==;Mg1fSZrJA0pGf37q33VIgA=="
+secured: "symvQEVAJ0J+vMrWSOFCriGIChNvA4Y+cawzAD+D7uniQ9UUYfeQ1i6xpNS8TRjB0Oi+nS2JldDIUvga9yRqhsm8+dmrs56B2pYjMzgqN4Yrvaxp9YaIrlEmFYtE75v1MlIoDYhpnPLvYto+r0l4BLa2oWZrLP0aRqtLLnzhN5Cq2X1OHyKRFATpvP1gTIR84/enKluUgsj+dGBS0973UybIZhTHBuNIC/iQEYLDvdmk/gnTsxlUgVZ6noIvICKvqHToKXwMRciM2eFpT1T8+w==;opLjYmNiORzbqxOL/zgx7w=="
 ---
 

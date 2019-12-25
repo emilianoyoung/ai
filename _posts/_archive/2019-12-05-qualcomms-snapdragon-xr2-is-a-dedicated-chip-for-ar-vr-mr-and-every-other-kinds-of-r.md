@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
-excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
-publishedDateTime: 2019-12-06T02:07:00Z
-sourceUrl: https://realmoney.thestreet.com/investing/technology/qualcomm-s-latest-snapdragon-chip-announcements--15190279
+title: "Qualcomm's Snapdragon XR2 is a Dedicated Chip for AR, VR, MR, and Every Other Kinds of 'R'"
+excerpt: "it also has a bunch of AI stuff coming with it too. A concept headset shown off at the Qualcomm summit The whole thing is being powered by a platform Qualcomm promises to be better than the exiting XR1 chip (obviously). That means 2x the CPU and GPU ..."
+publishedDateTime: 2019-12-05T20:33:00Z
+sourceUrl: https://www.gizmodo.co.uk/2019/12/qualcomm-xr2-chip-announcement/
 type: article
-quality: 39
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: Gizmodo UK
+  domain: gizmodo.co.uk
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.63E60029B173F9D4130BBB2E60EEB367
+  - url: https://www.bing.com/th?id=ON.8281FBBA882531557B0A027A06200499
     width: 700
-    height: 466
-    title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
+    height: 393
+    title: "Qualcomm's Snapdragon XR2 is a Dedicated Chip for AR, VR, MR, and Every Other Kinds of 'R'"
 
 related:
   - title: "Qualcomm Refreshes Snapdragon Chips"
@@ -67,19 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6789CAA3F8D592CFD40B27ABE46AAAF4
         width: 700
         height: 397
-  - title: "Qualcomm's Snapdragon XR2 is a Dedicated Chip for AR, VR, MR, and Every Other Kinds of 'R'"
-    excerpt: "it also has a bunch of AI stuff coming with it too. A concept headset shown off at the Qualcomm summit The whole thing is being powered by a platform Qualcomm promises to be better than the exiting XR1 chip (obviously). That means 2x the CPU and GPU ..."
-    publishedDateTime: 2019-12-05T20:33:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/qualcomm-xr2-chip-announcement/
+  - title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
+    excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
+    publishedDateTime: 2019-12-06T02:07:00Z
+    sourceUrl: https://realmoney.thestreet.com/investing/technology/qualcomm-s-latest-snapdragon-chip-announcements--15190279
     type: article
     provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 29
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.8281FBBA882531557B0A027A06200499
+      - url: https://www.bing.com/th?id=ON.63E60029B173F9D4130BBB2E60EEB367
         width: 700
-        height: 393
+        height: 466
   - title: "Qualcomm expands laptop chip range with Snapdragon 7c, 8c for mainstream computers"
     excerpt: "Purpose-built with the instant-on responsiveness and multi-day battery life of a smartphone, it comes with an integrated Snapdragon X24 LTE modem and the Qualcomm AI Engine and is designed to support ultra-thin, fan-less designs for mainstream use. The Snapdragon 8cx is the most advanced of the chips, targeting enterprise computers. This comes ..."
     publishedDateTime: 2019-12-06T08:47:00Z
@@ -90,6 +90,6 @@ related:
       domain: telecompaper.com
     quality: 28
 
-secured: "G4QG3h/5DZ62AW7Ax3qqjUS230L5HJIqreonJkxRbxel3GZVOTdqqwzDfvCuNmvvx0StETOtZhsIcfaUg8XjVhhhwLDLXcL3g93Sqafzip0p4ebMyDZdSWphYco3H+rSQxPz+oy/ugq/0R/UWTTYa4nvoNz/NwqvprxcrFnWDb7OzbsksNOzhcxRDihtgvgXTMtTLE2+vS641a7Byn/6XZ1cWvHZRz/qBgR9jZfraFf0kVTqf1NM8MYdcm0GrNDdjDlZlVGWQYgQPbkaMlEKGA==;VVjkjkccEkqDYOslKMee/w=="
+secured: "rsYtRhKyvHIUugGrJcCI+Bfg7XXBAUgatMJuHnks2anPCLwL51d9xkKFtD6MBbMRzXTB3x0X84Ok7UPZunfSc9p8ImAUJ7yMwaDctVtCVLJxbEVub1yrHTyA04QnRDG8IFusVCeuWM2KYc36GaljQOZlBzn7/5WjzKqPAuW7SWFcIXydKYvudtN6O0Zyf7C643VTFYEi0kdqlLdSv46GNJI3Ggm04NNxO4/eF3AgFKxi8BFGEwfC0pDGx61tVuzgNRz2Tzqy77KXI0UBSqDCLQ==;mNtmYg6kRREslKgLpGPZvQ=="
 ---
 

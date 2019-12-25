@@ -23,6 +23,6 @@ images:
     height: 367
     title: "GSK puts faith in AI to make more successful drugs more quickly"
 
-secured: "lLqX54kKOhf9ODuuSHrLqta3TntuWJIxlMLHIXLMc1yG/BNEnyi0zPqPIYqK7LMOBpW9slCKb/B6qQpaow61KvLgPOuuI2cx59VduumByVicg1zSQwbE7bRv7FjMX4pyEyO1vU/A0szoSeAwvI1dct4BnSNHhtSWAskAB2yt7ap29Nrs3mvmsHIc3e4dMDQqnwD7BbK75SKjrP4xssA1y55EduK7uvlUoHBt7pOGuKnOTp6/GIDP/2t8gszZq/QQ2hJ/oRr3MUYsOzoVnsJ2VA==;LZY7NqJXdRyptrA7G8yM/Q=="
+secured: "Ph/Tebcd4jy5s4jTAelVz+Je53QsXKtUOPdT0njiYx5+Sy183EWwe3b/qJa079svtWOjifmfLgjuRmod1y9/GVtkIdGyjSA+seoarblS4E2sDNIvQ22wlSkw3VjrK+90ySFw+EcKqGLRtajhZ/5D8HCjDUl0vU3NhH45gplT6yDzVPMNdIgBvaysH/fq/8OOQpNvZgTqe/HWmpLMkgpTIdXvIN05Isn01V1CoOKlsBD+V78GsQmpA1twBOJRhPJ+HL9NRz4C+pOw0akuqjStGw==;mOpMaOeFzE8g1vWo/QSz/g=="
 ---
 

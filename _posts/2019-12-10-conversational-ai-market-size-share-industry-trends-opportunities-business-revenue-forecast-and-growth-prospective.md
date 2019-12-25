@@ -57,19 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EF496B372EE2043CF8F4651689EF8A88
         width: 700
         height: 525
-  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
-    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet, Suleyman will now be joining Google directly. After a wonderful decade at DeepMind, I’m very ..."
-    publishedDateTime: 2019-12-05T19:56:00Z
-    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 80
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
-        width: 760
-        height: 428
   - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
     excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (NASDAQ: BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu ..."
     publishedDateTime: 2019-12-06T17:27:00Z

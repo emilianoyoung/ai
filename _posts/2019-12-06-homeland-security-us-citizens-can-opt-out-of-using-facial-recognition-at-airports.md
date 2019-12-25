@@ -114,21 +114,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
         width: 457
         height: 299
-  - title: "Government Drops Plan for Mandatory Face Scans for Travelers. Now Congress Needs to Ban Facial Recognition"
-    excerpt: "Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us. Common Dreams is not your normal news site. We don't survive on clicks. We don't want advertising dollars. We want the world to be a better place. But we can't do it alone. It doesn't work that way. We need you ..."
-    publishedDateTime: 2019-12-05T19:54:00Z
-    sourceUrl: https://www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban
-    ampUrl: https://www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban?amp
-    cdnAmpUrl: https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban?amp
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 41
-    images:
-      - url: https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png
-        width: 288
-        height: 342
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-06T00:04:00Z

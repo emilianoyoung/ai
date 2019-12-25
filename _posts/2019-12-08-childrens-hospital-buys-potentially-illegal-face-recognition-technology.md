@@ -37,21 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.81C68FE83F2CF81A50BFA71FD6C90506
         width: 400
         height: 400
-  - title: "Chinese residents worry about rise of facial recognition"
-    excerpt: "A survey by a Beijing research institute indicates growing pushback against facial recognition in China. Some 74% of respondents said they wanted the option to be able to use traditional ID methods over the tech to verify their identity. Worries about the biometric data being hacked or otherwise leaked was the main concern cited by the 6,152 ..."
-    publishedDateTime: 2019-12-05T19:56:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50674909
-    ampUrl: https://www.bbc.com/news/amp/technology-50674909
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50674909
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.D1ABB53A48DA57CF9E1B4A496ECEA589
-        width: 700
-        height: 393
   - title: "Proposal to require facial recognition for US citizens at airports dropped"
     excerpt: "US Customs and Border Protection said Thursday it will drop its plans to require that US citizens go through a biometric face scan when entering or exiting the country. Currently, citizens have the right to opt out of the scans, but a proposed rule indicated the agency was planning to make the program mandatory for all travelers. The proposed ..."
     publishedDateTime: 2019-12-05T23:42:00Z
@@ -138,19 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1401AC44DC203F027522D4F1D5C864F4
         width: 700
         height: 338
-  - title: "Chinese worry about rise of facial recognition"
-    excerpt: "A survey by a Beijing research institute indicates growing pushback against facial recognition in China. Some 74% of respondents said they wanted the option to be able to use traditional ID methods over the tech to verify their identity."
-    publishedDateTime: 2019-12-05T19:50:23Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/chinese-worry-about-rise-of-facial-recognition/ar-BBXPvCT?li=BBr8Mkh
-    type: article
-    provider:
-      name: BBC News on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.6B094EBD6C9526BC62A4310C734A833D
-        width: 600
-        height: 315
   - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
     excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
     publishedDateTime: 2019-12-06T13:47:00Z
@@ -203,19 +175,6 @@ related:
       - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
         width: 960
         height: 640
-  - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
-    excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
-    publishedDateTime: 2019-12-05T20:01:00Z
-    sourceUrl: https://www.aclu.org/news/immigrants-rights/a-border-officer-told-me-i-couldnt-opt-out-of-the-face-recognition-scan-they-were-wrong/
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 29
-    images:
-      - url: https://www.aclu.org/news/images/share/default_fb_share.png
-        width: 1200
-        height: 630
   - title: "Homeland Security is walking back its plans to use facial recognition on US citizens traveling internationally"
     excerpt: "The announcement reverses a proposal the agency made last week that would have mandated all US citizens have their faces scanned in airports."
     publishedDateTime: 2019-12-06T17:53:00Z

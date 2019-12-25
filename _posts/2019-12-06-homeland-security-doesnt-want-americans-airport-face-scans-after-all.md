@@ -127,21 +127,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1A18712575E4E5BFA9133F72AF57798
         width: 457
         height: 299
-  - title: "Government Drops Plan for Mandatory Face Scans for Travelers. Now Congress Needs to Ban Facial Recognition"
-    excerpt: "Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us. Common Dreams is not your normal news site. We don't survive on clicks. We don't want advertising dollars. We want the world to be a better place. But we can't do it alone. It doesn't work that way. We need you ..."
-    publishedDateTime: 2019-12-05T19:54:00Z
-    sourceUrl: https://www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban
-    ampUrl: https://www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban?amp
-    cdnAmpUrl: https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2019/12/05/government-drops-plan-mandatory-face-scans-travelers-now-congress-needs-ban?amp
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 41
-    images:
-      - url: https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png
-        width: 288
-        height: 342
   - title: "Proposal to require facial screening of U.S. citizens at borders is dropped by feds"
     excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
     publishedDateTime: 2019-12-06T15:44:00Z

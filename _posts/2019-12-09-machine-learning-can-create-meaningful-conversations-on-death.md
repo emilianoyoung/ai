@@ -8,7 +8,7 @@ ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningf
 cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -94,19 +94,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
         width: 700
         height: 466
-  - title: "Apple attending NeurIPS 2019 in Canada on Sunday and Delivering a Presentation Titled 'Private Federated Learning'"
-    excerpt: "machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day. Apple will be making a presentation on Sunday as noted below. Abstract: Federated Learning is a new approach that is picking up steam in the machine learning community as a way to improve global models in the cloud by ..."
-    publishedDateTime: 2019-12-05T19:06:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/apple-will-be-attending-neurips-2019-in-canada-on-sunday-and-delivering-a-presentation-titled-private-federated-learning.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.A0E5FD74435CD5824C62FE8125DA3370
-        width: 600
-        height: 338
 
 secured: "o8OR522k3KCChvxFQdD8Z0RgpFaCj+n3quE0jAutSqvrEkC+MB22cjKmKroHUZnaXjereurwcSshSJ/P8l/IVz6nS1SASdKdRx4FEzMaH3YDS8t3dd9uPd6xUrbziJMTUrBdQ12ELAZWLtUFRCpQ/mYK/X/5tIYHFbdDiM/SuhY4K+x4sawQ8WHWzji5i3K3MiL+rRco6QxbnJi/TQKjbMm1v5JgANVC6rfBRlxpCFHDUq6L+sszMCZDlnj5E4GDheHW0SpoEhtNZyln7HeAvg==;jOszeIIFrJatgkMu9BmlMQ=="
 ---
