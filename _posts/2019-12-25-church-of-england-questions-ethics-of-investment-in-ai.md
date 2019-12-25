@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
         width: 700
         height: 393
+  - title: "VC Investments In Enterprise Tech And AI"
+    excerpt: "I’m going to take a look at some of the top tier venture capitalists and their investments in the field of enterprise tech and AI. Companies with a focus on AI have collected over 9.3 billion dollars in the US during 2018. The number of venture capital investments keeps growing on a global scale, opening up new opportunities for startups and ..."
+    publishedDateTime: 2019-12-25T06:46:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.A4BDBBED907CBE5AEBD4624537C01239
+        width: 600
+        height: 315
   - title: "2019-20 Book of Lists brings robotics front and center"
     excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
     publishedDateTime: 2019-12-20T12:45:00Z

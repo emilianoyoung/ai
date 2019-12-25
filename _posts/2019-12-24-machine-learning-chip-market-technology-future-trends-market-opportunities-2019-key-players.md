@@ -109,6 +109,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Vivo eyes AI-driven 5G devices for India market in 2020"
+    excerpt: "Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers,"
+    publishedDateTime: 2019-12-25T06:07:58Z
+    sourceUrl: https://www.msn.com/en-in/news/other/vivo-eyes-ai-driven-5g-devices-for-india-market-in-2020/ar-BBYkbV7
+    type: article
+    provider:
+      name: IANS on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7079212EE8B97E0F1DF457C1F1C3B4E0
+        width: 399
+        height: 314
   - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
     excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
     publishedDateTime: 2019-12-17T09:58:00Z

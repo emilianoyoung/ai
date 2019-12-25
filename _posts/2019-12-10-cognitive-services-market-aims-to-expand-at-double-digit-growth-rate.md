@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T15:51:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -50,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Marketing Market Growing Trends, Scope and Technology Growth 2019 to 2025"
-    excerpt: "The Artificial Intelligence in MarketingMarket report provides a unique tool for evaluating the Market, highlighting opportunities, and supporting strategic and tactical decision-making. This report recognizes that in this rapidly-evolving and competitive environment, up-to-date marketing information is essential to monitor performance and make ..."
-    publishedDateTime: 2019-12-05T05:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-growing-trends-scope-and-technology-growth-2019-to-2025-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.59A7C18E79D6A003B3F57ECE37984CE7
         width: 700
         height: 525
-  - title: "Deep Learning Chipset Market Development by New Technology 2019"
-    excerpt: "The Deep Learning ChipsetMarket report provides a unique tool for evaluating the Market, highlighting opportunities, and supporting strategic and tactical decision-making. This report recognizes that in this rapidly-evolving and competitive environment, up-to-date marketing information is essential to monitor performance and make critical ..."
-    publishedDateTime: 2019-12-05T05:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-development-by-new-technology-2019-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Oppo developing its own mobile chips, says report"
     excerpt: "The report did not provide details of the chip. At the forum, which was held to mark the completion of Oppo's new office ... the company's future R&D push will be also eyeing the development of emerging technologies including 5G/6G, AI, AR and big data, Chen was quoted as saying. Liu, who also serves as dean of Oppo's research institute ..."
     publishedDateTime: 2019-12-13T06:47:00Z

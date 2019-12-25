@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-in
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -52,7 +52,20 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
         height: 484
+  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
+    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
+    publishedDateTime: 2019-11-27T09:30:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
-secured: "oV/zbuL3G8n9++YDAJ3ty2C+ZXxDtETloTPpKpRZ4rW5yl9O6XyoMjQhYmPOhbhf3PapvNdqu+SedVfGDUEKBnPWSWs0lEnV0mYPIB3xbz54rVFoiVoBaB/sjNaerYlo5+VqB1jhbiM9mLvXvnFuZ+OkGWKlGE7oVEevqv5PUpLVf2pC/2+wp0mpauuNooEckyrRFKNFZvBuyWa+hvVI17aXIve3DjfafeiP+kOmfH0SQWIIxkdUSOBpTj+yQao/I4f/yAqmu4jhqyD/YxEehw==;lm9yDRQU4G7OFu8PbEI58A=="
+secured: "H45yldjcHe/oC5x2dVSsytsYx5DYxciV7NN3oUos5h6supw5sPlQh7RlUYBqZ0UHEMkEmnZBb9BjHw3lYPtxb0lxcN6fAToG7jiae6aAx4JporIjziNotEWLoF0Bub24SZtcIC9hXgy1nvTh+F/5bAzYY+Snni/IgbV7Lu8ijurK9285gy1ZMoxTafPR8tdrjln/lebZdfr8jTLJSSLHJR9cZdWPA6k5EF27Y/E7fsyNGU9jwmcy2/md5QDvKZPeRzrTE8om+6ZXsefulUV4HA==;F5IHJw438x/cBlld+Scp4w=="
 ---
 

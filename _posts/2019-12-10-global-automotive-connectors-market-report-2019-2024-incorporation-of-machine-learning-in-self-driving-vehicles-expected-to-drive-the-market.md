@@ -59,19 +59,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Marketing Market Growing Trends, Scope and Technology Growth 2019 to 2025"
-    excerpt: "The Artificial Intelligence in MarketingMarket report provides a unique tool for evaluating the Market, highlighting opportunities, and supporting strategic and tactical decision-making. This report recognizes that in this rapidly-evolving and competitive environment, up-to-date marketing information is essential to monitor performance and make ..."
-    publishedDateTime: 2019-12-05T05:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-growing-trends-scope-and-technology-growth-2019-to-2025-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Edge AI Market 2019| Analysis, Revenue, Price, Market Share, Growth Rate, Forecast to 2025 | Market Research Engine"
     excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Edge AI market for each region is further segmented for major countries including the U.S., Canada, Germany, the U.K., France ..."
     publishedDateTime: 2019-12-09T03:23:00Z

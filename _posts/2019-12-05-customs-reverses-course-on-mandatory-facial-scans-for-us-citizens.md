@@ -243,19 +243,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC855CE22CE627B9F2F360818A6A6DEA
         width: 700
         height: 415
-  - title: "Prediction #2: Adversaries to Generate Deepfakes to Bypass Facial Recognition"
-    excerpt: "Computer-based facial recognition, in its earliest forms, has been around since the mid-1960s. While dramatic changes have since taken place, the underlying concept remains: it provides a means for a computer to identify or verify a face. There are many use cases for the technology, most related to authentication and to answer a single question ..."
-    publishedDateTime: 2019-12-05T05:21:00Z
-    sourceUrl: https://www.cso.com.au/article/669444/prediction-2-adversaries-generate-deepfakes-bypass-facial-recognition/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.69DF3E457A7DE56452B0F23505F4161E
-        width: 700
-        height: 540
   - title: "DHS retreats on possible facial screening of US citizens"
     excerpt: "DALLAS (AP) — The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda ..."
     publishedDateTime: 2019-12-05T23:55:00Z

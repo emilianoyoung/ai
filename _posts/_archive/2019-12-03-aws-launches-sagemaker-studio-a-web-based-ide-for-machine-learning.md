@@ -50,19 +50,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 103
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 102
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -77,7 +64,7 @@ related:
         width: 700
         height: 335
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -118,6 +105,6 @@ related:
         width: 800
         height: 500
 
-secured: "0CYovNMRpzZayD8X35Zswo7cVz2afbjaYvlePR15/smH0xr3NUrf2Zbmb2YH0TXsrXkJZelMmTh7v03Q6yaXiNiwFf+zVPtNBcPq6m+orRQyxKMvC8PwqAHmeSjWo9IR11tpw5z7c5+CmrfI2IyT5eNOIXllu65FkbuJ589Ksp4DrqgppewOYJoZBHZ0aCVEiqbnyLDEWYHWYujzfMP2cLzUB4VC4QTLYZQuJwf2iO/voxbm2fay7A7x67CRtsQ7QSOI6mVwFGflDHHsA5JojQ==;Y3unZGpakwJwCr2Vv4C5MA=="
+secured: "gn/JY/oztn9xJ2fc+AbDcC0mA05ek5KE2FhGaioAy16840ga7sNe1qmr1nV45pVgv7jgM9+LYg7l9iaXovcIqy4KBE/5Qe3pngPYHNxW5efothFT24/lYKa2HhjBGFJUjflPd3TSYo2br5PUan+2kgQvF8x/5yqauRRZ0WH28Y7GSeZn/wpDAR1Q6v950muasye/ZNbWc1Z72zGC3Z/Qkg81N9NBnQb5/hp/ryU83COUdAw6e3dLKP1Qqz18gPfWvOTbF2pNMWaWWNHc5afncw==;LD2F9r10kPz+CnXjzaqbvQ=="
 ---
 

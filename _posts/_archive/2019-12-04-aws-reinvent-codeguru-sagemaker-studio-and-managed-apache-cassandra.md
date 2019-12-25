@@ -54,21 +54,8 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 103
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 102
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -122,6 +109,6 @@ related:
         width: 800
         height: 500
 
-secured: "j1VBbuR5Qfai61l7WrPuzHgbxXiXhn4bRX+66nLQDQAzQKvyyFnMcu0dp7o3ICHOyzF6CaxKOmib1c1tfFuviiJ5xHi5GWnbiv8mUdkLOPJ/obLeFOn87xfm1SMX0mc0OYnwUZhTxgaSp/M33kgSv0CMAC/jk3+v1N3eqdFz9g1fCldof1h4YLlPf4q6x6i24IWGc2CakaLLJ3/+7ggiO4y6SjlOIHGaG+DOzThWASzR6UDr9zj6Vz07KqU56SM5IJzPn8GsTELXVLoLFuteiQ==;RBoFs5zTbLCY31hAWtNGqA=="
+secured: "ailMvSFCEB3+hY6JGUDUUrBVCqaEUlgUENOI1klwNL2OmLuexUp0TLP9OAvhfts8uEvE4XVwOp3zZv5xgiFikg4ypGSIEcCc55V9Z47yStOtGahsq0woKE8LYqj/JI5uMOlP4/54mJWwyywDJx2hjsKWiFPyUK8Z/4LRpNhtx/jbGSmkyioZiUtKNc7eHH/wxnBmrz5DkAMdC3TrIf7sDs1Zw8iLaIxi5vt2rISr9jIkNmy15dGT+UFschL+qMO9v9qs1uPUOzJtHXH2mBnyjw==;4LY2WzZ3Ixv2uykGmROBmA=="
 ---
 

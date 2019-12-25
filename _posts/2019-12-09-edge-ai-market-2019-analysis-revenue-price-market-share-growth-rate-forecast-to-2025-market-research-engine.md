@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Marketing Market Growing Trends, Scope and Technology Growth 2019 to 2025"
-    excerpt: "The Artificial Intelligence in MarketingMarket report provides a unique tool for evaluating the Market, highlighting opportunities, and supporting strategic and tactical decision-making. This report recognizes that in this rapidly-evolving and competitive environment, up-to-date marketing information is essential to monitor performance and make ..."
-    publishedDateTime: 2019-12-05T05:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-growing-trends-scope-and-technology-growth-2019-to-2025-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Service Market Expect Massive Growth (2020-2029) | International Business Machines and SAP"
     excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- Market.us Prominent Research Firm has added the latest report on “Artificial Intelligence Service Market Scope and Opportunities Analysis 2020 to 2029” to its Massive Report Online Store. The purpose of artificial intelligence service research document is to depict the exact information to the user ..."
     publishedDateTime: 2019-12-16T11:58:00Z

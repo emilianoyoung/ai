@@ -31,6 +31,19 @@ related:
       - url: https://www.bing.com/th?id=ON.84424280818CFC6C57669F736294D13C
         width: 700
         height: 509
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
   - title: "Major pension plans join investor group pumping $229M into Portag3’s second fintech fund"
     excerpt: "The Caisse de dépôt et placement du Québec and the Public Sector Pension Investment Board (PSP) are among a group of at least 14 investors pumping $229 million into an international fintech fund run by Portag3 Ventures ... a Series A investment round for Toronto-based Integrate.ai, a cloud-based machine-learning platform that allows ..."
     publishedDateTime: 2019-12-11T15:21:00Z
@@ -46,6 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F10F4C61F93B1875832D944889ABE69E
         width: 700
         height: 525
+  - title: "EC expert group issues call to action on fintech regulation"
+    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
+    publishedDateTime: 2019-12-18T00:38:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
+        width: 480
+        height: 270
   - title: "People’s Republic of Fintech"
     excerpt: "She continues to explain that the newly released plan emphases on the importance of using emerging technologies such as AI, big data, cloud computing, virtual identification to empower the ﬁnancial services. Fintech is encouraged to be used in achieving ﬁnancial efﬁciency, risk control and effective regulation. “The Plan indicates the n ..."
     publishedDateTime: 2019-12-18T10:22:00Z
