@@ -67,58 +67,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Industry 2020 Global Market Growth, Trends, Revenue, Share and Demands Research Report"
-    excerpt: "Dec 05, 2019 (The Expresswire) -- The report scrutinizes the market by an exhaustive analysis on Global Computer Vision Market dynamics, market size, current trends, issues, challenges, Forecasts, competition analysis, and companies involved. Global \"Computer Vision Market\" 2020 Industry Research Report is a professional and in-depth study on ..."
-    publishedDateTime: 2019-12-05T08:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-industry-2020-global-market-growth-trends-revenue-share-and-demands-research-report-2019-12-05
+  - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
+    publishedDateTime: 2019-12-09T11:45:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36773/enterprise-artificial-intelligence-ai-market/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing Market Industry Analysis, Size, Share, Upcoming Trends, Segmentation and Forecast to 2019 - 2026"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- According to MarketInsightsReports, The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2026, growing at a CAGR of 16.25% from 2017 to 2026. Global Natural Language Processing Market Report is highly intended to ..."
-    publishedDateTime: 2019-12-06T05:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-industry-analysis-size-share-upcoming-trends-segmentation-and-forecast-to-2019---2026-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "The Growing Emergence of Robots in Healthcare: Key Opportunities & Benefits"
-    excerpt: "3. Chatbots and Bedside Robots Companies like Conversa Health and others believe chatbots powered by artificial intelligence have transformative potential in healthcare. A HIPAA-compliant chatbot could, for example, deliver personalized or timed reminders for medications, appointments and more. Patients could also speak to a chatbot to describe ..."
-    publishedDateTime: 2019-12-05T04:45:00Z
-    sourceUrl: https://hitconsultant.net/2019/12/05/the-growing-emergence-of-robots-in-healthcare-key-opportunities-benefits/
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.C2CEDB90E3CE7C1FC73199E2476D847F
-        width: 700
-        height: 393
-  - title: "Automated Material Handling Equipment Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
-    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: CSO
+      domain: cso.com.au
+    quality: 0
 
 secured: "yu7bnVYeY6CU5ThDf8zaX7Z5pDAmKKEXD6bPiw2or6jbk7oKSphbykN7wZgLncOoVrOTIbd+9EdBXlA0KYIW8aj3+aV4J4Cf/Mow9eZ0nJ1fsw7zdQE4RdsqOy49lW33H6uVRVsfEX9Su9/p8GUTvseM69BiQvGcevnva3S5rCNdZ04NNTBD/d4GGOdrOl+s77ZEoVDfZMnJ9CE1xiHe2e8rqOHIyxq6xnEywIu+p8mpgWc20+PnCRx0XmgYCEs0emKhtSfVkFhX2zjCHTHqqg==;n/75Dr2H0aPmSQkf90avuw=="
 ---

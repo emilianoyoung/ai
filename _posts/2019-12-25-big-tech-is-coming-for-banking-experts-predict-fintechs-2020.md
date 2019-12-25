@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Big tech is coming for banking: Experts predict fintech's 2020"
-excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-publishedDateTime: 2019-12-25T04:22:00Z
-sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
-ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
-cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
+title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
+excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
+publishedDateTime: 2019-12-25T05:42:00Z
+sourceUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020-11577251234356.html
+ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
+cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.5CCD7F74CFB6CA05FB5C59EB4D0AA1B8
-    width: 700
-    height: 379
-    title: "Big tech is coming for banking: Experts predict fintech's 2020"
+  - url: https://www.bing.com/th?id=ON.61239B8EEC47D72D3ED19ED8AEE64190
+    width: 600
+    height: 338
+    title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
 
 related:
   - title: "Fintech startups to make a bigger move in 2020, experts suggest"
@@ -55,6 +55,6 @@ related:
         width: 700
         height: 466
 
-secured: "N06REIXk+gtuQJ15r8UG6sxAoYDLfm6Ok8NnSmff5wEQJ9IM+bh+Cbl6OPS9Z46cYqfTbmQT7zWYQtt4YCkIHt3bTQ43rj60aS2j43LnRKjjN2ZisCzFlUbUpvDZhioca3kox1NsvmfkdIN5EhuA5XTzztHZZERHs481fvCAm5fBH7TU6oTEILGNTyGHZ8seTe5xYKgB3VWTej8Tax2Cav27LV4aWCYBygfuMIej0mZNTChPD1bpkmjf8Jvz/8FgpyUeBTgJvl3VHQ8Rt1feTQ==;Fj6YccceMU5CwyRxZjAdug=="
+secured: "ouTcIcRSPPZkwlhtOWuzLm1tsit3RXQPTx6/lvd0Nfif3KSnwK9mgMrnXRw3QKfr2cBSVIQ3XQITmEeH6gv25MCi1NzdhDy4OgQ2PEdY8lUjQQSu8QpB8f2PjtaA+qmQV6f0NpO7PqixdMMFe+lJ5pAoQtAX/HseH879xvlY9OEhOroz8rQDHRimMXZ5Y3bw6zjnY4vTikmFdOfgRNJnk6L9WOWPGKVjlpTK1MSAmhEpi1iDUB/klfFZy0tU+vmjvoGODOpIDZta193QgNCXzQ==;MRPH2awFaFyBe9aR7FdtFA=="
 ---
 

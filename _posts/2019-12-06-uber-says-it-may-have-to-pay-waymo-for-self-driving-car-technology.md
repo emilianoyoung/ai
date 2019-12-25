@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9B064325792C1E70CA47945092FF79C2
         width: 700
         height: 455
+  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
+    excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
+    publishedDateTime: 2019-12-09T12:55:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191209005468/en/Aural-Analytics-Joins-Consumer-Technology-Association-Initiative
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.422446327D0DFEA9AA4A6F3244429449
+        width: 700
+        height: 365
 
 secured: "zj0ICNKEmKyC8OcjsfQQl8lwR8FWDbYvW/jbF+zspZC+VNhg6Hmj8KkMgy99zBm6rpmKE4lRfQj2/GDtcfbcucKqFaN0tbn4tCC5hUOHzQXgHKLrbmA5QKlRNKupkabZzoQrhojhLZaPX212JORJQySw36YxqafWHQ9HJuFUXBWd971Rhj217sMhPGnyFGCHQ0rbaEA0FbgHCTVrgSuByk1heYzyrcLX3DzBlx/lmpxi4xpyiWJwjuPC+/NHd5fwud0tQYtTYfkYd7F6DSw1TQ==;hEGQDqbsYdWDIOAUJkgJNA=="
 ---

@@ -63,15 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
         width: 300
         height: 200
-  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
-    excerpt: "China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence Development Plan, which is aimed at making the ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/security-policy-management-market-expected-083010923.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "cXuXWxFyOkFUNaZ08CcUNpnuLUAbJT9ZiJtGuWUFwK5DHAwP3lxlPXiBdiuphfWZamvFoIDFfBc+/N8m0XWg+h9YUjshE2trjSGy4z5K4zi0GCR9uX9fGTSGyidZ7wRW3xL4CbcL3DkFYtvya1/wI3k0tKBcMGjecfXLIQcWgro/crqvEcwx8aWlXpeov1RDim7iuH5UCVAc0Q1KffvZP3htNB0PHYlQYtbpa9f6KmsfvpDvWq+gVpwwsb23bqwr7dsCwFnR5m6bs6Q1G9cxUg==;uoWXXSftTKLI8Rwchyr4OQ=="
 ---

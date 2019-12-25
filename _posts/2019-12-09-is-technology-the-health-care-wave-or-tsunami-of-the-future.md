@@ -8,7 +8,7 @@ ampUrl: https://health.usnews.com/health-care/for-better/articles/pros-and-cons-
 cdnAmpUrl: https://health-usnews-com.cdn.ampproject.org/c/s/health.usnews.com/health-care/for-better/articles/pros-and-cons-of-technology-in-health-care?context=amp
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
         width: 700
         height: 393
+  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
+    excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
+    publishedDateTime: 2019-12-09T12:55:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191209005468/en/Aural-Analytics-Joins-Consumer-Technology-Association-Initiative
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.422446327D0DFEA9AA4A6F3244429449
+        width: 700
+        height: 365
 
 secured: "t0mA/5DdjzO3Ht2I3T3oV7WmncGNARS6h4Fj/Ey/Z/1N/3U90bNZoKF+QDZ+p2Bi9KNSy/IX33ZcLMDqV+4VS48qwe/vL5+tF2DkKpseBaazrp51v9FOmesJslCXhaLNzJ+o9ZDXMBuBV+9zHSEiN+X65dm1wFvfuzq1OFS0TJKzRapAcuolD6LB886tY+sSdH9mXm50PFj05MB+ZP1Skokt5hFwKYL2COyrYrH5ctL6m+BIInX9YaLevlW0sTJN0QBLKzq/nGwYgCjAHWlP2g==;W6pf95/hNVEBp5BNegIlpA=="
 ---

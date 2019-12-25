@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.46447E7B73BBB1A9D97ACA9D7367315E
         width: 600
         height: 315
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
-    publishedDateTime: 2019-12-05T04:27:00Z
-    sourceUrl: https://news.yahoo.com/smac-darq-tech-trends-shaping-2020-042708248.html
-    ampUrl: https://news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B17CB274803069B75A006F02A6D2E6B
-        width: 700
-        height: 474
 
 secured: "kMchXfGP1Y4Q8mX0ZRqXN8w1Q9xXBK/brhSFfAUGOJWChLqlmJASfOysRm1aDGNofi6db+3/KpW839xjDomFYAlpiPs73h9s7T8VdsOhF9WRh+CLjIBHe0+eWcZ2Vw+JfnYzOhc/aZem65+0yzq7FrGti+nhWOBHzryl6DnMLfy5mkLuhu2/Ch5Xyp6ivy0kJOyeWVZm5ugkS/tZ6cRvOKBpTlLHiQmRNtyVDD4ZT0oQc6le320FSbO3MzRjfpe9Drzq9hf2Yk/0uqm5nN3OMA==;EhqBwMpXcxsYnYpdNUXPgA=="
 ---

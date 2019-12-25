@@ -28,21 +28,6 @@ images:
     title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
 
 related:
-  - title: "Amazon now lets customers label and track specific objects with Rekognition"
-    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
-    publishedDateTime: 2019-11-25T17:06:00Z
-    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
-    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T18:59:00Z
@@ -58,20 +43,20 @@ related:
       - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
         width: 630
         height: 442
-  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
-    publishedDateTime: 2019-11-25T18:50:00Z
-    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
+  - title: "For now, Lockport wants facial recognition security system just for guns"
+    excerpt: "Although the spokeswoman was unable to say whether gun recognition would create a problem for the Education Department, it does for the New York Civil Liberties Union. \"We have grave concerns and there are still too many unanswered questions about object ..."
+    publishedDateTime: 2019-11-24T10:01:00Z
+    sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 38
     images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
-        width: 671
-        height: 386
+      - url: https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg
+        width: 2000
+        height: 1500
 
-secured: "yCwcUl7CRTSNaQuLMlaaQQwepWU+7vFf0RjjP6pHuwhE/hfkBmZzJgAcRDJxEynJ8yK+g8OgGKn5OdXfjjpUwt+wf/GTxQM7ocQymwXHTJLe9rC3PXYSom1Svfk4MGyEn++6t4nvZQi7cpcU4YLH00xrVOOTVt/EZH2saSIJZFFBedfWEFHgFzzCoxQbbDT3oPV0SNcMaqQ6L/+ujpd9wP5lttSbnKsxHtaOUB5ilvMs3dwT4WewEdgK1vaZvaRlXpL239VzCNEk7MhPjBHPug==;yjehDqIVwknTS3NsIwn7pw=="
+secured: "rFNcl+m+MQVdkpXEK37xEFu+SuNw6bIp5oUaMIucdgiQO5ueEc1svEtiyQXCRgEJVnzLhP/a11pBwkBUl4+0axCtmH6UV9BVFp5yTOHlumNz9P/1zfM7JXi3u40uAAVaRIkEXvArqa9vtOCdYo/kKIjocLDqOTz1Cc8RIR3MBwIIYMTBE+i5LDDvSk/LqtXFW3SKSFcAgshnPXiru082wuRo6pxOMtQcB+GPoWAU2c5ysI1eDA6R8DaDWdy59SsqUSgrkZjsIBN3mZEIanxQ6g==;d+lY3jH5snZ0mcMINfeHGg=="
 ---
 

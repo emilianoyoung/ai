@@ -20,19 +20,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "NVIDIA Provides Transportation Industry Access to its Deep Neural Networks for Autonomous Vehicles"
-    excerpt: "18, 2019 — NVIDIA today announced that it will provide the transportation industry with access to its NVIDIA DRIVE deep neural networks (DNNs) for autonomous vehicle development ... senior research director of Artificial Intelligence at IHS Markit. “Making these algorithms available to others, along with the tools and workflow ..."
-    publishedDateTime: 2019-12-18T16:57:00Z
-    sourceUrl: https://www.hpcwire.com/off-the-wire/nvidia-provides-transportation-industry-access-to-its-deep-neural-networks-for-autonomous-vehicles/
+  - title: "NVIDIA Provides Transportation Industry Access to Its Deep Neural Networks for Autonomous Vehicles"
+    excerpt: "\"NVIDIA leads the world in developing the deepest and broadest suite of DNNs and AI tools for the transportation industry,\" said Luca De Ambroggi, senior research director of Artificial Intelligence at IHS Markit ... industry with full source access to NVIDIA DRIVE deep neural networks for autonomous vehicle development on the NVIDIA GPU ..."
+    publishedDateTime: 2019-12-18T03:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/nvidia-provides-transportation-industry-access-to-its-deep-neural-networks-for-autonomous-vehicles-2019-12-17
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 25
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
-        width: 405
-        height: 228
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "pVO9mS9HyiYevMZjEEhJGSXAvs8FiCBriQwCaq95EFTPMgAnk1ARjRMMvR1L4L0zz9dCgKJb7ZvmoOSUva8ILO4r06SOwQYP8OLnnKyvo44/Yvtf469gZazF6LC1BTh77UGZsFSCw+7urrGLcPx9O+FVYPk1eBmOuyS2j4jiwknT9C5XB3Bop2NF2pirOhotG4SqJ+wXzuveP+zEe/MZ9tw6EsSb9j0dncAKHT5JqikoK/I7l5uiOS03rqmRaEhb4J9Mxu8ZdiZ2irLGP3TtBw==;9JAr63kfpDB3xlJKwsoLdg=="
 ---

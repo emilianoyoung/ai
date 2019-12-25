@@ -8,7 +8,7 @@ ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/memory-chip-market
 cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.231EB6EEDFA9BACD565039A3556B5B18
         width: 700
         height: 379
-  - title: "AI in BFSI Market to Reach $247.36 Bn, Globally, by 2026 at 38.0% CAGR: Allied Market Research"
-    excerpt: "Natural Language Processing, and Context Aware Processing) : Global Opportunity Analysis and Industry Forecast, 2019–2026.\" According to the report, the global AI in BFSI industry was estimated at $17.76 billion in 2018 and is expected to hit $247.36 billion by 2026, registering a CAGR of 38.0% during the estimated period. Drivers ..."
-    publishedDateTime: 2019-12-06T08:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-bfsi-market-reach-247-083000189.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
-        width: 400
-        height: 400
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
     publishedDateTime: 2019-12-13T12:30:00Z

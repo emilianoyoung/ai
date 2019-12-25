@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.231EB6EEDFA9BACD565039A3556B5B18
         width: 700
         height: 379
-  - title: "AI in BFSI Market to Reach $247.36 Bn, Globally, by 2026 at 38.0% CAGR: Allied Market Research"
-    excerpt: "Natural Language Processing, and Context Aware Processing) : Global Opportunity Analysis and Industry Forecast, 2019–2026.\" According to the report, the global AI in BFSI industry was estimated at $17.76 billion in 2018 and is expected to hit $247.36 billion by 2026, registering a CAGR of 38.0% during the estimated period. Drivers ..."
-    publishedDateTime: 2019-12-06T08:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-bfsi-market-reach-247-083000189.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
-        width: 400
-        height: 400
 
 secured: "GFAYBhO7QWVKegjkj4bo3OOckS8fsm82cVaLrKJ8BmvT5FGjds9kcBPdR2/dCNX4PjDGWTds9x98++D7UBmBQ3o7x3bQ2Ilnr1GoxVgDqBIHmnREob/GIo9WzXS+dtydM/8MLaBP02W8lygZs0xoKJ3TyAQ810R16GzVZ2ofbTJW5MoqC0q0W1As5HIZjhyb0K4wYl3obfuqH45dCMRgXWlMerJdUymZBmT1TPkByIjh0PkEwlt3YYNyaA4o9zY2repF25U/U3MULAGV03ASbw==;Fg8uhQ4M9LYHTCeNMwDgLQ=="
 ---

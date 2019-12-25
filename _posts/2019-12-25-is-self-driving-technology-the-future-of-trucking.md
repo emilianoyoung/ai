@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Self-driving cars: A decade of hype, but what's the reality?"
-excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
-publishedDateTime: 2019-12-18T18:18:00Z
-sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
-ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+title: "Is self-driving technology the future of trucking?"
+excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
+publishedDateTime: 2019-12-25T05:00:00Z
+sourceUrl: https://finance.yahoo.com/video/self-driving-technology-future-trucking-050000353.html
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
-    width: 620
-    height: 348
-    title: "Self-driving cars: A decade of hype, but what's the reality?"
+  - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
+    width: 700
+    height: 393
+    title: "Is self-driving technology the future of trucking?"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -260,6 +258,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
+  - title: "Self-driving cars: A decade of hype, but what's the reality?"
+    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
+    publishedDateTime: 2019-12-18T18:18:00Z
+    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
+    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
+        width: 620
+        height: 348
   - title: "Stanford engineers teach self-driving DeLorean to drift"
     excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
     publishedDateTime: 2019-12-21T04:45:00Z
@@ -467,19 +480,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
         width: 700
         height: 400
-  - title: "Is self-driving technology the future of trucking?"
-    excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
-    publishedDateTime: 2019-12-25T05:00:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-technology-future-trucking-050000353.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
-        width: 700
-        height: 393
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z
@@ -520,6 +520,6 @@ related:
         width: 700
         height: 393
 
-secured: "nvsNAu9IfIaWV9aUUNv1pFb5DY+2G+5Cpde0PeMR4zZRkOaYeyHEGzNL7Th6ANmy53tH2g1n4Ur7QZQhnbfdbpmsOJYEgBJMmWbJbtMIvuPUyMyYbCtkiWrDyHyDATibHIUJ+LeNPSQzSz3U4PiSmm5JymHpc8K85KNmATXQTsc5ocN6MXjRY/BFbjZdYMWkyxiVlRlypgrLlVuzuBnw5/7TRrc3GM5IYJnzHtLPazrBUvNt+SUzB6i65ZqWVd/zRePn5i4H/lvtEAsywlE67w==;QaFJDl6R0jz/zvc0S2cl1Q=="
+secured: "H/PVDGFrIh8kXej8QkqPKWEbBfpvdWcKinHRv9fU/+MZm5KkShxWjCmT6RQwMlXy5uiWG/NIKLtns6TrpI6KF5BgieWY04gVR8EWEMP9dtZ8iSjQ7tytG3ly+EplTi3MLkzfLCTuZF29S13ivmFNyPmFECIDc90qK3n4X15WYMe4ouacm/o0vVDmhyaplirEREMCtZbG7DhYmnTrWvLiOsbPcFrZ+YUT5NMwqzr4cvtsOXAcyJ+M26RF0G++l58+832BhIc2jMCuBQ4wifC50A==;MYAseqxzZYVuZgg+beSQFw=="
 ---
 

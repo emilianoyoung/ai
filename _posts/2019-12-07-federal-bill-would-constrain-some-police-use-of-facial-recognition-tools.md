@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 338
+heat: 328
 published: true
 
 provider:
@@ -235,19 +235,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6942E1106F955EB9B1D3DA2A98E9F9AD
         width: 600
         height: 315
-  - title: "Privacy concerns over police's new 'state of the art' facial recognition system"
-    excerpt: "NZ Police has enlisted the services of an American company to design a \"state of the art\" facial recognition system. Stuff can exclusively reveal Dataworks Plus has been selected to upgrade the existing outmoded police biometric system. The law enforcement ..."
-    publishedDateTime: 2019-12-05T04:59:00Z
-    sourceUrl: https://www.stuff.co.nz/national/117957684/privacy-concerns-over-polices-new-state-of-the-art-facial-recognition-system
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.725132A3A9F71FC335477CA8E1A6191A
-        width: 700
-        height: 394
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
     excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
     publishedDateTime: 2019-12-04T22:24:00Z

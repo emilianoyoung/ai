@@ -248,19 +248,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6942E1106F955EB9B1D3DA2A98E9F9AD
         width: 600
         height: 315
-  - title: "Privacy concerns over police's new 'state of the art' facial recognition system"
-    excerpt: "NZ Police has enlisted the services of an American company to design a \"state of the art\" facial recognition system. Stuff can exclusively reveal Dataworks Plus has been selected to upgrade the existing outmoded police biometric system. The law enforcement ..."
-    publishedDateTime: 2019-12-05T04:59:00Z
-    sourceUrl: https://www.stuff.co.nz/national/117957684/privacy-concerns-over-polices-new-state-of-the-art-facial-recognition-system
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.725132A3A9F71FC335477CA8E1A6191A
-        width: 700
-        height: 394
   - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
     excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
     publishedDateTime: 2019-12-05T20:01:00Z
@@ -301,6 +288,6 @@ related:
         width: 700
         height: 350
 
-secured: "LWXq5oKc5b1DbIfmG2hMFnG+E/g+32JnD6KgeTTck/+Ccjo/ls/V/t71KPhSXMUlGT54qg1k2BOCIC0RlTQVxYTchzGO4Ore5y65lQlX1yuGcMUfjBBJ3rpwaix46SwSZ6tmrnIPCOa3xFefVUx/f/aY6IFYCB7QMWpcb8T16TwsG9AkuMA6MpQ3jS3pa3XtVSZ6EIIx0ygDICQEGD0gKLDSHIpurMYJHOw/j1fi50d0TdsqSQDW5RXHrqkh1qwjif4CVJBgVtl9R8hZ/tY9hA==;ixhn9/RJ5660Qcx/kSfEcA=="
+secured: "Vg54LhyWijC56tZSJWEulEvZQBIW3MPAWTXWHHso90wFdXFavBIF5oo5kAtbIfpLDCKKX+2IHl05u0MNQxhM80DF0fXNzCbLwGfD4AOPUm4WI8Y/liwFDWTN4zgIH9ajNU+fJpfiO8LHErWROq4fBMFeIu4kWDdzOtxOm7V10qsbVZhy9zdlgUjJD7FlQIh4z3A8Sb9/EMqUV1JY2W6Q7VeMgzEzHG+mfzJutghj7TClsxL1lfpzFPkYEm4UN2S9lELOz3WCeAJYpzpz4/t2Vg==;geDm3VXrVyls8q2HjnoRLw=="
 ---
 

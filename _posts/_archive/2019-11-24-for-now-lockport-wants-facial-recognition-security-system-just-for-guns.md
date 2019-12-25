@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-24T10:01:00Z
 sourceUrl: https://buffalonews.com/2019/11/24/for-now-lockport-wants-its-facial-recognition-security-system-to-just-watch-for-guns/
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     height: 1500
     title: "For now, Lockport wants facial recognition security system just for guns"
 
-secured: "qtpJcB0FGjYq+bqf3H+aTEKWg9AHtG2ilj/zezWrYDCgFpyaILjPiWOb9wNx8QrHKjEefYrile4mH9F3Pd2qn0426fIdfNW0OGgGQ+DUZajpOEVd89lL7XYDNdBgSBdAcBg1aMN0VPYpRmTsqSG8qwxIxi/BQMzjYEhb7yvfmWc0MQGOZJOSfawurOwuv27wjTXRcaxpkVkBBs39RMf5wUGZiOgBcnmaqcHqlpXuN/fF6yd+FsK55S6NvDYpq+WN0QYGkflSW2BQYIprDHcXNw==;96exXepXEtA6da41Vk2/TQ=="
+related:
+  - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
+    excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
+    publishedDateTime: 2019-11-25T18:59:00Z
+    sourceUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/
+    ampUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
+    images:
+      - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
+        width: 630
+        height: 442
+  - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
+    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
+    publishedDateTime: 2019-11-26T16:35:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 41
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
+        width: 589
+        height: 558
+
+secured: "TzEbJktzEUkEPZn8EBOR65d6As0sd2P7/13DUbg6x26006eTpqwtT9PLpRtGS/HjzXdz90HDtMv34Kc66dbTCQwTaeXkqr77w+t8PhXXvTPdgIiqOaSx1ARAKe34NHrFcF8GrsR3aAzkPRtxihuhHfM1unmAIhDNNdOYZO7QKDu7D/KMDWhaQJGWFiTvm0QqO3oLjTgcT78VeM7VcqOXKIDthIqfnC6BuXoXBb0AyociW8wngOqQAptm5FzluBVqvWgK1bw7z7UibG+Hrv/9Vg==;atTixTTeR+/x+NxHr896Eg=="
 ---
 

@@ -67,21 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Entertainment Robots Market 2019 – 2023: Key Finding, Business Trends, Regional Analysis, Size, Share and Industry Profit Growth"
-    excerpt: "For example, the entertainment sector has used artificial intelligence (AI) extensively in children’s toys. The market’s main focus in on the end-users that make high demand for entertainment robots, such as children and geriatric population. This could benefit the entertainment robots market to a great extent during the review period."
-    publishedDateTime: 2019-12-11T05:05:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14969010/entertainment-robots-market-2019-2023-key-finding-business-trends-regional-analysis-size-share-an
-    ampUrl: https://amp.benzinga.com/amp/content/14969010
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14969010
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.ED902756560EB4DBEA45FF5F7214A5BA
-        width: 700
-        height: 401
   - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
     publishedDateTime: 2019-12-10T19:45:00Z

@@ -3,7 +3,7 @@ category: news
 title: "China should step up regulation of artificial intelligence in finance, think tank says"
 excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
 publishedDateTime: 2019-12-22T07:00:00Z
-sourceUrl: https://www.msn.com/en-us/news/other/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says/ar-BBYeHL6
+sourceUrl: https://www.msn.com/en-us/money/markets/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says/ar-BBYeHL6
 type: article
 quality: 29
 heat: -1
@@ -85,6 +85,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "ZsTP0EabGniH0RM39j/wt9AXhFUQJ9ldzP4BTpuKtRegXUhOie8Q4L7e2OmUC626uMq2+d8IvpAnt47s6OfEPe6/+5CK41ylk6DiL9dRKto62wzMgc0vsRF+h0Mm5FSYp2pGjw5mGCiJSxG9jrUt3/cipZ+XgQqLTA9y0hYQRLp4F0eF6vQmbMcAQWMTFcQ0SlYB6oh8PDoRNDbpvi7dJr7sAh55NZPt9wtV5mQofW1CUAa3D9yAlbOpkCtAMUi12NH05s7Hywo5f28M2vIJmw==;QxYMIOUR42pW0BJ4L7U0Ig=="
+secured: "cMINEiPiGZ/NT2W2nszJ69bL1tohtHopvUV90EA9Q7L5aCb2mrM15QuxrAwIRmxjFxm86scMgQUV6tZ2t8HPoqz4hYsyW40tyM2Sp94XEKzMRSUY9u5i+beuODnxGOEvzYLimCPAREIGc5LLyIZV6GmWYwaOaaDWY/RoTI9f522eYzAyyKfiT2/X6MpAnCWku9DU6edCGW5+sYdphhzTAzo8e697jHfsRFZvs1NZZOVRHFXiJqSK5/YTo6RYU8LrzwCkK127oWIVb7kh9Rl6RA==;pKtXYdqhXdztoyBmw84qWQ=="
 ---
 

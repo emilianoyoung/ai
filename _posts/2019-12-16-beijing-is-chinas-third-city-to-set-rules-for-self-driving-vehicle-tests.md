@@ -480,6 +480,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
         width: 700
         height: 400
+  - title: "Is self-driving technology the future of trucking?"
+    excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
+    publishedDateTime: 2019-12-25T05:00:00Z
+    sourceUrl: https://finance.yahoo.com/video/self-driving-technology-future-trucking-050000353.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
+        width: 700
+        height: 393
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z

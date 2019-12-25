@@ -28,32 +28,19 @@ images:
     title: "Language Translation Software & Services Market Study 2020 with Professional Survey & Competitive Scenario Till 2029"
 
 related:
-  - title: "Natural Language Processing (NLP) Market Insights Covering Dynamics and Competitive Scenario through 2025"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2019-12-13T10:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-insights-covering-dynamics-and-competitive-scenario-through-2025-2019-12-17
+  - title: "Google Assistant Gains Real-Time Translation for 44 Languages"
+    excerpt: "Google has updated its Google Translate service and made it possible to generate higher-quality translations for a handful of new languages. Specifically, Google has applied its neural machine translation technique to Hindi, Russian, and Vietnamese. Apple today debuts iOS 11, its next-generation mobile operating system. Starting with messages ..."
+    publishedDateTime: 2019-12-12T15:30:00Z
+    sourceUrl: https://www.phonescoop.com/articles/article.php?a=22002
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Phone Scoop
+      domain: phonescoop.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market Insights Covering Market Dynamics and Competitive Scenario through 2025"
-    excerpt: "Dec 11, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2019-12-11T06:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-insights-covering-market-dynamics-and-competitive-scenario-through-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.B65DDDCB92A9202839E6FBDD308A2BF0
+        width: 401
+        height: 700
 
 secured: "07eAYjNHk+05DtNvAgV7OunXJCuoCm9SeLz9BK/P5Hlqu6PpkgIFLJFQtksSA8n+/4zLrJ4NDZWn41A+S7i2FliFK+yVQugS0hluedOGOa4+7rl2x+2S5+8qxpZfTLONVIVdOCfuwrjyj7AxqtymCcBdtsYduhl9mCnwyFg+ZBI/Sj4RK1k4hLg8U+5z6H/+uKlyBYjZOBj1LIeXKDICww8QPJSnB7tO6apF6Yh/C3Ly4rCiRmsal6elIMrFjal3MNl2f4oyJPEekNfvvMmPFA==;76vAwRT8kwZHlz2qoocM2A=="
 ---

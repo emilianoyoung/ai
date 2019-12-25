@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2019/12/09/ibm-tech-trends-to-watch-in-2020--and-beyond/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "IBM Tech Trends To Watch In 2020 … And Beyond"
 
 related:
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "5G's unfulfilled promise - Super-fast fifth-generation network speeds are meant to revolutionize communications along with areas like urban transport -- driverless cars plying our streets safely ... distributed ledger technology (such as blockchain), artificial intelligence (AI), extended reality and quantum computing. Unbreakable blockchain ..."
-    publishedDateTime: 2019-12-05T04:27:00Z
-    sourceUrl: https://news.yahoo.com/smac-darq-tech-trends-shaping-2020-042708248.html
-    ampUrl: https://news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/smac-darq-tech-trends-shaping-2020-042708248.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B17CB274803069B75A006F02A6D2E6B
-        width: 700
-        height: 474
   - title: "SMAC in the DARQ: the tech trends shaping 2020"
     excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
     publishedDateTime: 2019-12-06T00:06:00Z
