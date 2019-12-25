@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T17:21:00Z
 sourceUrl: https://www.nature.com/articles/s41398-019-0680-6
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,34 +22,6 @@ images:
     width: 685
     height: 568
     title: "The rise and fall of MRI studies in major depressive disorder"
-
-related:
-  - title: "The role of ethics in artificial intelligence and data usage"
-    excerpt: "The EU’s digital agenda for the next mandate will be marked by a series of broad-ranging reforms, from artificial intelligence and data protection to digital tax. However, the issue of ethics in the digital field continues to be at the centre of the ..."
-    publishedDateTime: 2019-12-05T09:25:00Z
-    sourceUrl: https://www.euractiv.com/section/digital/video/the-role-of-ethics-in-artificial-intelligence-and-data-usage/
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.0177F89CEEA6139BE59290748187C347
-        width: 700
-        height: 393
-  - title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
-    excerpt: "The Dutch bank improves its access to strategic information thanks to the cognitive capabilities of Cogito®, resulting in cost savings, increased efficiency and improved customer experience Rabobank is a bank that is run for clients. Established in the Netherlands, Rabobank has grown to become an international financial services provider ..."
-    publishedDateTime: 2019-12-05T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/rabobank-extends-the-scope-and-scale-of-unstructured-data-management-by-leveraging-expert-systems-artificial-intelligence-300969781.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.41FF7B5F7CBD396559506A9B29C06AB9
-        width: 700
-        height: 367
 
 secured: "JSQU2MmIhr9d0EuU1TUsNdC+72ssgHsqaSD0XIUuPnI1qhpSaHpyC01lzrDfsDE+SXU3K5Ef7yLok/FKJVkiJIkFcdCRiZoABaMUUTfB+3tr2poXIy3i17IAfitRS9UHK7rIbpCArSqZ5zRYdCM6JT8hzdNvav8NCaFA4767OC+Osh3N9LwNAoQQCRvcPTgBl5stw8LTIXFx0m40/Zu2i95HkR6HWWojBLVMjYLY57Zlrl+rzcgWiH18mioqygrsX2QGY4WmNeE/mz1GmQKmlw==;mRPwktPfvvTaQOSWDOYFSg=="
 ---

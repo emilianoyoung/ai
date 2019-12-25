@@ -23,32 +23,19 @@ images:
     title: "Rabobank Extends the Scope and Scale of Unstructured Data Management by Leveraging Expert System's Artificial Intelligence"
 
 related:
-  - title: "The role of ethics in artificial intelligence and data usage"
-    excerpt: "The EU’s digital agenda for the next mandate will be marked by a series of broad-ranging reforms, from artificial intelligence and data protection to digital tax. However, the issue of ethics in the digital field continues to be at the centre of the ..."
-    publishedDateTime: 2019-12-05T09:25:00Z
-    sourceUrl: https://www.euractiv.com/section/digital/video/the-role-of-ethics-in-artificial-intelligence-and-data-usage/
+  - title: "Artificial intelligence extends average life expectancy: Expert"
+    excerpt: "KAZINFORM Artificial Intelligence (AI) offers acceleration in the treatment process of patients ... The system is intended to make significant contributions to doctors and patients in stem cell therapy and DNA sequencing methods in treatment processes after diagnosis. «In the academic studies, genomics and DNA sequencing studies become more ..."
+    publishedDateTime: 2019-12-08T07:06:00Z
+    sourceUrl: https://www.inform.kz/en/artificial-intelligence-extends-average-life-expectancy-expert_a3592552
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 54
+      name: Kazinform
+      domain: inform.kz
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.0177F89CEEA6139BE59290748187C347
-        width: 700
-        height: 393
-  - title: "The rise and fall of MRI studies in major depressive disorder"
-    excerpt: "A critical barrier to the clinical translation of many findings is the reverse inference fallacy ... Next, cellular studies using MRI may also provide insight into the pathological features and etiology of MDD. Lastly, machine learning and artificial intelligence will likely aid in the diagnosis of psychiatric disorders in the near future ..."
-    publishedDateTime: 2019-12-09T17:21:00Z
-    sourceUrl: https://www.nature.com/articles/s41398-019-0680-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FF327A153AB0DC4FA62DB39AD653905D
-        width: 685
-        height: 568
+      - url: https://www.bing.com/th?id=ON.74C894EFCC25D75A492B025CBC0A2446
+        width: 320
+        height: 240
 
 secured: "Unl5cF7s1o/LZFRNK6uNvMeoUCIWSh+E3palhJbOhQ93exWsE7J78IP5L5mvhP1v0KmZ3C2uaqijUpo5zKbSXiKbs+Hs3e8oSpMrfftgg73s8AYp86Fg3ow1t3DCW/jyh49JQdCMOLFR/N79u43L3pvQtcgttJQRqaAiVUKCU7n7U10O+NL2VxjTqBCNT7h89V6bL3QE4ePyASR7PIUyMyP4m+cgr1oOGS3R+UuoTnWjJ1dpQS6HSP6xEse6bAoEHxXLu37shSObBtWpXzo+GQ==;crLAPWjqZkW6PyX3BITskg=="
 ---

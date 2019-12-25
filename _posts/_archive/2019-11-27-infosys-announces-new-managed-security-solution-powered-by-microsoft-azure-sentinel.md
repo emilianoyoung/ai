@@ -25,6 +25,6 @@ images:
     height: 347
     title: "Infosys announces new managed security solution powered by Microsoft Azure Sentinel"
 
-secured: "1deuIAhI/M9glYU2/sfsciNQ3K2wTBWzVhQ2QiduxvV3WX+0UFhxyRbSJEiodEZiiakpNT4ryErs5ddaffm470ifDuVIfiM2hlSOnL3XaRMWp0IXzCaosNGn4Zz4Q11jrNy073xelVzf/K/7XT6tbXGoJxUL+9/OQk7Je6j/FSzIQs0gzBZY1MVlYczGQjNSaJjZkFShwbpaQ3bTcI5MCEdLib8vbXdtqkxFrZBupoEdPIL+onekJ2zzlYXHgh8K+hXMDUQhh0/uKYCKAzBKWQ==;O6C0I23Y4eHylUvxtdSzVQ=="
+secured: "cNNeLyuWpAIgPC43RGBl9wPF+8ZpI4QxgKpnTkQmAl0/xGse8tsJAFwy4tSeHtxarRaDbSYsKI1EHjL6e+2Umab6T+J9KS4RY6N+PbseV27AXZ/iWzWhoHpJpoyxo21vmCFv+mCKY5cw2GyILVQ9ObHinCfVwCpyfGnGQkxk9ij+HNwW47gwLzLCVdEEv2f4bi2bWmdLGU176X8FvfzmutDa8o5jg4LlYHvBNhYW8BPZA+Dupnztc7085C/IZoShb/yMcVARQPCcyNLEfWkbsw==;zVjB72Ndovyz3BDYYgSffg=="
 ---
 

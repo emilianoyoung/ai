@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-wha
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 700
     height: 525
     title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
+
+related:
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
+    publishedDateTime: 2019-12-21T16:11:00Z
+    sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
+        width: 700
+        height: 393
 
 secured: "SGHGawduzmAxYG2Z+Rro70Hw/wV7DPPBoHsG+XgUqcxSdwlWIaFeU0uQVeDdxovODB/3XkUFsABdwaFBSR+muFuFXkJIB/XvCZO8fAQDIt1HDGzoQMwKxl/WT1huaqPOGDoDKsQBKEvoe75+KNfVOTt6oa/PRr+7u8r+tXLzc3esExIQJLkrhmIWp48M0InSHAeE5MOlpvhX3KS1nOZE4rPjowt84aNLFIVzPhZ2DZnveumKbKZpWHo7tiJahwToQXi92+FmfjBQb6ltdz7AHw==;BDN5XvAkpxXJ57aKOWAUJA=="
 ---

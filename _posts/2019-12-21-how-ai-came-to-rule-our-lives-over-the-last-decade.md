@@ -1,19 +1,19 @@
 ---
 category: news
 title: "How AI came to rule our lives over the last decade"
-excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses ..."
+excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
-heat: 69
-published: true
+heat: -1
+published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -26,20 +26,22 @@ images:
     title: "How AI came to rule our lives over the last decade"
 
 related:
-  - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
-    publishedDateTime: 2019-12-23T11:35:00Z
-    sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
+  - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
+    excerpt: "Laura Baldwin: I think they're not sure where to start. And you know, we just did a survey not too long ago. We surveyed our whole audience around artificial intelligence (AI) in the enterprise and what they needed to know about it. And the reality is 73% of the respondents in that study were either trying to figure it out or believed that it ..."
+    publishedDateTime: 2019-12-24T14:27:00Z
+    sourceUrl: https://www.techrepublic.com/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
+    ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
     type: article
     provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 75
     images:
-      - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
+      - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
-        height: 393
+        height: 525
 
-secured: "Sy99yoC/DjjHE1doVWzjV78tbDuTvow3x4OATYRKcw88f1516xlELARFP7i2djvvAdKGhC11T9CcLvwRwZtu5/6GwFrlRbt3m8fO7C9jJAETGjsfR3sSndD55+h5KgpSEliXoDA3oArF5gYjDiifKXBR2myCbiaRgjg0hhWyNf3O9NoimoGuyBoCRDeTE3ArfC/8WWIcuNefzsLFLCQD+T/MB7DvG3UjlB7D5grDPJVDWw7EYdid13NCILuZTGeuj+8Dp4hcb6Z4dXK6SHqz9w==;Eh/A6nHf5yTy4ratsWoi1w=="
+secured: "YK9ID1kHydSXJPVwdmJWeSQtWV4V75YKbCUPX7aLoMHKjuPPpgOsul9nsPWtJ6rZLbkQgjIpOT+ej77ytteIAoJDWuX9ApJq8T0YsF18vw7DK+7xUKEt86wGzTc35JdJZ4n/Am/j/dFeAZcqPjlU8fk7gckVziuQuIaMfT4M4PQdlI86rF0N0Db3/kkOcyz0dTwuRGVRVhoeivbc36yLChPlTV80TYQomGOHxBQVy3zh790TNxYFJ0KoPnehS/HJ/cNUQzgRuzAC0Tm2RhoW1A==;07pgqUFw15dmgaFU77WE9A=="
 ---
 
