@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/sensory-unveils-domain-spec
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances-1028784026
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
 
 related:
+  - title: "Sensory Teams With Appliance OEMS For Smart Voice Platform"
+    excerpt: "With a specialized model of its TrulyNatural vocabulary speech-recognition and natural-language-understanding platform, Silicon Valley firm Sensory unveiled the release of its domain-specific assistant for smart appliances. The technology will help manufacturers make a new wave of smart kitchen appliances that don’t send voice requests to the ..."
+    publishedDateTime: 2019-12-24T16:13:00Z
+    sourceUrl: https://www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/
+    ampUrl: https://www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.FF08B68207E7580BAEAADB926DF87989
+        width: 457
+        height: 305
   - title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
     excerpt: "Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been designed for home ..."
     publishedDateTime: 2019-12-25T00:05:00Z

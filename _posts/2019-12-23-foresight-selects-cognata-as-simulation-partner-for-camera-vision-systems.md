@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit https://www.cognata.com. Contact: DeeDee ..."
-publishedDateTime: 2019-12-23T15:04:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
+excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
+publishedDateTime: 2019-12-23T16:14:00Z
+sourceUrl: https://finance.yahoo.com/news/foresight-selects-cognata-simulation-partner-160400161.html
+ampUrl: https://finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
 type: article
-quality: 33
-heat: 33
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -36,6 +34,6 @@ related:
         width: 1280
         height: 720
 
-secured: "s175VQvIuUk25D/rj+H9Nzm+tlGwNROFAQeL/RwEBmtuK5o19oV0FbG4F406GPdA7iskeMSvaV9iW0NL/ejYtGYkMW5GkNjiLs03rBLXVmfemSPqAvBBOLvOkRIYGWTjJ2Bi0APcAlndq9UvwmG/e+oJB/UTaRUXlQj++7I9hhVc5mueqXrhC+7nM3Ej1hS9o0nuzJoKIwXhqU0Ccc5JKkI2ae88wSuMWbYTAg08TY1B/XBVKgbiD70x6oMiC5CWQcMEfLX/5oI+4m5cuXOPqQ==;3VeceStTQB6xJQVm/Ej4DA=="
+secured: "hrcHfHaCJhLJY6u5lq8YgrwmhV3EWcXLz+wBN/ZG3JU07ZOpJ9+xamsyE75FPWN/IGaECNbv8Rgenz4qRa2EBoX9lIHY0EODOM71lJ4iA+CettezHQVftzTYM0aKY1O9yIGXhBWYvqlcAviP92ORuQitBP8HVBofu+riEMvSzCEsOa8tgTBY+ErwnJqRRx8oC+0o3hbOnN/3ewqGqONemIMP/wsVKYfztFWeFXUH7XjsCi9igrR26lolwj2ANfAcA7r+s/u4zjbj5cQXx6A9qg==;pCBUEBLfeMxric8B/f4tgw=="
 ---
 

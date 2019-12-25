@@ -8,7 +8,7 @@ ampUrl: https://fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-w
 cdnAmpUrl: https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-wildfires-faster/amp/
 type: article
 quality: 57
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     title: "Artificial intelligence helps spot wildfires faster"
 
 related:
-  - title: "How AI is helping spot fires faster"
-    excerpt: "As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within minutes — in some cases far faster than these fires might otherwise be noticed by firefighters or civilians."
-    publishedDateTime: 2019-12-05T15:35:00Z
-    sourceUrl: https://www.msn.com/en-us/news/newstechnology/how-ai-is-helping-spot-fires-faster/ar-BBXNMYC
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.71DA06F7A2778F5735F19AB299C1FF36
-        width: 600
-        height: 315
   - title: "Waterloo professor says artificial intelligence is a useful tool to help fight wildfires"
     excerpt: "Mark Crowley of the University of Waterloo wants to deploy a completely new weapon in the ongoing battle to control wildfires: the cutting-edge power of artificial intelligence. Forest fires are extraordinarily complex. How they burn can depend on a huge number of factors: the landscape, the wind, the species and age of the trees — older ..."
     publishedDateTime: 2019-12-09T08:13:00Z

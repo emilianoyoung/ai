@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CBD32D55087725E16C4148A3A6F38B77
         width: 700
         height: 393
-  - title: "How AI is helping spot fires faster"
-    excerpt: "As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within minutes — in some cases far faster than these fires might otherwise be noticed by firefighters or civilians."
-    publishedDateTime: 2019-12-05T15:35:00Z
-    sourceUrl: https://www.msn.com/en-us/news/newstechnology/how-ai-is-helping-spot-fires-faster/ar-BBXNMYC
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.71DA06F7A2778F5735F19AB299C1FF36
-        width: 600
-        height: 315
 
 secured: "kKg0KTGFbLublcXRf5VgQlPmd7k9WYX8u8XTG1KG3j4AfxS1HWAIIr61NDMqEg6Pt96vDwQDxUqgLh6i5/TRiVWtr49L8MK4pv+TMHpn8mOfgRLVSJIIyoLdI5aEUBKMj9PTqY69v79iiRyHDdS+FgKwOngsSi5Gja2wNrFai5PrKwGOMKatzLYWq5suKaZmlsjtt8S1ar4CphlFvT8Hu3KOX4uo29Hdq3R1A4USc5BvOnuEuG6qwPQHnbHWfEAISjxuWyd5x0rG4/LVdjyOBw==;6kU9mVaoDRZpn/yPBtk6SQ=="
 ---
