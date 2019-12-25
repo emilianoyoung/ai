@@ -151,6 +151,19 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Facial recognition is the future, privacy is a concern"
+    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
+    publishedDateTime: 2019-12-25T18:52:00Z
+    sourceUrl: https://www.khaleejtimes.com/editorials-columns/facial-recognition-is-the-future-privacy-is-a-concern
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
+        width: 725
+        height: 725
   - title: "Black and Asian faces misidentified more often by facial recognition software"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
     publishedDateTime: 2019-12-20T13:25:00Z

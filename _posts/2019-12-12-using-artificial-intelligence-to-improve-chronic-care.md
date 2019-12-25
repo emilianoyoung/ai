@@ -65,6 +65,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
 
 secured: "wC89hSGKt2rIEk482/2RY3WNwcMTbsEFutp7uxCmCPVc2kZDp6H88IdK97Sdngfxv36PhObSzv/iqVDbtCOcq/ySM2z+G7bzBer9Q48u2FrwxK0u2l3U1WqxuCr7LVkNu6NgG01fvOCmIW+Kj0Kl3Ofu/8JRDyHSZUwgvfjyc207YkjHBLbHCp51jo98GMRNuKJ3OqiRL9Nhdn3H1EJw1JEH0jBcvHccaY3gw7NzDpufX++U+8i1UVzs8e34X+3RInJ09SBXBL8KorJrRyyiBA==;zWdu2iqmQ4Y9Lg7kunbAIQ=="
 ---

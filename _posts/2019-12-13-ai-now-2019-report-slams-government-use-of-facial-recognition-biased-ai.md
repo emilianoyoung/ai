@@ -143,6 +143,19 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Facial recognition is the future, privacy is a concern"
+    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
+    publishedDateTime: 2019-12-25T18:52:00Z
+    sourceUrl: https://www.khaleejtimes.com/editorials-columns/facial-recognition-is-the-future-privacy-is-a-concern
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 39
+    images:
+      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
+        width: 725
+        height: 725
   - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
     excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
     publishedDateTime: 2019-12-19T16:50:00Z

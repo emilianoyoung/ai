@@ -174,19 +174,6 @@ related:
       - url: https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png
         width: 288
         height: 342
-  - title: "Top Portland news: The case for high-speed rail; city plans to propose facial recognition ban; more"
-    excerpt: "Here's the most recent top news in Portland; see what headlines are trending among local readers, with links to full articles."
-    publishedDateTime: 2019-12-05T17:34:34Z
-    sourceUrl: https://www.msn.com/en-us/news/us/top-portland-news-the-case-for-high-speed-rail-city-plans-to-propose-facial-recognition-ban-more/ar-BBXP0vM
-    type: article
-    provider:
-      name: Hoodline on MSN.com
-      domain: msn.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.E8244AABD4652FE55B7073A866205E32
-        width: 600
-        height: 315
   - title: "Homeland Security doesn’t want Americans' airport face scans after all"
     excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
     publishedDateTime: 2019-12-06T00:04:00Z
@@ -230,19 +217,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC855CE22CE627B9F2F360818A6A6DEA
         width: 700
         height: 415
-  - title: "Customs Reverses Course on Mandatory Facial Scans for U.S. Citizens"
-    excerpt: "Customs and Border Protection reversed course on a proposed plan to require all U.S. citizens to participate in its facial recognition entry/exit programs—a move that would have removed the ability to opt out. Since CBP’s facial recognition program began in September 2018, U.S. citizens and green card holders have technically been exempt ..."
-    publishedDateTime: 2019-12-05T17:39:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/customs-reverses-course-mandatory-facial-scans-us-citizens/161702/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.DD6AB640853993A37926D8DD8D706FE6
-        width: 400
-        height: 400
   - title: "DHS retreats on possible facial screening of US citizens"
     excerpt: "DALLAS (AP) — The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda ..."
     publishedDateTime: 2019-12-05T23:55:00Z

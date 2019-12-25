@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T07:58:00Z
 sourceUrl: https://www.techinasia.com/tried-futuristic-self-driving-robotaxi-china
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -73,19 +73,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-05T17:05:00Z
-    sourceUrl: https://www.autonews.com/china/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.133F7429E34CB6B16DBA2B56700FA648
-        width: 700
-        height: 525
   - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
     excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
     publishedDateTime: 2019-12-06T10:12:00Z

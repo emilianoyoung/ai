@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.66590EE1A6E93F4A98B100F630F134D8
         width: 700
         height: 366
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
     excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
     publishedDateTime: 2019-12-11T00:12:00Z
@@ -98,19 +111,6 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
         width: 1020
         height: 600
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team (GOOG)"
-    excerpt: "Mustafa Suleyman, who cofounded DeepMind with Demis Hassabis and Shane Legg, took a temporary leave from the firm earlier this year. His move to Google ends speculation that he planned to quit both DeepMind and Google altogether. Google acquired DeepMind for $400 million in 2014, and the firm remains headquartered in London and a research ..."
-    publishedDateTime: 2019-12-05T17:57:00Z
-    sourceUrl: https://www.pulse.com.gh/bi/tech/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team-goog/lgxtwy3
-    type: article
-    provider:
-      name: pulse.com.gh
-      domain: pulse.com.gh
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.2C648F2A8F369331B7DE745DD1674969
-        width: 700
-        height: 367
 
 secured: "eYNPSgQuWrjc42TkZoCdLwO58q9oh92fMuA+km1XFDIBnBUj6ka/I/PMleF0p1Bn0SieLb0+vSrgTRP1NMEEPDqlCX01xcP1AUloc2gcHwDQGSuHTdfJdAaS9VbAI9oF48mcs51XMd/LLxGJrYYxZqACQS1zrxR3w2IHkL/qIcT+LggEfi81jn4dd/H0Q6XmCJvV1CHjXZPaqnwX0B0gVVAyQXgQEptjNfOseDLXsw/8nXHmR4UlQHMxtJnLlzv4aSZd9AXzCxvoYzoVIahIJQ==;BERy8gSbKNlsG98aP1LBhQ=="
 ---

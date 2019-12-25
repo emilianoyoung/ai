@@ -8,7 +8,7 @@ ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningf
 cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
         width: 620
         height: 480
+  - title: "Machine learning can help us understand conversations about death"
+    excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
+    publishedDateTime: 2019-12-10T14:41:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209102028.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
   - title: "Machine learning can help us understand conversations about death"
     excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. \"We want to understand this complex thing called a conversation ..."
     publishedDateTime: 2019-12-09T06:05:00Z

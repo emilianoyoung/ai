@@ -72,6 +72,15 @@ related:
         width: 620
         height: 480
   - title: "Machine learning can help us understand conversations about death"
+    excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
+    publishedDateTime: 2019-12-10T14:41:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209102028.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
+  - title: "Machine learning can help us understand conversations about death"
     excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. \"We want to understand this complex thing called a conversation ..."
     publishedDateTime: 2019-12-09T06:05:00Z
     sourceUrl: https://eurekalert.org/pub_releases/2019-12/uov-mlc120519.php

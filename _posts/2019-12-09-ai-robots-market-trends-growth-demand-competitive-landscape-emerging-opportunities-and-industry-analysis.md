@@ -41,28 +41,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
-    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
-    publishedDateTime: 2019-12-16T06:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Trends And Future Opportunities"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-10T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-trends-and-future-opportunities-2019-12-10
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
-    publishedDateTime: 2019-12-09T11:45:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36773/enterprise-artificial-intelligence-ai-market/
+  - title: "Automated Material Handling Equipment Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
+    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
+    publishedDateTime: 2019-12-11T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
     type: article
     provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "eT4QKbDRkwXnIMwS6yuAd3htB4XRPg/hBEkcs3G2YTzk5b/TNwB/EpoK+r1IoVCYRBjP8bY1sLujHZLqqXZdi1KPFh5K7Bd9+RJ27qChn04dGh/KL/kMz99oMgGATIy/Xt4CaL9zx8D2b+hjGBzJZUOo4sjb9R6wozExzJuQ+6z/eQciADLDb37oTVq0opLe3nudkB+QijK5bjGSJhRNgHCv8fOBBQQEYyFsoDHvEdD4qUbKnM5zvjyhRaEAaJRg/MxX7FDE8+A+fUY3n+oPLQ==;QPWEskJxd2F3GRhU2LiDZA=="
 ---

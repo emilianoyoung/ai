@@ -24,6 +24,17 @@ images:
     title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
 
 related:
+  - title: "AWS expands DeepRacer league, announces car updates"
+    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-27T14:37:00Z
+    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
+    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
     excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
     publishedDateTime: 2019-11-27T17:21:00Z
@@ -35,21 +46,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the company blog announcing the updates. For starters, there is a new car called DeepRacer Evo that ..."
-    publishedDateTime: 2019-11-27T14:48:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
-    ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
-    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F25361CC4FFA9FC9A9C1E2346007B1CB
-        width: 700
-        height: 554
   - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
     excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
     publishedDateTime: 2019-11-27T09:30:00Z
@@ -73,6 +69,6 @@ related:
       domain: msn.com
     quality: 34
 
-secured: "BWhxYloORkmFUxDtefg5XLnVxNidViSYPR4DIs8IKKq6Vdm1ooMKnwhVW/J4MhWCah0mYbRGIpHIayb7d2aszKHI+vi3yCxICX1FHWfZ4WckkQHRlREToeZqHH4Xsi9Br2Yi6gXMGhv4Mz2N78+dm1EqwHlg+cbQ46d9ODisgPdEO+SE3XXj78HpZn8l23nMlXBP94dCzxYL0vNHxoYnZjPcBcw3/gNSynUgTnf1lZQ7Qcp3oAYYC0nKRXrOZGijvtKSF7djlihswPTU0EIRew==;c1yICts/lnDBe84idYfz9Q=="
+secured: "i9elnN33AN6uZGbhDrhwqwa2W2k8WTpImEAMnAwWQF3qU39wUTE6mPbXEOO3a81+BEhYv8mKh2UbSmkhgQncUn7ucWJkkjJQYzco7CDSDCE3QNnhIQ9gdYsNXpIRJqberx0pOSRyavLHEiMV41eWxZ7fDwMQ4IvbQR6pdUbOaw677mhQ1DynVKcGrmvH+8bZBLQtm09U8gZC/Qd8ZP8i5JflEpzg2v2rgL9rpuon466+CX86J0wYkKGU1+y0Q/4WeoDM/MHwIdz2+l+NJOOFTw==;97l3eFSypuPsAGTF3kSnew=="
 ---
 

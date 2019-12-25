@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T21:02:00Z
 sourceUrl: https://www.businessinsider.com/intelligence/winning-strategies-for-ai-in-banking
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
         width: 700
         height: 366
+  - title: "How AI is Revolutionizing the Banking Sector"
+    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
+    publishedDateTime: 2019-12-24T09:32:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
+        width: 300
+        height: 300
 
 secured: "My5Jk7/on3uBavzo0lVg9OkfHihZqwUK51O6baIs/MR0cm+KAgAqg59k2oR+nOeRD5yQQhEhz15BUR6b+66g/kOCVVshBLHxUH3wmBoRCb2QuWlisFvGQQkfVQdzg6+dVSTl+Gfd26s3ns/gxUgwkPmve4xjj+hva9BZ+BUM/C5aOFZsJRoj+iidA/kYFlRp8LGlAovG1LYcTjdpBTShTYEcIk0z6D0oXvbZLi/I9obae5tS7nQS/nzVblSHc28kjtnNbZpKu91FXXF+EvJBuA==;PDsW9FnvjDTHg5f3dOfZsQ=="
 ---

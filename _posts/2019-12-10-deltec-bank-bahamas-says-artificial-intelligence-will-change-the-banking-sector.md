@@ -63,6 +63,15 @@ related:
       - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
         width: 700
         height: 447
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
 
 secured: "SBCH2tE5U9ujH7QHBsedD/5RjBtY01h5r4mX1bsX9eowe8rY0XmXHiPg+MBZnVeSSwEYaDDzrwptkueqzFcLXVhRHGY9JUaUCfuC6u8/ZAb8fs27bya8aPCp+hB13vd8FeXi5luYXgrHD/tEPbxrfYg6p2bzWfslhkFFH275RENBEbGNWoUCvUdZeBmnDo/yjgBYVMoBW+Zt+3MpJxnTQQso6Vjx0SvE4rY2zy64VEKOscQ64/q8OqrYrM3wK8p+Prb4u40kt18xw6/3K0P5Dw==;9IUo0lIbYWgL4yMqcgnrmg=="
 ---

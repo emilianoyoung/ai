@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
         width: 700
         height: 393
-  - title: "Google wants people with Down syndrome to record themselves speaking to help train its AI to recognize unique speech patterns"
-    excerpt: "Voice technology has historically struggled to understand people with unique speech patterns, like those with Down syndrome."
-    publishedDateTime: 2019-12-05T17:04:40Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/google-wants-people-with-down-syndrome-to-record-themselves-speaking-to-help-train-its-ai-to-recognize-unique-speech-patterns/ar-BBXO3rt
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 12
-    images:
-      - url: https://www.bing.com/th?id=ON.2F124284393207F8E7CE9092BCA112AB
-        width: 700
-        height: 350
   - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
     excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
     publishedDateTime: 2019-12-05T23:58:00Z

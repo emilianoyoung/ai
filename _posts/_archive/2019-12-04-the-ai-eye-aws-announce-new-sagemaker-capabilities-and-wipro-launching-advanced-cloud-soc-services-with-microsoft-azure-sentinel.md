@@ -80,6 +80,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "ccAL6d3Ga9uC7DnGvFEZaP3VX4MLW37HsLCnft7lBjWfk5c968Nf7NuAiqwo/IGmfQjbVbuAcYtdOQQGz+zrFqdSiy/12jfSChdfFvaddiAv7J+WHgmy9mMs7r+6SJV+B6diw8fcRP/uekk0z7jb/HEilc3atPa/PUbcD5xDisGY7UwKolW43ygBa3quoe0XypiGZZF+2DZil7kA6oq4moZT4LfXN3Xag5f7/0Uq272kRsF/17KNa/Vd7ckS94PLTKI9wCgsg+7U7CBiuD3Wgg==;uhbfrEjUf3vLCHsBWfvHzw=="
+secured: "1/zI5OAyzUXz3xMn3tkgMvK8rduyPNnSwK0RaXYPwt5JT1FxXUQFWoq4gGFttU91EYxuUAZHnyOFwP+1LAWsSnS3iDUJENJO93VNyYJiV1Yiz5Qi86Q7g7NgfxX7U2biAZp6rluxvyVogq6IUzumTAJHj+nxTpoVboE+qhFABlpFIY+vxYN0pEAzcfA0KssaMYZxbxqq6ffMVz3x4GMPJdI/wyu+pF+YJhAb0mQ4fFHW42RP7zbxi+gPOglRtuizAI/UYmRz6jRXdkXloK6eHA==;oWXl+MBab/jx19XEVmkzgA=="
 ---
 

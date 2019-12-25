@@ -37,19 +37,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Enterprise Artificial Intelligence Market 2019 Registering a Strong Growth by 2025"
-    excerpt: "Dec 13, 2019 (Xherald via COMTEX) -- Global \"Enterprise Artificial Intelligence Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the ..."
-    publishedDateTime: 2019-12-13T19:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2019-registering-a-strong-growth-by-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
     excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
     publishedDateTime: 2019-12-17T13:22:00Z
@@ -76,19 +63,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-    publishedDateTime: 2019-12-10T19:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-        width: 400
-        height: 137
   - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
     excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
     publishedDateTime: 2019-12-18T11:01:00Z

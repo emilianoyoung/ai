@@ -91,6 +91,21 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
+  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    publishedDateTime: 2019-12-03T09:16:00Z
+    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
+    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
+        width: 700
+        height: 466
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
     publishedDateTime: 2019-12-06T00:00:00Z
@@ -105,6 +120,6 @@ related:
         width: 800
         height: 500
 
-secured: "NRgYUSY3aRK+sQ7WTUHsEjbxsMs/l+DpzoeTRNpi/BtHcLZ3IkDTwx0LuSizrMs1FJp2znyDfHaZCzYyB3KHxZBDjG7/qcl8eHdgQ32QH/QO4kzsPhdrI2t/Ff/SAm/ZBj5yZ76NC5TH1HlR5l7fC8PUSr9uBTERgvrNgMI5LM5NaWBht+pXho9z+Uof1t9qZnTZTH+PdRqZarxClFg4I0aBbUXFw0xCYdJMuc2stnAZxSsLWt9dAT5RDOZlF8uvD8K02rVKK7EreKY7aCzeeg==;1hA1dbZ7cEorijctZDrcYw=="
+secured: "OHkwg52+1kfmCkhrztZQZ9cSrHjRP3evNXT6Ni7PjY14OsZ5rbJpSGGTCJZEINp0wWIWrD/LLZVDReNTCdgPFb4NeAeOQjcsguuTzZJIxdvN36LfdNQE5eor0+l5O2jt+aM2nGWswrmgvstoWBKkXjp97icEQxxTbddL/D+qbovTD1dcF7eFPddDi0Ku5IbA5MffrZvPZujnBF+qCkY9w2PlevdnZ4WBZSny7PZ5U/MhhvZB5jPjSpz4gu1H3Ta/cCZhQ3IG1+rWEOjvEL6tow==;ePWBEgjPwPe8cAMiEfJGTA=="
 ---
 

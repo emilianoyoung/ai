@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.72E1DFFFF577D41200861D62B68B25A4
         width: 700
         height: 367
-  - title: "Waymo's new iPhone app lets some users order self-driving taxis"
-    excerpt: "It's been one year since the self-driving taxi service opened for public (but still very limited) rides in a geofenced part of the Phoenix area. Its fleet of Chrysler Pacifica minivans and other autonomous vehicles just hit more than 100,000 rides. To celebrate, Waymo One is now on the App Store, available for download for any iPhone user."
-    publishedDateTime: 2019-12-05T18:00:00Z
-    sourceUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary/
-    ampUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
-        width: 700
-        height: 367
   - title: "Waymo One marks self-driving service’s first anniversary with iOS app"
     excerpt: "One year ago, Waymo launched a public self-driving ride service in Phoenix, Arizona. To mark that anniversary, Waymo One is getting an iOS app, while the Alphabet division shared usage details for the Lyft/Uber competitor. The app for calling autonomous Chrysler Pacifica minivans is pretty standard and has a layout similar to Lyft and Uber."
     publishedDateTime: 2019-12-05T18:07:00Z

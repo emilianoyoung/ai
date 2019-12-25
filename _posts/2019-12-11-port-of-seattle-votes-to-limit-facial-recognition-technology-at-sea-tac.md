@@ -97,21 +97,6 @@ related:
       - url: http://www.dawn.com/_img/social-default.jpg
         width: 375
         height: 375
-  - title: "Senators defend bipartisan bill on facial recognition as cities crack down"
-    excerpt: "“The obvious civil liberties concerns that Americans have and what it provides to law enforcement.” The two senators, both members of the powerful Judiciary Committee, introduced the Facial Recognition Technology Warrant Act last month in a rare show of bipartisan interest in addressing the controversial technology. The bill would limit ..."
-    publishedDateTime: 2019-12-05T17:55:00Z
-    sourceUrl: https://thehill.com/policy/technology/473222-senators-defend-bipartisan-bill-on-facial-recognition-as-cities-crack-down
-    ampUrl: https://thehill.com/policy/technology/473222-senators-defend-bipartisan-bill-on-facial-recognition-as-cities-crack-down?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/473222-senators-defend-bipartisan-bill-on-facial-recognition-as-cities-crack-down?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.A9014920D53CC8285F6D1B5154D835D1
-        width: 700
-        height: 393
   - title: "Facial recognition to monitor sanitary workers in Andhra's Ongole district"
     excerpt: "ONGOLE: As per the directives of the State government, the Ongole Municipal Corporation (OMC) authorities are planning to monitor the activities of sanitation staff via facial recognition using CCTV cameras installed across the city. At present, all municipal bodies in the district including OMC use biometric thumb impression system for ..."
     publishedDateTime: 2019-12-08T05:04:00Z

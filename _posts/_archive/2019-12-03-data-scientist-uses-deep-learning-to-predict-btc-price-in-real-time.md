@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://cointelegraph.com/assets/img/share.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
+    width: 700
+    height: 466
     title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
 
 related:
@@ -41,8 +41,32 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    publishedDateTime: 2019-12-05T11:03:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    publishedDateTime: 2019-12-04T20:48:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
+        width: 700
+        height: 335
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -69,20 +93,33 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ML more expansively. Launched in 2017, there have been numerous features and capabilities ..."
-    publishedDateTime: 2019-12-04T09:38:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    publishedDateTime: 2019-12-03T18:23:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: YAHOO!
+      domain: yahoo.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.3EEAE00C803847411B5E000CCF2AD641
+      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
+    publishedDateTime: 2019-12-06T00:00:00Z
+    sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
+        width: 800
+        height: 500
 
-secured: "7Sz3xPeKmux1YJc8ead6HzRzQ0zAWIY3duRWmgHG8nV43kBP8Cq8+0MIi4csSILDHBunggyt5DEIDq4igsVZhhrbwKcwIxfoEJgfHYTwA3C+Cg+yg4pNjdi575IUV4norKVLnERi5EnjDEdppafUD6nCtdfhQTtILg0wPTaq9EMJgeCdwBSR3a/TXFJV4U3LVX4dgLjO9YpkxU4x3fNV1gRmjFNEs52NUSbkeBkinn8YlRqRXh3e0roE/5ZKopkKWvi6bZzHGWbnPYUU+4+hag==;A1zhl5rC08Nwfjkb0EFbNA=="
+secured: "6ghiVW0ZXLH+2i7Nw/RfftgERl9NlIJWf5ItX3U9LCDiB6u4FxwbLHP8X4uob3gg/RVmCEEDWwzqMArC5uhlyFQWBV5H29qtrrAP1X1bu495lyoCTWnvnQR5DKfZDuVdSv4cNQ/VYcVCeSDvZDwMJfcS8R6E41B2ek4YUhV/yvmIUejBiulVfNG98dqnGHfCSBsmNxjEgwI3orMTKj6XmGgkJ0UQMhdvN0Hh/iTJPHU7It7Ut18tFXXA8sRL9vFua0IqeVBQN1GfailXeDO06A==;gTdsG5N1Ob6s6a9JGAvU1Q=="
 ---
 

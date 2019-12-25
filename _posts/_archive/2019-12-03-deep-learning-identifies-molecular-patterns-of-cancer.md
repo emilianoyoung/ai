@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.am
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     title: "Deep learning identifies molecular patterns of cancer"
 
 related:
+  - title: "Deep learning identifies molecular patterns of cancer"
+    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
+    publishedDateTime: 2019-12-02T19:47:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Imaging technique and machine learning may provide accurate diagnosis of colorectal cancer"
     excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method's accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report using this ..."
     publishedDateTime: 2019-12-05T20:51:00Z
@@ -55,6 +64,6 @@ related:
         width: 700
         height: 367
 
-secured: "qHaAZDoBd84RukuGWs9tZiPSFFdPXIMg8NGkvOzl6Vhqj48rx+Xsmkvhn9JDSVqk5GNSeezJdUWadUIg0DwDmWekCzPc4Vl3e5hp3CXyzNB95i5x/djf1FoJXhchdWMfZzc+CbkGVr9UJZd3ktciIGiqdzTkq8WMnaE32ruw53HAntFTiDPbgnlddAkWwZ1fiCY1LM0j/oGPvRzIgenr5TTNGneQP7r6veolUcheHIRr+ji3LDrfjhILK8NYxuqqWtKcnNzk7BKcS3tgyYVcUA==;1YnIqzW0gPzMZ+zOexM8uw=="
+secured: "0utUGmOyPKNUuWE58dIvnJZ4QA5zxxxNU0C8jA3led4eztNOfCt7tKhSaxAuDxgFTgEz6lIRjGKZ9jHNXNRNWYBjvdicUtQZCRAvKLo+qhp7LeeulvPGIayNhHhKJQZ25h00Rk67DClsGwRh4T9mQWdnIcwVPxptzDORpL6LxQxU0AUf5A05thLmSzj0x8235luUpcjkRQQvMGwmi1MSfRnHmmSGKC3/mqrD9pA/uLi9Yb7kYcR8Lv2gB8LsvpoFrB06i7H3M1reHYx7SJ9k9Q==;2rQkrpBK95MVd8DeanwK9A=="
 ---
 

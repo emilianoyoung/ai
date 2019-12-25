@@ -82,6 +82,21 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
+  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    publishedDateTime: 2019-12-03T09:16:00Z
+    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
+    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
+        width: 700
+        height: 466
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
     publishedDateTime: 2019-12-03T18:23:00Z
@@ -109,6 +124,6 @@ related:
         width: 800
         height: 500
 
-secured: "2vVEGzK3bMvCtXipqzAUElXUjTg7VjIqqUFaeSXcDa3CKbvcfp8gkMQGPLOFTKFCvNCoIT6oEkQTXBzCejTj4dpjHIF9VRhJQAsTvIPFTqGj2GcM/X+aXCSQ1ccSETA/CJfhge59wM/buwzZOjqn6r2HHk2kdNzhj3neyFAUpTxEiZ1RnnV7VtwH199b38nLJipP6fI7oIvE1HfuRuNOJQGLnK348bB5eWHLP4vtLp7LIcAp6xwneu4t/rHzApxVt2d6FqHUzWo8isPEd5p0xA==;6ffIq8CSrlTyqeQGEianLg=="
+secured: "PWGrfwOjIp63omYGf/sgXNWZJI8cmFZadTSaAEQ6Poudvx+dmiiIdytEdAQg0qKuyb8ml+5ds5IU54Wfvn2CLv3E3l7U1A+gsyjFSItCu9iqKrhAfuLDuYu6z21w8jaw2xYROFHFZzfBc1LOEBK2U6SlLp4SCmjghjFDe0oRuxMZkcSY4UzG6EvurUFNA9GfBOHHH8fgwNoXIUg7eT7ggOqcRDhkSBvX5yG4PkRVCkYl7QxYaYg98g2xgTCcoBZX/r9dLL9SEvWXNlRB8mkqdw==;VnRTMc9hERKJFuZJNhKKMg=="
 ---
 

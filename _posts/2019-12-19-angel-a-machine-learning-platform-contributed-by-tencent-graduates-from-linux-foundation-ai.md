@@ -2,27 +2,21 @@
 category: news
 title: "Angel, a Machine Learning Platform Contributed by Tencent, Graduates from Linux Foundation AI"
 excerpt: "SHENZHEN, China, Dec. 19, 2019 /PRNewswire/ -- Angel, an artificial Intelligence project contributed by Tencent, successfully graduated from LF AI on December 19 th after evolving from a pure model training platform to a full-stack machine learning platform, an umbrella foundation of the Linux Foundation said in a statement released on Thursday."
-publishedDateTime: 2019-12-19T16:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/angel-a-machine-learning-platform-contributed-by-tencent-graduates-from-linux-foundation-ai-300977765.html
+publishedDateTime: 2019-12-19T17:25:00Z
+sourceUrl: https://finance.yahoo.com/news/angel-machine-learning-platform-contributed-170000770.html
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Angel, a Machine Learning Platform Contributed by Tencent, Graduates from Linux Foundation AI"
-
-secured: "mHio5fIDyl6DeVAsn21ubYwKJ+ZLdSCGZmzHPl8Z1f/nOhoXOM/tLAYfy8G646DGpESI5Ni+SacUUid+zLYiimyWy99GQ3VqaGYKXBUhQEZ7ImHMbx+/XFVTrzK3cbNBJXk/Xz5GsfHBsu9odPUJkZIPRGRn7fjT95cX+M0zV3P0opAbxDeYtGHZn+5k7TQhz9Voz6IrnsJAUsqAJ2zAWSltI1N9JafDEJVxUasxaOxdTDaLAFovr0mu/2ROKwquwSnLQNHNyCkBYXDFhpQkSA==;ZGDa2Sh/E+s/VgJzJKXlyQ=="
+secured: "adNWCoMwX1ELbIsbKto/FiyMxAdM/t0ITHVPmEdVfTXFl6pPxAwhAUSDPgUM2T+uDwmK9YXCH7poVZnusm89zCwPjV2wu9fNZsj6gNcIhZsRBDG3/hYjEcaKeGHpqBdf8YpJjcceJHohcKqj40nGe/bDfhHpchWRsADZ+od8T2cK+zli3cLJpS5EChTZxkGkd3tpSUPit67nWRbKrgYhkIcQetKUZuUBmDwiizvZ8a9FcQEtjtbM5hE9JFRqf3j8y+lFUtjm42cWvPcNJTT+jw==;0Mf+WnOM2LnI7x6/Dos+ww=="
 ---
 

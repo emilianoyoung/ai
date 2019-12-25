@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-se
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
 type: article
 quality: 101
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Waymo One self-driving ride-hailing service plans public expansion next year"
 
 related:
-  - title: "Waymo's new iPhone app lets some users order self-driving taxis"
-    excerpt: "It's been one year since the self-driving taxi service opened for public (but still very limited) rides in a geofenced part of the Phoenix area. Its fleet of Chrysler Pacifica minivans and other autonomous vehicles just hit more than 100,000 rides. To celebrate, Waymo One is now on the App Store, available for download for any iPhone user."
-    publishedDateTime: 2019-12-05T18:00:00Z
-    sourceUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary/
-    ampUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
-        width: 700
-        height: 367
   - title: "Waymo launches an iOS app for its self-driving taxi service"
     excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
     publishedDateTime: 2019-12-05T23:30:00Z

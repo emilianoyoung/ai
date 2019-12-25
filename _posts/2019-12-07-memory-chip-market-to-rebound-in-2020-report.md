@@ -8,7 +8,7 @@ ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/memory-chip-market
 cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,17 @@ related:
       - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
         width: 700
         height: 700
+  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
+    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
+    publishedDateTime: 2019-12-14T00:10:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "do7kRlt+fybOnbs7OMH0G86Me3ze6+s723VCWIf+KDNiTZqYhBvgTdnH5VVs1Fg/02fGVNuRQc9DuE57hTI9AOyfBPA+yHDMrpkdYKY0+KbYkprRSTwlL+2F2XqN2HcRfKjKC/utVcgNLCJKBjNsMnS1j0azp8ofyhNio7Wxc8BXoAfQQttC4HUMnWSiapNryrNxtcOdfolgoV5tyd0rKJWVXWUEeB5VGNL9Cgcbag1XEGxYoORQCtH9uJ1zh6Q25+YV97cHeCH0wyFC5K+S7w==;84AFvysQ/YQM4lxoE6YRhw=="
 ---

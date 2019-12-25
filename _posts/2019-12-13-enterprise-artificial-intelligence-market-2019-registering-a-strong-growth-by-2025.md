@@ -27,98 +27,45 @@ images:
     title: "Enterprise Artificial Intelligence Market 2019 Registering a Strong Growth by 2025"
 
 related:
-  - title: "Deep Learning Market 2023|Industry Size, Share, Revenue Growth, Development"
-    excerpt: "Dec 13, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 Market analysis Global deep learning market is relied upon ..."
-    publishedDateTime: 2019-12-13T11:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2023industry-size-share-revenue-growth-development-2019-12-13
+  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
+    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
+    publishedDateTime: 2019-12-17T07:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
-    publishedDateTime: 2019-12-17T13:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
+  - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
+    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
+    publishedDateTime: 2019-12-17T09:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-to-witness-a-healthy-growth-during-2017-2027-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 54
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Assistant Market Size Overview, Share, Scope, Revenue, Trends, Drivers, Challenges 2023"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Voice Assistant Market, By Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition), Application (Messenger Bots, Websites, Contact Centers) and End User (Individual Users, SMEs, Large Enterprises) - Forecast 2023 Market Analysis For performing a range of various tasks, the voice assistant ..."
-    publishedDateTime: 2019-12-17T12:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-assistant-market-size-overview-share-scope-revenue-trends-drivers-challenges-2023-2019-12-17
+  - title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "Top Companies in the Global Artificial Intelligence in Accounting Market: Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP (US), UiPath (US), Kore.ai (US), AppZen (US), YayPay (US), IBM (US), Google (US), EY (UK), Deloitte (US), PwC (UK), KPMG (Netherlands), SMACC (Germany), OneUp (US), Vic.ai (US), Hyper Anna ..."
+    publishedDateTime: 2019-12-16T13:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 47
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-    publishedDateTime: 2019-12-10T19:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-        width: 400
-        height: 137
-  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
-    excerpt: "Reduction in traffic congestion due to improved safety and increase in connected infrastructure have boosted the growth of the global self-driving bus market. PORTLAND, Oregon, Dec. 13, 2019 /PRNewswire/ -- Allied Market Research recently published a report, titled, \"Self-Driving Bus Market by Level of Automation (Level 3, Level 4, and Level 5 ..."
-    publishedDateTime: 2019-12-14T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/self-driving-bus-market-reach-133000298.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
-        width: 400
-        height: 400
-  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
-    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
-    publishedDateTime: 2019-12-18T11:01:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 1
-  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
-    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
-    publishedDateTime: 2019-12-17T13:21:00Z
-    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
-    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "505LrB5EBRPUwvqQU1yshdbTq9tk96cGQdoBLv1+VchrDz91MBY+xAH9eX3dEFBIR5UdFrCkZR4YEQYcSt1yw3/fVZChiMx/jX/QFZ5JRd3QfBzxSFPWYQr3lvl90f7XcnW2oesAUk7rOg4TMRXVvTosJxouIB5w/JVhew4XyLdDi74BcPYwnq0rmJa7lT/NDl5J7atneEhCwnrztOIJLUHdXftxMpim7ceFdH9VOikfxCK8KpxCQmMi7gUXIs2kHmo+dOeovDZGVc1rIfb83g==;0pauTJfUja7ySzvEvJorNw=="
 ---

@@ -1,29 +1,42 @@
 ---
 category: news
 title: "Deep learning identifies molecular patterns of cancer"
-excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
-publishedDateTime: 2019-12-02T16:55:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/mdcf-dli120219.php
+excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
+publishedDateTime: 2019-12-02T19:47:00Z
+sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://www.eurekalert.org/multimedia/pub/web/218398_web.jpg
-    width: 1440
-    height: 900
-    title: "Deep learning identifies molecular patterns of cancer"
-
 related:
+  - title: "Deep learning identifies molecular patterns of cancer"
+    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
+    publishedDateTime: 2019-12-03T12:41:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
+    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
+        width: 1920
+        height: 960
   - title: "Imaging technique and machine learning may provide accurate diagnosis of colorectal cancer"
     excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method's accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report using this ..."
     publishedDateTime: 2019-12-05T20:51:00Z
@@ -39,32 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1B9FF573E76A9C08206C719AEF144FBD
         width: 620
         height: 480
-  - title: "Machine learning, imaging technique may boost colon cancer diagnosis"
-    excerpt: "Using deep learning, a type of machine learning, researchers used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method's accuracy. Compared with pathology reports, they were able to identify tumors with 100 percent accuracy in this pilot study. This is the first report using ..."
-    publishedDateTime: 2019-12-05T14:23:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-machine-imaging-technique-boost-colon.html
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1BF0E6156980CB40F39AD3A9CB0B806D
-        width: 700
-        height: 466
-  - title: "Colon Cancer Diagnosis Improved with Machine Learning Approach"
-    excerpt: "Using deep learning, a type of machine learning, the team used the technique on more than 26,000 individual frames of imaging data from colorectal tissue samples to determine the method’s accuracy. Compared with pathology reports, they were able to identify tumors with 100% accuracy in this pilot study. This is the first report (“Real-time ..."
-    publishedDateTime: 2019-12-06T13:19:00Z
-    sourceUrl: https://www.genengnews.com/news/colon-cancer-diagnosis-improved-with-machine-learning-approach/
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.97D82C94774429217496A98861EFE52D
-        width: 650
-        height: 508
   - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
     excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical coherence tomography (OCT) system that automates image processing and identified tumors with ..."
     publishedDateTime: 2019-12-06T04:03:00Z
@@ -78,18 +65,7 @@ related:
       - url: https://www.bing.com/th?id=ON.14F902C26C0B219B3C401AB2C0CE2F4D
         width: 700
         height: 367
-  - title: "Mechanisms of Ferroelectric Switching Identified by Neural Network Technique"
-    excerpt: "Agar and his colleagues have developed an artificial intelligence (AI) technique that uses deep neural networks to learn from the massive amounts of data generated by their experiments and extract useful information. Applying this method he and his team ..."
-    publishedDateTime: 2019-12-06T07:01:00Z
-    sourceUrl: https://scitechdaily.com/mechanisms-of-ferroelectric-switching-identified-by-neural-network-technique/
-    ampUrl: https://scitechdaily.com/mechanisms-of-ferroelectric-switching-identified-by-neural-network-technique/amp/
-    cdnAmpUrl: https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mechanisms-of-ferroelectric-switching-identified-by-neural-network-technique/amp/
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 36
 
-secured: "DuyVpVk7SfaW0w/rTO5hTZCWRgqs8k9fVKXZMSuKvsYHfUYEnZ73vwKjR5MYPF4DxroPCiIdoZRBAnCj3ieDQc5z9Lp3mGPItGEm697HVmx0+Hbidufqrfz6d5rXfRnoGcU5/Exgu8lrbw2g4BxEFb8EyWf1WAVVPeYCo62cDYqAbIP44bkP7PtqObxpOW8ePsYFeL7ICTI8n2ePRxd/nTXmjAFhaDM13fCPrVdgtePIVGV+B/Aq6yZrT/booD6Ihf2LklPTSApZQkUiWrKP1A==;qQojYHYAWvBkxjRWwv8Qmw=="
+secured: "RxUe+lV7HAoSQoI5FUkrmcDiv1vgsusvMoD+u9zI98oJBY5wo1HD3DxfZ1OxwuTJHHX2fww0vXfc3bxFGV2Bz289LDj4PtfQdjgzfQQ5E0P5FmoU/f2+FjTyiRG+8MjP0KcR2rhnEoCUoxS+F22NKwzrpHTYJZtc78G5HfIS5J7p9GNVUkLUyDzipaPhAJvPvieAKoQrZnpzfX0JG2lHp1mA8Bhud5JAtKssjRf1Cv+EuBlcT3P2T47G7tRhwPYou7lIJWbISN4vtyrjBQYiLQ==;iu+vkA48jjwMTrgiUCchCg=="
 ---
 

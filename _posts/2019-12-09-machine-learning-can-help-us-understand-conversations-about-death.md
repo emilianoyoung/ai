@@ -84,6 +84,15 @@ related:
       - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
         width: 620
         height: 480
+  - title: "Machine learning can help us understand conversations about death"
+    excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
+    publishedDateTime: 2019-12-10T14:41:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209102028.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 51
   - title: "Apple attending NeurIPS 2019 in Canada on Sunday and Delivering a Presentation Titled 'Private Federated Learning'"
     excerpt: "machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day. Apple will be making a presentation on Sunday as noted below. Abstract: Federated Learning is a new approach that is picking up steam in the machine learning community as a way to improve global models in the cloud by ..."
     publishedDateTime: 2019-12-05T19:06:00Z

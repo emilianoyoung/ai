@@ -44,30 +44,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
-    excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
-    publishedDateTime: 2019-12-14T12:50:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14992513/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-33-6-from-2019-to-2025-gr
-    ampUrl: https://amp.benzinga.com/amp/content/14992513
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
-        width: 600
-        height: 300
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-18T17:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
     excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
     publishedDateTime: 2019-12-20T12:08:00Z
@@ -77,15 +53,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-19T00:47:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "FcR/WCkl9dGH1xHBXC0vbpFTqT5Zq5HLYvAKNi93QaqjGMwRijaV2qlWvCXt0jjgExMmyiHD9vuSXCYqmjTh06LffX2rGSNeom5I03x0dxumQAILbG7xpRhtiSliLzira5Qw/O/WM4Tx6a3z8QrqJVSMCluvjsRcp9Jbp/g2lJcgOb/YO17wyS7//glJ8BXmx3t9ntgStPhm3gecR4CIR6rA1RHb51XMrW5sgVLFc2ganurdQHhQv49xrfoRqLDRcFQI0XSPMRTyxa1JkGYmWA==;JwXsM8NDuSzlN5EYqI6I3Q=="
 ---

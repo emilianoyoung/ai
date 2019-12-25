@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9C2202FD1628604BF67BA0B698DAC65E
         width: 700
         height: 341
-  - title: "Will Waymo Win The Autonomous Vehicles Race?"
-    excerpt: "on Twitter Share Will Waymo Win The Autonomous Vehicles Race? on LinkedIn Share Will Waymo Win The Autonomous Vehicles Race? via Email We look at how Alphabet's autonomous driving unit uses artificial intelligence and how it stands to impact the auto value chain. Alphabet subsidiary Waymo, one of the first corporate autonomous vehicle projects ..."
-    publishedDateTime: 2019-12-05T17:31:00Z
-    sourceUrl: https://www.cbinsights.com/research/alphabet-artificial-intelligence-waymo/
-    type: article
-    provider:
-      name: CB Insights
-      domain: cbinsights.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A0EB2E1EF4DC4F24F4432894D01D4A55
-        width: 572
-        height: 364
   - title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
     excerpt: "WekaFS was architected to leverage the benefits of NVMe flash technology, delivering high-performance, high-bandwidth, and low-latency storage infrastructure to meet the demands of today’s GPU-enabled AI and HPC workloads in the data center and in the cloud. WekaFS is the world’s fastest and most scalable file system for AI systems ..."
     publishedDateTime: 2019-12-11T16:20:00Z

@@ -91,6 +91,21 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
+  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    publishedDateTime: 2019-12-03T09:16:00Z
+    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
+    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
+        width: 700
+        height: 466
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
     publishedDateTime: 2019-12-03T18:23:00Z

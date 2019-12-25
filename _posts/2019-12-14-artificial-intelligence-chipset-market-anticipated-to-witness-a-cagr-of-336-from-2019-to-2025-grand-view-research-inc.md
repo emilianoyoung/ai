@@ -25,10 +25,101 @@ images:
     title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
 
 related:
-  - title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
-    excerpt: "Inception of exponential technologies such as sensors, robotics, virtual reality, and artificial intelligence in the retail industry has enabled the retailers to enhance their interactions with consumers and transformed the way retail operations were performed. This change in the industry is prominently driven by the seismic shift in the ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
+  - title: "Artificial Intelligence (AI) Chipset Market Technology Advancement and Business Outlook 2019"
+    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients operating in several regions."
+    publishedDateTime: 2019-12-11T06:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-advancement-and-business-outlook-2019-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
+    excerpt: "Facebook can now identify and map 98% of its images correctly to the ... in Asia-Pacific. Singapores National Research Foundation has invested about USD 107.64 million in the AI. SG initiative, to uplift the artificial intelligence technology. Artificial intelligence offers the region massive opportunities for growth, innovation, and ..."
+    publishedDateTime: 2019-12-13T03:24:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Law Market 2019 Global Analysis and Outlook :AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM"
+    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Law market research report from Reports Value consolidates the most important industry information while highlighting essential and valuable data. A report on the global Artificial Intelligence In Law market has come out incorporating its research and analysis."
+    publishedDateTime: 2019-12-06T05:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2019-global-analysis-and-outlook-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm-2019-12-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
+    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
+    publishedDateTime: 2019-12-16T06:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Life Sciences Market Disclosing Latest Advancement 2019 to 2024"
+    excerpt: "Additionally, as of March 2018, the company has entered a partnership with IBM to make use of IBMs AI platform, IBM-Watson, to improve clinical trial recruitment, and make use of intelligent AI algorithms to predict medication efficacy. Such initiatives are encouraging many companies to invest in AI solutions tailor-made for clinical trials."
+    publishedDateTime: 2019-12-13T04:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-disclosing-latest-advancement-2019-to-2024-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning Chipset Market Overview, Scope and Technology Advancement Outlook till 2025"
+    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Deep Learning Chipset Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2026 Deep Learning Chipset Market report contains a forecast of the next 5 years, starting 2019 and ending 2026 with a host of metrics like supply-demand ratio, Deep Learning Chipset market frequency ..."
+    publishedDateTime: 2019-12-17T10:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-overview-scope-and-technology-advancement-outlook-till-2025-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural language processing (NLP) Market Technology Growth and Development Strategies 2019"
+    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- Global Natural Language Processing (NLP) Market Size, Status And Forecast 2019-2025 studies the latest industry trends, market development aspects, market gains, and industry scenario during the forecast period. The report provides the details related to fundamental overview, development ..."
+    publishedDateTime: 2019-12-11T10:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-technology-growth-and-development-strategies-2019-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Advisory Service Market 2019 Business Scenario - IBM, SAP, Google, Amazon, Salesforce, Intel, Baidu"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Advisory Service Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Advisory Service Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes ..."
+    publishedDateTime: 2019-12-14T08:10:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-advisory-service-market-2019-business-scenario---ibm-sap-google-amazon-salesforce-intel-baidu-2019-12-14
     type: article
     provider:
       name: MarketWatch
@@ -38,54 +129,94 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
-    publishedDateTime: 2019-12-17T11:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
+  - title: "Artificial Intelligence Platforms Market Outlook What Changes Can Bring Big Development Impact"
+    excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- The Latest research study released by HTF MI \"Global Artificial Intelligence Platforms Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development, landscape, technologies, drivers ..."
+    publishedDateTime: 2019-12-17T17:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-outlook-what-changes-can-bring-big-development-impact-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-18T17:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
+  - title: "Artificial Intelligence Chips Market Overview, Scope and Technology Advancement Outlook 2019 to 2025"
+    excerpt: "Dec 07, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence Chips Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Artificial ..."
+    publishedDateTime: 2019-12-07T08:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-overview-scope-and-technology-advancement-outlook-2019-to-2025-2019-12-07
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
-  - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
-    excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
-    publishedDateTime: 2019-12-20T12:08:00Z
-    sourceUrl: https://www.openpr.com/news/1882281/ai-in-education-market-projected-to-reach-3-683-5-million
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning Chipset Market Still Has Room to Grow | Emerging Players NVIDIA, Intel, IBM, Qualcomm, CEVA"
+    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Deep Learning Chipset Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors, attentive opinions ..."
+    publishedDateTime: 2019-12-16T09:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-still-has-room-to-grow-emerging-players-nvidia-intel-ibm-qualcomm-ceva-2019-12-16
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
-  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
-    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
-    publishedDateTime: 2019-12-19T14:18:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Entertainment Robots Market 2019 – 2023: Key Finding, Business Trends, Regional Analysis, Size, Share and Industry Profit Growth"
+    excerpt: "For example, the entertainment sector has used artificial intelligence (AI) extensively in children’s toys. The market’s main focus in on the end-users that make high demand for entertainment robots, such as children and geriatric population. This could benefit the entertainment robots market to a great extent during the review period."
+    publishedDateTime: 2019-12-11T05:05:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14969010/entertainment-robots-market-2019-2023-key-finding-business-trends-regional-analysis-size-share-an
+    ampUrl: https://amp.benzinga.com/amp/content/14969010
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14969010
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-19T00:47:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.ED902756560EB4DBEA45FF5F7214A5BA
+        width: 700
+        height: 401
+  - title: "Data Science And Machine Learning Service Market Survey Report by Recent Developments and Professional Outlook till 2025"
+    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The Data Science And Machine Learning Service Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Data Science And Machine Learning Service Market report is a ..."
+    publishedDateTime: 2019-12-11T14:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-survey-report-by-recent-developments-and-professional-outlook-till-2025-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
+    publishedDateTime: 2019-12-10T19:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
+        width: 400
+        height: 137
+  - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
+    publishedDateTime: 2019-12-09T11:45:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36773/enterprise-artificial-intelligence-ai-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
     quality: 0
 
 secured: "5CKVMN/QWkdw3vF6WprOMJm7NJTrDhbx0NP71RWFjgU/6ENZ+Ka0ZpNKM5CzcWTnsxgpkjLX2TRGThj5CYYkFkt9SIbzgx9hUGNEYDwpBIwpWttJCi/eFiLctr95Y4OoI8V0elcRa9gMEkyR7nOWmwQ+xnvSyopzn3s87QaERJo4VMTwzrq0XGe2YARduLuY2WDrJNUdQ+0AQhIvfkFwBVuWtXohNeBB371USf0yD3BsQ/ZJ+hmCM7LUWCL+YevjaseI125MRHjCzwqUE0dDLA==;aQlCk+Md1Xfr4Sa+CVqoCg=="

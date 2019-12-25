@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T19:43:00Z
 sourceUrl: https://finance.yahoo.com/news/confirmit-announces-ai-driven-digital-140300579.html
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,32 +23,32 @@ images:
     title: "Confirmit announces AI-driven digital experience solutions"
 
 related:
-  - title: "KPMG reinforces the importance of customer experience and artificial intelligence"
-    excerpt: "KPMG in Nigeria launches a publication titled ‘AI-Powered Transformation’ to reinforce customer experience and artificial intelligence at its 2019 Digital Summit in Lagos The KPMG Digital Summit 2019 is part of series of events by KPMG to provide insights to organisations on how to leverage digital to create transformational value ..."
-    publishedDateTime: 2019-12-06T14:20:00Z
-    sourceUrl: https://www.pulse.com.gh/bi/tech/kpmg-reinforces-the-importance-of-customer-experience-and-artificial-intelligence/x667qwv
+  - title: "Division of Computational and Data Sciences marries AI, social science"
+    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
+    publishedDateTime: 2019-12-13T18:22:00Z
+    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
     type: article
     provider:
-      name: pulse.com.gh
-      domain: pulse.com.gh
-    quality: 32
+      name: Washington University in St. Louis
+      domain: wustl.edu
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.0D4626CBDDD879266B24AF66861BC791
-        width: 700
-        height: 367
-  - title: "Broadcom Unveils Automation.ai, the Industry’s First AI-driven Platform that Accelerates Digital Business Decision-Making and Execution"
-    excerpt: "LAS VEGAS, Dec. 10, 2019 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) today announced the availability of Automation.ai, the industry’s first AI-driven software intelligence platform purpose built to accelerate decision-making across multiple business and technology domains that support digital transformation initiatives. As enterprises ..."
-    publishedDateTime: 2019-12-10T16:52:00Z
-    sourceUrl: https://apnews.com/Globe Newswire/4aaa9a30ed7cab945724a7e940b78598
+      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
+        width: 300
+        height: 200
+  - title: "Division of Data and Computational Sciences marries AI, social science"
+    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
+    publishedDateTime: 2019-12-13T18:22:00Z
+    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
     type: article
     provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 5
+      name: Washington University in St. Louis
+      domain: wustl.edu
+    quality: 39
     images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
+        width: 300
+        height: 200
 
 secured: "DUJxtqe8A1bI5Lhmgbd+wej0I4QcvpexmS/DcxKvj2l/uz/H+m8HSwJjJHTk/GLUmUuiYxkcYDlK0CnEoUmj3vlquELpiwR+JMTN66iNLtL7S5tD02pySeM1s7FXtx92773guz4wJaJxFCm1xsKE6O8/FwuuxQ4TeGUcJpUpJaaOTGUT2uy8st4DB19ZbeOVAxNpjMqDOkY3t4lcsd5EqlsRqbjNWUw0yioNBeCqIc/Le5YpJzEimIXKNYBwH7KNhEG7i3CQnS9xFeuHVrDxrw==;v+SrGIkiaGUfdiE/SMAZIA=="
 ---

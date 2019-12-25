@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B65DDDCB92A9202839E6FBDD308A2BF0
         width: 401
         height: 700
+  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
+    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
+    publishedDateTime: 2019-12-17T19:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "07eAYjNHk+05DtNvAgV7OunXJCuoCm9SeLz9BK/P5Hlqu6PpkgIFLJFQtksSA8n+/4zLrJ4NDZWn41A+S7i2FliFK+yVQugS0hluedOGOa4+7rl2x+2S5+8qxpZfTLONVIVdOCfuwrjyj7AxqtymCcBdtsYduhl9mCnwyFg+ZBI/Sj4RK1k4hLg8U+5z6H/+uKlyBYjZOBj1LIeXKDICww8QPJSnB7tO6apF6Yh/C3Ly4rCiRmsal6elIMrFjal3MNl2f4oyJPEekNfvvMmPFA==;76vAwRT8kwZHlz2qoocM2A=="
 ---

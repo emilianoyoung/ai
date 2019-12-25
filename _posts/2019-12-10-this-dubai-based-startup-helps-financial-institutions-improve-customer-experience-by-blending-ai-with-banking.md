@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutio
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
+    excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
+    publishedDateTime: 2019-12-10T05:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/pu-afb120919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 22
 
 secured: "7KdmTwCAhrnjF3/yqHn8g07+n+mcYI2iUV19D228CcEcffv9kW4g2IwOZSxyz9Jiy7iRnV7GiqeGunyFZIr1gTF84/GRHEXosIkFQQtcjgk7MKQX4QGHJHKfhl+hd7aDJ1scVoBWrptoT72cw3ljlre27EnSFDL9R4MksMznl6xZ1gKJCcwrApQGBEOss4Iq0dQycPdHj303/t0pxOAQiQs14md4AaLvWiApC/dfQJd63cY34ZFobaY4VQg51P+X4UkchO7lE8GBcpE/hne4Ew==;XECqoeTzoB4awOI+VtdFfg=="
 ---

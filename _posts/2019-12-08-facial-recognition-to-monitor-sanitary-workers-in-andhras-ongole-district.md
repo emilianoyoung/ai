@@ -97,21 +97,6 @@ related:
       - url: http://www.dawn.com/_img/social-default.jpg
         width: 375
         height: 375
-  - title: "Senators defend bipartisan bill on facial recognition as cities crack down"
-    excerpt: "“The obvious civil liberties concerns that Americans have and what it provides to law enforcement.” The two senators, both members of the powerful Judiciary Committee, introduced the Facial Recognition Technology Warrant Act last month in a rare show of bipartisan interest in addressing the controversial technology. The bill would limit ..."
-    publishedDateTime: 2019-12-05T17:55:00Z
-    sourceUrl: https://thehill.com/policy/technology/473222-senators-defend-bipartisan-bill-on-facial-recognition-as-cities-crack-down
-    ampUrl: https://thehill.com/policy/technology/473222-senators-defend-bipartisan-bill-on-facial-recognition-as-cities-crack-down?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/473222-senators-defend-bipartisan-bill-on-facial-recognition-as-cities-crack-down?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.A9014920D53CC8285F6D1B5154D835D1
-        width: 700
-        height: 393
   - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
     excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
     publishedDateTime: 2019-12-11T20:44:00Z
