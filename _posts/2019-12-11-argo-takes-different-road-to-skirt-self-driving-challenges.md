@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
-publishedDateTime: 2019-12-11T11:14:00Z
-sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
+title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+publishedDateTime: 2019-12-11T12:31:00Z
+sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
-    width: 991
-    height: 557
-    title: "Argo takes different road to skirt self-driving challenges"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
 
 related:
   - title: "Mind Tricks: How Digital Nudging By In-Car AI Will Shape Where Your Self-Driving Car Takes You"
@@ -157,6 +161,6 @@ related:
         width: 700
         height: 525
 
-secured: "0ahtPtd864Ywq8qq4Hfi4u5/xHFVZ7x5NVzAiogOUwnC4LrEikHk6h4Ft+UeHmFM3kEKD1Gdtt+UVqqcAswEW28sQMHZwtKdCj0SEClJxXf7gAfDSX5ajw4V4uJAIYDr/zG0P4CJwJ6NYWzPJoFl8Z9+6qh1boVAahc+CCBep2VPPKGQdAhI0t7mzNCO5Jl8MNQiQIqllFMNRBAd4kx4HyqNS1qY1FSo7MbtTF7JCE53UWuwVrZcc4YdyxP/QcqHcyh530JyF5XQxTWrgJbcUQ==;wUWT6X4TFNJoRwy1NTpE6g=="
+secured: "etZxX/0WYRnSF2sE5Pxeq77F/CeGCQPoSgG5lqM7SS+6UGQL+G0Up5wwLS3Icm3si7cMWBE7l610VRuEcLXm3ILViiwCPctJfH9XVMbLAI9AKs2oP4rLeKcQJ1a5qnREnfbRIGdeb67bWUNFuEW/TpsKQbkQ4osO6F+ExbtTfo4CTNbGOtB4Lq8mbAxhwk8/0UqSVlMOAzjspAOj9f5gxpv4aCojExIvKJH70HWhpw48hk0dUDMcWeR9Xr2wYyn7KDRSO0rEQjU0cI0oxoYHaw==;L++FEdSFO3ImYQTOChkugw=="
 ---
 

@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
         width: 700
         height: 393
+  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-11T12:31:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
     publishedDateTime: 2019-12-11T11:06:00Z
@@ -82,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
         width: 700
         height: 393
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
-    publishedDateTime: 2019-12-11T11:14:00Z
-    sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
-        width: 991
-        height: 557
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -161,6 +161,6 @@ related:
         width: 700
         height: 525
 
-secured: "gS7DMzVFq7RfX6X4iwiPdtMbDVPVIrdOBN9gHcmkJvvJdliWwFJ1dQWBIfFSYrmekltP1BmEnGJ78Wn4ukEr441YIkdcRXXmLqvyYAJtb2NyRTb6022ZvUkW9PHtRLJRfXHn9icTrq83G74hIk9qleetIKmoOSi4J3ahJwOVCGV1F/J/b9ip8FT1Wp/cFX2zw8Fteq/wClBJ/OARF6/0AC54HxGGOikikhNGCcqeRGMiQ9bMYVCPxKlF2usQP5MVepfKGehGcFyLm4+zs7DTRw==;Y/MaA9tJz+f8J+ZzRFP5rw=="
+secured: "GwMekqE5VA0XJ7jBiJhPtMuzDhzSPwai67ThDMteGtnt3FN5cH5tTsDkPsGU9kziDVbLPC4KLNANhq8zYafyT1DELAX05inwTw7p3TjWjaUxZUKpAt79GC8N0t3JuQF48zvEJSMYWMZMdS2t5tv8hnkw5PIrvO6PFea1nGFAjKS0WkEKZNoCgSpe3PbxMBSmvYc2aGgW4IoJ8RQAreDwyia6SIyQ7SLxpI0MOit67OWStwYH7J7DHuJuINd45hKcDvcdgfvw7oOE6td3CMqC4A==;sLZ/P6Ybhzod6kAeL2eTEw=="
 ---
 

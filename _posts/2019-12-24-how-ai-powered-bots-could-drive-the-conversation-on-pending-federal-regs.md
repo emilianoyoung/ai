@@ -5,7 +5,7 @@ excerpt: "In 2017, bots flooded the Federal Communications Commission's online p
 publishedDateTime: 2019-12-24T18:06:00Z
 sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
@@ -112,6 +111,6 @@ related:
       domain: businessinsider.com
     quality: 13
 
-secured: "SKh3KlNphX3ENGbfvBQy9hbUK7To/sPyQZ2IhgMKzddPNFTKWyz6jNJS/rO6RA7RBCXW6YePuynUBaYcm9KB4YWJSkQ69Un/bGGk4aeB1QD1DSKUp1GsgRcUc/ve0i5mhRNuMvPDDGCMjSLmbW3ZxxMvFifgDovpBtEsxeG1munNT8qC4Yeavy4P/TE32r0p/1dSMvaFNUjvarEkNOeyfPax7HIeNd5MK7+1UI/lbcT2BGk2N7bPMlJW/wvEqI9srEJew9OeZhyTTLXjrgXDPg==;0is1VsQhxtCRNE6xlZk4wg=="
+secured: "4qac/L8Re+bdb8UuofaWu3+5/jTmpuBWD8w6g0JBZvx3EFJjCxSfy1iYfqbv7CprjBN06HTpBF4zP7wiwshveUM2KS5lYhIkcLIF4Z/QQAcyRiAuZuI8dUO95+5RIxDWAM968du5796Pg18RZaSfV9KncTzYA9YCTlrAQWJ3CmhbbTAj0T3q+R0xbsDNZmlj3+BnpjrYAlMo1d78Vd9WKDElN+t03eJs061KkcKR40q076gmGNwIG0IK+/yGbFzQ5Kl02rOBFwR2SP7sxBGzow==;NCr8jBBTuHFoTsJ9r+tPJQ=="
 ---
 

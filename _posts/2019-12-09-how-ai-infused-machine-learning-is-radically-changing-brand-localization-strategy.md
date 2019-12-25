@@ -36,19 +36,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
-  - title: "How the ‘bigger is better’ mentality is damaging AI research"
-    excerpt: "Something you’ll hear a lot is that the increasing availability of computing resources has paved the way for important advances in artificial intelligence. With access to powerful cloud computing platforms, AI researchers have been able to train larger neural networks in shorter timespans. This has enabled AI to make inroads in many fields ..."
-    publishedDateTime: 2019-12-05T14:50:00Z
-    sourceUrl: https://thenextweb.com/syndication/2019/12/05/how-the-bigger-is-better-mentality-is-damaging-ai-research/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.AA539D98380851B1F87698DC28767BB2
-        width: 700
-        height: 350
   - title: "The AI community needs to take responsibility for its technology and its actions"
     excerpt: "On Monday, at the opening of one of the world’s largest gatherings of AI researchers, Celeste Kidd addressed thousands of attendees in a room nearly twice the size of a football field. She was not pulling her punches. “There’s no such thing as a neutral platform,” the influential scientist and prominent #metoo figurehead told those ..."
     publishedDateTime: 2019-12-13T10:57:00Z

@@ -8,7 +8,7 @@ ampUrl: https://fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-w
 cdnAmpUrl: https://fox5sandiego-com.cdn.ampproject.org/c/s/fox5sandiego.com/2019/12/05/artificial-intelligence-helps-spot-wildfires-faster/amp/
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     title: "Artificial intelligence helps spot wildfires faster"
 
 related:
-  - title: "How artificial intelligence is helping spot California wildfires faster"
-    excerpt: "As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within minutes — in some cases far faster than these fires might otherwise be noticed by firefighters or civilians. Santa Fe-based Descartes Labs, which uses AI to analyze satellite imagery ..."
-    publishedDateTime: 2019-12-05T14:14:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/05/how-artificial-intelligence-is-helping-spot-california-wildfires-faster/
-    ampUrl: https://www.mercurynews.com/2019/12/05/how-artificial-intelligence-is-helping-spot-california-wildfires-faster/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/05/how-artificial-intelligence-is-helping-spot-california-wildfires-faster/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 57
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/ai_wilfires_list.jpg?w=1024&amp;h=663
-        width: 1024
-        height: 662
   - title: "How AI is helping spot fires faster"
     excerpt: "As wildfire season raged in California this fall, a startup a few states away used artificial intelligence to pinpoint the location of blazes there within minutes — in some cases far faster than these fires might otherwise be noticed by firefighters or civilians."
     publishedDateTime: 2019-12-05T15:35:00Z

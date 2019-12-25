@@ -75,7 +75,7 @@ related:
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 38
+    quality: 36
     images:
       - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
         width: 700

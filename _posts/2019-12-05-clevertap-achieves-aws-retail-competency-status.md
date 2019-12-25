@@ -18,21 +18,45 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amperity Joins AWS Partner Network To Simplify Retail Marketing"
-    excerpt: "The AWS Retail Competency highlights top AWS Partner solutions that have demonstrated technical proficiency and proven customer success across numerous innovative solution areas in retail spanning artificial intelligence (AI) / machine learning (ML), Voice Recognition, Customer Engagement, and Retail Transformation. Amperity was awarded this ..."
-    publishedDateTime: 2019-12-05T14:16:00Z
-    sourceUrl: https://www.martechadvisor.com/news/data-management/amperity-joins-aws-partner-network-to-simplify-retail-marketing/
-    ampUrl: https://www.martechadvisor.com/news/data-management/amperity-joins-aws-partner-network-to-simplify-retail-marketing/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/data-management/amperity-joins-aws-partner-network-to-simplify-retail-marketing/
+  - title: "Manthan Achieves AWS Retail Competency Status"
+    excerpt: "SANTA CLARA, California, Dec. 12, 2019 /PRNewswire/ -- Manthan, a leading artificial intelligence (AI) - powered Cloud Analytics Company, announced today that it achieved Amazon Web Services (AWS) Retail Competency status in the Advanced Retail Data ..."
+    publishedDateTime: 2019-12-12T12:01:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/manthan-achieves-aws-retail-competency-status-300974031.html
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 74
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.096EE1C2868CBA9971B48E56D04E3FC4
-        width: 700
-        height: 382
+      - url: https://www.bing.com/th?id=ON.A8BE117E53FA79A8EBDC04A381A7ABAB
+        width: 300
+        height: 104
+  - title: "Manthan Achieves AWS Retail Competency Status"
+    excerpt: "SANTA CLARA, California, Dec. 12, 2019 /PRNewswire/ -- Manthan, a leading artificial intelligence (AI) - powered Cloud Analytics Company, announced today that it achieved Amazon Web Services (AWS) Retail Competency status in the Advanced Retail Data Science & Customer Engagement category. AWS Retail Competency Partners deliver highly ..."
+    publishedDateTime: 2019-12-14T00:24:00Z
+    sourceUrl: https://finance.yahoo.com/news/manthan-achieves-aws-retail-competency-130000821.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.9B98002FE4C9173566C85DCC69D46F6F
+        width: 300
+        height: 104
+  - title: "ECS Achieves AWS Public Safety & Disaster Response Competency; George Wilson, John Sankovich Quoted"
+    excerpt: "The AWS Public Safety & Disaster Response Competency serves to differentiate ECS ... ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science and engineering. The company solves critical, complex challenges for customers across ..."
+    publishedDateTime: 2019-12-05T21:33:00Z
+    sourceUrl: https://www.executivegov.com/2019/12/ecs-achieves-aws-public-safety-george-wilson-john-sankovich-quoted/
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.8A4E1FBED515532392839DA34CF73717
+        width: 272
+        height: 270
 
 secured: "TUassvL1zyoF4eKnL4x+n3rZe+FaP5WO1ac6pXEupBje9YGWDA53km0Z7A1+497OwtTKfTn4MAMLamdadqFREqH5vO2wqVihmA41XtgkbvQqFJ5NUTfErhRmGnKcSPRGkwExF7V/kDE7o6wu6RdJv9opPbf2fDbZmDXUgE54BgSo2j2v64EBuWN1fg4xBgU6UqeqpgToBFtqhbEkHVfOkqFouv6nVuLPajzod4gduRdZeNuhZRpx91JaKUEvydZ1CdI/WzaOR8twHxAwHqLyPA==;Gcp56TrNu6ngNH2M4k+Etg=="
 ---

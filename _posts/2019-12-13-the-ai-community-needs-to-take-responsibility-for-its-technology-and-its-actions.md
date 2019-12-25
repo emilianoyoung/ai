@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
-  - title: "How the ‘bigger is better’ mentality is damaging AI research"
-    excerpt: "Something you’ll hear a lot is that the increasing availability of computing resources has paved the way for important advances in artificial intelligence. With access to powerful cloud computing platforms, AI researchers have been able to train larger neural networks in shorter timespans. This has enabled AI to make inroads in many fields ..."
-    publishedDateTime: 2019-12-05T14:50:00Z
-    sourceUrl: https://thenextweb.com/syndication/2019/12/05/how-the-bigger-is-better-mentality-is-damaging-ai-research/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.AA539D98380851B1F87698DC28767BB2
-        width: 700
-        height: 350
   - title: "How AI-Infused Machine Learning Is Radically Changing Brand Localization Strategy"
     excerpt: "Human resources also will provide the crucial quality control role, reviewing and modifying machine translations, ever improving natural language processing models with authentic human understanding and feedback. AI is already used in a wide array of translation solutions, making the localization of your web site, product and services easier ..."
     publishedDateTime: 2019-12-09T12:14:00Z

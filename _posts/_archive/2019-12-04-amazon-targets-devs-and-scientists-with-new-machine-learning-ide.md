@@ -45,21 +45,8 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 102
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:03:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -70,8 +57,8 @@ related:
       domain: infoworld.com
     quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
-    publishedDateTime: 2019-12-04T20:48:00Z
+    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
+    publishedDateTime: 2019-12-04T20:45:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
     provider:
@@ -79,9 +66,9 @@ related:
       domain: sdtimes.com
     quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
-        width: 700
-        height: 335
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
+        width: 900
+        height: 431
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -108,6 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
     publishedDateTime: 2019-12-06T00:00:00Z
@@ -122,6 +122,6 @@ related:
         width: 800
         height: 500
 
-secured: "5GbtWfw2Gt5wYbBnOvd4gJLlaAxfZ08I1VSEByvW0IWDEmobZdHp88wPIn2SziB0xrXHmgbEmm5i1A6yDTfrHXHquOd12sGudaLDgO9LqjukNwoRfXe/eOKCn9VSbV+k9pUPTwysMuDCe7n2BGDz+8/cqgwc6AaUC3aI5ZZgIwLrIZClaBDn5zuiXkAR25G4mh+DUgCyXK3mySzCp3ZVEC9aaOEAaYUmKyJDbQ7f+UGGiEpF/NeHKG8PY6eanm8uhzSvr52puKnOE9ppamXieA==;oTgRDD64BnbadNC4XeXZiw=="
+secured: "pje1YijCy1+I+pnF61rtEKziv1X/vavdpYyAwAYUzj0UNqs+UnyjTifJKw8gM7qNKdfIrf+dyB70cNRBX6S/dz0b5QGOmk8Bgwarmx+pzMiX16JZRV6jY5hB0dgz4NNufM/QqdNYYuGU9U99kiAQerV+4Eqm8Nis47TgAenf8q8TUkWRaMH98wkNpxz7TaWo9MX5fwv+iiZCq5hutZH44C/DMw3WhIo/bTMsCokjdqdKafOtT4PCbtSQsbE8mTc5FSjd6PqAYsmwGvUW1mLiUg==;CxLhhqkOOfH4YuDOsSqOjg=="
 ---
 

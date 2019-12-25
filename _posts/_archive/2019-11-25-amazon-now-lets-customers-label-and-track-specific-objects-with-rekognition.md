@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detec
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -71,7 +71,18 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
+  - title: "Amazon Rekognition Custom Labels"
+    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
+    publishedDateTime: 2019-11-26T03:02:00Z
+    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
+    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    type: article
+    provider:
+      name: pymnts
+      domain: pymnts.com
+    quality: 39
 
-secured: "1yiAghctZyrqBmO3xf5Ah+fS6U528PW6NL2W2YzPIxdL5oCQgzCtYUzzx9YJLIUjCVSSiIGM/bMsbpf4KPsZ0tFy94Z2Q+SnPbTaAVUCuGSa2BnEYi92auX88T3wJAuUi4mTpM9I5bGIxy2YcLxr74g7jDALw6KM+6jyRg+D2dK10wZskAE66TaPpWTid+xJTvqxq27Zgsjxx6S4V7EjBm8/LqDEl35NQbFnErCCzQhvBl5ukmmTIjckjECK/XsjfuWPqgcerQOsnm2DT1Ay3w==;52dVEj+FIUy5RQ5Cd285EA=="
+secured: "KKiLbKrKCZQC8BcHrhfv+7gMI1zP3lq+ca//MzwLqFSzIrVPEqNlfz8/uk5mXO3Fu8yBCWOpzByf72qQ8ZGWWdj9UcOrTVY7co2bbkn5+Q5/fjDwfxVXMfYiXS4aAdKPiwg2FRqMX403/O8qzLxWyvehvpUSBnpmupgJt77ff7A2QBvzoAZPAmr6uAMO/D4TseilZxmhw5Kb+PAnb4m8DG601ylrkxVMxhYc/B5qWQoikcp95e+GLFiTlkkOz2VHQaq1IdCCg/vwtGopipDDyA==;PACAGk4R/YTKxH/C8obxAQ=="
 ---
 

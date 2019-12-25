@@ -5,7 +5,7 @@ excerpt: "This reflects its research and development of corevo(*1), which is one
 publishedDateTime: 2019-12-24T14:34:00Z
 sourceUrl: https://eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
 type: article
-quality: 16
+quality: 14
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.09A240E7C46C453F5C4B3C90C7F9D4CF
@@ -109,6 +108,6 @@ related:
         width: 400
         height: 267
 
-secured: "DFWuXgq1947AVzg8wySyvQIObOklEmLZ3p4ygA0sLiqD4f/j/FnwjpKDhHLKqb11MVO5jWfokvX4KDRXQsIyx1grnzeNOjldlldMG2l6oqBadeu2UuSc6LHNXAUKgKnf0KHgD0xMyGo/7aaYEYyt9rltdxvwwQeOIJ7degbgM7MhmP41Ay54egejyqCEIHwJdnv5OXgoHRYcpnlKMa3CPgoukGsC1ncdIKyc3N+gRHJ1phjXduhyMMy9oPc3INr56tzUAGc9XdgvQcuXw9oirA==;a3aRTzj9qmYaW62tu0kU3A=="
+secured: "FBPTIoRhVuBiEhITgWNPFXr8hgrLsUogwXTWtTXgWnogsi26wp7tZU2IKaMIIXyJ5tiIWwh3v+cdLmjmGFS+R6DubkQtSjmN3bGUZZs54NN1Gd+VVIlRbue1s8fbKDDqQd7k/RP3jX0rBK1WRFjPxEXQWbWwCyiSjJTanHgWiQQDCaibJd4H8CNqPtssX8yUZWaUw377dNjylRoCsMSwr6X6jn2wSW5lbxTzFQEFxu9Nts3jTC5cEVc0BcQfauYxMxmsbJuUhMrEjkNjyio6nQ==;0m/6XHwnxNAp5MHteRpgXQ=="
 ---
 

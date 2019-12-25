@@ -50,6 +50,15 @@ related:
       - url: https://www.bing.com/th?id=ON.9B98002FE4C9173566C85DCC69D46F6F
         width: 300
         height: 104
+  - title: "CleverTap Achieves AWS Retail Competency Status"
+    excerpt: "CleverTap, a provider of artificial intelligence-powered customer lifecycle and user retention platforms, has achieved Amazon Web Services (AWS) Retail Competency status for technical proficiency and proven customer success across numerous solutions in the Customer Engagement category of the AWS Retail Competency that help marketing leaders ..."
+    publishedDateTime: 2019-12-05T17:06:00Z
+    sourceUrl: https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=135605
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 34
 
 secured: "PSJ6HyXoR83C6NDZ/Qr2+FQm4QrlsuLRsgLYZpPAN48ZUZcK+gQlCXU0DUZOGChjtUG7qkkr6ftRqaA8lPXHHheiR8iBTjSplF9TjAFYyqfiYHM3+EL/lGVWP6bCrzynrtZK1GXN3vCVBv0KEwqSyHkwDIAsAh2sYjUt53VhS9rmhXlKiRA8rL1Ojlh3QmxJEhkThwj4MZhkDeDV5rkfbkjPc0t0pPT2C5ILONxKsBtMDZkmCvgROKlzMFVsOo5qxZTcRBaFgYrABnV/JAm8lg==;YyO25mCNRgfJqNJgaNtYXQ=="
 ---

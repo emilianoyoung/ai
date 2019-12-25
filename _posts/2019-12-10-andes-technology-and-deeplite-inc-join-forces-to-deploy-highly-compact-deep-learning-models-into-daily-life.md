@@ -27,19 +27,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 34
-  - title: "KPMG’s digital shift fuels AI-empowered audits and more, reducing risk across every industry"
-    excerpt: "KPMG uses Azure Cognitive Services to provide more continuous ... In addition, KPMG Clara will integrate with Microsoft Teams, providing a platform for audit professionals to work together on a project, centrally managing and securely sharing audit files, tracking audit-related activities and communicating using chat, voice and video meetings."
-    publishedDateTime: 2019-12-05T14:11:00Z
-    sourceUrl: https://news.microsoft.com/en-au/features/kpmgs-digital-shift-fuels-ai-empowered-audits-and-more-reducing-risk-across-every-industry/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.3398F681CA3C4ECCD69413F4179B6017
-        width: 700
-        height: 350
 
 secured: "BJ/sGdYXgvoOmXlVZ4OtmpG6JB64DsZnuGaMOZTLCAk7tfyq7Zw8Yn48uURfwMcbZ9YnxYjc7zSXjVHnDo7C646ehF1NcS9x86gLnhuERP8pzAzpb1cyaEsS9PNleuSIdbUrwTUIB6L6aKW2IXtW96Q4nlznCUb2QaOyEJbpzSercSE1X5jkrTrzUD25rGBJNBdfrz0aUpCyM7RkWJ9LoqqMnXjA3EdgCE8Idy/8WK3VnqSpFxW5KB5APxNOErsivuq8n5FJ6Hx9L8BmvfVUTQ==;2RnWUVM4pt9P5AsrSon87Q=="
 ---

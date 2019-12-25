@@ -37,6 +37,15 @@ related:
       - url: https://www.bing.com/th?id=ON.A8BE117E53FA79A8EBDC04A381A7ABAB
         width: 300
         height: 104
+  - title: "CleverTap Achieves AWS Retail Competency Status"
+    excerpt: "CleverTap, a provider of artificial intelligence-powered customer lifecycle and user retention platforms, has achieved Amazon Web Services (AWS) Retail Competency status for technical proficiency and proven customer success across numerous solutions in the Customer Engagement category of the AWS Retail Competency that help marketing leaders ..."
+    publishedDateTime: 2019-12-05T17:06:00Z
+    sourceUrl: https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=135605
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 34
   - title: "ECS Achieves AWS Public Safety & Disaster Response Competency; George Wilson, John Sankovich Quoted"
     excerpt: "The AWS Public Safety & Disaster Response Competency serves to differentiate ECS ... ECS, a segment of ASGN, delivers advanced solutions in cloud, cybersecurity, artificial intelligence (AI), machine learning (ML), application and IT modernization, science and engineering. The company solves critical, complex challenges for customers across ..."
     publishedDateTime: 2019-12-05T21:33:00Z
