@@ -8,8 +8,8 @@ ampUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-softw
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -30,6 +30,34 @@ images:
     title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
 
 related:
+  - title: "Amazon now lets customers label and track specific objects with Rekognition"
+    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
+    publishedDateTime: 2019-11-25T17:06:00Z
+    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
+    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
+    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
+    publishedDateTime: 2019-11-25T18:50:00Z
+    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
+        width: 671
+        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
     publishedDateTime: 2019-11-26T16:35:00Z
@@ -43,7 +71,18 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
+  - title: "Amazon Rekognition Custom Labels"
+    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
+    publishedDateTime: 2019-11-26T03:02:00Z
+    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
+    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    type: article
+    provider:
+      name: pymnts
+      domain: pymnts.com
+    quality: 39
 
-secured: "6VB61ivSqP6UfnOVxStIshDH1WrfFWRrTykFTwxWYELrv0gQr7tU5guSZW70rt5CH6dsWKABiJZH5hYHLaJx1KlZlmmjrRzbAgaVNmH+8I91mBmp0SeV1rfpmn2UJU6X4aXrggwH5osgmp3dzlPFUHXkTFYECvGZESftA/LMgct5syNL0s3yOtHnrHyXPyadC4OFSfyCrrMDiUlEKofhnYZW5waSyYSFfVLNHoiRqIDIAZr2uMKuSQgtP1mXo/VG2Idxf3FEc1gkdtQHRhi29A==;F5ZB7kZI2X3+D+ycWcpa9A=="
+secured: "ChMXEn+DYt5Q+XbIbuDqf7RJOw4EVOQKNfvmLhUksXieblyaAKxcPle7iSjRuiUTkm8o6wJXnIu2OCKaPXhAqcEAEY9R+44RfvjwaxYqN2fpyeBgy4zg3STW1LiWAR65yivYkbSjIs8MF+CL61uB1lLXgvuDCInLvzSS+xvAoVhl4S/xsjYTRebjWYZ8v6gbv+PIvurNpNim9P6fALVX65Cb8Y8TL89/EYHiyk6UEprd0pDKUYp4RL667EHeUBR2tfBCVfg3NZzEPECB9LVYfw==;jFsL4CJpBerNQLsxxWzWGw=="
 ---
 

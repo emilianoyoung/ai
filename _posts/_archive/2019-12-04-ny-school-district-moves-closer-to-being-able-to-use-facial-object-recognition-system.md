@@ -164,19 +164,6 @@ related:
       - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
         width: 700
         height: 392
-  - title: "Department of Homeland Security drops controversial facial recognition plan"
-    excerpt: "The Department of Homeland Security has backtracked on a plan to require every person, including U.S. citizens and green-card holders, to submit to a facial recognition screening before entering or leaving the country. Why it matters: Facial recognition has emerged as a privacy flashpoint. As some cities pass bans on the technology, the federal ..."
-    publishedDateTime: 2019-12-05T18:52:00Z
-    sourceUrl: https://www.axios.com/facial-recognition-homeland-security-drops-plan-4841387d-7780-4ce1-9a84-afb287bcbe25.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.15131D2DBEB223907A117C696A478AD9
-        width: 700
-        height: 393
   - title: "Police facial recognition: Privacy commissioner not consulted on new system"
     excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
     publishedDateTime: 2019-12-07T22:09:00Z
@@ -243,6 +230,6 @@ related:
         width: 700
         height: 350
 
-secured: "7Y7tOI6Ke08x4lGVudV2kIDW1i4n/Z+RKC/Qdf9lzgXWDFKOHhZmC3dhD3osjyt8vN1OI2te9+j1NdMKK2pqQ5jxGdT3w9Gwnd7iiZufqo/wJ2/ZyFo4Ij2mHyFf4tRmpV/71Y2UIKQhD9eJQBIpnGNaF9skq6IQLhNzSP7CDRQwEPi8HFXGpp41Zm33g/k6uId08j2C8ckkU67oFuQWxafk9LDpzjA4lGYYsu16bTGLst7akRyPBraAr819LX9JDg6honnxtL0xFwQbdvm/RA==;6SvQVVntGICRDiCtodks2A=="
+secured: "PH2evTg7YdDsBWAcaMK2F+0Dm+mFF4QbqgxdFRRxOz6tiuMPw2siowv9ttdB9xAyC6o1ri31fzgWsb9zDR/L4RjD2KSryIIX+fCAzzZVNEywMZlL/qXuEuuSyOYoeRXccWyU4npXfr5nZoC7SVC2zlhOcsTW6UqN3jeSxRaJD+AW/9KiWEdt0rzKYHxXUHTCXj61G8MCw8Zm216wJCafTYrfIUkVUfwMQ2YdTslfNgtgaRdiKi0XbeqSmWmGtPyapxvjgFGG1gSWWBp/xlagOA==;GFHjvzvdBoWPGX/KuWzLBA=="
 ---
 

@@ -26,21 +26,6 @@ images:
     title: "Homeland Security Reverses Decision To Use Facial Scans For US Travelers"
 
 related:
-  - title: "After criticism, Homeland Security drops plans to expand airport face recognition scans to US citizens"
-    excerpt: "Homeland Security has confirmed it will not expand face recognition scans to U.S. citizens arriving and departing the country, days after it emerged the agency proposed making the scans for citizens mandatory. The department, whose responsibility is border protection and immigration checks, said in a government filing that it it wanted to ..."
-    publishedDateTime: 2019-12-05T18:32:00Z
-    sourceUrl: https://techcrunch.com/2019/12/05/homeland-security-drops-airport-citizens-face-scans/
-    ampUrl: https://techcrunch.com/2019/12/05/homeland-security-drops-airport-citizens-face-scans/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/05/homeland-security-drops-airport-citizens-face-scans/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.53CD8BBC4E957D111A068C96A804662A
-        width: 600
-        height: 400
   - title: "Trump Administration Drops Plans For Mandatory Face Scans of Citizens"
     excerpt: "\"Thanks to our pressure, DHS is reversing course and NOT moving forward with its dystopian facial recognition proposal at U.S. airports,\" Markey said Thursday. \"But we cannot take our right to privacy for granted. I still plan to introduce legislation to ban this kind of surveillance.\" Congress in 2016 authorized up to $1 billion in funding for ..."
     publishedDateTime: 2019-12-05T20:23:00Z
@@ -56,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E7310AEE467C800B9E1EBD49693837D3
         width: 700
         height: 467
-  - title: "Concerns raised over Indian government's plan for face recognition"
-    excerpt: "INDIA’S government wants to build one of the largest facial recognition systems in the world. But critics warn it could be a blow to citizens’ rights. The country’s National Crime Records Bureau (NCRB) has invited bids to develop a nationwide facial recognition system that can automatically identify people from CCTV feeds and images ..."
-    publishedDateTime: 2019-12-11T12:44:00Z
-    sourceUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/
-    ampUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
-        width: 700
-        height: 466
   - title: "DHS scraps Trump-ordered plan for mandatory facial scans at US points of entry after privacy advocates, lawmakers raise concerns"
     excerpt: "The Trump administration announced Thursday that it's backing away from a proposal that would have required all U.S. citizens to submit to facial recognition scans at airports and other ports of entry whenever they leave or enter the country. The Department of Homeland Security said it removed the idea from its regulatory agenda following ..."
     publishedDateTime: 2019-12-06T10:52:00Z
@@ -131,21 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC0020A3C0E901261884017F2DEBF17C
         width: 700
         height: 393
-  - title: "US Homeland Security backs off on scanning US citizens, Amazon ups AI ante, and more"
-    excerpt: "WebAssembly gets nod from W3C and, most likely, an embrace from cryptojackers online Roundup Hello, welcome to this week's machine learning musings. We bring you news about the hottest topics in AI: Facial recognition, the so-called AI arms race between the US and China, and erm, GPUs in the cloud. US citizens won’t be subjected to facial ..."
-    publishedDateTime: 2019-12-09T07:15:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/09/ai_roundup_061219/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
-        width: 648
-        height: 516
   - title: "Homeland Security: U.S. Citizens Can ‘opt Out’ of Using Facial Recognition at Airports"
     excerpt: "Following criticism from its plan to subject U.S. citizens to facial recognition technology as a means to screen people at airports, U.S. Customs and Border Protection has said American citizens can choose to “opt out.” The federal government has been using facial recognition technology to screen non-U.S. citizens traveling into the country ..."
     publishedDateTime: 2019-12-06T00:04:00Z
@@ -230,19 +185,6 @@ related:
       - url: https://www.bing.com/th?id=ON.96882A3977B0EEE2645EE6336554D1E9
         width: 700
         height: 394
-  - title: "DHS retreats on possible facial screening of US citizens"
-    excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
-    publishedDateTime: 2019-12-06T18:42:00Z
-    sourceUrl: https://www.abcactionnews.com/news/national/dhs-retreats-on-possible-facial-screening-of-us-citizens
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.C29C37C553EB29A7B9F6E91D8ACDB229
-        width: 700
-        height: 367
   - title: "Homeland Security Gives Up Plan To Expand Face Scans For Travelers"
     excerpt: "The proposal would have required all travelers, including citizens, to participate in a facial recognition scan when exiting or entering the U.S."
     publishedDateTime: 2019-12-06T01:57:00Z
@@ -282,15 +224,6 @@ related:
       - url: https://www.bing.com/th?id=ON.939477F9503622A41A88865A3C088C09
         width: 490
         height: 327
-  - title: "Far-Field Speech and Voice Recognition Market"
-    excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
-    publishedDateTime: 2019-12-12T06:44:00Z
-    sourceUrl: https://www.openpr.com/news/1878439/far-field-speech-and-voice-recognition-market-worth-4950-36
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "e6iC82B2hNz6IX/Cd2pU6US0fu/Nh+3UVHsC5GKir2zOhxwMq/q678wwezWh2E9Z5qA/cC5X0MRE0kp/vy8lSKc6iTMdffjFta1AJ5e1VsZ+fm5j+uTaZZYfojVRGwclQePSF2pHtNwH0yOVDm95FzDSXJNqo2BO00t+S0clmCTFZlLtc12l7qDFdxPSQOb8mXLr+NPaxc7W7N/8HBLCGZeomrr4nloiJ0G842WLQ8GMNgz3x+V32ZouyTmLUyBJ+HLqiEvefnWAdszCA9KSjw==;qlR5ZNjd9mgHVWSmYYJDJA=="
 ---

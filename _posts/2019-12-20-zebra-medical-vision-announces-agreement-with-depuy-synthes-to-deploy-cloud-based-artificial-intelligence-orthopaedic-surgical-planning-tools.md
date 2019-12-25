@@ -23,6 +23,19 @@ images:
     title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
 
 related:
+  - title: "DePuy taps Zebra Medical to bring AI vision to its new Velys digital orthopedic surgery platform"
+    excerpt: "“We share a common vision surrounding the impact we can have on patients’ lives through the use of AI, and we are happy to initiate such a meaningful strategic partnership, leveraging the tools and knowledge we have built around bone health AI in the last five years,” Gura added."
+    publishedDateTime: 2019-12-25T18:32:00Z
+    sourceUrl: https://www.fiercebiotech.com/medtech/depuy-taps-zebra-medical-to-bring-ai-vision-to-its-new-velys-digital-orthopedic-surgery
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.AA9EC53D504DD5D3AA961655EAE41090
+        width: 700
+        height: 491
   - title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
     excerpt: "Zebra Medical Vision, the deep learning medical imaging analytics company, announces today a global co-development and commercialization agreement with DePuy Synthes* to bring Artificial Intelligence (AI ... Vision Zebra Medical Vision’s imaging analytics platform allows healthcare institutions to identify patients at risk of disease and ..."
     publishedDateTime: 2019-12-19T13:15:00Z

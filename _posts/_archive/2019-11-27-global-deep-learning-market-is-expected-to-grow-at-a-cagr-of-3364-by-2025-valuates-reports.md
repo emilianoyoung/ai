@@ -23,6 +23,6 @@ images:
     height: 482
     title: "Global Deep Learning Market is Expected to Grow at a CAGR of 33.64% by 2025 : Valuates Reports™"
 
-secured: "y7P/QoEqhM1YBcgTr89OTdYx7hCmaPPrCqhMqYClQMO1fsbrX2T1jgu7KKBIAmPWqKZQMcPmKijF0J7AEQZTDLdKhW4eVB74BWy+O87LxC7GRE1pNZY5KjNBTMPYtqREPsN1QclBZiLptjpp8j2M/dojOLcXUFi8Dwj13u/+mQ1OHXMPGuOMgv6o/qp2tgGDBPHcUMXe+V0Q1VC3iE7MbjAj5sGuGgd6+/cgoMw1K10V1uFjgeBFYBW3qFLtUiRAaH3rfA2HquxaIgW/ubMYIg==;dpoSxTmGWyyRTul3ti2DRg=="
+secured: "w8Asgvwz9wGp48koNxjGPa9srLzoz0ypCXc5ePWXMeeR5PLkXeiCJKmzeq+N+X07+ROlF245kJjIc4m9fqwj+EgycH8bd3HaTOCr8K+FrcAXt3w4YyewQHqZXnND/y+7AtbbOnGF5s1qfBVz0OQvBNKrTpkPbnBkVU74E2SPFwDkyMCUFB6Yv15mwcX5yJjDt9XaUssCKhBrlBN2ybLnltrEO1C2JKvzC4ihnZ3RP3hIbXtb00TpdA9+rHVtpUMvrnVlr89C+9ffyXgQ/JsWzg==;CEmPwMo+gjanueyNRh74xw=="
 ---
 

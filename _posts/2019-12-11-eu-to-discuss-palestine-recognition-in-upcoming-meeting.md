@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T09:44:00Z
 sourceUrl: https://www.presstv.com/Detail/2019/12/11/613384/EU-Palestine-recognition-Israel
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 650
     height: 365
     title: "EU to discuss Palestine recognition in upcoming meeting"
+
+related:
+  - title: "Concerns raised over Indian government's plan for face recognition"
+    excerpt: "INDIA’S government wants to build one of the largest facial recognition systems in the world. But critics warn it could be a blow to citizens’ rights. The country’s National Crime Records Bureau (NCRB) has invited bids to develop a nationwide facial recognition system that can automatically identify people from CCTV feeds and images ..."
+    publishedDateTime: 2019-12-11T12:44:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/
+    ampUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
+        width: 700
+        height: 466
 
 secured: "vW/x0FbhqaWKwPPwRUlp87EHuFi8GjF/0jIApv45rT4iu2ow9psfLlMHDVwfXl95Iwg2BjSDH3D03/E4Qdhs0af8xFyG93ZcfM6ZUGKd2GvyHrmw6TM4mrJPo0xa73TcQMe1VxBFKsJcaMZMMIN4ru9BGxIszxlXBETPAHv1HEeCxPOxiTk1F2ahbw2iFY0rUf9rMWIZcwcfGxj9X3jcnw1DyTkkROEYHezxvdONyaF1yME8s88IJo9IzXUUXM1DtFf+rl31it13wI0+Wbl1qA==;MHZgwfOYLhKDWfGoq22sCQ=="
 ---

@@ -109,6 +109,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
         width: 600
         height: 315
+  - title: "Waymo launches an iOS app for its self-driving taxi service"
+    excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
+    publishedDateTime: 2019-12-05T23:30:00Z
+    sourceUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service
+    ampUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
+    cdnAmpUrl: https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.507F778D2E8A5AE1B9BFF3D7E6191E48
+        width: 700
+        height: 466
   - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
     excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
     publishedDateTime: 2019-12-13T22:32:00Z
@@ -242,6 +257,19 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
+  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
+    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
+    publishedDateTime: 2019-12-10T15:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
+        width: 700
+        height: 410
   - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
     excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
     publishedDateTime: 2019-12-10T16:42:00Z
@@ -322,6 +350,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
         width: 700
         height: 393
+  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
+    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
+    publishedDateTime: 2019-12-09T15:35:00Z
+    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
+        width: 700
+        height: 459
   - title: "Irish potholes and poor road markings great test for self-driving cars"
     excerpt: "The Government is to amend road traffic legislation to allow for the testing of self-driving vehicles on Irish roads. So what has the State got to give the autonomous driving world? Rain and poor road-markings. It seems that Irish motorists’ pain is the automotive industry’s potential gain. Self-driving vehicles use a combination of video ..."
     publishedDateTime: 2019-12-07T06:09:00Z

@@ -151,19 +151,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6B094EBD6C9526BC62A4310C734A833D
         width: 600
         height: 315
-  - title: "Department of Homeland Security drops controversial facial recognition plan"
-    excerpt: "The Department of Homeland Security has backtracked on a plan to require every person, including U.S. citizens and green-card holders, to submit to a facial recognition screening before entering or leaving the country. Why it matters: Facial recognition has emerged as a privacy flashpoint. As some cities pass bans on the technology, the federal ..."
-    publishedDateTime: 2019-12-05T18:52:00Z
-    sourceUrl: https://www.axios.com/facial-recognition-homeland-security-drops-plan-4841387d-7780-4ce1-9a84-afb287bcbe25.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.15131D2DBEB223907A117C696A478AD9
-        width: 700
-        height: 393
   - title: "Police facial recognition: Privacy commissioner not consulted on new system"
     excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
     publishedDateTime: 2019-12-07T22:09:00Z

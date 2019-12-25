@@ -69,19 +69,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-06T10:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.E248EDABDEB196AC217A8CF3C64CC034
-        width: 700
-        height: 525
 
 secured: "9G8ggtnWO+90oyRlLOBw41NZthXKA8IyLIzM1QTrqDPjKCaB/CyY38vpDapX1wOwMxGS6alXpx6sZqz9gKf1Zi598gb/8Ljxe2SfRHRK8WntJE0jS1FATjHY0IizbpruBC/upMZIoqou2fKkkkk8cIeWNTNjKbJP0d6Cs/KHAL+vmumBWIgZtFYWKbgkbsgOKH+9H4bscx4UA4UnZgxh+Aaz5oOUaCEFardYbqTyssnZdC8TVN4Hs7EgW0sTTevSudFLYLrN3hIhtP2lPHEJyQ==;NoK5omBQuT5MB7pBaVCoEw=="
 ---

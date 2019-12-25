@@ -24,64 +24,49 @@ images:
     title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
 
 related:
-  - title: "We tried out a futuristic, self-driving robotaxi in China"
-    excerpt: "In the white-hot competition between Chinese companies to push out robotaxis – self-driving taxis ordered through e-hailing services – two contenders have emerged as the first to launch public trials of their autonomous cab services in the country. Search engine giant Baidu’s autonomous driving arm Apollo rolled out a trial operation of ..."
-    publishedDateTime: 2019-12-09T07:58:00Z
-    sourceUrl: https://www.techinasia.com/tried-futuristic-self-driving-robotaxi-china
+  - title: "Waymo app for Valley’s self-driving ride service released for iOS"
+    excerpt: "PHOENIX – Exactly one year after debuting in the Phoenix area, self-driving vehicle company Waymo’s commercial ride-hailing service is becoming more accessible. The Waymo app, which previously was available only to enrollees accepted into the Google spin-off company’s early rider program and Android device users, was rolled out to the App ..."
+    publishedDateTime: 2019-12-06T19:42:00Z
+    sourceUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/
+    ampUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
+    cdnAmpUrl: https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 54
+      name: KTAR News
+      domain: ktar.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
-        width: 700
-        height: 390
-  - title: "Western, Chinese consumers divided on electric, self-driving cars -survey"
-    excerpt: "(Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on Thursday showed. Consumers in some Western countries appear unconvinced as automakers overhaul their ..."
-    publishedDateTime: 2019-12-06T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/western-chinese-consumers-divided-electric-110425103.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110425103.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110425103.html
+      - url: https://www.bing.com/th?id=ON.9843BCE691003E846A50B7122AF04501
+        width: 620
+        height: 370
+  - title: "RIDOT: Self-driving shuttles have seen ‘great ridership’ since service began"
+    excerpt: "PROVIDENCE, R.I. (WPRI) — It’s been six months since the Rhode Island of Transportation (RIDOT) introduced autonomous shuttles to the streets of Providence, and so far, the agency says close to 26,000 passengers have already taken advantage of the free, and experimental, service. The six “Little Roady” shuttles began picking up ..."
+    publishedDateTime: 2019-12-06T23:16:00Z
+    sourceUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/
+    ampUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
+    cdnAmpUrl: https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 43
+      name: WPRI 12
+      domain: wpri.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.54648040F7CCE5BB298C0E7D7AB42D17
+      - url: https://www.bing.com/th?id=ON.2944FCBAACE8E36950471890298508E1
         width: 700
-        height: 466
+        height: 393
   - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "... to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo. For more insights into China tech, sign up for our"
-    publishedDateTime: 2019-12-08T00:41:00Z
-    sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-    ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CB42C20B1631461C7E8289E0A12519E4
-        width: 700
-        height: 367
-  - title: "CORRECTED-Western, Chinese consumers divided on electric, self-driving cars -survey"
-    excerpt: "(Corrects name to \"OC&C Consultants\" from \"OC&C Consulting\" in second paragraph) By Tina Bellon Dec 5 (Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/western-chinese-consumers-divided-electric-110000422.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110000422.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110000422.html
+    excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched in Arizona, US last December. In the white-hot competition between Chinese ..."
+    publishedDateTime: 2019-12-09T00:16:00Z
+    sourceUrl: https://sg.news.yahoo.com/tried-self-driving-robotaxi-china-045809725.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 38
+    quality: 19
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
+      - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
+        width: 700
+        height: 393
 
 secured: "ZWLu0X9sg3iaIwUXJLIk9WDobk9JeWGHtez6eeOarmFWaeEsCpC2WBO/F8CDxnQTjeXc70Cj+a/L3w1OyBPW8TaltywOFor/637GNX/18RyPhuQeheQG3Wy5KU3JXtXv4jKWaCpHssX/y/XzKPUv7XNQHPWDXzE3ZWip3y+G/Akzp1oXlNa4dSj3mHTJauo99qGJu4eHk5Sfwg2Bg99Fh4sUNe7dJhGPe58VyYAvdqPQdixZTfSPwqPoJGhE6lot55R1I7IKF1/8qcnyqH43tA==;eXdZtXIetFrYYcSVnw04VA=="
 ---

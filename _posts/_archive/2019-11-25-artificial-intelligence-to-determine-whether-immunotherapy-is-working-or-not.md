@@ -25,6 +25,6 @@ images:
     height: 365
     title: "Artificial Intelligence to determine whether immunotherapy is working or not"
 
-secured: "t5rn7ubtaCy5qAvP2bzUCI7/uCGoFSCFOTyZDg4o9OOqn+ImbQv2y1c7FQRoVgZNkZuS5rtZpqOXfdrlk3CVvMNnzitxEkWbyejz+0pRpmxdA8c4/dd/i/uvcC2F1KeZZwQABPtKprun8fowJCEjROTP59BkYea3+BvmH61sbQuk1u6NUiU1aat9PjXaZS3+97uAkOBsH7db1WP9ERWIgaD6XxGnREjNsHNUrtVUTWeXtcliVcBF/BdqfIdvDD9IRAF3DnNxd+AQrJ2p5EfqnQ==;4pXii7bE3nytEcVQZ9VXFA=="
+secured: "G62C2QGT2/OFUIMl+CsgjA2z/0KYOrEeUKSBHt4cnM+dCl6JK7Er6QWJqN2fLBQKb81JxwVhz04oBY9lsO/+3HQRq01fF9sg6XJc7CWF5gSGlxF/9y13dQh/4eEbDke9NAzpP54vM/3n2e0YswePwubpAFzkVE5UoC8y5ZOL8LynMrRgN5Pqh3IEOEU/Z7s10hpjOq9vEyo9PvlZspUUY4HvzNDIiul578YiEH1l8yzFlZQqF+N+s+JQhJX2z7mFD5eelRwOcCKuYhzSZXR9qg==;PKij+JIHrpumhR4OfybNgw=="
 ---
 

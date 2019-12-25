@@ -53,21 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2820ECDFC5CD54110987BD149A2F8D1
         width: 700
         height: 466
-  - title: "AI-enabled assistant robot returning to the Space Station with improved emotional intelligence"
-    excerpt: "But CIMON is much more than an Alexa for space, and CIMON-2, which launched aboard today’s SpaceX ISS resupply mission, will demonstrate a number of ways the astronaut support robot can help those working in space ... So for example, on the artificial intelligence side, we have something called emotional intelligence, based on our IBM ..."
-    publishedDateTime: 2019-12-05T18:38:00Z
-    sourceUrl: https://techcrunch.com/2019/12/05/ai-enabled-assistant-robot-will-return-to-the-space-station-with-improved-emotional-intelligence/
-    ampUrl: https://techcrunch.com/2019/12/05/ai-enabled-assistant-robot-will-return-to-the-space-station-with-improved-emotional-intelligence/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/05/ai-enabled-assistant-robot-will-return-to-the-space-station-with-improved-emotional-intelligence/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 94
-    images:
-      - url: https://www.bing.com/th?id=ON.5B71150EA094C2DC34B195480800B7FA
-        width: 700
-        height: 393
   - title: "'Empathetic' AI-powered robot assistant heads to the International Space Station"
     excerpt: "A friendly robot assistant with artificial intelligence technology is heading to the International Space Station to help astronauts with daily tasks, or if they just want someone to talk to while so far away from home. Cimon 2, the latest version of the AI assistant commonly called \"Simon,\" is more \"empathetic\" than its previous model that went ..."
     publishedDateTime: 2019-12-06T00:14:00Z
@@ -83,19 +68,6 @@ related:
       - url: https://s.abcnews.com/images/Business/ai-robot2-ht-ml-191204_hpMain_16x9_992.jpg
         width: 992
         height: 558
-  - title: "An empathetic AI assistant is headed to the International Space Station"
-    excerpt: "Natalie Gagliordi tells Karen Roby that the floating CIMON 2 robot is using IBM's Tone Analyzer software to understand and respond to the emotions of astronauts. Read more: https://zd.net/33LsZMY"
-    publishedDateTime: 2019-12-05T18:45:00Z
-    sourceUrl: https://www.zdnet.com/video/an-empathetic-ai-assistant-is-headed-to-the-international-space-station/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.40C81A3AB70BFE7818ECEC9AF5E1C895
-        width: 700
-        height: 525
   - title: "New, Emotionally Intelligent Robot CIMON 2 Heads to Space Station"
     excerpt: "The little droid can assess astronauts' emotional states. Another robot with artificial intelligence is headed for the International Space Station (ISS). The astronaut assistant known as CIMON 2 just launched for the orbiting lab aboard SpaceX's robotic Dragon cargo capsule, which lifted off today (Dec. 5) from Cape Canaveral Air Force Station ..."
     publishedDateTime: 2019-12-05T19:51:00Z

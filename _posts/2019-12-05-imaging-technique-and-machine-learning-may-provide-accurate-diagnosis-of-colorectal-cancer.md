@@ -41,15 +41,6 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
         width: 1920
         height: 960
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
-    publishedDateTime: 2019-12-02T19:47:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
     excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical coherence tomography (OCT) system that automates image processing and identified tumors with ..."
     publishedDateTime: 2019-12-06T04:03:00Z

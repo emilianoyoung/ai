@@ -1,27 +1,27 @@
 ---
 category: news
-title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
-excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
-publishedDateTime: 2019-12-05T20:01:00Z
-sourceUrl: https://www.aclu.org/news/immigrants-rights/a-border-officer-told-me-i-couldnt-opt-out-of-the-face-recognition-scan-they-were-wrong/
+title: "Chinese worry about rise of facial recognition"
+excerpt: "A survey by a Beijing research institute indicates growing pushback against facial recognition in China. Some 74% of respondents said they wanted the option to be able to use traditional ID methods over the tech to verify their identity."
+publishedDateTime: 2019-12-05T19:50:23Z
+sourceUrl: https://www.msn.com/en-sg/news/other/chinese-worry-about-rise-of-facial-recognition/ar-BBXPvCT?li=BBr8Mkh
 type: article
-quality: 29
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Aclu.org
-  domain: aclu.org
+  name: BBC News on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.aclu.org/news/images/share/default_fb_share.png
-    width: 1200
-    height: 630
-    title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
+  - url: https://www.bing.com/th?id=ON.6B094EBD6C9526BC62A4310C734A833D
+    width: 600
+    height: 315
+    title: "Chinese worry about rise of facial recognition"
 
 related:
   - title: "Federal Bill Would Constrain Some Police Use of Facial-Recognition Tools"
@@ -138,19 +138,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1401AC44DC203F027522D4F1D5C864F4
         width: 700
         height: 338
-  - title: "Chinese worry about rise of facial recognition"
-    excerpt: "A survey by a Beijing research institute indicates growing pushback against facial recognition in China. Some 74% of respondents said they wanted the option to be able to use traditional ID methods over the tech to verify their identity."
-    publishedDateTime: 2019-12-05T19:50:23Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/chinese-worry-about-rise-of-facial-recognition/ar-BBXPvCT?li=BBr8Mkh
-    type: article
-    provider:
-      name: BBC News on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.6B094EBD6C9526BC62A4310C734A833D
-        width: 600
-        height: 315
   - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
     excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
     publishedDateTime: 2019-12-06T13:47:00Z
@@ -164,19 +151,6 @@ related:
       - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
         width: 700
         height: 392
-  - title: "Department of Homeland Security drops controversial facial recognition plan"
-    excerpt: "The Department of Homeland Security has backtracked on a plan to require every person, including U.S. citizens and green-card holders, to submit to a facial recognition screening before entering or leaving the country. Why it matters: Facial recognition has emerged as a privacy flashpoint. As some cities pass bans on the technology, the federal ..."
-    publishedDateTime: 2019-12-05T18:52:00Z
-    sourceUrl: https://www.axios.com/facial-recognition-homeland-security-drops-plan-4841387d-7780-4ce1-9a84-afb287bcbe25.html
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.15131D2DBEB223907A117C696A478AD9
-        width: 700
-        height: 393
   - title: "Police facial recognition: Privacy commissioner not consulted on new system"
     excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
     publishedDateTime: 2019-12-07T22:09:00Z
@@ -216,6 +190,19 @@ related:
       - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
         width: 960
         height: 640
+  - title: "A Border Officer Told Me I Couldn’t Opt Out of the Face Recognition Scan. They Were Wrong."
+    excerpt: "On the evening of November 25, 2019, I crossed from Mexico into the United States. Signs in the port noted the new use of facial recognition technology and United States citizens’ option to “undergo alternative procedures.” After handing over my U.S. passport card, and despite my repeated protests, the CBP officer took my picture anyway."
+    publishedDateTime: 2019-12-05T20:01:00Z
+    sourceUrl: https://www.aclu.org/news/immigrants-rights/a-border-officer-told-me-i-couldnt-opt-out-of-the-face-recognition-scan-they-were-wrong/
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 29
+    images:
+      - url: https://www.aclu.org/news/images/share/default_fb_share.png
+        width: 1200
+        height: 630
   - title: "Children’s Hospital buys potentially illegal face-recognition technology"
     excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
     publishedDateTime: 2019-12-08T01:07:00Z
@@ -243,6 +230,6 @@ related:
         width: 700
         height: 350
 
-secured: "iLCS7mIVl4WrjCmYw/xpfNIWNUYdviOG6fq2Eh5gBsbyQu5sZD8eAjZgFwtd2Hyi/lNbtWBnPi+lgv5mE7lGJe1buKzaBLMBhrhnCajuO0aO/kMvzFUZuHpmgAt5jpQfQFTSaL8CSdO4aOkzKa0Oc4+sCNW+nOmIffyImeM07JUtxv7AlKUnx7168WVbo1eB/wKcnMMeyV/WFS13Cy5S0ufTdq/aTKR/+jpBsMFT155HwxyaVTgCQSZTT75gRXZprM0c+sxoX8rA5oT8OzgCkw==;2YTEPhJo2M2p1Lr6qG5Y6Q=="
+secured: "FLXKipvMvUEI0B+i86qa6oEto/lCD8nZaLerMCTT0lELQeM4gVEJ10uGjLl/xeTOueFfWrRj8SXZ8yUpIy3dgz5ZCe0gTTeEqCoCVnY2COLYrhzlJwFN79zpJKAjHaB/If9a+DzcGIKLmdUNo+RgSzDm75nAEbOwdEQm8h7gxFGEQ3u6/THGyIRX3AOY5/YFQirBTFguUih1Qx4oCyxL6qNxyfg9FxqVAEbvXSazaurMCEFc3eMu1q+1F7NV3ndjJPyC22SSv/9IqHOxmDL6UQ==;2VUC6mO/Ict5jkUtGcNurA=="
 ---
 

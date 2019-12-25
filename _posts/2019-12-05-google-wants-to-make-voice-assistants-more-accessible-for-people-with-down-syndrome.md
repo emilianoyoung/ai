@@ -18,34 +18,36 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Google Wants People With Down Syndrome to Help Improve Voice Recognition"
-    excerpt: "This is in order to train its voice-recognition AI to understand unique speech patterns. Currently, Google’s aim is to get at least 500 voice recording donations from people with DS. Voice computing is considered the future of technology, however, it can be slightly inconvenient for people with mental and physical disabilities. In order to ..."
-    publishedDateTime: 2019-12-12T12:22:00Z
-    sourceUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/
-    ampUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
-    cdnAmpUrl: https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
+  - title: "Niki Brings Digital Services To Tier 3 India With Multilingual AI Assistant"
+    excerpt: "But technology can improve this several times over. With instant resolutions to fintech queries from novice users, Bengaluru-based conversational AI assistant Niki is looking to do just that. The startup aims to replace hyperlocal agents or the middle-layer of human fintech assistants with its voice assistant. Founded in 2015 by Shishir Modi ..."
+    publishedDateTime: 2019-12-07T00:24:00Z
+    sourceUrl: https://inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/
+    ampUrl: https://inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/amp/
+    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/amp/
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 43
+      name: inc42.com
+      domain: inc42.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
-        width: 700
-        height: 393
-  - title: "People are open to biometric retina recognition"
-    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
-    publishedDateTime: 2019-12-16T16:19:00Z
-    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
+      - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
+        width: 490
+        height: 360
+  - title: "Niki Brings Digital Services To Tier 3 India With Regional Language AI Assistant..."
+    excerpt: "But technology can improve this several times over. With instant resolutions to fintech queries from novice users, Bengaluru-based conversational AI assistant Niki is looking to do just that. The startup aims to replace hyperlocal agents or the middle-layer of human fintech assistants with its voice assistant. Founded in 2015 by Shishir Modi ..."
+    publishedDateTime: 2019-12-06T07:27:00Z
+    sourceUrl: https://inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/
+    ampUrl: https://inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/amp/
+    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/amp/
     type: article
     provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 24
+      name: inc42.com
+      domain: inc42.com
+    quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
-        width: 700
-        height: 369
+      - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
+        width: 490
+        height: 360
 
 secured: "H840qv9TgdpLyho3tYtSpl0Azd1FwlJnXoFr65B+enw+0HXKQ6PICjsvTDpS+WKianM4i8+ITtfI8WIl5R8CR/UI8Au3ZKAd6Ae6vcIyR2BGQv3BSHpH6OBuD2dbhp7+pKyiU6XP1cA+iidXj7sKMdu6h6F4lLWoda/BXS/yL48WYTuTAOgKgyHOS8HZZB7eK7ero41pRm9vy3VSq3Q11MbB9vONzfZag9pPHp1WbkMuajy2GbSPfdUBg54ssk3CcjdIeXYAt/ZgA6WvHHiM5A==;bnn/MduLkgJ/D2uJqG4s/A=="
 ---

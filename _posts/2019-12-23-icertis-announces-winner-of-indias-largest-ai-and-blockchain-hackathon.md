@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
-excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"I would like to thank all the 10,000 participants in the Hackathon,\" said Monish Darda, CTO & Co-Founder, Icertis. \"We were amazed ..."
-publishedDateTime: 2019-12-23T12:41:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-1028782214
-ampUrl: https://markets.businessinsider.com/amp/news/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-1028782214
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-1028782214
+excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
+publishedDateTime: 2019-12-23T13:54:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
+    width: 600
+    height: 315
+    title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
 
 related:
   - title: "Farmers’ kids win India’s largest AI, Blockchain hackathon"
@@ -39,20 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.AA2934010CD097B899217A016CC6C78A
         width: 700
         height: 393
-  - title: "Christmas Lectures presenter Dr Hannah Fry on pigeons, AI and the awesome power of maths"
-    excerpt: "Dr Hannah Fry is the presenter of this year's Royal Institution Christmas Lectures series ‘Secret & Lies - The Hidden Power of Maths’ (Photo: Paul Wilkinson) Driverless cars, robot butlers and reusable rockets – if the big inventions of the past decade and the artificial intelligence developed to create them have taught us anything ..."
-    publishedDateTime: 2019-12-23T17:19:00Z
-    sourceUrl: https://inews.co.uk/news/science/christmas-lectures-dr-hannah-fry-pigeons-ai-maths-1348852
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.323CDEAC5978CAEC3F37AF76F6E92CDD
-        width: 700
-        height: 367
 
-secured: "c1NsaHUTTR+mFbnvZ7fOPeZcqAKh5yIDq2LmlSoRd6AuWs/njZ1ZvWG7sdB0xIXzNUpSn1YEqxj/Rjwf0A90KT6gC+IUoBkQnZZG9TXFM7hl0nHJZ7T5cjQsLgUGXS9IQejaJna5Js8KB0kZZ1ddNNxd2qO1SfPyNYas2ByrwnM63KIrvhw6de9spkzK1+/RZD/K8TskBwPN5ulT9kMm8sNnOTlSeyzvqBsaAhI3VWEic1i1jCh2d41OyyaWw6jOnjh0mNIi3cjncH1rgu+7sQ==;cST6TS96rLskBFqr3FKf4w=="
+secured: "wFaVROm+s7EzXFHlJBUSn7B4iGLH/OG5sOsp3NDDzqpFMkMSg7VhGMD+ACTwf+oSN5ua9d4ezpc3xFSsjWhMWsH9TUWQuA4c3EmedyfUxoVCRmHZwwXxctDeUyL+GYpsZ/tI4O7AKkpk2KzAGCEvbdHHNDHuHa2K+GYoBp3Yq1sAINeSO2Vgd+zdDVS/zvzPknoigZU2/Jbf1+qKSyRhqBqfID12dH7GusFqvwrmjr3e7EHUK7mEijBFYxRcI9HX1qtdkWf9uc9GWO8rbwP6iA==;KpDt9yDjDQ6AGT+HHdFnJA=="
 ---
 
