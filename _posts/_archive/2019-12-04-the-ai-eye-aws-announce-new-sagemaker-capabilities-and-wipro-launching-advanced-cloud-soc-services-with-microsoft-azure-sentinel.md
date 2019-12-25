@@ -5,7 +5,7 @@ excerpt: "According to the press release, SageMaker Studio \"delivers greater au
 publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
-quality: 70
+quality: 102
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
@@ -55,7 +56,7 @@ related:
       domain: infoworld.com
     quality: 103
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -122,6 +123,6 @@ related:
         width: 800
         height: 500
 
-secured: "MZoijhgZEIznojmlB0jbLAvQL2C5QwoXju4TeyuiWOn7Vu8votX/2VSP4OZbiVjOo1d4Rv5Avf3Rr6QrNXHJ2tBSssf8GwCp26lK6feRdN+1YF80fYmPjHbnIjWcpGo4F/0U0+KnGEDZhnz9sa0FW8zxGIWOt9RALAyMFEIc7Be26w31jMRgSzxx2lUhZLRJINqgiqgUVzJNQLZugYmIje+YkbNqZ9nsi9cY4uMpr+n2In72wSD7R6yUzIMy+RBMj8sS5h16iW/5DlwwydtdTw==;h4PGMsvzEWVjSNjMru7tZQ=="
+secured: "Cpbe+1Nr1Q20G7KygET4xMvtbbTXW9+yE2jTlk2cCewES3hKkWOFNX7m/8oMd8dz8AAFdHbCXI0mdvoTuM+yw/fSRtZ++b3RZIQ5I5K0EPHoWsmAvKLHx7lWa5fJnoklr05QaBxD8a/Z4ZVFA+OOINIRf6XIbhF8nM0ih0VrAHH3tcXv4sYiOeQ2DFGTEqqmKKcE8rosuDGCUm1TPY6oKImV/E7otY3toQLEQ8nkZnj7h09gLEzhH3DlI4Mw4lvbVPswRgwhnmbgMZ7QGAIEgg==;eoVN41EUai+xUAc33TkypQ=="
 ---
 

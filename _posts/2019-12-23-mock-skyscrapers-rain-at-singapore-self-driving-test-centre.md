@@ -24,17 +24,17 @@ images:
     title: "Mock skyscrapers, rain at Singapore self-driving test centre"
 
 related:
-  - title: "Mock skyscrapers, simulated rain at Singapore self-driving test centre"
+  - title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
     excerpt: "Shipping containers are also stacked up to emulate how high rises could potentially block satellite signals to self-driving machines. The CETRAN centre, run by Nanyang Technological University (NTU), even has a rain-making machine that can simulate the frequent tropical downpours in the Southeast Asian city-state of 5.7 million people."
     publishedDateTime: 2019-12-22T03:16:00Z
-    sourceUrl: https://news.yahoo.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-031626089--finance.html
+    sourceUrl: https://www.ibtimes.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-centre-2890262
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.88BE12B5FD08C9BE4ACD54B17BD5854B
+      - url: https://www.bing.com/th?id=ON.B0D98BADDFC83C08620131BA35FB332A
         width: 700
         height: 466
 

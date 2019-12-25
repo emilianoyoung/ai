@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T00:04:00Z
 sourceUrl: https://www.defensenews.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     title: "Does the Pentagon have a coherent strategy for AI?"
 
 related:
-  - title: "Can this group become 1-800-AI for the Pentagon?"
-    excerpt: "This breadth of applications is evident in JAIC’s main lines of effort, mandated by the DoD AI strategy. With a scope of projects ranging from software acquisition to workforce development to ethics, the organization has a heavy workload. What will shape AI the most is how the agency chooses to tackle specific problems within that scope."
-    publishedDateTime: 2019-12-23T14:08:00Z
-    sourceUrl: https://www.defensenews.com/newsletters/daily-brief/2019/12/23/can-this-group-become-1-800-ai-for-the-pentagon/
+  - title: "CIO outlook 2020: Building an explainable AI strategy for your company"
+    excerpt: "Explainable AI ensures there’s a human present in the loop of the AI process, where the machine provides transparent and reliable explanations, and the human can correct the machine in cases where its decisions are wrong. The sooner such an AI strategy is explored, the sooner an organisation can start reaping AI’s incredible rewards."
+    publishedDateTime: 2019-12-25T09:30:00Z
+    sourceUrl: https://www.itproportal.com/features/cio-outlook-2020-building-an-explainable-ai-strategy-for-your-company/
+    ampUrl: https://www.itproportal.com/amp/features/cio-outlook-2020-building-an-explainable-ai-strategy-for-your-company/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/cio-outlook-2020-building-an-explainable-ai-strategy-for-your-company/
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.731DFAD217E05F0F05063A4AD72DC4F4
+      - url: https://www.bing.com/th?id=ON.B76148E129273B96EA3FA6E97D4D2ABB
         width: 700
-        height: 367
+        height: 393
 
 secured: "RYizVnAgtgtwfs6kPm8pMRBFn3TbXFPRuUqwArWQEsP+wsEuiGCUcPAxC4BtYIsO8pZ6T9WHsxWBB1MclhSf/AM7T38wMR5VlZjNDc8EfT0xVRg6IbmQ9scRkdXkVx64Efo6vZee3SdyE4VmocBaf7EDN+g4jDv4zJwqE4GO6eISkRNE9Y26u8R0TKcduM+wWYhGLPAz8hsAIcBa7XnMdqL6X2ydN5FBkEa2q9gP82vPIKVha3e9pKW35ZWrb76kziZbdVGJMQCcHGrwilr7SA==;SNQUN6hOvzU7lmRJ+oz2Nw=="
 ---

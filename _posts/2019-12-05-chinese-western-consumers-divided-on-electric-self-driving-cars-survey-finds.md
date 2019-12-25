@@ -327,19 +327,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
         width: 700
         height: 465
-  - title: "Toyota leads $50 million funding round for U.S. self-driving shuttle company"
-    excerpt: "May Mobility, a U.S. self-driving shuttle company, has raised $50 million in its latest round of financing with a substantial chunk coming from one of the world's biggest automakers. Toyota was the largest investor in the Series B round. Though the company's exact investment was not disclosed, its involvement marks another signal of its ..."
-    publishedDateTime: 2019-12-05T08:43:00Z
-    sourceUrl: https://europe.autonews.com/automakers/toyota-leads-50-million-funding-round-us-self-driving-shuttle-company
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.0A3D60CB30D05F0234771A17C1F948DA
-        width: 700
-        height: 525
   - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
     excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched in Arizona, US last December. In the white-hot competition between Chinese ..."
     publishedDateTime: 2019-12-09T00:16:00Z

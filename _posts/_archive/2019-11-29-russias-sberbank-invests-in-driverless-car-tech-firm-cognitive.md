@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-29T01:14:00Z
 sourceUrl: https://siliconangle.com/2019/11/28/russias-sberbank-invests-driverless-car-tech/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     height: 720
     title: "Russia’s Sberbank invests in driverless car tech firm Cognitive"
 
-related:
-  - title: "Russia's Sberbank agrees venture with driverless technology firm"
-    excerpt: "Russia's largest lender, Sberbank , has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday."
-    publishedDateTime: 2019-11-28T10:59:32Z
-    sourceUrl: https://www.msn.com/en-ca/money/topstories/russias-sberbank-agrees-venture-with-driverless-technology-firm/ar-BBXsdKI
-    type: article
-    provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.321D1BF58A9BA57EB568599410B9218E
-        width: 700
-        height: 367
-
-secured: "DfCCD3uvX1aVE3ofQXfkTfyHdTk5cdkhqo0sBfFsdeHsa8RQJY/pJBIq2GV3krqP8Tb9BYkApvuqNH4o6/2/dJms6h1ufigLg+q1ixUvYmofYHeo5q1oSb/ayOlc09Cw70is7ccNvOjGVkupKLaSqp72p5A8p3wsuSlq2Ae1idvbPC7uasnI9RqUkbtBeWhRbR9m5GQg3U5CGiobaMaKzqimHEnV4RsB1jfAJAkK19sgDcV04xjFcCeJCuNQ0sQlKdw/eOjRR6cdNqJOg7vMOA==;2niSKg0FoO7CuQ3bsEbdnQ=="
+secured: "i0Tfrz56c0oKfrqA0KqVA+eA8ssFyYugcMRLihU7NshQtZSTIhyGe2sYVUo7wbLc7We9D9FnNXmr8KtBqn8OPeRz7QBy5TFAOyOY35GxN4NK6WN6tnrv7vYNMHU42JGiTv+KOTPB3KVIbmjb5F71RXDCoI35WJjOS2ggRW9YnQ12V5VrRotaTkk3h9W6QaEwGZa7ow3qMJ4vMBjVAo1BBjwCBzw4SN8TsBkicsnfYXkzQjWUo+UB43yEhRCixNyNWe3VV3s5TuRmQ+rO8CdNFw==;EqlZtI1oJEIb1Qxlbx/8gg=="
 ---
 

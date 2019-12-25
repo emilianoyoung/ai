@@ -1,15 +1,15 @@
 ---
 category: news
 title: "How deep learning can reduce bias in advertising"
-excerpt: "Algorithms, especially those that utilize deep learning in some manner, are notorious for being opaque. To be clear, this means that when you ask a deep learning algorithm to answer a question, the algorithm gives you an answer without any explanation of how it came to that conclusion. It does not show its work; you simply ask it a question and ..."
-publishedDateTime: 2019-12-04T12:33:00Z
+excerpt: "Algorithms, especially those that utilize deep learning in some manner, are notorious for being opaque. To be clear, this means that when you ask a deep learning algorithm to answer a question, the algorithm gives you an answer without any explanation of ..."
+publishedDateTime: 2019-12-04T12:32:00Z
 sourceUrl: https://searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833
 ampUrl: https://searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833/amp
 cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833/amp
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: Search Engine Land
@@ -20,11 +20,26 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.BB699BCB3F4EC3B64F0DA218C6C3EF5D
-    width: 700
-    height: 393
+  - url: https://searchengineland.com/figz/wp-content/seloads/2019/11/deep-l-feature.jpg
+    width: 800
+    height: 450
     title: "How deep learning can reduce bias in advertising"
 
-secured: "rkWOF1JKGZVOx/Gs/ujraD8hY9Cp9yL8bRrwm9yUrHdhXqze40ogtE7YWasEMbJsRVBEwtClBpBdSDSUJsNF+JRWsg3oZeZjFNtssXc6KhbXhZ17xf6Ydpb0KFuM5jRK908hjT2SweXjDPxxV7wjBboKVAjwVhB+1YZhZW7VGf54Kdb2A9rHotC9KOznEOidfxhnCjM8gv04OlwGV9EyB6rHItpM/ALTXsnzi2kgKuPEpRdINe8XGCZyoLOKvzhTN7wdC5oxps9Ud194nM18Iw==;f06fXvNsPOiihDNsFbvD/Q=="
+related:
+  - title: "Gaining insights with machine learning"
+    excerpt: "Machine learning is still the new kid on the block. From identifying use cases to selecting data sets and tools, there are many success factors to keep in mind. Every industry is finding value in machine learning projects. At the same time, most projects ..."
+    publishedDateTime: 2019-12-06T14:58:00Z
+    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135610
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 54
+    images:
+      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
+        width: 772
+        height: 594
+
+secured: "+RpQj6vDMQSD/B4dMQv+CwwZm1R0DvzgeMqkWiIaFEKiP19+gAl0NYovSxRllSeyNFOGfJQgjT/zVoaeYAa0JbAMK0koYkeJPxoI7k6Ffwpz+a+kQNbnPyQTr3jY6KyRUIjmzIKZb3AJbHNrXFyJoTI+7H3tH6ZGDUQKQ2n3JcPBL30soHMFTpgmtCslKPMNIMBN2bfUzCEylRvtnlB3jN7VBRm++kA1jNH4r4JRaz4+rsukkFEG9zmdPtnZ96Yx64Er1uFiykR972dzbENVdg==;MhxWxuK8HXMuS967xhyzsw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Intel buys AI chipmaker Habana for $2 billion"
-excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the A.I. market. The company clearly doesn’t want to repeat past mistakes ..."
+excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
 publishedDateTime: 2019-12-16T16:15:00Z
-sourceUrl: https://www.yahoo.com/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
-ampUrl: https://www.yahoo.com/amphtml/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
-cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
+sourceUrl: https://www.yahoo.com/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+ampUrl: https://www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
 type: article
 quality: 74
 heat: -1
@@ -729,6 +729,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "PCE+HqzZmNEXNfZ0i4+wntQoOYcQBjfkkiXApa0hA8+i1obJWxpOLSS5vsU8QrOLkSpUWa+MY1t8Cy5t3Kyq+47NOCccBAokh1UEnyJmZBd7hy5uLaS0wJ9qP8VkINrDcBnQKjuKMd4kNHrBhTLCDWD2v4DIoRsakeQlPCsc8WAaoshR3YIi6v51CjRMu8ZUtIa++XJpKThc4sn0Ed0f0mFZzFv18Vcmr9I08naCQ6qClMlgPgukdog2Nq7AFjVSIYTHEUwvGgCnfQqkFTssbA==;cEpbR6n84xwkOIj4iGIWtQ=="
+secured: "71fIeDMsYoGqeKTL/MWmqJm2TA5eSkGiHqrcka6bbH30CN4GNa5j0b1IxsXfKoKtU5nkzN0nvPsz1B3n4MWmAIMyGuWRyXNcSFHxL7vFfY6Sso6/9dhcZyloq8FkMmUtZiY5mDO65naTN6f9Tuh68uXM7uaMtnZUQ+1N1HJ95GMz3TuYMM/J5wjCctmVfGbvA19g8GucMvQmOieS+BqBgkfxIusTe+wtt7J1vJwcjMgNQQbOrrLevA4wNK+cIa5j4Us4LnJNRsPwqKqiKrGtbg==;ZotCRkMXvRfGtuDYd5iE3Q=="
 ---
 

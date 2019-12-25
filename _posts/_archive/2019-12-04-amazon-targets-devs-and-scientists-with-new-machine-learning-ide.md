@@ -56,8 +56,21 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 103
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -69,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -122,6 +122,6 @@ related:
         width: 800
         height: 500
 
-secured: "iVoZlT01V7Tl6XkNWVungZa+Y+azhNRo3ddHNjpzIFhF9I02FCWlzEo4NnDoj6+ZvKiApY0AbjJQiOlP5vhq3s9rE6N3uqY8Xf4qz2Pjk0dsuL/yiUxMlMBXQZKPeFLlTk+Q3VxTmlXLYCk6DKoKJ2b6Er+W6DTHMMdBdVUZR5Srm6iKQTtZJLA1UbyP24tIMpcgEFzBhIJD/bo1bcYgXS5tDkfrFoImOpQkq124lXjFCPzAwccJX7OMJmMMPnwDXep1yxSCjmxir8a+Vdzr7Q==;i4RbmvZtR9i9WU2J+TmVdA=="
+secured: "H8pspOQotH6X3HPIUtj7lxulz4UxcyHC+uwTrK//8Lp0oZa7eaoALuhF1xT770GsRigR5zK7NJWggnX9pRUH1UCAnA4S3VeAcg3buzoNR2qwKseQ6KlSq/M8stdaKBdpHL2+G8vlKiPeMfygLMDTIoDg/C7Uyv779RoUnZxRr8Yud8pNM7/hEPvQBpTBO1BvNLkUquAplhuhHMZ1/24A4DNyOtJU8RNDFQh8bVwwdpr+Z8RGDp81XEIxUdY5D6pGUV2W+UGkg4Zh+5Naap7lRQ==;pNeZF11SqghRsd8AgEDEkQ=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 246
     title: "In-Cab Monitoring Uses Machine Vision to Detect Fatigued, Distracted Driving"
 
-related:
-  - title: "Netradyne Launches Driveri® Artificial Intelligence Vision-Based Safety Solution On The Geotab Marketplace"
-    excerpt: "Our world-class team of scientists are developing key Intellectual Property in the areas of computer vision, deep learning, edge computing, and predictive analytics to accelerate the evolution of the Industrial Internet of Things (IIoT), driving meaningful advances in the transportation ecosystem. For more information about Driveri® or to ..."
-    publishedDateTime: 2019-12-05T09:01:00Z
-    sourceUrl: https://www.fieldtechnologiesonline.com/doc/netradyne-launches-driveri-artificial-intelligence-geotab-marketplace-0001
-    type: article
-    provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 1
-
 secured: "XOqf4YV/rkqnHYLQ3aC6reAbX6K/5/mPp9KLzEOb8bUMFiDOUOb7PCJmuQuapR0uAduPBuizAnHz5oVirkCSw2vMc2weeBULqZgmK4e5YLt3SlSBzfDXHlDiu3kIJja3iRuYLNv53Xa6m7Da9D9XsgoYdFKzGd3Y4VheZwXEcT/SM/sVT5q+tjlh7pfujngB3FtIn2IN8j4FLt6G12tfFeTl6gIggUuC52nZoLEhKtUt5Q8gqgwQ1EI79vhaLdxQAXuy6aR6vcc8uZQ97tY6zg==;lJSy7lxy+zEazvK497CinQ=="
 ---
 

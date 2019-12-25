@@ -23,6 +23,6 @@ images:
     height: 675
     title: "What Machine Learning Will Mean for Asset Managers"
 
-secured: "pL19WRS141g2gYDJ2gn/41i5WMlLCCGYQpKcWNpH3j/aMvkOzdU4kdTTmOrt1WCI2mRrfu8Ld/OGsuYw99eOy0wnDhwds+wOWDcvClXRywLL0fheWIDIFZw9v5NXiofFu9mqvnOEBGuLvT4WLIoR0vOKB0KQd9+iPoVhMvVsAAtVWkprgxn5VgRQSrlfBsOW96DIBMpO84swll3TlX4Wo5ikAmy/m0ZPkko1bgAct+pquozb6JtiB/vWEdXWiWLa0rokeM6ePR0GvR1a0941Ig==;YmIMbvaM94f7UamfVHh5+w=="
+secured: "ZRL2k2C50Tfvl7bqyKdOOLE/aEjXlgs1x573z9fmM547EysDoF3V3BS8m6fNgxPsMi5qKjWygmHnomdr50FC7jYNBhly+4Cbwfeti8SiJpUIouhaxRb0RJ8gEs4z7cmTGOHkuiqxMhbQbMdTMOHfXKdQYWE1s8htfc7RWBMzsUgZQ7RrGlCzgMMbulM6TXpPDqXjjTE1mYxtyAQ+QKpFKvItkPiTw4yA6eZzQkH9CrCqToD5iJeqWqesL7NxdqqTD9C9mYPzQ/AK5MHGnMsoWQ==;/NR1Ab6Dci1heX6Qu3m2zQ=="
 ---
 
