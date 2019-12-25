@@ -24,21 +24,36 @@ images:
     title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
 
 related:
-  - title: "Self-driving car firms rooted in U.S. government competition"
-    excerpt: "Bryan Salesky had little way of knowing in 2007 that his teammates and rivals in a U.S. Defense Department-sponsored competition were laying the foundations for future self-driving businesses now valued at billions of dollars."
-    publishedDateTime: 2019-12-11T11:09:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-darpa/self-driving-car-firms-rooted-in-u-s-government-competition-idUSKBN1YF18Y
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
+  - title: "Mind Tricks: How Digital Nudging By In-Car AI Will Shape Where Your Self-Driving Car Takes You"
+    excerpt: "Here’s an interesting question: With true self-driving cars, will you always be taken to whatever destination you’ve indicated, or might the AI system attempt to digitally nudge you to go to a different endpoint? Most people assume that the AI system that’s driving the self-driving car will strictly do whatever you’ve specified and be ..."
+    publishedDateTime: 2019-12-05T16:29:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
+      - url: https://www.bing.com/th?id=ON.490A60431B515F43B53607D51EC0B4E3
+        width: 600
+        height: 315
+  - title: "Uber says it may have to pay Waymo for self-driving car technology"
+    excerpt: "It appears that Uber is going to be dealing with the after-effects of its self-driving car technology trade secrets suit with Waymo for some time to come. In a filing with the U.S. Securities and Exchange Commission, Uber said that it “will likely” have to either enter a licensing deal with Google’s Waymo, or make some high-priced changes ..."
+    publishedDateTime: 2019-12-06T21:52:00Z
+    sourceUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology
+    ampUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
+    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
         width: 700
-        height: 466
+        height: 393
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
     publishedDateTime: 2019-12-11T11:06:00Z
@@ -50,47 +65,60 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
-  - title: "Latin America Self-driving Car Market Size Competition, Status, and Forecast, Market 2019-2024"
-    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- Latin America self-driving car market The Latin America self-driving car market is expected to expand at a CAGR of 28.5%, leading to global revenue of USD 3.75 Bn by 2024. A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-size-competition-status-and-forecast-market-2019-2024-2019-12-05
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "... skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/"
+    publishedDateTime: 2019-12-11T15:10:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
+    ampUrl: https://amp.detroitnews.com/amp/4396982002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
+        width: 700
+        height: 393
+  - title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T10:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-2018-2024-size-industry-growth-share-global-forecasts-analysis-2019-12-05
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 40
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
-    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
-    publishedDateTime: 2019-12-17T17:09:00Z
-    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
-    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-12T10:05:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
-        width: 457
-        height: 274
-  - title: "Toyota Research Institute's Kuffner on Self-Driving Car Ambitions"
-    excerpt: "Dec.05 -- James Kuffner, chief executive of Toyota Research Institute - Advanced Development, discusses his work on self-driving car technology, competition in the industry and the timetable for delivering software to consumer vehicles. He spoke with Bloomberg's Erik Schatzker in Tokyo. (Toyota Research Institute-Advanced Development's capital ..."
-    publishedDateTime: 2019-12-06T04:34:00Z
-    sourceUrl: https://finance.yahoo.com/video/toyota-research-institutes-kuffner-self-043437717.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: The Star
+      domain: thestar.com.my
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.F0BFD66651D8BA6D62143481B7B2537B
+      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
-        height: 393
+        height: 466
+  - title: "CES 2020: Embedding lidar into automotive headlamps for self-driving cars"
+    excerpt: "SiLC Technologies Inc. and Varroc Lighting Systems will demonstrate a new lighting and electronics system that will integrate lidar into automotive headlamps. The demonstration will take place at the upcoming CES 2020 in Las Vegas. Varroc’s light emitting diode (LED) headlamp will be integrated with four silicon photonics frequency-modulated ..."
+    publishedDateTime: 2019-12-09T13:34:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14384/ces-2020-embedding-lidar-into-automotive-headlamps-for-self-driving-cars
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
+        width: 700
+        height: 319
   - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-11T10:22:00Z
@@ -102,6 +130,32 @@ related:
     quality: 23
     images:
       - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
+        width: 700
+        height: 525
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
+    publishedDateTime: 2019-12-12T08:12:00Z
+    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+        width: 700
+        height: 419
+  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
+    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
+    publishedDateTime: 2019-12-05T17:05:00Z
+    sourceUrl: https://www.autonews.com/china/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.133F7429E34CB6B16DBA2B56700FA648
         width: 700
         height: 525
 

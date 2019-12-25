@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
         height: 490
-  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
-    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
-    publishedDateTime: 2019-12-14T14:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
-        width: 600
-        height: 315
   - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
     excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
     publishedDateTime: 2019-12-17T21:32:00Z
@@ -217,36 +202,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
         width: 700
         height: 381
-  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
-    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
-    publishedDateTime: 2019-12-13T22:32:00Z
-    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
-    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
+    excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
+    publishedDateTime: 2019-12-13T20:19:00Z
+    sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
+    ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
     type: article
     provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
-        width: 700
-        height: 393
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
+      name: InvestorPlace
+      domain: investorplace.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
+      - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
+        width: 700
+        height: 393
   - title: "Self-driving cars: A decade of hype, but what's the reality?"
     excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
     publishedDateTime: 2019-12-18T18:18:00Z
@@ -482,19 +452,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
         width: 700
         height: 393
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
-        width: 700
-        height: 466
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z

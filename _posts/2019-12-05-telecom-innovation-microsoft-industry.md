@@ -30,19 +30,6 @@ images:
 related:
   - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
     excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-05T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/aegean-airlines-selects-ibm-to-deliver-innovative-customer-experiences-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
     publishedDateTime: 2019-12-06T00:07:00Z
     sourceUrl: https://finance.yahoo.com/news/aegean-airlines-selects-ibm-deliver-140000979.html
     ampUrl: https://finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html

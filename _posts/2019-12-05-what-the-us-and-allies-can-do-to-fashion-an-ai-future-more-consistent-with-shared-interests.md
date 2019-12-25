@@ -70,21 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
         width: 490
         height: 360
-  - title: "Niki Looks To Solve Payments Pain Points With Its Regional Language AI Assistant..."
-    excerpt: "But technology can improve this several times over. With instant resolutions to fintech queries from novice users, Bengaluru-based conversational AI chatbot Niki is looking to do just that. The startup aims to replace hyperlocal agents or the middle-layer of human fintech assistants with its voice assistant. Founded in 2015 by Shishir Modi ..."
-    publishedDateTime: 2019-12-05T12:32:00Z
-    sourceUrl: https://inc42.com/startups/niki-looks-to-solve-p2p-payments-pain-points-with-its-regional-language-ai-assistant/
-    ampUrl: https://inc42.com/startups/niki-looks-to-solve-p2p-payments-pain-points-with-its-regional-language-ai-assistant/amp/?utm_medium=Social&utm_source=telegram
-    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/niki-looks-to-solve-p2p-payments-pain-points-with-its-regional-language-ai-assistant/amp/?utm_medium=Social&utm_source=telegram
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
-        width: 490
-        height: 360
   - title: "Niki Brings Digital Services To Tier 3 India With Regional Language AI Assistant..."
     excerpt: "But technology can improve this several times over. With instant resolutions to fintech queries from novice users, Bengaluru-based conversational AI assistant Niki is looking to do just that. The startup aims to replace hyperlocal agents or the middle-layer of human fintech assistants with its voice assistant. Founded in 2015 by Shishir Modi ..."
     publishedDateTime: 2019-12-06T07:27:00Z

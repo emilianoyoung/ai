@@ -8,8 +8,8 @@ ampUrl: https://appleinsider.com/articles/19/12/05/apple-attending-presenting-at
 cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/19/12/05/apple-attending-presenting-at-neurips-machine-learning-conference/amp/
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: AppleInsider
@@ -27,21 +27,19 @@ images:
     title: "Apple attending & presenting at NeurIPS Machine Learning conference"
 
 related:
-  - title: "Apple Attending NeurIPS 2019 Next Week, World's Largest Machine Learning Conference"
-    excerpt: "In a new entry to its Machine Learning Journal, Apple said its product teams are \"engaged in state of the art research in machine hearing, speech recognition, natural language processing, machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day.\" Apple employees will be making a ..."
-    publishedDateTime: 2019-12-05T12:19:00Z
-    sourceUrl: https://www.macrumors.com/2019/12/05/apple-attending-neurips-2019/
-    ampUrl: https://www.macrumors.com/2019/12/05/apple-attending-neurips-2019/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2019/12/05/apple-attending-neurips-2019/amp/
+  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
+    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical coherence tomography (OCT) system that automates image processing and identified tumors with ..."
+    publishedDateTime: 2019-12-06T04:03:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 155
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.C9207BA5F155917CF5DA01905DBF540E
+      - url: https://www.bing.com/th?id=ON.14F902C26C0B219B3C401AB2C0CE2F4D
         width: 700
-        height: 350
+        height: 367
   - title: "Apple attending NeurIPS 2019 in Canada on Sunday and Delivering a Presentation Titled 'Private Federated Learning'"
     excerpt: "machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day. Apple will be making a presentation on Sunday as noted below. Abstract: Federated Learning is a new approach that is picking up steam in the machine learning community as a way to improve global models in the cloud by ..."
     publishedDateTime: 2019-12-05T19:06:00Z

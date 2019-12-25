@@ -26,318 +26,247 @@ images:
     title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
 
 related:
-  - title: "Now iPhone Users Can Tap Waymo's Self-Driving Ride-Hail App"
-    excerpt: "A year after launching its self-driving ride-hail program, Waymo is offering an iOS version of its app in the App Store, making it easier for iPhone users to catch a robotic ride in the Phoenix suburbs. The announcement from the Alphabet company, born in 2009 as Google’s Project Chauffeur, represents one more small step on the long ..."
-    publishedDateTime: 2019-12-05T13:00:00Z
-    sourceUrl: https://www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/
-    ampUrl: https://www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.6591E919E670DCAB8F239EE181564E11
-        width: 700
-        height: 366
-  - title: "Waymo’s driverless car: ghost-riding in the back seat of a robot taxi"
-    excerpt: "But in this case, that’s not possible. There is, after all, no driver to ask. Last October, Alphabet’s self-driving subsidiary Waymo emailed its customers in the suburbs of Phoenix to let them know that “completely driverless Waymo cars are on the way.” For several years, Waymo has offered its autonomous taxi service to a small group of ..."
-    publishedDateTime: 2019-12-09T15:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.DA999978419E4CC8B8B6DD228E70B5A3
-        width: 700
-        height: 366
-  - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
-    excerpt: "Alphabet's Waymo self-driving car service is celebrating an important birthday today. Waymo One, its somewhat public autonomous ride-hailing service, turned 1 year old on Thursday. Even more important is where Alphabet plans to take Waymo in 2020. Waymo said it will expand the ride-hailing service to more public users next year. It's unclear ..."
-    publishedDateTime: 2019-12-05T18:45:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
+  - title: "Self-driving semi makes first cross-country trip, thanks to Plus.ai tech"
+    excerpt: "Shoppers in Quakertown, Pennsylvania, may like to know that the next stick of butter they buy may have come off a self-driving semi truck. Plus.ai announced on Tuesday that the startup completed a cross-country trip from Tulare, California, to Pennsylvania to deliver a truckload of Land O'Lakes butter. According to the announcement, the trip ..."
+    publishedDateTime: 2019-12-10T14:24:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-semi-plus-ai-cross-country/
+    ampUrl: https://www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 101
+    quality: 88
     images:
-      - url: https://www.bing.com/th?id=ON.72E1DFFFF577D41200861D62B68B25A4
+      - url: https://www.bing.com/th?id=ON.21CA96CA192544391CE95B6279DED84E
         width: 700
         height: 367
-  - title: "Waymo self-driving taxi service app finally arrives on iOS"
-    excerpt: "Waymo, Alphabet’s self-driving tech company, has officially launched a mobile app on iOS, making it possible for residents in Phoenix to directly hail one of the company’s autonomous taxis. The app for iPhone joins the Android version Waymo launched on the Google Play Store earlier this year. The move hints at the eventual large-scale ..."
-    publishedDateTime: 2019-12-05T21:55:00Z
-    sourceUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/
-    ampUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
+  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
+    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
+    publishedDateTime: 2019-12-17T07:29:00Z
+    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.8BDFBBFC8A5B01944C4B8D8813F65932
+      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
+        width: 450
+        height: 274
+  - title: "Self-driving truck completes cross-country butter haul"
+    excerpt: "Breaker, breaker, the big rig freight industry is a little closer to saying 10-4 to driver-less trucks after an autonomous truck completed a cross-country run to deliver a shipment of butter. According to autonomous trucking company Plus.ai, one of the trucks in its fleet recently completed a coast-to-coast run for Land O’Lakes butter ..."
+    publishedDateTime: 2019-12-10T15:44:00Z
+    sourceUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html
+    ampUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
+    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.6C150788C23785B68783697705F4198B
         width: 700
-        height: 437
-  - title: "Waymo's new iPhone app lets some users order self-driving taxis"
-    excerpt: "It's been one year since the self-driving taxi service opened for public (but still very limited) rides in a geofenced part of the Phoenix area. Its fleet of Chrysler Pacifica minivans and other autonomous vehicles just hit more than 100,000 rides. To celebrate, Waymo One is now on the App Store, available for download for any iPhone user."
-    publishedDateTime: 2019-12-05T18:00:00Z
-    sourceUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary/
-    ampUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-one-iphone-app-anniversary.amp
+        height: 489
+  - title: "Self-driving truck completes first cross-country trip from CA to PA"
+    excerpt: "CUPERTINO, Calif. (KTVU) - A self-driving truck completed the first ever cross-country run by an autonomous commercial freight truck. Cupertino based startup Plus.ai announced Tuesday its truck drove 2,8000 from Tulare, California to Quakertown, Pennsalvation in just three days. The commercial truck hauled a fully-loaded refrigerated ..."
+    publishedDateTime: 2019-12-10T19:51:00Z
+    sourceUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa
+    ampUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
+    cdnAmpUrl: https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
+      name: KTVU
+      domain: ktvu.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
+      - url: https://www.bing.com/th?id=ON.B6155EB377E0C115BCC6F8F2F86D6FD9
+        width: 700
+        height: 393
+  - title: "Self-driving truck completes first cross-country freight delivery"
+    excerpt: "Well, at least that's what it delivered. Silicon Valley startup Plus.ai announced this week that a self-driving semi-truck packed with a payload of 40,000 pounds of Land O'Lakes butter successfully made an over 2,800 mile trip from cross-country trip from Tulare, California to Quakertown, Pennsylvania. The trip took place over the course of ..."
+    publishedDateTime: 2019-12-11T18:44:00Z
+    sourceUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102
+    ampUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
+    type: article
+    provider:
+      name: Mic
+      domain: mic.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
         width: 700
         height: 367
-  - title: "Waymo launches an iOS app for its self-driving taxi service"
-    excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
-    publishedDateTime: 2019-12-05T23:30:00Z
-    sourceUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service
-    ampUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    cdnAmpUrl: https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
+  - title: "Self-Driving Truck Goes From California to Pennsylvania"
+    excerpt: "Dec.11 -- Shawn Kerrigan, Plus-AI co-founder and COO, talks about the evolution of driverless trucks and the technology. One of his self-driving trucks went from California to Pennsylvania with no problems. He appears on \"Bloomberg Technology.\""
+    publishedDateTime: 2019-12-11T15:10:00Z
+    sourceUrl: https://finance.yahoo.com/video/self-driving-truck-goes-california-151009303.html
+    ampUrl: https://finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
     type: article
     provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.507F778D2E8A5AE1B9BFF3D7E6191E48
+      - url: https://www.bing.com/th?id=ON.686C082B1A97F94AE068DA62ED006E89
         width: 700
-        height: 466
-  - title: "Waymo One marks self-driving service’s first anniversary with iOS app"
-    excerpt: "One year ago, Waymo launched a public self-driving ride service in Phoenix, Arizona. To mark that anniversary, Waymo One is getting an iOS app, while the Alphabet division shared usage details for the Lyft/Uber competitor. The app for calling autonomous Chrysler Pacifica minivans is pretty standard and has a layout similar to Lyft and Uber."
-    publishedDateTime: 2019-12-05T18:07:00Z
-    sourceUrl: https://9to5google.com/2019/12/05/waymo-one-ios-app/
-    ampUrl: https://9to5google.com/2019/12/05/waymo-one-ios-app/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/waymo-one-ios-app/amp/
+        height: 393
+  - title: "A Self-Driving Freight Truck Just Drove Across the Country to Deliver Butter"
+    excerpt: "If you happen to live in Quakertown, Pennsylvania, some 50 miles outside of Philadelphia, your next stick of creamy butter just may have been delivered via self-driving freight truck. It's believed to be the first time an autonomous freight vehicle has made a cross-country trip, let alone a commercial delivery. Plus.ai, the company behind the ..."
+    publishedDateTime: 2019-12-11T22:30:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/infrastructure/a30196644/self-driving-truck-cross-country/
+    ampUrl: https://www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
     type: article
     provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 59
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.415255183EB60858D816F9D7C8160089
+      - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
         width: 700
         height: 350
-  - title: "Waymo app for Valley’s self-driving ride service released for iOS"
-    excerpt: "PHOENIX – Exactly one year after debuting in the Phoenix area, self-driving vehicle company Waymo’s commercial ride-hailing service is becoming more accessible. The Waymo app, which previously was available only to enrollees accepted into the Google spin-off company’s early rider program and Android device users, was rolled out to the App ..."
-    publishedDateTime: 2019-12-06T19:42:00Z
-    sourceUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/
-    ampUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
-    cdnAmpUrl: https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
+  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-11T20:24:00Z
+    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.9843BCE691003E846A50B7122AF04501
-        width: 620
-        height: 370
-  - title: "Waymo Rolls Out App to Bring Self-Driving Taxis Even Closer to Your World"
-    excerpt: "iOS users will now have the opportunity to utilize Waymo's self-driving vehicles through ride-hailing. It has been a year since the Waymo One app became available to Android users. Waymo reports they have over 1500 monthly active riders developed in the year since launch and expect that number to increase following the iOS rollout. Eactly one ..."
-    publishedDateTime: 2019-12-05T18:08:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30138700/waymo-app-ios-self-driving-taxis/
-    ampUrl: https://www.caranddriver.com/news/amp30138700/waymo-app-ios-self-driving-taxis/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30138700/waymo-app-ios-self-driving-taxis/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.3705623F5375B628DEAD4385CFD632E7
+      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
         width: 700
-        height: 352
-  - title: "Cabinet to consider use of public roads for testing self-driving cars"
-    excerpt: "A proposal to allow public roads here to be used to test self-driving cars will be considered by the Government today. Minister for Transport Shane Ross will bring a memo to Cabinet that will mark the first step towards introducing legislation in this area. The legislation will seek to redefine in law the term driver so that autonomous vehicles ..."
-    publishedDateTime: 2019-12-06T07:09:00Z
-    sourceUrl: https://www.rte.ie/news/ireland/2019/1206/1097360-self-drive/
-    ampUrl: https://www.rte.ie/amp/1097360/
-    cdnAmpUrl: https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1097360/
+        height: 489
+  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-12T03:20:00Z
+    sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
     type: article
     provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 44
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.7663786457C632354DCCF2521BA139BF
+      - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
         width: 700
-        height: 393
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "Ride-share giants Uber and Lyft may soon have some driverless competition. Continue Reading Below Mercedes-Benz has teamed up with German-based engineering firm Bosch to develop a new mobile ride-share app that uses automated Mercedes-Benz S-Class vehicles as transportation. A pilot project for the app just launched in San Jose, California ..."
-    publishedDateTime: 2019-12-09T22:02:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars
-    ampUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
+        height: 489
+  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-10T14:03:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.A4A47FF3B20716AE315012DA802D2D61
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/PLUS-AI-TRUCK.jpg?w=1024&amp;h=716
+        width: 1024
+        height: 716
+  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
+    excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
+    publishedDateTime: 2019-12-11T11:57:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
         width: 700
-        height: 393
-  - title: "Uber Ends Self-Driving Program in Arizona After Fatal Crash"
-    excerpt: "The company said it is focusing its efforts to build self-driving cars in Pittsburgh, as well as in San Francisco Uber is pulling its self-driving cars out of Arizona, a reversal triggered by the recent death of woman who was run over by one of the ride ..."
-    publishedDateTime: 2019-12-09T18:44:00Z
-    sourceUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html
-    ampUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
-    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
+        height: 489
+  - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
+    excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
+    publishedDateTime: 2019-12-10T17:13:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
     type: article
     provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 44
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.A4CF631C5ABF92A3FCF8DFDD64924A8F
-        width: 700
-        height: 393
-  - title: "Western, Chinese consumers divided on electric, self-driving cars -survey"
-    excerpt: "(Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on Thursday showed. Consumers in some Western countries appear unconvinced as automakers overhaul their ..."
-    publishedDateTime: 2019-12-06T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/western-chinese-consumers-divided-electric-110425103.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110425103.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110425103.html
+      - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
+        width: 636
+        height: 382
+  - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-11T16:11:00Z
+    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html
+    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 43
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.54648040F7CCE5BB298C0E7D7AB42D17
+      - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
         width: 700
         height: 466
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
-        width: 700
-        height: 418
-  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
-    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
-    publishedDateTime: 2019-12-09T15:35:00Z
-    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
-        width: 700
-        height: 459
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city of Guangzhou. The South China Morning Post’s Jane Zhang took a spin as the company ..."
-    publishedDateTime: 2019-12-07T22:00:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8D72F4AC1DADCEA1DF985833B96ABF0A
-        width: 700
-        height: 393
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "What the Future of Self-Driving Cars Actually Looks Like"
-    excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
-    publishedDateTime: 2019-12-10T07:34:00Z
-    sourceUrl: https://www.inc.com/kevin-ryan/self-driving-cars-future-5g-cybersecurity.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F1ADFD651C88D3B680F784AF1E485684
-        width: 700
-        height: 324
-  - title: "Ford adding to Austin self-driving car operation"
-    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
-    publishedDateTime: 2019-12-11T22:48:00Z
-    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
-        width: 700
-        height: 465
-  - title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
-    excerpt: "Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, according to a survey released on Thursday. Consumers in some Western countries appear unconvinced as automakers overhaul ..."
-    publishedDateTime: 2019-12-05T17:05:00Z
-    sourceUrl: https://www.autonews.com/china/chinese-western-consumers-divided-electric-self-driving-cars-survey-finds
+  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 20
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.133F7429E34CB6B16DBA2B56700FA648
+      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
         width: 700
         height: 525
-  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched in Arizona, US last December. In the white-hot competition between Chinese ..."
-    publishedDateTime: 2019-12-09T00:16:00Z
-    sourceUrl: https://sg.news.yahoo.com/tried-self-driving-robotaxi-china-045809725.html
+  - title: "Plus.ai Completes First Cross-Country Commercial Freight Run by a Self-Driving Truck in Record Three Days"
+    excerpt: "CUPERTINO, Calif.--(BUSINESS WIRE)--Plus.ai (www.plus.ai), a leading provider of self-driving trucking technology, today announced that it has completed the first coast-to-coast commercial freight run with an autonomous truck on behalf of Land O’Lakes, Inc. Spanning 2,800 miles, Plus.ai’s L4 autonomous truck completed the hub-to-hub trip ..."
+    publishedDateTime: 2019-12-10T13:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191210005309/en/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
+      name: Business Wire
+      domain: businesswire.com
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
-        width: 700
-        height: 393
-  - title: "Taking the self-driving enterprise for a spin - Aera CEO Fred Laluyaux on learning from users, building a category and not being Siebel"
-    excerpt: "Laluyaux has talked previously has talked about what Aera sets out to enable as being “the self-driving enterprise” and he frequently returns to the metaphor of the self-driving car: Does it actually work? Now you have to take the car on the road and drive it across the country and see if it's actually delivering the value that you want."
-    publishedDateTime: 2019-12-09T12:08:00Z
-    sourceUrl: https://diginomica.com/taking-self-driving-enterprise-spin-aera-ceo-fred-laluyaux-learning-users-building-category-and-not
+      - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
+        width: 1200
+        height: 627
+  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
+    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
+    publishedDateTime: 2019-12-10T18:56:00Z
+    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: Inc
+      domain: inc.com
+    quality: 14
+    images:
+      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
+        width: 970
+        height: 450
+  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
+    excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
+    publishedDateTime: 2019-12-14T03:33:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/other/road-warrior-self-driving-truck-hauls-20-tons-of-butter-on-cross-country-trek-no-regulations-required/ar-AAK6psa
+    type: article
+    provider:
+      name: Allentown Morning Call on MSN.com
+      domain: msn.com
     quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.588CA5093D9CAD019A255758CEEB4E77
-        width: 700
-        height: 446
 
 secured: "+j8SogHo4QxmzQeh6nDe1AVW43GiP4KGirMGunV4wyxDWuntMGx8DLjgCcocx3KG/LweGReyWMBGX59m7ruDLyN4Us1sEgTYsnjGIzUUeddHXmUahOz8oAhqQ/wIbS+G9kjmHDHmxMGyHvPj6YUmBG8g9XxTOT1hy3OHtJgK2325FU4YjuK3cnO8d/xZzQMTvY59corwL9xGd5nKmCu8mHSVYmDgrzB+9oDqJq5cbBNzV+eu9Rf9NvtqAVB40JIfMswRULlnFlOmHysYTwQs+w==;WKXjrjnWkCKGHtvfCFrEcQ=="
 ---

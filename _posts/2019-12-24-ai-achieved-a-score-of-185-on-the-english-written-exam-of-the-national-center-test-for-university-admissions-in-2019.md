@@ -5,7 +5,7 @@ excerpt: "This reflects its research and development of corevo(*1), which is one
 publishedDateTime: 2019-12-24T14:34:00Z
 sourceUrl: https://eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.09A240E7C46C453F5C4B3C90C7F9D4CF

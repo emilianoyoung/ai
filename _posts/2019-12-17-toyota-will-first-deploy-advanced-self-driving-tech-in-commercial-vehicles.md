@@ -26,84 +26,49 @@ images:
     title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
 
 related:
-  - title: "Self-driving car firms rooted in U.S. government competition"
-    excerpt: "Bryan Salesky had little way of knowing in 2007 that his teammates and rivals in a U.S. Defense Department-sponsored competition were laying the foundations for future self-driving businesses now valued at billions of dollars."
-    publishedDateTime: 2019-12-11T11:09:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-darpa/self-driving-car-firms-rooted-in-u-s-government-competition-idUSKBN1YF18Y
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
+  - title: "Honda self-driving technology coming next year, report says"
+    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
+    publishedDateTime: 2019-12-13T21:06:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNET
+      domain: cnet.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
+      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
         width: 700
-        height: 466
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
+        height: 367
+  - title: "Trooper rear ended by self-driving Tesla"
+    excerpt: "NORWALK, Conn. (WTNH) — Troopers were stopped on the side of the highway Saturday morning responding to a disabled vehicle when their car was hit by a self-driving Tesla. According to state police, troopers from Troop G were stopped on I-95 Northbound near exit 15 in Norwalk when they were hit from behind. The troopers had their emergency ..."
+    publishedDateTime: 2019-12-07T13:47:00Z
+    sourceUrl: https://www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/
+    ampUrl: https://www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/amp/
+    cdnAmpUrl: https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/amp/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "Latin America Self-driving Car Market Size Competition, Status, and Forecast, Market 2019-2024"
-    excerpt: "Dec 05, 2019 (AmericaNewsHour) -- Latin America self-driving car market The Latin America self-driving car market is expected to expand at a CAGR of 28.5%, leading to global revenue of USD 3.75 Bn by 2024. A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-size-competition-status-and-forecast-market-2019-2024-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: WTNH
+      domain: wtnh.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Toyota Research Institute's Kuffner on Self-Driving Car Ambitions"
-    excerpt: "Dec.05 -- James Kuffner, chief executive of Toyota Research Institute - Advanced Development, discusses his work on self-driving car technology, competition in the industry and the timetable for delivering software to consumer vehicles. He spoke with Bloomberg's Erik Schatzker in Tokyo. (Toyota Research Institute-Advanced Development's capital ..."
-    publishedDateTime: 2019-12-06T04:34:00Z
-    sourceUrl: https://finance.yahoo.com/video/toyota-research-institutes-kuffner-self-043437717.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F0BFD66651D8BA6D62143481B7B2537B
+      - url: https://www.bing.com/th?id=ON.8FF6EDE4B17D51D47AAB8E0A8E3977B8
         width: 700
         height: 393
-  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
-    publishedDateTime: 2019-12-09T18:36:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
+  - title: "Self-Driving Electric Bus Heralds 'Exciting Times' for Tasmania, Says Hobart Mayor"
+    excerpt: "Tasmania’s first self-driving electric bus was introduced in Hobart on December 6 as part of a cross-agency initiative to “will explore the future of new forms of public transport,” according to a statement from the city. Lord Mayor Anna Reynolds ..."
+    publishedDateTime: 2019-12-07T02:05:00Z
+    sourceUrl: https://www.dailytelegraph.com.au/news/national/self-driving-electric-bus-heralds-exciting-times-for-tasmania-says-hobart-mayor/video/31e3d8515beab9d08ecb575acf94f0d4
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 18
     images:
-      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
+      - url: https://www.bing.com/th?id=ON.9A4238C646AFEF238AE961B488EE084A
         width: 700
-        height: 393
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T10:22:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
-        width: 700
-        height: 525
+        height: 394
 
 secured: "zgcJAdcrkdSG+LxZGp5zOWll+UqeW/WQNwEK3CYrK/VJYAYza6URZCJQ5IsiIa9dWUt5/KLfNN8t2z+pd9lfAjmC2zPqW3YpRRWFM0Q3L6sJbOqTSGpnfj+jFtlUNh4xOHh+RxvAGqEnVTQTOjKeoZ4DTrw/ap26f/EXkGNX2/ZCezKomrf2Dk+Pz87PVAgm9sf6fT95vpOziivROR5pTzawuKjQuqoUlkxwxcry0E4liIcEijasJ74d2KjKG6K7LIxtYUexgjfVGeKbm6K55g==;yfK34r8hJtd9dYFWg/5wrA=="
 ---

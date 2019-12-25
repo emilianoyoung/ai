@@ -8,7 +8,7 @@ ampUrl: https://health.usnews.com/health-care/for-better/articles/pros-and-cons-
 cdnAmpUrl: https://health-usnews-com.cdn.ampproject.org/c/s/health.usnews.com/health-care/for-better/articles/pros-and-cons-of-technology-in-health-care?context=amp
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Is Technology the Health-Care Wave or Tsunami of the Future?"
 
 related:
-  - title: "Uber says it may have to pay Waymo for self-driving car technology"
-    excerpt: "It appears that Uber is going to be dealing with the after-effects of its self-driving car technology trade secrets suit with Waymo for some time to come. In a filing with the U.S. Securities and Exchange Commission, Uber said that it “will likely” have to either enter a licensing deal with Google’s Waymo, or make some high-priced changes ..."
-    publishedDateTime: 2019-12-06T21:52:00Z
-    sourceUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology
-    ampUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
-    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
-        width: 700
-        height: 393
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
     publishedDateTime: 2019-12-09T12:55:00Z

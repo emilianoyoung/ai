@@ -121,6 +121,66 @@ related:
       - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
         width: 700
         height: 350
+  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-11T20:24:00Z
+    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
+        width: 700
+        height: 489
+  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-12T03:20:00Z
+    sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
+        width: 700
+        height: 489
+  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-10T14:03:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 38
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/PLUS-AI-TRUCK.jpg?w=1024&amp;h=716
+        width: 1024
+        height: 716
+  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
+    excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
+    publishedDateTime: 2019-12-11T11:57:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
+    ampUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
+        width: 700
+        height: 489
   - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
     excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
     publishedDateTime: 2019-12-10T17:13:00Z
@@ -136,6 +196,36 @@ related:
       - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
         width: 636
         height: 382
+  - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
+    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
+    publishedDateTime: 2019-12-11T16:11:00Z
+    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html
+    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
+        width: 700
+        height: 466
+  - title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
+    excerpt: "Twitter goes nuts over the new Mac Pro’s price tag, A self-driving truck delivered butter from California to Pennsylvania in three days, and the Chinese government wants to get rid of all of its foreign computers and software. The cheese grater is back in the news this week. Apple’s most expensive Mac Pro costs about the same as a new Corvette."
+    publishedDateTime: 2019-12-11T10:03:00Z
+    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027
+    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
+        width: 620
+        height: 251
   - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
     excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
     publishedDateTime: 2019-12-17T10:27:00Z
@@ -162,6 +252,19 @@ related:
       - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
         width: 1200
         height: 627
+  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
+    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
+    publishedDateTime: 2019-12-10T18:56:00Z
+    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 14
+    images:
+      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
+        width: 970
+        height: 450
 
 secured: "BYbqlakefXSSy3plbdVEMTcIS58ln/J0diZ3ABSe0yeumLV86IHQz8gOnsMi2eib+7IQUA+8I3ADIRPNBZk63BZGLzZ/yDCJlOhbw+EnVX3gjoj/IHYBweQcI6QP02tofh+TtCZfvdjQbWnpbsXeZ4kjdm+yYZpwebb2OjdsVamuEKSgY2FOEheSmnxF63wieSd/FA3XBAPwOCrfmxbxK4jB3VjS9NFc3a/xBD5vIAGb70emqB/x1cw+Mqaoz0vk0a+AvnIj3qFHo2Hbcn+jVg==;LZf8J8phQ2710lp+miOkMg=="
 ---

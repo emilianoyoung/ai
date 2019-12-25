@@ -31,19 +31,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EBB86A03BF18DF94F280BDF6396179BD
         width: 656
         height: 350
-  - title: "Self-Driving Electric Bus Heralds 'Exciting Times' for Tasmania, Says Hobart Mayor"
-    excerpt: "Tasmania’s first self-driving electric bus was introduced in Hobart on December 6 as part of a cross-agency initiative to “will explore the future of new forms of public transport,” according to a statement from the city. Lord Mayor Anna Reynolds ..."
-    publishedDateTime: 2019-12-07T02:05:00Z
-    sourceUrl: https://www.dailytelegraph.com.au/news/national/self-driving-electric-bus-heralds-exciting-times-for-tasmania-says-hobart-mayor/video/31e3d8515beab9d08ecb575acf94f0d4
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.9A4238C646AFEF238AE961B488EE084A
-        width: 700
-        height: 394
 
 secured: "/WybKZTRgiBv9+VMEW15PFph65si0T0qjZd/wfTr3cYxq1opVoh0d8bpjKjkVZTIbKSLFJst8RzKQapLC2r1eVORAcxAG52ETAsRleBZIpWmb9HFwvPP+kk3QZy60PHs2gmxnPbCOgwH/ceJWx46a13sesj/piXuf1qeJMLACoJK0hP3SUG3BBcx665UJR17WiSVJjrFNmjqnwVn3mb8+kSOS6/01KB/bvWepXjJiPbar8dd0A3LeQTaJ+bszy/EYjEDzu9hIUcIzhhu1f09Yw==;Hv7WLn8J0VN5wlUiQtttuw=="
 ---

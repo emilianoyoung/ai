@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T20:40:00Z
 sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,49 @@ images:
     width: 700
     height: 350
     title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
+
+related:
+  - title: "Cruise, GM-backed self-driving company, teases life ‘beyond the car’"
+    excerpt: "Cruise, the self-driving car company backed by General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads the autonomous vehicle ..."
+    publishedDateTime: 2019-12-11T19:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
+        width: 700
+        height: 366
+  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
+    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
+    publishedDateTime: 2019-12-11T14:02:13Z
+    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
+    type: article
+    provider:
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
+        width: 700
+        height: 367
+  - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
+    excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
+    publishedDateTime: 2019-12-11T19:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/cruise-gm-e2-80-99s-self-driving-division-teases-life-e2-80-98beyond-the-car-e2-80-99/ar-AAK1K4t
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
+        width: 700
+        height: 366
 
 secured: "cll2rFyWtei08poOGuA/jEwgIUge4Pfpd6pR8NtiRZ3JJ+N+cQiKDwlpFsDLcQJ6sVEiEDpftcae01YHUCkTcyuQow1oEYnxZUanhulM8ITvyGUljV4H/nJVqPGmi4nObt86CKos+vxpovydtL4Z7Uu3gUYtWOctMjpLxOOgm0okVyo6gxtNEtH0X+hTKXIa3R44MfnwYa9Ao2o56c3kradPPKOlZSlq7kB/a2fOQxvzJu1WVzze56jWdpTajG8YFAgGluRRhXmMfcp4feq59Q==;5SEhOhSXjdlcAAIexH4xuQ=="
 ---

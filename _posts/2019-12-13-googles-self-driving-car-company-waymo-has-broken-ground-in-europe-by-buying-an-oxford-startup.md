@@ -198,19 +198,19 @@ related:
       - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
         width: 360
         height: 290
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+  - title: "Ford adding to Austin self-driving car operation"
+    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
+    publishedDateTime: 2019-12-11T22:48:00Z
+    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
     type: article
     provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
         width: 700
-        height: 413
+        height: 465
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
     publishedDateTime: 2019-12-12T17:20:35Z

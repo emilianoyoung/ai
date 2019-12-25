@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
+  - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
+    excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
+    publishedDateTime: 2019-12-14T02:05:00Z
+    sourceUrl: https://www.industryweek.com/operations/safety/article/22028606/uber-selfdriving-car-units-safety-culture-slammed-by-ntsb
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
+        width: 700
+        height: 364
 
 secured: "vImTNJ9XsYYd4xuw4ckh7jYWxiTKDstNPhu02Vb0RzZ/hCrmXdRhWhEHzom40TajsLkFAdLbvEJHSf6m04CVUdQ4lXXL2MBhT+wsr6bVN4CO5+Sn8s4oKtyUE0v11+L9KvOmPIKDzIVPyvOsqMCMGOrweU3wZ7UaZrhhV6GTRVqN9AqudsIcLT1GCB+AafE4IDBcrgA3YQjKEGY8BnFsAG9M4y8C8ZJX9xACdYnzoaD4DHfRyAua+nia7mPauBlNj2vtoUesI5hoXGLRQLsjTA==;kw4rPSJnjiMVLlc7byl0Dg=="
 ---

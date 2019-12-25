@@ -24,320 +24,140 @@ images:
     title: "Chinese, western consumers divided on electric, self-driving cars, survey finds"
 
 related:
-  - title: "Now iPhone Users Can Tap Waymo's Self-Driving Ride-Hail App"
-    excerpt: "A year after launching its self-driving ride-hail program, Waymo is offering an iOS version of its app in the App Store, making it easier for iPhone users to catch a robotic ride in the Phoenix suburbs. The announcement from the Alphabet company, born in 2009 as Google’s Project Chauffeur, represents one more small step on the long ..."
-    publishedDateTime: 2019-12-05T13:00:00Z
-    sourceUrl: https://www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/
-    ampUrl: https://www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-users-waymos-self-driving-ride-hail/amp
+  - title: "Mind Tricks: How Digital Nudging By In-Car AI Will Shape Where Your Self-Driving Car Takes You"
+    excerpt: "Here’s an interesting question: With true self-driving cars, will you always be taken to whatever destination you’ve indicated, or might the AI system attempt to digitally nudge you to go to a different endpoint? Most people assume that the AI system that’s driving the self-driving car will strictly do whatever you’ve specified and be ..."
+    publishedDateTime: 2019-12-05T16:29:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: https://www.bing.com/th?id=ON.6591E919E670DCAB8F239EE181564E11
-        width: 700
-        height: 366
-  - title: "Waymo’s driverless car: ghost-riding in the back seat of a robot taxi"
-    excerpt: "But in this case, that’s not possible. There is, after all, no driver to ask. Last October, Alphabet’s self-driving subsidiary Waymo emailed its customers in the suburbs of Phoenix to let them know that “completely driverless Waymo cars are on the way.” For several years, Waymo has offered its autonomous taxi service to a small group of ..."
-    publishedDateTime: 2019-12-09T15:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/9/21000085/waymo-fully-driverless-car-self-driving-ride-hail-service-phoenix-arizona
+      - url: https://www.bing.com/th?id=ON.490A60431B515F43B53607D51EC0B4E3
+        width: 600
+        height: 315
+  - title: "Uber says it may have to pay Waymo for self-driving car technology"
+    excerpt: "It appears that Uber is going to be dealing with the after-effects of its self-driving car technology trade secrets suit with Waymo for some time to come. In a filing with the U.S. Securities and Exchange Commission, Uber said that it “will likely” have to either enter a licensing deal with Google’s Waymo, or make some high-priced changes ..."
+    publishedDateTime: 2019-12-06T21:52:00Z
+    sourceUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology
+    ampUrl: https://www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
+    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2019/12/06/uber-says-it-may-have-to-pay-waymo-for-self-driving-car-technology/amp
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.DA999978419E4CC8B8B6DD228E70B5A3
-        width: 700
-        height: 366
-  - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
-    excerpt: "Alphabet's Waymo self-driving car service is celebrating an important birthday today. Waymo One, its somewhat public autonomous ride-hailing service, turned 1 year old on Thursday. Even more important is where Alphabet plans to take Waymo in 2020. Waymo said it will expand the ride-hailing service to more public users next year. It's unclear ..."
-    publishedDateTime: 2019-12-05T18:45:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: https://www.bing.com/th?id=ON.72E1DFFFF577D41200861D62B68B25A4
-        width: 700
-        height: 367
-  - title: "Waymo self-driving taxi service app finally arrives on iOS"
-    excerpt: "Waymo, Alphabet’s self-driving tech company, has officially launched a mobile app on iOS, making it possible for residents in Phoenix to directly hail one of the company’s autonomous taxis. The app for iPhone joins the Android version Waymo launched on the Google Play Store earlier this year. The move hints at the eventual large-scale ..."
-    publishedDateTime: 2019-12-05T21:55:00Z
-    sourceUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/
-    ampUrl: https://www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-taxi-service-app-finally-arrives-on-ios-05602419/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.8BDFBBFC8A5B01944C4B8D8813F65932
-        width: 700
-        height: 437
-  - title: "Waymo's new iPhone app lets some users order self-driving taxis"
-    excerpt: "It's been one year since the self-driving taxi service opened for public (but still very limited) rides in a geofenced part of the Phoenix area. Its fleet of Chrysler Pacifica minivans and other autonomous vehicles just hit more than 100,000 rides. To celebrate, Waymo One is now on the App Store, available for download for any iPhone user."
-    publishedDateTime: 2019-12-05T18:00:00Z
-    sourceUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary/
-    ampUrl: https://mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-one-iphone-app-anniversary.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.E0D491CBDE7CB47B1C6747CE4C701366
-        width: 700
-        height: 367
-  - title: "Waymo launches an iOS app for its self-driving taxi service"
-    excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
-    publishedDateTime: 2019-12-05T23:30:00Z
-    sourceUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service
-    ampUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    cdnAmpUrl: https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
+      name: Boston.com
+      domain: boston.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.507F778D2E8A5AE1B9BFF3D7E6191E48
+      - url: https://www.bing.com/th?id=ON.5DB1135935CDA206134C13F13184C5CC
+        width: 700
+        height: 393
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "... skirt self-driving challenges Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/"
+    publishedDateTime: 2019-12-11T15:10:00Z
+    sourceUrl: https://www.detroitnews.com/story/business/autos/mobility/2019/12/11/argo-different-road-self-driving-challenges/4396982002/
+    ampUrl: https://amp.detroitnews.com/amp/4396982002
+    cdnAmpUrl: https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4396982002
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0C902EA6E1A6A4C07EC4737BC3353C69
+        width: 700
+        height: 393
+  - title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
+    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
+    publishedDateTime: 2019-12-05T10:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-2018-2024-size-industry-growth-share-global-forecasts-analysis-2019-12-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-09T18:36:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
+        width: 700
+        height: 393
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-12T10:05:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
-  - title: "Waymo One marks self-driving service’s first anniversary with iOS app"
-    excerpt: "One year ago, Waymo launched a public self-driving ride service in Phoenix, Arizona. To mark that anniversary, Waymo One is getting an iOS app, while the Alphabet division shared usage details for the Lyft/Uber competitor. The app for calling autonomous Chrysler Pacifica minivans is pretty standard and has a layout similar to Lyft and Uber."
-    publishedDateTime: 2019-12-05T18:07:00Z
-    sourceUrl: https://9to5google.com/2019/12/05/waymo-one-ios-app/
-    ampUrl: https://9to5google.com/2019/12/05/waymo-one-ios-app/amp/
-    cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/05/waymo-one-ios-app/amp/
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.415255183EB60858D816F9D7C8160089
-        width: 700
-        height: 350
-  - title: "Waymo app for Valley’s self-driving ride service released for iOS"
-    excerpt: "PHOENIX – Exactly one year after debuting in the Phoenix area, self-driving vehicle company Waymo’s commercial ride-hailing service is becoming more accessible. The Waymo app, which previously was available only to enrollees accepted into the Google spin-off company’s early rider program and Android device users, was rolled out to the App ..."
-    publishedDateTime: 2019-12-06T19:42:00Z
-    sourceUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/
-    ampUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
-    cdnAmpUrl: https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9843BCE691003E846A50B7122AF04501
-        width: 620
-        height: 370
-  - title: "Waymo Rolls Out App to Bring Self-Driving Taxis Even Closer to Your World"
-    excerpt: "iOS users will now have the opportunity to utilize Waymo's self-driving vehicles through ride-hailing. It has been a year since the Waymo One app became available to Android users. Waymo reports they have over 1500 monthly active riders developed in the year since launch and expect that number to increase following the iOS rollout. Eactly one ..."
-    publishedDateTime: 2019-12-05T18:08:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30138700/waymo-app-ios-self-driving-taxis/
-    ampUrl: https://www.caranddriver.com/news/amp30138700/waymo-app-ios-self-driving-taxis/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30138700/waymo-app-ios-self-driving-taxis/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.3705623F5375B628DEAD4385CFD632E7
-        width: 700
-        height: 352
-  - title: "Cabinet to consider use of public roads for testing self-driving cars"
-    excerpt: "A proposal to allow public roads here to be used to test self-driving cars will be considered by the Government today. Minister for Transport Shane Ross will bring a memo to Cabinet that will mark the first step towards introducing legislation in this area. The legislation will seek to redefine in law the term driver so that autonomous vehicles ..."
-    publishedDateTime: 2019-12-06T07:09:00Z
-    sourceUrl: https://www.rte.ie/news/ireland/2019/1206/1097360-self-drive/
-    ampUrl: https://www.rte.ie/amp/1097360/
-    cdnAmpUrl: https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1097360/
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.7663786457C632354DCCF2521BA139BF
-        width: 700
-        height: 393
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "Ride-share giants Uber and Lyft may soon have some driverless competition. Continue Reading Below Mercedes-Benz has teamed up with German-based engineering firm Bosch to develop a new mobile ride-share app that uses automated Mercedes-Benz S-Class vehicles as transportation. A pilot project for the app just launched in San Jose, California ..."
-    publishedDateTime: 2019-12-09T22:02:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars
-    ampUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4A47FF3B20716AE315012DA802D2D61
-        width: 700
-        height: 393
-  - title: "Uber Ends Self-Driving Program in Arizona After Fatal Crash"
-    excerpt: "The company said it is focusing its efforts to build self-driving cars in Pittsburgh, as well as in San Francisco Uber is pulling its self-driving cars out of Arizona, a reversal triggered by the recent death of woman who was run over by one of the ride ..."
-    publishedDateTime: 2019-12-09T18:44:00Z
-    sourceUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html
-    ampUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
-    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4CF631C5ABF92A3FCF8DFDD64924A8F
-        width: 700
-        height: 393
-  - title: "Western, Chinese consumers divided on electric, self-driving cars -survey"
-    excerpt: "(Reuters) - Automakers, ride-hailing and technology companies plowing money into the development of electric, self-driving and shared car services will find more enthusiastic consumers in China than in Europe and the United States, a survey on Thursday showed. Consumers in some Western countries appear unconvinced as automakers overhaul their ..."
-    publishedDateTime: 2019-12-06T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/western-chinese-consumers-divided-electric-110425103.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110425103.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/western-chinese-consumers-divided-electric-110425103.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.54648040F7CCE5BB298C0E7D7AB42D17
-        width: 700
-        height: 466
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
+  - title: "CES 2020: Embedding lidar into automotive headlamps for self-driving cars"
+    excerpt: "SiLC Technologies Inc. and Varroc Lighting Systems will demonstrate a new lighting and electronics system that will integrate lidar into automotive headlamps. The demonstration will take place at the upcoming CES 2020 in Las Vegas. Varroc’s light emitting diode (LED) headlamp will be integrated with four silicon photonics frequency-modulated ..."
+    publishedDateTime: 2019-12-09T13:34:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14384/ces-2020-embedding-lidar-into-automotive-headlamps-for-self-driving-cars
     type: article
     provider:
       name: Engineering360 News
       domain: globalspec.com
-    quality: 37
+    quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
+      - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
         width: 700
-        height: 418
-  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
-    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
-    publishedDateTime: 2019-12-09T15:35:00Z
-    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
+        height: 319
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-11T10:22:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 33
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
+      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
         width: 700
-        height: 459
-  - title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
-    excerpt: "Twitter goes nuts over the new Mac Pro’s price tag, A self-driving truck delivered butter from California to Pennsylvania in three days, and the Chinese government wants to get rid of all of its foreign computers and software. The cheese grater is back in the news this week. Apple’s most expensive Mac Pro costs about the same as a new Corvette."
-    publishedDateTime: 2019-12-11T10:03:00Z
-    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027
-    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+        height: 525
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
+    publishedDateTime: 2019-12-12T08:12:00Z
+    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 31
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
-        width: 620
-        height: 251
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city of Guangzhou. The South China Morning Post’s Jane Zhang took a spin as the company ..."
-    publishedDateTime: 2019-12-07T22:00:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8D72F4AC1DADCEA1DF985833B96ABF0A
+      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
         width: 700
-        height: 393
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "What the Future of Self-Driving Cars Actually Looks Like"
-    excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
-    publishedDateTime: 2019-12-10T07:34:00Z
-    sourceUrl: https://www.inc.com/kevin-ryan/self-driving-cars-future-5g-cybersecurity.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F1ADFD651C88D3B680F784AF1E485684
-        width: 700
-        height: 324
-  - title: "Ford adding to Austin self-driving car operation"
-    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
-    publishedDateTime: 2019-12-11T22:48:00Z
-    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
-        width: 700
-        height: 465
-  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched in Arizona, US last December. In the white-hot competition between Chinese ..."
-    publishedDateTime: 2019-12-09T00:16:00Z
-    sourceUrl: https://sg.news.yahoo.com/tried-self-driving-robotaxi-china-045809725.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
-        width: 700
-        height: 393
-  - title: "Taking the self-driving enterprise for a spin - Aera CEO Fred Laluyaux on learning from users, building a category and not being Siebel"
-    excerpt: "Laluyaux has talked previously has talked about what Aera sets out to enable as being “the self-driving enterprise” and he frequently returns to the metaphor of the self-driving car: Does it actually work? Now you have to take the car on the road and drive it across the country and see if it's actually delivering the value that you want."
-    publishedDateTime: 2019-12-09T12:08:00Z
-    sourceUrl: https://diginomica.com/taking-self-driving-enterprise-spin-aera-ceo-fred-laluyaux-learning-users-building-category-and-not
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.588CA5093D9CAD019A255758CEEB4E77
-        width: 700
-        height: 446
+        height: 419
 
 secured: "PN8xBvNYq4/GVlVzjf2y9TrmfxWtd/uZgkxy78FCxNQQ9GuqMotrr5Pv0PnUk4L+h1fRBXcMi1A5YqJEuOxypAjRyedbrnq3WN/RzYlZ196bN7bVkpEAsGd6k6zQ36pzneNzb8yi+7gBJIeJ3SQP92vzLR7WIn4DudzOJR2L+Xxgfkwt8oDKcbDChtDIyVSU92IaEbeaD1fZFBagICsV0glF3kmYCCPtSnLYsnNpj27whLvFE2Db2yl1JR/TgVObKURGpcckBBLmZX2AniIEgg==;TmaOOfwhvqYChLXH6tbUMw=="
 ---

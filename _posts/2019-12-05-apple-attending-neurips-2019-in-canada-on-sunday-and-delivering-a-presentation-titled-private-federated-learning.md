@@ -24,21 +24,6 @@ images:
     title: "Apple attending NeurIPS 2019 in Canada on Sunday and Delivering a Presentation Titled 'Private Federated Learning'"
 
 related:
-  - title: "Apple Attending NeurIPS 2019 Next Week, World's Largest Machine Learning Conference"
-    excerpt: "In a new entry to its Machine Learning Journal, Apple said its product teams are \"engaged in state of the art research in machine hearing, speech recognition, natural language processing, machine translation, text-to-speech, and artificial intelligence, improving the lives of millions of customers every day.\" Apple employees will be making a ..."
-    publishedDateTime: 2019-12-05T12:19:00Z
-    sourceUrl: https://www.macrumors.com/2019/12/05/apple-attending-neurips-2019/
-    ampUrl: https://www.macrumors.com/2019/12/05/apple-attending-neurips-2019/amp/
-    cdnAmpUrl: https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2019/12/05/apple-attending-neurips-2019/amp/
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 155
-    images:
-      - url: https://www.bing.com/th?id=ON.C9207BA5F155917CF5DA01905DBF540E
-        width: 700
-        height: 350
   - title: "Apple attending & presenting at NeurIPS Machine Learning conference"
     excerpt: "Apple has announced that it will again be appearing at and sponsoring the NeurIPS conference on Machine Learning, from December 8 to December 14. Apple's Machine Learning icon Members of Apple's product teams are to attend the Neural Information Processing Systems conference —also known as NeurIPS or sometimes NIPS - in Vancouver, Canada."
     publishedDateTime: 2019-12-05T13:59:00Z
@@ -54,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F11A8B6C7417C74F67E04CAE0DF89809
         width: 700
         height: 390
+  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
+    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical coherence tomography (OCT) system that automates image processing and identified tumors with ..."
+    publishedDateTime: 2019-12-06T04:03:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.14F902C26C0B219B3C401AB2C0CE2F4D
+        width: 700
+        height: 367
 
 secured: "B9APyo/SProyCD+1a0zFMt8ijXAeuDkDUrV8GxWSxxXmY3HIODNOobyftMhR04IUFxFkeFbBNXbvrkOtYYQlEIZvqoXjnfgMham6IADSv47Me4kII6+wQvRQGOK37qNUOs9kaU97PoERM2H2+hZ/3XPYXdNrYKfxkrx/Ay/LpXJteW30uu00uUKt1oFyAhXbBCof+xQmMaCQOFhzdHvOTsXFbxNVevm6A7H/rU9FKCn99cLrw+sCyRl9vY5z+tpvzXnMME0Siy/3z98lAEuVZw==;grvsZNZcCL2QX3540z8BTw=="
 ---

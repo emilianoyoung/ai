@@ -30,21 +30,6 @@ images:
     title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
 
 related:
-  - title: "Self-driving Tesla slams into a cop car — and the driver blames his dog"
-    excerpt: "On Saturday, a Tesla Model 3 on auto-pilot crashed into two vehicles — one of them belonged to the Connecticut State Police, according to ABC News. So why was driver relying on the self-driving software? He explained that he was checking on his dog in the back seat, said police, who were called to the scene in Norwalk, Conn., to assist with a ..."
-    publishedDateTime: 2019-12-08T20:57:00Z
-    sourceUrl: https://www.marketwatch.com/story/self-driving-tesla-slams-into-a-cop-car-and-the-driver-blames-his-dog-2019-12-08?mod=moneyish
-    ampUrl: https://www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
-    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.FE7390891F41DA6AB2A16B95726FAAE4
-        width: 569
-        height: 398
   - title: "Bosch and Daimler launch self-driving car pilot in San Jose"
     excerpt: "Daimler, for its part, in June 2018 obtained a permit from the Chinese government allowing it to test self-driving cars powered by Baidu’s Apollo platform on public roads in Beijing. (It already has permits for testing self-driving cars in the U.S. and Germany.)"
     publishedDateTime: 2019-12-09T13:00:00Z
@@ -60,36 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6FF447E6483A0E9AB299F28CCA4ED5DD
         width: 700
         height: 350
-  - title: "Self-driving baggage tractor is the latest smart tech for airports"
-    excerpt: "An airport in France has become the first in the world to test an autonomous baggage tractor in a working environment. It’s the latest example of how a growing number of industries are looking to utilize the fast-developing technology. Air France, which has a presence at Toulouse-Blagnac airport where the tractor is being tested, said the ..."
-    publishedDateTime: 2019-12-09T06:10:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/
-    ampUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.925E43835218F8D92A8B0CC0674A500B
-        width: 700
-        height: 366
-  - title: "Mind Tricks: How Digital Nudging By In-Car AI Will Shape Where Your Self-Driving Car Takes You"
-    excerpt: "Here’s an interesting question: With true self-driving cars, will you always be taken to whatever destination you’ve indicated, or might the AI system attempt to digitally nudge you to go to a different endpoint? Most people assume that the AI system that’s driving the self-driving car will strictly do whatever you’ve specified and be ..."
-    publishedDateTime: 2019-12-05T16:29:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/05/mind-tricks-how-digital-nudging-by-in-car-ai-will-shape-where-your-self-driving-car-takes-you/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: https://www.bing.com/th?id=ON.490A60431B515F43B53607D51EC0B4E3
-        width: 600
-        height: 315
   - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
     excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
     publishedDateTime: 2019-12-09T17:24:00Z
@@ -120,94 +75,94 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
         width: 1199
         height: 625
-  - title: "Cruise, GM-backed self-driving company, teases life ‘beyond the car’"
-    excerpt: "Cruise, the self-driving car company backed by General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads the autonomous vehicle ..."
-    publishedDateTime: 2019-12-11T19:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+  - title: "Self-driving car firms rooted in U.S. government competition"
+    excerpt: "Bryan Salesky had little way of knowing in 2007 that his teammates and rivals in a U.S. Defense Department-sponsored competition were laying the foundations for future self-driving businesses now valued at billions of dollars."
+    publishedDateTime: 2019-12-11T11:09:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-darpa/self-driving-car-firms-rooted-in-u-s-government-competition-idUSKBN1YF18Y
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: Reuters
+      domain: reuters.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
+      - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
         width: 700
-        height: 366
-  - title: "Honda self-driving technology coming next year, report says"
-    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
-    publishedDateTime: 2019-12-13T21:06:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+        height: 466
+  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
+    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
+    publishedDateTime: 2019-12-14T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
-        width: 700
-        height: 367
-  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
-    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
-    publishedDateTime: 2019-12-11T13:42:00Z
-    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
+        width: 600
+        height: 315
+  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
+    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
+    publishedDateTime: 2019-12-13T22:32:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
+    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
-        width: 700
-        height: 350
-  - title: "Trooper rear ended by self-driving Tesla"
-    excerpt: "NORWALK, Conn. (WTNH) — Troopers were stopped on the side of the highway Saturday morning responding to a disabled vehicle when their car was hit by a self-driving Tesla. According to state police, troopers from Troop G were stopped on I-95 Northbound near exit 15 in Norwalk when they were hit from behind. The troopers had their emergency ..."
-    publishedDateTime: 2019-12-07T13:47:00Z
-    sourceUrl: https://www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/
-    ampUrl: https://www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/amp/
-    cdnAmpUrl: https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/amp/
-    type: article
-    provider:
-      name: WTNH
-      domain: wtnh.com
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.8FF6EDE4B17D51D47AAB8E0A8E3977B8
+      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
         width: 700
         height: 393
-  - title: "We tried out a futuristic, self-driving robotaxi in China"
-    excerpt: "In the white-hot competition between Chinese companies to push out robotaxis – self-driving taxis ordered through e-hailing services – two contenders have emerged as the first to launch public trials of their autonomous cab services in the country. Search engine giant Baidu’s autonomous driving arm Apollo rolled out a trial operation of ..."
-    publishedDateTime: 2019-12-09T07:58:00Z
-    sourceUrl: https://www.techinasia.com/tried-futuristic-self-driving-robotaxi-china
+  - title: "Ex-Apple engineers cook up cheaper, more powerful tech for self-driving cars, and Volkswagen is interested"
+    excerpt: "The start-up has improved the capability of its technology. Porsche has invested an unspecified amount of money in Aeva. A Silicon Valley start-up called Aeva is inching closer to its goal of making self-driving technology more affordable. The start-up has a smaller and more capable version of its hardware, which collects and processes real ..."
+    publishedDateTime: 2019-12-11T14:07:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.64F16B514DFEBCC1ED35A8E532FDD3DC
+        width: 700
+        height: 466
+  - title: "Honda still on track for at least some kind of self-driving car in 2020"
+    excerpt: "A couple of years ago, Honda HMC, +1.19% announced it would have self-driving cars ready for freeway use around 2020, with even more autonomy coming around 2025. In America, Honda is spearheading its autonomous technology development through its Acura luxury brand. Honda has always taken a very deliberate and measured approach to ..."
+    publishedDateTime: 2019-12-09T09:03:00Z
+    sourceUrl: https://www.marketwatch.com/story/honda-still-on-track-for-at-least-some-kind-of-self-driving-car-in-2020-2019-12-09?mod=mw_latestnews
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
+      - url: https://www.bing.com/th?id=ON.C7D1ECFF3BFF77C9030FA1FFBECB8E17
         width: 700
-        height: 390
-  - title: "Legislation to test self-driving cars on Irish roads approved"
-    excerpt: "The Cabinet has today approved legislation to test autonomous vehicles on public roads. Transport Minister Shane Ross welcomed the first steps to testing self-driving cars on Irish roads today. The minister said the test would be occur \"within strict guidelines\" and that his department is \"eager to facilitate this growing technology\"."
-    publishedDateTime: 2019-12-06T17:49:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/business/legislation-to-test-self-driving-cars-on-irish-roads-approved-968929.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/business/legislation-to-test-self-driving-cars-on-irish-roads-approved-968929.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/business/legislation-to-test-self-driving-cars-on-irish-roads-approved-968929.html
+        height: 393
+  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
+    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
+    publishedDateTime: 2019-12-09T16:13:00Z
+    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
+    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
+    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
     type: article
     provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
+      name: thenewswheel.com
+      domain: thenewswheel.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.CE6BBB3EBCC6360A2395B8D267AF1393
-        width: 600
-        height: 325
+      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
+        width: 700
+        height: 466
   - title: "UAE to soon have 5G-enabled self-driving cars?"
     excerpt: "The deployment of self-driving cars is part of a government strategy to make Dubai a world leader in autonomous transport. Part of the plan is to transform 25 per cent of the total transportation in Dubai to autonomous mode by 2030, involving five million daily trips and saving 22 billion dirhams in annual economic costs in the process."
     publishedDateTime: 2019-12-09T03:43:00Z
@@ -223,6 +178,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2C3464C927EC7698ACE557CAF0EDE859
         width: 450
         height: 300
+  - title: "Uber Ends Self-Driving Program in Arizona After Fatal Crash"
+    excerpt: "The company said it is focusing its efforts to build self-driving cars in Pittsburgh, as well as in San Francisco Uber is pulling its self-driving cars out of Arizona, a reversal triggered by the recent death of woman who was run over by one of the ride ..."
+    publishedDateTime: 2019-12-09T18:44:00Z
+    sourceUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html
+    ampUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
+    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.A4CF631C5ABF92A3FCF8DFDD64924A8F
+        width: 700
+        height: 393
   - title: "Ford Expands Self-Driving Business Footprint In Austin"
     excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
     publishedDateTime: 2019-12-11T20:05:00Z
@@ -238,51 +208,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
         width: 656
         height: 492
-  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
-    excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
-    publishedDateTime: 2019-12-13T20:19:00Z
-    sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
-    ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+  - title: "UAE belts up for self-driving journey"
+    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
+    publishedDateTime: 2019-12-16T04:33:00Z
+    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
+    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
+      name: Gulf News
+      domain: gulfnews.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
-        width: 700
-        height: 393
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T20:24:00Z
-    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
-        width: 700
-        height: 489
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-12T03:20:00Z
-    sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
-        width: 700
-        height: 489
+      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
+        width: 540
+        height: 405
   - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
     excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
     publishedDateTime: 2019-12-13T20:42:00Z
@@ -335,36 +275,19 @@ related:
       name: AZFamily
       domain: azfamily.com
     quality: 39
-  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-10T14:03:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
+    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
+    publishedDateTime: 2019-12-11T14:02:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 38
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 37
     images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/PLUS-AI-TRUCK.jpg?w=1024&amp;h=716
-        width: 1024
-        height: 716
-  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
-    excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
+      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
         width: 700
-        height: 489
+        height: 418
   - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
     excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
     publishedDateTime: 2019-12-10T18:53:00Z
@@ -404,34 +327,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 32
-  - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T16:11:00Z
-    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html
-    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
-        width: 700
-        height: 466
-  - title: "New rules to allow testing of self-driving vehicles on Irish roads"
-    excerpt: "The Government is to introduce legislation to allow for the testing of autonomous vehicles on Irish roads. The Department of Transport say that Cabinet has agreed to support a range of measures to be delivered under the Future Jobs Initiative. The Road Traffic (Miscellaneous Provisions) Bill will be amended in the Oireachtas to allow for ..."
-    publishedDateTime: 2019-12-06T17:25:00Z
-    sourceUrl: https://www.irishtimes.com/business/transport-and-tourism/new-rules-to-allow-testing-of-self-driving-vehicles-on-irish-roads-1.4107190
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.62F27FAF8F10B1849CAF3C52B06A77D3
-        width: 700
-        height: 367
   - title: "Irish potholes and poor road markings great test for self-driving cars"
     excerpt: "The Government is to amend road traffic legislation to allow for the testing of self-driving vehicles on Irish roads. So what has the State got to give the autonomous driving world? Rain and poor road-markings. It seems that Irish motorists’ pain is the automotive industry’s potential gain. Self-driving vehicles use a combination of video ..."
     publishedDateTime: 2019-12-07T06:09:00Z
@@ -484,19 +379,6 @@ related:
       - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
         width: 700
         height: 467
-  - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
-    excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
-    publishedDateTime: 2019-12-11T19:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/cruise-gm-e2-80-99s-self-driving-division-teases-life-e2-80-98beyond-the-car-e2-80-99/ar-AAK1K4t
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
-        width: 700
-        height: 366
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z
@@ -510,58 +392,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
         height: 445
-  - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
-    excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
-    publishedDateTime: 2019-12-14T02:05:00Z
-    sourceUrl: https://www.industryweek.com/operations/safety/article/22028606/uber-selfdriving-car-units-safety-culture-slammed-by-ntsb
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
     type: article
     provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
-        width: 700
-        height: 364
-  - title: "CES 2020: Embedding lidar into automotive headlamps for self-driving cars"
-    excerpt: "SiLC Technologies Inc. and Varroc Lighting Systems will demonstrate a new lighting and electronics system that will integrate lidar into automotive headlamps. The demonstration will take place at the upcoming CES 2020 in Las Vegas. Varroc’s light emitting diode (LED) headlamp will be integrated with four silicon photonics frequency-modulated ..."
-    publishedDateTime: 2019-12-09T13:34:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14384/ces-2020-embedding-lidar-into-automotive-headlamps-for-self-driving-cars
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: Yicai Global
+      domain: yicaiglobal.com
     quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.96514C1E2B98202122F2AD4752AF56CC
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
-        height: 319
-  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
-    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
-    publishedDateTime: 2019-12-10T18:56:00Z
-    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
-    images:
-      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
-        width: 970
-        height: 450
-  - title: "Founder of self-driving truck firm calls truckers' long workdays a 'tarnish on the glory of humanity'"
-    excerpt: "The founder of self-driving truck firm TuSimple, Xiaodi Hou, says that truck drivers being required to work long hours on the road is a \"tarnish on the glory of humanity.\" Hou is the founder, president and chief technology officer of TuSimple, which develops technology for automating long-haul truck journeys. The self-driving trucks still have ..."
-    publishedDateTime: 2019-12-08T16:42:00Z
-    sourceUrl: https://news.yahoo.com/founder-self-driving-truck-firm-164202058.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 9
-    images:
-      - url: https://www.bing.com/th?id=ON.D9F62A2BD3E5ABB4AE173F4F5BCF764C
-        width: 700
-        height: 393
+        height: 466
 
 secured: "dpJT/HVTzlAZD8YD8OOgJMLySbKzHHdyqnuRBaUWt3fAeriEfUgiThp2W4Fe3184VK1OiwaeHnItATCLQQSS97vUtUYF7xERrvYTJZghK4qPCVwF9X9SA2/XPGQlaTi6dLQVG38j+y5bxIZpzsEozjD+qxbiszXkEMI/841VieSR6Tv3ArDG/F4oLU0BknKpyx6+ZRf1Me/tqcj1xSphgGgqbjIKCslECWD489oL+A3JwdLkzkgEx1HjeE/w6m7kt5yIL0yUMuzmJEPBRERVjg==;YNF3a1S5pDvrYsaAaqWFsA=="
 ---
