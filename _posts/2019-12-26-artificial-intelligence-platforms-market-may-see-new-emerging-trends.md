@@ -53,6 +53,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
+    excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
+    publishedDateTime: 2019-12-26T11:07:00Z
+    sourceUrl: https://www.openpr.com/news/1885852/speech-and-voice-recognition-market-set-for-rapid-growth-with
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "dBEKVlzAFFsiWlxxMaQdXlZupWPQJt5z/EjgtlFj1CYdnGvDv2rOvYQl+N5gjMN1n5Wu8SmJthLaZi8LiDlgxFLAjph6oGmpi+nH3PRFkElEE9rV2aa4JykHK8ldCwQQig7YeVJExKO8z3LykEHDOCgTFIzzjw3YupGGpPXuN9N7qCIiIALjANwHrPKsVMC4tDFPJ4yq6tIl39r+gWgn2v1t2kr5jL0zQogtfB+vHRCHWapyAhMlMJDZTXO080Uz6zxBjJHFID85jSaRyhO7/w==;dJhgsrA0mlNWQ6SXsilsDg=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -26,21 +26,6 @@ images:
     title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
 
 related:
-  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
-        width: 700
-        height: 466
   - title: "Fintech startups to make a bigger move in 2020, experts suggest"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-24T06:59:00Z
@@ -56,19 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
+  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
+    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
+    publishedDateTime: 2019-12-23T12:00:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 37
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
+      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
+        width: 700
+        height: 466
 
 secured: "UPJ3dn3wRKTWsRAYXR2PwSa3MgZbdpRKF8WKi7qDPm37+ATYK27GSo+OP/AYBU0dW1cDUyhQUPC1DTpsXRCJM362rpAr0PKFTnpjNAk864QVLNBQTLBKvm1hxW90WWsVCCb2TJg89IKZ+AI858Eojv0PhYs+RS1lfmHYtGkwQs5OOWQ3tYZ0zhgf7Gsio7eCShmB7trcYY85T02oeJb8F1pKEvww6nLEI1e7FGHSiqDVnLo4AlEhnuXdObGGIj6YuXTGK2iXYJvHEwlcyv9x+Q==;QRk32Ua5TgkELyOACybCGQ=="
 ---

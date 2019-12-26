@@ -63,19 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ADFADAC1235C5E236FE8DDAD7A63D7A7
         width: 700
         height: 284
-  - title: "Understanding Our Future with Robots with the New Center for Robotics and Biosystems"
-    excerpt: "He noted the challenges of creating trustworthy and fair artificial intelligence and robotics, considering the lack of the social and legal norms around robots’ behavior compared to humans’. “Usually when we talk about regulation and law, engineers are especially worried that we’re putting the brakes on innovation, but I think if done ..."
-    publishedDateTime: 2019-12-06T21:03:00Z
-    sourceUrl: https://www.mccormick.northwestern.edu/news/articles/2019/12/understanding-our-future-with-robots-with-the-new-center-for-robotics-and-biosystems.html
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.F4964FBE811459F2EBC2D42E9A288508
-        width: 700
-        height: 367
   - title: "Japanese-Israeli partnership launches 'job agency for robots'"
     excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
     publishedDateTime: 2019-12-16T15:16:00Z

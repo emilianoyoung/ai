@@ -1,11 +1,11 @@
 ---
 category: news
 title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
-excerpt: "Machine-learning models are like pancakes; the first one is usually crummy. In fact, if they fed on models, developers might drop shirt sizes before they got one to the table. Speeding up iterations and cutting guesswork as well as cost can expedite an algorithm’s trip to piping hot, accurate insights. ML doesn’t just sit there — it works ..."
-publishedDateTime: 2019-12-04T00:53:00Z
+excerpt: "Machine-learning models are like pancakes; the first one is usually crummy. In fact, if they fed on models, developers might drop a shirt size before they got one to the table. Speeding up iterations and cutting guesswork as well as cost can expedite an ..."
+publishedDateTime: 2019-12-04T00:36:00Z
 sourceUrl: https://siliconangle.com/2019/12/03/aws-revs-machine-learning-train-custom-silicon-new-sagemaker-goodies-reinvent/
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -16,12 +16,11 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.749E1BDE084E5579FDB70662F0E6CD0F
-    width: 700
-    height: 466
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/Brian-Hall-AWS-reInvent-2019.jpg
+    width: 772
+    height: 514
     title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
 
 related:
@@ -41,8 +40,8 @@ related:
         width: 700
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "As CEO Andy Jassy presents it, AWS—like rivals Google Cloud and Microsoft Azure—wants to become the leading, full-service environment for data scientists, data engineers, and non-specialist developers to run all of their machine learning workloads. For AWS this means a triple-layered stack of services, starting with the basic building ..."
-    publishedDateTime: 2019-12-05T11:04:00Z
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -50,10 +49,10 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 103
+    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
-    publishedDateTime: 2019-12-04T20:48:00Z
+    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
+    publishedDateTime: 2019-12-04T20:45:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
     provider:
@@ -61,11 +60,11 @@ related:
       domain: sdtimes.com
     quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
-        width: 700
-        height: 335
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
+        width: 900
+        height: 431
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -92,35 +91,24 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-    publishedDateTime: 2019-12-03T18:23:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    publishedDateTime: 2019-12-03T09:16:00Z
+    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
+    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
+      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
-        height: 525
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-    publishedDateTime: 2019-12-04T00:14:00Z
-    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.52955C3AB42254C636E380E50047BF5A
-        width: 700
-        height: 525
+        height: 466
   - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ML more expansively. Launched in 2017, there have been numerous features and capabilities ..."
-    publishedDateTime: 2019-12-04T09:38:00Z
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
     sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
     type: article
     provider:
@@ -128,36 +116,10 @@ related:
       domain: cloudpro.co.uk
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.3EEAE00C803847411B5E000CCF2AD641
-        width: 700
-        height: 525
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
-    publishedDateTime: 2019-12-06T00:00:00Z
-    sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
-        width: 800
-        height: 500
-  - title: "Going meta: learning algorithms and the self-supervised machine with Dr. Philip Bachman"
-    excerpt: "Deep learning methodologies like supervised learning have been very successful in training machines to make predictions about the world. But because they’re so dependent upon large amounts of human-annotated data, they’ve been difficult to scale. Dr. Phil Bachman, a researcher at MSR Montreal, would like to change that, and he’s working ..."
-    publishedDateTime: 2019-12-04T11:26:00Z
-    sourceUrl: https://www.microsoft.com/en-us/research/blog/going-meta-learning-algorithms-and-the-self-supervised-machine-with-dr-philip-bachman/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.BE2E02F14C993276709E7DD42793D530
-        width: 700
-        height: 365
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
 
-secured: "P63pd1c3b8heHVucpRso/zVYugu+8vFbotYsrmNR4Wl8vEhmI6ncRkXnzBQwqkRosRFNq2co0ygFmnaqME4cSnM8Z9QQbSyg+VtDsS51G/9plC+I23SPa6n9SciMT3Cs1QgeVK/UN4u8DVW2ceYsWRr4ESxOZ3MHKqg1aMo2m7+k9Tev0NsJCc9Wl79i2V1u1VhOQEsMCTuZ/g+dauiHgGki/bnoquhgXYG/zWsSwJCb7jFfda/ReEIEx4rKpe43hxCNfeb0WxdBMJ1ZuPgI9g==;cKd3otGmYo0tBo9d4vx3eg=="
+secured: "D2fpuLhKwKJWM3OP+l/QfFvo6MTUu5JKTYaqjVM15LIp9UP9kyefTBXUveDmhUsLctzrl1U2LYz7rsKzasaz2cmOVz1B99GIu/1zBD/+2pwzp5OEakVZ0xKpdgFMFrIEPcLAd5JlUnzKasukOVpj+kqcGuEFD3wf/DusnoNEDf2NNsR04wlclojC6LP/DcaUaVy5nQlfgwH206hbSMKC0UujwMoAolwTILboq2bv+qx/zo2DER+V6Yt/8oWtGxxtNMK1s72bMoGN1MwrevrQVA==;R4CNWr00IA44M5SYlj5fqQ=="
 ---
 
