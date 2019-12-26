@@ -8,8 +8,8 @@ ampUrl: https://www.labroots.com/trending/technology/16224/artificial-intelligen
 cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16224/artificial-intelligence-ai-improving-immunotherapy/amp
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 69
+published: true
 
 provider:
   name: Labroots
@@ -19,32 +19,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Artificial Intelligence to determine whether immunotherapy is working or not"
-    excerpt: "Researchers working on Artificial Intelligence has hit another milestone as they have ... lab would help oncologists know which patients would actually benefit from the therapy, and who would not. “Even though immunotherapy has changed the entire ..."
-    publishedDateTime: 2019-11-25T05:10:00Z
-    sourceUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/
-    ampUrl: https://www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    cdnAmpUrl: https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-to-determine-whether-immunotherapy-is-working-or-not-714476/amp/
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 71
-    images:
-      - url: https://st1.thehealthsite.com/wp-content/uploads/2018/12/Artificial-intelligence.jpg
-        width: 675
-        height: 365
-  - title: "Using artificial intelligence to determine whether immunotherapy is working"
-    excerpt: "\"Sometimes, for example, the nodule may appear larger after therapy because of another reason ... Case Western Reserve University. \"Using artificial intelligence to determine whether immunotherapy is working.\" ScienceDaily. ScienceDaily, 23 November ..."
-    publishedDateTime: 2019-11-23T19:01:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/11/191123100631.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 62
-
-secured: "EYJiP4Kr9j4kcQ4W7WT1vKJy5Du2sN3GU36XQIYfGdwsHv556BVlTAT7JBYVaATmKfkCSJvuqX08ymCCdSs/vTHR9onFvoP+Zj88CKMwlic69btpOtbBxBgNWuT6Hm3QagLkF7Kd8t7dmrN6o1On7PBUSyrbDZsj3jwqe6PbY585FJy2mcedfV9ErqGLRzv8zEX1gu6k58DshgpbJUx+ZkDzwe5invpouLPMV1a5w3Z2F5THL0eF9kwcfTsE5jq4nfQh/6CKyNsXwPHjW40iSA==;4HOcFj74NL8RUXD90DIlzQ=="
+secured: "yYb0edIk/Go3MN04D7gAek0jtC+or3+MJLBEKwITihZDGs01tn9GFWfYlcjH3iaGklOX3Etd1xyJfEH4Iafcnz6/XaJq4rnrPT/zrKEHhzjNXbI4F1+sCGd9mZBjm0M4O5zDH2rTp06mf+URdES6KKzDfKxBO6RI8V60+uCVAtiykYF3h0pUbHEc1n2ldpnMuDfVDBUlSpJMhbt8WkjPzKllNkbaVmdEsLlXUzyBxRIV4R9lA5emtTP3GOgNNNCqejlL+O/s3+fmG19gc0WIYQ==;TxZ1/jG6hqqOXOWEUlvMXA=="
 ---
 

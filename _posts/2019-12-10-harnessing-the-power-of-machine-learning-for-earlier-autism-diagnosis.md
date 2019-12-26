@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
         width: 578
         height: 289
-  - title: "As DeepMind's founder leaves, is Britain's brightest AI lab really free from Google's control?"
-    excerpt: "When the promising British artificial intelligence start-up DeepMind was bought by Google in 2014 for a reported £400m, the deal came with strict conditions meant to ease fears that its world-leading technology would be exploited by the US tech giant. The company would set up an independent ethics board to preside over its development of ..."
-    publishedDateTime: 2019-12-06T06:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/06/deepminds-founder-leaves-britains-brightest-ai-lab-really-free/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/06/deepminds-founder-leaves-britains-brightest-ai-lab-really-free/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/06/deepminds-founder-leaves-britains-brightest-ai-lab-really-free/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 64
-    images:
-      - url: https://www.bing.com/th?id=ON.577C4FBA0519DCB79F7F6B88B2370AE4
-        width: 700
-        height: 436
   - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
     excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
     publishedDateTime: 2019-12-10T21:24:00Z

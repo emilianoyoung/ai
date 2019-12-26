@@ -48,20 +48,7 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
         height: 484
-  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
-    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
-    publishedDateTime: 2019-11-27T09:30:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
 
-secured: "acxjnlu0blt3zh7ucBQd829pvf90Fh8qEFU3vKyi9jOcr7hZZ60OMn3HihPvipALr6etIBhrUi5MYdIH/4AF+Rrnw/KLY8UjIBgbf6pBc+n/F92O89Kidj9JFvlzK9ns9rPn8B5pHxZUiPIYFPAMwvGxg6KrrVRWWWz/9rXTgtJKd5WM24ZLGHSEfL+S0QIDrsD2HFIED3UthuEAi2jsxByqm2M9hc6ug4/5JhV6k3z+cGLomFwBlt2Orx8nnehhwoPjz/sGhLPhGa/vSJF+Vw==;AlneM0/q7x+qM2DG82VuyQ=="
+secured: "aXUym2V2Md1+QHZmOacU8CMagiWhCm3CzU6Hmx8kwrqwSmS01lSJ9vlzWLn995iQ1yXG1Zec3cx1ES6SNh1FB5MYEICoyjbOtXqpaF1ENaH9TWtDvlm9z3E4WYOpCuqEIInnHNnlEsn7BmYI3aVh5RDyMH3SPJQqmcA1XClBICN0gWSCVlBfmLsxSHS0DcSqUdLq8J/RGAQhxI2umoOgnkwr1zNjb+MVVtIkueTSE4GqD73GL9iQFJb8BMl8janAvWuKQjgXeTbX7/Rb/8UiPw==;gjq57SsH+ky40EL8TOk79g=="
 ---
 

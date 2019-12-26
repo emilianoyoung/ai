@@ -53,21 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
         width: 578
         height: 289
-  - title: "As DeepMind's founder leaves, is Britain's brightest AI lab really free from Google's control?"
-    excerpt: "When the promising British artificial intelligence start-up DeepMind was bought by Google in 2014 for a reported £400m, the deal came with strict conditions meant to ease fears that its world-leading technology would be exploited by the US tech giant. The company would set up an independent ethics board to preside over its development of ..."
-    publishedDateTime: 2019-12-06T06:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/06/deepminds-founder-leaves-britains-brightest-ai-lab-really-free/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/06/deepminds-founder-leaves-britains-brightest-ai-lab-really-free/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/06/deepminds-founder-leaves-britains-brightest-ai-lab-really-free/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 64
-    images:
-      - url: https://www.bing.com/th?id=ON.577C4FBA0519DCB79F7F6B88B2370AE4
-        width: 700
-        height: 436
   - title: "Harnessing the power of machine learning for earlier autism diagnosis"
     excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
     publishedDateTime: 2019-12-10T14:30:00Z

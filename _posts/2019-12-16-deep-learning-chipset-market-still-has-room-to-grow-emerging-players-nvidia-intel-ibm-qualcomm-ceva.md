@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Law Market 2019 Global Analysis and Outlook :AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Law market research report from Reports Value consolidates the most important industry information while highlighting essential and valuable data. A report on the global Artificial Intelligence In Law market has come out incorporating its research and analysis."
-    publishedDateTime: 2019-12-06T05:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2019-global-analysis-and-outlook-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
     excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
     publishedDateTime: 2019-12-16T06:26:00Z

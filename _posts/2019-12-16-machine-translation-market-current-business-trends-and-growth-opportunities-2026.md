@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Law Market 2019 Global Analysis and Outlook :AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Law market research report from Reports Value consolidates the most important industry information while highlighting essential and valuable data. A report on the global Artificial Intelligence In Law market has come out incorporating its research and analysis."
-    publishedDateTime: 2019-12-06T05:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2019-global-analysis-and-outlook-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Life Sciences Market Disclosing Latest Advancement 2019 to 2024"
     excerpt: "Additionally, as of March 2018, the company has entered a partnership with IBM to make use of IBMs AI platform, IBM-Watson, to improve clinical trial recruitment, and make use of intelligent AI algorithms to predict medication efficacy. Such initiatives are encouraging many companies to invest in AI solutions tailor-made for clinical trials."
     publishedDateTime: 2019-12-13T04:34:00Z

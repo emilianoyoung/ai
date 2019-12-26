@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WBALTV11
+  domain: wbaltv.com
 
 topics:
   - AI
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 525
 
-secured: "YgPYy/EUnWnRm5e/GGlyv/m/oh0927AyevNETShpqPNZMYAZsAU1QBKxfsL1kcHUH1GSMS4xEqBCLeVHC0Hyt/oUQfSSsHYgFy2h0jgSna+MO8isCtzCgdngELufcmfsJBDOQZWTTcuzTpJKLdnJEJsm+j2pPoRSn/zROopGJEQR3CPuUw+G7V/PYqrE6UWQlG9hEBDVNHaHgh7GLjauE8eL7nyVpreX0gNuGPML8TooFQiUzSpmHVWocmx6mcfyub3/05P05QutEfADHXkHZQ==;45bYAdN995t4qTvVCWPIeQ=="
+secured: "dJwB7kNkLjTR0bJh0q/e8zaJTaaCwYothOvRoWRgoyTJ87wmqNNNvFM/4/Gv4CUUL87wAUZiV7QUWD4WWh7qw/ymQh9rdOTO/DcINQKK8fdvx6s+0/slZzdZfTdZwUBCE/SmPoPiMOOuIOv4SlQrTGzfLIblI4XLC1Af6W5tLZyRtAlahD2iXHELOOf6DLX7Sreu0/cjvCoGZvpCwUlWp6A+vYVXKAY65mfCGq7qI0PN480ztz6CWNyfkuOeiOklDqCC1FHOaBhbbreUpvQKdg==;y/1HvRR/4nSNE6QhAGmgOw=="
 ---
 

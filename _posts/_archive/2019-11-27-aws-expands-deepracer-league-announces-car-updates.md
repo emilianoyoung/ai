@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -48,20 +48,7 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
         height: 484
-  - title: "AWS DeepRacer Update – New Features & New Racing Opportunities"
-    excerpt: "I first wrote about AWS DeepRacer at this time last year, and described it as an opportunity for you to get some hands-on experience with Reinforcement Learning (RL). Along with the rest of the AWS team, I believe that you should always be improving your ..."
-    publishedDateTime: 2019-11-27T09:30:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-deepracer-update-new-features-new-racing-opportunities/188623
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
 
-secured: "4iFlF3UfUaqszpVMnAfybTfWfZVCVt1nXfiFSakcWwIX5ONjFI8MbjwbtmdgHTzeufff97ZHsjnf2EveluQHYJENRpmfM4QGUCXXnInD/JNpYj1D51ogLg/5JkNvQggVAeeuUim/4SSfjuj71CnxcNLIsTozUKJgEXHveyfxj5vbOqxLlM37cPiZu9iLk2EaH+KOPfjp8NX0KjGeQlKvzx0l7eOlau9Ujrc8qXgpESef9EsmkxxAFPnoMaBLNfeKmDH/Ol+ajCZvTGsNbCXSOA==;aQfmnroQNOBhsfY9Jyy/Kg=="
+secured: "E/BBXIzAEPdYBVmkzI3QB3D3b06wA/D6t8+tn5uCTiEfpxNCTKDpl+VXRZBRh2KNOV4+3BxlJrIDMRQu4hqfIOJRxt7T3JDurHOKcZql6WX8AqtDlu+zsX24czNkGQ4N2kGQ/xQIdJr71m/tqJX/d9nKvv73eNsXHBpNg4PdIxFMtQZvZURKRa8RV7DO9sipCYAi8lQ/ieL8RdLaZkYX8KEA+ULZsltqlvdYdAVh+RirO0p4TKpdRG2aF3Y30eJaYziI7lPh+ZJE/wARSAVZHA==;ruXm15nvZ8fQGzUsuRI4Fw=="
 ---
 

@@ -84,19 +84,6 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/11/an-image-grab-taken-from-a-spacex-video.jpg
         width: 1024
         height: 576
-  - title: "SpaceX Launches Beer Malt, Caring Robot and ‘Mighty Mice’"
-    excerpt: "It's the third in a series of Budweiser experiments to look at how barley germination is affected by weightlessness. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It's named Cimon, pronounced Simon, the same as the prototype that flew up last year. This ..."
-    publishedDateTime: 2019-12-06T06:02:00Z
-    sourceUrl: https://www.nbcmiami.com/news/local/spacex-launches-beer-malt-caring-robot-and-mighty-mice/2159130/
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C270732A8416CA2BD9F8AC0D576B1430
-        width: 700
-        height: 393
 
 secured: "QzoBlsznm0SI45FezQkRP3BPy8HbcATMf2S7aXACFUIs9y/YbN5pZvtbk6i4RisW+RRHul/wT1/wzs5nQ58X19sZ/l01Xi+psjmPubH581U88WTNFtxCqg68cF7Cjl8AbsjQncvc92AMLwAEuBFz6DJBZmQqF+lqK+1igbYzU+UcS7v4m8WP4EAOdzeTf9yCh7kZEPKJfBb+5Eq2X0tW14ivJmo1+2ncyATtSempnsze+bIGq2l8f1GpPeQfPW/xPaXdFfCohp68rqsnZHsbMg==;lTNpk+MA+QeQH7B/IV43Og=="
 ---
