@@ -28,15 +28,28 @@ images:
     title: "Automated Material Handling Equipment Market 2019 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
 related:
-  - title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- AI in Social Media Market Research Report, by Technology (Deep Learning ... Key players Some prominent players in the AI Social Media market are Google (US), Facebook (US), AWS (US), IBM (US), Adobe Systems (US), Baidu (China), Salesforce (US), Twitter (US) and Snap (US). Other emerging players in the AI ..."
-    publishedDateTime: 2019-12-10T12:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-2023-competition-status-and-forecast-market-by-players-regions-2019-12-10
+  - title: "Wearable AI Market 2019|Top Key Players Analysis, Trends, Global Size Forecast To 2025"
+    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Wearable AI market is segregated on the basis of Product as Smart Watch, Ear Wear, Eye Wear, and Other Body Wear. Based on Deployment the global Wearable AI market is segmented in Cloud and On-Premises. Based on End-User Industry the global Wearable AI market is segmented ..."
+    publishedDateTime: 2019-12-09T02:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2019top-key-players-analysis-trends-global-size-forecast-to-2025-2019-12-08
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market size (2018-2026) Business Revenue, Trends Plans, Top Key Players"
+    excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include brand purchase advertising, workflow management tools, trend predictions among others."
+    publishedDateTime: 2019-12-06T11:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2018-2026-business-revenue-trends-plans-top-key-players-2019-12-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -8,7 +8,7 @@ ampUrl: https://tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-n
 cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-new-world-artificial-intelligence/
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -53,19 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10E80718BADF6231E76F23627BB6EFAE
         width: 700
         height: 429
-  - title: "AI judges and verdicts via chat app: the brave new world of China's digital courts"
-    excerpt: "Artificial-intelligence judges, cyber-courts, and verdicts delivered on chat apps -- welcome to China's brave new world of justice spotlighted by authorities this week. The paper was released this week as judicial authorities gave journalists a glimpse inside a \"cyber court\" -- the country's first -- established in 2017 in the eastern city of Hangzhou to deal with legal disputes that have a digital aspect."
-    publishedDateTime: 2019-12-06T11:21:41Z
-    sourceUrl: https://www.msn.com/en-us/news/world/ai-judges-and-verdicts-via-chat-app-the-brave-new-world-of-chinas-digital-courts/ar-BBXQkYd
-    type: article
-    provider:
-      name: AFP on MSN.com
-      domain: msn.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.E9BA7C07C3CF7E4C7AF5273152C57D64
-        width: 600
-        height: 315
 
 secured: "D2ipBtap1of0Cus3hJQMEtix8xSxnEeJKdkBdgWYJb/TkwNU64siv6aQ0kTKUvOfG1f7G/E0uVHTfvp1mchY+FbqFAdnH4UtznxyWIYGDLoIO/xELk7KnCV5p/VgG6j1K+aiNgOCc80Ov+syik3LWy12X4USTcoUQnV0m8wR5nVQKjq0gjdqnKlppMDS6OpTdEW+h3G1rrqmggVCGZXpRazTsIBJ1CRlYCTmbRZ8sskWBHaoV6kvdfFHgcXdvXDJAPuq6Vqj/8YEa2GdmC7OEA==;QZ3O9deExZ8ldLD/BH/xog=="
 ---

@@ -2,7 +2,7 @@
 category: news
 title: "AWS beefs up SageMaker machine learning"
 excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-publishedDateTime: 2019-12-05T11:04:00Z
+publishedDateTime: 2019-12-05T11:03:00Z
 sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -96,20 +96,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
-  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
-    publishedDateTime: 2019-12-03T18:09:00Z
-    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    publishedDateTime: 2019-12-03T18:23:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: Yahoo News
+      name: YAHOO!
       domain: yahoo.com
     quality: 54
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
-        width: 1280
-        height: 960
+      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
+        width: 700
+        height: 525
 
-secured: "hpb7eJpdY/2AoenXk9/foNRryv7PCZd8kYqvbVTOodVMa0kIc4uumt4givzBNOnvxhrsQ4H71LqFuQfhFv0ckFDudVLk8nT/+pNObGHWdjdJxh8fA8NYF5O4RAksOMhChfQ7EYQPdV45RK5Md0I+15y9u2VaIlBugXUQPauqBa60xxzq5Ni+eikEHvBXin2BTlQM0a6n9XFQ/idVFxbSHrM2xNqSv3zSe03kX88H/uHlM/0gm7C7cGQ/mA8ILOi9KIb+Uy0zzQh2hjU3DAYGkA==;ucMjGNTVlLi/UGroaAQD9g=="
+secured: "27G7cAFzI/u71oE+9G18kRAPTuCldGAsVQLlJJ5H6NOxWnbN+0su1edPOKYDwCkFkurvc1vr4zYLMIJBZw//exKoRIDPqYNOiZcTU9iIArQMNjqHa1mcvQlPQuodgxfXr8CYgm5zwBtiSoL5b7MJnhQOlT6+bILMY/tVq5ehtFQsIca/j5JGoWqirHJ0PKda3NJdQRTP2U1E9HW74Cr1K5nxrN+RzIyJ0hkV2n2pH1Fpwb2C4AiAQrt/CtJYIQg9YJkl2t6if2j11z8mu8FFew==;Z1W35qnFcfF+n9zW1PM7wA=="
 ---
 

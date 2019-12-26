@@ -53,19 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.28029F2A682B372DFCCAF8F2CEC5BD81
         width: 700
         height: 466
-  - title: "AI judges and verdicts via chat app: the brave new world of China's digital courts"
-    excerpt: "Artificial-intelligence judges, cyber-courts, and verdicts delivered on chat apps -- welcome to China's brave new world of justice spotlighted by authorities this week. The paper was released this week as judicial authorities gave journalists a glimpse inside a \"cyber court\" -- the country's first -- established in 2017 in the eastern city of Hangzhou to deal with legal disputes that have a digital aspect."
-    publishedDateTime: 2019-12-06T11:21:41Z
-    sourceUrl: https://www.msn.com/en-us/news/world/ai-judges-and-verdicts-via-chat-app-the-brave-new-world-of-chinas-digital-courts/ar-BBXQkYd
-    type: article
-    provider:
-      name: AFP on MSN.com
-      domain: msn.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.E9BA7C07C3CF7E4C7AF5273152C57D64
-        width: 600
-        height: 315
 
 secured: "cVS5nzqpf2G1qZM26ttqYmrxz3ftktcSOBNBn0ohJd5vuRVESHThsUR3ZJt1G7zY2RamXDbmEqjosdixuAaTLVgYyWOTH+s1NIZoKteqP8KRPAXLrK5UlXDACHzxn+uX0KZhl3jLl6fvCo+v7CApnmwg8MA/bKvyT7S6vgrTUAsqZsHWwSq8AZn9x4Fr6M7ptH3RGU/nEsSWlKEMUgOBKpHgMbYXPCW5DGQvfE23z+CYrlkRWH0VSZ+jLLufPAVD06+oy7ovx1fWq0LlbPAMUg==;19cbHnfNU+Gni+anallgfw=="
 ---

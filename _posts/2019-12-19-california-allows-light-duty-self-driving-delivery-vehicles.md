@@ -45,15 +45,15 @@ related:
       domain: engadget.com
     quality: 54
   - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
-    publishedDateTime: 2019-12-22T12:03:00Z
-    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-    ampUrl: https://amp.azcentral.com/amp/2709275001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
+    excerpt: "For example, \"GM has demonstrated leader-follower capability,\" GM Defense President David Albritton told the Free Press. Leader-follower means a manned vehicle leads a dozen unmanned vehicles using GM's self-driving vehicle technology. By removing soldiers from those dozen trailing vehicles, human safety rises dramatically, said Albritton."
+    publishedDateTime: 2019-12-22T12:05:00Z
+    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+    ampUrl: https://amp.jsonline.com/amp/2709275001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2709275001
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
     quality: 41
     images:
       - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
@@ -102,6 +102,15 @@ related:
       - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
         width: 700
         height: 367
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "jrqidRcIPmSaEjeGQxuPkby7OuDuZi2hYV3HEYhx2qwHfStudEJh2Dr/glfWzUohPqZHKcox/eqL1JDLfko7Ser9U4PshQYVjvXwvxDqoYDxhhheRqArLJEsHwXUESx5eWgRUJJSrjH+vxUFRZtt7nhQLMtI5hzpd496v19VuDlaswwE0R5pke/5vpROYHVA8kF1TZFmsGLScB9jQKtrEpqa6QbLPS6yXnny5HK8RBjS3To3w7HIBLhFD/qf0M9CcTvr/1MOdOldUtpYBeotTw==;0yIz7T2ifyb67/6+MEHeOw=="
 ---

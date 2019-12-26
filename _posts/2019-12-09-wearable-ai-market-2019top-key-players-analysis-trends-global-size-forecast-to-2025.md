@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-09T02:12:00Z
 sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2019top-key-players-analysis-trends-global-size-forecast-to-2025-2019-12-08
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -35,7 +35,20 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automated Material Handling Equipment Market 2019 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
+    publishedDateTime: 2019-12-09T02:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2019-12-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

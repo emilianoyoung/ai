@@ -39,6 +39,17 @@ related:
       - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
         width: 700
         height: 366
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
     excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
     publishedDateTime: 2019-12-11T20:40:00Z

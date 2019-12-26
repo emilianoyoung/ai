@@ -25,19 +25,17 @@ images:
 
 related:
   - title: "Russia's Sberbank agrees venture with driverless technology firm"
-    excerpt: "Russia's largest lender, Sberbank , has added driverless cars to its list of technology ventures, by teaming up with AI transport developer Cognitive Technologies, the two companies said on Thursday."
-    publishedDateTime: 2019-11-28T10:59:32Z
-    sourceUrl: https://www.msn.com/en-ca/money/topstories/russias-sberbank-agrees-venture-with-driverless-technology-firm/ar-BBXsdKI
+    excerpt: "The new company will be engaged in developing “digital economy projects in transport, agriculture, computer vision and artificial intelligence,” the statement said. Russian internet giant Yandex currently leads the way in Russia’s driverless car ..."
+    publishedDateTime: 2019-11-28T10:59:00Z
+    sourceUrl: https://www.reuters.com/article/us-sberbank-driverless-deal-idUSKBN1Y217X
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Y217X
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Y217X
     type: article
     provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.321D1BF58A9BA57EB568599410B9218E
-        width: 700
-        height: 367
+      name: Reuters
+      domain: reuters.com
+    quality: 69
 
-secured: "HjdTGCZ8h2foJ3kXlwQz0fT9LPGzLHjdtaHDj0jKMmGBVRCZkWM9sksKlogAcfBHLfcv7TVdBfcHmOH3vk8yx2VUpCw0okqO7GvEnBLvK7RSqRoTWo5sw3Sw6SHi4o5zgO4gTPMJX5Ag8G1kVRBGEGz4SDP7lR+R0DMSOPOTkfmu5uJTd9kg4UJOetiZJzen8P2bWjqrg7VfMilWd7A1W1pIRomWLGtymJZ+gmTnRs6ceZpUV1dzYiOb46L9mC23EsmAujRXPCphDuDgtLeeLg==;ywGTKy9/oKbsT3KKQe3ZLQ=="
+secured: "StsvVRSYeMA9LACi/pFdZrRSRvHZ3EIXP7LM2aX6RE86oto6LWATlCCGA7V60QzNpQAZQxK/+ljuL3aLw3th6r8ldG+jhxQfzgI1bcldeuemXWafowStZOMqqTqXBig+NunEOqXpLZCGTthDVd6mKk51G9cII7mw+Id7+b5+/J1OxtDzUtDVclwnhvqXal9PvLUi/uGk7OVZtl4gTSF1WkZiJhXh0ru8uHte7NhNA3q9cx8tdVki36mA8Ad0+y1FaQYA30MB3eRSVDoj+43QQg==;XkiTLj/uzeQopRXvSBiYRA=="
 ---
 

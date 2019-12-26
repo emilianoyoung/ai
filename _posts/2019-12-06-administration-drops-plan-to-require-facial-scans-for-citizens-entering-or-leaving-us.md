@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9A7AEC101F83C31541E3983A866CF6EB
         width: 620
         height: 413
-  - title: "Department of Homeland Security drops plan to require facial scans for citizens entering or leaving US"
-    excerpt: "\"Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.\" Even so, Markey said he still intends to introduce legislation that would block department officials from requiring such scans. Jay Stanley, a senior policy analyst with the ..."
-    publishedDateTime: 2019-12-06T11:16:00Z
-    sourceUrl: https://www.stripes.com/news/us/department-of-homeland-security-drops-plan-to-require-facial-scans-for-citizens-entering-or-leaving-us-1.610069
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 8
-    images:
-      - url: https://www.bing.com/th?id=ON.939477F9503622A41A88865A3C088C09
-        width: 490
-        height: 327
 
 secured: "R8eY/J80jpBhKTpUY6jJZeNiweaJn6XjFpRiPGG6Zwme/R/PmgL3mqnfHKeYRIVujNrmaUXmsIohFHqEP9zqLApIKARwusYFK4O0NHHsuA1YoRU16c0pRRaqqhJu4XUUgdqX5eSOBQ16W9gfCGYibwYEHKdLMLbQX3t+/6X5qaTddUGm6cRHWzbEGqm4AvlqPRhA41YwZ+Uq6bVF1lkCtkU9tPr4Yhk//lyyzDGP+uGG/us5k8Zr4qd2mEI9OiZzGsSkSHF7i4UmRJWKr50UCA==;skeqPLUGWb5cgQKO2sd31Q=="
 ---

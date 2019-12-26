@@ -2,16 +2,22 @@
 category: news
 title: "General Motors pushes for self-driving car tests sans steering wheel"
 excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
-publishedDateTime: 2019-12-23T18:40:02Z
-sourceUrl: https://www.msn.com/en-us/autos/news/general-motors-pushes-for-self-driving-car-tests-sans-steering-wheel/ar-BBYhprm
+publishedDateTime: 2019-12-23T18:36:00Z
+sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
+ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: CNET on MSN.com
-  domain: msn.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -200,6 +206,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "dL8nEOmaBl65kfGvMWjUius2tjbiWRY/c1xO/guNmBEHplG5M9WfASzCFxaZwqL4SwdkQrduVNVEQNUb7N8LlBZ/DloEQff8Y9SmulssK5F0MCr0cq94nFEvpvKRoPhME2WapjAP7GSkCPirNab9NhiI6W6zP31yP/bVmiKlmD+0M6cUED30R3V22Palbee0jSf5XHfUiJQF7yvLF/fQ15ctj1/2iTlYGC8tMvkmI9G6NQjeWmgDNuYzsriJ18xqgGhQjYE8PacTHPu4V9PrJw==;+FJobvZV3yU7ot9lm9xkFg=="
+secured: "wdG5dtJs5L16BWdcSBeq1jItKhkRwvXxcVu53dlStva2mCNrN5I+3Hg7uQXPjYI/q/GIWfYru+6hKphAIZ1dscLsB5B+zwMYOt7QzWKxNqirhoSJTILdwL7oJDrxOk/Nrs52N3QA2wYd2mqT45cSUCqdBm8xNJWMwmMf8DkbRxLxxxuA9tFtq8J4ZRbXnHx2c3B+Ug4TDDV0EamIZbnBSzrGoXo/Sjtm51wNWUl2zMtPTPI6mAbjqhd4IsZ+9NuGAvztDPsYNyk7lGT+qbXD6w==;DoQrDCjpHJ7rDJ5GfU9jDg=="
 ---
 

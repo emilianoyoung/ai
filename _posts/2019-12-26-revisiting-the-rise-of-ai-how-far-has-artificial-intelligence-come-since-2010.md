@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-20
 ampUrl: https://www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/biggest-ai-advances-of-the-2010s/?amp
 type: article
-quality: 100
-heat: 100
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9B152BD465CA08D633924659F99E7AFC

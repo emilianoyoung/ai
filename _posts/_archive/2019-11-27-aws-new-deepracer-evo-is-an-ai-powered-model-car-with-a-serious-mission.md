@@ -47,6 +47,6 @@ related:
       domain: zdnet.com
     quality: 84
 
-secured: "3gdhw3uTWsSK7OVHxK0xYFlSw+P56s38imY3NnqxD6PmOJKkr3Xiq2u1JZaXsTBQYDzxpKKBJgjjWVDudzL8rucKtrTfujPYqv2mxLdseUJiGpTu1dJ5X32OIR+a3BHm8+pq1k1kKTL3PLxpd2G5iaKl7gzax+VVeVjVFMZsu5j22KBbJHlpV/0TrQwo5/RogWm89tWbM3fCfGTVl9EZlKSUWOEX/X4sf1Gx27l31VuzYWBcY6nyidyUo2x5dk7JOnxsmJnGgLN3hqXOCeOIpA==;/pab0ClMPCBBbVvf7ujuNA=="
+secured: "+oZ3HoGSMtWeg10xhuAfam1XtNon6529GsLFuD8OvDBAyz/NAlWLnLUyFjGmr++Q6/UP6IpepVKe8Z+1ZNp7SHT1xmVZ3QYSAxKB8QBR0Mmv2lvjNhHtd+VNXOZ69ouMlT0nEF5U0QhhzNvoI255/IHAHItaH8247J4DjmqfBhz+W4ZOy6gD4F0i5I/1i21ilNXniKVxn/h8L9g+4r9lvVE00mMR7za+7qknsBvDA9ZW/MqeQaN7ONyrkN9qs6UUG5YjgsXPl5TOXqhurSHxww==;BE+IfXfnKugaNlTmvCL79A=="
 ---
 
