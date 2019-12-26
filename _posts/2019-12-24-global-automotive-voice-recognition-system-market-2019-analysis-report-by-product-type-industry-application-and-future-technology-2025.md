@@ -273,6 +273,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
+    excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
+    publishedDateTime: 2019-12-26T09:56:00Z
+    sourceUrl: https://www.openpr.com/news/1885808/artificial-intelligence-ai-in-manufacturing-market-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
     publishedDateTime: 2019-12-20T16:02:00Z

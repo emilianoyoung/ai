@@ -257,19 +257,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Healthcare Natural Language Processing Market Business Opportunities and Future Scope 2019-2025"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- Global \"Healthcare Natural Language Processing (NLP) Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report ..."
-    publishedDateTime: 2019-12-06T08:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-business-opportunities-and-future-scope-2019-2025-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Medicine Market : Key Facts and Forecast Predictions Presented Until 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Medicine Market was valued at USD 1.6 Billion in the year 2017. Global Artificial Intelligence in Medicine Market is further estimated to grow at a CAGR of 38.7% from 2019 to reach USD 21.05 Billion by the year 2025. In the global Artificial Intelligence in Medicine Market by ..."
     publishedDateTime: 2019-12-12T05:19:00Z
@@ -400,21 +387,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in BFSI Market to Reach $247.36 Bn, Globally, by 2026 at 38.0% CAGR: Allied Market Research"
-    excerpt: "Natural Language Processing, and Context Aware Processing) : Global Opportunity Analysis and Industry Forecast, 2019–2026.\" According to the report, the global AI in BFSI industry was estimated at $17.76 billion in 2018 and is expected to hit $247.36 billion by 2026, registering a CAGR of 38.0% during the estimated period. Drivers ..."
-    publishedDateTime: 2019-12-06T08:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-bfsi-market-reach-247-083000189.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-bfsi-market-reach-247-083000189.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
-        width: 400
-        height: 400
   - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
     excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
     publishedDateTime: 2019-12-11T09:49:00Z

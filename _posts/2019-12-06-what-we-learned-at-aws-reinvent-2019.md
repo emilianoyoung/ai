@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
         width: 600
         height: 315
-  - title: "View from the airport: AWS Re:Invent 2019"
-    excerpt: "which has integrated AWS machine learning algorithms into various parts of its organisation, found itself in the same position. From player performance to business processes, the technology will run throughout the NFL franchise over the next five years. But as its tech lead, Chip Suttles, told me, it also uses Office 365 and Azure. Similarly ..."
-    publishedDateTime: 2019-12-06T08:21:00Z
-    sourceUrl: https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8333/view-from-the-airport-aws-reinvent-2019
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0D09571667C79185BAAC3971327D3FF6
-        width: 700
-        height: 394
   - title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
     excerpt: "The AWS re:Invent conference showcases a wide range of third ... and disaster recovery as well as take advantage of customers' increasing need for artificial intelligence, machine learning, and analytics to better manage their cloud-based workloads."
     publishedDateTime: 2019-12-12T13:56:00Z

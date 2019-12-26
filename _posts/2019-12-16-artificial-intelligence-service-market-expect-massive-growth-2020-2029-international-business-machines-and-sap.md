@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Speech Recognition Market Growth and Precise Outlook 2019-2025"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- Global \"Speech Recognition Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the overall ..."
-    publishedDateTime: 2019-12-06T08:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/speech-recognition-market-growth-and-precise-outlook-2019-2025-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
     excerpt: "Dec 13, 2019 (Innovative Reports via COMTEX) -- According to the latest report by Big Market Research, theArtificial Intelligence (AI) in Agriculture Market size is projected to grow in the upcoming years. This research reveals a distinguished approach about impactful factors directly or indirectly impacting the growth of the Artificial ..."
     publishedDateTime: 2019-12-13T08:51:00Z

@@ -51,19 +51,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FA0F794A55B2EEC03F9AAB5711C9D47C
         width: 700
         height: 680
-  - title: "Observe.AI Raises $26 Million to Digitally Transform the $300 Billion Voice Customer Service Market with Artificial Intelligence"
-    excerpt: "With this relationship, Microsoft customers can leverage Observe.AI's platform through its Azure marketplace. \"At Microsoft, we're thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI continues to define how AI can transform the customer experience, impacting ..."
-    publishedDateTime: 2019-12-10T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/observeai-raises-26-million-to-digitally-transform-the-300-billion-voice-customer-service-market-with-artificial-intelligence-300971971.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
 
 secured: "fFETATs1lWEcDqsRP+dMb7JKw8kyg/D+CLs/jL0NEnuIv2RqeY8KgFK3FvmBIEHC9ofoiGYOGWZwXTO0v6wvuhffG+gx0PJEywp1ebVDyyt3yxbuC4DR5ltOODMyDyHBFAsN4SZRpynPwTz1lxbz3GW8VoNgidibLaLDyGsIflAgVU39zWA7JjNEYspz4IfpLYaXNjQaJHc38/dRjuyJjkXr0t1aU/1Qp0gd1kUXQuPq0aETlovew27zYYZJFNyLht6krJY/nVcdK3SRXU542A==;GR6hb1ocA4BlWQ0uxiTciQ=="
 ---

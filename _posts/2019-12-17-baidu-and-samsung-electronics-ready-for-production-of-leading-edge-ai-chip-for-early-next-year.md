@@ -2,25 +2,29 @@
 category: news
 title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-publishedDateTime: 2019-12-17T23:45:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191217005832/en/Baidu-Samsung-Electronics-Ready-Production-Leading-Edge-AI
+publishedDateTime: 2019-12-17T22:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 72
+heat: 132
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://mms.businesswire.com/media/20191217005832/en/763619/23/Baidu_Kunlun_chip_02.jpg
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
-    height: 627
+    height: 630
     title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
 
 related:
@@ -97,6 +101,6 @@ related:
       domain: tmcnet.com
     quality: 7
 
-secured: "dUBO8lP7QeGj+P5xzhbRgc8GM/SWWx4UzfzP87TDLDRJIvaNSgYZeoHWAo3T9NBKDxb2YFV7+4RTm721Mixl1ERLzhySqwuRd1Jhti2il73+wEVY1/weFu60Z80RyKol0EpxKD5BSSYDABPmWTEKmuDY0cyYqPxCJk1xh3spfQhUa2ssSgmjt1vkGQf6NnK6IoYoGobsy7UdVHcPRnzIeRC4Nn+JYZWQxikEIMYLZciNsrQpCCmLIu8+mwBZxXYhnAlRGpKS9wqrmfJHPrrI0w==;T2cQI6ziB/3/9RUMcHMdsA=="
+secured: "EELNfvKwgTVuAij4abe7lIIZcBgwV1EdNqm1iynNQIB6/C0j0yuFRB4tXCprc3X8WTpNeMftkqGukSw+mryaVBRo/bZ/MnCQq7dVgjcHx5wg82YJykfc9Qw5A0olIDkinmI7fKjmx2j3KshEpytjGQ/NvgK7IEhL+Hly4BJeofxU2e3Pq7KpV+4+ST91xQk3hL0FYdliBZgKmhs4kPPMqjOLGAfIpJVieR1lnbktvGh/hJiKxww6YP16ei41v2Q5hwhWmji4u7viViOA8GV+eQ==;+X0WtHjBB2Om3szpnqFh3w=="
 ---
 

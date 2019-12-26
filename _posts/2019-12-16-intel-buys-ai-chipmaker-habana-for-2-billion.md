@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Intel buys AI chipmaker Habana for $2 billion"
-excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out ..."
+excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
 publishedDateTime: 2019-12-16T16:15:00Z
-sourceUrl: https://www.yahoo.com/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
-ampUrl: https://www.yahoo.com/amphtml/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
-cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/intel-buys-ai-chipmaker-habana-150356967.html
+sourceUrl: https://www.yahoo.com/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+ampUrl: https://www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
 type: article
 quality: 74
 heat: -1
@@ -729,6 +729,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "UAhUF1I2T+I3X9TKnWND9/FYDUBYaQO9i0+CqD9reuFnJLk6kykVVM9Q3SRStTzNHM+K3FcRsyOeXVXgY/2m/IL3gVFRnq5Y+2MXGy87SqrsppljSt9PMXZMskWYJtaHNXSrncr032oV8LPr640L3vr1r9+iywN3m90hLqCk21aZ2r6rF3KZdjbJm0yE4TLUWldp5WzU+Ick++sClZUAE+OVfHKuGU1+VLViD78qF1QucSPXLOG1/EGSbYGC2CX+Qe2MNb3/9Ab/WuXqxR4ccw==;HfSzzY9l+fkS7Cpa89lRkw=="
+secured: "6aRi3V8IXN3+5KLSJgtiF/kV60wPWE183AJis8ijD3s9+NL26rGsCJbGDXI9idgbhcLjrBapz514WCVmpkHJMa0SmaCZC5wp6cnvwNClvvS4+BsWRwmgmoJpamFp57P49ZOq+Y3/eubT9ESbJBprvCMRrXyP0a4fOSPmcRMFIaYAlzmYWsgrPz1mLxIvjXRm3Aog12UXk3mHmaWU4/WYbbgRII34ev3GCD80afRhsT/0eS3khiqBW3TaqK0aJr9F7KAa0G7TvAo2hpwu4/QrEw==;/Ze7c9w/bnpx3NaDuwg4kg=="
 ---
 

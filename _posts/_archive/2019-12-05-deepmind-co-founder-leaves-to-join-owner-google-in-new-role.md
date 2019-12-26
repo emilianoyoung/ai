@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
         width: 555
         height: 330
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -144,6 +131,6 @@ related:
         width: 632
         height: 422
 
-secured: "QZwo6bOmekc8ZZBsItmM1mLsAJlM6wOxYnO936jH2TdbllOcjpxTE4QF8Qza8Sk8jaXlBDXHylW/ZxClNO5qwoJ9eO9voE6S/UNJLxiKyat9GowOdRIDgXpP6YZ3/zHhMINCFdqiq01TXBWn/JIPvRJvJnzZ10AI7TKXHhiiCIt9Iz29wTcqcUR8s0Yc/FrpagKLZOybeWsyI0vdyG9gzWmtaVWkg8hdq/8SmMq7oDiCupkOkIQVdVud9tY01FtNvXjOY1bhZPrX245BYiulwA==;I5tb2PrWAEGGavs9kbz37A=="
+secured: "n0F3UiDJIf+vA3ddwiTVZLe/ef2VigPVFafC1/FjCk5h0Dhq2hGMcxF+NTKMlc+LSrnjxLzat1q//M3YDwLqshrs+99lnIgbvs0z1BhlVJRfwnbPfdSZEYol9gJs9bVTpSm8TN66zq3uuQyzwf3+WN/EPB4j3xyCu18jI3v6I6EBfTF/wpMKwj9LHqN41p2Xd0Hmh80GFbccEpDymDVdhn5aID8Yd/i12XnHqlmAqWKPsQ84yyGTr9thj2XegBnMJaIQV5td3L5KWVy7faQjLg==;HlbhPVW7l53ipHjSqEd3Gw=="
 ---
 

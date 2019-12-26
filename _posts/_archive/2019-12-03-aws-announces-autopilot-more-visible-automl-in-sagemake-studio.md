@@ -1,29 +1,21 @@
 ---
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
-publishedDateTime: 2019-12-03T19:28:00Z
-sourceUrl: https://au.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
-ampUrl: https://au.news.yahoo.com/amphtml/aws-announces-autopilot-more-visible-191207851.html
-cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-announces-autopilot-more-visible-191207851.html
+excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+publishedDateTime: 2019-12-03T00:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: MSN
+  domain: msn.com
 
 topics:
   - AI
-  - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
-    width: 700
-    height: 525
-    title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
+  - Machine Learning
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
@@ -36,8 +28,34 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 69
+    quality: 101
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
+    publishedDateTime: 2019-12-03T20:24:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
+    images:
+      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
+        width: 1000
+        height: 667
+  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
+    publishedDateTime: 2019-12-04T00:20:00Z
+    sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
+        width: 700
+        height: 525
 
-secured: "c/NGIHeWgq3XNUTAyc2cuKKOF8qhioRGiq/NxnG2ibPsizNlB2edQcOr+apM2bK1IRhFPpx9CcET0dpC678MM0kZdt7U9kvtcARDHE7E0GNIBVSlsFviMNldHNYQ8RHdM0ZPSIV8+nKTLQ8mKf4d+hsU/tm0QlDMagWLhZB27S4K+h0qnnydO06m31rf1JDJYpPSTTc18w4TF+LbwSbRJ1bIFpM8b++WS/Ms8rtzGpE5aYt7H9hQwVcIMkoeTQgvU1Z1W3m6NtUQ/vVWcy5RxA==;F65M7JDXd79o1N4S2JJV+A=="
+secured: "xdzc7W45g84oH9p6rB7XsnhAE+qvamBjQbjijZdYHV9cQIWaiHiAvhFb2gBhj/xuZJMCs83eWJ5j8kFleCqYLRkPrPzz5fWoysmGAaFhIfLWxwNDEmeegy/3CaAKn4bJEkgYF7TI2T75WNugR+fOy9U0d3zwmwQ4OUxXNqdLlqmq20sectSguuSPkrmtlu2M4xCknqwB5qHCGjLe1HefTfbVTH2KSnGJmtq25ehezZ/yHczD+DOTtVLlXyZxBCjDVVynUIWXRHN3rNw66yYsAQ==;91r/Xafuj2q9hxK2Pj31ag=="
 ---
 

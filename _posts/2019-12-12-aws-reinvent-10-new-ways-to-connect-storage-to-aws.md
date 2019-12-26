@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FF20B0CA2B6F27DEEC22EA94C6FA3056
         width: 700
         height: 393
-  - title: "View from the airport: AWS Re:Invent 2019"
-    excerpt: "which has integrated AWS machine learning algorithms into various parts of its organisation, found itself in the same position. From player performance to business processes, the technology will run throughout the NFL franchise over the next five years. But as its tech lead, Chip Suttles, told me, it also uses Office 365 and Azure. Similarly ..."
-    publishedDateTime: 2019-12-06T08:21:00Z
-    sourceUrl: https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8333/view-from-the-airport-aws-reinvent-2019
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0D09571667C79185BAAC3971327D3FF6
-        width: 700
-        height: 394
 
 secured: "0TcUSv4VCmxOJXQHn1fEmlIuLkDEW/7YB7j2nGNf0qF7x4LQ2mIMgUvrSxAxQh25r+H4WyAMryj7x4J0G9Brmel7DoaomnqA8ajftczkYfOKk3+2uK7Curm0gL4AZ1eQmVRN4FA8jWgV/9r3b4BmxX+QsUy78A8Fs2a2SLUB8g8wn9Hcov9nOdbQ53mpJpDer8UjIePWCZAaUq0O2casPgsDWic+FISlx9odePixwnTr/IvIEdjKXfVLkvtxzGqfc3MUjYbpyMLsst4c937+BQ==;RxhMr14/5kbeMGrljGMLkg=="
 ---

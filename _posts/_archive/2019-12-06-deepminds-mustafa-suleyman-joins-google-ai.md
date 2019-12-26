@@ -84,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
         width: 555
         height: 330
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -148,6 +135,6 @@ related:
         width: 632
         height: 422
 
-secured: "ltRrXf82hl9xeL1sQT7PRdsP/bPc2oPd4vOYLVxE3Zk0POTPGNZRJuS8oAaaUKjaaaMCIv+rdfFn7HVDvjD9zk8ELFlj+DL+dpkzUgMi9+7cmRFHbsNAL6+Xn5lzJuB5SMlMelTHH5AI09Zq3JWGL0W5rx3TGSt110koYli34ZIOzyA+peMPy6ORuUZMCOPzJa4o6Gan+S1Mt5RWULGEAYDiMMvdSj3i+mlSiK6Gqs4MYRyZED9bfCr8KZZSPpPZWfxfGNlXfLCpJwFPt46GEQ==;BJ1phCWQ/LEsKN1B9iO37w=="
+secured: "l8mgdQQ1nlnpW/bvWv8BZE5fm9o7T3jJ8c2sx5k59VeZVD12jQNYngRna1ezBejt7/73thEnIjbDuWtx+UV4uA5wTyXwa1yeuilE2O/uS44zkxekZUEDoV1aKw5i1lL0M+sM8oZ7ZNBK4Ym0wv1noEc9Pp1gTO34cH9xYWq+6mTpkM8r7KYGw4vYWB2wYCrP1EUzI/3VoLq94SGdXrnIm01wQ8znWJEBqHfj7rnIZpRojpO6waEtKK87qDhSWO3jApKP0uVolDQ7jC7O6fZItQ==;sqfao0EEzogb1CbjchMDAw=="
 ---
 

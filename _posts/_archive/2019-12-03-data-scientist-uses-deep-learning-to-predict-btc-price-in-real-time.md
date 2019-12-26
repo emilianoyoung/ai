@@ -43,7 +43,7 @@ related:
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:03:00Z
+    publishedDateTime: 2019-12-05T11:04:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -66,7 +66,7 @@ related:
         width: 700
         height: 335
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -93,33 +93,20 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
-    publishedDateTime: 2019-12-03T18:23:00Z
-    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
+    publishedDateTime: 2019-12-03T18:09:00Z
+    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: YAHOO!
+      name: Yahoo News
       domain: yahoo.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
-        width: 700
-        height: 525
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
+      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
+        width: 1280
+        height: 960
 
-secured: "Jx7L0k4bbGuKi4d33saqplS74TMNeHzqt6LqJEjPQto4AchfNXGsQ1TtfQQ5yPDqeT9xCYjTO+yo3rhJF5QWkXKM8YqwM5xndomMuPFQd4gyxDnBIf98KxKhyjsRCVtHBQf/GQdVlYOdrWnSwsehKX3TgKl4rjxABr3U7Nk8M7Jlj5tDxv+/qCgiDVy25yNH5BM+ofV5xbXAfEquPUFx0dQAijSBLFdLv4sJiT1jLTv7oiSDrylC/uz6hfIw/EpGC6rc7uQYpSl/Woxx34naqA==;u94rUONnryoz9Lr7IiDweg=="
+secured: "JDrpZ6fjrahC8OTtvVUA59u9wSGs5TU2cyHRBCNhUhwrKFukphjNdKYIZVdnJG6Uwf5mjYHXB0bx1w3/hlOfGIrG1AwLp9ZjVS9HPMX4a9Oda671hFZ8sGaUMqhsdajp8Ppq+qvBG2gM8vrc4dVuGRCXB9ynxZm94tLm2jj3iWXNbd2B0PwTQTzPNFuxvrbqECNWJQXnEnuKic+7Xl1AW/m0u7uPRtUZNnGmtrluitB7Ywu6K425AA+gs+Ncu37q3VtdxV3LNUZsTyGJS3luJA==;4G6sMlOFVOB0Jbb1y+t22w=="
 ---
 
