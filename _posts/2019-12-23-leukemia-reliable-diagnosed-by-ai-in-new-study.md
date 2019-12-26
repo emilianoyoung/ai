@@ -41,15 +41,13 @@ related:
         height: 426
   - title: "Amid a scientist shortage, AI is being used to scan for diseases"
     excerpt: "The Philadelphia-based company recently teamed up with Johns Hopkins School of Medicine to develop applications that incorporate artificial intelligence (AI) to advance the practice of pathology for multiple diseases. The platform helps pathologists scan samples faster and evaluate those that need a scientist’s attention, versus those with ..."
-    publishedDateTime: 2019-12-26T18:55:00Z
-    sourceUrl: https://sg.finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
-    ampUrl: https://sg.finance.yahoo.com/amphtml/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
-    cdnAmpUrl: https://sg-finance-yahoo-com.cdn.ampproject.org/c/s/sg.finance.yahoo.com/amphtml/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
+    publishedDateTime: 2019-12-26T20:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html?soc_src=community&soc_trk=tw
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 57
+    quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.DD15940B83C87BEA9CF179FF6A3E79E3
         width: 700

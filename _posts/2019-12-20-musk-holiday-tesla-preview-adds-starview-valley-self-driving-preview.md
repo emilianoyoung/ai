@@ -99,6 +99,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
         width: 700
         height: 337
+  - title: "Tesla's latest update adds a full self-driving visualization preview, better voice commands, and more"
+    excerpt: "The update has been in the works for some time now, but it's finally out now. It brings an early look at Tesla's full self-driving (FSD) tech, the new and improved \"Camping Mode,\" and various \"smart\" features. Let's start by digging a little deeper into the FSD preview, as it's simultaneously the most exciting and disappointing part of this update."
+    publishedDateTime: 2019-12-26T20:11:00Z
+    sourceUrl: https://www.techspot.com/news/83324-tesla-latest-update-adds-full-self-driving-visualization.html
+    ampUrl: https://www.techspot.com/amp/news/83324-tesla-latest-update-adds-full-self-driving-visualization.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83324-tesla-latest-update-adds-full-self-driving-visualization.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4B14C8F358AF3350C318453703B114B2
+        width: 700
+        height: 481
   - title: "What Does Tesla’s Self-Driving Mode Really Look Like? A New Software Update Gives a Sneak Peek"
     excerpt: "Just in time for the holidays, Tesla is releasing an update to the software that powers its sleek vehicles, including a new game and even a preview its much-anticipated self-driving mode. A specific release date hasn’t been announced, but word of its impending delivery comes straight from Musk’s own Twitter account. In it, Musk gives a ..."
     publishedDateTime: 2019-12-20T22:16:00Z

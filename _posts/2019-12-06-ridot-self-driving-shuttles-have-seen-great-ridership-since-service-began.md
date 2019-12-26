@@ -8,7 +8,7 @@ ampUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shutt
 cdnAmpUrl: https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     width: 700
     height: 393
     title: "RIDOT: Self-driving shuttles have seen ‘great ridership’ since service began"
-
-related:
-  - title: "Waymo app for Valley’s self-driving ride service released for iOS"
-    excerpt: "PHOENIX – Exactly one year after debuting in the Phoenix area, self-driving vehicle company Waymo’s commercial ride-hailing service is becoming more accessible. The Waymo app, which previously was available only to enrollees accepted into the Google spin-off company’s early rider program and Android device users, was rolled out to the App ..."
-    publishedDateTime: 2019-12-06T19:42:00Z
-    sourceUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/
-    ampUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
-    cdnAmpUrl: https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9843BCE691003E846A50B7122AF04501
-        width: 620
-        height: 370
-  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched in Arizona, US last December. In the white-hot competition between Chinese ..."
-    publishedDateTime: 2019-12-09T00:16:00Z
-    sourceUrl: https://sg.news.yahoo.com/tried-self-driving-robotaxi-china-045809725.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
-        width: 700
-        height: 393
 
 secured: "iwbnc33Wd9sMB4L2bs3U5UJ1pt6YYm3J7F28cpYblDgMmuDI5DLvhAqygjsHZsfE75qLfk8RGqc3OiuP8nlpLahbjRGd7RKEE1Efihg2ruzQbDVqu8UUtyIOp1+8m5PimNnJf6CajYlKPrP2jtr4CzP1QrB+1j0AY7jpikoGyBo2TQ8w15zCF1h2JDfxG//ovcJmyWFdZicWYN5buAbrmmyE1ngHA9CAGoYURpYkP9GGHYdnOf4l0CuVWGWfn/sS1vcZaH359okv14XkRh41Rg==;OZF2AQi9MUOspuyPY0j/fQ=="
 ---

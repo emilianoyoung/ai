@@ -5,7 +5,7 @@ excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, 
 publishedDateTime: 2019-12-04T00:20:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
@@ -25,7 +26,7 @@ images:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T18:31:00Z
     sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
     ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
@@ -45,6 +46,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "PKqG1OJa+QpfRcuoU2thEno9/76DW3k7ppkIhgjOLENy9iRNqkks9noW+JAmvnkB2CB+WJ5yz7N+5XsAxdDGZngcUwLKlzRl53A42+GiyRPvcTY9XCRw+HPrrROpusgCxa+eZVhSFyKTc7WhP7wGmzQmB2+zgKOZq2lzKQwVnF9dHytZpNcUzeTVOlDNczQh7m+NQuNGdyMtWYgn2hxfbFCyiTtoKN4YIDq/SpnMoRkZ8dRa9AgKw9HxeBN8Usp+2ajjcomg+rxXgstwiSSQyA==;CUW8rhvpPR6gVfXEo+d9VA=="
+secured: "ro/8tORUDWJRvX1Amo50OaLHCJN/+Y+QsB4nxECBfvMO23y5odx6/yd0cBJyMpGS1E9pGJJDxkXwBJMpMUy6pTsLqmrR1fwYSvJktRihPTFeVzQKRhqUC337U84vuQAZDr1GyR9LToJqgboo8jj1gySwFMeDrUIxdJuupetdDnrny+voGx6IxfLk8leSB7q5+pOLASPC/NPNOSBDJ0qFfqqqxOI47yWVlCUtX7vnqsHeikqWT2fms8dPqx0GAFxpaq3mbczNQio1ntBOTn7jmg==;IzUCi4s9/mUAmRMhAL43Sw=="
 ---
 

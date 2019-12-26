@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Deep learning identifies molecular patterns of cancer"
-excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal ..."
-publishedDateTime: 2019-12-02T19:54:00Z
+excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
+publishedDateTime: 2019-12-02T19:47:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
 type: article
 quality: 49
@@ -37,20 +37,7 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
         width: 1920
         height: 960
-  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
-    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical ..."
-    publishedDateTime: 2019-12-06T03:55:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 37
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
-        width: 1200
-        height: 630
 
-secured: "WQlpRt8hd3xNZAityYmIV3LRTfVuEzlDdAfX3pdpv17clEDXlU3++8JGOjJz2ZwS8+EJH1lAK6HrJJ+2kONcxJ7I5QKgb9KVmzRTB92YUnEHolpESJivyt2et6+FxAgzGOp5bs/MrrkYRLv7Fjhi06w1kHFJ83N8qYZuGcLNZF80UMEBMlK0/cBwpICytjTVJyQ55azGHldYp76Bk5V5gR7/UTrEBkW0Ae+E71t3LoSl6qcm+Yppn99mZujf/Jyl4221NGNhzFmNJ0tiDxK88A==;QrcY98q3v3xpTE5uHXW3iw=="
+secured: "Xwpgk035WwSCkMx37lKZL01DEcBlIfAUpET4d79lk4pySimsK7DOCv3RowvD2eUeF2DICe1ZDHdeMn/RgW2mWKzsuAMjBA8SJpRgp317jrQPZuWBomQRqNegx7exQXAglc5LYpYCk9v4ST2OcIzhkuvW49JrwHx8qsb6N8jPTeZfhsaDHABFd4q1Bm1wCU24w4jJCkWmwrmAO/YUBPIKHRkO9Ibzkp1ogYWtNmn8HdABA2LtOCjg7iCNTA2TMy5d29xO43GJAxUa3cJKbScqBw==;TkreHXWOXJVI2htE0Io5wA=="
 ---
 

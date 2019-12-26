@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
 
 related:
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+    publishedDateTime: 2019-12-03T18:11:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -70,6 +81,6 @@ related:
         width: 648
         height: 420
 
-secured: "/mq0y3P2lhqIGntx92BJYR6Qmeehe5rtI4jP2R4vJq1hsNHMz5vOVIgAJeWG9LawXMSCXgsgnXqvys5QfZEq0xekz/dKiTDMTO9f3CcZFGqN7fk0+sL1D6PiBTDh0H+0NvcZ2G7jAkBkPnUXwLV9z+k9ZvMxrOU45uW+x3lMMH7xGkfEoNmdse2lg4lEOsTsibksBHQojtk7Iv5GXEPU02j9eqPjU9CdSsbDsSfjczyc60BkDS16C4feL4tD+Z9rpFGhwzoQ8g0+qncpYJamWw==;w5E48VOwaNQCNI0IKK70bw=="
+secured: "OzR/giUX/w67X4+gCzkreuM8UnlSBA6ATZczEfMK289gLFfJQiqNpo9o4ZtO1pkHNvMGvXlXyKUu3q8tBsg8zHnfiFBsx5z8mZksbP4aBJMdGGTcV+8t8/KJlpyQfAqxeCuoZjMUEk4XHhviO5RbpEymqvBsdU1pNLIamWSWMiPb4Ua3zDTOxL2EUX3lDyGY53nFqxNRLYzEXLjxyW2ivQMMpST6kxq1y9ArXiQweVMHuHd/rRU3CSHNrj30IqQVS0BDbP5NOMu75bvlL9Xzwg==;VnlxMs0/n8pavnxVMTaMVw=="
 ---
 

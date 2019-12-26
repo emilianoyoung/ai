@@ -24,36 +24,34 @@ images:
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
 related:
-  - title: "Waymo app for Valley’s self-driving ride service released for iOS"
-    excerpt: "PHOENIX – Exactly one year after debuting in the Phoenix area, self-driving vehicle company Waymo’s commercial ride-hailing service is becoming more accessible. The Waymo app, which previously was available only to enrollees accepted into the Google spin-off company’s early rider program and Android device users, was rolled out to the App ..."
-    publishedDateTime: 2019-12-06T19:42:00Z
-    sourceUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/
-    ampUrl: https://ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
-    cdnAmpUrl: https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/2867093/waymos-year-old-valley-self-driving-ride-service-expands-accessibility/amp/
+  - title: "We tried out a futuristic, self-driving robotaxi in China"
+    excerpt: "In the white-hot competition between Chinese companies to push out robotaxis – self-driving taxis ordered through e-hailing services – two contenders have emerged as the first to launch public trials of their autonomous cab services in the country. Search engine giant Baidu’s autonomous driving arm Apollo rolled out a trial operation of ..."
+    publishedDateTime: 2019-12-09T07:58:00Z
+    sourceUrl: https://www.techinasia.com/tried-futuristic-self-driving-robotaxi-china
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 59
+      name: Techinasia
+      domain: techinasia.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.9843BCE691003E846A50B7122AF04501
-        width: 620
-        height: 370
-  - title: "RIDOT: Self-driving shuttles have seen ‘great ridership’ since service began"
-    excerpt: "PROVIDENCE, R.I. (WPRI) — It’s been six months since the Rhode Island of Transportation (RIDOT) introduced autonomous shuttles to the streets of Providence, and so far, the agency says close to 26,000 passengers have already taken advantage of the free, and experimental, service. The six “Little Roady” shuttles began picking up ..."
-    publishedDateTime: 2019-12-06T23:16:00Z
-    sourceUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/
-    ampUrl: https://www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
-    cdnAmpUrl: https://www-wpri-com.cdn.ampproject.org/c/s/www.wpri.com/news/local-news/providence/ridot-self-driving-shuttles-have-seen-great-ridership-since-service-began/amp/
-    type: article
-    provider:
-      name: WPRI 12
-      domain: wpri.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.2944FCBAACE8E36950471890298508E1
+      - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
         width: 700
-        height: 393
+        height: 390
+  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
+    excerpt: "... to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo. For more insights into China tech, sign up for our"
+    publishedDateTime: 2019-12-08T00:41:00Z
+    sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CB42C20B1631461C7E8289E0A12519E4
+        width: 700
+        height: 367
 
 secured: "yV8rYa7XwNEuJ3gUGnPj5tUi5bnK9UuV2c/FvvlbmPUXiemF41UOJpkAOrzbeetrrc5vfXIcFv7F3MAr71DAfle8aZtA8LUHHy5qUqAuvLHBRiGK6RgdGn8443wkmmSygy9tfwTv6xqpPnYK7z05UqmtFIPDDaNygFxQDAt5585hiEZ79TGQWDroSFOiXfEOK2FppstdESt0WOCWiBVaq9H2qUCf1T6bXjzmoG1dilgA46cZMflA4LesCqiQb2SeogW8J1pXOJzPlvMntrFYLA==;+DGtzlEJEznqHvbwAfh99w=="
 ---

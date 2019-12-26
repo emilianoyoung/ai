@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T00:30:00Z
 sourceUrl: https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12
 type: article
 quality: 170
-heat: 420
+heat: 410
 published: true
 
 provider:
@@ -95,21 +95,6 @@ related:
     quality: 68
     images:
       - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
-        width: 700
-        height: 393
-  - title: "Facial recognition: how China cornered the surveillance market"
-    excerpt: "What do Uganda’s police force, a Mongolian prison and Zimbabwean airports have in common? All three are in the process of testing facial recognition systems and all three have used Chinese technology to do it. At least 52 governments are doing the same thing according to research by the Carnegie Endowment for International Peace. Chinese ..."
-    publishedDateTime: 2019-12-06T19:10:00Z
-    sourceUrl: https://www.ft.com/content/6f1a8f48-1813-11ea-9ee4-11f260415385
-    ampUrl: https://amp.ft.com/content/6f1a8f48-1813-11ea-9ee4-11f260415385
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6f1a8f48-1813-11ea-9ee4-11f260415385
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E0C85F059FE379405C21387AC3F31961
         width: 700
         height: 393
   - title: "Some cities and states balk at face recognition tech, here’s why"

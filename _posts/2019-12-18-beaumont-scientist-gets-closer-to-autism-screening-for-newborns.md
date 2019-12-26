@@ -35,21 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.060BD16E70C7F3B1EE5C611C1219A13B
         width: 640
         height: 426
-  - title: "Amid a scientist shortage, AI is being used to scan for diseases"
-    excerpt: "The Philadelphia-based company recently teamed up with Johns Hopkins School of Medicine to develop applications that incorporate artificial intelligence (AI) to advance the practice of pathology for multiple diseases. The platform helps pathologists scan samples faster and evaluate those that need a scientist’s attention, versus those with ..."
-    publishedDateTime: 2019-12-26T18:55:00Z
-    sourceUrl: https://sg.finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
-    ampUrl: https://sg.finance.yahoo.com/amphtml/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
-    cdnAmpUrl: https://sg-finance-yahoo-com.cdn.ampproject.org/c/s/sg.finance.yahoo.com/amphtml/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.DD15940B83C87BEA9CF179FF6A3E79E3
-        width: 700
-        height: 466
   - title: "Leukemia Reliable Diagnosed by AI in New Study"
     excerpt: "In fact, we tested various methods from the repertoire of machine learning and artificial intelligence. There was actually one ... the diagnosis would then happen earlier than it does now, and therapy could start earlier,” Schultze concluded."
     publishedDateTime: 2019-12-23T13:12:00Z
@@ -63,6 +48,19 @@ related:
       - url: https://www.bing.com/th?id=ON.43E0CD4311F8FEEA2F756C0530B4462E
         width: 500
         height: 367
+  - title: "Amid a scientist shortage, AI is being used to scan for diseases"
+    excerpt: "The Philadelphia-based company recently teamed up with Johns Hopkins School of Medicine to develop applications that incorporate artificial intelligence (AI) to advance the practice of pathology for multiple diseases. The platform helps pathologists scan samples faster and evaluate those that need a scientist’s attention, versus those with ..."
+    publishedDateTime: 2019-12-26T20:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html?soc_src=community&soc_trk=tw
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.DD15940B83C87BEA9CF179FF6A3E79E3
+        width: 700
+        height: 466
 
 secured: "yjzXcnQF3we4ktGmf1kH4XbBuaTDIt8kfBcVMeieCT+rhEshJg0W9Be4pQCLVsnuYea2oMwX+AlHk3wXpgKN21luqSDH8DihYe4Z391DSoSXV9/rFtUYZOsPb87/ngUAMCn5Pvsb8J5LuWi35CYCYvCPpGNUj9Kh4wmlFUEeX0X7RmSgvJ3ldPhMwlFFLS2v/T/ZOoUV109tx/Y5AlS/QZnYBWVzBf8iNaytKDQZLjmDGYzYL5p4JTJWOLP5QlPipEzk+YjZ2Vu9RwyxHQ111g==;mnr1HEglDquhcsxLIkuKvg=="
 ---

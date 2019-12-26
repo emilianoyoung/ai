@@ -95,6 +95,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
         width: 700
         height: 337
+  - title: "Tesla's latest update adds a full self-driving visualization preview, better voice commands, and more"
+    excerpt: "The update has been in the works for some time now, but it's finally out now. It brings an early look at Tesla's full self-driving (FSD) tech, the new and improved \"Camping Mode,\" and various \"smart\" features. Let's start by digging a little deeper into the FSD preview, as it's simultaneously the most exciting and disappointing part of this update."
+    publishedDateTime: 2019-12-26T20:11:00Z
+    sourceUrl: https://www.techspot.com/news/83324-tesla-latest-update-adds-full-self-driving-visualization.html
+    ampUrl: https://www.techspot.com/amp/news/83324-tesla-latest-update-adds-full-self-driving-visualization.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83324-tesla-latest-update-adds-full-self-driving-visualization.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4B14C8F358AF3350C318453703B114B2
+        width: 700
+        height: 481
   - title: "Musk: Holiday Tesla Preview Adds 'Starview Valley,' Self-Driving Preview"
     excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
     publishedDateTime: 2019-12-20T15:30:00Z

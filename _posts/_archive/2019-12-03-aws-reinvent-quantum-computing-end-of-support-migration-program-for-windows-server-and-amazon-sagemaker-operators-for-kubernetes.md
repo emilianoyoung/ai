@@ -43,6 +43,17 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+    publishedDateTime: 2019-12-03T18:11:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -70,6 +81,6 @@ related:
         width: 932
         height: 377
 
-secured: "wLf/xAXbeZiUAk1e8J/eScDOR1C3Wpo1w/18b6RIR1YJPLwjqrmykqkBLfA4kQ4+eiKiUDfyjwtq4nmo5QRV0x8DWfSizYpDslZ05RGsl3coQOXcYpt6CLCdmCEHUpUt+48euVCKKgNJlr36K4MsEkzr0M0dd2Wc3mYVxURXCutWGipXfD30GoClrAJ7Pp5Lkqiki2cFFMT5rMVtk5gch2CCrVQLVAZcE0s+V76bucz6DnZxjy+XLMjqpAFO0PYVUWsaL3ot4fONO3pUlzuKYQ==;T1/tr7pThf8tvz5xBRK/Qg=="
+secured: "LijiHYRgkUKUDE5reQGofr01s4k+aLmMFyYDlau21/byq7jr7zYlu6+lvRyK3caC5QetR7LQUoAz+qZPWDYSlK2hiKH6WH7Mhiq0nnvgsOICY/MWyGFe703bVWnwoiGCqXWSrXjQNmsLsXlinyJmltoxHLCe81lnEp5lIuBoxW/baz/ln/fSAc+lWO2R5lpNVWRo3crPSv+uh/4ug3V1YIKc8fxX6f6vGbsei+5NQBZ+eJi+7+9W6fzK5BsZGM6zV4KUXm48hPevU8vtvSM3Fw==;w793wHdoG5OeXK8AbYZuYA=="
 ---
 
