@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T17:10:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-insights-shared-in-detailed-report-2019-forecasts-to-2025-2019-12-06
 type: article
 quality: 83
-heat: 463
+heat: 443
 published: true
 
 provider:
@@ -336,19 +336,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Market 2017 Global Industry Size, Outlook, Share, Demand 2026"
-    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- The Voice Recognition market is anticipated to reach over $150 billion by 2026 according to a new research published by Polaris Market Research. In 2017, the non-AI-Based voice recognition segment dominated the global market, in terms of revenue. North America is expected to be the leading contributor to the ..."
-    publishedDateTime: 2019-12-06T12:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-2017-global-industry-size-outlook-share-demand-2026-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
     excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
     publishedDateTime: 2019-12-12T20:32:00Z
@@ -440,19 +427,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-    publishedDateTime: 2019-12-02T13:19:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
-        width: 800
-        height: 419
   - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
     excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
     publishedDateTime: 2019-12-13T00:03:00Z

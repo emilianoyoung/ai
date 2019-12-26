@@ -25,6 +25,17 @@ images:
     height: 240
     title: "Voice search optimization: The why and how"
 
+related:
+  - title: "City strengthens bet on translation and artificial intelligence with new research center"
+    excerpt: "The Macau Polytechnic Institute (IPM) today opened a research center dedicated to machine translation and artificial intelligence, the first with the Beijing seal in the special administrative regions. This center will “fill a gap in the field of Chinese-Portuguese simultaneous translation research” by becoming a “major platform (…) for ..."
+    publishedDateTime: 2019-12-26T13:06:00Z
+    sourceUrl: https://www.macaubusiness.com/city-strengthens-bet-on-translation-and-artificial-intelligence-with-new-research-center/
+    type: article
+    provider:
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 10
+
 secured: "8R7oVcoHbakMsXz2fcvHjgMQjbgcmKEG1BUCQ520nVYqCwc4RhEZjRrTwtZgq+lv0MYcENoholHjSxrDiYx5GuUL1k0t2Dy7KsYNjV/iiJtjnHCV6UN82xc5VGcOQvzcNAP0lb+HHnFzBPqqQi7LtEm6q5QzMGbBrA8HuUyvu9kxot7wTiYgE3B5WsftBQ+RdfNAUg5aZ/EHz1cZLRkYqnCRmQH4esXybPhb/YyzRx4rp4VXPd7W8ZV+6qM3HwsCrNTHDN0eTjbZ0VimXOU2XA==;yN6jKO2MyrTn1KnNelkPlA=="
 ---
 

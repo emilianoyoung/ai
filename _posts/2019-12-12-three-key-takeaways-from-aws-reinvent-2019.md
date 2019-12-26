@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/12/three-key-takeaways
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/12/three-key-takeaways-from-aws-reinvent-2019/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
         width: 600
         height: 315
-  - title: "What we learned at AWS re:invent 2019"
-    excerpt: "Then AWS announced some new machine learning services, starting with Fraud Detector ... what we are seeing is AWS outmanoeuvring Azure in the early race to become the best cloud for hybrid and edge application development.\" AWS entered the quantum computing fray this week for the first time with the launch of Braket, as well as an AWS Center ..."
-    publishedDateTime: 2019-12-06T12:55:00Z
-    sourceUrl: https://www.computerworld.com/article/3487834/what-we-learned-at-aws-re-invent-2019.html
-    ampUrl: https://www.computerworld.com/article/3487834/what-we-learned-at-aws-re-invent-2019.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3487834/what-we-learned-at-aws-re-invent-2019.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.FF20B0CA2B6F27DEEC22EA94C6FA3056
-        width: 700
-        height: 393
   - title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
     excerpt: "The AWS re:Invent conference showcases a wide range of third ... and disaster recovery as well as take advantage of customers' increasing need for artificial intelligence, machine learning, and analytics to better manage their cloud-based workloads."
     publishedDateTime: 2019-12-12T13:56:00Z

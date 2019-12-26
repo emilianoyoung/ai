@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
         width: 700
         height: 394
-  - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
-    excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
-    publishedDateTime: 2019-12-04T22:24:00Z
-    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
-        width: 960
-        height: 640
   - title: "Children’s Hospital buys potentially illegal face-recognition technology"
     excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
     publishedDateTime: 2019-12-08T01:07:00Z

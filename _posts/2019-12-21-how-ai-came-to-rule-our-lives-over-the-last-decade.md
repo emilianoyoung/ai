@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "N6zEEy8SA7+Fbbr7XdNbg46QzbDC9RYtpWNNX2boBgw7SW33DueWyih/Z94kTk0UrHojujtRlk63MBivNGlzkFDAJGeG8XI0sdkssMpOmN/VCrdZOwQAcaDV9snqFhWQiVAUhXSBAECVHRRz0zZbF+Q9PORa+UPfqKXe0t2DDRp8CJn9vRGbN0Lalo0VHA8JXyI0iA1JBvnX9zqGgxRt6vTWCQ15zWUKJXvTfRfkno0TIZbXCBVrZtLQ6Bc07DLSP4mtyW+inROqTmfoS5aYPw==;lHxQaY2qmnOrRs0MiT7eSQ=="
+secured: "EvB37OLVdGhO/A9EW0ik9+dW/NNiK0hJTEaLgpbEs0jgmTnXm85B0EiySKHd+Bvpvw6NejiKHcaNmBLjq/xdmd2rRtlNQDR9zbmgm898xhXTNW4HTLgxCVchrwb9oFvE7SMAymF+VrVGyMc7UG/dJgNgS9xn2/9QE9FHqlZqg7rmdSFdjr5SV/XW5fpuLDu/VKYKfPQxfD72fc4XDp7/tclb9AifGnSo+Cdl40BFMDJgkbqIvZ2mNn1xvU9VLw2R9CcgBUl5FnFyHfqVioxzKw==;vYD3MX8apD2oOqSqSoNH5g=="
 ---
 

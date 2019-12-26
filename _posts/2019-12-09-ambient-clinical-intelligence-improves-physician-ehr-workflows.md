@@ -151,21 +151,6 @@ related:
       - url: https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg
         width: 570
         height: 380
-  - title: "China introduces new digital courts: Artificial-intelligence judges deliver verdicts via chat app"
-    excerpt: "HANGZHOU (China): Artificial-intelligence judges, cyber-courts, and verdicts delivered on chat apps -- welcome to China's brave new world of justice spotlighted by authorities this week. China is encouraging digitisation to streamline case-handling within its sprawling court system using cyberspace and technologies like blockchain and cloud ..."
-    publishedDateTime: 2019-12-06T12:26:00Z
-    sourceUrl: https://www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.html
-    ampUrl: https://www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.A321953B08EBAFCE417C1BA3654D4BBA
-        width: 600
-        height: 390
   - title: "Jeff Bezos Gave an Amazon Employee Extraordinary Advice After His Epic Fail. It's a Lesson in Emotional Intelligence"
     excerpt: "Freed and co. then hired speech scientists and artificial-intelligence experts to help them create the new software. They designed it so it could understand a variety of accents. They didn't want to place too many limitations on the software, so they gave it the ability to do all sorts of tasks--from telling you the weather to answering ..."
     publishedDateTime: 2019-12-09T12:34:00Z

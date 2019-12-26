@@ -23,6 +23,6 @@ images:
     height: 490
     title: "Expert: How to make deep learning as energy efficient as the brain"
 
-secured: "q+oC7Zj5loUHvJ0RxpE7XFLQom+tK0y/UihfLrvTVHbY+0j9Dybrvu5hd56pmwHOKT/xRWlL2iN6si/ZYL3/utuzOEUu6VZgOPLkPXKYuzONCFBoPaGuP+qjCUsEhYrsMbN2JIPZ3207GpiiETa2mCXcJngWvEF4uGHWAYiVfXXpKPy0PP7NgX0uMPLyjbOMgaqATh98uECATxS7N1eQ3Xi90MKRk+l6PakCcn2sT6c2xQSPhOEMtHc/oGFdCNqP4IusH16OaOzmF5WKxOJ+Hw==;KTOgSGyrj2pf07PyIQnw+A=="
+secured: "0bxlo5CzCnDy3gHMmCyEITHuf40qHUMjB+pNTgSow21d8E29YZtGifkq9tzHZds6JQYUjKsMh9NKjBX9iW4jeSnhjj95tZ/WWsXVDKq3arm+cpcHlKhN31L/BNOwy5wbrmNC6xKF56QDJsAnKqMDFhDDp+OjgNBdD5avcyCzD5+0ZgblOlOho8cWEG3zSkJ61WX/spTvMrVApo+2ac3YnRSBMTCGJzwuqMQiJ27JEIVT13GARZ5Ow4+pDFrtxPPFBK+g/HqDhG/RQBsfl2s7/g==;Em8f+DZxbwF1QObz11GkNw=="
 ---
 

@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
         width: 600
         height: 315
-  - title: "What we learned at AWS re:invent 2019"
-    excerpt: "Then AWS announced some new machine learning services, starting with Fraud Detector ... what we are seeing is AWS outmanoeuvring Azure in the early race to become the best cloud for hybrid and edge application development.\" AWS entered the quantum computing fray this week for the first time with the launch of Braket, as well as an AWS Center ..."
-    publishedDateTime: 2019-12-06T12:55:00Z
-    sourceUrl: https://www.computerworld.com/article/3487834/what-we-learned-at-aws-re-invent-2019.html
-    ampUrl: https://www.computerworld.com/article/3487834/what-we-learned-at-aws-re-invent-2019.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3487834/what-we-learned-at-aws-re-invent-2019.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.FF20B0CA2B6F27DEEC22EA94C6FA3056
-        width: 700
-        height: 393
 
 secured: "0TcUSv4VCmxOJXQHn1fEmlIuLkDEW/7YB7j2nGNf0qF7x4LQ2mIMgUvrSxAxQh25r+H4WyAMryj7x4J0G9Brmel7DoaomnqA8ajftczkYfOKk3+2uK7Curm0gL4AZ1eQmVRN4FA8jWgV/9r3b4BmxX+QsUy78A8Fs2a2SLUB8g8wn9Hcov9nOdbQ53mpJpDer8UjIePWCZAaUq0O2casPgsDWic+FISlx9odePixwnTr/IvIEdjKXfVLkvtxzGqfc3MUjYbpyMLsst4c937+BQ==;RxhMr14/5kbeMGrljGMLkg=="
 ---

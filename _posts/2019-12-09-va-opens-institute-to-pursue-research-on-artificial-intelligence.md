@@ -137,21 +137,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A3F53660E9DC2C72ECE93E129515E94E
         width: 200
         height: 218
-  - title: "China introduces new digital courts: Artificial-intelligence judges deliver verdicts via chat app"
-    excerpt: "HANGZHOU (China): Artificial-intelligence judges, cyber-courts, and verdicts delivered on chat apps -- welcome to China's brave new world of justice spotlighted by authorities this week. China is encouraging digitisation to streamline case-handling within its sprawling court system using cyberspace and technologies like blockchain and cloud ..."
-    publishedDateTime: 2019-12-06T12:26:00Z
-    sourceUrl: https://www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.html
-    ampUrl: https://www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2019/dec/06/china-introduces-new-digital-courts-artificial-intelligence-judges-deliver-verdicts-via-chat-app-2072445.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.A321953B08EBAFCE417C1BA3654D4BBA
-        width: 600
-        height: 390
   - title: "Ambient Clinical Intelligence Improves Physician EHR Workflows"
     excerpt: "Using an incremental approach to improve natural language processing, virtual scribes review the conversation and physically update the EHR. “Information is captured in the visit. That raw data is going through the natural language processing engine. That then goes to a human who’s not in Nebraska. That person then updates the chart with ..."
     publishedDateTime: 2019-12-09T14:34:00Z

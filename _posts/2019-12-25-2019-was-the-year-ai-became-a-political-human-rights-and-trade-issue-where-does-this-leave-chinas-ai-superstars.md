@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/policy/article/3043422/2019-was-year-ai-became
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3043422/2019-was-year-ai-became-political-human-rights-and-trade-issue-where
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,21 @@ images:
     title: "2019 was the year AI became a political, human rights and trade issue. Where does this leave China’s AI superstars?"
 
 related:
+  - title: "Tech Giants Hunt for AI Startups—and the Brains Behind Them"
+    excerpt: "Technology giants are opening their checkbooks to keep pace in the hot field of artificial intelligence, where some of the best ideas and most sought-after talent reside in small startups and academia."
+    publishedDateTime: 2019-12-26T13:06:00Z
+    sourceUrl: https://www.wsj.com/articles/tech-giants-hunt-for-ai-startupsand-the-brains-behind-them-11577365201
+    ampUrl: https://www.wsj.com/amp/articles/tech-giants-hunt-for-ai-startupsand-the-brains-behind-them-11577365201
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-hunt-for-ai-startupsand-the-brains-behind-them-11577365201
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.7DAF988D1820FAAAFE31685F0C80AB55
+        width: 700
+        height: 350
   - title: "2019 was the year AI became a political, human rights and trade issue. Where does this leave China’s AI superstars?"
     excerpt: "When Beijing declared plans to become the world leader in artificial intelligence (AI) in 2017, it alarmed the US and the rest of the world, according to former US secretary of state John Kerry. In a conference in May, Kerry said Chinese President Xi Jinping’s announcement was not the “wisest” move: “It would have probably been smart to ..."
     publishedDateTime: 2019-12-26T03:08:00Z

@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
         width: 700
         height: 350
-  - title: "After criticism, Homeland Security drops plans to expand airport face recognition scans to US citizens"
-    excerpt: "Homeland Security has confirmed it will not expand face recognition scans to U.S. citizens arriving and departing the country, days after it emerged ... that it had no plans to expand the face recognition checks to Americans. Currently, U.S. citizens are allowed to opt-out of face recognition scans at the airport, but foreign nationals and ..."
-    publishedDateTime: 2019-12-06T12:35:00Z
-    sourceUrl: https://www.yahoo.com/news/criticism-homeland-security-drops-plans-182719080.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 138
-    images:
-      - url: https://www.bing.com/th?id=ON.9FD73AA4BD86F5A9A3611CECCD02BFC5
-        width: 700
-        height: 466
   - title: "Emotion recognition technology should be banned, says AI research institute"
     excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
     publishedDateTime: 2019-12-13T12:16:00Z
