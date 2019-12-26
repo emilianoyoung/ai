@@ -39,6 +39,21 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/18/conversational-logs-5.gif
         width: 800
         height: 494
+  - title: "Amazon researchers use AI to improve the recognition of curved text"
+    excerpt: "Optical character recognition (OCR), or the conversion of images of handwritten or printed text into machine-readable text, is a science that dates back to the early ’70s. But algorithms have long struggled to make out characters that aren’t parallel with horizontal planes, which is why researchers at Amazon developed what they call ..."
+    publishedDateTime: 2019-12-26T19:28:00Z
+    sourceUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/
+    ampUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.C3DB77C18C41A81ED896AFF172FCAA7A
+        width: 700
+        height: 350
   - title: "How to Cash in on Conversational AI"
     excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
     publishedDateTime: 2019-12-24T16:19:00Z

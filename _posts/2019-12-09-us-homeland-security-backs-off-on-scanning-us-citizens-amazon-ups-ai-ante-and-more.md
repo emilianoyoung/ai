@@ -8,8 +8,8 @@ ampUrl: https://www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
 type: article
 quality: 52
-heat: 62
-published: true
+heat: 52
+published: false
 
 provider:
   name: The Register
@@ -24,21 +24,6 @@ images:
     width: 648
     height: 516
     title: "US Homeland Security backs off on scanning US citizens, Amazon ups AI ante, and more"
-
-related:
-  - title: "DHS retreats on possible facial screening of US citizens"
-    excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
-    publishedDateTime: 2019-12-06T18:42:00Z
-    sourceUrl: https://www.abcactionnews.com/news/national/dhs-retreats-on-possible-facial-screening-of-us-citizens
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.C29C37C553EB29A7B9F6E91D8ACDB229
-        width: 700
-        height: 367
 
 secured: "ghLjHtdUH4lFBXpi5HSH1ztD89K9Rymu212KDYVmUx+hi1S2j1vTphRHmHUsNBvaN1TmzTfrfY/mTTCqQP35tkln1p/0SPPOqDEyOrgN3uh3n/GtW08SA9jSWuZZsmSAtSuf49tm0OmT2q+vdJFeS8e4SmxfDFfjDqt8d5XF+RW3wyQ/kKzWjVBqmZ+7XEQGYU3nPbmlcommC4sCM8B1YT/22GNO+54DLoaBe3qYt1YiHicxDSIOuxZXFJZZ2+LjB8NCv1KX3laGw/01k0ZkHw==;5QeW1opWS9jgxg5P+pIqjA=="
 ---

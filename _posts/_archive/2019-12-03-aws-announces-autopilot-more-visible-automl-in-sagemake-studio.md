@@ -30,19 +30,19 @@ related:
       domain: techcrunch.com
     quality: 101
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
     publishedDateTime: 2019-12-04T00:20:00Z
     sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 56
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
         width: 700
         height: 525
 
-secured: "KgpuOWXYGTeuuzs4UR40FulMoVQtlnTCgGOU32oq0i5nPZVixUOeqzf6Hf14Nlw8gfQfPHZUK/Q0E4Um5IA9oXdzOnYAzTKBfBHrVyZjUgjaP/fPuQ9MxYEiz1wsfoK4L4aVumy96gA4918u1giQ2u6SOQbH0sXnhDoTOyGLM4OrFVKzLiEbEC6zn385tSrtSW9UflYX2E/6LZaIty6cZaF+9eEowH3KoK5cZM5XHNVQvDYhWn4BNTVH+PtxD0h03BFxYXg9fWWTcGcWxGP/4Q==;rBPb8KPogE5uZfajO+27gw=="
+secured: "lTUYK0BT8XnK4ueXrLUINAXA0b8uSowTq/WjYqd/oOd1xLXE7xZmc7iwpQqwJrAbZJbXORGYVUzLfAgg8Zzy2qZx5DV/GINFf+RmDJMWOZyEtPBus521fUOb9bUYDL3ZHjgWods9OqsFRVi6iAivws9gU4eAWSqO1zqNdiIB1G9sHyYA+nwZOLnjNYwplGiXCaYJ5xPxJVxipttaftC0Ab3t9I8bGmuzrg3LGWhkQ8OGnaDg3kDibPC5M6hjWz4rYDptHHbM7vUsyWwq+ufQ2g==;65UKnz4H2yL48S4c+1PJGw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T06:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-advancement-and-business-outlook-2019-2019-12-11
 type: article
 quality: 71
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -127,19 +127,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) in Healthcare Market Research Technology Outlook 2019-2025"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Natural Language Processing (NLP) in Healthcare Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Natural Language Processing (NLP) in Healthcare Market report is a valuable source of insightful data for business strategists. It provides the ..."
-    publishedDateTime: 2019-12-06T19:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-research-technology-outlook-2019-2025-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Facebook is using Minecraft to train AI assistants, one block at a time"
 
-secured: "x9iBBnjVzCfnHt/8vCM6s+JiunSP5Lu+po/gThaDnl2jeAIEcgIQGGYXvyATLA5Mzj2SE43XSYgDiy+nreih3nxUquVElrAsPaqXolAfFRyXdPrs40CWrmLDo1bLHNEskUXtuyB3vo2L/LE2UDFB0go0tQn2V8J6CTvlS2dSBi7p2GgKd22v2UrVSLgaoQufQ/Y0UoY2IgGx7YBKm16d71XwyNNAxdgowV9rvU9nX2Ogf35Cl78Td/V+kXLWez83mrm5vuJddhLBsiHSqVl32A==;Fza06q3UCJbzNB2WSIemaA=="
+secured: "rYEqpl3MKSvLCx9vjmmDNZKEEdmTr5jr9V6Cx+ZZ4Dp/eH8tb+lPjEFVTO1kOJd6mYz3Q4hKklMg+f8K/AJX8bc4Iyxj7s/wWylH6iTFjU9Ab4Zy8O4CkN1DX+koqGdt+KS8zbADRC8wwiSAgu8NjfaphU6iT2dVoGHyuf4sm3S2xeNJDpNAdwx0kmxruJEy8vh7zV7X3GqtYXMp3E9iCg6LJtl4HNcuw3wJMUPsRbxkIaUY+C6/KIi4X7ahgE21FEqU4/3OvdG4gbkHBFiUSw==;ZDztrGqEzbwNbE5d+Nd0LA=="
 ---
 

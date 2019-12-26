@@ -144,19 +144,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) in Healthcare Market Research Technology Outlook 2019-2025"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Natural Language Processing (NLP) in Healthcare Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Natural Language Processing (NLP) in Healthcare Market report is a valuable source of insightful data for business strategists. It provides the ..."
-    publishedDateTime: 2019-12-06T19:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-research-technology-outlook-2019-2025-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Platforms Market Outlook What Changes Can Bring Big Development Impact"
     excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- The Latest research study released by HTF MI \"Global Artificial Intelligence Platforms Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development, landscape, technologies, drivers ..."
     publishedDateTime: 2019-12-17T17:19:00Z

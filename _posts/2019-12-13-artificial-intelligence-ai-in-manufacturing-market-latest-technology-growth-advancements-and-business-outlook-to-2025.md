@@ -41,15 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare Market Rewriting it's Growth Cycle | Microsoft, IBM, Aindra"
-    excerpt: "Dec 06, 2019 (HTF Market Intelligence via COMTEX) -- A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023) ' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North ..."
-    publishedDateTime: 2019-12-06T18:27:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-rewriting-its-growth-cycle-microsoft-ibm-aindra-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
   - title: "Artificial Intelligence In Diabetes Management Market Next Big Thing | Apple, Google, Vodafone Group"
     excerpt: "Dec 12, 2019 (AB Digital via COMTEX) -- This intelligence report provides a comprehensive analysis of the \"Global Artificial Intelligence In Diabetes Management Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects. Data True to market on the products, strategies and market share of leading ..."
     publishedDateTime: 2019-12-13T03:35:00Z

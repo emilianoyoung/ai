@@ -36,6 +36,21 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/18/conversational-logs-5.gif
         width: 800
         height: 494
+  - title: "Amazon researchers use AI to improve the recognition of curved text"
+    excerpt: "Optical character recognition (OCR), or the conversion of images of handwritten or printed text into machine-readable text, is a science that dates back to the early ’70s. But algorithms have long struggled to make out characters that aren’t parallel with horizontal planes, which is why researchers at Amazon developed what they call ..."
+    publishedDateTime: 2019-12-26T19:28:00Z
+    sourceUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/
+    ampUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.C3DB77C18C41A81ED896AFF172FCAA7A
+        width: 700
+        height: 350
   - title: "Content optimization using entities: An actionable guide"
     excerpt: "BERT (Bidirectional Encoder Representations from Transformers) is a Natural Language Processing model that Google introduced in 2018 and began rolling out in October 2019. BERT has the ability to consider the full context of a word based on the words that come before or after named entities. We won’t dive deep, but we’ll look at an example ..."
     publishedDateTime: 2019-12-24T14:33:00Z
