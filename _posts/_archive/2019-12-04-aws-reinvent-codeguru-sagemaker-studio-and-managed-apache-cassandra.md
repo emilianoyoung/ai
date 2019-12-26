@@ -45,7 +45,7 @@ related:
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:03:00Z
+    publishedDateTime: 2019-12-05T11:27:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 86
+    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -83,7 +83,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -110,20 +110,7 @@ related:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
 
-secured: "PxoQQ+rd6QSoyrHV2FcpzZkmqhlRkq9mp6vkRq8mW/mjlT6yhcQTH5Ct19qHaWOW46866o2uauPL5d5DkBJii7QWUR1/sUgnaPhK2mOcGWNhXF2hxELfkGRz01xVsPEXP6GQ3n2JdfczyaY0ngoI2VwNWjNcqjZ3jEdD2UPYdqo0Z3gG3ppzFzE7qN/Ss5nwYuoO7IyG9dfepKSouLLDzvM/wuawIjjDR4jVJUr1uhtadd20ya5tg6JDP0XZA+/c95HTUG3z5r5+M3Pxl0b9mg==;9efkO4v+7/HNlqIMiHXOIw=="
+secured: "s9MNAev+3yvc/HHVgrArLAAidKGTDBqxrSo0j4LFWKph5cJkfA0lZbk2MzCF99qy6lYpiEFr6GH6ZqC3hr8JbJQgZRasUeyJQJEdkJkD2Ea7pWGQM3wTXYKJE4JlSIzGvMioXdZJOrrMueRZjsQTfckDKwrW9AFva3Rn96SgIgC6igD38+keFK1XTtWXCm+j9nj+1mUksLgvHRPqpVmoTBQ/FyDm/0szxKowqgg6qwoTVuuGm6NdWb2chh5RPZvQMr8hJou//6IQvK5Zg4oNwg==;8VTZu8ZA9ozHRnhs38kvPQ=="
 ---
 

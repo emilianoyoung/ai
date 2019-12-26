@@ -248,19 +248,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C8B487525662B23C9AAA7B1753F38D
         width: 600
         height: 315
-  - title: "Residents In China Worry Over The Facial Recognition System"
-    excerpt: "A survey by a Beijing research institute shows that many residents are expressing a pushback against facial recognition technology in China. As the country seeks more control over its population, the surest way to pull through is to use facial recognition system across the country. In September, the information technology ministry announced ..."
-    publishedDateTime: 2019-12-06T16:29:00Z
-    sourceUrl: https://www.techbooky.com/worries-over-china-facial-recognition-system/
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F7EE56BB0441943784937A138C8E685E
-        width: 700
-        height: 525
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
     publishedDateTime: 2019-12-12T20:42:00Z

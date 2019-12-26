@@ -261,19 +261,6 @@ related:
       - url: https://www.straitstimes.com/sites/default/files/author/2015/06/26/byline-simon-chesterman.png
         width: 502
         height: 335
-  - title: "Residents In China Worry Over The Facial Recognition System"
-    excerpt: "A survey by a Beijing research institute shows that many residents are expressing a pushback against facial recognition technology in China. As the country seeks more control over its population, the surest way to pull through is to use facial recognition system across the country. In September, the information technology ministry announced ..."
-    publishedDateTime: 2019-12-06T16:29:00Z
-    sourceUrl: https://www.techbooky.com/worries-over-china-facial-recognition-system/
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F7EE56BB0441943784937A138C8E685E
-        width: 700
-        height: 525
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z

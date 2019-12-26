@@ -8,8 +8,8 @@ ampUrl: https://searchengineland.com/how-deep-learning-can-reduce-bias-in-advert
 cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/how-deep-learning-can-reduce-bias-in-advertising-325833/amp
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: Search Engine Land
@@ -25,21 +25,6 @@ images:
     height: 450
     title: "How deep learning can reduce bias in advertising"
 
-related:
-  - title: "Gaining insights with machine learning"
-    excerpt: "Machine learning is still the new kid on the block. From identifying use cases to selecting data sets and tools, there are many success factors to keep in mind. Every industry is finding value in machine learning projects. At the same time, most projects ..."
-    publishedDateTime: 2019-12-06T14:58:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135610
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: https://www.kmworld.com/images/subscribe_magazines_km.png
-        width: 772
-        height: 594
-
-secured: "34PCkTOxPlGyxrtzZSonyabBIHNicusIDJM/UMTHEdcFtq23KmvmS2zv20O+8lDwlc5nkWyTS1Yhm11mNxGEJ1m0kWipKtYcDKTTSnfzLZ2wJhh9JSq5feMKZsipfBN33jI97RKv5j0qaq0SMVnQ1q6Y68D0CdgmOvey3rwd98d0R4UOj1EZbaTrh8P26fmF/NyGuwhWhb6/LHV2Ei9EqDLan0LOwy5nrXV/1J4UQM+V5Nxs2hpW5hkfF8+YB9Y/rTU87aboQA9PvKjRT7sdxg==;dmAoZrlK3A5un6E2Odj8XQ=="
+secured: "3KEqhRgjeYOBe6k1lpi4AArs1eR5sPW49hINaRec1xGNUAXaCX7MytvCPTPIMpNspfAEns2ySRB9rFazQlZTvk8Q+UG3OcfWKbl4T1q3Ygaj5NB5g8Uiz4BfDv/nJhpiiZ5UUXMSvt6nQfUNx+bjsPkCHIUWrDVx4GuLgfgbnwJOduJoFvvrSACjCHGTvVaFa9usLjQfj1a/uTSy8WJ5CUX5iY6vyJQU+BWqLJV7uIDdaDitlQY0SqifwgLLxlHbVUgl2xpsbIilSc1l6bwNUw==;y5oTm/cozIKyWS69aiLVAQ=="
 ---
 

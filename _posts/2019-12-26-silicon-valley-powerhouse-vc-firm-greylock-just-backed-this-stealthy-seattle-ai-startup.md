@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/silicon-valley-powerhouse-vc-firm-greylock
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/silicon-valley-powerhouse-vc-firm-greylock-just-backed-stealthy-seattle-ai-startup/amp/
 type: article
 quality: 79
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 298
     title: "Silicon Valley powerhouse VC firm Greylock just backed this stealthy Seattle AI startup"
 
-secured: "DDlUSblvg80R7MHs64dH3CckmP/ej+W4X+vHvshD3PSRHhWVLLemZp5r/dYfWfWx+2aZ1hoBwEEplF3QvcWtZ2p65bzTKCfCoDFmIfVV31/6z5kU//yFkHsprzTHMf6uCF+mtcJYDPw/B2a0PSMPM2dhT1M2V9LdLw0OdoNTPFWuan+aULpl9qhXA4+dVx8fbptB3J6TX8aPc+HaoeNYYNvbOA4qUaMfMUZUje3gtdVotUxM17+cZXBT6yVH/Tj/SkERc0njdHSgQ7JjMZ1png==;BImUXJS5AEIBNgII+/eMYw=="
+secured: "ZXaPd+tEgxFls7Be2M/x/cAfJTGugg7yJ1VnuoflhQQ2dbzK03WcJ7mwVWUsdQEfZa4lFqqD0avM1eLTG0D0nqP9CMfzwfUffxMf5i8Y+SnOJNlw4ARGZAIRceUBhaFSIyIIMr/KBgMxNDGyT17+i56y6I99R3VYRKLzZoOt3cztRW4UHDtmEgsvoswmzRW0s9xsMKCqyXmcBxrkm4vGgwQ8aKMJuuQaPsslPoXz9aktsLibyVDeYUeziRCCS6yOEF3mvdX7on3DakLv6BaXxg==;uISnwtGlYpCCOXI+s29dAw=="
 ---
 

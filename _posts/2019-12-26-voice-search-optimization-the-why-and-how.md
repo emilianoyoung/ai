@@ -26,6 +26,19 @@ images:
     title: "Voice search optimization: The why and how"
 
 related:
+  - title: "The Pentagon Wants AI-Driven Drone Swarms for Search and Rescue Ops"
+    excerpt: "The Pentagon’s Joint Artificial Intelligence Center, or JAIC, issued a request for information to find out if AI developers and drone swarm builders can come together to support search and rescue missions. Search and rescue operations are covered under ..."
+    publishedDateTime: 2019-12-26T16:06:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/pentagon-wants-ai-driven-drone-swarms-search-and-rescue-ops/162113/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.9C7B9F0B97953270E6674ED1710776B5
+        width: 400
+        height: 400
   - title: "City strengthens bet on translation and artificial intelligence with new research center"
     excerpt: "The Macau Polytechnic Institute (IPM) today opened a research center dedicated to machine translation and artificial intelligence, the first with the Beijing seal in the special administrative regions. This center will “fill a gap in the field of Chinese-Portuguese simultaneous translation research” by becoming a “major platform (…) for ..."
     publishedDateTime: 2019-12-26T13:06:00Z

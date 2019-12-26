@@ -8,8 +8,8 @@ ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-show
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: CNET
@@ -30,21 +30,6 @@ images:
     title: "Facebook's new card-playing bot shows AI can work with others"
 
 related:
-  - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
-    excerpt: "Facebook AI Research (FAIR) says they’ve created the latest AI to achieve state-of-the-art performance when playing the card game Hanabi. The AI system achieves a score of 24.49 out of 25 while the previous best got 23.92 out of 25. In February, researchers from Google, DeepMind, Carnegie Mellon University, and Oxford University proposed a ..."
-    publishedDateTime: 2019-12-06T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/
-    ampUrl: https://venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: https://www.bing.com/th?id=ON.BA3FC279D4AC07289DADE8053BD88C4A
-        width: 700
-        height: 350
   - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
     excerpt: "Facebook AI Research says it's created AI that achieves near-perfect results in the game Hanabi, something that may lead to AI better understanding humans. Read More"
     publishedDateTime: 2019-12-07T00:00:00Z

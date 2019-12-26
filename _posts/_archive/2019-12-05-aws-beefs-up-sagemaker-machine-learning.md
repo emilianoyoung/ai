@@ -2,12 +2,12 @@
 category: news
 title: "AWS beefs up SageMaker machine learning"
 excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-publishedDateTime: 2019-12-05T11:03:00Z
+publishedDateTime: 2019-12-05T11:27:00Z
 sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -82,7 +81,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -109,20 +108,7 @@ related:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
 
-secured: "ho2rjdIh1e7AmsSyaCFBYS7W1sA3/Da9ZG7cztkDh8ZBmVXur+JL9WgMXC7G99YanI2/8SaSl3qFytyJmblhWjnIliC9pgQudeJQF5C9X7ZfFMStZJhKfoZQ3hxubyZRsLQPblsFIErcWBycq+tk2qiybKiU4mjtuZu7DO4B+okTr59Iv3BvA/JxUpFfq14XLpa6W/mem+RnaA84NSW7sus43s22tW66xsa8tKkifuZoV78lrE5Y2C4jn54URgmmDbpshfFLAlaPn3VzUQBzkA==;DgdlIsVm9hoMFNlTUdP/1Q=="
+secured: "2maWhRJ5OtrSK25FW51iZoTn/W5hynmwzg/4MQTdDmDgoKipZM4gEGt0aijUUinmQglNWEBithF4Ym3mlGp8sexnlEgvrQ3Y5AtgZm4zwAUuEoEIhH9VwRif6jBMt0snesCx0BjxmDQ9q4fz0knW4gJ2AJ9fo3k1nNsb/Qx6aizPSEdSZl3O22Q06vmAauP8XVrAjK09KPwsoGWyKhLgIraqI2yWnuKp4jQ9kbSWD/3JAAattBjlyyLBbGELGHznk4t7e0rUTHj99L7V5zLInA==;Xn/V1vKE2PltwotJdDA7mg=="
 ---
 

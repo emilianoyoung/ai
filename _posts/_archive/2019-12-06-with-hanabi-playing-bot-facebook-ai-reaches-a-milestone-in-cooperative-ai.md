@@ -24,21 +24,6 @@ images:
     title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
 
 related:
-  - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
-    excerpt: "Facebook AI Research (FAIR) says they’ve created the latest AI to achieve state-of-the-art performance when playing the card game Hanabi. The AI system achieves a score of 24.49 out of 25 while the previous best got 23.92 out of 25. In February, researchers from Google, DeepMind, Carnegie Mellon University, and Oxford University proposed a ..."
-    publishedDateTime: 2019-12-06T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/
-    ampUrl: https://venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/facebooks-hanabi-playing-ai-achieves-state-of-the-art-results/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: https://www.bing.com/th?id=ON.BA3FC279D4AC07289DADE8053BD88C4A
-        width: 700
-        height: 350
   - title: "Facebook's new card-playing bot shows AI can work with others"
     excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research engineer at Facebook AI Research. \"It's about figuring out how to build these capabilities into ..."
     publishedDateTime: 2019-12-06T17:11:00Z

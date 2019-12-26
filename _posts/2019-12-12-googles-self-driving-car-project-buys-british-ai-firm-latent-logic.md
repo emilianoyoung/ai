@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Google's self-driving car project buys British AI firm Latent Logic"
-excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
-publishedDateTime: 2019-12-12T17:20:35Z
-sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
+excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+publishedDateTime: 2019-12-12T17:21:00Z
+sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
@@ -233,6 +235,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "1syHBwVtE8jslFK3pygAAG0i5SneiLiyxsQ1iqMbD2WFypu0Lrgzh1L68v62j1bsnZCUmaAfPMJq41YFUIfQAas8QbbvZS8Uzi//93ZY0lfN5SR/HrzJZxBycoqlbol+XXLlAQTD1cWEg3hjE/TWKv8CN0zlZSb5fgsZNGjLgCB5W1lxPOXLV/uxFWQqNOq2M4N1lxG+1DQeUZ73PIeelW5CoE3bC9Xv/8hQXzbBoYD6CIVzkoNu8QMGqZDD6V2HXclCm5gOqU392TcZ09nGjg==;anlD7eBh+lvx+gNpN04PYw=="
+secured: "MgSO2RJH0lT180bRyrDXf0Fvs8+zk7/1fM3l1Cjbr+l0C25Yd1/9g3GOTDhwYkKO8HNUC5WmH4iy7K0h7xGkXW0XsvmRqLwKYWSRAhuHWs4B6O/TWt2blwaBqex2T2y5lSbN5pb3vpy9eP+CrSXy12G69CwBU5wTPMTiNEXNwU0Xn+BEHjB8rmpu1jFzidqZtHWeBnfuZ5hPRum47KcX02U/iJ6ekMgSftcOF534b6x5bxybeUJGfEd5tzYTZG8dlpTMCzf6NI44ZCAPi1erLw==;+3aWh+fezpEi0M6FaZCRKQ=="
 ---
 

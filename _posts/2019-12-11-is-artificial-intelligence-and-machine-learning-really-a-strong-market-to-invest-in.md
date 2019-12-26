@@ -118,19 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
-  - title: "Artificial Intelligence in Media"
-    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
-    publishedDateTime: 2019-12-05T05:18:00Z
-    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
-        width: 375
-        height: 360
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z
@@ -331,19 +318,6 @@ related:
       - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
         width: 700
         height: 366
-  - title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
-    excerpt: "Yokogawa's AI empowers customers with an advanced understanding of your current situation, allow them to correctly predict future event, and adapt accordingly."
-    publishedDateTime: 2019-12-06T16:56:00Z
-    sourceUrl: https://www.industryweek.com/sponsored/decoding-artificial-intelligence-brain-myth-and-legend
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.DAA430C41C8C41E2F84CF870232DFB4B
-        width: 700
-        height: 516
   - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
     excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
     publishedDateTime: 2019-12-14T06:25:00Z
@@ -383,19 +357,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
         width: 200
         height: 124
-  - title: "Synthesizing an artificial synapse for artificial intelligence"
-    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain ... The application could lead to the wide use of AI and revolutionary advances in cognitive computing, self-driving vehicles, and autonomous manufacturing. In addition to the research component of the project ..."
-    publishedDateTime: 2019-12-06T16:18:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
-        width: 500
-        height: 700
   - title: "Artificial Intelligence as a Service Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Based on End-User Industry the global Artificial Intelligence as a Service market is segmented in Retail and E-commerce, Healthcare and Life Sciences, BFSI, Government & Defense, Telecom, Manufacturing, and Energy & Power. Competitive Rivalry AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are ..."
     publishedDateTime: 2019-12-09T02:33:00Z

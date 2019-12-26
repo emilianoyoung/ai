@@ -123,6 +123,17 @@ related:
       - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
         width: 700
         height: 350
+  - title: "Google's self-driving car project buys British AI firm Latent Logic"
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+    publishedDateTime: 2019-12-12T17:21:00Z
+    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 39
   - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
     excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
     publishedDateTime: 2019-12-13T17:02:00Z
@@ -207,15 +218,6 @@ related:
       - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
         width: 360
         height: 290
-  - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of Oxford, specialises in “imitation learning”, teaching machines how to act by showing them examples of humans doing the same actions."
-    publishedDateTime: 2019-12-12T17:20:35Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-self-driving-car-project-buys-british-ai-firm-latent-logic/ar-AAK44SB
-    type: article
-    provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 19
   - title: "How AI shifts enterprise decision-making into self-driving mode"
     excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
     publishedDateTime: 2019-12-12T18:47:00Z

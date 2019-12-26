@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
 publishedDateTime: 2019-12-03T18:31:00Z
 sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
 ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
-quality: 69
-heat: 89
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
   - Machine Learning
 
 related:
@@ -32,7 +33,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 56
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
         width: 700
@@ -47,6 +48,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "JS0TUb8l8Bbtq69YVZQy+1BPeC2F60fa3J84suu81pTLezHwXxALyep07Pij6vasTMCzqH0HfYj+1XDCVjlNLnYgeWA/kh5QgcU5L2CMEQ4hf8VoEbkOPwyh88S0YP2vyeSfDb0pnRBhW+TfTkrCNS/ZsSofNF7lwBEeXq3GFKJoSEn8k0HT0W7DSnxBJ+MGY0RgexZNGM6okXZjd9P3Xf1dIJFuOnJyMM+vwDmbqOyz7NvV5o1HA1oSBsD0swzTzW62q9z4rKR9UysfESrbyw==;lhM+O5jt15jJ9cSxlVSkgQ=="
+secured: "Ej3TNo+OulVwOXcWNR6gR+BXYDR9rj3B+suR3aWOo80cR3Foy8SlcosPUK1kbbh/fcZDT3WEE0YmV/tjj9XyWTfH/WyB9H361s3bQD9GFamvzNUrNHODjsgSC2neChF4mEOEG4OZ2utKlS0NSxkzXKpiWo4hO67QvXvXNNBcEgrYL12cTTKvqUi6ypj5sLp4ya04qx6TS3m6KM5fiYnuKwHe9WXZALARI901mS4ZPEySZYaoBCk0Csq8cNhlr76Qhpbzw5b+XGWZTzZOi1O7vA==;riGfK1SLF+bv7sRX0YWagg=="
 ---
 
