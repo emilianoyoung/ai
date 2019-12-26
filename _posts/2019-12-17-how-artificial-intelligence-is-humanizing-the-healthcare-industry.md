@@ -30,6 +30,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Healthcare start-up Qure.ai develops software to provide fast and accurate diagnosis of Tuberculosis"
+    excerpt: "Founded in 2016, Qure.ai uses deep learning and Artificial Intelligence (AI) to bring access to quality healthcare, especially in remote areas. “We work closely with NITI Aayog and the Piramal Foundation’s Piramal Swasthya initiative, to leverage AI to enable faster diagnosis of TB in remote areas,” Warier said. To fulfill the vision of ..."
+    publishedDateTime: 2019-12-26T07:57:00Z
+    sourceUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.html
+    ampUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.CCD7DD67820537C62988E7A09CEBFF21
+        width: 600
+        height: 390
   - title: "80% of healthcare professionals say AI has decreased burnout: 3 notes"
     excerpt: "In contrast to fears that the widespread use of artificial intelligence will dehumanize healthcare, the vast majority of medical professionals who regularly use AI say it improves workflows and reduces clinical error, according to a new report. The MIT Technology Review and GE Healthcare surveyed more than 900 healthcare professionals in the U ..."
     publishedDateTime: 2019-12-16T22:10:00Z

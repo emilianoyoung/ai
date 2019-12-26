@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -101,6 +101,21 @@ related:
     quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
+        width: 700
+        height: 466
+  - title: "Facial recognition is the future, privacy is a concern"
+    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
+    publishedDateTime: 2019-12-26T07:45:00Z
+    sourceUrl: https://www.zawya.com/mena/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163119875/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163119875/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
         width: 700
         height: 466
   - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"

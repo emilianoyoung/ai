@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
-  - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients."
-    publishedDateTime: 2019-12-06T06:28:00Z
-    sourceUrl: https://www.nbcmiami.com/news/national-international/robot-artificial-intelligence-moves-into-care/2157996/
-    ampUrl: https://www.nbcmiami.com/news/national-international/robot-artificial-intelligence-moves-into-care/2157996/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/national-international/robot-artificial-intelligence-moves-into-care/2157996/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.452602C5E171011DE9D63484A30A3902
-        width: 700
-        height: 393
 
 secured: "WOlewkxy44VIzkMAQJ4eG7smjdWir0r6+6jdDNvn6UxkyXeEDpQp6bkvI6pNZ/gCEguTN8739b021EGdPxfXyaK2jF0V+YUJ++QkdFOS4LE2okIaMdS2zXsLMlw9rlFt9M3Gwbn0A6ACBfiV3e+H2Ke83tiPuLIgCPscMblQZvY2AK5tpZRkndZiY5FTBOdYUQ7PY1XA3Ev6TuiBsMitLW2LpL1fj1e5JAyZp9F7sg9MIBU6xOQ62IMKvMvgHF7dupsRfwN4a9xeGaYxJ+tZPg==;5ePQ18ZfRoi0UaeCuKA8cg=="
 ---

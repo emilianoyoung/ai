@@ -5,7 +5,7 @@ excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial
 publishedDateTime: 2019-12-05T17:34:00Z
 sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-    width: 500
-    height: 500
-    title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
@@ -131,6 +125,6 @@ related:
         width: 632
         height: 422
 
-secured: "MDJB+ecKyAJWNwRm5vugVJtR0xL6lApWiwri/4WpRBEbzpcc6hyjpnd/gRj3Fxbh1KrDkHtb/YxYWqcCpN+sD1Iotd8mwwufYtDtM1GrrpeB2M8ax46NZBacAcMc7uYTTJOMiVWl8Yiqj95gV1ZfJ2hMju9ukr1WyfD9AaAycDkW/Bsnnm3Pdf56O6wtk4n/Pmg6Az+4sD3MWQBXdXPMxjzeqR6fH0gaV18FEVZ8Ti/GAUiiPX8KARSlpx1Rzu85DXpcJ+oQQsLys+kq3rUjGg==;b/r5drxoll7fc2un2c8xkA=="
+secured: "rbEF8pRu1E9mCvtjedeffnQrYveQT5BxMgXgUEzNTru3bwLXjr/WYmCiZ/RUBshGJTCV390dMWoRu9F8GWGTDOvQO0/RZLuNPQ26snvP/NcXLtPQii02cbFo750a+iUtVCXNANEwgxn7znP5IhnYffyrp6Xcobxd5Jbv7O695JK0+Fc0R8CpP5Aezhjhtq5IA35EzGOPv4fgtCRhdcInmkLGUStCnMmL+cVv374mFmlpp5mZFhA4JcqJH07/OKZvsTUju1TrbpCHt0cVpYsOEw==;PSL9lWfay0+lnevQlFqNaw=="
 ---
 

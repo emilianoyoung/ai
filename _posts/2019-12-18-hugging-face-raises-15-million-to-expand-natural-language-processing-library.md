@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A71FB55C06FEA039E9164A36327AC063
         width: 700
         height: 525
+  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
+    excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
+        width: 400
+        height: 142
   - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
     excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
     publishedDateTime: 2019-12-20T19:09:00Z

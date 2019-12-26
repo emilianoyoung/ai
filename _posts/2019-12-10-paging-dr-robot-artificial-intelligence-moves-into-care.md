@@ -8,7 +8,7 @@ ampUrl: https://www.nbcdfw.com/news/national-international/robot-artificial-inte
 cdnAmpUrl: https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
 
 related:
-  - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
-    excerpt: "The next time you get sick, your care may involve a form of the technology people use to navigate road trips or pick the right vacuum cleaner online. Artificial intelligence is spreading into health care, often as software or a computer program capable of learning from large amounts of data and making predictions to guide care or help patients."
-    publishedDateTime: 2019-12-06T06:28:00Z
-    sourceUrl: https://www.nbcmiami.com/news/national-international/robot-artificial-intelligence-moves-into-care/2157996/
-    ampUrl: https://www.nbcmiami.com/news/national-international/robot-artificial-intelligence-moves-into-care/2157996/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/national-international/robot-artificial-intelligence-moves-into-care/2157996/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.452602C5E171011DE9D63484A30A3902
-        width: 700
-        height: 393
   - title: "Paging Dr. Robot: Artificial intelligence moves into care"
     excerpt: "Artificial intelligence is spreading into health care ... a virtual reality character named \"Ellie\" that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures ..."
     publishedDateTime: 2019-12-07T12:11:00Z

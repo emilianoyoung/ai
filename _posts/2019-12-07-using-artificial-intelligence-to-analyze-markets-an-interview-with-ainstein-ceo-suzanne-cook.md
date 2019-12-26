@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intel
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -53,19 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance: Americas Market: Key Facts and Forecast Predictions Presented In 2020"
-    excerpt: "Dec 06, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
-    publishedDateTime: 2019-12-06T06:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -18,43 +18,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "Today, with these launches, we are bringing these concepts to machine learning developers for the very first time.\" Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial ..."
-    publishedDateTime: 2019-12-04T17:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+  - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
+    excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
+    publishedDateTime: 2019-12-09T16:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Improve cyber supply chain risk management with Microsoft Azure"
-    excerpt: "Azure Sentinel is a cloud-native security information and event manager (SIEM) platform that uses built-in artificial intelligence (AI) to help analyze large volumes of data across an enterprise—fast. Azure Sentinel aggregates data from all sources, including users, applications, servers, and devices running on-premises or in any cloud ..."
-    publishedDateTime: 2019-12-09T16:00:00Z
-    sourceUrl: https://www.microsoft.com/security/blog/2019/12/09/improve-cyber-supply-chain-risk-management-microsoft-azure/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.CF341F513DAD89C33C5466D24C858DCA
-        width: 697
-        height: 700
-  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-    excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running ..."
-    publishedDateTime: 2019-12-01T14:13:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
-    ampUrl: https://amp.benzinga.com/amp/content/14908555
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14908555
-    type: article
-    provider:
-      name: benzinga.com
-      domain: benzinga.com
-    quality: 24
+      - url: https://www.bing.com/th?id=ON.D3D2D7435233F112E8C48183EFD83C3B
+        width: 635
+        height: 400
 
 secured: "fHyYq5vOrCCJQARONbAR6LKvR/pSccPksZuBjhVM0hhEayKnQeadechHyW4mHq74tCZnHB+kCwsujJ5EGVPKhnNa0JxieT0RDyr1Ma3hXYiHDrfWKz3Zd07syh3LpuThrnIUWfc5K+MG9cBLscId+SRka4P9NrX4CprMs9QJ3N1o+KBVXBm37m5gpfNtUeZjK2idZlYKx0Od44mUBVd9qF/d2Bn76R0M0r3cQbfrIli6MfEdqo1iZP9H4jH17MlTIreWZMy63Z8fxdbB1mv3Lg==;2wDhAfR4Lr3QuyB402MCoQ=="
 ---

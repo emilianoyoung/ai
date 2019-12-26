@@ -80,19 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
         width: 700
         height: 350
-  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
-    publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -130,6 +117,15 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
+  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    publishedDateTime: 2019-12-05T17:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 19
 
 secured: "P3Kj7GVZL5p54hxXMZm50FUG6QT5kud9V5/GcwkSIBPI9vvELgw0v0UcKCGTIS0OYGy35vG8/lIekJ+dMQazhajqTgG6COirMTmvP+C4LyCVVendF/cEPVgZ9JygTJjwYiBFPkfOqZjbealB3Eo6AqEOhWLDU4ex3MxMtOXDjy+HOXt5+HVtE6tArkMJ5ZHuB6TD5IAkmGpN+XyvNexLoKXTRuwqNv0WGm03NroSz1F7GoRT1EB77vPEq2lXpNFVVk0s+UagW6KsuL8mEDkJsQ==;4SUKNXbw7mT03jfEf2UiAw=="
 ---

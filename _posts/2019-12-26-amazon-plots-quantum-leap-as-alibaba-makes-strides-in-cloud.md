@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.269A92A5C22C776477B71483A99B859C
         width: 700
         height: 525
+  - title: "Alibaba Cloud growing but only in China: Amazon Web Services CEO says"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. “I would say that we mostly see Alibaba, as we’re working with customers, and they’re considering who they’re going to use in China is where we mostly see them. I don’t think they have much of a ..."
+    publishedDateTime: 2019-12-26T07:29:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/alibaba-cloud-growing-but-only-in-china-amazon-web-services-ceo-says/story-UpLpqt4Ju4ckD0tmr1qvTL.html
+    ampUrl: https://m.hindustantimes.com/tech/alibaba-cloud-growing-but-only-in-china-amazon-web-services-ceo-says/story-UpLpqt4Ju4ckD0tmr1qvTL_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/alibaba-cloud-growing-but-only-in-china-amazon-web-services-ceo-says/story-UpLpqt4Ju4ckD0tmr1qvTL_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.04EF9ADA47B1DED66DD056D6DC0C3E77
+        width: 700
+        height: 393
   - title: "Alibaba Cloud growing but only in China: AWS CEO Andy Jassy"
     excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
     publishedDateTime: 2019-12-26T04:27:00Z

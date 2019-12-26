@@ -20,49 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon now lets customers label and track specific objects with Rekognition"
-    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
-    publishedDateTime: 2019-11-25T17:06:00Z
-    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
-    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
-  - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
-    excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
-    publishedDateTime: 2019-11-25T18:59:00Z
-    sourceUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/
-    ampUrl: https://www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/amazon-adds-new-features-rekognition-software-amid-ongoing-debate-facial-recognition-tech/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 61
-    images:
-      - url: https://cdn-geekwire-com.cdn.ampproject.org/i/s/cdn.geekwire.com/wp-content/uploads/2018/11/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg
-        width: 630
-        height: 442
-  - title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
-    excerpt: "Amazon Web Services Inc. today released a new feature for Amazon Rekognition that will enable the computer vision service to identify specific objects in images — such as products on a shelf or manufacturing components — even if they aren’t in its ..."
-    publishedDateTime: 2019-11-25T18:50:00Z
-    sourceUrl: https://siliconangle.com/2019/11/25/custom-labels-aws-lets-customers-train-rekognition-specific-projects/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/custom-labels-pre-4.gif
-        width: 671
-        height: 386
   - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
     excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
     publishedDateTime: 2019-11-26T16:35:00Z
@@ -76,7 +33,20 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
+  - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
+    publishedDateTime: 2019-12-03T00:00:00Z
+    sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 41
+    images:
+      - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
+        width: 1024
+        height: 645
 
-secured: "7WVQc534rq78BjEHSrhZfRS3l9sIgospd1axfIIFm3WR8ibQz17WO+HuuVg8n4h1k/vGUyZ3FpT1AIWpGq1U/cxewVPsr/eYVpSqJ4WxflYYyo+uvTlTkaDtHISDlQatKRxLL/iT+fqk0wiz8jt2oWx88Ys0T8jUIx9Jn953MktJ8/aj26m2btxtVZLuFxWOVwU6J3/NqWIMdtiJ09A8XH0Yvzcwz+yzyohc5+e29ncahXhRJrU5OK46p8kO/APyFv02Elo+ZcCDY9COaxSJIg==;hnB+yONSbFwAQywXLnM72Q=="
+secured: "HDsY1GfyY1cXOArM2pBfPJaesNgEUJYOJW538BSaa3+OUu7X55td1eaNTVm7znF1JVIKZixr0mlL3ZMM4oiedO5MXfBeaNpfrh02BM2hv+/GD4ZY0eE0HWUBkaIe/zNvPx+G2M/oQlTlqE/AqURzJLOVcF7SKKU+c2KvwJT9Q7pqnbwrR8uy4itkq0dAtSvIf8GVqC0rfj3JTIC7wYzHv80pVg8EmcRDHSiH/wlOHPOziVH69U370uwV2yP6j9yrS4YWDxCZKXyRPYlm/5iPnA==;S+bQ4BDyJGy1bgEGjgL5dA=="
 ---
 
