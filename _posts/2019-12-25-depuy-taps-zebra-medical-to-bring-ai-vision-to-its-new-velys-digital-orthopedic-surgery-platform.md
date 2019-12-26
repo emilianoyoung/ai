@@ -44,7 +44,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 2
+    quality: 4
     images:
       - url: https://s.yimg.com/ny/api/res/1.2/hPFPSVAzHGucnS.V7ix3gg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/833af6af0cdde9dd1062671ce0153621
         width: 480

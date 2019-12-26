@@ -33,6 +33,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7F84B44FB8C0D2365FB08654AAB391D3
         width: 700
         height: 525
+  - title: "Atos Launches Quantum Learning Machine User Group"
+    excerpt: "With its targeted and unprecedented compute acceleration capabilities, notably based on the exascale class supercomputer BullSequana, quantum computing should also promote advances in deep learning, algorithmics and artificial intelligence for areas as various as pharmaceuticals or new materials."
+    publishedDateTime: 2019-12-12T17:22:00Z
+    sourceUrl: https://insidehpc.com/2019/12/atos-launches-quantum-learning-machine-user-group/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.DE9897C8617AD02B0C17C2AB1095F016
+        width: 300
+        height: 300
 
 secured: "laxHxB32f4Ql0QaQ8eirjSbT2tomtLKTq/YO0l2vekcmahRUTe/Z7bBcMcoj1vU4AsaeGVdreP+1KENALOoAOLeHYrxzkOQZpGv6c6A939HqgetCpq9az8cQHl7mx6wIRdhFvMNgoGLjTn274jEoYVTGpO8kq2ZtTkJlt1+Xeuef6D/AH5E91spy8lJ3f0yfuukO6WOsfH1eIAtLg+/3X3RW8vj+ApdVXxV2DvgfgkzOyKyvnIQXiBfGYKQj+uAdjHhPP8L25+2+8Nn8PvI4+A==;GI8X67g7cae2GbEFXhj/3w=="
 ---

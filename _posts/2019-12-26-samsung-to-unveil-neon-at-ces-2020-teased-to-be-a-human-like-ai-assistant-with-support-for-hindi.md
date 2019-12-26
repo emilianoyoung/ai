@@ -66,6 +66,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
         width: 700
         height: 700
+  - title: "Samsung Teases ‘Neon’ AI Tech: Set To Unveil At CES 2020"
+    excerpt: "However, Bixby is more popular in its home base with the South Korean language. In comparison, the Samsung Neon seems like a new offering with AI to further enhance its presence in the consumer base across the globe. Samsung has also announced that it would unveil the Neon product at CES 2020 in Las Vegas. The company has begun popularizing ..."
+    publishedDateTime: 2019-12-26T05:59:00Z
+    sourceUrl: https://www.gizbot.com/news/samsung-neon-under-works-what-is-it-064572.html
+    ampUrl: https://www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
+        width: 600
+        height: 337
 
 secured: "kjXygFHqHP3AFOIrjuPOJVtZiHV9RS3zY502eJ/YZBvjMBLcl+r1HrDgj36PZAYmRvrshdzHmuKKdOasOUNviTzcuh2NcAPyW7tHPnJu/HScGT75Ykw4lQu+6ynqZEpvjqyE9oB448U+SoTL308qYiw5MuYaYRBEHT1mZi+d9ov4wFI9p+fv3F7HARr0IiByMFA9xK7memD/dt/v5DvYVLJpNYvyfVtvdcqVs1EhYHCybzLXEqI2xb0M+VzrOkTHzp1227BEV2YNAuf7nMCLEw==;bJCefFgieyEnbFq7mK/eMg=="
 ---

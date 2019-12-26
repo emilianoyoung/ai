@@ -24,6 +24,21 @@ images:
     title: "Amazon plots quantum leap as Alibaba makes strides in cloud"
 
 related:
+  - title: "AWS CEO claims Alibaba Cloud isn't a threat"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
+    publishedDateTime: 2019-12-26T05:16:00Z
+    sourceUrl: https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/articleshow/72974967.cms
+    ampUrl: https://www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/aws-ceo-claims-alibaba-cloud-isnt-a-threat-and-only-growing-in-china/amp_articleshow/72974967.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.269A92A5C22C776477B71483A99B859C
+        width: 700
+        height: 525
   - title: "Alibaba Cloud growing but only in China: AWS CEO Andy Jassy"
     excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
     publishedDateTime: 2019-12-26T04:27:00Z

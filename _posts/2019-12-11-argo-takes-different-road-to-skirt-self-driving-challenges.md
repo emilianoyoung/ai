@@ -105,6 +105,6 @@ related:
       domain: irishexaminer.com
     quality: 19
 
-secured: "dOUCqlC0oMfqbcnjXPnnSlkbCVgn46rW2beg7jVIa8ST400paqX9fN+aQOZXdB9KKEngE3sRYyP64z4DUp/qEiBwhgmXwJl11ssstrOW1m3QP4xOeM0GXcjSufNhNeAm8RhGyhRoXVl9Ce82dspZdYkR2u/R2LiEY0Tel5abydlY4LWRqRAmsvzznAaG1aYqy/Omotoj7TmV2XdWP3AWQT+FjtP9Idl19x4PZ71hhTWKzxsLu3kIowCD4CjZoVjnQGZ+oZQ+OJLG4/TDcGKTkg==;AqHueoH3xOsUzFP39RhjgQ=="
+secured: "6hqEk0bLY3y55RM9+zP4e19cXlgCyX9AwuBDKKaan65qO6XGDM4rwwyvTATCTJ3zFaB+knojF+sqzadOZwlsFYDAxLedvkCqzXNkq/kcvRaA+tuTqaB7tCh2sgQ3qz2GnDUWfpmkmxkgqXxPNxK3pITN7GhhezfyBmC/bPkEa3Fb0v3OyxBsH1WczkuH78+LdTQZYdOA9HJ99NoYrOzsx3DfeBtS7ocZLou/250+JiocnjBQkcWqTBNz0HWudW8gkTHiEsA1Hnbj4Sxg4oN1vg==;zGMBODw6sHSjaOKAnOdiRQ=="
 ---
 

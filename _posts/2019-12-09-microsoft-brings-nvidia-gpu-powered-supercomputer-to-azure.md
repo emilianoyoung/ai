@@ -8,7 +8,7 @@ ampUrl: https://mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercompute
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercomputer-to-azure/amp/
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     width: 700
     height: 426
     title: "Microsoft brings NVIDIA GPU-powered supercomputer to Azure"
+
+related:
+  - title: "RPI Powers Up ‘AiMOS’ AI Supercomputer"
+    excerpt: "Designed to push the frontiers of computing chip and systems performance optimized for AI workloads, an 8 petaflops (Linpack) IBM Power9-based supercomputer has been unveiled in upstate New York that will be used by IBM data and computer scientists, by academic researchers and by industrial and commercial end-users. Installed at the Rensselaer ..."
+    publishedDateTime: 2019-12-11T18:31:00Z
+    sourceUrl: https://www.hpcwire.com/2019/12/11/rpi-powers-up-aimos-ai-supercomputer/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.35222C1305E5736CF29E209B5B1F1F9A
+        width: 200
+        height: 300
 
 secured: "h9AC3rlaNfjTJ/J5LKt6FgXeYJXzRr8hoZKQ4W9/jXjZhmuXQZA5H8hDcpjhNYJLQeVEvmwWyohixSroNCoKXyMSLZqPQgJXweLHakKJQuKk/3GSt8QOVlBEGA+a2Z1ezWIIsf2KIXDcSX2vFzEbK302YrDo6zBuLg6Zfx+3Etr0udlgZjjcMemVg0f45o5Ph8SQtFYhglDn20jLiQ0i6KM43o33BB1nVEamt6u/XJxuAKPH2OYLpdcNR4RSKtKL/hcNXyQqQdB7yxQPbsR0JA==;YFTyq9WNCkeSfCGzUAW9yg=="
 ---

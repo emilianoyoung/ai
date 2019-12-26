@@ -444,19 +444,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market Industry Analysis, Size, Share, Upcoming Trends, Segmentation and Forecast to 2019 - 2026"
-    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- According to MarketInsightsReports, The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD 30.48 billion by 2026, growing at a CAGR of 16.25% from 2017 to 2026. Global Natural Language Processing Market Report is highly intended to ..."
-    publishedDateTime: 2019-12-06T05:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-industry-analysis-size-share-upcoming-trends-segmentation-and-forecast-to-2019---2026-2019-12-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Security Market 2019 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
     excerpt: "The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period. Browse Full Report Here: https://www.marketresearchengine.com/artificial-intelligence-in-security-market The Artificial Intelligence in Security Market is segmented on the lines of its application ..."
     publishedDateTime: 2019-12-11T04:56:00Z

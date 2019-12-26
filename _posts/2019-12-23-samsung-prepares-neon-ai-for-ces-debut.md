@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
         width: 700
         height: 700
+  - title: "Samsung Teases ‘Neon’ AI Tech: Set To Unveil At CES 2020"
+    excerpt: "However, Bixby is more popular in its home base with the South Korean language. In comparison, the Samsung Neon seems like a new offering with AI to further enhance its presence in the consumer base across the globe. Samsung has also announced that it would unveil the Neon product at CES 2020 in Las Vegas. The company has begun popularizing ..."
+    publishedDateTime: 2019-12-26T05:59:00Z
+    sourceUrl: https://www.gizbot.com/news/samsung-neon-under-works-what-is-it-064572.html
+    ampUrl: https://www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
+        width: 600
+        height: 337
   - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
     excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
     publishedDateTime: 2019-12-26T04:09:41Z

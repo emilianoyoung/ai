@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
     publishedDateTime: 2019-12-05T11:03:00Z
@@ -53,7 +66,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
+    quality: 86
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -111,6 +124,6 @@ related:
         width: 700
         height: 525
 
-secured: "O2q5MZn4MFgnVd/hxckYS1pOmJoiH5KbVdGsiGJ4MO8fNhDsPDcQWDEOnd+BfS/cEdXx61oB7j0kKFDRVp8I8cx9wOuTFf5FVSBwSU93i3Voph/t2Hhg8JsdASPSxdHt5cry9etUHVzSzcuF9sR6yx2w+egbeiJuxRG+8O6VQDMRzybF5gGBcvFX/di9Fijcsd97Xr9gMcmkOhmLUgwCcHIsmuEgg3r/zTs0sR1pIoTkYd0jqGlr+wRPof6N5aME/0rd+tfNzvCD0o6zNgB1Rw==;epLlo0MKDd0JOk6pNZwung=="
+secured: "F7XTWaGUDGQ2ITjQwZzTPIrWMmllrrd7706i6oSIU9uSFgLpS/BtechlAhcgykC8U72QvXt/OLc/uDq/178fSzKevWwfeXTF594i8cX/CrV5zkYVfNSKXzEDGpAFpBPDkGOD/wHejiThIi55tFN81erga351DOaXTxWrD1fxFviKtOqNYc1u/dhF0LWa59pnH4BPdhCKZcY3PatChk278J82+rMqDtewvD2mQMkqTRA1jF/AVGmS+xO5XspDlCl5sjgoOmdXVnuJmzM5DI2hjQ==;BZ3uQWGFo3oGiTcdnmwXQw=="
 ---
 

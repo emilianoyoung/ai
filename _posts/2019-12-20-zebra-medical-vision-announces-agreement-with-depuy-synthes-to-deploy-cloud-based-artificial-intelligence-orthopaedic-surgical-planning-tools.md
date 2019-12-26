@@ -5,7 +5,7 @@ excerpt: "Zebra Medical Vision, the deep learning medical imaging analytics comp
 publishedDateTime: 2019-12-20T00:12:00Z
 sourceUrl: https://finance.yahoo.com/news/zebra-medical-vision-announces-agreement-130000572.html
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: https://s.yimg.com/ny/api/res/1.2/hPFPSVAzHGucnS.V7ix3gg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/833af6af0cdde9dd1062671ce0153621

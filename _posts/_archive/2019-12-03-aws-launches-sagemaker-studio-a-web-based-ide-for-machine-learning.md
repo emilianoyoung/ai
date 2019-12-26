@@ -39,6 +39,30 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    publishedDateTime: 2019-12-05T11:03:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -52,17 +76,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:03:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -107,6 +120,6 @@ related:
         width: 700
         height: 466
 
-secured: "tAsH+OpUOPI/Wl5G78SJtWA9nOSbtc8KvcIlG/lolqL72YPNBYGS71saX1ISTzk8MX5JityyQQZqTMNj6rJifuGH7Fu4RL9xsVtakfZrXw48NOPhyGQ+huoDZdbM9tK7K9aElGwodyDdh/Ff4SK29tg8fibNwA2c+2JI7nbDKyuF16u7GJ5c6uFvFe/LrQGSbrrSWwd03vHVJ9qJkZZqdKB36YddFPhK0kXKpESTj1NMnggoNWyPMdezjBcknZSWb4XeNqcqhBzyuzWJC8Kaqw==;1SQjpps1z3RJHOgELNSKqw=="
+secured: "Kc6sz/+hJzLWtjwLd+lH9C+3mW+fRLPGP+7qpFg62fsro7mdHEfJBMHeQRVY6TuczF+qLT9nJ5KkPrQBlzDk263weLHyAYtCurIFCfwCI6FkPwxvbQgs97HbmnILFIVD8X0XW/j2Ce0WtBZnPZcvficQZmtFavB7hQrlV9z3h2rllNmV+F+d3zKKSt/m7KkBlU4YNHFjzheI+K3nuw8QJd2UNk2ti/gaKvPVOdEWqRACm7VQEznafM7GNabu10BQVM3HG1xnd41VoBOHgLGLNg==;Q88qa/zqvh1ncplfpcM9Qw=="
 ---
 

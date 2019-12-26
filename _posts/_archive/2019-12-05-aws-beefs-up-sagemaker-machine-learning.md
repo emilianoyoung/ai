@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -39,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
+  - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
+    publishedDateTime: 2019-12-04T17:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 102
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -109,6 +123,6 @@ related:
         width: 700
         height: 525
 
-secured: "1Lkk5XGKzpJkYfwayfQ3el4i3bQDacJW+OpD6dXxuHd7mNCJ7Z6cjxf7siTO5rDU96OvVZ//I0vFEZHOWEAvbaHeEN6eK8VvdpI/zt0851ZrXSaSPNrXhQYpkzyV4bPlYMJQqGcebCGL404TRn8fEMLtCytzoS0pK/STGQxjdumckm8eitYSILOTvOSc0ltaIu6Ln0RA1u0or0CSVo1zpTiALMFFd+gysZA7omVvFejc6DhXII6Ftjx55mfKeU//mUPUkQGfNhF5JNSWZKpDvg==;Le6cP4O1GgGl7kln+MVpfQ=="
+secured: "0mmWb31qipuPBMZ7YjSdKGrIUXscvlU6FTC9hVAVMZHLC/nVojGQh3gwO2JjkrZtsmNakBk1mECsVX2IYdzdc4hR9WIhwibHQpSqF/aBoYTEy2ARc5SU08qtG+jegZ/JWewyojy7hhcHdwHjQJgnwwEwz0hXqO+szBUO5CvMINhJ/PKWT9wCWztFWegEqSZ4dU9YaHh4SP7/dIeEX5ikhmSmkfvgn4Y7jQ5guW5KpueEhylsEew8wQtEaEq9wN/i1bErhbED+thUZAp2O81Grw==;3tUP6vtzoO/0ud7ucnKQrw=="
 ---
 

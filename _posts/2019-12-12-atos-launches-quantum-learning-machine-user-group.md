@@ -24,47 +24,30 @@ images:
     title: "Atos Launches Quantum Learning Machine User Group"
 
 related:
-  - title: "Rensselaer focuses IBM’s AiMOS supercomputer on machine learning"
-    excerpt: "Sophisticated machine learning applications require not only enormous amounts of training data, but powerful computer hardware on which to train. An analysis conducted by San Francisco research firm OpenAI found that since 2012, the amount of compute used in the largest training runs has been increasing exponentially with a 3.4-month doubling t ..."
-    publishedDateTime: 2019-12-06T05:01:00Z
-    sourceUrl: https://venturebeat.com/2019/12/05/ibms-aimos-is-one-of-the-most-powerful-supercomputers-in-the-world/
-    ampUrl: https://venturebeat.com/2019/12/05/ibms-aimos-is-one-of-the-most-powerful-supercomputers-in-the-world/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/05/ibms-aimos-is-one-of-the-most-powerful-supercomputers-in-the-world/amp/
+  - title: "Cloudera tackles machine learning \"ops,\" governance"
+    excerpt: "At the AI Summit in New York City today, Cloudera is announcing an initiative around operations of the machine learning (ML) workflow, also known as \"MLOps.\" In a nutshell, the company is extending the Apache Atlas platform to accommodate the governance of machine learning assets, in addition to the more conventional data governance and data ..."
+    publishedDateTime: 2019-12-11T14:00:00Z
+    sourceUrl: https://www.zdnet.com/article/cloudera-tackles-machine-learning-ops-governance/
+    ampUrl: https://www.zdnet.com/google-amp/article/cloudera-tackles-machine-learning-ops-governance/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-tackles-machine-learning-ops-governance/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.BD1EEB25ACEE15BC658E47A517B29C09
+      - url: https://www.bing.com/th?id=ON.7F84B44FB8C0D2365FB08654AAB391D3
         width: 700
-        height: 350
-  - title: "RPI Powers Up ‘AiMOS’ AI Supercomputer"
-    excerpt: "Designed to push the frontiers of computing chip and systems performance optimized for AI workloads, an 8 petaflops (Linpack) IBM Power9-based supercomputer has been unveiled in upstate New York that will be used by IBM data and computer scientists, by academic researchers and by industrial and commercial end-users. Installed at the Rensselaer ..."
-    publishedDateTime: 2019-12-11T18:31:00Z
-    sourceUrl: https://www.hpcwire.com/2019/12/11/rpi-powers-up-aimos-ai-supercomputer/
+        height: 525
+  - title: "Industry Call to Define Universal Open Standards for Machine Learning Operations and Governance"
+    excerpt: "PALO ALTO, Calif., Dec. 11, 2019 /PRNewswire/ -- Cloudera (NYSE: CLDR), the enterprise data cloud company, today asks for industry participation in defining universal open standards for machine learning operations (MLOps) and machine learning model governance. By contributing to these standards, the community can help companies make the most ..."
+    publishedDateTime: 2019-12-11T14:10:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-industry-call-define-universal-open-standards-machine-learning-/2019/12/11/9068012.htm
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.35222C1305E5736CF29E209B5B1F1F9A
-        width: 200
-        height: 300
-  - title: "AiMOS Supercomputer to Focus on AI Research"
-    excerpt: "Part of a collaboration between IBM, Empire State Development (ESD), and NY CREATES, the eight petaflop IBM POWER9-equipped AI supercomputer is configured to help enable users to explore new AI applications and accelerate economic development from New York’s smallest startups to its largest enterprises. Named AiMOS (short for Artificial ..."
-    publishedDateTime: 2019-12-06T15:28:00Z
-    sourceUrl: https://www.hpcwire.com/off-the-wire/aimos-supercomputer-to-focus-on-ai-research/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.4E4F725CD5F3316046D658094112BB85
-        width: 405
-        height: 228
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 7
 
 secured: "dyhou+4kZ6k9k0W0YMtaPuHCi7i0E65a2X84VlbwgOd2L/k3m6N5Oa2P63+tCGaR6bCxr45Wkm6XrSBt0Sj9e4ZryihWv0eA/SQsoTS/Cj0KF+8nW+P1e+/9qafflspsgdJMsnFu5FWocRhOHMgW+Bg6FriJIV5WdaO4ciSPK5RTlSLauU+vT4PhBkrLYCm0eMzj+dYTvLAyAuPbiZqtasA9uP4L2clkzBE2iqxrg3Hd76faMHomMCUCpqvnUkzEarMq4LPOBppT2VWZ/hH5TA==;AyenflQ6HG1g63KqprnO5Q=="
 ---
