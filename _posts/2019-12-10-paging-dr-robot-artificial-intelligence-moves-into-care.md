@@ -100,21 +100,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "GeekWire Calendar Picks: Artificial intelligence in public policy; podcasting tips; and more"
-    excerpt: "Government, higher education, and workforce management are just a few places where artificial intelligence is popping up. In hopes of educating everyone about AI, the Tech Alliance is holding the AI Public Policy Summit to give those who want to learn more a chance to hear from experts and network with those in the field. The summit takes place ..."
-    publishedDateTime: 2019-12-06T21:29:00Z
-    sourceUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/
-    ampUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.58AE5E8E7EE103AA8DE5A9666D27E229
-        width: 700
-        height: 350
   - title: "Artificial Intelligence in Media"
     excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
     publishedDateTime: 2019-12-05T05:18:00Z

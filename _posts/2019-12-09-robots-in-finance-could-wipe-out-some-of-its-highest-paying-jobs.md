@@ -50,19 +50,6 @@ related:
         height: 436
   - title: "Robots in Finance Could Wipe Out Some of Its Highest-Paying Jobs"
     excerpt: "Robots have replaced thousands of routine jobs on Wall Street. Now, they’re coming for higher-ups. That’s the contention of Marcos Lopez de Prado, a Cornell University professor and the former head of machine learning at AQR Capital Management LLC, who testified in Washington on Friday about the impact of artificial intelligence on capital ..."
-    publishedDateTime: 2019-12-06T21:24:14Z
-    sourceUrl: https://www.msn.com/en-us/finance/companies/robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs/ar-BBXSnip
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2C08EA56533F538BCBC97BF614461A81
-        width: 700
-        height: 466
-  - title: "Robots in Finance Could Wipe Out Some of Its Highest-Paying Jobs"
-    excerpt: "Robots have replaced thousands of routine jobs on Wall Street. Now, they’re coming for higher-ups. That’s the contention of Marcos Lopez de Prado, a Cornell University professor and the former head of machine learning at AQR Capital Management LLC, who testified in Washington on Friday about the impact of artificial intelligence on capital ..."
     publishedDateTime: 2019-12-07T00:12:00Z
     sourceUrl: https://news.yahoo.com/robots-finance-could-wipe-highest-212414202.html
     type: article

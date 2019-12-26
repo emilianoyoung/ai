@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/joemckendrick/2019/12/26/dont-rush-into-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2019/12/26/dont-rush-into-ai-strategy-too-quickly-expert-advises/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 315
     title: "Don’t Rush Into AI Strategy Too Quickly, Expert Advises"
 
-secured: "zmkBPY6fE5LHhhDkoFD/M5LBZC/frB68go8jSP7JbcetlPHUy/0W6+Nj1AynOLr02zZz4RQomdpPwhHkYvssxAlLW6vpyQbuuyP6lP4xljuDJunFoEaUHipo6XYsRBoiYTvcZar3Jc+955No3JqIQnh23wqa6N+OLWg+UMy+3ZZdy0nc4QNQPpWaYPkG95uyBXMexhaSeUu3yB7FF6o7EVdk277VXVNbMC89rmfs0lPe14MsdvRUhQyHyY8sa7JAwlAdZiPDnlJNP+vm+VLZQw==;5qKPW6elOdGmLUDgYeRp/Q=="
+secured: "5ay6QiGpjHcK4SxROElgN6gNV/I74HiDT1Pn1sEqY9QY3cao+oedozwy02oHw74mLewpu/OY0khu4fZmDvBAMkOla5kvZQqmHpRK4xJvnRJ0xsmzbumuC6ht03BHF1jSnRt9ywCTb1qif6NmPqIXOgBLwLnFtaPdhhjhTAqPGEC24tRQU7w3T/eDQljJ3wfAZu7MMpwez8Zu4cCVWSL66kiKLx2BiGEvvzczl5H1bC4Rapt+Xx2OKO94C6LS0PtsTNzMjqNCc3cgHAG238mHTg==;Sal3heD1apFJ0ePvScpAJQ=="
 ---
 

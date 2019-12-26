@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Deep learning shows potential to improve chest X-ray interpretation"
 
-secured: "eosXs+HUQlOKOYpkAIctgnd/8ldhWC0FG8VTuuAWadTq3VffNxLahs/zTzLAyu9rKct6IO7KIZDfynMKEX/8fTBSQY39qHgRObmlZReOnkJtGWHwOl3LtIbV5GpqNF90oX2O/0RQ6fh3ylAtKCzE3i2bWNZEsn5MuKxFkgrGIEsp7AKvvBi143Gzlirmjk9Xqdv0g+Z4r3aAx8bIev+tzqbt3X1SxPlqhQtRoAz+QHK+jaRdTUGdG/fTQ9e0s1y+9+//Nle7bZtJ/Tv+sN+5EA==;4l7KzgE16drM551751oHkw=="
+secured: "P6fxDPsjS3D1Uhh8YkzeF5cJyk0Sh3QR745D0RMDOi28e0MA/4R8tOheFaZjjqUoupwkc4Oe3yISG33dpSWew0sa6/tZxNIg+slToNpKfooW1d14BKz4IKc11+mE471xUbqWsY3Bx4/nTbZMXrUWFFVkDIdREO/s7H73QpHBF+g+qVw82Ex+MiPhn7ogLBacUnnaIq3tek9UGeCWICqMvY3dyDCZPalnNm1w0H2+ntPgoISq+b7hQws0A0EpNOfM2Ehi5JBDDuMKtIJPfu4QXg==;3vYObW6nFVmk5vjbVIgLfA=="
 ---
 

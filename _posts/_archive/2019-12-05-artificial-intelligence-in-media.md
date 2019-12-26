@@ -101,21 +101,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "GeekWire Calendar Picks: Artificial intelligence in public policy; podcasting tips; and more"
-    excerpt: "Government, higher education, and workforce management are just a few places where artificial intelligence is popping up. In hopes of educating everyone about AI, the Tech Alliance is holding the AI Public Policy Summit to give those who want to learn more a chance to hear from experts and network with those in the field. The summit takes place ..."
-    publishedDateTime: 2019-12-06T21:29:00Z
-    sourceUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/
-    ampUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.58AE5E8E7EE103AA8DE5A9666D27E229
-        width: 700
-        height: 350
   - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
     excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it’s a robot,” said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might ..."
     publishedDateTime: 2019-12-10T22:27:00Z
@@ -598,6 +583,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "WOBqw3RMKqxhrk5MIrW2AcuXn8jwqKVvgC1FJQioFmnS/A8p44WXGUlL6HIXSQpJtPHwrO8TmM4VD1hBaD/RCWNx6bOWfQpmdnLd/Cg6KpWm5a8rP4LHZOoH8q3ysc+J36funmKnmLG0CxyPLaQJquKLpwZ/qN2cuYHgfBmsnj4nz6W8vzLJkHZbK+WveGffJxv/1ML+G+/GrKiaVr7+jXHqidRMs1E/Zxp/vWJ76MvZs42fsqJuIC3UsFjCqRQfNkNxMGkMlAi0/MOpD0D6mQ==;SJ5NymihxV6Sgp8UJhkGgw=="
+secured: "H5xH8MP1fYmOtSUO0VvsL25PoJ8tSMF6EaZVM9dJ6arzMWXPHVpJ1AacVysPNE7538YFaCDDBWmnPJ6SOzdoizwRDHmwS2sHmfZ4QXz5B0+L94thLsR+urIoSd6wAlhfeA/C4/+gjJDPE5a5kQwtqpfaZVt4zhBJ8m2z4wj1UAGvio1l9pZwzN/7YVmXXrLK4kfwRpkq6mJ+KlniaK6SWcyGjBnWuRMSSMfNQvrCUeYfXZTGuSVHsZoZS9gLWr9dV8mU0dzzu9jdhF8lKqMJjw==;/+xK6kpT/qR2DX1CF2b9/g=="
 ---
 

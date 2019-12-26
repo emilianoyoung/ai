@@ -24,6 +24,21 @@ images:
     title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
 
 related:
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:55:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50679791
+    ampUrl: https://www.bbc.com/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -66,16 +81,14 @@ related:
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/06/deepmind-co-founder-leaves-for-policy-role-at.html
+    sourceUrl: https://www.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Financial Times
+      domain: ft.com
     quality: 39
-    images:
-      - url: https://media.bizj.us/view/img/11421169/mustafasuleyman29099346447*1200xx5170-2908-0-270.jpg
-        width: 1200
-        height: 674
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
     publishedDateTime: 2019-12-10T22:19:00Z
@@ -89,7 +102,18 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
+  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
+    publishedDateTime: 2019-12-06T11:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 37
 
-secured: "eskBu67O/JZWtmiD9bUyndOmxSYyfz2s2mCP4H1O/SWCNNujEGVKcOX8w50/ohh091t+Fmp09FnR+CAaAky9FiuDV4xj20nH9H/B/oKFtcpk6L6TqtTnffvoHUKjWp/zqXz+D1UeL12svelwabyyu6+8Wq8l1JMCYu2LqUZ6GaVXl1v4J/JcvFfOsK/chHqozeNgpcZcW5x0f5qXavpRSuyzfgC4+i0iRNw5yqBRtiEGsE3ujjmfHJR717jN9YyQD4N1Bp8KaPiM50h4PP/czQ==;pWZjFmzepc/Oab4pO1nQsg=="
+secured: "lLssQUBOc2XaesWUXFj1X2qddJOvbZ+3zNn2lt6g22yFbVx/pmpbT31djcLM9B4OM7r4CwGDpgVXSBhnN3k2i1UTrYWzLAvV2R01rl8mSF7yGJ8ehnXg1CWBJ8BebvUPVNKpqA6KW8h8aMtGHzyy6twbnacL+V0/Wd8V+n6Z/4QgNKcsMNc/Rc0br9kPqhY9pRgPEXv8f2aphFB4NHwsKLH9aFgLB2xHAJ2Tte7DRNORu83zSeVgdddYrcQPwrWbsGTXMLYfATmy0dIkV6MLQw==;iuaWQnhePAIKdByjuB2NYA=="
 ---
 

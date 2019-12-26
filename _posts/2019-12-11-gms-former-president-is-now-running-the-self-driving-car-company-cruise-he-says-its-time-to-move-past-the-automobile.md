@@ -43,17 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
         width: 700
         height: 366
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
   - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
     excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
     publishedDateTime: 2019-12-10T00:07:00Z

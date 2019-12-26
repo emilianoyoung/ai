@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Deep learning identifies molecular patterns of cancer"
-excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
-publishedDateTime: 2019-12-02T19:47:00Z
+excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal ..."
+publishedDateTime: 2019-12-02T19:54:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,23 +21,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
-    publishedDateTime: 2019-12-03T12:41:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
-    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
-        width: 1920
-        height: 960
-
-secured: "uKX//a1Z7PIIMSimooNV3r5A2fvvPL3Nw+7XFgY7QyRCyRiREAL56dYTslsVXjXYEW/5XznxUbGww5lG8xENeVp6hXEX2+8uG8/+TGaPE2C4X6wTOExcgq7R4nS+bzOeuFL5sdqm7J3NNy4aIkbGuyI+ESrN5WGvTnvcCrIaZ4UBUJ9rXM2dsrJfGMZVxok4oMU9wSrdtR7oxma7BP4j125htYBIqcHQmOgh7V5fGX+quhg0HzRmkXiPIhxLQJK8vJNt9c6uao0aaXFD+Mnqcg==;3EC3scMHwzKp4feTLOPPAw=="
+secured: "Sbs06dm/RJMuQOJIR0OQHRwy7CS3SgIXJ0XuVEWVzuW3SDuSS5nIfr9ri4Nc27PmBqbwxvpZs+a0EcOUfbg3GupijEYy2wPCJy+4EM9demEYwh5exzZmPtiKxK+RVengcWVnLz8l464ojhqIyURjs43t1sD3aFQBGvk7Z4SFiF3cFyfkxVBKD3q9uVqAjAQpqyxhjMaEgx2QbK0CeU+XxUsQqwM2HccpFOos58AOvtw16moehpYCW9krEURoBOyMhRQyhU+vYuyq0VKUNAxXBA==;+iAJnOW8mJJx//OoGzLbHA=="
 ---
 

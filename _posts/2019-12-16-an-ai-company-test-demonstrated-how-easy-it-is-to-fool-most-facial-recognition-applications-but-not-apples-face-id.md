@@ -220,19 +220,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Facing up to facial recognition technology"
-    excerpt: "The benefits of facial recognition technology are that it offers a quick, non-invasive means of identifying people. Those are also its dangers. Last month, it was reported that facial recognition will be used to take attendance in Singapore's Parliament and check into certain hotels. The latest phones already unlock with Face ID and many ..."
-    publishedDateTime: 2019-12-06T21:17:00Z
-    sourceUrl: https://www.straitstimes.com/opinion/facing-up-to-facial-recognition-technology
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: https://www.straitstimes.com/sites/default/files/author/2015/06/26/byline-simon-chesterman.png
-        width: 502
-        height: 335
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
     publishedDateTime: 2019-12-12T20:42:00Z

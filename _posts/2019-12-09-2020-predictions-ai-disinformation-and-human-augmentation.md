@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-d
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
         width: 700
         height: 365
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented ..."
-    publishedDateTime: 2019-12-06T21:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/06/1957454/0/en/Throne-speech-recognition-of-mental-health-and-addiction-support-applauded-by-pan-Canadian-health-organizations.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
     excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
     publishedDateTime: 2019-12-07T00:22:00Z

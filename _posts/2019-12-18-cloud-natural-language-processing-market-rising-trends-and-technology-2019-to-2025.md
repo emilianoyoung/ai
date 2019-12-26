@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T18:48:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "Machine Learning Chip Market :Technology, Future Trends, Market Opportunities 2019 & Key Players"
+    excerpt: "Machine learning is derived from the field of artificial intelligence (AI), which uses algorithm to find out natural patterns in data for the development of computers. This data is used to take better decisions and make predictions in applications, such as stock trading, medicals, machine load forecasting, and others. For instance, many media ..."
+    publishedDateTime: 2019-12-24T06:14:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37187/machine-learning-chip-market-technology-future/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 6
   - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
     excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2019-12-19T00:47:00Z

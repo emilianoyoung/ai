@@ -29,6 +29,6 @@ images:
     height: 635
     title: "How Rossum is using deep learning to extract data from any document"
 
-secured: "NOmNoQQfLxWwhTEZsdNnOZWwYJosStQ4V9okEjqGcginPadwEiNjMXer3yAZYlKBTwk0YUc3HnlLgVIoDd5755Sn31D3qma8pYHEb/Zr4WWihy4MX7NayBksJSUOa6LX05dQ0MQcvlEW6F9j0BUBGnTe06YEt1cVBdaW4VfP3tUFNSTSIkHNyyGyJ7uttU3FyE9+sMDZJMBAeUQegO0mXt7/0n51PjXxNGdGuPWeZVcyiuqIU+e+d0Bgbcest3AvCcsC8+v2nOg9OkyG4208VQ==;/7Ymp+uVJhSKwaU+jzOQKg=="
+secured: "33RDmNMiK88AP3Y8zmM4TRmA59La2I04ymQI3vqaLcpZpSmbGYRkgsxDND9GSPJ4A1LnjvJE5P2mFr+2jBpOLvA+gzU6u/ubT8S5Ibc5LqDtqqkAThmTSHy62D6u2RrBD68qAPj69JfMCoXtK7/CGrALOwVuriU+HHqrE9bYQIdvaX4WZl9kRisRVFL0etFgpiQgfV7Wu5cJ/o1hFrUEvGXzAUDrzhZTK5DVG2WW9WQRUtUsa9MhByZviilLFi+Xs9Pv4nZZjRLnPBUylwhtcg==;FW5FTO9RT0uOZujXFr0pfQ=="
 ---
 

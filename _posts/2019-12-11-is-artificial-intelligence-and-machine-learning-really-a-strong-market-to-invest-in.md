@@ -88,21 +88,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df138cdb269e900077e3501%2F0x0.jpg
         width: 1200
         height: 800
-  - title: "GeekWire Calendar Picks: Artificial intelligence in public policy; podcasting tips; and more"
-    excerpt: "Government, higher education, and workforce management are just a few places where artificial intelligence is popping up. In hopes of educating everyone about AI, the Tech Alliance is holding the AI Public Policy Summit to give those who want to learn more a chance to hear from experts and network with those in the field. The summit takes place ..."
-    publishedDateTime: 2019-12-06T21:29:00Z
-    sourceUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/
-    ampUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.58AE5E8E7EE103AA8DE5A9666D27E229
-        width: 700
-        height: 350
   - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
     excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it’s a robot,” said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might ..."
     publishedDateTime: 2019-12-10T22:27:00Z
