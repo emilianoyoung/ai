@@ -331,19 +331,6 @@ related:
       - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
         width: 700
         height: 366
-  - title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
-    excerpt: "Yokogawa's AI empowers customers with an advanced understanding of your current situation, allow them to correctly predict future event, and adapt accordingly."
-    publishedDateTime: 2019-12-06T16:56:00Z
-    sourceUrl: https://www.industryweek.com/sponsored/decoding-artificial-intelligence-brain-myth-and-legend
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.DAA430C41C8C41E2F84CF870232DFB4B
-        width: 700
-        height: 516
   - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
     excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
     publishedDateTime: 2019-12-14T06:25:00Z
@@ -383,19 +370,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
         width: 200
         height: 124
-  - title: "Synthesizing an artificial synapse for artificial intelligence"
-    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain ... The application could lead to the wide use of AI and revolutionary advances in cognitive computing, self-driving vehicles, and autonomous manufacturing. In addition to the research component of the project ..."
-    publishedDateTime: 2019-12-06T16:18:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
-        width: 500
-        height: 700
   - title: "Artificial Intelligence as a Service Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Based on End-User Industry the global Artificial Intelligence as a Service market is segmented in Retail and E-commerce, Healthcare and Life Sciences, BFSI, Government & Defense, Telecom, Manufacturing, and Energy & Power. Competitive Rivalry AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are ..."
     publishedDateTime: 2019-12-09T02:33:00Z
@@ -624,6 +598,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "7qny5ZfcVpulXE7EV2bOUQLE7aBR2fssKVZEIv1zONwqQkcYgVAOACMl7IFzk00erwWryIdMPdbhmVLCXa0rHGYLPdqm30pwBqbZDcpUoyMCOxJxfrrChNqHYlXLcqWJZus5qI/Cy+O20EMFdoeq/8FprDq08MBGE/h7DO7ZbFOYbGGlpUdQmB+ouLmbgpDCW6Sj9kMbsS/pyt9uyK0RczDecukCldoWYxpWSIMVQA8jNlY0x4hW0yrCrbGng4ee2RXR1KZipJJsxg4hTLjY8A==;H2sfhpUFQhoT85xi6hmDIg=="
+secured: "y5voJ4Sey5nIgW0zhZ6xY4saCUB/ClES2R+427dA/GaImEFZ2CyUqJwzhRHaHkbHMcsFi635j1y+Kd7REXpF39sotw1/Ho8V2B+tYq65U1X3eekDrwHhOVrxAQ8TI+g6YcT44tMFqX6ZC0OdTYIpNyJSaf1MzyxfSK/LwC9NGZZqDB1gS+h8HR6VMr/nBx3RQqkXnwt6Eqg3oYDZcpEqBxjMhpO4w/a/My6hxTs4wjONCQI15FpFgURmpeHc53LW2B829lKKJ+wITOegIvHY9w==;5MYhzO4UxgSk9c9R45D+dA=="
 ---
 

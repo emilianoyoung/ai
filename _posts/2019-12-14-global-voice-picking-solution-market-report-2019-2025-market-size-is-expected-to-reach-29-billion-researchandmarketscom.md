@@ -20,64 +20,110 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Memory chip market to rebound in 2020: Report"
-    excerpt: "artificial intelligence (AI), deep learning and virtual reality will also drive demand for NAND flash and DRAM. The forecast suggests South Korea's two major chipmakers -- Samsung Electronics Co. and SK hynix Inc. -- can make a turnaround in sales next year and maintain their firm grip on the global memory chip market. As of the third quarter ..."
-    publishedDateTime: 2019-12-07T08:58:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/memory-chip-market-to-rebound-in-2020-report/72414031
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
+  - title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
+    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. Browse Full Report: https://www.marketresearchengine.com/artificial-intelligence-platform-market The global Artificial Intelligence Platform ..."
+    publishedDateTime: 2019-12-09T02:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2019---2025-trends-analysis-market-forecast-2019-12-08
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: https://www.bing.com/th?id=ON.EED161642E757683C00E68107424DAF9
-        width: 700
-        height: 379
-  - title: "China’s artificial intelligence market to reach US$11.9 billion by 2023"
-    excerpt: "The artificial intelligence (AI) market in China is expected to reach 11.9 billion ... The potential areas of China’s AI market will focus on the fields such as service sector, health care and telecommunications. According to the white paper, the lack of AI technicians and high-quality data sets are the primary challenges of AI development."
-    publishedDateTime: 2019-12-08T07:52:00Z
-    sourceUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/
-    ampUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
-    cdnAmpUrl: https://newsghana-com-gh.cdn.ampproject.org/c/s/newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Wearable AI Market 2019|Top Key Players Analysis, Trends, Global Size Forecast To 2025"
+    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Wearable AI market is segregated on the basis of Product as Smart Watch, Ear Wear, Eye Wear, and Other Body Wear. Based on Deployment the global Wearable AI market is segmented in Cloud and On-Premises. Based on End-User Industry the global Wearable AI market is segmented ..."
+    publishedDateTime: 2019-12-09T02:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2019top-key-players-analysis-trends-global-size-forecast-to-2025-2019-12-08
     type: article
     provider:
-      name: News Ghana
-      domain: newsghana.com.gh
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.E101638180B74A5E5B8E2EC84CDCD6D1
-        width: 544
-        height: 334
-  - title: "Memory chip market to rebound in 2020: Report"
-    excerpt: "artificial intelligence (AI), deep learning and virtual reality will also drive demand for NAND flash and DRAM. The forecast suggests South Korea's two major chipmakers -- Samsung Electronics Co. and SK hynix Inc. -- can make a turnaround in sales next year and maintain their firm grip on the global memory chip market. As of the third quarter ..."
-    publishedDateTime: 2019-12-08T05:58:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Medicine Market : Key Facts and Forecast Predictions Presented Until 2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Medicine Market was valued at USD 1.6 Billion in the year 2017. Global Artificial Intelligence in Medicine Market is further estimated to grow at a CAGR of 38.7% from 2019 to reach USD 21.05 Billion by the year 2025. In the global Artificial Intelligence in Medicine Market by ..."
+    publishedDateTime: 2019-12-12T05:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-key-facts-and-forecast-predictions-presented-until-2025-2019-12-12
     type: article
     provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.231EB6EEDFA9BACD565039A3556B5B18
-        width: 700
-        height: 379
-  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
-    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
-    publishedDateTime: 2019-12-13T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
+    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
+    publishedDateTime: 2019-12-09T18:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
+    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- AI in Social Media Market Research Report, by Technology (Deep Learning ... Key players Some prominent players in the AI Social Media market are Google (US), Facebook (US), AWS (US), IBM (US), Adobe Systems (US), Baidu (China), Salesforce (US), Twitter (US) and Snap (US). Other emerging players in the AI ..."
+    publishedDateTime: 2019-12-10T12:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-2023-competition-status-and-forecast-market-by-players-regions-2019-12-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+    publishedDateTime: 2019-12-02T13:19:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 7
+    quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
+      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+        width: 800
+        height: 419
+  - title: "Automated Material Handling Equipment Market 2019 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
+    publishedDateTime: 2019-12-09T02:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2019-12-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
+    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
+    publishedDateTime: 2019-12-13T12:24:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
         width: 700
-        height: 700
+        height: 365
 
 secured: "2GoJdvftzPLPiMij1HRGIiaQ+hPyGXGipFm+T+XnYYlZTlxUnOPhTwN56jfublwo1mnTBDd1vE89aXF1v4+xkU0dQuEGFbFYKoOwznH10jdS3qYq7RAx8+Gh78ubEWL+aPJHIndIjCwytjaWzwQp4t90dUBozPFHJUjzDc7RMjp1URt5mYdCmOFlxzDDJ8DhYsj+i7Xnmg4nZQexOQadabkhHvXHgT/9KJRN5C4uVcaqU5yA0uZBro7M+zSs84Y7NOLrmfWcWiyw0SJTR06uhQ==;H+8UbQsQ39v7bZfYZtC9/Q=="
 ---

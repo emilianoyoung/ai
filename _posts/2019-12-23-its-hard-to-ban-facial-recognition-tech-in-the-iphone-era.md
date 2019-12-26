@@ -249,6 +249,15 @@ related:
       - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
         width: 700
         height: 465
+  - title: "Vimeo Asks Judge To Send Fight Over Facial Recognition To Arbitration"
+    excerpt: "... company stated when the lawsuit was filed that Magisto uses \"machine learning technology to help identify objects within video frames,” but does not collect facial-recognition data. The company says in its new court papers that the matter should be sent to arbitration, arguing that Magisto's terms of service effectively prohibit ..."
+    publishedDateTime: 2019-12-26T18:56:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344943/vimeo-asks-judge-to-send-fight-over-facial-recogni.html?edition=116613
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
 
 secured: "vcpEjwVnNJ3N5X6MavkOnt7PQRC48EsG9haIfV86o8iPOlDDSERFCuXJ3pw1BiK54C0+cipXaQvnqVKsRxE9V82/KF6j8xrJ6toBVDifiRZemUnUaNdF8p5DoCanvS0zV79CsISM7FSd1jMUYsnzbPoKCQ4HsWCrbOaQW6OoBni/UKk1ApYTe4Jz+8DpnowqMT/MDScqv35Yf7CJZbpSTLDQrdTMO4KO0oeaXU7siz8M92H03eDnU+YxlttkVIPDf93XgbVhlLyghKHtwKJTBA==;5Uqdmh+bcG+p6RKZ1A32CA=="
 ---

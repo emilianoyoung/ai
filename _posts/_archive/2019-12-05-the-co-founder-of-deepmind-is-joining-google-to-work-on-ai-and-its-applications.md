@@ -58,15 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EF496B372EE2043CF8F4651689EF8A88
         width: 700
         height: 525
-  - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
-    excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (NASDAQ: BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu ..."
-    publishedDateTime: 2019-12-06T17:27:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/baidu-leads-the-way-in-innovation-with-5-712-artificial-intelligence-patent-applications-1028744956
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "Conversational AI Market Size, Share, Industry Trends, Opportunities, Business Revenue, Forecast and Growth Prospective"
     excerpt: "Conversational artificial intelligence (AI) is revolutionizing the way enterprises interact with customers. Intelligent virtual assistants and chatbots help organizations to resolve repetitive customer queries and proactively offer suggestions to make real-time decisions. With advances in artificial intelligence, machine learning, deep learning ..."
     publishedDateTime: 2019-12-10T08:32:00Z
@@ -90,6 +81,6 @@ related:
       domain: yahoo.com
     quality: 23
 
-secured: "0VriWLF9kDHLhUt5EO5DciuaNH6K6vfr83/PDMFZN8Oo2CZsjjqXcwlu5qXnMdm6krxda9WiEsEz/AL6lkCFE7YnXq9jkHGpi4Uz2ngHKs0SqS6vX4U/S9PW4lAzIi0lZwTPjDFpCRyPLzlbwTLLmcxUY98keuizx7KuegvVv6Rl41QEToqtKfGrqlKk6wy28LI17BuDNPofYjBu5tGQYFGW8VaLVam7PFVzF+hrKpPCSSZ3swIC/ifogAp+pU8TmNod6+VRaM+Q21Oihm6wdA==;rUnS2dzMjEyylCZYxwVVpQ=="
+secured: "vriCcx4/RLRXfxfIKKVEpUpaFtTyeP4jJf2iMIcLCQt4iIXn3CSlKLYS5NYqJ/O+XB1tUmOzfxtVYxXrhMl/o5AL5FcsYqeqTLXmcYTodPqZGWtb1lDMfKgqMresj/wP7PJhPj9kRdhcJ0TLv1pFHeM42IJ4Gd2hMTSLZ2WFwvtRa2EfPvKC+1G6XUNJeYBwXSRO9/ryPAxzfeQ1fo6PmpKQrUrp6h+yT/lettXBeLAXuOipcfmO4Y++w9nt0Ld9x+EAmil4FyubFcRZjRiVpA==;p/0TJoZoQmaYN7MkxZduAg=="
 ---
 

@@ -1,11 +1,13 @@
 ---
 category: news
 title: "Amid a scientist shortage, AI is being used to scan for diseases"
-excerpt: "The Philadelphia-based company recently teamed up with Johns Hopkins School of Medicine to develop of applications that incorporate artificial intelligence (AI) to advance the practice of pathology for multiple diseases. The platform helps pathologists scan samples faster and evaluate those that need a scientist’s attention, versus those with ..."
-publishedDateTime: 2019-12-26T17:57:00Z
-sourceUrl: https://ca.finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
+excerpt: "The Philadelphia-based company recently teamed up with Johns Hopkins School of Medicine to develop applications that incorporate artificial intelligence (AI) to advance the practice of pathology for multiple diseases. The platform helps pathologists scan samples faster and evaluate those that need a scientist’s attention, versus those with ..."
+publishedDateTime: 2019-12-26T18:55:00Z
+sourceUrl: https://sg.finance.yahoo.com/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
+ampUrl: https://sg.finance.yahoo.com/amphtml/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
+cdnAmpUrl: https://sg-finance-yahoo-com.cdn.ampproject.org/c/s/sg.finance.yahoo.com/amphtml/news/amid-a-scientist-shortage-ai-is-being-used-to-scan-for-diseases-174647984.html
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -63,6 +65,6 @@ related:
       domain: patch.com
     quality: 24
 
-secured: "ttXczR3PVPHjtRq8VIY5rl8iQBm+5aN35juaNz6e3Tw9LT19NWXPaBPTaGMfC4qDMp6iojl8GtFL7qaRUl07rDzE5SaKu45rM5LLYelMwXZoc2E6Vk68pYewAXkGx7QVpWSeYJwQGPV3wbKb9LEynY7KHlsLcaEeIqIcAxMEwKSH+iM0VqVw6Rq7zTzqJd1LfTsEfYTnkXP5THlOWsY92C2YGx/AVtHFLWQocK89dlGU677ha4BbnDA1INSVi5olCkkHvWB84iUoi8QKSV9hdA==;ZovYzqCKMFyobmDYGMpNZg=="
+secured: "LFyNs4joJKtBBTHPMiXDBaJVj8cGjKH2CJ7jx1zvpKgpNeZrNX+Mx01QpVd3EFt9Fi52QrN849WAlHCGg/lfWHpTPhqLCvtgeZ3YUmNnfP3dHJ1RO25Z6nFcxdXEKo6hBQ688AA0VLznNQfX98tCOo1gfYdMNH3UerQfMvA90Zb/IGZKx40QGK0YmsjvbzKZVqYIKie2KkmBn4tAge/vQleeEFPfFJY3E7DQCwVOjDlPYnX9bK55T2tf1FW6Y6N/bDMEIXH754KsUSX3T2908Q==;/NwTuRi5QhbSVEG6p/lXmA=="
 ---
 

@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.71B22367319362EB17E6D598CC870D13
         width: 700
         height: 365
-  - title: "Million-dollar investments drive AI research, innovation at Oxford, Georgia Tech, Singapore"
-    excerpt: "Oxford University is looking at international candidates to fill out the position of director of its new Institute for Ethics in AI, established in June following a £150 million ($197 million) donation from, U.S. private equity billionaire Stephen Schwarzman, writes NS Tech. Founder of the Blackstone finance group and a former advisor to ..."
-    publishedDateTime: 2019-12-06T17:39:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/million-dollar-investments-drive-ai-research-innovation-at-oxford-georgia-tech-singapore
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.EF970114D5E2633FDE0E4039216358D4
-        width: 700
-        height: 525
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to ..."
     publishedDateTime: 2019-12-16T09:06:00Z

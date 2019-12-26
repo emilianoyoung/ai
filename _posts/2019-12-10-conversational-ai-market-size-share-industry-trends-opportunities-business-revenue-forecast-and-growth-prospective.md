@@ -71,15 +71,6 @@ related:
         width: 760
         height: 428
   - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
-    excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (NASDAQ: BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu ..."
-    publishedDateTime: 2019-12-06T17:27:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/baidu-leads-the-way-in-innovation-with-5-712-artificial-intelligence-patent-applications-1028744956
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-  - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
     excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu filed a ..."
     publishedDateTime: 2019-12-07T06:39:00Z
     sourceUrl: https://finance.yahoo.com/news/baidu-leads-way-innovation-5-182713207.html

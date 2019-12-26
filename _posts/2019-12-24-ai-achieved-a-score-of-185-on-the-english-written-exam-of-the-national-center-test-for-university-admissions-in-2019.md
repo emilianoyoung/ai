@@ -2,8 +2,8 @@
 category: news
 title: "AI achieved a score of 185 on the English written exam of the National Center Test For University Admissions in 2019"
 excerpt: "[Background and significance] NTT Communication Science Laboratories (NTT CS Labs.) (*3) have been conducting basic research on natural language processing and knowledge processing, including machine translation, information retrieval, and dialogue processing. To solve practical problems, humans integrate various natural language processing ..."
-publishedDateTime: 2019-12-24T14:22:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
+publishedDateTime: 2019-12-24T14:34:00Z
+sourceUrl: https://eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
 type: article
 quality: 16
 heat: 16
@@ -23,6 +23,6 @@ images:
     height: 436
     title: "AI achieved a score of 185 on the English written exam of the National Center Test For University Admissions in 2019"
 
-secured: "tPy5x/q+gZvzXZ4jzyqhXb+c6QE3WkQreF1w/bjkIrmN5Sw8FhXafglLzfL0KSmE4LxLaxt6Bo4Y9iJEr2pD6taCGn+h1H8GEBYINrguOxnd/uq+p+StKyCRwF6vBWgMa+etIUYja0Ckvylvn5TXYDCoFEdAgw5fi4mlLTOliYqe0sqkLfHN0WFsnpP6VZV96B5zu+brey3gYFOcTf3Xb+QD3bFjx8+oYgOb7ECkaV3ub3oyh8QAkqRz5SYCitbdG9SYdMa+djk3Qmz5T0qjcQ==;5/PT1+tQW+X37QfM+kGLiQ=="
+secured: "6vu6QVGd00ZjvG4SxI4wOUd/6yAziiI9X/ewt4uXCl/Dyy7dKyR7FuynVC5KLQK1cz5RlLgd/K7rJqE+4zvalG4BcYYLW/6L2BVY7jqpdm5Q3MOmGIPBuUxSa7+5mVNMZ2JeSyNRaAkwjoGBBByfQBnVQgCLzR1c5BQpDkFpLx2GuTBrsH3JVCtHCvzA4m8CPpN+azwFYsU4Ikc0xn96c/erKdjUIPCEqXJSqtHVun0BJtk0m3umpSVrnKpaliAxTaykRORa/DG0iv2BYqKpow==;vS7X4oQbedtCVwAunmlFnA=="
 ---
 

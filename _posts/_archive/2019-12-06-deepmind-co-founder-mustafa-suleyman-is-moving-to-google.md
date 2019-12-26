@@ -52,6 +52,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
+        width: 2047
+        height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -101,6 +114,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "nYuV5nPXUgaBQH5Y3ffhqC/vYhY3Wc/PTrgwggEbz6R4oCRQ3AQGG/L/6Wq38ODW/yI3JqYF8x9QZrc1oVaiqGd5iFDILsa7exlkly3PcHjWS3Gz86KasnrJhqZDo3e7J15sFXdy4eXZ7WGZb4iOFY3MYsaIjgEn7AzrHbi3IiWyUCU9sCciYDJ6BpOkMfUXDK3xLvElCN6ABxXkxC8I209R8AhjDcUhHVAqWZZ5ykse8azAdAVx5MdA+42uOrLnyDpMc4oxszWzEuCASbeU2g==;07bEs9D45g4mJEekQ4gy1A=="
+secured: "1YWwzskAZg/8OUNjijVdt1AEBnmOHxjxX9ltfLlrB5L/UztmwXrvll1zLX/ugp8SljUubf1gh1gbvuxbS6zw/dpK0QXwKoJQEcHSiBVR/CW+Xod4Ya7kzonjPvVWl5GJS9w8np7owEIAU5N4zzbfpPWkLNc8/8c/re4pw+0Fl+3+yymB9VqQz4UODRERL+PBboWk1YwIffNOPUIYTCKZV6fvjYVMrNqzmTC/nT1knQ7si1nRTjhZYd/rf2CbaYBrPMigqWRr9jlS7e4y1CiLEw==;/Gz3LaptmXtB7/IpT+66Ng=="
 ---
 

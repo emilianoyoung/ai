@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1D37F73B7AC7DE95A59FE43A68D8F10E
         width: 647
         height: 340
-  - title: "Homeland Security is walking back its plans to use facial recognition on US citizens traveling internationally"
-    excerpt: "The announcement reverses a proposal the agency made last week that would have mandated all US citizens have their faces scanned in airports."
-    publishedDateTime: 2019-12-06T17:53:00Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/homeland-security-is-walking-back-its-plans-to-use-facial-recognition-on-us-citizens-traveling-internationally/ar-BBXRVhI
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.3FB74C69A3E2DF643492D3FDBB380E8B
-        width: 700
-        height: 350
 
 secured: "yWaelQFU/bqRuy2kTxxH0hgKtdIgruBel3XeyN8ypHVVESeNel1mLRg+LzOVWMo7FEGF1xLsZVXALPo5mVzyM9BmkDt8Td32Zdr4YNW31JfRBM3c+YXoONE/l73kmPjY+OhezGNGC54eqUwevVPdDC7VEN1rDnk/M5i6y6zXqxucdbnhvXOayJLERmygAEUiOp4rd2XUm9Q7o2fFVLUln8mhoAXAUyyuZ+GbEUcYkSS3EK5L+TURONZ5e4JAgwfQmWwevsL9pBlPyc9TMcjv8nqwQq1ncVkXSpeOXSl9/08=;mWgFCBFLYCyRLrcK8QkPOA=="
 ---

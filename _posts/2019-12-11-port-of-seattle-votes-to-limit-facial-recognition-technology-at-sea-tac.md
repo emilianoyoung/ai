@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1D37F73B7AC7DE95A59FE43A68D8F10E
         width: 647
         height: 340
-  - title: "Homeland Security is walking back its plans to use facial recognition on US citizens traveling internationally"
-    excerpt: "The announcement reverses a proposal the agency made last week that would have mandated all US citizens have their faces scanned in airports."
-    publishedDateTime: 2019-12-06T17:53:00Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/homeland-security-is-walking-back-its-plans-to-use-facial-recognition-on-us-citizens-traveling-internationally/ar-BBXRVhI
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.3FB74C69A3E2DF643492D3FDBB380E8B
-        width: 700
-        height: 350
 
 secured: "u8lYWqcUCEbV70VJEDLfJMfYFra7NYtNMJAOvOFGzXP9FtWFVxvrlfvmhu3swwiRewZXqRZFonRDBhWKJ7hnE2N2pIosW0+4o8u520MrnI1lH8BKca64ulluV90/x0XpIFPoYwawfrRVA4Eqg6jsAd/jGqzgftv1SKOlUCZ7cyYYfDCgIjVlGkOLXt5vD4xO+Xt0MNyx4+OtrGLQVnxXF0mVoD1azuwwVhyPW1DQ6lXHEjA/24FMZgBDzgzeEb8um/9NNZMVT29WCGR+/ooLMA==;UgWSSLGvMm5RXYWQgdh4ug=="
 ---

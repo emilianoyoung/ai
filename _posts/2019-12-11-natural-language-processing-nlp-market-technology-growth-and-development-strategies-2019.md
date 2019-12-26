@@ -54,6 +54,45 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Construction Market 2023 Research, market growth, demand, value, share"
+    excerpt: "Artificial intelligence is used to sort and respond a plethora of information ... On the basis of technology, the market is segregated into neural networks, machine learning & deep learning, and natural learning programming (NLP). Additionally, on the basis of deployment, the market is bifurcated into on-cloud and on-premise."
+    publishedDateTime: 2019-12-10T12:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-2023-research-market-growth-demand-value-share-2019-12-10
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
+    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast period of 2025. This comprehensive research report is titled 'Finned Tubes Market' with ..."
+    publishedDateTime: 2019-12-11T08:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Machine Learning Market Research and Technology Advancements 2019 to 2025"
+    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Global Cloud Machine Learning Market Report 2019-2025\" helps the clients to take business decisions and to understand strategies of major players in the industry. The report also calls for market- driven results deriving feasibility studies for client needs. MarketInsightsReports ensures ..."
+    publishedDateTime: 2019-12-12T02:39:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-machine-learning-market-research-and-technology-advancements-2019-to-2025-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
     excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
     publishedDateTime: 2019-12-16T06:26:00Z
@@ -89,6 +128,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) in Healthcare Market Research Technology Outlook 2019-2025"
+    excerpt: "Dec 06, 2019 (Market Insight Reports via COMTEX) -- The Natural Language Processing (NLP) in Healthcare Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Natural Language Processing (NLP) in Healthcare Market report is a valuable source of insightful data for business strategists. It provides the ..."
+    publishedDateTime: 2019-12-06T19:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-research-technology-outlook-2019-2025-2019-12-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

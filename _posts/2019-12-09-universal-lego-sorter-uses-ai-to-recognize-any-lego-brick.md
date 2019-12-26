@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T11:30:00Z
 sourceUrl: https://www.extremetech.com/extreme/303105-universal-lego-sorter-uses-ai-to-recognize-any-lego-brick
 type: article
 quality: 137
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -23,21 +23,6 @@ images:
     title: "‘Universal Lego Sorter’ Uses AI to Recognize Any Lego Brick"
 
 related:
-  - title: "AI-powered Lego sorter knows the shape of every brick"
-    excerpt: "But if you've got an enormous collection or take on complicated builds, you probably have a system for sorting your pieces. Your solution probably doesn't involve AI, though. YouTube user Daniel West combined his love for Lego with his engineering skills to build a universal Lego sorter that uses a neural network to identify, classify and ..."
-    publishedDateTime: 2019-12-06T17:55:00Z
-    sourceUrl: https://www.engadget.com/2019/12/06/ai-lego-sorter-knows-every-brick/
-    ampUrl: https://www.engadget.com/amp/2019/12/06/ai-lego-sorter-knows-every-brick/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/ai-lego-sorter-knows-every-brick/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.0D896CB9AC3E925011B64DA2E829D72B
-        width: 700
-        height: 367
   - title: "Watch this machine made out of Lego sort other Lego using AI"
     excerpt: "If I ever had to sort that collection by hand, it would probably take me the better part of the next 20 years — but perhaps I could use this AI-powered Lego sorting machine that’s made in large part out of more than 10,000 Lego bricks (via ExtremeTech). Dubbed the “Universal Lego Sorting Machine” by its creator, Daniel West, it’s a ..."
     publishedDateTime: 2019-12-12T00:10:00Z

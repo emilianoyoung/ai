@@ -40,6 +40,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Healthcare Market Rewriting it's Growth Cycle | Microsoft, IBM, Aindra"
+    excerpt: "Dec 06, 2019 (HTF Market Intelligence via COMTEX) -- A new research document is added in HTF MI database of 50 pages, titled as 'Artificial Intelligence (AI) in Healthcare Market in India (2018-2023) ' with detailed analysis, Competitive landscape, forecast and strategies. The study covers geographic analysis that includes regions like North ..."
+    publishedDateTime: 2019-12-06T18:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-rewriting-its-growth-cycle-microsoft-ibm-aindra-2019-12-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
   - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Technology Growth, Advancements and Business Outlook to 2025"
     excerpt: "source=MW&Mode=07 Top LeadingCompanies of Global Artificial Intelligence (AI) In Manufacturing Market are: Intel, IBM, Siemens, GE, Google, Microsoft, Micron Technology, Amazon Web Services (AWS), Nvidia, Sight Machine and others. Global Artificial Intelligence (AI) In Manufacturing Market Split by Product Type and Applications: This report ..."
     publishedDateTime: 2019-12-13T07:58:00Z

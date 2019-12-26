@@ -1,8 +1,8 @@
 ---
 category: news
 title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
-excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card ..."
-publishedDateTime: 2019-12-06T17:13:00Z
+excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
+publishedDateTime: 2019-12-06T17:09:00Z
 sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
 type: article
 quality: 37
@@ -18,14 +18,14 @@ topics:
   - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.5C45C7CBC17877AECD6802A6C84690F1
-    width: 300
-    height: 226
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
+    width: 490
+    height: 369
     title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
 
 related:
   - title: "Facebook's new card-playing bot shows AI can work with others"
-    excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research engineer at Facebook AI Research. \"It's about figuring out how to build these capabilities into ..."
+    excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
     publishedDateTime: 2019-12-06T17:11:00Z
     sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
     ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
@@ -36,9 +36,9 @@ related:
       domain: cnet.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.AB2B7A2C545B8E49A1F4273444C7F971
-        width: 700
-        height: 525
+      - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
+        width: 756
+        height: 567
   - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
     excerpt: "Facebook AI Research says it's created AI that achieves near-perfect results in the game Hanabi, something that may lead to AI better understanding humans. Read More"
     publishedDateTime: 2019-12-07T00:00:00Z
@@ -55,6 +55,6 @@ related:
         width: 578
         height: 289
 
-secured: "mjl+ghQ6bZWYT8E6jLJcay/dsxz2YCdfX9YB3InfhOmrvi8YMmDyoIZRY7QCJVWGrGzCbI3w9TTrO1tkgF3YOk/noxFJOdoli/0opDIQtMT599tII66Ay5UfhduqGf0p7bbaLXMVr8FKvcsQeWD+9/DGyoinNIUpFm3y2wdkSoB/Sy9eIz5WCuDHjRHsBULieUdDfZUQMh+YCsxOIfbl1DUP9vIYGY15vStsEOACaRE90ALfBt7mz9H2OHOe1KrR08XecDynggvEP+3e8RmLLw==;3aaBzCZrdCEX4mizcThB7A=="
+secured: "pdQVwHaoTMW+NjJQtw95Z7nuUe7YFvT6MH6eIybbfiB7lbPy/lFOTRUN3Mp3SJFm8F+KI5TS4JmihxAcV8n9YwbYvhU4LX3kry4luBgdy0RI+5d3JHOs/LT+z26G1ZKqTnPPg9ewDVQ2iNy57914+r81eD2TN182qQJZ04pn9p9inlvketseCCaNDI7hyAtndZiOR25FuqUXJkdmmy01/ywLVp+YAXc7xHwCHgzy7YLNpZi7Uo/jz6Wv7YMZYAeiIL5uBnNm1QxmyYlnZLuDaA==;lhoCXmHdgjmmgx5DZewCJQ=="
 ---
 

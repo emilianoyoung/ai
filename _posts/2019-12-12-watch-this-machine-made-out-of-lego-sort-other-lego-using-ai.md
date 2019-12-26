@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.57D6CEAD4C8189C141DD258B4C34B2FC
         width: 672
         height: 371
-  - title: "AI-powered Lego sorter knows the shape of every brick"
-    excerpt: "But if you've got an enormous collection or take on complicated builds, you probably have a system for sorting your pieces. Your solution probably doesn't involve AI, though. YouTube user Daniel West combined his love for Lego with his engineering skills to build a universal Lego sorter that uses a neural network to identify, classify and ..."
-    publishedDateTime: 2019-12-06T17:55:00Z
-    sourceUrl: https://www.engadget.com/2019/12/06/ai-lego-sorter-knows-every-brick/
-    ampUrl: https://www.engadget.com/amp/2019/12/06/ai-lego-sorter-knows-every-brick/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/ai-lego-sorter-knows-every-brick/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.0D896CB9AC3E925011B64DA2E829D72B
-        width: 700
-        height: 367
   - title: "LEGO Sorting Machine Uses Neural Networks to Sort Any Piece"
     excerpt: "Neutral networks sort the individual pieces discharged by the “vibration feeder.” The most astounding part of the universal LEGO sorter is its use of artificial intelligence, specifically machine learning, and even more specifically, convolutional neural networks. West describes in more detail how the neural networks work in the video below ..."
     publishedDateTime: 2019-12-09T16:37:00Z

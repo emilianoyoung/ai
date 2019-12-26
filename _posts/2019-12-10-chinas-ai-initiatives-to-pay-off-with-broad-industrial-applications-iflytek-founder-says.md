@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
 type: article
 quality: 147
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
         width: 760
         height: 428
-  - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
-    excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (NASDAQ: BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu ..."
-    publishedDateTime: 2019-12-06T17:27:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/baidu-leads-the-way-in-innovation-with-5-712-artificial-intelligence-patent-applications-1028744956
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "Conversational AI Market Size, Share, Industry Trends, Opportunities, Business Revenue, Forecast and Growth Prospective"
     excerpt: "Conversational artificial intelligence (AI) is revolutionizing the way enterprises interact with customers. Intelligent virtual assistants and chatbots help organizations to resolve repetitive customer queries and proactively offer suggestions to make real-time decisions. With advances in artificial intelligence, machine learning, deep learning ..."
     publishedDateTime: 2019-12-10T08:32:00Z

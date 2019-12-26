@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Facebook's new card-playing bot shows AI can work with others"
-excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research engineer at Facebook AI Research. \"It's about figuring out how to build these capabilities into ..."
+excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
 publishedDateTime: 2019-12-06T17:11:00Z
 sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
@@ -24,9 +24,9 @@ topics:
   - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.AB2B7A2C545B8E49A1F4273444C7F971
-    width: 700
-    height: 525
+  - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
+    width: 756
+    height: 567
     title: "Facebook's new card-playing bot shows AI can work with others"
 
 related:
@@ -46,8 +46,8 @@ related:
         width: 578
         height: 289
   - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
-    excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card ..."
-    publishedDateTime: 2019-12-06T17:13:00Z
+    excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
+    publishedDateTime: 2019-12-06T17:09:00Z
     sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
     type: article
     provider:
@@ -55,10 +55,10 @@ related:
       domain: siliconangle.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.5C45C7CBC17877AECD6802A6C84690F1
-        width: 300
-        height: 226
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
+        width: 490
+        height: 369
 
-secured: "BCi4CwkUHg0GoK4fmcOyJexqa+2Y4oAtjWplB+naU0WT9QEgiLhUvTSKEvoGdZIx39PV2V9yKGzgBKYk03d9yVU3lFJtfRxzjzS86LoPE0wX2r290bnnNCAedtuTcDxnlbt/YunkQaTYaMp+UicHaci4yaUYTklcbAj8R0NidH1VWLlccI60unpiWj5NxMXk6FnG1JHGAR7s/1i1UBCLQB/braE12spOmV2ReC5PEscdTzmCTw54omMfM0U4p9FLei0GMCc/pTTtfF+QnpLqQg==;yaSeQWzW9j4S9ONypNC+Kw=="
+secured: "a7DTazZWi08TguME/wjQoEzmCZhwxj346LmEabK6/MU4lnn/CxXmP/LGtsnRqkhBQ6/cqkOm6PPytrdG8NnTPi7Lwxr06NCrvy89ffg8fIZRNUxITLnVHsqh/1YDm/QYpeN38GJECN73wSTfvBd6O5YTjkf+tB5b8JaZbmW/fG13OliHMqSlPrANGtxTh4dfTQtzt8BQmVJk6ZfvagmIftrMSSI91rmI6KZIsgl0bm1VN+x5DT/7l4x8+5bq+tqKTVA02HGgB74kHHw7E+pjaA==;eYHdm9GZCUFlLEdqwe3WIw=="
 ---
 

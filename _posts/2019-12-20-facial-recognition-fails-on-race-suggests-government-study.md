@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -254,6 +254,15 @@ related:
     provider:
       name: The Loop
       domain: loopinsight.com
+    quality: 19
+  - title: "Vimeo Asks Judge To Send Fight Over Facial Recognition To Arbitration"
+    excerpt: "... company stated when the lawsuit was filed that Magisto uses \"machine learning technology to help identify objects within video frames,” but does not collect facial-recognition data. The company says in its new court papers that the matter should be sent to arbitration, arguing that Magisto's terms of service effectively prohibit ..."
+    publishedDateTime: 2019-12-26T18:56:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344943/vimeo-asks-judge-to-send-fight-over-facial-recogni.html?edition=116613
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
     quality: 19
 
 secured: "1SgP9aoHLARlZ0MSTbVIcmLxgiEXNVKPJTDPrGlYjecZvbjPRL+NgSIVZLo99SjRgArg8qadP5YkpAeTr+t37Z9JdNTKnjTyQodTDTdhr1VQOB7ssI34O2Vl2ALdAmeYSRoDGptg63x8YUCoFHE8ti2t2Fd3jN/XHhMhoTPWucJK2wyrBc1UbQ8GM1lVl3ANM+NzjaSssrPPY/cUYs5rApPs9/q3mqKKUR2pMXdJEJVEn5n499AkOUyVux+CAcMN67HIm+99nFLZ7/dfkRLhyA==;PNCsAT2oy/fDtH9a5EZ3zw=="

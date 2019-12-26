@@ -1,9 +1,9 @@
 ---
 category: news
 title: "GSK puts faith in AI to make more successful drugs more quickly"
-excerpt: "GlaxoSmithKline is ramping up its use of artificial intelligence and recruiting 80 AI specialists by the end of 2020 as it turns to cutting-edge computing to develop medicines of the future.&nbsp;"
+excerpt: "Firm is recruiting artificial intelligence specialists and developing new genomics lab"
 publishedDateTime: 2019-12-25T18:05:38Z
-sourceUrl: https://www.msn.com/en-gb/money/news/gsk-puts-faith-in-ai-to-make-more-successful-drugs-more-quickly/ar-BBYkTeA
+sourceUrl: https://www.msn.com/en-gb/finance/news/gsk-puts-faith-in-ai-to-make-more-successful-drugs-more-quickly/ar-BBYkTeA
 type: article
 quality: 37
 heat: 37
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.B012E81FCA8EDAEF00997252AFE62425
+  - url: https://www.bing.com/th?id=ON.F64D0D4476228287501A65CDE9CF2780
     width: 700
     height: 367
     title: "GSK puts faith in AI to make more successful drugs more quickly"
 
-secured: "ZNTPVbYcfpUboiN1FJyW8tceo9Ao+m8ddcz3XfhWGs2DIUOTejhgcuYJN+B8tqTFcah1ySDuGfk5tr+6FVDpBhXFZzP3YwxefQPdUJhQKMw7LeyXjmtsywcA8R6tHq/A8vWdBU9cNPxMPnqw2tqx+5VBuXVXt0xr1q1tJUI+DsBvPkt8Ol7IEpwbqHejC0Bk2LxL7jF7hoP6JHVJEyaLeCZplHR+cbJLrFXqek7dM+6Ms6S26zDIHbzM1Xg0By8oz60x3l7vLS/Rdg1Tk0/Glg==;waGGcmpZKL8U1TkDk/fs7w=="
+secured: "yihwLKO5yNUonMZQbRaFkQEPMJtv6BxC54TOd4ZjiupAFuZaIvCrnDjTfYs3lp8MWKw+ZxWWJ6QM77p12l7aJzupf9YgnTTgQMdOqofU5Eoyv0FkVKbF+eNAfk8TUT0ZIfkoAS/rKYRv+0fNfG7aVY0Q9VV0lQlGh1QlC1a35S3GK28fl8QHr/pFhoyRZkkyTK3am9kq7Zl9jt7zaLn5SIUYSEN9Q4t1VVNdIw9+oB4ThDAKHP4+i9gFf2MSFBuSjv/EokLD0eB714MyMsDCJw==;LOrOuN/EYfxBo/ZeMaUBPw=="
 ---
 

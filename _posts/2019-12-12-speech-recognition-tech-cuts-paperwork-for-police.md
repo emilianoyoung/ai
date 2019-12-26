@@ -3,7 +3,7 @@ category: news
 title: "Speech recognition tech cuts paperwork for police"
 excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
 publishedDateTime: 2019-12-12T20:42:00Z
-sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx?admgarea=TC_EmergingTech
+sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
 type: article
 quality: 39
 heat: -1
@@ -235,19 +235,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Facial recognition is everywhere in China. People are worried about it"
-    excerpt: "In China, surveillance cameras equipped with facial recognition technology are often hailed as important tools for improving security while offering convenience. But as these devices become more pervasive, some Chinese people are questioning whether facial recognition comes with its own set of safety and privacy concerns."
-    publishedDateTime: 2019-12-06T17:12:47Z
-    sourceUrl: https://www.msn.com/en-in/news/world/facial-recognition-is-everywhere-in-china-people-are-worried-about-it/ar-BBXSlAI
-    type: article
-    provider:
-      name: Inkstone on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E4C8B487525662B23C9AAA7B1753F38D
-        width: 600
-        height: 315
   - title: "Facing up to facial recognition technology"
     excerpt: "The benefits of facial recognition technology are that it offers a quick, non-invasive means of identifying people. Those are also its dangers. Last month, it was reported that facial recognition will be used to take attendance in Singapore's Parliament and check into certain hotels. The latest phones already unlock with Face ID and many ..."
     publishedDateTime: 2019-12-06T21:17:00Z
@@ -373,6 +360,6 @@ related:
         width: 600
         height: 295
 
-secured: "fzCMHehpul/XYP9WzfFzbOsgagWQlSyGpMg270JrVv7TeMzAzxnm7xqOFqqbR9dnBq+3/pNRa//TWZZDrmKIK4raljbi7OjPzTI6F+MZTdmfuPnIQ+SIdFe/lJHlEdiaP7IQGSk8u7xbrbu1Sj1ORttlVXTTCrIfzdB/+26znzi3aSX6TCk3Rai3yHUmrrswWcwjn9b7xaJvo1e1kK6Yp6b3WH7t+1unvkG9Q8PdWNK01ShIP+pqOKQUQAkA3f6pq1X4jQ5YVu6HePPB0nHQiQ==;SKlwhZP0N3H9XRy/jRVeZA=="
+secured: "WwtMrwhOnsJrLLUVQWOxHBaKKQ3BFvMRsvfjEUIQrZZPa9TpSkAN9wi33QUVLcu1wlA2auFChaJXQ0AhwRRaHLU+DgDOUECC2tHg92DnlymxBY2AgZTnoMsxFRSFQEAulwyAEjcBk79IAXHtIqYOC5VSrcP17X6he/x5622/f44qA6YJSFKW3EJgge7dm/zRxzXMjN97N0TzNbgM9m7XbAs/Uz4Osi5fCbJZ2t9c4jGh+hhOn760+BJEBvWcCb17BrBoZGKxYsrTY8qWPxQdsQ==;t+p6qPEHjYvNQKhBaPCRDg=="
 ---
 

@@ -251,6 +251,15 @@ related:
       name: The Loop
       domain: loopinsight.com
     quality: 19
+  - title: "Vimeo Asks Judge To Send Fight Over Facial Recognition To Arbitration"
+    excerpt: "... company stated when the lawsuit was filed that Magisto uses \"machine learning technology to help identify objects within video frames,” but does not collect facial-recognition data. The company says in its new court papers that the matter should be sent to arbitration, arguing that Magisto's terms of service effectively prohibit ..."
+    publishedDateTime: 2019-12-26T18:56:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344943/vimeo-asks-judge-to-send-fight-over-facial-recogni.html?edition=116613
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
 
 secured: "h4bsXgCpqRnEGILq70HTVJz+11lUl5gKeSexHpyKcr9ptsIQKmXPyLxgxOyoWMfQjUgT5OQy/kNJhOobmX2N89LFu8On5SssuMsuaHdGvgoyFgC7WCDmyUlAdRmnkbY1i0scisW/9hID3+Vkqjg0k17GtyQG1vd06ysJTlSsFFG6zrcnbcrHhCAFH2pKqkTbJn38EgUrLfqZ2IKwYJZpPR5R8pD47Ucft9wtT0VmY8HCpwVKFSlaJBPDZ307PhiRsEz5o7dW5A6jgEpYk2pmCA==;Sk9pUovvqGJZBi7eOTgYVg=="
 ---

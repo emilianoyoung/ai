@@ -23,23 +23,6 @@ images:
     height: 810
     title: "Research enables artificial intelligence approach to create AAV capsids for gene therapies"
 
-related:
-  - title: "Dyno Therapeutics Announces Research Published in Science Enabling Artificial Intelligence Approach to Create New AAV Capsids for Gene Therapies"
-    excerpt: "Dyno Therapeutics founders and collaborators demonstrate machine-guided AAV capsid engineering with the potential to transform gene therapy Dyno Therapeutics, a biotechnology company pioneering use of artificial intelligence in gene therapy, today ..."
-    publishedDateTime: 2019-12-02T11:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/dyno-therapeutics-announces-research-published-110000347.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/dyno-therapeutics-announces-research-published-110000347.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/dyno-therapeutics-announces-research-published-110000347.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/iBPhiXER5TgPRdw6Y8qruA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/KpdITYCdb9vb1GufeF59ZA--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/329c28276ea242307c373bee4f48b9da
-        width: 480
-        height: 270
-
-secured: "b5SmjFB82L4pDYWKRhgotSkcYTpIpLsMZi8xk9givkwnzMB+14MWkotZBOUIe/Z5fnXZKDsDeVvT6lCWRARKJmh0mnUJH3CLFSmOtajwCLoZp7DEoK1v7ylIgctku9pSr3MVX5N5gMiGQ8EOMbNGMZVYGYgjx4Mw/88o65W482/3hTdqT/zw4YZ2D1517JE+DrapDpZ8qRI8qSOoJyVO0mN8cPPTikX3g+uiKKx4on++puAOci5zhmqkhaooQjWlL05HaWzqmkINAYauj8ECNA==;Bwk0KhOouQknxYU0r3QsbQ=="
+secured: "vOMdODYHXbOv+9QyX/eSXvNnjWTYcAljQZhWkVtfZo/hRLTpudBlo3BHCvAuS6GuNl6s6LXoMes5WCa8a6Ithd8P1iOLN/Ick8LHfVTtUHRXKvg+CA9Rw1R9Xb+TAW7xwxmtvGWFyUZZWFF6TBkmzex3qUz9lIdq/iMrIXvEa9akrmikJr24446b3KS8wSJP1ZCpWkD5wdk8VtGg2mgXQ7ntkECTAO6ntUpBBVbcb/aW9SQz04lIOo7grdy0QL8Y7fblQhMCvjWO6GT9lLOIBQ==;ymAwm/eEszTlLn4LElcbUQ=="
 ---
 

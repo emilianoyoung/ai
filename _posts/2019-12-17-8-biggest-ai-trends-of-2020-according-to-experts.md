@@ -87,6 +87,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C1578C51AC2EBF5FC8BA69D93E6D7F12
         width: 300
         height: 184
+  - title: "New AI tech to bridge the culture gap in organisations: IT experts"
+    excerpt: "Expect traditional organisational boundaries between IT and business lines to start breaking down, and new roles like ‘citizen developer’ and ‘AI Ethicist’ that blend IT and business backgrounds to grow,” he added. Mankiran Chowhan, Managing Director, Indian Subcontinent, SAP Concur, noted that as we move towards the fourth industrial ..."
+    publishedDateTime: 2019-12-26T18:57:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.4D9F1E942243D13F3348008D1BD9F8EA
+        width: 615
+        height: 384
   - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
     excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
     publishedDateTime: 2019-12-23T20:12:00Z

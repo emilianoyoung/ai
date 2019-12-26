@@ -48,6 +48,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
+        width: 2047
+        height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -99,6 +112,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "hhbtN+4xmwiJaa2Ud6Yd5fs82D3wT8lBCxh9LpX4SzD8qGAMPCMju1Ot6LcO6133N+I5Dd2gDnYbmwAWwRwHt6st7UtcY41A8ruOk/qXVQdYbxItwcMkAHiZmR373TrwM+unKKjcSl9MpIwuyjwMF8wEKoZf56t05D0kUZCaxapNruv0tjyukFFdn3Jckcm1Rhor83qZTb2usKM0VsgfP1RDLix5sXP7k45SanoS3gBvPNVADi7peKlTZBne9Tpa65eNrtoSKlvGdF/xu919yQ==;dI+Ob/wXEJmmDlkCb/PP3w=="
+secured: "TJgQHC6+JntyRE5gW0263fzSDcJXa25iigmP/RzV/n5ub9B6fdfv1SJBRVM6eBrVi9RLqLLm9TODWzP6m9b943hwZeSoa6vTUre8r14hUh47ImXg2LB4X2cMDgCac7/JZj1YhMWBs7ci8nSFdnG8eLYXtZ8C+UEZmFuhlwcONdCO6ODNkth6/qhQCHijd8AG1VdrKJNG895vWQe4RGNIf4rQivXvoU8czFXPXyN9jkey/ecMOQowfe7LKSsb5649iVeoOE6npmGFdXOJVO4e1w==;eNP5msjX+A06R6Bd7wcPug=="
 ---
 
