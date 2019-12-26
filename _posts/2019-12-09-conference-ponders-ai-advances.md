@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.84AA06978F6EDB3AE8909305469781A3
         width: 700
         height: 525
-  - title: "SoftBank Opens Institute in Tokyo to Accelerate AI Research"
-    excerpt: "Son’s company announced a partnership with the University of Tokyo that includes spending 20 billion yen ($184 million) over 10 years by mobile arm SoftBank Corp. to establish the Beyond AI Institute. He roped in the Alibaba Group Holding Ltd. co-founder for an on-campus chat, during which the two billionaires discussed their vision for the ..."
-    publishedDateTime: 2019-12-06T07:11:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-06/softbank-opens-beyond-ai-institute-in-tokyo-to-hasten-research
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-06/softbank-opens-beyond-ai-institute-in-tokyo-to-hasten-research
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-06/softbank-opens-beyond-ai-institute-in-tokyo-to-hasten-research
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EF8F63A59D731A477DC44CA908D30F64
-        width: 700
-        height: 466
   - title: "VinAI Announces Scientific Research at the World’s No.1 Conference on Artificial Intelligence – NeurIPS 2019"
     excerpt: "NeurIPS 2019 (Neural Information Processing Systems – The annual international conference on artificial neural network information processing systems) will take place on December 8-14, 2019 in Vancouver, Canada. This is the largest AI summit in the year. This year’s conference has a total of more than 1,400 articles accepted, out of a total ..."
     publishedDateTime: 2019-12-13T14:09:00Z

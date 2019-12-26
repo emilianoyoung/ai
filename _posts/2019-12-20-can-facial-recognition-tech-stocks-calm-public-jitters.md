@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-publishedDateTime: 2019-12-20T14:00:00Z
-sourceUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20
-ampUrl: https://www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-facial-recognition-tech-stocks-calm-public-jitters-2019-12-20?amp
+excerpt: "Rich has been a Fool since 1998 and writing for the site since 2004. After 20 years of patrolling the mean streets of suburbia, he hung up his badge and gun to take up a pen full time. Having made the streets safe for Truth, Justice, and Krispy Kreme ..."
+publishedDateTime: 2019-12-20T18:00:00Z
+sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
+cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: /assets/images/organizations/fool.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
-    title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -1804,6 +1802,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "igGM1TkfUpycp1Yd/17aps9g1uIAm/vQNFBxUTiooinKeaQpy1NeDzAEX2ZrkvaSqdHAuQuDgBKs+9yZFl9C3fnlQaIKaPLfWLYFoY3jemxANpL+QaPS7cW9HWE+zXfIBK26c2iIBJYxxHdKW4ch/oJqWRHQz9U4YhKrQdFsyHkkViweoEtVrjpR92Dp/bOV+31abH0AEqM1D9oR0sQDT25CKMBxVhzmTvFRRrEgbggUcZrjEs6ycP5xMUfOygpf5SomL7rLpHvAHHM/6RiMAg==;N9PZLdOAalg5M++UlPnNaQ=="
+secured: "GcK0OXXgPJjKacKFE9aKgIFaY4sGAlKgjhTpnoWiTTGHX8PS1Z1909WpxFIKTSOz3wSafNhEe3Lu2U8ss3IBkJV7NCMgcoiSKt2lUSXKqRQAbFwWUxCSvoM1YtbnSvo3zdcFMgeYjcCmUQ0HjlnR5g1DX5XTapidNgWTOj4CJRIR1pyHUMD78xwSj/mmDGoyMqGrgL84RhtvPn/5pwRyj6dKGvSGjDC1/82ql5ai1ANJdHo0jZMEQftr4F0E1OSB75G6CMQSjzEiMpWX2JpquQ==;67NDPPruzvMwMv/eF7PIEQ=="
 ---
 

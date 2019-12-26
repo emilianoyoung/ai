@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added to ... Incisions to Improve Healing Preventing Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing Implants Made of Continuous ..."
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage ..."
 publishedDateTime: 2019-12-18T12:30:00Z
-sourceUrl: https://www.thedailytimes.com/business/latest-innovations-in-wound-care-ophthalmic-devices-and-artificial-intelligence/article_be77a94f-8cab-5038-9033-fed83c0a88d8.html
+sourceUrl: https://www.businesswire.com/news/home/20191218005410/en/Latest-Innovations-Wound-Care-Ophthalmic-Devices-Artificial
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
-    width: 600
-    height: 600
+  - url: https://mms.businesswire.com/media/20191218005410/en/371054/23/ResearchAndMarkets_800px.jpg
+    width: 1200
+    height: 627
     title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "OyHFUPAIeWq5ZGz3yYCJ/XAw1CptAh0l1hl2kuD4hhcF8bQgvUaMiNIae/xVU+L/XD2ufebr8xNVkHMVAELdhZ3vTYW4lZBCJjb1PNLU8apoI9cr8Dbjewoachw9wLPzrB8BfExw7Li6NdbzNJy0Bn8ITWHicnfF1r8IQN2NII8+LKm/bDTsyi9Xwam4PnTD5KXqx5bDNPJs0ogJi6dLwsdP6a4owZR3jMOrux9FVAWg/wxbfvL8t85j1tAxCQoGoolyY5cExmw1Ww+jdk/cGg==;huyUM+3yXgUqbcplo2iaIw=="
+secured: "oEffLd3loz4I5GqeTR8tIjqaWeOZ31uS+JVILvkhCwIL0gVV3aD1K+79i7XnwI7eZImdwXaW01vK5fh2ktry9wXEVdKQTP8xXUY2udbMonMOsSWODNGd/okK3pdWATcnyL/RbfPrCIxXkUmFubl7fWrLLRUOecHE2wF/Fb0+b2vlerglx+HanTXPLPuCe6KLx9EeV7/K1ein0r6gUWw9yhTRmuX1bbIL+XdY6rQ/b+u31//YIgJfJCkS2Ho+qeHBi7vzntM1UYjCJF8LjKNK5A==;QmLnEogIWcgRZCw8H5dLzg=="
 ---
 

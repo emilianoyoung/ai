@@ -5,7 +5,7 @@ excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial
 publishedDateTime: 2019-12-05T17:34:00Z
 sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Google AI
+
+images:
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
+    title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
@@ -87,6 +93,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
         width: 555
         height: 330
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
+        width: 2047
+        height: 1365
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -125,6 +144,6 @@ related:
         width: 632
         height: 422
 
-secured: "rbEF8pRu1E9mCvtjedeffnQrYveQT5BxMgXgUEzNTru3bwLXjr/WYmCiZ/RUBshGJTCV390dMWoRu9F8GWGTDOvQO0/RZLuNPQ26snvP/NcXLtPQii02cbFo750a+iUtVCXNANEwgxn7znP5IhnYffyrp6Xcobxd5Jbv7O695JK0+Fc0R8CpP5Aezhjhtq5IA35EzGOPv4fgtCRhdcInmkLGUStCnMmL+cVv374mFmlpp5mZFhA4JcqJH07/OKZvsTUju1TrbpCHt0cVpYsOEw==;PSL9lWfay0+lnevQlFqNaw=="
+secured: "QZwo6bOmekc8ZZBsItmM1mLsAJlM6wOxYnO936jH2TdbllOcjpxTE4QF8Qza8Sk8jaXlBDXHylW/ZxClNO5qwoJ9eO9voE6S/UNJLxiKyat9GowOdRIDgXpP6YZ3/zHhMINCFdqiq01TXBWn/JIPvRJvJnzZ10AI7TKXHhiiCIt9Iz29wTcqcUR8s0Yc/FrpagKLZOybeWsyI0vdyG9gzWmtaVWkg8hdq/8SmMq7oDiCupkOkIQVdVud9tY01FtNvXjOY1bhZPrX245BYiulwA==;I5tb2PrWAEGGavs9kbz37A=="
 ---
 

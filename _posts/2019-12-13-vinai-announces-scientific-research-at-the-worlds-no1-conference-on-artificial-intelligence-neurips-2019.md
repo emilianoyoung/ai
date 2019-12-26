@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.84AA06978F6EDB3AE8909305469781A3
         width: 700
         height: 525
-  - title: "SoftBank Opens Institute in Tokyo to Accelerate AI Research"
-    excerpt: "Son’s company announced a partnership with the University of Tokyo that includes spending 20 billion yen ($184 million) over 10 years by mobile arm SoftBank Corp. to establish the Beyond AI Institute. He roped in the Alibaba Group Holding Ltd. co-founder for an on-campus chat, during which the two billionaires discussed their vision for the ..."
-    publishedDateTime: 2019-12-06T07:11:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-06/softbank-opens-beyond-ai-institute-in-tokyo-to-hasten-research
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-06/softbank-opens-beyond-ai-institute-in-tokyo-to-hasten-research
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-06/softbank-opens-beyond-ai-institute-in-tokyo-to-hasten-research
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EF8F63A59D731A477DC44CA908D30F64
-        width: 700
-        height: 466
   - title: "Conference ponders AI advances"
     excerpt: "Lastras provided an exciting overview of research projects from IBM related to natural language processing and its evolution. He noted that IBM has been at the forefront of language and speech research for decades. Examples include the famous research program on statistical speech processing from the 1970s that led to the powerful speech ..."
     publishedDateTime: 2019-12-09T19:56:00Z

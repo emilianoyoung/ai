@@ -410,19 +410,6 @@ related:
       - url: https://www.bing.com/th?id=ON.71A3AD0A8997467A6025A384A065AC96
         width: 700
         height: 350
-  - title: "Which Engines Work for Me? Machine Translation as a Managed Service at One Hour Translation"
-    excerpt: "Yaron Kaufman, Co-founder and Chief Marketing Officer of One Hour Translation, invited the audience at SlatorCon Amsterdam 2019 to imagine a world in which machine translation (MT) has already been perfected. It is free, automated, and equal in quality to human translation. Kaufman painted the scene: Websites flawlessly localized into hundreds ..."
-    publishedDateTime: 2019-12-06T07:20:00Z
-    sourceUrl: https://slator.com/sponsored-content/which-engines-work-for-me-machine-translation-as-a-managed-service-at-one-hour-translation/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.45DF06F468188DFC5F5C9D566578C3AB
-        width: 700
-        height: 466
   - title: "Featurization for Transfer Learning"
     excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
     publishedDateTime: 2019-12-18T20:31:00Z

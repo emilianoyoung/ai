@@ -68,6 +68,19 @@ related:
       - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
         width: 600
         height: 337
+  - title: "Samsung Neon May Herald the Next Generation of Cognitive, Advanced AI Assistants"
+    excerpt: "Samsung has stated that Samsung Neon will premiere at the upcoming CES 2020, and left mysterious teasers on the internet to decode from."
+    publishedDateTime: 2019-12-26T08:13:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-neon-may-herald-the-next-generation-of-cognitive-advanced-ai-assistants/ar-BBYlt6r
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.B948D8C1439D856C4855CA791911F8E4
+        width: 600
+        height: 315
   - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
     excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
     publishedDateTime: 2019-12-26T04:09:41Z

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-wha
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 700
     height: 525
     title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
+
+related:
+  - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
+    excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
+    publishedDateTime: 2019-12-26T07:29:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191226PD203.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
+        width: 336
+        height: 224
 
 secured: "SGHGawduzmAxYG2Z+Rro70Hw/wV7DPPBoHsG+XgUqcxSdwlWIaFeU0uQVeDdxovODB/3XkUFsABdwaFBSR+muFuFXkJIB/XvCZO8fAQDIt1HDGzoQMwKxl/WT1huaqPOGDoDKsQBKEvoe75+KNfVOTt6oa/PRr+7u8r+tXLzc3esExIQJLkrhmIWp48M0InSHAeE5MOlpvhX3KS1nOZE4rPjowt84aNLFIVzPhZ2DZnveumKbKZpWHo7tiJahwToQXi92+FmfjBQb6ltdz7AHw==;BDN5XvAkpxXJ57aKOWAUJA=="
 ---

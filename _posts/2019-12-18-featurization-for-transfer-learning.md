@@ -426,19 +426,6 @@ related:
       - url: https://www.bing.com/th?id=ON.71A3AD0A8997467A6025A384A065AC96
         width: 700
         height: 350
-  - title: "Which Engines Work for Me? Machine Translation as a Managed Service at One Hour Translation"
-    excerpt: "Yaron Kaufman, Co-founder and Chief Marketing Officer of One Hour Translation, invited the audience at SlatorCon Amsterdam 2019 to imagine a world in which machine translation (MT) has already been perfected. It is free, automated, and equal in quality to human translation. Kaufman painted the scene: Websites flawlessly localized into hundreds ..."
-    publishedDateTime: 2019-12-06T07:20:00Z
-    sourceUrl: https://slator.com/sponsored-content/which-engines-work-for-me-machine-translation-as-a-managed-service-at-one-hour-translation/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.45DF06F468188DFC5F5C9D566578C3AB
-        width: 700
-        height: 466
   - title: "Bochum team wins second place in machine-learning competition"
     excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
     publishedDateTime: 2019-12-19T15:35:00Z

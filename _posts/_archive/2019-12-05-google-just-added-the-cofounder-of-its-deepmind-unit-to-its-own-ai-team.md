@@ -80,6 +80,32 @@ related:
       - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
         width: 555
         height: 330
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
+        width: 2047
+        height: 1365
+  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    publishedDateTime: 2019-12-05T17:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -117,16 +143,7 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
-  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
-    publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 19
 
-secured: "DUMhY/+izOgEznyC10tCQvWTooeQa0sKGGwlYHwnLF6xmthjOhBHkCeVH6BJ8JNC7dLMsGAIlaUztsZUEM4RNeKAuwuKBFoipqGxF+9N2zIgWRVlMa1WssI88XRWZpYXxqFPlMjXsTW4V63kjp0+lip0WZN7vpURp+ZP2m+wSHPXhf1N1NeFjBp2wOqx7Hcml43Y/Dzx8kcxtBdicjuAvBrWQHhaBXLZQ3paPYDKLe4jXjtfyVcr/0HR9jb2u7SmgJPbG5rwXUXrzUKSb5jsWg==;TGuFF0tP652vMcknKvrcGA=="
+secured: "wvMK4JmKwBik5av22whNWY+jNQ9GNaxNMilLytzbBrdKPvC/h+0Jg+r0RHOfwQM0KRYOYZNjidRfpRpxpxZ9TEviZrXsQ0rFZEaPAl+cwOFLcol8SFzIi9xqu6KUmRjOtSmYxa0DmqP0zvny/823HdmNh5tx9/OxpXeo1teptXhJvylF/mg5T5RLqQRTgpLUSwZOKt9DFTkaz4SOZpDQAiQPwyFZO+4Go8eGW40mFawkz1exKMfoi0dlsp9QZWuSMGqMuK39M1eM2dOhvLkRaw==;Ob/+o0MJfS3tazk6UYPe8A=="
 ---
 
