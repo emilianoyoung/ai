@@ -39,21 +39,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Qualcomm announces Snapdragon XR2, world’s first 5G capable XR chip"
-    excerpt: "The company claims that the XR2’s CPU and GPU performance are double that of the earlier version, while artificial intelligence (AI) processing speeds have increased by 11 times ... the XR2 doesn’t seem like something mainstream consumers will take advantage of. Instead, the chip is aimed at enterprise customers who will use the platform ..."
-    publishedDateTime: 2019-12-06T01:25:00Z
-    sourceUrl: https://www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip-11575594860091.html
-    ampUrl: https://www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip/amp-11575594860091.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip/amp-11575594860091.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F9A94ABC6717C7241F4D35CBBD7F5C84
-        width: 600
-        height: 337
   - title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
     excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
     publishedDateTime: 2019-12-06T02:07:00Z

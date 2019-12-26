@@ -8,7 +8,7 @@ ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-08/spacex-delivers-m
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-08/spacex-delivers-mighty-mice-worms-robot-to-space-station
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -88,19 +88,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C270732A8416CA2BD9F8AC0D576B1430
         width: 700
         height: 393
-  - title: "SpaceX launches caring robot, beer malt and 'mighty mice'"
-    excerpt: "There are also barley grains for a beer-malting experiment by Anheuser-Busch. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It's named Cimon, pronounced Simon, the same as the prototype that flew up last year. This upgraded version is designed to show empathy ..."
-    publishedDateTime: 2019-12-06T01:31:00Z
-    sourceUrl: https://www.sfgate.com/news/science/article/SpaceX-launches-caring-robot-beer-malt-and-14884493.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.899362397145582F0E160C68794DBD49
-        width: 700
-        height: 465
   - title: "SpaceX launches caring robot, beer malt and 'mighty mice'"
     excerpt: "In addition, there are barley grains for a beer-malting experiment by Anheuser-Busch. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It's named Cimon, pronounced Simon, the same as the prototype that flew up last year. This upgraded version is designed to show ..."
     publishedDateTime: 2019-12-13T08:41:00Z

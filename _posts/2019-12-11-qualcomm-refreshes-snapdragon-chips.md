@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T10:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/qualcomm-refreshes-snapdragon-chips-2019-12-11-61975856
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     title: "Qualcomm Refreshes Snapdragon Chips"
 
 related:
-  - title: "Qualcomm announces Snapdragon XR2, world’s first 5G capable XR chip"
-    excerpt: "The company claims that the XR2’s CPU and GPU performance are double that of the earlier version, while artificial intelligence (AI) processing speeds have increased by 11 times ... the XR2 doesn’t seem like something mainstream consumers will take advantage of. Instead, the chip is aimed at enterprise customers who will use the platform ..."
-    publishedDateTime: 2019-12-06T01:25:00Z
-    sourceUrl: https://www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip-11575594860091.html
-    ampUrl: https://www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip/amp-11575594860091.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/qualcomm-announces-snapdragon-xr2-world-s-first-5g-capable-xr-chip/amp-11575594860091.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F9A94ABC6717C7241F4D35CBBD7F5C84
-        width: 600
-        height: 337
   - title: "Snapdragon XR2 Chip to Enable Standalone Headsets with 3K×3K Resolution &…"
     excerpt: "The new platform is aimed at high-end devices with support for 3K × 3K displays at 90Hz, along with integrated 5G, accelerated AI processing, and up to seven simultaneous camera feeds for user and environment tracking. Qualcomm is the name when it comes to the guts which power standalone AR and VR headsets. The company’s chipset can be ..."
     publishedDateTime: 2019-12-06T08:50:00Z

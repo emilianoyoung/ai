@@ -45,19 +45,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
-    publishedDateTime: 2019-12-05T17:53:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
     excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
     publishedDateTime: 2019-12-11T00:12:00Z
@@ -117,6 +104,6 @@ related:
         width: 700
         height: 450
 
-secured: "aXxN1bh4DrjsVqV53eInmzEYNJo9VVv/aQMaUz9QUsCZXZf5rdJH3ANu+BqwMgHTq+HQFBi0WUkW0hYtKnWFSysH53o7YVsU0xmYB7vkZCiaqsChTG0D20T+o3Fhip8eWmLqvy3hYFOc2rWgoGXR4roZHLL9ypHPa62BGWKH8aJM8h6hQ2Eg52bUwwtRESd5sziX+3ybtibzcPZ+XnV95x1vPNPjE8lCx82maKNIJA+uaBATDeEH3qiDP5s3ERL8HWHz/eQJbY+ASkkQj9or2g==;el5OtQcrP7jarDRsq+zdAw=="
+secured: "q1o3MSJ/8oVJZhBerMqTlyl1dsvw4Spd2ZcRZiC++9+XievT8RaZLFwZa1ke5O2yD0MF1O+FFZR6tYyi9k7cPw3sdSGl7S8GE+ASDdqhPXD4BAnAzCgELGwzlp7k9fmcrtBbRTxwpfJwRGV023iqvI/s2jc4exc5wt3UXQiYQINGJwntGO+EI3SO1YW99Lof15CHfjZvl189iXvIyTuftyFNITfg8NyI19tSYea4bu3HEaSTl3atKOLjaFbO5Re6vvs5LG66YMJzKsngQQxoQQ==;KPBslXGFzvgBh2A3GNTZFw=="
 ---
 

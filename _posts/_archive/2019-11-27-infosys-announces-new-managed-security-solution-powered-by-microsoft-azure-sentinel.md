@@ -8,7 +8,7 @@ ampUrl: https://mspoweruser.com/infosys-announces-new-managed-security-solution-
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/infosys-announces-new-managed-security-solution-powered-by-microsoft-azure-sentinel/amp/
 type: article
 quality: 68
-heat: 78
+heat: 68
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 347
     title: "Infosys announces new managed security solution powered by Microsoft Azure Sentinel"
 
-related:
-  - title: "Nuventive Improvement Platform™ Powered by Microsoft Azure AI to be Showcased at SACSCOC's Annual Meeting"
-    excerpt: "Dr. Raney adds, \"Advanced analytics and AI will be essential to the future of every college and university. And yet for many, it is hard to know where to start. Nuventive is collaborating with Microsoft Consulting Services to bring advanced analytics ..."
-    publishedDateTime: 2019-11-26T13:04:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/nuventive-improvement-platform-powered-by-microsoft-azure-ai-to-be-showcased-at-sacscocs-annual-meeting-300964834.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: https://mma.prnewswire.com/media/945904/Nuventive_Logo.jpg?p=facebook
-        width: 1136
-        height: 597
-
-secured: "ZPSlsQJlI4Sf7v5E9QQPmfjQqYcQg09cFm33olX49Ujn8sm0/FB/ds+3PD3inaIxprJDADqz6mJZ0Mju69w/ERz/2ACTNm2JiyZxplmFokIe4oGdl9mkvvmJ7IBPuH1zjY9od4oNs4KZZ4I6a1oKWCx3JKOE/QZzVZ/6jz0dyhoI0FUe5sNcArV3tOsJ7MJvSYo2r2bsmvHAE6T3BBuUqtCcRbfayiIXnkR3FnfJ1n+KyGk/P69BxQxoO/EDrZqZo5Hng/ztBr2cBJeoIq3WBg==;YJiKdiUSBK7X2UQ9YDqUKA=="
+secured: "rQTcy75Y5eL86Eok8dBAR+5RaVJ33YV4IWiExaikBPiKgnrisN1q41uZEZTqqo6qK3/O3xGz/h1miTcy5d3IL/7TChbieQR1U4bn6uqIZgj2EqZsMpC3oy9bMp1lsJanvWp4tFOO3qOQepm5x5hYYjhahOhLu3dDAOVhJvWk8Pi1YNEa9J8WFg4iInNUM6iviRMITjtmz6GPSRvjyuJm8LHqiHTV4VK5zhnKsVcdkvVW7EdYCWRNuApXXt/OsrqzJTYcQanWv27iHo0dpNM6ew==;9WCmnO6jLsE4uXtMVtp7PA=="
 ---
 

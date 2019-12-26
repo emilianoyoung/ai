@@ -8,7 +8,7 @@ ampUrl: https://www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
 type: article
 quality: 52
-heat: 72
+heat: 62
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C29C37C553EB29A7B9F6E91D8ACDB229
         width: 700
         height: 367
-  - title: "Homeland Security Gives Up Plan To Expand Face Scans For Travelers"
-    excerpt: "The proposal would have required all travelers, including citizens, to participate in a facial recognition scan when exiting or entering the U.S."
-    publishedDateTime: 2019-12-06T01:57:00Z
-    sourceUrl: https://www.newsy.com/stories/dhs-gives-up-plan-to-face-scan-all-international-travelers/
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B340A89109BDF6373CA4DB64283BB746
-        width: 640
-        height: 360
 
 secured: "ghLjHtdUH4lFBXpi5HSH1ztD89K9Rymu212KDYVmUx+hi1S2j1vTphRHmHUsNBvaN1TmzTfrfY/mTTCqQP35tkln1p/0SPPOqDEyOrgN3uh3n/GtW08SA9jSWuZZsmSAtSuf49tm0OmT2q+vdJFeS8e4SmxfDFfjDqt8d5XF+RW3wyQ/kKzWjVBqmZ+7XEQGYU3nPbmlcommC4sCM8B1YT/22GNO+54DLoaBe3qYt1YiHicxDSIOuxZXFJZZ2+LjB8NCv1KX3laGw/01k0ZkHw==;5QeW1opWS9jgxg5P+pIqjA=="
 ---

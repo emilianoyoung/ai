@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-06T23:50:00Z
 sourceUrl: https://www.techinasia.com/ai-dominance-depend-chinese-want-return-home
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Techinasia
@@ -28,21 +28,19 @@ images:
     title: "Beijing’s AI dominance may depend on how many US-educated Chinese want to return home"
 
 related:
-  - title: "Beijing’s hopes for AI dominance may rest on how many US-educated Chinese want to return home"
-    excerpt: "“Many professors in China ... US-educated talent. The Thousand Talents Plan has seen more than 6,000 overseas Chinese students and academics return since its was established in 2008, but because of escalating tensions with the US, Beijing has played down the initiative. Longer term, Beijing’s willingness to invest significant sums into the ..."
-    publishedDateTime: 2019-12-06T01:05:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3040797/beijings-hopes-ai-dominance-may-rest-how-many-us-educated-chinese
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3040797/beijings-hopes-ai-dominance-may-rest-how-many-us-educated-chinese
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3040797/beijings-hopes-ai-dominance-may-rest-how-many-us-educated-chinese
+  - title: "See the exact moment the retiring world champion of Go realised DeepMind's machine was 'an entity that cannot be defeated'"
+    excerpt: "He became world-famous after losing a set of matches to AlphaGo, the matchplaying software developed by Google's DeepMind artificial intelligence unit. Until 2016, Go was considered so complex that software might be incapable of mastering it. There are ..."
+    publishedDateTime: 2019-12-06T15:47:00Z
+    sourceUrl: https://www.insider.com/video-lee-se-dol-reaction-to-move-37-and-w102-vs-alphago-2016-3
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 146
+      name: insider
+      domain: insider.com
+    quality: 13
     images:
-      - url: https://www.bing.com/th?id=ON.30B4D96A644F61955342DF6886B9FB7D
+      - url: https://www.bing.com/th?id=ON.97F63A65C093A4DE196AF339DFE36EE8
         width: 700
-        height: 367
+        height: 350
 
 secured: "cg/kls/JWa3Eg7gLGWlZQnDnSB+Z3CtYbnJBiWkQjdOu6x2HIFNmUTqCctR9Q/QANN3Fr9EhHs3EQe8u3iYGOj5nI104Qasepq26uxB+Bze7B43HvrJ6zbU+RV0iWJ7WJecsDOrkkMF7yZIsgsUxaJKKGEHl4qomWHTR2rUzViMCazpcjiCUhiIPX//Sq3lojhU/Uk9+VaxviBFue6doIWGiBh6Lh8B89CbTqVWwV56O3y10SGO/q5sZG8aEVgoYpa1IgRm8kbIqr3OTbhqWCA==;w8pb9xuVyP69C0FXC8cb2Q=="
 ---

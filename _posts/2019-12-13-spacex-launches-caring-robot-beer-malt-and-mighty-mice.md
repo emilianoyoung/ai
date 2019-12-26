@@ -97,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C270732A8416CA2BD9F8AC0D576B1430
         width: 700
         height: 393
-  - title: "SpaceX launches caring robot, beer malt and 'mighty mice'"
-    excerpt: "There are also barley grains for a beer-malting experiment by Anheuser-Busch. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It's named Cimon, pronounced Simon, the same as the prototype that flew up last year. This upgraded version is designed to show empathy ..."
-    publishedDateTime: 2019-12-06T01:31:00Z
-    sourceUrl: https://www.sfgate.com/news/science/article/SpaceX-launches-caring-robot-beer-malt-and-14884493.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.899362397145582F0E160C68794DBD49
-        width: 700
-        height: 465
 
 secured: "QzoBlsznm0SI45FezQkRP3BPy8HbcATMf2S7aXACFUIs9y/YbN5pZvtbk6i4RisW+RRHul/wT1/wzs5nQ58X19sZ/l01Xi+psjmPubH581U88WTNFtxCqg68cF7Cjl8AbsjQncvc92AMLwAEuBFz6DJBZmQqF+lqK+1igbYzU+UcS7v4m8WP4EAOdzeTf9yCh7kZEPKJfBb+5Eq2X0tW14ivJmo1+2ncyATtSempnsze+bIGq2l8f1GpPeQfPW/xPaXdFfCohp68rqsnZHsbMg==;lTNpk+MA+QeQH7B/IV43Og=="
 ---

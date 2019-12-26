@@ -24,19 +24,19 @@ images:
     title: "See the exact moment the retiring world champion of Go realised DeepMind's machine was 'an entity that cannot be defeated'"
 
 related:
-  - title: "52 ideas that changed the world: 26. Artificial intelligence"
-    excerpt: "AI is currently used for understanding human speech, competing in game systems such as chess and go, self-driving cars and interpreting complex data. Some people are wary of the rise of artificial intelligence, with the New Yorker highlighting that “a number of scientists and engineers fear that, once we build an artificial intelligence ..."
-    publishedDateTime: 2019-12-06T14:47:00Z
-    sourceUrl: https://www.theweek.co.uk/52-ideas-that-changed-the-world/104744/52-ideas-that-changed-the-world-26-artificial-intelligence
+  - title: "Beijing’s AI dominance may depend on how many US-educated Chinese want to return home"
+    excerpt: "A Facebook software engineer surnamed Zhuang had a similar experience at his university ... meaning engineering graduates are not fluent in English, the preferred language of the global AI research community. The US is home to five of the world’s top 10 universities in the AI field, which includes computer vision and machine learning, while ..."
+    publishedDateTime: 2019-12-06T23:50:00Z
+    sourceUrl: https://www.techinasia.com/ai-dominance-depend-chinese-want-return-home
     type: article
     provider:
-      name: The Week
-      domain: theweek.co.uk
-    quality: 39
+      name: Techinasia
+      domain: techinasia.com
+    quality: 62
     images:
-      - url: https://www.bing.com/th?id=ON.0E18AE728B6EBD4F08975927CDFF391F
+      - url: https://www.bing.com/th?id=ON.BCDB49580593B38A2B3158C82F768C95
         width: 700
-        height: 394
+        height: 393
 
 secured: "Gpo7SIlJIMiZXdtCe/HmKWPctvQ0cbdY5D/Ecd7BxJASjxtGHg1LMWUENv0vvmKk8rjhcq54K2cBQ85jfmvCB7Vqo03nuKCnftUVpl3Ylc+Yeho5DsNyUvOyWeBlLjTTbWOAXe/iNU4iDzqPkpKwvbQSQ/xWtG+ezB/qMPV/L88B9xhhpnQx7j0ZDXdlNlAk0AXFtJR5nyWjG0ndkPm2isIOpPAKiwXW/UTvEDSXbXZ4mpZQmbw5zluGBM4S95S4BSQXohiuBv7kA03BmLMMPg==;zCaCXHOyoDugVxBSfdUpog=="
 ---

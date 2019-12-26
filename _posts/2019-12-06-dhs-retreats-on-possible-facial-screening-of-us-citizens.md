@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
         width: 648
         height: 516
-  - title: "Homeland Security Gives Up Plan To Expand Face Scans For Travelers"
-    excerpt: "The proposal would have required all travelers, including citizens, to participate in a facial recognition scan when exiting or entering the U.S."
-    publishedDateTime: 2019-12-06T01:57:00Z
-    sourceUrl: https://www.newsy.com/stories/dhs-gives-up-plan-to-face-scan-all-international-travelers/
-    type: article
-    provider:
-      name: Newsy
-      domain: newsy.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B340A89109BDF6373CA4DB64283BB746
-        width: 640
-        height: 360
 
 secured: "UmziohhodESmIOFfn+uTE+/O/aslVCHT5VZHbzyWO4nLjTT3yB/GHodeufjFkf3T+nWD7KsSlMu3YsrxJHZNTioYB1n0LTdqLOJUzN/qKn+RRMIDvTt8GTJRhTjyAbypk1YT7OvKM7Ax/tT3/kj7b/mcrUh6kaO2nNFC8yRVSd6UppZKpDAkVI0IweHRQiF2zBrKW9gTdc1VtabhgsNYjy/mmjJZ/9XriOsLIqXxTvERJMPs0t5RwzPnfi56vGczSf4nACSQG4wj5jgIRrgN8g==;oMlmuB+UsbXnigU7BJjbQg=="
 ---

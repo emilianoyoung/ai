@@ -262,21 +262,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
         width: 700
         height: 466
-  - title: "Regtech: Transforming The Fintech Landscape"
-    excerpt: "from AI to the Internet of Things, and it’s not surprising that we are seeing the regulatory technology (RegTech) space advancing at an exponential rate. Everything from facial recognition technology to NFC passport chip reading is aiding FinTech businesses in their quest for compliance, bolstered by the added security that assets like cloud ..."
-    publishedDateTime: 2019-12-06T01:55:00Z
-    sourceUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
-    ampUrl: https://www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
-    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/regtech-transforming-the-fintech-landscape/
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.AEB69656A135C8A68C3B062674C86E76
-        width: 700
-        height: 466
   - title: "O’Shea: Learning, truth and fear"
     excerpt: "I agree, and I thank our wonderful community from the bottom of my heart for the support that has made deep learning — the search for truth and the overcoming of fear — possible here at New College. Preparing students for lives of great achievement and for careers means encouraging and equipping them to seek the truth. Donal O’Shea is ..."
     publishedDateTime: 2019-12-13T01:26:00Z
@@ -528,17 +513,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
         width: 700
         height: 466
-  - title: "Deepak Chopra and the AI Foundation Partner to Bring Personal Transformation to Billions with the Power of Deepak’s Own AI"
-    excerpt: "Digital Deepak Supercharges Dr. Deepak Chopra’s Mission to Unlock Human Potential by Cultivating Consciousness for All; Signups Now Open on the Digital Deepak Website and App World-renowned writer and teacher Dr. Deepak Chopra has partnered with The AI Foundation to create an advanced, totally personalized Artificial Intelligence (AI ..."
-    publishedDateTime: 2019-12-06T01:57:00Z
-    sourceUrl: https://finance.yahoo.com/news/deepak-chopra-ai-foundation-partner-140000225.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/deepak-chopra-ai-foundation-partner-140000225.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/deepak-chopra-ai-foundation-partner-140000225.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
   - title: "DistilBERT (97% of BERT’s performance on GLUE) for Question answering on device thanks to TensorFlow Lite with Android demo app"
     excerpt: "It provides 48 passages from the dataset for users to choose from. Example scripts used to convert models are available in the models_generation directory. Please note that they require the nightly version of TensorFlow and might thus be unstable."
     publishedDateTime: 2019-12-13T01:30:00Z
