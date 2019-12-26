@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -95,19 +95,6 @@ related:
     quality: 24
     images:
       - url: https://www.bing.com/th?id=ON.62F27FAF8F10B1849CAF3C52B06A77D3
-        width: 700
-        height: 367
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
-    publishedDateTime: 2019-12-06T00:06:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
-    type: article
-    provider:
-      name: Relaxnews (AFP) on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
         width: 700
         height: 367
   - title: "Founder of self-driving truck firm calls truckers' long workdays a 'tarnish on the glory of humanity'"

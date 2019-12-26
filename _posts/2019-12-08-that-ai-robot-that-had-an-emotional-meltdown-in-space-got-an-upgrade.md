@@ -38,36 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.41051A2E3B6FC34F18866881196334A7
         width: 700
         height: 367
-  - title: "'Empathetic' AI-powered robot assistant heads to the International Space Station"
-    excerpt: "A friendly robot assistant with artificial intelligence technology is heading to the International Space Station to help astronauts with daily tasks, or if they just want someone to talk to while so far away from home. Cimon 2, the latest version of the AI assistant commonly called \"Simon,\" is more \"empathetic\" than its previous model that went ..."
-    publishedDateTime: 2019-12-06T00:14:00Z
-    sourceUrl: https://abcnews.go.com/US/empathetic-ai-powered-robot-assistant-heads-international-space/story?id=67489713
-    ampUrl: https://abcnews.go.com/amp/US/empathetic-ai-powered-robot-assistant-heads-international-space/story?id=67489713
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/empathetic-ai-powered-robot-assistant-heads-international-space/story?id=67489713
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 71
-    images:
-      - url: https://s.abcnews.com/images/Business/ai-robot2-ht-ml-191204_hpMain_16x9_992.jpg
-        width: 992
-        height: 558
-  - title: "AI-enabled assistant robot returning to the Space Station with improved emotional intelligence"
-    excerpt: "But CIMON is much more than an Alexa for space, and CIMON-2, which launched aboard today's SpaceX ISS resupply mission, will demonstrate a number of ways the astronaut support robot can help those working in space ... So for example, on the artificial intelligence side, we have something called emotional intelligence, based on our IBM ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/ai-enabled-assistant-robot-returning-183218675.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/ai-enabled-assistant-robot-returning-183218675.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/ai-enabled-assistant-robot-returning-183218675.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 64
-    images:
-      - url: https://www.bing.com/th?id=ON.F941D8276FC27419031D60E10A16F367
-        width: 700
-        height: 394
   - title: "Emotion-sensing Robot Heads to Space Station to Help Astronauts"
     excerpt: "WASHINGTON - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2, or CIMON 2, is a spherical droid with microphones ..."
     publishedDateTime: 2019-12-06T03:16:00Z

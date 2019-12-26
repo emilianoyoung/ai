@@ -8,7 +8,7 @@ ampUrl: https://www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/09/ai_roundup_061219/
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "US Homeland Security backs off on scanning US citizens, Amazon ups AI ante, and more"
 
 related:
-  - title: "Homeland Security doesn’t want Americans' airport face scans after all"
-    excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
-    publishedDateTime: 2019-12-06T00:04:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-05-homeland-security-cbp-biometric-face-scans.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B7BD733EB6E99DF9CED445F181928142
-        width: 700
-        height: 437
   - title: "DHS retreats on possible facial screening of US citizens"
     excerpt: "The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial recognition to U.S. citizens. A spokesman said DHS will delete the idea from its regulatory agenda, where privacy ..."
     publishedDateTime: 2019-12-06T18:42:00Z

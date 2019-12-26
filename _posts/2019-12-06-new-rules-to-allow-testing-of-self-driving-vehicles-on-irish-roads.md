@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
         width: 700
         height: 393
-  - title: "SMAC in the DARQ: the tech trends shaping 2020"
-    excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
-    publishedDateTime: 2019-12-06T00:06:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/smac-in-the-darq-the-tech-trends-shaping-2020/ar-BBXSHNF
-    type: article
-    provider:
-      name: Relaxnews (AFP) on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.619D32F1FE2D28051ADF26093EC40D3C
-        width: 700
-        height: 367
   - title: "Founder of self-driving truck firm calls truckers' long workdays a 'tarnish on the glory of humanity'"
     excerpt: "The founder of self-driving truck firm TuSimple, Xiaodi Hou, says that truck drivers being required to work long hours on the road is a \"tarnish on the glory of humanity.\" Hou is the founder, president and chief technology officer of TuSimple, which develops technology for automating long-haul truck journeys. The self-driving trucks still have ..."
     publishedDateTime: 2019-12-08T16:42:00Z

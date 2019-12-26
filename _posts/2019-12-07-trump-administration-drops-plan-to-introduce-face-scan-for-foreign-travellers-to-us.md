@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
         width: 700
         height: 393
-  - title: "Homeland Security: U.S. Citizens Can ‘opt Out’ of Using Facial Recognition at Airports"
-    excerpt: "Following criticism from its plan to subject U.S. citizens to facial recognition technology as a means to screen people at airports, U.S. Customs and Border Protection has said American citizens can choose to “opt out.” The federal government has been using facial recognition technology to screen non-U.S. citizens traveling into the country ..."
-    publishedDateTime: 2019-12-06T00:04:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/homeland-security-looking-facial-recognition-161009523.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.0979C931D8C4C3745E0255E211A5175D
-        width: 700
-        height: 497
   - title: "EU to discuss Palestine recognition in upcoming meeting"
     excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
     publishedDateTime: 2019-12-11T09:44:00Z

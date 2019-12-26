@@ -8,7 +8,7 @@ ampUrl: https://www.pymnts.com/voice-activation/2019/sensory-teams-with-applianc
 cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/voice-activation/2019/sensory-teams-with-appliance-oems-for-smart-voice-platform/amp/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -29,18 +29,16 @@ related:
   - title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
     excerpt: "SANTA CLARA, Calif., Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been ..."
     publishedDateTime: 2019-12-24T15:45:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances-1028784026
-    ampUrl: https://markets.businessinsider.com/amp/news/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances-1028784026
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances-1028784026
+    sourceUrl: https://www.prnewswire.com/news-releases/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances-300979165.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.88ABCFA5A34D12A86D9DBCFE60E643A9
-        width: 400
-        height: 224
+      - url: https://www.bing.com/th?id=ON.40B1A661AA6399ACE7181787DF620388
+        width: 700
+        height: 366
   - title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
     excerpt: "Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been designed for home ..."
     publishedDateTime: 2019-12-25T00:05:00Z

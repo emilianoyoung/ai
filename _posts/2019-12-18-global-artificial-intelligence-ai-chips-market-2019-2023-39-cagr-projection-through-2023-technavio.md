@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
-excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The generation of massive amounts of data in data centers has necessitated the need for more power than what ..."
-publishedDateTime: 2019-12-18T15:30:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191218005451/en/Global-Artificial-Intelligence-AI-Chips-Market-2019-2023
+excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191218005451/en ..."
+publishedDateTime: 2019-12-18T21:43:00Z
+sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chips-163000152.html
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: YAHOO!News
+  domain: yahoo.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://mms.businesswire.com/media/20191218005451/en/763775/23/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
-    width: 1200
-    height: 627
+  - url: https://s.yimg.com/ny/api/res/1.2/216f9D8Jq.XktKgjqwptMg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/e07bae27e4d07932f29cad0fbe371a46
+    width: 480
+    height: 270
     title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
 
 related:
@@ -329,6 +329,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "0/HnzAh15HLIB3zQmGRZCYpBVjjgij+Fopv4HNxapu9vWvt3z+i1glb9o5CGwdKVtwIPOFxqWePU3RWIcysD21gZCbir1dfsmY6L3h7JAaDtNKGIXJLWfQg7VTe0PfLhM7n81F9mViLs0dBp9n+hB18/C1NPU+bwttk1qRr2Is2I5ejtdm2P3cO5y90rij0YgLfYClbS1aEJJJUr9Ny7KwR1H62G8cvX1KtJ77u01x/ULPXgP8yVb3+sH9h55ANz+W2mE59zkNDuNNvFdfCybA==;ZAkrGMD9r+4mWc+HhBRJXQ=="
+secured: "ZzIsEW86kbla0Jiq7+9IXRQxWu04bQjWzRQ0RTnBKqWX6+iPvegl6dBmPMLJsEvDIfGxwueBTavWiH2F4URRW7zxocm+6yomHF3uC6nzb2bzJljUd2+Ip2f7lUPjr0YkkAcx48aC0Prj9b59F9kVRMJGr0IR0GpGeKn4FeqKSKe0tAeeR3zp0NJ56jI2+lkj1Q7vShrlmvN/RbNqLk7sn7zbDKGS3dycvob+gCMswg4d11QJa91MuskdbC1VE0eNf2CE/nOHTHq2Fw+68TgOvQ==;JKBPtJEScijlbiEuxeYHFQ=="
 ---
 

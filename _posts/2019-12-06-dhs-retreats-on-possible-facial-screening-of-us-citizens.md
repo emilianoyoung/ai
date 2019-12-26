@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D2C8C33D480BC296B8E26983184FB29C
         width: 648
         height: 516
-  - title: "Homeland Security doesn’t want Americans' airport face scans after all"
-    excerpt: "CBP did consider including US citizens in its facial recognition checks to avoid the challenges of having separate processes for foreign nationals and US citizens, TechCrunch reports. \"Upon consultation with Congress and privacy experts, however, CBP determined that the best course of action is to continue to allow U.S. citizens to voluntarily ..."
-    publishedDateTime: 2019-12-06T00:04:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-05-homeland-security-cbp-biometric-face-scans.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B7BD733EB6E99DF9CED445F181928142
-        width: 700
-        height: 437
   - title: "Homeland Security Gives Up Plan To Expand Face Scans For Travelers"
     excerpt: "The proposal would have required all travelers, including citizens, to participate in a facial recognition scan when exiting or entering the U.S."
     publishedDateTime: 2019-12-06T01:57:00Z

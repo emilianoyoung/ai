@@ -442,19 +442,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
-    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in agriculture market is estimated at $578.0 million in 2019 and is projected to reach $2,015.7 ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-113000263.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.B29BF5305630D9A2599CBFBC3F6556A1
-        width: 400
-        height: 251
   - title: "Artificial Intelligence in Security Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
     excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection ..."
     publishedDateTime: 2019-12-11T10:57:00Z

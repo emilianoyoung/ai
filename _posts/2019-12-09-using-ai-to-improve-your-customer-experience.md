@@ -23,45 +23,21 @@ images:
     title: "Using AI to improve your customer experience"
 
 related:
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-06T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
+  - title: "Emotional AI decodes customer grievances"
+    excerpt: "IBM Watson Tone Analyzer draws results from the tone of the content ... NoBroker.com, a user of the tool, said the AI picks up the sentiment behind a complaint received across mediums, and automatically forwards the mail to the concerned department. “In the final stage, the concerned department head have two choices, to either address ..."
+    publishedDateTime: 2019-12-12T22:30:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/business/india-business/emotional-ai-decodes-customer-grievances/articleshow/72497981.cms
+    ampUrl: https://m.timesofindia.com/business/india-business/emotional-ai-decodes-customer-grievances/amp_articleshow/72497981.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/emotional-ai-decodes-customer-grievances/amp_articleshow/72497981.cms
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
-  - title: "IBM LivePerson AI Customer Service Chatbot Seems a Bit Too Impersonal to Me"
-    excerpt: "IBM also recently announced enhancements to its Watson ... There’s a growing opportunity to deliver that white-glove customer experience by integrating AI to create a personalized touch.” Watson Assistant’s new features “are designed to provide ..."
-    publishedDateTime: 2019-12-11T19:59:00Z
-    sourceUrl: https://www.commercialintegrator.com/business_resources/operations/ibm-liveperson-ai-customer-service/
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.B2B604594CC8A87A7B6DCB5C12ACE5E2
-        width: 700
-        height: 345
-  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-    excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running ..."
-    publishedDateTime: 2019-12-01T14:13:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
-    ampUrl: https://amp.benzinga.com/amp/content/14908555
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14908555
-    type: article
-    provider:
-      name: benzinga.com
-      domain: benzinga.com
-    quality: 24
+      - url: https://static.toiimg.com/photo/msid-47529300/47529300.jpg
+        width: 1200
+        height: 630
 
 secured: "jFt7GVKeRpNyDk4StEjarcPfr1q/NnmZf24JgNdmrW0ZMD3cQS8bhZT6aDjv398zc5Wa7E1AXdJiBmbej1xL2D1XlqqOtsTmLna/VleO7kRGvfsN5Q2t+hZWba5ANHzuHTpFmS4vBVqBgbh5q54OVPcXHPPANK0PZN/73SxpPNyrgGXt93/Czedvan4BJ+McwyEfxLkNUkgbjHk4SvhbN7PSUF/GPrGvKb7QqJdr4Sh38DFDp+8mr9SW4Z9In/OkO0rHk9W8kJkswrnb1AjNng==;kjMuafXDzBaMhDFzgLR0Lg=="
 ---

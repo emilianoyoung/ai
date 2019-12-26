@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
-  - title: "Homeland Security: U.S. Citizens Can ‘opt Out’ of Using Facial Recognition at Airports"
-    excerpt: "Following criticism from its plan to subject U.S. citizens to facial recognition technology as a means to screen people at airports, U.S. Customs and Border Protection has said American citizens can choose to “opt out.” The federal government has been using facial recognition technology to screen non-U.S. citizens traveling into the country ..."
-    publishedDateTime: 2019-12-06T00:04:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/homeland-security-looking-facial-recognition-161009523.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.0979C931D8C4C3745E0255E211A5175D
-        width: 700
-        height: 497
   - title: "Trump Administration Drops Plan to Introduce Face Scan for Foreign Travellers to US"
     excerpt: "The American Civil Liberties Union criticised the move, saying it had “profound privacy concerns” despite promises from the government that it had no plans to expand the face recognition checks to Americans, TechCrunch reported. According to the Trump administration, the facial scan will reportedly tackle fraudulent US travel documents and ..."
     publishedDateTime: 2019-12-07T11:57:00Z
