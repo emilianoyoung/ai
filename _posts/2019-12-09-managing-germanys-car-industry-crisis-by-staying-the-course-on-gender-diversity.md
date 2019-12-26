@@ -45,6 +45,32 @@ related:
       - url: https://www.bing.com/th?id=ON.10C4D9ED2565B142390DF058811C07ED
         width: 600
         height: 315
+  - title: "Ambient Clinical Intelligence Improves Physician EHR Workflows"
+    excerpt: "Using an incremental approach to improve natural language processing, virtual scribes review the conversation and physically update the EHR. “Information is captured in the visit. That raw data is going through the natural language processing engine. That then goes to a human who’s not in Nebraska. That person then updates the chart with ..."
+    publishedDateTime: 2019-12-09T14:34:00Z
+    sourceUrl: https://ehrintelligence.com/news/ambient-clinical-intelligence-improves-physician-ehr-workflows
+    type: article
+    provider:
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.03B246804C2BAD562DA5AE7D7CCA4BE8
+        width: 690
+        height: 400
+  - title: "Jeff Bezos Gave an Amazon Employee Extraordinary Advice After His Epic Fail. It's a Lesson in Emotional Intelligence"
+    excerpt: "Freed and co. then hired speech scientists and artificial-intelligence experts to help them create the new software. They designed it so it could understand a variety of accents. They didn't want to place too many limitations on the software, so they gave it the ability to do all sorts of tasks--from telling you the weather to answering ..."
+    publishedDateTime: 2019-12-09T12:34:00Z
+    sourceUrl: https://www.inc.com/justin-bariso/jeff-bezos-gave-an-amazon-employee-extraordinary-advice-after-his-epic-fail-its-a-lesson-in-emotional-intelligence.html
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.6BD0895D0FC301E8150C702519A53564
+        width: 700
+        height: 324
 
 secured: "fjmhXV//P5SIiR7AB4BetTKIeANo9DIFddSQJlkfVcRbqH2CeHDTfvdUoNPYS4XrSCJWBH7qyW2jyxJmw4kDbwp31iXll2tgVu5hdVcCNz9FfWldLZK2EjR7D0bUPG9dtqsqb9Yzncl106URepG6cSMvocRgo9BORsc3zXedJPpmcB6KCp2jDhdRAlD9IcOWoXGLlwk+LtZukxq3hJJqONreQKJ8KDUTKLJ0NLZRhhdTTVqvCxFAoAuOxbIdtp6VyqafYtpC+FZST6V+0ABBrA==;jxyzPvA5pPVVEVJ+4Mip5w=="
 ---

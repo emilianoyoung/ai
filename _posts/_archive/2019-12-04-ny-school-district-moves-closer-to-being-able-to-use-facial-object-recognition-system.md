@@ -67,19 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
-    excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
-    publishedDateTime: 2019-12-06T13:47:00Z
-    sourceUrl: https://www.meritalk.com/articles/sens-coons-lee-argue-for-facial-recognition-technology-warrant-act/
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
-        width: 700
-        height: 392
   - title: "Police facial recognition: Privacy commissioner not consulted on new system"
     excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
     publishedDateTime: 2019-12-07T22:09:00Z
@@ -120,6 +107,6 @@ related:
         width: 700
         height: 350
 
-secured: "DI2gO2eS5KVVzVrE9JiEQk2MRuGLsVtGuGruT2koU6iuO5OBNtTnTbD4Pyc1Snk642e+wTn9GIRmIpdrIYPKfpDDm4ciiUb/PnspRR55AbtEBbgkHUKC8BloVVmtwu7VFfHR+i6/KxpQza0L0y48adHFPrGOexNDG+f3l+3XJKi5LAMIkUYvEvk09lRsMqRyDNi54rGn4B1KDlEP5VJHhnARv+hVXTL90bW8EEKi7FZCxGrFEQV2V5/BG5Cz9dSmiXAI6iSAzQTRW8ijfjQyaA==;0hwT2h3E0NkEfOrDHlT4Lw=="
+secured: "2N1M3TfQrGBoBls962j3dvxV78alM4yC/vPqKLJoSj29w0ibUPTYGyH+4C3QTimqe8g8mkARFpeLjR0c4TO1TMqxMCc+vKwWl3460TOyJ857bKV3oqr+KR1Xwgr150IrTpb06gFznHNT6V0iRdcRIe/i8q0EgCGv6kBJzKQL9kwkXPv8mDlGOIQNMbfpHJ0WHbKmIdgu7kBiwumYCcY/I4c80EXCVh439Q8bHmLtLJTgaOC6zmwOzYRj5JJwq3/yeMhhkDIITwBcg7d0TgX4Xw==;lAna0OIcRGibVwzMqV9dnA=="
 ---
 

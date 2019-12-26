@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
+excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
 publishedDateTime: 2019-12-04T00:20:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
@@ -15,7 +15,7 @@ provider:
 
 topics:
   - AI
-  - AWS AI
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T18:31:00Z
     sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
     ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
@@ -45,6 +45,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "fLk2sZneRxB3i7HX/AnMiYdJmfZTMrXdAgFzPyEzxX1hpMdcv7FQw9R6BaQ5GWnxenx4yL3GK11sB7yXrbQ/QgWyAnfsxcGXSSDMQBHOkYjlhPfoEkQcaDiI7LQT95vD4PdSB6yGmdOL7yYuo+J8efUkChsFAKtHP+ARjF+47JI3bqCqI6NBg6IpAnRkyblfu+v//v4RhgkvMIJIAIZQORXYDv6SRGWV2rVAxUBK6oMbRWNwM7FXYn6914tnRIvBHKiC3NWcIxFjBrwaevotXw==;DYz51SbPoif814tw9004wQ=="
+secured: "2PnKMDSyuUjTN552kIT4i21mfu4QiLH0IyszZ/08RhrA/QOCJ+77QJUP8T5/vfdpFYbxNG2+2pHV9VlYDpTZeJIdVObK2Klwnlllnj5p9hSYdyl7FGGtPHGDzRY1x1mTFxOiQqJzPxupJrInZcqWhLk9a8s2nln6CqtRYsUYX7K+u5J5tS7jwSmCcaKkyQ65W5qyuCN3AY+NBva8/nxMbLY8y4Y7r0c+xlmpn/Vd1p5gtIdTwfF/urKjd2v1j6IuU0pO2gfC2YyRBl2o/DoFDA==;swkxO0m9O09/reYPsdKfEQ=="
 ---
 

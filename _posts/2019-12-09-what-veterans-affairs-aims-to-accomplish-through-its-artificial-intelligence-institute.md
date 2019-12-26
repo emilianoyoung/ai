@@ -23,6 +23,21 @@ images:
     height: 400
     title: "What Veterans Affairs Aims to Accomplish Through Its Artificial Intelligence Institute"
 
+related:
+  - title: "VA Opens Institute To Pursue Research On Artificial Intelligence"
+    excerpt: "In other health technology news: a website helps patients with rare diseases find more information about them. The Department of Veterans Affairs has opened a new artificial intelligence institute to pursue research and inform national strategy. The National Artificial Intelligence Institute, a joint initiative of the VA's office of research ..."
+    publishedDateTime: 2019-12-09T13:51:00Z
+    sourceUrl: https://khn.org/morning-breakout/va-opens-institute-to-pursue-research-on-artificial-intelligence/
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 37
+    images:
+      - url: https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg
+        width: 570
+        height: 380
+
 secured: "A/8nzGtcuQeh/qYr9RZvN7ncQDnc0xzxDXhs2oTS3YsF1YElmb5HchOS8OEDxwYgJDIaRcoWcmZkzYuaWQMGhfQcQaQsXeU3vL6bz5/KrCLuH/fo+CNBblc4eNTWO0tzMpuJ2bd7O695PCcTArk6OVlhtUJY1ERIF1L3tsL+TdVt1RTWTzoFIVgJLllu6S9SdrNl8BaM16Uq1+hd9jqquaYVW8a5lh1vZ5pjOMilq/vB+chYu8NqPF6d81Rd8eBj9vcXUBx5SF3kxTXxbChgpQ==;3Kj+fJDCYyMm8nIn73EA9g=="
 ---
 

@@ -23,152 +23,150 @@ images:
     title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
 
 related:
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+  - title: "The Artificially Intelligent Investor: AI And The Future Of Stock Picking"
+    excerpt: "IBM, eager to showcase its artificial intelligence offerings, gave the entrepreneurs a $120,000 credit toward software and hardware bills. Two years ago EquBot opened up AI Powered Equity ETF, with a portfolio updated daily on instruction from computers. In 2018 it added AI Powered International Equity. Chief Executive Khatua presides over a ..."
+    publishedDateTime: 2019-12-09T11:02:00Z
+    sourceUrl: https://www.forbes.com/sites/baldwin/2019/12/09/connecting-a-million-dots/
+    ampUrl: https://www.forbes.com/sites/baldwin/2019/12/09/connecting-a-million-dots/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/baldwin/2019/12/09/connecting-a-million-dots/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 92
     images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
+      - url: https://www.bing.com/th?id=ON.DABDF5F5F6259EAF71BFBA3D3B13A33B
         width: 600
         height: 315
-  - title: "Qualcomm’s big Snapdragon 2020: The 5G, the chips, the wildcard"
-    excerpt: "The week-long event kicked off with new chipsets for smartphones before hitting AR/VR and finally computing, with 5G and AI ever-present themes along the way. Read on for the big news you need to know. Qualcomm was so enthused by the prospect of talking all things Snapdragon, it invited SlashGear along with hundreds of other global media to ..."
-    publishedDateTime: 2019-12-07T20:05:00Z
-    sourceUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/
-    ampUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.57F5F58F705255A056E30181AE3C9171
-        width: 700
-        height: 451
-  - title: "Meet CIMON-2: The floating A.I. brain that lives on the ISS"
-    excerpt: "“We use our IBM Watson intelligence to do similar things to what Siri ... The main antagonist in 2001: A Space Odyssey, HAL is the calm, conversational artificial intelligence whose job it is to assist the crew and maintain the ship’s functions; only to turn on its crew and begin trying to kill them off. Anyone who builds a smart assistant ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/
-    ampUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.D8A6EFB066E15B0443897DAD43F0DF8C
-        width: 700
-        height: 366
-  - title: "There’s No Such Thing as the Machine Learning Platform"
-    excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
-    publishedDateTime: 2019-12-13T01:57:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
+  - title: "Using Artificial Intelligence To Analyze Markets: An Interview With Ainstein AI CEO Suzanne Cook"
+    excerpt: "To learn more about the use of artificial intelligence at it may be applied to analyzing stocks and markets, I asked the CEO and originator of Ainstein AI about her work in this area. Suzanne Cook is a Wharton School graduate and a seven-time Institutional Investor All Star Analyst. According to her LinkedIn bio, “Mrs. Cook anticipates a new ..."
+    publishedDateTime: 2019-12-08T02:34:00Z
+    sourceUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/
+    ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.3B50A5E8AFB7BE02E141FF3630E27ADF
+      - url: https://www.bing.com/th?id=ON.BF80CE010E78E2D6487CE877A38E383E
         width: 600
         height: 315
-  - title: "What Machine Learning Means For The Future Of SEO"
-    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
-    publishedDateTime: 2019-12-16T11:05:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
-    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
+    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
+    publishedDateTime: 2019-12-09T05:29:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 88
     images:
-      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
-        width: 600
-        height: 315
-  - title: "The NFL And Amazon Want To Transform Player Health Through Machine Learning"
-    excerpt: "Injury prevention in sports is one of the most important issues facing a number of leagues. This is particularly true in the NFL, due to the brutal nature of that punishing sport, which leaves many players sidelined at some point during the season. A number of startups are utilizing technology to address football injury issues, specifically ..."
-    publishedDateTime: 2019-12-06T15:40:00Z
-    sourceUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/
-    ampUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
+        width: 1199
+        height: 512
+  - title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
+    excerpt: "Working with robotics and drawings brings me back to the body — the mark-made-by-hand ... That being said, the 'artificial' of artificial intelligence tend to overlook the human element. In my drawings, the models I train require large datasets to be effective. In my case, those data sets are decades of my drawings. Is it uncomfortable ..."
+    publishedDateTime: 2019-12-12T05:55:00Z
+    sourceUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/
+    ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 86
     images:
-      - url: https://www.bing.com/th?id=ON.F31F367EAA39078CD85AC1EAF8DA2227
-        width: 600
-        height: 315
-  - title: "AI Will Transform The Field Of Law"
-    excerpt: "Indeed, this process is already underway. The law is in many ways particularly conducive to the application of AI and machine learning. Machine learning and law operate according to strikingly similar principles: they both look to historical examples in order to infer rules to apply to new situations. Among the social sciences, law may come the ..."
-    publishedDateTime: 2019-12-19T19:12:00Z
-    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/
-    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.6D5B221C77BAE4DB7C531C8F7B413222
-        width: 600
-        height: 315
-  - title: "The World Is On The Cusp Of Revolutionizing Many Sectors Through AI and Data Analytics: Yogesh Mudras"
-    excerpt: "Mudras hail artificial intelligence as not a futuristic vision but as a need of the hour. “AI is being integrated and deployed in various sectors. This includes finance, national security, health care, criminal justice, transportation, and smart cities, points out Mudras. He further adds, “AI is a major driver to provide security ..."
-    publishedDateTime: 2019-12-18T13:26:00Z
-    sourceUrl: https://www.entrepreneur.com/article/344018
-    ampUrl: https://www.entrepreneur.com/amphtml/344018
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344018
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
-        width: 700
-        height: 466
-  - title: "What will be the growth rate of the Global Deep Learning Market by 2024"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
-    publishedDateTime: 2019-12-10T12:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/what-will-be-the-growth-rate-of-the-global-deep-learning-market-by-2024-2019-12-10
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df138cdb269e900077e3501%2F0x0.jpg
+        width: 1200
+        height: 800
+  - title: "Is Artificial Intelligence and Machine Learning really a strong market to invest in?"
+    excerpt: "Dec 11, 2019 (AB Digital via COMTEX) -- An extensive analysis of the Global Artificial Intelligence and Machine Learning market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and a ..."
+    publishedDateTime: 2019-12-11T17:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/is-artificial-intelligence-and-machine-learning-really-a-strong-market-to-invest-in-2019-12-11
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 77
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
-    excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
-    publishedDateTime: 2019-12-12T18:37:00Z
-    sourceUrl: https://kuow.org/stories/are-the-robots-coming-for-us-misconceptions-about-ai-and-machine-learning
+  - title: "GeekWire Calendar Picks: Artificial intelligence in public policy; podcasting tips; and more"
+    excerpt: "Government, higher education, and workforce management are just a few places where artificial intelligence is popping up. In hopes of educating everyone about AI, the Tech Alliance is holding the AI Public Policy Summit to give those who want to learn more a chance to hear from experts and network with those in the field. The summit takes place ..."
+    publishedDateTime: 2019-12-06T21:29:00Z
+    sourceUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/
+    ampUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.58AE5E8E7EE103AA8DE5A9666D27E229
+        width: 700
+        height: 350
+  - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
+    excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it’s a robot,” said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might ..."
+    publishedDateTime: 2019-12-10T22:27:00Z
+    sourceUrl: https://www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/
+    ampUrl: https://www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
+        width: 700
+        height: 393
+  - title: "Artificial Intelligence in Media"
+    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
+    publishedDateTime: 2019-12-05T05:18:00Z
+    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
     quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
+      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
+        width: 375
+        height: 360
+  - title: "Artificial Intelligence in the Telecom industry"
+    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
+    publishedDateTime: 2019-12-13T18:24:00Z
+    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 67
+    images:
+      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
+        width: 851
+        height: 315
+  - title: "Are more robots in your future? Missouri looks to expand use of artificial intelligence"
+    excerpt: "JEFFERSON CITY — Missourians seeking information about their taxes or their welfare benefits soon could be contacting a robot rather than a real person ... about a third of the states are engaged in pilot programs to increase the use of artificial intelligence to provide services. The budget request says the Missouri Department of Revenue ..."
+    publishedDateTime: 2019-12-10T19:20:00Z
+    sourceUrl: https://www.stltoday.com/news/local/govt-and-politics/are-more-robots-in-your-future-missouri-looks-to-expand/article_5e87dd09-29ef-5bc2-adaa-514ca8c91393.html
+    ampUrl: https://www.stltoday.com/news/local/govt-and-politics/are-more-robots-in-your-future-missouri-looks-to-expand/article_5e87dd09-29ef-5bc2-adaa-514ca8c91393.amp.html
+    cdnAmpUrl: https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/local/govt-and-politics/are-more-robots-in-your-future-missouri-looks-to-expand/article_5e87dd09-29ef-5bc2-adaa-514ca8c91393.amp.html
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.3981FEED7E3DE3D1223652DFC504F01E
         width: 700
-        height: 466
+        height: 393
   - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
     excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
     publishedDateTime: 2019-12-12T10:00:00Z
@@ -184,150 +182,293 @@ related:
       - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
         width: 700
         height: 350
-  - title: "NHS is leading the way in AI adoption"
-    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
-    publishedDateTime: 2019-12-17T12:30:00Z
-    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
-    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+  - title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill Artificial intelligence (AI) will shape the destiny of humanity, but first humanity has the opportunity to shape AI. At times, anxiety about the former causes us to overlook the latter. We forget that artificial intelligence is going to serve the goals with which we ..."
+    publishedDateTime: 2019-12-10T17:00:00Z
+    sourceUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial
+    ampUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 64
+    images:
+      - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
+        width: 980
+        height: 551
+  - title: "Can Artificial Intelligence Increase Our Morality?"
+    excerpt: "Even well-meaning AI applications have potential dark sides, she said. Algorithms aimed at putting at-risk students back on track could conceivably increase conformity. Therapy apps that give points for good behavior might make personal growth feel like a badge-harvesting grind. Social credit systems like that in China, or even more subtle ..."
+    publishedDateTime: 2019-12-09T07:38:00Z
+    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
+    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.0D7E8886982F40E58026CB4D19C2E645
+        width: 639
+        height: 280
+  - title: "Artificial Intelligence Market : Investigation and Growth Forecasted until the End of 2025"
+    excerpt: "Artificial Intelligence Market Segmentation: By Industrial Vertical *Media & advertising *BFSI *IT & telecom *Retail *Healthcare *Automotive & transportation *Others By Technology *Machine learning *Natural language processing *Image processing *Speech recognition"
+    publishedDateTime: 2019-12-12T05:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-investigation-and-growth-forecasted-until-the-end-of-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in the Healthcare Market key Insights Based on Product Type, End-use and Regional Demand Till 2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the highest ..."
+    publishedDateTime: 2019-12-12T05:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Agriculture Market : Future Challenges, Production, Demand Analysis And Outlook To 2029"
+    excerpt: "Dec 13, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence (AI) in Agriculture Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence (AI) in Agriculture marketers and ..."
+    publishedDateTime: 2019-12-13T05:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-future-challenges-production-demand-analysis-and-outlook-to-2029-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Experts dwell on use of artificial intelligence in war"
+    excerpt: "With artificial intelligence set to dictate the nature of future battlefields, experts discussed its importance and implications in the Indian context at a seminar on ‘War in the Artificial Intelligence Age’ here today. Experts said artificial intelligence was an emerging technology affecting military and civilian domains alike across the ..."
+    publishedDateTime: 2019-12-09T01:43:00Z
+    sourceUrl: https://www.tribuneindia.com/news/cities/chandigarh/experts-dwell-on-use-of-artificial-intelligence-in-war/872015.html
+    ampUrl: https://m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
+    cdnAmpUrl: https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.9F1D63DEE25CB0A15DEF72A83860660C
+        width: 660
+        height: 307
+  - title: "Are We Ready For The First Patent Filed By Artificial Intelligence?"
+    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
+    publishedDateTime: 2019-12-13T08:49:00Z
+    sourceUrl: https://news.yahoo.com/ready-first-patent-filed-artificial-084900026.html
+    ampUrl: https://news.yahoo.com/amphtml/ready-first-patent-filed-artificial-084900026.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/ready-first-patent-filed-artificial-084900026.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
+        width: 700
+        height: 466
+  - title: "Kenya ready for Artificial Intelligence but where is the data?"
+    excerpt: "Lack of access to free, up-to-date and machine-readable government data stands in the way of Kenya tapping into opportunities brought by artificial intelligence, a Nation Newsplex analysis reveals. The country tops Africa and ranks 52 globally out of 194 countries on the government’s readiness to adopt artificial intelligence (AI) in public ..."
+    publishedDateTime: 2019-12-13T04:11:00Z
+    sourceUrl: https://www.nation.co.ke/newsplex/artificialintelligence/2718262-5383962-1e8os8z/index.html
+    ampUrl: https://www.nation.co.ke/newsplex/artificialintelligence/2718262-5383962-view-asAMP-hhlfkuz/index.html
+    cdnAmpUrl: https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/newsplex/artificialintelligence/2718262-5383962-view-asAMP-hhlfkuz/index.html
+    type: article
+    provider:
+      name: Daily Nation
+      domain: nation.co.ke
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.145D0D49CCAB53EAF974E7A2DAF31817
+        width: 600
+        height: 400
+  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
+    excerpt: "Artificial intelligence is spreading into health care ... a virtual reality character named \"Ellie\" that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures ..."
+    publishedDateTime: 2019-12-07T12:11:00Z
+    sourceUrl: https://www.chicagotribune.com/sns-bc-us-med--health-care-artificial-intelligence-20191124-story.html
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.B354C35000E9F8D21A1F535B64DFC948
+        width: 415
+        height: 276
+  - title: "How artificial intelligence is shifting the model risk management landscape"
+    excerpt: "Many have occurred due to manual data input and basic human error. The solution is to turn to artificial intelligence (AI) to reduce these risks. In software pioneer Tom Siebel’s book, Digital Transformation and Mass Extinction, he recommends companies stop the ‘do it yourself’ approach to digitisation. Instead, successful organisations ..."
+    publishedDateTime: 2019-12-11T09:00:00Z
+    sourceUrl: https://www.itproportal.com/features/how-artificial-intelligence-is-shifting-the-model-risk-management-landscape/
+    ampUrl: https://www.itproportal.com/amp/features/how-artificial-intelligence-is-shifting-the-model-risk-management-landscape/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-artificial-intelligence-is-shifting-the-model-risk-management-landscape/
     type: article
     provider:
       name: IT Pro Portal
       domain: itproportal.com
-    quality: 59
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
+      - url: https://www.bing.com/th?id=ON.0A4D5BB0EBF84CCBB50A5E4F71AC53C5
         width: 700
-        height: 466
-  - title: "Artificial intelligence and the future of insurance"
-    excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
-    publishedDateTime: 2019-12-18T05:23:00Z
-    sourceUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/
-    ampUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
-    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
+        height: 437
+  - title: "Macron’s €1.5 billion plan to drag France into the age of artificial intelligence"
+    excerpt: "the French officials said that mass collection of personal data for marketing or political purposes was out of the question (France already outlaws political advertising of the type that’s at the center of the Facebook-Cambridge Analytica scandal). All data collection for AI research would have to be done in conformity with the EU’s ..."
+    publishedDateTime: 2019-12-09T21:02:00Z
+    sourceUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/
+    ampUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
+      name: POLITICO
+      domain: politico.eu
+    quality: 54
     images:
-      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
-        width: 620
-        height: 372
-  - title: "AI is helping tackle one of the biggest unsolved problems in maths"
-    excerpt: "Artificial intelligence’s ability to sift through large amounts of data is helping us tackle one of the most difficult unsolved problems in mathematics. Yang-Hui He at the City, University of London in the UK and colleagues are using the help of machine learning to better understand the Birch and Swinnerton-Dyer conjecture, one of the seven ..."
-    publishedDateTime: 2019-12-09T11:51:00Z
-    sourceUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/
-    ampUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.99BAF6171FC373CB30872B6449038250
+      - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
         width: 700
-        height: 466
-  - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
-    excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
-    publishedDateTime: 2019-12-18T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+        height: 366
+  - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
+    publishedDateTime: 2019-12-14T06:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-global-opportunity-analysis-and-future-assessment-2019-2025-2019-12-14
     type: article
     provider:
-      name: YAHOO!News
-      domain: yahoo.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 51
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
-    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
-    publishedDateTime: 2019-12-13T14:45:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
-        width: 700
-        height: 466
-  - title: "O’Shea: Learning, truth and fear"
-    excerpt: "I agree, and I thank our wonderful community from the bottom of my heart for the support that has made deep learning — the search for truth and the overcoming of fear — possible here at New College. Preparing students for lives of great achievement and for careers means encouraging and equipping them to seek the truth. Donal O’Shea is ..."
-    publishedDateTime: 2019-12-13T01:26:00Z
-    sourceUrl: https://www.heraldtribune.com/opinion/20191212/orsquoshea-learning-truth-and-fear
-    ampUrl: https://www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
-    cdnAmpUrl: https://www-heraldtribune-com.cdn.ampproject.org/c/s/www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
-    type: article
-    provider:
-      name: Sarasota Herald-Tribune
-      domain: heraldtribune.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.4E66BA9637C12C282E827969EC96866D
-        width: 466
-        height: 700
-  - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
-    excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
-    publishedDateTime: 2019-12-17T18:32:00Z
-    sourceUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/
-    ampUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
-    cdnAmpUrl: https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 44
-    images:
-      - url: https://images.cutimes.com/contrib/content/uploads/sites/413/2019/12/fintech-evolution-e1576527665526.jpg
-        width: 620
-        height: 349
-  - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
-    excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
-    publishedDateTime: 2019-12-18T14:57:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 44
-    images:
-      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How Machine Learning Is transforming Video Advertising"
-    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
-    publishedDateTime: 2019-12-16T14:08:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
+  - title: "FlightHub and JustFly on Why Artificial Intelligence (AI) May Be the Future of Travel"
+    excerpt: "Thanks to artificial intelligence, talking robots are a reality. A driverless car is no longer an unattainable concept. Both examples merely scratch the tip of the technological iceberg. The benefits are impactful—improved customer service, business development, operational efficiency and more. Companies in every industry are racing to ..."
+    publishedDateTime: 2019-12-09T13:11:00Z
+    sourceUrl: https://www.newswire.ca/news-releases/flighthub-and-justfly-on-why-artificial-intelligence-ai-may-be-the-future-of-travel-897544805.html
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 39
+      name: Newswire
+      domain: newswire.ca
+    quality: 49
     images:
-      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
-        width: 600
-        height: 314
-  - title: "From the Ground Up: Artificial Intelligence and Ag Machinery"
-    excerpt: "“We want to be able to use Artificial Intelligence to automate machinery itself so that potentially in the future we might have tractors that are fully autonomous, basically robots in the field that can not only navigate themselves, but can also detect obstacles and get around obstacles and that kind of thing.” Thomasson says that beyond ..."
-    publishedDateTime: 2019-12-19T15:15:00Z
-    sourceUrl: https://www.kbtx.com/content/news/From-the-Ground-Up-Artificial-Intelligence-and-Ag-Machinery-566340241.html
+      - url: https://www.bing.com/th?id=ON.4ABAA39C392859974EB7C5B784544872
+        width: 700
+        height: 366
+  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
+    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
+    publishedDateTime: 2019-12-11T14:44:00Z
+    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
     type: article
     provider:
-      name: KBTX
-      domain: kbtx.com
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
+        width: 200
+        height: 124
+  - title: "Synthesizing an artificial synapse for artificial intelligence"
+    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain ... The application could lead to the wide use of AI and revolutionary advances in cognitive computing, self-driving vehicles, and autonomous manufacturing. In addition to the research component of the project ..."
+    publishedDateTime: 2019-12-06T16:18:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
+        width: 500
+        height: 700
+  - title: "Artificial Intelligence as a Service Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
+    excerpt: "Based on End-User Industry the global Artificial Intelligence as a Service market is segmented in Retail and E-commerce, Healthcare and Life Sciences, BFSI, Government & Defense, Telecom, Manufacturing, and Energy & Power. Competitive Rivalry AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are ..."
+    publishedDateTime: 2019-12-09T02:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "22% of Orgs Currently Use Artificial Intelligence Software"
+    excerpt: "December 11, 2019 - Twenty-two percent of healthcare organizations use a software platform that provides artificial intelligence capability, according to a recent report from HealthLeaders Media. This is an eight-point increase from 2017, the organization noted, indicating that AI use is steadily rising among health systems. Thirty-one percent ..."
+    publishedDateTime: 2019-12-11T17:25:00Z
+    sourceUrl: https://healthitanalytics.com/news/22-of-orgs-currently-use-artificial-intelligence-software
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
     quality: 39
     images:
-      - url: https://media.graytvinc.com/images/ftgu+12-19-191.jpg
-        width: 840
-        height: 473
+      - url: https://www.bing.com/th?id=ON.597DBFAA19C365BCEFB9C12314168089
+        width: 687
+        height: 413
+  - title: "3 top ASX shares in artificial intelligence"
+    excerpt: "These top 3 ASX shares could be the best artificial intelligence picks for investors, including Appen Ltd (ASX:APX). The post 3 top ASX shares in artificial intelligence appeared first on Motley Fool Australia."
+    publishedDateTime: 2019-12-11T03:17:05Z
+    sourceUrl: https://www.msn.com/en-us/money/markets/3-top-asx-shares-in-artificial-intelligence/ar-AAK011J
+    type: article
+    provider:
+      name: The Motley Fool on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.70C91E99625DD68089E42F9966944976
+        width: 700
+        height: 367
+  - title: "IQ test for artificial intelligence systems"
+    excerpt: "These robots can be used to monitor the safety ... This grant is part of DARPA’s Science of Artificial Intelligence and Learning for Open-world Novelty (SAIL-ON)."
+    publishedDateTime: 2019-12-12T13:00:00Z
+    sourceUrl: https://news.wsu.edu/2019/12/12/iq-test-artificial-intelligence-systems/
+    type: article
+    provider:
+      name: Washington State University News
+      domain: wsu.edu
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7C5DD9CED8FE6329B24B89CFF3602968
+        width: 700
+        height: 466
+  - title: "Using Artificial Intelligence to Strengthen Suicide Prevention"
+    excerpt: "December 12, 2019 - A team from the University of Southern California (USC) has designed an artificial intelligence algorithm capable of identifying ... methods into design and deployment of prevention programs.” With this AI tool, healthcare professionals could help mitigate suicide risk for homeless and other high-risk individuals."
+    publishedDateTime: 2019-12-12T18:41:00Z
+    sourceUrl: https://healthitanalytics.com/news/using-artificial-intelligence-to-strengthen-suicide-prevention
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.73D733A0B80740961413D6C920396F5C
+        width: 590
+        height: 356
+  - title: "IQ test for artificial intelligence systems"
+    excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how ... \"We are focused on testing and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he said."
+    publishedDateTime: 2019-12-13T14:44:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3E1AF7B0C3A3FD05487D90B8ADFAC608
+        width: 500
+        height: 667
   - title: "Artificial Intelligence in Education Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
     publishedDateTime: 2019-12-09T02:33:00Z
@@ -341,226 +482,142 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Google brings ‘Interpreter Mode’ language translation to the Assistant on smartphones"
-    excerpt: "This is just a more elegant and enhanced presentation of Google’s underlying machine translation capabilities. ‘Help me speak [language].’ In order to invoke Interpreter Mode, users say something along the lines of “Hey Google, help me translate [foreign language].” It will then enable real-time translation. Google also says the ..."
-    publishedDateTime: 2019-12-12T17:20:00Z
-    sourceUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380
-    ampUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
-    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+  - title: "Artificial Intelligence in Security Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
+    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall, Intrusion Detection, Distributed Denial of Services, Data Loss Prevention ..."
+    publishedDateTime: 2019-12-09T02:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-08
     type: article
     provider:
-      name: Search Engine Land
-      domain: searchengineland.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.F846D0A1A61FF7F0B0571B444BF775E3
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "B.C. world leader in artificial intelligence"
+    excerpt: "B.C. is considered to be world leader in developing artificial intelligence, but runs the risk of falling behind. Linda Aylesworth tells us why. <iframe src=\"https://globalnews.ca/video/embed/6275903/\" width=\"670\" height=\"372\" frameborder=\"0\" allowfullscreen scrolling=\"no\"></iframe> <style>.gn-embed-wrapper{position:relative;max-width ..."
+    publishedDateTime: 2019-12-10T02:00:00Z
+    sourceUrl: https://globalnews.ca/video/6275903/b-c-world-leader-in-artificial-intelligence
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CDBC357413A8A721CBE47781F38107C7
+        width: 500
+        height: 281
+  - title: "Artificial Intelligence Isn’t an Arms Race"
+    excerpt: "Argument: Artificial Intelligence Isn’t an Arms Race Artificial Intelligence Isn’t an Arms Race... At the last Democratic presidential debate, the technologist candidate Andrew Yang emphatically declared that “we’re in the process of potentially losing the AI arms race to China right now.” As evidence, he cited Beijing’s access to ..."
+    publishedDateTime: 2019-12-12T01:36:00Z
+    sourceUrl: https://foreignpolicy.com/2019/12/11/artificial-intelligence-ai-not-arms-race-china-united-states/
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.89EC8BB93627D58D6079F38D17B299A2
         width: 700
-        height: 393
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+        height: 466
+  - title: "Schlumberger inks deal to expand artificial intelligence in the oil field"
+    excerpt: "Oilfield service giant Schlumberger has inked a deal to expand its offerings of artificial intelligence products and services. Oilfield service giant Schlumberger has inked a deal to expand its offerings of artificial intelligence products and services. Caption Close Oilfield service giant Schlumberger has inked a deal to expand its offerings ..."
+    publishedDateTime: 2019-12-16T10:10:00Z
+    sourceUrl: https://www.chron.com/business/energy/article/Schlumberger-inks-deal-to-expand-artificial-14905192.php
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 36
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-09T23:39:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/09/9066563.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.139D907EBC676118B60019BDEFDFF229
-        width: 400
-        height: 271
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-10T01:22:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/omron-returning-to-the-consumer-electronics-show-with-next-gen/article_8398498e-51e0-5f48-8c00-e5f2ef92b7dc.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.3AC4AD84AD56D433E02BAB8FEDF96093
-        width: 400
-        height: 271
-  - title: "Automation and artificial intelligence could save banks more than $70 billion by 2025"
-    excerpt: "Savings across the entire financial services industry could top $140 billion in the same time frame, according to Accenture."
-    publishedDateTime: 2019-12-13T15:53:07Z
-    sourceUrl: https://www.msn.com/en-us/finance/markets/automation-and-artificial-intelligence-could-save-banks-more-than-2470-billion-by-2025/ar-AAK624I
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.71A3AD0A8997467A6025A384A065AC96
+      - url: https://www.bing.com/th?id=ON.35CC30407BCF1AE3D7EEFB9F6FC3C3C5
         width: 700
-        height: 350
-  - title: "Featurization for Transfer Learning"
-    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
-    publishedDateTime: 2019-12-18T20:31:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+        height: 525
+  - title: "New eBook from Mouser and NXP Explores the Potential of Artificial Intelligence"
+    excerpt: "In Imagine the Possibilities, experts from both Mouser and NXP offer in-depth analysis of hot-button AI applications, including voice control, facial recognition, autonomous driving, and object recognition. Recent developments in AI and ML are leading to groundbreaking changes to technologies, products, and industries. As high-performance ..."
+    publishedDateTime: 2019-12-09T17:26:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-ebook-from-mouser-and-nxp-explores-the-potential-of-artificial-intelligence/
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 35
     images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
-  - title: "Bochum team wins second place in machine-learning competition"
-    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
-    publishedDateTime: 2019-12-19T15:35:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+      - url: https://www.eejournal.com/wp-content/uploads/2019/10/CoolBeans.png
+        width: 500
+        height: 362
+  - title: "New eBook from Mouser and NXP Explores the Potential of Artificial Intelligence"
+    excerpt: "In Imagine the Possibilities, experts from both Mouser and NXP offer in-depth analysis of hot-button AI applications, including voice control, facial recognition, autonomous driving, and object recognition. Recent developments in AI and ML are leading to groundbreaking changes to technologies, products, and industries. As high-performance ..."
+    publishedDateTime: 2019-12-10T13:34:00Z
+    sourceUrl: https://www.theengineer.co.uk/supplier-network/product/new-ebook-from-mouser-and-nxp-explores-the-potential-of-artificial-intelligence/
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 35
+    images:
+      - url: https://theengineer.markallengroup.com/production/2019/12/Mouser_AI.jpg
+        width: 700
+        height: 450
+  - title: "Longer Looks: A Runner’s Asthma; Choosing The End; Artificial Intelligence; And More"
+    excerpt: "The Unproven Promise Of Babylon Health Hamish Fraser first encountered Babylon Health in 2017 when he and a colleague helped test the accuracy of several artificial intelligence-powered symptom ..."
+    publishedDateTime: 2019-12-13T13:59:00Z
+    sourceUrl: https://khn.org/morning-breakout/longer-looks-a-runners-asthma-choosing-the-end-artificial-intelligence-and-more/
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 30
+    images:
+      - url: https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg
+        width: 570
+        height: 380
+  - title: "Can artificial intelligence help prevent suicides?"
+    excerpt: "the National Health Care for the Homeless Council reported. Phebe Vayanos, assistant professor of Industrial and Systems Engineering and Computer Science at the USC Viterbi School of Engineering has been enlisting the help of a powerful ally -artificial intelligence- to help mitigate the risk of suicide. \"In this research, we wanted to find ..."
+    publishedDateTime: 2019-12-12T14:34:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uosc-cai121119.php
     type: article
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 24
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
-        width: 1440
-        height: 960
-  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
-    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
-    publishedDateTime: 2019-12-19T10:40:00Z
-    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
     quality: 21
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
-        width: 685
-        height: 416
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "PITTSBURGH--Carnegie Mellon University computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. The trick, they say, is to transform massive amounts of gene expression data into something ..."
-    publishedDateTime: 2019-12-10T19:52:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/cmu-dl121019.php
+  - title: "Artificial Intelligence In Fashion"
+    excerpt: "To uncover the general market conditions and tendencies, Artificial Intelligence In Fashion Market research report acts as a perfect source. The market report aids in developing a successful marketing strategy for your business. This market research report is a proven source of information which offers a telescopic view of the current market ..."
+    publishedDateTime: 2019-12-09T12:23:00Z
+    sourceUrl: https://www.openpr.com/news/1877256/artificial-intelligence-in-fashion-market-booming-worldwide
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: openpr.com
+      domain: openpr.com
     quality: 19
-  - title: "Spot the robot ‘dog’ could one day scan jobsites, do layouts and maintain machines if Trimble, Hilti, Boston Dynamics collaboration succeeds"
-    excerpt: "“Down the road we expect to see robots involved in actual construction and workflow, things like scheduled maintenance and repair; even supporting the assembly process, says Almagor. “You take the platform, add the required tool and AI (artificial intelligence) capabilities and you get an almost unlimited tool. We are already talking about ..."
-    publishedDateTime: 2019-12-16T19:41:00Z
-    sourceUrl: https://www.equipmentworld.com/spot-the-robot-dog-could-one-day-scan-jobsites-do-layouts-and-maintain-machines-if-trimble-hilti-boston-dynamics-collaboration-succeeds/
+  - title: "Are we ready for the first patent filed by artificial intelligence?"
+    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
+    publishedDateTime: 2019-12-12T11:49:00Z
+    sourceUrl: https://www.aei.org/technology-and-innovation/are-we-ready-for-the-first-patent-filed-by-artificial-intelligence/
     type: article
     provider:
-      name: Equipment World
-      domain: equipmentworld.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.FF34B3ECA4774A2F271BFFF8D5FE1086
-        width: 700
-        height: 466
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-    publishedDateTime: 2019-12-17T08:07:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 17
+  - title: "The “Ghost Workers” Underpinning the World’s Artificial Intelligence Systems"
+    excerpt: "Mary Gray on the need for a better social contract when it comes to the rights of informal workers: “The challenge is that unless policy makers and the public see the people doing the work, we’re not likely to say that we need a portable benefit system for them. Companies are [benefiting from] this work, so they have to pay their fair share ..."
+    publishedDateTime: 2019-12-09T21:49:00Z
+    sourceUrl: https://cyber.harvard.edu/story/2019-12/ghost-workers-underpinning-worlds-artificial-intelligence-systems
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
-        width: 400
-        height: 267
-  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
-    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
-    publishedDateTime: 2019-12-16T07:08:00Z
-    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
+      name: Harvard Medical School
+      domain: harvard.edu
     quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
-        width: 700
-        height: 466
-  - title: "DistilBERT (97% of BERT’s performance on GLUE) for Question answering on device thanks to TensorFlow Lite with Android demo app"
-    excerpt: "It provides 48 passages from the dataset for users to choose from. Example scripts used to convert models are available in the models_generation directory. Please note that they require the nightly version of TensorFlow and might thus be unstable."
-    publishedDateTime: 2019-12-13T01:30:00Z
-    sourceUrl: https://github.com/huggingface/tflite-android-transformers/
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.C8D5E970169D045AD4DFBE9B8C5A46FD
-        width: 175
-        height: 175
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-11T12:28:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
-  - title: "Performance of deep learning-based algorithm for detection of ileocolic intussusception on abdominal radiographs of young children"
-    excerpt: "The purpose of this study was to develop and test the performance of a deep learning-based algorithm to detect ileocolic intussusception using abdominal radiographs of young children. For the training set, children (≤5 years old) who underwent abdominal radiograph and ultrasonography (US) for suspicion of intussusception from March 2005 to ..."
-    publishedDateTime: 2019-12-19T10:39:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-55536-6
+  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
+    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
+    publishedDateTime: 2019-12-11T18:35:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
     type: article
     provider:
       name: Nature
       domain: nature.com
-    quality: 9
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-55536-6/MediaObjects/41598_2019_55536_Fig1_HTML.png
-        width: 685
-        height: 283
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
     quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
-  - title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
-    excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
-    publishedDateTime: 2019-12-13T04:58:00Z
-    sourceUrl: https://finance.yahoo.com/news/lufax-ceo-greg-gibb-forecasts-055000912.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "0iGZD+em0SXng1boD8Oem+Hy2UZQWKF0orbmCh/cKRXqdBBro/tEEslvQMHc9TtjFXDuO4oVXxQgZEOYnJ/1+dQ1i5aKk/CHt02eQuALI/L1ZWsZjfJc1NUh46nltK+F4OjtxdBq2X2dZagk3J8st3q3/5zDj0/fs+G6D3C9mxtYcDOpIt4ghb8O24drTOgePeFBCJomfxeHlJ+uGcOdkaLk2BCJ5VclzvZlClHPED1iT27rsd6dfqbY3ozWP3KjRD9Bf96TDcuHgX6ViNE5pg==;vzcLTSsqa/KoaezSJ0IGBQ=="
 ---

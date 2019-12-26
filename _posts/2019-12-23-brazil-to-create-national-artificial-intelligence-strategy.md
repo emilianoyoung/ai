@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artif
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
         width: 700
         height: 424
+  - title: "Artificial Neural Network Model (image)"
+    excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
+    publishedDateTime: 2019-12-26T15:01:00Z
+    sourceUrl: https://eurekalert.org/multimedia/pub/220538.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DE5CFD7F64687182101B77E2310B5C71
+        width: 700
+        height: 393
   - title: "The United States Needs a Strategy for Artificial Intelligence"
     excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
     publishedDateTime: 2019-12-24T12:40:00Z

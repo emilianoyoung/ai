@@ -25,6 +25,21 @@ images:
     height: 466
     title: "Proposal to require facial screening of U.S. citizens at borders is dropped by feds"
 
+related:
+  - title: "Administration drops plan to require facial scans for citizens entering or leaving U.S."
+    excerpt: "\"Thanks to swift and public pressure, Homeland Security is reversing course and not moving forward with its dystopian facial recognition proposal at U.S. airports.\" Even so, Markey said he still intends to introduce legislation that would block department officials from requiring such scans. Jay Stanley, a senior policy analyst with the ..."
+    publishedDateTime: 2019-12-06T18:10:00Z
+    sourceUrl: https://www.postbulletin.com/news/nation/administration-drops-plan-to-require-facial-scans-for-citizens-entering/article_75325b58-1850-11ea-ba07-a30a7c631222.html
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.096BD659FB37F482F08DDFA7D4CB5BDA
+        width: 700
+        height: 525
+
 secured: "HIzGicJ6PpwcbC6kftdDUhLa271eOoofA0Tixx1t0OOSLO9+WijiLXaLuVRsowHzWEeFcNi55CY84l1FByui3N78qWYtGlr1dSh4WRvK445YE77GlGwRP9z0wK6OYP4xd8e+2OWOa4ATMuO5E5rzKDwosTj2bS+xvInjf7OX31nhdqwhydRC2sYRULrJqNgEsI3YGPE5P/y863ZcC+ApOEy6iTkEzbBpi0UojbPV7xVvYQjYIPuH1l7qi0X4zBhVpyE5KD3kI8ViwtfkQq+kEQ==;/v1C5lJl58Cy+zcP95g33w=="
 ---
 

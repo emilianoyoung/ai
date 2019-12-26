@@ -350,19 +350,6 @@ related:
       - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
         width: 1200
         height: 675
-  - title: "Customs and Border Protection reverses course on mandatory facial recognition program"
-    excerpt: "U.S. Customs and Border Protection announced Thursday it no longer plans to move forward with a facial recognition program that would conduct a mandatory scan of all U.S. citizens arriving or departing the country at airports and ports of entry, reversing course on a Trump administration plan. Customs currently permits U.S. citizens to ..."
-    publishedDateTime: 2019-12-06T14:37:38Z
-    sourceUrl: https://www.msn.com/en-us/lifestyle/lifestyle-buzz/customs-and-border-protection-reverses-course-on-mandatory-facial-recognition-program/vi-BBXQTRU
-    type: article
-    provider:
-      name: ABC on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.AC0020A3C0E901261884017F2DEBF17C
-        width: 700
-        height: 393
   - title: "UOB app-only bank TMRW introduces fingerprint and facial recognition for account opening"
     excerpt: "For example, a small percentage of customers using fingerprint biometrics to authenticate their account at TMRW kiosks found the experience not seamless enough so we enhanced this with the latest facial recognition technology to ensure a smoother account opening process for all.” TMRW enhances its suite of features beyond biometrics TMRW’s ..."
     publishedDateTime: 2019-12-09T15:41:00Z

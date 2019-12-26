@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutio
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3A57C6DDC22DD5A319E01BDAD17F7A11
         width: 700
         height: 350
+  - title: "VA Announces New National Artificial Intelligence Institute"
+    excerpt: "In September 2019, the organization announced the launch of a new predictive analytics and artificial intelligence center in Palo Alto, California. The National Center for Collaborative Healthcare Innovation (NCCHI) was established to develop impactful healthcare solutions for veterans and their families. “The NCCHI is an important part of ..."
+    publishedDateTime: 2019-12-09T15:11:00Z
+    sourceUrl: https://healthitanalytics.com/news/va-announces-new-national-artificial-intelligence-institute
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A090EE80C0F2685636B859DA356BD21A
+        width: 689
+        height: 407
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z

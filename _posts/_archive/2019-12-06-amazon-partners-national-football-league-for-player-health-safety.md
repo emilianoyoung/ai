@@ -40,8 +40,8 @@ related:
         width: 700
         height: 350
   - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
-    publishedDateTime: 2019-12-06T14:41:00Z
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
+    publishedDateTime: 2019-12-06T15:42:00Z
     sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
@@ -49,11 +49,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
-        width: 700
-        height: 525
+    quality: 54
 
 secured: "2cTkjW3++TeB9rBu0FdbsB5DtLcbKA56RFBxyKnDDppIG4xW1rm62iRMZpSKvn9Blkt7OAXIuKDz068X+OJ2iWc2I2IBEVcMVXLBbbKgFwMcEsSNVLbzLPd/YE1fNc7SdQUR89InmIfFwiLORKtG6yzGJaqGSd8A8ie2hPGnlNcMfAiBqTDLxdjIkwUy7G0GcaXjhmyJFSU7DCYE5yu8fAxMpoM33kcSw1ILu/S6UrWaYY8Kl2s8IgjnaNzwKN7ypadqg+YNwkW410RbZ0kppw==;tgBXB4jo45VJTsY7V3KOhw=="
 ---

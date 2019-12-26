@@ -96,6 +96,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
         width: 700
         height: 466
+  - title: "Bots fired: examining social bot evidence in online mass shooting conversations"
+    excerpt: "Through the application of deeper natural language processing techniques, a deliberate content analysis methodology could seek to determine the extent to which specific social bots amplify a particular narrative. Further, the introduction of community detection analysis could identify the existence of particular bots aligning with verifiable ..."
+    publishedDateTime: 2019-12-10T14:20:00Z
+    sourceUrl: https://www.nature.com/articles/s41599-019-0359-x
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 20
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
+        width: 685
+        height: 362
 
 secured: "JD4SUVjOERuD8v6mgKQWicIY7oisTN0Gt4+KnzSlkyeGVbjfu9BpS4N91tD8y7GajwMyN72TWKkDa4o9azyZUNol1qITmt0Ovp5+HeJGfy5HaP62yYG2i7TePw96zdA+QncV0fpEs6XsIORyCveuQYjyp3LaY+fAuMgi2AT/AV11CWzFqQtIXsdtXut1jae9gW3G8Irc+X9JW/auQbrlavc0vDZywcY4g/vvox91Hn/pltfe+DINlWAREXNDPeb1kyRH6ic77EUq2DeHkLpFLg==;ySlCG2dgkbYM/di3DSLakw=="
 ---

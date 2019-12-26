@@ -51,6 +51,19 @@ related:
       - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
         width: 700
         height: 424
+  - title: "Artificial Neural Network Model (image)"
+    excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
+    publishedDateTime: 2019-12-26T15:01:00Z
+    sourceUrl: https://eurekalert.org/multimedia/pub/220538.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DE5CFD7F64687182101B77E2310B5C71
+        width: 700
+        height: 393
 
 secured: "BM30CWo9NlhKEANOcoAy0OPsCQnDKV88BYRI5CUN37qrdnf2hf7mos1PyFCjiRhTuEaaXUhGVeauurLqoKIwRe/GUCQ/z6vWzKLOT01r/Mu7bJf2qYa3T1PuoLjmcO6hP7RGRW596u48olcEWXV3dYj8PcY2EeDYQwZ1P9dKDfLJhZLtY3cvTF0E1rDLe/RCtfb1kVxijiHD96JzjxwDuJDRKBnGvbOdI/x9q5zUCTZ+n5azM0Uo8QgIfT2NwX5UmClwdbmiabXNauTlyWB4SA==;NItNKHlbCB0ykmw9qp0kow=="
 ---

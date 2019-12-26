@@ -29,21 +29,6 @@ images:
     title: "AI Weekly: Amazon plays the long game in health care AI"
 
 related:
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
-    publishedDateTime: 2019-12-06T14:41:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
-        width: 700
-        height: 525
   - title: "Amazon Partners National Football League For Player Health, Safety"
     excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
     publishedDateTime: 2019-12-06T15:34:00Z
@@ -57,6 +42,17 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "NFL turns to Amazon for help addressing player injuries"
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
+    publishedDateTime: 2019-12-06T15:42:00Z
+    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
 
 secured: "1SO9/KiH1ynUIvv5JRMSgs9+2U9bSt4RYFQMUHt89IKtCUmlbrxiaJKByrXGeXbfK6PQOm/A+66xIBRfJGwnf/JF/dDtQCwfQiKh3NMJIi7uz+eZO8m9OvZpXg2Uqc0R4Q2xLsBGtWewoNr+ipd9qFzNBodtdYUbDILG+74ZrEA++DYnDn4mZcxHh0quaX8Ehc6KYms+3YhcpXVgS/xcNJVd2s4OnafoPKRHsGW4MSOpQpnVTvFWm+7Omr0omxl/15vXif7K3hOahbCeODCsDw==;uzBDsMZv9ZnsRahR8NYq9w=="
 ---

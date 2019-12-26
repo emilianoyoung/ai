@@ -1,13 +1,13 @@
 ---
 category: news
 title: "NFL turns to Amazon for help addressing player injuries"
-excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
-publishedDateTime: 2019-12-06T14:41:00Z
+excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
+publishedDateTime: 2019-12-06T15:42:00Z
 sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
 ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
-    width: 700
-    height: 525
-    title: "NFL turns to Amazon for help addressing player injuries"
 
 related:
   - title: "AI Weekly: Amazon plays the long game in health care AI"
@@ -59,6 +53,6 @@ related:
         width: 1024
         height: 512
 
-secured: "aD9gVwRwW6BvCDKKatkhT99lGLmfRoS2mzpxWa3GQkiMWjSVnVxqKFNJsVYFkmnTs/LKItVaUXWw3JzC3dchv0nrGEHcXIPwxsQvciiocOH9BauCZW/O7AK75Fs1xvAhpY2JU1WzdKFyjxSAsOqUFgpa7Jx2n65fHEoupxfU/zesqTg3mMK0OnFjBPbh2AbfC6HwKiHtk3Y7C8w3yuT4RJEESzZ/Wuupr44av5Dfa6/KJZXutirpg/zoWzeB1xFf+50z1XSIyMZjLnNKE5andQ==;HCjV7A5aaIVbiAqBf4DIXg=="
+secured: "4a8mvyjByO9q4xcOKV6HzPJvfEwZL2ivAJf0+oY7vPO7DsPk4AwOA1iDVG5evF2apQokd9FfRYmHDN+l9Fsb8bwDDGC7dR7pqxSWHTegj9X46iYuVaqMn8dtAFI2aG9BBwOWuwo3u4KD7snqjDCCb/9/Xd/KAiqhAeg1hiFnkfaSz5DvCs44LE7/tws2Vl1lfxfWzbu4CGyIW3irgdSSML2cYJHOlkGy2XLpxUVo2ec2ZxYNA+NJdTprYY58J/ylaYyZ3qVF5bi9ExIqyEGQ+w==;pMjQbGQO4Irg20IZnjJI0w=="
 ---
 

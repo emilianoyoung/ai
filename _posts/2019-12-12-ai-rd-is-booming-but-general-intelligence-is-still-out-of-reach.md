@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B180C8B9CBE055479C69966462DDFFE3
         width: 600
         height: 315
+  - title: "The next generation of user experience is artificially intelligent"
+    excerpt: "Not only does enhanced automaton help deliver the right information on demand, but also incorporates natural language processing to get smarter about questions being asked, relates Chris McNabb, CEO of Dell Boomi. I recently had the opportunity to chat with McNabb, who talked about the urgency of focusing in UX. \"You can't increase productivity ..."
+    publishedDateTime: 2019-12-08T15:43:00Z
+    sourceUrl: https://www.zdnet.com/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    ampUrl: https://www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.80A154FBF2D40BED7417210693E14E0F
+        width: 700
+        height: 525
 
 secured: "v+U4Xn2A0TZIMi5W2lKBOa83hKQ4m433fwFwlL+i3K9UnXNTWoVAhDJoTEAnRahO9baZbJ8ETqLdMMJoodQx0H63/c1jWhBahF/KpIbYNqPPqAcBK7OflChNMQCRK5jABeWj58gRDA9MUWajX005FVBFWHyvSulNzyvrN3FU5m+yxJLPr4y/1TuFYDoJNpvP/lwLU499t0qzfosKG58OsAZ+6iKkT2k9/0baCvIH51MH4NsXffb2krxE2jwhcC190CHaiPmAh3J3Lya/UgOq6g==;OJSu8grp2K9Y+sug3R6n5g=="
 ---

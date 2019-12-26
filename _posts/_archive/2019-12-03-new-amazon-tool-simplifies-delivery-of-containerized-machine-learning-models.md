@@ -23,6 +23,6 @@ images:
     height: 529
     title: "New Amazon tool simplifies delivery of containerized machine learning models"
 
-secured: "cutVXHcr7X9fjuX5xF54qCNmC+lagaZPALDEQnu0Cvh0gXNS1DsVsh2hz96FgBLnfKR6vYPkZoe1A0uTN2QET2pCu9RAEstbahIQMkRcjZXfhXyyPe3c+HHcsP7YE6Il81f3JQYHsN9NlhUAo+l5/CZb1XnRPfj1cAxcgqdupvmTJfSpw/owbRiPk/LHPbnA0g8F/swblXbc418QMXDYgJXPbocFhZQVDVWV85NbEjKDnAR2p8I3PvNWAIetUQe96FY56R3uwFf7fu8XoHpoQQ==;QEpMwZgZ6wB7u/MfLf5Ayg=="
+secured: "OzB5MnQkOV52RIDTRTM874eiOXgPOwHThrsBjCDO8sJg7YJcArwiPHTuBX6Co1OjMkGnerDp96zGpnIDJwPWS6sdlxiqFD1fX4VQQkK0WppWn8xCyZ7Y7vDoDZq60U6fps9RqxGsXp1UOWHAGnT2G5ZZWj05xdKchTBFFxwrdDbDs3xaJAm+6zCMwzGG4t4m44I7YECeYax60S8bKpjcpL/pJVF7ViEEZx04ctoqOFvQQGrh1zK+kG3F63tvpienMf8gU7zqGc8GT7Yl6Ha/qA==;DxzIZhzqwJ7AiwNnaIV0+g=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/tomtaulli/2019/12/07/this-years-ai-artifici
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2019/12/07/this-years-ai-artificial-intelligence-breakthroughs/amp/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
         width: 700
         height: 366
+  - title: "The next generation of user experience is artificially intelligent"
+    excerpt: "Not only does enhanced automaton help deliver the right information on demand, but also incorporates natural language processing to get smarter about questions being asked, relates Chris McNabb, CEO of Dell Boomi. I recently had the opportunity to chat with McNabb, who talked about the urgency of focusing in UX. \"You can't increase productivity ..."
+    publishedDateTime: 2019-12-08T15:43:00Z
+    sourceUrl: https://www.zdnet.com/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    ampUrl: https://www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.80A154FBF2D40BED7417210693E14E0F
+        width: 700
+        height: 525
 
 secured: "SxZH25TivQjWTX7jaJ+4H/wKswZXiOPOlDDSDpNYc/ZHqDeL1TJXM/aQ9Ownq34e17eGV1DmY+ckxFWoDKncBl9JaUFajkAmaifjVsiNO1EYGeU4mte3o3FnBusV0vie7SmVjMSLAD+304yUM9+k/3DAwK4JQ3pNwzUNdbIj1nfYe/zmBTEqgJ+R5lhFqaAGin54O3KrSnRJNInEhdPLA6PjKgwRJ7hqMJ/0t801Ueda6u2d4e0boS6lMVwITH6AWLV1lx74pZEw6prCgiMyHA==;GE3Bih+rCVm7BMSjo1fJ5A=="
 ---

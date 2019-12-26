@@ -2,18 +2,22 @@
 category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-publishedDateTime: 2019-12-05T18:47:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+publishedDateTime: 2019-12-05T18:55:00Z
+sourceUrl: https://www.bbc.com/news/technology-50679791
+ampUrl: https://www.bbc.com/news/amp/technology-50679791
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 159
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -102,7 +106,18 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
+  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
+    publishedDateTime: 2019-12-06T11:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 37
 
-secured: "H0rmTEZJk7ogQ/q+/EF6I7P2NWx8fg12mvKgG6kwPsbXNJHNNZAISIe7Y+/ZUSFPYokaFu99XTDnc8qnQ5ZPTLUPl/2eCbU9xoy5CelAlysDAlGN20i2eIOTyCxqg7+aQv26YRBCXcueCQnYBo48bhhzrbaZP56ff8tTxoANGVMRJLwayDZRMqKh2Boa+B2azq/Co2LgxdSBANJN8PNOLQ6MVshW4OyeO66dqfPdGns2z8M87A281+xHHExKGSO0pODe/ORjvcI60PXJnNZCDg==;uc6njxfKZ8KuCLqjpwwT3Q=="
+secured: "jF4oSVokBDi51bwu2JuswOVWqJvMUdBKj8wP3fKx9XT0t0zyPiw+RUjxlTKPL4g216nvreFfJUc9k1x3H1b9xgqZFzd2n2j2gUaclVL/cuLdWCt3L/XIEKK1UqAdCrrFAd5ED9tXGO/MuShtNwAK9snd4DCkNKfxoEkQcxOfaq1RMUii0ovT76M82sL7SpmKVqoQivF2my2EePOWHPW25Nj8STRC+dhe3mmQya0tC3GTJJfmx77t/64RNS/s1rb+HzlrLvRUbsSKrrSdQQ+VqA==;390i00UtgW+LGpHEAhrBjw=="
 ---
 

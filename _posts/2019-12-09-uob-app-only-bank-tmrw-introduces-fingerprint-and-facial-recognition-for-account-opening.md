@@ -350,19 +350,6 @@ related:
       - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
         width: 1200
         height: 675
-  - title: "Customs and Border Protection reverses course on mandatory facial recognition program"
-    excerpt: "U.S. Customs and Border Protection announced Thursday it no longer plans to move forward with a facial recognition program that would conduct a mandatory scan of all U.S. citizens arriving or departing the country at airports and ports of entry, reversing course on a Trump administration plan. Customs currently permits U.S. citizens to ..."
-    publishedDateTime: 2019-12-06T14:37:38Z
-    sourceUrl: https://www.msn.com/en-us/lifestyle/lifestyle-buzz/customs-and-border-protection-reverses-course-on-mandatory-facial-recognition-program/vi-BBXQTRU
-    type: article
-    provider:
-      name: ABC on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.AC0020A3C0E901261884017F2DEBF17C
-        width: 700
-        height: 393
   - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
     excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
     publishedDateTime: 2019-12-16T14:46:00Z

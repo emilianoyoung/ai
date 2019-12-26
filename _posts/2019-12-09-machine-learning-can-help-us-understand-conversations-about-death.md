@@ -93,6 +93,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
+  - title: "Bots fired: examining social bot evidence in online mass shooting conversations"
+    excerpt: "Through the application of deeper natural language processing techniques, a deliberate content analysis methodology could seek to determine the extent to which specific social bots amplify a particular narrative. Further, the introduction of community detection analysis could identify the existence of particular bots aligning with verifiable ..."
+    publishedDateTime: 2019-12-10T14:20:00Z
+    sourceUrl: https://www.nature.com/articles/s41599-019-0359-x
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 20
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
+        width: 685
+        height: 362
 
 secured: "DoNmGdzSEai6BpI2Jgo85BezWtL9rP1gDvz1GRZGHBQ4r3+GEW/J83w5CFe0YoOI0kwknRK+DwcTqGbp0t+Tv5ExvuV+iiXqX27ie1Vsu2YxzyupWHcVZeK3u9U9H4wxHWvQVV+UBUrcARgrSorV1+FBK3izrlTN+qPrz93pwGaQAqmMiecu1qyPy3o+tHh1V/LFkSnsaB3deCmycItBFBp/MffENMhpPOYXGLp+pgw+Jo37i2lcGBLF4CmJbAKyNJTeWYGRdF7r5p+o47YkCQ==;aN6Y6MPcNKfmlQ9CA0Xz4w=="
 ---

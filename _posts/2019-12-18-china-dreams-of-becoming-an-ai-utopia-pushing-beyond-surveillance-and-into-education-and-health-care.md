@@ -172,21 +172,6 @@ related:
       - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
         width: 700
         height: 466
-  - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
-    excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
-    publishedDateTime: 2019-12-12T10:00:00Z
-    sourceUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html
-    ampUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
-        width: 700
-        height: 350
   - title: "NHS is leading the way in AI adoption"
     excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
     publishedDateTime: 2019-12-17T12:30:00Z
@@ -232,19 +217,6 @@ related:
       - url: https://www.bing.com/th?id=ON.99BAF6171FC373CB30872B6449038250
         width: 700
         height: 466
-  - title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
-    excerpt: "Yokogawa's AI empowers customers with an advanced understanding of your current situation, allow them to correctly predict future event, and adapt accordingly."
-    publishedDateTime: 2019-12-06T16:56:00Z
-    sourceUrl: https://www.industryweek.com/sponsored/decoding-artificial-intelligence-brain-myth-and-legend
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.DAA430C41C8C41E2F84CF870232DFB4B
-        width: 700
-        height: 516
   - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
     excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
     publishedDateTime: 2019-12-18T00:05:00Z
@@ -329,19 +301,6 @@ related:
       - url: https://media.graytvinc.com/images/ftgu+12-19-191.jpg
         width: 840
         height: 473
-  - title: "Artificial Intelligence in Education Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
-    publishedDateTime: 2019-12-09T02:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Google brings ‘Interpreter Mode’ language translation to the Assistant on smartphones"
     excerpt: "This is just a more elegant and enhanced presentation of Google’s underlying machine translation capabilities. ‘Help me speak [language].’ In order to invoke Interpreter Mode, users say something along the lines of “Hey Google, help me translate [foreign language].” It will then enable real-time translation. Google also says the ..."
     publishedDateTime: 2019-12-12T17:20:00Z

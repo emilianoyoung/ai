@@ -1,26 +1,30 @@
 ---
 category: news
 title: "iBio Announces Collaboration with EdgePoint AI for Next Gen Quality in Biologics Manufacturing"
-excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- iBio, Inc. (NYSE AMERICAN:IBIO) today announced that it has entered into a collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc. (OTCQB:MATN), to deploy EdgePoint’s proprietary artificial intelligence ... cell and gene therapy, small molecule manufacturing, bulk drug substance ..."
-publishedDateTime: 2019-12-23T14:27:00Z
-sourceUrl: https://apnews.com/Globe Newswire/8202d23a810bbfe5fcdf59d3811252c3
+excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- iBio, Inc. IBIO, -8.89% today announced that it has entered into a collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc. (otcqb:MATN), to deploy EdgePoint's proprietary artificial intelligence (\"AI ... cell and gene therapy, small molecule manufacturing, bulk drug ..."
+publishedDateTime: 2019-12-23T12:30:00Z
+sourceUrl: https://www.marketwatch.com/press-release/ibio-announces-collaboration-with-edgepoint-ai-for-next-gen-quality-in-biologics-manufacturing-2019-12-23
 type: article
-quality: 27
-heat: -1
-published: false
+quality: 57
+heat: 67
+published: true
 
 provider:
-  name: Associated Press News
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://apnews.com/images/PaidContent3.png
-    width: 700
-    height: 450
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "iBio Announces Collaboration with EdgePoint AI for Next Gen Quality in Biologics Manufacturing"
 
 related:
@@ -38,6 +42,6 @@ related:
         width: 1200
         height: 630
 
-secured: "8F/i+1R4h2++QKEEeTMfauQnkgSD0tLAsw5QusnUskAAWecliUcjFTh+47xQuxhzLlMQJIOxQM9SkN1oQGwt0dr20GWyiFCBs+r2BzPV7cp59TuBPxOVpW5q0Ayw0D68Rl3rDx+9DsRrz0uRQg60ViwtIuprATqLZ4AadG8MGv+nxmTKgQhXcTmyswRo9EbK81Y6SpLDTra/0PUnOb7sycFjXqxmfdsMEqRdfB92TG9kFpf5XqFwcnywyu7CVYPXd5wc0Y3eyHTzb7qTNv8X/w==;hMubfa6PEUw5YXkZN7/uew=="
+secured: "MYV1Wal7OTVqy4CK5LQHmLpZpD7dkwNs3IuWR7HT5dFBEpgXs/ANFWsdTLH+SI5d/U5Aq+Blf0u2Up68UPOnc2yS1UGhR/MCvtRuVhesxti3dsKPYbWx3ZWo3josbB2KmuNvel8KEkIFrs7hwyxyAUj6BbbKMYW0iAgyYtDx9FN6CazO0+QvR91Cq28qxdCwXRXp17rR2MtLUbgD2MyO0t4tgavju9miH7yU2BYWt1l9SopwT7f0HU0hTYi9LAl75mD3dmWLsTmtyelaUA8Fhw==;6T82xf76fbLRGT9u54fnzA=="
 ---
 

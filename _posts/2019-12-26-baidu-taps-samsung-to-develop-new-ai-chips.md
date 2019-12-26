@@ -7,8 +7,8 @@ sourceUrl: https://www.fool.com/investing/2019/12/26/baidu-taps-samsung-to-devel
 ampUrl: https://www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.14FC265759AB6A450544484402A5194F

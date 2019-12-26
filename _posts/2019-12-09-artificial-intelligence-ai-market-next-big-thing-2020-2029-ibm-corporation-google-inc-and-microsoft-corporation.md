@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T08:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-next-big-thing-2020-2029-ibm-corporation-google-inc-and-microsoft-corporation-2019-12-09
 type: article
 quality: 62
-heat: 72
+heat: 62
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 1200
     height: 630
     title: "Artificial intelligence (AI) Market Next Big Thing (2020-2029) | IBM Corporation, Google Inc. and Microsoft Corporation"
-
-related:
-  - title: "Artificial Intelligence Market : Investigation and Growth Forecasted until the End of 2025"
-    excerpt: "Artificial Intelligence Market Segmentation: By Industrial Vertical *Media & advertising *BFSI *IT & telecom *Retail *Healthcare *Automotive & transportation *Others By Technology *Machine learning *Natural language processing *Image processing *Speech recognition"
-    publishedDateTime: 2019-12-12T05:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-investigation-and-growth-forecasted-until-the-end-of-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "/j6cKdcdA59SwaNxdZwJDmk9i8gSXZQpQ5vL1kHs2hIF+adEDXLP6sxD2lhHip3Va2CWRG3bg3Jdu5H0cN5Z+I8iN4o3b+c5fk/3oq2T53PodoVTV5GeDmrw/gMe1kSty9aZNCzr358R8JHqNZpzQnuASdUnjALBXkBDxJg7QlFBLA/AQy7BqNipXUlhXNRGNeCduJrm6Sv344zGH0sD115nY32a46hAoeXW6DJDY+84gYGKU3Imp665mzEHb477cEEwkgP/9P3//bsvURt03Q==;VLjdvk6ipmPiZuc9t3a3/A=="
 ---
