@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/current-health-raises-11-5-million-to
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/current-health-raises-11-5-million-to-predict-diseases-with-ai-and-remote-monitoring/amp/
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Current Health raises $11.5 million for AI-powered remote health monitoring"
 
 related:
-  - title: "Bamboo Learning Raises $1.4 Million to Build Voice-Powered Content for Alexa"
-    excerpt: "The company has not disclosed the amount raised in that pre-seed round. Other fundraises this year for companies that bring voice recognition technology to education include Amira Learning’s $5 million Series A round and Google’s investment in GradeSlam. Get our email newsletterSign me up Keep up to date with our email newsletterSign me up ..."
-    publishedDateTime: 2019-12-05T23:40:00Z
-    sourceUrl: https://www.edsurge.com/news/2019-12-05-bamboo-learning-raises-1-4-million-to-build-voice-powered-content-for-alexa
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 36
-    images:
-      - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
-        width: 480
-        height: 480
   - title: "In 5 years, 30 percent of the healthcare workforce will be digital — Is your health system ready?"
     excerpt: "Sean Lane, CEO of Olive, discussed how health systems are deploying artificial intelligence to improve operational efficiency and free employees to interact more meaningfully with patients. Why should health systems focus on adopting an A.I. workforce? The healthcare sector is the top employer in the United States, with 16 million employees."
     publishedDateTime: 2019-12-11T21:37:00Z

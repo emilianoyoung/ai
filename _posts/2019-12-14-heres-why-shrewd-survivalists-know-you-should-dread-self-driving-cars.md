@@ -105,21 +105,6 @@ related:
       - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
         width: 600
         height: 315
-  - title: "Waymo launches an iOS app for its self-driving taxi service"
-    excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
-    publishedDateTime: 2019-12-05T23:30:00Z
-    sourceUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service
-    ampUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    cdnAmpUrl: https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.507F778D2E8A5AE1B9BFF3D7E6191E48
-        width: 700
-        height: 466
   - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
     excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
     publishedDateTime: 2019-12-13T22:32:00Z

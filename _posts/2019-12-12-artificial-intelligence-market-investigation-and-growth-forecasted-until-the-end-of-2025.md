@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning Market Report 2019 By Key Players | Microsoft Corporation, Sap Se, Sas Institute Inc., Amazon Web Services, Inc., Bigml, Inc."
-    excerpt: "Dec 05, 2019 (Reporthive Research via COMTEX) -- Chicago, United States, -- The global Machine Learning Market is extensively studied in the report with the intention of helping players to take crucial bottom-line decisions and create strategic action plans. Analysts authoring the report have provided comprehensive and reliable research studies ..."
-    publishedDateTime: 2019-12-05T23:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-report-2019-by-key-players-microsoft-corporation-sap-se-sas-institute-inc-amazon-web-services-inc-bigml-inc-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "EMKONQ3m1ZWe4QWwrqx5ilctiYYtgFbfwqLdODZsbOVcTMm/2HEbzZYgaehyXyVOLzl9MVk5LpF8Ar0W6G8su0gvwNxPnwXlbcNRLtX2MqMNvVLTZyeWAf9880dfDYSX7IIpZZx3y60qT2lhqYxcHD155Rwm8G67lIcFpf6KDdwTrsHziDMHblQaAGvPN2UkXoSUfxpMW5FeRRSzMkUmU7VO1ub/POjDp+zKtD36gWXKSdiDgAuErsQwrDHv+5BC5JzPCtonvxiQRpHVGcG9Hg==;XW7WwZOMRlAxDLoVW+slrQ=="
 ---

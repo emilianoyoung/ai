@@ -116,21 +116,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
         width: 600
         height: 315
-  - title: "Waymo launches an iOS app for its self-driving taxi service"
-    excerpt: "Waymo has been operating a taxi service using its self-driving vehicles in Arizona for the past year, and now it is launching a ride-hailing app in Apple’s App Store, suggesting it hopes to expand and reach more customers. Waymo’s app first launched in the Google Play Store last spring, likely because the company is owned by Alphabet."
-    publishedDateTime: 2019-12-05T23:30:00Z
-    sourceUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service
-    ampUrl: https://www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    cdnAmpUrl: https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/cars/news/google/150340-waymo-launches-an-ios-app-for-its-self-driving-taxi-service.amphtml
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.507F778D2E8A5AE1B9BFF3D7E6191E48
-        width: 700
-        height: 466
   - title: "Ex-Apple engineers cook up cheaper, more powerful tech for self-driving cars, and Volkswagen is interested"
     excerpt: "The start-up has improved the capability of its technology. Porsche has invested an unspecified amount of money in Aeva. A Silicon Valley start-up called Aeva is inching closer to its goal of making self-driving technology more affordable. The start-up has a smaller and more capable version of its hardware, which collects and processes real ..."
     publishedDateTime: 2019-12-11T14:07:00Z

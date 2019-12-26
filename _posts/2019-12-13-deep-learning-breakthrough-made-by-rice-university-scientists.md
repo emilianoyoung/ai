@@ -123,19 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
         width: 700
         height: 525
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
-    publishedDateTime: 2019-12-06T00:00:00Z
-    sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
-        width: 800
-        height: 500
 
 secured: "E5CZU7acVkPQ5iIfTJye2yBqbLfusOIPBdGgc6eVeTSFYIrZ9rMC+YCtCEoCkeih5wkNRJObVFkuLtkRSzpHanQ5bzgMbHxT9AlKN4BJRssx6styESVwohTbi3tBeIxax5WpcZcGEMgOdQAN/3IzG7EZjedOh3ngrKuP8F0tNDhTJiviWmCollegyjdBPSJquVtun6YwqeTZEiM9okamGhxsU7mp9Pd5x2tcHTxuKAFZ/mVjd3eLnmJOKukiQYkfPLfLPl+B1huq45NFHbr3xA==;wZ/xXV3y/r+oAC2hUNXsVQ=="
 ---

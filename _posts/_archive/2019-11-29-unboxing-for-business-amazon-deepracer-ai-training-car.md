@@ -52,7 +52,33 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
+  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
+    publishedDateTime: 2019-12-03T20:32:00Z
+    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+        width: 648
+        height: 420
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
 
-secured: "RhleYomasnWVeBVhQjj/m7TAnEK/yd0o+K1Hboo4PwUINNhQv+st9jrfRePpRqvMv7/F2wULu61qDy80djbX96AO/Pnqz6PuX7L4sux39YTetp6r+RmG4PqKGOVg6Yy7/TeT5Xj7nZjUTtRbPKV60T35N3X7oYLtZYwDEZF2pMM/3q1+W1kECieQC2KYQr2UbpUZkBDGCAKxI4ykIhHBgIsrE1Xmt7GUMYAjx1kGkRCwf4wkKB71txbmRiIjnKDIQS/SMMAtPvcgYwT3NTq/MA==;tp6DUpPI16CBRYXXhkunLw=="
+secured: "tejwuF1h1koWH9FBNJlmMWHDMT5widHkGgJDE+z8un7hmeCLollTpemoI0RocdwhMmOOUVs0xzPhCOy5OBEjvX6zmTenRkw16yjniOr0Xnvi338JvlWxmNcBatmb8OuG5y05v71FhA4y9SW107UOQigY25LS1kq6QP8uU3vr4AehtvAlwfPbagRFRkt91qBnDzafCC5HNiNcLlE8+BItu6CVHeWs3EsRyDfmNWKjQHVkD/tJT7w4VIaoPaT57BLxLK/o6GoQL1lrlvzuEOlPsg==;peOj+Ai0wOzBH2DkwmDYsg=="
 ---
 

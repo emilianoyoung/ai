@@ -68,6 +68,19 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Pondering the Ethics of Artificial Intelligence in Health Care"
+    excerpt: "Artificial Intelligence (AI) — the ability of machines to make decisions that normally require human expertise — already is changing our world in countless ways, from self-driving cars to facial-recognition technology. But the best — and maybe the worst — is yet to come. AI is being used increasingly in health care, including the ..."
+    publishedDateTime: 2019-12-04T16:07:00Z
+    sourceUrl: https://www.flatlandkc.org/news-issues/pondering-the-ethics-of-artificial-intelligence-in-health-care/
+    type: article
+    provider:
+      name: Flatland Kansas City
+      domain: flatlandkc.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C48CB7446A559FAAEF6BD3E9A39A9F0E
+        width: 700
+        height: 393
 
 secured: "QS7u86XAlIZqLqe7rsL/XatZwfuJCrxK19nj7l5bxpl7gET+CIWd65E3TI8MPzE52gIpMvzRg1BD1o2Oks4pO79vytjMM+BWPF5s5mpc97WBi0gOtg5tKqHkmlennv7EQHwVe4zAqxYhKsxeVNyqgltJzPpCh78ZaGzbfy63Eg9YsSuS6J0gckn4tSLG1wmpSUMrM6eFVHGgWu8ev7RxCNmEK8aQfksqQxG/dkSudegvTNXgwJP2KWXpLhTf4Q6lmStBKKDzD3HrTP3zSkUe0Q==;dmWb5QzS6EeRduqSnP7Qxw=="
 ---

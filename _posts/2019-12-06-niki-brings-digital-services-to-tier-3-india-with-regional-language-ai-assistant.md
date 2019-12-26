@@ -41,15 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
         width: 490
         height: 360
-  - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
-    excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
-    publishedDateTime: 2019-12-05T23:58:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/google-wants-voice-assistants-more-231539010.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "Qv4pq2sW/bmf2q1urKvTvmpiLXy3WgazTP8KJiJ6enEg1HzjlDy/CNNiHGVp1QVtYv29taIsAmM58i6OSr3+nWEusoUmmQFK9d9ezdaxgJsBQWjxr9lMhr+ZNjPDtrmgwzMiagOEdh44QC06wyJgmuqwDcabytaE5WlwepK5CVP0yz/ZqH7WDSUK3EwMOoSI+ZWO6t9O8XG1E3M2FurSCl4RDmE898Ku9Pxt0cgLwtg4jeSXDLiMjrR6ml0l6RM/gqugdL+Q3g6+/cHclixvrw==;hPsuDR39K4nx/hJDG0XTaQ=="
 ---

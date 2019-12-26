@@ -35,19 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
         width: 400
         height: 209
-  - title: "Telecom Innovation | Microsoft Industry"
-    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
-    publishedDateTime: 2019-12-05T23:43:00Z
-    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
-        width: 770
-        height: 484
   - title: "Using AI to improve your customer experience"
     excerpt: "Now we’re in a similar place, at the advent of artificial intelligence (AI), a powerful resource that has gone largely untapped. In a recent survey of local business leaders conducted by Brunner and the Atlanta Business Chronicle, nearly 75% said they believe AI enhances the customer experience. And yet 41% said they weren’t using any kind ..."
     publishedDateTime: 2019-12-09T21:23:00Z
@@ -75,6 +62,6 @@ related:
         width: 700
         height: 345
 
-secured: "Ayi2Gr3qMx++M1j6u1e82nTrNu6M50oT4y8Enphp6QaoGJDNVZoPeBG6rM1BYaE3lhO+emoFp9/TaBsuGKOz83QCeB1/bQWFq1lvT9Wr9Z1VPwgpJb3CZpaZsD7ft+Du8zqUVRbXxgISjTNLEj9fInXzc5tBU8wFB2p5RPQVJ67MISp9xIjU7VsxlOtRnKRh3CwaC2l9kuIkxMEr6rvQVm74mCpnl0FW1hp3Z/v6WFM4pH3dZk8N+YC2g/k7JOzq2UHilHgv4vxlR4ZTCpcR/g==;0lJIYERnL5Gal9RCKxIYAw=="
+secured: "/Yk3B6IeBMRSaLfSSPhx4HxFBk5yCWBL3UNAgChNwRTbYVB/SuSvH1shCtILFXOzxfWoWYur/swW5Q2ipfCj8P7Zq4cFwPXyIqj0S0ymHRIbR+kngPAmon/CYyCi9L5AQ8/yr+EEmScI8y0O4eAFOIv2Eeuye6gMUg1BzLR25hbr0aSKdm5c3fwqY560QMYYczl+RxI1hVY2QiA6gsUmLLpP3jgXV0bEhBoHSFMd2ZEXpxTnpb42oqLYSmTNUyGNwlR7Bp/+jGPSvEZqL3N4NQ==;7gQ778IbOLLgZ7/KNB4hjA=="
 ---
 

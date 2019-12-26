@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 228
+heat: 218
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Federal Bill Would Constrain Some Police Use of Facial-Recognition Tools"
 
 related:
-  - title: "Proposal to require facial recognition for US citizens at airports dropped"
-    excerpt: "US Customs and Border Protection said Thursday it will drop its plans to require that US citizens go through a biometric face scan when entering or exiting the country. Currently, citizens have the right to opt out of the scans, but a proposed rule indicated the agency was planning to make the program mandatory for all travelers. The proposed ..."
-    publishedDateTime: 2019-12-05T23:42:00Z
-    sourceUrl: https://www.cnet.com/news/proposal-to-require-facial-recognition-for-us-citizens-at-airports-dropped/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
-        width: 700
-        height: 525
   - title: "SHC orders face recognition facility installed at police record office"
     excerpt: "KARACHI: The Sindh High Court on Thursday expressed concerns over lack of face recognition system at the criminal record office (CRO) of police and directed the home secretary, the provincial police officer and the director general of the National Database and Registration Authority to ensure that such facility must be exclusively available at ..."
     publishedDateTime: 2019-12-06T02:28:00Z

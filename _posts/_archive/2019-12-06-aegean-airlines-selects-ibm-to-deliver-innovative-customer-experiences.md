@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliv
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/aegean-airlines-selects-ibm-deliver-140000979.html
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
 
 related:
-  - title: "Telecom Innovation | Microsoft Industry"
-    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
-    publishedDateTime: 2019-12-05T23:43:00Z
-    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
-        width: 770
-        height: 484
   - title: "Using AI to improve your customer experience"
     excerpt: "Now we’re in a similar place, at the advent of artificial intelligence (AI), a powerful resource that has gone largely untapped. In a recent survey of local business leaders conducted by Brunner and the Atlanta Business Chronicle, nearly 75% said they believe AI enhances the customer experience. And yet 41% said they weren’t using any kind ..."
     publishedDateTime: 2019-12-09T21:23:00Z

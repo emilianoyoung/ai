@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.57CCFB2926FEC8A1C0E2448926ADE0A8
         width: 648
         height: 391
-  - title: "DeepMind co-founder transitions to Google's applied AI team"
-    excerpt: "Mustafa Suleyman, co-founder of DeepMind, the health-focused artificial intelligence firm initially acquired by Google in 2014, is leaving his post to join Google's AI team, BBC News reports. At Google, Mr. Suleyman will work alongside Kent Walker, Google's senior vice president for global affairs and chief legal officer, and Jeff Dean ..."
-    publishedDateTime: 2019-12-05T21:03:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/deepmind-co-founder-transitions-to-google-s-applied-ai-team.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
-        width: 400
-        height: 300
   - title: "DeepMind founder leaves to take up separate AI role with Google"
     excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
     publishedDateTime: 2019-12-09T11:05:00Z
@@ -155,6 +142,6 @@ related:
         width: 632
         height: 422
 
-secured: "xHZgWfACYbzpLV4phj6C2Xyu6JNsRkE74+C1j3vFJkCHYh1fspgtitkM9VMVZbMg+rdDkpzsSguu2G59uSQSYTOCWmuCK8hx7E0ybo/tM5nBBb2O5G45nPT/2oOTowQpQdjwPg16c6+Ws+XXVuvR5ZqpcQPPQ2kqDDIA9ZezJEL2aUmFjKP7rBrxH8SIW6laCqtxLsKfExcpd7IACKcys704R2Qw2rTR83aEHC0ZYQf4U1ApPYZaQVSI5KthiQvfv4EtkRpuXQlzDFL5sARN8Q==;LxCAoCVspOInpqBSWggiIw=="
+secured: "P8p3IUYy0c8dlh+Ooy4DecyR7T/h/m6U9EK2r08MavighggY5hydAmxR+YDbrFQXLbE1CGWviPMKZzm+ZVBSEvAKMiuD0wgDxyQqR1UAc5gY9bdtGaiit5tlGWoPVeJXkDxmPCUkJwwQTuhiBPSkqoG5oP2JeqoubIDjC8bFQnkwltCJ6ZA2g1worA6+3PCcm9WgEekTW+QgwKVoI41/bORxFdGh5CnRctIeyFouymU4r3iaoYKwZR5YpUDJlKARJuslwvTqJcQQUzR6FxoY6A==;CrflescBW2UoKutylbDQeQ=="
 ---
 

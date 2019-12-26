@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.81C68FE83F2CF81A50BFA71FD6C90506
         width: 400
         height: 400
-  - title: "Proposal to require facial recognition for US citizens at airports dropped"
-    excerpt: "US Customs and Border Protection said Thursday it will drop its plans to require that US citizens go through a biometric face scan when entering or exiting the country. Currently, citizens have the right to opt out of the scans, but a proposed rule indicated the agency was planning to make the program mandatory for all travelers. The proposed ..."
-    publishedDateTime: 2019-12-05T23:42:00Z
-    sourceUrl: https://www.cnet.com/news/proposal-to-require-facial-recognition-for-us-citizens-at-airports-dropped/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.0A6634875FD62AED46D0D847756FA243
-        width: 700
-        height: 525
   - title: "SHC orders face recognition facility installed at police record office"
     excerpt: "KARACHI: The Sindh High Court on Thursday expressed concerns over lack of face recognition system at the criminal record office (CRO) of police and directed the home secretary, the provincial police officer and the director general of the National Database and Registration Authority to ensure that such facility must be exclusively available at ..."
     publishedDateTime: 2019-12-06T02:28:00Z
@@ -148,6 +135,6 @@ related:
         width: 700
         height: 350
 
-secured: "kOrSV3cSoLOAd3Wb3ajiuWaRayAPQr3HfCBZWQ9qUGwczjRIDdphxZfN3IZnYmaYrLLaVDcDKP/mwiBL3Sj/83x13FxHrYTr6L8uzaefca+cCWSljchaOoLZBE/6ULOjfBiAm25IDPUGeFe5QT5NmUCafcSqNPnHV804qWTW6mgdsWxC5aSk3xDj9HNJGjbZnxkTBVIV4tV3kt2pxYI7hKCbxh9asm9fePsJQdcDNUmA5HfV5iMYUmEmLec77G0MHorI7PPd/Pk1vksB/Omfqw==;ohS8KePk3qhrSBlsY3gkZw=="
+secured: "VpKu+HJBM/0Jrw1nH0ni4v+WP9Aj/1/9DuakKfzTJQRzobMFvDZ49FOM8Rrnhe7mXXtFnAjhZ8MYSyhCJJS3oOOrThdTK7ycsOya2D6+bbNe9xy/8187mWfSLeB9s00lG8pwTNxI9XBLsJBECsVRX+Z7hDUlWik0B+TXBGL1zujsJ1/PAUeheWcWFUUtb7SPLwmscGqM9mFquCMAik3sVMHveFLtf0Lh6eOv3aCoAyPUexSgQE9+bDbmLSrD4U84EC25Paj3QgwJNEtHIXaO4Q==;yGmrEKw7PrQ3tHwQXsmNPg=="
 ---
 

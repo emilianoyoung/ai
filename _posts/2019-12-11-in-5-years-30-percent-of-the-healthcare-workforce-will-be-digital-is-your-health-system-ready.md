@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2B2D4D0BECF3B99986D81F5BF349E49E
         width: 700
         height: 350
-  - title: "Bamboo Learning Raises $1.4 Million to Build Voice-Powered Content for Alexa"
-    excerpt: "The company has not disclosed the amount raised in that pre-seed round. Other fundraises this year for companies that bring voice recognition technology to education include Amira Learning’s $5 million Series A round and Google’s investment in GradeSlam. Get our email newsletterSign me up Keep up to date with our email newsletterSign me up ..."
-    publishedDateTime: 2019-12-05T23:40:00Z
-    sourceUrl: https://www.edsurge.com/news/2019-12-05-bamboo-learning-raises-1-4-million-to-build-voice-powered-content-for-alexa
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 36
-    images:
-      - url: https://edsurge.imgix.net/static_assets/meta/EdSurge_Bolt_Green.png?auto=compress%2Cformat&w=480&h=480&fit=crop
-        width: 480
-        height: 480
 
 secured: "ikSSyXzczUv+guemOHQBlztMnU2N+ayIsbe3D0qw+tagsj6DwHNjgCnTdSlbwtA+MypGH53RGUiO+AhrFscZrRED+VP87jhmdIoAxCmU45XYtz26ABrr7qh2fLl+fRvKDcee9HQ5s3M/H8GjKdHk/ve1dS8I8AeziMPtFaUU/mW8qSYPCanstYScfkE5VYn1frJkPFBb8CPhX41tkUh1yTwAi6ffTzJ78sLhX4nNftfkJTSFsC/LwMxA+NPSOWp9l04NgzY7VnVh7f65x95N3w==;BGS566RNLprJlfOy1jCx/w=="
 ---

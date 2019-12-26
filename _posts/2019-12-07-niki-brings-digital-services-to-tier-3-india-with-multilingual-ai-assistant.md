@@ -8,7 +8,7 @@ ampUrl: https://inc42.com/startups/niki-brings-digital-services-to-tier-3-india-
 cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/startups/niki-brings-digital-services-to-tier-3-india-with-regional-language-ai-assistant/amp/
 type: article
 quality: 57
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.160A346CBEB455D86503ECAA2B81C13D
         width: 490
         height: 360
-  - title: "Google Wants to Make Voice Assistants More Accessible for People With Down Syndrome"
-    excerpt: "The fix is to teach automatic speech recognition (ASR) through voice samples from many people with Down syndrome. For many people with disabilities, voice assistant technology is more than a ubiquitous convenience — it can be a key tool for living independently. Voice assistant technology makes it easier to set up schedules and reminders ..."
-    publishedDateTime: 2019-12-05T23:58:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/google-wants-voice-assistants-more-231539010.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "EmHgZzfgBjMMOOsAloT1bD7pD2xwy0e9kIGKipT5+yCWQRJanPrpF9kXh3h1auq0PHv+wl4+xJXl9HA0+Dh8rYzBoWbY0UPifyPq4quYmb05VxTckdzACfb+g769L9YKFLzXEGrBX6VLqjfrmx/5HXy/SkODe3Ba1HxyGBsWeGKud2Rg32krTAV2TcyvGOxH2EkBGlio6KuiffEy+vUfi+KSRb6Egyo0BDrkiogDfOADSdGF9edq76lohsE0KknzJq47sT9yFzfzRtOYA8OLUw==;X9le9OTNTT1eNe+qkVFTJw=="
 ---

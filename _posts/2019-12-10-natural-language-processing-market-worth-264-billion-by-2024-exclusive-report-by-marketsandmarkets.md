@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\", published by ..."
-publishedDateTime: 2019-12-10T19:45:00Z
-sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
+publishedDateTime: 2019-12-10T13:35:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-tm--847717966.html
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.6146898A824C2726DBFED35A5B80F7A4
-    width: 400
-    height: 137
+  - url: https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook
+    width: 666
+    height: 350
     title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
@@ -220,6 +220,6 @@ related:
       domain: cso.com.au
     quality: 0
 
-secured: "g0oGFCGklttSAdTKJ9aCneKQR8FucqClAVio/FNvkbs4JEpXSDy33lFD6J/497tFqiuiMmoWavHMUfJqy3umivZ6BG42ZAIYtFomCJRDCKvEhjHZmm25GzsLrEspNxMwAO1j6xGMoCbLiXxEOHIVHITmPurZ55XzEjo1C16qFMjT5TiVyegzpfXH3wf2flwYl3Q9BrOvJbCMdaMrdQs0teB7xDdYa+8HpWrehB7fHK4d7HinXUIm42b83yXXnqPL9uxxNpxgyWLPrni/bG2KXw==;LwaiQGtYgqtp8ZteXG9WmA=="
+secured: "lN1+INSwNlfKggqXaJNy/0KWE2fuH8B+JAKgHmFbizsciTaYxL0EnTNlr6xZ/fxHX/pA5VpVmOn3hmny7jK52B7hbWezTbCXUh3qF5UNELLC0cv2X3zA2CssVBXJ3c5vOlWmlzxl9VH1cKfL4CUX8v68JvW69CJgvSrfMEujUxS513LcwtE4Tk4eFmz8s4K55CCjCnpuIh69INy2GEv+rKiHqtjV+YtlRZs9AMbKL7DFzwhR3D9ESGKex1fKG0ekSelIk9BexNrkUXa+y8QU2A==;ZAetftP7Ysl9FJMjWAJK4w=="
 ---
 
