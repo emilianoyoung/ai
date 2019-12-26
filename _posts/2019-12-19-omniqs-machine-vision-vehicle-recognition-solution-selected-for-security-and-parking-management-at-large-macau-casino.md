@@ -2,20 +2,16 @@
 category: news
 title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
 excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-publishedDateTime: 2019-12-19T12:30:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/omniq-s-machine-vision-vehicle-recognition-solution-selected-for-security-and-parking-management-at-large-macau-casino-1028775687
+publishedDateTime: 2019-12-19T13:30:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962806/0/en/OMNIQ-s-Machine-Vision-Vehicle-Recognition-Solution-Selected-for-Security-and-Parking-Management-at-Large-Macau-Casino.html
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -50,6 +46,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "MIXZwYnFv8n2CZ7S10WpJwhLs4EofPGb3DH8CU6gDNY4TUps9sIjEMg3kDQOB5tJ3Cc8LEZqW+BaU7R4qJ317we+zm1Nyx8OBJDnCxV6HfCLBUzzyE8ljv6IDtRsLHZXJ0nohO8lRfXXaVfAV34CxzAPJeMeCTgzPCBQwuEVOWJsia82VNy4Z5J+OrKuN1//MuYcWYw7Ba7sVhBU5YgxN65o9kAT4larSGWpY6rvZRyLAID0+PZu3953leL2HoyTudMLflNapYQjWh4VXBtyFQ==;JfLzQxbDOGi8q0C3FMhATQ=="
+secured: "GGzox0CgAdXsUTZL+b6MCrLoyYlTOnLxfZL2KlJabqIlUXH058HjXemdJfUCuppTQ/SEHHuM1J0ncr4MSKVj0RvtK+2hHngf7KaSAvqJ7YiotddCJOy3PgxxJdGJofIjHzXHBEqMqNx9qwT20yj8cY3MdEprEL+XnBQI0wJGZ49hh9gah3MM9Ph4OdM1gaHtN75QZg970MHxhl+4xhVLdz9S424xlU5kV7DLt52UaYoRJ3HYLLhTWDgOmRINUUn2POw4t1xy6njCw+iyfh1L1w==;h8mma1a13mPA4zzjwOBcmA=="
 ---
 

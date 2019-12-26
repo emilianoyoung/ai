@@ -22,20 +22,20 @@ topics:
 related:
   - title: "AWS extends Alexa voice controls to low-powered devices"
     excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
-    publishedDateTime: 2019-12-02T08:27:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+    publishedDateTime: 2019-12-02T08:40:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
     type: article
     provider:
-      name: telecom.economictimes.indiatimes.com
+      name: ETCIO.com
       domain: indiatimes.com
     quality: 59
     images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
+      - url: https://etimg.etb2bimg.com/thumb/msid-72325093,imgsize-562483,width-800,height-434,overlay-etcio/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
         width: 800
         height: 434
 
-secured: "fhljU7pjqo+eLm2IlRYJKWWWPbEC4oXivRi1UUbrjdAy92a2/jh7GDEakQhP3sSqDaXxvwIbZ0G6+FqKJr0hyo1Qn0SDuIgyGOaJtbWOfej4W3WeBrcTL8lBm6xvxpb2Xhi0TIlXcb6ji18R7EHZ83Tfn8NQLJikQG+XQtqYLHFqPT6XxQ2KpsHxnDUzZx0rTFr/kk3jyqujbUnQT38yTVCzYSOb4rI2RMTFhiIVyohGFGyONdZd7HN+H3KkfhR5kXmfWYvk+gUrodgvpIfE9w==;rQmq6XWodXhYcXEWgl+AiQ=="
+secured: "qxmUvCPcFt9PulAXvrWI9av9ujRH8wqg2L34OdPQbTIxl1e7oAwzlHawotacdS38jMNg7vBz3gXJdnjjRbdeZ82DUR+AqYmVFl5j6rUQMtSVUI6mF3VzRg/bg+bzyvY7mxz9V5pl+nvH+NYnoWtkOs1ajMsE5u9nBdPfWvElgXTd7Git6vKgFK1Zv48yJPj1IvMZI7o+x1KpttAp7vaIbAmztziW5lp1Gn1HqfCZxA5FlICFmlF4Pcbh1PA7RNhe2UqQWZb9C9QYDtN7YCNtNg==;hn1lXAF2FU4NXeFwU4L+4g=="
 ---
 

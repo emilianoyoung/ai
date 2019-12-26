@@ -104,21 +104,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
         width: 600
         height: 315
-  - title: "The NFL And Amazon Want To Transform Player Health Through Machine Learning"
-    excerpt: "Injury prevention in sports is one of the most important issues facing a number of leagues. This is particularly true in the NFL, due to the brutal nature of that punishing sport, which leaves many players sidelined at some point during the season. A number of startups are utilizing technology to address football injury issues, specifically ..."
-    publishedDateTime: 2019-12-06T15:40:00Z
-    sourceUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/
-    ampUrl: https://www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonogus/2019/12/06/the-nfl-and-amazon-want-to-transform-player-health-through-machine-learning/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.F31F367EAA39078CD85AC1EAF8DA2227
-        width: 600
-        height: 315
   - title: "The World Is On The Cusp Of Revolutionizing Many Sectors Through AI and Data Analytics: Yogesh Mudras"
     excerpt: "Mudras hail artificial intelligence as not a futuristic vision but as a need of the hour. “AI is being integrated and deployed in various sectors. This includes finance, national security, health care, criminal justice, transportation, and smart cities, points out Mudras. He further adds, “AI is a major driver to provide security ..."
     publishedDateTime: 2019-12-18T13:26:00Z

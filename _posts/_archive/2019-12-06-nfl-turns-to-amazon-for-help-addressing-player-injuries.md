@@ -39,20 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
         width: 700
         height: 350
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-    publishedDateTime: 2019-12-06T15:34:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
 
-secured: "4a8mvyjByO9q4xcOKV6HzPJvfEwZL2ivAJf0+oY7vPO7DsPk4AwOA1iDVG5evF2apQokd9FfRYmHDN+l9Fsb8bwDDGC7dR7pqxSWHTegj9X46iYuVaqMn8dtAFI2aG9BBwOWuwo3u4KD7snqjDCCb/9/Xd/KAiqhAeg1hiFnkfaSz5DvCs44LE7/tws2Vl1lfxfWzbu4CGyIW3irgdSSML2cYJHOlkGy2XLpxUVo2ec2ZxYNA+NJdTprYY58J/ylaYyZ3qVF5bi9ExIqyEGQ+w==;pMjQbGQO4Irg20IZnjJI0w=="
+secured: "cqPAb18pitDX52uyIjugVkcpFjvzURolcUQ74D4lRspsgYAe9KhuxfJweQChEa+AhFjhCQHq6xvvB5jKgGvJgEwsgBHPXSX9z1fb65e8yyOciYd8npGqdNMXHsziL6LuUMhzcB5MpkCsPTVLtTOXFpea/jE7Jb2oViGwpFhy1sUELtR9SwaA1Tnw4urCNmbIdcYA/3BfTKd2ERhxXuDPMklBfA/IwBWJRFPRnl3Tb/+AwlDDQFr8GzElOcQfXXRRFPW8PasFBJPuPAmJU3EdPQ==;HjkxRrvE3LZecFgTLTRnog=="
 ---
 

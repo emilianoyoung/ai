@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
 type: article
 quality: 87
-heat: 417
+heat: 427
 published: true
 
 provider:
@@ -174,6 +174,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
+    excerpt: "Sure, why not. Here’s the question to ponder: Does Stonehenge offer insights that can be used to further advance the advent of true self-driving cars? Yes, those ringing rocks have something to say. Let’s unpack the matter. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that ..."
+    publishedDateTime: 2019-12-26T15:59:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
+        width: 600
+        height: 315
   - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
     excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
     publishedDateTime: 2019-12-22T16:21:00Z

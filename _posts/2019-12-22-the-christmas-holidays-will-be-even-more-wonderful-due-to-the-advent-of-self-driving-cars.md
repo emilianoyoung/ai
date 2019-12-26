@@ -189,6 +189,21 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 69
+  - title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
+    excerpt: "Sure, why not. Here’s the question to ponder: Does Stonehenge offer insights that can be used to further advance the advent of true self-driving cars? Yes, those ringing rocks have something to say. Let’s unpack the matter. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that ..."
+    publishedDateTime: 2019-12-26T15:59:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
+        width: 600
+        height: 315
   - title: "Self-driving delivery vehicles plus self-flying drones? Now there’s an Amazon patent for that"
     excerpt: "A diagram accompanying Amazon’s patent application shows how a self-driving ground vehicle and a self-flying drone would work together to make a package delivery. (Amazon Illustration via USPTO) For a long time, Amazon has been looking into applications for self-driving vehicles — and testing fleets of self-flying drones for making package ..."
     publishedDateTime: 2019-12-24T20:12:00Z

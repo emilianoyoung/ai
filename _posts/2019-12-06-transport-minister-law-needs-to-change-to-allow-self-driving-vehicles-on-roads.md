@@ -35,21 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.157C0FBA2F8B89E3F227A843297FAE82
         width: 450
         height: 300
-  - title: "Using artificial intelligence to grow audience engagement during breaking news"
-    excerpt: "Recent reports have shown that just 40 per cent of news organisations are using artificial intelligence in their editorial strategies - and failure to adapt to this change could result in news organisations becoming obsolete. It can be hard to know where to start because AI is made out to be something advanced and futuristic. However ..."
-    publishedDateTime: 2019-12-06T15:53:00Z
-    sourceUrl: https://www.journalism.co.uk/news/using-ai-to-grow-audience-engagement-during-breaking-news/s2/a748377/
-    ampUrl: https://www.journalism.co.uk/ampnews/using-ai-to-grow-audience-engagement-during-breaking-news/s435/a748377/
-    cdnAmpUrl: https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/using-ai-to-grow-audience-engagement-during-breaking-news/s435/a748377/
-    type: article
-    provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.9A7AEC101F83C31541E3983A866CF6EB
-        width: 620
-        height: 413
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
     excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
     publishedDateTime: 2019-12-06T18:05:00Z

@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Nvidia Touts Chip Deals With China's Alibaba, Baidu and Didi"
-excerpt: "(Reuters) - Nvidia Corp on Wednesday said it has won a series of deals in which some of China's biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles. Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started using its ..."
-publishedDateTime: 2019-12-18T04:09:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/12/17/business/17reuters-nvidia-china.html
+title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
+excerpt: "Nvidia Corp on Wednesday said it has won a series of deals in which some of China’s biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles. Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started using its chips to ..."
+publishedDateTime: 2019-12-18T04:06:00Z
+sourceUrl: https://lfpress.com/pmn/business-pmn/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/wcm/fbd94e33-18ca-4a6e-9f36-7baa787223b5
+ampUrl: https://lfpress.com/pmn/business-pmn/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/wcm/fbd94e33-18ca-4a6e-9f36-7baa787223b5/amp
+cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/wcm/fbd94e33-18ca-4a6e-9f36-7baa787223b5/amp
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: London Free Press
+  domain: lfpress.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "Nvidia Touts Chip Deals With China's Alibaba, Baidu and Didi"
 
 related:
   - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
@@ -39,6 +31,19 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 46
+  - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
+    excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
+    publishedDateTime: 2019-12-18T20:48:00Z
+    sourceUrl: https://www.fudzilla.com/news/automotive/49995-nvidia-announces-new-orin-soc-with-arm-hercules-cpu-cores-and-next-gen-gpu
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
+        width: 620
+        height: 465
   - title: "Nvidia secures chip deal with Didi Chuxing"
     excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
     publishedDateTime: 2019-12-18T16:58:00Z
@@ -53,6 +58,6 @@ related:
         width: 800
         height: 600
 
-secured: "zlP8eUz1xG/NA3gvvIn6EAvCuP2KWWha12dOuhPF/GxQfKrgJj+ahZSnJMB4EsoXJCyyLHFyrNeVatRd7Vzi+cS5V0VH1lvp+/oTTsBoNE44q+aDfbmkn4FtUNau1H5429sLX7JmiBP0DxUA/CMcChVVFEY8iYWxTNfwN4IoJRfe0A40gA2+nGgbhIpa2UYcuaW7CbE1zUrHbyd0vCTQFjWHYft52aMVxfrLeiTG+8d/V0O2lx9EU7SNO763YGtAYu8MB6Nb9+kZiwFGu5EdqA==;z3L5eVO3aSn6v6JdAcJItQ=="
+secured: "LK7bWhB9unzSHsDVwC01sDlmAlj1L8M8lQSnT/3jd04Fb7a9WLUeS50nV29JW0uDsFEu6lAVE0AlgPX/jcKwoIKrGZGQGFkA/a0Lv6uKZPnWZeOS6UH55/wDsCaBGQKvqvLIxxne4Gfycmk90UqWGQg3SPaXGD77yU+dl5liSV0LPmxmjc91QDS19kJxmYki98SCosD+gzGbIDjcd07SR4m4MD87DziQ1Xz3e9S4YuTVRqmZ8QDlhSx53qExOT0UcD9pGNa8MmIj9e3mWGhp7w==;yk6Z6BDuDc4YP0ox9YQ3qA=="
 ---
 

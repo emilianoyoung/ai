@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.157C0FBA2F8B89E3F227A843297FAE82
         width: 450
         height: 300
-  - title: "Using artificial intelligence to grow audience engagement during breaking news"
-    excerpt: "Recent reports have shown that just 40 per cent of news organisations are using artificial intelligence in their editorial strategies - and failure to adapt to this change could result in news organisations becoming obsolete. It can be hard to know where to start because AI is made out to be something advanced and futuristic. However ..."
-    publishedDateTime: 2019-12-06T15:53:00Z
-    sourceUrl: https://www.journalism.co.uk/news/using-ai-to-grow-audience-engagement-during-breaking-news/s2/a748377/
-    ampUrl: https://www.journalism.co.uk/ampnews/using-ai-to-grow-audience-engagement-during-breaking-news/s435/a748377/
-    cdnAmpUrl: https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/using-ai-to-grow-audience-engagement-during-breaking-news/s435/a748377/
-    type: article
-    provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.9A7AEC101F83C31541E3983A866CF6EB
-        width: 620
-        height: 413
   - title: "Transport Minister: 'Law needs to change to allow self-driving vehicles on roads'"
     excerpt: "Self-driving vehicles and remote work were for some of the proposals discussed by Cabinet for a future job strategy. Transport Minister Shane Ross said the law needed to be changed in order to allow the trial of self-driving driven cars on Irish roads."
     publishedDateTime: 2019-12-06T19:32:00Z

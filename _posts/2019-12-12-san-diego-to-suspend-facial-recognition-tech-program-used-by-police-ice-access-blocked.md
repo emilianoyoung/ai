@@ -226,19 +226,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "CBP Pulls Support for Broader Facial Recognition Use"
-    excerpt: "The Department of Homeland Security’s (DHS) Customs and Border Protection (CBP) operation has pulled its support for a mandatory biometric entry-exit system that would require facial recognition scans for all travelers – including U.S. citizens – entering or departing the United States, according to a Dec. 5 press release from Sen."
-    publishedDateTime: 2019-12-06T15:54:00Z
-    sourceUrl: https://www.meritalk.com/articles/cbp-pulls-support-for-broader-facial-recognition-use/
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5E81CE8C61632E16A73562F560B63E56
-        width: 700
-        height: 393
   - title: "Facial recognition is everywhere in China. People are worried about it"
     excerpt: "In China, surveillance cameras equipped with facial recognition technology are often hailed as important tools for improving security while offering convenience. But as these devices become more pervasive, some Chinese people are questioning whether facial recognition comes with its own set of safety and privacy concerns."
     publishedDateTime: 2019-12-06T17:12:47Z

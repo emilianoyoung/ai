@@ -5,7 +5,7 @@ excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, 
 publishedDateTime: 2019-12-04T00:20:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
@@ -34,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 101
+    quality: 69
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T00:00:00Z
@@ -45,6 +46,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "2PnKMDSyuUjTN552kIT4i21mfu4QiLH0IyszZ/08RhrA/QOCJ+77QJUP8T5/vfdpFYbxNG2+2pHV9VlYDpTZeJIdVObK2Klwnlllnj5p9hSYdyl7FGGtPHGDzRY1x1mTFxOiQqJzPxupJrInZcqWhLk9a8s2nln6CqtRYsUYX7K+u5J5tS7jwSmCcaKkyQ65W5qyuCN3AY+NBva8/nxMbLY8y4Y7r0c+xlmpn/Vd1p5gtIdTwfF/urKjd2v1j6IuU0pO2gfC2YyRBl2o/DoFDA==;swkxO0m9O09/reYPsdKfEQ=="
+secured: "grJ0PotVAiCZFUcmBOyoPNgg8O1jTz0AWvT1va5qorlxek6UhINWEbEKVN+JpXEE1y7mFBaHAKTTvkmKZMuweXPhtckuXH7xgwHKT9yV2zwI8xuPYi69L6IU0AyRT/T0+30R+9ZdDU87W/J7GeBVot/6+mPm/gujzQD8YxzWQf4PyU9Yri10E64sIQEIweG9/hpU78IzTs1doF/sfdkdvv9k+LzSSW95hyICqVitSbzc4nYh3dSBgjdbJvjmtfXrCDRpos030lRAspnPN7UfTA==;yLnHy4S/ReQWaSwTpoOCvw=="
 ---
 

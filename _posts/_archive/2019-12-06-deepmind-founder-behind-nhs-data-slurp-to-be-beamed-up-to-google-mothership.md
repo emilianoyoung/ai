@@ -48,19 +48,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -112,6 +99,6 @@ related:
         width: 632
         height: 422
 
-secured: "fRl+1usymB7qrZ5Jx3OaUf6ObnDOCxFDMs9t+QHsdEjX80cHh8hOJ1/+aBy7opDvWgLUbG3AQO8yPRt1rW5BrCB2qe1cKZvcrRD23L5JCgh23XIQGLJq4rVFIDdswUd9RrIk+XvPaCTq4n0zU6A8dpqOo4hsK24noz0Xnw+m9cZff03Upn6B6xsiurk8C4B2QTXumrVZICNP7EtmJ9qsf6TI90kSOt2zPpv+k0Apx6MMq+V8aWLqVWgs6dHvNhekCM6NykEyoVMGq7y0Wopl0A==;ayiAjbYA3avivrOZ4SYRYA=="
+secured: "gdRKIXA1Ymnw+Mi/BJTUOSQAwqbftEj0G6gSMf3RRMxCfrnvO+PlKrgtPAheHThvmSl4krc7/YfJwycBT6ktC2ACsLyiUc9/L0T135T3aK5elUdoZD9suuLvzw7gmDSc5oYBSxe9YBpunbBSuBHert4HjjFgEBO7GeHko2w3mIOIz8q2pbPzFm2mnHCB1sagllHSKefpmkbKIxmmsNNG34hq/josv4wYmmpYpl7mJ9yFeZ/BiN6FvYADj7j88Hgat6e3L3KvUmeIfHebnLs9yQ==;x76/c8NU4aZ2dDCKD6uv4w=="
 ---
 

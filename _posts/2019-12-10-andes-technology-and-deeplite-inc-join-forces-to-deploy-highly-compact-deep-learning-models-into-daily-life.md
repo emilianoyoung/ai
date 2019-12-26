@@ -23,17 +23,6 @@ images:
     height: 315
     title: "Andes Technology and Deeplite, Inc. Join Forces to Deploy Highly Compact Deep Learning Models Into Daily Life"
 
-related:
-  - title: "Reducing risk in AI and machine learning-based medical technology"
-    excerpt: "Artificial intelligence and machine learning (AI/ML) are increasingly transforming the healthcare sector. From spotting malignant tumours to reading CT scans and mammograms, AI/ML-based technology is faster and more accurate than traditional devices - or even the best doctors. But along with the benefits come new risks and regulatory challenges."
-    publishedDateTime: 2019-12-06T15:54:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/i-rri120619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-
 secured: "p2f/koEJ/NTUcM8k54Ur0L3DhQWrxC6ldqllaOxly6PdYr9HPuX5HOGF3rQr7NPXP1Y1UBQ7XJMpyUYlE+YuEjCfhoLFGIhxVfJZR/Reti+f18FJcDrBUml0LMRcx9RNI1Uov+N0vPT/NshC/3ykBTIEq4L5mOALb7HIjI9XJmQcu859tAd80y7n9gupJAP4YSEZL7nTh/NBnit76pqyMuTBRkbhKiy/goh7tacmv0H/SyMNvv0W7Y8PqoBa+HxRVcqMkfWD48sY71+MzqZDLQ==;9fJ+lqHM1954MKiv0Jev2A=="
 ---
 

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Amazon Partners National Football League For Player Health, Safety"
-excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-publishedDateTime: 2019-12-06T15:34:00Z
+excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
+publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Nasdaq
@@ -24,33 +24,42 @@ images:
     title: "Amazon Partners National Football League For Player Health, Safety"
 
 related:
-  - title: "AI Weekly: Amazon plays the long game in health care AI"
-    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
-    publishedDateTime: 2019-12-06T19:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
-    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+  - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
+    excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
+    publishedDateTime: 2019-12-09T16:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
-        width: 700
-        height: 350
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+      - url: https://www.bing.com/th?id=ON.D3D2D7435233F112E8C48183EFD83C3B
+        width: 635
+        height: 400
+  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
+    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
+    publishedDateTime: 2019-12-07T02:20:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
+        width: 700
+        height: 466
+  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
+    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
+    publishedDateTime: 2019-12-07T00:09:00Z
+    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
 
-secured: "2cTkjW3++TeB9rBu0FdbsB5DtLcbKA56RFBxyKnDDppIG4xW1rm62iRMZpSKvn9Blkt7OAXIuKDz068X+OJ2iWc2I2IBEVcMVXLBbbKgFwMcEsSNVLbzLPd/YE1fNc7SdQUR89InmIfFwiLORKtG6yzGJaqGSd8A8ie2hPGnlNcMfAiBqTDLxdjIkwUy7G0GcaXjhmyJFSU7DCYE5yu8fAxMpoM33kcSw1ILu/S6UrWaYY8Kl2s8IgjnaNzwKN7ypadqg+YNwkW410RbZ0kppw==;tgBXB4jo45VJTsY7V3KOhw=="
+secured: "U3ABOrZu59P/aSxhOCNbsLcDPMyKZLMpKbEzVYobeG4/8nDkPAeIkyefb9R3Mejx6hLEcYn3Kt+y/kAoVY3bFWN4Yvgj/51hkRXrUHXOWeCdlV5Y0nehvkZbGUolxtyDka4rFGH6cOMfUzp5TQ1BdJu2Wd7ae5P+bAYeBZAhAtfMFBvJoEToTB3cafOqCuImOklPuLQ06Bg+CqjvHPjite69m7R4Woshkv7l/3g2K1nSMLQ1wtohSAdlCjDtF9aCA6z+W7vSgBv13CUkhDuEaw==;MVZrY+iUvQcdafoLHS5YKg=="
 ---
 
