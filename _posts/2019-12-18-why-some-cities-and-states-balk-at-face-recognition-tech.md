@@ -237,19 +237,6 @@ related:
       name: Democrat and Chronicle
       domain: democratandchronicle.com
     quality: 54
-  - title: "CaixaBank debuts facial recognition system for payments at Nestle Market"
-    excerpt: "CaixaBank, based in Spain, announced the launch of a payments system trial at a Nestle Market, marking the first time that a grocery or retail store uses facial recognition technology in that country, according to a company release. The payments system, developed with backers of the Payment Innovation Hub, which includes Visa, Samsung ..."
-    publishedDateTime: 2019-12-06T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/caixabank-debuts-facial-recognition-system-for-payments-at-nestle-market/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.F2C2B074ED47818D6E2FE830FACBE09D
-        width: 300
-        height: 170
   - title: "Voice Recognition Market : Key Facts and Forecast Predictions Presented Until 2025"
     excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. The major factors driving the growth are rising need for Voice Recognition worldwide, aim to enhance security in ..."
     publishedDateTime: 2019-12-10T12:16:00Z

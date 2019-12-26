@@ -8,7 +8,7 @@ ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises
 cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.587A16044C5443E9C1AE34EB80C780F2
         width: 700
         height: 467
+  - title: "Observe.AI Raises $26 Million to Digitally Transform the $300 Billion Voice Customer Service Market with Artificial Intelligence"
+    excerpt: "With this relationship, Microsoft customers can leverage Observe.AI's platform through its Azure marketplace. \"At Microsoft, we're thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI continues to define how AI can transform the customer experience, impacting ..."
+    publishedDateTime: 2019-12-10T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/observeai-raises-26-million-to-digitally-transform-the-300-billion-voice-customer-service-market-with-artificial-intelligence-300971971.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
 secured: "QvVi/V8ljvVwv9KwZaQRsTsp+83B4MpVJYpczD3WIMBsyxzKW/3RtFUvg0MmOtQaPUDOQq6AIw9+Vogct4Hl8b/l85iLyb3nF/sRmfcUNcg5u7peW4nYoVpm5Gh0WbCwmpnkLSfiNyX6oNKCB10Z8KMQ+o9kgO7TueUg6Unn6vmUh65qhXKua+gBtoBCPFY+6Yzn+2Up3d4TE/YlzALc6SLorgf3pkY8/wOVNWmQZiTvP8R8pO+uNYQZYwRkH0YvGXIvecgp23UDCzSyT4yXKg==;IGfXcCQieF4tgJ0eA6LYVQ=="
 ---

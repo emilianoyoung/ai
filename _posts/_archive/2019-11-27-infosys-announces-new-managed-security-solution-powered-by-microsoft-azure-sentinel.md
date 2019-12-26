@@ -26,20 +26,16 @@ images:
     title: "Infosys announces new managed security solution powered by Microsoft Azure Sentinel"
 
 related:
-  - title: "Nuventive Improvement Platform™ Powered by Microsoft Azure AI to be Showcased at SACSCOC's Annual Meeting"
+  - title: "Nuventive Improvement Platform(TM) Powered by Microsoft Azure AI to be Showcased at SACSCOC's Annual Meeting"
     excerpt: "Dr. Raney adds, \"Advanced analytics and AI will be essential to the future of every college and university. And yet for many, it is hard to know where to start. Nuventive is collaborating with Microsoft Consulting Services to bring advanced analytics ..."
-    publishedDateTime: 2019-11-26T13:04:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/nuventive-improvement-platform-powered-by-microsoft-azure-ai-to-be-showcased-at-sacscocs-annual-meeting-300964834.html
+    publishedDateTime: 2019-11-26T13:25:00Z
+    sourceUrl: https://www.indianagazette.com/news/state/nuventive-improvement-platform-tm-powered-by-microsoft-azure-ai-to/article_db4536d5-153c-54f0-a975-ddd19d72dce4.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: https://mma.prnewswire.com/media/945904/Nuventive_Logo.jpg?p=facebook
-        width: 1136
-        height: 597
+      name: Indiana Gazette
+      domain: indianagazette.com
+    quality: 30
 
-secured: "HmvWFWkNarkJMIvA+GUdBvAhWwMAHXH34fUUEKGEVB/hQ2qPvnnui6WRTy21AwU3K1rmVfLV9YQ5ioaWFgcUoiiKxgS+pXqFSpa0bylGLgvRGUKzfyXrhAC7nxE3ILSW5jKtgLZPdcXlOwzupZJNz+/P0A0lVQT7aNONywYqYrsdXhgUpLQsHfvRAnbO99oa6EFh2G++TJvMhljGMaC3qugBAwL0up53TK2ed+Zhn9WfOqAXimQh0jZFA8yrKan/W54LG97sSSGOBq9R82c2GQ==;WMSDp1BtpNNx7yBFzs72lQ=="
+secured: "4xLEe7fGl3w0mRmH+sEjnlD90Sx+wlUbplf7TkkU5/GMaM2H23s6HuHlG47I0mORUfmxPZF9EW+CdKTDg/L9xfiUqJ97O5ovNLznAgOrstGLqLa2EXl/EDtifY/0dKOHneFrQomDYDL0tn3HBMRGlEm0Dx6zGJZCkCIt5B679QeOACpBEJObgZ1F/SRk+vLrsvcaTcLKFTobaAkrBr5YK1uUn8m5In2ZnU9V/lF9wI8uUzbX/756oQY+gUrYO/B4JzEbL/U7zSn7lH169wdx/A==;nVc57Y+7uaP2cwHhRTeAYg=="
 ---
 

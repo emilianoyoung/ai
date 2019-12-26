@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T18:15:00Z
 sourceUrl: https://www.brookings.edu/project/artificial-intelligence-and-emerging-technology-initiative/
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -18,22 +18,20 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Intellegens and Optibrium announce success in the Open Source Malaria global initiative"
-    excerpt: "Intellegens, an artificial intelligence (AI ... Together, the companies developed one of the top models, deploying a cutting-edge deep neural network algorithm, Alchemite™, to accurately predict active compounds with novel mechanisms of actions that ..."
-    publishedDateTime: 2019-12-06T07:58:00Z
-    sourceUrl: https://www.news-medical.net/news/20191206/Intellegens-and-Optibrium-announce-success-in-the-Open-Source-Malaria-global-initiative.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191206/Intellegens-and-Optibrium-announce-success-in-the-Open-Source-Malaria-global-initiative.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191206/Intellegens-and-Optibrium-announce-success-in-the-Open-Source-Malaria-global-initiative.aspx
+  - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
+    excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
+    publishedDateTime: 2019-12-09T15:06:00Z
+    sourceUrl: https://apnews.com/Business Wire/105e3daa67ea48ed8f824ed1b5bf4fcd
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 36
+      name: Associated Press News
+      domain: apnews.com
+    quality: 5
     images:
-      - url: https://www.bing.com/th?id=ON.1EC95CE4EDDF6797098C42161A7011BB
-        width: 171
-        height: 200
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
-secured: "3tu+6LRgHG6Ex6qO6pl3dNXLgYkWsK+W6/jzE30/qF5BFMtNEKWcZmRBC6+s0lRvcPxFrCwNYmVN3IONgw/cujnTDoWtR4tjw5WaFYhzlBM8o6rhjzVNn1oWH3awG89O1ZgIqiyUJXYtXck+4Q0b6UwY1hA1QfP1bBTTBVxFO8UK0cKt5SkFd9utzQnX44o07d/If1wadCJnUZBtZo2X1+MF7vJts6vvxmMx1SKnserpzTRDXUGsZ+DM0JfrTEImh1Cp7FesJF/BaES2lJHFiw==;V3nCFfyCdHBFD/QCUZZRwA=="
+secured: "/EoUlynljsHL+lVX7anveWNuDNvwgh1SIWkZb/Uf1xUYCilBxuuZxyt1YK5QX4zIK+V3kY4i+91o6YBB6MKDgP2+YIjne4uVNwi5KPMRte5OJ65qO+974bhmlwL8TbrTSk/uCJLb8OLveM4t336poM7MVu8Ae30uI147REwcwvzQAm9n2Gl1lKJWzFQc6QPHYESTW0fqkOBT8zVQLXWtjOKihKHX9m42dBn8O4zAiDSgeAe/ampbhbjMe6erCXVPC0afFpnXBlgH6Xaz6TpX2A==;KLfb7w32TMGxBxntYAjskg=="
 ---
 

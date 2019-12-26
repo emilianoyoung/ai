@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Amazon targets devs and scientists with new machine learning IDE"
-excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
 publishedDateTime: 2019-12-04T14:52:00Z
 sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
 ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -47,7 +47,7 @@ related:
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:04:00Z
+    publishedDateTime: 2019-12-05T11:03:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -97,20 +97,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
-  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
-    publishedDateTime: 2019-12-03T18:09:00Z
-    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to organize notebooks, data sets, code and models, for example. It essentially wants to be a one ..."
+    publishedDateTime: 2019-12-03T18:23:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
     type: article
     provider:
-      name: Yahoo News
+      name: YAHOO!
       domain: yahoo.com
     quality: 54
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
-        width: 1280
-        height: 960
+      - url: https://www.bing.com/th?id=ON.92455183038D0C72A1FF27CCB3A7C09C
+        width: 700
+        height: 525
 
-secured: "3fmqtlsYB1iUtzkZdCfM/NYM1Xqjj7O1HzN9HTfSrBeAGjlwNm4MvkXkPVyjArJQKZnROnTQ6i8h8PnkjNlI4Jsh+envPdSiAXwNc33O6rDXE+pTqQ5W7UgjXEcJZ0Oq2CpjS9hx7oE9bixI2YA3L3iXmmgY8tQgiOLbPjFWlAys0fP6yI3/vvMV4V/7BRrBXflx4B97O8p98NhsaFjwIHuK5uS2sosGo/ETw4sqYuAtb5xs2tJOCN6ccrA5fHnaZdcEn1x682WKKsIUOQNXug==;LpnTJX3rfrGKFfsxepH/iA=="
+secured: "stnFng9DLxcq9m3NxBKofsECrlDVthGUk6dQT18zHUOX5qIhlv5mIcf1BEr4x8ilOsVjLUaxvwjuMOPUN7OVP8Eep4wbiOwR9CkTmEMMDVZ+ofCjN3soxBobA3o15/FFthYj4fKv3BiH54kfRf10U2TNDmL11ZuwHr0CK3aDjmRWotDcEoKDXWwdlZJst/aozcY2t2RqmGBu2CisVFfpmHJgkLyMV4o93AM+ogmUNgc3aG+CiIYMW8mN5YqRPJgaCJOhj/bTyaX2HA+i3cP1Ew==;iq+BgswD9IoYMJWrGqESMw=="
 ---
 

@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
         width: 300
         height: 200
+  - title: "Confirmit announces AI-driven digital experience solutions"
+    excerpt: "The major developments include: new partnerships with Brandwatch and Tealium, a new Digital Feedback module for easily configuring web and app intercepts, and enhanced, AI-driven text analytics. This combination enables businesses to intelligently analyze and act on digital feedback across key digital channels of social, app and online."
+    publishedDateTime: 2019-12-10T19:43:00Z
+    sourceUrl: https://finance.yahoo.com/news/confirmit-announces-ai-driven-digital-140300579.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.3867A8EC503ED0076A82B409019EA7A0
+        width: 400
+        height: 198
 
 secured: "cXuXWxFyOkFUNaZ08CcUNpnuLUAbJT9ZiJtGuWUFwK5DHAwP3lxlPXiBdiuphfWZamvFoIDFfBc+/N8m0XWg+h9YUjshE2trjSGy4z5K4zi0GCR9uX9fGTSGyidZ7wRW3xL4CbcL3DkFYtvya1/wI3k0tKBcMGjecfXLIQcWgro/crqvEcwx8aWlXpeov1RDim7iuH5UCVAc0Q1KffvZP3htNB0PHYlQYtbpa9f6KmsfvpDvWq+gVpwwsb23bqwr7dsCwFnR5m6bs6Q1G9cxUg==;uoWXXSftTKLI8Rwchyr4OQ=="
 ---

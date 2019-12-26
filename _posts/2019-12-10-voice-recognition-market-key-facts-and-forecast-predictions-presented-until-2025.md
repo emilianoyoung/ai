@@ -254,19 +254,6 @@ related:
       name: Democrat and Chronicle
       domain: democratandchronicle.com
     quality: 54
-  - title: "CaixaBank debuts facial recognition system for payments at Nestle Market"
-    excerpt: "CaixaBank, based in Spain, announced the launch of a payments system trial at a Nestle Market, marking the first time that a grocery or retail store uses facial recognition technology in that country, according to a company release. The payments system, developed with backers of the Payment Innovation Hub, which includes Visa, Samsung ..."
-    publishedDateTime: 2019-12-06T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/caixabank-debuts-facial-recognition-system-for-payments-at-nestle-market/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.F2C2B074ED47818D6E2FE830FACBE09D
-        width: 300
-        height: 170
   - title: "CBP Pulls Support for Broader Facial Recognition Use"
     excerpt: "The Department of Homeland Security’s (DHS) Customs and Border Protection (CBP) operation has pulled its support for a mandatory biometric entry-exit system that would require facial recognition scans for all travelers – including U.S. citizens – entering or departing the United States, according to a Dec. 5 press release from Sen."
     publishedDateTime: 2019-12-06T15:54:00Z
