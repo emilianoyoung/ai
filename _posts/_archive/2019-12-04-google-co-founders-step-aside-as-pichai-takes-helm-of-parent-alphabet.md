@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -41,7 +41,20 @@ related:
       - url: https://www.bing.com/th?id=ON.9D98D2504C97BC77A36E1D48543B5C97
         width: 700
         height: 350
+  - title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
+    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
+    publishedDateTime: 2019-12-04T11:28:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/041219/chennai-man-sundar-pichai-appointed-ceo-to-alphabet-inc.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
+    images:
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
+        width: 800
+        height: 448
 
-secured: "lO/OI/bwsR+Kc6cvZCZI2GPMnuISyQBMNdnod/8bHsJxrrheiuS2qi7YQwvVIVovAkCV+KVDcgKk2rGLC9lb7l8ZrSpVtC2sUr3ToaJnktfvDuhdRql9N6PgmjVisXvgSFqrn/BoAKAQPfJ8kwdnn5inMrHIx0yWdEVt12q3DgiRbchV8+XHgqWf5IKvgAY9g05u3OKPR+I1ydNopCEO7IWCYwQB1typDnpfb9+ojeeiInxDVG82unp15OEV8+53CnkhE0voC5CG7ylqQnqGTg==;VLCiC8UHuVWTmMzum4p92w=="
+secured: "CGd37qivaLRttJOHp1/yllx/w9Vs4Q/G+cY8GEA+h4iSNJcrvaBJmuk7Nu6fHcnlkAtkD9DPGYEbQbBIRDzygV0UDwIbXh4upyaL1ywx+v9ZHP/rcFuH0+XeU5VF1Rrcon/pjHfaYEBwzEXkLiDoLMf9UMN1IAiE9mmG5uTR/4V3yJm12tkEXO7SHXlpU7gbi27WAIcYsVU20hqhWIusQlO1imr/UPcK1NTgGOObM26R20pXvDpZBMCrf6s6C/EW1u1PE78ZjHUfObUFcQ8UEA==;WeRMHCNZg+fstYcUA7EbjA=="
 ---
 

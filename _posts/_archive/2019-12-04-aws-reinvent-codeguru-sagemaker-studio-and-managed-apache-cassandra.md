@@ -44,7 +44,7 @@ related:
         width: 700
         height: 418
   - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows ..."
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
     publishedDateTime: 2019-12-04T17:39:00Z
     sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
     type: article
@@ -66,7 +66,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 86
+    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -137,6 +137,6 @@ related:
         width: 800
         height: 500
 
-secured: "DnosMS6E11cN3BrItk/RFflbeVfywq3iPSyhnnoG77LjnnBCkfo3tJAFIz8RzgCXwOXVAEDGt15yKpR68Bvi7RdmZhGa480QlDErGFPfhaLWNCEnWcHOYxz5HZ/6/stKl/QWBySylBtJBCvqjpO2Zp9OBjNcVaAQtBAPf8HNArBDGyvzu6osvDCl/c2f935qKqCPCaVMrQhMcRN+8DMZqUbuCOqxeRMBoqx7fIVCGVvGtjIEhrDUV4RQ1ReIMd4PNQBOEW/mcURdOEqvtfP7Tw==;+nLqWe++UgoZJTWUzMuK3Q=="
+secured: "pAaTbspnlN4S86xB4KNmIsfwZJR8ym4FA8mcj60G7/nciOilgAsNdn3YiDgabOTAUoJvSVwsnrmfvdljnFSmlBRVKNMB/uxiYJYXNIEzraD6lZCiUTk2Qn0Oblf66sw+TsFypiUDgvVrHYaoLZBWIKOjkz/9mBuFpDmaCjvwPmdwD7BkoGBW4ttYFXxAhT8yrf0vWwKVFe3M+eGn3zpoGibXEl7y2fnB4rZHdlG0i/c6lSXGZD43c/wH1gInJC0Z53THKsEZOyQajcSaym5LDw==;x3sm3TC+xPoUFxJBKOdRiA=="
 ---
 

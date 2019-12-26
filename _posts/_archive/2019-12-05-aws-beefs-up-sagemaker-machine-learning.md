@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -41,7 +40,7 @@ related:
         width: 700
         height: 418
   - title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows ..."
+    excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
     publishedDateTime: 2019-12-04T17:39:00Z
     sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
     type: article
@@ -136,6 +135,6 @@ related:
         width: 800
         height: 500
 
-secured: "9Yt4jW1fP0IKcPTTR6ZbrcoyNpQ+7Du4nLxNxGnaXExTeYbzl93GB1pBCNxCECNw9VSgu13qjTIskOJpPzJw5F9n3n9cCdHdqS7bN6y1t870pJ5g6eEp/esN+StvGnn7Rcs4Z1p1gik7q8ahjfFNBUG4hRsJ8Xg/w5vblxIw83DjsIs/DhQtXGfs1LvmiWJPf8GO9y1ov9uue43uR0k44ohsWn1KPs9Y1/ijpvQrsypLrX4DrA6aHzM41gYaAzRiD099GuMsiYyk7W1iLmmENQ==;Kv/1CW//2lhMyjtC/5iY7w=="
+secured: "m4AoT4xWPVz3Mzi5HWC+bb0GfdmGfACX9j0SKC1wBpaeOjp9e/m0QHP279vctLUkSuBRTgxldO+1zhfyky8hEQrkSNdE+KVRpVw9ypgLOkE51b+Db/KOqQ7tq4sZB3Jdxsn8aoFwPKesZkRZfnQkK4v+LFK9NDQ5TuACadkGg7g3ioALGnJKJlGWV7LAMVHvzDnGHyzpVoy6bkMnwcBZd3TJt+7Zv8Rcc/TCpIoAGhiqrR9WCR65bvXW8D6KfsjHlbuIgANtqf/DyKCk6cyZaQ==;QJ0fo2yan0z5hXq7M0AW/Q=="
 ---
 

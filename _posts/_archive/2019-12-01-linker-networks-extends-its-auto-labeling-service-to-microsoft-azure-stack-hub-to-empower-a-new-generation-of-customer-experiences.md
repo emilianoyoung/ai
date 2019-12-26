@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
-excerpt: "\"We at Linker see Auto-labeling dataset processing plays an essential part of AI machine learning development. Our goal is to provide end-to-end AI solution for various businesses in different industries. We are excited to have the privilege to work with Microsoft and to realize our service on Azure and Azure Stack,\" - Paul Shieh, Founder and ..."
-publishedDateTime: 2019-12-01T13:00:00Z
+excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running ..."
+publishedDateTime: 2019-12-01T14:13:00Z
 sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
 ampUrl: https://amp.benzinga.com/amp/content/14908555
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14908555
@@ -12,7 +12,7 @@ heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
+  name: benzinga.com
   domain: benzinga.com
 
 topics:
@@ -20,19 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
-    excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
-    publishedDateTime: 2019-12-05T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/aegean-airlines-selects-ibm-to-deliver-innovative-customer-experiences-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AEGEAN Airlines selects IBM to Deliver Innovative Customer Experiences"
     excerpt: "With IBM public cloud, AEGEAN is able to infuse AI into its decisions support systems and use IBM Watson Studio and IBM Watson Machine Learning solutions to gain better business insights, identifying operational efficiencies and supporting their network and pricing strategy. By taking advantage of IBM's services capabilities, advanced analytics ..."
     publishedDateTime: 2019-12-06T00:07:00Z
@@ -48,6 +35,32 @@ related:
       - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
         width: 400
         height: 209
+  - title: "Telecom Innovation | Microsoft Industry"
+    excerpt: "Jio and Microsoft aim to enhance the adoption of leading technologies like data analytics, AI, cognitive services, blockchain, Internet of Things, and edge computing among small and medium enterprises to make them ready to compete and grow, while helping accelerate technology-led GDP growth in India and driving adoption of next-gen technology ..."
+    publishedDateTime: 2019-12-05T23:43:00Z
+    sourceUrl: https://www.microsoft.com/en-us/industry/telecommunications
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
+        width: 770
+        height: 484
+  - title: "Using AI to improve your customer experience"
+    excerpt: "Now we’re in a similar place, at the advent of artificial intelligence (AI), a powerful resource that has gone largely untapped. In a recent survey of local business leaders conducted by Brunner and the Atlanta Business Chronicle, nearly 75% said they believe AI enhances the customer experience. And yet 41% said they weren’t using any kind ..."
+    publishedDateTime: 2019-12-09T21:23:00Z
+    sourceUrl: https://www.bizjournals.com/atlanta/news/2019/12/09/using-ai-to-improve-your-customer-experience.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7B0635D24A1F288AACB7E7598A776B36
+        width: 700
+        height: 393
   - title: "IBM LivePerson AI Customer Service Chatbot Seems a Bit Too Impersonal to Me"
     excerpt: "IBM also recently announced enhancements to its Watson ... There’s a growing opportunity to deliver that white-glove customer experience by integrating AI to create a personalized touch.” Watson Assistant’s new features “are designed to provide ..."
     publishedDateTime: 2019-12-11T19:59:00Z
@@ -62,6 +75,6 @@ related:
         width: 700
         height: 345
 
-secured: "mD0mYQYX2dr91MX47rICuiXkouC52/p7QNEKvU0y+vflCAr01rN3NUi+oXCGHFi8mQG/ViOqNHDGUiJpGhIQ1hKHrXXIVjDC0cbVsgFZJayGFA7Q7uvrmSZ59I9NBFuaFglLkthDuJFFKS5qoG5rjtfRFVqtHBIrBPgNHjru3Xg+Av9bt7Yy5nTnfxnza9/RSdZ3eLd7og8zZ443dINGl2eSITfwrNoKCObtkBz+xQmIXCFUat19JXlZ9DQehS3KcEi9IgqXNil33PJXH3Bd4g==;08KcC55TIkwX2n73Yyf5GQ=="
+secured: "Ayi2Gr3qMx++M1j6u1e82nTrNu6M50oT4y8Enphp6QaoGJDNVZoPeBG6rM1BYaE3lhO+emoFp9/TaBsuGKOz83QCeB1/bQWFq1lvT9Wr9Z1VPwgpJb3CZpaZsD7ft+Du8zqUVRbXxgISjTNLEj9fInXzc5tBU8wFB2p5RPQVJ67MISp9xIjU7VsxlOtRnKRh3CwaC2l9kuIkxMEr6rvQVm74mCpnl0FW1hp3Z/v6WFM4pH3dZk8N+YC2g/k7JOzq2UHilHgv4vxlR4ZTCpcR/g==;0lJIYERnL5Gal9RCKxIYAw=="
 ---
 

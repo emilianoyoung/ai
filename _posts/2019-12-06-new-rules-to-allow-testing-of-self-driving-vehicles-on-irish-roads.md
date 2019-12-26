@@ -54,6 +54,17 @@ related:
       - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
         width: 700
         height: 350
+  - title: "Air France Hopes to Reduce Delays With Self-Driving Luggage Carts"
+    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. Good night, sweet prince: An out of control ..."
+    publishedDateTime: 2019-12-11T00:14:00Z
+    sourceUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455
+    ampUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
   - title: "Legislation to test self-driving cars on Irish roads approved"
     excerpt: "The Cabinet has today approved legislation to test autonomous vehicles on public roads. Transport Minister Shane Ross welcomed the first steps to testing self-driving cars on Irish roads today. The minister said the test would be occur \"within strict guidelines\" and that his department is \"eager to facilitate this growing technology\"."
     publishedDateTime: 2019-12-06T17:49:00Z
@@ -69,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CE6BBB3EBCC6360A2395B8D267AF1393
         width: 600
         height: 325
+  - title: "Air France Hopes To Reduce Delays With Self-Driving Luggage Carts"
+    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. The vehicle, known as the AT135 baggage tractor ..."
+    publishedDateTime: 2019-12-09T20:45:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/air-france-hopes-to-reduce-delays-with-self-driving-luggage-carts/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
+        width: 700
+        height: 393
   - title: "SMAC in the DARQ: the tech trends shaping 2020"
     excerpt: "In 2020, will the wow factor return to consumer hardware? Will blockchain and 5G punch into the mainstream? Or will the world unify against Big Tech's privacy-busting, tax-avoiding practices? AFP looks at five themes shaping the world of technology after a year in which the public's mood towards the industry grew more distrustful."
     publishedDateTime: 2019-12-06T00:06:00Z

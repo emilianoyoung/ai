@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/google-brains-ai-achieves-state-of-th
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/google-brains-ai-achieves-state-of-the-art-text-summarization-performance/amp/
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

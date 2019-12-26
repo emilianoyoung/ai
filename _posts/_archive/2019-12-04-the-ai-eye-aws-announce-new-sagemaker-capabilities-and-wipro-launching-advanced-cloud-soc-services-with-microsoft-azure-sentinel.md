@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows ..."
+excerpt: "According to the press release, SageMaker Studio \"delivers greater automation, integration, debugging, and monitoring for the development and deployment of machine learning models\". Another new capability announced was SageMaker Autopilot, which \"allows developers to submit simple data in CSV files and have machine learning models automatically ..."
 publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
@@ -44,17 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:03:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -68,6 +57,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    publishedDateTime: 2019-12-05T11:03:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -138,6 +138,6 @@ related:
         width: 800
         height: 500
 
-secured: "yWF01zPsJw41ngjMoOf4S0IRYZPm+jV+GGid9V2qH7BdWVY/Wwk3did9iXKp4ECbnKus5NsOkq7FM73i6FeQyvI1u8HZWr8zdn2sBzQ2HsvQ0QQh/2NPPF8pltkVY5qcj3jOBFjA550AtdVea1ChK9qh9QYdGA5dMIjB3mglIcPyJs0N7kB1dSaD2vQ1rJq0iDbZ4sUDCqL1sE2e+PvTDxe7ac3rJjpDwEAYtyqBpmRW+ua0R1WE7AoEXmoxkjUeeUm1WicwJ2u5SFbTgLIROA==;ej7UMYfyB9gDUglpmyy3Tw=="
+secured: "OwOcKCYYw4kRqk1lYQbSPFesY13Ep3DLYZkgNkbaO7GfkIX3LE8KPrriDQ1ZzY5534K4fdTkE3oLmup2/6pkl03FC77CkUqhyWf82qlkPTV2CfvsgA/TMhJ7PMpkoO+VhXV57nd7fi47waF+ZgVg7hx4jCSHS2pDdpXCxxS+IuujADs0sfmmG1k+td7O60fRQoalkTa0X0EKtrqAJvJfvj9HWru+vpm93u/kOXIdKHqRpfqreZRIlHpiMUDvR6AwjJgSVj5/v8UkxwWB1/JOJw==;LZqrflOS3Okv++cclmqHnQ=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.newsweek.com/2019/12/20/dr-google-health-care-technology-147
 cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/dr-google-health-care-technology-1476540.html?amp=1
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "Google Isn't Looking To Revolutionize Health Care, It Just Wants To Improve On The Status Quo"
 
 related:
-  - title: "Have your health care records been obtained by Google?"
-    excerpt: "BRYAN, Texas — Google has been, and is paving its way into the healthcare industry. The tech company recently formed a partnership ... “Ascension is sharing health information of its patients to Google and with the objective of creating artificial intelligence and machine learning software tools to make health information more useful ..."
-    publishedDateTime: 2019-12-05T23:02:00Z
-    sourceUrl: https://www.kiiitv.com/article/news/national/google-health-care-records-privacy-project-nightingale/503-17289f27-4459-489e-8d18-7a3b73c4b3df
-    type: article
-    provider:
-      name: Kiii3 News
-      domain: kiiitv.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.507A49C3848B2DE1F078ADA6CD3506ED
-        width: 700
-        height: 393
   - title: "What will the digital healthcare revolution look like?"
     excerpt: "Abbott explains how remote monitoring, artificial intelligence and predictive analytics will all influence a new era of digital healthcare. Editor's Note: This publication originially appeared on Abbott's website. Healthcare has evolved at an incredible pace. The industry has brought forth a number of cutting-edge developments, including ..."
     publishedDateTime: 2019-12-06T21:00:00Z

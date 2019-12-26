@@ -82,19 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
         width: 600
         height: 390
-  - title: "CBP walks back facial recognition for citizens"
-    excerpt: "The proposed rule drew outrage from privacy groups as well as members of Congress, who cast the move as a dramatic expansion of the use of facial recognition and biometric scanning programs at Department of Homeland Security and the federal government writ large. Law enforcement agencies like the FBI and DHS component agencies like the ..."
-    publishedDateTime: 2019-12-05T22:48:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/05/cbp-walks-back-facial-recognition.aspx?admgarea=TC_Agencies
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1401AC44DC203F027522D4F1D5C864F4
-        width: 700
-        height: 338
   - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
     excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
     publishedDateTime: 2019-12-06T13:47:00Z

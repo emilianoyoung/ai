@@ -2,18 +2,22 @@
 category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-publishedDateTime: 2019-12-05T18:47:00Z
-sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+publishedDateTime: 2019-12-05T18:55:00Z
+sourceUrl: https://www.bbc.com/news/technology-50679791
+ampUrl: https://www.bbc.com/news/amp/technology-50679791
+cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 159
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: /assets/images/organizations/bbc.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -83,14 +87,16 @@ related:
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
-    sourceUrl: https://www.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
-    ampUrl: https://amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/06/deepmind-co-founder-leaves-for-policy-role-at.html
     type: article
     provider:
-      name: Financial Times
-      domain: ft.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 39
+    images:
+      - url: https://media.bizj.us/view/img/11421169/mustafasuleyman29099346447*1200xx5170-2908-0-270.jpg
+        width: 1200
+        height: 674
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly unscathed and will now take up a role involving AI at Google. It's not clear exactly what ..."
     publishedDateTime: 2019-12-06T10:39:00Z
@@ -118,6 +124,6 @@ related:
         width: 632
         height: 422
 
-secured: "Bv5PJn06ppC0H1eITdaVXqSS58Qcu+ed8pd2T/RZCeDhW+TqAA4qUyLKEeioP8O22xleLC0yhMSuqAwsGO2gVI+gQguOPIvZG0QbAhqYGg9RqN00jI74ZKo0aF7UMpxk47A/cbggcqt0oRnyttH8z94mlhd6nUdXQtgLktXvYbOOf2JufZXHNSMhwGk/41eLa4SxQciOI97SThpAQpE8AapzVTsj87DTNxbeK/cC8zeMZLxw2bM5KsLjM0Ba+nK+1nCa8wypn1ufNHhHyB49xA==;rlosRFd1mttRsTjU7fq9zA=="
+secured: "ag4lUbkjJbPYYY4n3MVTdzfmIgfLjhMfaCsNg1+6dmaj8NfDB+8ClQ/e12XMPt+UR0iX1/ZK4ms84RjO8EUwsNuFY6z4tO1NKw4e/DWhs3KI728P4SgoRKKX73ii8Z2iEhs2+IF/UOeCtrFZ0Jh5cg8BJQHH46Up3onYskfn0z4D0P8Ba7rO0uXo5jxQbTziS4YNfH2910+/w+StGhrMtuaeG9fJve3U26wYaoiixNrT5mg55nlCEYhN9isz6CE83Iv4S6DwwseP5pWFxg2zdg==;vyVG6q8VrRDtlFCuCYSWxg=="
 ---
 

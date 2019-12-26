@@ -25,17 +25,6 @@ images:
     height: 200
     title: "Intellegens and Optibrium announce success in the Open Source Malaria global initiative"
 
-related:
-  - title: "Artificial Intelligence and Emerging Technology Initiative"
-    excerpt: "The Brookings Institution Artificial Intelligence and Emerging Technology (AIET ... By publishing timely, rigorous research and bringing together leaders and researchers from across the technology and policymaking sectors, the Brookings AIET Initiative ..."
-    publishedDateTime: 2019-12-02T18:15:00Z
-    sourceUrl: https://www.brookings.edu/project/artificial-intelligence-and-emerging-technology-initiative/
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 19
-
 secured: "+Mj+GUU0rmStfrHQFfef4ex/o3zY2RhMnPcY9xy5LrPswdIed9qVUJPFDPV6hiURAK/anfE30MxrtSeIHxJ26VnqGC/oCYM1DSGNa3zhliz+agBfMcN4tKXhN+uZh/3GRasP7lSFut0ahEz2VRAVjl2jtJgqpSdtjDZ2JWktAvVQ+ia+nYktoBPpJvT6kv2JRao68lkov2dFNZbmfXWwQVxXcSio1COBv4+H+VJvqzonDjoAASBrk1p5d9FSui9h/oIB8sZE57o4+Ij4emyhhQ==;MJ8CoMYhYlfxmwzQqhAoGg=="
 ---
 

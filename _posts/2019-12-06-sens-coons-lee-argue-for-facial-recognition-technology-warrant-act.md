@@ -95,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "CBP walks back facial recognition for citizens"
-    excerpt: "The proposed rule drew outrage from privacy groups as well as members of Congress, who cast the move as a dramatic expansion of the use of facial recognition and biometric scanning programs at Department of Homeland Security and the federal government writ large. Law enforcement agencies like the FBI and DHS component agencies like the ..."
-    publishedDateTime: 2019-12-05T22:48:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/05/cbp-walks-back-facial-recognition.aspx?admgarea=TC_Agencies
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1401AC44DC203F027522D4F1D5C864F4
-        width: 700
-        height: 338
   - title: "Police facial recognition: Privacy commissioner not consulted on new system"
     excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
     publishedDateTime: 2019-12-07T22:09:00Z

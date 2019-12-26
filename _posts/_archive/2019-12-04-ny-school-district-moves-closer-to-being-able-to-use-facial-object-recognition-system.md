@@ -95,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "CBP walks back facial recognition for citizens"
-    excerpt: "The proposed rule drew outrage from privacy groups as well as members of Congress, who cast the move as a dramatic expansion of the use of facial recognition and biometric scanning programs at Department of Homeland Security and the federal government writ large. Law enforcement agencies like the FBI and DHS component agencies like the ..."
-    publishedDateTime: 2019-12-05T22:48:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/05/cbp-walks-back-facial-recognition.aspx?admgarea=TC_Agencies
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1401AC44DC203F027522D4F1D5C864F4
-        width: 700
-        height: 338
   - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
     excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
     publishedDateTime: 2019-12-06T13:47:00Z
@@ -161,6 +148,6 @@ related:
         width: 700
         height: 350
 
-secured: "79+PmIe6JB8U63CqmzllZ7whTNGgd52EkmrvXB3j7H7npRPzDo7bmfU0lAmqXblHBPZ3vxTxLO/v6whidT3a/dB7wnLI/PR0JE0L21l82cfBit/eWa+KlFFztYwmp8ilkHrpu4pzaSCSIHPrKpEkcaBdxnI+J3cpEwITa8m95n3gzv9228UjznunhY4f0QYjLschGxHdP6/fFqaGrWovQTBzg66wgDmrWgQ+kcvIa7W3p5Ux6MMf00uSHeUdwgx7fPNHF4MauAew9eWCdS8VCQ==;hH2rkn/UnRVpRKxyhy1ooA=="
+secured: "kOrSV3cSoLOAd3Wb3ajiuWaRayAPQr3HfCBZWQ9qUGwczjRIDdphxZfN3IZnYmaYrLLaVDcDKP/mwiBL3Sj/83x13FxHrYTr6L8uzaefca+cCWSljchaOoLZBE/6ULOjfBiAm25IDPUGeFe5QT5NmUCafcSqNPnHV804qWTW6mgdsWxC5aSk3xDj9HNJGjbZnxkTBVIV4tV3kt2pxYI7hKCbxh9asm9fePsJQdcDNUmA5HfV5iMYUmEmLec77G0MHorI7PPd/Pk1vksB/Omfqw==;ohS8KePk3qhrSBlsY3gkZw=="
 ---
 

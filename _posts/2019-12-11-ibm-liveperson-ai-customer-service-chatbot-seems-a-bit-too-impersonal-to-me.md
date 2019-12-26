@@ -52,6 +52,30 @@ related:
       - url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE41s16?ver=7720&amp;q=90&amp;m=6&amp;h=273&amp;w=485&amp;b=%23FFFFFFFF&amp;l=f&amp;o=t&amp;x=401&amp;y=188&amp;aim=true
         width: 770
         height: 484
+  - title: "Using AI to improve your customer experience"
+    excerpt: "Now we’re in a similar place, at the advent of artificial intelligence (AI), a powerful resource that has gone largely untapped. In a recent survey of local business leaders conducted by Brunner and the Atlanta Business Chronicle, nearly 75% said they believe AI enhances the customer experience. And yet 41% said they weren’t using any kind ..."
+    publishedDateTime: 2019-12-09T21:23:00Z
+    sourceUrl: https://www.bizjournals.com/atlanta/news/2019/12/09/using-ai-to-improve-your-customer-experience.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7B0635D24A1F288AACB7E7598A776B36
+        width: 700
+        height: 393
+  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
+    excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running ..."
+    publishedDateTime: 2019-12-01T14:13:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
+    ampUrl: https://amp.benzinga.com/amp/content/14908555
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14908555
+    type: article
+    provider:
+      name: benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "0m3/k45aErRGG++Oy2FhjJPpybhscoCOZ85on8w25xCDfk0BAQN97avDXhcFpcd/BkQtDyqTvwVPxxRRcgOG3lRCPumzW2/8V2M2P5WyMB6To3ZzSb87clb6Thy3ErammmCrQhpQeh43YjgzziCN8xJIYLYUU5OJbPqVcmjDtCYL8Fuc2qpa2OngHvtusRneWPmfpFH6KUkMqopFkVvAXrbazNAEE0CmORdSJs+CHxzVREHF2gHbtCRxCieL1kyluC3dKpWV/4gDn9dYCwTkNQ==;cGDbWHfXLdM0e2zv3KuTJw=="
 ---

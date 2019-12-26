@@ -25,32 +25,21 @@ images:
     title: "Creating Seamless, Personalized Self-Service Experiences With AI"
 
 related:
-  - title: "How to provide a seamless chat experience with ServiceNow and Watson"
-    excerpt: "The customer service challenge A new generation of customers expect quality service anytime, anywhere, on the channel they choose, and in the language of their choice. If they do not receive immediate support, your business may end up losing a customer. Businesses today can simply not afford to sacrifice"
-    publishedDateTime: 2019-12-05T22:03:15Z
-    sourceUrl: https://www.ibm.com/blogs/watson/2019/12/how-to-provide-a-seamless-chat-experience-with-servicenow-and-watson/
+  - title: "Improving personalization with machine learning"
+    excerpt: "And in order to become a market leader you are expected to work seriously on personalization but doing this at scale because you must focus on the global market, must require automation and that is where machine learning comes in ... In the research by PWC titled ‘Financial Services Technology 2020 and Beyond: Embracing disruption ..."
+    publishedDateTime: 2019-12-06T15:16:00Z
+    sourceUrl: https://www.searchenginewatch.com/2019/12/06/improving-personalization-with-machine-learning/
+    ampUrl: https://www.searchenginewatch.com/2019/12/06/improving-personalization-with-machine-learning/amp/
+    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/06/improving-personalization-with-machine-learning/amp/
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
+      name: Search Engine Watch
+      domain: searchenginewatch.com
+    quality: 61
     images:
-      - url: https://www.ibm.com/blogs/watson/wp-content/uploads/2019/12/KBC_Group_Blog_v2-990x448.jpg
-        width: 990
-        height: 448
-  - title: "Using AI to improve your customer experience"
-    excerpt: "Now we’re in a similar place, at the advent of artificial intelligence (AI), a powerful resource that has gone largely untapped. In a recent survey of local business leaders conducted by Brunner and the Atlanta Business Chronicle, nearly 75% said they believe AI enhances the customer experience. And yet 41% said they weren’t using any kind ..."
-    publishedDateTime: 2019-12-09T21:23:00Z
-    sourceUrl: https://www.bizjournals.com/atlanta/news/2019/12/09/using-ai-to-improve-your-customer-experience.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.7B0635D24A1F288AACB7E7598A776B36
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.F83729EDDD4FABE3C4BEC0D985EC3139
+        width: 360
+        height: 240
 
 secured: "VRpBM+c9QzqWDXtT1zLu9dT+2qvfe9adofc8B9y05R8gefHHuVPoxUDbmOGX1wHZIl4ANCV5ukvj/KZQ6Dwpikc30Npg5IfhKQrHJiIx4df9ry2E4odOWYmckWK7lxm1LZquKlE18J6Q8B2+yUaYkITLnpeqlPYH6CmkqvoDpar7xqEVwqegjIITzk3cMzzVSpc1R72695lU6hXntGVx8IAs1vh5GAi03xJbj7t0VtJDLbOQj78yb4NYorCjwPYx0NfkKgwr/lRagvBBNkLGMg==;r2udNYQsmFaffsAQx6W5IQ=="
 ---

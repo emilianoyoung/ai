@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/tencent-details-how-its-moba-playing-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/tencent-details-how-its-moba-playing-ai-system-beats-99-81-of-human-opponents/amp/
 type: article
 quality: 183
-heat: 184
+heat: 183
 published: true
 
 provider:
