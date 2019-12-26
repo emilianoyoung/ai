@@ -103,21 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A7E455D55158DBA0FA0F0312FEDF9A3E
         width: 700
         height: 393
-  - title: "Emotion-sensing robot heads to International Space Station to help with astronauts' mental health"
-    excerpt: "An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2 (CIMON 2) is a spherical droid with microphones, cameras and a slew of ..."
-    publishedDateTime: 2019-12-06T02:57:00Z
-    sourceUrl: https://www.scmp.com/tech/innovation/article/3040863/emotion-sensing-robot-heads-international-space-station-help
-    ampUrl: https://amp.scmp.com/tech/innovation/article/3040863/emotion-sensing-robot-heads-international-space-station-help
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3040863/emotion-sensing-robot-heads-international-space-station-help
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.4B421B29E010656342F75D5CC567B4CE
-        width: 700
-        height: 367
   - title: "Emotional robot sent to international space station"
     excerpt: "A robot equipped with emotion-sensing voice detectors was headed to the International Space Station a becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2, or CIMON 2, is a spherical droid with microphones, cameras and a slew of software to enable emotion recognition."
     publishedDateTime: 2019-12-06T10:18:00Z

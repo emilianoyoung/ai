@@ -61,11 +61,7 @@ related:
     provider:
       name: ST
       domain: st.com
-    quality: 39
-    images:
-      - url: https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg
-        width: 1132
-        height: 831
+    quality: 19
 
 secured: "cwsFdMJPpQjqwZbxvK9cKKdEJtJHym3dctN5A/d1gSoePT4ouA0u9C1HlwaustX9Y0j9Qz4mZaiWxukUhsS/FeMnlGUZVGf6t9ehdXGOd0yr/8aJawagDAONfhWHQYsft1nfoG3S64SFDkmZkxg+Y5/2fA6aEVQYtlTpKUN45hwZ7a4yirBx2grZBnk5xcTqmZTrsy4VFdM5eL5TaXThSb0kDQuBqBl2jP6Vqp3gREN078IWcwltocTWbGrnxtXSv1CJhLfFwb3+1J6BHXzltg==;bgByeqES4y3q8W5Tagc4eg=="
 ---

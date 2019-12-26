@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6789CAA3F8D592CFD40B27ABE46AAAF4
         width: 700
         height: 397
-  - title: "Qualcomm's Latest Snapdragon Chip Announcements: 4 Takeaways"
-    excerpt: "Qualcomm (QCOM) typically makes quite a few chip announcements at its annual Snapdragon Summit event in Hawaii ... and 4 low-power cores based on the existing Kryo 385 design -- as well as a revamped GPU and dedicated AI and image co-processors that are much-improved from the ones inside of the Snapdragon 855. Qualcomm claims the Kryo 585 ..."
-    publishedDateTime: 2019-12-06T02:07:00Z
-    sourceUrl: https://realmoney.thestreet.com/investing/technology/qualcomm-s-latest-snapdragon-chip-announcements--15190279
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.63E60029B173F9D4130BBB2E60EEB367
-        width: 700
-        height: 466
 
 secured: "aROVhRrU7WofQAXi71L+nNa0qlgIst/wCVDjkg6z3AW3cK2Zwl2c3XxpfIUtCZiRLvxtQtY+EWHF+u057kvR8omu7MJnLtcAdLLKx2h2FoLEU4UqaHK60NopPbGB10VEnd0SOv+AJAw1hqF0rBZVcnR5Bd9Be9LMkHsWoRwDHPhF37/1K4op3vcFabPzN4+h0w9lLBhRws8ARppOEt1JyhHtJ7GpP9TnT/I8Cl9vc0u9fjI/79QV3+vDTdp2Y6mmjVXruZMTWbBFn+dCBfO/Ig==;DlQjEx9QOuVIEeI5gacNUg=="
 ---

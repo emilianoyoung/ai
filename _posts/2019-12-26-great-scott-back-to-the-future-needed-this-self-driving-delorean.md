@@ -1,33 +1,29 @@
 ---
 category: news
-title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
-excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
-publishedDateTime: 2019-12-17T21:32:00Z
-sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+title: "Great Scott! Back to the Future needed this self-driving DeLorean"
+excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
+publishedDateTime: 2019-12-26T03:36:00Z
+sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
+ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
+cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
 type: article
-quality: 74
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Syfy
+  domain: syfy.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
-    width: 1200
-    height: 630
-    title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+  - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
+    width: 700
+    height: 396
+    title: "Great Scott! Back to the Future needed this self-driving DeLorean"
 
 related:
   - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
@@ -60,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
         height: 490
+  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
+    publishedDateTime: 2019-12-17T21:32:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
+        width: 1200
+        height: 630
   - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
     excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
     publishedDateTime: 2019-12-16T05:00:00Z
@@ -264,21 +275,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
-    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
-    publishedDateTime: 2019-12-26T03:36:00Z
-    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
-    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
-    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
-        width: 700
-        height: 396
   - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
     excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
     publishedDateTime: 2019-12-17T16:54:00Z
@@ -496,6 +492,6 @@ related:
         width: 700
         height: 393
 
-secured: "ghwyX+oPem5PvbhGB2/nSaBRvGChDAndelRsgNHsSdDYKtbQm8yuQcmrIAGhBnGMP27QLYmOjKrAa+4g3By4nO0PWtQu6PokKimK+kd2m4Dg1fIGtyVAIBnh0UeMknkUKHzvPiwyO7f5G6tyChIQN9k/q/BCWIWA+N0Xx8ttYtY7A99SUW/0OoGfpIlAThmG0jyiko2bhIV2RmqyU65Ih3lUZraz5fOL4UEivd3s2ruBaNAXlDp5WvNQ8ns8uXugwcEqvrg8gnx85JAaqKOVnw==;whCKsFkFbyCJTJnQjxX3sA=="
+secured: "YW2HAcHVx42b9F4ZholhG3TwvZJH26Nj7PWZyY3jF32ovTZMDf/3Ty5zH2Rb6VDHy4o5zzvRIJnRUuYwgQ5Sohr/2WNfoIBYku4cPwOJX6VmKCxooOB32zWw6tXdf5sOJCe+Fzbpw+h70P8FftiqXv841Yv/Q/2S8Xeb2FlkUb7z3x1J6hwHjJ9wkOR2/BJhnbmfCeBzESE/jW8dQY/HPNfN93nnRb09IkeyxhOVvDs9tFlRLn3u4DAX32897XNjpaYWbieMGsKF7Ef7A43nzg==;xhj+fKdzeLJFzBcviTzmtg=="
 ---
 

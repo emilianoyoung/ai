@@ -71,19 +71,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Verint Systems to Spin off Cyber Intelligence Unit"
-    excerpt: "CFOs and their companies are becoming inundated with data. Finance teams are continuously incorporating big data sources and tools, Internet of Things technologies, artificial intelligence and machine learning solutions, advanced computing power, and evolving finance software and systems into their work processes. Download this research report ..."
-    publishedDateTime: 2019-12-06T02:11:00Z
-    sourceUrl: https://www.cfo.com/strategy/2019/12/verint-systems-to-spin-off-cyber-intelligence-unit/
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.DAD1949BD46BD4B71D3221FE6CA59A8C
-        width: 700
-        height: 463
 
 secured: "ONgTO9t/VAQORCc87M0bNcxgj5MAmtYa2eUZez2OaRq3AZO5yccci7eCtzIHP7e/JQ2zoj8VhwuYbHaVvC05tBf+MVpDbxixrt8t+9w8lnM4hE5SMVOAw/uDbFrysnImwGSuKyXWqNWFTXv5MG9feDxnW0M+hO6qvbwfKSa96eXjeGzxv3oJ0wB2ytobRT1JIxH81VU9u8CyG+haKn/549Vm57h/5wPRxxYvuuAZc16BQottFMvYx6PKezCOQEwBKrJ8KpBPYHP+joiNitUfEA==;UNmq7xYZTXUeB7T7a6LB+Q=="
 ---

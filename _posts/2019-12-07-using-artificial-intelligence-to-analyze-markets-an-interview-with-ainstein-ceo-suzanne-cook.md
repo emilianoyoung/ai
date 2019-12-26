@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intel
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -70,19 +70,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Verint Systems to Spin off Cyber Intelligence Unit"
-    excerpt: "CFOs and their companies are becoming inundated with data. Finance teams are continuously incorporating big data sources and tools, Internet of Things technologies, artificial intelligence and machine learning solutions, advanced computing power, and evolving finance software and systems into their work processes. Download this research report ..."
-    publishedDateTime: 2019-12-06T02:11:00Z
-    sourceUrl: https://www.cfo.com/strategy/2019/12/verint-systems-to-spin-off-cyber-intelligence-unit/
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.DAD1949BD46BD4B71D3221FE6CA59A8C
-        width: 700
-        height: 463
 
 secured: "zUH2owTfyFWrzE4q43CCPzDtlsftgBFZ5/sEFZGh1uFCCCIGKD+6dZIeDakkuykwTCXyZ8KZYU6tJBh1BQMz5k0Pr0YS638nlCYzdTyWM7DD4/VU00qbxsDCN5qK8jFj7bczP0qs4LESLVgXQ/GMUu7d2if8fqSuhFcnQVB4hVW9SZNAYplGzkhW1p5HNONHm8lUoiQ2y3XFPF8AqzKgVLO71d30AXMq+bzBLRorsZNp4DphVxn5ZtD5t/1Tk/VYcrK4v398Whwdcd6Pfzp5ow==;3V4iF4mV75aXZ5YTTkYJFA=="
 ---

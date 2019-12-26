@@ -2,27 +2,27 @@
 category: news
 title: "Robots come to Michigan MRF"
 excerpt: "Emmet County, Michigan, is in the process of making $2.4 million in upgrades at its material recovery facility (MRF), including extending presort lines, installing a glass breaker screen to break and separate glass and adding three artificial intelligence (AI) robots provided by Colorado-based Amp Robotics. The upgrades will help replace old ..."
-publishedDateTime: 2019-12-24T13:22:00Z
-sourceUrl: https://www.wastetodaymagazine.com/article/emmet-county-mrf-upgrades-robots/
+publishedDateTime: 2019-12-24T13:25:00Z
+sourceUrl: https://www.recyclingtoday.com/article/emmet-county-mrf-upgrades-robots/
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Waste Today
-  domain: wastetodaymagazine.com
+  name: Recycling Today
+  domain: recyclingtoday.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.69AA4A623C7B5817AD0E17851B575C5C
+  - url: https://www.bing.com/th?id=ON.6FAADBD827CA16E23B69F72BE0842403
     width: 700
     height: 393
     title: "Robots come to Michigan MRF"
 
-secured: "4HuaQ4/Oe/EAzQUHbQ0b1AZxwGarzchUv+ApbNULrghtG1PoXXbu0kqinS47V/h8ArkO6ZHGTD2FXOfkQbKy3lQgB5xx8ZBOpu9F+nz0rvYe/Lb/IbCaZY5KpEPtDZUtKg54rJVwh3c0obbpKlXBS2rDzM5IEFZsN8Wkrnd9/m7fxo0MkvmPL+CyeErhWFgP73xEP5EVs2qb9LNv8mYtrj0Ua/QYgRkB+pscGYoI3cracW5KXzeluJWfcHro++FD/l1uiALdmbu9oXBi7HbT/Q==;oaMlF0E0JG9lfKo3piFp/g=="
+secured: "ZNZChHGLo/oj7sxunJmb7oW2V+wNt/gA7UayVqO9QQ3m1qRikJstaPEaAaoLk6Vo14qjGROC8SLV7zBlqnioJN6KliyqiaTavE5fh0/2LlVFUPF11LIemhCwLgyzVasQNX8v76As2lYLirHK3F3a642hSwRc/T8hgb651BYl+t6LdxksHrNs9xEfPpju/EjUFWqX4/JJ+ILLHQnlBddTP/Bs5BSi85EJkFrFL0sf9vA0mfThHXgKvJZQZl8yli6iZLlY2AJxFtiNgvXbmh0nTw==;8PcRWvfmqTR25MyGhY9Abw=="
 ---
 

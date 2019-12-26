@@ -1,28 +1,24 @@
 ---
 category: news
 title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
-excerpt: "Dec. 23, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... In 2019, Dean and Anurag Sehgal at Credit Suisse chose H2O Driverless AI to accelerate AI adoption in front-office and back-office investment banking use cases in global markets, fixed income and capital ..."
-publishedDateTime: 2019-12-23T15:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/h2o-ai-inducted-into-highly-selective-credit-suisse-disruptive-technology-recognition-program-1028782605
+excerpt: "an award-winning and industry-leading automatic machine learning platform for the enterprise, is helping data scientists across the world in every industry be more productive and deploy models in a faster, easier and cheaper way. H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure, and Google Cloud ..."
+publishedDateTime: 2019-12-23T16:06:00Z
+sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000531.html
 type: article
-quality: 58
-heat: 78
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
-  - AI in Autos
+  - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.1B0029445D4E3578BE3C2AB13785C479
+  - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939
     width: 400
     height: 400
     title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
@@ -56,7 +52,33 @@ related:
       - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
         width: 700
         height: 366
+  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
+    excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
+    publishedDateTime: 2019-12-18T18:48:00Z
+    sourceUrl: https://apnews.com/bdf8aa8701e44448ad562bd9a3ee942b
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
+  - title: "Top Risk Concerns for Business Leaders in 2020 Include Talent, Culture, Technology and Innovation, Finds Protiviti-NC State Survey"
+    excerpt: "\"As the future of work evolves, businesses need to upskill and reskill existing employees ‑ particularly as digital innovations, such as artificial intelligence, natural language processing and robotics become a mainstay in organizations ‑ to ensure they remain competitive with 'born digital' companies and are future-proofed for the next ..."
+    publishedDateTime: 2019-12-12T11:03:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/top-risk-concerns-for-business-leaders-in-2020-include-talent-culture-technology-and-innovation-finds-protiviti-nc-state-survey-300973766.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.CF8ADAAD07907BF2E74489810069B472
+        width: 598
+        height: 315
 
-secured: "+P+JdoezsMDn3uYFMq1aY7aXmhlOSVR/i1zVpbe+nRDCfpgjqpQHNoQp5V2r2tSfbUaXOjuiZvjZ/wRDfGmkQ7dXYtZwRiZggltSk0dsrrVxzn7yWShe3A3F/qAJY6RKfX4l8ZC0yB+IFmE1gM+n9Xb6JXiOAar68x6M5j8o8I+wGTGoz8xVhJ6ITbSRJAhUalvIyUXf7BPpxbm01vaRfjt+ma4BOMYosWie7htQOjy6Fjba8zdfKk0f0XvS8au00Hk5ZYOeQIpYrlRemIEF3g==;uoihh7aH6tZKGIRVshI8BQ=="
+secured: "Elh33+XTvRVhCFEV9qUe+QtFcrq0BPlzwngAiIORf5Zc4CMGD3A/uHMY+drvd/vVuTyiF0gxALcxjAojALNJHfv0ClFS/CrS6DdZ1IY4lMm025b3Eor068mOiQ1GmNtwKVrV83r8T/G8q2mbCep2//ckfd6Htg2jSAejIruCx7z0gvhhLFSc+3i8UqBBCttZVBhdG89kwydxGfhQqhcq69rz4ZvMclm9LYwuPEmgcu54KKrzRs2okllpkRTIzjKPM6C8sRptb2/ZJaWihDjBBw==;wkXuh7EFlsVrhRh14MaYxg=="
 ---
 

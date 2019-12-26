@@ -90,6 +90,6 @@ related:
       domain: yahoo.com
     quality: 23
 
-secured: "Wm4EDPtsarUbEo3usxqfXTM8+ySVIEN8s57S7s+KUSWaSx/isUxB+SZVTCHeXNEWUqamCW1mkBoObIqEXDY9j1PsqctLH6tvBcmXeP8LYihUIX14ogaJodAAg9p57DDOz8v7BSD+WdsdkT2mv3U3FEWIeSr18QoyXPYY57qfiBCpJw/WHz4oxHuKsjOOG6qpzgBIbQGEPx2RdcCuz5yP1mni+tS6ElMHDq8O5QNb6xo1VNz7T2bG+uwFGtGFSDTsPiTHEsmrrkOgpqtC8Z/tGw==;dy0xZcpWEdWKExgYyYADhQ=="
+secured: "kY0CXRV2KbrESo80rk9oGJqgfNH8cCjA9QLkPo4xfDHRQl27WcZhsf4jBHv9w47aqz1KqFg1diyYRoLlBJGnEKwsv25LHzZSAfjTzjWu7qY+nHcwHPVMfTr1RG6NdX9MFn0eOYKI9O5chiqfjTwUqHtfT3PmGkXS2toT6X/rEDGVchSqNUlYU/ILLmqk2TN2Ax5QkMyLOYvtp+B5MbEiBYUkR2uX8FxfaBB+/xwPaGOXPgwFiD5sx1e1QwkZU96x4g5N72xWPT18WFXZyBi2ig==;MXgeADFicvlhN3dAYtpZpA=="
 ---
 
