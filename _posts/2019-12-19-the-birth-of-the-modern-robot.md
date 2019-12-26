@@ -62,7 +62,7 @@ related:
     provider:
       name: InsideHook
       domain: insidehook.com
-    quality: 37
+    quality: 39
     images:
       - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
         width: 1200

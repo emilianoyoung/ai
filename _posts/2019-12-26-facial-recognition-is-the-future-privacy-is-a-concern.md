@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Facial recognition is the future, privacy is a concern"
-excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban ..."
+excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
 publishedDateTime: 2019-12-26T07:45:00Z
-sourceUrl: https://www.zawya.com/uae/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
-ampUrl: https://www.zawya.com/uae/en/story/amp/SNG_163119875/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_163119875/
+sourceUrl: https://www.zawya.com/mena/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
+ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163119875/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163119875/
 type: article
 quality: 59
 heat: -1
@@ -252,6 +252,6 @@ related:
       domain: loopinsight.com
     quality: 19
 
-secured: "HpRBPV6rvq+E7MC1wOQ1a/pw91r/LiywHg+upNCk022dEeEaeYNZWOnxstSGBRCj4uuBblqcMYlkn/6INJIVLkXohbrsCaQa+YSozcSWZ6OW4mhAee3jTQHRVYwq68O7V3Qn/5GC4kB9IiT/jiaZSfK8cR3vMKL1tEFv6nBwASlkh6Np/Wd3YvlDjLYbODKA8zJY5tNJXB6O0E7bCwm4TohKPjx3B9Crh/EqLj+C853sGu3L8/T7xDPCled2UKBDUVW04p1t80DMp1uSmV/rbA==;yC/D7+cHw9OrN0fO+Ce5+w=="
+secured: "3xhgttuaCWyB1IVmTDyWvNjbcguo6ezHVRUjzHEoFLAi+L4OEBf3B0bkAlSke6tEZvzwINBarRfvJLWB6LFsRDP3kRBvu/xNY9gTAlZfO5D3gdMPyG/fmf+1uYXYdOZtAh+64lfEREu+Rp4OMItCFlQCHq3ATuVdTrBbmIuv9wFNNMB9VnPgfF4EPVxHr3AMDzyJrI78YUHV8Ldb7MILY/EsJqCdippyUa58cUcNn6Yi9rQz+cy+fiXNtL1DRUbIpXPfw1smP2MMPtZH6HfEpg==;AE9PsKZnMyzCqjSVM6fCPQ=="
 ---
 

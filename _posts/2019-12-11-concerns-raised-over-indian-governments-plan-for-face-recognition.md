@@ -8,7 +8,7 @@ ampUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Concerns raised over Indian government's plan for face recognition"
 
 related:
-  - title: "DHS scraps Trump-ordered plan for mandatory facial scans at US points of entry after privacy advocates, lawmakers raise concerns"
-    excerpt: "The Trump administration announced Thursday that it's backing away from a proposal that would have required all U.S. citizens to submit to facial recognition scans at airports and other ports of entry whenever they leave or enter the country. The Department of Homeland Security said it removed the idea from its regulatory agenda following ..."
-    publishedDateTime: 2019-12-06T10:52:00Z
-    sourceUrl: https://www.foxnews.com/tech/dhs-withdraws-proposal-facial-recognition-scans-us-citizens-trump-administration
-    ampUrl: https://www.foxnews.com/tech/dhs-withdraws-proposal-facial-recognition-scans-us-citizens-trump-administration.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/dhs-withdraws-proposal-facial-recognition-scans-us-citizens-trump-administration.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
-        width: 700
-        height: 393
   - title: "Trump Administration Drops Plan to Introduce Face Scan for Foreign Travellers to US"
     excerpt: "The American Civil Liberties Union criticised the move, saying it had “profound privacy concerns” despite promises from the government that it had no plans to expand the face recognition checks to Americans, TechCrunch reported. According to the Trump administration, the facial scan will reportedly tackle fraudulent US travel documents and ..."
     publishedDateTime: 2019-12-07T11:57:00Z

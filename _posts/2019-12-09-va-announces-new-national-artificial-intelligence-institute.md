@@ -112,19 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A7E455D55158DBA0FA0F0312FEDF9A3E
         width: 700
         height: 393
-  - title: "Emotional robot sent to international space station"
-    excerpt: "A robot equipped with emotion-sensing voice detectors was headed to the International Space Station a becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2, or CIMON 2, is a spherical droid with microphones, cameras and a slew of software to enable emotion recognition."
-    publishedDateTime: 2019-12-06T10:18:00Z
-    sourceUrl: https://www.fudzilla.com/news/ai/49926-emotional-robot-sent-to-international-space-station
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.53E6DDFFF64E18A5AB106D5F2FBCB74D
-        width: 620
-        height: 465
   - title: "VA launches National Artificial Intelligence Institute"
     excerpt: "WASHINGTON — The U.S. Department of Veterans Affairs announced Dec. 5 that it had launched a National Artificial Intelligence Institute (NAII) to advance the health and well-being of veterans. “VA has a unique opportunity to be a leader in artificial intelligence,” VA Secretary Robert Wilkie said in a news release. “VA’s artificial ..."
     publishedDateTime: 2019-12-12T02:05:00Z

@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.157C0FBA2F8B89E3F227A843297FAE82
         width: 450
         height: 300
-  - title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
-    excerpt: "Neural network for projecting onto the EMT–MET PHENOSTAMP To model the non-linear structure of the underlying 2D EMT–MET state map, we constructed a single-layer-hidden artificial neural network model using the above six markers as input and the reduced 2D t-SNE feature space as a bivariate response. Specifically, we used the six input ..."
-    publishedDateTime: 2019-12-06T10:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13441-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.23EF253591DC6EC76D1178454E64E86F
-        width: 500
-        height: 685
 
 secured: "CiaKcEAPTydSaGnSFZYf7sGiBcimu7H3G5sRvJLvmwDmx8Ji2doGkvGZhx4Xoh4jnDMvm9qzB8IyDLwMsc40tC+7lNUIhQE4lBvQNCsiBxHbsGFuy5oXvX6aQ2dLOv3e1sAuTO2Gkaoa/qPnLujFrYUpc4PW7w0b3c4tJPtX4KLDwWYAIkqSBIjxAasePq3dv3PQMGjr/uJNdNNIweQOn4WyToZh16HvIyrPrCilF9Z+Ylg3Q1RvdlR3XZiim3a94u4bzFqwu5KouWsOdkVIlQ==;WZz/nfW2SGf0euwCO1dtDQ=="
 ---

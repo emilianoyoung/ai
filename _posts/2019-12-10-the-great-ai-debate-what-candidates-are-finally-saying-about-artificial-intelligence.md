@@ -40,6 +40,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
+    excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
+    publishedDateTime: 2019-12-12T11:12:00Z
+    sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 67
+    images:
+      - url: https://miro.medium.com/max/568/1*519hvpXUKt1i2O9TrPZCYQ.png
+        width: 568
+        height: 567
   - title: "This object-recognition dataset stumped world’s best computer vision models"
     excerpt: "In an effort to close this performance gap, a team of MIT and IBM researchers set out to create a very different kind of object-recognition dataset. It’s called ObjectNet, a play on ImageNet, the crowdsourced database of photos responsible for launching much of the modern boom in artificial intelligence. Unlike ImageNet, which features photos ..."
     publishedDateTime: 2019-12-10T16:41:00Z

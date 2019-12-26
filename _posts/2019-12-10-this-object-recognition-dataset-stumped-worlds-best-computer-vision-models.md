@@ -39,6 +39,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
+  - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
+    excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
+    publishedDateTime: 2019-12-12T11:12:00Z
+    sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 67
+    images:
+      - url: https://miro.medium.com/max/568/1*519hvpXUKt1i2O9TrPZCYQ.png
+        width: 568
+        height: 567
   - title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
     excerpt: "The views expressed by contributors are their own and not the view of The Hill Artificial intelligence (AI) will shape the destiny of humanity, but first humanity has the opportunity to shape AI. At times, anxiety about the former causes us to overlook the latter. We forget that artificial intelligence is going to serve the goals with which we ..."
     publishedDateTime: 2019-12-10T17:00:00Z

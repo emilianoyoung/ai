@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Alibaba Cloud growing but only in China: AWS CEO"
-excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we''re working with customers, and they''re considering who they''re going to use in China is where we mostly see them. I don''t think they have much of a ..."
-publishedDateTime: 2019-12-26T04:12:00Z
-sourceUrl: https://www.outlookindia.com/newsscroll/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
-ampUrl: https://www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
-cdnAmpUrl: https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
+publishedDateTime: 2019-12-26T07:10:00Z
+sourceUrl: https://telecom.economictimes.indiatimes.com/news/alibaba-cloud-growing-but-only-in-china-aws-ceo/72976664
+ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/alibaba-cloud-growing-but-only-in-china-aws-ceo/72976664
+cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alibaba-cloud-growing-but-only-in-china-aws-ceo/72976664
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Outlookindia
-  domain: outlookindia.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.0170A8ECE680CBFCE45544E7E542CAC5
+    width: 700
+    height: 379
+    title: "Alibaba Cloud growing but only in China: AWS CEO"
 
 related:
   - title: "AWS CEO claims Alibaba Cloud isn't a threat"
@@ -77,6 +83,6 @@ related:
         width: 700
         height: 350
 
-secured: "iLYRA9juegn3P9D/LjM75Y6UtIgnt6zkSQduRyezj9sjEvJxFWeSePASAp1i+qArKYBaAnqMFs4CGLPoo9HgD916eOHaQFjNo4DMJOyZ4udBmtY8tuId/6DF462wLN+qZM69OO+wRDgK6IrNUjHZqQsgGGGRb929sXNWqUUPCeLX2AIarNdxWG5esuycAOJZwPriOvz7JRB3+u/THsN+Vizsn0uTOp73DFrVtVHndF6xLDs8iE1fLdNgKalCCWZ1WAqXieYNFBQU9Lm29Jiu+Q==;9Y+3P647gAOU/8KKqJLvag=="
+secured: "SJR0497sGLbG57P/myT/hyQ3FA4ImSVUsrjY29ziZwphQw2jEv1gLT7/LPXoy2cxqaLfwcIEmsF4Dc4iCPWHhw78JjtEVScmQYkMfo1q3DaCIjVh237wSpE0+zjAcEGjgDzPmRQk+pWITCquHX2Rz7j8JbS+Jc7zaZTK1dojXB1lrr7jyixDX0qR76OJeCbVMzA9+HJcPJjKELFu/MobYC4sGq3mCiuXGILrxcLhOtRiyZHQyZyXNfrRR0o9aYNTmM39gyP1v2cvSR5SU1geLw==;PtmSDZFU0+psxgXcdPrjhg=="
 ---
 

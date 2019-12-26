@@ -5,7 +5,7 @@ excerpt: "Computers aren’t new to Wall Street, but for most of their lives, th
 publishedDateTime: 2019-12-17T18:23:00Z
 sourceUrl: https://www.insidehook.com/daily_brief/news-opinion/how-artificial-intelligence-is-reshaping-the-future-of-stock-picking
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800

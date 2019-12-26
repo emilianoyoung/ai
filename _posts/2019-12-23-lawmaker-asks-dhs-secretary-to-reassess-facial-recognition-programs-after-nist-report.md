@@ -24,47 +24,21 @@ images:
     title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
 
 related:
-  - title: "Why Congress needs to regulate facial-recognition systems"
-    excerpt: "A MASSIVE government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often than men. The federal National Institute of ..."
-    publishedDateTime: 2019-12-21T19:26:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
+  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
+    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
+    publishedDateTime: 2019-12-26T11:34:00Z
+    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
+    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
+    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
+      name: Mid Day
+      domain: mid-day.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.8E737D47EF3AECF305981AADA3B04373
-        width: 700
-        height: 466
-  - title: "Researchers: Printed masks can fool facial recognition systems"
-    excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
-    publishedDateTime: 2019-12-24T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
-        width: 300
-        height: 170
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
+        width: 670
+        height: 440
 
 secured: "Ue1VZcWBB6p+np1equyhM5K8tZdHhf5RPBvSblFVc8OdbnxXEatq0SyBmyiVqCFk9ur26Cog7GTWPYUL+N80DFYPYZ21t9ZKvqyl+E3x8pAKyY8oCol8RBoktuVFzy9GfIwThfrjoIwXIa9fScZg0IuotxbeTYXxzG+goZMZylieRh1nWdS69u5h4s86eCOJy1wMRZmtqK5yiRsmD4VrfnMjOlMczgX9pUpc1WoO2Oe0hrxEQbih37XK93fSmlNwXxtiKcg1naHwSQ5GTad5SQ==;eTZclOzWflgikAtlLZJ7Pg=="
 ---

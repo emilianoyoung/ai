@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T18:25:00Z
 sourceUrl: https://www.nature.com/articles/s41598-019-54770-2
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 685
     height: 523
     title: "Machine Learning based Analytical Framework for Automatic Hyperspectral Raman Analysis of Lithium-ion Battery Electrodes"
-
-related:
-  - title: "A Deep Learning Framework for Design and Analysis of Surgical Bioprosthetic Heart Valves"
-    excerpt: "However, such analyses are often computationally intensive. In this work, we introduce the concept of deep learning (DL) based finite element analysis (DLFEA) to learn the deformation biomechanics of bioprosthetic aortic valves directly from simulations. The proposed DL framework can eliminate the time-consuming biomechanics simulations ..."
-    publishedDateTime: 2019-12-06T10:22:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-54707-9
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.A5CCC78E7C9574BEC3A4D52813E56432
-        width: 685
-        height: 400
 
 secured: "GFuUnEGUrJfmCf3xlU4Dsw9pyFK7vSvZAb8kvarTpXj2CVhRajzf/JGrJXFitMar3G4Bl7orQezEtchQjmhVgbqCqhGyWUBc1bvDalIF19caFBBSJ8rkrS8lAak7TzTMbHYyByUSmdWxmGsPoRT/UmKpLqkYCxh/moPSYln7MltadhrVsPOcRlMFIQ5ke8T7rITNWuoRTTpNU0g2w6ptEdKYAgLoJBRySYnhKcb7Z+DY5szdTZJGUfpjNgqzQPB2uHDQ6NSG1YNCK5eNciIM6g==;GNXPiOtnzAmnxqXjJEboAA=="
 ---

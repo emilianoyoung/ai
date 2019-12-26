@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T00:30:00Z
 sourceUrl: https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12
 type: article
 quality: 170
-heat: 480
+heat: 470
 published: true
 
 provider:
@@ -125,21 +125,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0C85F059FE379405C21387AC3F31961
         width: 700
         height: 393
-  - title: "No Facial Recognition Screening for Americans: Homeland Security"
-    excerpt: "But it’s still using the practice on foreign visitors — something not all travelers will be happy with. The Homeland Security Department is backing away from requiring that U.S. citizens submit to facial-recognition technology when they leave or enter the country. The department said Thursday that it has no plans to expand facial ..."
-    publishedDateTime: 2019-12-06T11:00:00Z
-    sourceUrl: https://skift.com/2019/12/06/no-facial-recognition-screening-for-americans-homeland-security/
-    ampUrl: https://skift.com/2019/12/06/no-facial-recognition-screening-for-americans-homeland-security/amp/
-    cdnAmpUrl: https://skift-com.cdn.ampproject.org/c/s/skift.com/2019/12/06/no-facial-recognition-screening-for-americans-homeland-security/amp/
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D11D500875D4BE70288D8FDE030CAE2
-        width: 700
-        height: 466
   - title: "Some cities and states balk at face recognition tech, here’s why"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-17T22:20:00Z

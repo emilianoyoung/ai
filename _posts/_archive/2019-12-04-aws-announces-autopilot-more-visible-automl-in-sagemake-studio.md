@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
     publishedDateTime: 2019-12-03T18:31:00Z
     sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
     ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
@@ -35,19 +35,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 101
-  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
-    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
-    publishedDateTime: 2019-12-03T20:24:00Z
-    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 45
-    images:
-      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
-        width: 1000
-        height: 667
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T00:00:00Z
@@ -58,6 +45,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "n0NDTkBxVoXrdnU/+dk+42mRZLB7Gy86ZQ8JoK6M8Xp+UpFyWJVV1lIoWPKOk8HO57Cn+Wrx+64uVBzFmbg6nWczme5rXroVqbNzLXpwKAIqfr4VX8XxtlSzdZSdTgeYbk2amCR4UAfhEoWxslkrHptacidgHhEN6HRhIMMvnrA0rITvA2+VfZQ2IhMb3GU6Wi4Tvs8HpK01a3gCP0tTMB2RmK+mC7PsBJXOwj1t3yaSgcvArHO8g5Qs+isCljRIiXlrSJJEwh4TRxjrRU267A==;1tW4V9nlMZy3Lp6V0MZzfg=="
+secured: "fLk2sZneRxB3i7HX/AnMiYdJmfZTMrXdAgFzPyEzxX1hpMdcv7FQw9R6BaQ5GWnxenx4yL3GK11sB7yXrbQ/QgWyAnfsxcGXSSDMQBHOkYjlhPfoEkQcaDiI7LQT95vD4PdSB6yGmdOL7yYuo+J8efUkChsFAKtHP+ARjF+47JI3bqCqI6NBg6IpAnRkyblfu+v//v4RhgkvMIJIAIZQORXYDv6SRGWV2rVAxUBK6oMbRWNwM7FXYn6914tnRIvBHKiC3NWcIxFjBrwaevotXw==;DYz51SbPoif814tw9004wQ=="
 ---
 

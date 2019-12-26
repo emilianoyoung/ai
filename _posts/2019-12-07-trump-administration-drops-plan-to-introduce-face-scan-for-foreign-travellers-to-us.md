@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
-  - title: "DHS scraps Trump-ordered plan for mandatory facial scans at US points of entry after privacy advocates, lawmakers raise concerns"
-    excerpt: "The Trump administration announced Thursday that it's backing away from a proposal that would have required all U.S. citizens to submit to facial recognition scans at airports and other ports of entry whenever they leave or enter the country. The Department of Homeland Security said it removed the idea from its regulatory agenda following ..."
-    publishedDateTime: 2019-12-06T10:52:00Z
-    sourceUrl: https://www.foxnews.com/tech/dhs-withdraws-proposal-facial-recognition-scans-us-citizens-trump-administration
-    ampUrl: https://www.foxnews.com/tech/dhs-withdraws-proposal-facial-recognition-scans-us-citizens-trump-administration.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/dhs-withdraws-proposal-facial-recognition-scans-us-citizens-trump-administration.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.302ABA07C2120CBED17AF00D95598CCE
-        width: 700
-        height: 393
   - title: "EU to discuss Palestine recognition in upcoming meeting"
     excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
     publishedDateTime: 2019-12-11T09:44:00Z

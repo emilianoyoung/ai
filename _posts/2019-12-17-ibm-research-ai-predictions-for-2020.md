@@ -97,6 +97,21 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
         width: 640
         height: 426
+  - title: "Top tech and data predictions for 2020"
+    excerpt: "Chad Meley, Vice President, Marketing, Artificial Intelligence, IoT and Customer Experience Solutions Cloud Public clouds will move from competing on commodity compute and storage to competing on full stack data analytics offerings. AWS, Azure, GCP, Alibaba and other public clouds will aggressively partner with enterprise data analytic vendors ..."
+    publishedDateTime: 2019-12-26T11:30:00Z
+    sourceUrl: https://www.itproportal.com/features/top-tech-and-data-predictions-for-2020/
+    ampUrl: https://www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
+        width: 700
+        height: 467
   - title: "Healthcare’s digital transformation: 5 predictions for 2020"
     excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
     publishedDateTime: 2019-12-19T13:42:00Z

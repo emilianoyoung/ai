@@ -99,6 +99,21 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
         width: 640
         height: 426
+  - title: "Top tech and data predictions for 2020"
+    excerpt: "Chad Meley, Vice President, Marketing, Artificial Intelligence, IoT and Customer Experience Solutions Cloud Public clouds will move from competing on commodity compute and storage to competing on full stack data analytics offerings. AWS, Azure, GCP, Alibaba and other public clouds will aggressively partner with enterprise data analytic vendors ..."
+    publishedDateTime: 2019-12-26T11:30:00Z
+    sourceUrl: https://www.itproportal.com/features/top-tech-and-data-predictions-for-2020/
+    ampUrl: https://www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
+        width: 700
+        height: 467
   - title: "IBM Research AI Predictions for 2020"
     excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
     publishedDateTime: 2019-12-17T17:08:00Z

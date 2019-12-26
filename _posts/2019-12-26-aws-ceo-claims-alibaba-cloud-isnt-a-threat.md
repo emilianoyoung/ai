@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.04EF9ADA47B1DED66DD056D6DC0C3E77
         width: 700
         height: 393
+  - title: "Alibaba Cloud growing but only in China: AWS CEO"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
+    publishedDateTime: 2019-12-26T07:10:00Z
+    sourceUrl: https://telecom.economictimes.indiatimes.com/news/alibaba-cloud-growing-but-only-in-china-aws-ceo/72976664
+    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/alibaba-cloud-growing-but-only-in-china-aws-ceo/72976664
+    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/alibaba-cloud-growing-but-only-in-china-aws-ceo/72976664
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.0170A8ECE680CBFCE45544E7E542CAC5
+        width: 700
+        height: 379
   - title: "Alibaba Cloud growing but only in China: AWS CEO Andy Jassy"
     excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
     publishedDateTime: 2019-12-26T04:27:00Z
@@ -54,17 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C25E1F93AFCDB173B98876E135F32619
         width: 280
         height: 210
-  - title: "Alibaba Cloud growing but only in China: AWS CEO"
-    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we''re working with customers, and they''re considering who they''re going to use in China is where we mostly see them. I don''t think they have much of a ..."
-    publishedDateTime: 2019-12-26T04:12:00Z
-    sourceUrl: https://www.outlookindia.com/newsscroll/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
-    ampUrl: https://www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
-    cdnAmpUrl: https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 39
   - title: "Amazon plots quantum leap as Alibaba makes strides in cloud"
     excerpt: "LAS VEGAS -- Top cloud computing provider Amazon Web Services sees Alibaba Group Holding catching up in the sector, but largely limited to China, CEO Andy Jassy told Nikkei, with the Amazon.com unit aiming to widen the gap with the competition by strengthening efforts in such areas as artificial intelligence and quantum computing. AWS was ..."
     publishedDateTime: 2019-12-26T00:13:00Z

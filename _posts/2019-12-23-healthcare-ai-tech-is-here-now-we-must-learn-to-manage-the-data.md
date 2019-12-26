@@ -65,6 +65,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
         width: 454
         height: 340
+  - title: "To stop a tech apocalypse we need ethics and the arts"
+    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
+    publishedDateTime: 2019-12-26T10:54:00Z
+    sourceUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/
+    ampUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
+    cdnAmpUrl: https://www-theafricareport-com.cdn.ampproject.org/c/s/www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
+    type: article
+    provider:
+      name: The Africa Report
+      domain: theafricareport.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.7B8E40978C2F06FD02ADC6EDFD4A9869
+        width: 700
+        height: 399
   - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
     excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
     publishedDateTime: 2019-12-23T12:03:00Z

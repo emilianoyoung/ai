@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/mit-is-using-computation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-is-using-computational-imaging-to-view-the-unseen/
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Mapping lung cancer epithelial-mesenchymal transition states and trajectories with single-cell resolution"
-    excerpt: "Neural network for projecting onto the EMT–MET PHENOSTAMP To model the non-linear structure of the underlying 2D EMT–MET state map, we constructed a single-layer-hidden artificial neural network model using the above six markers as input and the reduced 2D t-SNE feature space as a bivariate response. Specifically, we used the six input ..."
-    publishedDateTime: 2019-12-06T10:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13441-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.23EF253591DC6EC76D1178454E64E86F
-        width: 500
-        height: 685
 
 secured: "X4p0nTr+OB84h0aYlkDNQQAAESY0ldv/+AqYgfEs41Mv8CHaCnGLAT7xfPl49DtGZYJWbTo2v+nnnv7h93hNWSokLM7mSVFQVdNRjvr9LPstLzCzyRZgcNGeippF0jvZKhGHWs28uu3XWrLIf1232JdD6Y13Y95xPMHsmC/wIViSIMydes5k5+Qk0Xac9O1KVBpUXLpdPoSy84T3ZaikI1RyOReOgAnp/S4tSdURVQrnjR9CLNZFDLHdv3Id12pcFWbHxCMIKvgr6G0QHRi9Eg==;8d6ejwg0IbQPPphXVxQuIw=="
 ---
