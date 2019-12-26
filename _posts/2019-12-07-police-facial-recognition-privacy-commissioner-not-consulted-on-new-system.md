@@ -67,19 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
-    excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
-    publishedDateTime: 2019-12-06T13:47:00Z
-    sourceUrl: https://www.meritalk.com/articles/sens-coons-lee-argue-for-facial-recognition-technology-warrant-act/
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
-        width: 700
-        height: 392
   - title: "Children’s Hospital buys potentially illegal face-recognition technology"
     excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
     publishedDateTime: 2019-12-08T01:07:00Z

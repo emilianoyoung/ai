@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Ground Breaking Year for noHold's Artificial Intelligence Platform, SICURA®"
-excerpt: "MILPITAS, Calif., Dec. 26, 2019 /PRNewswire/ -- As 2019 is coming to an end, we are happy to reflect on the milestones noHold was able to achieve this year. Here are a few of the major accomplishments: \"This year we have celebrated our 20 th Anniversary, making noHold the most experienced company in the AI-based Virtual Assistant space. We ..."
-publishedDateTime: 2019-12-26T13:48:00Z
-sourceUrl: https://finance.yahoo.com/news/ground-breaking-noholds-artificial-intelligence-133600947.html
+excerpt: "MILPITAS, Calif., Dec. 26, 2019 /PRNewswire/ -- As 2019 is coming to an end, we are happy to reflect on the milestones noHold was able to achieve this year. Here are a few of the major accomplishments: Partnering with a financial institution that now utilizes Virtual Assistants for over 300 banks across the US. Also, deploying a Virtual ..."
+publishedDateTime: 2019-12-26T12:36:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/ground-breaking-year-for-noholds-artificial-intelligence-platform-sicura-300979109.html
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "NNfeW7A0DRdF23E0MnzuzjMf7a9wO9v3cNAE4OjH7pMP4HksU02rz2uiTASnbwngBJMk+5RbXG7AoTgAZ3V/0gpcfYl4oMnsYvd1eSXdi4y48tWQ+WbkwVdt58awqyAlE2EVElfNBlzc0I/P8MjfmZ50g2plGHxge1MSTWL3DW4e4oqM9/534uvm9xsVj6ZZi6wZz1eWotc/ArhPAQm3VTbJFVwXAaVWi6/xbXNdggBvhIV8j+k5ZHABbepStPGVk/IKwsbpN3UZ7zeaAlpQMA==;8uzfaKI8p1YHkdnVU7ODzA=="
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "Ground Breaking Year for noHold's Artificial Intelligence Platform, SICURA®"
+
+secured: "Jhicz7fRuDbmF2qm2YWl+AeXOGE8B8Uph5PoaZpydbQOtRa5sWE5M+vrISiHSb3L7GLxdF1TH7hg6m6Dfodu1PzdHmuHQ5GmpcTKyAxEfjag7hMk6tsA5L35TA+ZFz1CXyvmMWAuGnIQrBUjGKOqnm2uszv+S3migRuh2tPpgYpDXG+2jLgiAQ74+OCgtq5UmDKl6O1KT4R0ytSXgWpyrV9PN2x8+gGZ+vE3l4vw61QWCWf5GKG559pHwEdf6SMLyNEgrVTRBxsISUaOYFlJHQ==;voxk/tZwuZS89kHw+682Zg=="
 ---
 

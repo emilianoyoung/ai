@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
+title: "Mock skyscrapers, simulated rain at Singapore self-driving test centre"
 excerpt: "Shipping containers are also stacked up to emulate how high rises could potentially block satellite signals to self-driving machines. The CETRAN centre, run by Nanyang Technological University (NTU), even has a rain-making machine that can simulate the frequent tropical downpours in the Southeast Asian city-state of 5.7 million people."
 publishedDateTime: 2019-12-22T03:16:00Z
-sourceUrl: https://www.ibtimes.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-centre-2890262
+sourceUrl: https://news.yahoo.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-031626089--finance.html
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.B0D98BADDFC83C08620131BA35FB332A
+  - url: https://www.bing.com/th?id=ON.88BE12B5FD08C9BE4ACD54B17BD5854B
     width: 700
     height: 466
-    title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
+    title: "Mock skyscrapers, simulated rain at Singapore self-driving test centre"
 
 related:
   - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
@@ -38,6 +38,6 @@ related:
         width: 480
         height: 315
 
-secured: "VXCsK6mbOJiRUOqEwme8bxA7Gf7pkS/VZoiDITn+IU0CwcDxRPWJPkClpWZhXebWjN0rdvnseEDfOlXuzBe9B5pormM6DKYSoEaDVywrbseXDoc1oz9AkS4Fu4PKR9VtaHHu/BMABj5gMqm9oPm/H1wQFWup3RQtD32oNuugIRflCtVlmA0zKjoMGGfUvA4fEsdG5a9/Z/nfivQV2ZvvJJWZd73ZKg7H1+yBiViYLKZjNgon6Jgc9j3jSsW8l49TqAQJhygoM5lKRZk8Z3YnZA==;3pFR7HPsWxcTXkUn9jkyDg=="
+secured: "hUGtdWvI+ZtJytdi7BWYCCnb9skDViqoSYkVWwK5ehXFq5HCJs5m/iaSyMLyG0oJIF3f/HAibaK3z3ViPpTrxk9cwmNkBzNlm8it3FAgF5L3ESuAFs/V6TeTVpwPh4jriukR4xMjcJlngJDQscNsKMYCHF4IffQZ1zBO24l0W2AhK7IC/6pPljHQJ748Af8FJlVFhqPrr9tt1RbAe7U/RhbsRXGVNh5qsyoLpDU5C8nH+lFcHyz6zM5OrwS+Pqv8LY1hRuQgTzVqxZUiFeF1eQ==;YNMB3faUDjNnHv0cDVNo4g=="
 ---
 

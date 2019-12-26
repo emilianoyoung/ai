@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.508BBB583EBD50C6ADF7CA157100ECF2
         width: 700
         height: 350
-  - title: "AI Analytics in Adtech: 3 Competitive Advantages of Proactive Incident Management"
-    excerpt: "Many still use dashboards and static alerts, even when that leaves detection to chance. The adtech industry, along with eCommerce, fintech, telecom and gaming, are increasingly moving away from traditional monitoring to AI/ML for autonomous business monitoring. What used to take an analyst hours or even days to notice, only takes minutes for ..."
-    publishedDateTime: 2019-12-06T13:50:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/ai-analytics-in-adtech-3-competitive-advantages-of-proactive-incident-management/
-    ampUrl: https://www.martechadvisor.com/articles/machine-learning-ai/ai-analytics-in-adtech-3-competitive-advantages-of-proactive-incident-management/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/articles/machine-learning-ai/ai-analytics-in-adtech-3-competitive-advantages-of-proactive-incident-management/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.54DB0F284958B76EFCC04158D22FFEFB
-        width: 600
-        height: 314
   - title: "Notal Vision secures $25 million in recent funding round for ForeseeHome® and pipeline technologies"
     excerpt: "“We have a proven model that includes low-cost medical devices, an effective artificial intelligence (AI)-driven decision support solution ... help address the high unmet monitoring need for physicians and their patients alongside anti-VEGF therapy. “Notal Vision is uniquely positioned to continue to lead the ophthalmic home diagnostic ..."
     publishedDateTime: 2019-12-11T12:00:00Z

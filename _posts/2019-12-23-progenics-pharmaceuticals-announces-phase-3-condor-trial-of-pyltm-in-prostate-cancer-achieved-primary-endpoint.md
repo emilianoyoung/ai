@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Progenics Pharmaceuticals Announces Phase 3 CONDOR Trial of PyL(TM) in Prostate Cancer Achieved Primary Endpoint"
-excerpt: "About PROGENICS Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find ... who require systemic anticancer therapy; and oral and subcutaneous formulations of RELISTOR (methylnaltrexone bromide) for the treatment of opioid-induced constipation ..."
+excerpt: "About PROGENICS Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find ... who require systemic anticancer therapy; and oral and subcutaneous formulations of RELISTOR [(R)] (methylnaltrexone bromide) for the treatment of opioid-induced constipation ..."
 publishedDateTime: 2019-12-23T11:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-phase-3-condor-trial-of-pyltm-in-prostate-cancer-achieved-primary-endpoint-2019-12-23
+sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-phase-3-condor-trial-of-pyltm-in-prostate-cancer-achieved-primary-endpoint-2019-12-23-7184024
 type: article
 quality: 33
 heat: 33
@@ -38,6 +38,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "JE3Ih78ewtfBm/fYQbvzWKKzO6Yzc0yFlGWMX6aEjIlCEB/VHpm3PWbJ+pjuSGEsXrCKbNy9zlZdLGO21VCoFkAggTWtabyRf5qyeYnSYdVilF5QLVjxKYeBQ/8ew2mQj7+TMzfAD9urrQAZYH+yZBCJRvlmTWkKg3aSiyxL6JE/eYX1fvk+w3dV/P9pa0FSi02utRF4lOcE6/zxyP1zEJyqnmeBPzjeLJ+mbTiCqPHZ1hZV0F7FqBs5Arf2lV0zaR4Gv4ca2JMA9wEptWfa5Q==;d1onGk5Ui5bBVkDkOd82IQ=="
+secured: "0MX5GanNKhQmfuxa2tB/k15JfL5iRS9fnBmMukcn+FU+bKU58EsEoKXrTNpAGFfIWPifA+NYWSRpe2Fe2sfTmAxRY+aq9VGBJ+x+b4dddpptNHVT736//mgjdEqBY7Ve7mCprP7yECMrjzMm1CkW+ws98KRGT46qPd1xpSY6xvV2DEWGt5FEZeCPQUZDlShMRu9h09IiMF2kGuLRuPvuVojzfqhKcFovE09LNcF0YEUOntRPh3f/5A8cxqCm7wouor61XR+OsB0Xuq0QfZ4dRg==;Fh4QICwRx5ZHpm2TGbjmfA=="
 ---
 

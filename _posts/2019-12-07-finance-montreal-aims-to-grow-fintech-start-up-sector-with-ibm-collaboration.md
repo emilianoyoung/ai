@@ -55,15 +55,6 @@ related:
       - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
         width: 300
         height: 300
-  - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
-    excerpt: "IBM Analytics and IBM Security. Watson: FinTechs can infuse AI into their business processes, helping them to make more accurate predictions, automate decisions and optimize processes. IBM Blockchain: Offers the ability to secure cross-border transactions and build an ecosystem of trust for partners and clients around the world. IBM Analytics ..."
-    publishedDateTime: 2019-12-06T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/finance-montréal-aims-to-grow-fintech-start-up-sector-with-ibm-collaboration-1028744363
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
     excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
     publishedDateTime: 2019-12-09T10:03:00Z

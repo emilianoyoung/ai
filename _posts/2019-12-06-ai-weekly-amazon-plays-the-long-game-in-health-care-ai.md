@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,19 +57,6 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 43
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
 
 secured: "1SO9/KiH1ynUIvv5JRMSgs9+2U9bSt4RYFQMUHt89IKtCUmlbrxiaJKByrXGeXbfK6PQOm/A+66xIBRfJGwnf/JF/dDtQCwfQiKh3NMJIi7uz+eZO8m9OvZpXg2Uqc0R4Q2xLsBGtWewoNr+ipd9qFzNBodtdYUbDILG+74ZrEA++DYnDn4mZcxHh0quaX8Ehc6KYms+3YhcpXVgS/xcNJVd2s4OnafoPKRHsGW4MSOpQpnVTvFWm+7Omr0omxl/15vXif7K3hOahbCeODCsDw==;uzBDsMZv9ZnsRahR8NYq9w=="
 ---

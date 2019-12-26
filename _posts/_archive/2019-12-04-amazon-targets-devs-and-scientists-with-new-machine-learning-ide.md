@@ -47,7 +47,7 @@ related:
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
+    publishedDateTime: 2019-12-05T11:03:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -111,6 +111,6 @@ related:
         width: 700
         height: 525
 
-secured: "QdY6ka4nTMl9nRkBsksZuNFXKG25ilZDysRAJZcd1ubcuwq524mWyLVT4BSWZGcZVEmjG1gLqayNro8YM0TaFppJ1sNRFT3f4/DeMw49fQBQQOzKafSm/gERUlSQcw3aA975dhoy9A2GbZ/dFSGOIw0oT2vpK0rP5rBwy+q/+XWptayvoktVqQmxi7/U9OybAH78+y/Ha3zwrSK4BX+fIFq1M1zvIs2llb6n4Mnab30TfOdbV6T3mgB1s0mUUGxVmzakQd9A+rv2UfGIwB1guA==;YwaPTDyCTZsgAah/WgesLw=="
+secured: "XcApyrmAeb59oYOy7oPtLBFL4tgDyQ8j1T6Vss+jJxHSPpVbW8VNJVs2pwo0Ewo6ENQLY5hht43KTCNjSzVCxaZEBL3FYDll48eM7D4UtFTL8UAlC2T8O9QA2GIS2tip65JdXsohhgmVeFu3II03vXMFVOPacAAaYNGQNqoxXzSqOUlETMv1yFp9kxhdH4BMZwD1H37Z3mpbpAtzTgpiFuixO4LRfPLuPuVkefVk3HnK+YPLDKf1SzRXcTdr1duRTJWS+C0mVjqRST1HxmYhxw==;Nyg2BiXvUaw9gwyW1N1CMQ=="
 ---
 

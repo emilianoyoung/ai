@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T13:56:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
 type: article
 quality: 80
-heat: 370
+heat: 380
 published: true
 
 provider:
@@ -157,18 +157,18 @@ related:
         width: 1200
         height: 630
   - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
-    excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191218005451/en ..."
-    publishedDateTime: 2019-12-18T21:43:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chips-163000152.html
+    excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The generation of massive amounts of data in data centers has necessitated the need for more power than what ..."
+    publishedDateTime: 2019-12-18T15:30:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005451/en/Global-Artificial-Intelligence-AI-Chips-Market-2019-2023
     type: article
     provider:
-      name: YAHOO!News
-      domain: yahoo.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 52
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/216f9D8Jq.XktKgjqwptMg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/e07bae27e4d07932f29cad0fbe371a46
-        width: 480
-        height: 270
+      - url: https://mms.businesswire.com/media/20191218005451/en/763775/23/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
+        width: 1200
+        height: 627
   - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
     excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
     publishedDateTime: 2019-12-18T16:58:00Z
@@ -225,6 +225,19 @@ related:
     excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This report focuses on Industrial Artificial Intelligence Market report will make detailed analysis mainly on in-depth research on the development environment, Market size, development trend, operation situation and future development trend of Industrial Artificial Intelligence Market on the ..."
     publishedDateTime: 2019-12-23T17:01:00Z
     sourceUrl: https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-2019-analysis-by-global-manufacturers-siemens-ag-ibm-corporation-alphabet-inc-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
+    publishedDateTime: 2019-12-26T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
     type: article
     provider:
       name: MarketWatch

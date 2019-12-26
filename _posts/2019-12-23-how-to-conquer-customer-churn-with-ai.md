@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-custo
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2019/12/23/how-to-conquer-customer-churn-with-ai/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7901F550CCB4452B07A0887C2A75FE51
         width: 700
         height: 466
+  - title: "How Companies Can Use AI to Give Customer Communications A Personal Touch"
+    excerpt: "One solution to deeper customer engagement – which can boost a company’s all-important Net Promoter Scores and fine-tune those critical Next Best Action marketing strategies – is the utilization of Artificial Intelligence (AI) for routine account and financial communications. Learn More: Want to Reach Your Customers? Strike up a ..."
+    publishedDateTime: 2019-12-26T14:35:00Z
+    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-companies-can-use-ai-to-give-customer-communications-a-personal-touch/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.3D354DACEBACC2E8D833F33FC12CD2D8
+        width: 600
+        height: 314
 
 secured: "Rf09G1mwp8W9glmrG00QuAdfTRirZAT5gq4lOqKsWAjuCFK16CpxFgSD1+MVnSbIRyHgUrWpV2C8Wqa5Oh3NcfJQAQAeYeFLK1LQ+bqk1/0/Q6UjxobNoPfBf1Lt5ws6ju1+qcrdDpHWV3FDzxUWlm7ipYvvbBb0UHO2dRN/ZeJ73+jTSDfPX2OKcRoLAulBlHF6+XRMsOYddxE9EzV3cF/y8PQ7SSFnVMwikGaGCPe+vBEEI+1Ry9idilVLfNimPnc0sOIu5g07EMFY0VknmA==;EnxYKNSJosFxNfV8b0s2cg=="
 ---

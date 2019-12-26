@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-07T13:32:00Z
 sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
 type: article
 quality: 138
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
         width: 700
         height: 393
-  - title: "Sens. Coons, Lee Argue for Facial Recognition Technology Warrant Act"
-    excerpt: "At a Brookings Institution event on Dec. 5, Sens. Chris Coons, D-Del., and Mike Lee, R-Utah., made the case for their Facial Recognition Technology Warrant Act. The legislation, which was introduced in November, would require Federal law enforcement to secure a court order prior to using facial recognition technology to conduct targeted ongoing ..."
-    publishedDateTime: 2019-12-06T13:47:00Z
-    sourceUrl: https://www.meritalk.com/articles/sens-coons-lee-argue-for-facial-recognition-technology-warrant-act/
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.307D0970342C6FEBFA94E51AB8F670F4
-        width: 700
-        height: 392
   - title: "Police facial recognition: Privacy commissioner not consulted on new system"
     excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
     publishedDateTime: 2019-12-07T22:09:00Z

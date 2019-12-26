@@ -63,21 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.508BBB583EBD50C6ADF7CA157100ECF2
         width: 700
         height: 350
-  - title: "AI Analytics in Adtech: 3 Competitive Advantages of Proactive Incident Management"
-    excerpt: "Many still use dashboards and static alerts, even when that leaves detection to chance. The adtech industry, along with eCommerce, fintech, telecom and gaming, are increasingly moving away from traditional monitoring to AI/ML for autonomous business monitoring. What used to take an analyst hours or even days to notice, only takes minutes for ..."
-    publishedDateTime: 2019-12-06T13:50:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/ai-analytics-in-adtech-3-competitive-advantages-of-proactive-incident-management/
-    ampUrl: https://www.martechadvisor.com/articles/machine-learning-ai/ai-analytics-in-adtech-3-competitive-advantages-of-proactive-incident-management/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/articles/machine-learning-ai/ai-analytics-in-adtech-3-competitive-advantages-of-proactive-incident-management/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.54DB0F284958B76EFCC04158D22FFEFB
-        width: 600
-        height: 314
   - title: "Fintech OS to expand to US and Asia on £10.7 million fund raise"
     excerpt: "Fintech OS, a provider of open source, pre-built apps for digital banking operations ... of-the-box - from social and contextual to cloud and enterprise systems - and more than 20 automated financial processes for AI-enabled areas like KYC, Customer 360, pricing or risk analytics. Banks and insurance companies can also access a marketplace ..."
     publishedDateTime: 2019-12-10T11:55:00Z

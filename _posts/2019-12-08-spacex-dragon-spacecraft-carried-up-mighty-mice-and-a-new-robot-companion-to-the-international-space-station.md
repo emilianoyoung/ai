@@ -142,21 +142,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AE0136B3AA8FCAF6ED87D021E7F1FE2F
         width: 700
         height: 394
-  - title: "IBM and Airbus Send Upgraded Floating AI CIMON To International Space Station"
-    excerpt: "Developed in a collaboration between Airbus and IBM, Crew Interactive Mobile Companion or CIMON is a round device, weighing 11 pounds with IBM’s artificial intelligence Watson technology integrated. The structure is made out of metal and plastic that has been created using 3D printing. CIMON is capable of facial and voice recognition ..."
-    publishedDateTime: 2019-12-06T14:01:00Z
-    sourceUrl: https://www.cbronline.com/news/floating-ai-cimon-to-iss
-    ampUrl: https://www.cbronline.com/news/floating-ai-cimon-to-iss/amp/
-    cdnAmpUrl: https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/floating-ai-cimon-to-iss/amp/
-    type: article
-    provider:
-      name: Computer Business Review
-      domain: cbronline.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.327798066B377EF04F8560C8EF530648
-        width: 700
-        height: 477
   - title: "SpaceX Delivers 'Mighty Mice,' Pest-Killing Worms and a Smart Robot to International Space Station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. NASA has tucked some Christmas presents in the shipment for the station’s six-person crew, as well. It’s ..."
     publishedDateTime: 2019-12-08T16:42:00Z

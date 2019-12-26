@@ -31,16 +31,14 @@ images:
 
 related:
   - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks ..."
-    publishedDateTime: 2019-12-06T16:00:00Z
-    sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
+    publishedDateTime: 2019-12-06T18:42:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/facebook-taught-an-ai-the-theory-of-mind/ar-BBXS7kA
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
         width: 700
@@ -59,6 +57,6 @@ related:
         width: 700
         height: 466
 
-secured: "tDLSUHu9OVjOVQxs4b6B5FXBt9WwBGINJEiDeGZGFatP/P8tbF3fyIVXgNz9EHbTKn4I5x69wVD2lyU3zbZD4Xv2m5cwHd8ZJhFyoTXLbR3uq8dSasptQ0vpuNngIpgGuCXRlhAYbmSzmKgDx/4EGKGrwjbs2THBLQhkdFDD1mXlPb4TUrYsxFlbI6A4cwpI1t4UCNxRNIcGLI/a214bHhp1PSoTl2rjwJvgNpdTxr+XozpMHWn1YjV9e3F1gw/uHH4hvDmZBFx8GaZ2MuTl/Q==;TFAwn0nkmmc4Dr0yRPJGpg=="
+secured: "9HS96P9lA2z5m2Q8d2l2e6f9qkZimr3hZJGaekx/pnfnKk1eA+AxBAfrWEAjbU9H7MAH3oBUIY4Z5MePLs/UrDRV2E0+xaGUSdL+43/JvmyVu9M8tPFqhfBzZXeIowJ8UXW1C4PNKYuQxP/wcIVvZHc/XN5QYXXEUIjIimtKFULLI6MimxUzfJkNBmDYYRS1cE6tFetP6cm0uae/A84+TAFL2F0IfeN4JUkZF1nsr7b6W4HbbtW5e4BoVFJG026MgNYOd32fcZPBibWR02d8aw==;rVM/8cMNWMKxsdwQzIoJ+g=="
 ---
 

@@ -52,15 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9C2202FD1628604BF67BA0B698DAC65E
         width: 700
         height: 341
-  - title: "Autonomous Vehicles Aim New Highs With Driverless Tests"
-    excerpt: "The company has a partnership with Lyft to supply high-tech kits that turn vehicles into self-driving cars. Additionally, Ford expects to launch Level 4 vehicles in 2021. Baidu and Volvo have also partnered to launch Level 4 vehicles in the same year. Further, Elon Musk has stated that Tesla will have Level 5 electric vehicles ready by 2020."
-    publishedDateTime: 2019-12-06T13:20:00Z
-    sourceUrl: https://www.msn.com/en-us/money/topstocks/autonomous-vehicles-aim-new-highs-with-driverless-tests/ar-BBXQNcI
-    type: article
-    provider:
-      name: Zacks Equity Research on MSN.com
-      domain: msn.com
-    quality: 34
 
 secured: "Sv5jObLWXDz7pVJGPbzcb5tnaarglsrt37Zz8hKPKA2Yyl1w0A1HpDqQU/23o3ROccR9m7tjSxzGqX8f0l1U59sHM17dM4Upm/5XeN6nQ2xlJGuczxxfbSjQMvx2YxjovVQmDnM1x0aXx09HBrjT46t8pL4vilEqQDSFPvICZ/gUG9PwuXzgcb9V8oGp3Ryl8MSd00bLkOm6tu1vGlDEFAAzpNneBwnPDIuTHjS3N9CrVswEzlO4viilAiKNmTrilEPuDG9Yf1oIJ0CgOci+zQ==;SAY9UYwaGq1xq5Bmk80bsw=="
 ---

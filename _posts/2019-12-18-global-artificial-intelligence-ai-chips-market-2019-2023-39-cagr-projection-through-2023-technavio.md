@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
-excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191218005451/en ..."
-publishedDateTime: 2019-12-18T21:43:00Z
-sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chips-163000152.html
+excerpt: "LONDON--(BUSINESS WIRE)--The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report The generation of massive amounts of data in data centers has necessitated the need for more power than what ..."
+publishedDateTime: 2019-12-18T15:30:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191218005451/en/Global-Artificial-Intelligence-AI-Chips-Market-2019-2023
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!News
-  domain: yahoo.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://s.yimg.com/ny/api/res/1.2/216f9D8Jq.XktKgjqwptMg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/e07bae27e4d07932f29cad0fbe371a46
-    width: 480
-    height: 270
+  - url: https://mms.businesswire.com/media/20191218005451/en/763775/23/Global_Artificial_Intelligence_%28AI%29_Chips_Market_2019-2023.jpg
+    width: 1200
+    height: 627
     title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
 
 related:
@@ -230,6 +230,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
+    publishedDateTime: 2019-12-26T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
     excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
     publishedDateTime: 2019-12-21T09:38:00Z
@@ -364,6 +377,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "wxWhTUFRAF58vHFH4MwodxfFMlLjrb4pSKmGqLvDs4aJgXhGvSMRnkKYLzjqrEIQQKd7WM5VHfxgCxurM2RnVm/J7Z9HFgYe7Eks8SqitS2Bnx6BJF49u5+fxWgo66feVZZWHEMDKoslchP/3WyGH6iY89EkJL4rHagEYo5eWOauubcMqPOw7CSWHBziMgYSnhS4N2YstxD9iFnQd1zKhjfpQXh7l2Wz57R+44TaPs/pZaeiHPBTpC2gVoh2BF7fJu8XYcRk3SPj4niaakL75A==;pm8Kox+/wC4g41CEJ+EslA=="
+secured: "Y9tCyzaVNfbNG31Iv0VDzlW2gltV0PBBujDHChCCDDxnXtQYLzP2d8euuxBtkGnslTWh2JteE+i55kQBZnEPygJyTPpxI5mqpaZcKCTZTci18jBrkof5PPIP5Sx44caLNNsTj/ecoap1mQYGY0Pn1tbmPrA0GzwsH1hqTlnq2Wd7sPAQoL17j/YzqhdkyHFsNyEZDuWpSCVtj6HmpI9sk9KXZsfwyVYXCyxsmd0TJDDopvMIkPB8lgA+Tk4RItXzXlzUdtB7u0ZZezC2Ks68sQ==;xKv6daP3a+JoWgNKmdZOeQ=="
 ---
 

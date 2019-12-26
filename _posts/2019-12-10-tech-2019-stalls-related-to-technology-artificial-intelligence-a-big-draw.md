@@ -41,15 +41,6 @@ related:
         width: 700
         height: 466
   - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
-    excerpt: "IBM Analytics and IBM Security. Watson: FinTechs can infuse AI into their business processes, helping them to make more accurate predictions, automate decisions and optimize processes. IBM Blockchain: Offers the ability to secure cross-border transactions and build an ecosystem of trust for partners and clients around the world. IBM Analytics ..."
-    publishedDateTime: 2019-12-06T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/finance-montréal-aims-to-grow-fintech-start-up-sector-with-ibm-collaboration-1028744363
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-  - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
     excerpt: "and innovation sessions twice a year about emerging technologies and the evolution of AI. Through the Montréal FinTech Station, FinTechs in residency will also access IBM Garage and Design Thinking methodology sessions, enabling them to deliver customer-focused solutions at an accelerated go-to-market pace. \"At the Montréal FinTech Station ..."
     publishedDateTime: 2019-12-07T00:07:00Z
     sourceUrl: https://finance.yahoo.com/news/finance-montr-al-aims-grow-150000140.html
