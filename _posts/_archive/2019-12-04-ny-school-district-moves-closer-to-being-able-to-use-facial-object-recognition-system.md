@@ -37,21 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.81C68FE83F2CF81A50BFA71FD6C90506
         width: 400
         height: 400
-  - title: "SHC orders face recognition facility installed at police record office"
-    excerpt: "KARACHI: The Sindh High Court on Thursday expressed concerns over lack of face recognition system at the criminal record office (CRO) of police and directed the home secretary, the provincial police officer and the director general of the National Database and Registration Authority to ensure that such facility must be exclusively available at ..."
-    publishedDateTime: 2019-12-06T02:28:00Z
-    sourceUrl: https://www.dawn.com/news/1520631
-    ampUrl: https://www.dawn.com/news/amp/1520631
-    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1520631
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: http://www.dawn.com/_img/social-default.jpg
-        width: 375
-        height: 375
   - title: "Facial recognition to monitor sanitary workers in Andhra's Ongole district"
     excerpt: "ONGOLE: As per the directives of the State government, the Ongole Municipal Corporation (OMC) authorities are planning to monitor the activities of sanitation staff via facial recognition using CCTV cameras installed across the city. At present, all municipal bodies in the district including OMC use biometric thumb impression system for ..."
     publishedDateTime: 2019-12-08T05:04:00Z
@@ -135,6 +120,6 @@ related:
         width: 700
         height: 350
 
-secured: "bImBzzF0urv/CGn75i8Zn3ns1Y8GNZqt+lkNbNtNg/J/oN4kWCAwiXfUWyDI/i/O1a1CLr+2Pl0gAX+W0BBwI+7+KrI9KHrHHvlTuPnGLT+pT/b8wk8p3YYPjH1JRCon5xzmF3idL3ZTCehXkA7NsQRBxdzqfD3aHjN4FAao0YEf5gW+N7TSh4FWMaiswNWuHLC2aM3/9r3nHUoB81bEvXrF9kjOrRFvoHVU/YPcg2oZ6UeVa6OdmoNrPNapAZ2kNFm69r3lBzy5t2l/FYRLgg==;nA8Nncwz0tHuA1e/VW6fdw=="
+secured: "aIz1qML98uFKDF9qlhVNfUPTmo8N6H/L+u/l4DtQ6l/g58m4XDjUzBfYLlQrTM4D3HeUyXVskefE3AkPJ0AEdhG7ckUmFLQ7KTAcvFFrekVBsVYIoFYYwTlSG9v7rQSh6M7SP6G/GTdjl43lWg8MwEh06Vw/ASvw38KwPBP4OUbjtsVgWT9GWmj55EJp/UxWj39RDrs37Ol+YriojF1OeSNzcJ9/sJ0SveDauCF1CXMnAb3S7RtVNmTksbU33RKKzX3AsHUJJqULrNYpJWro7w==;dDls61JuvK4SCfNtR1na0g=="
 ---
 

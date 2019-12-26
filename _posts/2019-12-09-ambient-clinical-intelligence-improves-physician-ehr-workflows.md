@@ -125,19 +125,6 @@ related:
       - url: https://www.bing.com/th?id=ON.53E6DDFFF64E18A5AB106D5F2FBCB74D
         width: 620
         height: 465
-  - title: "VA creates National Artificial Intelligence Institute to advance R&D"
-    excerpt: "The Department of Veterans Affairs, the nation’s largest integrated healthcare system, is centralizing the agency’s efforts to advance its artificial intelligence research and development capabilities. The VA on Thursday announced the establishment of the National Artificial Intelligence Institute, a joint initiative by the Office of ..."
-    publishedDateTime: 2019-12-06T03:41:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/va-creates-national-artificial-intelligence-institute-to-advance-r-d
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2DF0C5FD66F33D96842510FEAE692710
-        width: 700
-        height: 367
   - title: "VA Announces New National Artificial Intelligence Institute"
     excerpt: "In September 2019, the organization announced the launch of a new predictive analytics and artificial intelligence center in Palo Alto, California. The National Center for Collaborative Healthcare Innovation (NCCHI) was established to develop impactful healthcare solutions for veterans and their families. “The NCCHI is an important part of ..."
     publishedDateTime: 2019-12-09T15:11:00Z

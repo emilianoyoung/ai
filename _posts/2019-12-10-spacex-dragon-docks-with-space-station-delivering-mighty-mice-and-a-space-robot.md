@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.41051A2E3B6FC34F18866881196334A7
         width: 700
         height: 367
-  - title: "Emotion-sensing Robot Heads to Space Station to Help Astronauts"
-    excerpt: "WASHINGTON - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit. The Crew Interactive Mobile Companion 2, or CIMON 2, is a spherical droid with microphones ..."
-    publishedDateTime: 2019-12-06T03:16:00Z
-    sourceUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts
-    ampUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
-    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FDB8B10CC5AE8BB7F4E05FEB4B531952
-        width: 700
-        height: 466
   - title: "'Mighty Mice,' Worms, Robot Among Space-X Deilvery to Space Station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas presents in the shipment for the station's six-person crew, as well. It's SpaceX's 19th ..."
     publishedDateTime: 2019-12-08T14:44:00Z

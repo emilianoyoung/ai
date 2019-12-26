@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
         width: 700
         height: 525
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 43
+    images:
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
 
 secured: "2cTkjW3++TeB9rBu0FdbsB5DtLcbKA56RFBxyKnDDppIG4xW1rm62iRMZpSKvn9Blkt7OAXIuKDz068X+OJ2iWc2I2IBEVcMVXLBbbKgFwMcEsSNVLbzLPd/YE1fNc7SdQUR89InmIfFwiLORKtG6yzGJaqGSd8A8ie2hPGnlNcMfAiBqTDLxdjIkwUy7G0GcaXjhmyJFSU7DCYE5yu8fAxMpoM33kcSw1ILu/S6UrWaYY8Kl2s8IgjnaNzwKN7ypadqg+YNwkW410RbZ0kppw==;tgBXB4jo45VJTsY7V3KOhw=="
 ---

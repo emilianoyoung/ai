@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The AI Eye: AWS Announce New SageMaker Capabilities and Wipro Launching Advanced Cloud SOC Services with Microsoft Azure Sentinel"
-excerpt: "Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial Intelligence (AI) and Orchestration capabilities for rapid threat detection and response for its clients across hybrid ..."
+excerpt: "Today, with these launches, we are bringing these concepts to machine learning developers for the very first time.\" Wipro Limited (NYSE:WIT) is launching an advanced cloud Security Operations Centre (SOC) services using Microsoft (NasdaqGS:MSFT) Azure Sentinel. This will see Wipro provide \"managed cloud SOC services with built in Artificial ..."
 publishedDateTime: 2019-12-04T17:39:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-aws-announce-new-sagemaker-capabilities-and-wipro-launching-advanced-cloud-soc-services-with-microsoft-azure-sentinel-2019-12-04
 type: article
 quality: 102
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -70,32 +70,17 @@ related:
       - url: https://www.bing.com/th?id=ON.233F138D93C30B66F532A67EDBA46649
         width: 700
         height: 466
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
+  - title: "Linker Networks Extends its Auto-labeling Service to Microsoft Azure Stack Hub to Empower a New Generation of Customer Experiences"
+    excerpt: "BOSTON, Dec. 1, 2019 /PRNewswire/ -- Linker Networks, Inc. (\"Linker\") today announced that it is bringing its AI based auto-labeling with continuous learning service to Azure Stack Hub, an extension of the Azure cloud for consistently building and running ..."
+    publishedDateTime: 2019-12-01T14:13:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n14908555/linker-networks-extends-its-auto-labeling-service-to-microsoft-azure-stack-hub-to-empower-a-new-ge
+    ampUrl: https://amp.benzinga.com/amp/content/14908555
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14908555
     type: article
     provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 43
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
-  - title: "Microsoft Signs Multi-Year Alliance Deal With Japan’s NTT Corporation For Enterprise Solutions On Azure Cloud Platform"
-    excerpt: "While Microsoft will offer the trusted Azure cloud platform and AI expertise, NTT will bring its ICT infrastructure, managed services, and cybersecurity expertise. Incidentally, NTT confirmed that Microsoft Azure is its preferred cloud platform. This partnership should bring in multiple new innovations in the field of wireless communication ..."
-    publishedDateTime: 2019-12-11T07:00:00Z
-    sourceUrl: https://appuals.com/microsoft-signs-multi-year-alliance-deal-with-japans-ntt-corporation-for-enterprise-solutions-on-azure-cloud-platform/
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.7C34F8F8006138A1F4F3CAB941DAE893
-        width: 700
-        height: 468
+      name: benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "The AI Eye: GBT (OTCPINK: $GTCH) Announces Deployment of Avant! AI Into Sports Handicapping and AWS (NasdaqGS: $AMZN) Partners with NFL"
     excerpt: "Amazon Web Services (AWS), a subsidiary of Amazon (NasdaqGS:AMZN), has partnered with the National Football League (NFL) to advance player health and safety using the former's \"artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before\". Andy Jassy ..."
     publishedDateTime: 2019-12-06T18:32:00Z
@@ -106,6 +91,6 @@ related:
       domain: investorideas.com
     quality: 2
 
-secured: "8m9yDfSXw9QAhAV9QZpGa5zsKREstcczGVl3OEUf68+8QjlWH2Qg2Sy4DtiMpe7J3gmXvaOasfHhFP9Guk5GZzrbZ7s1L73KLHn7TUo41af4XLCY5RoWchxGYLQw28MpIG2oCOvUgJlSZSqKHzzmdMjcKG3T1yASyxgnP+c1Od5yP8sg/Qwdci9So12QHQk337uBERvP/qrEAt8TAgyhZWeQIQYU2Rs1eQRiu1BoTXde2BoIQrqnSCSHvN7EGCm9m9BmNC1bf+p9zfPpHI3KKA==;nxscju5cG/OuuOlVNjeKgg=="
+secured: "U9BLEyfxBjX/SIGUnOnwQpC/lSHypGXvoDzl5MwRY/BzaYo/arZtCbI5e4WOtoBeCpxSLIOja1MAXmWZ2Els0OF0xfqYkl8VKFCss+EVbkzRhKgUsb4HyrNoVxwU56cfaxTV9vKSzydHQ6YrVp1NatBgIPX7vAYbjs2Y3egTUp+NQ2omPRf+ni1V2nHU/hxLR/g3vLRUNmF7QVscCD6ZfuqPGXEtS05jldyVs3hfoJppVPOzos/Wd9k6wYfOdZBiAx5soh5WHLisaamZhDVroA==;rUx2sMafvEndc5clAijKVQ=="
 ---
 

@@ -1,0 +1,52 @@
+---
+category: news
+title: "Alibaba Cloud growing but only in China: AWS CEO"
+excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we''re working with customers, and they''re considering who they''re going to use in China is where we mostly see them. I don''t think they have much of a ..."
+publishedDateTime: 2019-12-26T04:12:00Z
+sourceUrl: https://www.outlookindia.com/newsscroll/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+ampUrl: https://www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+cdnAmpUrl: https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Outlookindia
+  domain: outlookindia.com
+
+topics:
+  - AI
+  - AWS AI
+
+related:
+  - title: "Alibaba Cloud growing but only in China: AWS CEO Andy Jassy"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
+    publishedDateTime: 2019-12-26T04:27:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/alibaba-cloud-growing-only-china-041247834.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C25E1F93AFCDB173B98876E135F32619
+        width: 280
+        height: 210
+  - title: "Amazon plots quantum leap as Alibaba makes strides in cloud"
+    excerpt: "LAS VEGAS -- Top cloud computing provider Amazon Web Services sees Alibaba Group Holding catching up in the sector, but largely limited to China, CEO Andy Jassy told Nikkei, with the Amazon.com unit aiming to widen the gap with the competition by strengthening efforts in such areas as artificial intelligence and quantum computing. AWS was ..."
+    publishedDateTime: 2019-12-26T00:13:00Z
+    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Amazon-plots-quantum-leap-as-Alibaba-makes-strides-in-cloud
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.F951046B07FA4F2E1789601153C43642
+        width: 700
+        height: 350
+
+secured: "iLYRA9juegn3P9D/LjM75Y6UtIgnt6zkSQduRyezj9sjEvJxFWeSePASAp1i+qArKYBaAnqMFs4CGLPoo9HgD916eOHaQFjNo4DMJOyZ4udBmtY8tuId/6DF462wLN+qZM69OO+wRDgK6IrNUjHZqQsgGGGRb929sXNWqUUPCeLX2AIarNdxWG5esuycAOJZwPriOvz7JRB3+u/THsN+Vizsn0uTOp73DFrVtVHndF6xLDs8iE1fLdNgKalCCWZ1WAqXieYNFBQU9Lm29Jiu+Q==;9Y+3P647gAOU/8KKqJLvag=="
+---
+

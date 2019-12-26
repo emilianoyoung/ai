@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
         width: 700
         height: 700
+  - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
+    excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
+    publishedDateTime: 2019-12-26T04:09:41Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-to-unveil-neon-at-ces-2020-teased-to-be-a-human-like-ai-assistant-with-support-for-hindi/ar-BBYlz8Z
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.374F61F40B85003F4DB6B809EA1AC8AC
+        width: 600
+        height: 315
 
 secured: "4GsBSu/z2lMJxIEL9ueqblXNKcczlwsfHqPv6A+50eH3zNZQxuWS126/D0zQNgOV0Wp2Nq7SK+5tGjqcoPYqZEBlugY82t9eLD9iG544lSUumIzLUMpIj5403Zx9JSRCCp9Tm4+4lc8IQ1dEN3fB/reLDM/xonC3Q8BqsXWuVztzrBjog3yVwMkKKeDqKQoayPXLno0KMNpHjjC9/MNcnmtG//R1jJbduAivS6gm06Hywdbqqkob7Nj9U+LsdVch9lQL8lU9eK5LIzkAo6TGCQ==;NkBf3R8m0hTTAub82OOxQw=="
 ---

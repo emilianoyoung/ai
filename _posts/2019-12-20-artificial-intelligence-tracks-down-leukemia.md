@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-le
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
+    publishedDateTime: 2019-12-26T04:57:00Z
+    sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "j01OXkO/7VAoYtmlBCh8eenhpiIY4TUqMIPVECsTl6VuDBkFqhsxShbcRd3BZeiXPPTnC/DjAhyf3zBwy9Umfkc+EMRwtjnYCUZvFBRXqXV99ExQxTxkB1GGAueHpO3bKCxzLSepLTQuibxa9aVRd2A+MLEONKiBtuCvwozXcsA+gmc+gjPyTAxVR3wOLBHsykpdx3/3+K+MuK4Cyb4UAsxXdeVMVOr6JfjnN4+tnHF0FcUBgBBnHvraxiX0LmuCVm06mprJwsAXMS8yY61EGw==;fHJPs00KZubSOurcQ1g0sg=="
 ---

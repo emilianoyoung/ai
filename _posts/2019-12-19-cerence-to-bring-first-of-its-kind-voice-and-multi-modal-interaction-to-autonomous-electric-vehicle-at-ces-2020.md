@@ -91,6 +91,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
         width: 700
         height: 338
+  - title: "Relevant at a Slant: A Conversation with Joseph Mosconi"
+    excerpt: "But with goblins. And melting sea ice. When I started working in the tech industry — geez, almost 20 years ago now — I spent my days at a small startup working on natural language processing and machine learning. We were attempting to create software that could automatically understand the meaning of webpages and classify them into ..."
+    publishedDateTime: 2019-12-26T04:15:00Z
+    sourceUrl: https://lareviewofbooks.org/article/relevant-at-a-slant-a-conversation-with-joseph-mosconi
+    type: article
+    provider:
+      name: Los Angeles Review of Books
+      domain: lareviewofbooks.org
+    quality: 24
+    images:
+      - url: https://lareviewofbooks-org-cgwbfgl6lklqqj3f4t3.netdna-ssl.com/wp-content/uploads/2019/12/josephmosconi.png
+        width: 400
+        height: 321
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z

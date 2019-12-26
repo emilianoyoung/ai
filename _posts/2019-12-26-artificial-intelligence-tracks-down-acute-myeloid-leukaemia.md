@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
-excerpt: "Artificial intelligence is a much-discussed topic in medicine ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
-publishedDateTime: 2019-12-23T12:56:00Z
-sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
-ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
-cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+title: "Artificial intelligence tracks down acute myeloid leukaemia"
+excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
+publishedDateTime: 2019-12-26T04:57:00Z
+sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Medindia
-  domain: medindia.net
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
-    width: 300
-    height: 250
-    title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
 
 related:
   - title: "Artificial intelligence tracks down leukemia"
@@ -41,6 +33,21 @@ related:
       - url: https://www.bing.com/th?id=ON.48E1ABE8D96AFBA19D983319235FD07D
         width: 700
         height: 393
+  - title: "Artificial Intelligence That Tracks Down Leukemia Discovered"
+    excerpt: "Artificial intelligence is a much-discussed topic in medicine ... Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier.\""
+    publishedDateTime: 2019-12-23T12:56:00Z
+    sourceUrl: https://www.medindia.net/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    ampUrl: https://www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-that-tracks-down-leukemia-discovered-192212-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
+        width: 300
+        height: 250
   - title: "Study Shows Artificial Intelligence can Detect Acute Myeloid Leukemia"
     excerpt: "Their method is based on analyzing the gene activity of blood cells. When applied in practice, this method could support traditional diagnostics and probably expedite the start of therapy. The study outcomes have been reported in the iScience journal. Artificial intelligence is a much-discussed topic in medicine, especially in the field of ..."
     publishedDateTime: 2019-12-24T12:12:00Z
@@ -65,16 +72,7 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
-    publishedDateTime: 2019-12-26T04:57:00Z
-    sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
-secured: "iwzPYnxUyzGTH3+SE9ZCal4NFUCCvmVpixvwokNzu1DYH4JNrfV6uHPoAP0cxYWGf5TqkPLwePWGBzmb74nO7CZaFAhtJf45jFZ5P6mVwgmjorebzKJHjDEkUS+xuyHx98a7MIImX6j0xo8qDo1ikZK7CMjrZBTQw8Mi1bCv8RVSWMAvlmX4yOKaBfkPdQjacNe1fZd6wB9T+2kYlVSrMBOrPf/6/V3VXQ5AsFdgbVPxShCTW+vLZYgWhCyFIBCQZ/T9TgXXbc+rkcQZY0dkHw==;KjSnLUomHLoK2Q8922mmuA=="
+secured: "ZpjEQD3AaQZR5OVEn9gVKJ+fFi72c8mwUUB6407+eEldKyBnM3aJpDDRpQkACFyWfjfvw4oc7Z0yXpeJdZpit11NEXusF0j5crVsomUWexrr0mmT92IgjR+/oa0f7XWOyifXEHlQVo8JdTviQgXaS5d8vszQ9EaVHsUZWY8ZuTg/tyNrCE/aoxUpjUASimyhso1XwZ61ad+hRo0dY+VQ7TjUcB4PRbpG1mkKpgIcd/1/FfqkkxIxH0ZWad+NZO+pmbL5/lqsb0iqKdXVoSV2uA==;jYtnTko4QYGtY91yUmSpBQ=="
 ---
 

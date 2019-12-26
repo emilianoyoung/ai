@@ -1,26 +1,27 @@
 ---
 category: news
-title: "How AI-powered bots could drive the conversation on pending federal regs"
-excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
-publishedDateTime: 2019-12-24T18:06:00Z
-sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
+title: "Relevant at a Slant: A Conversation with Joseph Mosconi"
+excerpt: "But with goblins. And melting sea ice. When I started working in the tech industry — geez, almost 20 years ago now — I spent my days at a small startup working on natural language processing and machine learning. We were attempting to create software that could automatically understand the meaning of webpages and classify them into ..."
+publishedDateTime: 2019-12-26T04:15:00Z
+sourceUrl: https://lareviewofbooks.org/article/relevant-at-a-slant-a-conversation-with-joseph-mosconi
 type: article
-quality: 36
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Federal Computer Week
-  domain: fcw.com
+  name: Los Angeles Review of Books
+  domain: lareviewofbooks.org
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
-    width: 700
-    height: 338
-    title: "How AI-powered bots could drive the conversation on pending federal regs"
+  - url: https://lareviewofbooks-org-cgwbfgl6lklqqj3f4t3.netdna-ssl.com/wp-content/uploads/2019/12/josephmosconi.png
+    width: 400
+    height: 321
+    title: "Relevant at a Slant: A Conversation with Joseph Mosconi"
 
 related:
   - title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
@@ -79,19 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
-  - title: "Relevant at a Slant: A Conversation with Joseph Mosconi"
-    excerpt: "But with goblins. And melting sea ice. When I started working in the tech industry — geez, almost 20 years ago now — I spent my days at a small startup working on natural language processing and machine learning. We were attempting to create software that could automatically understand the meaning of webpages and classify them into ..."
-    publishedDateTime: 2019-12-26T04:15:00Z
-    sourceUrl: https://lareviewofbooks.org/article/relevant-at-a-slant-a-conversation-with-joseph-mosconi
+  - title: "How AI-powered bots could drive the conversation on pending federal regs"
+    excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
+    publishedDateTime: 2019-12-24T18:06:00Z
+    sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
     type: article
     provider:
-      name: Los Angeles Review of Books
-      domain: lareviewofbooks.org
-    quality: 24
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 36
     images:
-      - url: https://lareviewofbooks-org-cgwbfgl6lklqqj3f4t3.netdna-ssl.com/wp-content/uploads/2019/12/josephmosconi.png
-        width: 400
-        height: 321
+      - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
+        width: 700
+        height: 338
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z
@@ -124,6 +125,6 @@ related:
       domain: businessinsider.com
     quality: 13
 
-secured: "fks4TFH7Z8ZVmcwixFYxpGUltlbwjjYNPqd7ekFBrdYMptxVWWWvwhwYD+p742x6otn3EsS54RAt1csarMjxtpQ1qp+MX0oZUlM11F4rrp41EF2LXK41fBMcTT0ELpWjZdETOd2NbYt3AjPqjcLabkflINb8w75J64PqrtswD+uscik0vN6qjlhRtyMQkZ/o9IUnhMGEZG77jOrj0LI3oVNmN38YWTb98f2AKzFgr8TcFtdbiokEZBE8uR5RhOXtBpE1dT64nW30KnWxHqd2JA==;jYQjzUpiFeBY8uTe082CRQ=="
+secured: "B307PAujBTSWymrAfB072Zb4/PXErccZBzs0ylb5ETSyJ6/mo/EOA3lzzlrQBgukEylGPe3Jh7mNum25YPfN57P+RdkOowZffG5dYfBB8YSbmLRiHwp5atd3+xQixgKgOYI8vH0jz8p8wu/yW6VayYG6/A+IqyZIdzirPKQW73lATDJAeWMzlad0bsRbKuSnlfg6O0Xp1eCGPqATFoaReIAuYqdgeSObdCV9aGZ9+8/fZUTLo/HO8pS9Y4Gcmh75UVMvw2H7NyAx9IfOtT4T5Q==;X7aoXjijjct8F2OTuWAzAg=="
 ---
 

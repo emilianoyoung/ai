@@ -79,6 +79,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3659594A369EDE81FE2F83933C8DB639
         width: 700
         height: 394
+  - title: "Microsoft Signs Multi-Year Alliance Deal With Japan’s NTT Corporation For Enterprise Solutions On Azure Cloud Platform"
+    excerpt: "While Microsoft will offer the trusted Azure cloud platform and AI expertise, NTT will bring its ICT infrastructure, managed services, and cybersecurity expertise. Incidentally, NTT confirmed that Microsoft Azure is its preferred cloud platform. This partnership should bring in multiple new innovations in the field of wireless communication ..."
+    publishedDateTime: 2019-12-11T07:00:00Z
+    sourceUrl: https://appuals.com/microsoft-signs-multi-year-alliance-deal-with-japans-ntt-corporation-for-enterprise-solutions-on-azure-cloud-platform/
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.7C34F8F8006138A1F4F3CAB941DAE893
+        width: 700
+        height: 468
 
 secured: "5+xCmIXQ9Nvgdwbi+edIoZtPrkiDxZFju9IBMRWELuc4jCV7gbKtkuGTeUmUKNCj42V7rctS3u+2zRjW5IDwUTCyY37q1t2lONTVsI+vTVWLe1p4WhaeaXG+V+rwe4k/Gzn1R6HY4GjRafMI9B6aCx41sxsdcRW8DgC34GOCBAqjw6ckkBQR1ERvTBO+yA7THF/v6MtCc4Xqim2/drlnYsgoI9X437RuOla50UaFSt4YTuhogD6VJL7hU/dzw8xYAuKIYVKn5dFZUcpnfSVP5Q==;aeW7dzKIao0kOLJlIEOXsA=="
 ---

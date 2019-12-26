@@ -65,6 +65,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
+    publishedDateTime: 2019-12-26T04:57:00Z
+    sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "sIaIogcU6Hevn8u2L5nkuyChIoCi1QeUs1H/sYO6m7otsUIY4e0KxZXhZCpeviguaeH0mIChp2Co74fsgMVctEHNEzCos3aFhfVRfygcgV01mAtRX0CBMSVLVHwco53A3e7sfc3VfU/3lVrhnx//++WvYyRnhJjH/BjcdK5Rz1+Vd86e775gA3mWlzmsQthd3Mu/QH9PExsLOzJNiXl+6qqZ5MWGjIbHMnHctUAeJ7on5YFFLbYd0fbzZDM5UTFMQ7fSbTzmCuXMUL8ZTeJ/wg==;ipsnCv3Ecnxox86KMPWJfA=="
 ---

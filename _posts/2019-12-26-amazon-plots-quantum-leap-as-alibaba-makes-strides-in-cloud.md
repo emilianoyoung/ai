@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-26T00:13:00Z
 sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Amazon-plots-quantum-leap-as-Alibaba-makes-strides-in-cloud
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,32 @@ images:
     width: 700
     height: 350
     title: "Amazon plots quantum leap as Alibaba makes strides in cloud"
+
+related:
+  - title: "Alibaba Cloud growing but only in China: AWS CEO Andy Jassy"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
+    publishedDateTime: 2019-12-26T04:27:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/alibaba-cloud-growing-only-china-041247834.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C25E1F93AFCDB173B98876E135F32619
+        width: 280
+        height: 210
+  - title: "Alibaba Cloud growing but only in China: AWS CEO"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we''re working with customers, and they''re considering who they''re going to use in China is where we mostly see them. I don''t think they have much of a ..."
+    publishedDateTime: 2019-12-26T04:12:00Z
+    sourceUrl: https://www.outlookindia.com/newsscroll/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+    ampUrl: https://www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+    cdnAmpUrl: https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/alibaba-cloud-growing-but-only-in-china-aws-ceo/1694167
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 39
 
 secured: "tdg+J4bkRBs2rFyTb1Bo/G52X7kRsfZmebcNdw2HEmx50FzG8yVbPjK+oPgvq4vhFd6fkKxmuOMuybY9RLBApjaOW4+AB+uQjjh4HVmBJSgHyEN5dXPZn7VYyTLdmxiJAYMfpE3EVqYdbmm4mlYJFGV/vFpl3JuuVWmR5jYZtqtQoVYJ/ToA3IebBpFo8uxAnwLRMRHPZRyGW2UBZEQPf2hM+XyNaPkFGe49TzaHE6TttZDbgdZovfu3Dm7B1sZWrNnj+OTCIS4wZ+Ls8t5QDg==;q6JQEIgOHFP/IFJAvUHoaw=="
 ---

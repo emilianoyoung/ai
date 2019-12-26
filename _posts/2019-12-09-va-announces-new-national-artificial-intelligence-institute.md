@@ -125,19 +125,6 @@ related:
       - url: https://www.bing.com/th?id=ON.53E6DDFFF64E18A5AB106D5F2FBCB74D
         width: 620
         height: 465
-  - title: "VA creates National Artificial Intelligence Institute to advance R&D"
-    excerpt: "The Department of Veterans Affairs, the nation’s largest integrated healthcare system, is centralizing the agency’s efforts to advance its artificial intelligence research and development capabilities. The VA on Thursday announced the establishment of the National Artificial Intelligence Institute, a joint initiative by the Office of ..."
-    publishedDateTime: 2019-12-06T03:41:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/va-creates-national-artificial-intelligence-institute-to-advance-r-d
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2DF0C5FD66F33D96842510FEAE692710
-        width: 700
-        height: 367
   - title: "VA launches National Artificial Intelligence Institute"
     excerpt: "WASHINGTON — The U.S. Department of Veterans Affairs announced Dec. 5 that it had launched a National Artificial Intelligence Institute (NAII) to advance the health and well-being of veterans. “VA has a unique opportunity to be a leader in artificial intelligence,” VA Secretary Robert Wilkie said in a news release. “VA’s artificial ..."
     publishedDateTime: 2019-12-12T02:05:00Z

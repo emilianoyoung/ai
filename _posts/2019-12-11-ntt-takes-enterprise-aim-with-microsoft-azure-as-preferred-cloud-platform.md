@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T22:38:00Z
 sourceUrl: https://www.arnnet.com.au/article/669630/ntt-takes-enterprise-aim-microsoft-azure-preferred-cloud-platform/
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -81,6 +81,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3659594A369EDE81FE2F83933C8DB639
         width: 700
         height: 394
+  - title: "Microsoft Signs Multi-Year Alliance Deal With Japan’s NTT Corporation For Enterprise Solutions On Azure Cloud Platform"
+    excerpt: "While Microsoft will offer the trusted Azure cloud platform and AI expertise, NTT will bring its ICT infrastructure, managed services, and cybersecurity expertise. Incidentally, NTT confirmed that Microsoft Azure is its preferred cloud platform. This partnership should bring in multiple new innovations in the field of wireless communication ..."
+    publishedDateTime: 2019-12-11T07:00:00Z
+    sourceUrl: https://appuals.com/microsoft-signs-multi-year-alliance-deal-with-japans-ntt-corporation-for-enterprise-solutions-on-azure-cloud-platform/
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.7C34F8F8006138A1F4F3CAB941DAE893
+        width: 700
+        height: 468
 
 secured: "MEeF7SjTqV422IiKvZCt4EGa35EEtbcg0SOjI3Qq+HQFOg27QbgZNVMIx1ma1hQsHB4Ef91fGElpiijrZIRLQeMsiqWvEoUYF1+4JI9mCNHCEqlRKsmWNdJTufEvi+PKn7CsQ5u0QfuKMvYrkoEgJUQ0ilI4ybPrR91KEmuX68/LviPPJ7Oak9j5t7Lb9+Lgk5It6f2RQChAll1AL06/TPfhkVbGRvDkjK3Oq1lyUZJkWCd6N8KJ7LlASgfsVrQ67WuV0nL7l6iTXBLhcwXzyw==;fKfOQ59wOjpi6s3xes6GMw=="
 ---

@@ -95,6 +95,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "IUYsTLJd1GZv9/+SiGHR99wNgdSXKbjrz+yA63gmhM2hmFJkQk8R4MDqVNrR6Zf6cS+zn5NjDnAy0VMkDcKG1VTsdHpPrPv0nFNLz+B9vKfUz5bP9NwzvxnbLUzYNM5ozGtwGsRAA5SPZVXr6fd8AP/Ivp3reS2GJcvIa1aWzGuiLyl1S8Z8kyVwE5OwGI5NX0fz/igGD9+Tlj7/z94fkcUxTCd5OxK2CwlLYyna5SVr+xY5edsykysmjFLeCu6+398ckenc33EtEJk3I7A+Bg==;WRcXKpRgjhXDTf+HdD+JTw=="
+secured: "TxTiepPdOQ0/v9yKvkQ8+aEziDzLdvnGely8UoS+41WoJ1nKWMo4hDPmvhYihUvNJgcUmHmUnIMwWvVAgv6CVgi5s2OMxyKt8dwXQtbWzObZbaUnwAJ3AwsnIoq7759INKAdPBGFvvzGWU5Ux0lZ1S0a3XLT0laAYB6UH1KcmDd2sVsX2bRXZN/ypReH9TQJ/nk5NE/fee+5kLn2VGv97z3t/b12PVDc8Ttmwu6IRS8zQKero7V5A5l6zO9oJBqeIN0+b2+fCekMIZV/a7o+XQ==;wHDJXJuamfgvRvGMxyoX3w=="
 ---
 

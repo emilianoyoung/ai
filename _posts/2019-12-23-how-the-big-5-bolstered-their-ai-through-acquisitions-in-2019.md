@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-thro
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/amp/
 type: article
 quality: 93
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -101,19 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
         width: 400
         height: 267
-  - title: "AI achieved a score of 185 on the English written exam of the National Center Test For University Admissions in 2019"
-    excerpt: "This reflects its research and development of corevo(*1), which is one of NTT's AI-related technologies, and its participation in the AI project called \"Todai Robot Project - Can a robot get into the University of Tokyo?\" (*2) with the Inter-University Research Institute Corporation Research Organization of Information and Systems, National ..."
-    publishedDateTime: 2019-12-24T14:34:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/rooi-aaa122419.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.09A240E7C46C453F5C4B3C90C7F9D4CF
-        width: 700
-        height: 436
 
 secured: "GDY3AsahWAMJTP60JEm2xvtIuK1vIBaUVAcfDlE/jsUh5+Xz+IljQSIlaypPkH2IMSgtkldePN0AkDBV7IlR1hReMsMAjx2QE2eTT3YNUB/uFAdQlrGsbcrBfb1qE0JaVBg7t6oM51msw9bkWsdiWcqq2JP35GN6wIC/ezvbDY5CEk5jVghwELGGcj4NyEjddG5t/kMUWJTwofduTJ23TfkB/mLgZNVXEGnzRzZC+xyGzlrMeTZtduSL6SVx/4UxHpoMLS3mIgf/DOB1wQU0+Q==;3FHbzhcBpYUQLK3RyETieQ=="
 ---

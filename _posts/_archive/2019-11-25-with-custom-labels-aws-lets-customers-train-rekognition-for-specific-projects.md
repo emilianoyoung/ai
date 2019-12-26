@@ -24,6 +24,21 @@ images:
     title: "With Custom Labels, AWS lets customers train Rekognition for specific projects"
 
 related:
+  - title: "Amazon now lets customers label and track specific objects with Rekognition"
+    excerpt: "Amazon Web Services (AWS) today announced that Rekognition, its cloud-based software-as-a-service computer vision platform, will soon gain custom labels that’ll allow customers to craft object-detecting systems for specific use cases. Starting December 3 ..."
+    publishedDateTime: 2019-11-25T17:06:00Z
+    sourceUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/
+    ampUrl: https://venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/11/25/amazon-now-lets-customers-track-detect-specific-objects-with-rekognition/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2018/11/aws-reinvent-e1571858296836.png?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "Amazon adds new features to Rekognition software amid ongoing debate over facial recognition tech"
     excerpt: "Customers can upload and label images like these to train Rekognition to find specific items. (Amazon Image) The Rekognition updates come amid a heated and ongoing debate over the facial recognition applications of Amazon’s Rekognition software."
     publishedDateTime: 2019-11-25T18:59:00Z
@@ -52,7 +67,18 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
         width: 589
         height: 558
+  - title: "Amazon Rekognition Custom Labels"
+    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
+    publishedDateTime: 2019-11-26T03:02:00Z
+    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
+    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    type: article
+    provider:
+      name: pymnts
+      domain: pymnts.com
+    quality: 39
 
-secured: "LhUdZgEkpw3kwlIuap3fN9P6nlsSYN0JEuBTe8PYxZwEkwuvRKcrkMxmCMVt23D/+nWU55H7L+gCnqZsKXySMf6Rav3Q6tsyHdRrdvP+2o5BshGl47UsKyUxBbXYHifHWR1sT0Ifkw9Zsm8FoztPltmfMm9ymACGhNgC8JnPlBvCJ8YJUXMGH8MZI1HcwKFPTNrkQON3Sdj0qF/onyWmQi5NOwsMPHeO5pzUGWEx8v9dmq9kPeW32ehnFhxhHNRWaFO/xaJ7TMBDF2Y3nii7fg==;LyO70K8rwfyMTvbJlOMs8w=="
+secured: "7ZFHffF9mSiDELguXYAMRJHHqYn0X5dC9eB+kMnyrJ3aspkQWlFj4JckZAEuLAE645j35a2tnYMrbT1wXo/j4PT9rzJHYREB5bYbEQL+7U9H3gGx7mdLWPBMnNqefNUwoshBzpwWGcaJMy+q9q3UTVayCwVm3tJjixKXr8nilOc1mLZzjfwH7+DyIQH13uvFXaR0HnZRRBI0tCl61JukQ6d3LL6bbgY1eZNNvaT0kV813ZL8rMIR3BzpX5fg5TGTCC0C/vCcUd1Tl98CVRmADQ==;Qk0zNyYm6jiYSEYUUrJGMg=="
 ---
 
