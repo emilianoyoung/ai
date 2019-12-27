@@ -276,19 +276,6 @@ related:
       - url: https://www.bing.com/th?id=ON.145D0D49CCAB53EAF974E7A2DAF31817
         width: 600
         height: 400
-  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
-    excerpt: "Artificial intelligence is spreading into health care ... a virtual reality character named \"Ellie\" that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures ..."
-    publishedDateTime: 2019-12-07T12:11:00Z
-    sourceUrl: https://www.chicagotribune.com/sns-bc-us-med--health-care-artificial-intelligence-20191124-story.html
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.B354C35000E9F8D21A1F535B64DFC948
-        width: 415
-        height: 276
   - title: "How artificial intelligence is shifting the model risk management landscape"
     excerpt: "Many have occurred due to manual data input and basic human error. The solution is to turn to artificial intelligence (AI) to reduce these risks. In software pioneer Tom Siebel’s book, Digital Transformation and Mass Extinction, he recommends companies stop the ‘do it yourself’ approach to digitisation. Instead, successful organisations ..."
     publishedDateTime: 2019-12-11T09:00:00Z
@@ -586,6 +573,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "BoOLeJv7w8NxFwA2g0YlYITcszuu9kYkv6gG20WVRM8f11kDpinw48ZPlwA9EF4xGAbnBC+PLi7zApUSOZrcHyrgyb2tLpUon5hC3lPlivsUOXgWUYUMBIji/arxHqQLlSl2W/ETQhC4c14hfhfJOMlA7a8K6AO2/GKXTcdoS1mKk/Xj45hjRPre/RAzY4mrRGqpfqfcPoV/HUQIhCWQk5DysT1VrLdykhXUxOjjh+Bl1NrlODVCbzanj7jq2R6CT7wmjPUryycEO1cEy7Vjag==;y8UgMYNLMCP0zXnn+eW5rw=="
+secured: "60DBmmQYhBC9UiOdg4pjN9MfedRxa8fWhaQ5Bv347cCaQEp0IYss38HJeFC4AJ9RXrRhPpZM5TFCgmG1Z4VCvqxezRYhsTsUbGNnQnls3/Wplpj9UJBb6ZZR7T2WF6bPDIQFGmXFQnq89iTF/t/CsI8TAvTVzmjG5YtVWzMRH/I28ZnvP72bIga2s3bibwbvIl6ZmSGhSiAfwcYW5chHcBxv0Y9ybcbH8tsKo6OCqS2uym93Cz6k+/zzCkiXvRq+t74iWDBhy9DGUHx2g6QfDQ==;gIevIfr9xV5RVhBMWpNisw=="
 ---
 

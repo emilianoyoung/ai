@@ -45,17 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -69,6 +58,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -124,6 +124,6 @@ related:
         width: 700
         height: 437
 
-secured: "hg2XH9RO5hHJY5ktszIflmrHTVrJl0BWgif+z0dwfpOuRY96UOPwWANfnFXGGfhn0lEOpA/pOGWQIqNhwK86CpBXJFAyHeU9eXtYWah/ZabLx8UlbnzcnUafm8qvvFfSMtQPg/NgvjCux52HJjikf6Ji0vV+CljrqrfzCnOyWHFUUmfjlEHXLAQMBRCpjBRbi9il4L2te3tSQ7ErqPDQ4bsEMQwBy/t/vm/Tj17CVEh3VMr0i6olcMWIMyy1IU3BMq7MhmczYUKVeJpo0Zf9qg==;Vy+ZBIYPIgy4cg1fMnqKyw=="
+secured: "vx9Z5WzhyrCiBMV30o5dbwKZf0t9fgNm27+F4mCWu9JqwHyVCYI1/fNtfTCSYoSvgp/l5B292qSIS7QO8HxFzPu0UqojkbP3suAbJrNC7mVwMyrF11FMNcGeMt3OagtP7CJPM1l6wTSlwWYk9rzxX41c2Px/n9wyA7re0umr1093LuQ9E6tAFV7mPOrJYWAbyr0iStf/hR4j1QnYVKPfKpPRmh25tjlPV72nO7bOhgx8e9jHz08cGGShg7hsCueeBoAbTPmJ29zjKJ9tO9gjew==;kEg2+ZzggIgr5T2lX/w8Hw=="
 ---
 

@@ -283,19 +283,6 @@ related:
       - url: https://www.bing.com/th?id=ON.145D0D49CCAB53EAF974E7A2DAF31817
         width: 600
         height: 400
-  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
-    excerpt: "Artificial intelligence is spreading into health care ... a virtual reality character named \"Ellie\" that was originally designed to determine whether veterans returning from a deployment might need therapy. Ellie appears on computer monitors and leads a person through initial questions. Ellie makes eye contact, nods and uses hand gestures ..."
-    publishedDateTime: 2019-12-07T12:11:00Z
-    sourceUrl: https://www.chicagotribune.com/sns-bc-us-med--health-care-artificial-intelligence-20191124-story.html
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.B354C35000E9F8D21A1F535B64DFC948
-        width: 415
-        height: 276
   - title: "Macron’s €1.5 billion plan to drag France into the age of artificial intelligence"
     excerpt: "the French officials said that mass collection of personal data for marketing or political purposes was out of the question (France already outlaws political advertising of the type that’s at the center of the Facebook-Cambridge Analytica scandal). All data collection for AI research would have to be done in conformity with the EU’s ..."
     publishedDateTime: 2019-12-09T21:02:00Z
@@ -541,6 +528,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 21
+  - title: "Artificial Intelligence and Emerging Technology Initiative"
+    excerpt: "The Brookings Institution Artificial Intelligence and Emerging Technology (AIET ... By publishing timely, rigorous research and bringing together leaders and researchers from across the technology and policymaking sectors, the Brookings AIET Initiative ..."
+    publishedDateTime: 2019-12-02T18:15:00Z
+    sourceUrl: https://www.brookings.edu/project/artificial-intelligence-and-emerging-technology-initiative/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 19
   - title: "Artificial Intelligence In Fashion"
     excerpt: "To uncover the general market conditions and tendencies, Artificial Intelligence In Fashion Market research report acts as a perfect source. The market report aids in developing a successful marketing strategy for your business. This market research report is a proven source of information which offers a telescopic view of the current market ..."
     publishedDateTime: 2019-12-09T12:23:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
-excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-publishedDateTime: 2019-12-27T10:15:00Z
-sourceUrl: https://www.cnbc.com/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
-ampUrl: https://www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast."
+publishedDateTime: 2019-12-27T10:09:00Z
+sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
+ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
 type: article
-quality: 65
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
+    width: 450
+    height: 337
+    title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
 
 related:
   - title: "Recession, robots and rockets: another roaring 20s for world markets?"
@@ -97,6 +99,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "4p3hC9EnDh9K76m8nM2QNFhqBq+0JVWTKtaKbInR/ezG4f7komW9/71owfqDUNSoOn8/H6+hNCFdRJgJ5zk2CC5D2RqAMehWTY+oMCoGo5B3jadjaEjhfXbtPDkKjvt5sd0igo8rv+wv0JUW3FBtVXTRa/fG0W3HPpl7NgtrxQQGU8nfkWYyzTqIfcjsBPdkyfJc3J6VQj6G/6tIUlTwfNJCq2jYLSEaALZ6cn4YTbiQOEMSPum8ZNcG0edN1AoTFH+vNAYBTC7xNWhQErDG0A==;FZSna2AqyUS13FuqIQiqPQ=="
+secured: "SKDNZDr5xUy4QzHG5k+6VnBxwgT8pFoscvCSvjS+Dy6CwLbBRQfJJ/p7F2a07Dkn+/ceLCgOxshFig4GcQ66EiuzKj8XdpW3lTXMkRfxSUEF1OAKWPWmSm7HQpX1UQ+zBLjwMW6CFH2t2hrTgnUwGtCC3NvcOOp0nqMwVN8Ss4lArAWpQhgChVQhHWy4Q/iMlKQnBTDcp84Wkzxy/B5aXOfVHIm3SXZtgSmW4HFQfBVeLw0Td/9CbMT8vbAl+G59myWZ/1bOWQW47vq/+ktP3A==;WUl1rfHKHwtlPZsGNsOOYw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google DeepMind gamifies memory with its latest AI work"
-excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term ..."
+excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
 publishedDateTime: 2019-12-02T22:10:00Z
 sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
-quality: 84
-heat: 94
+quality: 104
+heat: 124
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
   - Google AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
+    width: 700
+    height: 525
+    title: "Google DeepMind gamifies memory with its latest AI work"
 
 related:
   - title: "Google’s AI makes memory a game"
@@ -37,7 +43,20 @@ related:
       - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
         width: 700
         height: 525
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
 
-secured: "sx/NNDVcpj0+nErGMgPVmhHspv/stDoYky+QRf1cFmJ0MOa/DYq1qRtV7CUOidnhW5CgM7HrrD1nrXfaGCPmT3auhelmU7gLbBgMN/uDDC1MSAgT/OERHyECt85MVbu0tqquqylA4J1vbEGXpwQjUYbmVUkcdC6mPhICvwxgyGmnRGvg4jQE8pjD0tcMTIblYXkFBFrwswbB1K4nXFs9VoC0ALsZtH8bzIKwMenF7N4H0RI8uOulwJzEbMa1hbnR2emfhHagEu3F5V+ulhzjkg==;aggEpCB6Z5xolMD/JkuhIA=="
+secured: "Sb3inKg5OP00xlArc+et0VzOlqfA4TmVm+jH/V6DdbygCU76PX6btpKb3LXH6pIZxs5rK06hpxVGuH0aU+gEvTBgS1Sl3km8h+gvfo4MAbdaKgjhZ6sPDceXIJ4c7joCUjdLTY7PlvoOmGqGAWEm1ltHVtTCXmxDWBrc6eT3UaJiNOSnow2YAyjQlrCWy1sZF14kE2TCwnfmeU+MmtoU3ydelJKlkLsb/RcpBcZiTvLcGTuQZOLZ3LbpqRGTFfbKjvojo4fzkG/87UqMgXmOUQ==;qCLO/YS6vc0ZIHcZbmu3iw=="
 ---
 

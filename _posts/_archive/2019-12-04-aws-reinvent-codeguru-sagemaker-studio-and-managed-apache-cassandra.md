@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 86
+    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -124,6 +124,6 @@ related:
         width: 700
         height: 437
 
-secured: "+tCILUGWqd78gmtZEV5/YtX30tUB4x1zVX4hIBYe2tA/CQt9a4QDT5y9kI0mqovNqc9dBQkcTJhH6uDYzlSDVnll5RTIwS8cfR3V+p/57mmd6gz63L5JkWa+8wv2fEMeSFpuFDPw+puAceBmyOzAdG4doXzj5ZWz+N1154FhYkzynxPDV3OZv6hn+zwZOxh6rTm/SdFpkZ/2KIlZRzDz3qH19UYg0ULb+WH112KUQXKF4oksVUn11cG+r6j7tPZeaMzVMItR7IjxBc5pputaig==;Omv9MQoWgKZi/D3mwOfFJw=="
+secured: "MGGUxXAOgn8KizlrwD95IOSyTb64G4vHvRODOniPjDtAHidLRyWKg9tBwEkgbVeZTAp/dLdkuKFvSDaj+ZxpgBLwGr/tO3HnBtN9yBDC7iUHYeRqNYwF3B521RQbiaJwqJvmJ2eQ0/XwxXcL2XenxZZPMs0fDgeN+xJIXrdOPBUznAm7AYH+CZ+hK34DVsfYx+6aIUBFECZh3PCVlnkltzVktQjEdhhCC5kuQ3q9Xr7YMc9+VqpDqoC59l35YKqHs376tWVmoWd5X3TBzhdgYA==;9yfRyMDTuHuKMhXKfeM+OA=="
 ---
 

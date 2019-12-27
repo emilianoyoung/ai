@@ -71,16 +71,7 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
-    excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu filed a ..."
-    publishedDateTime: 2019-12-07T06:39:00Z
-    sourceUrl: https://finance.yahoo.com/news/baidu-leads-way-innovation-5-182713207.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
 
-secured: "9t+JD5eIhiSBZWHC5qvj6njoBbwcccAHzF+qMnNPqdHCXBpJaTzcP42RLhKPrjoyQfvdfHdsX8o7HZpG/NSBdwK/iLlkOS2GnvDKRdNtBOdpiw/pA1ZyOUWbAmbnKNFX4/nqQsb5802QF7FBaN12pUykGZi4f96iILsoac9U5XgNsQgRIIujp0SqzWVvs34LGSYuO0MGSklEQhhzXOKCGQXZw3IrllCV6ceXQ4khLfxMZG0rzIfCBKShpOSInhVaLaPuFO+7q29/Pc4fYS3Bmg==;9gQbRElO7ApMAei5i/uCGA=="
+secured: "naPC3gZtoVHpMDJYPpgeklMrfKC3NWfRBSvo7w18WF0JqCHr4zEbbbQ9FtQgmOLLfI6woti849nKMb55MPTYSve87vESDcSWhbze7s9XYyVF3b/c7p/2ws/s5dh5pq1wfxtpzvxQ9RTp1omwaVGL1HrYQUA2seciF0kFmS6yB0+173QT/UNsmz5AtBVRu/apEaZxnRQMXQQmgOoj7rR9AEDN3rRUl8TtrgjLC3lwBF5o2eNPWR+T6FuPIqFPTrTL8hmBNMMPeTVmTP9w7akokg==;qZ3VsdpeVEB5C+j4flrlqA=="
 ---
 

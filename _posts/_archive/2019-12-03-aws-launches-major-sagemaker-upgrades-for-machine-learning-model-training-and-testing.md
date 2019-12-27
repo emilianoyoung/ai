@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -67,33 +67,7 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
         width: 932
         height: 377
-  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
-    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
-    publishedDateTime: 2019-12-03T20:32:00Z
-    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
 
-secured: "4FFJwYBcBbRWg7R40MiVUgcCiPxCb2GCjYF4btH3KzUzaPiqQcF+wduh5bX6JLzibvJJ68MaVskmU7v334G5GuY7a7zxHCCEBWLd0uNcq8NQvSnvd2WKo3QWufXpjXsQ+/QCrH36TXgXHanaf5MJ6aCyCgVczA4nDcB0R6XdiEvBpUDk3IThVGA5vx3uPeAuW0hfL2zj3k03eqgSDTHlG01VKnZU3db2N1uhcixiYOnOylOYlKqFVCJlwGXxZHXLsk22ZSJ84JXVQZsw+RX7JA==;75KUu9345sPg1zj1OPrksQ=="
+secured: "Df8Wd15BvtH/Q77QuRIVojmT5aqqLnsQiiblZqUiYJtfIn+zSO9eeLIbpeaXzq+vf4PF0doVBWg7fxmkVrZAOSPdBtd/XMeQ+GP6+A37Zjd8BZ9snSRdG/kgV4XjCm6o07PV2Q+pfcFfypKDd0eqQWfyfO8zp7+Cicu8x/SPrUgz9W6Gthc9a5DAc6+2/EXbTThLElB32W8otJcTw0CRsgf2pbVIJx908+iHYMh1n9AXFZky8GO768fCjTaiUBBhVWXu+WXCMBWLLHL+bqWAvA==;1hLZLsbm4v3XLLXm1eFYFQ=="
 ---
 

@@ -40,6 +40,15 @@ related:
       - url: https://www.bing.com/th?id=ON.DEEDF9E48605D7362A1C37E4F4A52CB4
         width: 700
         height: 525
+  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
+    excerpt: "China Renaissance's Huaxing Growth Capital Fund leads the financing round. AInnovation's strong abilities in AI commercialization are again recognized. BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million ..."
+    publishedDateTime: 2019-12-27T13:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/ainnovation-raises-nearly-us-60-130500522.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
 
 secured: "4uAkcNV7YohMzCWz+xLSwZfjgT7xxtFOzyE6VtwE/ZB5iesa9qqSlRzHJiwpQEeZvoPQpjc1zSMz8hcZ6s1SCNXyg0pEyibjFZJRRpRdWSHBhbHPIzK8jXgS/XTjMmH71gc882r3cY9ZRB2F3wKc8LgMGK2GThuImMbc5IV0SOV5AYeYuom8MiLjTIREh6wfCPr3uJS5WcHH+B6f5uvJr+pAMpWwo1wkF1YpMpqg1x8KziYHrJWyMl8OYWxx+Ltix9ugtp5GgyfLN7207PPL1Q==;Ks+qYOEABlbyUcNYMfbadA=="
 ---

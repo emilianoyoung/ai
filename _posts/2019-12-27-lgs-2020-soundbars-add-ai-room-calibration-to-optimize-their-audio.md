@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.89E68F30897CE1457A79463A20A1045B
         width: 200
         height: 200
+  - title: "LG adds AI Room calibration to its 2020 soundbars to optimise audio"
+    excerpt: "Just ahead of CES 2020, LG has started unveiling its 2020 soundbars and they have added something called AI Room Calibration to them. While we do not exactly know that this new technology is going to achieve, we do know that LG is going to apply machine learning and related tech across the new products it launches in 2020. This AI Room ..."
+    publishedDateTime: 2019-12-27T13:45:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN.html
+    ampUrl: https://m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.9F39316CCD47715A1F5DC0B73715FFEE
+        width: 700
+        height: 393
 
 secured: "wMVHybYzuL2h4pMOo+Y2dsvgoQT0PcnXKxiemLbpfsvCtO+oY6bwgLt2W/op/KgKFFbDk5LVG72FI8WPKcMENRmvYa/shHGwrSO5H/V11PaMDUnZZYlI4k7/LY7NiYAi19SqiH0aEWLoVRXHPgA2NrUYbuLELVkm3MKy+GGM5PWuzC4llUfMLABTzHD5C5g10AiOCSD5fG3GuxNrv6bZDA4E90o23DdZMJitFtabn3h39dTZSSy5Kn/5XTMBY799xDl3I4n4kS1dqAnFncVpEw==;k8SchwHGwH35OkhZ/XDEkA=="
 ---

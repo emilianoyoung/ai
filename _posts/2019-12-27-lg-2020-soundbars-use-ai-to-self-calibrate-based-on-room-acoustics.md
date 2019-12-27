@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/lg-2020-soundbars-use-ai-to-self-calibrate-bas
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lg-2020-soundbars-use-ai-to-self-calibrate-based-on-room-acoustics-26604517/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "LG 2020 soundbars use AI to self-calibrate based on room acoustics"
 
 related:
+  - title: "LG adds AI Room calibration to its 2020 soundbars to optimise audio"
+    excerpt: "Just ahead of CES 2020, LG has started unveiling its 2020 soundbars and they have added something called AI Room Calibration to them. While we do not exactly know that this new technology is going to achieve, we do know that LG is going to apply machine learning and related tech across the new products it launches in 2020. This AI Room ..."
+    publishedDateTime: 2019-12-27T13:45:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN.html
+    ampUrl: https://m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.9F39316CCD47715A1F5DC0B73715FFEE
+        width: 700
+        height: 393
   - title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
     excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
     publishedDateTime: 2019-12-27T03:34:00Z

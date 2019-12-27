@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T07:10:00Z
 sourceUrl: https://www.msn.com/en-us/news/technology/that-ai-robot-that-had-an-emotional-meltdown-in-space-got-an-upgrade/ar-BBXVP5p
 type: article
 quality: 137
-heat: 317
+heat: 307
 published: true
 
 provider:
@@ -186,17 +186,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B777F4D4A7F5F8D7EEACD7C9F35C530E
         width: 700
         height: 465
-  - title: "Friendly floating robot CIMON-2 headed for International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-07T12:26:00Z
-    sourceUrl: https://www.wral.com/friendly-floating-robot-cimon-2-headed-for-international-space-station/18816213/
-    ampUrl: https://www.wral.com/friendly-floating-robot-cimon-2-headed-for-international-space-station/18816213/?version=amp
-    cdnAmpUrl: https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/friendly-floating-robot-cimon-2-headed-for-international-space-station/18816213/?version=amp
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 39
   - title: "SpaceX Dragon delivers 'mighty mice' and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
     publishedDateTime: 2019-12-08T21:45:00Z
