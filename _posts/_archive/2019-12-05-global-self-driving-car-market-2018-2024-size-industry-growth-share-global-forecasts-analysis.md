@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Global Self-driving Car Market (2018-2024) Size, Industry Growth, Share, Global Forecasts Analysis"
 
-secured: "KoYiMJFkHtzp5YAkL8vOddPmpyJwKKifR1ZebMEBYflgUfhusHln5jGiickxyOwamP7TXsxWVSrLvCgndZAoWOiaNiDKUPC2VldvMXagAwy4uvzLOQsHP2qXnhRA1pKN31AZDjDokS5kWMTrfhN6pMzDHyg3o1A0e4HbLFVIMzhRYQxm4XCLFE3R3z1A8wv4DvoT1Tjw/Eg2DklHCyY9Xnrzvggcf1HUog+tZf3s2Tzxu+M+MB6eCmgZBzOaszduPlT9vb0N/WG8zKIRz3Dtsg==;pYKrHPKv6LJMO09xJUSeAg=="
+secured: "9QVs1AkI++MOj28HrD4bdO24FVZ1fP2iWHFOjhwRDvT52ZZqHAScparD9Q4hHiMwUH0veFUpR6SPcOrk+cRJwGC/aLYaezjV82uTUS11XOqcAmAd/8c3QKzk70fUtLgkLevI+azi6+rjVNTeG1eEhmRh4kbvOC8wLpaHy11vZvTsJ70IC0A+33m9EENqFGFyuv3vE/3tc814MK80VjeFelqKmgAU2KtDN5xL/2kxbCIYXxbTQg0bixXumH5xZwLiAAZNvwKavqkVCoIGBRx9Fg==;FuqUHEFiDrg1Pbb40nLDJw=="
 ---
 

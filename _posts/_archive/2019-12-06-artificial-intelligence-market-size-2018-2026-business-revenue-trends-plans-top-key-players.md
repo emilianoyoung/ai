@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence Market size (2018-2026) Business Revenue, Trends Plans, Top Key Players"
 
-secured: "IsRfsOJEj+OUc+j2qYYbNFHHUGznIm61ztYdSumOSe+cZZXo/EbVusLAoDb2VW9xe5YOwE5p8ZKq0tc+DBtctdL8bhWqHNCQv0h05b/NjnI74s3Q5/PxI+BOJ0TcVG6cmwxW6h5AJpD4I0tDRggh2J78wmq6b4m6DHr+sVWZ0z/A3wqSGGwNk51sq2L4QUtjHPS815JgijH5rGDP8I9qf7eZzoOSBXyo24LnDk4y/wxpfiynUaO3zIWfdmruUt7aTCqdemp++Sbo0DKMaR0zqg==;+d+eIB0C1HM1le42c/PWSg=="
+secured: "I3tbRHTbQzzXpaAYz6oQeARGnkyF17bBIdFAb1GXfzwgBJ/Dnn/wQpSClp5LquEmpUonBuwN1pErThgj6fgqqaV+19wj4mMxi6QhEtNxnDoc3GCyCyu5FajVUGrDAyANJiVV7em67nY30YyHo6X8y4k9NkcccPbA4ZNtajL+GKP/wjFUsk5O1IRgx+3qR7QMHG2BBfoxh5ZNULhtIPz/t/rKH3tyBL8UqMB7cMG4YOxhaRS6OGbgJejyzmP7z9yji92v4Ydk0dXlFoiZO1zN9A==;Xws6bLfmB2k4Zyniv6n+cg=="
 ---
 

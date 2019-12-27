@@ -20,33 +20,20 @@ topics:
   - AWS AI
 
 related:
-  - title: "SD Times news digest: Amazon announces Rekognition Custom Labs, Scala.js 1.0.0-RC1, and Julia 1.3"
-    excerpt: "Amazon announced Amazon Rekognition Custom Labels, which enables customers to build specialized ML-based image analysis capabilities that detect objects and scenes integral to their specific use case. “Instead of having to train a model from scratch ..."
-    publishedDateTime: 2019-11-26T16:35:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/sd-times-news-digest-amazon-announces-rekognition-custom-labs-scala-js-1-0-0-rc1-and-julia-1-3/
+  - title: "AWS introduces innovative features for Alexa, Amazon Rekognition"
+    excerpt: "Amazon Web Services has made Alexa Voice available on low-powered devices which previously did not have enough processing power to... This is a companion discussion ..."
+    publishedDateTime: 2019-11-28T17:54:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/aws-introduces-innovative-features-for-alexa-amazon-rekognition/190491
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 41
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
     images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/11/custom-labels-pre-3.gif
-        width: 589
-        height: 558
-  - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 41
-    images:
-      - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
-        width: 1024
-        height: 645
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
-secured: "yKO8O3E0DWoyJA2ezPZAw6d899fJmPvqIBFCmpODVfulQJVlnIun8lc7YH4FWhZxdsimvIK3I3Zxo/IAhpxuCov8Ibz8whQ3t/Ol01GFzvSnOZInRAdTnJJIO5mZDD9lIy0z1ot8Lt1YfCHEBwus+TlE0y0+jvNps6T21LsaxbCgwpQQlCdtdACwBKJMIcINJfWdDLOqzQ9TcLiDNjD81T1nENg/v6fKAid2eCqAYp50QWC2/L9BAh1T/kml8zjIz6pjsC/zlIDHYgv16PK+xw==;yTuMjEOlRT3SL4TblaFIeA=="
+secured: "cB5ZwS/5jwidfO6pTEes2IWz28p5cC8dlSsu0dhqgh8m/QMWVlv0dN8yDitzbnyk12teeX984D2sMj9kQXtIf5YLiY75gVa318nNtpPW3kqAz/4cWgdjwxA8fW/0sbnX6FUHiaDIRThbkG4rWX8aG046rmoGz1cOPOdhjsmmTkJSWbhKWUkYpKLI1p+xApQCFOxP0eTQexcRe43jIxXeAF6d+C2IE/swXBJddl3bRH6rpMZD7vHhVHzDyBHjKlaC4SUuzz0YgLE41upNRhseRA==;oIH8CZ3qklE2rtySRWhGMQ=="
 ---
 

@@ -53,6 +53,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
+    excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
+    publishedDateTime: 2019-12-27T04:02:00Z
+    sourceUrl: https://www.benzinga.com/press-releases/19/12/wr15044893/automotive-artificial-intelligence-market-size-future-forecasts-growth-rate-nvidia-corporation-a
+    ampUrl: https://amp.benzinga.com/amp/content/15044893
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15044893
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "E7UOusYBCcs0615KvA1VFurGbt2lsntOlKsL7uiiFrYn46WkSFGv/kEhxfDtWYUbzVebe2losu8RDtwWuBxvloEXEhoeXSepIHSxqOQ8ORW9FdznZNXfirABLk0/dgkNQQFCjt4rFcZZwoNPoQYxd4UvaS5foJSXbjUFJbz7h6FIxTxnwIMQz0rv/NXWhFpf9foPpiZ7cDm4535dl61M0+2RNMvA1/IYobaFZn5ZGo/PZowJ7giuExTDnJF1yodMVLZHwC0EJuh6C4MpExcfNw==;BlkN1ETOJqIQQSTyZTttMg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2019-11-28T17:54:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/aws-introduces-innovative-features-for-alexa-amazon-rekognition/190491
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: BCW
@@ -23,6 +23,19 @@ images:
     height: 512
     title: "AWS introduces innovative features for Alexa, Amazon Rekognition"
 
-secured: "sxWAlhCuZwyK1wrr+0/4XlcoItpTeIp54cXcSEIyMxaSQ954Q4xQj3jqq6Vs+j76NHa7bHbA+2+D8zoCi+2GV9hfuJhtO+6+KuOZ+i1EzuAz4q2gU0S/L/gBPhT8mO2Mws2eURRllV5ZzuctmpXV0VgUOdDDxwVYRLKthnhr5lovNxmayzMWmwyR4veOV+qpbFHZnhFo/dWF5NhYoCYEnqyuz8TMhmT9ZuQLH6qMjpOSkWLQvnDCHi5T8tYD/BDsItx4cj/7x03au+/HdujIfQ==;rmtYip5XsKqg1ey2bp5kmg=="
+related:
+  - title: "Amazon Rekognition Custom Labels"
+    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
+    publishedDateTime: 2019-11-26T03:02:00Z
+    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
+    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
+    type: article
+    provider:
+      name: pymnts
+      domain: pymnts.com
+    quality: 39
+
+secured: "rQoUu3rGNrRkB9eg2xZFTqTW+j64LemHq/dXtQVj0E1SxWR17tuAs2Zhae5Qg3kL1A6ZtjAfz4xUxP3rkCTwFSLwmnSwO8rb90GBKRG3fkUdEUd/Wp4IkzrdbcHkXpdj3WTeexsK6UAqZN/ODbmkYuQxNwnbi1t4n9y+3/kWNu8mfYIEFbhnasdjF205aSpdt7ul1O7G+Te/v+WUXkxl4HAvhVc63m7dIz4fC6Z62ERt3j/50qY54rtKfXNYAxoZswsOCFg79/A5Ftih8WWZEQ==;Ximwt7/g0HWyCj2lbAPQ+w=="
 ---
 

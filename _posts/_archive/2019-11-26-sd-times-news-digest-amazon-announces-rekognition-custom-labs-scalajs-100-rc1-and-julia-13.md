@@ -41,18 +41,7 @@ related:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
-  - title: "Amazon Rekognition Custom Labels"
-    excerpt: "Amazon Web Services (AWS) announced on Monday (Nov. 25) the launch of Amazon Rekognition Custom Labels, a new feature allowing customers to... Shifting away from paper-based accounts payable (AP) practices could be a game-changer for many..."
-    publishedDateTime: 2019-11-26T03:02:00Z
-    sourceUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/
-    ampUrl: https://www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/tag/amazon-rekognition-custom-labels/amp/
-    type: article
-    provider:
-      name: pymnts
-      domain: pymnts.com
-    quality: 39
 
-secured: "YQxuVLEJxbutWssEKzWks6NVig/DSiYlq+HHGAy5rqSKoaCy5FCsCXHYG8a7smu0XBIeOCEq27Vu1Qxup23ga15mAbwqElY1muVOtXYlSNf76PMmKF37SkbeayMbXsGA4c2goJf5Bc3Srm1uSM3ZyGl/nOvHCtgA65MCbYtk3IZzn9hJVQXS8RTwNufXLfoA4E3CfeFgDF6u7te87dFG7oqLvttrmkmDMJ1N57LRPLQ5ZnQkmgAtffJlPA3wmzp8D6uoN28XiHlYobrzbnnIpw==;Mu1XahGEw3wLCh8X2DSSLg=="
+secured: "C7KB5oiDaLYA1Eb9VidJ+lbpmurih4QSowIvhWeUVVTWecTOzGCzNUKO8fKK8V2ZRcx5gkjYeSD3wPw48ccs7raabigG51VZHPK9CRV56KeNJJ3SRILcKRGerY00qTTLOCX7GkBWYN64dWFu6ln2uWonneOgDnwwppOZ9h9U/r7i3e0URX/REqcVs34puJLKiBO5GSlwmQoCgw/exT+Ptt2NWXKA0LKyEB2P5VWvgat+NPVBZDyQ3YZCo7GDdBkLvpfb15HOwqnvYMBqR2pVNg==;PaEa9cHbygHTFt0kBG5MOQ=="
 ---
 

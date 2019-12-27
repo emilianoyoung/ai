@@ -25,16 +25,14 @@ images:
 
 related:
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
-    publishedDateTime: 2019-12-23T16:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/foresight-selects-cognata-simulation-partner-160400161.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
+    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit https://www.cognata.com. Contact: DeeDee ..."
+    publishedDateTime: 2019-12-23T15:04:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "yAcHsXq9Ob0kwPfCPLkQ69q0lKxKO53VTRp0Iyk4I4/SC+QMAKR/EJIXO65nXgnMsyfsMV9QuEAhreDyBZYed1rvhjvf78cCCjrY4c9zLRdS4DZhD+G8MBJNCo6qJRcIIqZKScGpk0xpEE2f5frJ0wosPS0Xt1k7SLyNalot+Bjpj6ixQNCBvOoUOev5VHaVh4Cmkwugsv3Nqs/g5QLvrRPE/kvQw/lRZEnovbIqVSbX8/VFtH6gmltqW6yOxXr3far1RSuZpu53ubBHbMUsdA==;plx9sn4Rzmxno/Ej+Q/mFg=="
 ---
