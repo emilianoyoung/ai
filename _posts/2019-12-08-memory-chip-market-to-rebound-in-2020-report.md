@@ -26,21 +26,6 @@ images:
     title: "Memory chip market to rebound in 2020: Report"
 
 related:
-  - title: "Memory chip market to rebound in 2020: Report"
-    excerpt: "artificial intelligence (AI), deep learning and virtual reality will also drive demand for NAND flash and DRAM. The forecast suggests South Korea's two major chipmakers -- Samsung Electronics Co. and SK hynix Inc. -- can make a turnaround in sales next year and maintain their firm grip on the global memory chip market. As of the third quarter ..."
-    publishedDateTime: 2019-12-07T08:58:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/memory-chip-market-to-rebound-in-2020-report/72414031
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/memory-chip-market-to-rebound-in-2020-report/72414031
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.EED161642E757683C00E68107424DAF9
-        width: 700
-        height: 379
   - title: "China’s artificial intelligence market to reach US$11.9 billion by 2023"
     excerpt: "The artificial intelligence (AI) market in China is expected to reach 11.9 billion ... The potential areas of China’s AI market will focus on the fields such as service sector, health care and telecommunications. According to the white paper, the lack of AI technicians and high-quality data sets are the primary challenges of AI development."
     publishedDateTime: 2019-12-08T07:52:00Z
@@ -56,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E101638180B74A5E5B8E2EC84CDCD6D1
         width: 544
         height: 334
+  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
+    publishedDateTime: 2019-12-09T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
+        width: 669
+        height: 229
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
     publishedDateTime: 2019-12-13T12:30:00Z
@@ -69,6 +67,24 @@ related:
       - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
         width: 700
         height: 700
+  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
+    excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
+    publishedDateTime: 2019-12-11T08:30:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/11/1959038/0/en/Security-Policy-Management-Market-is-Expected-to-Attain-Size-of-2-647-1-Million-By-2024-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
+    excerpt: "China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence Development Plan, which is aimed at making the ..."
+    publishedDateTime: 2019-12-12T00:21:00Z
+    sourceUrl: https://finance.yahoo.com/news/security-policy-management-market-expected-083010923.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "XCnmse1dLyqHhYLLVJbrrjjbFnY8QCzRLPjoUCJMs+l/3Xl/KfP3hQW8NrS8eDAOlO4fsoFtola6QsOMhSRlBjHNTkZBozUFAI72+1jxRqNjT1o6rY0sKzo/YFvTWD/wNrq2N6Zt/vueeu83Exo1zev46+1PJRkC9SpH4rTx8tqlzAur2BApSDm65OsKne03rJNtgeSV6mDLw3L+lupXvnZTALNrEDHnYV9VX0vOGS6aVzct1qevnwGgGUmlXMiSIQX4LvYHUqTMu9ammiSl6w==;w/W73NpwSJFoie8VmRvSow=="
 ---

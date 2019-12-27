@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T06:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-advancement-and-business-outlook-2019-2019-12-11
 type: article
 quality: 71
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -153,19 +153,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Chips Market Overview, Scope and Technology Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 07, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence Chips Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Artificial ..."
-    publishedDateTime: 2019-12-07T08:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-overview-scope-and-technology-advancement-outlook-2019-to-2025-2019-12-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "ZFwjavyxd3kyjxlvL4zL35zm5gCr19GyoFbcRdNdMa5Mr4Bb1hL84LRMUC7xAKkzpB5nKVYkDZWBYxJc85HQk2GakvwVByTGfb0yB5VvJhxALXUjBOjBNf1fn5sj5dYw2BywK8Mi7RQ7oC2mfV49LqMqHbMgiUYXkGvrruMiEbcf0/f3YHMDxNbmJBtuS/lMWsP7/bkg7Jv+9OywLrNubF0i8VoenTOoIA5XgkUHSVl2KG/gmrOpp/5Ib6xG0xklBXkXQkF+i+p9LslaQA/WzQ==;aohpcrIMlgylReylFLONew=="
+secured: "PpSifYp1CCACol/DWXJEi0h5vE5gzTLQrzZwhtXMi8CdihXHP6YIsF6j9yr+qV7M8yLPgRYPdJy6JFFrO0R1cGJSSW5cB8e/tOFDxi2Vj08FpYsdT2owdTh8ImUtqg1OEimS7Qq/9ooHCYc5nSzpTj+lub8+zMQcfEksD2kavYtXV1wSO2uezV9OUWq1Jmq1XJttZRP1pHi2VDkuuk5KMkmBIvHpAGXAMKLdXhD7vyipvnyVXpvnMVX89hjrivsP7rSjTD+F9LMjUswDr2FPbg==;TqSt3YBpX1Gv5/02op5pxg=="
 ---
 

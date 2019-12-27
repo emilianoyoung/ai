@@ -159,19 +159,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chips Market Overview, Scope and Technology Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 07, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence Chips Market Report has newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Artificial ..."
-    publishedDateTime: 2019-12-07T08:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-overview-scope-and-technology-advancement-outlook-2019-to-2025-2019-12-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Deep Learning Chipset Market Still Has Room to Grow | Emerging Players NVIDIA, Intel, IBM, Qualcomm, CEVA"
     excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Deep Learning Chipset Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors, attentive opinions ..."
     publishedDateTime: 2019-12-16T09:19:00Z
