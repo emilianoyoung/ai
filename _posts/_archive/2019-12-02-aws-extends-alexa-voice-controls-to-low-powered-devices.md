@@ -2,17 +2,17 @@
 category: news
 title: "AWS extends Alexa voice controls to low-powered devices"
 excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
-publishedDateTime: 2019-12-02T08:40:00Z
-sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
-ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
-cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+publishedDateTime: 2019-12-02T08:27:00Z
+sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
-  name: ETCIO.com
+  name: telecom.economictimes.indiatimes.com
   domain: indiatimes.com
 
 topics:
@@ -20,7 +20,7 @@ topics:
   - AWS AI
 
 images:
-  - url: https://etimg.etb2bimg.com/thumb/msid-72325093,imgsize-562483,width-800,height-434,overlay-etcio/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
+  - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
     width: 800
     height: 434
     title: "AWS extends Alexa voice controls to low-powered devices"
@@ -37,7 +37,18 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
+    excerpt: "This comes from the new feature added called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range ..."
+    publishedDateTime: 2019-12-02T12:11:00Z
+    sourceUrl: https://www.gizbot.com/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    ampUrl: https://www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 24
 
-secured: "r6pZQA0nBzT8NI155JTdCBt4haXhvM2pYrsI9krqtUYlwjcH2Zk0jmUnQaW37474Vh8Bye3RMpDEZfYlJ3bsICPJBu3ORpQ7yIk/YE+waSzkJFEUlExgPYmUWTgnMQdi4qQ0WPxI24wlRu2JWWWZ6yJe0/hCSeeqhkKbXqafp++SNoEiwP+TZwH2mFV0rNMyubLCi3DhBIF1uI2nu7QDD/l4cCtQvW/5mvzvtOgdtg2IEgTAXohk/O5JVVAQ+w9Cfteet45sYcGG79vnw1seGA==;Tq8fWyEvbGIH6LrK4y213g=="
+secured: "gnmu59AdZwPf0GJe2w8fUozFbquqW2pkpgl3qLloeSBUH1TWwp3DGg3YPNqtB9h/0Mn6UYmoDj4NvmF9DtlWhs6G+rHVo0mM5rDb6KHWnCnGEddSO/YPiteOXx5RrczuyT5ELKD0yy1pLdTvk7aKFcIobLDhZnltuwc1eDbZiQyYmIk6NYfmCbicfyXIgiec8WDI+bqlPjVhPGDCS0T1kZ/9QiJ9PDiHaeHPMP3Vs1Tme80ylZqtnS/nj2MMRWVIW1tVNG9uEQWl1mVjltXo+g==;lIWqEyjams3oEuPHSgCqCA=="
 ---
 

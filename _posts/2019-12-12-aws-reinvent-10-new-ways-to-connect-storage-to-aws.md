@@ -54,6 +54,15 @@ related:
       - url: https://www.bing.com/th?id=ON.8D97A6819FF52C902442410CDF49831A
         width: 600
         height: 315
+  - title: "AWS re:Invent 2019 — AI/ML recap — Part 2: Amazon SageMaker"
+    excerpt: "In a previous post, I introduced you to our new high-level services. Now let’s go down one layer and talk about the new capabilities added to Amazon SageMaker: SageMaker Processing, SageMaker Experiments, SageMaker AutoPilot, SageMaker Debugger ..."
+    publishedDateTime: 2019-12-13T07:31:00Z
+    sourceUrl: https://medium.com/@julsimon/aws-re-invent-2019-ai-ml-recap-part-2-amazon-sagemaker-fee83f05a1bc
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 79
 
 secured: "0TcUSv4VCmxOJXQHn1fEmlIuLkDEW/7YB7j2nGNf0qF7x4LQ2mIMgUvrSxAxQh25r+H4WyAMryj7x4J0G9Brmel7DoaomnqA8ajftczkYfOKk3+2uK7Curm0gL4AZ1eQmVRN4FA8jWgV/9r3b4BmxX+QsUy78A8Fs2a2SLUB8g8wn9Hcov9nOdbQ53mpJpDer8UjIePWCZAaUq0O2casPgsDWic+FISlx9odePixwnTr/IvIEdjKXfVLkvtxzGqfc3MUjYbpyMLsst4c937+BQ==;RxhMr14/5kbeMGrljGMLkg=="
 ---

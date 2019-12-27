@@ -26,34 +26,21 @@ images:
     title: "VinAI Announces Scientific Research at the World’s No.1 Conference on Artificial Intelligence – NeurIPS 2019"
 
 related:
-  - title: "Google, Intel, MIT, and more: a NeurIPS conference AI research tour"
-    excerpt: "Raff spent six months trying to reproduce the results of 255 papers in AI published from 1984 to 2017. He didn't look at the authors' code, instead he developed new code based on the algorithm descriptions in the papers. He found that 162 papers, or 63.5% were reproducible, which was actually better than had been predicted by studies that ..."
-    publishedDateTime: 2019-12-07T20:38:00Z
-    sourceUrl: https://www.zdnet.com/article/google-intel-mit-and-more-a-neurips-conference-ai-research-guided-tour/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-intel-mit-and-more-a-neurips-conference-ai-research-guided-tour/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-intel-mit-and-more-a-neurips-conference-ai-research-guided-tour/
+  - title: "City to host 4-day int’l conference on natural language processing"
+    excerpt: "Hyderabad: For promoting interaction among researchers in the field of Natural Language Processing (NLP) and Computational Linguistics in India and abroad, the sixteenth International Conference on NLP (ICON-2019) will be held at International Institute of Information Technology Hyderabad , during December 18-21. Papers were invited on ..."
+    publishedDateTime: 2019-12-08T18:23:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/city/hyderabad/city-to-host-4-day-intl-conference-on-natural-language-processing/articleshow/72430427.cms
+    ampUrl: https://m.timesofindia.com/city/hyderabad/city-to-host-4-day-intl-conference-on-natural-language-processing/amp_articleshow/72430427.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/city-to-host-4-day-intl-conference-on-natural-language-processing/amp_articleshow/72430427.cms
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 93
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.84AA06978F6EDB3AE8909305469781A3
-        width: 700
-        height: 525
-  - title: "Conference ponders AI advances"
-    excerpt: "Lastras provided an exciting overview of research projects from IBM related to natural language processing and its evolution. He noted that IBM has been at the forefront of language and speech research for decades. Examples include the famous research program on statistical speech processing from the 1970s that led to the powerful speech ..."
-    publishedDateTime: 2019-12-09T19:56:00Z
-    sourceUrl: https://www.embedded.com/conference-ponders-ai-advances/
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.5B73E79260A7C99D0555963657BF2372
-        width: 290
-        height: 249
+      - url: https://static.toiimg.com/photo/msid-47529300/47529300.jpg
+        width: 1200
+        height: 630
 
 secured: "AM7RYTJy606ODMADkd1zRawnjOpcLTpNFp92hXKudr+su8hsJSJGVngakTKJnny1/NlpQqTAZSJYBvRDntP+1dLfUlaoeehNsc7wy8LDO2OcdEc57UFHZkTRIJNm87tYBl/JIh9RUr3blB36eoigTe9i0SwpQIV6di35Z5rD+/Oe7fxd0zG5n23nMPCOgUGusuoTh6o3igYW2q2d0sdqOHHuY+YzqUve2rI4u3cpqknxq/gSmM+c65MWvBEVTQ67h7SDB73qYo55nBdCrpam/g==;n+kI6uEMB7EkYx+vuLY2wA=="
 ---

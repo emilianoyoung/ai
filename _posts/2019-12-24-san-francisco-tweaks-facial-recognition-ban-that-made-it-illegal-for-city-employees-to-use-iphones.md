@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
         width: 700
         height: 437
-  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
-    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
-    publishedDateTime: 2019-12-23T05:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
-    images:
-      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
-        width: 700
-        height: 466
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z

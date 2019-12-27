@@ -243,19 +243,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-    publishedDateTime: 2019-12-23T05:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
     publishedDateTime: 2019-12-23T07:49:00Z
@@ -330,19 +317,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
-    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
-    publishedDateTime: 2019-12-24T06:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
     excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
     publishedDateTime: 2019-12-25T00:04:00Z

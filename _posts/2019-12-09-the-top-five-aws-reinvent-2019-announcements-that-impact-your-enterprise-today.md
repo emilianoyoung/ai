@@ -45,6 +45,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C7C016DA9D302E6B28E134676E28D0
         width: 600
         height: 315
+  - title: "AWS re:Invent 2019 — AI/ML recap — Part 2: Amazon SageMaker"
+    excerpt: "In a previous post, I introduced you to our new high-level services. Now let’s go down one layer and talk about the new capabilities added to Amazon SageMaker: SageMaker Processing, SageMaker Experiments, SageMaker AutoPilot, SageMaker Debugger ..."
+    publishedDateTime: 2019-12-13T07:31:00Z
+    sourceUrl: https://medium.com/@julsimon/aws-re-invent-2019-ai-ml-recap-part-2-amazon-sagemaker-fee83f05a1bc
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 79
   - title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
     excerpt: "The AWS re:Invent conference showcases a wide range of third ... and disaster recovery as well as take advantage of customers' increasing need for artificial intelligence, machine learning, and analytics to better manage their cloud-based workloads."
     publishedDateTime: 2019-12-12T13:56:00Z

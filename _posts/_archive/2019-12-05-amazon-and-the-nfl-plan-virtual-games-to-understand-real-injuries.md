@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Amazon and the NFL plan virtual games to understand real injuries"
-excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of AWS services, the NFL is growing its leadership position in driving innovation and ..."
-publishedDateTime: 2019-12-05T21:16:00Z
+excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+publishedDateTime: 2019-12-05T22:16:00Z
 sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
 ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
@@ -12,7 +12,7 @@ heat: -1
 published: false
 
 provider:
-  name: Digital Trends
+  name: digitaltrends.com
   domain: digitaltrends.com
   images:
     - url: /assets/images/organizations/digitaltrends.com-50x50.jpg
@@ -24,9 +24,9 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.D2880C635F6ED38F9E31190E37EBD85D
-    width: 700
-    height: 366
+  - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+    width: 1200
+    height: 628
     title: "Amazon and the NFL plan virtual games to understand real injuries"
 
 related:
@@ -84,15 +84,17 @@ related:
     quality: 30
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-06T00:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-13T18:34:00Z
@@ -107,6 +109,6 @@ related:
         width: 700
         height: 450
 
-secured: "xG9k5Am7oV3jB43wAYUAMyaGz6N9rwiwYaOPCtWNJpPCYVp2UZvDr0F3prjeHVnf2cA0yUjm6RVFkfQV+0WYD06n8q83ZDg++jAm/lHtgeItcR3fl7ceiCeGsLVOvJP3fV4OwBBidGSQJYXsyym+eVjpJ639RnZ+eaHnwBMXeayIaU4UNanMOp8CEpihuZ2KgsldWv91u+w3o3TP/8icdzlAR448gWLLsmjdYG8WgBrs1nAYURxnODdY0iWxQQb9+oZU+HrI94+YAId4aBGeDw==;3BbRrY47Uttyg6N2or8/Dw=="
+secured: "jLYvcrn9R5nhIuBVb2pYHh6/628mjqh+w0uQdnS8E/dG2QcwNfB0OJ45ycjc9QPQRu7Bu/w2WzxbAQUJirhm8UWDix6WeozcbFi9+2Fl3zkTYUFwxepKNm2pQliAdzjYVSXz5+yd3bEBEdKDJBDvVu1R7X9I1GjwiEbae69mHjCM333BQPx7GF9xBWqEDySDawGtQ4KeCUxrGfYe8w7+o3qEvCsCx2mmiSIOlpFgNddFJqL8JufFAPp996A3S85W7MDrkghb7VMVB4aLt4OyLQ==;9Gm7PkSi0LFuWStmpTMlPA=="
 ---
 

@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Nvidia Touts Chip Deals With China's Alibaba, Baidu and Didi"
-excerpt: "(Reuters) - Nvidia Corp on Wednesday said it has won a series of deals in which some of China's biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles. Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started using its ..."
-publishedDateTime: 2019-12-18T04:09:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/12/17/business/17reuters-nvidia-china.html
+title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
+excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started ... its chips both for developing self-driving cars on the road as well ..."
+publishedDateTime: 2019-12-18T04:30:00Z
+sourceUrl: https://uk.reuters.com/article/uk-nvidia-china/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi-idUKKBN1YM0B8?feedType=RSS&feedName=businessNews
+ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1YM0B8
+cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1YM0B8
 type: article
 quality: 69
 heat: 89
 published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "Nvidia Touts Chip Deals With China's Alibaba, Baidu and Didi"
 
 related:
   - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
@@ -53,6 +49,6 @@ related:
         width: 800
         height: 600
 
-secured: "HcAXUu4V1i9VwJhKjKifGVOvjIBO/hPtIym9UDvkT8Rf9wJAXn8myFqvLZIX1lljGs7XB9udlPdalW+89XSzefGsl/wxrMLZEhG7g4QLkdNPfM0vxjQDRW7wLcUa7yhlECh0fX8CcL2Eb3LEx4g2AmwLIBDdCaxdzsJUtiNBAp4/vCOQtlN0D54W4wP1XZuP6XQZILj8wynRI9vjAQoTgwUbB4FXPfo77FdcAO/HEYsqV4yP492cesI+Z7x7hCxLKt3rRfjGSYEo5lZ2hT78iQ==;Nb4KFKbgjJAg7F+su2qFzg=="
+secured: "4aO9Anj8pMaymCvz7wvUIAb8AW1fTkb5iNzLvKxb8KQVSyjk50ke93tRz1VZScHOT6+0KUvfvacK9OYEj6FVZkQpXr2o1eM5/NZndImNwFS7GaklhmiRDrxXqsiLEVFmvtVAgOMBJaI3pfofCjyyMhYMlAYsX1VtNj4GejVL8dVfHm5MRXXZN6rQ1eOaKDh5F0t8LrF0kLWcY/K4NFOAEJy5Ady445vxZwHLBG6mp+5BVhfH0ufcIhpnkiulYmCuu6Q/DrDLYT2S6EJqX5oVQw==;HgVtMdvlj7W/fAcNkhr6XA=="
 ---
 

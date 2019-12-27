@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
-excerpt: "... called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range of connected devices. This might be anything from smart vacuum cleaners to something as huge as construction excavators."
-publishedDateTime: 2019-12-02T06:41:00Z
+excerpt: "This comes from the new feature added called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range ..."
+publishedDateTime: 2019-12-02T12:11:00Z
 sourceUrl: https://www.gizbot.com/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
 ampUrl: https://www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
 cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.27518A2C721B8D3D3AD8FD4D3ECCB3D4
-    width: 600
-    height: 337
-    title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
 
 related:
   - title: "AWS extends Alexa voice controls to low-powered devices"
@@ -42,8 +36,8 @@ related:
         width: 800
         height: 434
   - title: "AWS to roll out Alexa voice controls for low-powered devices"
-    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services to make life easier for IoT developers. These include Fleet Provisioning for AWS IoT Core ..."
-    publishedDateTime: 2019-12-02T12:27:00Z
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T12:30:00Z
     sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
     ampUrl: https://m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
     cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
@@ -51,12 +45,8 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E9B8D71D763A44D1EF2114DD1E19BBF8
-        width: 700
-        height: 393
+    quality: 39
 
-secured: "4/yb2G7/KNdP5I6uzCDFOjzHQg5gxkxVah15NIoyvb569WlSyuTnyNbxxKavCZtnsqMHK6CwBNnN8asKTuyx3gRb9j5hud1DPcL+gzb7Op+GPDf7ZzDGdPdye8UGoGG2HHPmPx8/JalVGiN05tlwHcIIWXkxvTdDFVBZbq/yqRaCy1P/uSJBKL3qpWpV1p/AcO5GRrRjBJpbVzqUiARcweY+oK9CrYvAjOhZawQfz8OfyyK/zKBqWR4m1sqguzyjVtCBq6sboi60KB2b+CJ8Zg==;qY4VYfn7zO46GmZU65/J0w=="
+secured: "FN3j64Ll913Sh4S2jhqGjdYQwnM+kaDsIbYvCN0XcPi4k7KLQwfy5oqhBNABWZQ/3ueocxoG4e93xBNFTGiRYO68/B2U0OSBZh8CxMaJI7zpiBiNbWdiPtwPsGT9Osqbq5eq1YpTGqPhAQW7n5KVgrAsHBLa3k03tTzSWBvQ1VkAYDq8rl1xSHPl54Ig47k8dPPyG3NFFwhSHncxDUaXOlg6hiWBe9jJ+40sL+Vtx/LccBGrebpitTpuQBv9510pdTW0HENpsgdlkc3HbE7l3g==;8TNkw1pvbyI1Vk4G7iTpxg=="
 ---
 

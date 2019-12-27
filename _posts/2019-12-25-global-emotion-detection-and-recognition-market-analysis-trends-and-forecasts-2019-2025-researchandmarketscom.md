@@ -18,75 +18,120 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
-    excerpt: "Helicopter cash, climate crises, smart cities and the space economy — investors have all those possibilities ahead as they enter the third decade of the 21st century. They go into the new decade with a spring in their step,"
-    publishedDateTime: 2019-12-27T10:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis/recession-robots-and-rockets-another-roaring-20s-for-world-markets-idUSKBN1YV0QQ
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
+  - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
+    excerpt: "As the year draws to a close, it’s instructive to look back at the months preceding to see what the future has in store. History is cyclical in nature, and this is true of the field of AI. Consider that backpropagation, an algorithm widely used in the training of machine learning systems, appeared as a theory as early as 1980, but it wasn’t ..."
+    publishedDateTime: 2019-12-27T21:45:00Z
+    sourceUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/
+    ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
+        width: 700
+        height: 350
+  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
+    publishedDateTime: 2019-12-23T05:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 89
+    quality: 81
     images:
-      - url: https://www.bing.com/th?id=ON.6B8F71CFED66B0212B673B922161517C
+      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
         width: 700
         height: 466
-  - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
-    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-    publishedDateTime: 2019-12-27T10:09:00Z
-    sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
-    ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
+  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
+    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
+    publishedDateTime: 2019-12-26T11:34:00Z
+    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
+    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
+    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 85
+      name: Mid Day
+      domain: mid-day.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
-        width: 450
-        height: 337
-  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-27T09:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
+      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
+        width: 670
+        height: 440
+  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+    publishedDateTime: 2019-12-27T18:59:00Z
+    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
+        width: 1200
+        height: 630
+  - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
+    excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
+    publishedDateTime: 2019-12-26T11:29:00Z
+    sourceUrl: https://www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report-11577358818915.html
+    ampUrl: https://www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report/amp-11577358818915.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report/amp-11577358818915.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.0A1185139DC73ED308A5B7967CF47B90
+        width: 600
+        height: 338
+  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
+    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
+    publishedDateTime: 2019-12-27T18:45:00Z
+    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
+    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
+        width: 700
+        height: 455
+  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
+    publishedDateTime: 2019-12-23T05:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Ping-pong playing robot returns for CES 2020"
-    excerpt: "For the last two years at CES, Omron Corp. demonstrated a robot called Forpheus that equipped with sensors and artificial intelligence played ping pong with users at the show. The robot is returning to CES 2020, taking place in Las Vegas on Jan. 7-10, for another round of table tennis with convention goers this time with expanded capabilities ..."
-    publishedDateTime: 2019-12-20T17:01:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14440/ping-pong-playing-robot-returns-for-ces-2020
+  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
+    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
+    publishedDateTime: 2019-12-24T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
-      - url: https://electronics360.globalspec.com/images/assets/440/14440/OMRON_Corporation_6th_Forpheus.jpg
-        width: 752
-        height: 508
-  - title: "Want to Hire a Robot? There’s an Agency for That"
-    excerpt: "Its robots will undertake the often strenuous and repetitive work endured by humans ... is a good thing,” Bailo says—“and then bringing that learning back into the manufacturing environment and into the artificial intelligence [area].” Bailo finds it interesting that Ford's plan is to use hybrid vehicles rather than electric for its ..."
-    publishedDateTime: 2019-12-26T20:08:00Z
-    sourceUrl: https://www.industryweek.com/talent/article/21119296/want-to-hire-a-robot-theres-an-agency-for-that
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.54CB0A39D02FCB0817B6E5648D53840E
-        width: 425
-        height: 700
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z

@@ -30,77 +30,123 @@ images:
     title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
 
 related:
-  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
-    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
-    publishedDateTime: 2019-12-23T03:14:00Z
-    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
-    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+  - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
+    excerpt: "As the year draws to a close, it’s instructive to look back at the months preceding to see what the future has in store. History is cyclical in nature, and this is true of the field of AI. Consider that backpropagation, an algorithm widely used in the training of machine learning systems, appeared as a theory as early as 1980, but it wasn’t ..."
+    publishedDateTime: 2019-12-27T21:45:00Z
+    sourceUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/
+    ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
     images:
-      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
+      - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
         width: 700
-        height: 437
-  - title: "San Francisco tweaks facial recognition ban that made it illegal for city employees to use iPhones"
-    excerpt: "In brief: The San Francisco administration's ban on the use of facial recognition has had the surprising side effect of making devices like newer iPhones illegal to use by municipal workers. Officials are now tweaking the law to allow their use while still maintaining a strict ban on using facial recognition features. While San Francisco may ..."
-    publishedDateTime: 2019-12-24T14:53:00Z
-    sourceUrl: https://www.techspot.com/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    ampUrl: https://www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+        height: 350
+  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
+    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
+    publishedDateTime: 2019-12-26T11:34:00Z
+    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
+    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
+    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 75
+      name: Mid Day
+      domain: mid-day.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
+      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
+        width: 670
+        height: 440
+  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+    publishedDateTime: 2019-12-27T18:59:00Z
+    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
+        width: 1200
+        height: 630
+  - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
+    excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
+    publishedDateTime: 2019-12-26T11:29:00Z
+    sourceUrl: https://www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report-11577358818915.html
+    ampUrl: https://www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report/amp-11577358818915.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report/amp-11577358818915.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.0A1185139DC73ED308A5B7967CF47B90
+        width: 600
+        height: 338
+  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
+    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
+    publishedDateTime: 2019-12-27T18:45:00Z
+    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
+    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
-        height: 490
-  - title: "New face recognition feature at airport"
-    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
-    publishedDateTime: 2019-12-23T23:56:00Z
-    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
+        height: 455
+  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
+    publishedDateTime: 2019-12-23T05:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
-        width: 700
-        height: 466
-  - title: "Women in SF police department face barriers in assignments, recognition"
-    excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
-    publishedDateTime: 2019-12-16T23:52:00Z
-    sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
-    ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
+    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
+    publishedDateTime: 2019-12-24T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
-      - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
-        width: 700
-        height: 632
-  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
-    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-24T14:37:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
     type: article
     provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 23
-    images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "7j2wsHtJH4uNGVI/uQxB7gUO5E13yy2dPIpjFCPgl0epCuOLbv6n01fw7nd2CXPp0Hstb/Dl+cZs9uLefNVPxtEwZCc05kneT5c3QhUHMo/DpcYzykUx/QjPMj6GXjTH877Ps5nX9cIYPRefOoYEbyk+G63L+gzl0bamRjNvhMdwo/Rnq/t7ORtdSbKeDNHV2d8IEknJ4yj2Ad830gi89Fxp75C4UJwQ9s/NVWOxKV3hHv7VM40dK3RkPygLSFM6nKozwXJOpSgTvurkh6J4og==;UZiy45cn/404p7NL4iQe2Q=="
 ---

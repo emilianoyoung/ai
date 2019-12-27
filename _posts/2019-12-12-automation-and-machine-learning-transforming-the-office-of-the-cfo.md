@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 91
-heat: 451
+heat: 441
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "Automation And Machine Learning: Transforming The Office Of The CFO"
 
 related:
-  - title: "Qualcomm’s big Snapdragon 2020: The 5G, the chips, the wildcard"
-    excerpt: "The week-long event kicked off with new chipsets for smartphones before hitting AR/VR and finally computing, with 5G and AI ever-present themes along the way. Read on for the big news you need to know. Qualcomm was so enthused by the prospect of talking all things Snapdragon, it invited SlashGear along with hundreds of other global media to ..."
-    publishedDateTime: 2019-12-07T20:05:00Z
-    sourceUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/
-    ampUrl: https://www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomms-big-snapdragon-2020-the-5g-the-chips-the-wildcard-07602567/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.57F5F58F705255A056E30181AE3C9171
-        width: 700
-        height: 451
   - title: "Meet CIMON-2: The floating A.I. brain that lives on the ISS"
     excerpt: "“We use our IBM Watson intelligence to do similar things to what Siri ... The main antagonist in 2001: A Space Odyssey, HAL is the calm, conversational artificial intelligence whose job it is to assist the crew and maintain the ship’s functions; only to turn on its crew and begin trying to kill them off. Anyone who builds a smart assistant ..."
     publishedDateTime: 2019-12-11T10:00:00Z

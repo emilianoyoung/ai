@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T17:29:19Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
 
 related:
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+    publishedDateTime: 2019-12-05T22:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    type: article
+    provider:
+      name: digitaltrends.com
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
     excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
     publishedDateTime: 2019-12-10T10:54:00Z

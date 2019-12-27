@@ -480,6 +480,17 @@ related:
       - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
         width: 700
         height: 400
+  - title: "Stanford Engineers Taught a Self-Driving DeLorean to Drift"
+    excerpt: "Since then, mechanical engineer Chris Gerdes and his students developed the self-driving car to drift through a multi-turn, kilometer-long track in just a matter of minutes at a level that’s nearly as good as real professionals. The DeLorean uses GPS coordinates and the algorithms on Jonathan Goh’s laptop to chart its path, meaning those ..."
+    publishedDateTime: 2019-12-24T13:04:00Z
+    sourceUrl: https://hypebeast.com/?post=4844035
+    ampUrl: https://hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
+    cdnAmpUrl: https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
   - title: "Uber to open self-driving test track in Findlay Township"
     excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
     publishedDateTime: 2019-12-27T00:30:00Z

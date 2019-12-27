@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -84,24 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.54CB0A39D02FCB0817B6E5648D53840E
         width: 425
         height: 700
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-24T14:37:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-25T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "aLKCEFuzyGdnPRBbMje+SsNudmJQf2DlrSbEboIZFxrejwbGZMRuga6KzDc3Vc7Z+P8ukzxfg+Szhu0fqKy8Ii673rKqTc2/RRJoJ+71DQoWuDMJ735/QDMhUBywRxPIRzipFnXxwkr4o4OCBmqCvoCg6gXeIDdVILxJc3wEzEtC+qi6CH4k98V+7pudtcM4aWEV//b57Oxi8PA7faqqNNteKQlqqSKy/j6stRx+Rk85ZJPrE2BZ5qMQsiHpvTzcBBNv2qLQo9RMZSR3mXt6tw==;MlmwoOwyIyqVA4YVzCgV4A=="
 ---
