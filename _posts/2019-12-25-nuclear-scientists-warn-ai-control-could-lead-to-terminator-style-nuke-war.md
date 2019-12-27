@@ -23,6 +23,21 @@ images:
     title: "Nuclear scientists warn AI control could lead to Terminator style nuke war"
 
 related:
+  - title: "World War 3 horror: Scientists warn ‘Terminator war’ could break out if AI controls nukes"
+    excerpt: "Both nuclear scientists and defence experts believe that the threat of AI gaining control of nukes far exceeds the danger of AI turning on humanity. According to a report in the Bulletin of Atomic Scientist, Russia has already started to incorporate AI into its new Poseidon nuclear torpedo. The missiles were revealed by Russia’s president ..."
+    publishedDateTime: 2019-12-27T00:59:00Z
+    sourceUrl: https://www.express.co.uk/news/world/1221394/world-war-3-latest-artificial-intelligence-news-war-terminator
+    ampUrl: https://www.express.co.uk/news/world/1221394/world-war-3-latest-artificial-intelligence-news-war-terminator/amp
+    cdnAmpUrl: https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1221394/world-war-3-latest-artificial-intelligence-news-war-terminator/amp
+    type: article
+    provider:
+      name: Express
+      domain: express.co.uk
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.B253BEBFF85930CE7C3B768FFE9C0192
+        width: 700
+        height: 415
   - title: "Scientists warn that giving control of nuclear weapons to artificial intelligence could lead to nuclear war"
     excerpt: "Scientists have warned that control of nuclear missile being handed to artificial intelligence could lead to a 'Terminator-style' apocalyptic war. Top nuclear scientists have warned that the technology could turn on humans like in the famed Arnold Schwarzenegger 'Terminator' films. A report by experts at Cornell University warns that an ..."
     publishedDateTime: 2019-12-25T22:20:00Z

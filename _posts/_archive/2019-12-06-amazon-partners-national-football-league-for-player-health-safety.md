@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -61,16 +61,7 @@ related:
       - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
         width: 700
         height: 466
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
 
-secured: "jEZIRnWwhHZ4hP3zeS3aw0V4BqgXHEewjzW1RmAbq8vGqBr6m3H4cO0YakiUsJ8thtVj5+f0f5FUSH47IB6of+k9dm7QeyX7IPCWYE6i51p372jQVHGYZs78HTAMSXKtypznX2WwqjpPUElgiRctyElpdu53T8iKG+bCyRUODKpNtX2AnqZT9w6qVwo9vouhXGb4K9DS1zNF11xxCFp5QWq+KOI6KGn2I8JReyh5gBN9ZWbjrtYY06HyfX7+JWoMo9IJ2qAoiisD9/Qb/wJ7ew==;/rwMfe2mVTx+3ucmb13KLQ=="
+secured: "uq10vYPjankf9Stw052/U8iC7uSuLgQakbQBmnLQ3bg6448Rghay081w6yXnmhJGBoRZT9E1kn95N22DxK/qq6EnXq0JW0yX5b2B7tgL/1bnjk1iPNJd45jgK9JZMjW9hwOt/axDXnP1AKPobS2jD9pnyCilkkKcgywQiIGKyYy8SJmh0rU3iTaVdCCAZVMAj0EJKXDCXO5AD6t4uiM+KvxMWPV8i7MT+kgvYS4KR59eAnC+RRgWtsBmVVJx4BFN3Wj7VCtY2scal1hEnE5zxg==;gd0LeKC5gOWxYP88os+Lcw=="
 ---
 

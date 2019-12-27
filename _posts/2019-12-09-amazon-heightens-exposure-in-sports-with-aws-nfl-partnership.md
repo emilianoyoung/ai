@@ -61,15 +61,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
         width: 700
         height: 466
-  - title: "NFL, AWS team up to transform player health, safety using cloud computing, AI"
-    excerpt: "AWS and the NFL will also collaborate to develop computer vision models using Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition to advance the ability to detect concussions and identify the forces that cause them."
-    publishedDateTime: 2019-12-07T00:09:00Z
-    sourceUrl: https://www.telecompaper.com/news/nfl-aws-team-up-to-transform-player-health-safety-using-cloud-computing-ai--1318940
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 31
 
 secured: "7a9C7IbgKBJpjgBM0Sb82T827oYnp58yYOQKPD5QUL9S20MIKNIX1GhLhoMHO8lbanuuk4SqRPbuXL3mFMehjHopsUnhjdCL9mZ+B3HVvT8hvQ0Hmd+stiU9K8LKNcmF5mntS1tBEOaAmy/xqRruzCZH7Gzb9YqPiz8badTDmXLKqO/Oi8PXMl1CiuURsxf/EVfcYpssVpVNCpaDkrv53c9aNF8G03SlEd591OX7Altbs58l8MHvM5ugDO26ecj2SRAReausHttlyZabGDbYyQ==;hv/clOHORz4JXvxevQAdFg=="
 ---

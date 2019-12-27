@@ -493,6 +493,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
         width: 700
         height: 393
+  - title: "Uber to open self-driving test track in Findlay Township"
+    excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
+    publishedDateTime: 2019-12-27T00:30:00Z
+    sourceUrl: https://triblive.com/local/pittsburgh-allegheny/uber-to-open-self-driving-test-track-in-findlay-township/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.4E3C2A03F4D4B4006EF028FBCE767251
+        width: 640
+        height: 457
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
 
 related:
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+    publishedDateTime: 2019-12-03T18:11:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -56,20 +67,20 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
         width: 932
         height: 377
-  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
-    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
-    publishedDateTime: 2019-12-03T20:32:00Z
-    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
 
-secured: "gHqxKC1PC284ap0e5gchjv3U29MorDQBV8FuprMW23Pqthr8X8sqbXXCNox8gyKXIQNoTc10ob9XDcnSyj355vIrPA59EXpBa52aQU53bjSs81CuFBFFsotREspmMarXVhAw8K4kW7BCcF9MViXQ7K0y5mDJV4bo48TBExpam6nHBYNrGZe1kzSPoVhBsd0YUgIHHQbgfpbYRkMEAOH4gp+7zFGc4cLxpmibYK5u1WvOJzDCV7Bs9Iq9sb1JBNc7J5YVOM8EVHwmguS4oXpOcw==;hhgbzivdnxp6H30k2HKcOQ=="
+secured: "OBO4fbZFihquTkxrLs4aipxkWkoISMBgyoyccisNTzFfeJ5GcPtnE+JsrdcFDiSQyBl6zZe7dxVvHeS63f2EQY+N8CRhpeN2nTWXYX3hKtUv+WLV7uRmK7XbGYIZIcfIdBxKtyPSeNQt4LA0GU++bjDLgpA+ofTCylFDGS3BWattunc7FBXNcn5ttvHj1xZYzYFkjRPBHv6IfgYEVsHIF9A4eMtnRZUsiBgpEL3Qlt2PqN/Ci3zYBFLy9xrYKHndXF4sE+q8T8uwca7Oiqaicw==;3fWJDkNSARg4QJjdX7twkA=="
 ---
 

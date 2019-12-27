@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-d
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
         width: 700
         height: 365
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
-    publishedDateTime: 2019-12-07T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/throne-speech-recognition-mental-health-210431884.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "Xfcu41kHOhzW3OrRXyyECVrrZVg4a9VAbSjQCtRWC4egBqZ83oM2yh/ugR8Vt5q6z9hiXtHA/+Jo0Uno1GWFz2m/1K95p4dmz3XLfzQLmHscuKFL8GGI2HdZER6N1Rcf2c/wqwfU0qBpWJpezxnz/SEdgFKlQMs/75KWw5ud7IgAt3pwqT+7Z6YTl+LYvZupABNdjR12LCcj+Uqti904yIjR1I4HM2Cfmq6V2nGki5N1FR1JfJZpd8mfd1zBMpIA1IyD9A7Tgbqptq6PO2ERUw==;gFDSoLVxH0paHgEuOtbBzw=="
 ---

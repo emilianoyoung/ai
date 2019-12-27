@@ -1,71 +1,107 @@
 ---
 category: news
 title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
-publishedDateTime: 2019-12-05T17:49:43Z
-sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
+excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+publishedDateTime: 2019-12-05T17:53:00Z
+sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
 type: article
-quality: 54
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Business Insider on MSN.com
-  domain: msn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
-    width: 700
-    height: 350
+  - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+    width: 1200
+    height: 600
     title: "Google just added the cofounder of its DeepMind unit to its own AI team"
 
 related:
-  - title: "Google DeepMind gamifies memory with its latest AI work"
-    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
-    publishedDateTime: 2019-12-02T22:10:00Z
-    sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
+    excerpt: "Researchers hailing from Google, Alphabet subsidiary DeepMind, and the University of Toronto sought to exploit this with an agent — Dreamer — designed to internalize a world model and plan ahead to select actions by “imagining” their long-term outcomes. They say that it not only works for any learning objective, but that Dreamer exceeds ..."
+    publishedDateTime: 2019-12-10T17:30:00Z
+    sourceUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/
+    ampUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
     images:
-      - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
+  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
+    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
+    publishedDateTime: 2019-12-05T19:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
+        width: 1400
+        height: 933
+  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
+    excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
+    publishedDateTime: 2019-12-11T00:12:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    ampUrl: https://www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
+        width: 578
+        height: 289
+  - title: "Harnessing the power of machine learning for earlier autism diagnosis"
+    excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
+    publishedDateTime: 2019-12-10T14:30:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.html
+    ampUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
+        width: 1020
+        height: 600
+  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
+    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
+    publishedDateTime: 2019-12-10T21:24:00Z
+    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
         width: 700
-        height: 525
-  - title: "Google’s AI makes memory a game"
-    excerpt: "Tiernan Ray explains how DeepMind, a unit of Google that develops ambitious AI projects, found a way to stimulate the kind of long-term planning of risk and reward that humans do by turning memory into a game of actions and future payoffs. Read more: https://zd.net/2YEyR9W"
-    publishedDateTime: 2019-12-09T19:56:00Z
-    sourceUrl: https://www.zdnet.com/video/googles-ai-makes-memory-a-game/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
-        width: 700
-        height: 525
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
+        height: 450
 
-secured: "aBQ+4cya1/mD0+MCgQlIsvEvz/DLK+WWvppcOvoeZtxU/nOU9yopQ9Bcsgg9ypl86MwJuZ2WziyQOm2M3hl+PWfQSyf5sQbJ2NHK982a+ecq6bnoetAWzHVqYbVn05ECmlYZuQPYa2oQX80Z7zwL6K0sQdAghB8ZXdApeOoI3JipK2Oim52oFQv9avOaJIlQ2gkNmF03BLaEcRg2kBtuyrsxzkMSlg6H2oRLEmXaUXFjTj553VnMpeDrLTb0rZloAjA+VYP7HXxVcFuG1uV2gg==;NgXGQYCw0K+BECvt6mNNUA=="
+secured: "sVJQrL2QFrrzFw4xt/MV9RA1sPMK51+tyztbkD1RbrP84eaKjFdlxDOdRhIF2m6Cs/jh8gGdD57s8qMCAbWMNBVAVoNnP19LYFghs3gRzZtV4/I2oFKk/lwncGZMyuybHyrXdL+hAO1mxGDZuT2/Ve3eEcFjg4rU0Qd1KipDYhnIEtuYssNKEEOGPLcZUPXifL2fK8bMPsFvbLVXQDGvXUeUOmEzKvIeUVA4p7kb+2f9nmMbAq9WXo5d/LKrXbLUaVAViKyVg6n1hJFhKYEsLw==;z78rNXONPh9oa++de46Bdg=="
 ---
 

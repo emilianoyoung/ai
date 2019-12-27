@@ -6,7 +6,7 @@ publishedDateTime: 2019-11-28T10:59:32Z
 sourceUrl: https://www.msn.com/en-ca/money/topstories/russias-sberbank-agrees-venture-with-driverless-technology-firm/ar-BBXsdKI
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     title: "Russia's Sberbank agrees venture with driverless technology firm"
 
 related:
-  - title: "Russia’s Sberbank pushes into driverless cars with AI joint venture"
-    excerpt: "State-run Sberbank, Russia’s largest lender, is expanding its high-tech offerings through a new investment in driverless cars with AI transport ... computer vision and artificial intelligence,” Sberbank said. Moscow-based Cognitive Technologies has ..."
-    publishedDateTime: 2019-11-28T15:40:00Z
-    sourceUrl: https://www.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    ampUrl: https://amp.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9138f0ea-11e9-11ea-a225-db2f231cfeae
-    type: article
-    provider:
-      name: Financial Times
-      domain: ft.com
-    quality: 54
   - title: "Russia’s Sberbank invests in driverless car tech firm Cognitive"
     excerpt: "Russian financial services giant PJSC Sberbank has expanded its technology portfolio to include driverless cars after making a substantial investment in local artificial intelligence transport firm Cognitive Technologies. Sberbank has signed a legally ..."
     publishedDateTime: 2019-11-29T01:14:00Z
@@ -49,6 +38,6 @@ related:
         width: 1280
         height: 720
 
-secured: "f4fjC9Vpl+OIq00/nKNN1shsXCEcYCzsw0j2VfQaNIsiN7K9ClvRFWxyPWMe4YmbqTY2IcQf6xhFBoJTq0MkzkzTyAoTO9ef/2cdF4UyXk8b2LsQXAA94V6Pv+dSPBxGl8EnKQ6mUeWkIf40Nt0v+pu0/ABkPY54RG4HwVRcMUbH+eBEiezbVc+96i4Nz7nsYEb9I6asUJQdRJKuxqKws9/TCNkFfoooafVctD/eGzUGOz7QY3nklcQIIFFOtnnTjvQ/ogFg8tHDA8sqTc0Etw==;iHkaZpbl2VEo0cP2dPPJDA=="
+secured: "T79XIDcO9OaYGNCaF0FbzDLLbJkneuZ7+JdYtr5XfWLnCms4Iv7HcU9SYK7DOeBqXYYYoK1S3I4ovu7KlCPBqA/V5ZYF7d7GuxflzhVY7G9OrxuSTg9qMqffEs/OXjsfNeXiXMpMAcPtwCMs70NDq5pf/CVq9MWSVRUuophbaS0IlRQ7dKu/+4YtD6bCzfIYnoDDKmvtneVFl/UqlPABH2sKGCE88YNqyUQqPaOtyoFaTnNFT8TK4O+u8C8qeBoK33HTJms+QJtSjRe1kxkGGQ==;jhz9Hwqq+1trNFy37AfQ2w=="
 ---
 

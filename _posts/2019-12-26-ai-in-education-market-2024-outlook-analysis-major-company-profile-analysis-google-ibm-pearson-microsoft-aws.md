@@ -26,6 +26,17 @@ images:
     height: 630
     title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
 
+related:
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:27:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+
 secured: "jLa1roSK5YtwSKtlewfZS1ng9/3dajQa8tOGuHqnbjtsq3S/83qutVgP1KmlZ3EIJv2rvr5IX2FWH6YG68OwTaDgu0tWjuu2Q48tcv6qlFKZj5uV1rAGcorzRGPuaF8CmkxDWP8UD9pk7hWMFG/6al7wq8l8Jdvm+37Wjk86ANMCyQeZ4POMb/cWL0uQewWzwtx8vviNyzWWxRjrD5/Opnzcn8Nxlk+ANobADlQDYHKBuY32i9l2LOna6OWVe/FetRO7EntvkMI1rXQnFXgKaQ==;9SpynwFYKw7CVOOFr0wK9A=="
 ---
 

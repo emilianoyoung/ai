@@ -39,6 +39,17 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+    publishedDateTime: 2019-12-03T18:11:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -65,20 +76,7 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
         width: 932
         height: 377
-  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
-    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
-    publishedDateTime: 2019-12-03T20:32:00Z
-    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
 
-secured: "pdtaIzuqvJ5Vo8hgd1fsCmvKi/FhwdtjFV82et/9dfKboF0p21ugSPnRe81UYupsc/Zo3ByX6z5+OM3vge3aD2Gic0Ad7GC87KBtkZwbBiCIUa8nwmwxKjb7r6kvuCF9hkZ6UkkBgLok7Y7jWm/Ibs1RcWUBxdG1dxHE+5lmVB4X6xUG2Q7VwAz89peogg40ey3YR7p/b88eNucrAUofR2V2MB9vB/eoVNxaBeBFTrghasopRJkB68X0yqLBuJSVtKWbBo2KGbTLfdW43KJmpg==;OWMDmBgrtrJEkpwN1cvXGw=="
+secured: "VA3tXTnPTktAIqhWr0LibagdmVXGYmvPeJRvgnY80TYvP/S2PEJ62MBAhPDuaw295MXttoXu1eALx1mkXtgR03GLiSZqmkubTwgVtEP7rhY3Au8aqTt/ywL6BTsnUwXlGYlaCWtFP6yrTyuFKe8VHE5mAoPi4d7rpdeTy0w+L3cAQ3rPTH7hhuIJeclVpvGK+wxPYQIP1f1qG78gYlNW/vPkwo+XFuGZIX/OgDe1XbImLqYicc6agCKQj+N0fNDblrw3oCxwruA7EwU5VTWnCw==;ybJzHp31h6Low0LQvJddgQ=="
 ---
 

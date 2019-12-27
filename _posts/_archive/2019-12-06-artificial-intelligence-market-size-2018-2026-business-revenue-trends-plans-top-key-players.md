@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence Market size (2018-2026) Business Revenue, Trends Plans, Top Key Players"
-excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include brand purchase advertising, workflow management tools, trend predictions among others."
+excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include ..."
 publishedDateTime: 2019-12-06T11:26:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2018-2026-business-revenue-trends-plans-top-key-players-2019-12-06
 type: article
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence Market size (2018-2026) Business Revenue, Trends Plans, Top Key Players"
 
-secured: "/i6MSNWNAw7/kLCOduRVf0lgpYnr2Vy1t0HrDpGA/q5jDmJiYMyRFF9b49bIO2QSMCPtnadylmnnHMHOLU9BWb1OBMYltFUsh5e3jdkmKPjdGvMcanJES3A+Uw62F4HOtB3T4Of0i3DQmA7ps/NsGxCjVb7+pVuxa+eUkHuGHps44qlID0gUZpfVVDup8FZQ2RbT/sDzknKXU0H0/lNfMmnsU5eeJ7+UUpPnhe45j3pL0FSVUa/Ujgk+5zNmhNXA1ggRBAn2N8zRGRj7V/Goyw==;Jt93bpxasH793GO/loOz+A=="
+secured: "1A4AIJ03iBWF6F+r9/W/PoW2UDDUlVw+RC7F6zPUnl4JZ+YVmSKWi7f5Y3cja3wpNJW5k8zO+yLhu66p6sHXaiJkJsEs51GDQXpIGiPPX5nT3WM+TSAqoKU2qqy7OeiYYtjMEOk1ByNKo+EtkBnnFMySVtrb5N6vAgW2tSHFSYZdr6jFe1UJoyws/gNn/n7ZoNsShVBN13fZt6EP8KPDNdpXAMqA3jTw0w02EBuURBDvpCCBIR5YS2p4tW+IX8ZJvbDkbN0+qlH2L/kRC3dSsg==;6rNTC6CxSDNhuneH6H7l0Q=="
 ---
 

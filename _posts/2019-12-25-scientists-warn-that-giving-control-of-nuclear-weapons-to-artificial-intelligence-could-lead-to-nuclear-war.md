@@ -8,7 +8,7 @@ ampUrl: https://www.dailymail.co.uk/news/article-7826769/amp/Top-scientists-warn
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7826769/amp/Top-scientists-warn-AI-nuclear-missiles-bring-Terminator-style-apocalypse.html
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,21 @@ images:
     title: "Scientists warn that giving control of nuclear weapons to artificial intelligence could lead to nuclear war"
 
 related:
+  - title: "World War 3 horror: Scientists warn ‘Terminator war’ could break out if AI controls nukes"
+    excerpt: "Both nuclear scientists and defence experts believe that the threat of AI gaining control of nukes far exceeds the danger of AI turning on humanity. According to a report in the Bulletin of Atomic Scientist, Russia has already started to incorporate AI into its new Poseidon nuclear torpedo. The missiles were revealed by Russia’s president ..."
+    publishedDateTime: 2019-12-27T00:59:00Z
+    sourceUrl: https://www.express.co.uk/news/world/1221394/world-war-3-latest-artificial-intelligence-news-war-terminator
+    ampUrl: https://www.express.co.uk/news/world/1221394/world-war-3-latest-artificial-intelligence-news-war-terminator/amp
+    cdnAmpUrl: https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/world/1221394/world-war-3-latest-artificial-intelligence-news-war-terminator/amp
+    type: article
+    provider:
+      name: Express
+      domain: express.co.uk
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.B253BEBFF85930CE7C3B768FFE9C0192
+        width: 700
+        height: 415
   - title: "Scientists warn AI control of nukes could lead to ‘Terminator-style’ war"
     excerpt: "The world may be inching closer to an era where a Terminator-style apocalyptic nuclear war could be possible due to yielding control over nuclear weapons to artificial intelligence (AI), according to publications by nuclear scientists and defense experts. While numerous AI experts have told the Jerusalem Post over the years that people worried ..."
     publishedDateTime: 2019-12-25T22:11:00Z

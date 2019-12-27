@@ -8,7 +8,7 @@ ampUrl: https://www.entrepreneur.com/amphtml/343610
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343610
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
         width: 300
         height: 300
-  - title: "Finance Montréal aims to grow FinTech start-up sector with IBM collaboration"
-    excerpt: "and innovation sessions twice a year about emerging technologies and the evolution of AI. Through the Montréal FinTech Station, FinTechs in residency will also access IBM Garage and Design Thinking methodology sessions, enabling them to deliver customer-focused solutions at an accelerated go-to-market pace. \"At the Montréal FinTech Station ..."
-    publishedDateTime: 2019-12-07T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/finance-montr-al-aims-grow-150000140.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.2305C3108B8B4938A9617F4214F0A418
-        width: 400
-        height: 200
   - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
     excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
     publishedDateTime: 2019-12-09T10:03:00Z

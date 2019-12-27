@@ -39,6 +39,17 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
+    publishedDateTime: 2019-12-03T18:11:00Z
+    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -52,20 +63,20 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
-  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
-    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
-    publishedDateTime: 2019-12-03T20:32:00Z
-    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
 
-secured: "Hl1fCoTD3qJTNGBfX5A+tH1NwUKjvUNNhQIHipC5otIWixU1qxPHHXr0YzSO7LeKhxxuXLf38vzGQd//4D6T49SeFLBBQpIQqif0WQ1g+YJF7urVRUF0UCc5urN5m+CxwKlGz4U1fCZMPRAs3UGFRciCKkhVHusfIqScd6EDpG+ZeyR7wdeVX05R4CeHNk3XOplBJ3XOun2lf4WNkWqNaF9bGJsh2xoymxayKDAGq3eSuXeqlXtiOWabghCqVszi1+O3IWaNRfWKRjnOzNGSbQ==;kIyKRsC6eVZ8gYg1Rr/bkA=="
+secured: "ALnBk1P8z8ebnEnKZSQw6BmHf6FWuW5LlOqkIl8YW4tbvVFqRA9hEqseIupe0WDXXxN38t1oBA5dVJVfx3SMlsErxFlKCT5tRUIZPH5LINbK+hDe0jJig4c4AaqmCih52zubI2elgQ1cX6q38XRre7gfCvJfnMbTW96t/2rjyklNIVBZahfLb4ot8hwNSturi3LXBqu6OruRh9LTt6H71VOhjXQpEuaRweCCpx9+QyvxZeiZ1qfc6CVJEU0cvQaZqD0otHObZCcNom04azWSoQ==;eRfjLxyHDPwmYabX9LVYHg=="
 ---
 

@@ -78,15 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F5EC7D0049B29DEF644D36104016473
         width: 336
         height: 224
-  - title: "Throne speech recognition of mental health and addiction support applauded by pan-Canadian health organizations"
-    excerpt: "applaud the federal government for putting mental health and addiction squarely on the map in its December 5th throne speech. Mental illness and substance use — and more specifically, the opioid crisis — are among our country’s most pressing public health policy concerns. We support the government as it seizes an unprecedented opportunity ..."
-    publishedDateTime: 2019-12-07T00:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/throne-speech-recognition-mental-health-210431884.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "U2KY9RWQrvkXkZYKAkZkOEDeCwbDHXOmIcTjFjrlomu/VjM6rymQppNhyTod/SKeRbeshG3tb12bkckJ+Gm30eXq9rmd8T+TFlTG3NeA6LTB/px0PdLuMfbv8J5ROt16zqiO89OPtsggABdFvc0w2gWEwBe/Pj48c2K56uKCpH91krceu1g81jWGF2bPoSTdXG1D/5YMyvM8/KWslkGbCNYOwXOKsLURvyxqzHH84VxtL5c2Rz8WUeSJWJ9hPXgekTkLi4AuycxBiEtIybwnwA==;lKWkVcmeAsIElIHlfTSOYQ=="
 ---
