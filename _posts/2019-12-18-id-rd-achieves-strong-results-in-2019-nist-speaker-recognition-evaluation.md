@@ -31,6 +31,21 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
         width: 700
         height: 445
+  - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
+    excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
+    publishedDateTime: 2019-12-11T20:44:00Z
+    sourceUrl: https://www.king5.com/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
+    ampUrl: https://www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
+    cdnAmpUrl: https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
+        width: 700
+        height: 393
   - title: "Far-Field Speech and Voice Recognition Market"
     excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
     publishedDateTime: 2019-12-12T06:44:00Z

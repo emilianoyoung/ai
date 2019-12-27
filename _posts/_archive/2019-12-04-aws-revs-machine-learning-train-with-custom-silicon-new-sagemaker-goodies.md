@@ -39,6 +39,17 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
     publishedDateTime: 2019-12-04T20:45:00Z
@@ -52,19 +63,8 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
         width: 900
         height: 431
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -114,8 +114,12 @@ related:
     provider:
       name: Cloud Pro
       domain: cloudpro.co.uk
-    quality: 34
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
 
-secured: "uOShOtW+XKV9hNBmqsnQVnV2p57MmMmaBH9S+i2HGYZ7+yAeSqRO92+ZgAcjEqo+EFFq6jFVfs8NA3H1d17C4r6NadgiYF/zr8dGz2WVuinBAB/e3dTwqSBkAxbdRJrGgfSCKuEY/q5gmj+wxiecld/Y2uavc/LMoNqgAx3oewlgc2HSgxi7gTpnpPL/OINKe32dxHwD54hAuOg6/HzcXQ3mhJo3kjFe4RMtgDn/CMfamOQVxgfL1x66obBfaXAlejpfx//8bin5A2m1+OxN0w==;rycTLpGK29IW65q7tNrmjQ=="
+secured: "qMry6NtHKxkyRPLAZaasXBPRpDY6MGR68UNRCGq8D0Thyi4y0fxExspOjomwOkI9gcEOeKW2gdWzRLowCzzH5xfrrGXr1UmSYimVPglv7MUEXaKZleQrAEZicpWTeS/9Cdp1uKWe2/jLRmjSQffPuqD+owhmczOxaFXru2RJCFtRjxjDnR37z05H1Zpsm3kkAR8PDzR1Q5sJTbvtwi3SyK6Kq/ZPlEvk3Z4Fq/GHczpzORL0PDHlL2i974FwxgNd6XsQQ2PDWC0g+74SrmoySg==;mbCao0iJeuGifIbosYOjEg=="
 ---
 

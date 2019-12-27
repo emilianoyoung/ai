@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
 publishedDateTime: 2019-12-04T00:20:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
@@ -36,7 +36,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 69
+  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    publishedDateTime: 2019-12-03T19:12:00Z
+    sourceUrl: https://news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
+    type: article
+    provider:
+      name: Yahoo News
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/bf34_9zA1x9udKMfeGt0sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
+        width: 1280
+        height: 960
 
-secured: "L/oyMk19Y87aN/fwpISLLye9ro8uHj+jh8x9mDDtdMXodOtPFgaTm7ulJIBTbzCIBGf7N9+tL+RFx5krb+VIHbP0fFIS0jtFuI+ABvDeHEdWEruZZxCvcYrT9+XkzGyD0fvRmeB1jQ8kL7xLaf5cpFO5Ab3Dld+cQaEsDcqJMnEnUSL8S+wzapIjgqox5dQsU/3+gwdqANJ/idm4MgdNwF+NkaXiZI1md7RrtEMdfj6T+vaZ8H7ZnUVa7mbS+7f15pHzwitpe9D7m/SFI/DtLw==;R1BuW5sAQuxotHSmz4npGA=="
+secured: "FvUoC1wl17eWoUq0QmiRTURpPgVhy9UvvMMDToJVd6WM7qI/Lp74K2iA5BfIq3sgw9hExNzMg5WePdNCJOi+cY20KFZp13GiIlTkPVqWk/SBf8LBHgOHVqn9jdrHsFv5lHK4GFJR3XL8p+7YSkbe4lbsiW5I8tHBZAjWVDYetIRvctsyO21hI0GtTpSlnBmXFG18t1ChKVh+KbEUHfbwpAXIC4C5fu2r/B8BSM12+F+XjMd2DIIaD5BvrRhW9Pg3MAylyy0DZCZu89QflPIQuA==;ALqI1X6pLedX4pwkCjEZjQ=="
 ---
 

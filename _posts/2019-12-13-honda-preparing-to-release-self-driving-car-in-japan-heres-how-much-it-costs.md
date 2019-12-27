@@ -234,19 +234,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
-  - title: "Global Self-driving Car Market Size, Share 2019-2024 |Business Opportunities, Growth And Scope,"
-    excerpt: "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between destinations without the need of any human drivers. To quantify as self-driving cars must be able to drive to a predetermined destination without ..."
-    publishedDateTime: 2019-12-05T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-self-driving-car-market-size-share-2019-2024-business-opportunities-growth-and-scope-2019-12-05
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Daimler and Bosch start self-driving service in Silicon Valley"
     excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
     publishedDateTime: 2019-12-10T15:00:00Z

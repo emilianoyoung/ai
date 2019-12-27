@@ -528,15 +528,6 @@ related:
       - url: https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg
         width: 570
         height: 380
-  - title: "Artificial Intelligence and Emerging Technology Initiative"
-    excerpt: "The Brookings Institution Artificial Intelligence and Emerging Technology (AIET ... By publishing timely, rigorous research and bringing together leaders and researchers from across the technology and policymaking sectors, the Brookings AIET Initiative ..."
-    publishedDateTime: 2019-12-02T18:15:00Z
-    sourceUrl: https://www.brookings.edu/project/artificial-intelligence-and-emerging-technology-initiative/
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 19
   - title: "Artificial Intelligence In Fashion"
     excerpt: "To uncover the general market conditions and tendencies, Artificial Intelligence In Fashion Market research report acts as a perfect source. The market report aids in developing a successful marketing strategy for your business. This market research report is a proven source of information which offers a telescopic view of the current market ..."
     publishedDateTime: 2019-12-09T12:23:00Z

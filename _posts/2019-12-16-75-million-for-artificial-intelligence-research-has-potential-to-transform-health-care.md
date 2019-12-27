@@ -106,19 +106,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Inside Intel’s billion-dollar transformation in the age of AI"
-    excerpt: "Intel began integrating its own GPUs with its CPUs years ago, and next year it will release a free-standing GPU for the first time, Swan tells me. That same thinking also applies to AI models. A certain number of AI processes can be handled by the CPU within a data center server, but as the work scales up, it’s more efficient to offload it to ..."
-    publishedDateTime: 2019-12-07T14:00:00Z
-    sourceUrl: https://www.fastcompany.com/90425160/inside-intels-billion-dollar-transformation-in-the-age-of-ai
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.62B84114BC256F8C73983139F50C79CB
-        width: 700
-        height: 393
   - title: "New technologies to transform healthcare in 2020"
     excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
     publishedDateTime: 2019-12-16T09:00:36Z

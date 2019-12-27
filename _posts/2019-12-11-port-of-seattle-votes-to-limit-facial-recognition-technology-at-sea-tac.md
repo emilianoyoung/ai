@@ -26,73 +26,46 @@ images:
     title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
 
 related:
-  - title: "Federal Bill Would Constrain Some Police Use of Facial-Recognition Tools"
-    excerpt: "A 72-hour limit on tracking individuals would become the first, and somewhat arbitrary, federal line in the sand. Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s ..."
-    publishedDateTime: 2019-12-07T13:32:00Z
-    sourceUrl: https://www.defenseone.com/technology/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools-across-us/161731/?oref=d-channelriver
+  - title: "Face recognition tech is everywhere at China’s new mega airport"
+    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
+    publishedDateTime: 2019-12-13T07:32:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
     type: article
     provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 138
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.81C68FE83F2CF81A50BFA71FD6C90506
-        width: 400
-        height: 400
-  - title: "Facial recognition to monitor sanitary workers in Andhra's Ongole district"
-    excerpt: "ONGOLE: As per the directives of the State government, the Ongole Municipal Corporation (OMC) authorities are planning to monitor the activities of sanitation staff via facial recognition using CCTV cameras installed across the city. At present, all municipal bodies in the district including OMC use biometric thumb impression system for ..."
-    publishedDateTime: 2019-12-08T05:04:00Z
-    sourceUrl: https://www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.html
-    ampUrl: https://www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
-        width: 600
-        height: 390
-  - title: "Police facial recognition: Privacy commissioner not consulted on new system"
-    excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
-    publishedDateTime: 2019-12-07T22:09:00Z
-    sourceUrl: https://www.stuff.co.nz/national/crime/118011375/police-facial-recognition-privacy-commissioner-not-consulted-on-new-system
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
+      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
         width: 700
-        height: 394
-  - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
-    excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
-    publishedDateTime: 2019-12-04T22:24:00Z
-    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
+        height: 445
+  - title: "Far-Field Speech and Voice Recognition Market"
+    excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
+    publishedDateTime: 2019-12-12T06:44:00Z
+    sourceUrl: https://www.openpr.com/news/1878439/far-field-speech-and-voice-recognition-market-worth-4950-36
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
-        width: 960
-        height: 640
-  - title: "Children’s Hospital buys potentially illegal face-recognition technology"
-    excerpt: "Facial recognition technology, which may prove illegal to use under GDPR, has been purchased for the planned New Children‘s Hospital. The CCTV, purchased from a controversial Chinese surveillance technology company, Hikvision, is estimated to have cost five to ten times what a conventional Hikvision camera would cost. Despite the increased ..."
-    publishedDateTime: 2019-12-08T01:07:00Z
-    sourceUrl: https://www.businesspost.ie/ireland/childrens-hospital-buys-potentially-illegal-face-recognition-technology-a4d6b09e
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-19T09:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.1D37F73B7AC7DE95A59FE43A68D8F10E
-        width: 647
-        height: 340
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 4
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-18T18:26:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 2
 
 secured: "u8lYWqcUCEbV70VJEDLfJMfYFra7NYtNMJAOvOFGzXP9FtWFVxvrlfvmhu3swwiRewZXqRZFonRDBhWKJ7hnE2N2pIosW0+4o8u520MrnI1lH8BKca64ulluV90/x0XpIFPoYwawfrRVA4Eqg6jsAd/jGqzgftv1SKOlUCZ7cyYYfDCgIjVlGkOLXt5vD4xO+Xt0MNyx4+OtrGLQVnxXF0mVoD1azuwwVhyPW1DQ6lXHEjA/24FMZgBDzgzeEb8um/9NNZMVT29WCGR+/ooLMA==;UgWSSLGvMm5RXYWQgdh4ug=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-j
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Honda self-driving technology coming next year, report says"
 
 related:
-  - title: "Trooper rear ended by self-driving Tesla"
-    excerpt: "NORWALK, Conn. (WTNH) — Troopers were stopped on the side of the highway Saturday morning responding to a disabled vehicle when their car was hit by a self-driving Tesla. According to state police, troopers from Troop G were stopped on I-95 Northbound near exit 15 in Norwalk when they were hit from behind. The troopers had their emergency ..."
-    publishedDateTime: 2019-12-07T13:47:00Z
-    sourceUrl: https://www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/
-    ampUrl: https://www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/amp/
-    cdnAmpUrl: https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/connecticut/fairfield/trooper-rear-ended-by-self-driving-tesla/amp/
-    type: article
-    provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.8FF6EDE4B17D51D47AAB8E0A8E3977B8
-        width: 700
-        height: 393
   - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
     excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
     publishedDateTime: 2019-12-17T17:09:00Z

@@ -24,6 +24,6 @@ images:
     height: 1080
     title: "70% of consumers will leave a review for a business when asked"
 
-secured: "icx9wx81JUDKHF+G4wg/8i1s8fDwQYvhJ8N9TS0LVLbWpbrvhdSEFKaSuXF1f5URliGU/B9fQrdilTsc2Q8p0ywXLSBWknqY0Kw9lPtWpGSTFNveo7E2zhKc0/o7MlBWigQNJa6PyKHuMcln5pCpbpexYeNx133EUbB6JuXkNPmJLcLaAgiuI4uH/+OCYCZQNx9KqP9CT8ajfOiootnmro+nySTmBRwv12v+EkmaRh5rWwLNUuoAtfphCGeA5r/97cvsv5HoeNtJKeMmf8wi9g==;UM2sxLCrXA+Lt2KqDMI5Gw=="
+secured: "a+LNYydaPJPrH1Wb22VxaeKdP0dPvqNeig0uRPjyBqXHenfGWXx/dxdkWPwniF5bF8VgGYAr8IPxC9qRhcqtpLNn82JVaHNh8h1mqWVXjYmNALEeclixHhcUWmQ5uTLBoHKiwdKQDn5zCLnE6ZchMMDkV9ceQmkkmLKn9kfqWOg+dzUW2I/YYQVtpcffbCSF++mjegJ3f213j01tax62oDFDJ9wYrEnnZcWWoTe0cChmFIg9wJNjk2qBh/frMQ0SxQH48AUD/nanVIJIfHLE9g==;BnH26q3Q3N+QlXYEqABWrA=="
 ---
 

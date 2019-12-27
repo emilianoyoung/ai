@@ -106,19 +106,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "Inside Intel’s billion-dollar transformation in the age of AI"
-    excerpt: "Intel began integrating its own GPUs with its CPUs years ago, and next year it will release a free-standing GPU for the first time, Swan tells me. That same thinking also applies to AI models. A certain number of AI processes can be handled by the CPU within a data center server, but as the work scales up, it’s more efficient to offload it to ..."
-    publishedDateTime: 2019-12-07T14:00:00Z
-    sourceUrl: https://www.fastcompany.com/90425160/inside-intels-billion-dollar-transformation-in-the-age-of-ai
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.62B84114BC256F8C73983139F50C79CB
-        width: 700
-        height: 393
   - title: "The AI Eye: NVIDIA Develops AI That Predicts 3D Properties of 2D Images and Baidu Registers Most AI Patent Applications of the Year in China"
     excerpt: "Baidu, Inc. (NasdaqGS:BIDU) has filed the most AI-related patent applications in China, according to a recent study from the research unit of China's Ministry of Industry and ... Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
     publishedDateTime: 2019-12-09T17:15:00Z
