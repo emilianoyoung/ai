@@ -2,8 +2,8 @@
 category: news
 title: "Artificial Neural Network Model (image)"
 excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
-publishedDateTime: 2019-12-26T14:59:00Z
-sourceUrl: https://www.eurekalert.org/multimedia/pub/220538.php
+publishedDateTime: 2019-12-26T15:01:00Z
+sourceUrl: https://eurekalert.org/multimedia/pub/220538.php
 type: article
 quality: 39
 heat: -1
@@ -66,6 +66,6 @@ related:
         width: 700
         height: 466
 
-secured: "UqvvjKhvf/0coO07QwFfB/9QFu75pKYgc3tpPc39qtXYl7ufLzjbSgsVrJQThxhcZi0Wxl6gkHMaeUPf6patotNvhO+lAs+EpsDF9q0HjiCFaGRqHyZrJ26Y0N4KBXqklzDdi6OCc2QNXxQh5jH6fYiF6Kt1oE9lgwDGV7JK/ZppDSN3ysoAV4jn18N+RdlRa11NdU+Uz0pzzg5W5io0eIjUmtYVLdYH9lKPU9hZziy6NWgyCxN7Dy4cpB1j+aThBXbcArJUNOkEeDEOYgF2uQ==;qKCUpx2YgqdKkttuhvrvuA=="
+secured: "Dhu56O7diVleO0LGU5iyo9/Ba5nNXILsOH/6GpKUZZNlHAt29VxiMP51Tq3AxaVq5JVj02k6NHW4Kv9/YaJsOMtYQwVZN1oJodzasajF5g/Qd1dGvrvIj9uecrWp6hyPb81ltRu3c0nJAsojqKoXpBhxu45u6HcgfcRrxX+rZ+l0QSJHqeaeVUiCUxr/ydPtEiC/nywxoIUiR/BuZy6xaCbboGDsdl5dunO7wXQ+Y1GfflCFE4MOjTJwiy8+IVj2AilAFqshkB62x7+LelwWNg==;i7KzZ2yIYZoBO6IeoMJtpQ=="
 ---
 

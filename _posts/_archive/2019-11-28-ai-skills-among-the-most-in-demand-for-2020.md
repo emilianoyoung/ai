@@ -29,6 +29,6 @@ images:
     height: 675
     title: "AI Skills Among The Most In-Demand For 2020"
 
-secured: "oCY0YiQWxNKkmULsmr4ouQUu1cXM+ylGY8VBKlIRP8NUsxjFcsn11Qk3fYQEOgHF4z9f5PqCx2TWIP0wQSqJyH2aZY4Pl62Rb3Aoek7jtx15U1qg8wXQkRSG8yi7DkpdRyHZSZna7lvk88ZE+cztm3Q7c0CKCJyqC4cla9oovv9Z4TdqahiD4HKA8vPYl1gEWP3JQ8wIjr0xSj2h5ye5PUE0JahdLTVEDnv7NF/DgJGCEildJDPJWmRYdOnEXZLXsmKdETAFawjCtIPtDCKPlQ==;yTTtxJ88mDFkpg8mdyh9JA=="
+secured: "0lb5RLQhV+QRDHBDQFyPQvBvYED3Gu16sByaslE9sxTzI6ZrUDd5XW6lsPHOjg/CFnZECjz3gturGGUS3Hox/uf3ZCsJPvbhKLmq6SyK9gPS/Ekv7Mb1wFyMagj0QgoBvT7G7DekbzhEeRZgn1BdhI+R3MJAJpmQijj4VD2ZALPY0hWxnv4UNb7ol1FkYQj/BHtnYB1zVUbeTzAcffQ7Ed1waJjK/T8SmSJsxwV8IwgwZqIO3D4Yd5pr+z/t471seoSy3lPxo3G/CVLRACdvuQ==;QpJ6h8r+x3zsEp8yE2t1Pw=="
 ---
 

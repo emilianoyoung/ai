@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50679791
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -43,6 +43,32 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "DeepMind's Mustafa Suleyman is leaving the company he cofounded, which Google acquired in 2014 for $400 million, to join the parent company's AI unit."
+    publishedDateTime: 2019-12-05T17:49:43Z
+    sourceUrl: https://www.msn.com/en-us/finance/news/google-just-added-the-cofounder-of-its-deepmind-unit-to-its-own-ai-team/ar-BBXP0rD
+    type: article
+    provider:
+      name: Business Insider on MSN.com
+      domain: msn.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.715F0640DA4E8B436940DC2296A1C14C
+        width: 700
+        height: 350
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -106,18 +132,7 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
-  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
-    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
-    publishedDateTime: 2019-12-06T11:15:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 37
 
-secured: "CE0v1zGKbuYrkTlW8nxwJrjo9zSv6ZP6JkCKTwsjoKAr9zAbQfCdDe+DWwEIpNdEfQUdHvkSCKOw1E0garo4G4RN25fWzzcR3DVMvIp+71I5S03U5OrnNqk/IktU6Zt60XQcKVoxthfA6tR+hmAcRCytEFMfTJc1YGAl8CjE9LNTf3gH6JWCvhV4/TEIVqgi9CVjTsGlwW0ceFU0SkpRGSfWVrrQd1OzTQ9agqbZk9MV3JU5pEMY9bWfey/YMdb34RjbqraVGvqwbmt9ynEMGw==;artO2vFwDvEuJ++9x4hQUA=="
+secured: "yt0UJJ/EIEpojq+qvcBXOlZNJw6pj7bbLrxnNycnxUAhs24Xwj+hrgWXzXuZPvi1ZVaFpdUWzObkwEqSLOIL31bauB3A6nnDbyi/RyultoskQZlT/1wqlnLIUb+iM+qveKrE0oaV3lMvlc5Si6UoRoHTNNgfEJSUg5YYciMuRrdzCaHIosBdvP8Y5CM+Sp07CxXMyGd3QFvLKSHyWGv2s3eN9tXV12VZ645VhJnj0HlP5UaP7d0jyMtX+SJcpdnC5W8mqupFb7uvV8Fok/jrfQ==;8+jc7s3xFU/GWgSD8z98BQ=="
 ---
 

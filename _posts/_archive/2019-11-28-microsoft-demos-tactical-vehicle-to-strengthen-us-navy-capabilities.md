@@ -23,6 +23,6 @@ images:
     height: 532
     title: "Microsoft demos tactical vehicle to strengthen US Navy capabilities"
 
-secured: "hRe0oQ8X9KXUCGWctkXk1IKzz/oy5JcNvK2uZHD6FmztsvBq7RF3pqUEItdn8nfIYQdQDyYqcb1c2ytCNqNvgwyN5UagoB/b9XY0USnFWGP41wwsZAX55+xqOarLIIC2BOdqvFQjeLiC894DWFcFHmrnqWbaXs2832aamMX5b/jUWjRAOlXDva+1kZ+dcnTEFKH0vDNgNoBK864eRxrLNEoSmZPy74OF/om1hR/U9tJPq8V3l1Vw/3FDE97sNklFvJyPiBgvIzZx432o6s7D4Q==;9/Pq/UyRgIGcE/gFwQ4ODg=="
+secured: "rEXIlgZhZwETPQ4obbwKwvu/Fz1p/pAKVf17hzCq169Y1KNkxsRZUzDI6tb+rhjspQ8tH8HdN2zzYKMzmZEh54gUyxW5HLV1xe6THl3KePuKhrgaAjRwqbcgcu25NS/6otAMdpTIYE+4W1n0ar4guCd8mmFq920ySLdpfIBrJQ0K7rZXfha34JzR9Z964ZURv80DuPwM0X9a+2w5g/EngZx8EuIf04Alwj4SUFyFi9WVk4fGlBXy6C0yxIe8+j/SIw0esSUo52BSU1DcYLPzGg==;fA+GbjEV2Wrg43i4oCurdQ=="
 ---
 

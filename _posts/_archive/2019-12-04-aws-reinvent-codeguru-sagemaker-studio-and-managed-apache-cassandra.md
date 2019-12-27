@@ -44,7 +44,7 @@ related:
         width: 700
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:27:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
+    quality: 86
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -105,8 +105,25 @@ related:
     provider:
       name: Cloud Pro
       domain: cloudpro.co.uk
-    quality: 34
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "As CEO Andy Jassy presents it, AWS—like rivals Google Cloud and Microsoft Azure—wants to become the leading, full-service environment for data scientists, data engineers, and non-specialist developers to run all of their machine learning workloads. For AWS this means a triple-layered stack of services, starting with the basic building ..."
+    publishedDateTime: 2019-12-06T00:03:00Z
+    sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.F70CB9CE6323E6B376209756D49CA76D
+        width: 700
+        height: 437
 
-secured: "ldxOabmhUE3WKSuayR+yt4izCJCTPmQ7hOWzsXlNdQFSKdBIwgWLMWNBy4teIYq+NhZVl35R1U8JRlALDKbDprdqiT/jsikOZyDQIM2bN2h8Gl5aanWkXosQY2Z1HQP8Fnqidk0ugeqs8B/rArz3SrPlQVxgtgq/mgowzrq7JibtrkLRb8rBMstiKxfQZZZ4mQtJlvpQgWPX6TFIadb8cjNCxJnbGPticghJdBWa5k80oRB2S5geBuuEVmg/CoOjP3AzkMehoXVPFzCohqKAJQ==;8U/4QCXxdNWB7lHDKz8uAw=="
+secured: "1hbxgo/MvMW8XzYahCZVKVntYFKexvNBnqy7h6hvdZ9O6vu3/RCBhQSfgr3HCQV+iR+iTUu5GJN10ts91baTMNn0cgoiAZblnGbRD26YM5XiCeIIEuzKTDk0M3ygTptiXNONQFm2M1rhGSFtckC94LhVmVJAgnGEhGJCd/u953eYEwTMn/SfWdYqbGujNOxXRlrvBRkaprCt+EEFrKJKONxXgbodrXbTsjudDxhy1MiltFsYENPBgddA1OZPpMC3RIFLs9J9RjnGAHvmcyy1Ww==;g1441MuaP5AYspwr4Eh/UQ=="
 ---
 

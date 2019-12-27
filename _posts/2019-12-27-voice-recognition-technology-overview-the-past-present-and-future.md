@@ -2,16 +2,16 @@
 category: news
 title: "Voice Recognition Technology Overview: The Past, Present, and Future"
 excerpt: "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. Global 'Voice Recognition Market' Research Report 2020-2029 is a vast research database spread across various pages with numerous tables, charts, and figures in it, which provides a complete data ..."
-publishedDateTime: 2019-12-27T06:29:00Z
-sourceUrl: https://www.arnnet.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
+publishedDateTime: 2019-12-27T06:16:00Z
+sourceUrl: https://www.techworld.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Australian Techworld
+  domain: techworld.com.au
 
 topics:
   - AI
@@ -67,6 +67,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "ZRKF73dJ1pYNTn+5jdz0H35JqjPwHxkV0FzSO2jfXKeCoe59iVm4HgiUURSNK6fKiD9bGwuoBUBxSZqSUdZyFt3CeYSKvT2yhWdXmYp5rpjpbnAxSJMfBUnbjwSWmoQsHMlACNzPR93l9sEPXH5gjv6oHlaH4zti1rLpJfaMN0CIu1HBqne+KEsvNnvU2wz6E03YUsz/IC/GWvestUZsMff9HlS3H44lJxajD12XhDqwqOxvcKOis8A+Az+okv15FAGGFYyjKDAzUeKBRy5prw==;R0Gz3rE+lzPFRMK40aKIQg=="
+secured: "gH7Zar2CLXTCGOdwUBX0Refd0EMtGSuOrXyTHE/i64JCzgYWZv/NA6Xd4IpCFsa5JRCMr1ECKEXJocaLcGXmmugRD24yXtqL6iqkf0L8ILXCB15W1Ciipndj/SmZG44S0WhopCPGc6pNXvBRoBvfq1anYFZcM0d3LTIM8GB2E2p/1QqAkdSwhLn7Gl1kxtPv4JcC0+AqMnaIGLCC59KR9NZPyizFCpsC+btPpgA79x5tC6HyndMJe62FGa/xkjGwcFX6e1+OLLIPeSx42ZBbyA==;TnWSf/jFlwDdwY5cZQB3YQ=="
 ---
 

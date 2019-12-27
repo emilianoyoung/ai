@@ -1,62 +1,28 @@
 ---
 category: news
 title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
-excerpt: "Dec. 23, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... In 2019, Dean and Anurag Sehgal at Credit Suisse chose H2O Driverless AI to accelerate AI adoption in front-office and back-office investment banking use cases in global markets, fixed income and capital ..."
-publishedDateTime: 2019-12-23T15:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/h2o-ai-inducted-into-highly-selective-credit-suisse-disruptive-technology-recognition-program-1028782605
+excerpt: "Wall Street Endorses H2O.ai's Vision to Democratize AI MOUNTAIN VIEW, California, Dec. 24, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning ... In 2019, Dean and Anurag Sehgal at Credit Suisse chose H2O Driverless AI to accelerate AI adoption in front-office and back-office investment ..."
+publishedDateTime: 2019-12-23T16:06:00Z
+sourceUrl: https://finance.yahoo.com/news/h2o-ai-inducted-highly-selective-160000531.html
 type: article
-quality: 58
-heat: 78
-published: true
+quality: 28
+heat: 28
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.1B0029445D4E3578BE3C2AB13785C479
+  - url: https://www.bing.com/th?id=ON.D607A182DC7127969A3D54C5B5929939
     width: 400
     height: 400
     title: "H2O.ai Inducted into Highly Selective Credit Suisse Disruptive Technology Recognition Program"
 
-related:
-  - title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
-    excerpt: "H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Nationwide Insurance, Walgreens and MarketAxess. H2O.ai believes in AI4Good with support for wildlife conservation and AI for academics. Learn more at ..."
-    publishedDateTime: 2019-12-18T18:24:00Z
-    sourceUrl: https://finance.yahoo.com/news/jewelers-mutual-teams-h2o-ai-170000852.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.536B952C762FE3D5A030E430CF138B90
-        width: 400
-        height: 400
-  - title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
-    excerpt: "Dec. 17, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... Jewelers Mutual is using H2O-3 open source and H2O Driverless AI to deliver exceptional customer experiences, prevent losses, and provide better protection and policies for both jewelers and customers."
-    publishedDateTime: 2019-12-17T16:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/jewelers-mutual-teams-with-h2oai-to-drive-ai-innovation-in-the-jewelry-insurance-business-300976217.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
-        width: 700
-        height: 366
-
-secured: "TkZL7KTIglBXvEgBoQdhUAwjaDoIlcU994A14d+kZqel0j30GqNqYg+tCvmgrHwUafrZ3HkCTroJ7NvG3BIeKEiXw5P0VnI/STl1jssbi6wBtrH2yisrJYH3LfPkMs+hHVuF6qiRong+galVp6jl/HnXBml6OB1Z1hM4y+QbL8WsazjAs6NqJn3yDW2t7igNxjH+qufm7lJvZND8lZdK9Ak6nnNtOnr1/qANPtENTP2HWyN4oytLIxLOmvdlMp+EDz4lETSIenXMQV7cZ8+0MQ==;jVsWQEuFFkhu9dcrKIlLhQ=="
+secured: "0NFjo1x5kgEw42ZF6T3HJ40M8N3eNI4Q2kwrS3/gRtmPflCPszWbM9K6gc9UGJgcZp7PGS5gIAGCyhaPJn5/29lidStxq6IBl2XGc/PHtT4zEmd6/1FjUyG7rv+0c6mGYpJYbNIoLRzWQf85rjNTirQ6aNpisRnHv6K+uQREZUPh9EqNAGZ34nR7dVmSRzMHm0fB8pvpmfIzH513BSEq3nShWJ08bohOdTUxHBEQfK1X/OF/fnVVzA2conLjr0Rd0oQ4OF5jM+qsgeDllf+CSQ==;MKFV0ElkvCXADrsyk4fIww=="
 ---
 

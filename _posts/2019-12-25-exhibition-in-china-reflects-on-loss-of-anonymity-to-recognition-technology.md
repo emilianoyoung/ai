@@ -52,12 +52,12 @@ related:
         height: 469
   - title: "Voice Recognition Technology Overview: The Past, Present, and Future"
     excerpt: "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. Global 'Voice Recognition Market' Research Report 2020-2029 is a vast research database spread across various pages with numerous tables, charts, and figures in it, which provides a complete data ..."
-    publishedDateTime: 2019-12-27T06:29:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
+    publishedDateTime: 2019-12-27T06:16:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Australian Techworld
+      domain: techworld.com.au
     quality: 4
   - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
     excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"

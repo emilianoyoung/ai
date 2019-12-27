@@ -24,34 +24,34 @@ images:
     title: "Google just added the cofounder of its DeepMind unit to its own AI team"
 
 related:
-  - title: "Google DeepMind gamifies memory with its latest AI work"
-    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
-    publishedDateTime: 2019-12-02T22:10:00Z
-    sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:55:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50679791
+    ampUrl: https://www.bbc.com/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
-        width: 700
-        height: 525
-  - title: "Google’s AI makes memory a game"
-    excerpt: "Tiernan Ray explains how DeepMind, a unit of Google that develops ambitious AI projects, found a way to stimulate the kind of long-term planning of risk and reward that humans do by turning memory into a game of actions and future payoffs. Read more: https://zd.net/2YEyR9W"
-    publishedDateTime: 2019-12-09T19:56:00Z
-    sourceUrl: https://www.zdnet.com/video/googles-ai-makes-memory-a-game/
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
+  - title: "DeepMind’s Mustafa Suleyman joins Google AI"
+    excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
+    publishedDateTime: 2019-12-06T00:39:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/06/deepminds-mustafa-suleyman-joins-google-ai/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: thenextweb.com
+      domain: thenextweb.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
-        width: 700
-        height: 525
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
+        width: 796
+        height: 417
   - title: "DeepMind founder leaves to take up separate AI role with Google"
     excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
     publishedDateTime: 2019-12-09T11:05:00Z
@@ -65,7 +65,70 @@ related:
       - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
         width: 555
         height: 330
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
+        width: 2047
+        height: 1365
+  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    publishedDateTime: 2019-12-05T17:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
+  - title: "DeepMind co-founder leaves for policy role at Google"
+    excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
+    publishedDateTime: 2019-12-06T15:08:00Z
+    sourceUrl: https://www.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    type: article
+    provider:
+      name: Financial Times
+      domain: ft.com
+    quality: 39
+  - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
+    excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
+    publishedDateTime: 2019-12-06T10:24:00Z
+    sourceUrl: https://www.theinquirer.net/inquirer/news/3084509/deepmind-co-founder-mustafa-suleyman-moves-google
+    type: article
+    provider:
+      name: The Inquirer
+      domain: theinquirer.net
+    quality: 39
+    images:
+      - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
+        width: 580
+        height: 358
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-10T22:19:00Z
+    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 39
+    images:
+      - url: https://ctovision.com/wp-content/uploads/space.jpg
+        width: 632
+        height: 422
 
-secured: "nRKztfcx/cbwGymOh8cQcm8kXoEVfTZMxyej2o51zejkVawJBBNJQhsFcr+ZJvVnRxQjWG2WNlfOtGaeg9V2x7KJyGDD50ALXbd2JXo2Wwyjz5yWjduJfGjY+MkTlCg06JdXLWVwPIZD5zT03wv0uewZtCp8mN9pBKrkDhh0+1wdDlSJSS73cHH8v4nldzMd7VQGU60qBd68ZB9SYkupvzu6rTA7XJXv7Rf2CWd3oJ93dBVSU0+Y3UDjjnjevnM3/DYmYLsYv+AxoPe81jlW4A==;WfXSQ4YEIkdwujSBdD6rPA=="
+secured: "HEYdLcDvkiW649579Gvq8fMVgx/9hU39VLmhCTJUCUW+UL00M6ZeG88L8BcRVCyHhJf1q0Jerm9vmieA0b/Wv0BGzHReCz5AyTBx8TGr6O9PZI2ouPeoTED44yaTnMJ0feT2VqQvrvD1NtB7e6geSMNb57Cps197o7HDzhE8VAGYkFjvzqGC7GB0TTPpkzRGx/O0GatVSdXkqCNYMNdvPko0wWjsA6SDLr1/ZrVPNqK+wPxwg+jSXtQFGshOP6zQr/wBOyg6DqHmc1vLXJGfQA==;BzRE3b2s0WcIsJyEjHCuoA=="
 ---
 

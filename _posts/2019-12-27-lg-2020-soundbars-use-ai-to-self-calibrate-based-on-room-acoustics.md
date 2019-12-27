@@ -31,15 +31,13 @@ images:
 related:
   - title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
     excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
-    publishedDateTime: 2019-12-27T02:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/26/lg-soundbar-ai-ces2020/
-    ampUrl: https://www.engadget.com/amp/2019/12/26/lg-soundbar-ai-ces2020/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/26/lg-soundbar-ai-ces2020/
+    publishedDateTime: 2019-12-27T03:34:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/lgs-2020-soundbars-add-ai-room-calibration-to-optimize-their-audio/ar-BBYnrN7
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.C634734E413E1FC6C5918A12BDA3CDD2
         width: 700
