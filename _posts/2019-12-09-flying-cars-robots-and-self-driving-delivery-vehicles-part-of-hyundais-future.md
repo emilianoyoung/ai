@@ -348,19 +348,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
         width: 700
         height: 459
-  - title: "Irish potholes and poor road markings great test for self-driving cars"
-    excerpt: "The Government is to amend road traffic legislation to allow for the testing of self-driving vehicles on Irish roads. So what has the State got to give the autonomous driving world? Rain and poor road-markings. It seems that Irish motorists’ pain is the automotive industry’s potential gain. Self-driving vehicles use a combination of video ..."
-    publishedDateTime: 2019-12-07T06:09:00Z
-    sourceUrl: https://www.irishtimes.com/business/transport-and-tourism/irish-potholes-and-poor-road-markings-great-test-for-self-driving-cars-1.4107288
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.BD2ED3DE4A68F6A06189BE3BF12F9E5A
-        width: 700
-        height: 367
   - title: "Self-driving vehicles aren’t road-ready yet"
     excerpt: "Companies are in the process of creating cars that can drive 99.9% of the time people drive. However, in my view, self-driving cars should not be on the roads. First, self-driving technology is new, and it needs to be worked with more carefully than it has been. There is always the possibility of miscommunication between the manufacturer and ..."
     publishedDateTime: 2019-12-08T10:34:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
 publishedDateTime: 2019-12-03T18:31:00Z
 sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
 ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
-quality: 69
-heat: 89
+quality: 101
+heat: 121
 published: true
 
 provider:
@@ -21,11 +21,12 @@ provider:
 
 topics:
   - AI
+  - AWS AI
   - Machine Learning
 
 related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
     publishedDateTime: 2019-12-04T00:20:00Z
     sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
@@ -47,6 +48,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "p6i973sM0qo+IlDINFL+n9uObbVYF5AbogmBcdc0zotFYA2uFP2pqq5Yg3rU7b0LHfHhNFu406aQQwKyQu79ObtY8cVG9PEKtVCOcYSSx4lGRDwsVSLMqnh4ga9H2YmuiBDcHIMhPr1Hdly97XVZ7Yb9gtNs91deDa/TfSm5oYhdcsc76PGUkaSo/vfmwugHPTrhYNLHgLMVhkyhWUVfCEDl1WSNfBKm5w6q4WktHKQLl/kLMGvxY4J2cEnBbdmkMWSzbNWbyMt9hnk1P0db2w==;YSRBn+uDJIIQ/rY8kMoTtw=="
+secured: "qqL1WAkHsZxmoEmuoLkwiLdQz1Z9kWabhBC9vy1NgyEY4RPpgVAzNk8cTzeU3wdHOHlNPIqzxERnxelHUCDP9JWT7R6eDptKro30V5N7OXk+YvsiKv+n3kNwZ+bsxE6dZzU5xe5h57K+LsDJyiOKu5qiHLrgIowUmVJo9e1WJ03ztivUgMHq1MOf7QSn1KR+uch3NDz4g8GFb1WbNN5pPJAldT/noc35ml+XtYx12S4GOOZCe7zivdBUkl70vRp22Jbz6jvLSRuaBewoyKh1/g==;MYT/G8pXy7R0+ESHEbq+3A=="
 ---
 

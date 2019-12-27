@@ -8,7 +8,7 @@ ampUrl: https://phys.org/news/2019-12-machine-gene.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-machine-gene.amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Finally, machine learning interprets gene regulation clearly"
 
 related:
-  - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
-    excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
-    publishedDateTime: 2019-12-26T19:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
-    ampUrl: https://markets.businessinsider.com/amp/news/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.7A6978C66543706B6D93E244A24D2DFB
-        width: 400
-        height: 267
   - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
     excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
     publishedDateTime: 2019-12-27T00:03:00Z

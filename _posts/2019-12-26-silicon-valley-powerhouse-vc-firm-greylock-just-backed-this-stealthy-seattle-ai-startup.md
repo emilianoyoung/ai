@@ -28,6 +28,6 @@ images:
     height: 298
     title: "Silicon Valley powerhouse VC firm Greylock just backed this stealthy Seattle AI startup"
 
-secured: "gDpnatO8G5nfggym9fNnFORRNHat16lEJ1+doTtqz2/1WfyyrnI7Z0saQ00/m1aK19Y9ZpBANOoM6z40QC1GXGpJ2BUmdzFTV/65+I5wd3GCZVOA9+6008fCEiDBKNFAdGTjzmaNePz0czNErGs1TCNX3+7FsOEd/yz71wAO+osgW5tMFbV77yP6zA7d0m/+XalD5VOyePwQ3E1F6UXFgBWN4jsGSkrKV8bUql1WIRNh68uhbHa3joxdayU1eZ3fCPYVI2LEliIVR+KTJaUw3g==;AmbexVbbAAIFnHaLLIpk6g=="
+secured: "J5YPH+RWs/ldS740mon1hN4U8kA73kLSXShKNuah/o7Hd7ThEPHkSZ8W9m/inTlY2sTisZCllSW3U/NYRUwdKxL8AjB3pIdnwG/QKvp4FGANykpCgK11WSrskf9HbypQahcPBUJRWa86ZUBsjaWThAzAJator1xryFM0d8YBdMsEqVHxzoAfLDo9iX5lRtfYv7VRKNFp2ZfPt/l4W0G67FRFNwFHEEXEt3uhzScEhEWjr3RTulI8wzeJftP3R2KA9fDXJn7o+bqkLZbY8Ao3TQ==;lENIqtrBz+q+vIoLDdV9zw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
-excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
-publishedDateTime: 2019-12-26T13:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
+title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
+excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
+publishedDateTime: 2019-12-27T06:08:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
 type: article
-quality: 41
+quality: 68
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -71,19 +71,6 @@ related:
     excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
     publishedDateTime: 2019-12-23T10:49:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
-    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
-    publishedDateTime: 2019-12-27T06:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
     type: article
     provider:
       name: MarketWatch
@@ -286,6 +273,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
+    publishedDateTime: 2019-12-26T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
     excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
     publishedDateTime: 2019-12-21T09:38:00Z
@@ -411,6 +411,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "hHVtXd+lgv3V+x/WMKj07ulQb/3GfhSELAx6+BSkwxoPN4du/I/nTocByRS6ukyxDQNofkN0d9NCqBhHK911bKiiJFhZU2TI/z04XRttPiulGGd62VE/OcvPyrC2FwTtWNNKd1rgcv9X4liJyifoUcc1XO185lAp+Ebj4SVELvALjlvVbc06Qiu4fMGC2G/ID3m1/NGAOWLYo0gstHoi3J4MWgXjBgRaKbAYVaSVHghepA5QZQi4YQr1N7TJWKceuPaQPCFHJ9KCTuyxxEKE7A==;YBgJ4kHQjsEf/fek9TdpoQ=="
+secured: "ciRYyWHWDPA7DY2+nTVCcIqOWUZDjvJh2hlnbGxrPDGJoichfW0AZo32D0nOfgp2y8J8jhrN8dyowyI1Lh8ZLlVv2UmytOs3SxhSk1ufWlFvCpxlFUuzDLL2dqnhS4z2HFoNxI3GHfyb4fTAtfEMGwNUL3uRs9Mdm1K+RuLgYs0tys1D3ftga/3g9+EMmpUbFOA+65mymnZhwHzY7frstCk/PzZOKPZmqeWKgWJ8QX0yopLl5Y8jP41ubrQKXwjyPqMmUSUajpDKyNOqg0jTeA==;ECPdFTcuVihLJ/x0Nj+1xA=="
 ---
 

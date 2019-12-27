@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
     publishedDateTime: 2019-12-03T18:31:00Z
     sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
     ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
@@ -28,9 +28,9 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 69
+    quality: 101
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
     publishedDateTime: 2019-12-04T00:20:00Z
     sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
@@ -43,6 +43,6 @@ related:
         width: 700
         height: 525
 
-secured: "Bzg8Qkr4pWBOfv2KfaIWOdcN5kxA5TEOoExyArfK/6xOt3p0ARG3zyBfBhAmQLY9Hl3ii4+bodjsOtn4CiaIrVHGakT1VVCyV5Yzmz4i3ZwEJO+9Kcp3IMhVdvftE+AFZDuQeWpJjnmfueNX72X2RcmAC071ICdGGp4okOnnqPZfJOX9bY4prjRUjiQ+0NudplNI4jO+3Ef3HGflqqzWipHspxW2oVaguTh1yPQhXnrm2u5kFp0pEK0k8La5iFbc1/1qVm/b6p9Jm7V6yQCZpQ==;1EDUG6dMmrK34csbHz7eSA=="
+secured: "6Wqlbhd4JItLKukKJBCJFAPaJtF1wH2BcGAYpNyBSAAYGN1wB6pAPk2GrcIdmM3hT+b32XvU0abpqaHme9tzikYCGlxztA4MWTgYXea+dxwSAcKGjiSJ8XRwYdwCmRzPGqdT2xo8R5+mlPVfE0e4vkWN2n4gqmnQQKwza98aKFnyTe6MeOOIGpo/QlhyVOBPtPtYVl7W72fJ4Xi4gC/4euu6GShDOqp0tx2vEncntuamjwb8XMdRQZfsWL2hQvddIOMJ0Ibk4ZbYHIwAEQDBug==;PY2AuP82Mjw6ry0j1Lm5cg=="
 ---
 

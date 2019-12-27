@@ -26,21 +26,45 @@ images:
     title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
 
 related:
-  - title: "Opinion | Driverless cars will drive a lot of market disruption in the 2020s"
-    excerpt: "Driverless or autonomous cars have been heralded and feared for many years now. They perhaps represent the convergence of every technology that we know today. They run on artificial intelligence, and machine-learning algorithms power its autonomy. Image recognition and Light Detection and Ranging (Lidar) systems on these cars recognize ..."
-    publishedDateTime: 2019-12-26T16:24:00Z
-    sourceUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s-11577375858037.html
-    ampUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
+  - title: "Self Driving Truck Technology Market Evolving Technology and Growth Outlook 2019 to 2025"
+    excerpt: "The Self-Driving Truck Technology Market report provides a valuable source of insightful data for business strategists and competitive analysis of Self-Driving Truck Technology Market. It provides the Self-Driving Truck Technology industry overview with growth analysis and futuristic cost, revenue and many other aspects. The research analysts ..."
+    publishedDateTime: 2019-12-27T06:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-truck-technology-market-evolving-technology-and-growth-outlook-2019-to-2025-2019-12-27
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: https://www.bing.com/th?id=ON.8C7B2EC981B362FF43BEEBB498324AA1
-        width: 600
-        height: 337
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
+    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
+    publishedDateTime: 2019-12-23T08:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
+    excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
+    publishedDateTime: 2019-12-23T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "o82zQWAMdXYcV2MLVirMFk5SCrNYATdQ2mvikVyuAMsJnIhSVewiCeDCGFAC8KuebmR5qRBsnm1vdStUup7+ZjUMuueGpmEqLemxP0o3JiSVuuMQHcJkuNapnAAC1Whxp/P/z0Ozi0WEbREJ5/lp6K569sURDPzB1DoKaMZdWLfxwD4H98+5fR6/83lRN9CZ6RfeGORGoOzLCAtiy/Qie/msnauvG+x5yBtI8GhopFQPkK4WcQrV6FjZA4AhTY9IB62uL7HOTivMnygnpbcu9g==;FC0jBNqYPh77uPL4OPUazQ=="
 ---

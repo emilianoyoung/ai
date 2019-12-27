@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E7B2E9DE8653009D1EA66E27ECFD6265
         width: 700
         height: 367
-  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
-    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
-    publishedDateTime: 2019-12-05T19:56:00Z
-    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 80
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
-        width: 760
-        height: 428
   - title: "Conversational AI Market Size, Share, Industry Trends, Opportunities, Business Revenue, Forecast and Growth Prospective"
     excerpt: "Conversational artificial intelligence (AI) is revolutionizing the way enterprises interact with customers. Intelligent virtual assistants and chatbots help organizations to resolve repetitive customer queries and proactively offer suggestions to make real-time decisions. With advances in artificial intelligence, machine learning, deep learning ..."
     publishedDateTime: 2019-12-10T08:32:00Z
@@ -70,15 +57,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Baidu Leads the Way in Innovation with 5,712 Artificial Intelligence Patent Applications"
-    excerpt: "BEIJING, Dec. 07, 2019 (GLOBE NEWSWIRE) -- Baidu, Inc. (BIDU) has filed the most AI-related patent applications in China, a recognition of the company’s long-term commitment to driving technological advancement, a recent study from the research unit of China’s Ministry of Industry and Information Technology (MIIT) has shown. Baidu filed a ..."
-    publishedDateTime: 2019-12-07T06:39:00Z
-    sourceUrl: https://finance.yahoo.com/news/baidu-leads-way-innovation-5-182713207.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
 
 secured: "I+rsbl47cqDz89dv1IAsLbBheAbzt0SgM/6tz/yCgmqe6wrnqdLQIsq5M2bGFKmiLdy+0ZmfiTbKKxsM36VoiCfLICte3ammGZqXUTLn9umddeYNlyEyv8ebneqAWifEoIDBbbtQZrHif8w0NqpzwTjKHPFlwEU3h3yFyvPD22rvZYvoKLSCG4xoabPXITz4agv45z3ihq7L2DGADVLFYO0LHAf8Jpp0j+WDqGXNuVgjaYgfXbkz+VkbkNAypnvxc42RsfPB6+f0qIhKupL5AQ==;+pUTZC4o5ZlkS10ZXIozNA=="
 ---
