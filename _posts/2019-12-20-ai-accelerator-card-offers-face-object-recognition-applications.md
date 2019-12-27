@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T23:49:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
+  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-27T09:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "ams: New Image Sensor Evaluation Kits to Spark Innovation With Miniature Cameras in Consumer Applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation PREMSTAETTEN, Austria--(BUSINESS WIRE)--ams (SIX: AMS), a leading worldwide supplier of high-performance sensor ..."
     publishedDateTime: 2019-12-19T16:31:00Z

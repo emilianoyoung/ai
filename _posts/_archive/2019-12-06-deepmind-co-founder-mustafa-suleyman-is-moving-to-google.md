@@ -52,19 +52,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -114,6 +101,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "STxzBnvoYg20ZUDGM/9RO06zOGgufIoKhmCVFFR+bVsGUVkGpdl6xp9E9myEEztV7R8A+Tk51I9MKW7CvUpPqF3i/TtNttGezbCDwlgMUNiaEOu3woGhAB8867ABGK6/d02JZkx0iJjZrfpzD90Kkg4A9QfZRskG/W/eOZ0drZDPPFHlEiVJNPuJ/t4TV0GfOL2FBnUwhcvxnWp9k1N2sXA8yZv4CUT5OZt8H+UEac6KsDhXporzPMuB2xrj7tjS/tTgOZJZvKtJQSkIBdSbcw==;o0eaVd1bA4OOJIsN/DPsew=="
+secured: "qFY7wIO3siVxeih/W7XJsF6i53GSBqfO8OOmXjEp2+vsWAsjgEFRp/WgrB1BQebclZl/UHsfgdDuX0o7hKe6y6Ai7TyOVkmDOMSqtUXDroH9Hg0yN2E1QBM0d7nmFpZigQODM19HWDCOGlvg8BGWe0Qk+pl9dMhO+ToNNBmkv5TAXv7+VTLdSQLyzbFcYea4a2ZKW8R3iLQkIvkjwRULnKeUG0EIy/EV+TBQGuyvop34eLdyMOGsyMzsZgvR63QyQM+D7Fk3dWro5iKf3FQ1yQ==;8FB3CtFFuQXzgke8Z2mccg=="
 ---
 

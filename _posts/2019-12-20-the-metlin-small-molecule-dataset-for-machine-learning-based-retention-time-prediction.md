@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T10:33:00Z
 sourceUrl: https://www.nature.com/articles/s41467-019-13680-7
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 685
     height: 495
     title: "The METLIN small molecule dataset for machine learning-based retention time prediction"
+
+related:
+  - title: "Phase Segmentation in Atom-Probe Tomography Using Deep Learning-Based Edge Detection"
+    excerpt: "Alternatively, edge (contour) detection has been significantly improved with deep learning approaches 18. A supervised learning approach is used for edge detection, wherein each pixel is labeled as either edge or nonedge. This approach is slightly different from semantic segmentation in that there are only two classes (edge and noedge ..."
+    publishedDateTime: 2019-12-27T10:16:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56649-8
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.D3A8A5347AA02C88AC781956FC1C507A
+        width: 685
+        height: 325
 
 secured: "3WFlFSserXSeN9z+dkminbXurWmw+Y7zBRrNrZCbHSUm+49FjYcOvlzkgGrCcLOztC3NLcqLMV01aVlbH3iICHVWdrt6ytW9dKuAayMAFPdhwJe16DXsOYYRnYExT7GcI0RbAsP2UdLFaVQ7hN51d0RKJbdqv8PdpA77J29Nm4DalquDOsXzfXtflumOBQuX/ksuRw+dFOWlslaX3QjgrZjqU/w6y/8UFzAlMPa/bEy9R0PWlQdml5dikYmtna8V1RBjnrRBRjVBYxqds+/s/w==;nRXrmFmJ83PZWv+oHcmdjQ=="
 ---

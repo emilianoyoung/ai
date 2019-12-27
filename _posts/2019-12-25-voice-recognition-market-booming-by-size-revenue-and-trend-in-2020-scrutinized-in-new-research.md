@@ -28,15 +28,28 @@ images:
     title: "Voice Recognition Market Booming by Size, Revenue and Trend in 2020 Scrutinized in New Research"
 
 related:
-  - title: "Automotive Artificial Intelligence Market In-Depth Research 2020 Will Improve your Decision-Making Power"
-    excerpt: "Dec 23, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Automotive Artificial Intelligence Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Automotive Artificial Intelligence marketers and clients to ..."
-    publishedDateTime: 2019-12-23T12:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-in-depth-research-2020-will-improve-your-decision-making-power-2019-12-23
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
+    excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
+    publishedDateTime: 2019-12-26T06:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
+    excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
+    publishedDateTime: 2019-12-27T03:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-developments-and-precise-outlook-2019-2026-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -54,17 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
-    excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
-    publishedDateTime: 2019-12-27T04:02:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/19/12/wr15044893/automotive-artificial-intelligence-market-size-future-forecasts-growth-rate-nvidia-corporation-a
-    ampUrl: https://amp.benzinga.com/amp/content/15044893
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15044893
+  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
+    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
+    publishedDateTime: 2019-12-20T05:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "iODe23/aG/w563lUGL0TolhM0JSOyzLf8rhzVsj9D6U/s5vcoRYcF40BMbWWfX5UOuxf9gX0P3c09nqcLOsqklq0kLX793jHmvuQqjXJ+XLynHxu884wpOkgbLMxgGWVPk5V7EL8+EBlAb4C8jJPW3O4TsW+YharZQYtR0nJV7GCmYbtSIiHcswnBIhJhosb0nh4vq+BQxrY7WsSgES6B7y4flvsHWVNCAqbxf+Wdu0aJxXDhZLaz1E7Vc1ciSHw8fFnh6Xz3Fq+Si8GuVK4ig==;1Y1wR9qw5TM9Up7BLRiiDA=="
 ---

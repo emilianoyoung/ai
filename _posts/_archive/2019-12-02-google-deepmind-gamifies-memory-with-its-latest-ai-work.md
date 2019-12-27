@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Google DeepMind gamifies memory with its latest AI work"
-excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term ..."
+excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
 publishedDateTime: 2019-12-02T22:10:00Z
 sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
@@ -70,6 +70,6 @@ related:
         width: 555
         height: 330
 
-secured: "MJcSf15B7+b8QVZJCt8TFgaaUKYOx2yCDsryfgNhFEuq1D1i/BYS/zBg0DBCwjI5jojxQgbOqsImUZhRdgIXVi+1YxHgvtgijxUHpO8hywBo/vGxw55N0n7mpZBPOtI+QaFZ4L9MiS4XkO47HXFr/vZkyzw0AQHMNATPWxeaxn91QHf+jdIHzyNASv/CzG7Am6TBZcYn7bve82h3hGUClIPa78cOTxyUEx7knnP9S0M42zyzFkcHSHhCDHjcIKHEMZZoWtRdzAeMnWEyP/Yv/g==;WZBjdjzeHHkxejFW6J8gww=="
+secured: "iUmRhu4yAjR5atGcFjqad/X4KEcnXyLysEEwf9PDtt0xtu9reslGAZKc0Vzw4UxQHSdvDQ/h4+iLP/oX1ZjeUy1CCf/Z6iWlyDH9c5mhKFrrFzhgGma3tifYO0Q34uLRbsSJAqhU3TeraAN6GRknGX+XmOI0QaeLfnO5aVwv/2M11Hi68izv3tCe8H6ni5jqhkWbJgp2SVwMirM2AV4ZRmj/stS6VQwmr/RwIZ/SQQUuuweDahTkDXsEbZ9sk4yeQpnbeQSVpOasHwP2jwjz/w==;NBxtzqnwkiir2HvBhpBbaQ=="
 ---
 
