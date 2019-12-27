@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -185,6 +185,19 @@ related:
       - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
         width: 725
         height: 725
+  - title: "Improved technology will drive facial recognition adoption"
+    excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
+    publishedDateTime: 2019-12-27T10:00:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/articles/improved-technology-will-drive-facial-recognition-adoption/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
+        width: 300
+        height: 170
   - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
     excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
     publishedDateTime: 2019-12-19T16:50:00Z

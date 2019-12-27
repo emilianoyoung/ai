@@ -44,6 +44,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
+    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
+    publishedDateTime: 2019-12-26T07:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
     excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
     publishedDateTime: 2019-12-20T07:52:00Z

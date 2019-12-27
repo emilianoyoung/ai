@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/jackkelly/2019/12/10/artificial-intelligenc
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2019/12/10/artificial-intelligence-is-superseding-well-paying-wall-street-jobs/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.59422FADB267C081BC6E716D991A896E
         width: 600
         height: 315
-  - title: "AI on Wall Street: Robots in finance could wipe out some of its highest-paying jobs"
-    excerpt: "During the almost two-hour hearing, lawmakers asked experts about racial and gender bias in AI, competition for highly skilled technology workers, and the challenges of regulating increasingly complex, data-driven financial markets."
-    publishedDateTime: 2019-12-07T10:40:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/ai-on-wall-st-robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs-11575713579167.html
-    ampUrl: https://www.livemint.com/technology/tech-news/ai-on-wall-st-robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs/amp-11575713579167.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-on-wall-st-robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs/amp-11575713579167.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.1E2843E2E9A15B6E281417D920B4ED96
-        width: 600
-        height: 337
 
 secured: "SrKSJ57DUEDUBccFOT7A2G63OnygawKL41e37oHHo1AbW+OH8VjLinuyXfIk5FluhMnnM/uKY1kVcnJYVPp9EiETnIBvef6j5CKxCrS13intiRPnkFVOcerB9DwSm46m9QzkktKUH4zMTCJTKFvUXycybbPFM2oGmGsRNDniKQ6cZKRwxlC+vPhF2MEiZMh9sjgV35jKX0LR1WzSdgVquax/jKjxmcACpwRKKpaGtEzFvG0gjt6EcRYZorgJqTmMmj8PTgsM/WnLuFaX6sYBdw==;+bh0RUGBf1ZiJPEq7/MJSQ=="
 ---

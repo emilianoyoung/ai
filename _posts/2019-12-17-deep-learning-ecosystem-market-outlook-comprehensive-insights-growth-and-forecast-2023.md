@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T11:28:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-ecosystem-market-outlook-comprehensive-insights-growth-and-forecast-2023-2019-12-17
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Deep Learning Ecosystem Market Outlook, Comprehensive Insights, Growth and Forecast 2023"
 
 related:
-  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-    publishedDateTime: 2019-12-21T09:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
     excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
     publishedDateTime: 2019-12-24T11:27:00Z

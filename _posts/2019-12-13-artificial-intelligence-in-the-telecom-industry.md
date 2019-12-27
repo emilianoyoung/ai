@@ -115,6 +115,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
+  - title: "Artificial Intelligence in Media"
+    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
+    publishedDateTime: 2019-12-05T05:18:00Z
+    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
+        width: 375
+        height: 360
   - title: "Are more robots in your future? Missouri looks to expand use of artificial intelligence"
     excerpt: "JEFFERSON CITY — Missourians seeking information about their taxes or their welfare benefits soon could be contacting a robot rather than a real person ... about a third of the states are engaged in pilot programs to increase the use of artificial intelligence to provide services. The budget request says the Missouri Department of Revenue ..."
     publishedDateTime: 2019-12-10T19:20:00Z

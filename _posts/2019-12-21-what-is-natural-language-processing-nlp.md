@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
       - url: https://www.bing.com/th?id=ON.D1E84DEE11FF4C2D3BC532C71FAE8D2B
         width: 100
         height: 100
+  - title: "Natural Language Understanding (NLU) Market Analysis & Forecast 2025"
+    excerpt: "Get PDF template of this report: https://www.qyresearch.com/sample-form/form/1211577/global-natural-language-processing-nlp-market Natural Language Understanding (NLU) Market Leading Players : IBM Watson ,Nuance Communications ,Amazon AWS ,Microsoft ,SAS ,Idiap ,The Aspect NLU Lab Market Segment Analysis : The report offers a comprehensive ..."
+    publishedDateTime: 2019-12-27T11:35:00Z
+    sourceUrl: https://www.openpr.com/news/1886522/natural-language-understanding-nlu-market-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "ikuQ6tb8fBFM/B2lAd8P9Ap3swsPgYNS5FC4nMfSjs3VF+w8ROfM2z73BqzSXZKJgOlsMV0Hg5Ql2Mn8nP0kyBLA2jWKgZmgKkQYe8zaOHuNbHSELfu0YhWCPe2653h4FpEePYpaC5EY5sBDK0Lb/d3S2tojhdKEvPeF4VEYg501JgK86UrtMGVAIeDiCT99JLXKCl2SYvo+h2djj+dtInUvBWfBtZQMuTtLgX9ZHR4QEzps8wEy4CBVHcF54wlFtN9wcSP4kgHLTgZC9Rk+Bg==;O4RAlBHXs1UHormRSwx5ng=="
 ---

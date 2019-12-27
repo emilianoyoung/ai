@@ -194,6 +194,19 @@ related:
       - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
         width: 725
         height: 725
+  - title: "Improved technology will drive facial recognition adoption"
+    excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
+    publishedDateTime: 2019-12-27T10:00:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/articles/improved-technology-will-drive-facial-recognition-adoption/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
+        width: 300
+        height: 170
   - title: "Black and Asian faces misidentified more often by facial recognition software"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
     publishedDateTime: 2019-12-20T13:25:00Z

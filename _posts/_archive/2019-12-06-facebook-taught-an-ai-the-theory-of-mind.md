@@ -1,17 +1,23 @@
 ---
 category: news
 title: "Facebook taught an AI the 'theory of mind'"
-excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-publishedDateTime: 2019-12-06T18:42:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/facebook-taught-an-ai-the-theory-of-mind/ar-BBXS7kA
+excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks ..."
+publishedDateTime: 2019-12-06T16:00:00Z
+sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -40,6 +46,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "oRu77mw5sHmo7xqhW3IZfY/rs2WD3X/ievpeRn7RukSbOcN/mLpTWOPuKQ/hEsu9xCNiyEPtvY42gheXrAY3VafdpkG2R7z1E3HNgaQxTYMUaGIOBs83AHk/rI6gXKw8DY4Hmh0a+Hl/Oq6FAuBBNeDxljDXzgfrl7A39Vycv8IuCRP9tUuMY27P7/gQ7TohyM1t9wtV04dpbgS8Vdpjy+zh/0/JpTQkcijZScwMQaZkY5ZWMkdl9xqZcHNR9xUeiJWxOSFvwrmBoGCREeY/Gg==;O6kaJS3rOYA9WwtdrjRsMg=="
+secured: "XNgayJTWZkMY07mIgJAFZ9v3LBTPuGFQqFV5cyuSjLNKes8iJrrPZBf1/pKXzWG4XPOV/0rKF1PUAOxO7Pnien3Dwr/kG93s9volK4sPsUTSCuG6GkymLs/X2O2+l1KIHhP2i9PVMyGjFFn++6aI4Po+Ua5w2RCJlGFm/Or+W5Ekg1qdblLzNEHAnnsrz34Pr5QMv/svVN0POpn6iT07UKgVxuEHGhss8ibDKU2hdjkvhbuLMFNCqN+z3IqtHHYeugDbXRXMuxsExZlzTHfTmw==;CrZcXDE8CMCpjzlGgKEdZQ=="
 ---
 

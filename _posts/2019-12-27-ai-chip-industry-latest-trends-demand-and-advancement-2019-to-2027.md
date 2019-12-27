@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T04:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-chip-industry-latest-trends-demand-and-advancement-2019-to-2027-2019-12-26
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
+    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
+    publishedDateTime: 2019-12-26T07:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

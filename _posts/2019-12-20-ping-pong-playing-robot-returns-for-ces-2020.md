@@ -24,21 +24,76 @@ images:
     title: "Ping-pong playing robot returns for CES 2020"
 
 related:
-  - title: "NeurIPS 2019 featured robot curling players and coffee makers"
-    excerpt: "Last week marked the kickoff of Neural Information Processing Systems (NeurIPS), one of the largest AI and machine learning conferences in the world ... and a multi-stage learning technique that uses pixel-level translation of human videos to train robots to complete tasks. Researchers at Berkeley’s department of electrical engineering ..."
-    publishedDateTime: 2019-12-18T21:10:00Z
-    sourceUrl: https://venturebeat.com/2019/12/18/neurips-2019-featured-robotic-curling-players-and-coffee-makers/
-    ampUrl: https://venturebeat.com/2019/12/18/neurips-2019-featured-robotic-curling-players-and-coffee-makers/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/neurips-2019-featured-robotic-curling-players-and-coffee-makers/amp/
+  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
+    excerpt: "Helicopter cash, climate crises, smart cities and the space economy — investors have all those possibilities ahead as they enter the third decade of the 21st century. They go into the new decade with a spring in their step,"
+    publishedDateTime: 2019-12-27T10:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis/recession-robots-and-rockets-another-roaring-20s-for-world-markets-idUSKBN1YV0QQ
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/kochi.png?fit=2560%2C1440&amp;strip=all
-        width: 2560
-        height: 1440
+      - url: https://www.bing.com/th?id=ON.6B8F71CFED66B0212B673B922161517C
+        width: 700
+        height: 466
+  - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
+    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
+    publishedDateTime: 2019-12-27T10:15:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 65
+  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
+    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-27T09:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Want to Hire a Robot? There’s an Agency for That"
+    excerpt: "Its robots will undertake the often strenuous and repetitive work endured by humans ... is a good thing,” Bailo says—“and then bringing that learning back into the manufacturing environment and into the artificial intelligence [area].” Bailo finds it interesting that Ford's plan is to use hybrid vehicles rather than electric for its ..."
+    publishedDateTime: 2019-12-26T20:08:00Z
+    sourceUrl: https://www.industryweek.com/talent/article/21119296/want-to-hire-a-robot-theres-an-agency-for-that
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.54CB0A39D02FCB0817B6E5648D53840E
+        width: 425
+        height: 700
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-24T14:37:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "TKsG/0SaTkRdQVT1Pxsrap/2zqfd4Y/dWACufYQ0fAP7NKtsK2ISuyPeKYkMWxUPmfREDSddQ/QSk0KQew4qS5zAbvkgRwt7iELwbo+Xauee2ynZdYT68leBwXSHaluAmSbek0QXN2w4GMr9FNNhBNczvSyUuW8NsI89Wx2pCIUz31fTPeTEKe5ZDFympScZOIvG6gltHOTGEIsEonXTeTHoKXILUzkIaJlCDyoAsvW/Mc6i+c1vRmSTd25d+UqylZlmWsKvzCHSkgpoKKFr1g==;PBvONIIOSIcloMcCrOFQQw=="
 ---

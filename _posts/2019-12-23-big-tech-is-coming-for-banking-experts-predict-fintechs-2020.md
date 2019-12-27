@@ -3,21 +3,15 @@ category: news
 title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
 publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
 type: article
-quality: 89
-heat: 119
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -60,20 +54,7 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
 
-secured: "o/rIyFG2KNOcVXLCNH+CthNjUwMkF0IHUMea7ZirrEcJf+DG3JF9mun82uGuko7v7tez2P03USSiJ5kG73K0HPg7RmR4xUUlHqhvwzdP3whkZvofn2ATow3Voy04iaOLLW9PZPh9hz0fBOVsZNqNudsiw+tekyz/U6YN9ESLy3xWDI+wUr3zsoOaOHIXuxtrMoxkJVg5AIIn4zxh8Exet/zgZbd8IdBmrgjBaypYIoLHw06+8ZW81hQu5BpXHVcAYhfXsznvkb+ODckC4Fyr9A==;IJvRai2+CztWFO2GZYz/Nw=="
+secured: "acrbzYdyLO9ljoPJpvmXHrPpI3wJ354raXgHAv6o4FzBTlQ1vYdnVhiZfPDMok3KY3qNNsYEdSwGTIYXc5UUzC8xAlCPvszLE4tLnjeUS3jhQUrsP3t0QySlaQC4JfGzLP03XiVcyuU/EeVENMcSu8U2CYPdR0hlFuzKIrKF7nwyuzVZVJ5mocEVWPnbPlWs2aYO3jyCRM8TkdJPrCvoFqP4JiUjqX06S/kV8+cdXCG9qVV2wk8syc5q8pX9lIRPOcwRCNYaN8FXQuvCV7NxLw==;olkLuBl3Sa9rlL5sRg+H5g=="
 ---
 

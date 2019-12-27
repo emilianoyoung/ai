@@ -46,21 +46,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5defd3a4f4f45f0006d19be3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2846%26cropY1%3D243%26cropY2%3D1844
         width: 1199
         height: 675
-  - title: "AI on Wall Street: Robots in finance could wipe out some of its highest-paying jobs"
-    excerpt: "During the almost two-hour hearing, lawmakers asked experts about racial and gender bias in AI, competition for highly skilled technology workers, and the challenges of regulating increasingly complex, data-driven financial markets."
-    publishedDateTime: 2019-12-07T10:40:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/ai-on-wall-st-robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs-11575713579167.html
-    ampUrl: https://www.livemint.com/technology/tech-news/ai-on-wall-st-robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs/amp-11575713579167.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-on-wall-st-robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs/amp-11575713579167.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.1E2843E2E9A15B6E281417D920B4ED96
-        width: 600
-        height: 337
 
 secured: "3ytiDKu//IBPWdlgzDDpMpZDi9e1Hqu1nk5PnuGdKRyrJok5skyFRYcnhIcIjvrbyWWEUW9VWeDJeJspWYDW/cOKISthXWqGj5GVypmV/QMrW9FLwIb14SjzJTmDi+pSmGGgN89cTXkS0VAAxeEF0v+idlsLEmIHfApwsBbB5c69oLgiCjix1s50458NhYe8NzyVc8JkOT0T2emhB3YD3WPUHXsROtMjdrAcayLp5LvI/dnZe9H4acTR+dHX4H3kqB7gFDehqAXAeH6AQa0e5Q==;wNsXmUmrR6PBGTAs4KsR8A=="
 ---

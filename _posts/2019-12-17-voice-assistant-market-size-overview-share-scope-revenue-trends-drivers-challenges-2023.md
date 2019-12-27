@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
+    publishedDateTime: 2019-12-17T13:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Reduction in traffic congestion due to improved safety and increase in connected infrastructure have boosted the growth of the global self-driving bus market. PORTLAND, Oregon, Dec. 13, 2019 /PRNewswire/ -- Allied Market Research recently published a report, titled, \"Self-Driving Bus Market by Level of Automation (Level 3, Level 4, and Level 5 ..."
     publishedDateTime: 2019-12-14T00:06:00Z
@@ -71,6 +84,15 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
+    quality: 0
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "9BdkocdvW6K+pUFxuGsvpz7pBF9eRg/8EpWic3NgkuGgBDJxmOupqezuIns/aaiTUipbTgKFL/OPMHImf3WPjqrerZvILwcY4HZOPWGw6RAm1UeaMVjOaaqtHWkr2HaguNSABIJiNroPuG9fppGll3c6dgIV2ZLgxwlTTMz8huXk/voG+CA35FxiwcV6M0mAznDISJC1ys0Px7GKwLZbPfGYmfZGo4mNsxz1e8tR7NHdWZK4Gz8i4UQ5V9wFydWXKViN77B23jckUugJvVlM0A==;X1uRdUiKHc6qv73rjoH9hw=="

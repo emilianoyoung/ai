@@ -1,25 +1,25 @@
 ---
 category: news
 title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
-excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration."
+excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
 publishedDateTime: 2019-12-27T03:34:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/lgs-2020-soundbars-add-ai-room-calibration-to-optimize-their-audio/ar-BBYnrLL
+sourceUrl: https://www.msn.com/en-us/news/technology/lgs-2020-soundbars-add-ai-room-calibration-to-optimize-their-audio/ar-BBYnrN7
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Engadget UK on MSN.com
+  name: Engadget on MSN.com
   domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.25BE6F6DC0744E976A514483278FE4CE
+  - url: https://www.bing.com/th?id=ON.C634734E413E1FC6C5918A12BDA3CDD2
     width: 700
-    height: 361
+    height: 367
     title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
 
 related:
@@ -39,6 +39,6 @@ related:
         width: 200
         height: 200
 
-secured: "e1wVeYOq0NeyfM6Xe3gXcI3qI7ptwQy80kG7aPiZ8CRHK5qrr6gCxjZT9Qhw4vpyyWdmRLhp/nOW4/MWb3umWbIIbbWrvwPbWZ3XEFzcSlJXkvLpE4qcrOev1VrLyQh/ishEBCywu+1TiLghGuyFfWxAFXt15fC9NF1hbJzU4va3+zXsJu1R/CvkfdOyYK2lqII7jNWTam0CdW6o91IcsPZAZewOS90MBsGg11hv1pJMtN/HC2kQ+pwpiDL+EdkSOmWJVg0oJ6glXkG9uE0zIg==;Lvv5l2vOcl84y/XgA0zvHA=="
+secured: "wMVHybYzuL2h4pMOo+Y2dsvgoQT0PcnXKxiemLbpfsvCtO+oY6bwgLt2W/op/KgKFFbDk5LVG72FI8WPKcMENRmvYa/shHGwrSO5H/V11PaMDUnZZYlI4k7/LY7NiYAi19SqiH0aEWLoVRXHPgA2NrUYbuLELVkm3MKy+GGM5PWuzC4llUfMLABTzHD5C5g10AiOCSD5fG3GuxNrv6bZDA4E90o23DdZMJitFtabn3h39dTZSSy5Kn/5XTMBY799xDl3I4n4kS1dqAnFncVpEw==;k8SchwHGwH35OkhZ/XDEkA=="
 ---
 

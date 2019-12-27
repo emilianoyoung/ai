@@ -44,6 +44,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
+    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
+    publishedDateTime: 2019-12-26T07:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Healthcare Provider Analytics Market Latest Trends, Technology Advancement and Demand Forecasts, 2019 – 2026, IBM, SAP, Microsoft, HPE, Cisco, TIBCO"
     excerpt: "Advanced analytics consists of the most common interrelated technologies of artificial intelligence / machine learning, natural language processing (NLP) and extraction, and big data technologies. Although not widely distributed in healthcare, all of these techniques and techniques are used at varying levels in most of the vendors introduced in ..."
     publishedDateTime: 2019-12-27T04:25:00Z

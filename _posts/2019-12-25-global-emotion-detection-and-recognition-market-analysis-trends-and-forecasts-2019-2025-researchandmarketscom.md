@@ -18,73 +18,32 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
+    excerpt: "Helicopter cash, climate crises, smart cities and the space economy — investors have all those possibilities ahead as they enter the third decade of the 21st century. They go into the new decade with a spring in their step,"
+    publishedDateTime: 2019-12-27T10:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis/recession-robots-and-rockets-another-roaring-20s-for-world-markets-idUSKBN1YV0QQ
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.6B8F71CFED66B0212B673B922161517C
+        width: 700
+        height: 466
   - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
     excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-    publishedDateTime: 2019-12-27T10:09:00Z
-    sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
-    ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
+    publishedDateTime: 2019-12-27T10:15:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
-        width: 450
-        height: 337
-  - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
-    excerpt: "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ..."
-    publishedDateTime: 2019-12-24T13:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
-    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
-    publishedDateTime: 2019-12-23T20:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
-    excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
-    publishedDateTime: 2019-12-23T10:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
-    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
-    publishedDateTime: 2019-12-27T06:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: CNBC
+      domain: cnbc.com
+    quality: 65
   - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
     excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
     publishedDateTime: 2019-12-27T09:45:00Z
@@ -98,32 +57,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
-    publishedDateTime: 2019-12-26T07:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
+  - title: "Ping-pong playing robot returns for CES 2020"
+    excerpt: "For the last two years at CES, Omron Corp. demonstrated a robot called Forpheus that equipped with sensors and artificial intelligence played ping pong with users at the show. The robot is returning to CES 2020, taking place in Las Vegas on Jan. 7-10, for another round of table tennis with convention goers this time with expanded capabilities ..."
+    publishedDateTime: 2019-12-20T17:01:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14440/ping-pong-playing-robot-returns-for-ces-2020
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
-    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. (Graphic: Robot Shipments Hit New Record png click, https://fingfx.thomsonreuters.com/gfx/editorcharts/USA-ECONOMY-ROBOTS/0H001PBF650Y/eikon.png) The '20s could be an era of smart cities, where big data and robotics ensure ..."
-    publishedDateTime: 2019-12-27T10:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/recession-robots-rockets-another-roaring-102305380.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.018435FC0D349BC47EF14470301ACA1A
-        width: 700
-        height: 466
+      - url: https://electronics360.globalspec.com/images/assets/440/14440/OMRON_Corporation_6th_Forpheus.jpg
+        width: 752
+        height: 508
+  - title: "Want to Hire a Robot? There’s an Agency for That"
+    excerpt: "Its robots will undertake the often strenuous and repetitive work endured by humans ... is a good thing,” Bailo says—“and then bringing that learning back into the manufacturing environment and into the artificial intelligence [area].” Bailo finds it interesting that Ford's plan is to use hybrid vehicles rather than electric for its ..."
+    publishedDateTime: 2019-12-26T20:08:00Z
+    sourceUrl: https://www.industryweek.com/talent/article/21119296/want-to-hire-a-robot-theres-an-agency-for-that
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.54CB0A39D02FCB0817B6E5648D53840E
+        width: 425
+        height: 700
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
