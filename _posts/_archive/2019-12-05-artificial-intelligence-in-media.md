@@ -546,6 +546,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 21
+  - title: "Artificial Intelligence and Emerging Technology Initiative"
+    excerpt: "The Brookings Institution Artificial Intelligence and Emerging Technology (AIET ... By publishing timely, rigorous research and bringing together leaders and researchers from across the technology and policymaking sectors, the Brookings AIET Initiative ..."
+    publishedDateTime: 2019-12-02T18:15:00Z
+    sourceUrl: https://www.brookings.edu/project/artificial-intelligence-and-emerging-technology-initiative/
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 19
   - title: "Artificial Intelligence In Fashion"
     excerpt: "To uncover the general market conditions and tendencies, Artificial Intelligence In Fashion Market research report acts as a perfect source. The market report aids in developing a successful marketing strategy for your business. This market research report is a proven source of information which offers a telescopic view of the current market ..."
     publishedDateTime: 2019-12-09T12:23:00Z
@@ -583,6 +592,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "3MRwskqohiPurNPzVTggOke+etiHTXOeXgdxtYkOoMGKONIqNJ49PMJ/4l7BuhRf219x6kLnFtVPiXs/ygx007lHXG3Iu3rKwsfFh01kY6PElgUcnrz3O7hRSU6UgCfVXiie3ZkkZYTZ2tlHG2WUtMN4Czefi92nKdxxp+ZUDPCjmFtldwCgxoLNVn3w/zO+pbueYgZvRXOW2sUeWWFcLgnwTMMw9TP3OP59pMivdxUTSiKsSU8vzyx7E25WQxN5SOt9D/AaePWQQYfwBpK3tw==;1w8OEYh6z5MO+k6lNecM6g=="
+secured: "Tw9LgVk73xmE7J7YBpv7q8vNOVoiNpuamlKgotRrxrGb1W43uzWwVOuKA6Dx+wbGHceJHuhqjThszFe+9DbbTeiQ01z6Q5dacYUdPA0N/2a3ChGT01KSS1PInVnSRAYD3GfLVRRBObjATrZaVw8pWOA/EVMkUAtZigRck7B7AA8prjHoNN/Sf0fAaIslfbEPyAymxWEa385Ur7593DRV+/nUHELHlflaUJ8x4DvK0tmQBMEKuDFMlkk8UqaP4MGI3ev1gi4cbNzyFo1a0ig9JQ==;kmDdYXbdO3hw9oTA4UVM3Q=="
 ---
 

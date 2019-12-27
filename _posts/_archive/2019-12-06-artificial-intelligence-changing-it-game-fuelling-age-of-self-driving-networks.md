@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T18:05:00Z
 sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 799
     title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 
-related:
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial intelligence is changing the IT game and fuelling the age of self-driving networks. Kicking off Juniper's fifth annual customer and partner ..."
-    publishedDateTime: 2019-12-07T05:56:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Artificial_intelligence_changing_IT_game_fuelling_age_of_selfdriving_networks-SNG_161467497/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_161467497/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_161467497/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.157C0FBA2F8B89E3F227A843297FAE82
-        width: 450
-        height: 300
-
-secured: "dMHyTEak0kI9dhZl50gSvxz1fj+daUqsCnbJ/g9gpZvMTmUqbJWG7FdtWbi2em8Gq9veVd2g4pmOK94r5cEaxRlnIiYFJCXH3/uIoaW1rie16nnG5KfgxF+h6W8MHNUE+zX2djzvfUpnar8tGHlkWjyfl9jWJavvwbCvy83w0gqrXlGE8dLaHWtxhrzVGEek2M6Y8ZOR9thKrJ95jpXN8KkAhkAFJbivIV+TufEImAHsOnrMtU7rQyZUoqGlkMV7EWtIaKryzsXYLUowgabIVQ==;Ibvby06qvoaHWjU0O0i5tA=="
+secured: "U4ddNdBil0RsEbt6uLRfHk4lXZOntj1FxBCi6QJkyMF0s4YbbJESZJXn4/rELD8o2m83Mvikma8mjWjxvzvvGbVu51dBrWoiidgxxWtdxz0YisXnFg0Be9/AMy4jW9jVpYxcYe+QL6uGmecOrIgSWr4K/OTd0mHexoJxvugNqvwkJ+gb464rjmm7xKln6iPAZg9QdYzEiLEf6GRchJ15Gr6Yt3HIQNRMPBe/S+bop8xcatDru3sPcrWsoZOEGKEzpeea0TDh4HAW+ck2ojr9DQ==;BovWPjQHsbqfyoHSS6Uzng=="
 ---
 

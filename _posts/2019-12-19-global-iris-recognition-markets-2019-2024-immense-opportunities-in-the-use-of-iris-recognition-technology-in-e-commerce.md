@@ -70,6 +70,15 @@ related:
       - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
         width: 700
         height: 495
+  - title: "Voice Recognition Technology Overview: The Past, Present, and Future"
+    excerpt: "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. Global 'Voice Recognition Market' Research Report 2020-2029 is a vast research database spread across various pages with numerous tables, charts, and figures in it, which provides a complete data ..."
+    publishedDateTime: 2019-12-27T06:29:00Z
+    sourceUrl: https://www.arnnet.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 4
 
 secured: "v4AE09gjeupoAFaMNruwdt6z1whX9c8mIy/gbK6BSt9uAHSkSdGfIMKF15QY070/6H3xvzPvOzRZjjMSB4DKNqyrmNtE+UUJjNr0EmknKx8aPe+p8C6uzfa5o045lATIrNON1IqrNgSZM5vpfveHwmQEOtDFS5r0wNiBif7c2Bq0tJX2uKKoUwKJpWq4x1lIw3oQaPD2kFZMwKikmpM7bmWMr3PU7RvWzu8kVJKE7JsvOK39EjoFkK7evJ5Gf8zvEcx9461UsOhFz4z0A7QvMA==;XkdZp8zCocqP0BpvGtxedQ=="
 ---

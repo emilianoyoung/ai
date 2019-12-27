@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial ..."
-publishedDateTime: 2019-12-18T11:25:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191218005383/en/Innovations-Artificial-Intelligence-Natural-Language-Processing-IoT
+excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
+publishedDateTime: 2019-12-18T14:26:00Z
+sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
+ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://mms.businesswire.com/media/20191218005383/en/371054/23/ResearchAndMarkets_800px.jpg
-    width: 1200
-    height: 627
-    title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
 
 related:
   - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
@@ -95,6 +91,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "RAAVgKUSyxY372Zl6gN+25ynDpewVeGQ6mRgb7F2CRv2plDqxykHZWOjhA6kWZ3QNh4bjWtC5zya6RkvTPkxBWWZg9zSl+KBMLPGCi4xwLmmwT4rMn24V+UYCW1dKHZU2/CAyQlYsAWLJe8ob3d7ZkASsDl4Up+yMxc3dPpZib/C7ilD/1StTkR0xd2opSKsFay/KRz7I9CbNCfDh59hI/3AvKUCkbp5yblxPnOVs3uaQjKIAfqAlFQ2mC7g+KpKPGWJQ4v0FLt1BCHIVB/2NQ==;DRBiVpftCYMV8+OpunmXuA=="
+secured: "1lwS4yR3AqZN6TQLctaPzcmXmIsVUcZq4pzcEI7hepmt9FSjhimbiNPqP1t8YrwS4G13MX8UkqE+mkgVJ9yA3a4NaC7ZZveSAJAzvznRH6VJHYslzvX/7D53oPn5Jc7Kh39lZm73t/aK3rNNmQWlS+1QSWSdOnWp7lxK6o52ZIcJYKKCa+ONQrZUI0KEztMN51K4xEDB0zvHkhwuOrBHDhNvZ2m0AJV9wYUyoGMi+zW3TOiA1+byTcH0tp8nfSruhY8NFSJpOKsswr/gU6JmMA==;ZXX06PiHwyv6hqn3DZviIA=="
 ---
 

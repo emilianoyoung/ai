@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Global Self-driving Car Market, Forecast to 2030"
-excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-publishedDateTime: 2019-12-18T15:03:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
+title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
+excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
+publishedDateTime: 2019-12-27T05:37:00Z
+sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-size-share-growth-and-opportunity-assessment-till-2025-2019-12-27
 type: article
-quality: 4
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Autos
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -79,19 +88,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
-    publishedDateTime: 2019-12-27T05:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-size-share-growth-and-opportunity-assessment-till-2025-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -334,6 +330,15 @@ related:
       domain: yahoo.com
     quality: 6
   - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
+    publishedDateTime: 2019-12-18T15:03:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 4
+  - title: "Global Self-driving Car Market, Forecast to 2030"
     excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
     publishedDateTime: 2019-12-19T00:27:00Z
     sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
@@ -379,6 +384,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "XJDeoHKtPs6xuKen+efJwNT23rXKljuyxHgkeY6ZxdOdqvMf7W89KbjWFpECHs2HZJArQdCs+0rYVyQJHF9bsoOuTK4ryrYePzg4p3XXqAHnWw+O0XiUZvfwip9hJgFLxQ2Qxe3UIbIGUUo67Oi08o6KhqJsmaHT/B9b72c+AkdcwAFFRFn/UMcyddj+BBKRBY4M8ObxHLw7X7vYOulJzaYkKU0pQXURLTELLwzT+zGekkwXT45/8pkoeN8SrFQ6rH/0OZ/N9WIVVlh0wIA04g==;h5ehHYBZKOMqn9NJd7fcfA=="
+secured: "fodwdQ0YjmHE1kFOe+O09qsFbquueZepN5YPwTXYMXUWMDAHr4Zdihr1QMELS+629FB5LbTJzYduCUdoVI/Y6SPrbUPXNFdftiqgNxzMwxuV/QT2T5+HRtrjHz6JoZPgRAXLQzgvoQVXxASa0uQXDYMVdRC6Xe3Eh6eA07dFCVMApnLSdR+MNfAaS3yeT/3wfdq3LqtI8XcCTKhZ+r64HkzhZYC6VrWcRsPOGhH6amNQqK9AkLRY0O5yBEVqiCHGXHoFpPITvlsdFlzOgHd7pQ==;v28wsG1sMzzKpMFIfwsTag=="
 ---
 

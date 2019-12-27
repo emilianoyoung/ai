@@ -5,7 +5,7 @@ excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilitie
 publishedDateTime: 2019-12-04T09:36:00Z
 sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-    width: 3648
-    height: 2736
-    title: "AWS ramps up SageMaker tools at Re:Invent"
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -40,8 +34,8 @@ related:
         width: 700
         height: 418
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
-    publishedDateTime: 2019-12-04T20:48:00Z
+    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
+    publishedDateTime: 2019-12-04T20:45:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
     provider:
@@ -49,11 +43,11 @@ related:
       domain: sdtimes.com
     quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
-        width: 700
-        height: 335
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
+        width: 900
+        height: 431
   - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:27:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -64,7 +58,7 @@ related:
       domain: infoworld.com
     quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -91,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
+  - title: "AWS revs machine-learning train with custom silicon, new SageMaker goodies"
+    excerpt: "Machine-learning models are like pancakes; the first one is usually crummy. In fact, if they fed on models, developers might drop a shirt size before they got one to the table. Speeding up iterations and cutting guesswork as well as cost can expedite an ..."
+    publishedDateTime: 2019-12-04T00:36:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/aws-revs-machine-learning-train-custom-silicon-new-sagemaker-goodies-reinvent/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/Brian-Hall-AWS-reInvent-2019.jpg
+        width: 772
+        height: 514
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
@@ -107,6 +114,6 @@ related:
         width: 700
         height: 466
 
-secured: "jyjCFmpSE3BFc6yK9L9Wfm2+siHsf01h+th7kQ8dcg2hnHozjKg7xGYajGj85MclKMJsr2s2LR8duEd90ABAJSJ4yIMBzJQveRrPybkt4e11mt5wrdYACU/M2+TqX9nTyy+bMSOKaTQOsdd0kWpY7Q7pSC95xjBd1hq/9T14OXSvb7Zk0sucum5W/PV9c27mrcRVy13Tw/PWgVe8+Lw/b9zQjYsPdW/Gss2VdTZdNC+6OgeC3z56Rsgv+eavjQWzHKn7QsRLwr4lKO/W6Fbx9A==;tyW10x2lGIYgjcADVxau4A=="
+secured: "aOTvrwOFJSHZmOsKh55c5pQ9rFQxRtj8BVK8yRdOtWPPwX2pPPdndzIG03RzptNpP05nICI0ty/0WBC5qn/PhXw6iWPK9AO5dQjqerIoa85/cgGj2eqYdousX322H/bL5R3nQLwUGrP47W3HNUpGDThXc9ZPTcFrdkGBm0h4Bs5cD+mYa/Cv4rSRRCMB8OSJmMchMSxIyEk4XfrW3o/iw0lUlVzf1MQsF6H0Sk0sWI1EcSoUOUujcBDGIMAO6xyTfWGirFSntqFvD4Fpaof5QA==;KW4sJe4Vje1WeyCsSAOGWg=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Baidu Taps Samsung to Develop New AI Chips"
-excerpt: "Crunching all that data requires a lot of processing power, so Baidu previously relied on NVIDIA's (NASDAQ:NVDA) high-end GPUs to accelerate its AI tasks. However, newer tasks -- especially natural language processing -- require much faster chips. Image source: Getty Images. Baidu and Samsung stated that the new Kunlun chip will enable Baidu's ..."
-publishedDateTime: 2019-12-26T13:52:00Z
+excerpt: "Baidu (NASDAQ:BIDU) recently partnered with Samsung Electronics (OTC:SSNLF) to produce its new Kunlun AI accelerator chips, marking the first collaboration between the Chinese and South Korean tech giants. Samsung will manufacture the chips with its 14nm process and I-Cube (interposed-cube) package solution, which merges a SoC (system on ..."
+publishedDateTime: 2019-12-26T17:49:00Z
 sourceUrl: https://www.fool.com/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 ampUrl: https://www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 type: article
-quality: 106
-heat: 106
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,8 +21,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.14FC265759AB6A450544484402A5194F
@@ -30,6 +28,6 @@ images:
     height: 393
     title: "Baidu Taps Samsung to Develop New AI Chips"
 
-secured: "GiaaeLsAMfj/Byx2bgLmxaGqq4aeejpWzrQYc/5B6zbeHvHtirDh3LNuF83MXC/EbvWIlv51KldTTQzX44vWKCCSXjO6pyOFjVaVgM84L5JsLhpHweT90vxhkauvtxtnUqvsr9MUjJKEh4LSfGAZdaRYM5Ow9OcKlF2hFZzmnxwy/PW8wP3ULgH8i0COCDwRfXOTKxVaJ0Ow0+doTRjaqKsI+9xZSFaeOg6UOWIbViUEOz5GCEHAPoJH0qFOnEDiHag5+vYV57wgg8ngXRW9KA==;UoLwuWEq8OJPniCLYVoRHg=="
+secured: "9vmxTYG9CrREMTmgEs5+n84CeHT/IK/Vs2UuBWacoWauYxnG2G/SCWabdIhAY2bhkWpfigqntcd2JB7hTB1DfGHuEVhEK7EfHylPLYqSJ/b6isx6ZKY2oc4EBGKjf5qUXY+XU32TCbR2BhLanMIbqrpTCD2e6DO+SGQ7L00JmJ+lH7nAxO+vG6QczjS+GutQ1ddaMm71jHMF5QbvReETUMUxwCFjah33uwN0SjeJACjkFpHxxUit5s3Uc/0CvipjfkJTmo3jbFaCl/RAAb1Iyg==;cuNjm4LKFJWI9mNCHDbAAw=="
 ---
 

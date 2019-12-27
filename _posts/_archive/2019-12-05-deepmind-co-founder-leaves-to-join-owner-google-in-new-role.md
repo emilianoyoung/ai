@@ -52,6 +52,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
+        width: 2047
+        height: 1365
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -101,6 +114,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "M9vULb5L0Z5lKClzQQCHiasN46gSJjYS30+g70T+/Ttnug/wnfJI4JTDhIshqCFpm0gE+vuYJH2N2wlCHmVTt1Oo6BAE47OuYDiMXH4rRyIZWwc47ly+hO/7GtVwlo9j7k0XrVCeBSB8hq2dco/6Xf4BgR1dVghkzd7v04iiok8xkBXHk63k2+a6OsmFKhIjOMHCJdH2rflnGKY9lj22jeU3QuxfEgprG/4XkfWFEZ1u1SaiKLgQfiJrHF8wNSyyQJoGbEnkIQzdj2kAljHFPg==;lj3Hdur5+IHfnXH4eso6Wg=="
+secured: "bM/gALTIIi1hM9TdpGbYOMfhNIbxRzWYmyvekQAwin6IH0xzYDC3/RNmVG4urjSSMxNg5t9mEZQpvtr34FK0Q/zajoDwpMjsPHVzVQTbLSGk8mLL1iPb6MmIEEAtMgKs9wzgNS5rEVQGppo2VhVEaonjZaLrUvw51oUr5/SF8jCQDOTE/mV+VU8lC7TmoimhJFQHVkSqdajNS8aaP6c0CWydSkMt3tJsFQvrro9iZnxsnKiBm3ZpVpd91xcq6ZT++aE9j7fCuOpbr8FLLLL6mQ==;G+P6SomlsJmjbH3es4aLkA=="
 ---
 

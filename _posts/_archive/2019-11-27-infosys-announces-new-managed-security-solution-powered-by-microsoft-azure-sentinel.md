@@ -26,20 +26,16 @@ images:
     title: "Infosys announces new managed security solution powered by Microsoft Azure Sentinel"
 
 related:
-  - title: "Nuventive Improvement Platform™ Powered by Microsoft Azure AI to be Showcased at SACSCOC's Annual Meeting"
+  - title: "Nuventive Improvement Platform(TM) Powered by Microsoft Azure AI to be Showcased at SACSCOC's Annual Meeting"
     excerpt: "Dr. Raney adds, \"Advanced analytics and AI will be essential to the future of every college and university. And yet for many, it is hard to know where to start. Nuventive is collaborating with Microsoft Consulting Services to bring advanced analytics ..."
-    publishedDateTime: 2019-11-26T13:04:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/nuventive-improvement-platform-powered-by-microsoft-azure-ai-to-be-showcased-at-sacscocs-annual-meeting-300964834.html
+    publishedDateTime: 2019-11-26T13:25:00Z
+    sourceUrl: https://www.indianagazette.com/news/state/nuventive-improvement-platform-tm-powered-by-microsoft-azure-ai-to/article_db4536d5-153c-54f0-a975-ddd19d72dce4.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 52
-    images:
-      - url: https://mma.prnewswire.com/media/945904/Nuventive_Logo.jpg?p=facebook
-        width: 1136
-        height: 597
+      name: Indiana Gazette
+      domain: indianagazette.com
+    quality: 30
 
-secured: "BKHu24EGJBRLDSHJ020c2qTvQqBrCMNnX+n1IWtI0dGcRQ1i1CnvNkPjAPJSVCe2sYmrclyyrDp5CGGATqTVGTqXwd3jdDckgiHkTqXfhYeWD/f2sXJp3SSln+amRsw90rhoGrnBGFKwqI+VGCP2eDfsl/wypBG8Eaq2UOPTW9R70Mwbn+tc/cXrnaIpe7IbQWUNXa/xugF8rOyPedBTycRfWTqOC3C5iig0KkSQ/0/3eQrbmc4CcjGgCUrPmoqsm+KtB9svWhnNmcgs85f7sQ==;lO/2t2NIHV7b8vKjavEf1g=="
+secured: "9UFG9pqhR4y8/bSL+9YLPIo0wpyJdKUipcSAUurYEf9yhSUx8F0w+PvFoQRKlmZxoq+WMISNf/YzmNfByOt5AIIfM5mV5DHA7Hrh17sljikN5GpAdhcjVZgqAKU1IhM48+EM3xpKejkgMz2bJnrTRx3CJvhxMioAlOqM9RfKw2LuV9TjoUZOiYhhFujYCKqdfnL6WGGIY8VnvwFiDWzvMMvyaS3JWUCudKKE79XGvCHCbfe9BKNCy1AQl9RRFkI7Ixfr9nZLF8WLBN5gVbfjPg==;f4aNSjAMUy78LvpEvbbksw=="
 ---
 
