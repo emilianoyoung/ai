@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/aws-expands-deepracer-league-in
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-expands-deepracer-league-intros-new-evo-autonomous-mini-race-car/
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: ZDNet
@@ -25,16 +25,20 @@ topics:
 
 related:
   - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-27T14:37:00Z
-    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
+    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
+    publishedDateTime: 2019-11-27T14:44:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Yahoo7 News
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/SgWm76WZNSXr5GaMtl3jOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD0xMDEzLjMzMzMzMzMzMzMzMzQ-/https://s.yimg.com/uu/api/res/1.2/4VNuFD01lWjXqv8iOGbVnw--~B/aD0xMTg0O3c9MTQ5NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/336d0d5758a11e408ab799f9a4823bac
+        width: 1279
+        height: 1013
   - title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
     excerpt: "The conference will host the company’s second annual AWS DeepRacer League, a racing series starring the AWS DeepRacer, a miniature remote-controlled car that developers can configure with custom autonomous driving models. The cloud giant today revealed ..."
     publishedDateTime: 2019-11-27T17:56:00Z
@@ -48,16 +52,7 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/11/aws.png
         width: 860
         height: 484
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-12-01T23:55:00Z
-    sourceUrl: https://www.msn.com/en-nz/motoring/science-amis/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
-    type: article
-    provider:
-      name: MSN
-      domain: msn.com
-    quality: 34
 
-secured: "NGUeHMzI5/K1FpIE51/h6NWjmFtQTQNe4H1KD8mV0NFZ22a2cbZHnw9V5hSAZ50ATuHm0m7ciYEAg7+5jPEapP13tRkXQiZ+OF3JVa806sDVPYt7uRNsr1ykR8d3EBqtajppin7eyQg6ogube7ddbxdiM7IuBMcZETahqaPDETwz+LHKL275yOn45BMad3uInxp3f0nZPF+BKUe4HFXJL/jtwx1Y06fVWfjThiIKqFT9xH4d+h58V17Xdr2x8+3C2PcRDeDkhVSpwBzbewIEcQ==;rMdHdqtxs/S0f+wkvsSt+w=="
+secured: "a0uYesDI6qUK6xRxioQId2UGCBloqP+AV8L1+l7uZbRzKDF0JzyWsrRUOWihjnWTVqpDSgzolQ/SbVAhMhYTXX48TsjeMwekaaJjlmoMDWj0lG8ZKr4KuUxIL9plmfy0+xzI8URBmFf2wom9wQHL6HtBjCiW9RAxNMik63Geh19Y3itgDV6bLQ6w8pkLfzrCbBI0ru+hij3pcWM4cSwHY79Om0nlbOGs7bWPQ0bsyLXVWiltyEdt3neGiGJvf98ZjD8BGO7/aQBXTTXOgVtalg==;ZuIZkF3qcz9DoXwwSg/BhQ=="
 ---
 

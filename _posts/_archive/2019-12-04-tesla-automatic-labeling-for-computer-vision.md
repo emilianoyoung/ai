@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Tesla: Automatic Labeling For Computer Vision"
-excerpt: "Human driving behavior provides Tesla with a source of automatic labels for computer vision tasks related to autonomous driving. Automatic labeling allows Tesla to leverage its vast quantity of ..."
+excerpt: "Human driving behavior provides Tesla with a source of automatic labels for computer vision tasks related to autonomous driving. Automatic labeling allows Tesla to leverage its vast quantity of fleet miles. This gives it an advantage over competitors like Waymo and Cruise. Tesla can also use automatic labels for predicting road user behavior ..."
 publishedDateTime: 2019-12-04T01:40:00Z
 sourceUrl: https://seekingalpha.com/article/4310339-tesla-automatic-labeling-for-computer-vision
 type: article
@@ -38,6 +38,6 @@ related:
         width: 300
         height: 212
 
-secured: "Id3IIVVCwRUvUOswKYtVHiVz8iGW82r+5e8+x3HwfVBfvef+jZCZF5WUZBTxlHEsriBxupxcybwyVmk/I1gxQcEOa1iRFHt0XX1HEVaONBlcuO+SI5JVF/XjXW3nukb2kZ4i5VdNJpA+QxC8nIhHY/ZB5LTboJl+xLPjVxPsQ+qT+5AywpNYPaB3WI0seL1XlhNRdWuHTezZZQjemQFY8QvI2tOw9BmOVsvkYSPGjUYYFQXeP5MPz3WlxhNRxD5ldfirZxhIa43Mwbqq0hzARw==;SQ6j8XQYU+WoKZGeNFpSdg=="
+secured: "2sWGXMk3xYly5GdUl+kTDSOs7fn+wfBqR9GGWqgNHp7lArutZ89blf8booZ8qVSp27ctyK/TTOQUFovSHiKR3yqI+j2mxklk+Hj68eOGxhf8PDeHDmhHzPWxbYnboy5DFJR1mymUXGrjbkYPAPfH+YepV9s8D2WLVudvtT48BanfZ466RWBAqdp7FKQ0lIkh7te/29I4nzZxWtXJMc2nWgxXfAk+x7sFto+5x/8R/ixjUef8V9E8hvxRq/n6Vrfm5xvm3CNmiVICjigY0DlGIQ==;NV3JRMljN1WUcEa6VvpJCQ=="
 ---
 

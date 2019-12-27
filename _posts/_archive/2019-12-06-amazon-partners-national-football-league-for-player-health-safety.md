@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -48,20 +48,7 @@ related:
       - url: https://www.bing.com/th?id=ON.D3D2D7435233F112E8C48183EFD83C3B
         width: 635
         height: 400
-  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
-    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
-    publishedDateTime: 2019-12-07T02:20:00Z
-    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
-        width: 700
-        height: 466
 
-secured: "A8PbP6vLBOW357imUSrhvU7UqzwNJ4tGPsLFBJtuUf7JQxV093BJhY4Fkn/w0uvi/0osfKorS44O5hMionCJ5VPzB2/ADu2YjVl7C1o0Lmr+tYAzIT4xaV73PNiZFUB3Xynn4bjo8zbGALd9Z272U3qA8VhpKvpNBRs6LJDzs3rUK9j3VSzNFiYgNi/HHJYTwDBJoO++nlIBnWuN+BhJAVwMPw8Ihsz6RkWsCx7e7I/Y2ADiPDlKSApqu1B6pGlHKxkzO9XZ31jUXxkQFYXKEw==;Cj1YGt1VPOs8XUJOd7ZpdA=="
+secured: "QeF9FZ2hLADXp9Wxixgffqu4jXlbED6sAFXvc4NiEiCdxgPDkG7DALQH3S8JhUPsneoE7CDxIzxw7x8XkvBPe/SsYt7VSO0efC/bs0uI36wTkvMo1CNrX9lV2ve1bgFlptYweNHdK1AefKA3Y+osRThgS9h/F2jtlyD9BECGyjVV3fh+tQxI+tYXPvPZG+F7D9hYP53gQvWuJVvQdY4oabQwB/5syGVcIdeYtxYBwZyBZCILKJZvK/mf8jC4qQpSppfzlV/Wrp+FzNLyXz7ATg==;Z4UEb+MZZAwE936iEwa/xw=="
 ---
 

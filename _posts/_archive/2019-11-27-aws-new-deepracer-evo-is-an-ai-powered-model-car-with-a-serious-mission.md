@@ -24,17 +24,6 @@ images:
     title: "AWS’ new DeepRacer Evo is an AI-powered model car with a serious mission"
 
 related:
-  - title: "AWS expands DeepRacer league, announces car updates"
-    excerpt: "“We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,” AWS’s Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-11-27T14:37:00Z
-    sourceUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/
-    ampUrl: https://techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/11/27/aws-expands-deepracer-league-announces-car-updates/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS expands DeepRacer league, intros new Evo autonomous mini race car"
     excerpt: "Amazon Web Services announced a new car for its DeepRacer league, as well as the addition of new races and features. Launched a year ago, the AWS DeepRacer League is pitched as a global autonomous racing league for developers. The goal of the league is to ..."
     publishedDateTime: 2019-11-27T17:21:00Z
@@ -48,14 +37,20 @@ related:
     quality: 84
   - title: "AWS expands DeepRacer league, announces car updates"
     excerpt: "\"We are adding more chances to compete at AWS events and at your own events, more chances to win with new races, including head-to-head multi-car competitions, and an upgraded DeepRacer car with new sensing capabilities,\" AWS's Jeff Barr wrote in the ..."
-    publishedDateTime: 2019-12-01T23:55:00Z
-    sourceUrl: https://www.msn.com/en-nz/motoring/science-amis/aws-expands-deepracer-league-announces-car-updates/ar-BBXATfN
+    publishedDateTime: 2019-11-27T14:44:00Z
+    sourceUrl: https://au.news.yahoo.com/aws-expands-deepracer-league-announces-142424047.html
+    ampUrl: https://au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
+    cdnAmpUrl: https://au-news-yahoo-com.cdn.ampproject.org/c/s/au.news.yahoo.com/amphtml/aws-expands-deepracer-league-announces-142424047.html
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 34
+      name: Yahoo7 News
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/SgWm76WZNSXr5GaMtl3jOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD0xMDEzLjMzMzMzMzMzMzMzMzQ-/https://s.yimg.com/uu/api/res/1.2/4VNuFD01lWjXqv8iOGbVnw--~B/aD0xMTg0O3c9MTQ5NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/336d0d5758a11e408ab799f9a4823bac
+        width: 1279
+        height: 1013
 
-secured: "t5Bqs/8KxNGbuvoFnfLShO5zUDw4tSQJuJmJHRA1Pc5DA+wauRYhyHUQofmBI8k+/+2PGhHp34uZN0MPARRCgfsDd8vTZ8KY7jLl3pf6rCyo/owl2FZ6AUqgaz+E8HjGUBgaGO2DHKnJx+l4YRpGY2vSVImGSzddJKmhlKvwB1GUBcwY8FoTQhwaKLdiDjFbqwhjU3s0SyT46YiatBTLJ8KFq9pHkg2dxPKIHAHRp1YZVZgOH9PF/vdQ0Y2M64usCI4eZeiVw+X5v2kIOgQjEQ==;xZ2ZpFYwaroGkIhPqLwTCw=="
+secured: "1rE/RazxNoqD1jVaaWAg7jZ4xaYDieYgIkmeF71r3646wkSRZQoemaMUqq51kvC8U4zERPSj8l9B6gEGrD/67gHT3yF2GbQ9msYQ7Go8Ind+KuOg4tUrkdCYLzs4y4HxJjfEvLsGAkwWIv3yuo68KZ7TGhkN3kx6Qbat4PGPW0wIWv66j8wQC/IXppkDlcVMrA5c/QGpm1xVVVKx5/upaEmj+yZoagWBcJE/m3Tj2LI7ezvcvJFvJjBW65R3xzrbDcilDrEpyN1X5QVA6+xusA==;fjydMcTFKo0VbD98zouXEw=="
 ---
 

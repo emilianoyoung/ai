@@ -48,19 +48,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
-  - title: "AWS will call the signals for the NFL’s data-driven player safety initiative"
-    excerpt: "We actually spent two years talking with tech companies, exploring what was out there, before we came to this AWS partnership.” To examine how a mass of data being gathered from the football field translates into the way players perform, train, or become injured, the NFL will apply Amazon’s artificial-intelligence, machine-learning ..."
-    publishedDateTime: 2019-12-07T02:20:00Z
-    sourceUrl: https://siliconangle.com/2019/12/06/aws-will-call-the-signals-for-nfls-data-driven-player-safety-initiative-reinvent/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.E0E2619F9DD01FA4AF21343804D6B2F5
-        width: 700
-        height: 466
 
 secured: "7a9C7IbgKBJpjgBM0Sb82T827oYnp58yYOQKPD5QUL9S20MIKNIX1GhLhoMHO8lbanuuk4SqRPbuXL3mFMehjHopsUnhjdCL9mZ+B3HVvT8hvQ0Hmd+stiU9K8LKNcmF5mntS1tBEOaAmy/xqRruzCZH7Gzb9YqPiz8badTDmXLKqO/Oi8PXMl1CiuURsxf/EVfcYpssVpVNCpaDkrv53c9aNF8G03SlEd591OX7Altbs58l8MHvM5ugDO26ecj2SRAReausHttlyZabGDbYyQ==;hv/clOHORz4JXvxevQAdFg=="
 ---

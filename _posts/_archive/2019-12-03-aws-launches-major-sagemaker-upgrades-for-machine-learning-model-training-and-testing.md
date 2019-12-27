@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -67,20 +67,7 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
         width: 932
         height: 377
-  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
-    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
-    publishedDateTime: 2019-12-03T20:32:00Z
-    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
 
-secured: "22CVTcvC0emF8IoGEP2CIF8UkxxxbTiyVQEkxajJtkYGJJ8YrW9+P2k3g1nTzPmqJeIRQlQ1nWDIep0tTFh4lXhjD6Ry1hrDv/MZ51f9F2M4z25f3SF4TEzvBLc+Wm2+8ttYeecYxwF90JVpuW0N44FHwdyVGo2Ih8gEjcFiKiDP8pcSaNYU+zxFYuU1AHjtn3duR3PW4DmQbFbiKCK4gg6w/BlVwqEaSNqneqf1kCD4RPpadyE5L2+Q/y8ZAIjMtcqR+uVhBBf7ajGMJgLqIQ==;6RxCfyAPrDyurXyml4JwBg=="
+secured: "JNZzCwh9MiN3kpJtMhQA75sftiqRNGbRYJOOSaeK0QgvfzhqUQd1HZaUVfw1EpFJqCIlBG7C6whRrj+3aR9gzlRoWoIvArrU88WaqCpNKK59iVjLZ/NNg1knIYg9RhDpoIIeMoR6xKD34IHd6tgR9TFHti4C6t5hKmm2hxwhNwLb1DM7KcYgRWdqJhwtsd0E2NnzGzOOd42CdYb18V8leupfmVq9C6t2KDcHabxtgGq16Yw6EimxS9VzmGcizWqgEJNsuFUqaFaCbL28Y3hgmQ==;nBblJUJvkS8+lCwYh88kwg=="
 ---
 

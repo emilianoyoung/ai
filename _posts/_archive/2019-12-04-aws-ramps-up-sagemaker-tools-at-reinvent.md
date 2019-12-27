@@ -40,7 +40,7 @@ related:
         width: 700
         height: 418
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -64,7 +64,7 @@ related:
       domain: infoworld.com
     quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -107,6 +107,6 @@ related:
         width: 700
         height: 466
 
-secured: "ppUnPEhmwFfKS43UbD+ZfQLYJxTc1/YI+NPRdLQHS+yPy4bOK2z0pxi0AwMMumbLuC6WuBN3VQOvzTxg+JrwXF1R8taF6YFpbvYDI0aj7lTDilu+98drPRP4vG/du+3emUr92tu2dY/GsDt9ORbTmxByLr9v/W4I+EU+joLtg06Sc09VObSAvMHk+7y8pV8RglYfiKhAPbP92UOl7W1YWtVUrYJUXJIc31JxLuQodMtoy3noI1ifRCRD6jPqrYV+X0SBlCbaeuJYWUHMIMsrgg==;etG/K3/8hlpMjHCp4TMAXg=="
+secured: "jyjCFmpSE3BFc6yK9L9Wfm2+siHsf01h+th7kQ8dcg2hnHozjKg7xGYajGj85MclKMJsr2s2LR8duEd90ABAJSJ4yIMBzJQveRrPybkt4e11mt5wrdYACU/M2+TqX9nTyy+bMSOKaTQOsdd0kWpY7Q7pSC95xjBd1hq/9T14OXSvb7Zk0sucum5W/PV9c27mrcRVy13Tw/PWgVe8+Lw/b9zQjYsPdW/Gss2VdTZdNC+6OgeC3z56Rsgv+eavjQWzHKn7QsRLwr4lKO/W6Fbx9A==;tyW10x2lGIYgjcADVxau4A=="
 ---
 

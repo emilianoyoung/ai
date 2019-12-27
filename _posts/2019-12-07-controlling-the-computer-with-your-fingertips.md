@@ -26,19 +26,21 @@ images:
     title: "Controlling the computer with your fingertips?"
 
 related:
-  - title: "Computer Vision on the Web with TrackingJS"
-    excerpt: "Tracking.js is a JavaScript framework built to enable developers to embed computer-vision and object-detection features into their web applications effortlessly without the need of a whole lot of coding or complex algorithms. Tracking.js is relatively simple and easy to use that is in many ways similar to JQuery. It provides tracker ..."
-    publishedDateTime: 2019-12-13T18:21:00Z
-    sourceUrl: https://medium.com/@Alibaba_Cloud/computer-vision-on-the-web-with-trackingjs-51faa6c55fda
+  - title: "Zenia is using computer vision to build an AI-driven fitness trainer"
+    excerpt: "Zenia recently entered the fray with a mobile app that leverages machine learning, computer vision, and motion tracking with the promise of helping improve your yoga poses. The company calls it “the world’s first AI-powered yoga assistant,” and plans ..."
+    publishedDateTime: 2019-12-06T15:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/
+    ampUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.810363E95144543A8AF8DCA5A0750EB4
-        width: 534
-        height: 368
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/rCLu7EPIt1g-1.jpg?fit=1680%2C840&amp;strip=all
+        width: 1680
+        height: 840
 
 secured: "A8On+2WRpRZN9YeuSWKRvMcEOmy0cueG0QrQb8r6068EHvaA+WuhDQtj3Mb3VkNXbh2te9b/mOZqAB4er9id+2Vml7WiJ6EqU8eB4P4YqlgCrCKVwgZ1/M+4Uch8bm8TFzQQKhW7O3OEkkWHqUoxA8BjmpASSAPpUpCtAzLbBWTua7e5jhxkQ7dwU/NMTJjfXuQy4yoNhwjExVbnDvRSsDelX1yrDgEr2RCnlRYeElQVxgf5LtYKNUDSFyNYJ8144G7IRGRyoBGeD0bFQuD9dg==;NBcBH38wfkPvgRnaN7HVxg=="
 ---

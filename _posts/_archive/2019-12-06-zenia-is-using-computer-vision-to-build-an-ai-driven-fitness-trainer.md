@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Zenia is using computer vision to build an AI-driven fitness trainer"
-excerpt: "Against this backdrop, Zenia has entered the fray with a mobile app that leverages machine learning, computer vision, and motion tracking with the promise of helping improve your yoga poses. Zenia calls it “the world’s first AI-powered yoga assistant,” and in the future the company could expand its technology to cover all areas of health ..."
-publishedDateTime: 2019-12-06T15:13:00Z
+excerpt: "Zenia recently entered the fray with a mobile app that leverages machine learning, computer vision, and motion tracking with the promise of helping improve your yoga poses. The company calls it “the world’s first AI-powered yoga assistant,” and plans ..."
+publishedDateTime: 2019-12-06T15:16:00Z
 sourceUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/
 ampUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
@@ -24,9 +24,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.0A2390B64CBDB8CF156CCAB6D197288C
-    width: 700
-    height: 350
+  - url: https://venturebeat.com/wp-content/uploads/2019/12/rCLu7EPIt1g-1.jpg?fit=1680%2C840&amp;strip=all
+    width: 1680
+    height: 840
     title: "Zenia is using computer vision to build an AI-driven fitness trainer"
 
 related:
@@ -46,6 +46,6 @@ related:
         width: 700
         height: 346
 
-secured: "BNMG44Fwy6uTCyHGKUkqKtpwRthCIR8nUEKoeJBlrbwdlt/69u9hN1OVGgwCmYz9n5JNoYQ8U8vgHNed0vibqCky2CmimP2jcnIY0zgglBc7ot0zioIpua/dxRCwLiDgc5ntbcgDeJ5TF1cWP2Z5JKC2CE0EMbkG2OZeip0LrRbulp48Z0JhM2HYxesOX5mr4y3I6gEwenOFI0P8W3ha63czQDcuaExNO2HY6q9IxmJKFNcKLGThkX0GP9gfqX+lPUu8K8biziXQOiAKTzc7vA==;LBQDUf9EDcg+nWr/r5ENJA=="
+secured: "FvO58BTvHD44JEJC1de6Pmk3K5Gf1g/Gkh2JEGCAMofNn6Ogc2ZKT5Jo+mJ302vMVAJG6s1eMnCGg1nGL4Us92TIC0768THWEY+A5PhyYZtY4ZhB/tLW3M7Sea4LOx+kASqkBEC5k21F5MC9wBDxNVcgxtD92g62sbLKUUbJCmInWqftef8xIuAj+iWy1jrtX+vyslVWZgDVTDwpL0gx6sz/pGxBUF1nKeJzaRATjturzmHIa+dKgX/Tq8Xbtl1AB9FPaxiMmSQ7FKRMGJuryA==;Q9B0lmlpYULQcFqwOTtfBA=="
 ---
 

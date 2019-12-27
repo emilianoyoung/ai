@@ -56,19 +56,6 @@ related:
       - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
         width: 457
         height: 274
-  - title: "Self-Driving Electric Bus Heralds 'Exciting Times' for Tasmania, Says Hobart Mayor"
-    excerpt: "Tasmania’s first self-driving electric bus was introduced in Hobart on December 6 as part of a cross-agency initiative to “will explore the future of new forms of public transport,” according to a statement from the city. Lord Mayor Anna Reynolds ..."
-    publishedDateTime: 2019-12-07T02:05:00Z
-    sourceUrl: https://www.dailytelegraph.com.au/news/national/self-driving-electric-bus-heralds-exciting-times-for-tasmania-says-hobart-mayor/video/31e3d8515beab9d08ecb575acf94f0d4
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: dailytelegraph.com.au
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.9A4238C646AFEF238AE961B488EE084A
-        width: 700
-        height: 394
 
 secured: "u7N3mEQBiyIhNHslDH9DVaR5cCRhnrzTC3vr29x+l2eXVQU9X/KwBKlt0Xa1e5i12RB7ptoF+iSIbMM7eAztpCKvffU85moNNO/ZapHd239q4igLH5/Fstk9WvfKtUpWBZv9Go4CMHXQH/ngy33Pp35ZYJeh2JtkF1/Vmm/tFRkZUMyQIDJYYKAIYvBah/PY/VCmaPAgqpDkT+DwInWmUZ78bDsc4x6JdvY8qVPdHcM+4BLQ1j6BYKjA/N5gLPTrG8OPMROpOgQZPjNHBre6zA==;qfk0lrm+6ojwfcUq5+d7IQ=="
 ---

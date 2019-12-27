@@ -583,6 +583,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "ysgS75LsTZC6TfZYxJkncEiq+I5TxQvvs5K080in9RgZqfUDX2w4AVJyVgBhuNaspAVf0f3xnX7bIn+jYwoc7x8p1BAWemvUOFpJc1tHrNmBcUNSotahFrLD+j0nSqBdGrrUGtsqD31+rV85GV0aQk4EeV6Kq6e1t+0XElDKLHv/Bai56hh3YtNk291E4qgiaqrRSpazNh8gJOiZcBArw6recK6QIPANt5a29QvuUSpSBhGt7ukynuV9Y6wf6frqIPkLpEBzOlQD+j9M3Nbzrw==;2gqQ3hPPAQRif8m7d2QZMA=="
+secured: "HNnlTDq1fS25BeazJmaO5wcOPj/CdFC21nMNHdz2BqrjDd6alGxHwGr8KT3oQUmAlCyJOTIs77ZRrXNv1svbZ1oCUleQMJCJOtxcswZQiZ8rouH1UtSiVDIp1p+yA7deH2ZvXoIYtXWC4ZGSfejRPqKciwjxQVgVDesYcUGzowmKtuIbp14QLMr84xdjEhLFb0ME2DKPftyHrW+SoKAKajXousF6m/vg/Sfq18Aee9fdpLhtvy/JhggwIDclSnmyYQNQ5qIOGJqRfAfM8bHL7Q==;EK0sWeCTSVky0+ojhD1pbg=="
 ---
 
