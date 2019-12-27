@@ -2,22 +2,16 @@
 category: news
 title: "Facebook taught an AI the 'theory of mind'"
 excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-publishedDateTime: 2019-12-06T16:00:00Z
-sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+publishedDateTime: 2019-12-06T18:42:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/facebook-taught-an-ai-the-theory-of-mind/ar-BBXS7kA
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -45,20 +39,7 @@ related:
       - url: https://media.wired.com/photos/5ddee7ec400f470009e774f9/master/pass/QA%20with%20Jerome%20Pesenti.jpg
         width: 1920
         height: 1080
-  - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-07T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-06-facebook-taught-an-ai-the-theory-of-mind.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9F085686C69B24B42130AA2403C8F642
-        width: 700
-        height: 466
 
-secured: "rWjqwMu6qWlK9cqSJ7TIQYdmmWNGgQe2v8scfhtl7AbiBe0bKvQVWPYQ+Y7Nujrny288tcfFha0EXTjexegMCeZKpPucVbrBrqZXFG/fjpn+ZVtKYHGFeIgYhEuqnZJFgvyw3BZjeQsVt6K2Zc4JRPsSY/v9Iqw65Kp3clkpc5m3RPtlRv/rYSqRG3gqSMvgFPJX6Wr7lfo50RTY4ZVhyH8sN4sKTgZt3/FVmaudKCrlK99JqpncDhNH+KAgI0rWzqNefpvtT23kQ8ELYC5Iaw==;EDRde9amuMlljVhRX3pqoA=="
+secured: "XbehevnlRYBQ+mEDNyQjl+lSnDB8PfZN2MFi9OHVt6IvLJd9q5IxxsZ5SaDeb5x2R0Fa/61jpyPnkkVqAyJ+XFu+AAmuLhO/HpOqq3Qy3R+AO0ggRIUQZqRiMIqf39HQfu2bERG5qv3CVbbGg8IVeCUe1/OBajAJY326n3EYlXpeKBnSPQ6SwB/ChHIfzSpeXnwgUUnQyd6dSA3c877jSJKCk8Qts9Mq2U7JmVFaJHtSf1g/IRsRMBR5dLfnXXBMuWHKItFqHJ078L1VmGSRzA==;lolTaJG0bwH1LdnYWhWQLg=="
 ---
 

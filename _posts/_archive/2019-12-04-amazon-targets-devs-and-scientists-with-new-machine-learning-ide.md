@@ -45,17 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
         width: 700
         height: 418
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -69,6 +58,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
+    publishedDateTime: 2019-12-05T11:04:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -97,7 +97,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
+  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
+    publishedDateTime: 2019-12-03T18:09:00Z
+    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+    type: article
+    provider:
+      name: Yahoo News
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
+        width: 1280
+        height: 960
 
-secured: "zQs9zU60rT9YN+Vd1eUjql7bpU3MEYtWEEfIuQJLVN3Tv3C1hJ8700bIoz1G22GLtHaMlLe/IzGyRryGoijes6vk49zT59EkMCP4V2p1m5ehTeh5gEyeIXkO8DJk00H/ZJuvnLmaMgVDhwY8Zpc2ZYqniduaUTRW+oP+5G/+mtahTZNUVRkrBcTjcHif8Zip3645fMTSXuNQa1NA0ZIZ1WVS3lH1TFgtlvl339F3nrIwhWOdxVK/tKigWq8M+r0KqMzcYuloDbFRuVdQK2uh9A==;TJFNEWbVhe9gdHBfZPvYzA=="
+secured: "berQgg8mOipIqbsfQlkqnmMl9L/lb0Ft7UFpVy4Z+Ye/Z7OrAPcMPkqIt6BTSRpkRVFtg3INrCMX43yQZ6pwJ4TJzy7Yw+Lb64dzb66M1GB9HMOEzN/UUPRAsInLMnifFfBaPTavfBnhS29zxyXUvWfq9iuLCHd33L5qQQlL3L7pRuZkjGTKQNk2Uw5HEBgNIeIjycsLbF7Mm0xnNL9ujCIDVxjLE2lOLfXBVy5Ch3inKBBkfTwYM2Pcyj/N/nVJ/vbAIY6UfbKKN8XDC0ivQA==;oWcSy+RLOt8gUfhdbfqOjQ=="
 ---
 

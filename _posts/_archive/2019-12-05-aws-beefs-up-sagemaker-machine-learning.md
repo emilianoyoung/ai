@@ -2,12 +2,12 @@
 category: news
 title: "AWS beefs up SageMaker machine learning"
 excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-publishedDateTime: 2019-12-05T11:27:00Z
+publishedDateTime: 2019-12-05T11:04:00Z
 sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -96,7 +95,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
+  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
+    publishedDateTime: 2019-12-03T18:09:00Z
+    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+    type: article
+    provider:
+      name: Yahoo News
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
+        width: 1280
+        height: 960
 
-secured: "/d2gMyPQR4J/YD+V5LRShjA9f1abulOOVY9315gPkroB1klrYjD+X7KXrBwfKcZJpXL90ih2cFoVGI73CJtuTWk9+6uySZIEnUoYIECrtCvgrFc34cTr5HvuXUypvF1JKPzZxHPIKGzueukp91+Gc3bqmBF5ZNlBI16sQxC0YVRwRFCNeZgJ+g20/3I/fVc0frqBaUy1wsHCd4hgejOacGaN735Z5+eKEntVrOuNL3qFit9d52t9dYkjdqKdiuTzsErNTMsBQYzUL0upoIHyfA==;8Cgrb1XQ0LhTzrKicF22ig=="
+secured: "Qi1TS7ZcVQ4x5shmktcvgZ0dOEbA8OpwTEJxJPO26/P/lQ8yAsHptwEX8WskWi6G+D6tnyXFeRitlGA4cbNKBWK8C3iSSWorlPQ9KferUQSIDZUmGQ2Yij/YZPiShChVSVCiAvlPi91VtJ/t6ab+Y6XsHhg9UHAoyBN0Xewb9yimOaGDsYLdQneZVYS9gC866yLbS5/C2DlX5+7myXAJzSpE47PZYiegFWzDgmFlRx5TTyhGSbSNubVica0UsS3/MiySGJnq8fzDu3g5oGWeyg==;KH5lUXaSSJkTBDin6iLg5Q=="
 ---
 

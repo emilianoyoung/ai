@@ -8,7 +8,7 @@ ampUrl: https://phys.org/news/2019-12-machine-gene.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-machine-gene.amp
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -39,6 +39,21 @@ related:
     quality: 51
     images:
       - url: https://www.bing.com/th?id=ON.7A6978C66543706B6D93E244A24D2DFB
+        width: 400
+        height: 267
+  - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
+    excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-appears-top-200000716.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.5ACD95BA4FE994C0894DA8FD4F6D1492
         width: 400
         height: 267
 

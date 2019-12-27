@@ -26,7 +26,7 @@ topics:
 
 related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
     publishedDateTime: 2019-12-04T00:20:00Z
     sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
@@ -39,15 +39,19 @@ related:
         width: 700
         height: 525
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    publishedDateTime: 2019-12-03T19:12:00Z
+    sourceUrl: https://news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 19
+      name: Yahoo News
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/bf34_9zA1x9udKMfeGt0sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
+        width: 1280
+        height: 960
 
-secured: "ekK6IVDcKqmZzgz9WuNHn2OmCQ9NFP84/hrMXE/kGlV3hi/+x59sPEAbWaM93RjLGHaxjxQ/JOGTKhfU5Mdop93HmM1BhpbRTAezEk+6Dgtbad4PFUbTN6ujZ26en0NXfg8Yw0WcHUr+CKPuZbUzaUTkA+pIN81xH8WGefEEqlZh+eer45kU38sQyTQNlSqw9c+xgy7eLTDMVmAtXdos+Ou4KjBEi8ZqhitTkWCb1CJlqwSM+wgPXJCTCeVnP4OHquJPOEe45KLppt9L4Oxxag==;0ZupSZutmgE8reUDayAbkQ=="
+secured: "NlWhmi4Zr7fFE+MTFME4SPPhfKd9lV9hj9vw0YA628jfqK/Y7jhqY1OGbF5H2jsCQY93iMMlQzL/Mo/gUWc4mIc9vXoVqNliZGUgYCDKCIQLTnEQhbla2+sI7BVwVq1TD0CWV5xAAjPF43en8Tkr5eqPUlDASyOjzCOlDExr7q8DzMR9U21HHotldZgfEnvCdpp5fmNzt6D8QudhWLedUg3Ini1XUVSt9DM91RJDzRzm+vESt/lUxF9NjUjCCGLg0f+d+85y0iS/dktilyFeoQ==;rdsRRHvk37ziPbAK7WKWTw=="
 ---
 

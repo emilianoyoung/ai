@@ -39,17 +39,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
-    publishedDateTime: 2019-12-03T18:11:00Z
-    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -77,6 +66,6 @@ related:
         width: 648
         height: 420
 
-secured: "FLy3brvz2MPlMU5j56pmt/hWXO7+0KdkLcjQ2RC77QV7FsUiwAU6/ooxoSE772MJnjkZYKblm46Q5Dz65avU/vV7pLwUskNTmJNnQs5bX3QUdOcqguzBUxIDSaqFjuMt1akelwtv+dI/5Ja27vCjk9ge9wJlfnzJfDrf9KbEqV4oC+ak4rkw5Kh4LhJ59dSqJCrE6lDxiUgaUvQwUIO7e4oHQoqOji4U76BeqE6YDdFIjlD+Lzxti29RFA4QQrENSWMrnCaDDp8axzzpOhaPoA==;IesQ95fu2hT+7rHqfFIyMw=="
+secured: "nvISjNm5uy9mkqWs2zLYELv+avO4KjwI8usqUuChk3gY+sg5dueWqhNhk/Fcl1aSNpxTJRHnMhOSCqvU3vQx2zIs2/lraS/ty3cuzoEMpcmvyTdnKAijhQy3DA3V7toIBO8lR5dFJLlTLff1lZShSEvNBHd0+eRH/n6kqIktwp8xJ0vqyVyUaDTkF2BfU7CNa3s/Igw1uPHRWdOYizdrn/S4HOoWNx2gOMmzfXTGz3YcRNVuKx33i/K10Mai66e3yl5augwzFuK/ZW71VMmKxg==;KHIcGit9qDWFVmEAgKWukw=="
 ---
 

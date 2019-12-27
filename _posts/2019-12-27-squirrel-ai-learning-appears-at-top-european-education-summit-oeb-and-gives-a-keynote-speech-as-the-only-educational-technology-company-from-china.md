@@ -2,29 +2,25 @@
 category: news
 title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
 excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
-publishedDateTime: 2019-12-26T19:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
-ampUrl: https://markets.businessinsider.com/amp/news/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
+publishedDateTime: 2019-12-27T00:03:00Z
+sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-appears-top-200000716.html
+ampUrl: https://finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
 type: article
-quality: 51
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.7A6978C66543706B6D93E244A24D2DFB
+  - url: https://www.bing.com/th?id=ON.5ACD95BA4FE994C0894DA8FD4F6D1492
     width: 400
     height: 267
     title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
@@ -47,20 +43,20 @@ related:
         height: 393
   - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
     excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
-    publishedDateTime: 2019-12-27T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-appears-top-200000716.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+    publishedDateTime: 2019-12-26T19:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
+    ampUrl: https://markets.businessinsider.com/amp/news/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/squirrel-ai-learning-appears-at-top-european-education-summit-oeb-and-gives-a-keynote-speech-as-the-only-educational-technology-company-from-china-1028785268
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 21
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.5ACD95BA4FE994C0894DA8FD4F6D1492
+      - url: https://www.bing.com/th?id=ON.7A6978C66543706B6D93E244A24D2DFB
         width: 400
         height: 267
 
-secured: "f5pva0bjNncv0D2mMnFQevydn06NCMoM5IqAqeL/AZlN32+MdSJZVomX9C9lMSrPW1V6Yj/3e2B+98HDIavPmXJYXocpwZ6bj7ZwHaLinAIoCWJ02lGl6MbL3lutCiFlrur/IgTkI/7yA6qGV4zildcoL+yyce1+BIWgYvcMnz8P5VmwcU+uS0Al6vbxKFNBvlgBVf29Ho8R79NaJ/p5djZUXeVjMjzJBcQIS1ZBdKE8UIfhWmIoY+UDSy0iPNybkl9ulBx1Gyl3xV0WMvYyjQ==;fOn+tkT5T+ladu1pbkZITw=="
+secured: "4UkIuOe5sF+wR0E1/CAXZWLulGQvJqlNg5QeMMLMZTT6bX8JENnz5UfUgJCRyza2zmaYg3+yFnyZlZ/1QUuV9CxAz9ktdN1xdiAYiIrAgoHnV4VFrHQalAD7EryxwPC7eYJTJNbNncdGqvPMTM1hg2pHosDpsyzQRAiiMWSyvYl77ZT2k5I5rhfbf+XYUusCl9EcRUNmwDnwJb2p2EaMM/k1Zi4CgwZAE2HXHzmXDwi0YyXDfDEXyU7MCIairfrjia5VOg0ocgN9PeaPyTmY2w==;W88tRXYkQEenWrfsUEm/qg=="
 ---
 

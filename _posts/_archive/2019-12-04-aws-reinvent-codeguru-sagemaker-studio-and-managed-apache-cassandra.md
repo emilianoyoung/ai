@@ -45,7 +45,7 @@ related:
         height: 418
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and optimization to monitoring the performance of models in production. Launched at the Amazon’s re ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
+    publishedDateTime: 2019-12-05T11:04:00Z
     sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
     ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 86
+    quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -97,7 +97,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
+  - title: "AWS launches Sagemaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDO for building and training machine learning workflows. It includes everything a data scientist would need to get started with, including ways to ..."
+    publishedDateTime: 2019-12-03T18:09:00Z
+    sourceUrl: https://news.yahoo.com/aws-launches-sagemaker-studio-based-180924588.html
+    type: article
+    provider:
+      name: Yahoo News
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/0sXyCuwFRdaL9Jf0.aB0Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/zkQAqeL2wkOCDHBbKjSbmw--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/46f64c9b3016bfc149eaf1d8bf61f0c2
+        width: 1280
+        height: 960
 
-secured: "MEDnyCfAyNeTX/FtAEyrQVbPvlUKHm/qbQlj4jWMltR0VeX2Lqt+lpuUAW46QgYJTjUEF+TzXDYv0LjGEUCozmWi9tg/Y1i+LjagIMiXOjmk1arRnjRF3j4Xm9VM8he7tR8FN6LHrKoMNEc4dF4Ji2li1xpGs76RBjJ5UmyF+PYDYcj7PIQ6evyNfQeettYTy+wwB7RME509bqFfSxPOU/u3JWZpYStx7HzFFiJXf3uk8178/YXurECXmbG/bsoG6YMQN8N8J3K+p8qmXr52dw==;VnWGmClHNk3Jf4iCcCyIvQ=="
+secured: "sF2RiIcakQVoIPN2N8WhRlWSVKcakz/XQD0h8hbFntidfrGZ32itk8vGTLY0WmdrEWmMU3D+Gzl3ui5VziQUBf0sMGu84Dwgya1v9ptZvQWY8hDfj6X3mnCrXNlvyRW7oeb81ZrGcuq+8dpv/m3J+u/qd5vA2LBPiBVKP8nKc+JszGJEw2ezkepCavEHaWICFv4S7NWWOMuVfRiXtPRA9EcbZv4l3i5LbX/eZEc63WvCKgA1DGleH6XZ4z0IEs5lH6terYuFD+mVzEjJFM9Jfw==;eFA62O2IzYgib+66WKxpYw=="
 ---
 

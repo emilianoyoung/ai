@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for your business, you you have no idea how it was built. The idea behind AutoPilot is to give ..."
 publishedDateTime: 2019-12-04T00:20:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
@@ -15,8 +15,8 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - AWS AI
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
@@ -37,15 +37,19 @@ related:
       domain: techcrunch.com
     quality: 101
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    publishedDateTime: 2019-12-03T19:12:00Z
+    sourceUrl: https://news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
     type: article
     provider:
-      name: MSN
-      domain: msn.com
-    quality: 19
+      name: Yahoo News
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/bf34_9zA1x9udKMfeGt0sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
+        width: 1280
+        height: 960
 
-secured: "9e1upWmNWJEI0b9iO6AslSb8Z2Z0kxkFJBKFLV4FNWZPmYnX8b+rQ411XcejmnDSVbd/ii8KuOYYjHY0vQRHax853wSafuiVEm32Ysz6XN0P0hrFWqF188rteDKQ0Lqb2WQABiFT55BpYRd8Eqv2r4AN5ZkEbkHIM9ds0srOohIKNHTqARRSG1cpsFT+xMJz+7SHXqQZ0Zb0iFAk59+e0cHjBMYw9cM2j2D27t9A1eDfJeTHADCSc0j+xfO6ZiWViVjC7ufDyEJhVc5ufexjwg==;YljvKMhpmbIqxFYgyPf0cQ=="
+secured: "EHKXLlNnoylmADDNI/zt2KSHNiGeG+MiJHKGzjFIvu/q4W0el+IP5cY5jVVhPihDKpJ+6821Sjc/LdvToRJFfzZzJH3awvvr3o0pmkcRq7SkCLedL/wxAqfHGnkwhL8XAm/6TAn5KFuJ5BVSSLp9mGcq8Ae5zKu7hoPbs1ZVmAjWuF9e8VQjjrORiJVqs09319OMnytm72nTxtTmcZ8J8ChfkNRqJJelIppso6II4zFoxXeWKkehQm73/Kzd/1VeIgLyjZQ3OAZUXzmcDM+aAQ==;C5tEnTYLz1qL7IP7b6GOiw=="
 ---
 

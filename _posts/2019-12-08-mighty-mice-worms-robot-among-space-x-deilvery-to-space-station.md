@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CA9909A8BEDDEE3E166F91F014E3BAEC
         width: 700
         height: 366
-  - title: "Friendly floating robot CIMON-2 headed for International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the ..."
-    publishedDateTime: 2019-12-06T23:40:00Z
-    sourceUrl: https://www.wthitv.com/content/national/565901882.html
-    ampUrl: http://www.wthitv.com/templates/AMP?contentID=565901882
-    cdnAmpUrl: https://www-wthitv-com.cdn.ampproject.org/c/www.wthitv.com/templates/AMP?contentID=565901882
-    type: article
-    provider:
-      name: WTHI-TV
-      domain: wthitv.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A4D4901B802B88850A66AB3916A77AE3
-        width: 576
-        height: 324
   - title: "SpaceX delivers 'mighty mice,' worms and robot to space station"
     excerpt: "Plus there is a large, round robot head with artificial intelligence and Christmas presents. Barley seeds used to brew beer also were inside the Dragon capsule and delivered. According to the South Florida Sun-Sentinel, Anheuser-Busch wants to learn how to brew beer in space so it can -- one day -- do so on Mars' surface."
     publishedDateTime: 2019-12-08T12:46:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -32,33 +32,18 @@ images:
 related:
   - title: "Facebook taught an AI the 'theory of mind'"
     excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-06T16:00:00Z
-    sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
+    publishedDateTime: 2019-12-06T18:42:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/facebook-taught-an-ai-the-theory-of-mind/ar-BBXS7kA
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
         width: 700
         height: 367
-  - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-07T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-06-facebook-taught-an-ai-the-theory-of-mind.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9F085686C69B24B42130AA2403C8F642
-        width: 700
-        height: 466
 
-secured: "gVHat3L+78wHT0+R8DePpz5F5xIhv8Okec0oo7Q+0mnNW6Za4y0O2zFgJYuKAZfkpjPWYRhsfP8KZkSAD27nTZHghPZbntXzSl3W+azxUQuIsHXFuXk1ukKuG1O9mgGBQ2cBXONcATcXyJukfh1ikSGDgIaxCKU60Jw7XgM3NbDX06iPI6fWQXn3ABuzLpsucxsmWeQz2R8M3Y1+t+rEvAlYcdAm/p3JeG984t+ubtVDFdmTGrw3VOFS5VreRwpztSWxCrto4ROUrj2QzamA6A==;7/U4In3MmiQ/qV2leURcjA=="
+secured: "oaEjTyCgkLyvqbcogWaQS3e6x5HrGN0FKPan2qa086sINWqyZJhi81FVFAclGOICg6jmcbmEYjEKRcOKZKzokBoaTzKbluXYgEM+NG8SEdE6EJH54F4yVcVen+cDzUnj4HAHPFJtEEBkorQiy+vWwRh4SgccDHV6FsoTY3s2cXc5RV2v71mJLhsjjpXWtxl7vDc+L/gbz6A4wm4OF5zZzp5Hrl3ucOOqEHqh2//NJnHU9ozbvhqsS980RKhWZV2Ss7tRR/DcNzMo4rksYP5n0g==;8o3YTA+RU8DESqA7v4eb8A=="
 ---
 

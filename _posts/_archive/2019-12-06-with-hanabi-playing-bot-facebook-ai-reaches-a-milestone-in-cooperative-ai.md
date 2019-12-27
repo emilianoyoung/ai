@@ -39,22 +39,7 @@ related:
       - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
         width: 756
         height: 567
-  - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
-    excerpt: "Facebook AI Research says it's created AI that achieves near-perfect results in the game Hanabi, something that may lead to AI better understanding humans. Read More"
-    publishedDateTime: 2019-12-07T00:00:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.8468630C813735984971B9AEE23CB605
-        width: 578
-        height: 289
 
-secured: "juY8PmlBGEV4K87xOGWfQmDJ4rTsBFm8Ac8PJAOtTSsIWY7RSKWA7FrxQSqqdniUtOZwnDGoAzgb/ypEeKdR4EcRaFhzLGRzOlluI1kEcMKXI6VW7NBBq0tFpqTudO4UgtQmPPPa/y1VJv5s0GEEjDMyS/LTRgttF45k4UMDBdnSvVEKV9smlKvMzdePAlCHqYAEPFaztiT4NcfJqyc+xktNecUZr1dSt5pEW/Vznn3smXBj0t39eHf916pE5B1t2C+xE11HP2EJmOUnjzW/MA==;ZKU4qHrVmLDbPu17gmybVA=="
+secured: "LrmyKjuV68BDpxXGZkPX5Ghfi89jHO6qjFBb3rNDDUqpsYCQ3gXUxgiJhINDUDgUHYSp6UTy3jBFyAxXAIfGUbjg6PrEcgSFBClwEzgGVXHgAfGBVppdNJU3jXdsUYA1HLv7fLM7G0O9kNX9Fd5xazbqPAP5sER1E4eE18lAqqBAJcp+WG/LngVolboX1i7izGvlY746glgLn3jHsMDQi4efbQDYbzVcpXdEKH/R1v3xBeba6kF1MNnsOhfeTY0SeibAup2Ppdff9vs7BEBfjg==;n63wZG02z5uHQkNd+dAfJw=="
 ---
 

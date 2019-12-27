@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-show
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Facebook's new card-playing bot shows AI can work with others"
 
 related:
-  - title: "Facebook’s Hanabi-playing AI achieves state-of-the-art results"
-    excerpt: "Facebook AI Research says it's created AI that achieves near-perfect results in the game Hanabi, something that may lead to AI better understanding humans. Read More"
-    publishedDateTime: 2019-12-07T00:00:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/facebook-hanabi-playing-ai-achieves-170029504.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.8468630C813735984971B9AEE23CB605
-        width: 578
-        height: 289
   - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
     excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
     publishedDateTime: 2019-12-06T17:09:00Z
@@ -59,6 +44,6 @@ related:
         width: 490
         height: 369
 
-secured: "cMyzvjNJ5AzZ8dyKQfMbCzfgVdG/zF4BEt2b/VlpMjtsOL00pcpIAlamQRDAgXeW8MZQ2yCFF3OW+sq2mbClTU6TrMBvzHcLqIodtj6JVPi43j/agXXv7ghWJjPkUXCeOpG3feuvCZzCSCWzqOr5yy6aeh33l91MAUsOQMtWZNnusU83NulIlzet+N8AFKNzm5I7avjikKmhwlqRA54OFhHimnM86YULIM6Fz0P+4sIs1dQa47/7mdijQ3O6eFKGORQ8dXJXX2y61onxeMHJRA==;KO+UJB53gnjBCOdUL/GVjg=="
+secured: "8tqKumxZG/UyEwCXIbx4JiaA4O2qRsaTmdgebosp0jat6ksjHRbk4jfDGaYKs7zrQUeGCNbCyRRu55nlEfroUTU7WsP0dYcE7Q/tI2vWZ7+Tb/j1sy3QPFFFW1T5Z657+8dbLHJIsifPfjGbia0ukX799DbiEj7es2Dumq4MfxPDVYeKczmz8uo+L0amh39eknCBGmlhmPIa48rrWcvIy+CXo2Y9H5l88jJuiDmP9smsomqVp04VSsKWVbYGQgadrEIU1jmkKTCf8HIHzb23FA==;a11SaMurQ4QTN4m+X/yvNQ=="
 ---
 
