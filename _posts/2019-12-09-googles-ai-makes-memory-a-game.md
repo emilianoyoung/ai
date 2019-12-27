@@ -28,7 +28,7 @@ images:
 
 related:
   - title: "Google DeepMind gamifies memory with its latest AI work"
-    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term ..."
+    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
     publishedDateTime: 2019-12-02T22:10:00Z
     sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
     ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
@@ -37,7 +37,24 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
+    quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
+        width: 700
+        height: 525
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
 
 secured: "jtX7rsgf+BJTW2gjVj91iYIf0yA3JRYbdMx9oFmA0vxoD7rvMdFnEhQ1WBOkI9fM173Y/ejpKllEKHcXfz4mHXql7370UX439iaYVMU0ihG7IC7W/uiN9TzMqmUiWR2kHmKhF5pL7sV1EvNNbsWARFHlGRYKa77BRUTCLioEbrArfLiYEu3UzgvHfhBTuGwlLazRMXBcPY6HT9w79buyRgULdTLZXppQbVunCdoW/UQ98eX1f8Wq1sU2tuN508vqzihYIpKFsv8xL9w9vlEm8Q==;vUJxY198jqQc2wkbHbWkag=="
 ---

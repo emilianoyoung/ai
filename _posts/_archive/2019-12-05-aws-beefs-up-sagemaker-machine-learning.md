@@ -53,7 +53,7 @@ related:
         width: 700
         height: 335
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -81,7 +81,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -109,6 +109,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "dAu3W7qHEcDgGBu5c+FqHXmSj1ghqXAtCDTFtlDoqY+XB80+OkLFeEGVPu7OHb5MsWrJMS/fp520vrwwI5UK5LK7PeKfp+1ajWDjOx9Dc4NPBlQ5VHt/53QG3QWHsQCCY3awfB8svrRHGdF4OVSHE8wdVHfnPsYTqoqzVIe0rzKr2jJ9wvCLE56aMPzlh7722cKv1l6bDTYt+XbGlDXdHa42we8ozQGWWxEQoEWekR7rNjHvNpka9Cx7Lau7r2t2SWlOPi6ZoTxPlCWfznCQuA==;QjVgDGmNYObhoQmFgsIM8Q=="
+secured: "pUZ+hRIh+L/dxLGhgvV/RMasPbN5MXseUPbAZUG2jYvBvPHQAflFtPa7K8i/wQ0ZOC6v2be1p/3Tt3MMOHzW7A+jD0q1tZUAL6D2NMS4Nduz7OXQN13DWDbzobZE902BZ/oEpH7RyTxUbasfaovQDTbH4cFKrjkjObv+QpvDBOmzLrJPQj2ga6oPgaDHZxSduHffoTaA9Ew8WTLzkyY23Tzg1dzxbbTc3lceVOwUKyyaL3l3GwNpQpKd73qJjr4LYSrIYQGhgkunZ6TWkjlQQg==;/gZ+LfjQIPdzpWsPraeZXw=="
 ---
 

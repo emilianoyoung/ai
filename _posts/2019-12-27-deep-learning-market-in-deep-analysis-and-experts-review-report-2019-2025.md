@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Vivo eyes AI-driven 5G devices for India market in 2020"
-excerpt: "enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per cent market share - its highest-ever -- in the third quarter (July-September period) this year."
-publishedDateTime: 2019-12-25T14:28:57Z
-sourceUrl: https://www.msn.com/en-in/news/other/vivo-eyes-ai-driven-5g-devices-for-india-market-in-2020/ar-BBYkgXw
+title: "Deep Learning Market In-deep Analysis And Experts Review Report 2019-2025"
+excerpt: "Dec 27, 2019 (Market Insight Reports via COMTEX) -- The report presents an in-depth assessment of the Deep Learning including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models, operator case studies, opportunities, future roadmap, value chain, ecosystem player profiles and ..."
+publishedDateTime: 2019-12-27T15:16:00Z
+sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-in-deep-analysis-and-experts-review-report-2019-2025-2019-12-27
 type: article
-quality: 37
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Zee Business on MSN.com
-  domain: msn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.3B27C049A1B4D1B4F546725F336605B9
-    width: 600
-    height: 315
-    title: "Vivo eyes AI-driven 5G devices for India market in 2020"
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Deep Learning Market In-deep Analysis And Experts Review Report 2019-2025"
 
 related:
   - title: "Machine Learning Market to Gain Impetus as Demand for Smarter Devices Rises"
@@ -58,19 +63,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market In-deep Analysis And Experts Review Report 2019-2025"
-    excerpt: "Dec 27, 2019 (Market Insight Reports via COMTEX) -- The report presents an in-depth assessment of the Deep Learning including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models, operator case studies, opportunities, future roadmap, value chain, ecosystem player profiles and ..."
-    publishedDateTime: 2019-12-27T15:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-in-deep-analysis-and-experts-review-report-2019-2025-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -155,6 +147,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Vivo eyes AI-driven 5G devices for India market in 2020"
+    excerpt: "enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per cent market share - its highest-ever -- in the third quarter (July-September period) this year."
+    publishedDateTime: 2019-12-25T14:28:57Z
+    sourceUrl: https://www.msn.com/en-in/news/other/vivo-eyes-ai-driven-5g-devices-for-india-market-in-2020/ar-BBYkgXw
+    type: article
+    provider:
+      name: Zee Business on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.3B27C049A1B4D1B4F546725F336605B9
+        width: 600
+        height: 315
   - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
     excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
     publishedDateTime: 2019-12-17T09:58:00Z
@@ -174,6 +179,6 @@ related:
       domain: arnnet.com.au
     quality: 6
 
-secured: "7g2JeJeANMmLtrh6Zxm+yvUUaR59caQVSU5wXA2CS8/oYmWVJiAxg81bNiUiYtUeqAOF4rn7vC516d21L2XmTfnTCb/+UemY6nYIYwBs2kh8NV0N+gwKaDCKgjc9u2xXIMlfFFGB837WdrN5rCNf5ulsILDY5Ytqp4eX0bPq4ICdczaw3ALvkSEFBR4vBAtZcKTF2v/kCCyiadTJyQsySXBB6ITUk9tv/oBBckDK01U4k0a9rEJ714miY7I483f+kWU6KRzDyswj139UsA99HA==;sueIMccHYZm5mE6WyJ66Rg=="
+secured: "KON8AE6+yAoob3GdvCV6rdoxRkKh6xBqMjp2jX/i8Y/Nx4v5ZKtudVlOY0U1PD6/pVN2oCoBxwvdXLuZ3QyT0shtfeqKmQmdljXGKxxZTBFmlbjYxkxFNY0flcvDihIsDYcyp3FVa3abYEeX7s/UEC1fFrLmr6jNou+pVOcnSMusvjzTD6lIdZNGNK/iSn5Ew4YyOBl8aDUgdeqBtmMR/rTX4JnY3Y6+SMlT/gP8duc0aPoThELHuginiItuvO+TjuaAaW05Wr9jfLxTI0kVyQ==;avCbQtXKnfGhzlfbiauuOQ=="
 ---
 

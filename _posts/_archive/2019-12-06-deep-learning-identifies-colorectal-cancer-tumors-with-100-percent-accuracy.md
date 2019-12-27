@@ -25,15 +25,21 @@ images:
 
 related:
   - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal ..."
-    publishedDateTime: 2019-12-02T19:54:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
+    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
+    publishedDateTime: 2019-12-03T12:41:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
+    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
+        width: 1920
+        height: 960
 
-secured: "df/3hORSlvpOb54XAkZSmyM7ZkSNw1FFk/PlFSOWeDKm2wWJEMqnikE0Ox3cF0/Nrj3+TJpJV7syyd2PUj73YrHOScbldhLwMn7mAoMZviixNRhBxRa3gfDNTeUfFb+yIg61jPOXRYmNOPmaP2DEqwmn6JzL8w0h3Cnb3lg4Z54c5WBlQofV2lmUSxCaSJXAYlu/2ocMD1LHLchBiqTlSfs9hffLK45Kc+4t1U2VeSHTCi/LLH0iq4M37YtNxgTF+sp2hXe519hbi00mJ1ACdQ==;Hly9+qpSIUxSYaJaIWZaPA=="
+secured: "1ylhyc5nSSHfaYTHctf2IWDSnkRwed9v9xh4ZEaTaHxFHBhjXLXtEPoORhYsIB9FItg7jUvV0+IcsO0dW5LIMQNW1sD1eLuabCy+aYAYPR9/1GZ6sH2Z7JXxC89Tcd6k4miuSksKv57y7DC/G7825GXzugkJIyY1Sry3LaXDIxa9nm+GYAps/rLVQaJohLXRGn7ANnA76ZOcfpAM02DSFxCjC/Oi4BYHIIWiFKNTLimfPpbEPpsOVU/Ee4ql5egvwe4udKvOLRR8AwoibhDLcw==;r16f002vI3LZISfJ0KRDLA=="
 ---
 

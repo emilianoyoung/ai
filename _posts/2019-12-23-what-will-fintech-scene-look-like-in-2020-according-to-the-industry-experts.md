@@ -132,6 +132,21 @@ related:
       - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
         width: 700
         height: 380
+  - title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
+    excerpt: "Meanwhile, FDA-approved innovations from Microsoft and others claim the ability of computer vision for assisting radiologists and pathologists in identifying tumors and abnormalities in the heart. While robotic primary care is a long way off, some view AI as a rival to more niche clinical positions. 2. Privacy and security will be more ..."
+    publishedDateTime: 2019-12-27T15:46:00Z
+    sourceUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/
+    ampUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
+    cdnAmpUrl: https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
+        width: 616
+        height: 372
   - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
     excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
     publishedDateTime: 2019-12-27T12:41:00Z

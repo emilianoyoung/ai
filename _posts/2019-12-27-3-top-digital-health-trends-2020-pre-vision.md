@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
-excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
-publishedDateTime: 2019-12-27T12:41:00Z
-sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
+title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
+excerpt: "Meanwhile, FDA-approved innovations from Microsoft and others claim the ability of computer vision for assisting radiologists and pathologists in identifying tumors and abnormalities in the heart. While robotic primary care is a long way off, some view AI as a rival to more niche clinical positions. 2. Privacy and security will be more ..."
+publishedDateTime: 2019-12-27T15:46:00Z
+sourceUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/
+ampUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
+cdnAmpUrl: https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
 type: article
-quality: 37
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Think Advisor
+  domain: thinkadvisor.com
 
 topics:
   - AI
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
-    width: 700
-    height: 350
-    title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
+  - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
+    width: 616
+    height: 372
+    title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
 
 related:
   - title: "Here are the top tech trends of 2020, according to top experts"
@@ -141,21 +140,19 @@ related:
       - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
         width: 700
         height: 380
-  - title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
-    excerpt: "Meanwhile, FDA-approved innovations from Microsoft and others claim the ability of computer vision for assisting radiologists and pathologists in identifying tumors and abnormalities in the heart. While robotic primary care is a long way off, some view AI as a rival to more niche clinical positions. 2. Privacy and security will be more ..."
-    publishedDateTime: 2019-12-27T15:46:00Z
-    sourceUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/
-    ampUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
-    cdnAmpUrl: https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
+  - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
+    excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
+    publishedDateTime: 2019-12-27T12:41:00Z
+    sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
     type: article
     provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
-        width: 616
-        height: 372
+      - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
+        width: 700
+        height: 350
   - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
     excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
     publishedDateTime: 2019-12-20T16:01:00Z
@@ -214,6 +211,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "MnQiyxZ3B1lRVc8ZBmM2/qLK4MVeMZQcqgEtYFBaxT/Tq1r1ryCueo10ByJOOco1q+RjDSUnYpIRvh2owonhDFgYkt7vhd35v6JM+uRi/HS2OltJh06/m9liGKDYk3ztfnzUlc9805CsvMO0qsgGoN/dMaM1LvVtsEbVIn4e1nglnZgi4EDkB3p+4foOrS/8nDHKLp0Q9cdSgOPht7fA6ivLQwqCz8tIGm1aNzLebYouq3M1h/Y6ecyxpUA79OIdYiaGmoAcbnWxaf2DgbEMAA==;8g0YmDveKCKKHhCimTw/MQ=="
+secured: "jRxeZzKg9gxkxd97wQjjW9g1HTA7h7x6ddGvm9oN8QIV5GbEhV/3Q02LLo0pwz+1ogOzBQ/zPn846PJkvjnlGIhDFDzNWt1Ix8VSpfn/Yd0+jEM6SSIr0Kk6fgSnwtn+4MxM47YlVljaz624O2zFQdUUVg4WtAjjweiJUse4K/Alcti10/w/GepvjNeeJliZKgzo96HQFrmbWNvzCbnwWRiuX0b6jLr4R0lxrhRGX69X2XiMtgbQm7ZKanrcDSFD2SUwDMLonMX7OSD4wsQ7RA==;ft2DKN8IrBLPr668K9ToTA=="
 ---
 

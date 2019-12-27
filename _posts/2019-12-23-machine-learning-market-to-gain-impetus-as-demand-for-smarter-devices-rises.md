@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T11:13:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
 type: article
 quality: 82
-heat: 192
+heat: 202
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Deep Learning Market In-deep Analysis And Experts Review Report 2019-2025"
+    excerpt: "Dec 27, 2019 (Market Insight Reports via COMTEX) -- The report presents an in-depth assessment of the Deep Learning including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models, operator case studies, opportunities, future roadmap, value chain, ecosystem player profiles and ..."
+    publishedDateTime: 2019-12-27T15:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-in-deep-analysis-and-experts-review-report-2019-2025-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

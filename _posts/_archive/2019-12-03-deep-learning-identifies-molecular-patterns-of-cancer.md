@@ -26,16 +26,20 @@ images:
     title: "Deep learning identifies molecular patterns of cancer"
 
 related:
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
-    publishedDateTime: 2019-12-02T19:47:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
+  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
+    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical ..."
+    publishedDateTime: 2019-12-06T03:55:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
+        width: 1200
+        height: 630
 
-secured: "jOQwEpp4u48hvVfT7CMMW3vexz1DPlmM6bHWNVhRoVe2tQK67qeK5O78JVzHDUP9PZ9WSVDkCsQQd9i3IT/2Xx4Bl0dM5oLQETcy7/lBsh/41C7yV+lh21a4CI+qHsvN3HZ72yWdsJRHM3JGC8Z5EaEP5xdJZDjwcemjyJum9MqpFNUVZ3L6Y9i0jSNQ/2i4E0uIsUzwddz3IL57tmbnfm8k+MoNFXVKJrH7NwMtQGYwePx5euVo9SV8ciKL9jfPQWtSoh4icnNU/JueGiAUew==;QdW2xljMQm18nTvlMCKXoA=="
+secured: "TiCbnZ4K0zFkq5X/Sw1iANdJ4hwljjPQISAoaMxd8Z41bor9IM+g6Kw65wzDiN+GYGbsH8DcrT9EhvsYLuZmVF+9tbSris/7X8z/B0qdM06pOdfTc+xEqRqj9i1rbQAYpFVJX4pTj/sj4P14i3+q7xPmGafCqayO9SGFb94jC3zPwnF/KHorXoGqobs1dyIGHpq3wtnFf3uw0ayxTTYH85YXHZGPVOWdIolC/M/OMz9sGQntk3JAiUYfyiXTPMCgV8RCHiBW0z52dNhnDckOEQ==;oYqnNVTHfyT8fo+ySvkO1g=="
 ---
 
