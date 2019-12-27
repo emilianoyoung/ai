@@ -1,23 +1,17 @@
 ---
 category: news
 title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
-excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
-publishedDateTime: 2019-12-27T12:05:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+excerpt: "China Renaissance's Huaxing Growth Capital Fund leads the financing round. AInnovation's strong abilities in AI commercialization are again recognized. BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million ..."
+publishedDateTime: 2019-12-27T13:32:00Z
+sourceUrl: https://finance.yahoo.com/news/ainnovation-raises-nearly-us-60-130500522.html
 type: article
-quality: 52
-heat: 62
-published: true
+quality: 2
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -38,7 +32,22 @@ related:
       - url: https://www.bing.com/th?id=ON.4A7343E9B0213CFB0FB8D663FA57DD46
         width: 700
         height: 525
+  - title: "India-based AI and Big Data Firm Quantiphi Raises $20 Million via Series A Round from Multiples Alternate Asset Management"
+    excerpt: "Quantiphi, a US and India-headquartered applied artificial intelligence (AI) and Big Data analytics services firm ... The company is reportedly a premier AI partner to Amazon (AWS), Google (GCP), Nvidia and TensorFlow. Quantiphi was Google Global Machine Learning (ML) Partner of the Year in 2017 and 2018. The company received an award for ..."
+    publishedDateTime: 2019-12-24T12:26:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2019/12/155617-india-based-ai-and-big-data-firm-quantiphi-raises-20-million-via-series-a-round-from-multiples-alternate-asset-management/
+    ampUrl: https://www.crowdfundinsider.com/2019/12/155617-india-based-ai-and-big-data-firm-quantiphi-raises-20-million-via-series-a-round-from-multiples-alternate-asset-management/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155617-india-based-ai-and-big-data-firm-quantiphi-raises-20-million-via-series-a-round-from-multiples-alternate-asset-management/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.DEEDF9E48605D7362A1C37E4F4A52CB4
+        width: 700
+        height: 525
 
-secured: "KptmpAaqA/Zr9++qoyGkRrc0Ha5r5O03xTPNvocgpBnXKZ8N6lSLK+X6zw98lzac0qDiwnWXuWzkAOLPY13cw67BBvCKaF40CREjxjQO9zviyVnpRlSqmXMjdGL2+g4+ud4UqyXy3khqiAPKbC+tHahZdS148gK+edmUpHGB3AviGtz9NzdKajGj7fLky/JpvkBCa+lQLlGQLdJzXNVbSYFiNJNwRpMRsyjpwkZ4yEAWUGYy7gQPMOjYH2S5+6loZ1wESm0MeK4+jHkhFIuxPQ==;EvnJyEnZ8GpJ7jyoW0NPQw=="
+secured: "e8NLe004qmKyynDfKrdfum1bTXZhYVgGNKj1rv1h8HyXOoZycVCjcze2Z+jeAoO8hh/AbyPn6tXj9lGO0liJnszgPFxXDHklco0yHbZComFtsiPa1Wu3rVYI7YHzqgn//Ob4M+AiLE9XslK0/OuW34BSLHKaZZXqfMNSdhy11y2urj+ztLCWtatot6Z3HZfzRVRTWFSRJzWmG2N7hfXEWZZb6HRThTYQCYaDFFL2A1g0egCJ/qd60yefL0eHSXMrU1EOQmyZLSvqkBLql3+INA==;0ui9IlTHk80BkbFc5lWNOQ=="
 ---
 

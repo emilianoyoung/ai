@@ -52,6 +52,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -114,6 +127,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "zMGZuzcAnLjktmbd9jThmhvrBYrox1f7K74cPAIsfA+qGEez8V+nY5nTpU1KbHaR9pEpTzDX8pJU7L0GRhkYo//ROdscz2tFPSgsi+KSJGNKxjWGnK6Ys5XgadQTaVlCp8ZkwBwgNCRaWqxudlputUsM4oFNGJElcuZ9xLR1dJothjZsMtbvDUMpP7A+HGt+U6f5iuOKegGiTf9+WaEzr2J7PsewSDkqgJd4nMOSOkCm32+msaRUiA/TgokDRG/GoQdYuIB1Rr2zAmGfH1W3yw==;zxg0xIF4O7UNrmRQATOO4g=="
+secured: "OgP74Hq09nR6389dYVMwNwCuI/DdeJ+P8HaakH5hYyOK1BoolgWZWwYkKUCpvuNVXv9jcdJCyaDSnZH2FQJhn4Aw5LGL5W+pTfOdj15JvxsErbiDd4BYX+mSEJYHQ8BDK5rEMGXl/vZwkrb/LzYpZkoxM/DXLXUBU9E04DZvSQ+Zlg4xLepbuHjd8JXUfW2YVmM7TKkCF1AFnCnezcw4EHhf1Z9tBCXyfx3+mjZkeKr9UTzzHXbB3TyAxOh+uMPbCv/DpN5yYqGdclPUUZnPug==;gO162OwdmfOOK2Vwab9Xug=="
 ---
 

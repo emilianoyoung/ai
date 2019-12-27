@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/tomtaulli/2019/12/20/ai-artificial-intellig
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2019/12/20/ai-artificial-intelligence--what-we-can-expect-in-the-new-year/amp/
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "AI (Artificial Intelligence): What We Can Expect In The New Year"
 
 related:
+  - title: "CCPA: What Does It Mean For AI (Artificial Intelligence)?"
+    excerpt: "It really hasn’t gotten much attention–but it should. The law is likely to have a far-reaching impact on the tech world, especially in categories like AI (Artificial Intelligence). So what is the CCPA? Actually, it is the most thorough privacy regulation in the US. It even goes beyond the requirements of the General Data Protection ..."
+    publishedDateTime: 2019-12-27T18:47:00Z
+    sourceUrl: https://www.forbes.com/sites/tomtaulli/2019/12/27/ccpa--what-does-it-mean-for-ai-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/tomtaulli/2019/12/27/ccpa--what-does-it-mean-for-ai-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2019/12/27/ccpa--what-does-it-mean-for-ai-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: https://www.bing.com/th?id=ON.4D118584CC2AADF6794F55247C27D847
+        width: 600
+        height: 315
   - title: "4 Trends of Artificial Intelligence (AI) to Expect in 2020"
     excerpt: "Over the last five years, India has seen an exceptional drive in the number of platforms, applications, and tools based on Artificial Intelligence technologies. In the beginning, AI was associated with the robots and now things have changed quite drastically over the last few years. Driven by the huge changes in the mechanism and capitalism ..."
     publishedDateTime: 2019-12-16T10:49:00Z

@@ -28,6 +28,6 @@ images:
     height: 315
     title: "Don’t Rush Into AI Strategy Too Quickly, Expert Advises"
 
-secured: "IgVtbIeKjfqkpGOC6DnA9zz1xI6MZh1cH5lznV7ezEd7B+BJa2xp+jwzWC5/Rbjeh3oWEl5GvZItC5eBydpMR/nPuFpeoEFaEDQki92zHykppJfR67kq66DMGzP9R3MKdqc4lQ4FmYxMMWtJ1Y32l5sEWEH1Vhpto/DRx4UMFlqzbite0zwBL9163Rk3nxUP3IjeDZ+Ahs7vfniQ1uafpEdwlA3kH3H9ziERxTitnCJw2RoQnLNOJs7/5bQBLkGROva3FjjngjfbL1jXhZismA==;87Vs+0wmbS4Cui7PZWpNOQ=="
+secured: "8yqPP1jwl69kwYK0jkw40yMG1fLXfWV2fPPWlEmQqTCGqweIuqxzMe/jjV4d8yYeaU+b+P83++tTZAPI2N/W5KQJOctKd+AxMDh3BrP1Tb4qE7j9P1oESGIkYowEAqb6MZpGsznmZT6huJAjOhtuQQRvDEc9kJNoF0uK4SN/MZ0EEn779kvt0dd+/0ZruoJ9gerZp66/woZUEpn0re0zjSZaN4a3vvi2bwpDRw/ja4diLK1aFua3utVG7m7v1u+c+0qXJxNCnAUxY/HE4g2ycw==;VZqtVOsERPhQb+c31K8KLw=="
 ---
 

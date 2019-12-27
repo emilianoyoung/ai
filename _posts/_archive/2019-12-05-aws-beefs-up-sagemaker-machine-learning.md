@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -81,7 +82,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -109,6 +110,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "L2kL85W4o4gdM/GcY3zcBCDuBoXm8/SgGiL3mKl5nGeADR0gLba7D15Zd3vnZCB/hSvq9BCmRIOm75ELaSFRP4ZgkpATYRpG8SYPjVitLKyIUq6tOLG+0HyOikUMK+B3znAItb6nNku4EKlNQpYRCMdK21UUjS/WPXy+MzFW1nlKCrhFi07VLu8XuvALM21WpN3zCu0wclMcImHdLjCUhb0F0ixQ0l3a3QTi1jeYwKhIb8o38MLX5+8vEUfUuFq0hD81SOOXRmFujeLhu+aXkA==;PPNwWJlkFe6syNrgYa8YhA=="
+secured: "IpZVicS39DvgVz0vpOIwCQCrkyU19bkSbn7lillyOIOZIMiJG8WVbTAJ6LSRg1q5eSOwk7dBsySzGdQxUykNSN8blWqqwX2vZc3ECrdr5vPq3D//T0VEmeEl7xAdUNIl30UDD5xYDYJvcuH8kApwg89+II3/5zJj+6VQiEdXuPziJrRitvpHEtg0KB7mAp++Qia2NtEpKNNVAlSewvtpYB8kd8jwMq4rWXfyBXa8EyT88PmqFDDi/ZNopobbHu5X5MfSn69VmmQRDz1X8yuASw==;Vx9LEJaIrnEKXkzr4VRC3A=="
 ---
 

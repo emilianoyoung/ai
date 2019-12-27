@@ -28,41 +28,75 @@ images:
     title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
 
 related:
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original entry at https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object ..."
-    publishedDateTime: 2019-12-20T23:49:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
+    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
+    publishedDateTime: 2019-12-27T18:45:00Z
+    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
+    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
+    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 57
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "ams: New Image Sensor Evaluation Kits to Spark Innovation With Miniature Cameras in Consumer Applications"
-    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation PREMSTAETTEN, Austria--(BUSINESS WIRE)--ams (SIX: AMS), a leading worldwide supplier of high-performance sensor ..."
-    publishedDateTime: 2019-12-19T16:31:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191219005252/en/ams-New-Image-Sensor-Evaluation-Kits-Spark
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.1B6FC08A1BF1CBCA43DD13C0A576F48F
+      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
-        height: 365
-  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
-    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
-    publishedDateTime: 2019-12-23T20:30:00Z
-    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
+        height: 455
+  - title: "Facial recognition, winter cleanup among topics Springfield City Council will address in 2020"
+    excerpt: "Members will elect a new slate of officers as the council prepares to continue work on issues ranging from winter storm cleanup to a proposed ban on the use of facial recognition software. At-large Justin Hurst is expected to be chosen for another term as president, and Adam Gomez, who represents Ward 1, is expected to be chosen as the council ..."
+    publishedDateTime: 2019-12-24T21:49:00Z
+    sourceUrl: https://www.masslive.com/business/2019/12/facial-recognition-winter-cleanup-among-topics-springfield-city-council-will-address-in-2020.html
+    ampUrl: https://www.masslive.com/business/2019/12/facial-recognition-winter-cleanup-among-topics-springfield-city-council-will-address-in-2020.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/business/2019/12/facial-recognition-winter-cleanup-among-topics-springfield-city-council-will-address-in-2020.html?outputType=amp
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 5
+      name: MassLive
+      domain: masslive.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.998CEA517C8D68567D219B7FBBC6F061
+        width: 325
+        height: 218
+  - title: "Researchers: Printed masks can fool facial recognition systems"
+    excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
+    publishedDateTime: 2019-12-24T10:00:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
+        width: 300
+        height: 170
+  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
+    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
+    publishedDateTime: 2019-12-27T00:22:00Z
+    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
+        width: 200
+        height: 150
+  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
+    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
+    publishedDateTime: 2019-12-24T05:45:00Z
+    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
+        width: 700
+        height: 393
 
 secured: "aFJnAsB4wodhw0OLE8dHrIFVXdYNLCbKIyzLiHyihIYyAJa4Dd2X46SA5RbKKTZBunFYKxxFWAjUIMV+bsunZH+iDGkdl3UV3AlxgvZocaKK02xCCB0imlKUO50UrW4XDuPzcrWYgtYzw1JhsKXiPxfSObp5f8Xk+7abJrcl+5c1mvLEQE7hrLgB+A375nkKNYuzmNwbTh3gLsSjHrJ8fdzUMrYz+UFw3sqpDYAoE1YkG/SaVLcLp+qJfqmW8qh/L+7QGcNjqbq1ANAfbHL7OQ==;lWq6q+MmszWuGAjhgVzw6Q=="
 ---

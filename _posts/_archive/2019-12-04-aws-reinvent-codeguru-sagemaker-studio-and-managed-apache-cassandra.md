@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
+    quality: 86
   - title: "Amazon targets devs and scientists with new machine learning IDE"
     excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
@@ -83,7 +83,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -111,6 +111,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "P/xlUVHL5fA8tBWqcrBUhURSOkyClUC41MRz+Mw6Wf59AoyxQyATyivVMvcfjYA4Fili0HzuO5wn/qMpT/OkbZHrYGihAGJW5uaz4idTGL9OHvBpVICGjsenbHDTsIu7gLpfkThTz95bT9B/naO2fk2IG/VVuAh8/smSKCIonUfmnWvG5Rtlobg1Us8QdRwYqg3S/DjXk/IZKamV+Veq92HfB4QSKtPWcchn4ccUc/Ljpye4BdOtTlBGPgH1G6WfW3JgvBEYcEeQapCSDZFYfA==;W2snHdmIx2Upar1CzMLg6Q=="
+secured: "JWJ9y5z+wECVkvCkMr0ZnxFhZVF+aj/xB7B/0OnKxrsu7exQjwsdRb+kp6Sxhz1sg4gWxunaTyaVHlui+KsorE22kjK1dkFGOZHwz7ATRvttcR4uPmlxGR1/fWY1sB3KmOrTV7nRRP8slRM7Au7TbayfkNAB234Fawt3U8OOHBnZ9t+IOnecOYECQ0X2ekASl4pWaypyNIq8+2L6YiZmv88qIrlC06qErg/u6J+6mpEjGeSHnJK0Uzv50fDLkGhbhIeXuaYsberMhNNDt2JHjg==;v35c1Fd8iwtg6xYECUADLw=="
 ---
 
