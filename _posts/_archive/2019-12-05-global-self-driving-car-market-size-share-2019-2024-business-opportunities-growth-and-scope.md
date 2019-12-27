@@ -366,19 +366,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 32
-  - title: "Irish potholes and poor road markings great test for self-driving cars"
-    excerpt: "The Government is to amend road traffic legislation to allow for the testing of self-driving vehicles on Irish roads. So what has the State got to give the autonomous driving world? Rain and poor road-markings. It seems that Irish motorists’ pain is the automotive industry’s potential gain. Self-driving vehicles use a combination of video ..."
-    publishedDateTime: 2019-12-07T06:09:00Z
-    sourceUrl: https://www.irishtimes.com/business/transport-and-tourism/irish-potholes-and-poor-road-markings-great-test-for-self-driving-cars-1.4107288
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.BD2ED3DE4A68F6A06189BE3BF12F9E5A
-        width: 700
-        height: 367
   - title: "Self-driving vehicles aren’t road-ready yet"
     excerpt: "Companies are in the process of creating cars that can drive 99.9% of the time people drive. However, in my view, self-driving cars should not be on the roads. First, self-driving technology is new, and it needs to be worked with more carefully than it has been. There is always the possibility of miscommunication between the manufacturer and ..."
     publishedDateTime: 2019-12-08T10:34:00Z
@@ -445,6 +432,6 @@ related:
         width: 700
         height: 466
 
-secured: "pfs7wlTOYKCAfHOmP2/eylzPfQuHvk/AnhupWcYxAzynJWLTdNKWwZvG8BCUEavMm/chBEUJc8DivZTZLtGdhF/+ofma9FThV2bs7HEoPn+Fs44piuvthyWLODr+keCEKnAUGf/n5FkJQivTrmXhs/VSvnjGFhNIuTJOaVnWeCTpV53VLSeLFTKG5SIe5CmMxeGexfpTRjZffXb9vWc9AzImzAgoqCm8O+xEyLn7OMmYb0JXyNA1rLZJ7eYPXGpTwd7y0seqc5n1VG0w2Fb0Ng==;DGZ+R51wDXxd9cE92oImnQ=="
+secured: "a36b97T0PQK6Y0DMDy1KGHjJ9o23m/fWtWHMkAoMfsuWsu24P1FKz+qX9s02UmfrgMlJ6P7JXQQwKlkIsWNiH0s6k9MDf4dMN8UVLkU3gEp1kGatkD8MgCGtndsKSlGnfVEBZdwbMBnie/TrEm8ZkB5oGuwV2ZiHYiNJgo1UXlQjhDB7UC2S/jkRqa2r+hlgHRxDfYlOR0MoPCYQkWYdN2xsuOaNUhTdNGFi+mMoUHtZLcHYB8esLYGQH7q1EsKMQjnAuhEq/dloYLE0rj9DMA==;CrBSS0lXvisgZ9PMDAgO8w=="
 ---
 

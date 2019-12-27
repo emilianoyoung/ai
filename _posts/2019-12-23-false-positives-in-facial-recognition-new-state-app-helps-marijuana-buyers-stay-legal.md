@@ -181,6 +181,19 @@ related:
       - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
         width: 725
         height: 725
+  - title: "How NIST Tested Facial Recognition Algorithms for Racial Bias"
+    excerpt: "Facial-recognition technology is already being used for applications ranging from unlocking phones to identifying potential criminals. Despite advances, it has still come under fire for racial bias: many algorithms that successfully identify white faces still fail to properly do so for people of color. Last week the National Institute of ..."
+    publishedDateTime: 2019-12-27T12:14:00Z
+    sourceUrl: https://www.scientificamerican.com/article/how-nist-tested-facial-recognition-algorithms-for-racial-bias/
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.EED55EE013B46088D74063F3494C019F
+        width: 700
+        height: 439
   - title: "Improved technology will drive facial recognition adoption"
     excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
     publishedDateTime: 2019-12-27T10:00:00Z

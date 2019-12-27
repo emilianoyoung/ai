@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Healthcare
 
 related:
   - title: "AI Chip Industry Latest Trends, Demand and Advancement 2019 to 2027"

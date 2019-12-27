@@ -1,7 +1,7 @@
 ---
 category: news
 title: "A researcher in India is using AI to solve monkey business with Microsoft’s AI for Earth grant"
-excerpt: "Ankita has helped put together a project to make population-control methods more focused and effective, weaving together AI tools, machine learning, and Microsoft Azure to record and recognize individual monkeys. That data is then combined with projects to ..."
+excerpt: "Ankita has helped put together a project to make population-control methods more focused and effective, weaving together AI tools, machine learning, and Microsoft Azure to record and recognize individual monkeys. That data is then combined with projects to administer contraception or carry out sterilization procedures. Step one involves ..."
 publishedDateTime: 2019-11-28T05:33:00Z
 sourceUrl: https://www.onmsft.com/feature/india-microsoft-ai-for-earth-monkey
 type: article
@@ -23,6 +23,6 @@ images:
     height: 466
     title: "A researcher in India is using AI to solve monkey business with Microsoft’s AI for Earth grant"
 
-secured: "3V8tRTVpO+rfgQ4FfgFdyVuJQKDwzp0VLMr3nH32kaDtovCxtO4d5e/kLYO0wLMre+Tdl0SispJ0MMmgfQMdC4ZBihfEw4G2iIPFsiv1o9wE/yDxfPb5rovkTt/D7w+4YYsDW/HT+ikwzfvqw61QQrxl1rcMgmihDiDQkfvR8j593Lq0e8b9vsbNxaduZleq6NjfP1f4U6xhV178DFx3xLIILbc6imfmAdhzpF+z30GQ0O5CZU8euQK9jWiWnXuDQUdlDhhwLhVhiBePP7Bzog==;0MYkZ1MJ40WKGxjA5E/BrQ=="
+secured: "W4aKFVOzrSOyF3LBC+j86RTGhaY4QcuD11unZzFEkhK3wXIxRUpIInNcrju+tDMndF8mQ4OXLJb65F5US2CVAyxQMWIf1+Rxs0GX+Lvjs/+6nczUep/rmXZsBG+s424uC/0zhcb5hWbKnhI5+x1+tNaff2zyKCQ8rpvrlvO9iWmq94H0NdfDlNjXjm3A0AGqE03562dbctJxAeX/6szEf5LpkzPIjIIgxsl4TAE0PFvHgPAu9bIS8rdtSrJc5l/+LHsJlb2AJtExz9E8ohG7qQ==;7sPmb3seET5FppyhymtqIg=="
 ---
 

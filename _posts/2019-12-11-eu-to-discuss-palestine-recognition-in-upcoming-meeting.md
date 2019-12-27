@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
-  - title: "Trump Administration Drops Plan to Introduce Face Scan for Foreign Travellers to US"
-    excerpt: "The American Civil Liberties Union criticised the move, saying it had “profound privacy concerns” despite promises from the government that it had no plans to expand the face recognition checks to Americans, TechCrunch reported. According to the Trump administration, the facial scan will reportedly tackle fraudulent US travel documents and ..."
-    publishedDateTime: 2019-12-07T11:57:00Z
-    sourceUrl: https://www.india.com/news/world/trump-administration-drops-plan-to-introduce-face-scan-for-foreign-travellers-to-us-3870658/
-    ampUrl: https://www.india.com/news/world/trump-administration-drops-plan-to-introduce-face-scan-for-foreign-travellers-to-us-3870658/amp/
-    cdnAmpUrl: https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/trump-administration-drops-plan-to-introduce-face-scan-for-foreign-travellers-to-us-3870658/amp/
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.FC855CE22CE627B9F2F360818A6A6DEA
-        width: 700
-        height: 415
 
 secured: "vW/x0FbhqaWKwPPwRUlp87EHuFi8GjF/0jIApv45rT4iu2ow9psfLlMHDVwfXl95Iwg2BjSDH3D03/E4Qdhs0af8xFyG93ZcfM6ZUGKd2GvyHrmw6TM4mrJPo0xa73TcQMe1VxBFKsJcaMZMMIN4ru9BGxIszxlXBETPAHv1HEeCxPOxiTk1F2ahbw2iFY0rUf9rMWIZcwcfGxj9X3jcnw1DyTkkROEYHezxvdONyaF1yME8s88IJo9IzXUUXM1DtFf+rl31it13wI0+Wbl1qA==;MHZgwfOYLhKDWfGoq22sCQ=="
 ---

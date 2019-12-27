@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TensorFlow 2.1.0 will include breaking changes: First release candidate available"
 
-secured: "1sJtj3C+cVeiPOsM/KgqWXjBAcCkWVExuBqSgkQQ9/GAsFnWfkbBXVoVFx6j7nKjEXPR56jT7aAgLSarGc9E6oT3lGKZnoEUd48wdOjTZOAK3BdiflNqSOAxEwRxg+qaNKX2Wu23IxeLfUVYZW+JGjAIbtJQEcKILbQRZAhUYE2/o88mdhP+WeDBVKTw4qKLq//oXE0XfyfIHFFCCj5TMFfTj884eiQA7HgiKAh4TireUX2vXwh/OwKKO/3sJuaCum6ZQoun2N1lZQeQ/3JSTw==;Aerm0ZjS9JKmE2fMwSVizA=="
+secured: "fI1HDTumoPatSO5Dj/tQTSdUZ+syOizOsT9McloC/4fzpYEB913Cke/GzApnNI4doc4Tz2LRBkmqAIDVmLnnoA8+yaGuEH6ZOWani1QU2FCHL2b33Qbzu1iWaBfmMn/ODcx1bffLRb67AeH6Y+vRrH3B2azFbnkQsQCF07Hn7IZ1e29GcFZT/KUpjtkTQsMbP7c7+IMyJnm+FOUoS21XQRR1dxhjS9QK9bst81QFlhbfOC+uM+sxnk/9x9HoIB5yHdlZaGN5FITno+nw2z1pBg==;KgRsLxnHXwr+TAQLaLd5/g=="
 ---
 

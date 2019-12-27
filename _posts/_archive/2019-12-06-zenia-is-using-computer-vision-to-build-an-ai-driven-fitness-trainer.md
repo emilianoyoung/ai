@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-bui
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 840
     title: "Zenia is using computer vision to build an AI-driven fitness trainer"
 
-related:
-  - title: "Controlling the computer with your fingertips?"
-    excerpt: "and current alternatives such as big gestures tracked by computer vision can get very tiring. The idea is if you mount Tip-Tap in surgical gloves, surgeons could navigate the computer themselves from where they are, and it won't affect their other actions like picking up the scalpel.\" Tip-Tap is a battery-free and inexpensive device that ..."
-    publishedDateTime: 2019-12-07T05:13:00Z
-    sourceUrl: https://www.labroots.com/trending/technology/16313/controlling-computer-fingertips
-    ampUrl: https://www.labroots.com/trending/technology/16313/controlling-computer-fingertips/amp
-    cdnAmpUrl: https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/16313/controlling-computer-fingertips/amp
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.08DD72F1D67D83DA8ED51B985EC83AC0
-        width: 700
-        height: 346
-
-secured: "FvO58BTvHD44JEJC1de6Pmk3K5Gf1g/Gkh2JEGCAMofNn6Ogc2ZKT5Jo+mJ302vMVAJG6s1eMnCGg1nGL4Us92TIC0768THWEY+A5PhyYZtY4ZhB/tLW3M7Sea4LOx+kASqkBEC5k21F5MC9wBDxNVcgxtD92g62sbLKUUbJCmInWqftef8xIuAj+iWy1jrtX+vyslVWZgDVTDwpL0gx6sz/pGxBUF1nKeJzaRATjturzmHIa+dKgX/Tq8Xbtl1AB9FPaxiMmSQ7FKRMGJuryA==;Q9B0lmlpYULQcFqwOTtfBA=="
+secured: "dnmIqaFIlRuBmJJm9qbs4N8K8Gr3yT1vHUdNQyo4v3dq03RhI1k6pIeFCPvaI+C5pOFXot6HQZ/Kogf4Vd/isUW7J7Va6M/RLw24/F1fr0QXGBB5pelIoBWL8xD2KLXzV6sZPUoOgCaqGt6NmmKRR/uOxlasD7usybpCu2RpVsaqC2/uQTgT+g5fH+xBQ4oeZxfyQQstYL8oRTng7PS4GGXep1Ty2KE8uj9xKq0RSDcTiQYwFvMBxfI3VZjDKBeMslgL/5+LTRZ1hLaY6g3BCw==;eYTDubOY5r8wJFkSW9KV3A=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Concerns raised over Indian government's plan for face recognition"
 
 related:
-  - title: "Trump Administration Drops Plan to Introduce Face Scan for Foreign Travellers to US"
-    excerpt: "The American Civil Liberties Union criticised the move, saying it had “profound privacy concerns” despite promises from the government that it had no plans to expand the face recognition checks to Americans, TechCrunch reported. According to the Trump administration, the facial scan will reportedly tackle fraudulent US travel documents and ..."
-    publishedDateTime: 2019-12-07T11:57:00Z
-    sourceUrl: https://www.india.com/news/world/trump-administration-drops-plan-to-introduce-face-scan-for-foreign-travellers-to-us-3870658/
-    ampUrl: https://www.india.com/news/world/trump-administration-drops-plan-to-introduce-face-scan-for-foreign-travellers-to-us-3870658/amp/
-    cdnAmpUrl: https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/trump-administration-drops-plan-to-introduce-face-scan-for-foreign-travellers-to-us-3870658/amp/
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.FC855CE22CE627B9F2F360818A6A6DEA
-        width: 700
-        height: 415
   - title: "EU to discuss Palestine recognition in upcoming meeting"
     excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
     publishedDateTime: 2019-12-11T09:44:00Z

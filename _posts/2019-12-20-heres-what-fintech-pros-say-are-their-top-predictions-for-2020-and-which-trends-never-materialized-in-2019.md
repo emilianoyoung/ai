@@ -142,6 +142,19 @@ related:
       - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
         width: 700
         height: 380
+  - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
+    excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
+    publishedDateTime: 2019-12-27T12:41:00Z
+    sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
+        width: 700
+        height: 350
   - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
     excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
     publishedDateTime: 2019-12-19T14:08:00Z

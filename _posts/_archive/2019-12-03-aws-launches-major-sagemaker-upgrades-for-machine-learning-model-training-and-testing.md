@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -80,7 +80,20 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
 
-secured: "OM3w6RavCcV+hPmcOGJXnpPqzHxMlD+2H5jQ6+hiyT73OqoKkc/4tUU7mhvapo7N0vwPH9B5o30BLvhv/73kmINWcC8sDzjdLLya+zd7PkhquDW4957fkr9RcBVznUVFkAMccbjpMi7zWfpF57ECcr4oLU79yXT/r0duzo4Fy+OTk99u/qef59By3+y+U/f6xhWyIupGwV7eC/BHRtLEwnIqrHlXn+sQr9xKafLQn1NrIXu+MuxvdyjEjVDZoOMNCchSnRA6YMQuR4kdob58JA==;lDWUov3DGutF1C62vKx0nw=="
+secured: "4FFJwYBcBbRWg7R40MiVUgcCiPxCb2GCjYF4btH3KzUzaPiqQcF+wduh5bX6JLzibvJJ68MaVskmU7v334G5GuY7a7zxHCCEBWLd0uNcq8NQvSnvd2WKo3QWufXpjXsQ+/QCrH36TXgXHanaf5MJ6aCyCgVczA4nDcB0R6XdiEvBpUDk3IThVGA5vx3uPeAuW0hfL2zj3k03eqgSDTHlG01VKnZU3db2N1uhcixiYOnOylOYlKqFVCJlwGXxZHXLsk22ZSJ84JXVQZsw+RX7JA==;75KUu9345sPg1zj1OPrksQ=="
 ---
 

@@ -76,7 +76,20 @@ related:
       - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
         width: 932
         height: 377
+  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
+    publishedDateTime: 2019-12-03T20:32:00Z
+    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+        width: 648
+        height: 420
 
-secured: "VA3tXTnPTktAIqhWr0LibagdmVXGYmvPeJRvgnY80TYvP/S2PEJ62MBAhPDuaw295MXttoXu1eALx1mkXtgR03GLiSZqmkubTwgVtEP7rhY3Au8aqTt/ywL6BTsnUwXlGYlaCWtFP6yrTyuFKe8VHE5mAoPi4d7rpdeTy0w+L3cAQ3rPTH7hhuIJeclVpvGK+wxPYQIP1f1qG78gYlNW/vPkwo+XFuGZIX/OgDe1XbImLqYicc6agCKQj+N0fNDblrw3oCxwruA7EwU5VTWnCw==;ybJzHp31h6Low0LQvJddgQ=="
+secured: "KHBVUxhzZr2UMvSPW6G5QdwkM4bbBu+SAIdEzqPoug0CiW5CPvukFwb/xbtdBqYxRfLsr4MDLK3lYIeZxbgi75SFljhn7nPS34qb2gzJzb656yrc+uzSn271Z+uQnfmQk+7AxaLiK49x6VZ8NlNSYzYUWKciaf7EXHE8jtEgObBtEqIPwbrNA/hu0gB3GxquYiYTUdLOs7SJZ5R6zL1lxKhVFtDfnPYM4uN+rRRXRvqZy9PSw7fBjwBL/J16ylx4J65WGky1WF5EawIz/sgXGA==;TyWlCE2WvgwDV9PQLrYZyw=="
 ---
 

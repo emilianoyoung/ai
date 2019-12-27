@@ -142,6 +142,19 @@ related:
       - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
         width: 700
         height: 380
+  - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
+    excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
+    publishedDateTime: 2019-12-27T12:41:00Z
+    sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
+        width: 700
+        height: 350
   - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
     excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
     publishedDateTime: 2019-12-20T16:01:00Z
