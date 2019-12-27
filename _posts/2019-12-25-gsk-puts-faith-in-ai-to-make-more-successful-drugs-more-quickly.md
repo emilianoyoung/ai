@@ -2,16 +2,18 @@
 category: news
 title: "GSK puts faith in AI to make more successful drugs more quickly"
 excerpt: "Firm is recruiting artificial intelligence specialists and developing new genomics lab"
-publishedDateTime: 2019-12-25T18:05:38Z
-sourceUrl: https://www.msn.com/en-gb/finance/news/gsk-puts-faith-in-ai-to-make-more-successful-drugs-more-quickly/ar-BBYkTeA
+publishedDateTime: 2019-12-25T18:00:00Z
+sourceUrl: https://www.theguardian.com/business/2019/dec/25/glaxosmithkline-gsk-artificial-intellienge-ai-drug-development
+ampUrl: https://amp.theguardian.com/business/2019/dec/25/glaxosmithkline-gsk-artificial-intellienge-ai-drug-development
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2019/dec/25/glaxosmithkline-gsk-artificial-intellienge-ai-drug-development
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
@@ -22,6 +24,6 @@ images:
     height: 367
     title: "GSK puts faith in AI to make more successful drugs more quickly"
 
-secured: "ISLdkNEK16hF49aqwVoUITxkQ6D+PjsaAu1oqWteqbxErBjTe/MbFFsFyi9fnIQwuC3LDViNEu9PDx1lvSsQ2G2mynYnEC1XViSVrxuDQ7mqrNibBBsGIeZnbs7P9fQCFPLXJNtriwWh40J7cEJqu9CQXhDhQFUm+YiUFge61KsPXUKiWPqSiG4Q7aRmDjPFd2mnz3fUnbbyxZRSVoFaM+J57VFaCTPfp22dxeQvzsPho77QEkXZEN+4PsSVtzx174PROgN/gr33WvhaGIycuA==;zHgrT0YrXlkm6SJ1W2siFg=="
+secured: "K6KLwdiU0aWjzvOwtwMlVEsKMX3YxKgAo43YcXL13WBeAxs9s5gyFiuD7vdn0JU0TkX23RGvXkOJkpZyqGvuqbSG6hAYY8d4l+RaPCoRz0c+K/ML8G8FKIdXCzl9eLWOe57jV9gap/oMBaH4fnmM/cnT0lL09jx+B+74CX3gAo/9pVHD5dtEcPWd2GywTssAsp7PLOAwUUbrgjJ80mjMratRsPxPZuqFLp0KLaS8Q3nrXTedUkT9q2gBmjYdOB5X1lHiZU7eUBGJAgTQ6x9Mmw==;zZ2DvLW1I7fNsKPbIughAQ=="
 ---
 

@@ -27,6 +27,19 @@ images:
     height: 350
     title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
 
+related:
+  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
+    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
+    publishedDateTime: 2019-12-27T15:39:00Z
+    sourceUrl: https://www.kansas.com/news/business/article238754273.html
+    ampUrl: https://amp.kansas.com/news/business/article238754273.html
+    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
+
 secured: "Z5L9DbljeXTfVUU1fxO1uxuti/5c1Jcx+c1RlajtyAuG7aFtv8gDdO+i29CTrxlBw4fLolViALGOpusLsEsHhnH3ESHr3x8HBEC+0uPmyuKYus+CPF60dktfLFkZtTz2Zobqt72GjVTFEVnGk8uXO0FP4F4Tz97bpp8JH8aUqy7CGf5LMQK+zAwmh8it1uAAYgZBRKt7pL/vq99PmLeHx0GuKNI5EkZfFrhrxr6e34I8jLW7Z0YMs4zc2MO7BGaCW0fFxxSnmc2+aTLyc8WYWw==;xXteDtvAr/dL83TGEnpXGQ=="
 ---
 

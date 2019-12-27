@@ -25,6 +25,6 @@ images:
     height: 808
     title: "Analytics and Machine Learning: Amplifying the Value of Data-Driven Transformation"
 
-secured: "DzwYSqAWY+8Zc5RqDllHw03odCF8KCE0WtPSRECLsR7eexCLRpreZ7DaLf1oM/KuUYQPSfPeNnH6TgJda9tCkjL4wHcthXKxdyhkTrKLIZB85GgBaJwMu+vRaBD4lI8bC9pNsq7YA3Eydw5gHYk2zWfq7/Vc8KZvQP1R6CNrBlZSlOXedDLqCbg20e3z8UPZNIyQq6O+g2vobpvg23HfPpMu459X7Rh77GNTYvm8qIBG4Jv6B/NJbt4cRtdUPEZd3wIj7+p8f6SUuTBSRKhZ2g==;4bRVFACa7ug2qindGwQO/g=="
+secured: "CQ7phZ746RA5xPhi2zcD9xbXvPmJJ96+NlphEDoyV+Bqc0XKziJojOz4nkZmIfA2CNDcrl3ClOoPe+g5ZMWWdvrjO/+zWU4/j82Pe3X8cWYzhsbxqPGTnZEpp0PLXHS1OiFfeb/bQHwsvSa8Z+BJSCVc2SJ2PzrQDPnjhFK4lseH/lrxjmXldXTF0htSyVWDDHfVXpbhUvixzXO/V5qtvNN/hC8M4VAFiFE4umkAEkniCCu4QEqMwjk5VO4T/lp+316oQiB+C61xlE0enzLa8A==;+6+8IDkeYW4fs7YslpmnIQ=="
 ---
 

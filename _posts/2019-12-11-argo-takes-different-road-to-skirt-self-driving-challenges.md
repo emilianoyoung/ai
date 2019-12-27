@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
-publishedDateTime: 2019-12-11T11:14:00Z
-sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
+title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+publishedDateTime: 2019-12-11T12:31:00Z
+sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 54
+heat: 104
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
-    width: 991
-    height: 557
-    title: "Argo takes different road to skirt self-driving challenges"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
 
 related:
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
@@ -90,6 +94,6 @@ related:
         width: 700
         height: 419
 
-secured: "OxJ9NJVDpNZbgELKanGaZ34nKL+8EqBH3gIXRZUln1p6Jr7A3aP6zdlJaJ0w67O9eIYthTjyagNAHzMsWXK7wy13tpo9LZw3Y6u2CcIGUyETq58BERuuzn0ZfVbd6lT7oygY8svcW5Wl4o945bJY1mKmydVmrYqjFqfZCeDIBdhdCUbm4hp1PMh1sR593Ig6L/VaVnz1I+o5fflywqRmHxVg2CEmxA2EXmJjXOh86W2cDu88G7UNw6KHhszkdJ25AoDslRj+3sGfnOruoA7N8w==;Zfwo7C+eb61JgK8b2302Iw=="
+secured: "CoWVytxt3JQaf2zlYRfkbXUajmKghOrPrJ9BV8X1IPlBeZ7oqb6boinv45BQKhZORMFUwCDHxK5m4ESdJkvRG6n0hV+xFBhlYf6Qbv8DyHyO9bDq1iyLNLlMMrRkh+hUqUwl0PWSuxuT/vF4CFmVtt6bMur+AScHa8a7CzbuQTlpbBv6x0j8NRuOsQm7mVmCNuv54DF7aYPAMl3CUxIC4WzC5jQmZ34I+l6xJGzgIkX2a1I/+L3F/to77JZ7OCtgzA3fecsgQmdKj9KmCLAidQ==;sUqBb+vZk5u4LHOez4xuIA=="
 ---
 
