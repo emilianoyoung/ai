@@ -1,7 +1,7 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Watch in 2020"
-excerpt: "The global artificial intelligence (AI) market is projected to grow at a compound annual growth ... That team developed AI-powered encryption tools, image enhancement tools, robotics projects, parts of Google Translate, and the TensorFlow AI platform. Two years ago, Google launched a dedicated AI unit, Google AI, to develop custom chips for ..."
+excerpt: "The global artificial intelligence (AI) market is projected to grow at a compound ... That team developed AI-powered encryption tools, image enhancement tools, robotics projects, parts of Google Translate, and the TensorFlow AI platform."
 publishedDateTime: 2019-12-26T12:45:00Z
 sourceUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26
 ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
@@ -40,6 +40,6 @@ related:
         width: 700
         height: 467
 
-secured: "HZU/26WyfYg6EOFcbpT7XKK4I2FiEFuFhhTmZBgBPsWhIlYFPwHTxhTf31tgJrxJKKEVphwEn4bGEkGYrqRZA/08o5UlNPd6QeaSpLGpVy+xQQLwb4ULOHXOPzi1uEtCAMUnK1S6KrQ9bVkdb1RgJ+/QdXqAWQgY7INVkXLKkUsKMWdPqU0enMoN/1xmoWay895mGoOLazVGsiRGWpAes6SmyGLxAGEXnFUWn5dX9vYRb+UmS/jNq2cknz4Yd1Pu6cLOevKbgUuBOtz1kBwl+A==;vdTJGQm4fUH2Y3avEqfWgQ=="
+secured: "oltuys4mr6ztLowd7+RRxhJqoCFPQiGvvcp0RCos56MGx3f8IkeEeB4X6ZiNxmSYrwQ4m9ev3jfO/p9xBHddXClakb8z/qsHMhmwHyFF6gT4pUpmS3rZr1pmZWjcgVyDW0bCGL3vDRp6wn/AhYe8lwdQAZQiWIYryTa5Kem70/6ubpvfH/fnORl5tDLyqhwnHlfE6v8qcScfa/RU1wdI5ZEdkfNOxavH3e6pxVEHYEqY3CLtZ+m6k6+fl7q7TV3qhy4PXjCwQF+hJjJRea8zdw==;H12kj6rnnOKmcGuxPXtfvQ=="
 ---
 

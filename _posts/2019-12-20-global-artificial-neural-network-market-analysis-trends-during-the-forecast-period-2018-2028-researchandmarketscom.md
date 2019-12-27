@@ -152,19 +152,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
-    publishedDateTime: 2019-12-26T07:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
     excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191218005451/en ..."
     publishedDateTime: 2019-12-18T21:43:00Z
@@ -200,6 +187,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
+    excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
+    publishedDateTime: 2019-12-27T03:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-developments-and-precise-outlook-2019-2026-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -331,15 +331,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 4
-  - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
-    excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
-    publishedDateTime: 2019-12-20T07:52:00Z
-    sourceUrl: https://www.openpr.com/news/1881970/artificial-intelligence-market-status-and-trend-top-key
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market ..."
     publishedDateTime: 2019-12-21T00:42:00Z

@@ -1,30 +1,21 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
-excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
-publishedDateTime: 2019-12-26T07:36:00Z
-sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
+title: "Healthcare Provider Analytics Market Latest Trends, Technology Advancement and Demand Forecasts, 2019 – 2026, IBM, SAP, Microsoft, HPE, Cisco, TIBCO"
+excerpt: "Advanced analytics consists of the most common interrelated technologies of artificial intelligence / machine learning, natural language processing (NLP) and extraction, and big data technologies. Although not widely distributed in healthcare, all of these techniques and techniques are used at varying levels in most of the vendors introduced in ..."
+publishedDateTime: 2019-12-27T04:25:00Z
+sourceUrl: https://www.openpr.com/news/1886221/healthcare-provider-analytics-market-latest-trends
 type: article
-quality: 55
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
+  - Natural Language Processing
 
 related:
   - title: "AI Chip Industry Latest Trends, Demand and Advancement 2019 to 2027"
@@ -53,6 +44,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
+    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
+    publishedDateTime: 2019-12-26T07:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
     excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
     publishedDateTime: 2019-12-20T07:52:00Z
@@ -62,16 +66,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 0
-  - title: "Healthcare Provider Analytics Market Latest Trends, Technology Advancement and Demand Forecasts, 2019 – 2026, IBM, SAP, Microsoft, HPE, Cisco, TIBCO"
-    excerpt: "Advanced analytics consists of the most common interrelated technologies of artificial intelligence / machine learning, natural language processing (NLP) and extraction, and big data technologies. Although not widely distributed in healthcare, all of these techniques and techniques are used at varying levels in most of the vendors introduced in ..."
-    publishedDateTime: 2019-12-27T04:25:00Z
-    sourceUrl: https://www.openpr.com/news/1886221/healthcare-provider-analytics-market-latest-trends
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "EcXt3BCdIik2AjkvbtfzNpJwmQzvsbKM7tg0pYSv6Qjtxzs6bRH8HNQaYjLMKHAp9RI7EJUk8bLD2KV+6hFwVq/vAP41koyIAiFe8SoJDUS2pxTx5+QK8bj3jqt2n2AZXO0zLAwviYmrqbCQHSK+qvUyWUI6WNHLwYN10ca8F9XWKukfk4olcnFbU45V30ZiJyyK6jHZWoEFxlOkyog3IcFXApnKu8BLdwk0gajpHqepda5iVJG1uw2zSqsVjnODx3j/Yyda9fvdmvyEGhtMqA==;RQ5hLuD+Rype/Jc+Z+Pgfg=="
+secured: "2cTb8ej6lDdZAArj3282MXfGUD/Qdogti/qhGnXSuzAPlTsdNQ3U7ctE/YVk8VE5o9enKnR9J2y2SOkDVs1muUpolhQO4nvj3sNfdG9NJM+pxV7YPEoNf2je9VtqNRJ2TMbvUHMx4wBlH47BaE6EGOoZjk9GZRCQyg4ER92V/Zz0bS5/+fr24TJ2c4y8cW7l5GKjd7gs45eMxXWmbHYKqZoHh2Jp5EesMcnyRazphRfP2YwIN4NlK/TV62fsmWmmfXEvYSd8rmF2ZkFFbxuFRw==;mXOKy3Rr61TQ7mh44SUNeg=="
 ---
 

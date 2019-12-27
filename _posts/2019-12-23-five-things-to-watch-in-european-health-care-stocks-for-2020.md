@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Watch in 2020"
-    excerpt: "The global artificial intelligence (AI) market is projected to grow at a compound annual growth ... That team developed AI-powered encryption tools, image enhancement tools, robotics projects, parts of Google Translate, and the TensorFlow AI platform. Two years ago, Google launched a dedicated AI unit, Google AI, to develop custom chips for ..."
+    excerpt: "The global artificial intelligence (AI) market is projected to grow at a compound ... That team developed AI-powered encryption tools, image enhancement tools, robotics projects, parts of Google Translate, and the TensorFlow AI platform."
     publishedDateTime: 2019-12-26T12:45:00Z
     sourceUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26
     ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp

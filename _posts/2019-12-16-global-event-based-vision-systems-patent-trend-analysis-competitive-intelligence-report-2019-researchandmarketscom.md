@@ -49,16 +49,18 @@ related:
       domain: yahoo.com
     quality: 39
   - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-    publishedDateTime: 2019-12-18T14:26:00Z
-    sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial ..."
+    publishedDateTime: 2019-12-18T11:25:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191218005383/en/Innovations-Artificial-Intelligence-Natural-Language-Processing-IoT
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 27
+    images:
+      - url: https://mms.businesswire.com/media/20191218005383/en/371054/23/ResearchAndMarkets_800px.jpg
+        width: 1200
+        height: 627
   - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2019-12-17T00:01:00Z
@@ -71,14 +73,18 @@ related:
       domain: yahoo.com
     quality: 0
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added to ... Incisions to Improve Healing Preventing Collapse of the Incision Site After Surgery Regenerative Tissue Therapy for Wound Care Non-invasive, Painless Procedure to Accelerate Healing Implants Made of Continuous ..."
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
     publishedDateTime: 2019-12-18T12:30:00Z
-    sourceUrl: https://www.thedailytimes.com/business/latest-innovations-in-wound-care-ophthalmic-devices-and-artificial-intelligence/article_be77a94f-8cab-5038-9033-fed83c0a88d8.html
+    sourceUrl: https://www.businesswire.com/news/home/20191218005410/en/Latest-Innovations-Wound-Care-Ophthalmic-Devices-Artificial
     type: article
     provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
+    images:
+      - url: https://mms.businesswire.com/media/20191218005410/en/371054/23/ResearchAndMarkets_800px.jpg
+        width: 1200
+        height: 627
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
     excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered. Medical devices and imaging ..."
     publishedDateTime: 2019-12-19T00:41:00Z
