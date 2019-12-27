@@ -33,7 +33,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 56
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
         width: 700
@@ -48,6 +48,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "yOxKsuF4RSB4BaEKyDvSjDv2ZsgOcWxKO/SZbYqbihv6hlvZC7LOin0dYkN0b5synFyQO3sVKyqzuzaeJLtobrdw0z6OzCdPtbLBEQ4vGmEVjY4cN3P57HsmxUbCpAQ0Kmby+SfxVAZmuREvC6gPek9/1LCnfMqJjM501qCPou3B/e1wwDlZXCYE04NDuvlE3ZYVBcGawT+I1n03Rad12eKUAGVAErD/s8L0EX1PIq+/qcuxx857l0EZOGpsYDap525cuIjrV21s4SwkFzqUnA==;C6embfj5b0vEIKpvN8ubxQ=="
+secured: "nTch4n8Hd/lU3/wOmbd08Ar0DsYUBwFwQ9oEP0PGTdM2WWK7zb0TKcKkCqf4hleyI9bBziTyLRK5jTzgvN7y3aceyFzdXzr+8wbj6ScqhKM3GZ+XNnroo2YvxkDGGuKXDeQ8MOCQbCFxLU94iL+qkzH4bl9ZbTZXonsfZJBakYIoNdRqEtLDjloHlTe7EUc60Rz/ULWBuaym8EiSC1e8lSnDHC/WR9QuHH6p7DcbT31ujK12CvfSd/0/Lp76G0r2NK9lgPXLeQCh+aboLGpuqw==;u0mJtfZkotqFRNzOosHgMw=="
 ---
 

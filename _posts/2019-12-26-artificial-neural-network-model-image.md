@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
         width: 700
         height: 424
+  - title: "National Strategy aims at major portion of global AI pie"
+    excerpt: "“The National AI strategy of Qatar has six pillars: education, data access, employment, business, research, and ethics. It envisions two roles for Qatar: First, Qatar must become capable of producing world class AI applications in areas of national interest and have a business environment enabling the use AI as a driver for innovatio"
+    publishedDateTime: 2019-12-27T19:19:00Z
+    sourceUrl: https://www.gulf-times.com/story/651826/National-Strategy-aims-at-major-portion-of-global-
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.59054D8FAD18B00DF186C76B11C85DCE
+        width: 620
+        height: 355
   - title: "The United States Needs a Strategy for Artificial Intelligence"
     excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
     publishedDateTime: 2019-12-24T12:40:00Z

@@ -37,19 +37,6 @@ related:
       - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
         width: 480
         height: 315
-  - title: "Uber will build a self-driving test track in the Pittsburgh area"
-    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
-    publishedDateTime: 2019-12-27T12:53:00Z
-    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
-        width: 700
-        height: 393
 
 secured: "t/d5QwdmOJ5sXKyCgAqcorBI6C8PeqHdwgnvj96oPyffkADZ1FAfJSORHUOMOw6hDV82v+6fQtElXl+8f0vAQ7SNXMzVs+q9hlTs6pAbKGmvdMhoD7ic9dXLU6dXfYsgx16Z85yoLlwt4wXTAv8qzPj/SpFyzo+Pfw+WBiz70+QnaxL9tl0A3kw1/AOX11jJ3DyqFPXFHTmJAZHQjHhadmik9uUgfEQ9Ua2XIt/C4wcUnXv3Llg36/2wWo+alsmLQ7nhNNmG4Ji6ZoVOJE5Gng==;hE470zCmcECBI/vYJTWP4A=="
 ---

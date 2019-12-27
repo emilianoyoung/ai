@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.875E2F51343E45F03F9635EE0FCBF9E1
         width: 647
         height: 450
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. The research findings were recently published in a top scientific journal Nature Machine Intelligence. Metal ions play pivotal roles either structurally or ..."
+    publishedDateTime: 2019-12-27T14:09:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/tuoh-udl122719.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.60B1A0AA6656861D1E6CC366E3D43EBA
+        width: 670
+        height: 255
 
 secured: "Haz6ZeXr5J/bKbKXp+DQNYXS40bsD88x23DKDYWMYqSDXpOXVIprmhqX5xD8FOnv3jw5Z8Pon0KttZYDzlJhftxqVpnLwpD/LicOdCv38bB7DOLY4qLi1zHqVua8mMwVhTF0mSLUM7CeyE/v9fy/kMpNYgkoux31FeRjzn3ronwPVXtCEtDUI0YNJqxq5c5IjGTALMjSgfyJjaaDOST7pyx4D3m6e3nnMadaMkgXAdOZyhNOUMXzxD7a/uF7bUkB88/pgKCoiIDXnK3cAKssBA==;JigcQ+IluDAbGq8ROBhhGQ=="
 ---

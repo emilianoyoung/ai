@@ -1,42 +1,33 @@
 ---
 category: news
-title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
-excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
-publishedDateTime: 2019-12-27T00:22:00Z
-sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
+title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
+excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+publishedDateTime: 2019-12-27T18:59:00Z
+sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
 type: article
-quality: 32
-heat: -1
-published: false
+quality: 66
+heat: 116
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
-    width: 200
-    height: 150
-    title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
+  - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
+    width: 1200
+    height: 630
+    title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
 
 related:
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-27T18:59:00Z
-    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
     excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
     publishedDateTime: 2019-12-27T18:45:00Z
@@ -67,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8E737D47EF3AECF305981AADA3B04373
         width: 700
         height: 466
+  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
+    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
+    publishedDateTime: 2019-12-27T00:22:00Z
+    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
+        width: 200
+        height: 150
   - title: "Eliminating Racial Bias in Algorithm Development"
     excerpt: "December 26, 2019 - The use of machine learning, natural language processing, and neural networking artificial intelligence technologies are exploding across the healthcare industry. From identifying early stage cancer on radiology images to calculating complex risk scores that guide providers to the best treatment options, artificial ..."
     publishedDateTime: 2019-12-26T14:38:00Z
@@ -94,6 +98,6 @@ related:
         width: 700
         height: 393
 
-secured: "KMAsTbRjahCSu55F7kehlgl0C8oEoOMzS0FvlMvxq5TDkfszuPeh5JLkTICy/dfu4Z9zL6T0HCi66iqoed+tLW+hzwk9nPDvvxd2xJ4CvCdF8rog0dXwiR0pKSSW0VwlfB2b7voVOoCm5RbohVklWbErJlBqtf5g9vsH1TMn+jGx/NuczIj8pm9ElCrTGm4db0iacN1jp9LtZYXoVelr9Nmv9pYR6BKGKvxGBdZKFIvkQITWVXo01O/cRiH1GeENrT2fq9WKLmQJ5IIX7KifjA==;GyxtfJmmxq/TrVPbZHCwdg=="
+secured: "VnaxN/FE6MbJatxX65ZAP03vdRKgOJbMUU1k/cAXl9ZhAtA5F4q0ucc91ukFn0tIc+I7uBys2H8BHXYifqh3+fbylE2ruUFyqfONO16f9eGryAnsh6+I63ZklNcsScEZhJYmgiklr0BLRQJUsIg79zRuHa+M79BSj6bH62LrsHpWmhK8dzNO6eKNWClHEMh5pTnvRHfYlMv8p5pQVtlqD3QQ+zvDfsnYBPGTrfcmmOBO+COgTcsvHnuaMRXCUB4mDEmojAc3v3BQ5vYs8+xhFA==;sFm//GSenBWj84ClUXn5Zg=="
 ---
 

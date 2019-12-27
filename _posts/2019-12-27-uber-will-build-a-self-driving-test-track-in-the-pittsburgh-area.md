@@ -24,32 +24,45 @@ images:
     title: "Uber will build a self-driving test track in the Pittsburgh area"
 
 related:
-  - title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
-    excerpt: "Shipping containers are also stacked up to emulate how high rises could potentially block satellite signals to self-driving machines. The CETRAN centre, run by Nanyang Technological University (NTU), even has a rain-making machine that can simulate the frequent tropical downpours in the Southeast Asian city-state of 5.7 million people."
-    publishedDateTime: 2019-12-22T03:16:00Z
-    sourceUrl: https://www.ibtimes.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-centre-2890262
+  - title: "Uber buys $9.5M parcel near Pittsburgh for self-driving test track"
+    excerpt: "PITTSBURGH -- Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber Technologies spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan."
+    publishedDateTime: 2019-12-27T19:54:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/uber-buys-parcel-near-pittsburgh-for-self-driving-test-track
+    ampUrl: https://www.foxbusiness.com/technology/uber-buys-parcel-near-pittsburgh-for-self-driving-test-track.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uber-buys-parcel-near-pittsburgh-for-self-driving-test-track.amp
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.B0D98BADDFC83C08620131BA35FB332A
+      - url: https://www.bing.com/th?id=ON.38E57FADAEB75F915BC7F9E0AC5E350D
         width: 700
-        height: 466
-  - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
-    excerpt: "The road sweeper and a golf buggy move around the track with ease, jamming their brakes on when a pedestrian steps out and negotiating sharp turns."
-    publishedDateTime: 2019-12-23T10:19:00Z
-    sourceUrl: https://www.arabnews.com/node/1602926/mock-skyscrapers-rain-singapore-self-driving-test-centre
+        height: 393
+  - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
+    excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
+    publishedDateTime: 2019-12-26T20:43:00Z
+    sourceUrl: https://www.businessinsider.com/uber-new-self-driving-car-test-site-pittsburgh-2019-12
     type: article
     provider:
-      name: Arab News
-      domain: arabnews.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
     images:
-      - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
-        width: 480
-        height: 315
+      - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
+        width: 700
+        height: 350
+  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
+    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
+    publishedDateTime: 2019-12-27T15:39:00Z
+    sourceUrl: https://www.kansas.com/news/business/article238754273.html
+    ampUrl: https://amp.kansas.com/news/business/article238754273.html
+    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
 
 secured: "MkHASmhi1n35vB7+NJOGrs0jkz+eqUUWJ804G3LZxCa7HwG6hdmQRAGqMt9bc8lIL06Hc4E9ZA0apQXtPA/4Sq4a+EE7VCfGDfB3OvaNzpO7xVqF8T96Jsnzvy9j7ewxy1PMl1Ic5BB5nCZL2QnAuzZHd0oYeVTOqbPwXsmxDGPjHSStT/XmpDz/8ewgGoe1tSO/M/vHrFfkM7/efwOzf63zlEY+4b65EGHfPovHF/hBKuSmhynMhPxPLPaeGInY40amRbiOBqc/0dvMC0b9qg==;w6tuUiXce0iXNIlYlrFXuA=="
 ---

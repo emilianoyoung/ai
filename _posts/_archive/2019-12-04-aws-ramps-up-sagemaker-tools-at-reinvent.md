@@ -92,7 +92,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -107,6 +107,6 @@ related:
         width: 700
         height: 466
 
-secured: "5OspEBizwdb9lLkOpkwOOD71MBXEoTJ2wufW6bvQtzpl3sanUAh/PhlEMamoqn5cEZHxE6dVU7CmpN/SDIgMas2Bqjd93IdGT82U+Kl1lAIzl9SNeCL6Msf/oZij4ZDI2lq68TrNetINckmX2z+NWePFthNDKLgDfREpNaBm79UvDgy3KjhLzj5K2/ZqgmY/VPLvP3vezJY3i/vtQm1T8qZpZ/zNdJdBoaxpupdSs7/b+cpX9sLSOrLiCNzcF0R5KAtA34wjA4UN8B6DJrng5Q==;7mt6rs0/9wJIcF1j1xArpw=="
+secured: "uyurGKonzlFwxDA/RDVykU1G9wUgNlIyLIqNpt7LgQ4p4ilkieY44udFOUE2xxAZKvfQFMYgfTEvrowJnxqCliveAfDlqW5pH+5hsOnDwliPd+eIsPEObV9VLj737u+fOpb8i5hexKwXNvrKST0IODnFRTFeoLEzf8SYsy8OvT1bKUS2aDGBxd7dav+K/fir6M6exCXtfzU0dm8V/MP63Ktt0tnmr9M6DUxwa+EElHqoavh2Ef2dHGmJ/0XFlB/svKPMeANIh/UgtGteh4aQnA==;1Jip8lBmDT6AvacIiQPg5Q=="
 ---
 

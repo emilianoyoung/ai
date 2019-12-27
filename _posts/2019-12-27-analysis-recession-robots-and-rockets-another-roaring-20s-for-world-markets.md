@@ -2,26 +2,28 @@
 category: news
 title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
 excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-publishedDateTime: 2019-12-27T15:13:00Z
-sourceUrl: https://www.cnbc.com/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
-ampUrl: https://www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+publishedDateTime: 2019-12-27T10:09:00Z
+sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
+ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
+cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
 type: article
-quality: 65
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
+    width: 450
+    height: 337
+    title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
 
 related:
   - title: "Recession, robots and rockets: another roaring 20s for world markets?"
@@ -97,6 +99,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "vs7kouc0WpRK+t5LPLUIJhpSMIU1PaI7l9h3aWBgDX0//heAqMa/q/hM194fsJT5USKjGMPJDDo310ljNR9YJIxdx2xmCLXPz3S7HzzYp37CLuRy5bY/gr/CVQhjpUrG1bFD/+9YZDhWLCXW/XB0BKga6A1fyi9qmR5qh7DxzRGF7gq28ajicz+qyfDx5h0uCw0WwkI/IPE/Na4ROfD7u/R2ZyfGv/2zbhJCtZQOGMbf5nAo7rBLA0AR+Rn7vj1eyvJwCJ1CwTBf8H0rJMUSIA==;D4Y7b4YPm2RnradQmJmRCA=="
+secured: "mRwIom8Z5NIoGnvNJPhvnyLUb8NE5Y/NI7pESmhYfCEei8QASO/27K9vNdldOXBoZYpGpVobINMIWUTmkbFWeEwDZOt/NcG9mi7jS4Vf+SgondNDShGckmWGVzVtoQkLTZjzlWvwRi2zY1nRkJSf9WeK9KhjmquljSmVfj9FmUJhNWIfoGzKaMIbW+KquQgWW6etXycwl4hXA1T8vQTTBgpdD1wEyDGS8a1LkSMH9karvtGpBG6TZslmh6fU1ekRymWxq0na8+rbBM/JzIFPXw==;m5xe7/EbNHX+uw19pVcXZQ=="
 ---
 

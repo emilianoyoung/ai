@@ -43,19 +43,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -131,6 +118,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "/3aa9JpP7cZAtQY9eNp2sckTUu/fcr/i1lsplQE47Vgwa3aMW187mfaQ6kkeJBC5mqSm6VHlDW95NT94wjGj36XyXCnhfjCx2uKTOnGHrYj72C3/LarfBEVBh+lHYq+t7hx57qJ/gsMPN2sLhS3+IL5zTkm5rVBye61zmiAy8Vo2qERUYjSgolIEpEXviNuyq6r3x8jcYTtsmNM404dDk4XRY2uTVNfKm5ZSddcdtLgzUTUtmC4Kn0qlRWVmjXCSwtewYaX0pMJVO6pUgjfwiQ==;AUJgEouVX8MnoRO0DKQ+YQ=="
+secured: "olD4NFCJ2mFkm8zqLZN8tutULCoqcSSzSUqe14YKje+X02JVCfoGQ4FKljn5BFZbc62aoicY37PdLvtOeq04+D9MUARBQaJJkmDWdEy+Vnj1a1t5wrD+vPRQBo5saE6fRxMgKesiySKR0kbJMqMO8ETcG/Z8C2r1spF3YZWgcatDelokTuCecT6npUKqBN8gc15/AYMH0OfS2aWoCHA8HK26rxq2meLpOK1mx6MB+8os60rKDaBuY2BzgaijNO9QXu/2lTqf03JLznd3WM/MzA==;hqaYZ4CTh7riT97k/UxGmA=="
 ---
 

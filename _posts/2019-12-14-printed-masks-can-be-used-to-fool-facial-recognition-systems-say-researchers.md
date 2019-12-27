@@ -177,21 +177,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
         width: 700
         height: 349
-  - title: "U.S. Customs was right to reverse course on mandatory facial recognition scans"
-    excerpt: "The Post reported Wednesday that the Department of Homeland Security had proposed a regulation that would make facial recognition scans mandatory not only for noncitizens entering and exiting the country but for citizens as well. Advocates were alarmed, and, after some outcry, officials not only appeared to reverse course: They also insisted ..."
-    publishedDateTime: 2019-12-07T18:07:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/us-customs-was-right-to-reverse-course-on-mandatory-facial-recognition-scans/2019/12/06/e69c1e9c-17a5-11ea-a659-7d69641c6ff7_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/us-customs-was-right-to-reverse-course-on-mandatory-facial-recognition-scans/2019/12/06/e69c1e9c-17a5-11ea-a659-7d69641c6ff7_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/us-customs-was-right-to-reverse-course-on-mandatory-facial-recognition-scans/2019/12/06/e69c1e9c-17a5-11ea-a659-7d69641c6ff7_story.html?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.8095D9DB1BB757AD7F08155B2DB1195C
-        width: 150
-        height: 84
   - title: "Drawing a blank: Airport's facial recognition system remains inoperable"
     excerpt: "Drawing a blank: Airport's facial recognition system remains inoperable Monroe County committed $1 million for state-of-the-art surveillance systems at the Rochester airport, but after 18 months they're still not in use. Check out this story on DemocratandChronicle.com: https://www.democratandchronicle.com/story/news/2019/12/19/rochester ..."
     publishedDateTime: 2019-12-19T19:40:00Z
