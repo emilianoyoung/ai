@@ -49,11 +49,7 @@ related:
     provider:
       name: Deccan Chronicle
       domain: deccanchronicle.com
-    quality: 39
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
-        width: 800
-        height: 448
+    quality: 19
 
 secured: "9mIcFRyyAq6V7/81YBhUmNYx8KVHGwYw1DvdYODSUpotUaaBFBheX0niiTB9ZOEeJZb8VNAAvL8V3foL5w2gY1hC9lEG7W5Kds0EOs2QnVEoILWDotOTgMtn2il6XEaENfJiWcccpY32qouZZT9XWUrpwkzXsgSmt+SHFpOwzRmzcnSSHZGhvVjsxuGn2Nu3pRm25sQZCy3Fl5T1ZQQUVYFS2ZFTDGd/EiyERYhcYyFiTPMUWKaRVtG5AhBL+ilAME+hgtiODfECv7m4u+bFhQ==;mvDFZj401wqxqIyW3PqrHQ=="
 ---

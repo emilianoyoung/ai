@@ -3,7 +3,7 @@ category: news
 title: "DOT harnesses machine learning for regulations"
 excerpt: "The Department of Transportation has built a machine-learning and data analytics-backed dashboard that helps its legal staff manage its vast field of regulatory data, the agency's chief data officer said. In one of its latest projects leveraging big data, DOT turned machine learning and big data analytics on regulatory data, CDO Daniel Morgan ..."
 publishedDateTime: 2019-12-19T19:59:00Z
-sourceUrl: https://fcw.com/articles/2019/12/19/dot-machine-learning-regulations-rockwell.aspx
+sourceUrl: https://fcw.com/articles/2019/12/19/dot-machine-learning-regulations-rockwell.aspx?admgarea=TC_Agencies
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 300
     title: "DOT harnesses machine learning for regulations"
 
-secured: "+3P1oXAJITSCoU/YC+PqNtntjFNlShJlW2I4G5uXZY5nwIw4B/s/K/rY7yqrQdAYKi0p4zTCUEhw/Xu88FRIJsm8W8LCOxzw7Am0WJRWqLCUiAIQaUSsDVZ1rDxBaeTMGYMKz7ydX1j3DDA/IjJa3zMsxBmGGhHTqPUNjFeqAd8PNDC7hvEJ4m1Fwy4YILBkprL5UvpxhWkk7MYpkOzp190538iU2gaLPdAqQuEtWi5SYykgQLpIPB4a3eUatrygUpYhpShBkHpecZMaur3ViA==;e+n2BXHfV1FBGQLAjs567w=="
+secured: "kntBoFeP9Bq4GKZLvZNgVsEoKKXQsbD6HZk34yw8fp3W095zIvM8O3MytYttOHGJkAjIvtQjanyleCY//DvfwaWqA73uGbHEM8mA0M1S1h/vX8z9prau/JrLZh9cUZ0ufX4R/HsmoWyf+depyd5PmZ5TY6DgmhspsCr+1WXi/k//pRBAJeKdci9eYazLptgJRz6p+TQ4jVphN3gN0fZuCo0Dn91RVkxhBq6CWw4huHbyIR2FBuHPXDDqUol5+RWZlfx2muKL07p/DK+oE5mOLQ==;SD1I2wwcOh/AmohJfARVeg=="
 ---
 

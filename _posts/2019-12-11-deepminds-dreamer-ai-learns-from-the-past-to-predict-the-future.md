@@ -56,19 +56,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
-    publishedDateTime: 2019-12-05T17:53:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Harnessing the power of machine learning for earlier autism diagnosis"
     excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
     publishedDateTime: 2019-12-10T14:30:00Z

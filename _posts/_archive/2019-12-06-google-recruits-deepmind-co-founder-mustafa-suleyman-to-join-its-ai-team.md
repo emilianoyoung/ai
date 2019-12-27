@@ -52,43 +52,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "Deepmind co-founder Mustafa Suleyman set for role at Google"
-    excerpt: "London — The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the US to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after ..."
-    publishedDateTime: 2019-12-05T18:27:00Z
-    sourceUrl: https://www.businesslive.co.za/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: https://lh3.googleusercontent.com/HNPXeS7r7xJv5psi4i4N7MmVEnJRr393ioWFF6bfMjj-_Tyf2ueJofNZooyL4n6X21E5Pc81m4YWfugKyzvMCilST1i2ez0=s1000
-        width: 1000
-        height: 667
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -138,6 +114,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "vQ/bd8Htkx8KW3zabqRsfbX+y2JwLrH7tWZ40tp954F99VVJctbNkNkRdI57BbkTViYlGfv+I+GpuucrspIlsIm+385FmiiVYqzjoRAfyAunblnrN7YTBoelcatRL61+N1tbDn1FheThTHvNwLnhhtwiHQfF/m0UXeOJxtp0Zk32ozqTan+v5OIJYHjCahT6EJQkoeuOYmLQrxiB/749Lcg5xhMLmmL/RLf98mEocahEb49DQr+NeUX8T3nOSY0FqQ3rrZvGIgbmwdKV2w/l3Q==;Tgk9vjuCyBeNdq1Kp8+eBw=="
+secured: "7/LE1I6xeYmdzfiIZpE2x/NC4+/TfLD0pk0ZcntH3DWYimKvKey2KChUNwGM6qLXI6LQ+KqkoKPYZIAZgrJ7VmDouxnXxttcAA7FCZlMAHUiVu6BYeeJ3qyaj8zgjmNy30Fw+TSD76AdBfM9H91/1GqugVRzQWYxhZjgiGFQrMIZM5Z9GW3xx5Ok4L9pCI6bcuk6yGzuS10w5oqrk2BQpL4+dXsL7+BA40n+3u44qEo7dMo9yE+YwKUjbvSKQVtvya1Tr2y3XOsH+Nzw5jcSCA==;poa+TBfsIo8+1xHuF4z6IA=="
 ---
 

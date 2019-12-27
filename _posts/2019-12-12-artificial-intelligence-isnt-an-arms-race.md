@@ -363,6 +363,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Synthesizing an artificial synapse for artificial intelligence"
+    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain ... The application could lead to the wide use of AI and revolutionary advances in cognitive computing, self-driving vehicles, and autonomous manufacturing. In addition to the research component of the project ..."
+    publishedDateTime: 2019-12-06T16:18:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
+        width: 500
+        height: 700
   - title: "22% of Orgs Currently Use Artificial Intelligence Software"
     excerpt: "December 11, 2019 - Twenty-two percent of healthcare organizations use a software platform that provides artificial intelligence capability, according to a recent report from HealthLeaders Media. This is an eight-point increase from 2017, the organization noted, indicating that AI use is steadily rising among health systems. Thirty-one percent ..."
     publishedDateTime: 2019-12-11T17:25:00Z
@@ -417,8 +430,8 @@ related:
         height: 356
   - title: "IQ test for artificial intelligence systems"
     excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how ... \"We are focused on testing and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he said."
-    publishedDateTime: 2019-12-13T14:43:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
+    publishedDateTime: 2019-12-13T14:44:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
     type: article
     provider:
       name: EurekAlert!

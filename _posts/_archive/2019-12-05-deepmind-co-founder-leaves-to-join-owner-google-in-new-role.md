@@ -1,25 +1,27 @@
 ---
 category: news
 title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
+excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
 publishedDateTime: 2019-12-05T17:34:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Google AI
+
+images:
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
+    title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
@@ -50,34 +52,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "Deepmind co-founder Mustafa Suleyman set for role at Google"
-    excerpt: "London — The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the US to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after ..."
-    publishedDateTime: 2019-12-05T18:27:00Z
-    sourceUrl: https://www.businesslive.co.za/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: https://lh3.googleusercontent.com/HNPXeS7r7xJv5psi4i4N7MmVEnJRr393ioWFF6bfMjj-_Tyf2ueJofNZooyL4n6X21E5Pc81m4YWfugKyzvMCilST1i2ez0=s1000
-        width: 1000
-        height: 667
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -140,6 +114,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "TEKsHwOzc8uh2QMRbyAuqSfhzuogTXb4OuC+pgJaD1F+OJQobd56f2qVrKYiHYB2NI9lVywFHI8KJYuICms7DJS62KB9qIOURZCiDTct/AY9VaAGDcjuKzf2qjynZIKb7uv20kGg/iW7PSs0U7ftUgloBm8xKBcvsNN62IAW5hB+lGgwcekMXzQTJiXaGlTGp8v0JnR2PpGzczURF4NQ/zn26MrY5niFLux5Co3/Sle60G+ioWGUgFT4UWZ6XP8yovgqRkUqNn8HhpQNW9cTmw==;IdaIBDQfzhzkr5/r1ZDaIA=="
+secured: "V3OhXyGLsKQz06UyoeSHUCY9/RazprIGs5o7/OPxjsxiCDDWwWMi3B7TZsP/FcgOxmWRXdNe4D4KM04pmoEGZGurQTY5Ba0Yr6MvwQXNx4eN0IqmMUp0tcovIsP54tF1u87f4qW0YLeIXLsHjpRmLurcqxzONLmZsV/93k+kAqUFdOmUPKIfRGt3a7ynD8Gq7jnFlSPYB0UN6xuMuT1ocwShPA/zRc2oq/QPfH60jkrgg1DGY8/9AXi2i52jRzZRW8sSyBMGf41yivffs0Jcug==;gajFTGM2rPyA3a4O6qkj6w=="
 ---
 

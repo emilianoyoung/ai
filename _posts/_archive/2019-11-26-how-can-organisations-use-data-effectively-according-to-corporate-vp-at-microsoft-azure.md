@@ -5,8 +5,8 @@ excerpt: "“We anticipate Azure Synapse Analytics will drive faster insights fr
 publishedDateTime: 2019-11-26T10:10:00Z
 sourceUrl: https://www.information-age.com/organisations-data-microsoft-azure-123486097/
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "nxFA/SxoEpLW7RCgw6GhAAsVGtLQamL91muXAdvBxYfHk0cb+0Y+erp4VgjLQ00aXcDDXmqlcZFjiW86TiFymnWQ+BVKZbmD6h75j+2qqF1neoWrEygmHdmF0y3VZCIGBjFovjOJbVYScBRno/V78UGxw0fwwksZuJQBWbXdo8VXR8KDd+dqs1/ljhgNulTSoOM9Ca8LjlKQuCn1/98B4JBkHrsYR7AGUVfvQplguKmNsOmrHZb5uv9PD7beDV3ClhhdGGA8UX+ciKiue23wTQ==;PYC/Rp2ZscttiG9wBP28ew=="
+images:
+  - url: https://s27389.pcdn.co/wp-content/uploads/2019/11/organisations-data-microsoft-azure.jpeg
+    width: 450
+    height: 450
+    title: "How can organisations use data effectively, according to corporate VP at Microsoft Azure"
+
+secured: "IFCVhiToSeJ8r2D5XH1BcQa49yH9ufN+qJtv6SHELkUVDFC6pnzKi5lL6sUfQAXpzFDAQL6wKmYMkVqRCaOPmRnsrDHfBtpYTdm2S5995RfbIRk/SiEbk3xhUzN1ZXnkEU/lXNwAVVitblnIXxYryDSqp0Vrhm4xFDOjCdRVc5bT8WVcVZxLhAjdNocRiN2NOlUuQYXPkPHopjVCm/jBSmNbqVXPHzq02nU56nhHCgWRFXSK0VfXSmE2APvv8UwTnbSfK0PrSWfXYoTr1Qippw==;OtyOJoMUhZ8gxtB1N4tgWw=="
 ---
 

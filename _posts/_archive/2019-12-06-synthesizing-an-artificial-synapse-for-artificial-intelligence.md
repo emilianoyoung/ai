@@ -5,7 +5,7 @@ excerpt: "For that reason, researchers are turning to neuromorphic computer and 
 publishedDateTime: 2019-12-06T16:18:00Z
 sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
@@ -98,21 +97,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "GeekWire Calendar Picks: Artificial intelligence in public policy; podcasting tips; and more"
-    excerpt: "Government, higher education, and workforce management are just a few places where artificial intelligence is popping up. In hopes of educating everyone about AI, the Tech Alliance is holding the AI Public Policy Summit to give those who want to learn more a chance to hear from experts and network with those in the field. The summit takes place ..."
-    publishedDateTime: 2019-12-06T21:29:00Z
-    sourceUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/
-    ampUrl: https://www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/geekwire-calendar-picks-artificial-intelligence-public-policy-podcasting-tips/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.58AE5E8E7EE103AA8DE5A9666D27E229
-        width: 700
-        height: 350
   - title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
     excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it’s a robot,” said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat. Instead, human therapists used recordings of its sessions to help determine what the patient might ..."
     publishedDateTime: 2019-12-10T22:27:00Z
@@ -128,19 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
-  - title: "Artificial Intelligence in Media"
-    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
-    publishedDateTime: 2019-12-05T05:18:00Z
-    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
-        width: 375
-        height: 360
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z
@@ -341,19 +312,6 @@ related:
       - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
         width: 700
         height: 366
-  - title: "Decoding Artificial Intelligence：The brain, the myth, and the legend"
-    excerpt: "Yokogawa's AI empowers customers with an advanced understanding of your current situation, allow them to correctly predict future event, and adapt accordingly."
-    publishedDateTime: 2019-12-06T16:56:00Z
-    sourceUrl: https://www.industryweek.com/sponsored/decoding-artificial-intelligence-brain-myth-and-legend
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.DAA430C41C8C41E2F84CF870232DFB4B
-        width: 700
-        height: 516
   - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
     excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
     publishedDateTime: 2019-12-14T06:25:00Z
@@ -621,6 +579,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "h9rmmXBzp+ppXYYXqpg6MLZevLDOWS0DbVZkMklgBHTjqkIBh+CcOaCwE/waVN5+EpeoMQhKhMP5zYmKQJDYYDxElQaSCVJET1lmrUTM5CyiSGdiHKsQEoP41JZO8v3V+boHR/bPvdU0+E5PL8EN85FMF0wHx1UGAW7EGt9cNgIao1bPiJlP/hKKXBaLZkWlaO/lEqpgqaZ6ls0q+07GEMNhy7Jlrf/5WTDrHDnVy70eLVSWUGqZLqe+l0RgYY6CICdEJFbYKaXBQs+AgCdg5Q==;hzmDwFUT+IJglCnAi80Qew=="
+secured: "V1LDJXKQuGlFa/9LzeWB87hdvNjH67VYdCbp619k6CyACllNk21nYKdyZYERP10s3tNu7YjeIqSa3UIjZWa0tUGjwpMQV9jatwZ1ZB6rpnmXRIa64wt2m3MoZ2gZykD6pFZIOrAEaodQBNNNyrbA5JEBX7QmcBb+YIW5lEseobDPeUZaqOYAlCiPbjNZcnWHA51e4v4+gQ+axXm3s4gX6iuFmCTs9L5qLIpZiXpT6Fo21N3kMqmpUtE+RFfiUYVaeNRkT/+3er9CSJGuRzxAdA==;AQROH9CHgMgQzCElU6eORA=="
 ---
 

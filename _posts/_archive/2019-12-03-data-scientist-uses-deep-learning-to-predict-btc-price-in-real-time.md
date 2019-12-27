@@ -42,7 +42,7 @@ related:
         width: 700
         height: 418
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -66,7 +66,7 @@ related:
       domain: infoworld.com
     quality: 84
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -93,20 +93,7 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
 
-secured: "WlAk7kZF6PujH/Pt5/OFLYn48LL8YU+0mwpO4kirZgPlJltPZbFA+6bNJJEDZrVirBXE+DJ3dMtDu08kqdedYR8i+pJ1ezBSg1YyEqwbUtVwhXks+n5umud+j7t6W1grTa4QMWl6fKfD2w1LBdwaf/zQc4moJY1EFny8dU/6gbV8NC6RVT9FbuTV66TWEGK2yvBIN5RmP6Q/My5zg5BkKnTmNwsxG7GlL9uzyzxvXDOHEwe2IJg15koyP5IlD3oPiuvfqwQROhPhg3jiHVL83w==;VKxJt91JkyAiXU3ojmyk5Q=="
+secured: "eHFryLIQgyIIJ9AE1qFUjN3cfmAKC3YCPZeBIhPL3b0Fva4/voSiFERfF/1SDsds+fJ+kN9J1no/wVm0qz7DNpF+II7igeu8t2wGXmRscQMbdxhVQBOL125M6bDsYr0Mbze4Kw+Q/PD7iwl5+levC+RJJzBjkC0OKmYDPh51cbQDAVMeSlzeGUr6729XEa+60Oj0hJTfrxYyM3UtaghxOYGPj//Evzjnv5O4eaFwuyggEmtJsGPNGA/GdowrRU/IohWQYp+/bfx9u3+o4ElDfQ==;PjsWzkjE3CVNAisaOXAqMg=="
 ---
 
