@@ -8,7 +8,7 @@ ampUrl: https://www.gizmochina.com/2019/12/10/chen-mingyong-oppo-smart-watches-s
 cdnAmpUrl: https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2019/12/10/chen-mingyong-oppo-smart-watches-smart-tvs-and-robots-are-coming-soon/?amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.594D7F0C9B7EC88D56E125F2038E30FD
         width: 700
         height: 393
-  - title: "These 10 'voice-first' startups are building apps for smart speakers, cars and watches that will completely change how we use computers"
-    excerpt: "The power of voice computing has spawned a generation of startups designing their products for audio devices instead of mobile devices."
-    publishedDateTime: 2019-12-07T14:05:00Z
-    sourceUrl: https://www.businessinsider.com/voice-tech-startups-to-watch-2019-11
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.289D57E34C2E049C50565104AB85C26C
-        width: 700
-        height: 350
 
 secured: "v5Fsg9FsFFiYGY+VO9C/JwxvlH6BXy1Tb/XFf3olUh/ttzdNWQnw9sDr2Vf+CJ//j3Gz363FJz4fGbp7XZpgDL9lfwwz997dkTR5zDVQLpAyaTBN2mD1zLxTOHxmqJx13J5eVHTEthO1PF3CDt1sSi9zDTuFQ9qDHoQeEHgzLvWdbpF8szb5ukYErBqCzA89hLDKxgtJwORcetMYlkL5iV2W3v5ZWw0FAwGg1zzqYoxOeE6dd75e94QFfqDP4NeOyy31n3bKhCgp7fzwwxdzHg==;JTFggW3mHb3kwceoK2vxvg=="
 ---

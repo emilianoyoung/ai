@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Deep learning identifies molecular patterns of cancer"
-excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal ..."
-publishedDateTime: 2019-12-02T19:54:00Z
+excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
+publishedDateTime: 2019-12-02T19:47:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,23 @@ topics:
   - AI
   - Machine Learning
 
-secured: "vti1PkgFVCg1Jyvm8/LT1wUNvmMWSvhFMFG9ffxQwp/Ra4gbRR2ZifO2LJEDYcCKDR1syRjeUjOrDJxZBUWBtYsbXR/wHZ0F2SjRWehs87zKPMUZaG619H//H0snask+MSrm4l7CTQmSRfo7SKAE4YJIDRvBg9X7Xr9wZAww4xEFjsDvUjxIFMzT2Iu/g4HQ9Nr/pR32GrcdnMky8ZK5A2DvyUA/Ws8UYOGlt1WjP2PHt3kaFVwPjoqzeUKTPYE3BVOGGfMgpK0WDDUBfBNkCA==;uIo+BZpK196WVwzKIb1CVA=="
+related:
+  - title: "Deep learning identifies molecular patterns of cancer"
+    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
+    publishedDateTime: 2019-12-03T12:41:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
+    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
+        width: 1920
+        height: 960
+
+secured: "R27PfhNpuXb5Ef54X34HtbQr7yJtdq5PtuwwRf3xJeB2cKgQZPMmiR3SikeC6vPnB92gm9ZUDhIzsxmE9vBLnDQ4DZPe6n6NsfW5Pur3LqdBd1GE7wki3fQjownLsY4WW5V5z4zZw/1kGFBccn1A5U29dP4JOX76+O6oVVXeWu3AHG3coEpgKZHNikBcChPhA9fJ5eBhyrhIlqHGuiD1xm8gqzjMxo3MEz3D90F5rmC2OZbvcd6r5bHfXNg22coLfcl0FqC99vcZQ08embQ8WQ==;+LCv9EREkTh+DCAtIo+O2Q=="
 ---
 

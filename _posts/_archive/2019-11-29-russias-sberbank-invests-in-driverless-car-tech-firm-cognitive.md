@@ -36,6 +36,6 @@ related:
       domain: reuters.com
     quality: 69
 
-secured: "b0mYSGMxHqAin929zG+udvmu1N7gDtTtkSdk7Eg8pQSjCoHx2aNkTZY6cqkLeeBSpGrMSJeCULnSFW7euivV+H40vmGAh7abl2QVVDEzXLQxpU+6w5p0xgxAEy5WTbdwB0frrAay5cvb3McoamaRWTgZONPIPPIvKitLnNG/HNMluApcIDqJC6y1w3D/ZGtqp8BmJS/JP8gyNqKC3rornhlP6R0ga3J0TnLcKiayTQyFoN4gTno2enpEsrtdM0duLAUbovXH3CyIWbmOxHcOSA==;H4HbY93h8PzjOvQYEXOGEA=="
+secured: "w/HTIg3eju8ke9qs/fBMUJh0DG+1z/uTMQLbd/s8hbk4GdgAo9M5lo8oUaSEUWoKl4xDrsS3X8OhsfU/2bEVMhwd51jmvY9mZdnzY02Rf5w8CKP6kIOkufVUsoOsDVpj9KlL1Joj4eMWugvnN5e0hkhDKHQMqUUPdiLHE4ChPA5DrlXHDJk+HNJDWYZreDUgweMfNhvNHPKmWiQm7Fzrwd8PJAN1O+/iCMaNDViKmTtlTLlgFbzpMiVFl909u+eA09EhXUPqu3Q0bVBMCifXvg==;yIyrCmvAQii0zS5Fc1kSNg=="
 ---
 

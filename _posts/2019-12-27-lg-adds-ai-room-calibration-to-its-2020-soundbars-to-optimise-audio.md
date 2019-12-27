@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.89E68F30897CE1457A79463A20A1045B
         width: 200
         height: 200
+  - title: "LG’s new Dolby Atmos soundbars use A.I. for automatic room calibration"
+    excerpt: "In advance of CES 2020, LG has released some of the details for its 2020 lineup of soundbars. The biggest new feature is called AI Room Calibration, a system that automatically adjusts the sonic properties of LG’s premium soundbar models to better match the acoustics of the room. “These advanced models are self-calibrating, able to ..."
+    publishedDateTime: 2019-12-27T14:19:00Z
+    sourceUrl: https://www.digitaltrends.com/home-theater/lg-ces-2020-dolby-atmos-soundbars-with-ai/
+    ampUrl: https://www.digitaltrends.com/home-theater/lg-ces-2020-dolby-atmos-soundbars-with-ai/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/lg-ces-2020-dolby-atmos-soundbars-with-ai/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.1408CBB2CC14C63EC58AAF21BA83779C
+        width: 540
+        height: 282
   - title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
     excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
     publishedDateTime: 2019-12-27T03:34:00Z

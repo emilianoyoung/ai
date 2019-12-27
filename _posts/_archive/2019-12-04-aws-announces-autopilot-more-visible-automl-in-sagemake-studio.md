@@ -36,20 +36,29 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 69
-  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T19:12:00Z
-    sourceUrl: https://news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
+    publishedDateTime: 2019-12-03T20:24:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
     type: article
     provider:
-      name: Yahoo News
-      domain: yahoo.com
-    quality: 39
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/bf34_9zA1x9udKMfeGt0sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
-        width: 1280
-        height: 960
+      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
+        width: 1000
+        height: 667
+  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+    publishedDateTime: 2019-12-03T00:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/aws-announces-autopilot-more-visible-automl-in-sagemake-studio/ar-BBXIoJY
+    type: article
+    provider:
+      name: MSN
+      domain: msn.com
+    quality: 19
 
-secured: "FvUoC1wl17eWoUq0QmiRTURpPgVhy9UvvMMDToJVd6WM7qI/Lp74K2iA5BfIq3sgw9hExNzMg5WePdNCJOi+cY20KFZp13GiIlTkPVqWk/SBf8LBHgOHVqn9jdrHsFv5lHK4GFJR3XL8p+7YSkbe4lbsiW5I8tHBZAjWVDYetIRvctsyO21hI0GtTpSlnBmXFG18t1ChKVh+KbEUHfbwpAXIC4C5fu2r/B8BSM12+F+XjMd2DIIaD5BvrRhW9Pg3MAylyy0DZCZu89QflPIQuA==;ALqI1X6pLedX4pwkCjEZjQ=="
+secured: "3E97pLmCMrm0xgE0XZGDSZktAfQo4ijWarV7TNQcRtcJHiFBxNJ+Jct/1sWi30SK6ehQ3hPauRck+ka6v/9V/XpGfAdUnO9Y4yQfJlaWUvJ32e6e6ZHN8XcVQYi68YYxwOeYjeqjChBH1wwgUYh4N0v/lz9zt1h0tgQHN23CrKah+v9J9nWsUASw0L5AMiLb6WrEVLJiVTnxxgXy6Vk+TQrvDscneXWAaP/+DfJ7RSHN0M5J3tEug84rIkM37xz5sLirboGgFyGeHNiONlho9Q==;q4vYtMgRaqQuFWGvbauKag=="
 ---
 

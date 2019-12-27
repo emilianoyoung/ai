@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/lg-2020-soundbars-use-ai-to-self-calibrate-bas
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lg-2020-soundbars-use-ai-to-self-calibrate-based-on-room-acoustics-26604517/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "LG 2020 soundbars use AI to self-calibrate based on room acoustics"
 
 related:
+  - title: "LG’s new Dolby Atmos soundbars use A.I. for automatic room calibration"
+    excerpt: "In advance of CES 2020, LG has released some of the details for its 2020 lineup of soundbars. The biggest new feature is called AI Room Calibration, a system that automatically adjusts the sonic properties of LG’s premium soundbar models to better match the acoustics of the room. “These advanced models are self-calibrating, able to ..."
+    publishedDateTime: 2019-12-27T14:19:00Z
+    sourceUrl: https://www.digitaltrends.com/home-theater/lg-ces-2020-dolby-atmos-soundbars-with-ai/
+    ampUrl: https://www.digitaltrends.com/home-theater/lg-ces-2020-dolby-atmos-soundbars-with-ai/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/lg-ces-2020-dolby-atmos-soundbars-with-ai/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.1408CBB2CC14C63EC58AAF21BA83779C
+        width: 540
+        height: 282
   - title: "LG adds AI Room calibration to its 2020 soundbars to optimise audio"
     excerpt: "Just ahead of CES 2020, LG has started unveiling its 2020 soundbars and they have added something called AI Room Calibration to them. While we do not exactly know that this new technology is going to achieve, we do know that LG is going to apply machine learning and related tech across the new products it launches in 2020. This AI Room ..."
     publishedDateTime: 2019-12-27T13:45:00Z
