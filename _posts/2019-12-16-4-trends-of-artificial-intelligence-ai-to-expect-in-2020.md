@@ -56,13 +56,15 @@ related:
         height: 315
   - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
     excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-18T16:44:51Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
+    publishedDateTime: 2019-12-18T11:16:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/18/tech-trends-2020-battery-power-ai-privacy/4360879002/
+    ampUrl: https://amp.usatoday.com/amp/4360879002
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4360879002
     type: article
     provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 19
+      name: USA Today
+      domain: usatoday.com
+    quality: 39
 
 secured: "kpOXvLuwA+HhHJHVPAXnsMufECwzcEBnABq9oL8YgTW/FaTM4cqcAozIH7ZmCsaUuIAUBJwrw/JSYCpLhupTGROFaSe0/Yv4BQIqLLGF1wI2J44g8Y3LTP/KgGplQnvYDIsK4FXoYvbw5kXgY9aiaAMBvEJrYe40tECwe0U805aMCe/qiuayumWjW/v1DXFE0mjeT7z4b74w8IWGp/ta7nb8ylnf7zY9FH0aKbnz4K/ctX07H5bDqVVEX6s1w1EVJlzFMWEy9ER3a8vNawgsAg==;uLLWy6zYW40IUnq906SSQg=="
 ---

@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FE7390891F41DA6AB2A16B95726FAAE4
         width: 569
         height: 398
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city of Guangzhou. The South China Morning Post’s Jane Zhang took a spin as the company ..."
-    publishedDateTime: 2019-12-07T22:00:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8D72F4AC1DADCEA1DF985833B96ABF0A
-        width: 700
-        height: 393
   - title: "What the Future of Self-Driving Cars Actually Looks Like"
     excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
     publishedDateTime: 2019-12-10T07:34:00Z

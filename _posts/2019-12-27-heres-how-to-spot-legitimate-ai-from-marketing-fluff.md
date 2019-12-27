@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2019/12/27/heres-how-to-spot-legitimate-ai
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/27/heres-how-to-spot-legitimate-ai-from-marketing-fluff/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Here’s how to spot legitimate AI from marketing fluff"
 
-secured: "AoEBrGQFvoR7YCw/iVWGGMXo6kMD9KeJANvUvuco0DvwRqwwcfziA0x67zNx+bvruCc3MTEKZLzpzGVrwUbcQoZif0C/6O0FnM8Yt/2AqcU4ooPHeJisTf0s1CLEheHzisGFmE/JVtLOM35gcO1iMvL6j+wnQ2615IjPoSJcVwn+m54pdjcI9xB89T1pHrqgVm/ivuHBKEpeR4gjXHNP4VhIVRnio4r9RnbK3y5yPoE8jrhQhLJ/M83tCVtX7tHRnVWHP9SzwaQ0ISJnInIrZg==;/YjBghOMvEZ76//Qf7bOFQ=="
+secured: "wfAIP573j9Nuv+LVZS2lidEElCszMukFdjvuPRJAhAuONF4tcoRDy416epdyXJsWwPwx4wpTpRiWcD+h+rd1bKdO5ec5jUVMoGxo0Munze5wGD+Ji2VLmJtbh6EpS/0ajRbLz3GCncb3Mi5Xow+E9RmNIkof3GUJslHrLhWvwDrWMSz/OsBEAjEhURpelGpvNOtT4Zsj/abEgjI4OzTgWYqlAzXmeqgtdp1kJmQUpt4ywBzs+wsiBmyEYoZTKqoZNGYLQifDcXAnz8z4qBHSdA==;cOdRFpsrUoJn8u2U1jB/fg=="
 ---
 

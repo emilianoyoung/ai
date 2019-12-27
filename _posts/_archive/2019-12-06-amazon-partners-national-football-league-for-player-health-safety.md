@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     title: "Amazon Partners National Football League For Player Health, Safety"
 
 related:
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
   - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
     excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
     publishedDateTime: 2019-12-09T16:45:00Z
@@ -49,6 +38,6 @@ related:
         width: 635
         height: 400
 
-secured: "xCMCX/QtFYlB0JoZIMgDejs560ulvdleN3+1TxzkVvYazuXvWK/ZTScz3GozGsbnM62PinPzZimdOyXlaRB1ab5HU2j0NGnXYzU4OhWDlkchVBgleCYDmJ2x4QhZxo3jB7VVh6/FGXbWyZMPDG6M+g6Zwjp0MhStvNxefU/AEGJh2GA2Jou/A3uxfVYw48z+e8Ufh99EO2UeFgXL+ZwbWlXq1x1yeZ/WJsH1f/zjbrTGpdSxpd3knROURjkJk64JXtHNMuXySQMmdG2E+It+PA==;azMnL/ULlwDufoc5CwNzzQ=="
+secured: "2Ainv2Rf220KyBq9KW8I/u1ZMxNSCuKkEz68KHaFBR+2TT99fxY2Arseq6irf59YlCE9U0I65vqiHzHdadWnaUIfbAddTcOcD6hqhD1mllW4vDfxDwwc6evS1N471A3f7CJOoLRTEIYk8Ab1gRTauTr8Gp5PQaHkLEjfabIuRh025ZV3m3Sz8zbNWIHH142os+Se1IfxROP9PMKL1TArcII4LcH8/MDZ93cs2sNxEh1sU3ZLCsNgbFZ25X8bfy1FUnAkzmGvlIlt3dGOozd4kg==;CWlOYvkmn9cwNMK8J5475g=="
 ---
 

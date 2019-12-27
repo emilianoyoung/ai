@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "sU2Z7ub6tXmm95uug9JcscfE1ct9q5YQIDmMonfJWS1pzNGN7Ww9WO696/CQg6n9uWAj1A7tjQnADnrcjb1HpRHNYu0uEi9tAm05Q2h/5fw2vHSkp6DrEfBHyN3DEvXwRODfYxJ/SmPvbqonQYzwx2aHtKUhOqGJe2hP51QcLLQczXr690lKbZbE7LqMgv/Umh4mmM8oL/57YuqD1+gK1t8i45/actlQEzsPsDRsBOvttjggm/DKMMRutD36oaCADi4wCnAAkFroRNrxREd7Bw==;azXEckZeuKSXDJIvD6pWrQ=="
+secured: "kjYsXYTS1DtdfyEYXitC7AVqbMITtxVzk2yB08j0jMWEIXBShQYoIJ30SprrNj3nO5/jEcQJctsLJBSTEsBb18YH2DmEazDy2nMEC1IVK/cPJ8Z7jV6NwlCQ4V8kR8pp9ThqI6V2OcuzMg/W3yuAwfwPQu648pxz7JZA0uwvvGMgT7OOt6IhfVGd+LasUorS9rGc/wkXLnjpXKMY8hRfr/IISAMA7cqKg8XKdL4sk64W8TkwXwyKEP9j75VTDRwx6XZhPGUvvt6IrNBQ4M1l1g==;N+ZXD36cUHHu0jIjcMdL5w=="
 ---
 

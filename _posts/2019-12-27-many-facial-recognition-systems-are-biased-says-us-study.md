@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Black and Asian faces misidentified more often by facial recognition software"
-excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
-publishedDateTime: 2019-12-20T13:25:00Z
-sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
-ampUrl: https://www.cbc.ca/amp/1.5403899
-cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
+title: "Many facial-recognition systems are biased, says U.S. study"
+excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
+publishedDateTime: 2019-12-27T00:10:00Z
+sourceUrl: https://www.orlandosentinel.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
+ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
+cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
 type: article
-quality: 36
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CBC.ca
-  domain: www.cbc.ca
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
+    width: 700
+    height: 649
+    title: "Many facial-recognition systems are biased, says U.S. study"
 
 related:
   - title: "Facial recognition fails on race, suggests government study"
@@ -153,21 +159,6 @@ related:
       - url: https://www.bing.com/th?id=ON.609F48C5B2B4CF46E1AB4A33371D98B6
         width: 700
         height: 649
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-27T00:10:00Z
-    sourceUrl: https://www.orlandosentinel.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
-        width: 700
-        height: 649
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
     publishedDateTime: 2019-12-23T20:15:00Z
@@ -244,6 +235,17 @@ related:
       - url: https://www.bing.com/th?id=ON.CF16DAAA88DBEF65DB80206F32BEE6C7
         width: 700
         height: 393
+  - title: "Black and Asian faces misidentified more often by facial recognition software"
+    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
+    publishedDateTime: 2019-12-20T13:25:00Z
+    sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
+    ampUrl: https://www.cbc.ca/amp/1.5403899
+    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 36
   - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
     excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
     publishedDateTime: 2019-12-23T11:43:00Z
@@ -315,6 +317,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "Ac5ezASRcbNW5nw3YqySy11cRrk0KNF24bWTRWpUrAZsRVtirU9SVCYTt3IHg+zT4W9hDK5M/dDXq7ZEqkuV/iTcjGRjvoPl/Jb7Swt20wWteZ0axGzBa0ol+Fe6a3KckgBmjGBSi3bI/t3EAomxltOffAYL7nHk1pUkeWkukazsRhDjcQXYff1FkUftKQawFeyiv5UHh364eXVApwi7VVQSKZoFQu1hvh8SHONP/bB7X/zBvWY/yd8laVXlO2nykeKZ7y+DKefABN4I4VO9jQ==;7LJVjWOKLb1kZaA3LhC0uA=="
+secured: "CvtPYReRaY5voZ7fR7VZlooKoCSkDV+K3e9GtkUd64JwRZvZWPZse4hTJIFfESoLdSVF3knboGn9YwZPDXhZaiJNv3Z6YwXcP+QeSYronrdhEL7WmjR7NvOSVJfwGcXaIOFPrYEQUKLZghisQCrbMB8ezU4Lqw5Iik/DzKYDWYe1Go/g8FJvlVmaxH/7tXHKLoqQjS0Maf1cHkV+e/UeFf7gu9R/Co8FTbd9Ct/CVVPwjBh5c6BrmCsU4f34uy9o6QViIiX2sj5kIgnQ1lVxjQ==;Ru4binKHxfQ9Kvi9K1ggmw=="
 ---
 
