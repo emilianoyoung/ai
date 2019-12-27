@@ -22,19 +22,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Multimodal Machine Learning-based Knee Osteoarthritis Progression Prediction from Plain Radiographs and Clinical Data"
-    excerpt: "Here, we present a multi-modal machine learning-based OA progression prediction model that utilises raw radiographic data, clinical examination results and previous medical history of the patient. We validated this approach on an independent test set of ..."
-    publishedDateTime: 2019-12-27T11:10:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56527-3
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
+    publishedDateTime: 2019-12-27T16:39:00Z
+    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 31
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.25F429ADCABFD0FC97A0695A9FD35FB3
-        width: 685
-        height: 464
+      - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
+        width: 700
+        height: 266
 
 secured: "Pxu1g5/+MXJ+XWczCxtQHh/uPlN1tPSEe227w88MhFs4R0MObEYqMvgkl5r99YRpdtMlfo/7EsMmCUFNUgFT5tGLd5abFFAFS44vSNiN4v4kr6sTIYA0PeOGCgcYZa+ptkObiLfKVzPfnaNFU0vFh5zNYAKpy3eDj9HUyi4gMkbD0WRfWk8+WiCO6ut7G3pYIiUe1bJFSfrfqUTnPfgWRdPqV6PFW+M0G+ubW69/hDjSVjb3oCKI1c3Uqdpfy0G1V7dPa0wExB63l4y+ouf5fA==;OwlhMidKeNGwiFWxndyNdQ=="
 ---

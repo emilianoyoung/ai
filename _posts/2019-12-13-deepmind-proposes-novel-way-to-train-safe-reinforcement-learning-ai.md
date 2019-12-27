@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df00fc625ab5d0007ce1af2%2F0x0.jpg%3FcropX1%3D2%26cropX2%3D897%26cropY1%3D64%26cropY2%3D567
         width: 896
         height: 504
-  - title: "Data-driven deep reinforcement learning"
-    excerpt: "One of the primary factors behind the success of machine learning approaches in open world settings, such as image recognition and natural language processing, has been the ability of high-capacity deep neural network function approximators to learn generalizable models from large amounts of data. Deep reinforcement learning methods ..."
-    publishedDateTime: 2019-12-07T20:00:00Z
-    sourceUrl: https://robohub.org/data-driven-deep-reinforcement-learning/
-    type: article
-    provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9DA366F83C890F049013C82278C2F206
-        width: 700
-        height: 234
 
 secured: "SE3TC5GmcZp4vJjau4NBpdY+g+xVceW5lG8v4U3Qi5JnDbsqWlhSV2l5mNpGuKbpwAX+a2nbgCzViW4DS8TVefwoxxUvqfzH4Irjprdr5M9jbFBC6fgghNybOfYce6Nt0GG1VsdBedP6xHrrpq090b1jSn0Zi0c5Evi9ygvchHClZy7IgenWmzw87TffLhzLK4FfLRAqrLPY4ZUHMu+Vj23YwasvdUumzTV7mlXl5xvylzEhbSSCjt6n0N97a8D0+Wyf7hi2G9FwrF8NO1MHjw==;Q07ECqyun4ZzDV7oP+6COw=="
 ---

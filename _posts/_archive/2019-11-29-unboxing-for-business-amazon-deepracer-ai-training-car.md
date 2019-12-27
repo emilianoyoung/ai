@@ -39,17 +39,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
-    publishedDateTime: 2019-12-03T18:11:00Z
-    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -77,6 +66,6 @@ related:
         width: 648
         height: 420
 
-secured: "vvqJPT5Tl4412+USn9SudwOIFY7awBif0SnCtK5Pio5vaiePyLy/eSXpIMFCE7CA6W1vyqkitaEX2K/j+THb7r/0KWoAatU193JIYO7nNJf9sg8bmE/XDvvrjE5hcJWlLUToYC+X4EKBdxvu5AVH2hkBHfIZsclZaajkg/0FWXfgEovsi0KZbf9d1dJWGpJYkFABsW0V5JUDmkGE/PbIC1jQKrWilXm8Lo42oiWkLZlRd37WTSUizkqE4L2oxwW56VgglgD1eYJtPdwQ98F6Yg==;PQjgoh2Th+7lOG5aXM54Jw=="
+secured: "c9upLe8SCr/X4P2tq11nicWfwiGlhC8YMgBCHKH5dQe5rZ0aUKQPcab0jj5k5PxaylvqgIzbmvDNw4GeZwaEg3YWtWD3I+1Yludx8q1buAlWba2vE4W0vEUVUwJrCcTfHJptgrwtyR8NhKNcUWv3InFzqU4oUWWDOlhdvTebZyhjJWF/wl3OHfJOVOTnfcyq8eHGxx1/UWrfFHCforZMW6MdNrqku4Hq9WTbnEhChJ0SoWpSLRLhXIeD7GWou0rHSiiI+gbSPflUI7vB5lDy5w==;Fp39TLqZdrr24ebZICnsiQ=="
 ---
 

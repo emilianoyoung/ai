@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-05T00:00:00Z
 sourceUrl: https://www.investmentexecutive.com/news/industry-news/rbc-invests-in-research-into-ai-and-machine-learning-in-financial-services/
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,20 @@ images:
     title: "RBC invests in research into AI and machine learning in financial services"
 
 related:
-  - title: "Using Artificial Intelligence To Analyze Markets: An Interview With Ainstein CEO Suzanne Cook"
-    excerpt: "To learn more about the use of artificial intelligence at it may be applied to analyzing stocks and markets, I asked the CEO and originator of Ainstein AI about her work in this area. Suzanne Cook is a Wharton School graduate and a seven-time Institutional Investor All Star Analyst. According to her LinkedIn bio, “Mrs. Cook anticipates a new ..."
-    publishedDateTime: 2019-12-07T18:35:00Z
-    sourceUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/
-    ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
+  - title: "Unitek.AI uses smart automation to target roadblocks in financial services"
+    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now 7 of the coolest science jobs in the world Thinking about a career in marketing? An analytical mind is helpful OneLogin to hire 30 people as it unveils Dublin EMEA HQ New Smithstown Light Engineering facility to bring 60 jobs to Shannon"
+    publishedDateTime: 2019-12-09T08:36:00Z
+    sourceUrl: https://www.siliconrepublic.com/start-ups/unitek-ai-startup-fintech-financial-services
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.BF80CE010E78E2D6487CE877A38E383E
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.1A552890CC0AA71EA2E1A659C593005D
+        width: 207
+        height: 155
 
-secured: "xuNaBmScJLg/81VrA7r0YFGifJEeA2gYxFMecX8YjOYVc31XKmyDFx2LvemUKiqDGPuvu/f4P5neDosSOHIqCtmx+2dhc0Ua38nSYMWa2GQUQ+6odg0WH/E3B178Kk8K0IfKWJwT+6u23jp6F8vQ2lRDhTcZFDnefwKRMNuI/uj+PKnpkJ4hd6Ws6AN+8f3NSNv5n9DnbZmxEsg+wyPw58NuoUhmzcPS7GJjCIieYJ2afDbgvC2SGpx4zvMBl3cQF9VvRAJhjByoc8mx9UOgqQ==;kTWT9mAhWbrdNh9Gw4eceA=="
+secured: "3q+7qbwiPRghxDT908eELZhI/uSCwAoKSiXMI+W27aeYhSRLQ+hHWxcxSKbv2q58km/AVrt0ch2gdItWkq3HaMrknB+9JzO/MSBpi3vrjGO3cUzCoRs8GyhJ8UmENM9QEtG1N0VnG25JrQwjf1zQmFInqMwY1sKF0gqBKSvjUd8GPsQ6G+zRwZgrN7Kdij969NVe/jd1ttvnkFZXCFn68L+yBcdct44UScEdyHzJ099mtT9tRWOwHDajXOMQrKUaFJlnie6CYWktO8jNAw3pEQ==;5N1yhaLgrbhZeqKTsXBFCw=="
 ---
 

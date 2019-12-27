@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T16:16:00Z
 sourceUrl: https://redmondmag.com/articles/2019/12/24/ai-iot-vs-traditional-networking.aspx
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.930FBF651F8A7B01197658B775FD4969
         width: 685
         height: 357
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. The research findings were recently published in a top scientific journal Nature Machine Intelligence. Metal ions play pivotal roles either structurally or ..."
-    publishedDateTime: 2019-12-27T14:09:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/tuoh-udl122719.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.60B1A0AA6656861D1E6CC366E3D43EBA
-        width: 670
-        height: 255
 
 secured: "IQQ34oUKDHQfnUV1rFG8e6dq0VzS9m6cyyvI2SaNRQmumdptoAKFfrDKjcAfhP8uJk6T6yAZezj/QVvHZf7/TwyKneMb8BS6kkB79aLjrVbehr+CeyrKwZo2UmgpJ6bTIATjyjP+1Jwjm4vGsKB4tkEF/W9Bmu3QXmvSKTG9R+uqE/UFFBFOTosYFrh4aLm+AAKLlQffrPPBg9s3tvp8+N6W556phCXG955rJ0cgd90vhuh0RO9E71cNM+1gdlLNnopaqd63PXuTfGldodORDA==;1gWwE1yS7rmuGCt3WCokmQ=="
 ---

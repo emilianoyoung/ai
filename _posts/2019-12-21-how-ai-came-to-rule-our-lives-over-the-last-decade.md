@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WBALTV11
+  domain: wbaltv.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "PpSifYp1CCACol/DWXJEi0h5vE5gzTLQrzZwhtXMi8CdihXHP6YIsF6j9yr+qV7M8yLPgRYPdJy6JFFrO0R1cGJSSW5cB8e/tOFDxi2Vj08FpYsdT2owdTh8ImUtqg1OEimS7Qq/9ooHCYc5nSzpTj+lub8+zMQcfEksD2kavYtXV1wSO2uezV9OUWq1Jmq1XJttZRP1pHi2VDkuuk5KMkmBIvHpAGXAMKLdXhD7vyipvnyVXpvnMVX89hjrivsP7rSjTD+F9LMjUswDr2FPbg==;TqSt3YBpX1Gv5/02op5pxg=="
+secured: "sU2Z7ub6tXmm95uug9JcscfE1ct9q5YQIDmMonfJWS1pzNGN7Ww9WO696/CQg6n9uWAj1A7tjQnADnrcjb1HpRHNYu0uEi9tAm05Q2h/5fw2vHSkp6DrEfBHyN3DEvXwRODfYxJ/SmPvbqonQYzwx2aHtKUhOqGJe2hP51QcLLQczXr690lKbZbE7LqMgv/Umh4mmM8oL/57YuqD1+gK1t8i45/actlQEzsPsDRsBOvttjggm/DKMMRutD36oaCADi4wCnAAkFroRNrxREd7Bw==;azXEckZeuKSXDJIvD6pWrQ=="
 ---
 

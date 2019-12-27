@@ -55,6 +55,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1408CBB2CC14C63EC58AAF21BA83779C
         width: 540
         height: 282
+  - title: "LG Premium Soundbars With AI-Powered Calibration Are Headed To CES"
+    excerpt: "Ahead of the event, LG announced it plans to roll out an \"impressive lineup of soundbars\" with premium quality audio, easy connectivity, smart functionality, and \"AI room calibration.\" I can hear you groaning as you read that last part, and it's a natural reaction—it seems everything these days touts AI technology in some form or another."
+    publishedDateTime: 2019-12-27T20:55:00Z
+    sourceUrl: https://hothardware.com/news/lg-soundbars-ai-powered-calibration-headed-ces
+    ampUrl: https://amp.hothardware.com/news/lg-soundbars-ai-powered-calibration-headed-ces
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lg-soundbars-ai-powered-calibration-headed-ces
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.62484CD34FBC70F07098087388CDA119
+        width: 700
+        height: 361
   - title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
     excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
     publishedDateTime: 2019-12-27T03:34:00Z

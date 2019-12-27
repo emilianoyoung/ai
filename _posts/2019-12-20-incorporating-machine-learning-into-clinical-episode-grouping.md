@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Incorporating Machine Learning into Clinical Episode Grouping"
-excerpt: "Dec. 19, 2019 /PRNewswire/ -- As healthcare organizations increasingly incorporate predictive analytics into their operational workflows, it is becoming more important for clinical episode groupers to be designed with machine learning in mind. But many ..."
-publishedDateTime: 2019-12-20T00:50:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/incorporating-machine-learning-into-clinical-episode-grouping/article_0aee5f1b-92be-5da9-b2e5-1e79d0938bd0.html
+excerpt: "LOUISVILLE, Ky., Dec. 19, 2019 /PRNewswire/ -- As healthcare organizations increasingly incorporate predictive analytics into their operational workflows, it is becoming more important for clinical episode groupers to be designed with machine learning in mind. But many existing commercial episode groupers continue to leverage decades-old ..."
+publishedDateTime: 2019-12-20T00:25:00Z
+sourceUrl: https://finance.yahoo.com/news/incorporating-machine-learning-clinical-episode-215600171.html
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -32,6 +32,6 @@ related:
         width: 700
         height: 366
 
-secured: "eabyZ4K+7bVutZuw3VQZ1hWxno+nTdxDQc0dVYu5KYJvKTmYvFQddy3zuv8ykB7vpErXWJNRdG4yP6RIi9uyyVLLAp8MZdqOL2cDt/d0EqPhBIN0p/lyb3TqZ+xuC81BUo8B8Ex9GYVCVFAjrXAV4wf1G51V3MpK/DADYviyKfhdebsh32iSdliGQ64bsuzZBPkXZhkxCGl0BTrkqTlyHLmT9zooEgdIDPeh3knqot0DXhvbOj+Pl5n0E1CcmvAPXOnCt4AD5zHoLHjzqzBgXA==;sfDgvhnSVyesQ0OFOfJzkA=="
+secured: "njpfN85yelatc5W9NLX4BIu3HSazUElaRuCZGzViONGeEwXwh5rHJD7pu7WJO6eBmcmQdzSkcvOmv5ZJKUMmLymb3LBpXEw0m3d7RUNCAK3QjBRwf5lpiKb+Cm4Y54UNsWWwnalZxkxyI7QzxqElLajPxa8hzHtXVPEhf37QsHzxj+k313rD5nb3Mjdm38MZpM6ciiFDu/lFf6t+OicfJqU24npvmvHFlIus6UXFgQoH3aWDWL7HIjm3W7de6wItlyYTrsTXjGi3p83qcX/CMg==;yVn0b9wACgNVekte6imkEg=="
 ---
 

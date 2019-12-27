@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50679791
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -118,6 +131,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "2hjsD8npje1St82YVT+kSsE3zpsYN+9CvZZk0huTAbf7H/E3I67WZDhNW9uO2lKoeexv7EU5JBL3lO7AnGCn+GIQl3LKmrSkZXWGp9yMNuaJLdZHCNTNcQs/d3o/s6N6JKSouQPdwuYD7PFLa7iDyKei1876e4ScYPbL57WL4istsaIFMij39i5bheMRtggM/ycq8krAft2n1j8rvvpiiVzCiXBEpyk62saQqoAeeV6hbeHOZ2K6yzVw8Y7GyhEosLjDq+AVnl2+XRgo59uZ1g==;pOgDw7fAZOtbcKw6ryr5lw=="
+secured: "AT/3l1hjLqpbkqnJ9JZv25a5i4Mjv5RDbUh3dI67f3JJm+TwhogcFx8ZeXojn/0D2Hz//6PFrsGsIFl9bqxzE9TCn8y8IvSzjsfiHjCfwibNgQZIapRiaL94ReqY2urdC4Ajb7nNoj4FuyN0oSUreqhuunsMGVZiKeiEFEJ+ZB429+bL65hi3kqdf5vgiCkvEMRs2MEPLKGpkHjncmDgYr1iZaNgUsVrHATbEQYrLbQFxWKufPs6Y0kTLIWsfTduIk05bo/s5xfxXbpsN4qUOA==;C2tcdzwppMhPqM0Gdl7/Jg=="
 ---
 

@@ -48,6 +48,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind founder leaves to take up separate AI role with Google"
+    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
+    publishedDateTime: 2019-12-09T11:05:00Z
+    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
+        width: 555
+        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -112,6 +125,6 @@ related:
         width: 632
         height: 422
 
-secured: "hsnd5LRL2Cowb+qkOYGI8NGY4O5urrIheUYg+wUIVPIOy2y+viL44rDJWTMhAm+wU3r/PxGE0rUAt9r+7QxOfxpvLxk2T7u8gHFDfRMZ9Zb/KHkPgl5fFStj0i48jy6BqQP6ZH/CBbg1TIxOTGkmbK0SXO9/JLrpGHFnJicRhHO9XhPaJ+u4V/7wjRETuS8LaC3dSFcfClM3RINWe6ifKCdnkkeeRzlrDQbLbNgEVRAf4BGOUV7lG0PGLdgp2J5fdDZMVJ4mh9fyLilvQ8v5Ew==;WkHAi7VZfEyykEX3Uv4Y/g=="
+secured: "jfnjXx/k5X7aAj8gweZi23GZjl/ccKHBvEB1sPp1/TJVm81X9vlNWNYr9EF8KwL5wRlHroel/VCsVdECiVAxad3YEU8QQNS/p9UTHKkufxtcUrLwk5uPIXNw2y+ItRjBKVhILZgzNPdQEgHg8d5sIRj13qogiUnAKwkDYfDfDwgvTAyqa+sPRs0R9HsHtDXiY6blctl//WhsSHBqjxxrYKmmQrKl7tmrm7wF1v1LSVXK9RH2h3Ji7O/8g1drUItwU+fSgfwH9B9C1foGoAwICw==;PjD338xIvZ27YPTdW07+hw=="
 ---
 

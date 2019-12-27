@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
         width: 700
         height: 350
-  - title: "Data-driven deep reinforcement learning"
-    excerpt: "One of the primary factors behind the success of machine learning approaches in open world settings, such as image recognition and natural language processing, has been the ability of high-capacity deep neural network function approximators to learn generalizable models from large amounts of data. Deep reinforcement learning methods ..."
-    publishedDateTime: 2019-12-07T20:00:00Z
-    sourceUrl: https://robohub.org/data-driven-deep-reinforcement-learning/
-    type: article
-    provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9DA366F83C890F049013C82278C2F206
-        width: 700
-        height: 234
 
 secured: "rAwHe46FR3vL8WHCwDBvPlDRfJd3fBihSETcoPE2wf1534zaqnrj0SZ8H90XSSekZDlC0HCAAC1T+hufWIuoXV3CHzsx35p4IvGXSI0LPpznpfLc8eMoj+BEYY9/RVX+MP7Oj0AvSNKzJHycKCnkD8YO6Xs8YWuYea8z+2utV41UVg4VIFAoOhcVKH41/0BB/Rbtuoyrv0u4ttTwkkvyGLpwW+FW+bV70ke7klMitLyQ5JxO2EurV4UrsswlRj5oQIEoL1Bj2SEpWKaQDRhLSg==;fW2YvERYP7jA8EHDFt/c1A=="
 ---

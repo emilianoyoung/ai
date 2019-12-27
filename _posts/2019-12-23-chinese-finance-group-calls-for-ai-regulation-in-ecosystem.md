@@ -25,19 +25,19 @@ images:
     title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
 
 related:
-  - title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
-    excerpt: "QINGDAO, China/BEIJING — China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday. \"We should not deify artificial intelligence as it could go wrong just like any ..."
-    publishedDateTime: 2019-12-22T06:30:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/22/business/22reuters-china-economy-artificial-intelligence.html
+  - title: "China Should Step up Regulation of Artificial Intelligence in Finance, Think Tank Says"
+    excerpt: "\"We should not deify artificial intelligence as it could go wrong just like any other technology,\" said the former chief of China's securities regulator, Xiao Gang, who is now a senior researcher at the China Finance 40 Forum. \"The point is how we make sure it is safe for use and include it with proper supervision,\" Xiao told a forum in Qingdao ..."
+    publishedDateTime: 2019-12-22T06:35:00Z
+    sourceUrl: https://money.usnews.com/investing/news/articles/2019-12-22/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 59
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.A14B8283E703FE82A8791744EC03F329
+        width: 700
+        height: 445
 
 secured: "eFPmt1F71LSK/Vl9hKOPpULoe7CGKh8TAtfQyuOG1Ye8MVaKMi/wnboJBGrF/kMPDiiQwrx4SltgCQw5ogOF8f731Kit3G0hY2PLxyGXgMqpoNjaOxdQSX/XE8NU3k1Yl2khpNhoLkeZC9kAOC2ZkRUYTJvnvff59OK3gK0qzjiVh6Ahy7SsNw6Yx0gwLOpA48t0lmzed4eabBGIgRQ44iPkjhd6iXS8Udj8oPJ1VQR4WmPZJ0p6PybBW2Ph5ol7xv4eAZtfAIth5Aa7aqgAqg==;fFEBkh0IkKOtyw6vwZTYiw=="
 ---

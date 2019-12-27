@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 315
     title: "Predicting How AI Will Improve Talent Management In 2020"
+
+related:
+  - title: "10 Ways AI Will Impact Talent Mobility in 2020"
+    excerpt: "At the same time, they would be satisfying the career progression aspiration of their employees. Research says that AI can help optimize this process. AI technologies can overcome the mobility challenges that are holding an organization back. This technology can help the HR team find better skill matches, tap a larger pool of internal talent ..."
+    publishedDateTime: 2019-12-27T20:33:00Z
+    sourceUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289
+    ampUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
+        width: 700
+        height: 420
 
 secured: "dvotTl7xkmZpDVrXSavM7lKSLHVsK8J8VhpifZYi2H9vtxYG4FXRurhf2S8rRtR5+XK+0AIpwaWgPpDJ1Mo19Hpf2hRv04uq/HqyEXc/olVWNSU4nbjf9Ts/B/qZP3Tv4L4UVuT9S4b1E59bjbDq7b7XooLCpCkgdxIYo3/Kq2TbQtp1hSHquqimkiwfL8/u2p74lZiXPv6gM2+KVMNE1O602bsNWTserxPQDrc20qUBdLuPMxNY/o3WhNgIwYLIXELFgr3k2ia+5Dn/5ch5yg==;LdmT9FP8OKUqCAyFs/sm9A=="
 ---

@@ -68,6 +68,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9F39316CCD47715A1F5DC0B73715FFEE
         width: 700
         height: 393
+  - title: "LG Premium Soundbars With AI-Powered Calibration Are Headed To CES"
+    excerpt: "Ahead of the event, LG announced it plans to roll out an \"impressive lineup of soundbars\" with premium quality audio, easy connectivity, smart functionality, and \"AI room calibration.\" I can hear you groaning as you read that last part, and it's a natural reaction—it seems everything these days touts AI technology in some form or another."
+    publishedDateTime: 2019-12-27T20:55:00Z
+    sourceUrl: https://hothardware.com/news/lg-soundbars-ai-powered-calibration-headed-ces
+    ampUrl: https://amp.hothardware.com/news/lg-soundbars-ai-powered-calibration-headed-ces
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lg-soundbars-ai-powered-calibration-headed-ces
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.62484CD34FBC70F07098087388CDA119
+        width: 700
+        height: 361
 
 secured: "wMVHybYzuL2h4pMOo+Y2dsvgoQT0PcnXKxiemLbpfsvCtO+oY6bwgLt2W/op/KgKFFbDk5LVG72FI8WPKcMENRmvYa/shHGwrSO5H/V11PaMDUnZZYlI4k7/LY7NiYAi19SqiH0aEWLoVRXHPgA2NrUYbuLELVkm3MKy+GGM5PWuzC4llUfMLABTzHD5C5g10AiOCSD5fG3GuxNrv6bZDA4E90o23DdZMJitFtabn3h39dTZSSy5Kn/5XTMBY799xDl3I4n4kS1dqAnFncVpEw==;k8SchwHGwH35OkhZ/XDEkA=="
 ---

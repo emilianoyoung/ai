@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-it
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
-quality: 104
-heat: 124
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
-    width: 700
-    height: 525
-    title: "Google DeepMind gamifies memory with its latest AI work"
 
 related:
   - title: "Google’s AI makes memory a game"
@@ -43,20 +37,7 @@ related:
       - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
         width: 700
         height: 525
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
 
-secured: "Ar7Ii8TXe2zkRUE3M0rvn0xAENA7yMZePVYg7Fq6RoCVIzAwTGD+WPl36MJU43IB/PgRGcaFko8LU3CZePsLfcB+U7Iom7bav0oRxavNanLgwXm7hpOE+ZS0R+qmH+6Pt5gIdOIaDQLY2fcrnE9jxCwUIBv8/RucYdjSfEfeyUd3xU4OKl7pva7jGeLaVnYip/x0CN4JgF54sVlR6KOvwR3V0vV5Js/JzJmj3dGkNLlY8jsHyvKlDnfJminpHn3nqyt44CAXODTZOk4455wW0g==;V0347pcm+iCXeAmg5cJU/Q=="
+secured: "RFfSthl6RjPls4LmzfEBkuFBgzDhO5tELqnqnS7rrnhbPIhSrlVEhzdhYup1AcBjyQA1VSvM/WuzBFPxdp1kqhkM3RpNxlZNSmH9YcakUqx6ir1C8l/OWFDkFckEGSwM0PvZF8q3Ou/EusNAvEG5kbMIOomYPPl1D4XSR6gaylnh3ZRiObYrmQkumzuWMr+7SmDJ13zepCI1x/PbXJyUe1F9Tl49F88bvKN+PLkwYIc9VONMpjT3us5MBj8J4B0acLiWRJRlTmfvM5oU3lobxA==;piIHr7CzG/umrUDLkWhTWg=="
 ---
 

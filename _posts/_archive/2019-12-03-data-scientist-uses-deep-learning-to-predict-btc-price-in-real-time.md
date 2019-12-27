@@ -52,6 +52,17 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 86
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -107,6 +118,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "/jmqqhHkupCAge+Vtk0ISTw6mtplF3k2WE8wZgQ+LPjX3CjCSB6tjBeCR5aFjEy+r+QHlFZhHuW05imXg6aHBIcMmByn/AeM3IQF3q+iHFZur/UrhPyM5xWgzcpn/Yrv8bRfJ85/3PeI4FF6GoCMLZFHFujr8aoVT/zMSmHZtS+CZ/38/yzTCZkhk1IvhNLYjBHj0NgWqe7IZrAiRDWIgI4J3ePehEdbUlJxXfvIGSjpd7rQf0slAIMM+yAxQoHABuAtkT0/Dw1AQMJB81gyFA==;p8bOhy4TnENxGHEhsNIAwQ=="
+secured: "GUSm3Wt2ywL+oprNTT4FUjyaqTCUbnAhw8k8O59Kbsj+jUBox/nUljsFlJ1PS78qv/FdwujnCfWk6mTIQKAmyQbZI/tJCPmjd3zhPlmGQ2tT3niWQjYQ8mDWzHTSym2NsqoLL4wP47xg6fwSgIqP5DoelfZRK+LooboN+mIIbSS1FrShIJ6Q47AmodEtfAPF5YWjBozyXF32E0Wc6lG8YzYkQpsmdxkDsIaDGJ3d5hHo3CRsVS5Nj75RZZeFntWSFZwpwVtg4KPFneSLU4AXkg==;nYdpGt9tiHUb6Taeh8Gykw=="
 ---
 
