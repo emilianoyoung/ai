@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/26/gan-generative-adversarial-network
 ampUrl: https://venturebeat.com/2019/12/26/gan-generative-adversarial-network-explainer-ai-machine-learning/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/26/gan-generative-adversarial-network-explainer-ai-machine-learning/amp/
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - IBM AI
 
 images:
   - url: https://www.bing.com/th?id=ON.B26F162D980435F367356636737DE2CB

@@ -422,8 +422,8 @@ related:
         height: 356
   - title: "IQ test for artificial intelligence systems"
     excerpt: "Washington State University researchers are creating the first-ever \"IQ test\" for artificial intelligence (AI) systems that would score systems on how ... \"We are focused on testing and improving systems that can be more general-purpose, like a robot assistant that can help you with many of your day-to-day tasks,\" he said."
-    publishedDateTime: 2019-12-13T14:43:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
+    publishedDateTime: 2019-12-13T14:44:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/wsu-itf121219.php
     type: article
     provider:
       name: EurekAlert!
@@ -583,6 +583,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "H5xH8MP1fYmOtSUO0VvsL25PoJ8tSMF6EaZVM9dJ6arzMWXPHVpJ1AacVysPNE7538YFaCDDBWmnPJ6SOzdoizwRDHmwS2sHmfZ4QXz5B0+L94thLsR+urIoSd6wAlhfeA/C4/+gjJDPE5a5kQwtqpfaZVt4zhBJ8m2z4wj1UAGvio1l9pZwzN/7YVmXXrLK4kfwRpkq6mJ+KlniaK6SWcyGjBnWuRMSSMfNQvrCUeYfXZTGuSVHsZoZS9gLWr9dV8mU0dzzu9jdhF8lKqMJjw==;/+xK6kpT/qR2DX1CF2b9/g=="
+secured: "/ELbM3MxC+Fic8/kF8IZk6VdPlPCbIpPJoJFLWW/qenwf+fWHMRxcYnwon2Udv7aPVdikERvI7VV1JMF1kp3BxssI1jJQjv5/5Df6eUf3aYmxeDxFblzBGDfISLP+GBzbQYxQzzv/NUaGdCmyc3KWCoqUK+O1kFjL7AnReDf0aUn3P2V+Y7D6OE7fXbLGX3gPA3ubVhm512bMjprLlFjmrkgpSLNHAHXrV56Hb/A+AMIhfizYRsp+fD+TeVwSN81b2MiLk6p2yHB9bnZmAwQ8g==;RRFbt/rbXYqLDhFOclAyZg=="
 ---
 

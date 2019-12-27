@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CA9909A8BEDDEE3E166F91F014E3BAEC
         width: 700
         height: 366
-  - title: "Friendly floating robot headed for International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
-    publishedDateTime: 2019-12-06T22:39:00Z
-    sourceUrl: https://wtkr.com/2019/12/06/friendly-floating-robot-headed-for-international-space-station/
-    ampUrl: https://wtkr.com/2019/12/06/friendly-floating-robot-headed-for-international-space-station/amp/
-    cdnAmpUrl: https://wtkr-com.cdn.ampproject.org/c/s/wtkr.com/2019/12/06/friendly-floating-robot-headed-for-international-space-station/amp/
-    type: article
-    provider:
-      name: WTKR.com
-      domain: wtkr.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A7E455D55158DBA0FA0F0312FEDF9A3E
-        width: 700
-        height: 393
   - title: "'Mighty Mice,' Worms, Robot Among Space-X Deilvery to Space Station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas presents in the shipment for the station's six-person crew, as well. It's SpaceX's 19th ..."
     publishedDateTime: 2019-12-08T14:44:00Z
