@@ -24,6 +24,21 @@ images:
     height: 400
     title: "Dallas firm bringing AI smarts to wound exams closer to key launch after $92M contract"
 
+related:
+  - title: "Uber to open self-driving test track in Findlay Township"
+    excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
+    publishedDateTime: 2019-12-27T00:30:00Z
+    sourceUrl: https://triblive.com/local/pittsburgh-allegheny/uber-to-open-self-driving-test-track-in-findlay-township/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.4E3C2A03F4D4B4006EF028FBCE767251
+        width: 640
+        height: 457
+
 secured: "u7cnQpBLnsgVXH/suL9S0ekzduhWgxd9Yq52h77zrzvPADivHUvCxL7u4x43/YMez47AfdhyKLo70+YWgo55VVAoWpyCO6aX9MwDQytQMmpswsoLP69sb3qGQ2KH8VuCEFcJ8bzAe344NRuhuzIK1oi413Q7Iiczuz1wpoKgyOjvZTQ57se700GM1MVAnGi3GM7rTrX+4xlwVwiUaMZKLSOLYxBy17ihHAad5NkFgpcSpSKGWCADem3HYh1n1/prbuN7fYVyYN4zXGuwXRdOUw==;VUGMtr7Qzag58rvUtTR/vQ=="
 ---
 

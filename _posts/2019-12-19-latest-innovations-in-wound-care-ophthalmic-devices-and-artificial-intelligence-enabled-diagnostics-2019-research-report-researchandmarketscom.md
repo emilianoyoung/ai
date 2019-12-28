@@ -86,6 +86,10 @@ related:
       name: thedailytimes.com
       domain: thedailytimes.com
     quality: 0
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
+        width: 600
+        height: 600
 
 secured: "P9JovhNEtJZt2AOssdbJZl1ZuFzu5RaNSvoJdIcWhf7OTdKSi7M0b7pJMk3j3iH8jyPaoU0tx9j20FcQasm51vTPAVW+Q1B2gTJUV5IJVGhjfdGzuTsROov45f4nQEssk5KG3WEP/EQn+MTfcfAmCPScyPRS1cdJgyi4kyN+RkGtOxnTkEJQAZgHKbHGKnBjyeG59PPuIvnTaOZvdIACpXyEoEu0ni7j+52ILMeNggRtcllYvWPESJ/Tb5x8pKo2G8ujhqCN402ClLfG5SbTbQ==;CKkls31knyzACCv58LAhUg=="
 ---

@@ -25,17 +25,19 @@ images:
     title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
 
 related:
-  - title: "China should step up regulation of artificial intelligence in finance, think tank says"
-    excerpt: "QINGDAO, China/BEIJING, Dec 22 (Reuters) - China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading ..."
-    publishedDateTime: 2019-12-22T11:13:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/22/reuters-america-china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/22/reuters-america-china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/22/reuters-america-china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says.html
+  - title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
+    excerpt: "QINGDAO, China/BEIJING — China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday. \"We should not deify artificial intelligence as it could go wrong just like any ..."
+    publishedDateTime: 2019-12-22T06:30:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/22/business/22reuters-china-economy-artificial-intelligence.html
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: New York Times
+      domain: nytimes.com
     quality: 59
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
 
 secured: "eFPmt1F71LSK/Vl9hKOPpULoe7CGKh8TAtfQyuOG1Ye8MVaKMi/wnboJBGrF/kMPDiiQwrx4SltgCQw5ogOF8f731Kit3G0hY2PLxyGXgMqpoNjaOxdQSX/XE8NU3k1Yl2khpNhoLkeZC9kAOC2ZkRUYTJvnvff59OK3gK0qzjiVh6Ahy7SsNw6Yx0gwLOpA48t0lmzed4eabBGIgRQ44iPkjhd6iXS8Udj8oPJ1VQR4WmPZJ0p6PybBW2Ph5ol7xv4eAZtfAIth5Aa7aqgAqg==;fFEBkh0IkKOtyw6vwZTYiw=="
 ---

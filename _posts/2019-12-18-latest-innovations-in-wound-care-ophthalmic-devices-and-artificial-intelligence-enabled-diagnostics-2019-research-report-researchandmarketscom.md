@@ -17,6 +17,12 @@ topics:
   - AI
   - AI in Healthcare
 
+images:
+  - url: https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600
+    width: 600
+    height: 600
+    title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
+
 related:
   - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
     excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
@@ -87,6 +93,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "LW5EXtNRjNKo8+0piJOS+siPuy61XgbPTrn5qYJRXZKDImVLUWKoZKUZmZHGr3zQwqUK11BkBbZUdTDP4HxFELN/5RBp6NEy7xoUFGmaxh/n31y6FW8FDIQcX4+BEV00ZYd2OrNxOZaTcBXGPlQ/7i4mLniYj4Qd+PtzcEg1F7sgg+xx4NfWy7Tk6U5a6yyzkaSMhtd5v6T2GsZVaF86Hj8bYmjVbITbeHNrN5bj31kZqEdXAPz+H2OYhgdrMMK/dqPx8xNBHs/krS0Sg3zvJQ==;MME20G87XTGNUs9pXAi9/A=="
+secured: "qXGOPfRjdZWqH2trFTGRcAVvcxa20iclV9WaCEbuJntJniv6PoSxk1g6Yk2+cheJ/5n9jo6FTzZIR9CnnPCF7UA23/zgw4QivhyPO0HqtlxgzcVXNy9ewRfRS6/AvoJPOepCtyHsjX52VdgqbNU2I+ftN65UOSJkND1howlwH2nIhsoVXQvEnNn+dfD3EvTwjaOINIlv1dOZEgYacyS8b0ou/W63NPqtfIad/J04ebsezYn3+MsuFv4e5bCPvvE6qH+HB47YcSj81LB/JkZsUQ==;KXnUEXX+ug2I/7AFb1JfmQ=="
 ---
 

@@ -28,19 +28,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 83
-  - title: "Self-driving vehicles will render transport landscape obsolete"
-    excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
-    publishedDateTime: 2019-12-19T06:40:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/self-driving-vehicles-will-render-transport-landscape-obsolete-1.4119602
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
-        width: 600
-        height: 315
 
 secured: "JAp4MjjVuLS3GN5zOtzl1WyAwhW9y1aNXSzc6e32j0uNrQo9SQtTSEaT2g7KZbooxrVNT1ziIPo70zkypxn0oFJhSRcUEPwfutMphPGZX72G1pMZkqSOt1KKtabu6caYR/TfqAVGp5bDxeW6yPjdc4CD6IUJEHe4bKNWp2SGNgiIH+iuyurNx0NL0lhTFx/KSWSI5vP26MOXANztj5JCe2qWKEQTjyqAuo8T3SjiYKO3F7pCpXndC9K+6u+kPIa4khXVviF2Ws0O73cA2HNKQw==;JvvN9app+btXOC8WCMdR4Q=="
 ---

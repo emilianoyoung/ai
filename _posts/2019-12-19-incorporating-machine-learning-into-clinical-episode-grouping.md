@@ -27,7 +27,7 @@ related:
   - title: "Incorporating Machine Learning into Clinical Episode Grouping"
     excerpt: "Dec. 19, 2019 /PRNewswire/ -- As healthcare organizations increasingly incorporate predictive analytics into their operational workflows, it is becoming more important for clinical episode groupers to be designed with machine learning in mind. But many ..."
     publishedDateTime: 2019-12-20T00:50:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_health/incorporating-machine-learning-into-clinical-episode-grouping/article_0aee5f1b-92be-5da9-b2e5-1e79d0938bd0.html
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/incorporating-machine-learning-into-clinical-episode-grouping/article_0aee5f1b-92be-5da9-b2e5-1e79d0938bd0.html
     type: article
     provider:
       name: WFMZ-TV

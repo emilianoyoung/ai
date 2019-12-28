@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T01:07:00Z
 sourceUrl: https://finance.yahoo.com/news/adtheorents-dining-trends-report-examines-145500228.html
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -17,19 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving vehicles will render transport landscape obsolete"
-    excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
-    publishedDateTime: 2019-12-19T06:40:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/self-driving-vehicles-will-render-transport-landscape-obsolete-1.4119602
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
-        width: 600
-        height: 315
   - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
     excerpt: "Computer vision is helping make queue lines more efficient in the UK, quantum computing for ML is gaining traction, and machine learning frameworks are releasing new iterations: PyTorch 1.0 and TensorFlow 2.0 are new in the last year. Meanwhile, hardware for AI and ML applications is also progressing. Google’s TPUs are in their third ..."
     publishedDateTime: 2019-12-13T00:01:00Z

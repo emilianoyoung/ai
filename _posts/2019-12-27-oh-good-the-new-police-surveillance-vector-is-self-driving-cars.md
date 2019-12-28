@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T21:06:00Z
 sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,64 @@ images:
     width: 700
     height: 393
     title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
+
+related:
+  - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
+    excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
+    publishedDateTime: 2019-12-28T14:13:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
+        width: 600
+        height: 315
+  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
+    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
+    publishedDateTime: 2019-12-22T16:21:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
+        width: 600
+        height: 315
+  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
+    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
+    publishedDateTime: 2019-12-23T08:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Is self-driving technology the future of trucking?"
+    excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
+    publishedDateTime: 2019-12-25T05:00:00Z
+    sourceUrl: https://finance.yahoo.com/video/self-driving-technology-future-trucking-050000353.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
+        width: 700
+        height: 393
 
 secured: "j+d9ntcxIXqHnCE3NkdyKgXTaRSBn9P8hxtqWDvnte5PrpkyapDSPKAEp2GF+BOHP6dOmMve/1jSwe9XXeuDUlX2iqR5cc3KePnV5mADtFFZg3gSt7tOAHFRHf88yQOHsc7dd18B6jiqUBc+rRpLSu+YHFIo4e/Cy5fh6AQxhNPFNl3t0ItYqMzYwOv2LDits4hyRAWFjvc4kjc78JpGRKLq1qYu5WWEdloN4wqZq2dwkYYqH5EVS1Fn7Jqbsd44r2oqrnf5bekmZAKK9UQ5SQ==;eYY+dc2/rU1rrPF/gFR/3w=="
 ---

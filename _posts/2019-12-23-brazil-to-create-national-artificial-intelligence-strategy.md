@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artif
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -82,6 +82,21 @@ related:
       - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
         width: 700
         height: 466
+  - title: "China and Russia plan to boost scientific cooperation with focus on artificial intelligence and other strategic areas"
+    excerpt: "Meanwhile, the Chinese foreign ministry has identified fields such as communications technology, artificial intelligence and the “internet of things” as promising fields for collaboration. The focus on tech cooperation was agreed by Putin and Chinese President Xi Jinping in June, when they stressed that China-Russia relations had entered a ..."
+    publishedDateTime: 2019-12-28T14:34:00Z
+    sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
+    ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.3C21826743DAF066F0EE1D70CAED15DD
+        width: 700
+        height: 367
 
 secured: "zEiPmcbnbpb8jAMS3MUQy72U2y9zRGO/4RBQQTCUzt82CIwnZ1NrIJEPvjQ6wMg/RWG3PfkgldNZa/8tKtMXwk2UX7uzVZwNMoQIBx2GtDNmh07ksvdqt6aQGND7rn3kn3L4w3bBhvq3xhWXtNY2KmBt4GxO560kp18FtCPA2y48btZGlAqRYb3KOpnz0wFn/KUz54/sAXImZak1bkIK0G6730PQULbhcnwDQ3ULyUT5dRp1pStC6A3hr12DVbqXPa8WNrAELnSVf7SFulqAFA==;s2fAtJEb4Be1ViNh3g53zQ=="
 ---

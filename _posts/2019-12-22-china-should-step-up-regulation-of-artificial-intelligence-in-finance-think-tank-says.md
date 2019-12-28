@@ -1,26 +1,30 @@
 ---
 category: news
-title: "China should step up regulation of artificial intelligence in finance, think tank says"
-excerpt: "QINGDAO, China/BEIJING, Dec 22 (Reuters) - China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading ..."
-publishedDateTime: 2019-12-22T11:13:00Z
-sourceUrl: https://www.cnbc.com/2019/12/22/reuters-america-china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says.html
-ampUrl: https://www.cnbc.com/amp/2019/12/22/reuters-america-china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/22/reuters-america-china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says.html
+title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
+excerpt: "QINGDAO, China/BEIJING — China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday. \"We should not deify artificial intelligence as it could go wrong just like any ..."
+publishedDateTime: 2019-12-22T06:30:00Z
+sourceUrl: https://www.nytimes.com/reuters/2019/12/22/business/22reuters-china-economy-artificial-intelligence.html
 type: article
 quality: 59
 heat: 69
 published: true
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
 
 related:
   - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
@@ -39,6 +43,6 @@ related:
         width: 457
         height: 305
 
-secured: "LGATs9CUXFVK4DuGACqHJMeqCypI/n3xQPbGJScb+T8dho6dZOL8cXcwkY63gPTVMNSG+e4khZSno2qT3WIGgZgrzBd7DenR303GlEcQvLFcKH6J4AjhSP1dlZeZ3wDZgmrIK31OHWUoz+HTvFVqcndGidN14zVom7jX5orWckqj9vfdONdE/+szxqm6lXy2Wyx7gSQ/KOWTk1yYvBtF24ABCMXD4Wa96xnomYMxYTXbRR0rqhdJyTdHcdxMPu0iHsvELqjZcumTL7n76ueZcg==;ZoS3yejrdTACZZHO68vpug=="
+secured: "Ck3CBPGJhu5EwXqjXuaSoQBpVPf+ImzYiaH70+E5+kRQuaY164qAez/3KInHVVNPVYUJ2nubz8EfI1yvzdXqTKS2BxnjH5XkLnrnhMdLxxmwb+kpxNpMtMbvbyYlenPz+AED2YKUDRat6WE0qXOxca5exDXw75x7X5AN5IndROtblT1vEjQW2CjaxGrOb8XnXd4Qq+b1fxYCq9En08GYw9wSlFjieTTGiHZfIkJIiEy6WVgXP8GoCiaUYj4Gu2Enu33GCXdayurTB/eZZPWpeg==;ziCUbw4/K73Q8QGqys6+ig=="
 ---
 

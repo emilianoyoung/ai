@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/machine-learning-means-expanded
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-means-expanded-job-roles-for-developers/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 700
     height: 525
     title: "Machine learning opens up new worlds for developers"
-
-related:
-  - title: "Creating Together Opens a New Future of Self-Driving Cars"
-    excerpt: "SINGAPORE, Dec. 17, 2019 /PRNewswire/ -- Demand for self-driving cars and the safety it brings is rising, particularly in Japan, where a super-aging society has upped the stakes considerably in recent years. Learn how Toshiba's image recognition technology, Visconti™, developed and refined over half a century, provides a myriad of ..."
-    publishedDateTime: 2019-12-17T02:13:00Z
-    sourceUrl: https://finance.yahoo.com/news/creating-together-opens-future-self-020000062.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B7FE6EBDC3D09EA0E2271B97BFDBB314
-        width: 600
-        height: 301
 
 secured: "1WA6WvHkF/7PWTd9M0Lqrh8ShhDYteWyHBf2pOvCCmLp38wDfMuLsg/zALaf2vrONPnL7CDd0nxV1AOPm+QK1PWaafxDENtNgwr9oXspys/xjyQbfqHsWYQADGNJ7kaYb8ppZajT/lu0YuOSsmwOqoFZQ6QvOZEbH+J/p6C2oreqnQZ+f1zRrVLa4f8yIc7N0dTM/y9wvF0NIQNFelufy1A9BZSu0oS3UsVEO2BWhemqaumto+oodDtc9nfp/vVEwPthHsdBtXvpR3MoqAdyOg==;YHzXQVZO/LGythAHbsOOKw=="
 ---

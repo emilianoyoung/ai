@@ -39,6 +39,36 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
         width: 2000
         height: 1000
+  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
+    excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
+    publishedDateTime: 2019-12-13T20:19:00Z
+    sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
+    ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
+        width: 700
+        height: 393
+  - title: "Self-driving cars: A decade of hype, but what's the reality?"
+    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
+    publishedDateTime: 2019-12-18T18:18:00Z
+    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
+    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
+        width: 620
+        height: 348
 
 secured: "h9wgBVBkSIYn381MLnhvBGRCPdbCR/e0VXdJEfSW2YKW7K80zILXZR4qQsOWVr8fhxfKbRhNifWKwAOx4rZpzMhlcEJ3zHtoXLDrvfDPCoVyZcd8U0ZLdfvqFk6sH+WLGdJ02WnhHqmGlpO4kB+2Fz9ios2B7b6Vjg0A3mzmz2QV/WLhoXMOtWVdku/CSs7/I0PX2apnF8hAq0IIi5Gxd1TUTXJA4rxWHmwiAlR/3LexrVkpE/v8lqkJBZHrFkSZtOH5K/9YzP3BISEirLjDEQ==;1SVvepjNDw5n+7bLil6PLA=="
 ---

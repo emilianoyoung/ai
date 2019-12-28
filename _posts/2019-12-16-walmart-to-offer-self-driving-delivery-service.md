@@ -26,314 +26,437 @@ images:
     title: "Walmart to offer self-driving delivery service"
 
 related:
-  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-    publishedDateTime: 2019-12-10T15:12:00Z
-    sourceUrl: https://news.yahoo.com/walmart-partners-self-driving-startup-151221887.html
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human ... sure\" they are at least as safe as cars on the roads. \"There's a lot of back ..."
+    publishedDateTime: 2019-12-20T21:37:00Z
+    sourceUrl: https://news.yahoo.com/exclusive-u-agency-talks-gm-213711681.html
+    ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 110
+    quality: 134
     images:
-      - url: https://www.bing.com/th?id=ON.62EE305FA562210566F4FECDE994AC50
-        width: 700
-        height: 412
-  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-    publishedDateTime: 2019-12-11T00:09:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/walmart-partners-self-driving-startup-151221887.html
+      - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
+        width: 800
+        height: 525
+  - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
+    excerpt: "Theoretically, passengers could be picked up from their home or the office in the self-driving pod vehicle, brought to the Hub, and then board the aircraft. Hyundai says the Hub could also be a location for “community activities,” essentially helping embed them into urban life rather than – as with current airports – having them silo ..."
+    publishedDateTime: 2019-12-20T19:22:00Z
+    sourceUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/
+    ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 110
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
-        width: 700
-        height: 412
-  - title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
-    excerpt: "The autonomous luxo-barges are part of a test program that hopes to develop a true Level 4/5 autonomous vehicle. Many companies working on self-driving car projects seem to think that people want to be wafted about between destinations in some kind of living room-like pod thing. Sure, that idea will appeal to some consumers but I think there is ..."
-    publishedDateTime: 2019-12-09T13:03:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-    ampUrl: https://www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
+      - url: https://scdn.slashgear.com/wp-content/uploads/2019/12/Hyundai-flying-car-concept-ces-2020-0.jpeg
+        width: 1275
+        height: 781
+  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
+    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
+    publishedDateTime: 2019-12-16T14:39:00Z
+    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
     images:
-      - url: https://www.bing.com/th?id=ON.00927AD32E841ABE9883CD7684A4E91C
+      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
         width: 700
-        height: 393
-  - title: "Nuro Self-Driving Robots Will Deliver Walmart Groceries In Houston"
-    excerpt: "Nuro, based in Mountain View, California, was founded by engineers who once worked at Google’s self-driving vehicle project in 2016. Nuro has so far raised over a billion dollars from investors like the SoftBank Vision Fund and Greylock for its ambitious plans to get as many deliveries as possible out of human hands and into robots."
-    publishedDateTime: 2019-12-10T21:29:00Z
-    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/10/nuro-self-driving-robots-will-deliver-walmart-groceries-in-houston/
-    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/10/nuro-self-driving-robots-will-deliver-walmart-groceries-in-houston/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/10/nuro-self-driving-robots-will-deliver-walmart-groceries-in-houston/amp/
+        height: 490
+  - title: "Here’s Why Shrewd Survivalists Know You Should Dread Self-Driving Cars"
+    excerpt: "This brings up an interesting question: Will the advent of true self-driving cars be helpful as a means of having an at-the-ready a Bug-Out Vehicle or will driverless cars be an ill-advised way to escape? The answer is that self-driving cars are going to be a dreadful choice of chariot when seeking to ride to safety, and thus survivalists are ..."
+    publishedDateTime: 2019-12-14T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/14/heres-why-shrewd-survivalists-know-you-should-dread-self-driving-cars/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.FA37E56B78F27D1EB916CAB5FB937C91
+      - url: https://www.bing.com/th?id=ON.E584F598C610ED14C7233F3BAF1C524E
         width: 600
         height: 315
-  - title: "Walmart Tests Self-Driving Cars for Grocery Delivery in Houston"
-    excerpt: "Justin Sullivan/Getty Walmart announced a partnership with the robotics company Nuro on Tuesday to test a system for delivering groceries with self-driving vehicles beginning in January 2020. The retail giant has been in the grocery delivery business since 2011, when it first began to pilot a program in California that allowed customers to ..."
-    publishedDateTime: 2019-12-10T18:00:00Z
-    sourceUrl: https://www.newsweek.com/walmart-houston-autonomous-vehicle-delivery-test-1476527
-    ampUrl: https://www.newsweek.com/walmart-houston-autonomous-vehicle-delivery-test-1476527?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/walmart-houston-autonomous-vehicle-delivery-test-1476527?amp=1
+  - title: "Let’s Not Butter Up Those Self-Driving Truck Highway Stunts"
+    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
+    publishedDateTime: 2019-12-16T17:29:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.DECA53778FE9EFD9C54C0C94D5A61C2A
-        width: 700
-        height: 478
-  - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
-    excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
-    publishedDateTime: 2019-12-11T14:10:00Z
-    sourceUrl: https://www.wsj.com/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    ampUrl: https://www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
+      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
+        width: 600
+        height: 315
+  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
+    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
+    publishedDateTime: 2019-12-16T01:08:00Z
+    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
+    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
+    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: New Atlas
+      domain: newatlas.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
+      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
         width: 700
-        height: 350
-  - title: "Walmart teams with Nuro’s robot cars to deliver groceries in Houston"
-    excerpt: "Though the current delivery system relies on the company’s employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
-    publishedDateTime: 2019-12-12T03:24:00Z
-    sourceUrl: https://www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/
-    ampUrl: https://www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/?amp=1
+        height: 367
+  - title: "General Motors pushes for self-driving car tests sans steering wheel"
+    excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
+    publishedDateTime: 2019-12-23T18:36:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/general-motors-self-driving-cars-tests-prototype/
+    ampUrl: https://www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/general-motors-self-driving-cars-tests-prototype/
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.75BA2FADB57F25FA0E972394C2101F38
+      - url: https://www.bing.com/th?id=ON.382F754EF39548F7E50C2C8D74612194
         width: 700
-        height: 449
-  - title: "VW parent buys stake in Apple vets’ Mountain View self-driving sensor startup"
-    excerpt: "Porsche Automobil Holding SE, the parent of Volkswagen, on Wednesday said it has acquired a minority stake in Aeva Inc., a Mountain View self-driving tech startup founded by a pair of former Apple Inc. engineers. The financial details weren't disclosed but the auto giant reportedly plans to use Aeva's lidar sensors on Volkswagen ID Buzz buses ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
+        height: 367
+  - title: "GM requests green light to ditch steering wheel in its self-driving cars"
+    excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
+    publishedDateTime: 2019-12-24T04:40:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/
+    ampUrl: https://www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/gm-requests-green-light-to-ditch-steering-wheel-in-its-self-driving-cars/?amp
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 56
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.ABFE40BEAAA9F72DE01653EB542ECB0D
-        width: 700
-        height: 394
-  - title: "S-Class taxis with no driver: Mercedes-Benz and Bosch to launch self-driving ride-hailing service"
-    excerpt: "But that hasn't stopped Mercedes-Benz and Bosch to roll out their autonomous ride-hailing service. Self-driving or fully autonomous cars are quite the epitomai of automotive engineering in today's world. Well, there are also sci-fi movie cars that can hover and have no wheels but let's take baby steps. Speaking of baby steps, Mercedes-Benz and ..."
-    publishedDateTime: 2019-12-10T10:57:00Z
-    sourceUrl: https://www.financialexpress.com/auto/car-news/mercedes-benz-daimler-bosch-self-driving-s-class-autonomous-ride-hailing-service-waymo-one-california/1789809/
-    ampUrl: https://www.financialexpress.com/auto/car-news/mercedes-benz-daimler-bosch-self-driving-s-class-autonomous-ride-hailing-service-waymo-one-california/1789809/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/mercedes-benz-daimler-bosch-self-driving-s-class-autonomous-ride-hailing-service-waymo-one-california/1789809/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.500A6F2C2C6541BA4B17CCCE4833B4AD
-        width: 660
-        height: 440
-  - title: "Walmart testing self-driving vehicles for grocery deliveries"
-    excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
-    publishedDateTime: 2019-12-11T15:56:00Z
-    sourceUrl: https://6abc.com/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    ampUrl: https://6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    cdnAmpUrl: https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.009584158FE78676CDE37472B1FFBE2C
-        width: 700
-        height: 393
-  - title: "Walmart will deliver groceries in Houston using self-driving cars"
-    excerpt: "The company announced a new test yesterday in the Houston, Texas area using technology from Nuro, an autonomous vehicle company. Nuro will use electric, self-driving vehicles to deliver groceries from a select group of Walmart stores in Houston, according to CNBC. A pilot group of customers who opted in to the test will be the first to get ..."
-    publishedDateTime: 2019-12-11T15:20:00Z
-    sourceUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html
-    ampUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    cdnAmpUrl: https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4DF6043CF84BBB8B8E48F523B9D4A36
-        width: 700
-        height: 393
-  - title: "Self-driving food delivery service launches in Ann Arbor"
-    excerpt: "ANN ARBOR, MI -- Robotic food delivery is now available in Ann Arbor. Refraction AI has long been working on the Rev-1, a self-driving robot that delivers food from restaurants to customers, and the Ann Arbor-based company is launching the service to the public Thursday. Upon ordering, a code and delivery notifications will be sent and once the ..."
-    publishedDateTime: 2019-12-12T15:05:00Z
-    sourceUrl: https://www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html
-    ampUrl: https://www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html?outputType=amp
-    cdnAmpUrl: https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html?outputType=amp
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.112FFA02A105E6FA7F04CBAB8BCF3369
-        width: 700
-        height: 455
-  - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
-    excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
-    publishedDateTime: 2019-12-10T19:00:00Z
-    sourceUrl: https://jalopnik.com/tesla-on-autopilot-crashes-into-cop-car-because-driver-1840324516
-    ampUrl: https://jalopnik.com/tesla-on-autopilot-crashes-into-cop-car-because-driver-1840324516/amp
-    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-on-autopilot-crashes-into-cop-car-because-driver-1840324516/amp
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.69AF0F2E2F2AA07E798FDCA6591ED864
-        width: 700
-        height: 393
-  - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
-    excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
-    publishedDateTime: 2019-12-11T01:33:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/
-    ampUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
-    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4EF6CDA22ACE58335CF9816F17F8BC03
+      - url: https://www.bing.com/th?id=ON.4809BA22EEC833A529D2F50A4F5D923E
         width: 700
         height: 366
-  - title: "Walmart teams with Nuro's robot cars to deliver groceries in Houston"
-    excerpt: "Though the current delivery system relies on the company's employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
-    publishedDateTime: 2019-12-11T18:45:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Walmart-teams-with-Nuro-s-robot-cars-to-deliver-14899147.php
+  - title: "News Of Walmart Aiming To Setup Edge Computing For Self-Driving Cars Generates Both Surprise And Questions"
+    excerpt: "A recent business news story indicates that mighty Walmart is aiming to put in place specialized computers at their stores that would be used to aid self-driving cars utilizing so-called “edge computing” capabilities (for background about edge computers and AI self-driving cars, see this link here). Say what? According to the media reports ..."
+    publishedDateTime: 2019-12-23T15:16:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/23/news-of-walmart-aiming-to-setup-edge-computing-for-self-driving-cars-generates-both-surprise-and-questions/amp/
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.EA24B65D418B5E3B753629E0CAD79FC3
+      - url: https://www.bing.com/th?id=ON.346D41C30139C10D26A49339CDF12A03
+        width: 600
+        height: 315
+  - title: "Electric DeLorean pushes the limits of self-driving tech with flawless drifting"
+    excerpt: "Stanford engineers have somehow taken the iconic DeLorean and made it even cooler, by teaching the vehicle self-driving capabilities to flawlessly drift through a racecourse. The DeLorean, which left its mark on the movie industry through the Back to the Future series, is now also turning heads in the self-driving technology space ..."
+    publishedDateTime: 2019-12-23T02:01:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/
+    ampUrl: https://www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/self-driving-drifting-delorean-stanford-university/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.3411133D5BC861ABF561F9D06CBE7D7A
         width: 700
-        height: 466
-  - title: "Walmart tests grocery delivery with Nuro self-driving vehicles"
-    excerpt: "In another experiment with artificial intelligence (AI) technology ... Both vehicles are powered by Nuro’s self-driving software and hardware. Related: Walmart tests self-driving van for ‘middle-mile’ logistics “Nuro’s vision of using robotics to improve lives runs parallel with Walmart’s mission of helping customers live better."
-    publishedDateTime: 2019-12-10T16:54:00Z
-    sourceUrl: https://www.supermarketnews.com/online-retail/walmart-tests-grocery-delivery-nuro-self-driving-vehicles
+        height: 366
+  - title: "The Three Ways That Stonehenge Surprisingly Has Valuable Lessons For Self-Driving Cars"
+    excerpt: "Sure, why not. Here’s the question to ponder: Does Stonehenge offer insights that can be used to further advance the advent of true self-driving cars? Yes, those ringing rocks have something to say. Let’s unpack the matter. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that ..."
+    publishedDateTime: 2019-12-26T15:59:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/26/the-three-ways-that-stonehenge-surprisingly-has-valuable-lessons-for-self-driving-cars/amp/
     type: article
     provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 66
     images:
-      - url: https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart%20Nuro%20driverless%20vehicle%20-%20Copy.jpg
-        width: 786
-        height: 400
-  - title: "Your next Walmart grocery delivery could come by self-driving vehicle"
-    excerpt: "Walmart is testing out grocery deliveries shipped to consumers' homes by self-driving car. The nation's largest retailer announced Tuesday a pilot program in Houston with autonomous vehicle maker Nuro to deliver groceries in vehicles that don't require a human driver. The test is part of Walmart's continued expansion in the grocery delivery ..."
-    publishedDateTime: 2019-12-10T16:49:00Z
-    sourceUrl: https://www.usatoday.com/story/money/2019/12/10/walmart-testing-grocery-deliveries-nuro-self-driving-vehicles/4384011002/
-    ampUrl: https://amp.usatoday.com/amp/4384011002
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4384011002
+      - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
+        width: 600
+        height: 315
+  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
+    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
+    publishedDateTime: 2019-12-13T22:32:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
+    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 24
-  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
-    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
-    publishedDateTime: 2019-12-11T15:48:00Z
-    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
-        width: 640
-        height: 480
-  - title: "Walmart testing self-driving car in Houston to deliver groceries"
-    excerpt: "The future of grocery shopping is already in Houston! Driverless delivery is being tested in H-Town right now! Why? Lauren Talarico connects the dots."
-    publishedDateTime: 2019-12-12T11:23:00Z
-    sourceUrl: https://www.khou.com/video/news/local/htownrush/walmart-testing-self-driving-car-in-houston-to-deliver-groceries/285-8a7add68-464f-4ab4-99dc-91a2925606dd
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.155F4D16A613CB98347A009F76161713
+      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
         width: 700
         height: 393
-  - title: "Walmart Will Test Self-Driving Grocery Deliveries"
-    excerpt: "Grocery deliveries have always been around, but some companies have been trying to take it to the next level. Walmart has recently announced that it will start testing self-driving vehicles to help deliver groceries through a partnership with a company called Nuro. Walmart says, “Our unparalleled size and scale have allowed us to steer ..."
-    publishedDateTime: 2019-12-12T07:19:00Z
-    sourceUrl: https://www.geeky-gadgets.com/walmart-will-test-self-driving-grocery-deliveries-12-12-2019
+  - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-20T23:12:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/business/20reuters-autos-autonomous-exclusive.html
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
+      name: New York Times
+      domain: nytimes.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.DF1A69D494C4D49D8A3ADADD409BEB63
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
+  - title: "UAE belts up for self-driving journey"
+    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
+    publishedDateTime: 2019-12-16T04:33:00Z
+    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
+    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
+        width: 540
+        height: 405
+  - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
+    excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
+    publishedDateTime: 2019-12-21T01:44:00Z
+    sourceUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars
+    ampUrl: https://www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
+    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/us-agency-gm-discuss-deployment-self-driving-cars?amp
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: https://media.voltron.voanews.com/Drupal/01live-166/2019-04/E22FB515-7D18-4FAD-8065-DEE631562F15.jpg
+        width: 5616
+        height: 3744
+  - title: "Ring partnerships with police: Solving crimes or invading privacy?"
+    excerpt: "Both Leawood and Kansas City police said they were not approached about that. A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to basically allow the police to follow everybody everywhere they go, because it ..."
+    publishedDateTime: 2019-12-22T22:09:00Z
+    sourceUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy
+    ampUrl: https://www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
+    cdnAmpUrl: https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/local-news/investigations/ring-partnerships-with-police-solving-crimes-or-invading-privacy?_amp=true
+    type: article
+    provider:
+      name: KSHB Kansas City
+      domain: kshb.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4E079F11F7031F44E82DE978B50F01C6
         width: 700
-        height: 457
-  - title: "Volkswagen Takes Stake In Self-Driving Startup"
-    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
-    publishedDateTime: 2019-12-15T18:34:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+        height: 393
+  - title: "US talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The US National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his agency aims to ..."
+    publishedDateTime: 2019-12-21T20:19:00Z
+    sourceUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552
+    ampUrl: https://www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/us-talks-gm-over-deploying-self-driving-cars-without-steering-wheels-1843552?amp
     type: article
     provider:
-      name: MediaPost
-      domain: mediapost.com
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.4D11C5AE4529EE45DF02037F7D6B2770
+        width: 560
+        height: 292
+  - title: "Honda wants to reinvent the steering wheel with this self-driving concept"
+    excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
+    publishedDateTime: 2019-12-24T05:14:00Z
+    sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
+    ampUrl: https://amp.jsonline.com/amp/2735603001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
+        width: 700
+        height: 394
+  - title: "Meet the 12 rising stars in autonomous tech building the future of self-driving cars and trucks"
+    excerpt: "From oceanographers turned engineers to former biomedicine students, autonomous vehicles are attracting a wealth of impressive, and young, talent."
+    publishedDateTime: 2019-12-24T18:44:00Z
+    sourceUrl: https://www.businessinsider.com/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.FF2DE9B845D732E624EE1FB791FF6D00
+        width: 700
+        height: 350
+  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-21T19:35:00Z
+    sourceUrl: https://www.autoblog.com/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+    ampUrl: https://www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2019/12/21/nhtsa-self-driving-gm-cars-no-steering-wheels/
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.A9D3C3264B31236FC225E3F387CEA923
+        width: 700
+        height: 393
+  - title: "Self driving cars are the only way forward."
+    excerpt: "Dan Amman, the CEO of Cruise Automation (General Motors' electric self-driving car division), laments the pollution, waste of space, accidents, and cost of cars as we know them today. He says \"here we are, living in a state of cognitive dissonance with exactly this — the human-driven, gasoline-powered, single-occupant car — as our primary ..."
+    publishedDateTime: 2019-12-23T09:26:00Z
+    sourceUrl: https://www.fudzilla.com/news/automotive/50017-self-driving-cars-are-the-only-way-forward
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.18451E120B6C0E8B8284AA86098FE21C
+        width: 620
+        height: 465
+  - title: "The brightest young minds in autonomous driving share their career advice for people wanting to work on self-driving cars"
+    excerpt: "Want to work on self-driving cars? Our first roundup of the industry's brightest young minds has some advice."
+    publishedDateTime: 2019-12-24T15:32:00Z
+    sourceUrl: https://www.businessinsider.com/career-advice-from-the-brightest-young-minds-in-self-driving-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
+        width: 700
+        height: 350
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
+    publishedDateTime: 2019-12-16T21:23:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/russias-yandex-making-its-own-self-driving-sensors
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+      - url: https://www.bing.com/th?id=ON.B1A91D30E8803EB2803AA1A2FD26D8CC
+        width: 700
+        height: 525
+  - title: "Creating Together Opens a New Future of Self-Driving Cars"
+    excerpt: "SINGAPORE, Dec. 17, 2019 /PRNewswire/ -- Demand for self-driving cars and the safety it brings is rising, particularly in Japan, where a super-aging society has upped the stakes considerably in recent years. Learn how Toshiba's image recognition technology, Visconti™, developed and refined over half a century, provides a myriad of ..."
+    publishedDateTime: 2019-12-17T02:13:00Z
+    sourceUrl: https://finance.yahoo.com/news/creating-together-opens-future-self-020000062.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B7FE6EBDC3D09EA0E2271B97BFDBB314
         width: 600
-        height: 375
-  - title: "Self-driving bus goes for a test ride in Osaka"
-    excerpt: "OSAKA – Osaka City Bus Corp. took media representatives for a test ride on a self-driving bus Monday. The affiliate of subway operator Osaka Metro Co. aims to start autonomous bus services in fiscal 2020, which starts April 1, in the city’s waterfront area. A French-made Navya Arma autonomous bus was used in the test. When manual driving is ..."
-    publishedDateTime: 2019-12-16T12:13:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/16/business/self-driving-bus-goes-test-ride-osaka/
+        height: 301
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. \"Waymo, however, is now working on adapting its automated 'driver' to commercial vehicles ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
+      name: Bangkok Post
+      domain: bangkokpost.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8B3953AC5574BA956B27E2F0709E0B0D
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
-        height: 466
+        height: 467
+  - title: "Self-driving vehicles will render transport landscape obsolete"
+    excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
+    publishedDateTime: 2019-12-19T06:40:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/self-driving-vehicles-will-render-transport-landscape-obsolete-1.4119602
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
+        width: 600
+        height: 315
+  - title: "Self-driving DeLorean learns how to drift"
+    excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
+    publishedDateTime: 2019-12-23T20:44:00Z
+    sourceUrl: https://www.futurity.org/self-driving-cars-delorean-drifting-2240422/
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0A3AB2906134C5EDE9D59F7C0F530BB3
+        width: 700
+        height: 400
+  - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
+    excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
+    publishedDateTime: 2019-12-24T08:48:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/general-motors-might-soon-deploy-a-self-driving-car-with-no-steering-wheel/ar-BBYiyZH
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.2D721359E19932215B607B42CCFDCEF0
+        width: 600
+        height: 315
+  - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-22T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/nhtsa-talks-gm-over-fleet-193000483.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.F56003C00AC28689DFE2107D055A8BF4
+        width: 700
+        height: 393
+  - title: "U.S. talking with GM about self-driving cars without steering wheels - Reuters"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors (NYSE:GM) on the company's request to deploy a limited number of self-driving vehicles without steering wheels or other human controls, acting agency head James Owens tells Reuters. The NHTSA aims to make a decision soon on GM's petition as well as a ..."
+    publishedDateTime: 2019-12-20T23:43:00Z
+    sourceUrl: https://seekingalpha.com/news/3527984-u-s-talking-gm-self-driving-cars-without-steering-wheels-reuters
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+  - title: "U.S. gov't holding talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said. Acting NHTSA Administrator James Owens said his agency aims to make a ..."
+    publishedDateTime: 2019-12-21T21:51:00Z
+    sourceUrl: https://japantoday.com/category/tech/exclusive-u.s.-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 0
 
 secured: "Eib8JafB6q+BXYq3NKUg1cUwJZzoN4rXGxlEsFc+QFAiTGnNTjYosXCmnkeJCA/UUVKVbXLr+j86nIPQUHevxMCcoh4haKVMCq2h2aFvciKa4Xism/XeW9y1Yrvs2XneMxvXQZyKnckUSNn2ROvngy0fyM1Wn6sZ62AteKdKuAQAB24Qr/fYb4N2oYgM2jODoowGNiG6Nr94jbteUMBuGsViZobkDBThY7BsN0OcHDjrwRKiupYUUTMVjfZVNFH5/cdT8VAkGnATbhtZ2gb/UA==;1VfVyIo+LL/lSZlMGkGQmw=="
 ---
