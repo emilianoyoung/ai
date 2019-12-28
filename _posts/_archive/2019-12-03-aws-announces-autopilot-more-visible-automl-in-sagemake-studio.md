@@ -37,12 +37,12 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 39
+    quality: 56
     images:
       - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
         width: 700
         height: 525
 
-secured: "TCWvWBJoCXjEPpXxavQE2fWM++fqTkMJgEDKNicfqwEoL/dN0VtJcscYyM/8+hBMJwW1vUrwBLJ9RVqDT6P+x+yT7Yo8jWNOmyDPR02tTuxdLnsbcXxSsOm7iPa+TB89HyV9XGubn1I1EOVXH2Nm/PYShL2uOtYLFj1MMkWdjgvgoofOO29NSUd8yokZzXpvch6S8/0Pk2uFggt7zcwIIMNcjI8mT7TwyOHwkjcKqnQY3rWZk2sRcK9sUKcho85td9DxI5v/jz1+P0eSNZt5aQ==;pFWLXi/unaTRKEoWC2eMVQ=="
+secured: "R09h13FjbUzzxhoCclRSxTulqfpnkv3hDhk2hkOQY29WEwKLmFxYHR3Sr6+avOYBKvdfLn6CbQlXXr7cofKcVe0brSX5xZZEIGhnN9sbnPS166DevbhhVCYnvhsFBSkIjiTwHEKRbZplTf2BnpdF2mkC47iumzEBERMzMBItNGlWkJBYK//i+pS1lGvuwWq6l+TrLyCOvV0FI5xfPe4hYGyV+ZttPHyoX/CwkF/gnpHKC8HprminoiC8BHW4i0b6O5MNRtXyov39uGScC+jT8A==;zglVR66ZomEqkB6rhRWdnQ=="
 ---
 

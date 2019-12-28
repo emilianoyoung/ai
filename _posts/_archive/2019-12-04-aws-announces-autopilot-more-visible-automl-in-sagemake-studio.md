@@ -5,7 +5,7 @@ excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, 
 publishedDateTime: 2019-12-04T00:20:00Z
 sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
@@ -45,6 +46,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "VWTMOf1zIoSmtCsHZ8AI/umpK8P6lkkPzYdMNgCdJvbQ4ysxDwMFYQBQAw4prYb3Ox02JsFj/cJrsmqSO8WnbGLM96a8ILPjX5S9gR19PUMHLHK/m2wk0SfxZDxM2VeFdRQN21a4diYVujFWAy12JcvuCBINTrXL03R82SseELTyc++GJAy2Xi9uk0SP48QhWX0I26sReb0NpMdfbxCC/tfqsjGWUUiDOvdJBBoNyK8bL6JmqLAPai4MNblYKzd9FmReSZ4P5w9jV37dQMlsfA==;+zoMexSUu9Vu+vfMjw5Thw=="
+secured: "kHIkPshfnzs0EkgXW6SNf2SALLWutJGRrdmrbbOfJVrjGiZRmGxyHVLVkovuRN85HZmuMVqs+YmfDr7jdB+rpy4fUc9+xg4eIwSCtx1KyQAK8GGEPO8UJNz3CMW87ed+0lN9vFQE78J24TSFBOBwNnboHEqeI6cJFPQyEti1+gNZJF2AdiB00mveNDZv0JsQooffDNrsHeOvkZOhszxBDgxDFJINCAHk4B9F9T9q6nTTkYDSIsgArDcGjLXab5Mvy1Dzch+7Fk6nMyoFtNMOgg==;fj3QQ2FyHgLRsdKvZE0aEw=="
 ---
 

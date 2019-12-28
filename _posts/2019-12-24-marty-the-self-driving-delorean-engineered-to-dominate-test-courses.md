@@ -54,6 +54,15 @@ related:
       - url: https://www.bing.com/th?id=ON.4012467D0FEB633EBEB0E8665762DFEA
         width: 599
         height: 289
+  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
+    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
+    publishedDateTime: 2019-12-28T00:56:00Z
+    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 0
 
 secured: "jI8CcacMWl9wYNI7iZW35wAdZcFneQPjanlTTM32OduNo2X96Zyqg4qR68PzzBTsXcqemRqiF50LTc66yYVGfrNy+K9Q2oMI+e84dOdZUd1J4CSlAqKj5B4YAE3DLgfNfEVlGnp3hDUKVHxt0kT+MZujxDf63uSX6IXOaosv03X0YErzXd6KSc5r9icjK/eWivIRXsURZ8HjOBwfwQA5B5tAcIqRycAzWRcLTpzx3qLenMss8LBEEwPUzhelMq0LuklYJZ0qBT0StTQNRdMXEg==;XcKJNoIozYX0/uY72A41gA=="
 ---

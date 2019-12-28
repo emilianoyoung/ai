@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Here’s how to spot legitimate AI from marketing fluff"
 
-secured: "AmEI8aVJJSvLcsni9H6Fj+u0bzPshu+6QNboG4d60H0xV+Al3h/mp5vwU5+gddXiJujp+Z2HZ+c399NTuAxhwmCJjbCeNVii+Xmpa58G3QLmO2cJ3gLAqIEIyo7fG3mKEJ/nnYUN0LYEYDEXQ9UQ4RViQQ7bzDMttQFq73xEHgdVpaoEMAmq8M3xmBTaLwmgB58+Jy4hoJeBAOZJTi4I4NddX32XPmqz7KPyZ58vxD/tc9y9tmdUNRyoBQeCi6cYRfLHaHFpYlrg+J9w9cwGMw==;69FK7OaJhYZiH6za9TviLA=="
+secured: "1J+iZJMX1ahdXhj3q7U8gnOq5yh8OOZk3zwGmFxcStTSaIT6uTil9O+hp7pWt/HYQmE6yxpF8VGN/Bbi2I9DxE/Or5nx0JXKbd3hEnd5XlQf6odjomBhbOp4+ssQ5o6sz6MgS4AY3CPZPXPzX+FNRE9Ep3MdRYbuDdYolz4F56cOEs4YZjvbdyK6QcbXBQyZVSkR8/RBUg7JL/Wf1qOztK/EB87loxTVGbX774z+IywjUTHhNhDLnVYsOZfXQl+frOp/8+/TxXt0K9rRS8ObYw==;SsPXlTIXT8srscpTa30huQ=="
 ---
 
