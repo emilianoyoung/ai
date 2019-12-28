@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6FF447E6483A0E9AB299F28CCA4ED5DD
         width: 700
         height: 350
+  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
+    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
+    publishedDateTime: 2019-12-04T12:00:00Z
+    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
+    ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: https://media.wired.com/photos/5dcef1d74d2116000890cbef/master/pass/Transpo-skidmarks-1174331136.jpg
+        width: 2400
+        height: 1600
   - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
     excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
     publishedDateTime: 2019-12-09T17:24:00Z
@@ -404,6 +419,6 @@ related:
         width: 700
         height: 466
 
-secured: "OvMVlehEX941+xQoiw4Yo2MTl3tRGjc5vE/p/JFdl4iz0O+jBwQZoh1+4sz5yOuhpC1jbRcgItEPV8G4VfrwtGMXghRPwMUSKpcBy0RCOABI6ZqpdKcM/vWVFtN2gXtoD4v+kJE1WXWTQ/h/4Gz79f03/ZXB00MWe16RazTxLmgqoWiU1HeywMq2cj0OTrh0Dai/MMaMRVlMrXBz3I0/mdf56vpKmLtLCqz9qz8JquBh+NqHmHWjaeO3ZfJn0oZ0vgNzV0f+mq7h+ZlEbwsMdw==;MtWOc0AteKbYeqZTc3621Q=="
+secured: "Wrlu4a3mwRBPY3VN/rblCytyN3ytHAa+VTVDrQCcY45ijwqMEpCZTp8G65OzGbb1B4HOpipT6t6LdHD0ffsqJKIWzJla3rpyy4ebcq8rwxzNq2IIcP36bEgKQ6G4N98oyoi9oeDQIa25Fe9zJletg7CVfZPqzs9rcPdroPqiQ25U7rdZXG2Klk1NFJRh2uZgXL8jtPVRqoe38eyPz6/AatRJpRJam/DCOwnhZofPAkVXT5RoFDn900r+yJ/qZgNK7WPfBLngqDxmIr4PiTdIMw==;ZeFkmSl5WBpo4owMLoF2qw=="
 ---
 

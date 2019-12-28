@@ -46,21 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DABDF5F5F6259EAF71BFBA3D3B13A33B
         width: 600
         height: 315
-  - title: "Using Artificial Intelligence To Analyze Markets: An Interview With Ainstein AI CEO Suzanne Cook"
-    excerpt: "To learn more about the use of artificial intelligence at it may be applied to analyzing stocks and markets, I asked the CEO and originator of Ainstein AI about her work in this area. Suzanne Cook is a Wharton School graduate and a seven-time Institutional Investor All Star Analyst. According to her LinkedIn bio, “Mrs. Cook anticipates a new ..."
-    publishedDateTime: 2019-12-08T02:34:00Z
-    sourceUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/
-    ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BF80CE010E78E2D6487CE877A38E383E
-        width: 600
-        height: 315
   - title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
     excerpt: "Working with robotics and drawings brings me back to the body — the mark-made-by-hand ... That being said, the 'artificial' of artificial intelligence tend to overlook the human element. In my drawings, the models I train require large datasets to be effective. In my case, those data sets are decades of my drawings. Is it uncomfortable ..."
     publishedDateTime: 2019-12-12T05:55:00Z
