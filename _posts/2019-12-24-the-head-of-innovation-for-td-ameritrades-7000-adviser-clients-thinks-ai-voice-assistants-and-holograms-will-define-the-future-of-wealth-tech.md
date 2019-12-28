@@ -93,15 +93,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
         width: 400
         height: 300
-  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
-    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
-    publishedDateTime: 2019-12-17T16:23:00Z
-    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 36
   - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
     excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
     publishedDateTime: 2019-12-20T14:03:00Z

@@ -116,6 +116,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
+  - title: "Artificial Intelligence in Media"
+    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
+    publishedDateTime: 2019-12-13T23:51:00Z
+    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
+        width: 375
+        height: 360
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z
@@ -570,6 +583,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "zVAe5y9PQPxreEmu6sqxzQGztqOxxDFPVM/qD/2/BoXSoXlxWv/XWWCe82JPjTX2CwWu5RvYktBsJWcLez7F1Vq10LEmHf5/ugPxzpjsV6eQQjK5QXSpVGwFg+PVQBGOEFc0Ae5K2VVPk1bBcAVBTe5ZQUh9eCmapJ/E3/Nskzy0PA95mrTDWSIPlJb7PQ/Exc/ZQ5kgfT7oGSmHJ5NjBu1ZYxTMFui/lrwvY9+pbGPI1jrzS/OIoKlbut2BmMYLTPyru/L2IDD+aIeo/A7Waw==;4F2TfgoH5HHiZL3GBFe9JA=="
+secured: "Tj+vF3ueVtjE3TAi87YOHubynw9GYP++q+CFScmGZGN2u1mveDDapLql+rS5pmryxGE1zBbAlo7tKwTH2o73fWXIiyFEK06a8c1dSpkjtOmq32oY2w5M7QYQq1fQ1z/T6HsT8vwXn6t8WyUyiNFe6orEFKX6Lx2GTGoTkDBgS3FmTO+Z0HsvF38O6dqrYIA/S2jRkhzJqnZY0Pg7nuSTei9thE8A2rZAQ0BlTk4mKWwPq4SYtznRpQBSRGadvMxF2Ty1QVhWDHoShu/wdJKCHQ==;XQfwQ6gECGmv7gXhs4yCvA=="
 ---
 

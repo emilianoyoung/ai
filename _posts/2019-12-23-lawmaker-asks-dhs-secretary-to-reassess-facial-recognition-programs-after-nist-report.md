@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
         width: 300
         height: 170
+  - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
+    excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
+    publishedDateTime: 2019-12-28T00:06:00Z
+    sourceUrl: https://in.news.yahoo.com/delhi-police-film-protests-run-234158355.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
+        width: 700
+        height: 389
 
 secured: "Ue1VZcWBB6p+np1equyhM5K8tZdHhf5RPBvSblFVc8OdbnxXEatq0SyBmyiVqCFk9ur26Cog7GTWPYUL+N80DFYPYZ21t9ZKvqyl+E3x8pAKyY8oCol8RBoktuVFzy9GfIwThfrjoIwXIa9fScZg0IuotxbeTYXxzG+goZMZylieRh1nWdS69u5h4s86eCOJy1wMRZmtqK5yiRsmD4VrfnMjOlMczgX9pUpc1WoO2Oe0hrxEQbih37XK93fSmlNwXxtiKcg1naHwSQ5GTad5SQ==;eTZclOzWflgikAtlLZJ7Pg=="
 ---

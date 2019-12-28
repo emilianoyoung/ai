@@ -8,7 +8,7 @@ ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-
 cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
         width: 400
         height: 400
+  - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
+    excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
+    publishedDateTime: 2019-12-28T00:06:00Z
+    sourceUrl: https://in.news.yahoo.com/delhi-police-film-protests-run-234158355.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
+        width: 700
+        height: 389
 
 secured: "ArRI+A+iGQRbyzaBONsbKoT8wiWmWjIARTf+c3cqIOZV8tCFpubzMMg798In1hiz6nhfnYVz1CB4zATDeHbH7AhhCcA4PbdGioMR50IR6Hw6V8zJ8qoLjTJFkfUQp+JUqc6TT1qkCWXbr+CD63EjwLKqacAh1grtMxez67joZkv07CSdYYqoCzMiy34lGXgp7J4EI7R8z736sQvs28a6BdB1mFIAD4ekY5AD69uDZhjjLtsC0CdLamVE60QjB4DxqQR6o36Bs3OpZ5sibMdwZg==;Dz4qTkZaRPMjvLBYXxK/sg=="
 ---

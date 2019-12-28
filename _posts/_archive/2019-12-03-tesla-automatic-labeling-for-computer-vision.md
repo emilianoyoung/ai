@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tesla: Automatic Labeling For Computer Vision"
-excerpt: "Labeling is the fuel that makes machine learning run. A label tells an artificial neural network what the correct output is for a given input. For example, the pixels of empty roadway in a video are labeled as \"free space\". The pixels that correspond to vehicles, pedestrians, sidewalks, traffic cones, barriers, and so on are not labeled as free ..."
-publishedDateTime: 2019-12-03T20:43:00Z
+excerpt: "Human driving behavior provides Tesla with a source of automatic labels for computer vision tasks related to autonomous driving. Automatic labeling allows Tesla to leverage its vast quantity of fleet miles. This gives it an advantage over competitors like ..."
+publishedDateTime: 2019-12-03T20:41:00Z
 sourceUrl: https://seekingalpha.com/article/4310339-tesla-automatic-labeling-for-computer-vision
 type: article
-quality: 41
-heat: 41
+quality: 19
+heat: -1
 published: false
 
 provider:
@@ -15,15 +15,23 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - Computer Vision
 
-images:
-  - url: https://www.bing.com/th?id=ON.6803BA5DC6C8EEB26C3C17889A130157
-    width: 640
-    height: 320
-    title: "Tesla: Automatic Labeling For Computer Vision"
+related:
+  - title: "Qeexo AutoML Demo: Automating Machine Learning for Embedded Devices"
+    excerpt: "It has applied this approach to a new AutoML technology that allows companies to embed ML into hardware and conduct learning on sensor data. Qeexo AutoML is the company’s one-click, fully-automated platform that allows customers to leverage sensor data to rapidly build machine learning solutions for highly constrained environments with ..."
+    publishedDateTime: 2019-12-08T23:40:00Z
+    sourceUrl: https://insidebigdata.com/2019/12/08/qeexo-automl-demo-automating-machine-learning-for-embedded-devices/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.8A466A2A98C34BE6B3BCC6CF4C61A8F8
+        width: 300
+        height: 212
 
-secured: "6QIYj02JOoLqErrwyHGQtJ/Tfu99o/2CxygG0FiYkUfhERhelAGOQXah1vn7f9alSPGFwapoUGEjD3Wqia/kWve2rqyCtnLN0yBG7foCBYPxWLUL1UaOfmEZmF0ylPKvh1rIiNNY1d+GWBto2gXABjj3Ggscp9RH0Qfd/YGYfb+WXqOunKkkIB1osxT1eKHcpPzN2cVjE/NCBaJNAR5HBj6gd2HhTJchwc3aGzhXoI/B6mq7oVUfzUVOosU26ryOeVfxGEfYUlGvrz+p6WeBLA==;+o/H1I/PzanGiomxdUEFAw=="
+secured: "9F14fq2+awVhvk4Q36sIGiVS/mXUq8NUckS/ZBZEyNg/gQ/BR3ZyXaJh7a+Dz8vbqvnFXMuxUgL2ypY//BSk65TllU8gJy5PkP9Yz0G7rEHIZ+hYgP4Uw1PsgUhchdb3NAcU/VrmeF0gw+QDUgk+JWMVhCSfA7qZqngNBjWl7d9YDEIPtXD5VgnjtiCP8Qq9B5MZHFuU73e7tyBzkiDtaxVxLa+oTgzgh/RCdI2pi9zqAbDKS0Bxd+xyU6c0L5Fa4+HWMMZ0igWMKKi35OEu6w==;zWWRi2/BcDMMKhdtNz5e7Q=="
 ---
 

@@ -38,17 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9838C36D4B842F4AC9A6BB8A1462C48E
         width: 700
         height: 466
-  - title: "Why Commercial Real-Estate is the next industry to be disrupted by Visual Artificial Intelligence"
-    excerpt: "After all, it’s not a coincidence that we instinctively refer to a deeper understanding of something as ‘looking at the big picture’. Visual Artificial Intelligence mirrors our ability to make quick and detailed assessments based on sight. It’s now becoming possible to create powerful and intuitive interactions between humans and ..."
-    publishedDateTime: 2019-12-18T18:49:00Z
-    sourceUrl: https://yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to
-    ampUrl: https://yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
 
 secured: "rnxpvgb466WFga2Y5EThu4tGZxqZWPp9Ow2344cWgZmsx7NLe6v0+oTGOvoXx8mfJFjMdHnQFY4S8s5hsACxNHssTtiolKVuH9rPdzJduhZMcfQOa5acOQbWgK+I0LFdwbfDm8mRUWaqirTFLrFKralYkihmDlm5ya9sRe67Nt6mibW+E/VSyU7L+JYN0AtSYJOdG6SvSltYE/RMzmwd7cpD0coO8+Xd38ushWE6TzepbWt0EPygc6QZXdIygpn4rc6tzuIRf9MsU/H10OHyFw==;f379SoNP1q2vGnSlhGHeig=="
 ---

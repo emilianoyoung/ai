@@ -48,6 +48,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
+    excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
+    publishedDateTime: 2019-12-28T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/journal-study-evaluates-success-automated-170010541.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "7AmfpbauGBK6GAXjjMzfr5Mt9F8bvFnYZmWPxkMfcjl6tmSItKy7p4QRQjysKBZ6CnFHFahpR/Rl5JE4r6kD/B3rZLoYqv2cKURoQmGZVAMwyiCzKwD0sotH7+J5v/M3meBWDZt8zaLorg48yt1n2p1L/aKYNHBj7ZnjKiPFRfGM7BJFdujZmIy2yEnAMIcnt7+Z3tRQgzmu9Jc82K4tzEmeejN1OnTRgay85/r7AlAbNgQfbhwcOTo4ZdZ0vhpbcabVix07Z/7i4Kd+eDPaNg==;xbQRBV6xgG1b2aQG3CMSAQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       - url: https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg
         width: 1200
         height: 630
+  - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
+    excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
+    publishedDateTime: 2019-12-28T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/journal-study-evaluates-success-automated-170010541.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "Y/uwxwHPLDc5f6QE4UUFvU4n0lRwgUJbZ0OD9sqeyd+MxJWEBkFvjWyj0r/Bn1aPe+8Ut5htXFlB2997dKEKuOMVUPki42G54+ufRO8a10iBLy8T9J5dfOR6RBLwM/TzVR3XiqEyJKywOmlJwkWyQWNiql/8UQiKpr9KM0w0p7PiQMKOkISVXz2c2GmCpudwYGhFsx72F/FwEzDDMtFWWxDVmv36YyBKPi/1xnz36762gaxl4EiMn3WgM4FmYVHgi3FDrAWevp00J+rttcy6EA==;XnJ3wdJaToNTXO0cjEA9pA=="
 ---

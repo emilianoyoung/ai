@@ -2,20 +2,16 @@
 category: news
 title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
 excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
-publishedDateTime: 2019-12-27T16:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/journal-study-evaluates-success-of-automated-machine-learning-system-to-prevent-medication-prescribing-errors-1028786454
+publishedDateTime: 2019-12-28T00:25:00Z
+sourceUrl: https://finance.yahoo.com/news/journal-study-evaluates-success-automated-170010541.html
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -37,6 +33,15 @@ related:
       - url: https://www.bing.com/th?id=ON.6892A3712120A80A17131ECE3249BB69
         width: 700
         height: 350
+  - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
+    excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
+    publishedDateTime: 2019-12-27T16:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/journal-study-evaluates-success-of-automated-machine-learning-system-to-prevent-medication-prescribing-errors-1028786454
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Patent Issued for Method And System For Identifying Biometric Characteristics Using Machine Learning Techniques (USPTO 10,503,970)"
     excerpt: "As a supplement to the background information on this patent, NewsRx correspondents also obtained the inventors’ summary information for this patent: “To efficiently and accurately predict a user’s health status and corresponding longevity metric, a biometric characteristic system may be trained using various machine learning techniques ..."
     publishedDateTime: 2019-12-25T21:50:00Z
@@ -50,16 +55,7 @@ related:
       - url: https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg
         width: 1200
         height: 630
-  - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
-    excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
-    publishedDateTime: 2019-12-28T00:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/journal-study-evaluates-success-automated-170010541.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
-secured: "Pxu1g5/+MXJ+XWczCxtQHh/uPlN1tPSEe227w88MhFs4R0MObEYqMvgkl5r99YRpdtMlfo/7EsMmCUFNUgFT5tGLd5abFFAFS44vSNiN4v4kr6sTIYA0PeOGCgcYZa+ptkObiLfKVzPfnaNFU0vFh5zNYAKpy3eDj9HUyi4gMkbD0WRfWk8+WiCO6ut7G3pYIiUe1bJFSfrfqUTnPfgWRdPqV6PFW+M0G+ubW69/hDjSVjb3oCKI1c3Uqdpfy0G1V7dPa0wExB63l4y+ouf5fA==;OwlhMidKeNGwiFWxndyNdQ=="
+secured: "1ljfMeC9vXR8XnBCrgPLhRCiebIIjK9DgXJrbSIVflCJbHGWACoIhP8vlWydWyPGZyszEi/ok1BZPHKjzAojy5Zm/np8NVve5JopvmFXS4ZjjMAFPaKanbx9feDvoAjhx5hSq5BsrnHNp9qg+hmo9Gb7fuSmeU12NFZRcdZppephG5OW57Q4jgX1Km5Ole8mBR4gOOVXWUf8lG547Es570cj1UQ/oWnHXN8T3bsrL3RgQgbzoDNauTAhP506/NvnCzEoXt50cE5Lj0jrJCnO1g==;xPhHBOld9K48enq0OgW5gg=="
 ---
 

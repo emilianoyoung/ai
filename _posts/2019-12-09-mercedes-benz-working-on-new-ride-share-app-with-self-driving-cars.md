@@ -8,7 +8,7 @@ ampUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-
 cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,62 @@ images:
     width: 700
     height: 393
     title: "Mercedes-Benz working on new ride-share app with self-driving cars"
+
+related:
+  - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
+    excerpt: "Alphabet's Waymo self-driving car service is celebrating an important birthday today. Waymo One, its somewhat public autonomous ride-hailing service, turned 1 year old on Thursday. Even more important is where Alphabet plans to take Waymo in 2020."
+    publishedDateTime: 2019-12-05T20:05:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/waymo-one-self-driving-rideshare-service-features-expansion/
+    ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 101
+    images:
+      - url: https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg
+        width: 1200
+        height: 630
+  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
+    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
+    publishedDateTime: 2019-12-10T15:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
+        width: 700
+        height: 410
+  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
+    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
+    publishedDateTime: 2019-12-09T15:35:00Z
+    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
+        width: 700
+        height: 459
+  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
+    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
+    publishedDateTime: 2019-12-10T00:07:00Z
+    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "4+VltuvlRu3rk578Fz36RdhHoKdhlliTMDd6BNhwRzfvxU3Z6MK+oRGKG2d+yCqXtLuLqkJsqzL9L5MWfBSXBHHMpxgf6CUHMYA4s59vmlP9fjvPDyKiXU++clwLJMqhPjsB3QvkmO3Cyd225XXH62EKTo7ZnRvwF2YnSSXxSl/5tUVvU/7bu6ICdLqjzDkpslM9EnoQSS0Y9wZxGTpD3YRLfPHZTYo0+tNuZ5KSSJw6SFLsm8QGoPUEUZNH1734GxXtwSiuJhGOJ88M9RfWng==;uxkUV4RLCp6sUUAHyyJOjA=="
 ---

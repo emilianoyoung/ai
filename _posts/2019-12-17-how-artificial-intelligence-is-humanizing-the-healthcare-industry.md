@@ -19,106 +19,140 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Mediaplanet and Dr. Mike Discuss the Future of Healthcare"
-    excerpt: "healthcare will be connected more than ever before in the past. Innovations that utilize everything from artificial intelligence, data, and analytics to virtual reality are creating better health outcomes for the population as whole. Doctors and health systems have been slow to adopt these crucial technologies, but it is key to improving the ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
-    ampUrl: https://markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
+  - title: "AI Is Central To The Longevity Financial Industry"
+    excerpt: "New types of financial institutions are evolving to satisfy the needs of this aging population. Investment banks, pension funds, and insurance companies are developing new business models, and are using AI to improve the quality of the analytics used to formulate them. In the near future, the synergy between innovative AI and wealth management ..."
+    publishedDateTime: 2019-12-14T03:28:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Healthcare start-up Qure.ai develops software to provide fast and accurate diagnosis of Tuberculosis"
-    excerpt: "Founded in 2016, Qure.ai uses deep learning and Artificial Intelligence (AI) to bring access to quality healthcare, especially in remote areas. “We work closely with NITI Aayog and the Piramal Foundation’s Piramal Swasthya initiative, to leverage AI to enable faster diagnosis of TB in remote areas,” Warier said. To fulfill the vision of ..."
-    publishedDateTime: 2019-12-26T07:57:00Z
-    sourceUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.html
-    ampUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.CCD7DD67820537C62988E7A09CEBFF21
+      - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
         width: 600
-        height: 390
-  - title: "80% of healthcare professionals say AI has decreased burnout: 3 notes"
-    excerpt: "In contrast to fears that the widespread use of artificial intelligence will dehumanize healthcare, the vast majority of medical professionals who regularly use AI say it improves workflows and reduces clinical error, according to a new report. The MIT Technology Review and GE Healthcare surveyed more than 900 healthcare professionals in the U ..."
-    publishedDateTime: 2019-12-16T22:10:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/80-of-healthcare-professionals-say-ai-has-decreased-burnout-3-notes.html
+        height: 315
+  - title: "Accountability is the key to ethical artificial intelligence, experts say"
+    excerpt: "Artificial intelligence (AI) needs to be more accountable but ethical considerations ... and we shouldn’t care about the internal workings of AI neural networks either,” he said. Instead, O’Neill says we should be focusing on outcomes. John Buyers, chair of the AI and Ethics panel and a partner at law firm Osborne Clark, points to the ..."
+    publishedDateTime: 2019-12-16T16:22:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say
+    ampUrl: https://www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say?amp=1
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 75
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
-        width: 400
-        height: 300
-  - title: "80% of healthcare pros believe AI is reducing burnout, survey finds"
-    excerpt: "Artificial intelligence may help to inject more humanity back into the medical profession, despite concerns that it may make medicine colder and more sterile. About 80% of healthcare professionals also believe such technology is helping to reduce burnout, according to a new survey of more than 900 individuals in the U.S. and U.K. The MIT ..."
-    publishedDateTime: 2019-12-16T19:01:00Z
-    sourceUrl: https://www.radiologybusiness.com/topics/leadership/healthcare-artificial-intelligence-burnout
+      - url: https://www.bing.com/th?id=ON.3F66B2689EC2788F048943268DD2A8E5
+        width: 700
+        height: 233
+  - title: "Empowering Telecom Industry with Artificial Intelligence"
+    excerpt: "To stay afloat in the fiercely competitive environment and meet the ever-increasing customer demands, telecom operators must embrace new emerging technologies. Artificial Intelligence is one of such technologies that have the potential to fundamentally transform and empower the telecom industry. Optimized networks, exceptional customer ..."
+    publishedDateTime: 2019-12-13T23:51:00Z
+    sourceUrl: https://medium.com/@infopulseglobal_9037/empowering-telecom-industry-with-artificial-intelligence-36ad93610e
     type: article
     provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
+      name: Medium
+      domain: medium.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.4339FD62BA5F19F832AD5C4B1FA1643E
+        width: 700
+        height: 233
+  - title: "Artificial Intelligence (AI): The Answer To Our Environmental Prayers?"
+    excerpt: "Due to the variability in the observations the volunteers make, AI filters observations through collected historical data to improve accuracy. And now with over 500 million bird observations recorded through this global database, Microsoft’s Azure Cloud Computing Program is helping to allow calculations that used to take upwards of two to ..."
+    publishedDateTime: 2019-12-11T04:00:00Z
+    sourceUrl: https://goodmenproject.com/environment-2/artificial-intelligence-ai-the-answer-to-our-environmental-prayers/
+    type: article
+    provider:
+      name: Good Men Project
+      domain: goodmenproject.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.3E917C66508DEC13087F9313ACFC33C3
+      - url: https://www.bing.com/th?id=ON.BD284E498A061075A5BA2FD8764B5120
+        width: 600
+        height: 350
+  - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
+    excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
+    publishedDateTime: 2019-12-12T22:42:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.D242FBE77AADB4EC492F5EDB47BD12D2
         width: 700
         height: 367
-  - title: "NAM report: The success of healthcare AI depends on building consensus"
-    excerpt: "Without shared ideas and goals regarding the use of artificial intelligence in healthcare, the technology is unlikely to ever reach its full life-saving, quality-improving potential, suggests a new report from the National Academy of Medicine. In \"Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril,\" NAM members ..."
-    publishedDateTime: 2019-12-20T18:23:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/nam-report-the-success-of-healthcare-ai-depends-on-building-consensus.html
+  - title: "Perficient to Discuss Real-World AI Applications for the Financial Services Industry at AI Summit New York"
+    excerpt: "Perficient, Inc. PRFT, -0.38% (“Perficient”), the leading digital transformation consulting firm serving Global 2000® and other large enterprise customers throughout North America, today announced it will speak at AI Summit New York, the world-leading AI event for business leaders, held Dec. 11-12 at the Javits Center in New York City."
+    publishedDateTime: 2019-12-10T15:33:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/perficient-to-discuss-real-world-ai-applications-for-the-financial-services-industry-at-ai-summit-new-york-2019-12-10
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
-        width: 400
-        height: 300
-  - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
-    excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
-    publishedDateTime: 2019-12-24T15:18:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/td-ameritrade-institutional-innovation-director-on-artificial-intelligence-voice-tech-2019-12-1028783981
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Concordia researcher applies machine learning to financial risk management"
+    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: Concordia University
+      domain: concordia.ca
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.9F530980463CA01C2AD7F3BD7567CA79
+      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
         width: 700
-        height: 350
-  - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
-    excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
-    publishedDateTime: 2019-12-20T14:03:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/imagia-partners-with-top-facilitate-ai-accelerated-healthcare-discoveries-0001
+        height: 558
+  - title: "Waterloo professor says artificial intelligence is a useful tool to help fight wildfires"
+    excerpt: "Mark Crowley of the University of Waterloo wants to deploy a completely new weapon in the ongoing battle to control wildfires: the cutting-edge power of artificial intelligence. Forest fires are extraordinarily complex. How they burn can depend on a huge number of factors: the landscape, the wind, the species and age of the trees — older ..."
+    publishedDateTime: 2019-12-09T08:13:00Z
+    sourceUrl: https://www.therecord.com/news-story/9766881-waterloo-professor-says-artificial-intelligence-is-a-useful-tool-to-help-fight-wildfires/
     type: article
     provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 18
-  - title: "H1 Continues Momentum With Record Customer Growth and Expansion of Healthcare Machine Learning Analytics Platforms"
-    excerpt: "H1, a New York-based healthcare data-driven solutions provider, today announced continued momentum and record customer growth and expansion of its global healthcare analytics platforms. The company has grown to an impressive customer base with more than 35 pharma clients, with record revenue growth by 350% in the last year. “4 out of the top ..."
-    publishedDateTime: 2019-12-16T13:07:00Z
-    sourceUrl: https://apnews.com/Business Wire/abecb690e39a45d2b8f226a94bc5510a
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 17
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 28
     images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+      - url: https://www.bing.com/th?id=ON.EB89FF7217B4DBCB1D461E897CD79C90
+        width: 685
+        height: 416
+  - title: "Why Commercial Real-Estate is the next industry to be disrupted by Visual Artificial Intelligence"
+    excerpt: "After all, it’s not a coincidence that we instinctively refer to a deeper understanding of something as ‘looking at the big picture’. Visual Artificial Intelligence mirrors our ability to make quick and detailed assessments based on sight. It’s now becoming possible to create powerful and intuitive interactions between humans and ..."
+    publishedDateTime: 2019-12-18T18:49:00Z
+    sourceUrl: https://yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to
+    ampUrl: https://yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 24
+  - title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
+    excerpt: "We can expect innovation around the edges more than at the core, and a big focus on integrated payments,” Oglesby said. In the next year, FIS will be positioned to focus on AI and identity management technology to reduce account takeover and improve anti-money laundering, with both U.S. and global needs for the payments market, said Krista ..."
+    publishedDateTime: 2019-12-20T05:34:00Z
+    sourceUrl: https://www.paymentssource.com/news/fis-fiserv-and-global-payments-are-larger-but-so-is-the-fintech-threat
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 23
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
+        width: 1200
+        height: 630
 
 secured: "1ixSpaDfhHwAJwMDnaWlaQf7sjsfLr/5ghe8ymGwmBxlmDjzrpHRp9rwyhyg6+gtrCqeYTNmxsEcvxE8MLrcXKtJvKHlX0f2eWeZx4W1hZukK9H/iav7at/7lxos4gUyuOclfQ3G8Urb1fvskUcp53tT4IuLKRWF4y5n0AQQfPZLZC5A5gueQMb6ti9Pe04kp/Rn68Z+Fh9hUuzvvVAt5P80vNL+ucMHHm3XwhBYl13jZU3sUZViG0Dh88Nf3AMOLX3vg781KMDqYDHf/aitaA==;3/11SXXKD8FtFHeM48woSA=="
 ---

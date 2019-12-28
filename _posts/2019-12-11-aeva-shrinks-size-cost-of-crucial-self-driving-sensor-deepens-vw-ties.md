@@ -63,19 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
     excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
     publishedDateTime: 2019-12-11T19:00:00Z
