@@ -29,36 +29,71 @@ images:
     title: "AI R&D is booming, but general intelligence is still out of reach"
 
 related:
-  - title: "This Year’s AI (Artificial Intelligence) Breakthroughs"
-    excerpt: "When it comes to AI (Artificial Intelligence), VCs (venture capitalists) continue to be aggressive with their fundings. During the third quarter, 965 AI-related companies in the US raised a total of $13.5 billion. In fact, this year should see a record in total fundings (last year’s total came to $16.8 billion). Some of the deals have been ..."
-    publishedDateTime: 2019-12-08T03:04:00Z
-    sourceUrl: https://www.forbes.com/sites/tomtaulli/2019/12/07/this-years-ai-artificial-intelligence-breakthroughs/
-    ampUrl: https://www.forbes.com/sites/tomtaulli/2019/12/07/this-years-ai-artificial-intelligence-breakthroughs/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2019/12/07/this-years-ai-artificial-intelligence-breakthroughs/amp/
+  - title: "Empathy in Artificial Intelligence"
+    excerpt: "In recent years, as AI systems are integrated into our businesses and homes, [people are increasingly concerned about the ethics of AI. Are we using artificial intelligence for the right purposes to bring out the best in humanity? How can we live side-by-side with our machine counterparts and use AI to enhance our human lives? Inside whether or ..."
+    publishedDateTime: 2019-12-18T00:33:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 93
     images:
-      - url: https://www.bing.com/th?id=ON.B180C8B9CBE055479C69966462DDFFE3
-        width: 600
-        height: 315
-  - title: "The next generation of user experience is artificially intelligent"
-    excerpt: "Not only does enhanced automaton help deliver the right information on demand, but also incorporates natural language processing to get smarter about questions being asked, relates Chris McNabb, CEO of Dell Boomi. I recently had the opportunity to chat with McNabb, who talked about the urgency of focusing in UX. \"You can't increase productivity ..."
-    publishedDateTime: 2019-12-08T15:43:00Z
-    sourceUrl: https://www.zdnet.com/article/the-next-generation-of-user-experience-is-artificially-intelligent/
-    ampUrl: https://www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376
+        width: 1200
+        height: 675
+  - title: "AI is breathing new life into artificial limbs for India’s amputees"
+    excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
+    publishedDateTime: 2019-12-17T03:54:00Z
+    sourceUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/
+    ampUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
+      name: Quartz
+      domain: qz.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.80A154FBF2D40BED7417210693E14E0F
+      - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
         width: 700
-        height: 525
+        height: 393
+  - title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
+    excerpt: "Moreover, companies like Waymo, Rolls-Royce are coming up with driverless vehicles such as trucks ... Increasing investments of companies in artificial intelligence enabled logistics and supply chain is driving the AI in logistics and supply chain ecosystem Market growth in region. For instance, Chinese company Alibaba invested $248 billion ..."
+    publishedDateTime: 2019-12-17T15:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-ecosystem-market-2019-latest-research-released-with-in-depth-industry-intelligence-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
+    excerpt: "Chances are that in the last 12 months, you’ve either demoed, tested, or even adopted a new marketing technology that includes artificial intelligence (AI). While the tool may or may not have been built for content intelligence, 2020 may be the year you adopt a tool or program that uses AI to help you make better decisions around your content ..."
+    publishedDateTime: 2019-12-12T14:06:00Z
+    sourceUrl: https://www.martechadvisor.com/articles/content-marketing/content-intelligence-how-to-move-the-needle-for-marketing-results-in-2021/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
+        width: 600
+        height: 314
+  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
+    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
+    publishedDateTime: 2019-12-11T18:34:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
 
 secured: "v+U4Xn2A0TZIMi5W2lKBOa83hKQ4m433fwFwlL+i3K9UnXNTWoVAhDJoTEAnRahO9baZbJ8ETqLdMMJoodQx0H63/c1jWhBahF/KpIbYNqPPqAcBK7OflChNMQCRK5jABeWj58gRDA9MUWajX005FVBFWHyvSulNzyvrN3FU5m+yxJLPr4y/1TuFYDoJNpvP/lwLU499t0qzfosKG58OsAZ+6iKkT2k9/0baCvIH51MH4NsXffb2krxE2jwhcC190CHaiPmAh3J3Lya/UgOq6g==;OJSu8grp2K9Y+sug3R6n5g=="
 ---

@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DABDF5F5F6259EAF71BFBA3D3B13A33B
         width: 600
         height: 315
-  - title: "Using Artificial Intelligence To Analyze Markets: An Interview With Ainstein AI CEO Suzanne Cook"
-    excerpt: "To learn more about the use of artificial intelligence at it may be applied to analyzing stocks and markets, I asked the CEO and originator of Ainstein AI about her work in this area. Suzanne Cook is a Wharton School graduate and a seven-time Institutional Investor All Star Analyst. According to her LinkedIn bio, “Mrs. Cook anticipates a new ..."
-    publishedDateTime: 2019-12-08T02:34:00Z
-    sourceUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/
-    ampUrl: https://www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2019/12/07/using-artificial-intelligence-to-analyze-markets-an-interview-with-ainstein-ceo-suzanne-cook/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BF80CE010E78E2D6487CE877A38E383E
-        width: 600
-        height: 315
   - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
     excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
     publishedDateTime: 2019-12-09T05:29:00Z
@@ -116,6 +101,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
+  - title: "The next generation of user experience is artificially intelligent"
+    excerpt: "Not only does enhanced automaton help deliver the right information on demand, but also incorporates natural language processing to get smarter about questions being asked, relates Chris McNabb, CEO of Dell Boomi. I recently had the opportunity to chat with McNabb, who talked about the urgency of focusing in UX. \"You can't increase productivity ..."
+    publishedDateTime: 2019-12-08T15:43:00Z
+    sourceUrl: https://www.zdnet.com/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    ampUrl: https://www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-generation-of-user-experience-is-artificially-intelligent/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.80A154FBF2D40BED7417210693E14E0F
+        width: 700
+        height: 525
   - title: "Artificial Intelligence in Media"
     excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
     publishedDateTime: 2019-12-13T23:51:00Z
@@ -583,6 +583,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "bTBx4LqX1ZiG3s6MvNBq2oQRkW/oLjWidcYOLPV9bd/n02R79NRqRnVS7qK9aY83zoVwOjipoC5wzeqCmhC+KURlURo3VplfAEE5fue+wv4xdRpW37CvCU9QVbscjXPm9QIdz+Hb70vNTpBPFvDEjH72r2ucHKX2IedxIEPu+Idhc/bOHePHviT3l+cT7H/3hCH3fJcjkRDv10sEjrBDkSjnxBURPOVY3beg3dnVYphXXjXoNVOL8c/8c8Fs2ZVcwofHRVHtqELFSCUozFdfDQ==;Xe5JEuQMomtu3Ck+oSDR2Q=="
+secured: "/BiAYKzS98eedZ+jDkHiM5JFOvkgmYED5NKq5BgXen/k5S91jgb9nobYMlvHBKfILwaZYj4hUfjWBIgOj3YLEMNiMgXobS43GULqZcbVSgIo7Mz+j2YBp8Tvq2hDyzgMV13rIra9v0XeXc5fJkNGoayd6UJqea0/ePu/cdasfNsu6Ac+p5DMtpPUbnvs15MIbs7zvIhqkpfrPB7DSknjAWLoXigG+2+tt56G3dI1OY8iDuAhi1UZTcA+bpmcLdpnV37JuJtGzo1aT0lLslSb0A==;1+r73pGjq4ivxgIPOuDiTQ=="
 ---
 

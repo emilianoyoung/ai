@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artifi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -32,6 +32,21 @@ images:
     title: "Empathy in Artificial Intelligence"
 
 related:
+  - title: "AI R&D is booming, but general intelligence is still out of reach"
+    excerpt: "Trying to get a handle on the progress of artificial intelligence is a daunting task, even for those enmeshed in the AI community. But the latest edition of the AI Index report — an annual rundown of machine learning data points now in its third year — does a good job confirming what you probably already suspected: the AI world is booming ..."
+    publishedDateTime: 2019-12-12T05:01:00Z
+    sourceUrl: https://www.theverge.com/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
+        width: 700
+        height: 366
   - title: "AI is breathing new life into artificial limbs for India’s amputees"
     excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
     publishedDateTime: 2019-12-17T03:54:00Z

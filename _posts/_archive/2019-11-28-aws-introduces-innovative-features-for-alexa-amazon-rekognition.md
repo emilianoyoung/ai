@@ -23,6 +23,6 @@ images:
     height: 512
     title: "AWS introduces innovative features for Alexa, Amazon Rekognition"
 
-secured: "r7xUqOiob9NxKAXsaSJSyYNlbMiiazYb91q1KWrsgPQnRpcqorzXP8CZaVd6/c8xBclkmo10OxuRG3WoRJLpmI172NoPvUi8is3WIhUEL8W54S76I7qiMPJCF6+5gPh1T5wFy7F1RF5cu1C3rCGqzTq/OVM8T8WJ6WYG1VIUn6DrS6o9/YafK5CLmAOlyuf2UoHfqYuoVsxqFx6q3/khto9qDx7gB83ZDiHggFGWVs6qZfFuloReAoMwAFRw2hDyWdjBYg0vKjOKs7UssjPeZA==;KVQpGAEIuoFRTPJu1jlL5Q=="
+secured: "4yr7CjHhnl+WOKwqsV2r93YX/hxAnnpjSkOM60kIm9DaPZ4SGzBS1v+jYxkAflgng6qKbCNvw2+9MrZOWd5gl8FjWgKHRen3Lv6/bHVEajDJIenxFh8Z2pKHhPt5N3ofdgg1xOQZ5QJ3EidPreSmAEzLpbQqno5QtJmIHv7XMFd+8sB8/aiTEP+l2PnQUdoZwbXPkZ9matX3hU9spYUgd0Hnh/iu7VJnuJgXO4tcVVj0Mi0i9C7CfoG5+t56pXCdko65AxlAKGNClJXJmqyeZw==;KnTbhubd9cGQVrZNKzQfTQ=="
 ---
 
