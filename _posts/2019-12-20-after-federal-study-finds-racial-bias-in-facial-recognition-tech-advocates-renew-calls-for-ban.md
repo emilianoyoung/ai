@@ -1,24 +1,26 @@
 ---
 category: news
 title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
-excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
-publishedDateTime: 2019-12-20T21:17:00Z
-sourceUrl: https://www.yahoo.com/gma/federal-study-finds-racial-bias-facial-recognition-tech-193100912.html
+excerpt: "Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias. \"This study makes it clear: the government needs to stop using facial recognition surveillance right now,\" Evan Greer, the deputy director ..."
+publishedDateTime: 2019-12-20T20:50:00Z
+sourceUrl: https://abcnews.go.com/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+ampUrl: https://abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s.yimg.com/uu/api/res/1.2/..BQHLzlXgm7779xFZResQ--~B/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/gma/us.abcnews.go.com/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
+  - url: https://s.abcnews.com/images/Business/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
     width: 992
     height: 558
     title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
@@ -54,21 +56,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
-    publishedDateTime: 2019-12-22T20:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    ampUrl: https://www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 172
-    images:
-      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
-        width: 700
-        height: 367
   - title: "75,000 people call on Congress to ban on facial recognition tech"
     excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
     publishedDateTime: 2019-12-16T16:30:00Z
@@ -1410,6 +1397,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
+    publishedDateTime: 2019-12-22T21:34:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfMnE
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
+        width: 700
+        height: 367
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1800,6 +1800,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "jxnKeZ2N4S9arjSU2IB5idB2DPuUW+1qSajlcq1Xoy3n3qAY4tnRAGTXMTmcHT5Vu8uFAAOldidwFlvz9r08+f8siF3s4fxB3UopB4t7s5bQhzj8V+Js+JWkrSz3J7dz1Ts595ABT2wIo5KtZwyaJ1EUAEHjCt9/mA5STQqXcU63QXVwV1f5J8yRovP8Q85wdj9rHlmfuT4jDCENp2EVeH1dJCKSaEqRrynKpR1jhXGG+Tez0e3iJ19+hZtAuCfamYJt2Cr0PhvXGsPbEiL6TA==;JRX8DvMbCr1I37tZ2O6j9g=="
+secured: "qaNxv2AJ238G0hB4GcmXd1w+A3dDRDpE9W/FohyaclhR0OwAvB6MLGwYnNkOITTOBVZ66QWS36kBzWYqE6J77Bng3YglPYJNbzqN+/pt8R3vdFK39SY1C23XqJrcKz4fQtMwagooY/MHeowbcHQgGzCWJ0ZrMpNvNmp3ikeCMsx/oJ55og6WAkIpCL55ElNkgHRtC72Zl4B6Q9lCjOndGWfqJS8Nv/xr1UAcC3WABmcy3xvJYiOU12n7wX67Mho8q4lWP/if+OdO7goPpB7NSQ==;hGM3teGywI6yqWXVLv8GHg=="
 ---
 

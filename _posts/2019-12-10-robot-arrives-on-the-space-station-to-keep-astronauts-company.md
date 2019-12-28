@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CA9909A8BEDDEE3E166F91F014E3BAEC
         width: 700
         height: 366
-  - title: "'Mighty Mice,' Worms, Robot Among Space-X Deilvery to Space Station"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas presents in the shipment for the station's six-person crew, as well. It's SpaceX's 19th ..."
-    publishedDateTime: 2019-12-08T14:44:00Z
-    sourceUrl: https://www.military.com/daily-news/2019/12/08/spacex-delivers-mighty-mice-worms-robot-space-station.html
-    ampUrl: https://www.military.com/daily-news/2019/12/08/spacex-delivers-mighty-mice-worms-robot-space-station.html/amp
-    cdnAmpUrl: https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2019/12/08/spacex-delivers-mighty-mice-worms-robot-space-station.html/amp
-    type: article
-    provider:
-      name: Military.com
-      domain: military.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.87E26E42599DA080C5297DA690846B61
-        width: 700
-        height: 466
   - title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. NASA has tucked some Christmas presents in the shipment for the station’s six-person crew, as well. It’s ..."
     publishedDateTime: 2019-12-08T21:23:00Z

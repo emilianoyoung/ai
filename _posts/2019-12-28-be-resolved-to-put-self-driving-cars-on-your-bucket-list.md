@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-se
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -82,6 +82,19 @@ related:
     quality: 24
     images:
       - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
+        width: 700
+        height: 393
+  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-28T15:26:00Z
+    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
         height: 393
 

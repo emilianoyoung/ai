@@ -1,19 +1,19 @@
 ---
 category: news
 title: "How AI came to rule our lives over the last decade"
-excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
+excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 69
+published: true
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI
@@ -26,35 +26,20 @@ images:
     title: "How AI came to rule our lives over the last decade"
 
 related:
-  - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
-    excerpt: "Laura Baldwin: I think they're not sure where to start. And you know, we just did a survey not too long ago. We surveyed our whole audience around artificial intelligence (AI) in the enterprise and what they needed to know about it. And the reality is 73% of the respondents in that study were either trying to figure it out or believed that it ..."
-    publishedDateTime: 2019-12-24T14:27:00Z
-    sourceUrl: https://www.techrepublic.com/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
+    publishedDateTime: 2019-12-23T11:35:00Z
+    sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 75
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
+      - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
         width: 700
-        height: 525
-  - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
-    excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
-    publishedDateTime: 2019-12-26T07:29:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191226PD203.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
-        width: 336
-        height: 224
+        height: 393
 
-secured: "GRxJmGOuI3F9Df/Cp/1AE2YhMwX7nHDHThU8QGLYI4AVak2S4b1POXF4firgxH6Wp/WVcO5JMSVLVF7GG/W6DlnPQl7/RT7t4zkts0/mWSy+79INQsin8JX2lUeESnaEUZ/HmUGYOdrljSUSGVKZIYZo9FIrRsNGLsIoSTdr5ODNsLInFKGYgUqitxuPG/Zcb0ZOskwBujc9BpTdNcdTyiIyLs8VSjH08Pw/g6mgybYoQFKGAsPkUwA+Hm3wqovM7lJV5qin5MyQGxZxpWTsAg==;5cuOsUORl+yOQCZ50rN9iQ=="
+secured: "aI/SDHdMEaimqoPD2TL40FIIzJeAGhlKNHEnAyuyswR4htBVKbF2zFz0ploxuWhD6VALitlQwAO8AtSxd6UIowBWLUUSGUKo/N2os96wYDAHkH7GHu5Ln+ol45ZentQCS8aQo9kd5pAyYUvh4bpY/+ApZlsNYNa34Uuxq3Db7EegLcxxjp4XoXhBvPqjuqWjI6nT6BGBClhlEuVf8GsXTLTOZu8H3QNKP2Qj82ChoMUkUsnm6FGUTeMwRDPSRvqiyUsQoznGJ7ImHO2azEguNw==;pMytU+N6GENNRpvelLNEdw=="
 ---
 

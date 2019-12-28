@@ -73,6 +73,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Facial recognition technology needs proper regulation"
+    excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
+    publishedDateTime: 2019-12-28T15:15:00Z
+    sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+    ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
+        width: 700
+        height: 367
   - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
     excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
     publishedDateTime: 2019-12-26T11:29:00Z

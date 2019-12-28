@@ -80,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
         width: 700
         height: 393
+  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-28T15:26:00Z
+    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
+        width: 700
+        height: 393
 
 secured: "j+d9ntcxIXqHnCE3NkdyKgXTaRSBn9P8hxtqWDvnte5PrpkyapDSPKAEp2GF+BOHP6dOmMve/1jSwe9XXeuDUlX2iqR5cc3KePnV5mADtFFZg3gSt7tOAHFRHf88yQOHsc7dd18B6jiqUBc+rRpLSu+YHFIo4e/Cy5fh6AQxhNPFNl3t0ItYqMzYwOv2LDits4hyRAWFjvc4kjc78JpGRKLq1qYu5WWEdloN4wqZq2dwkYYqH5EVS1Fn7Jqbsd44r2oqrnf5bekmZAKK9UQ5SQ==;eYY+dc2/rU1rrPF/gFR/3w=="
 ---

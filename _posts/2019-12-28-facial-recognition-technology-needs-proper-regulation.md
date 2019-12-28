@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-publishedDateTime: 2019-12-23T05:11:00Z
-sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
+title: "Facial recognition technology needs proper regulation"
+excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
+publishedDateTime: 2019-12-28T15:15:00Z
+sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
 type: article
-quality: 45
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+  - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
+    width: 700
+    height: 367
+    title: "Facial recognition technology needs proper regulation"
 
 related:
   - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
@@ -86,21 +84,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Facial recognition technology needs proper regulation"
-    excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
-    publishedDateTime: 2019-12-28T15:15:00Z
-    sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
-        width: 700
-        height: 367
   - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
     excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
     publishedDateTime: 2019-12-26T11:29:00Z
@@ -131,6 +114,19 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
+    publishedDateTime: 2019-12-23T05:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
     excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
     publishedDateTime: 2019-12-24T06:30:00Z
@@ -163,6 +159,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "xQzIp6TUxeKkoIObcLfvLP5FUugVfRvztIh8wBDkKJN2lj7zlewMbJpH1QM3B7ZLUaYrbz4eayBbGelcHIzPfOrFbCf85NHBueHs6GRT7K33Ull4+nGlA0Q3HxOLFuQE9tIyTDQVyHhq9RXeSQCI5L/dLGHBKTN3f1YtXaod6iBJv+8IdqHu5dm7cqDBiP66kECV7YN+2/rYsP5C0iCAL0aOZUudfHOeLngDSupZrNUKlz8PPUwk+vm9JiwejxufqaDN3FQQiSB8yc1uBvLDnQ==;kpLJc8rCilny+9TSpxgTDg=="
+secured: "JO/wB/G8OC/AwRtbvbXH8x9HC83Hi6M1wecHKb3jZb5y3/f4bCYap1hu75D92Wlcws/yKsWYbM2NsIgSsZr9sEtoEXkmyz4T1XzLyNRVgYdRIHSOAGN5ofX33tNGPGqZbnTSOE5XKhg2jvF7cyU9Fh0O/Z4E2tMrgswLEbMSSrh3h7odIWvpp4Sqp6vKSvxXwYoaALCT8p8JWY/VQ3EORabuqO3QlU/sGS5kDbsBLNggV0JVkqHafUTZfAzXW0BX+b4Yf5c4O4Xsr9ooA2ydew==;u8UcOCigUCTbKHCbR9GKDA=="
 ---
 
