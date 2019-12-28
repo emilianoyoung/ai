@@ -158,6 +158,19 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
+  - title: "From AI to 5G: Predicting the future of technology in 2020"
+    excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
+    publishedDateTime: 2019-12-28T12:28:00Z
+    sourceUrl: https://www.thenational.ae/arts-culture/comment/from-ai-to-5g-predicting-the-future-of-technology-in-2020-1.957125
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
+        width: 700
+        height: 393
   - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
     excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
     publishedDateTime: 2019-12-20T16:01:00Z

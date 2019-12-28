@@ -1,31 +1,26 @@
 ---
 category: news
-title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
-excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
-publishedDateTime: 2019-12-19T14:08:00Z
-sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
+title: "From AI to 5G: Predicting the future of technology in 2020"
+excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
+publishedDateTime: 2019-12-28T12:28:00Z
+sourceUrl: https://www.thenational.ae/arts-culture/comment/from-ai-to-5g-predicting-the-future-of-technology-in-2020-1.957125
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The National Blogs
+  domain: thenational.ae
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
-    width: 1200
-    height: 600
-    title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
+  - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
+    width: 700
+    height: 393
+    title: "From AI to 5G: Predicting the future of technology in 2020"
 
 related:
   - title: "Here are the top tech trends of 2020, according to top experts"
@@ -170,19 +165,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
-  - title: "From AI to 5G: Predicting the future of technology in 2020"
-    excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
-    publishedDateTime: 2019-12-28T12:28:00Z
-    sourceUrl: https://www.thenational.ae/arts-culture/comment/from-ai-to-5g-predicting-the-future-of-technology-in-2020-1.957125
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
-        width: 700
-        height: 393
   - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
     excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
     publishedDateTime: 2019-12-20T16:01:00Z
@@ -196,6 +178,19 @@ related:
       - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
         width: 600
         height: 532
+  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
+    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
+    publishedDateTime: 2019-12-19T14:08:00Z
+    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+    images:
+      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
     excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
     publishedDateTime: 2019-12-23T19:59:00Z
@@ -228,6 +223,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "W2Ni4e1fOHMyqv7kOJSYWz0Ez33Iw87eawDl6o8OHr6d4ie0VVVwPT7z26X12rFuZ57VxV/bEBfeTsuUsIBMTAhvrfC3pOiNQ2lAtORe65m0Z3BbWNT5/S39rz7jDXHcF/7RTCqV/capeY4j0gpkjGQIVZKG5WuD7MoOwQtrh/em+bxRTJ07IbjsbGZYJ1ecI5A/5k0TpuU1uihRv4q8iOhOfJO7j9/8obIqmS2Kt4QY6w/Go2Noij6dxfpa0d6sBPPjSAKqlFY9l2Z11QmtfA==;RiFcn7HYjT2b8x5PJJl/Kw=="
+secured: "tcsD4WU1Bhrhl4L5fj8E3OP9VhrxRCDVDqlVSgxQ1JxAGYB2MVusDhBN0ty+QJUky5r0gvPii3iNCShSBn0ylJ2iXUoh7v0TW5sfrUVSuN/X/1qHMh/byIephptTn+A3knVAZh4qH7WOuetYQRaDkJSyccERni1TfeJvFcPJWS/iWRorJ2WBBNIMyV/b7LV8wnZGn9CMzhxk59wSg4c7B6+nBLVPJW/OJf/eAaTmdvY9kuw70V2F541+NDuRY6GP3lrGClA652bdLuST/kJ1Fg==;6A2NKZksxyqUURDyj4FKKg=="
 ---
 

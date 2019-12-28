@@ -170,6 +170,19 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
+  - title: "From AI to 5G: Predicting the future of technology in 2020"
+    excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
+    publishedDateTime: 2019-12-28T12:28:00Z
+    sourceUrl: https://www.thenational.ae/arts-culture/comment/from-ai-to-5g-predicting-the-future-of-technology-in-2020-1.957125
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
+        width: 700
+        height: 393
   - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
     excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
     publishedDateTime: 2019-12-19T14:08:00Z

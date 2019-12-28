@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EEE204A022540A05A3B2E011A9BE07E4
         width: 600
         height: 315
-  - title: "How to stop a tech apocalypse"
-    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
-    publishedDateTime: 2019-12-08T11:05:00Z
-    sourceUrl: https://mybroadband.co.za/news/science/331832-how-to-stop-a-tech-apocalypse.html
-    ampUrl: https://mybroadband.co.za/news/science/331832-how-to-stop-a-tech-apocalypse.html/amp
-    cdnAmpUrl: https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/331832-how-to-stop-a-tech-apocalypse.html/amp
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.3E4F492DAF437097BC80346F40B91537
-        width: 640
-        height: 430
 
 secured: "snFeFkIQ2kdIYWQ7kB2ZrmyBzgC/Sr3ix+NI3uMIw2MIZ0pplzrXQsaKs5fXG1noTrn7eSVa898LPS4BuT+m3cncl34MmEFFg32FrfaooX3iS9zJNn0y0dzcPuwOrv2r7vhr4SwH0QCSpm0wAUkE9zuPkOq+4amXtcFK57khZRe3X4JjLhi36QuzCwhfXjU6nel6aEfySsiTpokW8mC3HznWx95D9uPWVNQHyU/HAjAyuBD7TZfBm8OmZn9B3tUi4apis1TViRtXUCUbbvla7g==;MQk2j/VIxZ1tWuUw0F8YYw=="
 ---

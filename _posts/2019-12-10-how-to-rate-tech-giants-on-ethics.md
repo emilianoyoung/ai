@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/charlesradclyffe/2019/12/09/ethical-tech-co
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2019/12/09/ethical-tech-company-rating/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "How To Rate Tech Giants On Ethics"
 
 related:
-  - title: "How to stop a tech apocalypse"
-    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
-    publishedDateTime: 2019-12-08T11:05:00Z
-    sourceUrl: https://mybroadband.co.za/news/science/331832-how-to-stop-a-tech-apocalypse.html
-    ampUrl: https://mybroadband.co.za/news/science/331832-how-to-stop-a-tech-apocalypse.html/amp
-    cdnAmpUrl: https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/science/331832-how-to-stop-a-tech-apocalypse.html/amp
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.3E4F492DAF437097BC80346F40B91537
-        width: 640
-        height: 430
   - title: "To stop a tech apocalypse we need ethics and the arts"
     excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that ..."
     publishedDateTime: 2019-12-08T17:14:00Z

@@ -24,66 +24,71 @@ images:
     title: "SpaceX launches caring robot, beer malt and 'mighty mice'"
 
 related:
-  - title: "ISS Gets ‘Mighty Mice,’ Worms, Robot in SpaceX Delivery"
-    excerpt: "There also are 120,000 roundworms, or nematodes of a beneficial variety that are part of an agricultural study. The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper."
-    publishedDateTime: 2019-12-08T11:13:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-08/spacex-delivers-mighty-mice-worms-robot-to-space-station
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-08/spacex-delivers-mighty-mice-worms-robot-to-space-station
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-08/spacex-delivers-mighty-mice-worms-robot-to-space-station
+  - title: "Roundtable series on AI, robotics launches"
+    excerpt: "The series, he explained, help contribute to educating government agencies and private companies about the vital role of Artificial Intelligence and Robotics in creating new business opportunities and economic sectors that are abreast with the rapid changes in many areas. According to the Foundation, the roundtables will focus on three main ..."
+    publishedDateTime: 2019-12-10T06:10:00Z
+    sourceUrl: https://www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028
+    ampUrl: https://www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028?ot=ot.AMPPageLayout
+    cdnAmpUrl: https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028?ot=ot.AMPPageLayout
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Emirates247
+      domain: emirates247.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.6C7ADEACBBC5181CC4480AAE7BCD6363
+      - url: https://www.bing.com/th?id=ON.F4E04490CA93A44FCBE89B4FE21A482E
         width: 700
-        height: 455
-  - title: "SpaceX launches beer malt, caring robot and 'mighty mice'"
-    excerpt: "It's the third in a series of Budweiser experiments to look at how barley germination is affected by weightlessness. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It's named Cimon, pronounced Simon, the same as the prototype that flew up last year. This ..."
-    publishedDateTime: 2019-12-08T11:34:00Z
-    sourceUrl: https://www.seattlepi.com/news/science/article/SpaceX-launches-caring-robot-beer-malt-and-14884493.php
-    ampUrl: https://www.seattlepi.com/news/science/amp/SpaceX-launches-caring-robot-beer-malt-and-14884493.php
-    cdnAmpUrl: https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/science/amp/SpaceX-launches-caring-robot-beer-malt-and-14884493.php
+        height: 342
+  - title: "AI, robotics global roundtable series launched in Dubai"
+    excerpt: "The series, he explained, help contribute to educating government agencies and private companies about the vital role of Artificial Intelligence and Robotics in creating new business opportunities and economic sectors that are abreast with the rapid changes in many areas. According to the Foundation, the roundtables will focus on three main ..."
+    publishedDateTime: 2019-12-09T13:49:00Z
+    sourceUrl: https://gulfnews.com/technology/ai-robotics-global-roundtable-series-launched-in-dubai-1.68369090
+    ampUrl: https://gulfnews.com/amp/technology/ai-robotics-global-roundtable-series-launched-in-dubai-1.68369090
+    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/ai-robotics-global-roundtable-series-launched-in-dubai-1.68369090
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 59
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 69
+  - title: "How Robotics and AI Can Make Recycling Facilities Safer"
+    excerpt: "Two growing technologies, robotics and artificial intelligence (AI), have been entering the industry at a more rapid pace. And one of the companies ensuring that recycling facilities across the nation are installing and operating these technologies in a ..."
+    publishedDateTime: 2019-12-11T15:18:00Z
+    sourceUrl: https://www.waste360.com/fleets-technology/how-robotics-and-ai-can-make-recycling-facilities-safer
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.CB9C08FA2B8FD0ECFE69EC9AE3A5DDAF
+      - url: https://www.bing.com/th?id=ON.EF1E6017C4BBE9DEB249195CC21C9849
         width: 700
-        height: 467
-  - title: "SpaceX delivers ‘mighty mice’, worms, robot to ISS"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. Nasa has tucked some Christmas presents in the shipment for the station’s six-person crew, as well."
-    publishedDateTime: 2019-12-09T02:47:00Z
-    sourceUrl: https://www.dawn.com/news/1521221
-    ampUrl: https://www.dawn.com/news/amp/1521221
-    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1521221
+        height: 400
+  - title: "Companies Embrace AI, but Senior Executives Cite Challenges on Alignment, Ethics"
+    excerpt: "NEW YORK, Dec. 9, 2019 /PRNewswire/ -- A new survey of senior executives issued today by GLG shows that corporate America is increasingly using AI, and executives anticipate that they will use it even more in the years ahead. But they also have significant concerns: 60% of executives surveyed do not feel that their organizations are fully ..."
+    publishedDateTime: 2019-12-09T14:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/companies-embrace-ai-but-senior-executives-cite-challenges-on-alignment-ethics-300971382.html
     type: article
     provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
     images:
-      - url: https://i.dawn.com/large/2019/12/5dedb71e0a149.jpg
-        width: 800
-        height: 480
-  - title: "SpaceX ISS Delivery 2019: 'Mighty Mice,' Worms And Empathetic Robot"
-    excerpt: "The most interesting cargo is a large, round robot head with an artificial intelligence named Cimon. It will work as an astronaut’s helper. The spaceship has also delivered a high-resolution imager, designed by Japan Aerospace Exploration Agency. A brewing firm has also sent its product samples to ISS to test how barley behaves in space."
-    publishedDateTime: 2019-12-09T09:30:00Z
-    sourceUrl: https://www.ibtimes.com/spacex-iss-delivery-2019-mighty-mice-worms-empathetic-robot-2881727
-    ampUrl: https://www.ibtimes.com/spacex-iss-delivery-2019-mighty-mice-worms-empathetic-robot-2881727?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/spacex-iss-delivery-2019-mighty-mice-worms-empathetic-robot-2881727?amp=1
+      - url: https://www.bing.com/th?id=ON.ADFADAC1235C5E236FE8DDAD7A63D7A7
+        width: 700
+        height: 284
+  - title: "Japanese-Israeli partnership launches 'job agency for robots'"
+    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
     images:
-      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/11/an-image-grab-taken-from-a-spacex-video.jpg
-        width: 1024
-        height: 576
+      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
+        width: 700
+        height: 457
 
 secured: "QzoBlsznm0SI45FezQkRP3BPy8HbcATMf2S7aXACFUIs9y/YbN5pZvtbk6i4RisW+RRHul/wT1/wzs5nQ58X19sZ/l01Xi+psjmPubH581U88WTNFtxCqg68cF7Cjl8AbsjQncvc92AMLwAEuBFz6DJBZmQqF+lqK+1igbYzU+UcS7v4m8WP4EAOdzeTf9yCh7kZEPKJfBb+5Eq2X0tW14ivJmo1+2ncyATtSempnsze+bIGq2l8f1GpPeQfPW/xPaXdFfCohp68rqsnZHsbMg==;lTNpk+MA+QeQH7B/IV43Og=="
 ---

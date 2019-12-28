@@ -34,8 +34,8 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 101
+    quality: 84
 
-secured: "b86EDZZ2jiZh8N2Pr6bHKM+DkomDDAZnucKNyRCRcnP30TeAQVgohQlJtKv+aakr5jVUSkNNrFVLqFJbfluGzytzHLY4c0zEwj/MqXRVNvLx/pdaWNOiUaoh3WofyueYc9TuuCs5rMWj3zB/+UE11ZAXQ/4vz2TDLnGcLvd8mwxk1kYKXNSGrRK7SWa7reJeR4hANH8lZyO1+piGropBom32iL8Bra51bTexirXhQFvuBrhFcnDSt/8lfQmgkxisbqdWYvG1aEyRwP/HzY+fuA==;jkIxF9Hzj+s+wrirmvb59A=="
+secured: "j94bYav6KxQxqDXjoPBdDzjx3+vB9GJd71dgUqBplqpBxa6boeUuz6wqeHahLQTrcDdqgOFIUH3knGsEbyFYx7oH364gzfPeHs/SnrRmzqh/EgISr0BUfOp6wBPmLPjVep5MAuSjugm36s1zwEYP3w4JQzq9bBd+wzXcE8Xc7WOqN+Gozp99Vaq5O+Csa4igBqfJL2e4eS48T/6B427LsApEOwPRbbFDd97lQOCw27KBIy9ENRb5kAvGLLR2VGoRwLVUifSVm6Lrk22CVyUpZA==;bLUlnN8SjD2g1k7PJ5aqxQ=="
 ---
 

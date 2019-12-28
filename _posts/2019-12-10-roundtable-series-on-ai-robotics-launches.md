@@ -8,7 +8,7 @@ ampUrl: https://www.emirates247.com/business/technology/roundtable-series-on-ai-
 cdnAmpUrl: https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/technology/roundtable-series-on-ai-robotics-launches-2019-12-10-1.691028?ot=ot.AMPPageLayout
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -63,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ADFADAC1235C5E236FE8DDAD7A63D7A7
         width: 700
         height: 284
+  - title: "SpaceX launches caring robot, beer malt and 'mighty mice'"
+    excerpt: "In addition, there are barley grains for a beer-malting experiment by Anheuser-Busch. The shipment also includes a large, plastic 3-D printed robot head with artificial intelligence, according to its German creators. It's named Cimon, pronounced Simon, the same as the prototype that flew up last year. This upgraded version is designed to show ..."
+    publishedDateTime: 2019-12-13T08:41:00Z
+    sourceUrl: https://www.record-eagle.com/nation_world/spacex-launches-caring-robot-beer-malt-and-mighty-mice/article_12e5a536-be3e-526a-bc10-de7a2276d661.html
+    type: article
+    provider:
+      name: Traverse City Record-Eagle
+      domain: record-eagle.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.146F4A0A9060F492F079125C9A2359C2
+        width: 700
+        height: 466
   - title: "Japanese-Israeli partnership launches 'job agency for robots'"
     excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
     publishedDateTime: 2019-12-16T15:16:00Z
