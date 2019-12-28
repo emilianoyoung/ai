@@ -27,13 +27,13 @@ images:
 
 related:
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
-    excerpt: "In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein."
-    publishedDateTime: 2019-12-28T05:58:00Z
-    sourceUrl: https://news.webindia123.com/news/articles/Health/20191228/3480733.html
+    excerpt: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
+    publishedDateTime: 2019-12-28T05:34:00Z
+    sourceUrl: https://www.sify.com/news/researchers-use-deep-learning-to-predict-disease-related-mutations-of-metal-binding-sites-in-protein-news-health-tm2kViieichei.html
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Sify.com
+      domain: sify.com
     quality: 4
 
 secured: "+azpzT2WhBknwO4FDzeW7QinY/TT/oLme5ryjBVwY2811x1Ufp+Reeq5Z3cXmx+7PT00/ugQ0D+PmGl+sUYe6loyq+7GIq3g/LTXsK8GJBn4016naXVDVYQ7TxVZ8TGW7+O6s5SLJrQcj37WfJnBgkognJYvliVKNgTtSpYhRhvPIoGyQfgIEXANHR7UAYH7jsnRlRoTR1LcQkFG5IMDPs3Zdru4N17Pml6aLBFC5CIHGOb63z8pv3EkoQLCD5SB+ShRJB4Ec4MaDT+LP7k1EQ==;y93U2wD6Qugo6P/HXKi06A=="

@@ -4,11 +4,9 @@ title: "AWS launches major SageMaker upgrades for machine learning model trainin
 excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
 publishedDateTime: 2019-12-03T18:16:00Z
 sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
-ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
-quality: 112
-heat: 142
+quality: 72
+heat: 92
 published: true
 
 provider:
@@ -23,26 +21,7 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
-    width: 1080
-    height: 530
-    title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
-
 related:
-  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
-    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
-    publishedDateTime: 2019-12-03T21:16:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 66
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
-        width: 936
-        height: 523
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -51,11 +30,7 @@ related:
     provider:
       name: IT World Canada
       domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
+    quality: 34
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -64,12 +39,8 @@ related:
     provider:
       name: SD Times
       domain: sdtimes.com
-    quality: 53
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
+    quality: 33
 
-secured: "CzeH0KFLd4FI3dfcHMwhm38XQ+gMnP412coAnhcBgjPQt5wB3qAl5R+0Oa8LCDNT0ymwjHWGrcTpzYzvuQgrOocI+trA2Gsa0QmmsaJnVMLYiRwl8ZUjCi8Sgagkl4ca5JA8yk4ShuMeVzybsuuwbLccXKrD4pOgLGWsElv42zQoWMi5Z/2CI9rDbBtGCNZ+AFRLos9BC+4ess5twu+6UbGdIRDTPEc/U7n9L77hXTJvC6RYq2Th9Am6Ks5jK3MdAma4W9j+ACRGhrfCywU2nw==;Zz9Na+lgwdd073B5eNkMTg=="
+secured: "X0cVO2aTPLBVeGeO92DqHer9WN+TRbat/RXDnnStTGBtfUGW0cYox5WAolpE1dd2oPRncdREAJs5fCjEg/bOTn7UeHPo+E6yVpH+ufJpiKjUOKql1J+JpmctPFaM9H/k7nVWFKzEgjUSebMjCNvc/LWhf8hiq4nekk5CtJo6rZPj2aey6VG/LA2hnqxuOP/EDl4IlngsadSAurNl0MdbRHZhM6wF50DJHh80VSCmrC3oUUap5k6BL5dlWwRa/q6SnzWk3IHSjn+cKIUQ7tjN/w==;q+ghENLjNdn9RM4RNxrpRA=="
 ---
 

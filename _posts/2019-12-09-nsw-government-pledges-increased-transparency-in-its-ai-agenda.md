@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/nsw-government-pledges-increase
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-pledges-increased-transparency-in-its-ai-agenda/
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 700
     height: 525
     title: "NSW government pledges increased transparency in its AI agenda"
-
-related:
-  - title: "Transparency key for government AI initiatives: Dominello"
-    excerpt: "... customer service minister Victor Dominello says acceptance of government use of artificial intelligence (AI) will have to be built on what he describes as the “four pillars of trust”: Privacy, security, transparency and ethics. “I think trust is always an issue,” Dominello said when questioned at an event for media and startups ..."
-    publishedDateTime: 2019-12-08T05:27:00Z
-    sourceUrl: https://www.computerworld.com/article/3488508/transparency-key-for-government-ai-initiatives-dominello.html
-    ampUrl: https://www.computerworld.com/article/3488508/transparency-key-for-government-ai-initiatives-dominello.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3488508/transparency-key-for-government-ai-initiatives-dominello.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
 
 secured: "MVbmx3sq78xZFU9W8X0rihERmaCdthDIxO6An5DrD6Qt7BMB+dHLY7b9+KFycfRP+gXvf3JV8NdK3O0vTH+50N3YOv5kYpRLrBYFsfYYm33qzxtOxQitva9dvCMr8Y98yNtH/PejzGncWNjTxmEqwv7tXCJgBaP6oJoQaD43YhtbOySXIpW6ocUn03vFOlvkWJf2V3DRnYljpvdBZxGrtKnTRa87mnprmbvRyPzmv/RUCTnuDrE7iX+O+OCMUx3FfY1kLgLYVabXXytmXhvr0w==;Pu5dQojZlDy5NXHQ18dzjA=="
 ---

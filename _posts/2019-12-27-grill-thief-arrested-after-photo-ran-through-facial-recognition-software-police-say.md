@@ -8,7 +8,7 @@ ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-
 cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
 type: article
 quality: 52
-heat: 102
+heat: 82
 published: true
 
 provider:
@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
         width: 700
         height: 366
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
   - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
     excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
     publishedDateTime: 2019-12-28T00:06:00Z
@@ -78,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
         width: 700
         height: 389
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-    publishedDateTime: 2019-12-28T05:22:56Z
-    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
-        width: 700
-        height: 466
 
 secured: "ArRI+A+iGQRbyzaBONsbKoT8wiWmWjIARTf+c3cqIOZV8tCFpubzMMg798In1hiz6nhfnYVz1CB4zATDeHbH7AhhCcA4PbdGioMR50IR6Hw6V8zJ8qoLjTJFkfUQp+JUqc6TT1qkCWXbr+CD63EjwLKqacAh1grtMxez67joZkv07CSdYYqoCzMiy34lGXgp7J4EI7R8z736sQvs28a6BdB1mFIAD4ekY5AD69uDZhjjLtsC0CdLamVE60QjB4DxqQR6o36Bs3OpZ5sibMdwZg==;Dz4qTkZaRPMjvLBYXxK/sg=="
 ---

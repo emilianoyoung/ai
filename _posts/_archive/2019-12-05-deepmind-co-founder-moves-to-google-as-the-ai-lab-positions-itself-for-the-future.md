@@ -4,10 +4,8 @@ title: "DeepMind co-founder moves to Google as the AI lab positions itself for t
 excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
 publishedDateTime: 2019-12-05T19:00:00Z
 sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 type: article
-quality: 99
+quality: 59
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
-    width: 1400
-    height: 933
-    title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 
 related:
   - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
@@ -45,19 +37,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
-    publishedDateTime: 2019-12-05T17:53:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
     excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
     publishedDateTime: 2019-12-11T00:12:00Z
@@ -73,6 +52,15 @@ related:
       - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
         width: 578
         height: 289
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Harnessing the power of machine learning for earlier autism diagnosis"
     excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
     publishedDateTime: 2019-12-10T14:30:00Z
@@ -102,6 +90,6 @@ related:
         width: 700
         height: 450
 
-secured: "65d8TCyClLPa49PZ8YvV9nhFn8C2gwcXoYmugSrfcXCu+lVUPsji1DMR7reSUDmpqPO6AZdUVmsuyR4rHcU6HrFF9aRHMQaxlQKPx0d4PP4mu6gb1GSx2yfRprUAOnEYkU6NKq4CmYjO6kP6I7rZe5glFBTkrLCqg+wyZijOiDnQirrrvyzQULWcNhY9FeMkawOco6zIAJIlQ3v50+XS5ze6P+besKWWwQdZTiJPpfnQi3iQpesKPBxFOVNjuzEFgrEZMwHD9eXTWhSsNHWoxQ==;GVb9ULcE4Dwkxnv2f+4eRQ=="
+secured: "sjm07jTs4xRmmqZrgA0dxNhKlsr0+7s1vd4dFekJOTRmoCrKqRGh3yXXBpkVzzep6gPy6jcsZYMChaxpxmwNdHB9sIf62P1DkajFhbFNjKydxzTUUkYrGq3Gawbc+Z2zRGCqKP2SIZI42DD6jzbmczvRYjTjXu3ubIw3o+fF4CDolJDFkrjymBfxkCSExtSJkbEAF4kJbKBDo1sPVseWLbqNwNc2wY1bNbgdiGvXeQqejxb4YXmtoOKTIt07NiC2apBxf9uNIGGelN5wCc1mMQ==;oPjGY0a2N02aVTTykoYRww=="
 ---
 

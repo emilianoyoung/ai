@@ -5,8 +5,8 @@ excerpt: "and machine learning in financial services. RBC Research plans to open
 publishedDateTime: 2019-12-05T00:00:00Z
 sourceUrl: https://www.investmentexecutive.com/news/industry-news/rbc-invests-in-research-into-ai-and-machine-learning-in-financial-services/
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: -1
 published: false
 
 provider:
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: https://www.investmentexecutive.com/wp-content/uploads/sites/3/2017/12/AI_concept.htmlcharsetutf-8
-    width: 799
-    height: 599
-    title: "RBC invests in research into AI and machine learning in financial services"
 
 related:
   - title: "Unitek.AI uses smart automation to target roadblocks in financial services"
@@ -38,6 +32,6 @@ related:
         width: 207
         height: 155
 
-secured: "nMS3EmcrhMryDgvquY1dRkm5uYz6qGkjRGzoEZjsThBonopAaTgoIOx3uMV0MJzE2/zeUHGLhkfyqEC3iUCVJE6Lk81DevVqQJVCXbG5eAOTsmQBhStPorb394o3jaZSFHcuDvfkIVhHC+KLTkUc287puooUSORPRgkSjJ0vczIK8V8R8msaR1oOXmzRtqGmISC6333RwYwX+UaSS4XYfH2KEmcWLWpnjcJjD1Z2fYk0Av64sASly/Erh52fD7cBBWf18sOGzqkfcztgkmsfUw==;tSURLmbJL5u/xKpaWiPw8Q=="
+secured: "qUFaYOBs3rZvM7PidUzMVxxVgcFNm7Ogdhqd6MtYMWZJGJcSFo1EDwio+JWIXGXcSnORY/aQSHZYO2TWlu8HlpgjrVNuEQIXuTXKoHd2GZx5AQffFFmLDxctRqy3z0vM+nlFr1PNC/ytmEFyF4uyyf00nglD0K8lmz6gre6lLyQTBTlYZIh2UGTGE9pwQsCcXLZFOxaZ4yugPP2ZP8RKms5IB1dT5LEPnIquZVHGF+mzMhAIo4Gjbib22NuiZfoYoXYK1ngu5jLRzEPjU92Xag==;zz6yNpORhWPFeEJprgX7QA=="
 ---
 

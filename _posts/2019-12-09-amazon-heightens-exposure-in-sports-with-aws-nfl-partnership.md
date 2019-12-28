@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T16:45:00Z
 sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -32,22 +32,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
+    quality: 34
 
 secured: "7a9C7IbgKBJpjgBM0Sb82T827oYnp58yYOQKPD5QUL9S20MIKNIX1GhLhoMHO8lbanuuk4SqRPbuXL3mFMehjHopsUnhjdCL9mZ+B3HVvT8hvQ0Hmd+stiU9K8LKNcmF5mntS1tBEOaAmy/xqRruzCZH7Gzb9YqPiz8badTDmXLKqO/Oi8PXMl1CiuURsxf/EVfcYpssVpVNCpaDkrv53c9aNF8G03SlEd591OX7Altbs58l8MHvM5ugDO26ecj2SRAReausHttlyZabGDbYyQ==;hv/clOHORz4JXvxevQAdFg=="
 ---

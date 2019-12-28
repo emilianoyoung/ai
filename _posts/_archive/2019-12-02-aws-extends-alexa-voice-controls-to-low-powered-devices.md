@@ -4,12 +4,10 @@ title: "AWS extends Alexa voice controls to low-powered devices"
 excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
 publishedDateTime: 2019-12-02T08:27:00Z
 sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: telecom.economictimes.indiatimes.com
@@ -19,36 +17,17 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
-    width: 800
-    height: 434
-    title: "AWS extends Alexa voice controls to low-powered devices"
-
 related:
-  - title: "AWS to roll out Alexa voice controls for low-powered devices"
-    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
-    publishedDateTime: 2019-12-02T12:30:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
-    ampUrl: https://m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
     excerpt: "This comes from the new feature added called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range ..."
     publishedDateTime: 2019-12-02T12:11:00Z
     sourceUrl: https://www.gizbot.com/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
-    ampUrl: https://www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
-    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
     type: article
     provider:
       name: GIZBOT
       domain: gizbot.com
-    quality: 24
+    quality: 4
 
-secured: "P3GI+z5EHp+sQBhd395u0a2J6Zpe9G7bHi0IN+P/pNBMAa8aDADUBwkcDbk4U4Db17LkLVu+Qi078PJDWA7BH7joniLDPmC07Ze3KmjbNCNQheU9wRzoz+cPMkJeb5v5FsXokjqdiD9M4BcPuzD4B5zRus9H6UkBEPcM1ZfKoHONdrEC32Y3tX32snWde4dFCtPk6lmepjlT7OdCRs26Pr7/QyeYHxKPDucL5sZMrAg0keSv74wtKEzfSnPb2EnJad8rxGRCMwG7sLRKu1t3tg==;W0YAR0VcTgj4f3eVniu0JQ=="
+secured: "tdpws68CiqAGTb17o/fdXzNulFWHFy/tU3gasdviVsPOvMuUjVkkY3lq1p/ITgrCU56kj2/QPbdeHzIKIHtXZ9lx2xql4DkDtRsoZz6e3hGG3cVhqGeiPguR/vWJEAAeKZ69bntO157ZNWvHtIuWSxJGL5m4PInwve1zC0yM5Mmmiwean9i8mv1YmzWjgPfy9MqrGlsY0DQbfpt0erY0oFxxstnH/u5GRmYXDmUghku/fVCqQ7Hs6ChqG9GskvQDL2VWOrfMR7MDGOsQYesStw==;ifYpraWL0X9lJJVB/F9eFQ=="
 ---
 

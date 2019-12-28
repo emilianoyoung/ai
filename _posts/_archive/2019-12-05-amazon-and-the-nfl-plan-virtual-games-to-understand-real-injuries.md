@@ -4,10 +4,8 @@ title: "Amazon and the NFL plan virtual games to understand real injuries"
 excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
 publishedDateTime: 2019-12-05T22:16:00Z
 sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
-    width: 1200
-    height: 628
-    title: "Amazon and the NFL plan virtual games to understand real injuries"
 
 related:
   - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
@@ -109,6 +101,6 @@ related:
         width: 700
         height: 450
 
-secured: "0AYh/sac1236aKgjJ13sxaZ6k5XZAurPEPAXr9xlHO87heQcYyRP672I9O5Tjx9/U0XigHQdVN33VM3eNyQ7vRi4GPTxaCoQlAFrjo59kIHznZ7r9j+UvUQNbTERD3GxnxXZjtasna3n4M5z7DTgzSaV3J95GayDY5ErvpeKUxlKU9Tg4nAJpdPKIwWRA+gF6bRgHeTn8STAl9H0jB5c47Xil7jQotf5PSscHvKXVbt1vXSziu15jC4IxvM7LlyBncV1OPXfDvBx1Bo1ns+cUQ==;po/4+m6YiXJyNZh5fwIKxQ=="
+secured: "bYYjQFUJsn0tonLMvxinrRPNWQj7R9mYDaLvBQ73DVktn/bsSb6sk81FeTizRw1oiL1oiBKhnWeKQNwgRXURdndP9uwdq8jiDbPer3uoo6jzEDH+RtRg58ub+L4ynG/wz17YL1a7FI7cKOZWGQl2s/mg/0Y+RCt6My2mBeiKQzcfoOaAu1Hsyy+bhjMr28IKOLsqEJLCeb+Sk85pYR6fIvkzLsbsevNiJMcacpbgYbG9Y1T/V/U/YDgnochDj6RwfW4mbMr0/9QvnbcitVhKPQ==;hHT3bAKuzjird0npVKoN4g=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Now, it seems that there's more activity on the horizon. The co-founde
 publishedDateTime: 2019-12-05T19:56:00Z
 sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
 type: article
-quality: 80
+quality: 60
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
-    width: 760
-    height: 428
-    title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
 
 related:
   - title: "China’s AI initiatives to pay off with broad industrial applications, iFlytek founder says"
@@ -72,6 +66,6 @@ related:
         width: 1200
         height: 630
 
-secured: "mOT13ZraMywTE9+MK/T5aVoCFiQaEeksL7OEIr1yT4LJubMXbQ4EQbLlT2o0yFvod5vFUWP7F8cUt2FGYA1QcD8HqJIVlxiIoqxKb65t7Z72BkROPkHGVlwclgz5vUwkQUrUTO5NdFz0A7sX0zvmhJTXh3gfo7iLugwf6oCENYBssLCP5qLAHu2pDFPXYjwCHoN4muEAT7hu5xrK21B4S+Wbg+5Z5tpN/ScQhJX+UqxuNc/dBbw0aR/pqRVfQHZ+eTCdFvSLLJoIUAgJ679ugQ==;U81ezUeDqDULLhmx2OsTsg=="
+secured: "hwTJB8+vxYC5AXwiUGoDKXdtXnmgN1z3loAzbskYS0NAO2qXHeOaFaHUa4ZPPnobueAPj8TW/ZNN+nRd+uwoLeFhgggWkWX6dxGS78jwu4Wpjk+QnUdTHQsrrgH8Eqitwoi52hBn1swmLC2zp23nsQX0HoSxd0rxZiWdWMJFqXCjyydZz2BjCwUqBLFtT5fQHUDovIKTDowvwkI6pD8x/xQeMjplXJYTr46Nt0IlrqvhyiMSW5qwsdRtnzgOSKfOK6gl4pnv+JFm/ooDj+4iAg==;0+LzweHYZVr2i+fiEpXNLg=="
 ---
 

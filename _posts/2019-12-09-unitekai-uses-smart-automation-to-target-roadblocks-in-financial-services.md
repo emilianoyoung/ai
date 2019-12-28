@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T08:36:00Z
 sourceUrl: https://www.siliconrepublic.com/start-ups/unitek-ai-startup-fintech-financial-services
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -32,11 +32,7 @@ related:
     provider:
       name: Investment Executive
       domain: investmentexecutive.com
-    quality: 37
-    images:
-      - url: https://www.investmentexecutive.com/wp-content/uploads/sites/3/2017/12/AI_concept.htmlcharsetutf-8
-        width: 799
-        height: 599
+    quality: 17
 
 secured: "7r3D8rEf4nV/Iv0bmUuo/DA84uqng0pgUhA7qBU7+srSuApUaP4l1sS4IBorSYEKiCq9TD6guydZDcKlXuQPxUO7KdFwsdk9qffo+I4kdRHtQWuL6INqEjSI/Aqvl06HIUJVfGBv61ykORv6AAqZumKh1mDe8Es7fu6xcpO/LQ7kf8wKcr+rw3llzuim1k0+eqLf6Zb+LhbEXM8BLoJOQuIT+3T5t6GQFqosBjMlWqIQAj9bJSiqipXhoZFFYFNmeDE00y1GI9yiGZVouEZbew==;GvwF6pPGb1lFV1oSVwf1Hg=="
 ---

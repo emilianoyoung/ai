@@ -5,9 +5,9 @@ excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer
 publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
-quality: 54
-heat: 74
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -17,24 +17,7 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
-    title: "Amazon Partners National Football League For Player Health, Safety"
-
 related:
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
   - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
     excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
     publishedDateTime: 2019-12-09T16:45:00Z
@@ -49,6 +32,6 @@ related:
         width: 635
         height: 400
 
-secured: "qpBUkX5X+4I0d1J19+0Uj5k0Wl1vCqv50eGd1O+NaFIYZfBST9IQo30Mn6jsVlkT7URS0PdnyybySvKPBeRLpJrya5m0t/4tNPix7kcgXXrEQHK5yZjx+YphSqaHyzeDyW4C5x3zNs0oj/WQGUuRJHoVl8q9Za/RAt392lKtyE7txOYai3KSOFP8XRvM7ecJBRTZaWP1zgC7hq1V/fHBMh47G6VzWlYpxU7+YWPhLVzXI8KUYX7QZ8H62kGTsDXg9CLTVKWcrxM7uKTJl8jwYw==;DECgszC6t23PEiu2FQs9Wg=="
+secured: "l5OCfvmLr72vHBJIHWJBZktO01VXNkHaW/KH+hJHeqQWuLM+wgARkjMppuIlZb/n1lvYgC6moev+1WJhPmElmau0s3Q6uQ3jChJfuiqtNz5+2SwlTIBeezh55HXBis7GgDmj85Bwv358P/y4Bt43Bl1ptM0U4lfBvu9FFK9wz8yOcAgGn5lxrMnFgxnENFTBGpCZE91PWKGc5r4eJ7eHYM4uqOEun8mCsBY6O0SoKqbMeF2l3fzlzW8ZES/5jDNxlHzuwWI2zEB3/hNT0R+qwA==;4eqbaMTHU36c97z5iu6k4A=="
 ---
 

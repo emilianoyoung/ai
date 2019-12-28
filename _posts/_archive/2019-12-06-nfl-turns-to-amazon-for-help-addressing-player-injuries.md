@@ -4,11 +4,9 @@ title: "NFL turns to Amazon for help addressing player injuries"
 excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
 publishedDateTime: 2019-12-06T15:42:00Z
 sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
 type: article
-quality: 54
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -23,34 +21,6 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
-    publishedDateTime: 2019-12-06T15:41:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
-    excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
-    publishedDateTime: 2019-12-09T16:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D3D2D7435233F112E8C48183EFD83C3B
-        width: 635
-        height: 400
-
-secured: "8WCwbVYwOTuNOxWcKxjCXdl0Hm+1x7edk3SYkxqOi9nwS4J9MBnK0khge2s4kp9CXPjb8c4w4IsWzJq1kgZHVs6Pa1R8G2qUdMsSHxMxjbi79ohsgNIjZVWzrXvKNiU7C38wB8byu7SmP+sYE+/IhP3MEq/MKpsp+4UF6v17SluJ1FEE+Yc72/YC+elBryLOtkArnX65c7SKCIOdtP1kSoqhPhUx/iPjuVE/6p+/bA6bFkliF03NWo+edbJ0VzyN+IZDQYgtsRTukLz4lHmVDA==;m6235Hy6DJTA15SMnyvvmw=="
+secured: "DVUvDO7bFXeXhvzF+eAPTCh9m/tk5fR9Wa48ngjbgT4VAnoK0fMqmud0wtl/P5PwP1K1tzFs+sV/pYVYfD/znxTDGe24rHpMvRPzM1vVi9NQyRo/TKmWggTE5A55fpI1Hy4uCj34GcZ7syQ1N5BdE7NaDobi+5U1M66tiumk4gzT0BhY3ZYJlkIyjqmWm5Iqes3iz4Xz0p9Ri2CZVjY4MHQ4Njr9A+CvYw5BlXkg1F7qAMtUSRuB/kG0c2smW2NFHmVNQQqeZJcnTkGsYiGaCw==;gtFwyRnBIrM5f5P2rz4hgg=="
 ---
 

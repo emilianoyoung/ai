@@ -5,8 +5,8 @@ excerpt: "Clarifai was described as a \"Vision-ary\" Leader in Forrester's evalu
 publishedDateTime: 2019-12-03T15:15:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-300967087.html
 type: article
-quality: 53
-heat: 53
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - Computer Vision
 
-images:
-  - url: https://mma.prnewswire.com/media/1036786/forrester_new_wave_original.jpg?p=facebook
-    width: 5157
-    height: 2699
-    title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
-
-secured: "IqYtwXy7NwRbzFG6wjPHfB9DHSMMEXulLVnLxQlwtCZKYtpeUzyE8S0kzfsk1L4zgLizVrfhJlywgKVDtyaI9qY6q3HY/a1lIn/NBmRf2MCau+6ISXM1Bs+R2xvxqCUAP9QaaXkho7nlM1hBGW91jHTqzoEY21wgqfMSBWCjpaHwc6ww0JXBQg4SdZtSL9szLzX6R1tYwwPAd66a4XUaYp3ovn7UFGzsTxLKhbN5q/xMXpFK47wLZ4+BC5ptSTeGSg2NqAqSQsUzEZkvWZPNyw==;rw3dFXSUqyZgykXEdctFKg=="
+secured: "bsWjlEe/Uyp8w/buTrK/28R34xXuijBL1kSc3/5cz98wxxTNrk06+ZDMA01eG0hCsC3wlzavga5bIjGCGU1oh3EZhS6LTKM9vKVAcueEJpuceWOH55RMG36ZnkdYYXXOqi7gtwHiI2Kf1Xi4sc1K3ijtV7AiqFblJg+Q+QpEivMzP+SE//K0WgIpQj8Fl4K1utw4KPOTci2LAmsBIht0adNLW5QYdCIR10iOuMpgf6NGhP/Sf1kk20GdSb51FIGXyjILSHBOzZFqVPs7gE+iSA==;XFRbIAOdoiRCA+Zv2GPKxA=="
 ---
 

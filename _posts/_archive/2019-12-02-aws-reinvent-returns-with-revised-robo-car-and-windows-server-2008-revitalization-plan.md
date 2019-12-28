@@ -4,11 +4,9 @@ title: "AWS re:Invent re:turns with re:vised robo-car and Windows Server 2008 re
 excerpt: "The biz teased an update to its AI-powered DeepRacer toy called DeepRacer Evo. The addition of the extra word \"Evo\" heralds the addition of a stereo camera and a Light Detection and Ranging (LIDAR) sensor. These sensors can be used to integrate obstacle ..."
 publishedDateTime: 2019-12-02T20:45:00Z
 sourceUrl: https://www.theregister.co.uk/2019/12/02/aws_reinvent_returns/
-ampUrl: https://www.theregister.co.uk/AMP/2019/12/02/aws_reinvent_returns/
-cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/02/aws_reinvent_returns/
 type: article
-quality: 29
-heat: 29
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - AI
   - AWS AI
 
-secured: "r045QSDwjWlwAROIHH4kv3kDYgl8PmHgD3gjK9/ZL/+CBCRyLHYJCjjIKCQosH5sqrlpLyZLXiVNu+mjQCxKisHF/RarjNooC7CX2ZXF9Zjb0TwztUepQjF6iLJR14Si2TqWIkH/t4I7LNYNS8uTxunZUr55Kp6X0lCYq3M5Kz/8CLAQ87wTgeDHwmMJYCu1WKKrvRAaJCbsn5Y+WLFEWkXqvOwlyrGUMpVYwXlHqNRcXIFv9gxFhMj/55hDPEubdwAdpKyCEPLfhQ6/2WOJfw==;t8hbk5RzjI1i977h5XMf/Q=="
+secured: "Zq67q7Qyg9Isk0nut37+UIq6WnfL6DGCsG1/uiSUuT/IImyWa8n0p/shfr6OScqjgfcA7KF2rSktUdiq3HVW/kOZm0AlPqn0cMh4AkHt433O9jEffQ1Vy9NDg0sZLC5xNikAmirW0CLpDaKvuiqYNc3jL4WvPVa0H4eFfWCdMMBtASiVBqfxZdesRD90VHfTjCNGKypFbASteWi0vN4uEM/Dzlk0t4po5TzKmpSpcwow2uD/56ZF+sUGRnphUpCf3cf6RgEfEqcQAA826SlZmw==;mcpYSI0zhjRqHyBPc6Z3dA=="
 ---
 

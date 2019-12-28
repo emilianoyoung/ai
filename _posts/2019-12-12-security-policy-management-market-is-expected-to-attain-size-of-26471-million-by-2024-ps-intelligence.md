@@ -32,21 +32,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E101638180B74A5E5B8E2EC84CDCD6D1
         width: 544
         height: 334
-  - title: "Memory chip market to rebound in 2020: Report"
-    excerpt: "artificial intelligence (AI), deep learning and virtual reality will also drive demand for NAND flash and DRAM. The forecast suggests South Korea's two major chipmakers -- Samsung Electronics Co. and SK hynix Inc. -- can make a turnaround in sales next year and maintain their firm grip on the global memory chip market. As of the third quarter ..."
-    publishedDateTime: 2019-12-08T05:58:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/memory-chip-market-to-rebound-in-2020-report/72423166
-    type: article
-    provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.231EB6EEDFA9BACD565039A3556B5B18
-        width: 700
-        height: 379
   - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
     publishedDateTime: 2019-12-09T12:30:00Z

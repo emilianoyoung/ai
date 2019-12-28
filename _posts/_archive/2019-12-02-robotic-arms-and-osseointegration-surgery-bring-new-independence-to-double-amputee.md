@@ -5,8 +5,8 @@ excerpt: "He is now about halfway through a complicated process that will see hi
 publishedDateTime: 2019-12-02T01:04:00Z
 sourceUrl: https://www.abc.net.au/news/2019-12-02/ghanim-al-shnen-finds-new-independence-in-robotic-arms/11646940
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: https://www.abc.net.au/news/image/11747912-16x9-700x394.jpg
-    width: 700
-    height: 394
-    title: "Robotic arms and osseointegration surgery bring new independence to double amputee"
-
-secured: "KRiQiUsxNMxlGiPYxxWLZewv6x+OMLiRET90QvAUvCa2T21ewx/MXKNqFZ9AExsFrtiJUl5/IqJDd2K7i04gEXEC71ex8GPlA18pJw/+HKw0ehUsHkArj2izGxkiQTqBKsTL2jHsQYUa5GximRVgkTQ0pjzj2dbsBvX0hHH6ZIw0nkxR6EXG0wNQVBawhvCT1qAF4gaqPL6oXSU3brrFXTJ+8os370WoU7s3a+uXJrndbt85EsDIHkhFDjEZJqznG+86JojkX6jo+YPlQEBpkw==;6tTyS5fTccTZtAFAt5TAhg=="
+secured: "mfvk9MZIdA4lPOhPtByUMqDSrJyugNlaS2vm/i8sqUXU2KzakqpTySsQR/gBncM/DD260t2hyWoRLExsCETj1xquStcnDvd9msnSU103C2/QSBgen4B8awhiVtiHaPEwr+Q1oQidEwdmE/FdZoM8SCllPB7lkUhfKIqMC5/z8U3OSwtjKHFmdf/Zz/fNpvGYi3128hZrlB7HhG3UScDH6/JhwBnDw+Ay4FDaOGv1Bnt/D3SesbMQxtNgSa8y73mds3+F6rotxXVa+ghT/mrftw==;6z/SfnWq0vWtcs/eQ6d6TA=="
 ---
 

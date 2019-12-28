@@ -4,12 +4,10 @@ title: "Facebook's new card-playing bot shows AI can work with others"
 excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
 publishedDateTime: 2019-12-06T17:01:00Z
 sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -23,27 +21,30 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
-    width: 756
-    height: 567
-    title: "Facebook's new card-playing bot shows AI can work with others"
-
 related:
-  - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
-    excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
-    publishedDateTime: 2019-12-06T17:09:00Z
-    sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
+  - title: "Facebook taught an AI the 'theory of mind'"
+    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
+    publishedDateTime: 2019-12-06T16:00:00Z
+    sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: Engadget
+      domain: engadget.com
+    quality: 69
     images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
-        width: 490
-        height: 369
+      - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
+        width: 700
+        height: 367
+  - title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
+    excerpt: "As VP of artificial intelligence at Facebook, he oversees hundreds of scientists and engineers whose work shapes the company’s direction and its impact on the wider world. Pesenti joined Facebook in January 2018, inheriting a research lab created by Yann ..."
+    publishedDateTime: 2019-12-04T12:04:00Z
+    sourceUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
 
-secured: "qTSmWBZdrMVPYlmWgHNRs4RrNSj7JHKJ+pqKn3rOiLXVy3+ZhZNeWRpfxzuUOqfYFR+Bv2Uoxh6eFAcRx47OYhTVi0A6s6aKC3Lo5notUJv4xew/nucEVF3vEqYX1GDwrqg6S2LvP+MnUZr0B8SfIzlL0Pxzp08feNrspqcXq18Z6KKopO9BIOeIdKdupX6Qz3y3I1y6umY+Ybai6uPopJlCoCsSqVSUnSW3elXNzvVdbcgJCxIzIVU+grYC9nc7ZkRhWXtFaZLEWvz6PDu1iw==;uy9RAf6474Fgoe5QCQ+JLA=="
+secured: "Iu7MuG18C0s+/guEjoWYtbqxU13lufkrjYscmxfJzrsfmwhQMhSholcMDxtLEAt8f+4G7RDPw9u3scU1IpnNDLJJaVUsObRDQpJn9IIzZ9GmnXm4evD0zctJGdlPUMBWNCRQB/4giorncBIw8H//ZhPuTB+K5cYTIl97KQ5Ro9n+ouk5vQwzuV3q6BFd5ZYepT3DWaNMObaWzl4BhifZP7Dt/b7BdtLWMpzs1JTVQbFdOre3+kZMBbcb/eXuUDVlle64nOXhIz2zpua3TGlWfQ==;OXtLS2D71j+D/vh8IsSi5g=="
 ---
 

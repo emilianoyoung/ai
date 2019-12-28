@@ -5,8 +5,8 @@ excerpt: "Amazon Web Services has made Alexa Voice available on low-powered devi
 publishedDateTime: 2019-11-28T17:54:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/aws-introduces-innovative-features-for-alexa-amazon-rekognition/190491
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,12 +17,17 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
-    title: "AWS introduces innovative features for Alexa, Amazon Rekognition"
+related:
+  - title: "AWS to roll out Alexa voice controls for low-powered devices"
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T12:30:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 19
 
-secured: "co2cDazQxTrzrXjeetvkWeaFXNvgwbLiFoc96diynBN8molsqipE+GXEnMUHewuBo4wrnD5y9SyaY0uSUijm/hslOt0BUprnJeE+EY4hiXhv7xngE0pT9g6ER0b1UB1gW0+fN1sWuJq8t7dJGexQcUfmsK+jfIVwThAq5BQZwdVwRgWCSzsCuWf/Ae+6f3xKz2Y7Vr8fZ3zJytmMd4Yf3y10mA7RbuOFdk0gFc3f4L7ISs9+9f6z5bzkSjAYJp8tQEqdclumWoP89XlUyXaaWw==;wd2U6zjFfW6rhy4tLSQgNg=="
+secured: "iopsL+28Byxt0jG/+qZbVaO030GQ+usnRQvLP1AaZe9vaQ6H64+VbgKNNd6QNSdVN6p4XYY7PhHFjgMEcBwRC/QR93mq4Zgje/d6CHBnx+ABYesYyoCboMKspR3nLiKGaMXf1zFiF+uv1ZCn9bxBaKhbUjA82QI6BazZgxZLKrL5/Tdx9tyhUQJrNlIMm0WPbRaViAdfF4TyPZ/2RAjoLUUXarRO+GpOwNECyHvQAjJ8LkGNZB4HtqkfNXFm4mquIagcmpDViK8NyhyajGnazg==;Cn2S2/oNJtaDAlhR775iuw=="
 ---
 

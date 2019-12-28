@@ -5,7 +5,7 @@ excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artifi
 publishedDateTime: 2019-12-04T11:28:00Z
 sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/041219/chennai-man-sundar-pichai-appointed-ceo-to-alphabet-inc.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
-    width: 800
-    height: 448
-    title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
 
 related:
   - title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
@@ -55,6 +49,6 @@ related:
         width: 700
         height: 350
 
-secured: "BcB6poSSemBZHymqVe5MGugM51I3DbsB7FKqhLwZGn8of37En2nqOUtoerqosByUKKMyvZXCV/6gBuFgC/5LTm54zrPTPLDXdmy7SvAfSZprzNNQxLpjQ8n/ZqqYCtc6OrEkWKD6XQ8PwUSBmQNlre7mELSBU+nDt1BEUii6P125dY7NGc28WtOc+8gHVhHnII3XlfIJbdEeKDzvgnaDaM0lV05/QJzrDN8YWLmctgFdmj8uLsbxXpKyg1x0+dMaj9SNAjYlpaFBDHCdieO/hA==;IyLyw20PEU2OTuHUFQ8kiA=="
+secured: "nl9n8+279vFLcA46iYg24mx44PNg7ueMXakeBmNkX9gOw5GzyVVr1s6lSQ98T8I/slv2x4her5azJ6h7VDPuqWvGWw6AkeBoSkS6ezwUZpaltxw27EkDSwAYyB+KRNicvcQVqK+Nldft/9BaAsRP0XCI71ioQY95guCjDjD8KzCv7JkdRSz+3yjTpSbDkRLJoTljWqV4ZJkMTg/CrDE3tIYGA8X73W5jNM+Al5r868JZTnLdrSuUA1EogpCHGK+JBtviITodOnm8l7LeoWoiAA==;9r01V9idKhK2mSE4+VUN2w=="
 ---
 

@@ -65,32 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
         width: 700
         height: 366
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-    publishedDateTime: 2019-12-28T05:22:56Z
-    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
-        width: 700
-        height: 466
 
 secured: "3qWDNAPd+46iRrc6zqUuRPaVNM1LbWvGSZ2H2MV3P+cN85L7ANI2onkwcG4SAU/CkNeg14AZsEor94hnkEtB350QDM6fbYMq34YKkmRgkM1xRIppzaUbuV8D/Wn6qVQeIlsDG6ynarcPOyl+WeCJKy2SP/4TOtcpjUFnYywbDYht3tEMUUlM6scSI9tpf2FNGdNm4ykzGQjXjYay6uiKK8Gs4cGLllW643n0ePIc2gSNNl6pD3yuyVuZdDr5EMZwQEGzXRIjW+vaZ7lU7Exzlg==;pQPbTjc4BW0C3a3GdsqG0A=="
 ---

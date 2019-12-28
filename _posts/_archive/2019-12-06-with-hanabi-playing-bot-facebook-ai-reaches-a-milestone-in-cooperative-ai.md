@@ -5,8 +5,8 @@ excerpt: "Facebook AI, the social media giant’s artificial intelligence resear
 publishedDateTime: 2019-12-06T17:09:00Z
 sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
 type: article
-quality: 37
-heat: -1
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,29 +17,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
-    width: 490
-    height: 369
-    title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
-
-related:
-  - title: "Facebook's new card-playing bot shows AI can work with others"
-    excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
-    publishedDateTime: 2019-12-06T17:01:00Z
-    sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-    ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
-        width: 756
-        height: 567
-
-secured: "QDdNESz9e3C0xfDoAwsOMGFEvQojXeqJ5txjCTPV/DjKvLPHXZgxlHWdhD/eiOKZghSusSeW9SwYd8pEdq+D1wLiNCYB8fQEnE3dJkAl9l2KdP4Pgfz9VTHRgqHIAVcxp+rCbmxq3r51y1Os5Q0rwZL8u0p8aT40hEJdxLGH1d7mH7+fJbNNRjwJRt0e0ynHz+dn3Vxh9i/nXyHK20V4o6DBsrqnhIaGa6n9+qFoZGmJi+Ldxng+bXa/h5X6XTdgGYQgc4iqwvS44fJZGynT8A==;HYVVKcUOowjiMtYobTCn6w=="
+secured: "uzZPuJgokybcBqD8pmG3fcRGLcZeZ1Q1ElHHo02LOmNwdmUqSdEh2xG3XOELtDsOVyQ5bOpUjlhdWvufcnAQVSXvJaS2cYI0JSA4NNHNZirfWg2E0yIOgFllBzBDkAOerQHfBBwiT2Fl5GP4Hj/wLKhi0t+RB8in98UNN08no6kfQ7LNv5Dv26fEPQ2y0czwHuH9WP0iPtypW96FewufZC/DwbPTkjQY2NKr6SOO5nYRV0q0BGFw25Qhd122odyLM6V+GQ1UaOv14yRddGe2EA==;fa4coBopsiVJvmQRjchBNw=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "AI-driven networking equipment provider Juniper Networks said it is re
 publishedDateTime: 2019-12-06T18:05:00Z
 sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -17,12 +17,6 @@ topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
-    width: 1200
-    height: 799
-    title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-
-secured: "6vUz2tEjT7LkalpVkoTHWReHfjva9mANShJvkHtXw+ukBuFjAe9cTyflsuZB+Y6X9C49cd9henJKv8v8Y00YhDERgCOghg/ORFN+An9swatwG8z1lETYdHgCewZJUkdbB2qX8UrPt3bLyNbyvTvyOTdKZ+81SOsJk88yVYei3X9UQlCU741kYPdLAGBTJiu+093naJe0cuPx6oCZtBvkOcP8aVamqShOx2XPH6qbfGUJ0IMljroSSTKejQovlhx0UELrI4ic15/3bqg/NWP1lg==;1S8UEFBGUusBZO/1zo0REQ=="
+secured: "3z7r25xSW5JJt4lZemGOBQki8uKtRzhfrXn566LuIOU2iY5rr7qcmzcntjiaGqUUR2SQaUiA5Lo60MRgqo/fj2WkRKAg//7R0HriBtnMTMCm5O9GmSubUvdx7Ky0dNXANZgFkm5YYaPcTEdkrVdYHlK78y/XsHBRfXYw6a17MAlBcKw2+CHaCaIAHvKqZX2gZjiQCQ2s9KzuSearTHPeFixVU4q2odCGcq0Bno3fm/ezvLFmN/LlQHsMEKBXJ5cueww1vPgTJljCJxK4esShVA==;hI3jXHEkGVBYlukehOpJ9Q=="
 ---
 

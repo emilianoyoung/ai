@@ -5,8 +5,8 @@ excerpt: "“Amazon claims that its system can be used to train an AI to detect 
 publishedDateTime: 2019-12-03T00:00:00Z
 sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
 type: article
-quality: 41
-heat: 41
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - AWS AI
   - Computer Vision
 
-images:
-  - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
-    width: 1024
-    height: 645
-    title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-
 related:
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
     excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
@@ -33,12 +27,8 @@ related:
     provider:
       name: Security
       domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
-        width: 960
-        height: 640
+    quality: 10
 
-secured: "S0flm5aCvBegeXS+apTnq/G1fCnnxhGFOvJ1zEGQGXwR0ERQS5Bo6v5Pv6d+d66TAjGXSJw3Jp7nTVZRTavbsnyKn2f+DMsYUeM357AjraIV8eQc+GRm+YccPEIH7O66Bx8y1+Kqq4UskwswfY7hc4PcPn9EB++AMLGO/B36HiOU4EbKKv5oA0KeFI656WCSRubS6nLekzumnQCHVQ1OXzCp1+ZlQn475dJYDFxBWZtOU2XLMtYrWNNma5NWEwwD0lhY356MDAYgFee72f4Zew==;lCFHoioWkaS//4yo9CKM3w=="
+secured: "/3gDBFBqN5XGtTLvRCPsDitgcuYKe/p9CsqFzN/RUII/PMQUqA7BZpR3xDCTXPaRq27cpc9pEH3vM20YoOeuywZeqcv97UDXDEkKSHGepgLyhtXP/je/SMdBKI14Uko7YyW5SzzIz14X6luGcn+CpRR79xBQynKASDgiL5yrNw5+BRZwLb8iqp3cy/bGnDidBllXzBTl36dxOJxsaJ8IkDEWa9TSRoSthWsInwcO5vshOM1cehwDP8GkA+2W9zYxS+PmTkfDjx6shc5T7WbiXA==;3YSD2hemMEa+0Kk+YYZ7zg=="
 ---
 

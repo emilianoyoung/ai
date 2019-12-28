@@ -8,7 +8,7 @@ ampUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Concerns raised over Indian government's plan for face recognition"
 
 related:
-  - title: "Facial recognition to monitor sanitary workers in Andhra's Ongole district"
-    excerpt: "ONGOLE: As per the directives of the State government, the Ongole Municipal Corporation (OMC) authorities are planning to monitor the activities of sanitation staff via facial recognition using CCTV cameras installed across the city. At present, all municipal bodies in the district including OMC use biometric thumb impression system for ..."
-    publishedDateTime: 2019-12-08T05:04:00Z
-    sourceUrl: https://www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.html
-    ampUrl: https://www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/andhra-pradesh/2019/dec/08/facial-recognition-to-monitor-sanitary-workers-in-andhras-ongole-district-2073185.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.B017B943065A31F12B2832A5EE62216C
-        width: 600
-        height: 390
   - title: "EU to discuss Palestine recognition in upcoming meeting"
     excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
     publishedDateTime: 2019-12-11T09:44:00Z

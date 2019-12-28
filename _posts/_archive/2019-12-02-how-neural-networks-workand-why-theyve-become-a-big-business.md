@@ -5,9 +5,9 @@ excerpt: "Underlying these breakthroughs is an artificial intelligence technique
 publishedDateTime: 2019-12-02T13:02:00Z
 sourceUrl: https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/
 type: article
-quality: 69
-heat: 69
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Ars Technica
@@ -21,12 +21,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://cdn.arstechnica.net/wp-content/uploads/2019/11/deep-learning-brain-cutaway-760x380.jpg
-    width: 760
-    height: 380
-    title: "How neural networks work—and why they’ve become a big business"
-
-secured: "gq7cuaDlNGw+8+H/+emh3DGulk/4IHJ2fyQDG62lsdD9auPWXyjwEQPjtNIwSgOERdl0R5cIF3S76Hb3chhNlEtXbdEEjrkyTI6y9ei/n+0rv7ApDrNJSu9wIUiBQPYInLZzwOIMe2pIPNcvvvD1m97g5HuFogY7uKRdKW4StahKQ7yRkH5MC59woUiQOiXVBIY8JEMOkgAZbUBytZilSALCwR+XGJL5M2utxhGtZeXNvBYWihpnQVaF0etKLNm+4OLUdwDHC/v+PwMXEQAjSQ==;bg1MRScBNyX4wy4p9VdMjA=="
+secured: "3lEHY+qITwbY+PvsIapew/fSiannwO0M7y4b1DjYukfFJA+pCOIXFE0XUGT89n4GDi10qVOb5ThZno1AVTTHHO5fm1jkgWYot7MY79LiHnjQqSrWr1CHOiWzs3qOM+gQEJAXeDlZZ+jtFQc6lzzoE13LSHdhXwF8gE+JCD6FiI7c+zxt9eB9te7ob7gWEh7qPbdBUQ/SWsUk5UAG2dlaGehs+GR5B/+4gaie2HYR9J6LTAyT7KzgHB81loaGbEDKES3h9Uhys3xZIKsR1SoIzg==;cT6uQUgFprDm71lOimaEtQ=="
 ---
 

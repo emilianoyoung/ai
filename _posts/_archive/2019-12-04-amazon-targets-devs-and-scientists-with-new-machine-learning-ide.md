@@ -4,10 +4,8 @@ title: "Amazon targets devs and scientists with new machine learning IDE"
 excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
 publishedDateTime: 2019-12-04T14:52:00Z
 sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -69,17 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -93,22 +80,38 @@ related:
       - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
         width: 700
         height: 350
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 66
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
-    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
     type: article
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 59
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 34
 
-secured: "7+VOXN9tmUhyzJIXQRY2aQi08rFvaW0TZL2NQA5mdpcW4rPzKTi8TAYD3VDQMAmH0HyO8Mu4pxX9Qny+oemUcMUJT5v6HAcy+k/j0jN4TNBsmaDLJt+IAv3s/PHyCMC/ET1/JnE50QQ8MSzRVd5BNeefEGxplrMsvrxCDjl3j7d2TvGI8/i82bd32Q2a0196ReRddaL/1ZzWDI9qR3+lUACtQTM0Xbj5vMleia4COc38aB7fQktKPpFKBINHGCupzO4oQEf/E7DkBhb5/oHGZQ==;YxiDTawYrqiJ+AXy/4A9lQ=="
+secured: "jVzZn3nWaMCZ0NlBW8xoM+ybpgi+FvTjH7jzum25UWj+ke92VRPmtwPCnC+E1uDEXgR+ZSI13YfHyYvu4MmhgkWV4Brx02kR/xjFTn7aLiOSf2V8mkWX430tudrmyBdCmMrZOAqCurSszU18T33zGoUs4uSs3wPbiM+2zc0PKP/AEReHFr3bDlJkCe7MqTgUU061xDheEKVtxdn5+042NXMiXF4Dn2XC4eHANcMvL/FBjtH+eaBaLr1O2Q0CqXnkyBkM8KPjpe4uUleRjKkqig==;9/Jyfiq4bdg7Nr0vrKrZWw=="
 ---
 

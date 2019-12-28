@@ -1,26 +1,24 @@
 ---
 category: news
 title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
-excerpt: "Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias. \"This study makes it clear: the government needs to stop using facial recognition surveillance right now,\" Evan Greer, the deputy director ..."
-publishedDateTime: 2019-12-20T20:50:00Z
-sourceUrl: https://abcnews.go.com/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
-ampUrl: https://abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
+excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
+publishedDateTime: 2019-12-20T21:17:00Z
+sourceUrl: https://www.yahoo.com/gma/federal-study-finds-racial-bias-facial-recognition-tech-193100912.html
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s.abcnews.com/images/Business/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
+  - url: https://s.yimg.com/uu/api/res/1.2/..BQHLzlXgm7779xFZResQ--~B/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/gma/us.abcnews.go.com/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
     width: 992
     height: 558
     title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
@@ -1800,6 +1798,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "CEjBJHny+f2LhAHOl8vtDlcTqDoMh5OfZDqckBIg+aFas/eG7FcdlFkKgV5HJ7YasTqZ6PIFQvrwpb1LFSCBmAr/fyRPzS2vQqDXKqVS0cxXz5QteYRW33NBBiG62WEGiKuHv4wuHEi0t0KJTP71HcT1g67BebPNaf1EuZRWgedqiyHs27j71Z4ec5WwRcLILEodiPed+7CD06KG3Vvvy31mznYnFoLJNkO1OFgeLwrjyCHZL6he/mxpFTI+4KNSWtQIj/V/d5ymddOFQp+d2g==;8HGXgxYDwTEf7bn04s6UEQ=="
+secured: "jxnKeZ2N4S9arjSU2IB5idB2DPuUW+1qSajlcq1Xoy3n3qAY4tnRAGTXMTmcHT5Vu8uFAAOldidwFlvz9r08+f8siF3s4fxB3UopB4t7s5bQhzj8V+Js+JWkrSz3J7dz1Ts595ABT2wIo5KtZwyaJ1EUAEHjCt9/mA5STQqXcU63QXVwV1f5J8yRovP8Q85wdj9rHlmfuT4jDCENp2EVeH1dJCKSaEqRrynKpR1jhXGG+Tez0e3iJ19+hZtAuCfamYJt2Cr0PhvXGsPbEiL6TA==;JRX8DvMbCr1I37tZ2O6j9g=="
 ---
 
