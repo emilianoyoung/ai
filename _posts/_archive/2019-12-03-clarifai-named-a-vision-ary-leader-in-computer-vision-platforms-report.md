@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
-excerpt: "Clarifai was described as a \"Vision-ary\" Leader in Forrester's evaluation of the 11 most significant computer vision companies in this emerging market. The computer vision companies were ranked based on 10 criteria. Clarifai received a differentiated ..."
-publishedDateTime: 2019-12-03T15:15:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-300967087.html
+excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
+publishedDateTime: 2019-12-03T15:19:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
 type: article
 quality: 53
 heat: 53
@@ -11,18 +11,18 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://mma.prnewswire.com/media/1036786/forrester_new_wave_original.jpg?p=facebook
-    width: 5157
-    height: 2699
+  - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
+    width: 700
+    height: 366
     title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 
-secured: "yzNI0/VN53jfdVG1mpmWK0518LRhALNbQW3nTdqJSqRwgjjykq4Z8gnW6JDwg146fQXpu/qgfuSx/mvXaZeKVmAK9nPbqUBwTTzv/DP3lJAwcLDQlA/gUV2xeSBwlXOeQpQjQuLa8q+FiuNAEG9adFtP7qq6TgzVvPwVhoHEJxbOrRNKlaiCJ7EQZyAcD1y+SIt5b2IpLlfs6qm+uA8DWD5BQ9fSq57C4/Tbp2a3Emfd1S68H7csv0JqTEh7hmxp+qsPRGFWeUf8Ltg4CcewzQ==;sSLX9plRBltNIEva/U9SnA=="
+secured: "h86oHUb8jgNGYJY67ojHFTgw4mHAYI3QmBpo8tcceAXb32LqLafdfIYl8TZ9vH6+FX2Mw47XVyTarz6yEctN/lcTvvgJaT0grUzUNnDK76Arrlm+vjA8I3QQcp8s7NhTBz8COzsizYEkFSlKoqAfad3vG30GVK4W2hSJdvJqDZbiymCpmw818YcO28IFXJektI9YzOQG4eu5t4YfbtwF7RCWAkvnuY0NSH3mCghdvXsnfyTnGmiNftYN8gUYis5l0MkUYi2uRfrBmVFwKwm98A==;qaL+/C1uah9K83qqpMXxvw=="
 ---
 

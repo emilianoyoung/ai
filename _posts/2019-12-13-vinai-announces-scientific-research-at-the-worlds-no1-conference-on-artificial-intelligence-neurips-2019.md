@@ -8,8 +8,8 @@ ampUrl: https://www.globalbankingandfinance.com/category/news/vinai-announces-sc
 cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/vinai-announces-scientific-research-at-the-worlds-no-1-conference-on-artificial-intelligence-neurips-2019/
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -26,21 +26,28 @@ images:
     title: "VinAI Announces Scientific Research at the World’s No.1 Conference on Artificial Intelligence – NeurIPS 2019"
 
 related:
-  - title: "City to host 4-day int’l conference on natural language processing"
-    excerpt: "Hyderabad: For promoting interaction among researchers in the field of Natural Language Processing (NLP) and Computational Linguistics in India and abroad, the sixteenth International Conference on NLP (ICON-2019) will be held at International Institute of Information Technology Hyderabad , during December 18-21. Papers were invited on ..."
-    publishedDateTime: 2019-12-08T18:23:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/city/hyderabad/city-to-host-4-day-intl-conference-on-natural-language-processing/articleshow/72430427.cms
-    ampUrl: https://m.timesofindia.com/city/hyderabad/city-to-host-4-day-intl-conference-on-natural-language-processing/amp_articleshow/72430427.cms
-    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/city-to-host-4-day-intl-conference-on-natural-language-processing/amp_articleshow/72430427.cms
+  - title: "An AI conference once known for blowout parties is finally growing up"
+    excerpt: "Only two years ago, so I’m told, one of the hottest AI research conferences of the year was more giant party than academic exchange. In a fight for the best talent, companies handed out endless free swag and threw massive, blowout events, including one featuring Flo Rida, hosted by Intel. The attendees (mostly men in their early 20s and 30s ..."
+    publishedDateTime: 2019-12-13T16:21:00Z
+    sourceUrl: https://www.technologyreview.com/s/614935/ai-conference-neurips-power-responsibility/
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 37
     images:
-      - url: https://static.toiimg.com/photo/msid-47529300/47529300.jpg
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.B8183EFFDFB28C532EFBDF235926E33E
+        width: 700
+        height: 393
+  - title: "Element AI at NEURIPS 2019 Conference in Vancouver--Seven Posted Papers, Three Workshops and Panel Sessions"
+    excerpt: "VANCOUVER, British Columbia, Dec. 9, 2019 /PRNewswire-PRWeb/ -- Element AI, a global developer of artificial intelligence-powered (AI) software services and products that help organizations operationalize AI, today announced its participation and sponsorship at the 2019 Neural Information ... diverse international network of academic fellows ..."
+    publishedDateTime: 2019-12-09T11:30:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/element-ai-at-neurips-2019-conference-in-vancouver-seven-posted-papers-three-workshops-and-panel-sessions-1028747141
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "AM7RYTJy606ODMADkd1zRawnjOpcLTpNFp92hXKudr+su8hsJSJGVngakTKJnny1/NlpQqTAZSJYBvRDntP+1dLfUlaoeehNsc7wy8LDO2OcdEc57UFHZkTRIJNm87tYBl/JIh9RUr3blB36eoigTe9i0SwpQIV6di35Z5rD+/Oe7fxd0zG5n23nMPCOgUGusuoTh6o3igYW2q2d0sdqOHHuY+YzqUve2rI4u3cpqknxq/gSmM+c65MWvBEVTQ67h7SDB73qYo55nBdCrpam/g==;n+kI6uEMB7EkYx+vuLY2wA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligenc
 cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
+  - title: "‘Healthcare needs urgent attention’"
+    excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
+    publishedDateTime: 2019-12-28T18:57:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
+    ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
+        width: 615
+        height: 384
   - title: "Singapore investors plow into health care startups"
     excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
     publishedDateTime: 2019-12-24T03:35:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Singapore investors plow into health care startups"
-excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-publishedDateTime: 2019-12-24T03:35:00Z
-sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+title: "‘Healthcare needs urgent attention’"
+excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
+publishedDateTime: 2019-12-28T18:57:00Z
+sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
+ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
 type: article
-quality: 24
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: NIKKEI
-  domain: nikkei.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-    width: 700
-    height: 350
-    title: "Singapore investors plow into health care startups"
+  - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
+    width: 615
+    height: 384
+    title: "‘Healthcare needs urgent attention’"
 
 related:
   - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
@@ -54,22 +56,20 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
-  - title: "‘Healthcare needs urgent attention’"
-    excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
-    publishedDateTime: 2019-12-28T18:57:00Z
-    sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
-    ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+  - title: "Singapore investors plow into health care startups"
+    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
+    publishedDateTime: 2019-12-24T03:35:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
-        width: 615
-        height: 384
+      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
+        width: 700
+        height: 350
 
-secured: "h3R90tNhaOZc6YjG2hocM6gU13Ci22GLguesbsAd9DSQ0bSXDscuEGK/QYep7id805cIomh/gValWlo4ADivAbtSruoQzgybMC6VkC+mEldcPP2CPP/jphU8T3qkJDXDWhtI0BcFd7w8x82RG3uLy8vnLAwg2XBSEaUZ3v8i87P8NTjiOwipjb3nK+krFRqkzVoBC5dzEp/jnfQ7C9Qh2UyVCksxNKZfRj/Z7T/xmlPlAQf0KreRa6oTHM7pMjOjZS6MS+UjgMP8PTQMhxh/0A==;dH/96VUnqe6+X6CFMgMqAA=="
+secured: "SLocLri2Lm4BUFSoz/BMG/+qRpm6/OL7qbgm5nNAOGZE+GPCeKMPvuaBOYr/WgAMGE3kNYE8YPloMPUk7SRuKyAXO8b3bn7bTag7/ugpVsEADpv7lsMwqW6jElnAtGxHhPy5m6oRqgJmcaMazdJvm0SwQaVwpYZHNVYVlcvEzZs/SACnqGVfWhWx39Y5UsStqAnAHMWfs1RUB+oFD/QW+lpj1OTuOw55SUulc0q9nF1YXmFTIcAHlE96Q79twal+yFSUW+PWq05FVFBAbEspYQ==;rVjHbEIJsHoE4yCN5SYuGA=="
 ---
 

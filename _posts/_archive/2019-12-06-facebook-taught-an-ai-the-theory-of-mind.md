@@ -8,8 +8,8 @@ ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 69
+published: true
 
 provider:
   name: Engadget
@@ -23,23 +23,6 @@ topics:
   - AI
   - Facebook AI
 
-related:
-  - title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
-    excerpt: "As VP of artificial intelligence at Facebook, he oversees hundreds of scientists and engineers whose work shapes the company’s direction and its impact on the wider world. Pesenti joined Facebook in January 2018, inheriting a research lab created by Yann ..."
-    publishedDateTime: 2019-12-04T12:04:00Z
-    sourceUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/
-    ampUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-ai-says-field-hit-wall/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: https://media.wired.com/photos/5ddee7ec400f470009e774f9/master/pass/QA%20with%20Jerome%20Pesenti.jpg
-        width: 1920
-        height: 1080
-
-secured: "yZZ+N3AMnlTo8u9ITiWJlsk593mJOFQea3STowxfAOlWezRaDC1A8xe8E8xpfHAW9ydzLHTwdHoK1BY3PgkLxy/3JhRN669/MhUXjao2xNiggZxRKx/3fkDF5lI6q1z+kfgrSCSzwpzp6e12zWzVcsvGSIqyUk0ffKEI7OWbe/cihbxOj0vlMnNL+cfKVieJA8DjEJn0M8dZLtoH0aGCPc8bftUbz7kSC7SfYicv+hcv8i/oWrJ3Hjy6LeqM5Dr5ZbG1lRMQ3sgnjslRNcu2lQ==;Ldv8+oQzpIRtcY4c+eHKlA=="
+secured: "aFhWNlzYND8+B+7fJtOHtrex6/zpA50AOP/qKVYHYeSXYrKJ0Br+2XQOog03fKqoTjM+QkZMovo+ltsQuA1867YezXQa9oUBhl1cSdWTun4OXi2nP8bR7fS1wZkk/PwPLMM7r8IMsZpVNjUcX6UoC9T/bE9HPg12dal4YiekGgFUyUr38KqzVMOGb08m0GvhFZim9tHTvJM6j1lmXOBVTDTX82d3iIVD5xCe9A5yQ67vijrsrO48Vucwq9FW0PqGwdtOgzBkYYbWe+rNyaTmuw==;PfAHHDSsISk8u9o256EG/g=="
 ---
 

@@ -62,18 +62,14 @@ related:
         width: 2047
         height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
     publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
     type: article
     provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
     publishedDateTime: 2019-12-06T10:24:00Z
@@ -101,6 +97,6 @@ related:
         width: 632
         height: 422
 
-secured: "ACbkdZ5FM4MKkGh78MgL/h7TUKLhAMhdotFPYADMhQfz4+bWz0k/j7hqQU393awrgsmmqQ2km0TrVM4/h7IZfPzmjdHo2GdDIQWsalpV6MDYWnvB3ijxuV4+SLCMNh4svNdrO+YP9SM73aovvbFo+hxF3Y5GJqA/ljQVbdz5GdV+mLPIp18adMEIp/chuxfD5IYiYAwBxpgoElRwHyjBgNBmsfSO3Ia2FT6Is5eAN+7vsc3VOuO5NC7GYFa+p8sLZpNbdWSNMsQna8FVoO4Xhg==;6huHzCxbgwjmMUVkKpV1Tw=="
+secured: "Gui+kIWhmm8yjBxAWSfzFG96ajTEeJnepTk3k32j234+7I+adnGbfXWbL4eruoBj9l9a0k0Iet2c0JavKsRipbUyVLoElC6FlZvuna7BgCM3JyVM2U8QcAPQDbPhXVta7kTuLQnLPS8+CEdgRbvBXDQ1lxO65T4KLexIoB1gXR+79X/tKoixfiVFWcoN7pG6wj9M1Y65qpD0beXNcHWPtKh/GiXnUuukB490GANGOrfA9k/8hnPTRA0T2zBrRZVD6wTTshhEE0H+IUz1G3HFDg==;t3AebrEQlSwpeTMyInLqMg=="
 ---
 

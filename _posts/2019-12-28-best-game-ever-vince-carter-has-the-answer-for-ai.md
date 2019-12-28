@@ -2,18 +2,16 @@
 category: news
 title: "Best Game Ever: Vince Carter has the answer for AI"
 excerpt: "I had a game in the Rucker too. And there was a game where I scored 51 in Miami, of all places, against a Gary Payton team. And then there’s the one in the playoffs verse the Sixers when AI and I were going back and forth. I scored 50 that game. That was probably it, my most memorable, because of the back-and-forth with one another ..."
-publishedDateTime: 2019-12-28T17:42:00Z
-sourceUrl: https://www.latimes.com/sports/story/2019-12-28/nba-best-game-ever-vince-carter-allen-iverson
-ampUrl: https://www.latimes.com/sports/story/2019-12-28/nba-best-game-ever-vince-carter-allen-iverson?_amp=true
-cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/sports/story/2019-12-28/nba-best-game-ever-vince-carter-allen-iverson?_amp=true
+publishedDateTime: 2019-12-28T19:03:22Z
+sourceUrl: https://www.msn.com/en-us/sports/nba/best-game-ever-vince-carter-has-the-answer-for-ai/ar-BBYqcNE
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Los Angeles Times on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -39,6 +37,6 @@ related:
         width: 700
         height: 350
 
-secured: "5AwOz9G9OfsutTLQljkZ5FdadEbf+XM0xo+XK8Upr0C0FBNTVou5OdSX0gOxKrftKf16z/UUq9usIB72JZWddxhqHitVYvLOxOrMCyRr/U8MsBVnfhIwTMMQRPHrdn6JKcjH1ihR4AL87E05du7k5jDphX3DdKwbeFC4KSnJN91LmejKP2YWMTLjW3QfG47S0UiUvB8+nGWfxFiJrSE6oLhk0S4NUK+JD7Y4mjx1C/SyA0wqF1WBGn8iKPWW0V2wBwQhPbDsTYxVT6Bf82b79A==;+FgrO3wdxvb5noKY8kY6yA=="
+secured: "lXKEGQPXkWb0wPGLJxCukq8ZQBGPsHFR2wy45fc+iQzT6AWTOQSQs2yM6t3Jjf/45Xe6AYZzZ9k7TGkX3sNmdVT8hqXEmOIIT03uLmdCViIXX6eq1316JesnxSKjqbCuDYRHen+rQyXubSXSv67Z6ikqqat15j750f8aFWMoSShlBuo1Nh4M9PnnS00EfDLqNPkVhPumwV97XJfawwzR9x9KZrffpXC7n2jDUMxUNvLFm+Ao7sHxmCa4TPImtpjmCxVmymVUt4TlXqfg2lVThw==;OT3zOehQRYt0kAq59csjYQ=="
 ---
 
