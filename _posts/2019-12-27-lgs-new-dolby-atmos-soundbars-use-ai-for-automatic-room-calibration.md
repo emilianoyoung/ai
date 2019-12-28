@@ -89,6 +89,21 @@ related:
       - url: https://www.bing.com/th?id=ON.62484CD34FBC70F07098087388CDA119
         width: 700
         height: 361
+  - title: "LG unveils new soundbars with AI calibration"
+    excerpt: "With AI Room Calibration, the new soundbars further deliver optimised sound by tailoring output specific to the room, the official blog notes. The lineup includes premium model SN9YG with enhanced sound quality and flagship model SN11RG which is a 7.1.4-channel system with wireless rear speakers. TCL may introduce seamless AI TVs in 2020"
+    publishedDateTime: 2019-12-28T05:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.28042353CEAE2709A577FBB21731246A
+        width: 700
+        height: 392
 
 secured: "zBigeDg3PAXIvrpNzwnWfbxaY+hC6rnBoZZx5mDSG5b3DLnYjOztAi0UooNfRRd0fjH/5QuggExm7T5w6+QB7BLAINsNBDvRPEq9mmTsV2nAcaNbvYNVjpmPhGutUxmEFqSsqq9Q/kqYYkcF+xYS90XlOorcB6F4vh50EBcRSKtcGeoAKr7ibXj7/ejtx/iQsRj+YUxEVtrPgtq3f/cLYeTHxa/lVyAg6X3exMkQOhjUq22tV/dwE7/uHg6wDcO6f3Qr6PnGqJ0ThuW/gJhiOw==;ClzloMmNGLCjdFc/Oh8n6Q=="
 ---

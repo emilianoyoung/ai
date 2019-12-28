@@ -34,21 +34,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6FF447E6483A0E9AB299F28CCA4ED5DD
         width: 700
         height: 350
-  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
-    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
-    publishedDateTime: 2019-12-04T12:00:00Z
-    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-    ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5dcef1d74d2116000890cbef/master/pass/Transpo-skidmarks-1174331136.jpg
-        width: 2400
-        height: 1600
   - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
     excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
     publishedDateTime: 2019-12-09T17:24:00Z

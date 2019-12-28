@@ -1,31 +1,44 @@
 ---
 category: news
-title: "Grill thief arrested after photo ran through facial recognition software, police say"
-excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
-publishedDateTime: 2019-12-27T21:15:00Z
-sourceUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/
-ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
+title: "Police Use Face-Recognition Software as India Protests Intensify"
+excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
+publishedDateTime: 2019-12-28T05:22:56Z
+sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
 type: article
-quality: 52
-heat: 102
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Click Orlando
-  domain: clickorlando.com
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
+  - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
     width: 700
-    height: 393
-    title: "Grill thief arrested after photo ran through facial recognition software, police say"
+    height: 466
+    title: "Police Use Face-Recognition Software as India Protests Intensify"
 
 related:
+  - title: "Grill thief arrested after photo ran through facial recognition software, police say"
+    excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
+    publishedDateTime: 2019-12-27T21:15:00Z
+    sourceUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/
+    ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
+    cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
+        width: 700
+        height: 393
   - title: "Researchers: Printed masks can fool facial recognition systems"
     excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
     publishedDateTime: 2019-12-24T10:00:00Z
@@ -78,20 +91,7 @@ related:
       - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
         width: 700
         height: 389
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-    publishedDateTime: 2019-12-28T05:22:56Z
-    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
-        width: 700
-        height: 466
 
-secured: "ArRI+A+iGQRbyzaBONsbKoT8wiWmWjIARTf+c3cqIOZV8tCFpubzMMg798In1hiz6nhfnYVz1CB4zATDeHbH7AhhCcA4PbdGioMR50IR6Hw6V8zJ8qoLjTJFkfUQp+JUqc6TT1qkCWXbr+CD63EjwLKqacAh1grtMxez67joZkv07CSdYYqoCzMiy34lGXgp7J4EI7R8z736sQvs28a6BdB1mFIAD4ekY5AD69uDZhjjLtsC0CdLamVE60QjB4DxqQR6o36Bs3OpZ5sibMdwZg==;Dz4qTkZaRPMjvLBYXxK/sg=="
+secured: "HgEryyE2aPg2k7dLBrs86cc05efiHBm62Dx0ArrgtPV+3XaxoLr7k7VII7xKkUmmZsFKOOmk4Ik1kEt95psNGpbiAGl/V8jsllcFeXPiCEvBvUBvXaUhO4Rv/dQDqo8UBMskBSDlorPAaUwD2X358w7sOP9VIIvoUtJ32wtnxgz4UfAUnpOS3DYYhdPTxAhYBmgoTiPN+ckTi3mrTNXfojoHUMQn/fModsEFzATs0F5mAKAbPXUgOyWJPzvHFpnO0Yz0zOb2lofSA1cmve2CDA==;l0qCm8RaOkJBEj/nMKIEug=="
 ---
 

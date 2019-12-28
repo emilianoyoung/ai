@@ -1,28 +1,28 @@
 ---
 category: news
-title: "LG adds AI Room calibration to its 2020 soundbars to optimise audio"
-excerpt: "Just ahead of CES 2020, LG has started unveiling its 2020 soundbars and they have added something called AI Room Calibration to them. While we do not exactly know that this new technology is going to achieve, we do know that LG is going to apply machine learning and related tech across the new products it launches in 2020. This AI Room ..."
-publishedDateTime: 2019-12-27T13:45:00Z
-sourceUrl: https://www.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN.html
-ampUrl: https://m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
-cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+title: "LG unveils new soundbars with AI calibration"
+excerpt: "With AI Room Calibration, the new soundbars further deliver optimised sound by tailoring output specific to the room, the official blog notes. The lineup includes premium model SN9YG with enhanced sound quality and flagship model SN11RG which is a 7.1.4-channel system with wireless rear speakers. TCL may introduce seamless AI TVs in 2020"
+publishedDateTime: 2019-12-28T05:12:00Z
+sourceUrl: https://www.deccanchronicle.com/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9F39316CCD47715A1F5DC0B73715FFEE
+  - url: https://www.bing.com/th?id=ON.28042353CEAE2709A577FBB21731246A
     width: 700
-    height: 393
-    title: "LG adds AI Room calibration to its 2020 soundbars to optimise audio"
+    height: 392
+    title: "LG unveils new soundbars with AI calibration"
 
 related:
   - title: "LG 2020 soundbars use AI to self-calibrate based on room acoustics"
@@ -70,6 +70,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1408CBB2CC14C63EC58AAF21BA83779C
         width: 540
         height: 282
+  - title: "LG adds AI Room calibration to its 2020 soundbars to optimise audio"
+    excerpt: "Just ahead of CES 2020, LG has started unveiling its 2020 soundbars and they have added something called AI Room Calibration to them. While we do not exactly know that this new technology is going to achieve, we do know that LG is going to apply machine learning and related tech across the new products it launches in 2020. This AI Room ..."
+    publishedDateTime: 2019-12-27T13:45:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN.html
+    ampUrl: https://m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/lg-adds-ai-room-calibration-to-its-2020-soundbars-to-optimise-audio/story-AFAEVUcvSSSBTjFLfSefWN_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.9F39316CCD47715A1F5DC0B73715FFEE
+        width: 700
+        height: 393
   - title: "LG Premium Soundbars With AI-Powered Calibration Are Headed To CES"
     excerpt: "Ahead of the event, LG announced it plans to roll out an \"impressive lineup of soundbars\" with premium quality audio, easy connectivity, smart functionality, and \"AI room calibration.\" I can hear you groaning as you read that last part, and it's a natural reaction—it seems everything these days touts AI technology in some form or another."
     publishedDateTime: 2019-12-27T20:55:00Z
@@ -85,22 +100,7 @@ related:
       - url: https://www.bing.com/th?id=ON.62484CD34FBC70F07098087388CDA119
         width: 700
         height: 361
-  - title: "LG unveils new soundbars with AI calibration"
-    excerpt: "With AI Room Calibration, the new soundbars further deliver optimised sound by tailoring output specific to the room, the official blog notes. The lineup includes premium model SN9YG with enhanced sound quality and flagship model SN11RG which is a 7.1.4-channel system with wireless rear speakers. TCL may introduce seamless AI TVs in 2020"
-    publishedDateTime: 2019-12-28T05:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
-    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.28042353CEAE2709A577FBB21731246A
-        width: 700
-        height: 392
 
-secured: "ti/EMzex3yqS0SGdlRGWA54TuMzpgOBz5XCsq84mr4JSzWVKfDFj04nPIQaNnpp8bBWJ800gKVwqIjcyQ/rw+YOiHtl3D5OtyWWmKOQW7coiJxESb7t7nFHfrHbPaf691e5Bwm3/ANv9NlpYxBqK1cv519mFBZ7/nDCigNFpcgL97ixXuvp0lZNFse5AHpIUGKZcukgPgPKJaYNg1XY3uQ1LGMKOAiXWw9w0SkqHMwCqf9feVUJmEH0uWr/x+tyRIFOydq9z21nTLDaNPDUtVg==;fQOA2SIltMHAlzhdK17brg=="
+secured: "Klguiu3UQocc9D0WCLz6YaOoMA77Ge3k2tFweaqaYGs+7sjdm9l3EwJEbyZcRwQPxukaz+M/wB1qDDpEo7ikNF6VGtNnIMA6uhLCSJlITYEfKZHhtLoTfW4zp20KMm/SfFAUlwozwMAxWxHo2AWK6XHr4WWUgfuECgxSSJvREOgXoRD268ZkYdMxJp0SXixIKI/i3d2AvtWuDAfOXtX3K13/h2+I0Ezsms8CDN9OvubKxyFP3hqYMvmbIv2JTnj3Ewwwaq4quLBKthrtMsKKJQ==;C4CevFI8ew3gbWD8bOUeCQ=="
 ---
 

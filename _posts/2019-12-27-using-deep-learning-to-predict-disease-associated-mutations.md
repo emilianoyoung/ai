@@ -1,84 +1,41 @@
 ---
 category: news
 title: "Using deep learning to predict disease-associated mutations"
-excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years, artificial intelligence (AI) -- the capability of a machine to mimic human behavior -- has become a key player in high-techs like drug ..."
-publishedDateTime: 2019-12-27T22:39:00Z
-sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
+excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
+publishedDateTime: 2019-12-27T16:39:00Z
+sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 59
+heat: 69
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "This is your chance to become a machine learning pro in 2020"
-    excerpt: "Machine learning is transforming the way businesses operate. Understanding trends and patterns in complex data is becoming critical for success and with this comprehensive bundle you can get introduced to machine learning and the tools used to leverage it, like Python, Apache Spark, and TensorFlow. Make your way through the entire collection ..."
-    publishedDateTime: 2019-12-27T18:21:00Z
-    sourceUrl: https://www.techspot.com/news/83342-chance-become-machine-learning-pro-2020.html
-    ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
-        width: 700
-        height: 490
-  - title: "In 2020, let’s stop AI ethics-washing and actually do something"
-    excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
-    publishedDateTime: 2019-12-27T10:07:00Z
-    sourceUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/
-    ampUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
-        width: 700
-        height: 393
-  - title: "Play this bingo game with your kids to teach them about AI"
-    excerpt: "This game challenges you and your kid(s) to notice. Designed by Blakeley H. Payne, a researcher at MIT, AI bingo builds on pedagogical research that shows how exposing kids to the way technology works helps develop their interest in STEM and improve their job prospects later on in life. It is also part of a broader curriculum designed for and ..."
-    publishedDateTime: 2019-12-27T12:11:00Z
-    sourceUrl: https://www.technologyreview.com/s/614938/ai-mit-bingo-game-to-teach-about-kids-ai/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.0405E49CDA58145E51707C9AD7541E82
-        width: 700
-        height: 393
-  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
-    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
-    publishedDateTime: 2019-12-24T16:25:00Z
-    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
-        width: 700
-        height: 288
+images:
+  - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
+    width: 700
+    height: 266
+    title: "Using deep learning to predict disease-associated mutations"
 
-secured: "MY+e/+1J/Uj+LhQatBIY8/ZbN+cR9+hnKUBLzwRptQjZK2P9yPMfbsM+rba+pg9m65E8UH1O3G8yJ+8kza9PzxR20MYBRNm7Ytv0TIwqiY1LlfvM3mEubPoQ9jzofcnTQDD+ROBtohEtO/Z8de93oxfTwyOwRQxg3e6E+Rt/ETmySH7p6y+mV/0YacuMQwgo3qFJyNJhs30x0ASVcIG6lAvU2k1CUMd1ijXVemSt2QopQjEl3QIUH+BHnWTBmUNl7ax/S2dfWWvodZU8YhNRsA==;aY+k6V+/oB//1g2UjIMnHg=="
+related:
+  - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
+    excerpt: "In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein."
+    publishedDateTime: 2019-12-28T05:58:00Z
+    sourceUrl: https://news.webindia123.com/news/articles/Health/20191228/3480733.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
+
+secured: "+azpzT2WhBknwO4FDzeW7QinY/TT/oLme5ryjBVwY2811x1Ufp+Reeq5Z3cXmx+7PT00/ugQ0D+PmGl+sUYe6loyq+7GIq3g/LTXsK8GJBn4016naXVDVYQ7TxVZ8TGW7+O6s5SLJrQcj37WfJnBgkognJYvliVKNgTtSpYhRhvPIoGyQfgIEXANHR7UAYH7jsnRlRoTR1LcQkFG5IMDPs3Zdru4N17Pml6aLBFC5CIHGOb63z8pv3EkoQLCD5SB+ShRJB4Ec4MaDT+LP7k1EQ==;y93U2wD6Qugo6P/HXKi06A=="
 ---
 

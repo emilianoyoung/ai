@@ -78,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
         width: 700
         height: 389
+  - title: "Police Use Face-Recognition Software as India Protests Intensify"
+    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
+    publishedDateTime: 2019-12-28T05:22:56Z
+    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
+    type: article
+    provider:
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
+        width: 700
+        height: 466
 
 secured: "GViUzs6SoJdelMbFkV8RfPlVVXxz/NiH3zs4MYsBqNGV3pwCNWJp2Ggh+GoDQjHVcfhPx+Jmzv3XTyJYoikMKNUk2RYuundp0ljwSlBbcl4vZrRH84DG4rYIbtB0rLrOHyVX92EYEhpkdZZAE3pollvEbGsGHzIqCN0QOzqT0eWUxhH2XFIiTIVlxIpw+/ltI0G+qob1RXjBwKD7y4mPgX+SWWDJr92Av05akPyaQ6QuG4+7klAP7SBxZ2Z2iNPBtndFM7vz/iA33QD0t1w+Fw==;mRzCQyJu6ZEqW8ngOZXVqA=="
 ---

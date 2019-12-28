@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/lg-2020-soundbars-use-ai-to-self-calibrate-bas
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lg-2020-soundbars-use-ai-to-self-calibrate-based-on-room-acoustics-26604517/amp/
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -89,6 +89,21 @@ related:
       - url: https://www.bing.com/th?id=ON.62484CD34FBC70F07098087388CDA119
         width: 700
         height: 361
+  - title: "LG unveils new soundbars with AI calibration"
+    excerpt: "With AI Room Calibration, the new soundbars further deliver optimised sound by tailoring output specific to the room, the official blog notes. The lineup includes premium model SN9YG with enhanced sound quality and flagship model SN11RG which is a 7.1.4-channel system with wireless rear speakers. TCL may introduce seamless AI TVs in 2020"
+    publishedDateTime: 2019-12-28T05:12:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/281219/lg-unveils-new-soundbars-with-ai-calibration.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.28042353CEAE2709A577FBB21731246A
+        width: 700
+        height: 392
 
 secured: "MCkf/OVdFgI8JkR4mWFCjvvxEXOXQ9BOBY4Brxd8XRKU1D9FgxeK6fVbyhU4nTSaB3o5crb4IK503QRFLXh/MlieY2Szz9qYtOt82Mv8i2rr6OL/DkfrptSh4HYl9jWfG4BO9BrVlfXQ42/IGAllItHsBGNipcAndwIMzOXfLVKamCPAT5i/1ScsRdA9bwA/XgnfLXnleXjgZmU2oIJKhasJp+WaNpuOb0Aokql0CnzoZiy3lzAfPbTRdXZtsbosOGCLwstBKXBKm9//VRWUKg==;/KxVfh9NjwQhU40oaOUJfw=="
 ---

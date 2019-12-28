@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/baldwin/2019/12/09/connecting-a-million-dot
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/baldwin/2019/12/09/connecting-a-million-dots/amp/
 type: article
 quality: 92
-heat: 512
+heat: 502
 published: true
 
 provider:
@@ -105,19 +105,6 @@ related:
       - url: https://www.bing.com/th?id=ON.80A154FBF2D40BED7417210693E14E0F
         width: 700
         height: 525
-  - title: "Artificial Intelligence in Media"
-    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
-    publishedDateTime: 2019-12-05T05:18:00Z
-    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
-        width: 375
-        height: 360
   - title: "Artificial Intelligence in Media"
     excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
     publishedDateTime: 2019-12-13T23:51:00Z

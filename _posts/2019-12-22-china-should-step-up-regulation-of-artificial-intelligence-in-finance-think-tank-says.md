@@ -1,30 +1,26 @@
 ---
 category: news
-title: "China Should Step up Regulation of Artificial Intelligence in Finance, Think Tank Says"
-excerpt: "\"We should not deify artificial intelligence as it could go wrong just like any other technology,\" said the former chief of China's securities regulator, Xiao Gang, who is now a senior researcher at the China Finance 40 Forum. \"The point is how we make sure it is safe for use and include it with proper supervision,\" Xiao told a forum in Qingdao ..."
-publishedDateTime: 2019-12-22T06:35:00Z
-sourceUrl: https://money.usnews.com/investing/news/articles/2019-12-22/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says
+title: "China should step up regulation of artificial intelligence in finance, think tank says"
+excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
+publishedDateTime: 2019-12-22T06:28:00Z
+sourceUrl: https://www.reuters.com/article/us-china-economy-artificial-intelligence-idUSKBN1YQ045
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YQ045
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YQ045
 type: article
 quality: 59
 heat: 69
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/usnews.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.A14B8283E703FE82A8791744EC03F329
-    width: 700
-    height: 445
-    title: "China Should Step up Regulation of Artificial Intelligence in Finance, Think Tank Says"
 
 related:
   - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
@@ -43,6 +39,6 @@ related:
         width: 457
         height: 305
 
-secured: "pZe+HZ7WMGRnpJbSuIZhlf0/aZi/7A8wYhr0JjtL1fmTgutvXKGlzBGV/iRNuPK9LNhz/g2zSkjQ0hYYhLzKVxMYE1ABEUPKcgKxBEx0K0fXKJGi6qrME6vQ01NtzU6zu3uX5UIaprkl3+lZ1EzfJj6pUe1D7AdPtc6yXH2zIqhdxchxxoYLlU+o/iZyKTK2FNQ9vnUejpjlZAOVW0XiL2I+Mz5apxY3B6UCnpHufCVCfBeTcUURF0WjCbL5wxkTjx7GID6Vdpcz1Msz9ILRDw==;nJaadDeNcn5Edwl90HdEvQ=="
+secured: "7RMKrN2LaMUGZi9wrgQ0ldURFiODTr2EL+3md3ZGX/4vw0M9TmKYCQJJ4MU6pexBywj4j5CSYAFDUGIAoWMfRkniAa7pdOu7XDwRwv6Z+5Nve1L27qr03Dmwbrh4i3PWBobCZmDKsDCrbdHRYoW2DeskmuC8CL+0p+KtvuvaN0BBe6jXv3rWub3GJ1NK/eH8+Gc8g1nEDwXF7dzcJreB56312L08Fz41f1fHFROBRgR6Bt2jEndV7XLo6ZJHzRK+g/nhIXpFraV3dikE3KlrnQ==;UK8wjYBR9DrbBc1PiGgOSA=="
 ---
 

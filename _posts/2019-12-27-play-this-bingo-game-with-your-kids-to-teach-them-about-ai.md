@@ -53,15 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
         width: 700
         height: 393
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years, artificial intelligence (AI) -- the capability of a machine to mimic human behavior -- has become a key player in high-techs like drug ..."
-    publishedDateTime: 2019-12-27T22:39:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
     excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
     publishedDateTime: 2019-12-24T16:25:00Z
