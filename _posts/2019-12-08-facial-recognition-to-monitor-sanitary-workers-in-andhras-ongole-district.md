@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
-  - title: "Police facial recognition: Privacy commissioner not consulted on new system"
-    excerpt: "The Privacy Commissioner says police should have consulted him on their new facial recognition system. Stuff revealed on Thursday police had enlisted the services of American company Dataworks Plus to upgrade their existing biometric system. The new tech will include what the company described as a \"state-of-the-art\" facial recognition system ..."
-    publishedDateTime: 2019-12-07T22:09:00Z
-    sourceUrl: https://www.stuff.co.nz/national/crime/118011375/police-facial-recognition-privacy-commissioner-not-consulted-on-new-system
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.BA42C86CA76C1241F4ACA08971CBFDD2
-        width: 700
-        height: 394
   - title: "EU to discuss Palestine recognition in upcoming meeting"
     excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
     publishedDateTime: 2019-12-11T09:44:00Z

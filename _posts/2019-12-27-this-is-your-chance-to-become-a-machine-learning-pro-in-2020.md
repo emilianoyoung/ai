@@ -8,7 +8,7 @@ ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-p
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
         width: 700
         height: 393
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years, artificial intelligence (AI) -- the capability of a machine to mimic human behavior -- has become a key player in high-techs like drug ..."
+    publishedDateTime: 2019-12-27T22:39:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Play this bingo game with your kids to teach them about AI"
     excerpt: "This game challenges you and your kid(s) to notice. Designed by Blakeley H. Payne, a researcher at MIT, AI bingo builds on pedagogical research that shows how exposing kids to the way technology works helps develop their interest in STEM and improve their job prospects later on in life. It is also part of a broader curriculum designed for and ..."
     publishedDateTime: 2019-12-27T12:11:00Z

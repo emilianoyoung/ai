@@ -37,6 +37,21 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
         width: 387
         height: 337
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+    publishedDateTime: 2019-12-05T22:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    type: article
+    provider:
+      name: digitaltrends.com
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
     excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
     publishedDateTime: 2019-12-10T10:54:00Z
@@ -90,6 +105,6 @@ related:
         width: 700
         height: 450
 
-secured: "F+Jf2+xc9on30ZW34AQXbmYFmToXGJJP0bNrTwocdfclou0HAXTfuXDNNBqtjOm92JQ2Iop2Byh4Bhb1VZhcqW6i/a5XyzLjBkVaeytJZJwhxUYpVnvdt0gYaZ8c9mBSn+EP5VRbovhXDuvMmNsf+f/fMktrgT1LEp4vfvR28FGxP1KvdJ0zyk5p/Asuthp/GHMAGX4wXXPJh9YrYmfGC6Ty+Lz8jI+56uT/WGP1yvZWYTSewzfAw0hUcvw1gnJtZc+IYmc/fsMsfNw/UgKyvg==;1SIjGl3EQH0rcfjJdgYqBg=="
+secured: "EyfohzSkMgjEYMq4RB+nhts7TAfs8jv2d2pi8fUkF/SlpKGEbZ4ucyy5jRTWoj4cMjTHRRD1N46NYV9FWwkKpNYxSBYY0XBp/Dg2rFN9t0CnaoavzEH+qzeyIlJvUkfTIwYukkkuoKKImkJl49BRLJyWUpfCLvFrnZQrddlDFS68OR4uUAIncx6RLd1WA6YGknccu8gQF84054K4jRwJX1ywawn08Cp35bExSzCLR+AbAZt/Z/RqwDn+1nemw5ZKXxrRz8ZyiaBs5W3zdXzelg==;PzXSyNjSLa0j+Whr3sCMpQ=="
 ---
 

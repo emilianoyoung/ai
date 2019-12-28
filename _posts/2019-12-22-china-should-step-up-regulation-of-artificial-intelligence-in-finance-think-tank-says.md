@@ -1,30 +1,26 @@
 ---
 category: news
-title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
-excerpt: "QINGDAO, China/BEIJING — China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday. \"We should not deify artificial intelligence as it could go wrong just like any ..."
-publishedDateTime: 2019-12-22T06:30:00Z
-sourceUrl: https://www.nytimes.com/reuters/2019/12/22/business/22reuters-china-economy-artificial-intelligence.html
+title: "China should step up regulation of artificial intelligence in finance, think tank says"
+excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
+publishedDateTime: 2019-12-22T06:28:00Z
+sourceUrl: https://www.reuters.com/article/us-china-economy-artificial-intelligence-idUSKBN1YQ045
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YQ045
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YQ045
 type: article
 quality: 59
 heat: 69
 published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    width: 1200
-    height: 630
-    title: "China Should Step Up Regulation of Artificial Intelligence in Finance, Think Tank Says"
 
 related:
   - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
@@ -43,6 +39,6 @@ related:
         width: 457
         height: 305
 
-secured: "aODX1lZ7rz93wmINI/LFZBk27IKtKDYv902HkzsM+oHENenXUVl3hbYPp8Oc035ixIYTuxwy9CVx4mMPcGHez6zrJNUf/dF4L37u5z+bwyWtD3CvVkexBYKz1zRHzF5M/DX9xZWhD72z5nWEYDqWLZByWqj+KPgrEyCw+UYYyWr4bsOGQxpxTSVtmrzXZ7zPJMb6CEKQHhdxk6W6SbtSazXbxjXlQjB1t8u+NvkXFrLbZ4l9e758mycheaptiS/A/XXsb7euKc5fSHjg23XFKw==;0WablOpiF3/BE2xB8gpZiQ=="
+secured: "CNyiQbLnLWejokrPjYF40IPFjfF7bJFreH1yvl2FROKn9HBoid8rh9KfSBR/vh9FZtSDr8iYnq2lH+zX28kRMxxyZ1V8t+q3TaJZ6paxwJJZxMRM0tbtPgrbklE2Fi/kCNCZAx0XBd2h2Ue0W+X5lZcAe8XT5Pg6hT7eAQiK7RIpyHb95r2O1im9r/FuiElhy41yVUxx6phzq6AqvueA0Q00SEwFP8tWiPVNuxKooMMSL6FSbgjRF1kZXs5uwl36nL8M6jCw+8yeWcihGAbjuw==;f06G52uq1sjhHSL5oy6vTA=="
 ---
 

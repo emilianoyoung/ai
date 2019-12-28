@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/silicon-valley-powerhouse-vc-firm-greylock
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/silicon-valley-powerhouse-vc-firm-greylock-just-backed-stealthy-seattle-ai-startup/amp/
 type: article
 quality: 79
-heat: 80
+heat: 79
 published: true
 
 provider:

@@ -106,8 +106,8 @@ related:
         height: 393
   - title: "Artificial Intelligence in Media"
     excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
-    publishedDateTime: 2019-12-05T05:18:00Z
-    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
+    publishedDateTime: 2019-12-13T23:51:00Z
+    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e
     type: article
     provider:
       name: Medium

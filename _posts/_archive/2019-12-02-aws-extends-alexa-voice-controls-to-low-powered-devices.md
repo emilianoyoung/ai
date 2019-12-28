@@ -8,7 +8,7 @@ ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-
 cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -37,7 +37,18 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
+    excerpt: "This comes from the new feature added called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range ..."
+    publishedDateTime: 2019-12-02T12:11:00Z
+    sourceUrl: https://www.gizbot.com/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    ampUrl: https://www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 24
 
-secured: "mD+zNs4Z7aVKhnEpoknwFBnuO8fIw9T4S6WY/+uYVtyeBs+Jdph5r1h/aU/KEXAA69IykH2TR1WRg7WM5mhY6aJfDhNoHkNrSJceojIvPM2T2K2cwBxz8eaff57Jh8kVgxJmohbP30VZFYY4lu/2RYIMlnm6DnSzJAqhu2xFlq0uezqVmST4FUUHkB3fjgYP8wNQjD//xq/U45Hr/GIYw4RCvZsdtaJTzCCken1mJKEu0/2w+wj+5Z9LZmnXC636obaMNstsWzmm6jYruk6l4A==;Mu5Ri1V0zJi8jH7e+uwqqg=="
+secured: "CyyTREcLAoCcojvOcT35LQQ3ziHyZaNMq4hjrPbrzmf/RyieP0y1fFj9xrGv2Q2eHx4wTjCfkEDTVDjnkGPXAUD8pggCCCI/EZDUE0IYkWGy1M7CONDGglivYorAKMYr11JzzXNHFfDLyEdbyoAScVbpP62kvFtU7+YhYT02JbAew5EDMkcOo0fmrq3TP29sDYuHpR7b1wsft56VGnVWeYhddKHrkvBEZF5LLzxYVS1rXrvmLg9OSV3DxGR+UJfFysgI24vWBDtQwYexBaxcVA==;8C9kGNFlMkGFHzefo+vrvQ=="
 ---
 

@@ -1,28 +1,31 @@
 ---
 category: news
-title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
-excerpt: "The views expressed by contributors are their own and not the view of The Hill Artificial intelligence (AI) will shape the destiny of humanity, but first humanity has the opportunity to shape AI. At times, anxiety about the former causes us to overlook the latter. We forget that artificial intelligence is going to serve the goals with which we ..."
-publishedDateTime: 2019-12-10T17:00:00Z
-sourceUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial
-ampUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
-cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
+title: "Artificial Intelligence in Media"
+excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
+publishedDateTime: 2019-12-13T23:51:00Z
+sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e
 type: article
-quality: 64
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Medium
+  domain: medium.com
+  images:
+    - url: /assets/images/organizations/medium.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
-    width: 980
-    height: 551
-    title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
+  - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
+    width: 375
+    height: 360
+    title: "Artificial Intelligence in Media"
 
 related:
   - title: "The Artificially Intelligent Investor: AI And The Future Of Stock Picking"
@@ -113,19 +116,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CFB167DD2C4D57EE659E132332014033
         width: 700
         height: 393
-  - title: "Artificial Intelligence in Media"
-    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
-    publishedDateTime: 2019-12-13T23:51:00Z
-    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
-    images:
-      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
-        width: 375
-        height: 360
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z
@@ -169,6 +159,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
         width: 700
         height: 350
+  - title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
+    excerpt: "The views expressed by contributors are their own and not the view of The Hill Artificial intelligence (AI) will shape the destiny of humanity, but first humanity has the opportunity to shape AI. At times, anxiety about the former causes us to overlook the latter. We forget that artificial intelligence is going to serve the goals with which we ..."
+    publishedDateTime: 2019-12-10T17:00:00Z
+    sourceUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial
+    ampUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 64
+    images:
+      - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
+        width: 980
+        height: 551
   - title: "Can Artificial Intelligence Increase Our Morality?"
     excerpt: "Even well-meaning AI applications have potential dark sides, she said. Algorithms aimed at putting at-risk students back on track could conceivably increase conformity. Therapy apps that give points for good behavior might make personal growth feel like a badge-harvesting grind. Social credit systems like that in China, or even more subtle ..."
     publishedDateTime: 2019-12-09T07:38:00Z
@@ -565,6 +570,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "JIbA/srUhHBhjWsvX115Lw3pS9SW2OOL24iDIa+03gI0pomPQ5ms6ju0AtcRoi7Bo12H9g2wm9ZTLVnAKHz7cM7wLwIlb+DrBWRQaAgsOayATHOhcjlEXD3RRGEsQx901v8+QM5HCP9eqafmOZDrSjZDKuqgD/EyxydjhuYppuJpkJUKMlXrMbI1n3Q+xcFKQltTNgMicBIXRZi1KBie9vBAENnVnHsMD/wHx7gFYXEtBiVKxWxVxh+DjG/nDmEa1KH2VBraXWyLrvLd/wVxXw==;aULOrQr/zu96ttl0S85JFA=="
+secured: "BwFWVXVZ2izMhiwazgL1RbIbT+gNkEtdM6ZfevA+/Hg235jj5tZA8SnEdqZW7BizPv3wuXb1YKBEpeB3k1sSMPS9PxA+5HjMwVf1ZI+B58IGvO6AuYKqkd3QUJ1wMlyxz4sYM3VLjsUv8fsIJDNWuHDVbSkePpQmP0DPuxdwT/4EKqyWyYtsmkdoLISF9AJh6FGYtl+1VjdajP8UM89LAwCVwPFY/sN9pAEZb0dsKtZhSzQQ2wSrIkeIh4I7thVWDya0XVIi5MkFVZ/YHO0G3g==;LYjwiNrHUTVU1+Yc10i4Iw=="
 ---
 

@@ -41,6 +41,15 @@ related:
       - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
         width: 700
         height: 490
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years, artificial intelligence (AI) -- the capability of a machine to mimic human behavior -- has become a key player in high-techs like drug ..."
+    publishedDateTime: 2019-12-27T22:39:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Play this bingo game with your kids to teach them about AI"
     excerpt: "This game challenges you and your kid(s) to notice. Designed by Blakeley H. Payne, a researcher at MIT, AI bingo builds on pedagogical research that shows how exposing kids to the way technology works helps develop their interest in STEM and improve their job prospects later on in life. It is also part of a broader curriculum designed for and ..."
     publishedDateTime: 2019-12-27T12:11:00Z
