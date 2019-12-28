@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
 publishedDateTime: 2019-12-03T18:31:00Z
 sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
 ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
@@ -21,8 +21,8 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - AWS AI
+  - Machine Learning
 
 related:
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
@@ -33,7 +33,7 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 56
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
         width: 700
@@ -48,6 +48,6 @@ related:
       domain: msn.com
     quality: 19
 
-secured: "HLTCneRqNz0sf6958ZPnITiyRcWg1G2iJ0dC/zlPZ1EUWH0rrNkwvXM370PO+vAjcxJoQkFCugY4O4wi++mbOu55uGU6kL4LQugF3nS89vyskG5IpmjgohxvmEExzOg+5W1VCockHT0jZBP2iQTrH9aUaaAokKEmCY1FZP13hQFnSeJW/p1GKUzCAOLOROAGJ9esNs6BwmMq6t97kfA0985nRRZOM1bXvEgi6FkBSBwQ97mmy3CX2vaDBozlEre/xCoHZ2bz+NEB9vPTtFu08A==;7U+avU/8dNjmriD19oGJxg=="
+secured: "YVeyjFWm+KH5VMfjqRAPc6b3Xt0/lmpaxaw1AvkYz/A8Qtg5Wrc/vmwawOwzPGUWmalErmvPlqR/wCWLGVrYogIUifYgRKusPNA0VQ+IlOjYiZLW38VfZ5wQ+eV3MizqjWkXiqTiRAWvHzxz0+deDqnyjaY++PFEjdCIyOEJnSLskaZq8Ex5Jr6to7reuLF0n2smErK2pWzlwG6vMJ5t7qsz6PchNJYylCT65AZbjjFcvNRJTpU4Q2s+QA5/F9oaag8iaxbfUxOi0XAFk98Akw==;9O+ImJ7DW3yZcQLUl63sqg=="
 ---
 

@@ -25,6 +25,19 @@ images:
     title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
 
 related:
+  - title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
+    excerpt: "Tech giant Amazon is reaching deeper into healthcare with a new speech recognition service for clinical documentation. At its Re:Invent conference in Las Vegas Monday, Amazon Web Services announced the launch of Amazon Transcribe Medical to convert ..."
+    publishedDateTime: 2019-12-02T10:58:00Z
+    sourceUrl: https://www.fiercehealthcare.com/tech/amazon-web-services-launches-transcribe-medical-speech-recognition-service-for-clinicians
+    type: article
+    provider:
+      name: FierceHealthcare
+      domain: fiercehealthcare.com
+    quality: 30
+    images:
+      - url: https://qtxasset.com/fiercehealthcare/1575292891/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?z3zuh99e9y1fwksPgMgicHN2E7EI02Y0
+        width: 4432
+        height: 2955
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
     excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
     publishedDateTime: 2019-12-04T22:24:00Z
@@ -39,6 +52,6 @@ related:
         width: 960
         height: 640
 
-secured: "NnnOiRFTzOmierbPM330yDqdJeM7jK/iK+R+2Z1MCKisQ6sc9R9hpkLC5ZGQN9TSebs64nD91O6Qrmb7MG5zEA/arDJQTi7k/6mDji9eJ6cr3qfinJVPpzN034khUkNCAGrv6zECewtaxHrbvjorSlfvb+GFsa5nlDYH8HdWEAtgKnUPiR2ysZ4L60dLaIN1yLNxElWn6Eh8OqFgKeqL2/IIOFt7h3gxBEbW2pIWSBH2B/QlAgp0hsuIXl7G0htNqlGXtYtzAvbJ0l5Tk+VoNQ==;VfXHJpbGoSsaC9g1cwYbcg=="
+secured: "qBpEfXEFz6zoTppwn6TDf/D0abG0o1b8f5DBbuV098uaaDDoRFYJxeJN5nr6voOPuvNI+ia9dcAwvrcpstRRdehDLYDuPv+lAuS+7RLIPmMIXHP0faVnAjUs+FUKaAN6c9KcZc66g4Chy65FcBWbO3H52QUI1aphsB5W89qmI1BUJe9dghly9QQGOaJKdq3lRpip2pdlFVaGqWTF7QeL56qGsDO49f1vUSSWoEyHrK7+Gn6J+wR0+/1PAx7TPLCzk9YkoMPO3SZhH06o38viFQ==;tAqEifgGNOjIgu60vBrIHQ=="
 ---
 

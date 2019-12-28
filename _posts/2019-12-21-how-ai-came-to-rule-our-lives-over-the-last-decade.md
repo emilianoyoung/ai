@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "xLXAKh2B6U/CD5+RunQuHUJw1PCpRjuE6nTZZcPc5m5qvkX0F8TLQUocQggZ9Gh5RCGt8H8RxXVgf9V2kRa6bp4OtcLq+JHnxK6bdTD9+RPBgszWKB1beHS1O0zW6l1l7mL3vlN/DMWLxiEavn9bKP27nmZ/4zch9tkW9h27GdSbCdZig9X3Awnbw2UeooRUmud2KyA3IxOA636FFawHtUsCqiA5neDskXJTDv4n0R8anXTVN60502lBm5mZaWx+V2EontgvQCaMJKmiJ6M6cg==;n4rvGOB+Fq05drO4qX35RQ=="
+secured: "qAdOmg2de1I+T4a5FiVHFQJTSJcPBptyD9pw42b6APx/BlRLXFpFT7x5N362ZkO0okEu1kRtmoX2Itu1jJu0YTftxX5Iz6uzdTp3K12pcTsgTrVU/IZp7zaXCn4ptklb5cV3yygoksavpIgkDp5ofWR7+AYeg2ru4yYqx/Ot0U75CPf+kXptBiS8kLm2xpA71AaLaGSSbm12qTshgDrcseeKmVmXNUsQqG6+WZiEm4Q4geRkwutMadLTvgXzDwG1qdeK2lWATS3Ju99aMTuX+g==;J+dYBcmjh+YflY34xlmESQ=="
 ---
 

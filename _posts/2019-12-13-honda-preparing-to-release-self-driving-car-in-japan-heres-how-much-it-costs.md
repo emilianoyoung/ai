@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6FF447E6483A0E9AB299F28CCA4ED5DD
         width: 700
         height: 350
+  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
+    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
+    publishedDateTime: 2019-12-04T12:00:00Z
+    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
+    ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: https://media.wired.com/photos/5dcef1d74d2116000890cbef/master/pass/Transpo-skidmarks-1174331136.jpg
+        width: 2400
+        height: 1600
   - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
     excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
     publishedDateTime: 2019-12-09T17:24:00Z
@@ -234,6 +249,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
+  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
+    excerpt: "... are still lagging behind their US peers when it comes to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo."
+    publishedDateTime: 2019-12-08T00:41:00Z
+    sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.589574FB4DB7266DE63A7AD0FBF37E05
+        width: 700
+        height: 367
   - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
     excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
     publishedDateTime: 2019-12-10T16:42:00Z
