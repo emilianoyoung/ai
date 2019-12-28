@@ -362,19 +362,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 32
-  - title: "Self-driving vehicles aren’t road-ready yet"
-    excerpt: "Companies are in the process of creating cars that can drive 99.9% of the time people drive. However, in my view, self-driving cars should not be on the roads. First, self-driving technology is new, and it needs to be worked with more carefully than it has been. There is always the possibility of miscommunication between the manufacturer and ..."
-    publishedDateTime: 2019-12-08T10:34:00Z
-    sourceUrl: https://lancasteronline.com/opinion/columnists/self-driving-vehicles-aren-t-road-ready-yet/article_bf29c876-16c1-11ea-8f0e-8fdc32c8aaa8.html
-    type: article
-    provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.E1F8EDAABBC88FFC5084DB756723B59F
-        width: 700
-        height: 426
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z

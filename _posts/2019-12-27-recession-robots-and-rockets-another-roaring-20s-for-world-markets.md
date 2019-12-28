@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Recession, robots and rockets: another roaring 20s for world markets?"
-excerpt: "Helicopter cash, climate crises, smart cities and the space economy — investors have all those possibilities ahead as they enter the third decade of the 21st century. They go into the new decade with a spring in their step,"
+excerpt: "All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays."
 publishedDateTime: 2019-12-27T10:32:00Z
-sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis/recession-robots-and-rockets-another-roaring-20s-for-world-markets-idUSKBN1YV0QQ
+sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis-idUSKBN1YV0QQ
 ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
 type: article
 quality: 89
-heat: 129
+heat: 99
 published: true
 
 provider:
@@ -24,7 +24,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.6B8F71CFED66B0212B673B922161517C
+  - url: https://www.bing.com/th?id=ON.50C227EC9958EFB78B42F2581EDFFD01
     width: 700
     height: 466
     title: "Recession, robots and rockets: another roaring 20s for world markets?"
@@ -32,59 +32,16 @@ images:
 related:
   - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
     excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-    publishedDateTime: 2019-12-27T10:09:00Z
-    sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
-    ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
+    publishedDateTime: 2019-12-27T15:13:00Z
+    sourceUrl: https://www.cnbc.com/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    ampUrl: https://www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/27/reuters-america-analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets.html
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
-        width: 450
-        height: 337
-  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-27T09:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Ping-pong playing robot returns for CES 2020"
-    excerpt: "For the last two years at CES, Omron Corp. demonstrated a robot called Forpheus that equipped with sensors and artificial intelligence played ping pong with users at the show. The robot is returning to CES 2020, taking place in Las Vegas on Jan. 7-10, for another round of table tennis with convention goers this time with expanded capabilities ..."
-    publishedDateTime: 2019-12-20T17:01:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14440/ping-pong-playing-robot-returns-for-ces-2020
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: https://electronics360.globalspec.com/images/assets/440/14440/OMRON_Corporation_6th_Forpheus.jpg
-        width: 752
-        height: 508
-  - title: "Want to Hire a Robot? There’s an Agency for That"
-    excerpt: "Its robots will undertake the often strenuous and repetitive work endured by humans ... is a good thing,” Bailo says—“and then bringing that learning back into the manufacturing environment and into the artificial intelligence [area].” Bailo finds it interesting that Ford's plan is to use hybrid vehicles rather than electric for its ..."
-    publishedDateTime: 2019-12-26T20:08:00Z
-    sourceUrl: https://www.industryweek.com/talent/article/21119296/want-to-hire-a-robot-theres-an-agency-for-that
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.54CB0A39D02FCB0817B6E5648D53840E
-        width: 425
-        height: 700
+      name: CNBC
+      domain: cnbc.com
+    quality: 65
 
-secured: "aLKCEFuzyGdnPRBbMje+SsNudmJQf2DlrSbEboIZFxrejwbGZMRuga6KzDc3Vc7Z+P8ukzxfg+Szhu0fqKy8Ii673rKqTc2/RRJoJ+71DQoWuDMJ735/QDMhUBywRxPIRzipFnXxwkr4o4OCBmqCvoCg6gXeIDdVILxJc3wEzEtC+qi6CH4k98V+7pudtcM4aWEV//b57Oxi8PA7faqqNNteKQlqqSKy/j6stRx+Rk85ZJPrE2BZ5qMQsiHpvTzcBBNv2qLQo9RMZSR3mXt6tw==;MlmwoOwyIyqVA4YVzCgV4A=="
+secured: "NLlsjyFtSAD78/ndatvmw/YMq180fD4X+MLcoB2R2yQfowuW6Hpk2r8RI+uZGx0ycFTlPTclzWtKJ6wgu15D4DDO9k7fCQoOfQJ6mcikXuFyYlKkZCj9c9BiZYzKvwCghUsY7e7H8SgLI0bbvEAdomc9xy6nYSToFAoPi7i+uatT8WxFVI3xyN88Gf6jF7XmtGo48jpaY58pn694WQ88dsY3wbseLP6kRjGFodQtXhT1kH9Vsp+tBZCOlb3plylVoiRqVjARUZ7dQNk0qC9ECg==;etkr1I/Fl2NmzbCPlEHqRg=="
 ---
 

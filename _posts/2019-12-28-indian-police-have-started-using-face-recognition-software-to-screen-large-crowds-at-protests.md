@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
-excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
-publishedDateTime: 2019-12-28T03:56:00Z
-sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
+title: "Indian Police have started using face-recognition software to screen large crowds at protests"
+excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
+publishedDateTime: 2019-12-28T11:42:00Z
+sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
+ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
 type: article
-quality: 34
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFTV
-  domain: wftv.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
+  - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
     width: 700
-    height: 366
-    title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
+    height: 411
+    title: "Indian Police have started using face-recognition software to screen large crowds at protests"
 
 related:
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
@@ -52,21 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
         width: 300
         height: 170
-  - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
-    publishedDateTime: 2019-12-28T11:42:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
-    ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
+    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
+    publishedDateTime: 2019-12-28T03:56:00Z
+    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
+      name: WFTV
+      domain: wftv.com
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
+      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
         width: 700
-        height: 411
+        height: 366
   - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
     excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
     publishedDateTime: 2019-12-28T00:06:00Z
@@ -81,6 +81,6 @@ related:
         width: 700
         height: 389
 
-secured: "GViUzs6SoJdelMbFkV8RfPlVVXxz/NiH3zs4MYsBqNGV3pwCNWJp2Ggh+GoDQjHVcfhPx+Jmzv3XTyJYoikMKNUk2RYuundp0ljwSlBbcl4vZrRH84DG4rYIbtB0rLrOHyVX92EYEhpkdZZAE3pollvEbGsGHzIqCN0QOzqT0eWUxhH2XFIiTIVlxIpw+/ltI0G+qob1RXjBwKD7y4mPgX+SWWDJr92Av05akPyaQ6QuG4+7klAP7SBxZ2Z2iNPBtndFM7vz/iA33QD0t1w+Fw==;mRzCQyJu6ZEqW8ngOZXVqA=="
+secured: "nxKLyQE5YbIaVTCbD4mc7hHFDR4imPVkFS50VcX0M+e9D85RHfyESAw+PMnJ3QhGlK8k1Zt/fXmfP5drJEdv/gkCXBxzFz3X9hlpba7KTc2tBP7kXHGvq+TG9QOZaPdv4GCU7fgZ0lHpXj+0elG0iJZ6HmIzt5A9/aOBoaGKXHrr++K9Rt0hFZ5b2sRNwHgrVNe9R6BIjm04f5ojMZ83/433g4Tf1FivQ1bnjjWZAhoCcD/PZ5NScbJfARa5UQC7wssjq70o6r1rLOPy91/DlQ==;hAhw+Pg5EGnHLmZ9dU4t0Q=="
 ---
 

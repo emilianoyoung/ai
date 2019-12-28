@@ -1,32 +1,46 @@
 ---
 category: news
-title: "Church of England to review ethics of its investments in AI and robotics"
-excerpt: "Why it matters: The review will help determine whether the church's $15.6 billion investment fund should back companies like Amazon, Facebook and Google, which are pursuing artificial intelligence and robotics. What they're saying: A source close to the review said some church officials are worried that the technology is “akin to playing God ..."
-publishedDateTime: 2019-12-22T13:28:00Z
-sourceUrl: https://www.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
-ampUrl: https://amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
-cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
+excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and ..."
+publishedDateTime: 2019-12-28T11:35:00Z
+sourceUrl: https://www.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N.html
+ampUrl: https://m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
+cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
 type: article
-quality: 105
-heat: 185
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Axios
-  domain: axios.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI
-  - AI Ethics
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
+  - url: https://www.bing.com/th?id=ON.E5F9EE185D518BE851E7DE436BC863EC
     width: 700
-    height: 393
-    title: "Church of England to review ethics of its investments in AI and robotics"
+    height: 466
+    title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
 
 related:
+  - title: "Church of England to review ethics of its investments in AI and robotics"
+    excerpt: "Why it matters: The review will help determine whether the church's $15.6 billion investment fund should back companies like Amazon, Facebook and Google, which are pursuing artificial intelligence and robotics. What they're saying: A source close to the review said some church officials are worried that the technology is “akin to playing God ..."
+    publishedDateTime: 2019-12-22T13:28:00Z
+    sourceUrl: https://www.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+    ampUrl: https://amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 105
+    images:
+      - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
+        width: 700
+        height: 393
   - title: "VC Investments In Enterprise Tech And AI"
     excerpt: "I’m going to take a look at some of the top tier venture capitalists and their investments in the field of enterprise tech and AI. Companies with a focus on AI have collected over 9.3 billion dollars in the US during 2018. The number of venture capital investments keeps growing on a global scale, opening up new opportunities for startups and ..."
     publishedDateTime: 2019-12-25T06:46:00Z
@@ -57,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
         width: 700
         height: 417
-  - title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
-    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and ..."
-    publishedDateTime: 2019-12-28T11:35:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N.html
-    ampUrl: https://m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.E5F9EE185D518BE851E7DE436BC863EC
-        width: 700
-        height: 466
   - title: "2019-20 Book of Lists brings robotics front and center"
     excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
     publishedDateTime: 2019-12-20T12:45:00Z
@@ -130,6 +129,6 @@ related:
       domain: openpr.com
     quality: 21
 
-secured: "O2amSTmBvRfu4Gi6eeOea9WhhPOi7Q4hwuSPG83rgA5fFEY9mJfbWE4YT/qkC5xuxU10cvTLbmTyfi83qabqQjVUyA7lCl6Y9PRborZzocp7ODPxzSwHUdGLEgeHji9Tgrkx+IhY/BuyhhlHmy3vud+iBWyr6zztp0lOWDV6WoGPLaK6PyFAy26Fu4jSeobbsSqyPrHRFhwhXr81SId7Ck8efT/P9uuVwh5nurMErHjsUEtGHMLHB9S5bYmeNHZ4V0eO9Fk7tQA23xvHPXlf3g==;IEjQg49ffDfe3ms7ThvSpg=="
+secured: "ulXLLbeZ6uOR+P5pD4mWkbbX6PqiboQuo0cMVeluVu1J61cYmPGYjGpT6ko9PCM8fIu7kV+tn/84iLY4EX5T6J+FDxXN1cGPvdlbpOiygCXn4GMWPR0ciCoTzmR9jzkxmSmreIz30QcEaVvDJKYeEVzfRCrut1bWy2DldYVePZiZxGJdehfhgEK4a6/oHwHG5VWK9iILyc/ZlaMWiD/cm+ZVPIAXl70mlzW/YGD4Zozkbsn1Aa9kwxxYCxhLvrTPjMWE83+JYi6948ipS+pXLw==;kJRPHMyAIXF6fPSsbWbmlg=="
 ---
 

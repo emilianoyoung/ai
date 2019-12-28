@@ -24,62 +24,21 @@ images:
     title: "Want to Hire a Robot? There’s an Agency for That"
 
 related:
-  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
-    excerpt: "Helicopter cash, climate crises, smart cities and the space economy — investors have all those possibilities ahead as they enter the third decade of the 21st century. They go into the new decade with a spring in their step,"
-    publishedDateTime: 2019-12-27T10:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-markets-outlook-2030-analysis/recession-robots-and-rockets-another-roaring-20s-for-world-markets-idUSKBN1YV0QQ
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
+  - title: "Griffin and his robot offer hope for other cerebral palsy patients"
+    excerpt: "His “robot” is a motorized exoskeleton of sorts ... But McCormick imagines a not-too-distant future where, using advances in artificial intelligence, GPS, and by streamlining its design, Tréxō could become wearable technology. “This is all fresh and new, and it offers the hope of change over time. It’s putting technology in the ..."
+    publishedDateTime: 2019-12-26T23:08:00Z
+    sourceUrl: https://ottawacitizen.com/news/local-news/griffin-and-his-robot-offer-hope-for-other-cerebral-palsy-patients
+    ampUrl: https://ottawacitizen.com/news/local-news/griffin-and-his-robot-offer-hope-for-other-cerebral-palsy-patients/amp
+    cdnAmpUrl: https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/news/local-news/griffin-and-his-robot-offer-hope-for-other-cerebral-palsy-patients/amp
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.6B8F71CFED66B0212B673B922161517C
-        width: 700
-        height: 466
-  - title: "ANALYSIS-Recession, robots and rockets: another roaring 20s for world markets?"
-    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-    publishedDateTime: 2019-12-27T10:09:00Z
-    sourceUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27
-    ampUrl: https://www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/analysis-recession-robots-and-rockets%3A-another-roaring-20s-for-world-markets-2019-12-27?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
-        width: 450
-        height: 337
-  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-27T09:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
     quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Ping-pong playing robot returns for CES 2020"
-    excerpt: "For the last two years at CES, Omron Corp. demonstrated a robot called Forpheus that equipped with sensors and artificial intelligence played ping pong with users at the show. The robot is returning to CES 2020, taking place in Las Vegas on Jan. 7-10, for another round of table tennis with convention goers this time with expanded capabilities ..."
-    publishedDateTime: 2019-12-20T17:01:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14440/ping-pong-playing-robot-returns-for-ces-2020
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: https://electronics360.globalspec.com/images/assets/440/14440/OMRON_Corporation_6th_Forpheus.jpg
-        width: 752
-        height: 508
+      - url: https://www.bing.com/th?id=ON.9DD317648D8A2201F7EAC2614CA87DA1
+        width: 700
+        height: 525
 
 secured: "Bf05/YZ+Z5SAPe5IMjUlLXQPBwKoquOFTF0/WEm4gm87fsj1nNgwwV2Wsk/x49VEQLkEgbGBkg+IBuNbXHXwvXM+40dXwP2onDC2AUeViX1IMO02xRq5tYPpaQoFh7OpKAxKjNIX71e/ZEsCYX/50NT6G8p7s9iJNz/D98kCzBxVJ+A26R/mNIlGvu8DX+Y0pnKL11fRgUE0usDfyDw+V4rir0MWFqNb974mr43/KMavPQzbeaH0TbOCaiarNIFh4rrwQMAxcH6IX2GuJcqkFQ==;T/7X7Gavxc17f2joBOvamQ=="
 ---

@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.38E57FADAEB75F915BC7F9E0AC5E350D
         width: 700
         height: 393
+  - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
+    publishedDateTime: 2019-12-28T11:12:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI.html
+    ampUrl: https://m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
+        width: 700
+        height: 393
   - title: "Uber buys parcel near Pittsburgh for self-driving test track"
     excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
     publishedDateTime: 2019-12-27T15:39:00Z
