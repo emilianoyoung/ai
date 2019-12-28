@@ -39,6 +39,41 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    publishedDateTime: 2019-12-04T20:48:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
+        width: 700
+        height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -66,6 +101,6 @@ related:
         width: 648
         height: 420
 
-secured: "WBCJeXKbeVWXWGyG99G6Ygo+HXBVBXhxR6wqcrzB6JGxk65iSCjuVgHbm8ahFCeea6whB0tP2Aj35IXexcwkfDnNqozNmj4udb6PuAXnhltJL0vHDlT/aSiWPOGOKLKkj44f/R9QumN6PFOZyaqArsmteEmQ7quVS3XrzN6A8JPGUa/x9eyOOCjsUEehzvHR+Sn61UW4mv2ZvWod90OtS7WVC1B13n6xKESE3gFTTmEBP/0/IIvBy512zZMmnJwHwGwMSeagNDYkkSJjZnkSLQ==;6h3XW4uv0cMAXg4linV8wg=="
+secured: "qbO9BW2JfqhzB8z5gqmp9j5qaIN6QkWRlX8b1DVj+51dHN9ixo/lfvdCS+y8RjwRTW67I2aUWt5wDEV9911L5qsbFaxQ7GuDHpsw1xfWfUEltT5fsDC2nmyoJwOy+XJl3LI0iP62SCW7LFedGommDQ0kEf2PqUtO8zrfd86h/S2a/Xkt9yGg6pFY5yYrIRaGhtT+bAtBrdG/g7LFfoyLU+s4jYRx2Dp6uqW6TQarRaNDVZx25ZwgA8erZZDS5swAN5gzjrLi8bDGNZBpwr7J9g==;zOlcDM25Eq+9YeEnFYdZIg=="
 ---
 

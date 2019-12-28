@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T07:10:00Z
 sourceUrl: https://www.msn.com/en-us/news/technology/that-ai-robot-that-had-an-emotional-meltdown-in-space-got-an-upgrade/ar-BBXVP5p
 type: article
 quality: 137
-heat: 277
+heat: 267
 published: true
 
 provider:
@@ -98,19 +98,6 @@ related:
       - url: https://www.bing.com/th?id=ON.957D0AEA98B9221FD6533941D2FDBE01
         width: 700
         height: 394
-  - title: "SpaceX Delivers 'Mighty Mice,' Pest-Killing Worms and a Smart Robot to International Space Station"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. NASA has tucked some Christmas presents in the shipment for the station’s six-person crew, as well. It’s ..."
-    publishedDateTime: 2019-12-08T16:42:00Z
-    sourceUrl: https://time.com/5746110/spacex-robots-international-space-station/
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.1E854000BB9422D2212DC9C8994DA9CC
-        width: 700
-        height: 366
   - title: "SpaceX Dragon docks with space station, delivering ‘mighty mice’ and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
     publishedDateTime: 2019-12-08T20:40:00Z

@@ -39,6 +39,41 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    publishedDateTime: 2019-12-04T20:48:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
+        width: 700
+        height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -66,6 +101,6 @@ related:
         width: 648
         height: 420
 
-secured: "2sbJ7s7KWoJ5u6BuZMCISKWV1PYbbc4vntztO9twCVBrcRbi6Ic7By0HBEqSRmt855HMFB6eDMESIOAt0HfXWdbDdCpx7idW2TfDIt4iT0CWdwxGHcfT0tWxC2SC2fn/ZiA0z2rxprnlyHrCw3goWck1WLSyzhakt8agd8cHqMxTUPxA4u0BEZLdqzaX2c5fR1zO8ga2Yo5eHpHucbm4uCG2XJxCt0bYQ14cZ0PHKZJX+7UXxidwUWc3zzn76aonJlorH/9GvWuI0BWiRfS6oA==;EOG+3mdp4YJH/cdYDkJcDQ=="
+secured: "sKolLd2qOx+NU8qcFBmsiIoVVT6ghH0P8maWN2nyiLyQ9w7OKPzu41FmBNgTHbL8PfxltOC0cHl7aIDE24vPALeboZuCv2HjdqeSwaVltcfc5McAeuxcm/QB5XWyGSlmfYbcgmfgLuK0lUdihdKR/dXJabqIPs7+0mHSEiPpeJUmlPPEdBKaecF3s4L5NjORohpg10rfreIISFL3ZCwnhyPEC+BZM9rcvfHowaDP0q0q+8XOlcuooDYZGUQ0M9ofwHB6lsFlDkvXaXQWsnipOg==;egqxG/V0YxrKbRxfawuOtw=="
 ---
 

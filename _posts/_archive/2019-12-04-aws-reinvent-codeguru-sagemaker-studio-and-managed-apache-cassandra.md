@@ -28,21 +28,21 @@ images:
     title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
 
 related:
-  - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
-    excerpt: "AWS SageMaker, the machine learning brand of AWS, announced the release of SageMaker Studio, branded an “IDE for ML,” on Tuesday. Machine-learning has been gaining traction and, with its compute-heavy training workloads, could prove a decisive factor in the growing battle over public cloud. So what does this new IDE mean for AWS and the ..."
-    publishedDateTime: 2019-12-08T16:45:00Z
-    sourceUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/
-    ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
+  - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
+    excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
+    publishedDateTime: 2019-12-03T18:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
+    ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 118
+    quality: 112
     images:
-      - url: https://www.bing.com/th?id=ON.FD9E804AB5F0E0710007A02545D5A637
-        width: 700
-        height: 418
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
+        width: 1080
+        height: 530
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -65,63 +65,46 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 84
-  - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
-    publishedDateTime: 2019-12-04T14:52:00Z
-    sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+    publishedDateTime: 2019-12-03T21:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
     images:
-      - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
-        width: 700
-        height: 393
-  - title: "Deep Learning breakthrough made by Rice University scientists"
-    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
-    publishedDateTime: 2019-12-13T18:42:00Z
-    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+        width: 936
+        height: 523
+  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
+    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
+    publishedDateTime: 2019-11-29T00:00:00Z
+    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
-        width: 700
-        height: 350
-  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
-    publishedDateTime: 2019-12-03T09:16:00Z
-    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
-    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
-        width: 700
-        height: 466
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: IT World Canada
+      domain: itworldcanada.com
     quality: 54
     images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
+      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
+        width: 932
+        height: 377
+  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
+    publishedDateTime: 2019-12-03T20:32:00Z
+    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+        width: 648
+        height: 420
 
-secured: "NiIP73fXH1yHoj4sYoPoo3izyQa7wddhenn6PBvUl7aNwW0wFaRAY+gG9WMgWs5RRidY05cndixGGaBReqQN47D4otvKMDpm1cFfp+5wC/xRlwss2QJzZHrUfihNy84VKOwRSPPxBw4JNAsxeZ9f3DIyHS0LlVioHiFKT0QkdFHYlMYnv3DcrHIyzGvSFxhKj4P/0n8DqsJQxjjgzsRFGWyjvfkJTyXDHgf/Ld41fwF1/7LmFdqdlFhacbH1MVh6D+Z/gNoIVR1TyAkKt/nPLg==;aM+lplz7OcGcSo+Y/HI56A=="
+secured: "Cgo+j6LjxCWZnehAQrZI43rJIRDzWh3isWgyohlgH+5xA14M8EQCJniRpSUzmde7RwE0xi+9m4wNf6O/UMr6tmny0P/NmOpzgmvT0vHnJZvstUgqwlzmP5lhBOC8fWSBkSsap1z5GsnA9YCo62NLCgjOloAs2pYqog6PG9XvbBcp4bG5P+oN7A6pvh5o4S7QXovNRzsFTlqIl4CyHAT34F66EZEXMUC9PIaGm0ggF8oBUnxD15wcDxGyeMLDUDmJJHo4GanPhLFxRNPXMx23tw==;H1bQMvFWutOxy7vn1klQdA=="
 ---
 

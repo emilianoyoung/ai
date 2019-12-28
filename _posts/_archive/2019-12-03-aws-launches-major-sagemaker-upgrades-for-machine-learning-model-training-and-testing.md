@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 142
+heat: 172
 published: true
 
 provider:
@@ -30,6 +30,41 @@ images:
     title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
 
 related:
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    publishedDateTime: 2019-12-04T20:48:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
+        width: 700
+        height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -70,6 +105,6 @@ related:
         width: 648
         height: 420
 
-secured: "I6CGIiAWrxnsc40OfZ06JNqDPaMBdxHJazS/7MrlmAVOLd2jyunzh6aH/bFq3k4KlloZe9hpWcjXFrL+JrACncJx1ibStT1A8hs9EM4s/5fJQ4RVjIcWEhePG2+y9tNnFoGAD1ox2p7rFAFk5/PC7XAzWPqGWzglXoUOrF6REbM52Fq1jgW0zFQs/Mjr6THyCnw+/BW6jTOCX2zRAt8iJ/uJextb0WV5Ush7uduD8tmSW3mxwUwYTUtWzMLes91ttL63wJ2DwqRKKdBQHG1bhw==;KFzlqqXFIOJWgkeHiokcTQ=="
+secured: "tmqWFLE04pIqwJPJeOyEIZij+6en/mETWOWRTNNW2gugOuSiDW+yneHcE5cFDLslRL6gPNx4r3hpeboeux6sJZ9zbSuIeRkSZFXoKqD6eUFFA/36UYtbnizvLtFiTzmQ97gqghRiJ6MRL9kFGBVOZXwr5hY4p10JgbfFO9E09Zf+pYDqkD/T2Xosx8jZdL4jlJ2q2Wk8YxkgKHWuFrcKYRP1vNzhjHuN54KKzHCoopa9IQS5FgnrL+74J4fSk/SWPuEJEnUu5Q0Rf7wC3myi5A==;C1vR+Z0+b9bdtlEZNM822w=="
 ---
 
