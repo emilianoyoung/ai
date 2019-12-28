@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6892A3712120A80A17131ECE3249BB69
         width: 700
         height: 350
+  - title: "Create and run machine learning pipelines with Azure Machine Learning SDK"
+    excerpt: "In this article, you learn how to create, publish, run, and track a machine learning pipeline by using the Azure Machine Learning SDK. Use ML pipelines to create a workflow that stitches together various ML phases, and then publish that pipeline into your Azure Machine Learning workspace to access later or share with others. ML pipelines are ..."
+    publishedDateTime: 2019-12-28T22:43:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-your-first-pipeline
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 38
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Patent Issued for Method And System For Identifying Biometric Characteristics Using Machine Learning Techniques (USPTO 10,503,970)"
     excerpt: "As a supplement to the background information on this patent, NewsRx correspondents also obtained the inventors’ summary information for this patent: “To efficiently and accurately predict a user’s health status and corresponding longevity metric, a biometric characteristic system may be trained using various machine learning techniques ..."
     publishedDateTime: 2019-12-25T21:50:00Z

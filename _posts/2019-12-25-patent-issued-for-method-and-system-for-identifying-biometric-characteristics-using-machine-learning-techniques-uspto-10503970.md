@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6892A3712120A80A17131ECE3249BB69
         width: 700
         height: 350
+  - title: "Create and run machine learning pipelines with Azure Machine Learning SDK"
+    excerpt: "In this article, you learn how to create, publish, run, and track a machine learning pipeline by using the Azure Machine Learning SDK. Use ML pipelines to create a workflow that stitches together various ML phases, and then publish that pipeline into your Azure Machine Learning workspace to access later or share with others. ML pipelines are ..."
+    publishedDateTime: 2019-12-28T22:43:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-your-first-pipeline
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 38
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
   - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
     excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
     publishedDateTime: 2019-12-27T16:00:00Z

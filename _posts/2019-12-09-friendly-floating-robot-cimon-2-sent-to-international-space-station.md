@@ -52,21 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CA9909A8BEDDEE3E166F91F014E3BAEC
         width: 700
         height: 366
-  - title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. NASA has tucked some Christmas presents in the shipment for the station’s six-person crew, as well. It’s ..."
-    publishedDateTime: 2019-12-08T21:23:00Z
-    sourceUrl: https://www.bostonherald.com/2019/12/08/spacex-delivers-mighty-mice-worms-robot-to-space-station/
-    ampUrl: https://www.bostonherald.com/2019/12/08/spacex-delivers-mighty-mice-worms-robot-to-space-station/amp/
-    cdnAmpUrl: https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2019/12/08/spacex-delivers-mighty-mice-worms-robot-to-space-station/amp/
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.66F574A6FA89C6351B73B7E40F7D7F40
-        width: 466
-        height: 700
   - title: "Robot arrives on the space station to keep astronauts company"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
     publishedDateTime: 2019-12-09T17:24:00Z
@@ -127,19 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B777F4D4A7F5F8D7EEACD7C9F35C530E
         width: 700
         height: 465
-  - title: "SpaceX Dragon delivers 'mighty mice' and a space robot"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-08T21:45:00Z
-    sourceUrl: https://www.kxly.com/news/national-news/spacex-dragon-delivers-mighty-mice-and-a-space-robot/1149205587
-    type: article
-    provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.277E7F1CBEB092A6AA33D4B6E0ED0A04
-        width: 700
-        height: 393
   - title: "SpaceX delivers 'mighty mice,' worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas ..."
     publishedDateTime: 2019-12-10T04:49:00Z
