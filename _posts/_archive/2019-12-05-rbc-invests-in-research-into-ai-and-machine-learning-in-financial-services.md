@@ -5,8 +5,8 @@ excerpt: "and machine learning in financial services. RBC Research plans to open
 publishedDateTime: 2019-12-05T00:00:00Z
 sourceUrl: https://www.investmentexecutive.com/news/industry-news/rbc-invests-in-research-into-ai-and-machine-learning-in-financial-services/
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: https://www.investmentexecutive.com/wp-content/uploads/sites/3/2017/12/AI_concept.htmlcharsetutf-8
+    width: 799
+    height: 599
+    title: "RBC invests in research into AI and machine learning in financial services"
 
 related:
   - title: "Unitek.AI uses smart automation to target roadblocks in financial services"
@@ -31,7 +37,16 @@ related:
       - url: https://www.bing.com/th?id=ON.1A552890CC0AA71EA2E1A659C593005D
         width: 207
         height: 155
+  - title: "South Korea invests in fintech unicorn"
+    excerpt: "“(The government) will actively adopt policies to scale up and advance the fintech ecosystem both quantitatively and qualitatively ... Korea’s big data market has expanded 70% since 2016 and its AI tech sales by 90%. In April this year, the nation became a global pioneer in commercialising 5G network services. Investments in new ventures ..."
+    publishedDateTime: 2019-12-09T00:16:00Z
+    sourceUrl: https://www.thestar.com.my/business/business-news/2019/12/09/south-korea-invests-in-fintech-unicorn
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 4
 
-secured: "qIZgf9cKOH9Bj01llUx7xOhyio3vchW9FMLylj1stdl3U1MicOjqusoY9psFh+HO6mLyexJkK4zvttZAyc254paqgxd90hYwKeAmxJs3S6WBhHgTumfShJdvugQeAQlQIWj7nfbscUTHFuicD+9FecUzw9JqkkG4VA4SeKbdHSRU1BdNWq5zYZB1PMLygiWq2WHWyZ6F7u/RpheOgmxCtXfRF72DMWe34jUtxduL/AJTYJ3E+01+IWweX/D7v9O1+SBmnv9RzfD+u9WVbRMmUA==;jV8ZP13AW4QfP0v0UMLwVQ=="
+secured: "sOPwPuybEPi0L0OFbbwJKggffODVQHK0g6fILSsQJJud3U97spj5LZSOBrUHvhkkemKFp+wtpfUN6Brb7SF4f/1CRWgrne2uIWt3Jbnk2W8rWERwbQVWSsrn9mqnbZuwlS6owEKnjjLIY1l7aXawS/B6n5oJ8CLf/M5p4BUkApAHke6/WlUI5uKaq5OQ2DF/jK//HGEoIiiVqEpuNcAwSq1lIOr0UjI1jzT2T91IQpS+Oc9InGnNT1V7I2spl8zwJ2JZxTp7E0v6W6LhZtu6fA==;ingQIz/FYaHNwi7wEqhjlw=="
 ---
 

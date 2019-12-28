@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/09/bosch-and-daimler-launch-self-driving
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/bosch-and-daimler-launch-self-driving-car-pilot-in-san-jose/amp/
 type: article
 quality: 89
-heat: 389
+heat: 369
 published: true
 
 provider:
@@ -331,15 +331,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
         width: 700
         height: 393
-  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
-    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
-    publishedDateTime: 2019-12-04T12:00:00Z
-    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
     excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
     publishedDateTime: 2019-12-09T15:35:00Z
@@ -427,19 +418,6 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
-  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "... are still lagging behind their US peers when it comes to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo."
-    publishedDateTime: 2019-12-08T00:41:00Z
-    sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.589574FB4DB7266DE63A7AD0FBF37E05
-        width: 700
-        height: 367
 
 secured: "Jb1B9U4YPRqJME3fgbPrQ7CvJqLzPxOAIT0bQqJ2wikQmfwnIKSwIHf3PViFSBvMuNLEM4NAEkFhIgfjPWhVddu+IChF5jIbny45iB3z0u7ygY0pRYqSM2dD+EDt8Za6zRVP5AY714MsbqTilGhPuyguQ/uXBNiOYlyz88cmOdlK6M7SB7NvTSy4MBeJ/uhHnoA/iHy0YjKdUc5pBOrAiV1cKAT47UxR9KNe1y1vQvyHatOzLhc1jDW/a7xI1geuaB5/FzWerHMtEsLqSy+wsA==;l6BZk415XSXy+/YQ987jcQ=="
 ---

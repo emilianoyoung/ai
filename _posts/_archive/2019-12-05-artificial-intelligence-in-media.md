@@ -5,7 +5,7 @@ excerpt: "One example of using artificial intelligence in every-day life is AI i
 publishedDateTime: 2019-12-05T05:18:00Z
 sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
+    width: 375
+    height: 360
+    title: "Artificial Intelligence in Media"
 
 related:
   - title: "The Artificially Intelligent Investor: AI And The Future Of Stock Picking"
@@ -577,6 +583,6 @@ related:
       domain: nature.com
     quality: 2
 
-secured: "V2C3LfyQfeouJKKeEXvNFOMKJupotuAvVtcnWQOgDrsgwLsAW3EHbpt5R6Abjvg4LA8M8UBtPa2OhXdxJoPEv1JHjlXzb3X9uN03kMk0klCCSOWGvRJSa+TNT7mlwYXYJnmd7hbWShSz6y98wWYGrbwGuxsW9xPg59BE/jDYX0oHubiGisjSXe7Ibvv8fzK4i2kJgA71uGdTT9RYZfTMZkaXu6KNsMa9P8Qrm/Kjdi+Jr7id4JP13pskKkwQJdSc1uhONBDF58gzJ6yxLrkIaw==;/dRhs26pLF7i2muzjvEBag=="
+secured: "o8WJoSBG/ak+BZqyOPivwJ/RkHwzAGQxlwlKM5lOmYiSHSgjofP4pCGlAVy8pj9VVi46NQAFpgQqFZGKv/vqijfRtxXxbFfEafTGMk+pubiwjM2FPO1D9epPa1/tYPu8uRYo70Ba043Uqhnm24tP9WtoCkFqgCtfZllug3OVZHLe+BvsLFXFOayUhJNoXx7PQFEmMt6+7bk+KMnTewjI3cjFLShUfNzrwBURie9Fu8P4tci4k7YxX9zk1Sm8kAMl8BgsXPMBvIpK2AuTS++5Dg==;QcdMVOW+D/C4LSs9eCn1Kw=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "The district used $1.4 million of the $4.2 million allocated to it thr
 publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ topics:
   - AI
   - Computer Vision
 
+images:
+  - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
+    width: 960
+    height: 640
+    title: "N.Y. school district moves closer to being able to use facial, object recognition system"
+
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
     excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
@@ -26,8 +32,12 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 21
+    quality: 39
+    images:
+      - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
+        width: 1024
+        height: 645
 
-secured: "xAZFLF4nx063JCxn+krggbAt2ZZoV9h149v8vYuyIl5R7KfMpBYiF9GrJJl0WvmKFE4+INxTd7vWMVegtT4cUVJyj/J4UUvDVtyjzR1fmHVDoGtvC96ChUz+L6Fp51p7FfljFEIf8GGmPj1t2zsnvT3ikpj4Z4blM2dKTowmDkiW2Cck0an5LwmJ5X7IAl12427OkEK4OCcyw0bWphhXHz5gXIi3qmxZLlQr7BOy0tSdjc2Y70itJig7rjP6LfTwOEk4RXKfWQnpDrmWT3xeIw==;wia/YQiihmL+410F/MrfvA=="
+secured: "e0dTABb5LiMysaGKoLKmUDDJ0ZQ6qkLfPrI4CGL+X0Y5yNTlHrxN7cOFhQA2zQCgUJt/ykI6Kav5yNbm8S8lGS7EmO9yWhWJ1bevXt7qTzkm57PFcUC4VB2bGih6RPIebP3UxOaE9XfyCPn06+8/tsbefMQL2rqpmlneIN5s6YjU6ltsDpElc9wIq5DTjoEa27mJf5ai7Y+zJ1f8+pP+ufCcVk7y8G+Di53QyzRkdfad5Vx1+pmw9tM4xg/mEDhOs+UWKBZXpLkuXcwpNxjQxQ==;S3bqjq335MP6lmsd4JtCYg=="
 ---
 

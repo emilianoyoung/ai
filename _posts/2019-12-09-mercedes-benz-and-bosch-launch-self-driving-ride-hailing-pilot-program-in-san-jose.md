@@ -340,15 +340,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
         width: 700
         height: 393
-  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
-    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
-    publishedDateTime: 2019-12-04T12:00:00Z
-    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 34
   - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
     excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
     publishedDateTime: 2019-12-09T13:27:00Z
@@ -423,19 +414,6 @@ related:
       - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
-  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "... are still lagging behind their US peers when it comes to achieving fully self-driving cars that do not need human intervention. From December 2017 to November 2018, Beijing-based Baidu’s tests showed that its self-driving cars “disengaged” from autonomous control about every 330km, compared with an average of every 17730km for Waymo."
-    publishedDateTime: 2019-12-08T00:41:00Z
-    sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.589574FB4DB7266DE63A7AD0FBF37E05
-        width: 700
-        height: 367
 
 secured: "m0NXMdSeyGXgyGdR8EcFV4UDye7dkgxCxx94rEAcfargTNd9DoPSKYJZunXLCZatszWLRjgQSQTLdGUKfGkpcivv+3YrfJMOytXe4S0QdFI1FThV2sHOw8/+yPxOC+qmRclcCzE0YPpemDVAB+8grgsYnahcEBlroRNVfzOaj5JjcXz1OvOkGp5y1gENTh8kmWuKSwg31a6LpKBtiNhIMOW/GWzObBLJX7yzC9dH9A3W83SJ16x2QefUxG9R3VVUcLbJiTQQId31R5JSCab4jw==;pt+CWaAnMi2P5SwXGG0FKA=="
 ---

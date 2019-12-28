@@ -5,7 +5,7 @@ excerpt: "The artificial intelligence (AI) market in agriculture is expected to 
 publishedDateTime: 2019-12-02T13:19:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+    width: 800
+    height: 419
+    title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 
 related:
   - title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
@@ -121,6 +127,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "4ReO+6uetkOA7Vh5CurfDO+fTIsQA088sw1bQomxGDOfUt8CKP14FHzp3f9MlvgW/YIE2I6/RuW2V6GY5X7x8brOGBeTMiRg4WNkqAf/zowjJ61UQvWrHX0gQU/zR/SnAs63I4Ebmu+xQsphFzW33w9k2JBUsBhh3sCdzHu+3+XsNi5+gZK0z3NDmDTGxFgsUj8rG44pcO+MnkYSpdJRvnX4Z0w3o7bA79tWLs1/5GoaT5aLQrG9Dseyc4e5hxZsK9bdzrxsLUnd879I3ig65g==;rP27UtSJS6Tgpcjr9u0b+A=="
+secured: "uZut1/aLf6ZlQq6PiqxwT5ojzmn8UPM+K8uv4nrMylmchrhBCwgiNEJbrWKd32Hv/BxRsK108uWYQksomp4zBnNxjwh0+8eFDHTq86crwC8TRavRZccvrEaxsl/J7dL1K/lH2AMc05IDtkmXq0NFln1NzBa1maAlGRLFXSj3Zr6enjX2ZJuCx/k+Zz8GRsgpfYl8LecuOtdPic3igbxUxmO/194sgakkIGW/vFE+xZWcn/KDXA+8Sqluqfp/Prx/1V0+p/EGBHkgW3gjj3Fqgg==;jaBiQVOCLZMq9eipw4aFpA=="
 ---
 

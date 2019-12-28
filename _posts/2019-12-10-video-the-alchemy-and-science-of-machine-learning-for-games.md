@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T20:36:00Z
 sourceUrl: https://gamasutra.com/view/news/355473/Video_The_alchemy_and_science_of_machine_learning_for_games.php
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 200
     height: 200
     title: "Video: The alchemy and science of machine learning for games"
-
-related:
-  - title: "Learn Python for data science and machine learning for just $10"
-    excerpt: "TL;DR: Whether you're a programming beginner or expert, you can grab the Python for Data Science and Machine Learning Bootcamp for $9.99, a 94% savings. Both beginners and experienced coders are becoming more interested in data science and machine learning, and there's no better place to start than with Python. This Python for data science and ..."
-    publishedDateTime: 2019-12-08T10:00:00Z
-    sourceUrl: https://mashable.com/shopping/dec-8-python-data-science-online-course/
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.CD944CF00FB2940F871C09183FBD964A
-        width: 700
-        height: 367
 
 secured: "DdYhdHWNgsH5JQEfK2bn3QnWHrXn8KUJmeimCLBjUUIo/pQom4BJ/G1j0iUKdLWBn4nTD2IHbTu+iXENqVA4kHmr3C+kO31Nxgn/z+urJFmRjsI0b/dq6dza1MFrJECDXbTNtEN2qC8pe5woaI3DuGl9Q+4hanm0ylJs/xwIwCVqU0ALKhRrcp76qW7TMwRSPyv2Z3gTWJq2ncZHrdxrwfCjc7dLYhqha9TrohxWDngdDsU4d5hlD4/ctDVlj8FqE0JIYlz2DOC96n8BvMKd3w==;/6AA6QjBXAMOV/zsLQi/hg=="
 ---

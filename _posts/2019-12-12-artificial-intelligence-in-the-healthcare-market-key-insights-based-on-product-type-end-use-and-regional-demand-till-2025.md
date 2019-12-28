@@ -118,6 +118,19 @@ related:
         height: 525
   - title: "Artificial Intelligence in Media"
     excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
+    publishedDateTime: 2019-12-05T05:18:00Z
+    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/375/1*uwHPv77FKTbvU-kg9Hx9cw.jpeg
+        width: 375
+        height: 360
+  - title: "Artificial Intelligence in Media"
+    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
     publishedDateTime: 2019-12-13T23:51:00Z
     sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e
     type: article
@@ -316,15 +329,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Media"
-    excerpt: "One example of using artificial intelligence in every-day life is AI in transportation. This includes self-driving cars, electric vehicles, driverless trains, etc. these forms of artificial intelligence can be beneficial in terms of road management ..."
-    publishedDateTime: 2019-12-05T05:18:00Z
-    sourceUrl: https://medium.com/@g00074665/artificial-intelligence-in-media-30161ee25d8e?source=---------2------------------
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 49
   - title: "FlightHub and JustFly on Why Artificial Intelligence (AI) May Be the Future of Travel"
     excerpt: "Thanks to artificial intelligence, talking robots are a reality. A driverless car is no longer an unattainable concept. Both examples merely scratch the tip of the technological iceberg. The benefits are impactful—improved customer service, business development, operational efficiency and more. Companies in every industry are racing to ..."
     publishedDateTime: 2019-12-09T13:11:00Z

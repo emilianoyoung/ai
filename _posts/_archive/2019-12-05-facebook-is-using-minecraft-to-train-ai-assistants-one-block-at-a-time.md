@@ -4,10 +4,12 @@ title: "Facebook is using Minecraft to train AI assistants, one block at a time"
 excerpt: "I don’t have to learn how to move from a location to a location, I don’t have to learn how to destroy a block or build something,” Arthur Szlam, Head of the Minecraft AI Project at Facebook Research, told Digital Trends. “On the other hand ..."
 publishedDateTime: 2019-12-05T11:03:00Z
 sourceUrl: https://www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants-machine-learning/
+ampUrl: https://www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants-machine-learning/?amp
+cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants-machine-learning/?amp
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: digitaltrends.com
@@ -21,6 +23,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "hb0JlluTLRQFWumMXwdYdBBXnnY9dh9gHrg4ngXhyuUJRKxyyuOsNxy+r055A/JrkqRRD1ZO6shqQ7QaqyHfq5DYuBtjIRGQTViAPQewKZKzWNa4WwUEzShL+GhxvR2Y9w0OYYESqBUlDn+W1mF9EtC95Cbpl7TdBzspraCtwytjqkwQLsSI28Iv1QhD1x7orSwC/BxD7bT4R+mSmvrkorEnE/9uKws4xwro/TDXUPa7CD3T7i/nztub4zlrBQt+Y6+ivIUTO9luSPLsO04gtA==;V+2w1MFqmGYw4JTmvAnuMg=="
+images:
+  - url: https://icdn2.digitaltrends.com/image/digitaltrends/minecraft-15-1200x630-c-ar1.91.jpg
+    width: 1200
+    height: 630
+    title: "Facebook is using Minecraft to train AI assistants, one block at a time"
+
+secured: "9Q8lh0cHFbrhYQAocs+xCNH7vHeNOoFr+G2BFi8PU5mL/Tujg80vrAVBM+MdsPWCz+6W5YROYIeyMX34pUmal9WvxfnCKMZ79qgD8lmx15+/V81TZ6gDvpBINaIbP/gXdpTNPbmFk4TGt8T5rREDty8zR50IlGEZH9GzCSFeQU7+eKKcdRCq/WwVnWTXBTguEvZdCcB5xKIQzf0IbTFKXO2eL54Cqwnozmt/vZq2/8d8JYWKc4NrBBtNO5AeS46cwUji9s8YVWbDq+KVDfuENQ==;1+zGsaSI0mTZQqvKUUH/nw=="
 ---
 

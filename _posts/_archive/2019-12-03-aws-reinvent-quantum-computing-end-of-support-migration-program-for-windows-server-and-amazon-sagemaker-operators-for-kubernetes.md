@@ -5,7 +5,7 @@ excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announc
 publishedDateTime: 2019-12-03T20:32:00Z
 sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
@@ -21,16 +21,41 @@ topics:
   - AI
   - AWS AI
 
+images:
+  - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+    width: 648
+    height: 420
+    title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
     excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
     publishedDateTime: 2019-12-03T18:16:00Z
     sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
+    ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 72
+    quality: 112
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
+        width: 1080
+        height: 530
+  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
+    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
+    publishedDateTime: 2019-12-03T21:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+        width: 936
+        height: 523
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -39,8 +64,12 @@ related:
     provider:
       name: IT World Canada
       domain: itworldcanada.com
-    quality: 34
+    quality: 54
+    images:
+      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
+        width: 932
+        height: 377
 
-secured: "460Z+cYGiFJr+V/PSYe6ZL+NXXI+a7KMy7vfHUHgXHSJg26LsHdS3244W7Te/OYsygIBgAT+wrWJiVo60XngyeofdgD7+l3/mvRnRHe+Rve1PlwThESsNhjQJIFcft9PqdZ50/80KTgp6HcacOJn0P8okyNxPYMP1BCTxACEEpd6PlpUAdT0SiDY26aUJFi6CIM5WFI+UINa4ipdNfRNRUnxTzhnMPW2mOy/US6O8T9nzfOcGOJWkcKPIbU/X8PzY3LG4ucIBWeHPaymBJjWUA==;9YYClGzkwx4sADtSPbGorw=="
+secured: "yXgeFol8Ld8iq98yumThLNKJEW55Fn+wMULzrWa6qgjl8xrzuNAIXOFl1jLn+MsBxRvvg2efE4VSOJy+eKefqZ5jaFp7pEkYXHI2QRBBOaX07k7c5a268xzpwAXc2lixB51AUHtvG9Ntjj6bWuMilxF6jOBb7bREuEuZEJW74JUV4UaT7RToRHYNkxxNK0R/s1yizwajxplU2KTqd5PQnKTvLsv/7dR1F4KrNyZ/PPlkLUDuXx4fDN/yVmORWFdoobd/Bxn88+rNPvvhPdUGkQ==;kOvPh1vZad4YENifSmhw7A=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "The foundational layer is the freshly upgraded SageMaker developer too
 publishedDateTime: 2019-12-03T21:16:00Z
 sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
@@ -17,45 +17,55 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
-    publishedDateTime: 2019-12-03T18:31:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out on stage today, one of the problems with AutoML is that it ..."
-    publishedDateTime: 2019-12-04T00:20:00Z
-    sourceUrl: https://uk.news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.37EFCB15EBCEBB08D866E9C9741832CC
-        width: 700
-        height: 525
-  - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
-    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
-    publishedDateTime: 2019-12-03T19:12:00Z
-    sourceUrl: https://news.yahoo.com/aws-announces-autopilot-more-visible-191207851.html
-    type: article
-    provider:
-      name: Yahoo News
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/bf34_9zA1x9udKMfeGt0sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD05NjA-/https://s.yimg.com/uu/api/res/1.2/Kipdanue94bp7NpECJMLcA--~B/aD0zMDI0O3c9NDAzMjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/fc2acd3ce9b593c3282d09a30dc20f99
-        width: 1280
-        height: 960
+images:
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
+    width: 936
+    height: 523
+    title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
 
-secured: "0Mrt0Pj5XUz7TBgG96NnPemsnSXzzL2eo/TS0Nc7DylBWLOgtQcx7+9pi96GHt8v4Pwc0cFiccEnWEAoCTAqfga0XRyNG8W9lSLcx/V89zizRN88TD2RHHlh/KBFwnKkAtkfUWC01rSTJ4LgMVC8RwFw38TT4Es04PoC294d6moXj9VQB3qg6YdbEQaunuLGx415KASi6hcsjX9GSIPpGq1P6Vg/FIWWpNcFxTx1KSc8atdxnHNr8IUZ0SGTmYSVd42K2DGKckqUjhr6YQvZmg==;7ma8h57dk3+cmPdTdkk1uA=="
+related:
+  - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
+    excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
+    publishedDateTime: 2019-12-03T18:16:00Z
+    sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
+    ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 112
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
+        width: 1080
+        height: 530
+  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
+    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
+    publishedDateTime: 2019-11-29T00:00:00Z
+    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 54
+    images:
+      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
+        width: 932
+        height: 377
+  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
+    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
+    publishedDateTime: 2019-12-03T20:32:00Z
+    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 53
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
+        width: 648
+        height: 420
+
+secured: "3Ug8R2VB5uRW+iTy6XNjB5XFXDbFa3LrIxxXs0fVR8aomoxWHHzkUxz9DUJDkUNyDUng4uuzgaSybidKJxzpHDkscMXprR32xQYVNjN/yTbZfed+RCpVzjogIj927NUeJ+wNGzhgdFh5YXDv97UWbBFtApyJPKtLDxY8Bk4QaYfReLb+KwIX5CdY7z+R22JOYRmzBokX/jRNJeFc/hCoNyeUELToY7bjVwq1VTR6K8l/z2LC9dCmY84uijG9JfIl8rx9k/FHMIoBbgoMeU3bUA==;8doewQGKSU0PSyHNdgNGNw=="
 ---
 

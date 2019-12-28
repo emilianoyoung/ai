@@ -65,7 +65,11 @@ related:
     provider:
       name: Neowin
       domain: neowin.net
-    quality: 60
+    quality: 80
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
+        width: 760
+        height: 428
 
 secured: "havF1upA3gikjUK8qP5bocOLFQket/RSI153sy70r4IuSuQew7ujJMDX6L1USQ6oBxp+hn+bPjrrIcZLPlEVNtwfOJXjrVkKXqFEwlTN6QWFLnEijKf6qBK6eT3xYtiFPzGX3jhx64ULwvxW588s/umUCUPy3vbfp+av+ENGpDz7dgQc8CH8KiI+HIEEi+Z4++cEKJZNOBPxgIBa4tAM8d9y8ooo9b7jcTBfB76BotH3tJ9WcBlgxUJ3x7e89jyRAcLMwe+mQJVw4Nao+2uUkw==;JLPISahp5C+bOVm6hwFZZw=="
 ---

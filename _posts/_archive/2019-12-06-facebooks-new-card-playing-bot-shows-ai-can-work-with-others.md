@@ -4,10 +4,12 @@ title: "Facebook's new card-playing bot shows AI can work with others"
 excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
 publishedDateTime: 2019-12-06T17:01:00Z
 sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: CNET
@@ -21,30 +23,27 @@ topics:
   - AI
   - Facebook AI
 
-related:
-  - title: "Facebook taught an AI the 'theory of mind'"
-    excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-    publishedDateTime: 2019-12-06T16:00:00Z
-    sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
-        width: 700
-        height: 367
-  - title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
-    excerpt: "As VP of artificial intelligence at Facebook, he oversees hundreds of scientists and engineers whose work shapes the company’s direction and its impact on the wider world. Pesenti joined Facebook in January 2018, inheriting a research lab created by Yann ..."
-    publishedDateTime: 2019-12-04T12:04:00Z
-    sourceUrl: https://www.wired.com/story/facebooks-ai-says-field-hit-wall/
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
+images:
+  - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
+    width: 756
+    height: 567
+    title: "Facebook's new card-playing bot shows AI can work with others"
 
-secured: "ZT9zXNBle5L/TQeKVGZk/l9hgOFz/UYn9YbjKy0hZkrwODf4iCLaoc3RV9on923EPj8s3DlGsI/pHYZXz1/0oi371wGfe6ftFj+/eKCpviEgBu3DIrsRO+NSCvXRklnUrsu7Ni0CqzFwdcWWuz2QbFtgYkrbi2lFw41t8RaN8M/G49+ZroYe6p66e3ACG4wR1qj4SUOO2v3e8wdaivxRByYBTZRITo0aMVsEhTWrVXOeihKVlyc0ByUQV1y8Gh7xPm2qt+sjBdnUZ/+KWdiRNg==;6Dgr1n7IsAPZf5kOCnkETA=="
+related:
+  - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
+    excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
+    publishedDateTime: 2019-12-06T17:09:00Z
+    sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
+        width: 490
+        height: 369
+
+secured: "Kmgvddf7JOMJ/p9w732dv+TMje/skQHuceir9Ko1s28RjEToTIf0wPyrf6s6sGOKRgOmu/WH4cQcQ4/ss3l9lzrBqrd5+YQzV01LkW7q0LlYVgUEeAzh8nhYeqaa3NzLx67gsj9tTNE9+e9OCVzkJ6IWLaAXr1oLZfk5GtecpI4+/DUnkIICiDOAyf1HoBa1uJBrKfno+HEm1Kz7QZ+gfRLrwklAHYQafN6oaDGlMXrIOXoSZfj/2CrI0bH+KR//i/80haR/MGNDVq9EaYMHqQ==;I6Zja1Bn8RLhXMwNF6VuJg=="
 ---
 

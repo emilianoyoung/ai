@@ -5,8 +5,8 @@ excerpt: "as opposed to the hundreds or thousands that are usually required for 
 publishedDateTime: 2019-12-03T00:00:00Z
 sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
 type: article
-quality: 21
-heat: 21
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
-  - AWS AI
+
+images:
+  - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
+    width: 1024
+    height: 645
+    title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
 
 related:
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
@@ -27,8 +32,12 @@ related:
     provider:
       name: Security
       domain: securityinfowatch.com
-    quality: 10
+    quality: 30
+    images:
+      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
+        width: 960
+        height: 640
 
-secured: "uoJSapkMxAA9+Tr0d/AeJ9Dlrt3kDKGI32uTycFv9Ak18f4HLS0Bs0H6gFpWWrLlGhoxzYEg0EkDtRG4tqmaVwnLCzmuCxToJEFMPkGCLV5xcWe+qcqtoa+bzP3W/TtgQesfbP0s06z/6ZkIs7YMJT/OFMn3p88Cmfy3m4C9dm5qWNyKciaKBlQ5j3o1E9yMW54t5mWqdiQGSap5HurQqNY8AKZpFxot6EwDP2KN0sogbnzMmJRJUXJ2gcLYf+jQGgHOUJV0X1bqlP/oAoMd4Q==;ZKphPpIqenFKYgIcH3UtLg=="
+secured: "L51URFBU4mQDdik+05hTqyuUx0y1cNGEFWPiILLhCkW7U1xoSYycYijtLcnRopdi8cHwPNey0XghsQJv5wSyD21NZnquuf4bt5fneVffhzoiHMVQ8x7+7xhRkYeELdWM7oT9Zt/wCrZbU+yFyWtX+YO9/a1QM4l0mfF+MRh7+q4nEGDTpEq7zHrk0GYGizpfurBTbFTCeXLKAWiVAt3oHDyoR0w3cE/rcLYWZJoRmsbO7ecgpaPONhy31cdektQVk3ilNR2VPnc5y4PGl19Edw==;m1Wrsgq6gLDSCQz/88yapA=="
 ---
 

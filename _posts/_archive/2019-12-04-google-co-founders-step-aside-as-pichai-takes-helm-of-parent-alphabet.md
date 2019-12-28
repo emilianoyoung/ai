@@ -49,8 +49,12 @@ related:
     provider:
       name: Deccan Chronicle
       domain: deccanchronicle.com
-    quality: 19
+    quality: 39
+    images:
+      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
+        width: 800
+        height: 448
 
-secured: "lLqSCH7UNOVLfqZf6Nfn9A8ALG92Ngl2TNpuHKlvGt1Q7xWzQOP3DrbVWeXhWLMBaPGtiumrqnuCmpuUxa+JbbpefpFb1ezMBdPueQzc6QzqU5ZHR26VkPBayv1XFXULv/tZ4Dcyd88vJ8bISfBOTkGvxNMZ9N9WB5bs2VHD3qWi5VNxJeqYMjflDhylvFkDU8vQtIHsHS2JlQZm+/EbDVGTQi5avaYHnB+scS11HtPA0NR2NhFprI7A5h8D9lsqXgjoLT5rYcjQKEDPav9yUQ==;NuF3KnGz/xkgFdMM/tGrDw=="
+secured: "VL49Wme91vHh4/pfxv2nDPn613ohv9pt1i3ucbZkKwuzbuDJEx4i+FotZi8mv0k8GqvvULrQjvlGIu66fEfiselNYSZ+GH+fSMz+eFlxVBldODKCrMxkb16/MitdSxzkGO9u7kN/se/SWrcynsKdKU1VpyIpYdBvP0KLgy/K3SeVdPCqrtk4GRQqfLceTioc9vR52I/NcjrbaWOAWf3avS8HYXS3XPGLxBCrabFryU0C4BGDAo9Vl+BYsSLArq3+Lz1V/Vfs7Cgti7epKAMAOQ==;41jZEDrzAxi+FOAQ59aQpw=="
 ---
 

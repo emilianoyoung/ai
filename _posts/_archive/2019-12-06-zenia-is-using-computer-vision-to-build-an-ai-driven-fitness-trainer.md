@@ -4,9 +4,11 @@ title: "Zenia is using computer vision to build an AI-driven fitness trainer"
 excerpt: "Zenia recently entered the fray with a mobile app that leverages machine learning, computer vision, and motion tracking with the promise of helping improve your yoga poses. The company calls it “the world’s first AI-powered yoga assistant,” and plans ..."
 publishedDateTime: 2019-12-06T15:16:00Z
 sourceUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/
+ampUrl: https://venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
 type: article
-quality: 64
-heat: 64
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +23,12 @@ topics:
   - AI
   - Computer Vision
 
-secured: "sULtVAw3gQtJgy0V42jOasCINUMRhKN6TPzRFCk086CdaoGRaBqCOnWlrfTY/1rbgE21gW01DZdXQ3NbWaWHyr5Y2rNKC0yEWQl5UleIHZ8ilOnIC98QjpLkhe9OLqRcKxWSLidPHLkBwchoM27CigCEnd6y5L49L0CoA5DBz4NESiRdysZLrDSBMyKsa/hASYnLo9cvyWgTNBrrDoh2KNBovCNl0/2/LusV2xzxwqYVYIsKlPYERPR6IDJgZOjtGcUThyBJ8faRYTIEoBP3jA==;5oEQUUerRQ14DGPYnLyuzA=="
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2019/12/rCLu7EPIt1g-1.jpg?fit=1680%2C840&amp;strip=all
+    width: 1680
+    height: 840
+    title: "Zenia is using computer vision to build an AI-driven fitness trainer"
+
+secured: "kHbA8Wh0egFbf0dOg4s1HNkwF3mTlEqNMrEN2LJ5OMgqn1aMemqAfR2HAR7X5GdRffazWBHotMqCBXgC5EhZ+rrrV0AMYh9T+SymulV3ey+whKBfCkIomwr9aT5wK/zUyZaytWJ/ErWQoO+2iLVIcWiXWQsLh+VqpCPC+mQ5fbhO3thIQk+sw1l6va3lVoNeOS/ke15YYQNURVNL+5STuXXgZvKgF4nJ2SjYUJiTEWjUIx2sz/hNHML/P9NoxiZe9S0B5TEfPezNGgR7R5kcSw==;ZPFCLs2xvRiUCM1/q1oV1A=="
 ---
 

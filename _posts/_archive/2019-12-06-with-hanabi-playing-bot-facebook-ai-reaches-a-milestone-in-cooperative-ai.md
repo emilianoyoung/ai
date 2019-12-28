@@ -5,8 +5,8 @@ excerpt: "Facebook AI, the social media giant’s artificial intelligence resear
 publishedDateTime: 2019-12-06T17:09:00Z
 sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,29 @@ topics:
   - AI
   - Facebook AI
 
-secured: "exaImI8Q6ficgdtv5DraA0hiXbofptguzXyDh37svGY+DzRo0e68QJiWn06kDHdQmWv4L1aNTz5GiAOGlM6crx5cDuVttwWuaVTvFgt8FbnOOVMd2lwnD2KOLZRskAFOhEpF2N2t9fxhlNcGZHFRnocYt4Rtk296Si+sN7u2vFJVrnU/yuMMoYkhZMzGkwv5a7vWpF/OYNP/KON2TYvYELRhUeZr7mFMWFlE2Gfi5m8w76Tjs5RFe5JxC6BrvrL7rgrZqeYsIDpiWSDH+l30Ig==;Pgruv68IqwMcAVpa4FfqbA=="
+images:
+  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
+    width: 490
+    height: 369
+    title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
+
+related:
+  - title: "Facebook's new card-playing bot shows AI can work with others"
+    excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
+    publishedDateTime: 2019-12-06T17:01:00Z
+    sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+    ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
+        width: 756
+        height: 567
+
+secured: "SmOdT6EC4D3FCbw8EGtygxzKON1AcdChNBR2bLO+yUktW+QTBG56MPxXCoQgB1cHQO864rMUVq5L6K/zbuzeaS8A9e63OmowRU86QZI9kg+zRmDgd5LzF2UPxRlUVVR6AROE1LUtVa0rMpS0aN53leEgc13rVpwqCBVfMWR+pllMG4nSGEQNWOQ4FwEPcgxZoAVzsSt0lKqPFFgHXaZau/NoETq4lz5PVuXLbgzqnla1nZkevjErd4i3e2x+HTw/BdY9H8mfrCI/OiuJWRGZOg==;1Ozx2N7DmgYFVBB9EYl2Lg=="
 ---
 
