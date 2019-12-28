@@ -1,32 +1,27 @@
 ---
 category: news
-title: "As consumers find value in AI, now is the time to invest further"
-excerpt: "Artificial intelligence has reached a point in its advancement where the masses have an understanding of its capabilities. In fact, consumers already see the near future where AI simplifies specific tasks of their everyday lives such as booking travel, educating them, preparing their taxes, and driving their cars. It’s no surprise that the AI ..."
-publishedDateTime: 2019-12-23T12:10:00Z
-sourceUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/
-ampUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+title: "2019: The Year of the Face"
+excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
+publishedDateTime: 2019-12-28T16:45:00Z
+sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
 type: article
-quality: 87
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PetaPixel
+  domain: petapixel.com
 
 topics:
   - AI
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.383123F8C62131FB51E5F676CE178CD2
+  - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
     width: 700
-    height: 358
-    title: "As consumers find value in AI, now is the time to invest further"
+    height: 367
+    title: "2019: The Year of the Face"
 
 related:
   - title: "How the ‘big 5’ bolstered their AI through acquisitions in 2019"
@@ -44,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5B5908183CB222A511ED3A7C978F19AE
         width: 700
         height: 366
+  - title: "As consumers find value in AI, now is the time to invest further"
+    excerpt: "Artificial intelligence has reached a point in its advancement where the masses have an understanding of its capabilities. In fact, consumers already see the near future where AI simplifies specific tasks of their everyday lives such as booking travel, educating them, preparing their taxes, and driving their cars. It’s no surprise that the AI ..."
+    publishedDateTime: 2019-12-23T12:10:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/
+    ampUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.383123F8C62131FB51E5F676CE178CD2
+        width: 700
+        height: 358
   - title: "For All That AI Can Do Today, It Still Needs Humans In The Loop"
     excerpt: "The best way to look at AI is as a prediction engine. We now have recommendation engines to predict what movies we want to watch and voice assistants to predict what we’re saying. But when we use AI in our personal lives, near-perfect answers are often completely adequate. If we only like a couple of Netflix’s recommendations or if Siri ..."
     publishedDateTime: 2019-12-23T12:19:00Z
@@ -85,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
         width: 700
         height: 373
-  - title: "2019: The Year of the Face"
-    excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
-    publishedDateTime: 2019-12-28T16:45:00Z
-    sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
-        width: 700
-        height: 367
   - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
     excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
     publishedDateTime: 2019-12-18T18:14:00Z
@@ -112,6 +109,6 @@ related:
         width: 400
         height: 267
 
-secured: "fY25GraI3iE4FcokpjSOmXZ12TsljZp9vo/QVR41orFMzRh+mK9GhRzkBzwll68LIcXtAiDect8GJPYRCM0AonztZ80C1Uf9wxZkSAr7mi0nWlsRObnEFIPElVt4pdMr+Fdy1SoCydCSbcxKyAcS5g7gLzecYWntH+hozDkocfDRqzoXZrj8A4D193veE/TiECYZlRFS+mvnpZ9jU6Mw4Kt/MsRolzMr4u3ONmmmC4G52pTzW9ctZCYCt5Y6URq7WxWK8i1eLhMqXUKgZv8LpA==;UL2Qin8ATQr6XkcWGU+T7Q=="
+secured: "eG3zL5hsmnAWzq8IDZTEnvWuLEEQ7f2PN6k08SZwZYtz67HKlPcCJP7yTGGXBj08m5JqtWTWP5gJ6Ic/A+6DP8gE710dNgybTTjPBj1RYZ97sYoQPd3OfbaxgXCwSaFkRdbbgR/C5QmY0pbejvf3KOgdBE+y6GLZyB8IXyUmpSndriJUqGaGM8VRUALDKTiTIiuMB0/ppCL6f3UaKnNQ59Ps5uhhI1IgXCxCPBuSA1Z2/JIJ3Xc9mUDmhAx9Sw30QqFfcr/ra6ryJFdpFrzfNQ==;sLslvlW3oRAvMVVbU0Frpw=="
 ---
 

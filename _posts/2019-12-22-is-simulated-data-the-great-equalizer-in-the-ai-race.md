@@ -86,6 +86,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
         width: 700
         height: 373
+  - title: "2019: The Year of the Face"
+    excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
+    publishedDateTime: 2019-12-28T16:45:00Z
+    sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
+        width: 700
+        height: 367
   - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
     excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
     publishedDateTime: 2019-12-18T18:14:00Z

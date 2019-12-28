@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T07:10:00Z
 sourceUrl: https://www.msn.com/en-us/news/technology/that-ai-robot-that-had-an-emotional-meltdown-in-space-got-an-upgrade/ar-BBXVP5p
 type: article
 quality: 137
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -96,21 +96,6 @@ related:
     quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.957D0AEA98B9221FD6533941D2FDBE01
-        width: 700
-        height: 394
-  - title: "That AI robot that had an emotional meltdown in space got an upgrade"
-    excerpt: "The spacecraft is carrying a whole bunch of neat stuff to the ISS, including an upgraded version of an AI-powered floating robot that lost its cool when interacting with its astronaut handler. Roughly a year ago, the CIMON robot was being tested for its ability to act as a robotic assistant for the scientists aboard the space station."
-    publishedDateTime: 2019-12-08T15:08:00Z
-    sourceUrl: https://bgr.com/2019/12/08/cimon-robot-iss-esa-ai/
-    ampUrl: https://bgr.com/2019/12/08/cimon-robot-iss-esa-ai/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/12/08/cimon-robot-iss-esa-ai/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.AE0136B3AA8FCAF6ED87D021E7F1FE2F
         width: 700
         height: 394
   - title: "SpaceX Delivers 'Mighty Mice,' Pest-Killing Worms and a Smart Robot to International Space Station"

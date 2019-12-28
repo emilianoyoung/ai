@@ -94,6 +94,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
         width: 700
         height: 373
+  - title: "2019: The Year of the Face"
+    excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
+    publishedDateTime: 2019-12-28T16:45:00Z
+    sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
+        width: 700
+        height: 367
 
 secured: "dYdlkxeT/ByLDC512be2VxE2jLY1nObwVLrdDdhVxfSrhS0y9cFVQampq4qPGsPYYUL3L7aY0Pb0qNoWXbQvsAX8ljvTo6vTBlu0C+YixZUaYHPEdp8M9d3kx5vUYw6f73PcfYiNGLxsx8MYK5LxYBxODW+RxLti9zZhPqAvAKF1ePvUevTnd/o/ejHP3ChJFEvDDSOVQGa6ftjS9L9kPGM+8fclP6GDyWOFoOut/rG/rkb7amgOMm/1bpnTqXQiUzT1d2fxmj37KfFqZY8emg==;rCSrIve9MVTBw3qxFb84Ug=="
 ---

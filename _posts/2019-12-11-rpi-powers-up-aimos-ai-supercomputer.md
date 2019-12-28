@@ -39,6 +39,15 @@ related:
       - url: https://www.bing.com/th?id=ON.FE7EBAE9366D37DB294FC5F53C95CD81
         width: 700
         height: 426
+  - title: "OpenAI forms exclusive computing partnership with Microsoft to build new Azure AI supercomputing technologies"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2019-12-14T16:19:00Z
+    sourceUrl: https://www.bloomberg.com/press-releases/2019-07-22/openai-forms-exclusive-computing-partnership-with-microsoft-to-build-new-azure-ai-supercomputing-technologies-jyeeeo53
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 60
 
 secured: "+hWyw1lfjQz6p6zCwwRHJkg52NE3I/0Mqgfws7URfBuGKaQjNluTnX3THaj8r+mmFMKJLBS6a1SdQurWv6SgadY0htio8IJ5+0D00mAKsX9S37jB4Rn1ayc+FxCw2ajsF7XJGX0FwhU6DdfZ3vfGPZd+p34G4i+KgxI3oHGkb4MWV/rjxUfsQ5f4EGrCV44+e3n9zNLufNpCx/Q/XBM84COIG6DCO/Mm5Rj9wODqNE1qRxZiG/OIDc8/jREVsPn+BKMxmEc+zozFa5SoxyaIrg==;Lt12icm9/dmQWimGXyRgHA=="
 ---

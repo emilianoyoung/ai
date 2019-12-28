@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -121,6 +120,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "If4B1FsedAHqUEdzrwSR6g7kKsLaQawXNjPq+tGAjEn2dtlBGhsIBAzBkO5e/2Lrz5Y5nwADS9e4lLAMxvEt7m1iXiFB6P9WxXE6p4PDyh5LZnEvcHZnnUXsUUme0sI9UwaSDaZ62Hpo2n19/WVPb+t5oAxDRWxnDQyyo/c9gYoWba9iJ+r+SD/PpvrVV1pR8MxvFEAO965dyUNN5fT+mtWVtgkwKUhORqeX7Eq3VCmowOJ5v+AOLo64yu6OZTmm01RrqvTQ2DXDgxx0a4gOYA==;67SscKIUpWyYmBPrvQjVlA=="
+secured: "gSDPuH3Q94Be2h7IMymA41yLi5fZcce1yBRDRAP5qox1w6dihum5O9y2KmZYGVvZvTDixj+93NDBXS0svhrkHDcvR6ZN7dSNIdmDvOUKJM8ZsXs9pGmNrfIjD+iKgo9ZtKIxb/WfNg+BuuogEUxU2Sn9/7FmHJa1V27RA3JgStzSFKRKlXLzgZiyq+SvGBO0PC4qK31wxvG3X3r70AlkTMzMaArdhEhjtWsHIak5QHqHgiKW9OmXpxnk27271meYGZjkxuqWNWhA0bPOFjrBqg==;y3yk2Z++aIV0ta2blllTRw=="
 ---
 

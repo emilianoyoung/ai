@@ -116,21 +116,6 @@ related:
       - url: https://www.bing.com/th?id=ON.957D0AEA98B9221FD6533941D2FDBE01
         width: 700
         height: 394
-  - title: "That AI robot that had an emotional meltdown in space got an upgrade"
-    excerpt: "The spacecraft is carrying a whole bunch of neat stuff to the ISS, including an upgraded version of an AI-powered floating robot that lost its cool when interacting with its astronaut handler. Roughly a year ago, the CIMON robot was being tested for its ability to act as a robotic assistant for the scientists aboard the space station."
-    publishedDateTime: 2019-12-08T15:08:00Z
-    sourceUrl: https://bgr.com/2019/12/08/cimon-robot-iss-esa-ai/
-    ampUrl: https://bgr.com/2019/12/08/cimon-robot-iss-esa-ai/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/12/08/cimon-robot-iss-esa-ai/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.AE0136B3AA8FCAF6ED87D021E7F1FE2F
-        width: 700
-        height: 394
   - title: "SpaceX Dragon docks with space station, delivering ‘mighty mice’ and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
     publishedDateTime: 2019-12-08T20:40:00Z

@@ -23,6 +23,6 @@ images:
     height: 466
     title: "A researcher in India is using AI to solve monkey business with Microsoft’s AI for Earth grant"
 
-secured: "FqrQW1zC/7v2xi1MeL/+vd8VllSo6Qzjo60bUUiiTo5oSVW/rNJ+CvH24rMpgtgHHIcfT9PXdeCNAKGBNZup/XszEEwb6H3NULERYohYsz/2XDLvTgPHXBtAdWrLGf1Uy8Se/rIdCUDKTWEuxbpSN0SRKruKoEKdqkVbFtkDIzlpJf4ldIYDA4jO4eIITLg44anoLtnDBgqYV/Whvc2f6pYGdXwCid8XXYZGWUuzYMIBADenu/lMcLbaAvlgP6MYSzt63MpdhuDeK7GZicNaZg==;1FSLMtxWirKG7v7GCnOHEg=="
+secured: "joLZ3+ciNuXCdxIiPTh4/MZ2axbA2uH5c5TB5D7ssYKo3qro+rObDxYuXpi7A6zWVkpCPWBez86gxTnvmdSHqDMH+1v2Tm6F/sp7FyawlhPY6LWMZbPf397nUETXy1VPXmD6+k26WnB3xSr3d3PQRoXjvzRwiIhn7NS5UPWCXKwdJ9dg/vrHlLSVEhi9c88WidHjf7VDhaeLpGDdJWv5Cf4M2miNVB6VfkEHF3yMcyvA6ZtMKMVqaJHB0k6yiqFJLfaGLCYzFzHEmeUIWpniOQ==;tDJzAQmyks3oUfZk8hQipw=="
 ---
 

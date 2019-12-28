@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
+    publishedDateTime: 2019-12-21T16:11:00Z
+    sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
+        width: 700
+        height: 393
 
 secured: "Ut1XBX1fK6PcbQ/Tb7K7XyJkkvi9shOpr5ilIc8gIluYKBMbH/cWuQZrFtaddA7p9+zpcN3dxcyhlBxHiNeQ1lrSFRMKW+2Lp/nUKaHNBCrBcM85BhuLIakF+Gi6kDp6LwIuyR9pAx56241gEk0+WJSV6gyV1s+YJ2cICRPzoHtbrf6+dv0fhk/cFwFIOdSd3hfGYUHHEPQoVjB8xfx1wPyXSYqsEE3xC1yhwLIqnKO/MWdVWyDZKzcVdJfNzlosVSuaTNGyW8DDt9wC8HP6rw==;BqejViTXhpNAOgBI4tp5sQ=="
 ---

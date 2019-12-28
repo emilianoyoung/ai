@@ -8,7 +8,7 @@ ampUrl: https://mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercompute
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercomputer-to-azure/amp/
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     title: "Microsoft brings NVIDIA GPU-powered supercomputer to Azure"
 
 related:
+  - title: "OpenAI forms exclusive computing partnership with Microsoft to build new Azure AI supercomputing technologies"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2019-12-14T16:19:00Z
+    sourceUrl: https://www.bloomberg.com/press-releases/2019-07-22/openai-forms-exclusive-computing-partnership-with-microsoft-to-build-new-azure-ai-supercomputing-technologies-jyeeeo53
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 60
   - title: "RPI Powers Up ‘AiMOS’ AI Supercomputer"
     excerpt: "Designed to push the frontiers of computing chip and systems performance optimized for AI workloads, an 8 petaflops (Linpack) IBM Power9-based supercomputer has been unveiled in upstate New York that will be used by IBM data and computer scientists, by academic researchers and by industrial and commercial end-users. Installed at the Rensselaer ..."
     publishedDateTime: 2019-12-11T18:31:00Z
