@@ -68,21 +68,6 @@ related:
       - url: https://www.bing.com/th?id=ON.87E26E42599DA080C5297DA690846B61
         width: 700
         height: 466
-  - title: "SpaceX delivers 'mighty mice,' worms and robot to space station"
-    excerpt: "Plus there is a large, round robot head with artificial intelligence and Christmas presents. Barley seeds used to brew beer also were inside the Dragon capsule and delivered. According to the South Florida Sun-Sentinel, Anheuser-Busch wants to learn how to brew beer in space so it can -- one day -- do so on Mars' surface."
-    publishedDateTime: 2019-12-08T12:46:00Z
-    sourceUrl: https://www.wtsp.com/article/tech/science/space/spacex-delivers-mighty-mice-worms-and-robot-to-space-station/67-d2cb7d33-a721-44ce-b24f-e1a2fe0207ed
-    ampUrl: https://www.wtsp.com/amp/article/tech/science/space/spacex-delivers-mighty-mice-worms-and-robot-to-space-station/67-d2cb7d33-a721-44ce-b24f-e1a2fe0207ed
-    cdnAmpUrl: https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/science/space/spacex-delivers-mighty-mice-worms-and-robot-to-space-station/67-d2cb7d33-a721-44ce-b24f-e1a2fe0207ed
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.56C0B6F04D50BCABA51953EA5E89C54A
-        width: 700
-        height: 393
   - title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. NASA has tucked some Christmas presents in the shipment for the station’s six-person crew, as well. It’s ..."
     publishedDateTime: 2019-12-08T21:23:00Z

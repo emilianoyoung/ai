@@ -249,6 +249,19 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
+  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
+    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
+    publishedDateTime: 2019-12-10T15:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
+        width: 700
+        height: 410
   - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
     excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
     publishedDateTime: 2019-12-10T16:42:00Z
@@ -314,6 +327,19 @@ related:
       - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
         width: 1000
         height: 562
+  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
+    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
+    publishedDateTime: 2019-12-09T15:35:00Z
+    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
+        width: 700
+        height: 459
   - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
     excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
     publishedDateTime: 2019-12-09T13:27:00Z

@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "9vPu0Nl7Fpq+n8WVFdtPOgBSEqU3P+kVjVm55RCeOTfLt0toqZMiJ0+YlBBjBYLTGYu99qJ3HicKLBi4pf+nipDCqlBXHiMuj7Wt+lqiCV9kxG6ctgSy6hmMici0NyntVqWffkIYR37OYnDOWyPphdUC/vxT0Q3056ySYqGLuhhy3zfYrQfAGLhbupX/T9zN/vBo9EahMTDHe3Qpe9T1Vhd5QoPaoYLgeWtHs20Zs0Is+FwSy1cFub/IOLh9P90QNgjICvKzucGqgcRKufIYbg==;LbS+x2A3Jl8u4XJqkZSCnA=="
+secured: "vs0DqqI7KnnRzhT5wgh02KvFSyexHI1wIG+SKWBkCx4HI/XUtXOp+43HOyBfXmtg4S89LUgS0JwaVZrcQk37EN/2c19YGUWTy5cmySf5dY9/3aXF0PCsX4gW5wjc2Rp50u4e8liCSLqLIF4onT+R8SzexAAbtAxOudV5OYu5z++LrJdY5iRJ+IihGZVS7jRNl35qkZTLYXLPW7GbOxlQXq7dLWmzlJNUQnNA1IxJF9ZTUzIxFyNBlixOBz1Ri4urIj6dCRTUqWIgMbDITRtTWw==;BSC/3URSXRTOQrQtC974kA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 24
+    quality: 41
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "kV9+BJpi3yTfacZ8kvmBRdSNN8M3ItPEM/xgs+5wEwm6wAAiFfBhuA5U3hJU3DLxEjpGd0+v6I25bssDHSTnyzclHCxkik3sElKbS6z+QixlccCNkZpXtkiRQQ3j8qM6lG9DE/7/gtO540rLZpr1tbTnwfOiLpI2qsbIOSy5RXpGSu56qNG7OmdGnrNI2iDkDfStlwMnVTseBWr9BSwN+/EWiIBaCuT0NbM3k1YiuBjBf0mQpfwR9EaZ486w0stWUKBYF1E6oFM2jZU+zcOA7g==;q5N5wH4mZS4IYcqN8R4FeQ=="
+secured: "e3PD9yzaGTS6ACLZargh+0PTN2IHX9w7w9PWqQeS7d5vP3o6b+hLEtP9PLgAk13SiBuR5FQ/Rc8iFfWN554gWIo+zwuHZWiC/YqWctfKjI6+tblZWh7QLuU8zIASIM3O2hJ1ZyT6+ltjoEBwm3A2vHYYYt34jmVV/qIs7I7fn3XmphqkOJ6u8POZZl6Qk7FwvJ148muKk2D5MbfeQEDiS+actw+XseQv7Dgn8dq4ht8NVa5iXREY3Bu+JN420lQYS3tGSvgqvrR3FvrqrYvgfg==;EmwGb2TVrYnLqw+VvOTgZA=="
 ---
 

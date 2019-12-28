@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.87E26E42599DA080C5297DA690846B61
         width: 700
         height: 466
-  - title: "SpaceX delivers 'mighty mice,' worms and robot to space station"
-    excerpt: "Plus there is a large, round robot head with artificial intelligence and Christmas presents. Barley seeds used to brew beer also were inside the Dragon capsule and delivered. According to the South Florida Sun-Sentinel, Anheuser-Busch wants to learn how to brew beer in space so it can -- one day -- do so on Mars' surface."
-    publishedDateTime: 2019-12-08T12:46:00Z
-    sourceUrl: https://www.wtsp.com/article/tech/science/space/spacex-delivers-mighty-mice-worms-and-robot-to-space-station/67-d2cb7d33-a721-44ce-b24f-e1a2fe0207ed
-    ampUrl: https://www.wtsp.com/amp/article/tech/science/space/spacex-delivers-mighty-mice-worms-and-robot-to-space-station/67-d2cb7d33-a721-44ce-b24f-e1a2fe0207ed
-    cdnAmpUrl: https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/science/space/spacex-delivers-mighty-mice-worms-and-robot-to-space-station/67-d2cb7d33-a721-44ce-b24f-e1a2fe0207ed
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.56C0B6F04D50BCABA51953EA5E89C54A
-        width: 700
-        height: 393
   - title: "Robot arrives on the space station to keep astronauts company"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
     publishedDateTime: 2019-12-09T17:24:00Z
