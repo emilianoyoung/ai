@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 24
+    quality: 41
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "v/KHzGjvhQ3lKea4k5Aqm9XUI1ugn5e8BuoVSejzVYoNyBCO3Uk0oE9mKDGtfy8rPei7vVAiaed76RfHYLLflWsbW5W7GkcEnZRlF948maQszA+sjYzjzdRrMFj2+4YgldVN3yVb2m70Eh6J3m3my2AeJtmmpsVrBEENtEJq8UFMN8D4M3TRZyu3QLUxDgMPd4dnhY8/5CwkDhoJkx6DzauVXzX8FVlpSB9IYQ8d4fAibgM9d4/ftiKV3q+nHdI8OpLW3jxsLtKmQ2r2PDb2mA==;PKLTLqYplGKJQcLElIgWQQ=="
+secured: "h/e9vYrk62h7JEjC9abpjvEa7slYqSB1MMrDo5uqtL8RGk6cnMMQTLWJEnaMlwDv9xyWQ7zQYPoFKw7wEeO2c9VFP3bedNEyVavt9bagoCKIAp4dvaFQGU+NgzmbtWlhTaxkhferTG+B4g0q2JJnrw251LLLRL3QCsjHElQYIs9S5lt3TR4Fyx44PlAEPVpqVmBxJX38ykNgjPIs3eMgppKJfvuK5FOPG1hvGUHQVFnyYKASMmKz3+E+JSHrxnen9HdtXptMyMbz9kbQcT+rQQ==;lHTmmBTYjRiPMkGQgaaW3Q=="
 ---
 

@@ -1,25 +1,27 @@
 ---
 category: news
 title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
+excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
 publishedDateTime: 2019-12-05T17:34:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
 type: article
-quality: 49
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Google AI
+
+images:
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
+    title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
 
 related:
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
@@ -101,6 +103,6 @@ related:
         width: 632
         height: 422
 
-secured: "h4tyhUBdM3rw8djxoD0t+l8kAx2FUtYDpKpc/NFQpWBex7RzV0pa4bPO9rSoSScFiSE3kRvHVHagpMA3OsjiATMZpATwlH8Io8ytCTQH2UfrA5cnJsyAmr3bPgEym7uty3RqbBt7fa04LWKnCLscy2vkNPmiPf/YC9ojrOxivCX/fzNLTNhEZzuvGVuxTnaCtRbrl04SCHeaWt2Dq+KunlnjwurpVQ/VMToBIRviTFV6bvun61d99d4RYjaV6M5ZpoKRAw4FX3ZFhp+Mbt6XAA==;7qRF0Nl225I6leZwB01LNw=="
+secured: "wv8gDez5G7sAtp/s7HPnEeL6LyItDUevEaGq82cDiW39DkeTYN5fZTSSJYW3mvBpKJe+FW0LfcLQd4/XZ8Ph6msIIdYreer3CW9s6hQC/oLjHTE1wkLQLBBXwSLhTftJ4P1sQgdCR060W108teFpyoShnYeAZUJO6apX+D/S4eoqQB+FsRoVIUWeDReZWCvNLoYdDs6WAcxTPDBkhX6HGKT4VBdEnadRX+45GC4UIYJlPCOSIHQV1WL92w5FxtgWRX4kkI4gb5eO/IBE4CAHvg==;1LCQQSpCmB2iqYvk4t8bGw=="
 ---
 

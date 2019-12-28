@@ -62,14 +62,18 @@ related:
         width: 2047
         height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after controversy ..."
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-05/deepmind-co-founder-leaves-to-join-owner-google-in-new-role
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
     publishedDateTime: 2019-12-06T10:24:00Z
@@ -97,6 +101,6 @@ related:
         width: 632
         height: 422
 
-secured: "Gui+kIWhmm8yjBxAWSfzFG96ajTEeJnepTk3k32j234+7I+adnGbfXWbL4eruoBj9l9a0k0Iet2c0JavKsRipbUyVLoElC6FlZvuna7BgCM3JyVM2U8QcAPQDbPhXVta7kTuLQnLPS8+CEdgRbvBXDQ1lxO65T4KLexIoB1gXR+79X/tKoixfiVFWcoN7pG6wj9M1Y65qpD0beXNcHWPtKh/GiXnUuukB490GANGOrfA9k/8hnPTRA0T2zBrRZVD6wTTshhEE0H+IUz1G3HFDg==;t3AebrEQlSwpeTMyInLqMg=="
+secured: "56cHZ/atORDQEBIoM1q+mmJKNMLpKll8PaqcV+a8Ezn8H0t5WW9qs72jQbFRtelc4fABm+OkzYeU4p86joJkxGZ0NUSGYrCoT0u/ipazozHVnt9BwTrzg5MBa271YcD9dTIYJdAzmuitjjbC2XTqsFGdinpia0wXbAsP0BhiX3ZbSOxG9VouCgycudx71JQ2U51z8uLCKgKovdW/GaMIgIREIvW5RGyEmLYK2oqm4PRmfZ5B5PENCr+36kuXiGs6qE/LYH61cCySbF4B6l2rtg==;rFXl/Y3LUT9J4Dod7DVIYg=="
 ---
 
