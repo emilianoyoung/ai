@@ -101,21 +101,6 @@ related:
         height: 394
   - title: "SpaceX Dragon docks with space station, delivering ‘mighty mice’ and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
-    publishedDateTime: 2019-12-08T20:40:00Z
-    sourceUrl: https://wtkr.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/
-    ampUrl: https://wtkr.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/amp/
-    cdnAmpUrl: https://wtkr-com.cdn.ampproject.org/c/s/wtkr.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/amp/
-    type: article
-    provider:
-      name: WTKR.com
-      domain: wtkr.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.E09CFAF8454C618CDE2BA84EEB836681
-        width: 700
-        height: 465
-  - title: "SpaceX Dragon docks with space station, delivering ‘mighty mice’ and a space robot"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
     publishedDateTime: 2019-12-09T04:22:00Z
     sourceUrl: https://fox4kc.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/
     ampUrl: https://fox4kc.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/amp/

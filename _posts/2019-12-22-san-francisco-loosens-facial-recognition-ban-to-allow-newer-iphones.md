@@ -1,26 +1,21 @@
 ---
 category: news
 title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
-publishedDateTime: 2019-12-22T20:34:00Z
-sourceUrl: https://www.engadget.com/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-ampUrl: https://www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
+excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
+publishedDateTime: 2019-12-22T21:34:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfMnE
 type: article
-quality: 172
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
@@ -1805,6 +1800,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "mCQltESm8spCYp+BL7epMOJmFrhzXxarm1Gj6ctqTzTLUPXLUfdxm1J0taCN338JbPGVPrVE4Zl0WaWEllUSP3GRQ5wvRII4xJJB1Vem16TMgBad+OQKy5cfH8lKxXDMYZJeU50U3ZwHba3r37hMKWukjoFhfthrGI8Hh4wsMq3WWNqjUi9ICAuhaM5Z5+fI5LGew2wve8XoyuAAXE4jgm9LekOaT44bAiEuL5EPa+tBb4reot8/ITlxQ8+MGIQswskbE0HKgrCJzx2EEIhT3g==;lTHt2mmVSPmVMV7lypoVqA=="
+secured: "jVuJUChC8kL0hAhCPhnrJpKpW99l16dMN1m77mA2NeG6NEI1sYKa70vTVmHhfDIYuVq7U/xlGWdKUsU6fDp+MBD71hXD/hEwmipRQJND1g8yBotgr8AwNq7Wdw44tgIq9wyYFKBLivqB+fHBP7QTDbgSlYrcp25rnY/iPNUAxauFz6dcK9IbYf1WCJ5KsnRfrCOg0pH+d6YIY8lQF7y/dpTSxyz+JalNBPsvIR/nXCt18Yo8bnBfSWoWlLeBlgqIle5TzTv2/lUZniZ1lnx68Q==;fzU0RcrADTFkR7csUBQSrw=="
 ---
 

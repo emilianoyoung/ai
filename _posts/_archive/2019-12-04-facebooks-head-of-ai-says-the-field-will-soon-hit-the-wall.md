@@ -42,6 +42,6 @@ related:
       domain: engadget.com
     quality: 69
 
-secured: "TyIq+MuiV8WpQMGb+O0CWaQ2NPg5YkGJtgeUjwpeLg490eQz1Dl1G30UtBTATSnywGyPz6Qv/MaSTOLvqYNFXVYixB5WXh83DNEl2CyW5+fqSpy4Yj3kMQkCcbOSbpJ/+BNCfxs42+X8f89Y4O+sQEkufYI4C1oCQsHn5SvmlhMyx57CsOQN/LWtZi6mm5RxDgcKcGrPPorrh6K8gzNQp/IAvW6ViUkVG8AzjvQSCAVUQc9mQ1ArXloqgk3wFA434mDA/PLI9lwBBBLY2geH2A==;7ITPJ4h8O5tMpswRRDqYKw=="
+secured: "+l4pp+c5u/VcmPKgCP+uniBCxPuua96n+VdDikk6600xQto/y1ijm71mT6RCcgShI4rW6Vd8j12zvN0K7KyObtF9KMKK/9f+I5ibY1RwSchVJ4ix0t5fF5nKcz3HAGkpqn3WO0sA2L+/JeJ1i5v5+i6w7Irmih934ZId8XWhis+Pd3Fx5DzWMlRqJCeQEN+0I9Jm/mUNISxgvLpNyi0XtqOHgLtXnYX6tZbU6RTM3dmtQogSRBAkjsj+6T2Y7deyprE/yjwH6CYPDvK9M/q/Mg==;+BRcLT5f/W31geMoL6jaSQ=="
 ---
 

@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DA999978419E4CC8B8B6DD228E70B5A3
         width: 700
         height: 366
-  - title: "Self-driving Tesla slams into a cop car — and the driver blames his dog"
-    excerpt: "On Saturday, a Tesla Model 3 on auto-pilot crashed into two vehicles — one of them belonged to the Connecticut State Police, according to ABC News. So why was driver relying on the self-driving software? He explained that he was checking on his dog in the back seat, said police, who were called to the scene in Norwalk, Conn., to assist with a ..."
-    publishedDateTime: 2019-12-08T20:57:00Z
-    sourceUrl: https://www.marketwatch.com/story/self-driving-tesla-slams-into-a-cop-car-and-the-driver-blames-his-dog-2019-12-08?mod=moneyish
-    ampUrl: https://www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
-    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.FE7390891F41DA6AB2A16B95726FAAE4
-        width: 569
-        height: 398
   - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
     excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
     publishedDateTime: 2019-12-13T12:21:00Z

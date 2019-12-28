@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DA999978419E4CC8B8B6DD228E70B5A3
         width: 700
         height: 366
-  - title: "Self-driving Tesla slams into a cop car — and the driver blames his dog"
-    excerpt: "On Saturday, a Tesla Model 3 on auto-pilot crashed into two vehicles — one of them belonged to the Connecticut State Police, according to ABC News. So why was driver relying on the self-driving software? He explained that he was checking on his dog in the back seat, said police, who were called to the scene in Norwalk, Conn., to assist with a ..."
-    publishedDateTime: 2019-12-08T20:57:00Z
-    sourceUrl: https://www.marketwatch.com/story/self-driving-tesla-slams-into-a-cop-car-and-the-driver-blames-his-dog-2019-12-08?mod=moneyish
-    ampUrl: https://www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
-    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/D2F173D2-19F9-11EA-BA4D-B7850A42D319
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.FE7390891F41DA6AB2A16B95726FAAE4
-        width: 569
-        height: 398
   - title: "What the Future of Self-Driving Cars Actually Looks Like"
     excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
     publishedDateTime: 2019-12-10T07:34:00Z
