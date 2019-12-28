@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
+excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
 publishedDateTime: 2019-12-03T09:16:00Z
 sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
 ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -42,7 +42,7 @@ related:
         width: 1679
         height: 1005
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -83,6 +83,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "E82+MMGZDSYe9+t4iYdIbL8lEk3Git4yh6jMX+/8qzxkRyHZUr4gEpKyDhjtpBgkRSja4jbKzVsAKmzZhmMhTycYcNu4AgaW+i8roo7fR0HN15NSxMzFPtmE818vEnrqs7AdoQ5SCiVwt0Sgm6AMRndYglbjNVdu7EZ8oJy0eTG0+S72UmEuV6IKwbQnr9Qtf64m2R2wHY4tJ4+buCFQPtYuzsROj3YP092S+fRSzLPwNi+KWMZAaOCAGy2BerDV+sddyd7uxVJ69sUka4Es5A==;jSHxPnYoLckcCmfZetI0NA=="
+secured: "qxAHlGo9YT5AM/mmhR6twN2udyeq8nPbY/FLNvJyAqQB4lF8sD8VKY0NQzk7g/NiJohXYko4i2R4YdistMzd4OLTtDrzNIDaFNiKEPgSng0IKdLer6I3lzcDKuzUi8GuDcNzTnHQmU1OLyrTjwqrfmZEGwjUQcMTMd1DvK/nrML7T1DFDaUQ1iRXA1zzpWRaA4zR/B/GTievmq0WgqlfLyd9QMg3kU9wt27Ud3sq/G8JgokH+M6sHXMXc+jq9avBB2HuhW6jvg037/YR74Se7g==;6U4aT5L+xLTsZwhMPz9l8w=="
 ---
 

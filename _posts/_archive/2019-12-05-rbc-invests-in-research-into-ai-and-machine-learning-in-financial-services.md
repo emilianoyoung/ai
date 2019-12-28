@@ -47,6 +47,6 @@ related:
       domain: thestar.com.my
     quality: 4
 
-secured: "zhocvRMyG5eQ5p0bZ3FG24uCnrLYd5XoagvFyzgiwaP871G97WFlASJd03CN8fX6Dc/iHtjOY4AI3z5Fxg4qAYQm7WFpVWHpPIIAXA1JGFbZjSIfoRpkDoH4VzYMezeqBNrZIRdWmGfqDSlXtdE3BEoc2Yp38cg+K+KGjQ1UfKIhISSqCbjp8vPLzDpJcIZ4HUKJ4+qFKMeqbBs2dxLWF2LPKYBF/N1mr4CkKm/dSl6D5/uXDu9r8ZUVUaMINilPgtEb34WQjl4OkXQ+5kKrjA==;zvUagJneoukqr6lKPp/8Fw=="
+secured: "RFbZMePQHEI8J3CzKs92AmQlLZfk0/HNfJW34q/nwk23FgqbpnpZWew1Io7FL0OGH7zXfkz8b5wjB0X4AeAnb8YIS29KYk/BqgSlp7JESHSwpiW4/TzZEZrwBQJNpYchuUjkUDmaoRUppUbM1piQXkgqawRYdZTbzBtgGmcU5MJ8rqTCEijvP9WoFo+pMX7InaCYf1nnfnCCduD4MLXcfBincud7f3Izay447n85vgGUN6UTEpWokoS7WqyyLZOQWT3v5hgqXNVgsyRQBY83JA==;QiVsbSghSNW3FpcUsKuFxQ=="
 ---
 

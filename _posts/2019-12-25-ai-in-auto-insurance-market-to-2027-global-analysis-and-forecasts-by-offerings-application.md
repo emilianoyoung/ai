@@ -82,19 +82,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec 23, 2019 (GLOBE NEWSWIRE via COMTEX) -- NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during ..."
-    publishedDateTime: 2019-12-23T07:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-market-is-forecasted-to-attain-valuation-of-229-billion-by-2024-ps-intelligence-2019-12-23?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
     excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
     publishedDateTime: 2019-12-27T05:37:00Z
@@ -336,6 +323,15 @@ related:
       - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
         width: 1200
         height: 627
+  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
+    publishedDateTime: 2019-12-23T12:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
   - title: "Global Self-driving Car Market, Forecast to 2030"
     excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
     publishedDateTime: 2019-12-18T15:03:00Z

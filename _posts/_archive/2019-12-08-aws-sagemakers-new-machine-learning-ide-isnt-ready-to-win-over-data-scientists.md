@@ -31,7 +31,7 @@ images:
 
 related:
   - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
     publishedDateTime: 2019-12-04T14:52:00Z
     sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
     ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -59,7 +59,7 @@ related:
         width: 700
         height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
     sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
     ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
@@ -87,6 +87,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "vazhU0LuPDAvjjkYRarIZKRFJlF86+Nk8/e8UlRYQgk+EjMlrNNcCSc9AXD7uPbmi0c+Wkdc6Gr78u1QDWq18JIc8YEVtR/5+0ZmdTcrwCEwY6WSeNki0zXY7qJIkUXasDUx3bDwwRvWmODH9ljDbtser47ARoY8h+EgqRsd3ZfIALlV4EC8Mr5nwT2XaVHFTzcjMc3jN9ODEOZeEEiiLDtsf9bgrWm04Qx+RBhd+OVmxZi0MgISkMajypTUv7xKJrjfGLP3Xi3snx62WK3xCQ==;0qWTTYQvh4qC+uh+lY0dIw=="
+secured: "Uadp38XJUS8Kipj22Cuq83l0C+TGl44RMkRyhfzXuQrBbYSPrx9oZ5KtQlaVJ3XKRni/CNUXBYR1qTXAfmbjrerS9VobfkQA3m5h8rHHh1KQD9hhp5Oy/umdacY059Kvs7wpTY4HLfKXwK+gzpHS0239eXX0T9Xqptspvx2KiLS9l7iYkoZNQkSJ+YVMz9+DyIiy89DYqnaRrcP8unZfRsCPOhRfxywFiTswBaOCUKi9UZ3xP5vS5wg/v1RTPfbp3xaULJGIpey69I4oGrufMw==;eZW/PoqhKI4viX3J5liB8g=="
 ---
 

@@ -78,21 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
         width: 700
         height: 466
-  - title: "China and Russia plan to boost scientific cooperation with focus on artificial intelligence and other strategic areas"
-    excerpt: "Meanwhile, the Chinese foreign ministry has identified fields such as communications technology, artificial intelligence and the “internet of things” as promising fields for collaboration. The focus on tech cooperation was agreed by Putin and Chinese President Xi Jinping in June, when they stressed that China-Russia relations had entered a ..."
-    publishedDateTime: 2019-12-28T14:34:00Z
-    sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
-    ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.3C21826743DAF066F0EE1D70CAED15DD
-        width: 700
-        height: 367
 
 secured: "WQOHX4ll1RYDP3ccZvttJ/NsTWz7RZL+7c0KaHLEGPx9rXt5uYgb0OqkP6pyl3pO5WPVyZYpwgz04sCfpzrwiS/l5/T25bFLOoZG9Z9j47fvfXyMzBmta/9GDOt3bjGaZdXO/JqI4c1LYNW3hAkimwDHEKWRAxWo9+QprAVSmS3b+Bk+tpOZXJLAwWdTyZBDOH/Am41p+8DhnbYznfkx3Kt8gSzRMU3L2XIbuBGjhmWFn46uNx3Y2NTtXXneGDbR90sKsALYPwYxiIXCX6acJA==;bMjJN3mztbCsk2uZUKoasg=="
 ---

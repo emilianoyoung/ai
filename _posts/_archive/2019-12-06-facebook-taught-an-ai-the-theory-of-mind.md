@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Facebook taught an AI the 'theory of mind'"
-excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks), to gain a better understanding of how humans think. Specifically, the Facebook team set out ..."
-publishedDateTime: 2019-12-06T16:00:00Z
+excerpt: "But life in the real world isn't a zero sum game like poker or Starcraft and we need AI to work with us, not against us. That's why a research team from Facebook taught an AI how to play the cooperative card game Hanabi (the Japanese word for fireworks ..."
+publishedDateTime: 2019-12-06T12:00:00Z
 sourceUrl: https://www.engadget.com/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
 ampUrl: https://www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/06/facebook-taught-an-ai-the-theory-of-mind/
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.100B492A53AF35197FA1F2F5EC19AC51
-    width: 700
-    height: 367
-    title: "Facebook taught an AI the 'theory of mind'"
 
 related:
   - title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
@@ -46,6 +40,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "cb0rwxGLTMocXNn//M1DXmYexZvTFZqa8kjLomZYj5VUB1Mj+lOGMnBPc/YvjS8u6B+ceh+cd6fFOkK09ntVGe8Zviqumxmp95ZrGplqeNcM2i8UfjwOj96nzfVTjWfJ9OFLAPVm8HY1CdGv/kKjAwM7U/8fpdsb9LLbKqotOF5pHXS27JeXl4zG7fkLIpeHRd0y7pzlAAQVaO/dR1RhwKRU623ivoICuBLzr8MlfJgzIZDAD0CoP6D42dURGNIR7KJF9GzK6aIca+T7jQG2lg==;oQgK08o0VLk14oGsaTSiqA=="
+secured: "yZZ+N3AMnlTo8u9ITiWJlsk593mJOFQea3STowxfAOlWezRaDC1A8xe8E8xpfHAW9ydzLHTwdHoK1BY3PgkLxy/3JhRN669/MhUXjao2xNiggZxRKx/3fkDF5lI6q1z+kfgrSCSzwpzp6e12zWzVcsvGSIqyUk0ffKEI7OWbe/cihbxOj0vlMnNL+cfKVieJA8DjEJn0M8dZLtoH0aGCPc8bftUbz7kSC7SfYicv+hcv8i/oWrJ3Hjy6LeqM5Dr5ZbG1lRMQ3sgnjslRNcu2lQ==;Ldv8+oQzpIRtcY4c+eHKlA=="
 ---
 

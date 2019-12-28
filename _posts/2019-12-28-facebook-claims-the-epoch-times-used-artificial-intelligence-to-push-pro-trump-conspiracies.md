@@ -8,7 +8,7 @@ ampUrl: https://www.blackenterprise.com/facebook-claims-the-epoch-times-used-art
 cdnAmpUrl: https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/facebook-claims-the-epoch-times-used-artificial-intelligence-to-push-pro-trump-conspiracies/amp/
 type: article
 quality: 62
-heat: 62
+heat: 72
 published: true
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 700
     height: 466
     title: "Facebook Claims The Epoch Times Used Artificial Intelligence to Push Pro-Trump Conspiracies"
+
+related:
+  - title: "Facebook purges accounts that used AI-generated profile photos"
+    excerpt: "Hundreds of political Facebook accounts, groups and pages — and 72 Instagram accounts — have been purged after using fake, AI-generated profile photos to masquerade as Americans, the company announced. Why it matters: This is the first time Facebook has seen “a systemic use\" of AI-generated photos in profile pictures \"to make accounts ..."
+    publishedDateTime: 2019-12-28T18:13:00Z
+    sourceUrl: https://www.axios.com/facebook-artificial-intelligence-misinformation-photo-ai-439dfadd-ea27-491b-94fb-c57d18299546.html
+    ampUrl: https://amp.axios.com/facebook-artificial-intelligence-misinformation-photo-ai-439dfadd-ea27-491b-94fb-c57d18299546.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/facebook-artificial-intelligence-misinformation-photo-ai-439dfadd-ea27-491b-94fb-c57d18299546.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.FC682C5FAF1DA8DA47B95F095E13A83A
+        width: 700
+        height: 393
 
 secured: "DUoleJ6cn1Oxv9BWP/OnhZ3NdsWjPBQ/bGvH520mcPiFEi9h2wjytxW96tb6dSZynw2NLjgSQGXadhNT/hBaaiRmPwyWcePYyzqshc1zfNBQVQRrovuQ4QMJKnpbptLoDTwevdZND2mFbJoEw9wQ5nylWDJAi+VXL6HpGwpjqs2hq0Ec43ApIjxYyEL90u3HwpxbTP5Olk/SsohV3JM786CW1J7rF9bPgQke0u41X3e4130r1gjfaN8CPQb31x4ZFsfpPFLhw20HHzM9X53x2Q==;xwGwIHEW0R3R5toGTguvNg=="
 ---
