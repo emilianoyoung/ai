@@ -45,6 +45,6 @@ related:
       domain: wired.com
     quality: 49
 
-secured: "Iu7MuG18C0s+/guEjoWYtbqxU13lufkrjYscmxfJzrsfmwhQMhSholcMDxtLEAt8f+4G7RDPw9u3scU1IpnNDLJJaVUsObRDQpJn9IIzZ9GmnXm4evD0zctJGdlPUMBWNCRQB/4giorncBIw8H//ZhPuTB+K5cYTIl97KQ5Ro9n+ouk5vQwzuV3q6BFd5ZYepT3DWaNMObaWzl4BhifZP7Dt/b7BdtLWMpzs1JTVQbFdOre3+kZMBbcb/eXuUDVlle64nOXhIz2zpua3TGlWfQ==;OXtLS2D71j+D/vh8IsSi5g=="
+secured: "ZT9zXNBle5L/TQeKVGZk/l9hgOFz/UYn9YbjKy0hZkrwODf4iCLaoc3RV9on923EPj8s3DlGsI/pHYZXz1/0oi371wGfe6ftFj+/eKCpviEgBu3DIrsRO+NSCvXRklnUrsu7Ni0CqzFwdcWWuz2QbFtgYkrbi2lFw41t8RaN8M/G49+ZroYe6p66e3ACG4wR1qj4SUOO2v3e8wdaivxRByYBTZRITo0aMVsEhTWrVXOeihKVlyc0ByUQV1y8Gh7xPm2qt+sjBdnUZ/+KWdiRNg==;6Dgr1n7IsAPZf5kOCnkETA=="
 ---
 

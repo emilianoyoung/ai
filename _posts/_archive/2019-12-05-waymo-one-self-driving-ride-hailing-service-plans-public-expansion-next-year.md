@@ -47,6 +47,6 @@ related:
       domain: scmp.com
     quality: 0
 
-secured: "ya2ruyQm7MxJa1qhManFELEthp0CC1Fu6u305U14CF5yr5cgJn9me4kCTftJfBKw9AHXDr/ZvYPni+asigQF+KYoYSga6IcX2cyCVKGq4e0tXHc2t8hakNtVQCBYNiujmc8gEWUpL79OA6p+WN7rtKrx4fUMm+hafbYUwiyj7l4OQTzRjLTc4ZCKtQjgbD+BLwYl0ipgpKyYQnM6NX6Q2k3IrOxTzL2CuBIPRfbyRl6Qt0x16mDQhULq2WqFumgRa5JBHRhRI1fkICA28csDrw==;rZ26qsXajo33/sxytlxSbA=="
+secured: "Sg+86aUjDu+VpQvO27uoRYi9xCK9N/Y0WcwdjvgUkXwT34vH4xaF5SOVX1lBsmo1L6R0cH7RamqZfYu+IaolcS5KyLwrnJNv1C8BXH2YlXUt3YfVp7si7kgCE7nfODBJSRsW+XKX2vA3YP9pmTA3J1YuNt4XKPVdcw7Gt8yRHYa+otqe4NU2h4+MxM9AvBgKNYH7DRdU4qlm9mrVxtB80cBfU2PfGv9SXonk7tmfGtfxyv/+Hdj7DeuuD1Q7NAC1YlGOYW7UQWK2N6U5fGDkEQ==;GkxHxx1IDGqpdQsSrsO0rg=="
 ---
 

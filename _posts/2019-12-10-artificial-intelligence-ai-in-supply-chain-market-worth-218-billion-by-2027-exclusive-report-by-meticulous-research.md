@@ -34,6 +34,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
+    publishedDateTime: 2019-12-09T12:30:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
+        width: 669
+        height: 229
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
     excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
     publishedDateTime: 2019-12-11T00:31:00Z

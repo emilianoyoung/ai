@@ -77,6 +77,6 @@ related:
       domain: theinquirer.net
     quality: 19
 
-secured: "MvSD/KVkPj2NgyQUyu01wXjrjZkWOcTQLs9TA3WxJBc+YIZOS0eFsXIjfAbgG/XXCA6/Nh7cwE7KMkKz2INUK2OHWItcQTOguW0WR1i9VVDlo9/tiQeVwxybg6fzuBB88zWq8MhMP9Z8ts0AcIkzqwIHKOfoG1wLGGrxFMILHEF/fx4fpHmcJLsYElnwXeT6Y5xcBjiHE04hDH/zxoX6jg8IYj5bwKCKAp/FveU0ELH+U3l0vw4kgJWyjavVUqUwMCPewlIR6WuSdisgM0KGpQ==;fTRh+5SeogUwxC2Zg4s93A=="
+secured: "eQbX0zVB8SLAwhS+YGb+78IX1xRinKuDiVh0av9Yrl+2f53N5c5Rwb68P5j4/XwCMx33AtrCncs1XKWehL1UTQ6zh/dLon6nm9h7BIQq9w1P8DQssGv9g/jA72qKqiFxHJhX2dqcbTNJEihuMkhCdvsUG5Vm3Bj8sH8dFRiWUCHMC6S3zfxgsOGegwBfK0i4okMZfOUuoPSyAegttSdev/ZTgh3laSlI0cfsN/df0vruIx0SmfQ7OiPcUvmU+gmDxp5pC02Cn7bD0FXGBY3eMQ==;M7vmUzoWyZK/JoDfCVRB5g=="
 ---
 

@@ -24,52 +24,39 @@ images:
     title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
 related:
-  - title: "China’s artificial intelligence market to reach US$11.9 billion by 2023"
-    excerpt: "The artificial intelligence (AI) market in China is expected to reach 11.9 billion ... The potential areas of China’s AI market will focus on the fields such as service sector, health care and telecommunications. According to the white paper, the lack of AI technicians and high-quality data sets are the primary challenges of AI development."
-    publishedDateTime: 2019-12-08T07:52:00Z
-    sourceUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/
-    ampUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
-    cdnAmpUrl: https://newsghana-com-gh.cdn.ampproject.org/c/s/newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research(R)"
+    excerpt: "https://www.meticulousresearch.com/product/artificial-intelligence-in-retail-market-4979/ Artificial Intelligence in Healthcare Market by Product (Hardware, Software, Services), Technology (Machine Learning, Context-Aware Computing, NLP), Application (Drug Discovery, Precision Medicine), End User, And Geography - Global Forecast to 2025 ..."
+    publishedDateTime: 2019-12-10T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027--exclusive-report-by-meticulous-researchr-2019-12-10
     type: article
     provider:
-      name: News Ghana
-      domain: newsghana.com.gh
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.E101638180B74A5E5B8E2EC84CDCD6D1
-        width: 544
-        height: 334
-  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
-    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
-    publishedDateTime: 2019-12-13T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
+    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
+    publishedDateTime: 2019-12-10T10:59:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14961035/artificial-intelligence-ai-in-supply-chain-market-worth-21-8-billion-by-2027-exclusive-report-by-m
+    ampUrl: https://amp.benzinga.com/amp/content/14961035
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14961035
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
-        width: 700
-        height: 700
-  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
-    excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
-    publishedDateTime: 2019-12-11T08:30:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/11/1959038/0/en/Security-Policy-Management-Market-is-Expected-to-Attain-Size-of-2-647-1-Million-By-2024-P-S-Intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
-    excerpt: "China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence Development Plan, which is aimed at making the ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/security-policy-management-market-expected-083010923.html
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
+    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
+    publishedDateTime: 2019-12-11T00:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-ai-supply-chain-115931747.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 0
+    quality: 9
 
 secured: "CYnVIlqTccUklNpNfhDZzJz6uQNW9H4xjX7UoXwTfmvjA+tgvBogH9ZtaDUF7daj+HPJpLulIp1ZqyraoX2hpFBBzB6bRSRcwL337Or6Wiq9nEBxd/IqbCsQsPyb1NXQ1BfhO5qUHmuC+MAb3tvLFJP4IU+eftfCKABn0xIUBLtAMlgYogZaAqQbV1PzomeBMWjdDqeNDu40pYnqR+GSMOB6DF75F3CecFWo5sN8Oxab298/fozbSSUKmyd4rR3bkTB0jmkxFheUzHLWh8dzCQ==;COfYQsxd1KhSrEcZz3OSKg=="
 ---

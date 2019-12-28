@@ -17,34 +17,45 @@ topics:
   - AI
 
 related:
-  - title: "China’s artificial intelligence market to reach US$11.9 billion by 2023"
-    excerpt: "The artificial intelligence (AI) market in China is expected to reach 11.9 billion ... The potential areas of China’s AI market will focus on the fields such as service sector, health care and telecommunications. According to the white paper, the lack of AI technicians and high-quality data sets are the primary challenges of AI development."
-    publishedDateTime: 2019-12-08T07:52:00Z
-    sourceUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/
-    ampUrl: https://newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
-    cdnAmpUrl: https://newsghana-com-gh.cdn.ampproject.org/c/s/newsghana.com.gh/chinas-artificial-intelligence-market-to-reach-us11-9-billion-by-2023/amp/
+  - title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
+    excerpt: "Inception of exponential technologies such as sensors, robotics, virtual reality, and artificial intelligence in the retail industry has enabled the retailers to enhance their interactions with consumers and transformed the way retail operations were performed. This change in the industry is prominently driven by the seismic shift in the ..."
+    publishedDateTime: 2019-12-16T12:14:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
     type: article
     provider:
-      name: News Ghana
-      domain: newsghana.com.gh
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.E101638180B74A5E5B8E2EC84CDCD6D1
-        width: 544
-        height: 334
-  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
-    publishedDateTime: 2019-12-09T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Supply Chain Market Inclinations & Development Status Highlighted During Forecast Period 2018-2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
+    publishedDateTime: 2019-12-12T12:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-inclinations-development-status-highlighted-during-forecast-period-2018-2025-2019-12-12
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
-        width: 669
-        height: 229
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
+    publishedDateTime: 2019-12-17T11:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
     publishedDateTime: 2019-12-13T12:30:00Z
@@ -58,6 +69,15 @@ related:
       - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
         width: 700
         height: 700
+  - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
+    excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
+    publishedDateTime: 2019-12-20T12:08:00Z
+    sourceUrl: https://www.openpr.com/news/1882281/ai-in-education-market-projected-to-reach-3-683-5-million
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
   - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
     excerpt: "China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence Development Plan, which is aimed at making the ..."
     publishedDateTime: 2019-12-12T00:21:00Z
@@ -66,6 +86,15 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
+    quality: 0
+  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:18:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "Y4T16ShilNPuZLzbI2o0tZoGtNrkJeMybAdIv4Kg2NPOi2DnGpl4WpLGrsneS2MK2Xckc3dIEOnXdumbJMXuLnykfIEv7ogEAfcJDtJNBk41jd4FNfIi1S8q+C0Fw21e97qzolEzHTC1LpdGCqjMT0Bny2kToWC5KimPSc4qgE+MDl6qpsNp2D+Ysh86HVVrcGE5XB4rOGZeR143bZFi3AqHaGwo+aFF+IoGRB5i7iM/QgIwMoWlq6zzL8g7NITVIoGLRodYVMIXd4qsnyxOHw==;iXfN4cDVh+VNFltyKoxZeA=="

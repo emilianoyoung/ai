@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-09T17:56:00Z
 sourceUrl: https://www.therobotreport.com/roadsight-blinkai-enhance-autonomous-vehicle-night-visioni-ai/
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Robot Report
@@ -24,21 +24,6 @@ images:
     title: "RoadSight aims to enhance autonomous vehicle night vision with AI"
 
 related:
-  - title: "How Autonomous Vehicles Fit into our AI-Enabled Future"
-    excerpt: "Automotive manufacturers and transportation technology vendors are rapidly progressing us to that goal. Indeed, we discuss that “Autonomous Everything” is one of the four key parts of our AI-Enabled Vision of the Future. The power of AI and Machine Learning combined with extremely detailed city and road mapping, lane-keeping, collision ..."
-    publishedDateTime: 2019-12-08T06:03:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/08/how-autonomous-vehicles-fit-into-our-ai-enabled-future/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/08/how-autonomous-vehicles-fit-into-our-ai-enabled-future/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/08/how-autonomous-vehicles-fit-into-our-ai-enabled-future/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EDCD2311ED7076FC6B17FC6EA49BCE0A
-        width: 600
-        height: 315
   - title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
     excerpt: "WekaFS was architected to leverage the benefits of NVMe flash technology, delivering high-performance, high-bandwidth, and low-latency storage infrastructure to meet the demands of today’s GPU-enabled AI and HPC workloads in the data center and in the cloud. WekaFS is the world’s fastest and most scalable file system for AI systems ..."
     publishedDateTime: 2019-12-11T16:20:00Z

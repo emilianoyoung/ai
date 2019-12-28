@@ -27,7 +27,16 @@ related:
       name: telecom.economictimes.indiatimes.com
       domain: indiatimes.com
     quality: 19
+  - title: "AWS to roll out Alexa voice controls for low-powered devices"
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T12:30:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 19
 
-secured: "29uT4IPhjrc3HSL4+AMvS2zx+wjc6wMlZ4q8y726e5wo0PY6LqRIld4lZo+pSDehaWbsOMVlfRiDwUb96Q0KJvNRNW2ShkMEoXS20kFM0kwlt9kxrtCa8GrNKwlcrKSNPyOESa+UQ35R8j9qATMuOXOImH7gMs7x40IJgddBzvePD7P6KxEzciDz8LxzmU/21yGV+YM48BreC0U1xt9ZUa00piCRWnUwhQDf8t/taqUYXmC8PIM/ZTNMQQN3PzXlT9b4hiiNZ8+CkoffDoL1bQ==;tJ9uAcZRANsXoWQx7jfCIg=="
+secured: "P52j6iSDy2rovaDYahP/VDzm1zL8yZEKpuHTBq6+RZwlt3DHFFNZ+p4+pSPfPcshthO4VlYl1IVCiS5HU1oGpLndIfdCjjH54OmrVneNQDUmg7UioIqXNrzGXuy0vcuO9J+z5cYVdarx52ieWJ67HhCoIepcUqrJHseDFnHOoChz+s1EUsRyPrv6oBkIC6a0qtVRjSRjapH3WEnB7Xa7w14fYhDglt4dZQR1UDcxO49wYl/gBpZ5KiUDAFtT9RNIj//I0ZkVrS2TqGgnlcqu9Q==;hPsGVeCbjGEUuEdO/s7vUQ=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://www.phillyvoice.com/decade-health-story/amp/
 cdnAmpUrl: https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/decade-health-story/amp/
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: PhillyVoice
@@ -26,21 +26,34 @@ images:
     title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
 
 related:
-  - title: "New report highlights AI's potential to revolutionize health care"
-    excerpt: "The role of artificial intelligence, or machine learning, will be pivotal as the industry wrestles with a gargantuan amount of data that could improve -- or muddle -- health and cost priorities, according to a National Academy of Medicine Special Publication on the use of AI in health care. Yet, the current explosion of investment and ..."
-    publishedDateTime: 2019-12-20T05:30:00Z
-    sourceUrl: https://www.news-medical.net/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
+  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
+    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
+    publishedDateTime: 2019-12-28T09:08:00Z
+    sourceUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/
+    ampUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
-        width: 620
-        height: 480
+      - url: https://www.bing.com/th?id=ON.86C95C1D9BE7039838DAFB2F7DF99FEF
+        width: 660
+        height: 440
+  - title: "Singapore investors plow into health care startups"
+    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
+    publishedDateTime: 2019-12-24T03:35:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
+        width: 700
+        height: 350
 
 secured: "fnlLSpOwrFk8tcruP8IIeT0UQaykdlQN3PDNhGQcsqRzB9RsR1VGBX45Vt2//bgWAzVYVBbAeVZLbryPy4PLplSqLKX1zOgB3WW4zLB4tzcZvmN7jngHh7E/GOJfU8RfthHHA7A9Cg3gx4pzdG3jYNp9Yosvef4IemTraKmt/GyM/Gt7BQ8N8FqVDPlzbK+gOPGHWAHt5V8zgmuu/EKzLW0smgf2V5tjTFvIeA/k+YLuiX56X8REYaag01VE0j+lTqL4uxOAxt2wd/cE8lyKCg==;y8QFAw4DO8ToDixdR/KjjQ=="
 ---

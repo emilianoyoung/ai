@@ -77,6 +77,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "HbOhuz48ninoF6sY1vburmO5iAnXGzBb9mWk6DFjbdijHv/nWIxXNQlsoq6Lzc7Z9X2leGcG4QSetx1pSwwK1C4wyFLKv5hxpL7DT5U51P1TvDN/m1WdZ/WxRJ9/IHbbeeTFh8/GEubXQGCsXRlWy5rIgqFUomDRM+9bwqiwpg1Lv/Y+H6qzqQxIz/MzTeWByoqMvSa3SSImwButOjOLwStMjZ/I3ncxOAFG45sdP+m1iYfAQcu1wUqTVo1u15VgR1vxufpyVCBX3dlqYl/PRw==;SSPCUIPLBuors8wyaBW1+Q=="
+secured: "iZui8LcQtnX5nJ8knjK1tE/lndrTpugMwYG10QxnqmoCDGX48Zgek3YCjOPsdd8tlHoe/set59NuxPLWRzGAyZSmsYjFlyRuQpVgumoIQVeV2/zlBZRwSUmp/JllO/Xo93KjdUdv0/oova37cQkaxEcEpxHQCiXqup67Auy+fdOvAVXUIicty0urYASRR6vfrXdwsTwD6uEU4ReDGZycuRNv0tymnWL1ub7xMIo0mPfyiClKNO50ARG5xLbQ5DaXGwC3ZDPlAQ1X1cN+ye9peA==;+Tfu01isL8ISM60RLbQF+Q=="
 ---
 

@@ -4,10 +4,8 @@ title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
 excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
 publishedDateTime: 2019-12-04T12:00:00Z
 sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://media.wired.com/photos/5dcef1d74d2116000890cbef/master/pass/Transpo-skidmarks-1174331136.jpg
-    width: 2400
-    height: 1600
-    title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
 
 related:
   - title: "Bosch and Daimler launch self-driving car pilot in San Jose"
@@ -447,6 +439,6 @@ related:
         width: 700
         height: 367
 
-secured: "xA1Zxf/4T/K9NWfc4zd0Zu3HvCLFM3XI5Krn8jxPEl5Ai36jllLaXX8g5aHWfCKOb7hiqQier3wTfLbDMWw3z2N7prVC2OLZeOt717RFuTibtpWUCiNpm/WCVEch7o2JtoI7ysC+uAZyrkhepCL/qFKvDrKl+z9HN/4FwbObcf/2092nfNM5pNvHyjPsapvmRFZIQmpubJP+n3h7iy41KjHwDhtwHFfIDZfLkwO+Ht64ZyXPNcjsCJLSo3uSC473t4zcoJexOWmfkZckmF7PnQ==;rDPoE1HD9LZtWn5nlglQyw=="
+secured: "3mVhPMBoQNSIttUG0yvQ+YbQ7/gYxCTAsp1nGyoSLFbrSQCbnwITow5Yc0+SVGn0unK3e8XMsBUq2EjY7CQ/wilELruf+yrKEaSYJn6Q+LprfJugS8Ivc21S7R5XHiNtzg4ARrFUB8EEzROo3x1VRjSW1IjXZOt+rvImBjGyFmA5UXb6MnAo808XlT18phA+46bHtJA3+eqJJnwTdpFEAJ8aW0Lfd3JKwqwNeoE/rw8SZqQAgSLSzTCD1/0TajtOcNNxzTvJ08LI5t96wToyrg==;5BSw/Hw+bDs0Xpt6kx69ig=="
 ---
 

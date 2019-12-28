@@ -41,6 +41,6 @@ related:
       domain: sdtimes.com
     quality: 33
 
-secured: "X0cVO2aTPLBVeGeO92DqHer9WN+TRbat/RXDnnStTGBtfUGW0cYox5WAolpE1dd2oPRncdREAJs5fCjEg/bOTn7UeHPo+E6yVpH+ufJpiKjUOKql1J+JpmctPFaM9H/k7nVWFKzEgjUSebMjCNvc/LWhf8hiq4nekk5CtJo6rZPj2aey6VG/LA2hnqxuOP/EDl4IlngsadSAurNl0MdbRHZhM6wF50DJHh80VSCmrC3oUUap5k6BL5dlWwRa/q6SnzWk3IHSjn+cKIUQ7tjN/w==;q+ghENLjNdn9RM4RNxrpRA=="
+secured: "BfkdGKHLsyoz9c+19IJPycakfzxQL4OAMz9892m9hMP9o0YReD2RWZIutmXq8xD1GoMT1NIYdzKRVQ5zkxqCQShs+E7fihreJ7PzlkbG6efGIM+uZTDKB1VSH/zWOnXTBgK7W+aYQeQWBpvYC8nkIrNOVp4JKmkPM1WwPBe8y/zTcf4lWBmA1NGMehQUL1Vvl9e/Jw+iOy5B0bxY3C3Plk+3RDuG5e1N4xxhmlbgluJBeQAccOxfkjhu2N7LPYHTjNhZYL5ok6NBGEMwyMsnVw==;NQFn2v842sA4136z4yABKA=="
 ---
 

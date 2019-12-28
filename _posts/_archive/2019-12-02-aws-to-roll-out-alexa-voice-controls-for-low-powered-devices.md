@@ -18,16 +18,25 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS introduces innovative features for Alexa, Amazon Rekognition"
-    excerpt: "Amazon Web Services has made Alexa Voice available on low-powered devices which previously did not have enough processing power to... This is a companion discussion ..."
-    publishedDateTime: 2019-11-28T17:54:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/aws-introduces-innovative-features-for-alexa-amazon-rekognition/190491
+  - title: "AWS extends Alexa voice controls to low-powered devices"
+    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
+    publishedDateTime: 2019-12-02T08:27:00Z
+    sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 34
+      name: telecom.economictimes.indiatimes.com
+      domain: indiatimes.com
+    quality: 19
+  - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
+    excerpt: "This comes from the new feature added called Amazon Rekognition Custom Labels, which will be available from December 3. Besides, Amazon is also introducing Fleet Provisioning for AWS IoT Core. What it does is makes life simpler for those using a wide range ..."
+    publishedDateTime: 2019-12-02T12:11:00Z
+    sourceUrl: https://www.gizbot.com/news/amazon-alexa-now-supports-low-powered-home-gadgets-064066.html
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 4
 
-secured: "Usy0sCRUP1YBOUvwqa4VRp5Ge20Lcd4kHzq0e3uPNqcVPYy2jUeM7pmdNXdl1eBB28YfG5sI4CwvUkTDAZdcgH1FHJ0uPQAKKkinMlUSjONmLHEWInxJNHMrBFdrhTPtrNb5BiAu2L8GM7dSfYYCHt7p6Xa4x346uD//ZyDs4OEUpMalOjQbq0/lfH4qvO9zQKbRpg7ld+CIgc6KrsONguwpJItJTcMZyg/ujYooHNS1W26L0OxquJ8t7+U8wFx2FFub1rGyc4B6po2k4bEfwA==;dXVP8GMFFQFe0ci5eZnUKg=="
+secured: "9V7Wayt+XDBMJzBqH7osctE6Ubj+aPc+eObeSyvTTM83VYTSZ4LeVbslQeI9xSKfRN3qZ5/PXYUA9R76/IHBGMVJp3Xad2yQ3MRvl1hiTQysquySlSfethMAIRLOtT3yE1Ywtw+AvSLrnoVBBsurSiVSM/Wm9L02pDNuC+WulGMNadhBYPmKBQq50W6ZiFZdolN8ShIya8Zwoi7OdzRu5pPRvIB2QbWIKSDuvyxq/bAXLEmUcuZF5+aJDt51iiEnbKF01NEN6EIHPV0Sw+eX+Q==;GDvquhj7e8H6cXTYCGdRyQ=="
 ---
 

@@ -45,6 +45,6 @@ related:
       domain: cnet.com
     quality: 49
 
-secured: "iwlh8RQxfYvKwM1Y4c/94Z2/Yux7HAPw6xCDmCxDXKjqAPLMcTTJB75Qf5FwNs81Z9wqOetd0PzbYuDrjZXQIpvSpJZVBLCPwf72WgD3pqJK8mVsVp7XtWwDOzPsJ/+ruCvwS+PpPFN7iPnpRMoEDvFqsWeDjvp8rTdTa6HJZI3UOYEOM2fCz3g/4LjUbZZuXo40LdeGAEXMkLs0TkflOw5QmqcbDDDf92TjtDRwWoa6dkwJDSKXWOFl9KpXwobs6+OeJsO1Jg6YGKf3+e9ujw==;lshMxLFg8wqwkCr063joFQ=="
+secured: "cPC6k5DVfbw6DgT0Pu1bQfIF7wPFIZaizOobmUOSO6MIx7AnskFZ3dae1ofNcM8M2+vW+XU7MCAyBJ77wOrwf/TZo0aoHgk1y9sPJiSRFloBGrl1EWj8t9zBk6Tqo15MRc/azxZKaSMKE6vRaZLRU/1cui9FrjfIpjpVk6zz98eKWbslJx/nORkpYfjQc86MyQp6qB5g+M0jvQ4fjrfZ8ekJH+wSINCrfpI4rdfjfAeGBTQb3DVEi6wiXUVJcNpjLDAVcp+W30lwmx8raOBhzw==;sdWlZ+DiTGtfQXMkg/fLYg=="
 ---
 
