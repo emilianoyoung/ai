@@ -26,19 +26,6 @@ images:
     title: "SpaceX Delivers ‘Mighty Mice,’ Worms, Robot To Space Station"
 
 related:
-  - title: "That AI robot that had an emotional meltdown in space got an upgrade"
-    excerpt: "SpaceX was finally able to launch its Dragon cargo spacecraft to the International Space Station this week after the initial launch was scrubbed due to poor weather conditions. The spacecraft is carrying a whole bunch of neat stuff to the ISS, including an upgraded version of an AI-powered floating robot that lost its cool when interacting with its astronaut handler."
-    publishedDateTime: 2019-12-09T07:10:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/that-ai-robot-that-had-an-emotional-meltdown-in-space-got-an-upgrade/ar-BBXVP5p
-    type: article
-    provider:
-      name: BGR on MSN.com
-      domain: msn.com
-    quality: 137
-    images:
-      - url: https://www.bing.com/th?id=ON.41051A2E3B6FC34F18866881196334A7
-        width: 700
-        height: 367
   - title: "Robot arrives on the space station to keep astronauts company"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
     publishedDateTime: 2019-12-09T17:24:00Z
@@ -54,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.503A982E308E6AD84E66AB182F5C322D
         width: 700
         height: 393
+  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
+    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re looking at AI for what it is: not a new life form that competes for resources, but as a ..."
+    publishedDateTime: 2019-12-09T17:57:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/robots/a30170305/2010s-artificial-intelligence-decade-review/
+    ampUrl: https://www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp30170305/2010s-artificial-intelligence-decade-review/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
+        width: 700
+        height: 350
   - title: "Robot arrives on the space station to keep astronauts company"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
     publishedDateTime: 2019-12-10T05:43:00Z
@@ -69,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.957D0AEA98B9221FD6533941D2FDBE01
         width: 700
         height: 394
-  - title: "Friendly floating robot CIMON-2 sent to International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-09T14:01:00Z
-    sourceUrl: https://www.kxly.com/lifestyle/friendly-floating-robot-cimon2-sent-to-international-space-station/1149423192
-    type: article
-    provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EE498F913AA1E0FE94C5143D3B27D7DB
-        width: 700
-        height: 393
   - title: "SpaceX delivers 'mighty mice,' worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas ..."
     publishedDateTime: 2019-12-10T04:49:00Z
@@ -108,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DC1B10D94D76FFE2EF00997D6C82CC8D
         width: 465
         height: 700
+  - title: "The Introduction of Collaborative Robots"
+    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
+    publishedDateTime: 2019-12-16T17:10:00Z
+    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
+        width: 700
+        height: 425
   - title: "SpaceX Dragon docks with space station, delivering 'mighty mice' and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
     publishedDateTime: 2019-12-10T10:02:00Z

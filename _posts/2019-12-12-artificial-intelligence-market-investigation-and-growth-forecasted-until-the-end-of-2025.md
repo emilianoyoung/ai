@@ -157,21 +157,6 @@ related:
       - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
         width: 980
         height: 551
-  - title: "Can Artificial Intelligence Increase Our Morality?"
-    excerpt: "Even well-meaning AI applications have potential dark sides, she said. Algorithms aimed at putting at-risk students back on track could conceivably increase conformity. Therapy apps that give points for good behavior might make personal growth feel like a badge-harvesting grind. Social credit systems like that in China, or even more subtle ..."
-    publishedDateTime: 2019-12-09T07:38:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
-    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.0D7E8886982F40E58026CB4D19C2E645
-        width: 639
-        height: 280
   - title: "Artificial Intelligence in the Healthcare Market key Insights Based on Product Type, End-use and Regional Demand Till 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the highest ..."
     publishedDateTime: 2019-12-12T05:19:00Z

@@ -29,21 +29,21 @@ images:
     title: "Drone-racing human pilot defeats AI -- at least this year"
 
 related:
-  - title: "It's Coders Versus Human Pilots in This Drone Race"
-    excerpt: "Despite losing to Kocher, the four members of MAVLab—Federico Paredes Vallés, Guido de Croon, Christophe De Wagter and Nilay Sheth—outdid five other teams that qualified for the AIRR (Artificial Intelligence Robotic Racing circuit) Championship and pocketed a $1 million prize ... the world working on autonomous drones,” he says."
-    publishedDateTime: 2019-12-09T08:00:00Z
-    sourceUrl: https://www.wired.com/story/coders-versus-human-pilots-drone-race/
-    ampUrl: https://www.wired.com/story/coders-versus-human-pilots-drone-race/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/coders-versus-human-pilots-drone-race/amp
+  - title: "Top drone racer takes on robot drone in first human-vs-machine clash"
+    excerpt: "Up to now, DRL has only organized human-piloted races, but with autonomous technology making big advances, it wanted to launch the first Artificial Intelligence Robotic Racing (AIRR) contest to pit humans against machines. Wearing a pair of first-person-view goggles, Kocher flew his quadcopter through the obstacle course at high speed in just 6 ..."
+    publishedDateTime: 2019-12-10T04:40:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/top-drone-racer-takes-on-robot-drone-in-first-human-vs-machine-clash/
+    ampUrl: https://www.digitaltrends.com/cool-tech/top-drone-racer-takes-on-robot-drone-in-first-human-vs-machine-clash/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/top-drone-racer-takes-on-robot-drone-in-first-human-vs-machine-clash/?amp
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 172
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: https://media.wired.com/photos/5deda2a16c75590008cd8e1d/master/pass/Business-AI-Drone-Race-Gab707.jpg
-        width: 2000
-        height: 1333
+      - url: https://www.bing.com/th?id=ON.0A6CEA6DF9DC2BA2F201668BC61A3DC8
+        width: 700
+        height: 366
   - title: "Man beats AI drone in first race of its kind"
     excerpt: "The fastest automated drone, completing the unseen course in 12 seconds without the use of GPS or any human intervention, won a $1m (£0.76m) prize. Organisers the Drone Racing League predicts AI-powered drones will dominate the competition by 2023. Its first artificial-intelligence robotic racing contest was the result of a collaboration ..."
     publishedDateTime: 2019-12-10T17:44:00Z
@@ -59,6 +59,28 @@ related:
       - url: https://www.bing.com/th?id=ON.D2A8C23AFC39E7E16B63D8F5F64D73D3
         width: 700
         height: 393
+  - title: "Humans best AI in first-ever Drone Racing League showdown"
+    excerpt: "The Drone Racing League recently held its first Human VS AI match, pitting a drone helmed by AI developed by Delft University of Technology’s MavLab against one flown by human pilot Gabriel Kocher. Despite early race hype, MavLab’s machine took a big “L” as Kocher flew away with the victory, running the course in half the time it took ..."
+    publishedDateTime: 2019-12-10T21:41:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/10/humans-best-ai-in-first-ever-drone-racing-league-showdown/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.92B7F10CB6F05455B0CED954B8AF44EA
+        width: 700
+        height: 350
+  - title: "Team MAVLab’s Robot Drone Wins DRL’s AI Racing Series and $1 Million Prize"
+    excerpt: "Team MAVLab won the Drone Racing League’s inaugural Artificial Intelligence Robotic Racing circuit on Friday ... Kocher finished the course five seconds faster than MAVLab’s robot-operated challenger, showing that, for now, humans still hold an edge over machines. “We are incredibly excited for Team MAVLab, who designed the winning ..."
+    publishedDateTime: 2019-12-10T08:08:00Z
+    sourceUrl: https://www.sporttechie.com/team-mavlab-robot-drone-wins-drl-ai-racing-series
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 32
 
 secured: "kAy1kIfXfP7C542xz0Tu8caQv9zMGDewv6hAMFVNuF/U2IwzWzPpMS7HJ6ePQVnJ3y0XsjqQUFc5DZkOj26gioYu/SAe8lqEhWAmoYatPVkSRgxbCqZSUKGPff0D1p+RVXsET5S3QXxEIlNoiKcbXNmzVuDYas/D0yG93TEkQLNdjFIopTgvAFU8WFsHm7EZFe77t1FDAAy6mqafGvgWXXfdx35elRbSbH9U8ENuvlmFVi75GGfgaJdVGTiJn8pBq6RzVOZOakm0ua6uQy8IUg==;f6aoTcvyOBAc7jrjRK2Ftg=="
 ---

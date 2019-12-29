@@ -154,21 +154,6 @@ related:
       - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
         width: 980
         height: 551
-  - title: "Can Artificial Intelligence Increase Our Morality?"
-    excerpt: "Even well-meaning AI applications have potential dark sides, she said. Algorithms aimed at putting at-risk students back on track could conceivably increase conformity. Therapy apps that give points for good behavior might make personal growth feel like a badge-harvesting grind. Social credit systems like that in China, or even more subtle ..."
-    publishedDateTime: 2019-12-09T07:38:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality
-    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/can-artificial-intelligence-increase-our-morality?amp
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.0D7E8886982F40E58026CB4D19C2E645
-        width: 639
-        height: 280
   - title: "Artificial Intelligence Market : Investigation and Growth Forecasted until the End of 2025"
     excerpt: "Artificial Intelligence Market Segmentation: By Industrial Vertical *Media & advertising *BFSI *IT & telecom *Retail *Healthcare *Automotive & transportation *Others By Technology *Machine learning *Natural language processing *Image processing *Speech recognition"
     publishedDateTime: 2019-12-12T05:40:00Z

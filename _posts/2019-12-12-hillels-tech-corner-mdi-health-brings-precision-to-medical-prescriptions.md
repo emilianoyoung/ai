@@ -112,6 +112,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
         width: 615
         height: 384
+  - title: "Friendly floating robot CIMON-2 sent to International Space Station"
+    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
+    publishedDateTime: 2019-12-09T14:01:00Z
+    sourceUrl: https://www.kxly.com/lifestyle/friendly-floating-robot-cimon2-sent-to-international-space-station/1149423192
+    type: article
+    provider:
+      name: KXLY 4 News
+      domain: kxly.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.EE498F913AA1E0FE94C5143D3B27D7DB
+        width: 700
+        height: 393
   - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
     excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
     publishedDateTime: 2019-12-09T19:19:00Z

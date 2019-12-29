@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-dr
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 630
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
-related:
-  - title: "We tried out a futuristic, self-driving robotaxi in China"
-    excerpt: "In the white-hot competition between Chinese companies to push out robotaxis – self-driving taxis ordered through e-hailing services – two contenders have emerged as the first to launch public trials of their autonomous cab services in the country. Search engine giant Baidu’s autonomous driving arm Apollo rolled out a trial operation of ..."
-    publishedDateTime: 2019-12-09T07:58:00Z
-    sourceUrl: https://www.techinasia.com/tried-futuristic-self-driving-robotaxi-china
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
-        width: 700
-        height: 390
-
-secured: "d6Y1QSlbA/xxaMwKbEFjvrnuT8vFzc9FSCBJPmR5TWWidh16VyVsF8E0gR6QPJebLgGmfM2wBYzBlCuO4h+WVJPhqADVJ2ayLh7LEh+7EdCyeo50+r104qdWiP6JZnz0kcPyvhNqcZpah4K8Va3eJPux/uKsEBabg6oEpY01yyjpw7ejE9VIQSueTsES4m/0zlo3WbJdzVx7ilCEB/uhgDMQG7Xig11oZte2ouTJokMzpKXg86UhAm2NaHKiGYa3wTEL4aUdCaUQgQecgF94Fg==;3/cXS/71qfm3si8I7yuC5w=="
+secured: "LYgK5PNviB/wUKO8+hxtCsLTsriEfyAd2EBW/5IHXx5eGfgzX5G4ee4B7Qpvb6Q7h6HgVkBEnsQtTiLuULaF5Bk2iKDpPhz0Lnm19+pMPvBBbaLSK7KqQXob9OAPa7SOMX5Ce2PU9On51AgKQ9bjhEMXGWXEm1t/pvlPUsEdtJBnuZXdxJm2xtm089BW2YrNeY22UlxAi/n890FcnBQK8dYHRAeBI4SftXPOVbiI39Mg7wJndRMIL6REIUVJ99rA9dJWoRhpBvcGxwceZR4YwQ==;ZQK5n8KmAU6MWDqoLf7mXQ=="
 ---
 
