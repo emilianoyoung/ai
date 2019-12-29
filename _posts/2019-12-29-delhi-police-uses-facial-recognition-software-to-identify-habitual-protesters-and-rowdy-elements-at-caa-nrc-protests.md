@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Researchers: Printed masks can fool facial recognition systems"
-excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
-publishedDateTime: 2019-12-24T10:00:00Z
-sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
+title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
+excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
+publishedDateTime: 2019-12-29T00:05:00Z
+sourceUrl: https://in.news.yahoo.com/delhi-police-uses-facial-recognition-062529810.html
+ampUrl: https://in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
+cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
 type: article
-quality: 39
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Retailcustomerexperience.com
-  domain: retailcustomerexperience.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
-    width: 300
-    height: 170
-    title: "Researchers: Printed masks can fool facial recognition systems"
+  - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
+    width: 280
+    height: 187
+    title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
 
 related:
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
@@ -39,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
         width: 700
         height: 393
+  - title: "Researchers: Printed masks can fool facial recognition systems"
+    excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
+    publishedDateTime: 2019-12-24T10:00:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
+        width: 300
+        height: 170
   - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
     excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
     publishedDateTime: 2019-12-28T03:56:00Z
@@ -52,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
         width: 700
         height: 366
-  - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
-    excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
-    publishedDateTime: 2019-12-29T00:05:00Z
-    sourceUrl: https://in.news.yahoo.com/delhi-police-uses-facial-recognition-062529810.html
-    ampUrl: https://in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
-    cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
-        width: 280
-        height: 187
   - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
     excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
     publishedDateTime: 2019-12-28T11:42:00Z
@@ -96,6 +96,6 @@ related:
         width: 700
         height: 389
 
-secured: "a9L46VuWLoyEycgoRbuS99G5tnfngNy/cG5CRoVvHxqwoP14jkaVwS65dboNmzyH6L+Z71BMhGCOE5DwmBtGi6peSFInONKAAxpznRCG7t7qWKgL+hZJdyLIIq8xxxv+/LlvCdm+9vs6FnsrgaGxPrZ6E5VZVALpFWqT7alkM2cj+PcWNdfOirke8c0tK9/YdmTbKKIHqEu6srYUcga/8pP5T06zbvKsXj8D5tWS3y6IvwqHlxvmILchvHWZQP/pZW6k/OSpU3pVkNTdEGUJnw==;MA5GGRl/iplOLtr/zbveTw=="
+secured: "QK/qnuuPh8PZqEiBmrlkreSrXjChE7RleJN6SjfQGGh7IdJWgeGSgYkudBg8rmeL3rUTTV0do1YuSM13ojrQhxTrAz2wWl7pLK1FVxyTzN1aAjCVj1oVSb/PFwDyxkQQ9kaHY/ofpDRXV14bwcOSKKA4SuvMlwUBouemhY2+3soKuWU9K4/HhInAEmMVUVVFBEttG5GGtJ/E/FDHmMLb9jhOHZqHwCUxnVEGhkMhwGitCHJq30TQcp+5oMle8mCAKNZKnmqFJo4+mE6K52SGXQ==;ev0yagqLlKQZpfD7EydjvA=="
 ---
 

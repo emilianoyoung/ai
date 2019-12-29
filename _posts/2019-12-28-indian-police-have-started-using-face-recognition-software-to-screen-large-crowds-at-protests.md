@@ -67,6 +67,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
         width: 700
         height: 366
+  - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
+    excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
+    publishedDateTime: 2019-12-29T00:05:00Z
+    sourceUrl: https://in.news.yahoo.com/delhi-police-uses-facial-recognition-062529810.html
+    ampUrl: https://in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
+    cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
+        width: 280
+        height: 187
   - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
     excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
     publishedDateTime: 2019-12-28T00:06:00Z

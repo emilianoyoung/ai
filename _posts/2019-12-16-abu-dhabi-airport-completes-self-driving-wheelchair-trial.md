@@ -78,6 +78,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "9g68rPi9qrHV/jMk8ewesLfFFjq2OFRbAjhfUhB9/ihp5bPZ+z6AQtXdsbWNSKL5WL4a6f6HbsHL4IUp+6YvH5Z04/X/X2Zy93vqR7x3nA1Tvy32UpJA4Q4Lmf43Z8hmdiUsB6uXEApK0xLfB1pwzuun8FIQcI2ar7mVWFGlUsaA9mPZ1OL7mGXHxPIglrFdXkjmbYbiVTmDLcIWIDV1B2YEqBcHgpw4fQVD4iYeDGznpnsdiJAWAPSGC1qfrQCiGLrSYr85lnFiPq/Ho/iMPQ==;nC3qDP41a9eqlQ4tMC68BA=="
 ---
