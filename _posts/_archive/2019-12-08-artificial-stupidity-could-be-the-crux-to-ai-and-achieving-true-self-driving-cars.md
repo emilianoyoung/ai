@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-excerpt: "Overall, driverless cars to-date are akin to a novice teenage driver that is timid ... As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans, presumably you will need a similar ..."
+excerpt: "These are self-driving cars that have an AI system doing the driving and there is no need ... reasoning and in no manner whatsoever has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things ..."
 publishedDateTime: 2019-12-08T15:57:00Z
 sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
 ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,158 +30,243 @@ images:
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
-  - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
-    excerpt: "That’s the rhetorical question often posed when someone asks how much money self-driving cars will potentially be able to make. Part of the willingness and enthusiasm of VC firms and major automakers to invest in driverless car tech is due to the belief that there is a huge pot of gold at the end of the self-driving car rainbow. Estimates ..."
-    publishedDateTime: 2019-12-10T17:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-13T10:45:00Z
+    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
+    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Engadget
+      domain: engadget.com
+    quality: 101
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
-        width: 1199
-        height: 625
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
-        width: 600
-        height: 315
-  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
-    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
-    publishedDateTime: 2019-12-11T13:42:00Z
-    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
+        width: 700
+        height: 367
+  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
+    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
+    publishedDateTime: 2019-12-13T11:54:00Z
+    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 71
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
+      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
-  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
-    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
-    publishedDateTime: 2019-12-11T14:44:00Z
-    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
+  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
+    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
+    publishedDateTime: 2019-12-09T23:21:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 43
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
-        width: 200
-        height: 124
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-14T00:14:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
+      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
-        height: 393
-  - title: "Using artificial intelligence to improve chronic care"
-    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
-    publishedDateTime: 2019-12-12T15:49:00Z
-    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
+        height: 388
+  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
+    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
+    publishedDateTime: 2019-12-13T10:05:00Z
+    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
+    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
+    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
+      name: London Free Press
+      domain: lfpress.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
+        width: 700
+        height: 525
+  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
+    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
+    publishedDateTime: 2019-12-12T14:03:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
+    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
+        width: 700
+        height: 350
+  - title: "Google's self-driving car project buys British AI firm Latent Logic"
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+    publishedDateTime: 2019-12-12T17:21:00Z
+    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 39
+  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
+    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
+    publishedDateTime: 2019-12-13T17:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
-        width: 700
-        height: 447
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T18:05:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
+      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
+        width: 635
+        height: 400
+  - title: "Hungarian self-driving developer wins AI competition"
+    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
+    publishedDateTime: 2019-12-18T07:00:00Z
+    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 35
+      name: Budapest Business Journal
+      domain: bbj.hu
+    quality: 39
     images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
         width: 1200
-        height: 799
-  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
-    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
-    publishedDateTime: 2019-12-11T20:40:00Z
-    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
+        height: 800
+  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
+    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
+    publishedDateTime: 2019-12-12T20:20:00Z
+    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
+    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
+      name: Barron's
+      domain: barrons.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
+      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
-    publishedDateTime: 2019-12-10T00:09:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-09-mercedes-bosch-san-jose-self-driving-trials.html
+  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
+    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
+    publishedDateTime: 2019-12-13T19:04:00Z
+    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
+    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
+      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
+        width: 415
+        height: 290
+  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
+    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
+    publishedDateTime: 2019-12-13T17:32:00Z
+    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
+    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
-        height: 467
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
+        height: 350
+  - title: "Collaboration is key in the race for UK self-driving success"
+    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
+    publishedDateTime: 2019-12-10T14:55:00Z
+    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Fleet News
+      domain: fleetnews.co.uk
     quality: 24
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "Editorial: Be aware of limits to self-driving cars"
-    excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
-    publishedDateTime: 2019-12-11T05:00:00Z
-    sourceUrl: https://www.ctpost.com/opinion/article/Editorial-Be-aware-of-limits-to-self-driving-cars-14896305.php
+      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
+        width: 360
+        height: 290
+  - title: "What the Future of Self-Driving Cars Actually Looks Like"
+    excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
+    publishedDateTime: 2019-12-10T07:34:00Z
+    sourceUrl: https://www.inc.com/kevin-ryan/self-driving-cars-future-5g-cybersecurity.html
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Inc
+      domain: inc.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
+      - url: https://www.bing.com/th?id=ON.F1ADFD651C88D3B680F784AF1E485684
         width: 700
-        height: 445
+        height: 324
+  - title: "Ford adding to Austin self-driving car operation"
+    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
+    publishedDateTime: 2019-12-11T22:48:00Z
+    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
+        width: 700
+        height: 465
+  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
+    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
+    publishedDateTime: 2019-12-13T12:21:00Z
+    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+        width: 700
+        height: 413
+  - title: "How AI shifts enterprise decision-making into self-driving mode"
+    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
+    publishedDateTime: 2019-12-12T18:47:00Z
+    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 19
+  - title: "Uber eyes self-driving car simulation startup"
+    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
+    publishedDateTime: 2019-12-10T10:47:00Z
+    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "6P3Wts62AfmTJA4Ni3rHkRQZkzPHpkp42aqIyQrziodzYf9CQXvb/r+TiHzhPTs+fOIlPO37q2A1maycV02HDrGHTh3mExkM6gr4D0m6pOZG6YJqlD1wnyIB2nRDOQuP3IFkcz28sTVdddD3Qjay002AS2xKQkr7y5x87OrzERyYyhUEfO4iGkLzZ6vAlTkrkRebQRyavv+vWWCqLUAzUhdZ3oqncAgCpHD9OvVDvMAKg/7pxhRrGa+nmvFKZb+cd9YvNGwNubeTOppJ5zEF6w==;Xq4WCW6MonHlpQYuTiMY6g=="
+secured: "6pW6lAkgZnjKy5goC8r0DN8Y7W9dUFevk2oqO+BN9yqx6HhvK4A+MK/VSvgXt+wUNvzkqF/iLpXXqM55VoAstZ5fISagAHWXOZy3XiOzDOcRtjquo3n7G4Wk7CQswFNvookifX6joH7DVbCxcbNIlh5iEszFJQDJHsHcITlCyZGvJ97rF7gaGaxmhgVc08EQj5kc5nZS4okBCGDWEHD1f8V47QK5PmhvP52744zMqAV/e+aUvubxHkdS1SFobX89FzLCucmMsHea5Wi/K/I+5g==;kkBl3eVbaQE2vjt5KFlKkA=="
 ---
 

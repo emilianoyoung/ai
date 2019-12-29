@@ -86,7 +86,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 51
+    quality: 49
   - title: "‘Deep Learning’ picking up fast in India: Experts"
     excerpt: "Deep learning, a subset of machine learning, functions by imitating the workings of the human brain to process large amounts of data. Hyderabad: As scientific disciplines go, the field of ‘Deep Learning’ is but an infant. However, it will soon have a disruptive effect on the field of drug design, experts say. They were speaking at a panel ..."
     publishedDateTime: 2019-12-18T21:05:00Z

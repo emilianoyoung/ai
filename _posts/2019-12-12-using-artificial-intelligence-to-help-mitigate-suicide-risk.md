@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.27399CF43DFAB660A39D82FCF3A6AA5D
         width: 700
         height: 379
-  - title: "New software tool uses AI to help doctors identify cancer cells"
-    excerpt: "The AI algorithm that Dr. Xiao and his team developed, called ConvPath, overcomes these obstacles by using AI to classify cell types from lung cancer pathology images. Here's how it works: The ConvPath algorithm can \"look\" at cells and identify their types based on their appearance in the pathology images using an AI algorithm that learns from ..."
-    publishedDateTime: 2019-12-09T21:05:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.html
-    ampUrl: https://medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.B38E64E5457C51EB961384FCD4574FD0
-        width: 650
-        height: 569
   - title: "Study uses machine learning and health data to identify suicide risk factors"
     excerpt: "First-of-its-kind study used machine learning and health data from the entire Danish population to create sex-specific suicide risk profiles, illuminating the complex mix of factors that may predict suicide. A new study led by Boston University School of Public Health (BUSPH) researchers finds that physical illness and injury raises the risk of ..."
     publishedDateTime: 2019-12-10T00:02:00Z

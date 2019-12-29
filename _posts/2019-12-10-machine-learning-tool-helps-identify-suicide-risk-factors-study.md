@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/case-studies/machine-l
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/case-studies/machine-learning-tool-helps-identify-suicide-risk-factors-study/72455316
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "New software tool uses AI to help doctors identify cancer cells"
-    excerpt: "The AI algorithm that Dr. Xiao and his team developed, called ConvPath, overcomes these obstacles by using AI to classify cell types from lung cancer pathology images. Here's how it works: The ConvPath algorithm can \"look\" at cells and identify their types based on their appearance in the pathology images using an AI algorithm that learns from ..."
-    publishedDateTime: 2019-12-09T21:05:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.html
-    ampUrl: https://medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.B38E64E5457C51EB961384FCD4574FD0
-        width: 650
-        height: 569
   - title: "Study uses machine learning and health data to identify suicide risk factors"
     excerpt: "First-of-its-kind study used machine learning and health data from the entire Danish population to create sex-specific suicide risk profiles, illuminating the complex mix of factors that may predict suicide. A new study led by Boston University School of Public Health (BUSPH) researchers finds that physical illness and injury raises the risk of ..."
     publishedDateTime: 2019-12-10T00:02:00Z

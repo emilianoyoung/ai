@@ -56,21 +56,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "New software tool uses AI to help doctors identify cancer cells"
-    excerpt: "The AI algorithm that Dr. Xiao and his team developed, called ConvPath, overcomes these obstacles by using AI to classify cell types from lung cancer pathology images. Here's how it works: The ConvPath algorithm can \"look\" at cells and identify their types based on their appearance in the pathology images using an AI algorithm that learns from ..."
-    publishedDateTime: 2019-12-09T21:05:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.html
-    ampUrl: https://medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-software-tool-ai-doctors-cancer.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.B38E64E5457C51EB961384FCD4574FD0
-        width: 650
-        height: 569
 
 secured: "eGEXMoaoQA2S+FrCci9KH3LOpSrs4RW/Aeq1m7oEaTFT/i0neDjJYYRT/PqI2S+RKkvBji/g0bN4boljRopLjekWKsF4d5v8ZX8wbiV7qzl3SO0KSbgswFEGdam/Ics1TZiPq+n1ih5w4TnAu7sklv+zI2bSusnGsHYO6VhnG7NsHAHJXkkGlfvrUzMTibw5Tg0/glggkmSd/0HGp27BMWoGFbsxbG0zW/zYNzgf3UL05VEQpQBDUl4yzNhimuuqno2Cywk6xX1ZJRNX9j14uw==;tZGrtI76btGoK6yJ/D81kg=="
 ---

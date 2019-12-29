@@ -114,6 +114,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "WotAj9YCvmWFnNA37+WoupLbM3eAXY2jFB78gSPBni2llfrWwkU/VAUiR/coRTbuexsoZrrsnPof6q3fm4bOAYAi6z7QXcDMVQM/b9xhuPoCjUu1Ko00wOOTf0B+KZiB9aADgXKsDUUP5ZvuUVa01M2zRcC2TFQX8Za3DeggzkF5mGSG7KQxKdDBuSdaIWwvYBJYBCnuFOj6spLb8icUWQ+5mkMLnHWwM9ekyPgLONw/8X+VkbBpiU1dQWDcs/cDlhJZqHp27Ryyy4WtFEAo4g==;9VuRP+JmKdkwG9fRqqqJRA=="
+secured: "DogTtMv0/Ztr5HFwVETuyMHwPEgnmQrWRCZQcHO2dPb+Y98kDCn7pPDsHuPyCfjZbAgWlA4O6HLuBetr3C2ehdbPuwbQW9HQHKO40YFSS2nzBpAgPi27iWJujo/goS1p682Anqmh6ODjCUIMtAchcmGDd7eC+h+iDK9wa26V2FhdY7YBkQM774NgSLokbiipKoAGXY6g6SHCJWvp4TJeecoQXlnWhp8qdVAlE7Kw89JhVOx/5PnllqGl14U2l4M1wv/O3cKImHMA2lJFNuHLHg==;/zoP/eZkdbpu5m39VbdNww=="
 ---
 

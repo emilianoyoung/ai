@@ -86,7 +86,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 51
+    quality: 49
   - title: "Many companies are still to embrace deep learning"
     excerpt: "Despite perceiving it as a positive technology, many organisations aren't sure what deep learning is and how it works. Many AI decision-makers, in large organisations in the UK and Nordic countries, don't really know what deep learning is and how it works ..."
     publishedDateTime: 2019-12-19T14:00:00Z

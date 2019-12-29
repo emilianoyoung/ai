@@ -35,6 +35,19 @@ related:
       - url: https://www.bing.com/th?id=ON.97F40836DEAE5458B7C2A3E52920AFAB
         width: 700
         height: 350
+  - title: "Using artificial intelligence to improve chronic care"
+    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
+    publishedDateTime: 2019-12-12T15:49:00Z
+    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
+        width: 700
+        height: 447
   - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
     excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
     publishedDateTime: 2019-12-10T05:19:00Z

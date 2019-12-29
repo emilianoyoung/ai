@@ -5,7 +5,7 @@ excerpt: "Computer scientists, using a divide-and-conquer approach that leverage
 publishedDateTime: 2019-12-09T21:41:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
 type: article
-quality: 51
+quality: 49
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Natural Language Processing
 
 related:
   - title: "'Learning' is still the operative word in machine learning initiatives"
@@ -104,6 +103,6 @@ related:
       domain: itproportal.com
     quality: 39
 
-secured: "2BICcShx5cFf72gUf8QW5NikLeNVcSc71JAAvM7H4pjCi4a3Ln0J4RgWxBWsr7WzF5nxqVXIs5ZL+Xyj+U2nio+/eK2dQSFqB/E46nEmiqel/AC0umek/1emxB1mxxKD1n/Zm08GfvSncL3yIlC5heQrDoGDVaTVqJ8z5IUx6oWSTK95vK9IaUdMcpw6nYcH+uf6FnUPP1vUkL1UAFkg0Owp3AtGoGkcAPZWJkWhuGHwcg9wIQDIFblTJ5WdsLD4Oyea9G6NVtZmytDH+E1PGQ==;W3FtDLoUx5CLGemBYW0rvg=="
+secured: "I5dFX6dGrFvctO9bRAGc9NNx1TEpUu9JE42hPBXc2u1mO16hi/zhyVb1u9OSeDhtBMn4S6hDqRI/EpHtKkSWu+PTrtbBW0xMQ8FBEJRg6254dsnekmHbKbz5w/4QgzSmaAxBM6QE0hMsxL/RZVqK+8THVoLkdvLI3j+3hDX1/U8RRkpAi/U0xJVZz1wL7KwzlEDukGud09th0KbN8ghFu7nMm7dcdIJrd4HM/wO95UqSN9fAPOJyJsinazEEB3s8AxSh2etXzvrZREDRL9XCYA==;vmnvASV3EK1L2YsZnrbsXg=="
 ---
 

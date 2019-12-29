@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A6CEA6DF9DC2BA2F201668BC61A3DC8
         width: 700
         height: 366
-  - title: "Drone-racing human pilot defeats AI -- at least this year"
-    excerpt: "A human defeated a computer-piloted drone in the Drone Racing League's first man-vs.-machine competition. But the programmers behind the AI-powered drone, Team MAVLab from the Netherlands, can take consolation in a $1 million prize for creating the fastest self-piloting aircraft this season. The Drone Racing League mostly involves human pilots ..."
-    publishedDateTime: 2019-12-09T21:40:00Z
-    sourceUrl: https://www.cnet.com/news/drone-racing-human-pilot-defeats-ai-at-least-this-year/
-    ampUrl: https://www.cnet.com/google-amp/news/drone-racing-human-pilot-defeats-ai-at-least-this-year/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/drone-racing-human-pilot-defeats-ai-at-least-this-year/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EC829DC3F4C8AD83DDE649867699E27C
-        width: 700
-        height: 525
   - title: "Humans best AI in first-ever Drone Racing League showdown"
     excerpt: "The Drone Racing League recently held its first Human VS AI match, pitting a drone helmed by AI developed by Delft University of Technology’s MavLab against one flown by human pilot Gabriel Kocher. Despite early race hype, MavLab’s machine took a big “L” as Kocher flew away with the victory, running the course in half the time it took ..."
     publishedDateTime: 2019-12-10T21:41:00Z
