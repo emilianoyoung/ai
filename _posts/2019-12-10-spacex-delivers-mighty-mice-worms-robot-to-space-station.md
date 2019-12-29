@@ -24,21 +24,6 @@ images:
     title: "SpaceX delivers 'mighty mice,' worms, robot to space station"
 
 related:
-  - title: "SpaceX Delivers ‘Mighty Mice,’ Worms, Robot To Space Station"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. NASA has tucked some Christmas presents in the shipment for the station’s six-person crew, as well. It’s ..."
-    publishedDateTime: 2019-12-09T19:45:00Z
-    sourceUrl: https://chicago.cbslocal.com/2019/12/09/spacex-delivers-mighty-mice-worms-robot-to-space-station/
-    ampUrl: https://chicago.cbslocal.com/2019/12/09/spacex-delivers-mighty-mice-worms-robot-to-space-station/amp/
-    cdnAmpUrl: https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2019/12/09/spacex-delivers-mighty-mice-worms-robot-to-space-station/amp/
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3854B80A6F236C3CD803B491D5419A95
-        width: 466
-        height: 700
   - title: "Robot arrives on the space station to keep astronauts company"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
     publishedDateTime: 2019-12-10T05:43:00Z
@@ -67,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DC1B10D94D76FFE2EF00997D6C82CC8D
         width: 465
         height: 700
+  - title: "The Introduction of Collaborative Robots"
+    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
+    publishedDateTime: 2019-12-16T17:10:00Z
+    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
+        width: 700
+        height: 425
   - title: "SpaceX Dragon docks with space station, delivering 'mighty mice' and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
     publishedDateTime: 2019-12-10T10:02:00Z

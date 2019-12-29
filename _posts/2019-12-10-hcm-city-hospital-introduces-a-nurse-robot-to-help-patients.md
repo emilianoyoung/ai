@@ -23,21 +23,6 @@ images:
     height: 402
     title: "HCM City hospital introduces a nurse robot to help patients"
 
-related:
-  - title: "The Introduction of Collaborative Robots"
-    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
-    publishedDateTime: 2019-12-16T17:10:00Z
-    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
-        width: 700
-        height: 425
-
 secured: "daWOpKWUD8IremZ5JHFYqNNJNO94yJ0x/3QpIl2XGEKDox1cSKzaZCscL8I0mwlmuWQecCWXgIcqus2P7xJ50YAMSWPBvg2MN67Bg8elc75MmVVp/nVlkVcX0JtEv1mVYPh7/IGerUbANUgfw7tZmCPR60lDlMWUbPxrq7UjH1xcFUeTsT9tBYv1onBzaC66Gt01DzJVAw2pkqdABJj5IpTwIMUbheEmOxxLqK4FmIUvfWCpbZupJxI74b0YVqkvDxwAuEV+rHp0DbevrwKfIw==;g1ssFpnvNsPWJ2Lb/sMaYA=="
 ---
 

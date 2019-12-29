@@ -48,19 +48,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 12
-  - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
-    publishedDateTime: 2019-12-09T19:19:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/univfy-to-present-at-digital-medicine-medtech-showcase-on-how/article_4b601435-f3d2-53fe-867c-94e849190ef2.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
 
 secured: "3rnmWD/hc1tqEpd+hsCpiYOl2JpZMGkA0Bhsc2gg2JkAIeGR547QAgxqkl90V4ytPzJmP8LwDQqF8OvDnzt4AdFqpGYTEtD4W+oOp7EkDh4K3ohS6vP06O4eReEp1n6flgT0aUKwbNcyyU7hZvwKsh+F/cK0SU6F1RWaG8mYgmwR11swaiJHLlPzIW6odC8Nh6gIhIJW83Y52Dl/P12tXv1YRJdTFgT+tLe76AzlgYKgCkSgxCLxd+RoQwV3Wsgj1X6MGffUiCh9hG2OBR/aKQ==;obV2grW08OVsC9pBNMM9wg=="
 ---

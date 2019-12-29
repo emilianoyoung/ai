@@ -66,19 +66,6 @@ related:
       - url: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/objectnet%20collage%201800.png?itok=dMr5X_p8
         width: 639
         height: 426
-  - title: "MIT project uses camera and AI to 'record' hidden objects using the shadows they cast"
-    excerpt: "Though humans can perceive the movement of objects using their shadows, we cannot determine their colors and may not be able to determine their shape. The newly detailed MIT AI can, however, recreate videos that include hints about an object's color and shape based on the shadows it produces. As demonstrated in the video above, the AI was ..."
-    publishedDateTime: 2019-12-09T19:26:00Z
-    sourceUrl: https://www.dpreview.com/news/0774234764/mit-project-uses-camera-and-ai-to-record-hidden-objects-using-the-shadows-they-cast
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.6402C4C13062E06016B3AA716EB0C774
-        width: 700
-        height: 393
 
 secured: "JIbA/srUhHBhjWsvX115Lw3pS9SW2OOL24iDIa+03gI0pomPQ5ms6ju0AtcRoi7Bo12H9g2wm9ZTLVnAKHz7cM7wLwIlb+DrBWRQaAgsOayATHOhcjlEXD3RRGEsQx901v8+QM5HCP9eqafmOZDrSjZDKuqgD/EyxydjhuYppuJpkJUKMlXrMbI1n3Q+xcFKQltTNgMicBIXRZi1KBie9vBAENnVnHsMD/wHx7gFYXEtBiVKxWxVxh+DjG/nDmEa1KH2VBraXWyLrvLd/wVxXw==;aULOrQr/zu96ttl0S85JFA=="
 ---

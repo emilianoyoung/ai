@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C64E2F39B6518C98F6F8C15D748BE7EA
         width: 700
         height: 350
-  - title: "NVIDIA Is Using Machine Learning To Transform 2D Images Into 3D Models"
-    excerpt: "Researchers at NVIDIA have come up with a clever machine learning technique for taking 2D images and fleshing them out into 3D models. Normally this happens in reverse—these days, it's not all that difficult to take a 3D model and flatten it into a 2D image. But to create a 3D model without feeding a system 3D data is far more challenging."
-    publishedDateTime: 2019-12-09T19:20:00Z
-    sourceUrl: https://hothardware.com/news/nvidia-machine-learning-transform-2d-images-3d-models
-    ampUrl: https://amp.hothardware.com/news/nvidia-machine-learning-transform-2d-images-3d-models
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-machine-learning-transform-2d-images-3d-models
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.6C07180F951180B6AAD09712AF873D4B
-        width: 700
-        height: 463
 
 secured: "ZteuruYZTbxsqFLkuag6k1XMhl69HOZres/WHjkyaI/vmyF0je0NOuyxlS/1YCjapCJL4BOGLxN+iNZR62gCEfX2DggUSGOXZfHwo6HDyQfMeRM94d39ws2kJMuCceiBZK7g9341e/zoWzlHTfBYiPf/w351Fo4w5HEga1xqyHRKRxzZzu7kv4e+3b3vXdmQ8fUx/Oa4K5GRxI60j6zDV9+L9GznRP7eTsJP5OtH56GqVb4KgN+dAUBYpsvgx9ROMfypbN0GIfXSBpk+IWRYGQ==;97IJGYylXjRDdVd15vl+IA=="
 ---

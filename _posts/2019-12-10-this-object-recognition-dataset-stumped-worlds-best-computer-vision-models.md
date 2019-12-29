@@ -67,19 +67,6 @@ related:
       - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
         width: 980
         height: 551
-  - title: "MIT project uses camera and AI to 'record' hidden objects using the shadows they cast"
-    excerpt: "Though humans can perceive the movement of objects using their shadows, we cannot determine their colors and may not be able to determine their shape. The newly detailed MIT AI can, however, recreate videos that include hints about an object's color and shape based on the shadows it produces. As demonstrated in the video above, the AI was ..."
-    publishedDateTime: 2019-12-09T19:26:00Z
-    sourceUrl: https://www.dpreview.com/news/0774234764/mit-project-uses-camera-and-ai-to-record-hidden-objects-using-the-shadows-they-cast
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.6402C4C13062E06016B3AA716EB0C774
-        width: 700
-        height: 393
 
 secured: "JI3Iy/ilS6TiimYVRlaUsNQlirjmC9mtAruG1uF1uI6mpAogPtpZ1As7GC/XV93KbFvl4bXyxhFGL7G0TdrY0PT2tSu4Bfsoxoqqaw1d9cerH70iE+Mh8Y10pQm+TrUec/sx8//QVvC83gthP4iEBPOfb7YdOWe4dCWnXDPtAwnfhr5M3OWlVDmmnbj0bWQqQ0jv9yAYc/O5v9mmWHaPMn6QoslP8B4pGLjuXGAVlXx8RV1ztPxnUD0kvPAPQeG3Rv5bQzVzEMxF+vhGuQRj+w==;jpAsipuH1MDbuAImG6NHYA=="
 ---

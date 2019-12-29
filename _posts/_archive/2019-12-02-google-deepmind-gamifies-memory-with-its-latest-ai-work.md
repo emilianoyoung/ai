@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -23,21 +23,6 @@ topics:
   - AI
   - Google AI
 
-related:
-  - title: "Google’s AI makes memory a game"
-    excerpt: "Tiernan Ray explains how DeepMind, a unit of Google that develops ambitious AI projects, found a way to stimulate the kind of long-term planning of risk and reward that humans do by turning memory into a game of actions and future payoffs. Read more: https://zd.net/2YEyR9W"
-    publishedDateTime: 2019-12-09T19:56:00Z
-    sourceUrl: https://www.zdnet.com/video/googles-ai-makes-memory-a-game/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.1099518FC1D0FA72BD790AC6B1F9111B
-        width: 700
-        height: 525
-
-secured: "GZXRcSPcmoHoJbr52IIgaYxuJtkb0oQUQc1flsPpUIpYWuf5a+BL2GF3ywPDqoGXlD8/rUIC7ILCBq7RePEPd5RwfQGOsFYGSXTgSCvo6U562X4Ej3Zc2rFu6UkL9dU8FVCfRfYcjeP1zpb2SB8hxP12O4oi/e8l9cNcbRAUdT6xH3os5mAVDfIt70GefRN9S25GfhCKL+7KH/tombgTDCUzex04CSJgJ8p/iFHQM3B9hqDhlOaz31s/j7tNDdFTzhtl+QQ1Db4chhSv9bmsnQ==;/K0pze26FgwdciR0jyfEbQ=="
+secured: "xufOxyxkBTbMlQVYFiBNGRbAiNlXixAuFRZWsebyO5rM79Rn+gdFCBTNUobuxGfSK7yswbNBg9WtUYds36qNsVKYK1KzursIjjERMyN+DzENfVckWyN7f5siODC2zix4p4QNQ7jJPCone+ocwmkuvKq1koXjQ29ML9+m+0Ahe6SGPewtSi8BfR8UKBhc1pX0A6uMJG2AOMncRZghr/R54eFY8nR2u8pui8th0TpJLAp+RNxcbSpZ2hWHfoBsOETmX3FeWpg7sYRLEQpjUz+EWA==;YV2Zz7rjaq8XtheSu6BaFQ=="
 ---
 
