@@ -18,21 +18,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial intelligence – Promise vs. reality in energy tech (an oilfield perspective)"
-    excerpt: "And this is especially the case within the oilfield technology industry: As a short historical background on AI’s components, machine learning was introduced relatively early, when Frank Rosenblatt introduced the first artificial neural network ... known example of AI in use today is the self-driving vehicle. It’s a widely used reference ..."
-    publishedDateTime: 2019-12-09T10:00:00Z
-    sourceUrl: https://www.itproportal.com/features/artificial-intelligence-promise-vs-reality-in-energy-tech-an-oilfield-perspective/
-    ampUrl: https://www.itproportal.com/amp/features/artificial-intelligence-promise-vs-reality-in-energy-tech-an-oilfield-perspective/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-promise-vs-reality-in-energy-tech-an-oilfield-perspective/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.E4658E5CA9670AB56E910E158996444B
-        width: 700
-        height: 393
   - title: "A Breakthrough in Artificial Intelligence Technology in Trial for Detecting Polyps"
     excerpt: "The clinical trial is using Artificial Intelligence (AI) specifically designed for the colon to assist ... as well as for identifying existing colorectal cancers early - which can improve survival. AMSURG, an Envision Healthcare Solution and partner with Raleigh Endoscopy Center, performs nearly 1 million colonoscopies a year and is committed ..."
     publishedDateTime: 2019-12-09T13:28:00Z
@@ -46,6 +31,41 @@ related:
       - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
         width: 600
         height: 315
+  - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
+    excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
+    publishedDateTime: 2019-12-09T15:06:00Z
+    sourceUrl: https://apnews.com/Business Wire/105e3daa67ea48ed8f824ed1b5bf4fcd
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
+  - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
+    excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
+    publishedDateTime: 2019-12-10T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/singapore-bigo-technology-integrates-artificial-150000658.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 5
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/8MZkiKGI_SQP6SayT2hVsA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/34d9670c2d22759e7021f8c0c1218949
+        width: 480
+        height: 320
+  - title: "TowerJazz and the Technion Developed a Breakthrough Analog Platform for Artificial Intelligence in Edge Devices"
+    excerpt: "The technology enables development of ultra-low power Artificial Intelligence (AI) cores suitable for IoT edge devices and sensors such as fingerprint sensors, face and audio recognition applications among others. Compared with existing digitally based solutions, this solution enables several orders of magnitude lower power consumption and is ..."
+    publishedDateTime: 2019-12-11T11:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/11/1959087/0/en/TowerJazz-and-the-Technion-Developed-a-Breakthrough-Analog-Platform-for-Artificial-Intelligence-in-Edge-Devices.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "nkTuhIIn2WvPfzzkDO24mC9s0+I7J6pnSBXXu0tBbJC+5QLARWxIW7rckL0MQcuH+75EcNsD0AlNARpT3rYxP0zrrIxx+JSFBGyazvOY+t4fBvBNW9PYt+3VmHB2tX556IlTVmbpTlPlobgi15ZgkxVSRaO1p5Q5tMaAZQiG6S+fL0eYhiq7QUMLiXlqL3K38DQ6lwHwD2UfgXLCvejd0nXuIm17F9nqugEjjxmTy+7/3GihcC7QP1guj2v3WTdeFSRfVKQoFbZKsBX0/gx8mA==;kHnUMwLquGiKaY0tHDUAUQ=="
 ---
