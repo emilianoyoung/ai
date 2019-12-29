@@ -144,21 +144,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
         width: 700
         height: 466
-  - title: "UAE to soon have 5G-enabled self-driving cars?"
-    excerpt: "The deployment of self-driving cars is part of a government strategy to make Dubai a world leader in autonomous transport. Part of the plan is to transform 25 per cent of the total transportation in Dubai to autonomous mode by 2030, involving five million daily trips and saving 22 billion dirhams in annual economic costs in the process."
-    publishedDateTime: 2019-12-09T03:43:00Z
-    sourceUrl: https://www.zawya.com/uae/en/business/story/UAE_to_soon_have_5Genabled_selfdriving_cars-ZAWYA20191209031502/
-    ampUrl: https://www.zawya.com/uae/en/story/amp/ZAWYA20191209031502/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20191209031502/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.2C3464C927EC7698ACE557CAF0EDE859
-        width: 450
-        height: 300
   - title: "Ford Expands Self-Driving Business Footprint In Austin"
     excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
     publishedDateTime: 2019-12-11T20:05:00Z

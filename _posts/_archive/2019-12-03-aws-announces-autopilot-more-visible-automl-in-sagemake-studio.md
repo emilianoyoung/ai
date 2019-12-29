@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-    excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
+    excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T18:31:00Z
     sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
     ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
@@ -35,7 +35,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 101
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
+    publishedDateTime: 2019-12-03T20:24:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
+    images:
+      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
+        width: 1000
+        height: 667
 
-secured: "qm5ap1jtVKII4UhuG1kqQXtGHc5Tw/R844DcVly/Twn1deNsi7/IpLLGKoBctNhXZIS99+VXkfu9VauipW0YwWV9N8ZG5tcIachR5QSAv8lyGsUNesg0buorsgBaPsws6mIKzdIaXHQFRmbg0SkEYVWBiHJ1BgsLZ+jUG0WZRbC86RsUBi1FPH0+zQyx+329y4htaojk3g2Yj8k15Nz6HGWLBvbUuEn3c1Grjkc5j3bMtN0CKU8COtjntQJ9Re9kW5uzF1o3Qrx/H74DNYHbMw==;1KnrJHGgXXQXRHwDgDbaag=="
+secured: "rL/va5OOzSzFXHxnLdwRLuFvW0YyO5Vq4A7ddnWh4nfj5NoTT+F9Zl86CAIR/Wcf9fSHXp0ZGoSjK7+eiMfxoZyAwpO8AXZ3WZGAiJ1m7ieJErignSfnj3hTK8n4p9u/WWkuCX49ebv9d1cLOSXHvJerKBEXJ8gomAn+HGqG+4lMN3ndW3Kbbf6cb5h9IjEyzn+hm2MJkbx0hT6Wo0IWHG5eFNGV3d3oMQ5eLYVdib8pYKiEXy12EJd3mJGuSTAW60bTkka+capgF5oeQjbYGQ==;TAOrhsYAbSy05BYSHtZ48Q=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/self-driving-baggage-tractor-is-the-latest-smart-tech-for-airports/?amp
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Self-driving baggage tractor is the latest smart tech for airports"
 
 related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "Overall, driverless cars to-date are akin to a novice teenage driver that is timid ... As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans, presumably you will need a similar ..."
-    publishedDateTime: 2019-12-08T15:57:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.71EF054EEEF5E674D34310009406C552
-        width: 600
-        height: 315
   - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
     excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
     publishedDateTime: 2019-12-11T13:42:00Z
