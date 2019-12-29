@@ -39,20 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.5CB156BFFE4FFC3FED774EEC2F523F74
         width: 700
         height: 390
-  - title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-    excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched in Arizona, US last December. In the white-hot competition between Chinese ..."
-    publishedDateTime: 2019-12-09T00:16:00Z
-    sourceUrl: https://sg.news.yahoo.com/tried-self-driving-robotaxi-china-045809725.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.7CF214946F8D29EC5FC8F9B575E237A7
-        width: 700
-        height: 393
 
-secured: "s0I22li3+DDF62YaJaltsmBx+GQYWdJNPy2Q2LKJdgSgkKay5UX+3zpY9aHZhoPHYSUqFsdL0/kG7tYP0hfIMBBAyl1kspYYNAUVP9a19/1pIyGV9rzk8rdbwqi0plPAcOAU21Pz0lzoWjdQl/tk0+zwDhnuJxECiswh4vrxsU1PKLvtq334rGXMpiSKj4nxqqTcUwu/5K6bVauyR1fdiSSsVdP26N2NlXNBEjiOOUNXajMPsOWUzK5HgyVRb0/4aMR6WC5NegJWBKTiO5C/HA==;/jDf/KytnQN762dFg+d4kA=="
+secured: "SvlIszCR5NT2u4nsyWr/Tv8fCCjRFrBitFIUM+SP9fTJCUb43KMLn13uYeVm7tRO3Jv2n220q8RV5cIcxj7DDl1W14srF3IFm8Gya6IbWSnFIpUSQAkuwBuTlydJdzUlOYub5iqrGRrnP9HjrzokA7T910Wl9fZ+1AtcbwPORFer2+k/UXPaQc2e4RI6ADo9D6DGBVO5qLn6Y74afzAbz9Ig4vGx/VMpX+G4dOOmoJGPuBElcvRHmeWozQc2YoF+TWwS9oyT90E9JpUkZCJlBQ==;M08LdWQQSXeVoUdG8Yqx8Q=="
 ---
 

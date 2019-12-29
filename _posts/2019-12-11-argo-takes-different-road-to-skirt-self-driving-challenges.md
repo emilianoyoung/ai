@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "Waymo Chief Executive John Krafcik said. PITTSBURGH: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of ..."
-publishedDateTime: 2019-12-11T17:19:00Z
-sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
-ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
-cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
+title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
+excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
+publishedDateTime: 2019-12-11T12:31:00Z
+sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 54
+heat: 104
+published: true
 
 provider:
-  name: ET Auto.com
-  domain: indiatimes.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://etimg.etb2bimg.com/thumb/msid-72474883,imgsize-77190,width-800,height-434,overlay-etauto/argo-takes-different-road-to-skirt-self-driving-challenges.jpg
-    width: 800
-    height: 434
-    title: "Argo takes different road to skirt self-driving challenges"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
 
 related:
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
@@ -78,7 +80,16 @@ related:
       - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
         width: 700
         height: 419
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "cZz5UV3kXUW86C5ZWzaQ1XEHMtUsFMErS1r/lkCMYbNoHWF6lUCs39zxbJCIUqKfpn5dlVa7Z5thxjTEeo1vgClvJ/BC1SfH6Wo290mQjqwXEAazo6l/yub9BOuN7SC/bTHbs2lpk+sRxl+ebLjVznbCLB79MQmNIBff6anCMd6yXCYTv5EEosi3/giRrHC1UzugGJ+vIGxBWZr6o47pBPkr/slWwXeASauW5LTcym+u006zID/uHrxi7lF+lShs2drNvl1r6irsZpoBwYVxDw==;T8nVYnG1lIsbfaPb0bcMaQ=="
+secured: "GiLV8berOeHP86tZBcgLDJCxPfzrJoCJOX3XrWQiXnPfFxS88leXzKUWLaslwVGZhLY+nnteME6eXFSsfeXBsUvJV5PdZCZapZAHp/p4mf9VF1h3TbiumL9yfPq57chgYcn+oEq/ARGnSsnu9uecu0yqcD8Hr/4j7X0XZUk9RhIbIbKJU4YDBiBVfqmpqtS6MpRYppHB30vVy05EA9DelKz7LT00R4r/fWdszhpQrFw0nvYaIJCtWHczBnPAK7srysmPEw7dyX+AdR3cFk3n0w==;2u5XXX28Hd7y86gf7ylyKA=="
 ---
 

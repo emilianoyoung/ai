@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.97F40836DEAE5458B7C2A3E52920AFAB
         width: 700
         height: 350
-  - title: "Now in India, US-based startup ELSA uses AI and NLP to help people improve their English"
-    excerpt: "Manit Parikh, Country Manager, India, ELSA. ELSA was built using artificial intelligence (AI) and natural language processing (NLP), catering to different native languages. This app provides instant feedback once you speak and gives detailed analysis. It lists out your strong points and the areas that need to be improved. “Once a person takes ..."
-    publishedDateTime: 2019-12-09T00:24:00Z
-    sourceUrl: https://yourstory.com/2019/12/us-based-english-language-startup-elsa-ai-nlp
-    ampUrl: https://yourstory.com/2019/12/us-based-english-language-startup-elsa-ai-nlp/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/us-based-english-language-startup-elsa-ai-nlp/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.3A57C6DDC22DD5A319E01BDAD17F7A11
-        width: 700
-        height: 350
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z
