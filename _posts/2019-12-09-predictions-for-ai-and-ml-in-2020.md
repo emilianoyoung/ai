@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
         width: 600
         height: 315
-  - title: "AI In Call Center Applications Market Detailed Business Analysis, Latest Trends and Demand 2019 to 2024"
-    excerpt: "Global AI In Call Center Applications Market This market research provides an analysis of the most important trends expected to impact the market outlook during the forecast period. Research classifies an emerging trend as a major factor that has the potential to significantly impact the market and contribute to its growth or decline."
-    publishedDateTime: 2019-12-09T04:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-call-center-applications-market-detailed-business-analysis-latest-trends-and-demand-2019-to-2024-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Unichip uses Cadence digital implementation and signoff flow to deliver designs for AI, HPC applications"
     excerpt: "The Voltus IC Power Integrity Solution enabled GUC to accurately analyze the top-level full-chip static/dynamic power, IR drop and electro-migration through ... particularly for emerging application areas like AI and HPC,\" said Louis Lin, senior vice president of Design Services at GUC. \"Through our deep collaboration with Cadence, we deployed ..."
     publishedDateTime: 2019-12-12T04:37:00Z

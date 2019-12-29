@@ -97,21 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.957D0AEA98B9221FD6533941D2FDBE01
         width: 700
         height: 394
-  - title: "SpaceX Dragon docks with space station, delivering ‘mighty mice’ and a space robot"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It’s designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research ..."
-    publishedDateTime: 2019-12-09T04:22:00Z
-    sourceUrl: https://fox4kc.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/
-    ampUrl: https://fox4kc.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/amp/
-    cdnAmpUrl: https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/2019/12/08/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and-a-space-robot/amp/
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.B777F4D4A7F5F8D7EEACD7C9F35C530E
-        width: 700
-        height: 465
   - title: "SpaceX delivers 'mighty mice,' worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas ..."
     publishedDateTime: 2019-12-10T04:49:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "AWS AutoPilot gives you more visible AutoML in SageMaker Studio"
-excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
+excerpt: "This new tool is part of the new SageMaker Studio also announced today. As AWS CEO Andy Jassy pointed out onstage today, one of the problems with AutoML is that it’s basically a black box. If you want to improve a mediocre model, or just evolve it for ..."
 publishedDateTime: 2019-12-03T18:31:00Z
 sourceUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/
 ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -21,23 +21,10 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - AWS AI
+  - Machine Learning
 
 related:
-  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
-    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
-    publishedDateTime: 2019-12-03T20:24:00Z
-    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 45
-    images:
-      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
-        width: 1000
-        height: 667
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T19:12:00Z
@@ -52,6 +39,6 @@ related:
         width: 1280
         height: 960
 
-secured: "v5kAY2sGQjp6ynqx4q88I0xCZUzu6clpgtgLJcus35eTDQmQ3scZrwC19wCiS83c1/tb744qtWQHwGJ6Ulj/eeHnkWF4p8Z9wI9o9/ufiaj3UpUkK5zgOCOB3y6pxD6EH3xwmvNIWuC49XXNjt308dptqSyUZ8JAj0lQNik+udRT4QUCRSGuGXVuJ8zHLXUtW1MRMqvn2a1Il0jdbCzJHh6D8ro11ojY51YKRPjM9NiPhm4Sop8WWRhrSWjPbIsXpk83huKmDGgUMJ4WJBp4CA==;Fy2JQDmH+tSXfNiJ1Xzc1Q=="
+secured: "eyzRYW9iqDdXHWXRwvFAbVM5hUCMyOtNMFtYdSaPdwWPmIW9kwJrEdOj9CYJGM/j6svnLbDuzRkmw3fn7s/QEuxDA3zQSfO/iGQtVnW3kVxGaVX9MXpow6sHWrLaR2duG3VdHTyHTjyGWnWzC1NHc+lt3sTcy3Ux90ZVN9nmexKqUGZ7+8Yk1yrRyScW6eer014WnxeXzgVcyokDgoLIXbqv9Hi9cJJl66o1UMDRsNZ0cmnPFLbraf9J6HZzdIsskfDMIqDfVadaQntBMZ8xFQ==;hI+qJa8YlAkg/tpPGF8OIA=="
 ---
 

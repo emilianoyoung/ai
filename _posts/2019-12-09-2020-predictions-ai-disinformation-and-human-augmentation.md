@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-d
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
 
 related:
-  - title: "AI In Call Center Applications Market Detailed Business Analysis, Latest Trends and Demand 2019 to 2024"
-    excerpt: "Global AI In Call Center Applications Market This market research provides an analysis of the most important trends expected to impact the market outlook during the forecast period. Research classifies an emerging trend as a major factor that has the potential to significantly impact the market and contribute to its growth or decline."
-    publishedDateTime: 2019-12-09T04:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-call-center-applications-market-detailed-business-analysis-latest-trends-and-demand-2019-to-2024-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Predictions for AI and ML in 2020"
     excerpt: "Data scientist at Hitachi Vantara, Dr Anya Rumyantseva, said: “Artificial intelligence isn’t just something debated by techies or sci-fi writers anymore – it’s increasingly creeping into our collective cultural consciousness, but there’s a lot of emphasis on the negative. “While those big picture questions around ethics cannot and ..."
     publishedDateTime: 2019-12-09T09:22:00Z
