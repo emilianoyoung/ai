@@ -23,6 +23,6 @@ images:
     height: 419
     title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
 
-secured: "irpNVRPkspyzvAHlGLilTd+bPQmTq7E3uL/fPMNVSoyGX1gV2VriznjRwzIWksFQ/YWoMjkoYEz78GxgpQ/4ar0KJ+oMFMJgNUfSHUGva9fKMC7NJneKvr/4fYVrjUC7X88gUfjHvnyCucGesN2pWISOODE5VAQoRRbim8fw3U3jY0QOBSRQXxz+Il7zaFxYFSP9AfZkl38U5AY+Tchd/zNp55vdPaLY3BWl5d3HbCym3Y9NC5f5fG5pw+pHE2wf4nlFORx600WQDmskUMTsvQ==;9vuygP9/QWGgd4Da8iJD3w=="
+secured: "XJvkywwHPU6Yp33YbvmSNbcAhh/ol1LzLyKHsfUl7BIGPcykKBf75kvNK7U1VwasxbPLzbnIRL5CdhCpxz1pkHbMgRxKDDekJxPYrjOdcj3Snk+NrtYWXyzAHny3YgkaGCH4LpJtRwDHqe8bxMZ4h94P+TRYK5PznMIYKrwsuPUn6Sx2ojaAtnepI2jigHzZWe8FwF/VV4nxiDso8C/6/eOB9/w3A/RF8ki9u+76MEQEnWM75vhDelFGWM24qGT1GVRZR5VTH0iWEmKgEm9pHw==;GtLW/CpWRPoVej4qksWDUg=="
 ---
 

@@ -99,19 +99,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
-  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
-    publishedDateTime: 2019-12-09T18:36:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
-        width: 700
-        height: 393
   - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
     excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
     publishedDateTime: 2019-12-10T13:14:00Z

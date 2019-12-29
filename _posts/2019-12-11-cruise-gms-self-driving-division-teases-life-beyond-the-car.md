@@ -50,32 +50,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
-  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
-    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
-    publishedDateTime: 2019-12-11T20:40:00Z
-    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
-        width: 700
-        height: 350
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
     excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
     publishedDateTime: 2019-12-11T14:02:13Z

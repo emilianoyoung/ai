@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T04:37:00Z
 sourceUrl: https://www.digitimes.com/news/a20191212VL200.html
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,47 +24,19 @@ images:
     title: "Global Unichip uses Cadence digital implementation and signoff flow to deliver designs for AI, HPC applications"
 
 related:
-  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
-    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
-    publishedDateTime: 2019-12-09T06:17:00Z
-    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
-    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+  - title: "Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation"
+    excerpt: "Data is foundational to high-quality artificial intelligence (AI). Given that a substantial amount of clinically relevant information is embedded in unstructured data, natural language processing (NLP) plays an essential role in extracting valuable information that can benefit decision making, administration reporting, and research. Here ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.nature.com/articles/s41746-019-0208-8
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Nature
+      domain: nature.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
-        width: 600
-        height: 315
-  - title: "Predictions for AI and ML in 2020"
-    excerpt: "Data scientist at Hitachi Vantara, Dr Anya Rumyantseva, said: “Artificial intelligence isn’t just something debated by techies or sci-fi writers anymore – it’s increasingly creeping into our collective cultural consciousness, but there’s a lot of emphasis on the negative. “While those big picture questions around ethics cannot and ..."
-    publishedDateTime: 2019-12-09T09:22:00Z
-    sourceUrl: https://www.information-age.com/predictions-ai-ml-2020-123486358/
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D0A6410D50EDD5DDD459DF3A0C70C7D7
-        width: 700
-        height: 515
-  - title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
-    excerpt: "The tools in the flow support the company’s Intelligent System Design ™ strategy, enabling advanced-node system-on-chip (SoC) design excellence for AI and HPC applications. About Cadence Cadence enables electronic systems and semiconductor companies to create the innovative end products that are transforming the way people live, work and play."
-    publishedDateTime: 2019-12-10T06:04:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005160/en/Global-Unichip-Corporation-Cadence-Digital-Implementation-Signoff
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.C567A0AB2EE09E6476F49214D278D4A2
-        width: 700
-        height: 365
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-019-0208-8/MediaObjects/41746_2019_208_Fig1_HTML.png
+        width: 685
+        height: 502
 
 secured: "5siIjMMqAwcXHqwp/IOsRPezBxusGxg+CKrt1q/8CZVkwIC8qpBBWdRvKKYAd2jlMUhFFli3xVaiY1WhPACeDP7qSGtKnr22+xNXIGAhWKap9nZt0VEujf0yBjQsbAQ6y7n8RnP/JiJj2OcRCmg8RC8jT9S79lRZgK5mHGqeD+UrrKPzmJt1Ezsw88Wi2Z4glDLYIbVRlrD6LXfv6clr6FtanYVdTWbnEQVU5dF6DagkhcQ7vTdvEqFVJDFjB8TmLfhlWGTsOBkx4Wq/0HZurw==;2Gv+ZTszrA2oOLKkx7ND3A=="
 ---

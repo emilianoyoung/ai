@@ -24,47 +24,34 @@ images:
     title: "Global Unichip Corporation Uses Cadence Digital Implementation and Signoff Flow to Deliver Advanced-Node Designs for AI and HPC Applications"
 
 related:
-  - title: "2020 Predictions: AI, Disinformation, and Human Augmentation"
-    excerpt: "Ten years ago, I invited the community to envision the future of Data, AI and Analytics (I called it then:“BI 2020”). From the Museum of Information in Paris, I asked: what could the world of AI, Data and Analytics look like by 2020?! Many predicted the advent of natural interfaces like search and voice for analysis. Conversational AI or ..."
-    publishedDateTime: 2019-12-09T06:17:00Z
-    sourceUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/
-    ampUrl: https://www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2019/12/09/2020-predictions-ai-disinformation-and-human-augmentation/amp/
+  - title: "AI And The Death Of Exploration"
+    excerpt: "So how exactly are we protecting this cardinal right in today’s world? Let’s look at a typical scenario. Based on titles you’ve recently viewed or clicked on, Netflix uses artificial intelligence (AI) to create a customized viewing experience catered specifically to your personal preferences. The titles you’re suggested and even the ..."
+    publishedDateTime: 2019-12-12T14:23:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/12/ai-and-the-death-of-exploration/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/12/ai-and-the-death-of-exploration/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/12/ai-and-the-death-of-exploration/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.A4709E97142071E6192697CBD82E1C87
+      - url: https://www.bing.com/th?id=ON.4B8C5A4565FACAD03AE81B28A8A19855
         width: 600
         height: 315
-  - title: "Predictions for AI and ML in 2020"
-    excerpt: "Data scientist at Hitachi Vantara, Dr Anya Rumyantseva, said: “Artificial intelligence isn’t just something debated by techies or sci-fi writers anymore – it’s increasingly creeping into our collective cultural consciousness, but there’s a lot of emphasis on the negative. “While those big picture questions around ethics cannot and ..."
-    publishedDateTime: 2019-12-09T09:22:00Z
-    sourceUrl: https://www.information-age.com/predictions-ai-ml-2020-123486358/
+  - title: "Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale"
+    excerpt: "More recently, a geometric morphometric approach has been described to study facial expressions of pain in cats. This approach has been proposed as basis for further application of machine learning algorithms for automated pain recognition 26. On the other hand, grimace scales are simple and readily applicable in a clinical context, and the ..."
+    publishedDateTime: 2019-12-13T11:27:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-55693-8
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
+      name: Nature
+      domain: nature.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.D0A6410D50EDD5DDD459DF3A0C70C7D7
-        width: 700
-        height: 515
-  - title: "Global Unichip uses Cadence digital implementation and signoff flow to deliver designs for AI, HPC applications"
-    excerpt: "The Voltus IC Power Integrity Solution enabled GUC to accurately analyze the top-level full-chip static/dynamic power, IR drop and electro-migration through ... particularly for emerging application areas like AI and HPC,\" said Louis Lin, senior vice president of Design Services at GUC. \"Through our deep collaboration with Cadence, we deployed ..."
-    publishedDateTime: 2019-12-12T04:37:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191212VL200.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.8F5EC7D0049B29DEF644D36104016473
-        width: 336
-        height: 224
+      - url: https://www.bing.com/th?id=ON.EEB46C629080D402DD2FB75512D0F1B1
+        width: 685
+        height: 274
 
 secured: "U2KY9RWQrvkXkZYKAkZkOEDeCwbDHXOmIcTjFjrlomu/VjM6rymQppNhyTod/SKeRbeshG3tb12bkckJ+Gm30eXq9rmd8T+TFlTG3NeA6LTB/px0PdLuMfbv8J5ROt16zqiO89OPtsggABdFvc0w2gWEwBe/Pj48c2K56uKCpH91krceu1g81jWGF2bPoSTdXG1D/5YMyvM8/KWslkGbCNYOwXOKsLURvyxqzHH84VxtL5c2Rz8WUeSJWJ9hPXgekTkLi4AuycxBiEtIybwnwA==;lKWkVcmeAsIElIHlfTSOYQ=="
 ---

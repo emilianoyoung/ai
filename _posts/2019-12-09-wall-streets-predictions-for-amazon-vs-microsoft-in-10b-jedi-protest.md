@@ -8,8 +8,8 @@ ampUrl: https://247wallst.com/technology-3/2019/12/09/wall-streets-predictions-f
 cdnAmpUrl: https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: 24/7 Wall St
@@ -24,6 +24,21 @@ images:
     width: 1200
     height: 675
     title: "Wall Street’s Predictions for Amazon vs. Microsoft in $10B JEDI Protest"
+
+related:
+  - title: "Predictions for AI and ML in 2020"
+    excerpt: "Data scientist at Hitachi Vantara, Dr Anya Rumyantseva, said: “Artificial intelligence isn’t just something debated by techies or sci-fi writers anymore – it’s increasingly creeping into our collective cultural consciousness, but there’s a lot of emphasis on the negative. “While those big picture questions around ethics cannot and ..."
+    publishedDateTime: 2019-12-09T09:22:00Z
+    sourceUrl: https://www.information-age.com/predictions-ai-ml-2020-123486358/
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D0A6410D50EDD5DDD459DF3A0C70C7D7
+        width: 700
+        height: 515
 
 secured: "USBDI3geB9Vkexnwmx1NttqIchJe811w1UGi7eTN5K3YM65yJktVMaN7gWsfY2Brn3GJhk9qi9/2e/2CKeDtxZb1hSASr89uhu/pGu/op+xLSpOdCALK+toDKO1961PCzLM7YHGJbtmmf5EqyZb9fq6WcCj6XmoC5nESZzkQf38Sk3GyAHEslm2rYGQg+O5gFIP3UScwhU+z/WF5Bfq2B3PUw4lJeoZSMTstoLp2oXruqzCq15Dkt0w/HfXuTeZXgBCNzw4NpagLKrKVRI1rBw==;du9R/WeCb0Fx5jmCGLA3aw=="
 ---

@@ -80,19 +80,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Machine learning can help us understand conversations about death"
-    excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. \"We want to understand this complex thing called a conversation ..."
-    publishedDateTime: 2019-12-09T06:05:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uov-mlc120519.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8D9CCDF9F8B6C2F7F29FEC72EFCA96CD
-        width: 700
-        height: 466
   - title: "Bots fired: examining social bot evidence in online mass shooting conversations"
     excerpt: "Through the application of deeper natural language processing techniques, a deliberate content analysis methodology could seek to determine the extent to which specific social bots amplify a particular narrative. Further, the introduction of community detection analysis could identify the existence of particular bots aligning with verifiable ..."
     publishedDateTime: 2019-12-10T14:20:00Z

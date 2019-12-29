@@ -93,19 +93,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Trends and Business Outlook 2019 to 2025"
-    excerpt: "Dec 09, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence (AI) In Manufacturing Market report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry experts and industry participants across the value chain. The report provides in-depth analysis of ..."
-    publishedDateTime: 2019-12-09T06:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-latest-trends-and-business-outlook-2019-to-2025-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
     excerpt: "Dec 20, 2019 (AmericaNewsHour) -- A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market. The report analyzes the artificial intelligence in healthcare ..."
     publishedDateTime: 2019-12-20T06:51:00Z
@@ -141,19 +128,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI for Drug Discovery Market 2019-2027 / Growth, Emerging Trends And Forecast"
-    excerpt: "Dec 09, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the AI for drug discovery ..."
-    publishedDateTime: 2019-12-09T07:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-growth-emerging-trends-and-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
