@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/article/372474/the-myth-and-reality-of-how-ai-is-c
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372474/the-myth-and-reality-of-how-ai-is-changing-work?amp=1
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       - url: https://jewishjournal.com/wp-content/uploads/2017/11/jjsplash_a_1200x1920.png
         width: 1198
         height: 675
+  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
+    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
+    publishedDateTime: 2019-12-11T18:35:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
 
 secured: "y2gaHzMYAE+kMgWT3tOoG4+nTq4RsLNvxeBFxxfYiWuSvIREs2QYtN0ofBQALQdFeNIhIpU0CRxYtwxbVX5Q/AElNLnokA3QsyvNqN/WfO8Q+BfcOmfXsqInlUC+ztpEQYdxO5CIqhhgxE/FoEUhmJ2JylhDuPqLVlZlhNVYuAbk9esRq0hiHAoAvsP0+Bq8A5/YSbjYKici0rzAr3CXwqL/D+toEDikuHvzsmfxl53L+Sa/KPTuQcvbY2AdHa2YZ/HzBVkCTomc9KiwHrCW9g==;l48ejcnoV7ogZwdP1lm0Ow=="
 ---

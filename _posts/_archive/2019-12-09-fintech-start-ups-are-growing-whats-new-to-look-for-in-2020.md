@@ -8,7 +8,7 @@ ampUrl: https://www.entrepreneur.com/amphtml/343610
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343610
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
         width: 300
         height: 300
-  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
-    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
-    publishedDateTime: 2019-12-09T10:03:00Z
-    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
-        width: 700
-        height: 421
 
 secured: "BcAqGnnMBEeADR9GC5qUepp1FFf4NI8arqRft+cDManCAQp9Tx+zaHFNylqc9322qiGPBVtAOrJvZWwLgGp2jwvHRAIJGkxxKXwBNcJNT9oUs77iDGOonzQrouBIA5qE3ka133o7Fa76rdB3mNgbGSR5cw9roKF1PIX2EGDcO7zYVan3asKjwEuyGJmTBKFwBRWvmQOVjtd3+mB6tFe7b7v2Y8bBP1eiSTi588v5OJfxOME6sa9jdf7ZVQaGbMwUVnNBNjduOffx8Ji5Anmw9A==;aC+z+lO9DMTzzHplxU8dnA=="
 ---

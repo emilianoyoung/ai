@@ -24,116 +24,172 @@ images:
     title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
 
 related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "Overall, driverless cars to-date are akin to a novice teenage driver that is timid ... As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans, presumably you will need a similar ..."
-    publishedDateTime: 2019-12-08T15:57:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T22:58:00Z
+    sourceUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/
+    ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.71EF054EEEF5E674D34310009406C552
+      - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
         width: 600
-        height: 315
-  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
-    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
-    publishedDateTime: 2019-12-11T13:42:00Z
-    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+        height: 400
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+    publishedDateTime: 2019-12-14T13:48:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
+      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
         width: 700
-        height: 350
-  - title: "Self-Driving Trucks are Here – What are the Economic Consequences?"
-    excerpt: "Despite all the advantages of self-driving technology in the cargo industry, its widespread adoption is not as close as many people would like it to be. Uber has been testing unmanned delivery on Arizona’s highways for several months now. However, it is still too early for drivers to worry. Even Uber, in such a sensitive matter, points out ..."
-    publishedDateTime: 2019-12-09T13:55:00Z
-    sourceUrl: https://techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/
-    ampUrl: https://techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/self-driving-trucks-are-here-what-are-the-economic-consequences/amp/
+        height: 466
+  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
+    publishedDateTime: 2019-12-17T21:32:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.A9FE0456B43E086285D0B2EFB53A99E9
-        width: 678
-        height: 381
-  - title: "Air France Hopes To Reduce Delays With Self-Driving Luggage Carts"
-    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. The vehicle, known as the AT135 baggage tractor ..."
-    publishedDateTime: 2019-12-09T20:45:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/air-france-hopes-to-reduce-delays-with-self-driving-luggage-carts/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
-        width: 700
-        height: 393
-  - title: "Using artificial intelligence to improve chronic care"
-    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
-    publishedDateTime: 2019-12-12T15:49:00Z
-    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
-        width: 700
-        height: 447
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T18:05:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 35
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
         width: 1200
-        height: 799
-  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
-    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
-    publishedDateTime: 2019-12-11T20:40:00Z
-    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
+        height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
-        height: 350
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
+        height: 349
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
+    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
+    publishedDateTime: 2019-12-10T13:14:00Z
+    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
+    images:
+      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
+        width: 600
+        height: 300
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-15T00:05:00Z
+    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
     quality: 24
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
+        width: 700
+        height: 466
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
+        width: 700
+        height: 367
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-16T00:03:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
+        width: 700
+        height: 466
+  - title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
+    publishedDateTime: 2019-12-17T11:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
+        width: 700
+        height: 466
+  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
+    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
+    publishedDateTime: 2019-12-15T05:11:00Z
+    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 12
+    images:
+      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
+        width: 668
+        height: 355
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "1pOrCs9XtTMgCv8URXbvM7a5HFCOHi9W0VQLZsUvlxDeZeBB/xSuboNK1KbeO9boHo0Tg3awQzU29K1GpRaOhmzFH5DaA3gtKDHMthFmwIwLYDsUMMmzfszHs+3fEEcF/+UwRQrWBjby5A1QbiPgoERYoEnins2eRmIhhoqGsQpw/CVWXCqiyAODKzvGdDmRqh6NNxPsPOf5Sy5tyD8nkQmvbX+3yv8uJO+ekmdvtlZfiFozEW4PzNc7qwtCNa6xGw2/OhXzUvyk7j6KgyT12w==;VZMWVxm1hRQG4gjVMCxD1Q=="
 ---

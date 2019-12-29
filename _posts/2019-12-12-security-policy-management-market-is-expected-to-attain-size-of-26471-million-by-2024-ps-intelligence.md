@@ -30,6 +30,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Supply Chain Market Inclinations & Development Status Highlighted During Forecast Period 2018-2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
+    publishedDateTime: 2019-12-12T12:18:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-inclinations-development-status-highlighted-during-forecast-period-2018-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
     publishedDateTime: 2019-12-13T12:30:00Z

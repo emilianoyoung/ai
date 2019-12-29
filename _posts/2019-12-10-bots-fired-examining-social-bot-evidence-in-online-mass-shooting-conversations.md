@@ -24,75 +24,34 @@ images:
     title: "Bots fired: examining social bot evidence in online mass shooting conversations"
 
 related:
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "New York: Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve their end-of-life communication. Some of the most important, and difficult, conversations in healthcare are the ones that happen amid serious ..."
-    publishedDateTime: 2019-12-09T15:25:00Z
-    sourceUrl: https://gulfnews.com/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
+  - title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
+    excerpt: "Working with robotics and drawings brings me back to the body — the mark-made-by-hand ... That being said, the 'artificial' of artificial intelligence tend to overlook the human element. In my drawings, the models I train require large datasets to be effective. In my case, those data sets are decades of my drawings. Is it uncomfortable ..."
+    publishedDateTime: 2019-12-12T05:55:00Z
+    sourceUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/
+    ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: https://www.bing.com/th?id=ON.525771DE51E9F12F509C2B5AC050F38E
-        width: 540
-        height: 405
-  - title: "Join the conversation: why your business needs conversational AI"
-    excerpt: "Thanks to its ability to use natural language processing (NLP) to map spoken or written words to intent, conversational AI is no longer just a gimmick. Instead, conversational AI is making an impact across nearly every sector — in our homes, cars, call centres, banks, online shops, and hospitals—and the use cases are growing. Combining ..."
-    publishedDateTime: 2019-12-10T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/join-the-conversation-why-your-business-needs-conversational-ai/
-    ampUrl: https://www.itproportal.com/amp/features/join-the-conversation-why-your-business-needs-conversational-ai/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/join-the-conversation-why-your-business-needs-conversational-ai/
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df138cdb269e900077e3501%2F0x0.jpg
+        width: 1200
+        height: 800
+  - title: "Jeff Bezos Gave an Amazon Employee Extraordinary Advice After His Epic Fail. It's a Lesson in Emotional Intelligence"
+    excerpt: "Freed and co. then hired speech scientists and artificial-intelligence experts to help them create the new software. They designed it so it could understand a variety of accents. They didn't want to place too many limitations on the software, so they gave it the ability to do all sorts of tasks--from telling you the weather to answering ..."
+    publishedDateTime: 2019-12-09T12:34:00Z
+    sourceUrl: https://www.inc.com/justin-bariso/jeff-bezos-gave-an-amazon-employee-extraordinary-advice-after-his-epic-fail-its-a-lesson-in-emotional-intelligence.html
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
+      name: Inc
+      domain: inc.com
+    quality: 14
     images:
-      - url: https://www.bing.com/th?id=ON.C94174D65DB0D88425CE052AF951FC7E
-        width: 320
-        height: 240
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve ..."
-    publishedDateTime: 2019-12-10T03:15:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
+      - url: https://www.bing.com/th?id=ON.6BD0895D0FC301E8150C702519A53564
         width: 700
-        height: 379
-  - title: "Researchers use machine learning to better understand conversations about death"
-    excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. We want to understand this complex thing called a conversation."
-    publishedDateTime: 2019-12-09T15:53:00Z
-    sourceUrl: https://www.news-medical.net/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
-        width: 620
-        height: 480
-  - title: "Machine learning can help us understand conversations about death"
-    excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
-    publishedDateTime: 2019-12-10T14:41:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209102028.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
+        height: 324
 
 secured: "yRYc9tLSgwxB5uOcakXVARYVxo0Xfklkf3rjGxDY2/4UWw8WuLYIJRnaDLNPrSYruT3UbkrJf1mAVywL7+7tq7+cJjHn5+zzbTsQOjxgkuwOXG25Ey+E5iOfuTuRPbVS43CsZGX/Ikc5M77xMnWtxbZH0fTQ5WVHCnfY/RTsFwLCONvc0mtpCxsGz7L9d3DDFPs1gejtsYFwHF0xzlZFp22vNGYYbgGjnoYVjU8bYT/CCQlyDuHJRgrp3+mej8qBbSHbDwsupENlIjMu6tlwaQ==;A8Iub/Aan/zx1K3Y0DGMfw=="
 ---

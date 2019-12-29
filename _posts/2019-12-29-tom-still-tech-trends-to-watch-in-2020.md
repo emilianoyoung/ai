@@ -1,29 +1,29 @@
 ---
 category: news
-title: "BYU professor constructs mini town to test self-driving car tech"
-excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
-publishedDateTime: 2019-12-23T15:00:00Z
-sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
-ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
-cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+title: "Tom Still: Tech trends to watch in 2020"
+excerpt: "Robotics, along with related tools such as artificial intelligence, will help to fill the gap ... animal and human DNA to protect genes from disease. Genetic and cell therapy is advancing quickly, as well. Real breakthroughs will also come is digital health data, such as what exists in millions of patient records, can be anonymously analyzed ..."
+publishedDateTime: 2019-12-29T10:00:00Z
+sourceUrl: https://madison.com/wsj/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.html
+ampUrl: https://madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
+cdnAmpUrl: https://madison-com.cdn.ampproject.org/c/s/madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: heraldextra.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI
-  - AI in Autos
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
-    width: 700
-    height: 380
-    title: "BYU professor constructs mini town to test self-driving car tech"
+  - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
+    width: 356
+    height: 200
+    title: "Tom Still: Tech trends to watch in 2020"
 
 related:
   - title: "Here are the top tech trends of 2020, according to top experts"
@@ -125,6 +125,21 @@ related:
       - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
         width: 700
         height: 467
+  - title: "BYU professor constructs mini town to test self-driving car tech"
+    excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
+    publishedDateTime: 2019-12-23T15:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
+    ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+    type: article
+    provider:
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
+        width: 700
+        height: 380
   - title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
     excerpt: "Meanwhile, FDA-approved innovations from Microsoft and others claim the ability of computer vision for assisting radiologists and pathologists in identifying tumors and abnormalities in the heart. While robotic primary care is a long way off, some view AI as a rival to more niche clinical positions. 2. Privacy and security will be more ..."
     publishedDateTime: 2019-12-27T15:46:00Z
@@ -140,21 +155,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
         width: 616
         height: 372
-  - title: "Tom Still: Tech trends to watch in 2020"
-    excerpt: "Robotics, along with related tools such as artificial intelligence, will help to fill the gap ... animal and human DNA to protect genes from disease. Genetic and cell therapy is advancing quickly, as well. Real breakthroughs will also come is digital health data, such as what exists in millions of patient records, can be anonymously analyzed ..."
-    publishedDateTime: 2019-12-29T10:00:00Z
-    sourceUrl: https://madison.com/wsj/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.html
-    ampUrl: https://madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
-    cdnAmpUrl: https://madison-com.cdn.ampproject.org/c/s/madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
-        width: 356
-        height: 200
   - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
     excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
     publishedDateTime: 2019-12-27T12:41:00Z
@@ -239,6 +239,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "IaIeZRrBnX5+gvURIwXR8N+O6qlUD9iKJHQQatn8wTSTgFJcrGRqQ5OETfSRfQXwHSeDn28Ze9kHhAIaB0Mldfll8vxj8xp2PHa20BURWG/1XhJyzWG+Ygcc1f5Enekbs8/NEh7jbLBt5olbjQqragQ96+mEXBWvLa5x3S/toCHf23Vv2jKiL9bj42VGybp+8ldYjVPTw8pLdPj+CDAuDzkA3foL+l+NH5nMzJBr9h9RX/g8KRoa0jmyaro0bO1zHyNu0hvHi0/nR0PRV7TF0A==;iiNUa5Aac5uh+Ra6Do6x7w=="
+secured: "bMyKz13DI+8Fa0lJvE+aGJa/0gy6Pk9OLtYahwQ6lE8Rmqps0/rqWVIURgaGhJH8CPzN6HaLtcm2SH9+4D5nrKbOpqClTiPTLHGFjyZ5wTreCVzd/saFPbE06YD+vvumZ0kPS6Hbp1YbqrzwbaRRt+e0k8T2aVY6H1517Qg1u6k6J8D2SgqpMkxGxsZfXZ/tGycnGSUdzM6rgrsCl6aV+f3RIFy29LKQ1z4aRCgGff0EGJiYEbcvgVOWPjKFXZfDyvJpq83RMQh2sU4Vw9vtEw==;C5drq0kv3gXl4aDbfoZdkA=="
 ---
 

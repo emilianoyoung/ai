@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
         width: 700
         height: 367
+  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
+    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
+    publishedDateTime: 2019-12-11T13:42:00Z
+    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
+        width: 700
+        height: 350
   - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
     excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
     publishedDateTime: 2019-12-16T16:40:00Z

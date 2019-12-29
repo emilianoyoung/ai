@@ -158,6 +158,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in the Healthcare Market key Insights Based on Product Type, End-use and Regional Demand Till 2025"
+    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the highest ..."
+    publishedDateTime: 2019-12-12T05:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
     excerpt: "Dec 14, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients ..."
     publishedDateTime: 2019-12-14T05:03:00Z
@@ -240,6 +253,19 @@ related:
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Oil And Gas Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Oil And Gas Market\". The report provides ..."
     publishedDateTime: 2019-12-13T17:48:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2019-disclosing-latest-trend-and-advancement-outlook-2025-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
+    publishedDateTime: 2019-12-14T06:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-global-opportunity-analysis-and-future-assessment-2019-2025-2019-12-14
     type: article
     provider:
       name: MarketWatch

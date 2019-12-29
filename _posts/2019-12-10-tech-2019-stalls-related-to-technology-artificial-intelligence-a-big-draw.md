@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.67A39C8A94F947BE52BAD7221FB1C2E1
         width: 700
         height: 466
-  - title: "Forbes analysts see Fintech absorbed by 5 ongoing debates in the 2020s"
-    excerpt: "How will AI be used going forward? Will we have a say in it? Will our voice be heard or will discrimination be part of the digital age? And then we have cryptocurrencies, the phenomenon that really started the fintech discussion. Individuals, governments, and corporations are searching for specific roles to play, but then we have China."
-    publishedDateTime: 2019-12-09T10:03:00Z
-    sourceUrl: https://www.leaprate.com/financial-services/fintech/forbes-analysts-see-fintech-absorbed-by-5-ongoing-debates-in-the-2020s/
-    type: article
-    provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.85604DB53238B3DD5D07CD7EF67E9C87
-        width: 700
-        height: 421
 
 secured: "zCESX7uJg8fmzc+RohmBmBiFHzk4uj3XKGKcrd8mIowaYK6ek8NtMrgk0dqSw4lleeVUkCfRR3Yvn/LRtuxuNtjNLFtO/2YyPy/+xFfN3qpUKy9A8Cb77v0bTSusKISSMLtFp33S4B2u0m7bxB/maCWeI08z42FYix90lhvnVYfbtTgKiqT5afneITlqrqdtisMaN5v9RQjDCP6wuEJDFGasDqyhYE3yQT7pwRwZ9Va9VVFJ7jo7jG+AHnHildIMAdBqllvILXbO4hWpozyXdw==;2FXKm42LUlVBhi9qq/OFMA=="
 ---

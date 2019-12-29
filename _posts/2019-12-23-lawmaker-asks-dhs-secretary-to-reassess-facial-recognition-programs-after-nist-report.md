@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
         height: 437
+  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+    publishedDateTime: 2019-12-29T11:40:00Z
+    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+        width: 700
+        height: 350
   - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
     excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
     publishedDateTime: 2019-12-27T00:22:00Z

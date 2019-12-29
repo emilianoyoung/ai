@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-j
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Honda self-driving technology coming next year, report says"
 
 related:
+  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
+    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
+    publishedDateTime: 2019-12-11T13:42:00Z
+    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
+        width: 700
+        height: 350
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z

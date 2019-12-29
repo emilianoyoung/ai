@@ -8,7 +8,7 @@ ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningf
 cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -81,19 +81,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "Bots fired: examining social bot evidence in online mass shooting conversations"
-    excerpt: "Through the application of deeper natural language processing techniques, a deliberate content analysis methodology could seek to determine the extent to which specific social bots amplify a particular narrative. Further, the introduction of community detection analysis could identify the existence of particular bots aligning with verifiable ..."
-    publishedDateTime: 2019-12-10T14:20:00Z
-    sourceUrl: https://www.nature.com/articles/s41599-019-0359-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
-        width: 685
-        height: 362
 
 secured: "o8OR522k3KCChvxFQdD8Z0RgpFaCj+n3quE0jAutSqvrEkC+MB22cjKmKroHUZnaXjereurwcSshSJ/P8l/IVz6nS1SASdKdRx4FEzMaH3YDS8t3dd9uPd6xUrbziJMTUrBdQ12ELAZWLtUFRCpQ/mYK/X/5tIYHFbdDiM/SuhY4K+x4sawQ8WHWzji5i3K3MiL+rRco6QxbnJi/TQKjbMm1v5JgANVC6rfBRlxpCFHDUq6L+sszMCZDlnj5E4GDheHW0SpoEhtNZyln7HeAvg==;jOszeIIFrJatgkMu9BmlMQ=="
 ---

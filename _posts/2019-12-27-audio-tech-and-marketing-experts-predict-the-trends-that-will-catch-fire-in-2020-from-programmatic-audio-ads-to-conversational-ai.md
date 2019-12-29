@@ -156,6 +156,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
         width: 616
         height: 372
+  - title: "Tom Still: Tech trends to watch in 2020"
+    excerpt: "Robotics, along with related tools such as artificial intelligence, will help to fill the gap ... animal and human DNA to protect genes from disease. Genetic and cell therapy is advancing quickly, as well. Real breakthroughs will also come is digital health data, such as what exists in millions of patient records, can be anonymously analyzed ..."
+    publishedDateTime: 2019-12-29T10:00:00Z
+    sourceUrl: https://madison.com/wsj/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.html
+    ampUrl: https://madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
+    cdnAmpUrl: https://madison-com.cdn.ampproject.org/c/s/madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
+        width: 356
+        height: 200
   - title: "From AI to 5G: Predicting the future of technology in 2020"
     excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
     publishedDateTime: 2019-12-28T12:28:00Z

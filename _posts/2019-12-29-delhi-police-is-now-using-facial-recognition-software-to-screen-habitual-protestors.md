@@ -1,46 +1,46 @@
 ---
 category: news
-title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
-excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
-publishedDateTime: 2019-12-28T07:00:00Z
-sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
-ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+publishedDateTime: 2019-12-29T11:40:00Z
+sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: The Wire
+  domain: thewire.in
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
+  - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
     width: 700
-    height: 437
-    title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
+    height: 350
+    title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
 
 related:
-  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-    publishedDateTime: 2019-12-29T11:40:00Z
-    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
+    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
+    publishedDateTime: 2019-12-28T07:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
+    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
     type: article
     provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 52
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
-        height: 350
+        height: 437
   - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
     excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
     publishedDateTime: 2019-12-23T16:32:00Z
@@ -81,6 +81,6 @@ related:
         width: 700
         height: 466
 
-secured: "GhY0m2aCLqkfqK4f6yfD67Qtr29xvjXDo1MufehwORukgPCtqIbKmkPlFCQxUZewZdSYsrRfGbvGKFIEThLJV7GD9zguL2AV4HI9kbL30rT27Q8R+KomFH6oEakF5uZt/5pjjO/eZod9pFixo12PH02TGIwBrvEQ47zhJoQuxm+XY21DkAaRnCX+bo6J75JSL9ms8NLKPTpAXgJYRf0YNL2TOdyTEPOIuYr4s1cb3kH+STjX59/b+QH0+HXlKeoVSxBqSZSfwuSY7nVWp0STYg==;nD6OWy5S0W6Wc31jex35ZA=="
+secured: "jevN3FQLRew0pDNt2DR98b5OJDH8VTgLIhlnRs1MxrFUo7zHsqZfBY4epxW/qAkt4BTuQjrjKYZdmWkWMbcrw5U4TFmKrOB0lbSnAoASrVQYT7lr6YfKH3FkfM8z6dTji9HDIq00qEtg1pB1JV0iVvxMJM1FdbB9sm51aZ2DSfuNgWXwrfaHhw00x/9r/ECCLNOGEFiNq+4Xq0kKXy+wsxAwtUrn2c8H23s5VVQ8fWqdTCW+gaiMeTQJiPP1IoUBZOMFuLeeCUN+/5RzCRqJTw==;JWWFFQp3QdD2LZoijIKuSw=="
 ---
 

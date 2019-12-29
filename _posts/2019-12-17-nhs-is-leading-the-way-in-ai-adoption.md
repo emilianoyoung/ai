@@ -142,6 +142,21 @@ related:
       - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
         width: 700
         height: 466
+  - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
+    excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
+    publishedDateTime: 2019-12-12T10:00:00Z
+    sourceUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html
+    ampUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
+    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
+        width: 700
+        height: 350
   - title: "Artificial intelligence and the future of insurance"
     excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
     publishedDateTime: 2019-12-18T05:23:00Z

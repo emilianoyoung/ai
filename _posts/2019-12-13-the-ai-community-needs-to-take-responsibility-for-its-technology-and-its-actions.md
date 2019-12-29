@@ -64,6 +64,15 @@ related:
       - url: https://jewishjournal.com/wp-content/uploads/2017/11/jjsplash_a_1200x1920.png
         width: 1198
         height: 675
+  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
+    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
+    publishedDateTime: 2019-12-11T18:35:00Z
+    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
 
 secured: "kginZPN8VZnxFt2L6xYOA0kyNyqRWlz6x7eC0g1GTBLBl8mTn0SZWIru9Iyy3wAkpTPNI8F1DQOcysDtzB6CiZpVq2pEI+x1TgAlRFMnlB3OCCErOj76slqPlRWC5Rr265yJ4qGCXKCu2Ok83J+uP9SesbpGm3tpsvxaMPZos6yy9+X2p9EQFH4VzgHIlKabSpIJiWli9X7Xe7MveKeGWAmoFy4YqU1rEOovDzisSdr/MuUhjm5W6ULELI9O5g2ljIMaed+kVV6gT9RE/XbkBA==;9oLyqd+GsFaDHDLcVp1gjg=="
 ---

@@ -139,6 +139,21 @@ related:
       - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
         width: 700
         height: 466
+  - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
+    excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
+    publishedDateTime: 2019-12-12T10:00:00Z
+    sourceUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html
+    ampUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
+    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
+        width: 700
+        height: 350
   - title: "NHS is leading the way in AI adoption"
     excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
     publishedDateTime: 2019-12-17T12:30:00Z

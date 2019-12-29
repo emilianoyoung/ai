@@ -47,6 +47,6 @@ related:
       domain: hindustantimes.com
     quality: 39
 
-secured: "PhOwa3Cw/S4iNwwK/qihn2ElxWNxPWSzHhUpAWWNYWqOxfFOuNt4BbctAuZMST1NM/zdhTrA5Ty/R6kAdJb/yr/T7WvVN+VXmKUgy4sHEimanOWAJeYt3NFDY7wHfF8ZDm/3VO8fOeW4QmohcNspTdDWy0PFY4LKZPym/hZYR2FHfaC5Bkyx/jxsH02wNz8T6r3Vpy3eN/N8qTDz1E+UXVdhFMsp48qusWk4/tPBoWD0m2wqyUYLQXIogTcTkY1OiBMEDJeL1Tu0jBI8jZs76A==;kAltSF2JDykB4PRBQpHnUQ=="
+secured: "rmGdtirRxyHJ4Ztjisgg03kXXJxf2/19dApb+nLPRZ8bkJ0JhZaqKJukNfS8d39Lc6m+PXPRZKjlypmNQ3SBpF+EDMUE/pkd3QjMN9NirJlN0EhLEK6L/dlBptJkVwWrg2BKKDbVLgK8d5+ElCtE7PRxcMPf4tSr4RmcQ0moLoJY0G6KShVaZ8gRbJ898FPwAFudcnqyyzBnf37ctFv1uSzQ/sbdCZ8q6NJIOYKgSH83T9voiBOislEs22w5dCDAwIkuZLlsPslAzqarwaT2tA==;x3QdUWz2DamI9U+e9iTqsg=="
 ---
 
