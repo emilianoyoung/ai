@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
         width: 700
         height: 412
-  - title: "Mercedes-Benz and Bosch are testing self-driving S-Classes in San Jose"
-    excerpt: "The autonomous luxo-barges are part of a test program that hopes to develop a true Level 4/5 autonomous vehicle. Many companies working on self-driving car projects seem to think that people want to be wafted about between destinations in some kind of living room-like pod thing. Sure, that idea will appeal to some consumers but I think there is ..."
-    publishedDateTime: 2019-12-09T13:03:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-    ampUrl: https://www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mercedes-benz-bosch-self-driving-s-class-san-jose/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.00927AD32E841ABE9883CD7684A4E91C
-        width: 700
-        height: 393
   - title: "Walmart Tests Self-Driving Cars for Grocery Delivery in Houston"
     excerpt: "Justin Sullivan/Getty Walmart announced a partnership with the robotics company Nuro on Tuesday to test a system for delivering groceries with self-driving vehicles beginning in January 2020. The retail giant has been in the grocery delivery business since 2011, when it first began to pilot a program in California that allowed customers to ..."
     publishedDateTime: 2019-12-10T18:00:00Z

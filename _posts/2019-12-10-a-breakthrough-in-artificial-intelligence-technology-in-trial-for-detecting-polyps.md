@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T05:41:00Z
 sourceUrl: https://www.medindia.net/health-press-release/A-Breakthrough-in-Artificial-Intelligence-Technology-in-Trial-for-Detecting-Polyps-443162-1.htm
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -18,19 +18,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "A Breakthrough in Artificial Intelligence Technology in Trial for Detecting Polyps"
-    excerpt: "The clinical trial is using Artificial Intelligence (AI) specifically designed for the colon to assist ... as well as for identifying existing colorectal cancers early - which can improve survival. AMSURG, an Envision Healthcare Solution and partner with Raleigh Endoscopy Center, performs nearly 1 million colonoscopies a year and is committed ..."
-    publishedDateTime: 2019-12-09T13:28:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/a-breakthrough-in-artificial-intelligence-technology-in-trial-for-detecting-polyps-8304373
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 33
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
   - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
     excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
     publishedDateTime: 2019-12-09T15:06:00Z

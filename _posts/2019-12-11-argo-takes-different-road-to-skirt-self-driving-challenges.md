@@ -166,15 +166,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
-    excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
-    publishedDateTime: 2019-12-09T13:27:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14385/flying-cars-robots-and-self-driving-delivery-vehicles-part-of-hyundai-s-future
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 32
   - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
     publishedDateTime: 2019-12-09T18:36:00Z
@@ -267,6 +258,6 @@ related:
         width: 700
         height: 419
 
-secured: "8DIUIc5AShhzgJrLQzfyEvnknmABX3o+j6PoVC/rVAUeLK6W8s8x0oaV1CUU9Wws4g44s5nfwHi8SSA0G54sn2mg6tnLOIeq7fJbk/jEEdKaLyx9x2M1yfdUqliD0j4nt8ADTzGq7QJAiy6/Yu7q1RXsPbmu3wh/oxK28hF5OG5mkGVTazwFf1ivtFGQfdEGBvWJLb06WY/VFqdYbC8YyIJcVevdCoso09Ui4kSloqmrDf7ubBamFtI86S3QSNZBSSvbVv+g5OxrnKoo9pUcIA==;onxkUXv0yhqZ+r79gBoN8w=="
+secured: "jp8vlsiqLTyh0hJIoLI/wrTEwSRxGcawIjFwyl/Jbt54j7KG62us7AM8YttP/bppHu6MKMp8A/XKP46lxRhI2WzXlP4/c1mKh1Do3HRRtVZ/jC6AaWYF1WW3zk1MrNp3WaEjv+tJoQw+/gs5gjdTAF/xmRUi1q+v/KH9kGp4Dp0khOGS6R/I2Y883ChcfqKzxJOruEugFEEz1pr2qcIb2/sCFd0n2j7FJP/4885UlRzvF1aYmF7hWCoB4xQCrJqeyvnpjLT7IOsGpVD+EgoFJg==;NzjusRZnmi94vZMCUInXKA=="
 ---
 

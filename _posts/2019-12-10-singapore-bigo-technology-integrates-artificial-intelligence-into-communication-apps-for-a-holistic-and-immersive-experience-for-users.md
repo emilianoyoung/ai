@@ -25,19 +25,6 @@ images:
 related:
   - title: "A Breakthrough in Artificial Intelligence Technology in Trial for Detecting Polyps"
     excerpt: "The clinical trial is using Artificial Intelligence (AI) specifically designed for the colon to assist ... as well as for identifying existing colorectal cancers early - which can improve survival. AMSURG, an Envision Healthcare Solution and partner with Raleigh Endoscopy Center, performs nearly 1 million colonoscopies a year and is committed ..."
-    publishedDateTime: 2019-12-09T13:28:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/a-breakthrough-in-artificial-intelligence-technology-in-trial-for-detecting-polyps-8304373
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 33
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
-  - title: "A Breakthrough in Artificial Intelligence Technology in Trial for Detecting Polyps"
-    excerpt: "The clinical trial is using Artificial Intelligence (AI) specifically designed for the colon to assist ... as well as for identifying existing colorectal cancers early - which can improve survival. AMSURG, an Envision Healthcare Solution and partner with Raleigh Endoscopy Center, performs nearly 1 million colonoscopies a year and is committed ..."
     publishedDateTime: 2019-12-10T05:41:00Z
     sourceUrl: https://www.medindia.net/health-press-release/A-Breakthrough-in-Artificial-Intelligence-Technology-in-Trial-for-Detecting-Polyps-443162-1.htm
     type: article

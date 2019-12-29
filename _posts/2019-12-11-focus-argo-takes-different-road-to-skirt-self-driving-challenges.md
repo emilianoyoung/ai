@@ -168,15 +168,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
-    excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
-    publishedDateTime: 2019-12-09T13:27:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14385/flying-cars-robots-and-self-driving-delivery-vehicles-part-of-hyundai-s-future
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 32
   - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
     publishedDateTime: 2019-12-09T18:36:00Z

@@ -179,15 +179,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
-    excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
-    publishedDateTime: 2019-12-09T13:27:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14385/flying-cars-robots-and-self-driving-delivery-vehicles-part-of-hyundai-s-future
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 32
   - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
     excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
     publishedDateTime: 2019-12-10T13:14:00Z

@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D7F5BBC4A63C16AD672B0B4A55AB9FB6
         width: 700
         height: 366
-  - title: "Top 5 workplace learning trends in 2020"
-    excerpt: "Business services, financial services, software and technology, information technology, manufacturing, government and nonprofit, consumer goods, and retail industries are all turning to data, upskilling employees' tech skills to include deep learning, algorithms, automation, natural language processing, Excel, data analytics, and the cloud."
-    publishedDateTime: 2019-12-09T13:19:00Z
-    sourceUrl: https://www.techrepublic.com/article/top-5-workplace-learning-trends-in-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/top-5-workplace-learning-trends-in-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-5-workplace-learning-trends-in-2020/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.D0B3918243E45BBFD57A0FE3FEA57197
-        width: 700
-        height: 525
 
 secured: "dMXh1K6ypqjKbUZIHT6lkootM1C4NxFKdXPXQge8+6CWG7GCGAsAu89cm7HQXgpSUK7DfJfNwsVhfI1PSSpEYtx52dcfHga85TrQBieGrMU4NFV7kcfp7iS21t3ODt5xmwE4A4qmXeGYkGwDbn0+hFczrw64KVztAWvb4Fyz/2vvQ4WaSbqM4FWOgh3lX7q0SJhF1rfrbxFb776uUOSrufjc+C0dnNa/7z0qvHj3t3IWpN/v2zwS5SfsblLYr1gwWmKxSQoQMPRL3ySNRwrhVQ==;gUY/A4G4i40csqjcN603Zw=="
 ---

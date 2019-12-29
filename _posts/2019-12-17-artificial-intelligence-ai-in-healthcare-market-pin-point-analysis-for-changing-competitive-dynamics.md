@@ -149,6 +149,19 @@ related:
       - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
         width: 874
         height: 355
+  - title: "$7.5 million for artificial intelligence research has potential to transform health care"
+    excerpt: "The Morrison Government is investing $7.5 million for research into the use of artificial intelligence in health care. Artificial intelligence (AI) will be critical in transforming the future of health care through improved preventive, diagnostic and treatment approaches. Research into the use of AI is likely to provide significant benefits ..."
+    publishedDateTime: 2019-12-16T05:07:00Z
+    sourceUrl: https://www.miragenews.com/75-million-for-artificial-intelligence-research-has-potential-to-transform-health-care/
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 30
+    images:
+      - url: https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg
+        width: 640
+        height: 423
   - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
     excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
     publishedDateTime: 2019-12-16T14:13:00Z

@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F39AEE96B8A490E46D76687F3DB0E20
         width: 600
         height: 397
-  - title: "UBank adopts Basiq's AI-powered tools to help Millennials budget"
-    excerpt: "Peter Braig Other major banks are also ramping up investment in mobile banking applications using artificial intelligence technology. At RBS, McEwan had the mantra of being \"a smaller, simpler and smarter bank”. Ms Hatton says UBank is true to that philosophy. She says it is developing a data ethics policy guided by a principle that “the ..."
-    publishedDateTime: 2019-12-09T13:28:00Z
-    sourceUrl: https://www.afr.com/companies/financial-services/ubank-adopts-basiq-s-ai-powered-tools-to-help-millennials-budget-20191209-p53i6d
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7E12318590574D5F6BECFA030DDD6506
-        width: 700
-        height: 393
 
 secured: "Pxg02S1tKTcSjx7z1aYFeYEB42iuZO5JLpo9i6G9lFq80slOC43tIXxKO7agoND32+cCRDrC2ljneg60BjEW7JTsTyBkafeEnpNQTeUCS+Wz3j6a+DIyhpnhkbnvswIjVtuXw42FmGVeTfHV0PsUKk2kTCUVG9mVa1gAeI1ONeRUKYfko24aTuC3oN1fEVI6N9BNvENxH6Eh7yxkAvECwbjejnlk17CJqZO/nNBnoq8DR4NDCyaa1OyKlY7N4I47HOfHUs5Uihi8bcr8IQGUMg==;8nEqGDysCATbF3NOSf/t+A=="
 ---

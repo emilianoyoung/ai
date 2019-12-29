@@ -24,125 +24,158 @@ images:
     title: "$7.5 million for artificial intelligence research has potential to transform health care"
 
 related:
-  - title: "Nvidia trains AI to transform 2D images into 3D models"
-    excerpt: "Nvidia Research created an AI system that can predict 3D properties of 2D images without any 3D training data. The work will be presented at the annual conference on Neural Information Processing Systems for researchers in academia and industry to share the latest in cutting-edge machine learning. Now in its 33rd year, the conference formerly ..."
-    publishedDateTime: 2019-12-09T14:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/09/nvidia-trains-ai-to-transform-2d-images-into-3d-models/
-    ampUrl: https://venturebeat.com/2019/12/09/nvidia-trains-ai-to-transform-2d-images-into-3d-models/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/nvidia-trains-ai-to-transform-2d-images-into-3d-models/amp/
+  - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
+    excerpt: "The federal government on Monday announced it will invest AU$7.5 million for research into the use of artificial intelligence (AI) in healthcare. \"Artificial intelligence will be critical in transforming the future of healthcare through improved preventive, diagnostic, and treatment approaches,\" a statement from acting Minister for Health Anne ..."
+    publishedDateTime: 2019-12-16T05:04:00Z
+    sourceUrl: https://www.zdnet.com/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+    ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
     images:
-      - url: https://www.bing.com/th?id=ON.983D0CA5458921C480C18900B6AE5200
+      - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
         width: 700
-        height: 399
-  - title: "Google proposes hybrid approach to AI transfer learning for medical imaging"
-    excerpt: "Medical imaging is among the most popular application of AI and machine learning, and with good reason. Computer vision algorithms are naturally adept at spotting anomalies experts sometimes miss, in the process reducing wait times and lightening clinical workloads. Perhaps that’s why although the percentage of health care organizations that ..."
-    publishedDateTime: 2019-12-09T16:55:00Z
-    sourceUrl: https://venturebeat.com/2019/12/09/google-proposes-hybrid-approach-to-ai-transfer-learning/
-    ampUrl: https://venturebeat.com/2019/12/09/google-proposes-hybrid-approach-to-ai-transfer-learning/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/google-proposes-hybrid-approach-to-ai-transfer-learning/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.D0F809D0F2DCE6173B02937DCD356CDF
-        width: 700
-        height: 466
-  - title: "Nvidia built an AI that creates 3D models from 2D images"
-    excerpt: "What if developing a 3D gaming world were as easy as snapping pics with your phone? Nvidia researchers recently developed an AI system capable of predicting a complete 3D model from any 2D image. Called “DIB-R,” the AI takes a picture of any 2D object – an image of a bird, for example – and predicts what it would look like in three ..."
-    publishedDateTime: 2019-12-09T20:14:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/09/nvidia-built-an-ai-that-creates-3d-models-from-2d-images/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.C64E2F39B6518C98F6F8C15D748BE7EA
-        width: 700
-        height: 350
-  - title: "NVIDIA Is Using Machine Learning To Transform 2D Images Into 3D Models"
-    excerpt: "Researchers at NVIDIA have come up with a clever machine learning technique for taking 2D images and fleshing them out into 3D models. Normally this happens in reverse—these days, it's not all that difficult to take a 3D model and flatten it into a 2D image. But to create a 3D model without feeding a system 3D data is far more challenging."
-    publishedDateTime: 2019-12-09T19:20:00Z
-    sourceUrl: https://hothardware.com/news/nvidia-machine-learning-transform-2d-images-3d-models
-    ampUrl: https://amp.hothardware.com/news/nvidia-machine-learning-transform-2d-images-3d-models
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-machine-learning-transform-2d-images-3d-models
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.6C07180F951180B6AAD09712AF873D4B
-        width: 700
-        height: 463
-  - title: "Nvidia creates an AI that is able to convert 2D images into 3D"
-    excerpt: "Nvidia is known for creating GPU’s for computers and their research in supercomputing. The four major sectors of research for the company are gaming, visualization, data centers, and automobile. The company has been creating AI chips for so many years now. Recently Nvidia has developed an AI system that is capable of creating a 3D image from ..."
-    publishedDateTime: 2019-12-10T09:38:00Z
-    sourceUrl: https://www.theindianwire.com/ai/nvidia-creates-an-ai-that-is-able-to-convert-2d-images-into-3d-239769/
-    ampUrl: https://www.theindianwire.com/ai/nvidia-creates-an-ai-that-is-able-to-convert-2d-images-into-3d-239769/?amp
-    cdnAmpUrl: https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/nvidia-creates-an-ai-that-is-able-to-convert-2d-images-into-3d-239769/?amp
-    type: article
-    provider:
-      name: The Indian Wire
-      domain: theindianwire.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F567C0B480BB82C988935A3621180B6F
-        width: 700
-        height: 393
-  - title: "New Social Media Platform to Transform the Gifting Space with Artificial Intelligence"
-    excerpt: "Many people rely on Facebook to let them know when family and friends are celebrating birthdays and anniversaries - Shopafor takes users a step further: a reminder, a gift recommendation determined by Artificial Intelligence (AI), the ability ... were not uncommon among parents. Further research indicated that gift recommendations from major ..."
-    publishedDateTime: 2019-12-11T13:49:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/new-social-media-platform-to-transform-the-gifting-space-with-artificial-intelligence-1028755474
+        height: 525
+  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 42
-  - title: "New technologies to transform healthcare in 2020"
-    excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
-    publishedDateTime: 2019-12-16T09:00:36Z
-    sourceUrl: https://www.msn.com/en-ae/news/other/new-technologies-to-transform-healthcare-in-2020/ar-AAKamG5
+    quality: 63
+  - title: "2020 predictions for healthcare IT from six industry experts"
+    excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
+    publishedDateTime: 2019-12-19T10:30:00Z
+    sourceUrl: https://www.itproportal.com/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    ampUrl: https://www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
     type: article
     provider:
-      name: Gulf News on MSN.com
-      domain: msn.com
-    quality: 39
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
-        width: 540
-        height: 405
-  - title: "The AI Eye: NVIDIA Develops AI That Predicts 3D Properties of 2D Images and Baidu Registers Most AI Patent Applications of the Year in China"
-    excerpt: "Baidu, Inc. (NasdaqGS:BIDU) has filed the most AI-related patent applications in China, according to a recent study from the research unit of China's Ministry of Industry and ... Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
-    publishedDateTime: 2019-12-09T17:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-nvidia-develops-ai-that-predicts-3d-properties-of-2d-images-and-baidu-registers-most-ai-patent-applications-of-the-year-in-china-2019-12-09
+      - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
+        width: 700
+        height: 393
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T08:04:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
+    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "New Social Media Platform to Transform the Gifting Space with Artificial Intelligence"
-    excerpt: "Many people rely on Facebook to let them know when family and friends are celebrating birthdays and anniversaries - Shopafor takes users a step further: a reminder, a gift recommendation determined by Artificial Intelligence (AI), the ability ... were not uncommon among parents. Further research indicated that gift recommendations from major ..."
-    publishedDateTime: 2019-12-12T00:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/social-media-platform-transform-gifting-144900849.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/social-media-platform-transform-gifting-144900849.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/social-media-platform-transform-gifting-144900849.html
+      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
+        width: 400
+        height: 518
+  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
+    publishedDateTime: 2019-12-17T05:34:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 53
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
+  - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
+    excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
+    publishedDateTime: 2019-12-16T09:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 32
+    quality: 50
+  - title: "Partners HealthCare launches five-year $100M digital health initiative"
+    excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
+    publishedDateTime: 2019-12-13T17:05:00Z
+    sourceUrl: https://www.fiercehealthcare.com/tech/partners-healthcare-launches-100m-five-year-digital-health-initiative
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D903242659D42EF9976F0992B412785A
+        width: 480
+        height: 320
+  - title: "Partners HealthCare unveils 5-year digital health initiative"
+    excerpt: "Customized patient communication options, including text, email, call or direct mail. Last month, Partners HealthCare announced the creation of an Artificial Intelligence and Digital Translation Fund with an initial investment of $30 million over the next five years. The fund will be used to support ventures that develop new technologies based ..."
+    publishedDateTime: 2019-12-13T05:52:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/partners-healthcare-unveils-five-year-digital-health-initiative
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
+        width: 700
+        height: 367
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
+        width: 400
+        height: 518
+  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
+    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
+    images:
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
+  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
+    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
+    publishedDateTime: 2019-12-17T08:02:00Z
+    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
+    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
+    publishedDateTime: 2019-12-16T14:13:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 24
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
 
 secured: "7VPq3pVlMXuhZKeONKZgXiy2z0LMT233wydo6Gsp7XLXUKZHxSeor0HPQmglPYc3vrVcZUEeoQZ4V+9L2CQcDo5khvlSucYqM5CY9qDjdsPkO/NPMgROcEnBCOEdMJncLXCXcaA8nlNfcz/3NTJJbyycafY656Th3kR4UQBT3nCHKaqIOOngBDpdex+PvOWbEzCbNeCB2bjzTAwpi3gedi9iOk0u+5qcHPRuB2FQbL7A9It5em9Hs9V7/w4MaQJWCDYMjWsbYhVDJ6lzwVs4dA==;cT3+5AEu0DdRDWMEdA+zXg=="
 ---

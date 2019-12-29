@@ -21,26 +21,6 @@ topics:
   - AI
   - Microsoft AI
 
-related:
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-11T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/traqiq-inc-acquires-mann-india-technologies-pvt-ltd-to-for-fintech-expertise-1028754486
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/traqiq-inc-acquires-mann-india-120010440.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-
 secured: "L5ayDMZ4KGDN0rb/RWUZNPJvQAzHDMcg2vxZsGEGkKWdqdzTrwCjeJavUz/7mQcsMLq+y1fIBAlUVEabXYGwQMuAZDqZdLEQqe/JcTa2OuwwcqdeYwxpihoXEFlKq/nSUUBtGE/C7i/Fv97Hk93oF3wHSSpGBh0Mx4Va4B7nudY2T1UpakydgmsUoxSf8f1IL7ur5JOLQ5GIUV8AJxVHFm213H5k/Kmx7P6HnKtsAySPjPiSvzmnS8CxQJm2PO2So1/30MoMgZkVUVaWqed6eA==;XKG+iOhMaenF2pZsXhoouA=="
 ---
 

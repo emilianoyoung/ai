@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-m
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/amp/
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -46,21 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D7F5BBC4A63C16AD672B0B4A55AB9FB6
         width: 700
         height: 366
-  - title: "Top 5 workplace learning trends in 2020"
-    excerpt: "Business services, financial services, software and technology, information technology, manufacturing, government and nonprofit, consumer goods, and retail industries are all turning to data, upskilling employees' tech skills to include deep learning, algorithms, automation, natural language processing, Excel, data analytics, and the cloud."
-    publishedDateTime: 2019-12-09T13:19:00Z
-    sourceUrl: https://www.techrepublic.com/article/top-5-workplace-learning-trends-in-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/top-5-workplace-learning-trends-in-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-5-workplace-learning-trends-in-2020/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.D0B3918243E45BBFD57A0FE3FEA57197
-        width: 700
-        height: 525
   - title: "5 Machine Intelligence Trends Of 2019"
     excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
     publishedDateTime: 2019-12-20T02:16:00Z

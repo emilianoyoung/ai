@@ -166,15 +166,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
-  - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
-    excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
-    publishedDateTime: 2019-12-09T13:27:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14385/flying-cars-robots-and-self-driving-delivery-vehicles-part-of-hyundai-s-future
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 32
   - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
     publishedDateTime: 2019-12-09T18:36:00Z
@@ -267,6 +258,6 @@ related:
         width: 700
         height: 419
 
-secured: "tZeP8FmFOvlUlx933H33OTpem0ENwvVfxL1Efmy4F2OoB5bWBgtjkru4FLdbBgWA6YmucI4/jD9iYkUZUHH9cSXd2JNIcURKA3+w7Fogzi6e04iy9ENmACiUmVVwJPfKFWc05312Vrgdoz86Hs5kXY8s/r8u+84UgHtR1sVP05u7Bh1ZdJleER+uwd8xS/eR+qR8/YrP9Ai5HGiQQSgslW+95CIheJNGgmeWYzB5JN4SBKGvb2PtxoG8AKqKhyQ/iq8f3CQJSidj0VElTeDpuA==;Y2jMZHgjPyUYU4o/iqP9IQ=="
+secured: "3f7D3LZQPl2TVwR9x/itPcN4KUzsXG3VzoEtR6EGK/CTPpOGzh48utkOiBNpzAr0UFQ8mzmxt00kH8G+j/ygxRbWL/C67HqP+03Y8/CIW+2oDrjr4+YAZ1jywuT/Xya/MtLDSSKq/pvN+0zw8g9Yiy8gfG3ydgmdiILe3KrefFQ4yQXf4eyr4yr15Fou7tUxFYzS3uZ5qxWTnnEGRSSNEjgv8zlfaHU+wz0crC9AoraRf0C2To0piZ66wV6TKlOxBbeAhaVrFAJzdcp1h9kv2Q==;T5payuvvqJUbP5RXzVEUdw=="
 ---
 

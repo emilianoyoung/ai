@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T20:31:00Z
 sourceUrl: https://www.cio.com.au/article/669519/ubank-launches-ai-powered-budgeting-tool/
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D6FEBBFCB5CDBCCEA3F87A26285B2B26
         width: 450
         height: 250
-  - title: "UBank adopts Basiq's AI-powered tools to help Millennials budget"
-    excerpt: "Peter Braig Other major banks are also ramping up investment in mobile banking applications using artificial intelligence technology. At RBS, McEwan had the mantra of being \"a smaller, simpler and smarter bank”. Ms Hatton says UBank is true to that philosophy. She says it is developing a data ethics policy guided by a principle that “the ..."
-    publishedDateTime: 2019-12-09T13:28:00Z
-    sourceUrl: https://www.afr.com/companies/financial-services/ubank-adopts-basiq-s-ai-powered-tools-to-help-millennials-budget-20191209-p53i6d
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7E12318590574D5F6BECFA030DDD6506
-        width: 700
-        height: 393
 
 secured: "+FrPUiq3F6NBAG+SEDcM7tRgKgWtLgPotMye8UlaIxITbGqzTrFtxllaZNcmG48pj3cekk4iWj1i0jfuahgtAuFg+f3Z3X8exbYU87sCdoOQnnOHLoSl36f0LwVMDhWYA7CU+VOEIxXiy2C/xSoe+EKUcqVEOE1/72gL2ea3mU7J6Ue6EainEpNxrMD8+0ST3AWOOjArjlJOTOjUSIelIm3E4KHASJm0Uk0fB71fFYn6n1/YBv7wU+XycurjKnsgBXh8pk409aMgGHtyvu2krQ==;RZuOLPO5gmTvXkyzQAUVFw=="
 ---

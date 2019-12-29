@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/survey-americans-are-not
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/survey-americans-are-not-concerned-about-robots-at-work/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 700
     height: 525
     title: "Survey: Americans are not concerned about robots at work"
-
-related:
-  - title: "'Will robots take over the world? Not those robots.'"
-    excerpt: "Hoover said that while she does not believe the current Starship robots will replace delivery workers, future innovations might. She referenced movies like ‘Star Wars’ and ‘Artificial Intelligence,’ which feature sci-fi technologies. “I do worry about that with technologies — taking away human positions,” she said. “People need ..."
-    publishedDateTime: 2019-12-09T13:13:00Z
-    sourceUrl: https://www.purdueexponent.org/campus/article_66350073-eeae-5241-aa43-14abca9624ec.html
-    type: article
-    provider:
-      name: Purdue Exponent
-      domain: purdueexponent.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C19467C17BC773E51A643E559A19F440
-        width: 700
-        height: 417
 
 secured: "wbTzvPQahkgnn9CnZoRy1FKmzs1Gc9Ngf/wJ9KdWpYXrK4k0boEThH2k1vjh2JDANDtWOaRVeqStpTa6SEU1xyH4qNI24tzc4TYxf89sxzlOrSUMJ5Y/tzmlPhPwWvve9bT9Lnkcr6Cgsvy2DkDEGiJOkiDLWLFY64lazqyM58S9ZvUlCyikfK0YA3QsUDEbv6VF7vRpZrbYEpj0E2zagxZ9bO86kfnCeIh+mqpkO546tWgi3qaSSz13EjDXrXuITfGhP4DAaRdPSK9LIa+b9g==;raiyBWYPUv+t7VCbsmLSRA=="
 ---

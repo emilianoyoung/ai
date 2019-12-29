@@ -8,7 +8,7 @@ ampUrl: https://www.seattletimes.com/explore/careers/machine-learning-could-wipe
 cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/machine-learning-could-wipe-out-some-of-finances-highest-paying-jobs/?amp=1
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     title: "Machine learning could wipe out some of finance’s highest-paying jobs"
 
 related:
-  - title: "Artificial intelligence could wipe out 13,000 legal sector jobs"
-    excerpt: "The adoption of new technologies such as artificial intelligence could lead to the UK legal sector shedding 13,000 jobs, according to a report by the Law Society of England and Wales. The report on the future shape of the legal workforce projected a 13,000 fall in the number of jobs by 2027, equivalent to a four per cent drop. The body said the ..."
-    publishedDateTime: 2019-12-09T13:50:00Z
-    sourceUrl: https://www.cityam.com/artificial-intelligence-could-wipe-out-13000-legal-sector-jobs/
-    ampUrl: https://www.cityam.com/artificial-intelligence-could-wipe-out-13000-legal-sector-jobs/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-could-wipe-out-13000-legal-sector-jobs/amp/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.2AFDFA4D3FF78B6D1E50446F3C6DDEC3
-        width: 700
-        height: 436
   - title: "Robots in finance could wipe out some of its highest-paying jobs"
     excerpt: "Robots have replaced thousands of routine jobs on Wall Street. Now, they’re coming for higher-ups. That’s the contention of Marcos Lopez de Prado, a Cornell University professor and the former head of machine learning at AQR Capital Management LLC, who testified in Washington on Friday about the impact of artificial intelligence on capital ..."
     publishedDateTime: 2019-12-13T14:39:00Z
