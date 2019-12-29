@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-12T00:07:00Z
 sourceUrl: https://finance.yahoo.com/news/miso-robotics-present-ld-micro-193400109.html
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: YAHOO!
@@ -24,21 +24,19 @@ images:
     title: "Miso Robotics to Present at the LD Micro Main Event (XII)"
 
 related:
-  - title: "Robotics Researchers Have A Duty To Prevent Autonomous Weapons"
+  - title: "Robotics researchers have a duty to prevent autonomous weapons"
     excerpt: "Robotics is rapidly being transformed by advances in artificial intelligence. And the benefits are widespread: We are seeing safer vehicles with the ability to automatically brake in an emergency, robotic arms transforming factory lines that were once offshored and new robots that can do everything from shop for groceries to deliver ..."
-    publishedDateTime: 2019-12-09T02:13:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/robotics-researchers-have-a-duty-to-prevent-autonomous-weapons/
-    ampUrl: https://www.gizmodo.com.au/2019/12/robotics-researchers-have-a-duty-to-prevent-autonomous-weapons/amp
-    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/robotics-researchers-have-a-duty-to-prevent-autonomous-weapons/amp
+    publishedDateTime: 2019-12-18T12:17:00Z
+    sourceUrl: https://www.dhakatribune.com/feature/2019/12/18/robotics-researchers-have-a-duty-to-prevent-autonomous-weapons
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 74
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.2F22561081FA8A7BD236A313F77FA15E
-        width: 700
-        height: 472
+      - url: https://media-eng.dhakatribune.com/uploads/2019/12/image003-1576667806001.jpg
+        width: 800
+        height: 526
 
 secured: "quW0ZC3+jfHoEqY2tUcI3ihswgFdCADDteZiHigWhBkO//zvGhMM4K2Gp9MdYGKdUaEHMnQx3Bep8qL40QyPdHpAC5TY3i22oCRzaelMKI1Iglj5lTEowpvAdU0uwCiXIVcwTthwRF1a/6XVpDtrZixxUI00b6Bb4wq5k07i1DFGbLdw5IePI3droeKa/2yFjkWUgiOAqFn8eVRC3h7Pwpn+th9ICZDJenG1bLILsh4T2RZY8+2wIFQL/8tkkscH7X0hbn9+FkSdn8Gx7ccDkQ==;nNDmgzeppgSJGn6XDe3wiw=="
 ---

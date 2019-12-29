@@ -8,7 +8,7 @@ ampUrl: https://www.ibtimes.com/spacex-iss-delivery-2019-mighty-mice-worms-empat
 cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/spacex-iss-delivery-2019-mighty-mice-worms-empathetic-robot-2881727?amp=1
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1024
     height: 576
     title: "SpaceX ISS Delivery 2019: 'Mighty Mice,' Worms And Empathetic Robot"
-
-related:
-  - title: "SpaceX delivers ‘mighty mice’, worms, robot to ISS"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be tested as an astronaut’s helper. Nasa has tucked some Christmas presents in the shipment for the station’s six-person crew, as well."
-    publishedDateTime: 2019-12-09T02:47:00Z
-    sourceUrl: https://www.dawn.com/news/1521221
-    ampUrl: https://www.dawn.com/news/amp/1521221
-    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1521221
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: https://i.dawn.com/large/2019/12/5dedb71e0a149.jpg
-        width: 800
-        height: 480
 
 secured: "WVngQNROOH3JWW90tJmglcFvIMLR6eMkbfFwsbCk9bQ4BVZR/JCkSeUNYQNbZlcwb6WuV4a0mhqMPk1yDcHomdzwt4XzzijgAUzDldD9gG5ZyG1Wv86BfGkLR/svDZ/LaZjNf9Yo0xuqikvQ6vR9ShZ5m09JeL/41SNul3GHgIAsvJXfwr4S4LgwWYiZmbnaaGI9L6I2gsF34TjnSqwOmeZ6X6cQ2G1pK3Hqwz+maIRKbldD+Uqtrwaj++ijvJLoVTUK6EfATesm9YTQN276fA==;sEBjwznxRs6E9gsgV2GbKQ=="
 ---

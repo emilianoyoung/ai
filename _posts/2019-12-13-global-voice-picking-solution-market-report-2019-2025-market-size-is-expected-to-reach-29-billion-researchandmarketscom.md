@@ -24,103 +24,102 @@ images:
     title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
 
 related:
-  - title: "Artificial Intelligence Platform Market 2019 - 2025 Trends, Analysis, Market Forecast"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. Browse Full Report: https://www.marketresearchengine.com/artificial-intelligence-platform-market The global Artificial Intelligence Platform ..."
-    publishedDateTime: 2019-12-09T02:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2019---2025-trends-analysis-market-forecast-2019-12-08
+  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
+    excerpt: "Dec 13, 2019 (Innovative Reports via COMTEX) -- According to the latest report by Big Market Research, theArtificial Intelligence (AI) in Agriculture Market size is projected to grow in the upcoming years. This research reveals a distinguished approach about impactful factors directly or indirectly impacting the growth of the Artificial ..."
+    publishedDateTime: 2019-12-13T08:51:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-growth-hampering-due-to-high-cost-of-systems-and-services-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Wearable AI Market 2019|Top Key Players Analysis, Trends, Global Size Forecast To 2025"
-    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Wearable AI market is segregated on the basis of Product as Smart Watch, Ear Wear, Eye Wear, and Other Body Wear. Based on Deployment the global Wearable AI market is segmented in Cloud and On-Premises. Based on End-User Industry the global Wearable AI market is segmented ..."
-    publishedDateTime: 2019-12-09T02:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/wearable-ai-market-2019top-key-players-analysis-trends-global-size-forecast-to-2025-2019-12-08
+  - title: "Deep Learning Ecosystem Market Outlook, Comprehensive Insights, Growth and Forecast 2023"
+    excerpt: "Dec 17, 2019 (The Expresswire) -- Global Deep Learning Ecosystem Market 2019-2023 Trends & Forecast Report, Consistent with our stated policy of making available the best research and analysis report. Deep learning is an integral subset of machine learning that has networks capable of learning from unstructured data. Several companies across ..."
+    publishedDateTime: 2019-12-17T11:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-ecosystem-market-outlook-comprehensive-insights-growth-and-forecast-2023-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Medicine Market : Key Facts and Forecast Predictions Presented Until 2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Medicine Market was valued at USD 1.6 Billion in the year 2017. Global Artificial Intelligence in Medicine Market is further estimated to grow at a CAGR of 38.7% from 2019 to reach USD 21.05 Billion by the year 2025. In the global Artificial Intelligence in Medicine Market by ..."
-    publishedDateTime: 2019-12-12T05:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-key-facts-and-forecast-predictions-presented-until-2025-2019-12-12
+  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
+    publishedDateTime: 2019-12-17T11:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 41
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
+  - title: "global artificial intelligence in supply chain market"
+    excerpt: "Data Bridge Market research has recently published the comprehensive business research on “Artificial Intelligence in Supply Chain Market” includes historic data, present market trends, future product environment, marketing strategies, technological innovation, upcoming technologies, emerging trends or opportunities, and the technical ..."
+    publishedDateTime: 2019-12-19T12:12:00Z
+    sourceUrl: https://www.openpr.com/news/1881321/global-artificial-intelligence-in-supply-chain-market-covering
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- AI in Social Media Market Research Report, by Technology (Deep Learning ... Key players Some prominent players in the AI Social Media market are Google (US), Facebook (US), AWS (US), IBM (US), Adobe Systems (US), Baidu (China), Salesforce (US), Twitter (US) and Snap (US). Other emerging players in the AI ..."
-    publishedDateTime: 2019-12-10T12:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-2023-competition-status-and-forecast-market-by-players-regions-2019-12-10
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
+    excerpt: "The global artificial intelligence (AI) in construction market is expected to grow by USD 1.13 billion during 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    publishedDateTime: 2019-12-11T17:14:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/11/9068263.htm
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-    publishedDateTime: 2019-12-02T13:19:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
+      - url: https://www.bing.com/th?id=ON.56383493308BD7368369A82BCCD2A169
+        width: 480
+        height: 270
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-13T08:58:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14985917/global-artificial-intelligence-ai-in-agriculture-market-study-2019-2024-set-to-exhibit-a-cagr-of-2
+    ampUrl: https://amp.benzinga.com/amp/content/14985917
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14985917
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
-        width: 800
-        height: 419
-  - title: "Automated Material Handling Equipment Market 2019 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
-    publishedDateTime: 2019-12-09T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-2019-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2019-12-08
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
+    excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
+    publishedDateTime: 2019-12-10T11:43:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/36830/global-artificial-intelligence-ai-in-agriculture/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 12
   - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
     excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
     publishedDateTime: 2019-12-14T00:10:00Z
     sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
     ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
     cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-15T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
     type: article
     provider:
       name: YAHOO!
