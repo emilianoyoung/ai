@@ -52,21 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A2E19F791698445A0054FCF0B0985DD
         width: 700
         height: 437
-  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
-    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
-    publishedDateTime: 2019-12-09T16:13:00Z
-    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
-    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    type: article
-    provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
-        width: 700
-        height: 466
 
 secured: "z3h0Bilz27aSHmwTLffiMlEfpi3GqSf6qPIayja6LNb/FjfolqPRd9Oupsl1f79BAYTd0wynKiM6ssr7a02xl8K4Gh28y6MUr0ViS52Iv58LRHSgfGzbTfIpniJbHH/jOwxBntWzAckmWLYJOzQ1G7FhmWKTTFhblSEwOERHp4vOtxxuVVOEokhov82nAxW61yYot0ud7gn8Ts7bSg1WgHZJurGL6BNmT8ee6iMUEe0vcuem7TtD37K8u4avKX1Jd5IXOxarHmSIX1Pc+HHmdg==;mdg75EvFVjW4sQnV3NrS6A=="
 ---

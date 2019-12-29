@@ -39,22 +39,7 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72358327,imgsize-232067,width-800,height-434,overlay-ettech/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
         width: 800
         height: 434
-  - title: "Google Could Dominate Self-Driving Cars. New Alphabet CEO Sundar Pichai Could Make It Happen."
-    excerpt: "The Wedbush team estimates Alphabet is spending nearly $1 billion a year on its self-driving fleet and technology, well ahead of Uber from a research and development perspective. The Wedbush team notes that most of Waymo’s contribution to autonomous ride-share vehicles comes from a partnership with Lyft. Last year the company launched its own ..."
-    publishedDateTime: 2019-12-09T16:37:00Z
-    sourceUrl: https://www.barrons.com/articles/sundar-pichai-could-turn-googles-autonomous-vehicles-into-a-bigger-powerhouse-51575889200
-    ampUrl: https://www.barrons.com/amp/articles/sundar-pichai-could-turn-googles-autonomous-vehicles-into-a-bigger-powerhouse-51575889200
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/sundar-pichai-could-turn-googles-autonomous-vehicles-into-a-bigger-powerhouse-51575889200
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.9D98D2504C97BC77A36E1D48543B5C97
-        width: 700
-        height: 350
 
-secured: "lX7PUyjB0/tYGr620N4SjWEF4nbDk/3rkBc11B9exop2kL+mr65kqdS/GYjEPfaYTcNUVWVZZildsR439jDzI9xn7lh6bhibP3VaLrRjHDbUxWywBiBQRj32mBjANyzCfgO+HQb9xur/4XLH13qIVd3RLFKkfvyOR+eO7GQM2ZpP24bh2ehLUU3CerZagCZQjWMLcd1MqPJp4HovUpZB03qR00eSI598mCClHqEsd5YjqWYym/i9AY2eiUNmS9FP18qrLu0v1BwqG23R+lzErg==;ZjWTdnDfH2GSLDJHChcGiA=="
+secured: "6UBjiMsoOjxKJTG7zVPR8LiAfLDnOhXA/B8J/OPGAyKKKwXkNFo14XDz5roket7JmZ8EW1KEiiTzi4m8+pjlxMbsbTVsfaxBuoVhWAb2pYAiRnEGjGYRtA0iD0p3PvnXEWui1anisp5ameQ6twhgU9cWdNzGSRlhyGXtHYopGJPXPOyRW9dShUKRWRvGD/+Q8YtWASd1Bn0V08qCRYrP/FSIHgiOcW0TinNtp5QvdA4R9b0TpMacutVw//Tz5+fMAwymrh1JBoApBtkU9fKuTg==;XUVSlEd43YTOHw5vV73A4A=="
 ---
 

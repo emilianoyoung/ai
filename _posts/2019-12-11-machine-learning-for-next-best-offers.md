@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7C62FD56D03D561B1133523480E48A1F
         width: 640
         height: 335
-  - title: "LEGO Sorting Machine Uses Neural Networks to Sort Any Piece"
-    excerpt: "Neutral networks sort the individual pieces discharged by the “vibration feeder.” The most astounding part of the universal LEGO sorter is its use of artificial intelligence, specifically machine learning, and even more specifically, convolutional neural networks. West describes in more detail how the neural networks work in the video below ..."
-    publishedDateTime: 2019-12-09T16:37:00Z
-    sourceUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/
-    ampUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
-    cdnAmpUrl: https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
-    type: article
-    provider:
-      name: Nerdist
-      domain: nerdist.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5D1FAAE55583DF13099B4BDF7B446C02
-        width: 700
-        height: 394
   - title: "Watching This AI-Powered LEGO Brick Sorter Is Extremely Satisfying"
     excerpt: "West said that his universal LEGO sorter was inspired by two of these previous creations, including a 2011 model built by YouTuber Akiyuki Brick Channel, which was the first of these LEGO machines to sort a large number of pieces, and a 2017 machine that was the first to use AI to sort LEGO. For over two years, West has worked on his LEGO ..."
     publishedDateTime: 2019-12-09T22:54:00Z

@@ -8,7 +8,7 @@ ampUrl: https://tech.economictimes.indiatimes.com/amp/news/technology/google-co-
 cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
 
 related:
-  - title: "Google Could Dominate Self-Driving Cars. New Alphabet CEO Sundar Pichai Could Make It Happen."
-    excerpt: "The Wedbush team estimates Alphabet is spending nearly $1 billion a year on its self-driving fleet and technology, well ahead of Uber from a research and development perspective. The Wedbush team notes that most of Waymo’s contribution to autonomous ride-share vehicles comes from a partnership with Lyft. Last year the company launched its own ..."
-    publishedDateTime: 2019-12-09T16:37:00Z
-    sourceUrl: https://www.barrons.com/articles/sundar-pichai-could-turn-googles-autonomous-vehicles-into-a-bigger-powerhouse-51575889200
-    ampUrl: https://www.barrons.com/amp/articles/sundar-pichai-could-turn-googles-autonomous-vehicles-into-a-bigger-powerhouse-51575889200
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/sundar-pichai-could-turn-googles-autonomous-vehicles-into-a-bigger-powerhouse-51575889200
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.9D98D2504C97BC77A36E1D48543B5C97
-        width: 700
-        height: 350
   - title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
     excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
     publishedDateTime: 2019-12-04T11:28:00Z
@@ -55,6 +40,6 @@ related:
         width: 800
         height: 448
 
-secured: "sLm8TYa11cbbWoV5vSQ8kPSBg3HGVHyLV5QmYcniRj4fI9UVcH7fhgh0EYsblDx9TQ0pfAYDRqp62Hxwowd+7+Mekn2fw3G4ZgdVtw8Oobwjf8HZMkUhwnb8cotl9Ke7nfv5h1SDg7dqMKBX9Si5nc9JRmvAxUv0/x1HvD349tLd1KCNr7eYaJDlxI+XqzrhTB0SmuTVvggAWKnZqC3402M/tfvmiD9zIsaCZ6xOrFmKdbeJOijQgSxJQWMUkL9/pNFWD8onXEOAJ0F9Q+j5iA==;pzVz5wH3g70cMJQBf2CLxQ=="
+secured: "3sN6E4C8Ym3BbXonGim/6jryoJVpy344+V7Wd41NHzRJZSBmyeBLlG2gO++LGjrNfjin+eOdYBws8LN3pceNDEW56FvNB3h/I5Mm8ZFt4E6F68p74I7XJOUqHYJ8RucY1wuD+eiUYQDsm5hhHgQGvNlnfq2Eb2vilwIMHmKYhjamf8kw9ffG3Mf/OcCeQm1+erCjzeuCK1//yQiVqLpUt77YAaZgQcwArttl0OkeW4HTlrYGgFPa0UbgaquEWoOExdPnyTXAfA5KAzZ2TMUoyQ==;5Y+Bs0QyQaojGpcRWmcpkA=="
 ---
 

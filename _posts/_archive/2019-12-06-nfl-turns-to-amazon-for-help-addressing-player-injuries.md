@@ -37,20 +37,7 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
-  - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
-    excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
-    publishedDateTime: 2019-12-09T16:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D3D2D7435233F112E8C48183EFD83C3B
-        width: 635
-        height: 400
 
-secured: "8KmTufxbilYirq8QUE/AV+e+ZbXF72dxqO7oaYdApUhtQFsJtKxS3A48AqiMUl71E25vXap+obKlI5nLSXl44011FOeZiPEKvw8erzSENhn4/mMllPxIFbHGKskhY3dg0UrMQ5RH7425B0X2WiEn1L2U238OxNpNIcePkqz66G5SpWxXDCy2RyiZluXIrljpEx+jy8TW75KlDYJil46CqO4FL+ktqPEXZSl8OaoGFGHN4WFOatNedtLMr6N8h9H2LZjbTx/PMB5T7qrzOMSOqw==;QTMBfmjcJK22o3JxROhQVA=="
+secured: "dm3g6j+1CjGL3S/tT2lYvloo3HVdWLEgfjHbe7Iq+A5wJ1nX9lME+crPWNOpsPo1ZQzszBf3gsg5dDqy0ynzFIZePmQUnTEDlnhWViq4bAfSEGz6p2dvWPwQmU8HSzMUWhYX9VfP/qOIJcfZV8uKyUXwbs5SMpHMXRhvR8o/4zAjMhH/TZ01L9mfrNz7D3MOhWu3sm1PvxGzPBgUWNiSGAeayYzQDFjtUEXwvRB8QEmPjfQytjSSPiuHXfsMWgQZORTUlh5dHK9r5d3uxog2WA==;wpKCq9EVmTHYIndgq9SJYg=="
 ---
 

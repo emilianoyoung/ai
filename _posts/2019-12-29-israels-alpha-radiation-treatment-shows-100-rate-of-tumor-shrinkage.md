@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Developing first alpha-particle radiation therapy for cancer"
+title: "Israel's alpha radiation treatment shows 100% rate of tumor shrinkage"
 excerpt: "The question I have asked myself and many others most often over the past decade is, with all this technology, the artificial intelligence, the autonomous cars ... and the medical community has long sought a cancer therapy that is highly potent (can effectively treat aggressive tumors) while sparing healthy tissue. Alpha Tau’s Alpha DaRT ..."
-publishedDateTime: 2019-12-26T21:15:00Z
+publishedDateTime: 2019-12-29T17:43:00Z
 sourceUrl: https://www.jpost.com/HEALTH-SCIENCE/Developing-first-alpha-particle-radiation-therapy-for-cancer-612236
 type: article
-quality: 39
-heat: 39
+quality: 24
+heat: -1
 published: false
 
 provider:
@@ -21,18 +21,18 @@ images:
   - url: https://www.bing.com/th?id=ON.F639DCF6A6A47E9BAE5188F34FE739BC
     width: 700
     height: 457
-    title: "Developing first alpha-particle radiation therapy for cancer"
+    title: "Israel's alpha radiation treatment shows 100% rate of tumor shrinkage"
 
 related:
-  - title: "Israel's alpha radiation treatment shows 100% rate of tumor shrinkage"
+  - title: "Developing first alpha-particle radiation therapy for cancer"
     excerpt: "The question I have asked myself and many others most often over the past decade is, with all this technology, the artificial intelligence, the autonomous cars ... and the medical community has long sought a cancer therapy that is highly potent (can effectively treat aggressive tumors) while sparing healthy tissue. Alpha Tau’s Alpha DaRT ..."
-    publishedDateTime: 2019-12-29T17:43:00Z
+    publishedDateTime: 2019-12-26T21:15:00Z
     sourceUrl: https://www.jpost.com/HEALTH-SCIENCE/Developing-first-alpha-particle-radiation-therapy-for-cancer-612236
     type: article
     provider:
       name: The Jerusalem Post Blogs
       domain: jpost.com
-    quality: 24
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.F639DCF6A6A47E9BAE5188F34FE739BC
         width: 700
@@ -51,6 +51,6 @@ related:
         width: 700
         height: 457
 
-secured: "79Hz7mIhbdyOCMPp+FpfuRJuxF9YJXi2rBhYDEu8Ah5nza5pAiPFbqrzB02Jyo+zMxrs7ZU7KTYumw58vQ2gvJYCk6ni8xCoVTJoBBN+I+0AR32iNFqlRDQ/BepQLmlI30+hB5J4w5eYQl7xLxUM2L689VOmnq8hJ9QbtKL2NmsiNFNdB+TrQ02MRgLROHI8Dl0xhW5c6yulDhgE7pvxRXPwJcIFlk8MF6AuiBdLW+5R13quSy5z0+QIYdq0Hg6bfxmhxO7Tb7P0KVnnAABqtw==;CCDNRfnRG9/lvmWFgZqFXg=="
+secured: "8MUCziWH5/BdEBxSVeutUUkaupgF/j6Pw9DOwiigK+z6wAux9xqZuztIMvSDzTE3iCr6qTRU230jOYeDFStF1ZZP535t3kSOov/0cC2FMSsZ/N1mX9OF8Xgjd5UTQo2nm1vMH9UYbFFePo3Htu+y5I0cwCVq6LujL5y/Jaf+cYPVrpI7SuuzfbWjVelOz8lSoQEyLrXUDoH4Nrh5dmcz5PI3nxC5lwPoZf+ui5rNa3nBSMVb3qta2gBNxuCEhbA3Lmhq2Kucve9ESkUbQ+p2Og==;iUWpnIZ3r8PsJNff09vOrg=="
 ---
 

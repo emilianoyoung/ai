@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A2E19F791698445A0054FCF0B0985DD
         width: 700
         height: 437
-  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
-    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
-    publishedDateTime: 2019-12-09T16:13:00Z
-    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
-    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    type: article
-    provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
-        width: 700
-        height: 466
 
 secured: "towJ8vN8WgzEZIk7030cZ5HfNVv6tarTb5Dw78hYx/y+mzYF6i30pmMWF/1mNyCHp+f2phiT5RcB38SiAGGRJTBZmf4j6RKmD66qHWr5u3ASkbK8bLWIvtIN4fRbNjpWNOCj7sBF+O98+t8AMM7SQ9lD3JWQ2PD3vscMbu4JIQl/KNGStA/+2e6qQtgFpNXj/RrUFsL0yGkSL/kw5K8FrF4cld+gsW5HInDLOXQesa8mJgiuTUcUnfD1A5gfZgQkG4zlcWiQ1rljXz0E0eelVQ==;HJXK0HwCUpIrP3WwYFhkzA=="
 ---

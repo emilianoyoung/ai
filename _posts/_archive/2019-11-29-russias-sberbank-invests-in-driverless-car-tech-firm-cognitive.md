@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Russia’s Sberbank invests in driverless car tech firm Cognitive"
 
-secured: "gUB9BdZpQ66emlQIrjzbbAdf7BFIqPIgFAiQ8VQHDGibKcdPemDXyjaCKmeugHF/OfhX9uyfD3AfoEf2YyKjQqz3NwM2bdSUNmthKY4reHx6XR5QhOEKs/mlqJISMQUchDWOSUL+K9O0+FQRrxXux2Is7plZvfVctYNrqrZeobHipHrwWWtqQa2EkgNEzqaa0gL2rCoL6VqtOxRc0ejVoPsBoCaYpwI9kNxOfxwM/7AVq1C+26/uRDQp+EuGpouH48uJrSf2BbCXkSUa1K7OBw==;7vTS8ttWCnRkC20PsvJK9w=="
+secured: "nc/qkaTt4T4rCSqEUUebxuDih1fw2xWX+FtnKlL6bD4gqLeApW1cwvm3u4SRHtb6yFIHwtw01o/3p0CtEI7Ur3f9Ja5PH4zVqVUShX1wwmvf9y/oU/Hxl4HzS5G5Ythr5rsao6KK02upXnzhE7xenMV8usX/fPTl2Hp3aSgGde449Bfx55IpPXQIuhF8tJHicCyrQwjHEl1LSXXM2Ngdx/rsGtqyZ/0ncdIUoH3cQzU/ls3Xu/4cnXAu6OCz72Ye1X/0wp6JWDIxkpSkXGFuBg==;nqKK8VS7vfDX68o2dfj6jg=="
 ---
 

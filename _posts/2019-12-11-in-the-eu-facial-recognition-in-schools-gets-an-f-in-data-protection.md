@@ -688,21 +688,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Watchdog warning over mooted facial recognition cameras at Children's Hospital"
-    excerpt: "Ireland's data protection watchdog has warned the new National Children's Hospital that if it is considering utilising facial recognition technology in its security systems it would most likely have to conduct an impact assessment first. It follows concerns raised by the Irish Council for Civil Liberties on foot of reports by US surveillance ..."
-    publishedDateTime: 2019-12-09T16:30:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/watchdog-warning-over-mooted-facial-recognition-cameras-at-childrens-hospital-969373.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/watchdog-warning-over-mooted-facial-recognition-cameras-at-childrens-hospital-969373.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/watchdog-warning-over-mooted-facial-recognition-cameras-at-childrens-hospital-969373.html
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.762BC36345583577511D6912D6FA6484
-        width: 600
-        height: 325
   - title: "Homeland Security wants to use facial recognition on traveling US citizens, too"
     excerpt: "(CNN) -- The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed ..."
     publishedDateTime: 2019-12-10T13:25:00Z

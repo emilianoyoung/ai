@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -35,20 +35,7 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
-  - title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
-    excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s data sets to improve player safety and treatment,as well as ultimately predict and prevent ..."
-    publishedDateTime: 2019-12-09T16:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D3D2D7435233F112E8C48183EFD83C3B
-        width: 635
-        height: 400
 
-secured: "WPFIMVXdxlrWs6FXqjJtIfsae/DHi42NIIfg6nJ3xol3TMdFzSx7HNA61Nn5XOqNpHdKOIRHTtg0btKNCkM3kfC5XskrGHgBjk//822+xwnWi+o+Rpiga6j+OZUQWYPKctvtntXf9qzGNQaa4lx69vOuhgJi3RL5p6L0DOdt1kv0id2OJ/v/mibisx1M8QMgOWWz+SolEkFHzfnqfcAAFh922utWKbDXMO2sHimcsCPtp/4+Mw2r7lKeWxdkJ9HAwP+bhck0t9HOrTi9JKhPpg==;dJ53kkbgR52x+DfkC6A/RA=="
+secured: "SCcV4/qdG4PNNcxrTpRX6M+8NoIjOAG1PeZfsTCssvXieJ5XK0JoWFAzEGbyA7O57k/RA3/U1UFBJU5gZ9sAWb1ll7dmLqQXZiuIS70n1Q7YGLoI0FOCIgXcxO5Sp3QB6A4Yw7rMleZV9MjyXnhH61/O6XxwzCxettiHjCVOfhV21za8kV08KnT3BWM9qQPV6kT14SoAghvuGpt8AolKHU1sAHRnzjAebLlA7QWfDn1VGR+NRX7czqd6z+RLpIC2V8odSMhDy7dglhP29AY8hg==;rx3oMY+ldSBzPQK+pRVruw=="
 ---
 

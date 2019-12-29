@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7C62FD56D03D561B1133523480E48A1F
         width: 640
         height: 335
-  - title: "LEGO Sorting Machine Uses Neural Networks to Sort Any Piece"
-    excerpt: "Neutral networks sort the individual pieces discharged by the “vibration feeder.” The most astounding part of the universal LEGO sorter is its use of artificial intelligence, specifically machine learning, and even more specifically, convolutional neural networks. West describes in more detail how the neural networks work in the video below ..."
-    publishedDateTime: 2019-12-09T16:37:00Z
-    sourceUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/
-    ampUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
-    cdnAmpUrl: https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
-    type: article
-    provider:
-      name: Nerdist
-      domain: nerdist.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.5D1FAAE55583DF13099B4BDF7B446C02
-        width: 700
-        height: 394
   - title: "Machine learning for next-best offers"
     excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
     publishedDateTime: 2019-12-11T12:34:00Z

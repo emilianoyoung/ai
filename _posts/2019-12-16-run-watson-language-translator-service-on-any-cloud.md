@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T15:36:06Z
 sourceUrl: https://www.ibm.com/blogs/watson/2019/12/run-watson-language-translator-service-on-any-cloud/
 type: article
 quality: 117
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
         width: 700
         height: 350
-  - title: "To Future-Proof a Language Service Provider, Embrace Data, Tech, and Client Goals"
-    excerpt: "In this new model, a business would work on data collection, products, instrumentation, and data management, while the LSP or in-house localization team would build expertise or technical systems based on TM, MT, natural language processing (NLP), and text-mining techniques to understand what users are saying in their own languages. Antczak ..."
-    publishedDateTime: 2019-12-09T16:10:00Z
-    sourceUrl: https://slator.com/slatorcon/to-future-proof-a-language-service-provider-embrace-data-tech-and-client-goals/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.32924340E30AF8BCE74B312903D46BE1
-        width: 700
-        height: 466
 
 secured: "Fq9VbHjGTONqsqcZpVv+r9K0ZkwDAxPOHoqC2ECuZLOerJNbhyxwmK6GKjDShWHizTC0wFDNHGZVHkJXbnEhOIU4Gy0nHZNzUB7U6M6rm9KwyesnwA4cMxDUt0ViHqJIGqgHz3QedXOcgqxKgbmKeQfm6Uwg3ttpMdJLBYGVr1vmraQCyAvQRwN7jqAEblbO2beae7ySPQazj6cpc8ZvA3g2GZixLyv42zWqjsHGd8GwJW9I4ktxasKGLciffl4mDuknlge+ZYbzDCxNFpen8A==;vUW3uLeIwQOGpCRtSx/m3g=="
 ---

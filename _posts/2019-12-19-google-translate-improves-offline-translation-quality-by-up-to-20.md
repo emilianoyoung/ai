@@ -43,19 +43,6 @@ related:
       - url: https://www.ibm.com/blogs/watson/wp-content/uploads/2019/12/2019-1009_176_BlogSeries_Implementing-AI_Leadspace-02-01-990x498.png
         width: 990
         height: 498
-  - title: "To Future-Proof a Language Service Provider, Embrace Data, Tech, and Client Goals"
-    excerpt: "In this new model, a business would work on data collection, products, instrumentation, and data management, while the LSP or in-house localization team would build expertise or technical systems based on TM, MT, natural language processing (NLP), and text-mining techniques to understand what users are saying in their own languages. Antczak ..."
-    publishedDateTime: 2019-12-09T16:10:00Z
-    sourceUrl: https://slator.com/slatorcon/to-future-proof-a-language-service-provider-embrace-data-tech-and-client-goals/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.32924340E30AF8BCE74B312903D46BE1
-        width: 700
-        height: 466
 
 secured: "RarR29z/AprmiEe0x1jXRC0t/kRlUejJOoYQ+5Y4wP/uNCWmrPMadO7jv3AUdxhRm146TCMKhz5YdQqPylyXYnX6tpW4warPJPeLXm4ZIiIbC6wp45EFRFCZFtL2KMn1Q0ZhyHZME7jHIVDk2rN+WXA5aJOHGp3Uhas3uJ4kvp776fr99tzaN+aTJpag7KSyXVQUMvnKikxRliZuUF84DWcj5TFVgejrJA12oZXnyQg6o9h7CZ6uwRB3Nx6nWqjj73NEaEWd7kOEpbZksZRIHQ==;RcRaJs6rbT8k7tTT089f1Q=="
 ---
