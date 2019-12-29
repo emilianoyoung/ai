@@ -8,7 +8,7 @@ ampUrl: https://www.entrepreneur.com/amphtml/343605
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/343605
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "How AI can help retailers strategize and optimize their holiday season sales"
 
 related:
-  - title: "HBR: How AI and data could personalize higher education"
-    excerpt: "It and other HBR stories are provided to our subscribers on our website (and in our daily emails) as an added value to your subscription. Artificial intelligence (AI) is rapidly transforming and improving the ways industries like health care, banking, energy and retail operate. However, there is one industry in particular that offers incredible ..."
-    publishedDateTime: 2019-12-09T01:06:00Z
-    sourceUrl: https://www.bizjournals.com/tampabay/news/2019/12/08/hbr-how-ai-and-data-could-personalize-higher.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.5AB0F6BF75938E1E7F7F483732CD834C
-        width: 700
-        height: 394
   - title: "GigaSpaces Launches Version 15.0 to Operationalize and Optimize Machine Learning"
     excerpt: "NEW YORK, Dec. 11, 2019 /PRNewswire/ -- GigaSpaces, the provider of InsightEdge, the fastest in-memory real-time analytics processing platform, announced today the availability of GigaSpaces Version 15.0, including the InsightEdge Platform and XAP, to operationalize and optimize machine learning with the required speed, scale, accuracy and ..."
     publishedDateTime: 2019-12-11T13:30:00Z

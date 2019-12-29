@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6DFFB9213979A007A53CD81DEC02D7C8
         width: 700
         height: 466
-  - title: "HBR: How AI and data could personalize higher education"
-    excerpt: "It and other HBR stories are provided to our subscribers on our website (and in our daily emails) as an added value to your subscription. Artificial intelligence (AI) is rapidly transforming and improving the ways industries like health care, banking, energy and retail operate. However, there is one industry in particular that offers incredible ..."
-    publishedDateTime: 2019-12-09T01:06:00Z
-    sourceUrl: https://www.bizjournals.com/tampabay/news/2019/12/08/hbr-how-ai-and-data-could-personalize-higher.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.5AB0F6BF75938E1E7F7F483732CD834C
-        width: 700
-        height: 394
 
 secured: "lMBHblOfg7DI4VJ2ROnlTGdBKZoNBbr/xONc3/oxGSbY35Lr7NmIRtAcASvyzkETRt7JtmYVlRYMx9YP0m9mv4r0h64p1E38tJkwtMfJhoxl3ioxCohxSMjFJtsrYY8MsbbToLI5Bc5bCFg8fbTqIPf6teV20NS+ulS1r9k9Om1FE3i2bSRLjrBZcD9dJcjEGEMNQU//TaqVTsxozC+Ysau7u0u5ev9VvXFHwXxo+O7cdFvrvLAGP/3GzPEITKTWgyNpe3CH+rXC7A/E9C7NOA==;4WyUaRUUpIbQoxy3azQdjA=="
 ---

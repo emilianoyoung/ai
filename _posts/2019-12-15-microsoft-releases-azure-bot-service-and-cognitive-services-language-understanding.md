@@ -1,19 +1,19 @@
 ---
 category: news
-title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
-publishedDateTime: 2019-12-10T15:51:00Z
-sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
+title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
+excerpt: "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural, has been a goal since technology became ubiquitous in our society."
+publishedDateTime: 2019-12-15T00:00:00Z
+sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 93
+heat: 143
+published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: SD Times
+  domain: sdtimes.com
   images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+    - url: /assets/images/organizations/sdtimes.com-50x50.jpg
       width: 50
       height: 50
 
@@ -22,25 +22,25 @@ topics:
   - Microsoft AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
+  - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
+    width: 1575
+    height: 847
+    title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
 
 related:
-  - title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
-    excerpt: "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural, has been a goal since technology became ubiquitous in our society."
-    publishedDateTime: 2019-12-15T00:00:00Z
-    sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
+  - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
+    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
+    publishedDateTime: 2019-12-10T15:51:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 93
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
-        width: 1575
-        height: 847
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Leveraging AI & Cognitive Services to Simplify Communication"
     excerpt: "All I am trying to avoid can be described this Photo by Kyle Glenn on Unsplash This problem provided me with the unique opportunity to leverage Microsoft Virtual Assitant, with a goal to not only to solve the immediate problem but also to build and ..."
     publishedDateTime: 2019-12-10T20:39:00Z
@@ -90,6 +90,6 @@ related:
       domain: yahoo.com
     quality: 34
 
-secured: "vZBpwlSpWNrn9xjfDncwhrBmLEjeZavVplhDCJ+RmFkyMFtdclI3yKrM/Gcq7UTdTse0ILNpjOVPkdhEdTw02JmLKsyt/gCA2ULgn5WPOuN2Ztp6m67nFhjxrpteeCSEjMJBDk9I6KClF7S4Yt4UIbBqzEo1m4fTXsZ88cjtVQ6SKOBswp6vh7owUp8x66PENlxzm2Dm0eQLRtZ6/9+w04GcHVRWfn0EbUYgFHzdaaqxS0b7HmQiEZPK9JDT+IhUjLbly+mJYb8mZYRYhh9StA==;4SPC8wJIGm+cYZwJS4ZxmA=="
+secured: "lf7UkING6A6T3/Pu3ifdRPuYPo8e/0lgd8vsR2viNzFogsS7eudfOt4Ct0gbtaOX1+CbFJunMr/r7IdF9IXVfwHkBGlXyn8xdlpsj+gp7eHXYmahAj3TjvgJyyP6t6gTgOCGJ5oTeic8ZhT6Hkr3Db4z3ZuzDUhaD3fFD7WFlfyAqcQQ+0MZWEdllSCJY69Yq7azqjWniGEfdDo2QnBAC6wDrwxzk4fgl3uhy6VLzZVk3gei5TWGOK+qpI771LxgFTHu+XUteDXOqJwm5yTHHg==;+eZk2l4FKoIVq6wcYfy8jg=="
 ---
 

@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
-excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
-publishedDateTime: 2019-12-26T07:29:00Z
-sourceUrl: https://www.digitimes.com/news/a20191226PD203.html
+title: "What is the Procedure to Start a FinTech Company?"
+excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
+publishedDateTime: 2019-12-29T02:05:00Z
+sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
+ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
+cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
 type: article
-quality: 36
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - AI
+  - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
-    width: 336
-    height: 224
-    title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
+  - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
+    width: 670
+    height: 352
+    title: "What is the Procedure to Start a FinTech Company?"
 
 related:
   - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
@@ -53,22 +56,20 @@ related:
       - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
         width: 700
         height: 393
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
+  - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
+    excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
+    publishedDateTime: 2019-12-26T07:29:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191226PD203.html
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
+      - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
+        width: 336
+        height: 224
 
-secured: "Ut1XBX1fK6PcbQ/Tb7K7XyJkkvi9shOpr5ilIc8gIluYKBMbH/cWuQZrFtaddA7p9+zpcN3dxcyhlBxHiNeQ1lrSFRMKW+2Lp/nUKaHNBCrBcM85BhuLIakF+Gi6kDp6LwIuyR9pAx56241gEk0+WJSV6gyV1s+YJ2cICRPzoHtbrf6+dv0fhk/cFwFIOdSd3hfGYUHHEPQoVjB8xfx1wPyXSYqsEE3xC1yhwLIqnKO/MWdVWyDZKzcVdJfNzlosVSuaTNGyW8DDt9wC8HP6rw==;BqejViTXhpNAOgBI4tp5sQ=="
+secured: "FVVitmFOjRNs7WaI3FkrQl9UDX6XO8WLY52BHsgra5CzNtUZn0uJsyG8FoL8e3i6F6VNTckpLbk7i9o5R7F3CwJrA6/nOMN409xZfIbdgpk+cr3fBuohQkn8MDkJ59uQsyPk662vfB1f2CeZI2Djkh01IMeiztSY0tl5Xa47quzjGexhgN22WbFHygBEWqQkLp5/c/tZWpt10HBvyFjasqKUoRwN+wkGWh2pTUT5A6K4H7uU33UPJMAYhJNZ0QBGWJmsPlAQ6KbYBW87cXPbWw==;6LKgg1GQztH6TTar7VbI9w=="
 ---
 

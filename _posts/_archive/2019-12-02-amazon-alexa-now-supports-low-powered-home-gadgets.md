@@ -22,17 +22,17 @@ topics:
 related:
   - title: "AWS extends Alexa voice controls to low-powered devices"
     excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
-    publishedDateTime: 2019-12-02T08:27:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+    publishedDateTime: 2019-12-02T08:40:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
     type: article
     provider:
-      name: telecom.economictimes.indiatimes.com
+      name: ETCIO.com
       domain: indiatimes.com
     quality: 59
     images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
+      - url: https://etimg.etb2bimg.com/thumb/msid-72325093,imgsize-562483,width-800,height-434,overlay-etcio/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
         width: 800
         height: 434
   - title: "AWS to roll out Alexa voice controls for low-powered devices"
@@ -47,6 +47,6 @@ related:
       domain: hindustantimes.com
     quality: 39
 
-secured: "PI3qWjWTyp5Isv2MH+2jS5lm5/3vXL4VtB4PwBUTrQErMFZYwOl/gj+wcQSQNgyaPRl/yH6P4g1qMvHLzTbl4YiLzRLFljY6FWVPUikcK5IX6ltFs1uecMqtDpeNzvl4xG56Sc5qJHfBwUtb60lSsKY+Gz4CA8o9wk6tKATlP/OBfy96h8XhfNsrkZp5yZbcKEtm8Ism4f5eK48WHS84frD6X/umcP2CYU5TiYy9FbvyhuMHk8GiqOe7teM1ZkFpujzrVNi84kE61EKKr8LXOA==;e/Cgg/xO8xkz29uG4JsqBg=="
+secured: "qJZJvtuobjDKl5Oc1VbKD3bzSJ/sf/wd4MKtkY0OMpio6C6G3iuBu0iYOVsKf9DaNJoupLFIKVBG+uOgzZNmECuC3Jlb+Q7tAur0ILH2gOe2CGE03DUpal9BiPKPUapfopazykysrEy2QKdARc8Fj6FqpYPBW89NTptvY1QWTV64i2knvhTCVSe8kAn2WH0R/KBC6XQI8Z15lQUyh+thJtoTYj3058lH95CVMOpB36VTG8SykeB8oFzcNdEiXr/3dHFsqQjJkyrXB0j3GdxrBQ==;4skGIvUtYXOFtfLON7zfxg=="
 ---
 

@@ -28,80 +28,82 @@ images:
     title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
 
 related:
-  - title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
-    excerpt: "Inception of exponential technologies such as sensors, robotics, virtual reality, and artificial intelligence in the retail industry has enabled the retailers to enhance their interactions with consumers and transformed the way retail operations were performed. This change in the industry is prominently driven by the seismic shift in the ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
+  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
+    excerpt: "Dec 13, 2019 (Innovative Reports via COMTEX) -- According to the latest report by Big Market Research, theArtificial Intelligence (AI) in Agriculture Market size is projected to grow in the upcoming years. This research reveals a distinguished approach about impactful factors directly or indirectly impacting the growth of the Artificial ..."
+    publishedDateTime: 2019-12-13T08:51:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-growth-hampering-due-to-high-cost-of-systems-and-services-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Supply Chain Market Inclinations & Development Status Highlighted During Forecast Period 2018-2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
-    publishedDateTime: 2019-12-12T12:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-inclinations-development-status-highlighted-during-forecast-period-2018-2025-2019-12-12
+  - title: "Deep Learning Ecosystem Market Outlook, Comprehensive Insights, Growth and Forecast 2023"
+    excerpt: "Dec 17, 2019 (The Expresswire) -- Global Deep Learning Ecosystem Market 2019-2023 Trends & Forecast Report, Consistent with our stated policy of making available the best research and analysis report. Deep learning is an integral subset of machine learning that has networks capable of learning from unstructured data. Several companies across ..."
+    publishedDateTime: 2019-12-17T11:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-ecosystem-market-outlook-comprehensive-insights-growth-and-forecast-2023-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
-    excerpt: "Based on level of automation, the level 3 segment accounted for nearly 93% of the global self-driving bus market share in 2019 and is expected to retain its dominance through 2020–2026. The fact tha level 3 autonomous vehicles are capable of environment detection and can make informed decision drives the growth of the segment. On the other ..."
-    publishedDateTime: 2019-12-13T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/self-driving-bus-market-to-reach-74-52-bn-globally-by-2026-at-40-5-cagr-says-allied-market-research-300974564.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.BD446729BB002F5A5F3E5306552E2AE4
-        width: 700
-        height: 700
-  - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
-    excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
-    publishedDateTime: 2019-12-20T12:08:00Z
-    sourceUrl: https://www.openpr.com/news/1882281/ai-in-education-market-projected-to-reach-3-683-5-million
+  - title: "global artificial intelligence in supply chain market"
+    excerpt: "Data Bridge Market research has recently published the comprehensive business research on “Artificial Intelligence in Supply Chain Market” includes historic data, present market trends, future product environment, marketing strategies, technological innovation, upcoming technologies, emerging trends or opportunities, and the technical ..."
+    publishedDateTime: 2019-12-19T12:12:00Z
+    sourceUrl: https://www.openpr.com/news/1881321/global-artificial-intelligence-in-supply-chain-market-covering
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 7
-  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
-    excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
-    publishedDateTime: 2019-12-11T08:30:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/11/1959038/0/en/Security-Policy-Management-Market-is-Expected-to-Attain-Size-of-2-647-1-Million-By-2024-P-S-Intelligence.html
+    quality: 32
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
+    excerpt: "The global artificial intelligence (AI) in construction market is expected to grow by USD 1.13 billion during 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
+    publishedDateTime: 2019-12-11T17:14:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/11/9068263.htm
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
-    excerpt: "China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence Development Plan, which is aimed at making the ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/security-policy-management-market-expected-083010923.html
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.56383493308BD7368369A82BCCD2A169
+        width: 480
+        height: 270
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-13T08:58:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14985917/global-artificial-intelligence-ai-in-agriculture-market-study-2019-2024-set-to-exhibit-a-cagr-of-2
+    ampUrl: https://amp.benzinga.com/amp/content/14985917
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14985917
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
+    excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
+    publishedDateTime: 2019-12-10T11:43:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/36830/global-artificial-intelligence-ai-in-agriculture/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 12
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
+    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
+    publishedDateTime: 2019-12-15T00:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 0
-  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
-    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
-    publishedDateTime: 2019-12-19T14:18:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
     quality: 0
 
 secured: "OFBlhTjUIxTpHvI+4jKdsXH9UqRwRN+8lLKc+1amds3yCfecPmhznX6uFy/B0A9S+vETE0HQ5GtoyYKNQOX11N6Jz15xV2WOAFu04qaSh89Ln1k3sY9mvLLigZxy9y4haknL9RCckUQHvQjCgu/huCluv8tpTvto8W9rtEo9ySfgM4vhEnhkUmWcHw2FMIYzGChm5O2WUxr8OgGHp5ssvU6yCkl1IwlLI9ihdqZUixNixOLUY92MsJE+UyZ6fSgbmLnFveWF5gzUkeHeP+5cfg==;kX7qJabSxjwDsAQCfDh/nw=="

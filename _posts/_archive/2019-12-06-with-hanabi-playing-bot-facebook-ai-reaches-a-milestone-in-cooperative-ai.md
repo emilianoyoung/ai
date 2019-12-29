@@ -26,7 +26,7 @@ images:
 related:
   - title: "Facebook's new card-playing bot shows AI can work with others"
     excerpt: "Facebook's AI researchers said the findings could be applied to a range of applications, including improving self-driving cars and virtual assistants. \"The reason we're interested in Hanabi is not primarily about games,\" said Adam Lerer, a research ..."
-    publishedDateTime: 2019-12-06T17:01:00Z
+    publishedDateTime: 2019-12-06T17:11:00Z
     sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
     ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
     cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
@@ -40,6 +40,6 @@ related:
         width: 756
         height: 567
 
-secured: "LvRrlHSwxaTxbcPtvCX9U1s2Dh6G0/OmVcSUH8Q5ElfxcSXRSsiAFtGCclEa1Bb0RYtBztgsbPrRjPMayhn/fG0WkAqRHGuXPpltWSwXI/xIDTKPA0C7j+IQcsr89MoZffYS2PfDxAno9Xeempih9z6n5D4ji7fy/W6iiZFqEvXsRuXHQHfsxrw1U/+nOoP2Zm34CCU3u9G0PkLsXpEQQvYRD/4iE1K3lwMlbPqCtjk0bgMO8PS13CS3kOdQmkGlIPkCMPuJWy8UWLDZy2wCpw==;JbBnTRzs0vZ/ldI7hLU9Uw=="
+secured: "JYjLd+yjEl7ng+Y9qposzZd+oUMBrkNah7gBAmFxSLLP4Esg+vxjMbzTMP3emuetxzRDr4+u30M8FDu6ZnDBAx/6bkfk3XgWP2CT31TIdy9zSXbdWk32/LGrS5RYppoY0xURZHI+yoF0I2y6lA3TCjZTijgKSUR15hXYnrpWG+/pWxnei8AWY1S8CsKQhiwUqEy5x0m8+c516WDqofoOmuwZwcEbyIFu+bReJxMJL0KRW7SlDH/qlSJ9uLRp5CinB8jDKOnByaVht+WXqVe6Ug==;+/0F7uuJ1NmdEym4Y+HRtA=="
 ---
 

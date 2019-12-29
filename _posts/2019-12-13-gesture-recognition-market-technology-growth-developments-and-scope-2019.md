@@ -28,34 +28,98 @@ images:
     title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
 
 related:
-  - title: "The AI Chip Market Is Heating Up -- 3 Important Developments You May Have Missed"
-    excerpt: "The company is banking on a new chipset to continue the expansion of its Azure cloud operations with the development of a cutting-edge new processor -- the Colossus intelligent processing unit (IPU) -- in collaboration with British start-up Graphcore. The chips were developed from the ground up with an eye toward AI-centric tasks like facial ..."
-    publishedDateTime: 2019-12-09T01:30:00Z
-    sourceUrl: https://www.fool.com/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
+  - title: "Deep Learning Market 2023|Industry Size, Share, Revenue Growth, Development"
+    excerpt: "Dec 13, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 Market analysis Global deep learning market is relied upon ..."
+    publishedDateTime: 2019-12-13T11:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2023industry-size-share-revenue-growth-development-2019-12-13
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.6EEAA59488431833A39E82E437510FE7
-        width: 700
-        height: 525
-  - title: "Oppo developing its own mobile chips, says report"
-    excerpt: "The report did not provide details of the chip. At the forum, which was held to mark the completion of Oppo's new office ... the company's future R&D push will be also eyeing the development of emerging technologies including 5G/6G, AI, AR and big data, Chen was quoted as saying. Liu, who also serves as dean of Oppo's research institute ..."
-    publishedDateTime: 2019-12-13T06:47:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191212PD206.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
+    publishedDateTime: 2019-12-17T13:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.8F565E236054E5BE547259597B52A997
-        width: 336
-        height: 224
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Edge AI Market 2019| Analysis, Revenue, Price, Market Share, Growth Rate, Forecast to 2025 | Market Research Engine"
+    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Edge AI market for each region is further segmented for major countries including the U.S., Canada, Germany, the U.K., France ..."
+    publishedDateTime: 2019-12-09T03:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/edge-ai-market-2019-analysis-revenue-price-market-share-growth-rate-forecast-to-2025-market-research-engine-2019-12-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Voice Assistant Market Size Overview, Share, Scope, Revenue, Trends, Drivers, Challenges 2023"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Voice Assistant Market, By Technology (Speech Recognition, Text-to-Speech Recognition, Voice Recognition), Application (Messenger Bots, Websites, Contact Centers) and End User (Individual Users, SMEs, Large Enterprises) - Forecast 2023 Market Analysis For performing a range of various tasks, the voice assistant ..."
+    publishedDateTime: 2019-12-17T12:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-assistant-market-size-overview-share-scope-revenue-trends-drivers-challenges-2023-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
+    excerpt: "Reduction in traffic congestion due to improved safety and increase in connected infrastructure have boosted the growth of the global self-driving bus market. PORTLAND, Oregon, Dec. 13, 2019 /PRNewswire/ -- Allied Market Research recently published a report, titled, \"Self-Driving Bus Market by Level of Automation (Level 3, Level 4, and Level 5 ..."
+    publishedDateTime: 2019-12-14T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/self-driving-bus-market-reach-133000298.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 7
+    images:
+      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
+        width: 400
+        height: 400
+  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
+    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
+    publishedDateTime: 2019-12-18T11:01:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 1
+  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
+    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
+    publishedDateTime: 2019-12-17T13:21:00Z
+    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "OOIvun+chF1ERk+9bthXGEou0Xgv8Y14B2csTEuLE5VXxaP2UafF4DUPcaCcdYEOLrhSCILcEa31LmFiLpvZL7xe9hwcsJfmFL+Et6CJ+xXuoE4vLsstIoTeLUJEvL9xrQLdm/lOyWTcN2HuCTn/aTmisLPZ2oFEW8l6DgM2SyUVHV+9YFzxg51Miv+w6HBL3+dIgyh9iylgcjo0RdIg3+AzPjpg38zsm9EYPKlqWll/knLnlOTNRVfQleAs6KM90V60EnDzw+3DC3h5LcDgVA==;Am+DdUZi0E6DshfQbrKjlQ=="
 ---

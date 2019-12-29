@@ -27,23 +27,36 @@ images:
     title: "Artificial Intelligence Service Market Expect Massive Growth (2020-2029) | International Business Machines and SAP"
 
 related:
-  - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
-    publishedDateTime: 2019-12-10T15:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
+  - title: "Artificial Intelligence in Healthcare Market To Make Great Impact In Near Future By 2029"
+    excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
+    publishedDateTime: 2019-12-16T08:24:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 75
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
-    excerpt: "Dec 13, 2019 (Innovative Reports via COMTEX) -- According to the latest report by Big Market Research, theArtificial Intelligence (AI) in Agriculture Market size is projected to grow in the upcoming years. This research reveals a distinguished approach about impactful factors directly or indirectly impacting the growth of the Artificial ..."
-    publishedDateTime: 2019-12-13T08:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-growth-hampering-due-to-high-cost-of-systems-and-services-2019-12-13
+  - title: "Artificial Intelligence in Stadium Market to Witness Excellent Growth by 2025"
+    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Stadium Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides ..."
+    publishedDateTime: 2019-12-16T16:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-to-witness-excellent-growth-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence in Healthcare Market to Cross US$15 Billion by 2025 at a CAGR of over 40% - QY Research"
+    excerpt: "Dec 13, 2019 (Global Research Wire via COMTEX) -- QY Research recently published a research report, titled, \"Global Artificial Intelligence in Healthcare Market Report, History and Forecast 2014-2025, Breakdown Data by Companies, Key Regions, Types and Application\". The expanding horizons of artificial intelligence (AI) have entered the ..."
+    publishedDateTime: 2019-12-13T04:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-to-cross-us15-billion-by-2025-at-a-cagr-of-over-40---qy-research-2019-12-13
     type: article
     provider:
       name: MarketWatch
@@ -53,30 +66,41 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Edge AI Market 2019| Analysis, Revenue, Price, Market Share, Growth Rate, Forecast to 2025 | Market Research Engine"
-    excerpt: "Dec 08, 2019 (Heraldkeepers) -- New York, December 09, 2019: The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Edge AI market for each region is further segmented for major countries including the U.S., Canada, Germany, the U.K., France ..."
-    publishedDateTime: 2019-12-09T03:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/edge-ai-market-2019-analysis-revenue-price-market-share-growth-rate-forecast-to-2025-market-research-engine-2019-12-08
+  - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
+    excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
+    publishedDateTime: 2019-12-16T12:01:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-forecast-poised-to-touch-usd-54-billion-by-2026-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Automotive Connectors Market Report 2019-2024 - Incorporation of Machine Learning in Self-Driving Vehicles Expected to Drive the Market"
-    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/qb1jne"
-    publishedDateTime: 2019-12-10T10:48:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/g14960988/global-automotive-connectors-market-report-2019-2024-incorporation-of-machine-learning-in-self-dri
-    ampUrl: https://amp.benzinga.com/amp/content/14960988
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960988
+  - title: "Artificial Intelligence in Energy Market to see Booming Worldwide | IBM, Siemens & Grid4C"
+    excerpt: "Dec 13, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Artificial Intelligence in Energy Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors ..."
+    publishedDateTime: 2019-12-13T17:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-to-see-booming-worldwide-ibm-siemens-grid4c-2019-12-13
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
 
 secured: "8gF6JvOqtKgRPOU8M3l5KFMilqP8PBBYFkVyl5josBPTngEHpqIbT6NkkeVwARqQWuSeXxj/Gl9V9PzlxQ9M1nIH3+eTEGn5jAJz88H01QAvXm/icks2h56KYzUX4zcLF8qYnGDiGvVytea3O1QH2cwJL7n6rOy8XVpDn9x8RS74NFsKAZNj5Sun/ZMDcVYFNamNhC2kx86v4f/jTRmd8UyTov3QzJctoMtjySmkkYXju6//SsaAlvMXMyrM9syTkgD98+wY2GIO2QIJZLi8rA==;EaUqz68sTFVhWIrV8CvpWw=="
 ---

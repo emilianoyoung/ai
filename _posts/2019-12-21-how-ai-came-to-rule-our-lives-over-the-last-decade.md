@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
+  - title: "What is the Procedure to Start a FinTech Company?"
+    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
+    publishedDateTime: 2019-12-29T02:05:00Z
+    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
+    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
+        width: 670
+        height: 352
   - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
     excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
     publishedDateTime: 2019-12-26T07:29:00Z
@@ -55,6 +70,6 @@ related:
         width: 336
         height: 224
 
-secured: "r972pagu/yxxD0qgGnwmsmVc08j7qQ3tT2C+xnBv4efyu16dppFejNYNKOp5aEhz7GDmry2UN/B6rxgpJzsGjmsUvjJvUDztXeWozhn1v1Y87VLeVG7TdosE6p5PrIaDqjQK9dOThfNr0qTZU3vMX9mbEs/VowWyCOY7aYQbZoJunQO4JAAVVMDrJsXS2PbUNEMqutpYxQCsg8mKfLZyrCMdasF1njE5VhO2E5Y8bgWPuq+GaOGj7eYEbCl++Cj0Yx4f+3w3G9tDr37CLT33Pg==;E9yQZl13jV2z39C01DenWw=="
+secured: "z82JTbH4w/htmQu/eBH1XrlgLs8ijZCy1Fmr7pz6Wf3vUUc7bD5vuvwim96dl+WfjVAkS2LuVtUHbfJAbIyWsLYSZtOEkydLjVOche43v940YSD6WT0BcjZ+eooUr421fSnsWdEXC49HGGKehr5cZAYkFyaYPrQPje9R2s4GYg/RNVU87XVJr0EEdpeduAayDi5e/H/c6T5zZEpg+rt39kJO1jVKuseUGwCm7ypgXLWynB83JEXi1NSa8oRJhVJWIX3qJzqxRmf6XGiVMdXozQ==;bXAWPpGPvYC6s3Lh3f8kNQ=="
 ---
 

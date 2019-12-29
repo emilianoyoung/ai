@@ -208,21 +208,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Experts dwell on use of artificial intelligence in war"
-    excerpt: "With artificial intelligence set to dictate the nature of future battlefields, experts discussed its importance and implications in the Indian context at a seminar on ‘War in the Artificial Intelligence Age’ here today. Experts said artificial intelligence was an emerging technology affecting military and civilian domains alike across the ..."
-    publishedDateTime: 2019-12-09T01:43:00Z
-    sourceUrl: https://www.tribuneindia.com/news/cities/chandigarh/experts-dwell-on-use-of-artificial-intelligence-in-war/872015.html
-    ampUrl: https://m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
-    cdnAmpUrl: https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.9F1D63DEE25CB0A15DEF72A83860660C
-        width: 660
-        height: 307
   - title: "Are We Ready For The First Patent Filed By Artificial Intelligence?"
     excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
     publishedDateTime: 2019-12-13T08:49:00Z

@@ -29,41 +29,67 @@ images:
     title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
 
 related:
-  - title: "Deep Learning Market May Set New Growth Story | Clarifai, Entilic, Google, HyperVerge, IBM"
-    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI has added one more investigative report of valuable nature to its repository. Global Deep Learning Market have been compiled following extensive research, and analysis of various market segments. The report includes market revenue sizing, latest and ongoing trends, threats & key ..."
-    publishedDateTime: 2019-12-24T08:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-may-set-new-growth-story-clarifai-entilic-google-hyperverge-ibm-2019-12-24
+  - title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
+    excerpt: "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural, has been a goal since technology became ubiquitous in our society."
+    publishedDateTime: 2019-12-15T00:00:00Z
+    sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 93
+    images:
+      - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
+        width: 1575
+        height: 847
+  - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
+    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
+    publishedDateTime: 2019-12-10T15:51:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 84
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
-    excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
-    publishedDateTime: 2019-12-26T18:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-may-see-new-emerging-trends-2019-12-26
+  - title: "Leveraging AI & Cognitive Services to Simplify Communication"
+    excerpt: "All I am trying to avoid can be described this Photo by Kyle Glenn on Unsplash This problem provided me with the unique opportunity to leverage Microsoft Virtual Assitant, with a goal to not only to solve the immediate problem but also to build and ..."
+    publishedDateTime: 2019-12-10T20:39:00Z
+    sourceUrl: https://medium.com/@jainsameer01/leveraging-ai-cognitive-services-to-simply-communication-dddd116b5997
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Medium
+      domain: medium.com
+    quality: 84
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
-    excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
-    publishedDateTime: 2019-12-26T11:07:00Z
-    sourceUrl: https://www.openpr.com/news/1885852/speech-and-voice-recognition-market-set-for-rapid-growth-with
+      - url: https://miro.medium.com/max/584/0*4XWE_4lJeGWPw5Bh
+        width: 584
+        height: 389
+  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
+    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
+    publishedDateTime: 2019-12-17T12:35:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
+        width: 700
+        height: 365
+  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
+    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
+    publishedDateTime: 2019-12-18T00:59:00Z
+    sourceUrl: https://finance.yahoo.com/news/cloud4c-recognized-microsoft-azure-expert-120000367.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 34
 
 secured: "DgQgHquW2kSURuLbquXYsKnXWAwg5WW/Gu+ErEZximXYHEXAa5a6V5rWFXoQZtjyUjMXEQ/ybOU5ohwi+ubweoOI+EKGtjJ+7/sb3zdfJx3lLxZT/+bu55jqHByEOyxLOCy3n3oYN41RQojvoC5kJ1Y63/bSCvuzTQ/yTIJ9oM3kz9OQEi4OHyTo2jb4qND1M+Fld+WWjIXR5kU1dVSi+VT0G8/1usf8UruLR8zCU3ISk4vpCHzDaXx2k8RufMCPnf9T+kvRHgw1eqcwNBralA==;Uj//nfKP6s5aCrfBWZqkYQ=="
 ---

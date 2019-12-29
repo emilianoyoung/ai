@@ -39,6 +39,17 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -63,17 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "Unboxing for Business – Amazon DeepRacer AI training car"
     excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
     publishedDateTime: 2019-11-29T00:00:00Z
@@ -101,6 +101,6 @@ related:
         width: 648
         height: 420
 
-secured: "s2oa1xWmRcctCVf7FhIHq7RUYRG1Vfqrb7AceuZYTVBT6TU26f/uurF8RxcHrau+WFoltJiO6RuGXarpBVsza1bqkvq5v2Pi8EI6IFXIKOiRoVly/Aa7uh3kEXgFk1iCBRUdBN0iLCgvSI25UO41rlq184Ucm581mCZ1pn0dOGIby6xzzl8SeJP5lBKcZl5DRem0IceeKFEBSTrRtEUoPB+y9S0pMtRPeProMH3r1IX0D3Ba0Bi+oL5gDeRQk2+6mo6gadYCwVtaMLA6WSvBhQ==;ecChzSaDLabMKnJsoJpbVQ=="
+secured: "AT9NEVXOyH2dKyq0diRrNn93zsP0b4qCbhXwQxVitIxjA2iPWnj5fyek/yL9HwX2UtXKK94+zlVmJgypvU4t5uGo3arSoY+DxlLuXbi3d3IlzwtL191o7tgTrGD8oMpw73Ig3xxEOfHRaTnKsgrT+cIcDUuMPWZrA+eu1hndbzbrniq1OVGmC2o/SjXSBHHjvdlcI31XUX82iMtN0yLm3iNYRkOUMyLsvfux1MF1U6b1HXM+5WAEOWXCYzKLZZggXHmVazJYDXOuLE+WmAyc1g==;sDGSlWFD32SqHTPsNKRjew=="
 ---
 

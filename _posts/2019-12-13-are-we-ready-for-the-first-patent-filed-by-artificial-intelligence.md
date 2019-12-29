@@ -223,21 +223,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Experts dwell on use of artificial intelligence in war"
-    excerpt: "With artificial intelligence set to dictate the nature of future battlefields, experts discussed its importance and implications in the Indian context at a seminar on ‘War in the Artificial Intelligence Age’ here today. Experts said artificial intelligence was an emerging technology affecting military and civilian domains alike across the ..."
-    publishedDateTime: 2019-12-09T01:43:00Z
-    sourceUrl: https://www.tribuneindia.com/news/cities/chandigarh/experts-dwell-on-use-of-artificial-intelligence-in-war/872015.html
-    ampUrl: https://m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
-    cdnAmpUrl: https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/article/experts-dwell-on-use-of-artificial-intelligence-in-war/872015/amp
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.9F1D63DEE25CB0A15DEF72A83860660C
-        width: 660
-        height: 307
   - title: "Kenya ready for Artificial Intelligence but where is the data?"
     excerpt: "Lack of access to free, up-to-date and machine-readable government data stands in the way of Kenya tapping into opportunities brought by artificial intelligence, a Nation Newsplex analysis reveals. The country tops Africa and ranks 52 globally out of 194 countries on the government’s readiness to adopt artificial intelligence (AI) in public ..."
     publishedDateTime: 2019-12-13T04:11:00Z

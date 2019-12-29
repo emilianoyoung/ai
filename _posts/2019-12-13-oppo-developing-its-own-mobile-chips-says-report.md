@@ -24,34 +24,32 @@ images:
     title: "Oppo developing its own mobile chips, says report"
 
 related:
-  - title: "The AI Chip Market Is Heating Up -- 3 Important Developments You May Have Missed"
-    excerpt: "The company is banking on a new chipset to continue the expansion of its Azure cloud operations with the development of a cutting-edge new processor -- the Colossus intelligent processing unit (IPU) -- in collaboration with British start-up Graphcore. The chips were developed from the ground up with an eye toward AI-centric tasks like facial ..."
-    publishedDateTime: 2019-12-09T01:30:00Z
-    sourceUrl: https://www.fool.com/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/08/the-ai-chip-market-is-heating-up-3-important-devel.aspx
+  - title: "6 noteworthy developments in mobile robots from 2019"
+    excerpt: "Although the agriculture sector was not among the early adopters of mobile robots, that started to change in 2019. A prototype robot called Mamut uses artificial intelligence to collect data to keep farmers better-informed. The machine can make real-time route changes based on things such as changes in crop growth. Since the robot operates ..."
+    publishedDateTime: 2019-12-15T13:44:00Z
+    sourceUrl: https://www.therobotreport.com/mobile-robots-6-noteworthy-developments-2019/
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.6EEAA59488431833A39E82E437510FE7
+      - url: https://www.bing.com/th?id=ON.E36226926A0858375C018F4FE5C761AE
         width: 700
-        height: 525
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
+        height: 494
+  - title: "Lloyd Shoes implements Magazino robots in warehouse"
+    excerpt: "After the delivery at the beginning of December 2019, the first two robots are now exploring their new working environment and are subject to a number of tests before being integrated into live operations. Through a link to a global cloud and the use of artificial intelligence, Toru can constantly learn from its own experience in its daily work ..."
+    publishedDateTime: 2019-12-12T12:55:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/12/lloyd-shoes-implements-magazino-robots-in-warehouse/27374/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.F5861D1D70A6CFA9249DD9BE788E4496
+        width: 700
+        height: 398
 
 secured: "0oH+RFMCNpNe6vIVagEovreVbH7Rl5AiUNiVql+zLStxrxNgRSgxM/rb+Ptp/QYDSXSbycwePLluKmCb4xFgVjzdf7T2IlIe1zfXsJF8Ku3fZpdHKylJFGrE6EzTVPJlVbe6o3qsPDyqEp1U8tqn5AyxsVho9ZeH+r1IjKJtAMo0p6iV6UhQPvhn2bK3qLOyCF/UukdZ6cbvM4mKFZOPPgxSkDP7zgz9BgTlKa6jhMnZwif4dFS99LCaAJmQf4Hw+pcdm4jicjTU/Z0Fh/udtg==;Vl+EuFR41rFZSG1EIFpl2w=="
 ---

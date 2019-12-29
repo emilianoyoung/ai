@@ -22,17 +22,17 @@ topics:
 related:
   - title: "AWS extends Alexa voice controls to low-powered devices"
     excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
-    publishedDateTime: 2019-12-02T08:27:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325012
+    publishedDateTime: 2019-12-02T08:40:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-extends-alexa-voice-controls-to-low-powered-devices/72325093
     type: article
     provider:
-      name: telecom.economictimes.indiatimes.com
+      name: ETCIO.com
       domain: indiatimes.com
     quality: 59
     images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
+      - url: https://etimg.etb2bimg.com/thumb/msid-72325093,imgsize-562483,width-800,height-434,overlay-etcio/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
         width: 800
         height: 434
   - title: "Amazon Alexa Now Supports Low-Powered Home Gadgets"
@@ -47,6 +47,6 @@ related:
       domain: gizbot.com
     quality: 24
 
-secured: "6K1+EgR5vCRvD6Dp/LaCl0exb/QUvo/7ekT2ANYVgXf/4usvbvaD6MT6h1cWONYaQCZwzEWX/B532IT8R51PrLGf3iUPG1j6/3TD/wTsX4wAp47X4Kvv2sbedC4rsBGaln0xyd1LA7JHvI6ITRi3HwWYOy5HM4IV5RjqVKpVbBueiJd2aT2XI1f9+LGSRZNe8gJvYKkF+oL+DiS1LU+E/tw0hKb2vXa2MWprRcw9vPbBEWauPP4qfhtggGVCzgt4FYQqhyTycPeYVmA9v1jPYA==;a+6xUgU5jxixigwLiFsW6Q=="
+secured: "wa+Lpim6Kg045ab5ij111aGfw/WvEKX8HCw73O8Fs7X1YCmwbp0P9CPocKDM0wk/orT7YjRfmmwMlGtjabIqj7i5kBAg11hQthG+QMzbNQ5hIPo0tK6rYTH37C3ulF5487zQiB06DyTqye8r4/fR+lxWLe7osurj0dl7rZhr3m5AThT+IYKf0TU8EzAcsSnpsoG97pnJr7oZl/qlz2ko8EdQw23wizukLsUaFI4e0BBNjTxjMoOefFZDB7V2+aUUUl4uQHhT4tVq+h6PcXw38w==;EyD92I34/x8LQr2aMUmGow=="
 ---
 

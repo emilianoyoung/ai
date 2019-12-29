@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/customer-experience/creating-seamless-personaliz
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/creating-seamless-personalized-self-service-experiences-with-ai/amp/
 type: article
 quality: 57
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     title: "Creating Seamless, Personalized Self-Service Experiences With AI"
 
 related:
-  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-17T12:35:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
-        width: 700
-        height: 365
   - title: "IBM LivePerson AI Customer Service Chatbot Seems a Bit Too Impersonal to Me"
     excerpt: "IBM also recently announced enhancements to its Watson ... There’s a growing opportunity to deliver that white-glove customer experience by integrating AI to create a personalized touch.” Watson Assistant’s new features “are designed to provide ..."
     publishedDateTime: 2019-12-11T19:59:00Z
