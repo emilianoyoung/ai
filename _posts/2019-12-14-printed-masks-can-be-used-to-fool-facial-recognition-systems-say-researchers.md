@@ -266,19 +266,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
         width: 600
         height: 263
-  - title: "UOB app-only bank TMRW introduces fingerprint and facial recognition for account opening"
-    excerpt: "For example, a small percentage of customers using fingerprint biometrics to authenticate their account at TMRW kiosks found the experience not seamless enough so we enhanced this with the latest facial recognition technology to ensure a smoother account opening process for all.” TMRW enhances its suite of features beyond biometrics TMRW’s ..."
-    publishedDateTime: 2019-12-09T15:41:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80880/uob-app-only-bank-tmrw-introduces-fingerprint-and-facial-recognition-for-account-opening
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 30
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
   - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
     excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
     publishedDateTime: 2019-12-19T21:59:00Z

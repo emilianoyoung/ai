@@ -36,6 +36,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "pY3JOFea8xTU0J0jSFs7gn+SFYFB4JHtm54qtsi1nap1sMY3H8isgdo0xxcq0L1JvobA/dm3GOS9DDMbjUxjg+K3K1/klZ3IOfzOk1JatKi88rNAqaoF0McAJeWHIzdzXm4oC/jqhFZVbtP/lg1zETquD3NMiPii85PITpc7BDND+e5cu4v5OfwX512M3X8/kr1xYU6430Z8+Ti8bcllNxideSGwZ7RtZpmkrsqUB0Yh+Z3lEkyYNH8ICXxq3E3gpDxp9kujptr0qlKHIBuUpA==;a9GDr7GNUIl3/+xdSLDS9g=="
+secured: "7E8pYxjjVyMg87Cgq48fyicO7qiOZzeuMQwTY0FD9nRztGVu7N2slimwjOzxUubYWWMXsOcLBIzzNpFZw+HU8yWzIB9zD5JQgZFQZVyV91eyPNQGPjssFWMtLZ+KhYgEEaLvTc+mW5x2nO8TZ3oSXA1c2flMuT4hko/BcLmiYT3fRQQiYuIQ/2dTqC+trZJVX9AVwJd67lcWZ3nEDdf2WRukRgMNFrvGmXQDWduFRhxGsAHBvk6r+BUQYUAZrH/4xUKsnec2y99MOBivv9tvdg==;bE6bTmX3/MihV8cfLj2aow=="
 ---
 

@@ -23,21 +23,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "New York: Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve their end-of-life communication. Some of the most important, and difficult, conversations in healthcare are the ones that happen amid serious ..."
-    publishedDateTime: 2019-12-09T15:25:00Z
-    sourceUrl: https://gulfnews.com/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.525771DE51E9F12F509C2B5AC050F38E
-        width: 540
-        height: 405
   - title: "Join the conversation: why your business needs conversational AI"
     excerpt: "Thanks to its ability to use natural language processing (NLP) to map spoken or written words to intent, conversational AI is no longer just a gimmick. Instead, conversational AI is making an impact across nearly every sector — in our homes, cars, call centres, banks, online shops, and hospitals—and the use cases are growing. Combining ..."
     publishedDateTime: 2019-12-10T10:30:00Z
@@ -68,21 +53,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
         width: 700
         height: 379
-  - title: "Researchers use machine learning to better understand conversations about death"
-    excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. We want to understand this complex thing called a conversation."
-    publishedDateTime: 2019-12-09T15:53:00Z
-    sourceUrl: https://www.news-medical.net/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
+  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
+    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
+    publishedDateTime: 2019-12-10T13:25:00Z
+    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 48
     images:
-      - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
-        width: 620
-        height: 480
+      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+        width: 700
+        height: 446
 
 secured: "JD4SUVjOERuD8v6mgKQWicIY7oisTN0Gt4+KnzSlkyeGVbjfu9BpS4N91tD8y7GajwMyN72TWKkDa4o9azyZUNol1qITmt0Ovp5+HeJGfy5HaP62yYG2i7TePw96zdA+QncV0fpEs6XsIORyCveuQYjyp3LaY+fAuMgi2AT/AV11CWzFqQtIXsdtXut1jae9gW3G8Irc+X9JW/auQbrlavc0vDZywcY4g/vvox91Hn/pltfe+DINlWAREXNDPeb1kyRH6ic77EUq2DeHkLpFLg==;ySlCG2dgkbYM/di3DSLakw=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.itproportal.com/amp/features/join-the-conversation-why-your-
 cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/join-the-conversation-why-your-business-needs-conversational-ai/
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: IT Pro Portal
@@ -27,21 +27,6 @@ images:
 
 related:
   - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "New York: Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve their end-of-life communication. Some of the most important, and difficult, conversations in healthcare are the ones that happen amid serious ..."
-    publishedDateTime: 2019-12-09T15:25:00Z
-    sourceUrl: https://gulfnews.com/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    ampUrl: https://gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/machine-learning-can-create-meaningful-conversations-on-death-1.1575905867109
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.525771DE51E9F12F509C2B5AC050F38E
-        width: 540
-        height: 405
-  - title: "Machine learning can create meaningful conversations on death"
     excerpt: "Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve ..."
     publishedDateTime: 2019-12-10T03:15:00Z
     sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
@@ -56,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
         width: 700
         height: 379
-  - title: "Researchers use machine learning to better understand conversations about death"
-    excerpt: "Now researchers at the University of Vermont's Vermont Conversation Lab have used machine learning and natural language processing to better understand what those conversations look like, which could eventually help healthcare providers improve their end-of-life communication. We want to understand this complex thing called a conversation."
-    publishedDateTime: 2019-12-09T15:53:00Z
-    sourceUrl: https://www.news-medical.net/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191209/Researchers-use-machine-learning-to-better-understand-Conversations-about-death.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.9C1DB6BE9B6134E24175979594AEFCE5
-        width: 620
-        height: 480
   - title: "Machine learning can help us understand conversations about death"
     excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
     publishedDateTime: 2019-12-10T14:41:00Z
@@ -80,6 +50,21 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
+  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
+    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
+    publishedDateTime: 2019-12-10T13:25:00Z
+    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+        width: 700
+        height: 446
 
 secured: "74p+OHRYwmyCHDGMws0lat18rZtcL2ZdS+2khO/kij7ppz1wMm6gZg/ZfO5TUVEsnWi1ea4n9skyjAVsqLRJhFeupglj/0Eqhf43UcBOnQCytBxyM2H9N40izgsHgv/VE7dxKplllXyNfPoL2M3ghCRtg2AHc05GS+8hmRDy3ngEFyQXU5JrQ6IXY5t3693Hfc+EZz4caSSIv8Y80e62pel0/VpGJvPNLybpMDCRhEPT7KnQxvF/4zjL/i1/Vh7YcdawW8So8aA+VRFmo1ZtUA==;INySCmAMh0KLMkVm2Xgo9w=="
 ---

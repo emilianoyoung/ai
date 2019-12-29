@@ -20,19 +20,6 @@ topics:
 related:
   - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
     excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
-    publishedDateTime: 2019-12-09T15:06:00Z
-    sourceUrl: https://apnews.com/Business Wire/105e3daa67ea48ed8f824ed1b5bf4fcd
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
-  - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
-    excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
     publishedDateTime: 2019-12-10T00:04:00Z
     sourceUrl: https://finance.yahoo.com/news/singapore-bigo-technology-integrates-artificial-150000658.html
     type: article

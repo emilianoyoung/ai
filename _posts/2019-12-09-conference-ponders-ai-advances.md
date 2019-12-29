@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T19:56:00Z
 sourceUrl: https://www.embedded.com/conference-ponders-ai-advances/
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,21 +27,17 @@ images:
     title: "Conference ponders AI advances"
 
 related:
-  - title: "Intel previews AI advances in software testing, sequence models, and explainability"
-    excerpt: "This week marks the kickoff of Neural Information Processing Systems (NeurIPS), one of the largest AI and machine learning conferences globally. NeurIPS 2017 and NeuIPS 2018 received 3,240 and 4,854 research paper submissions, respectively, and this year’s event — which takes place from December 8 to December 14 in Vancouver — is on track ..."
-    publishedDateTime: 2019-12-09T16:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/09/intel-previews-ai-advances-in-software-testing-sequence-models-and-explainability/
-    ampUrl: https://venturebeat.com/2019/12/09/intel-previews-ai-advances-in-software-testing-sequence-models-and-explainability/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/intel-previews-ai-advances-in-software-testing-sequence-models-and-explainability/amp/
+  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
+    excerpt: "AWS also continued its expansion into business and vertical applications in what we call the fields of applied AI. These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects ..."
+    publishedDateTime: 2019-12-10T15:50:00Z
+    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
+    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.D5135828891828E6C42AE1187D9BC459
-        width: 700
-        height: 409
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
 
 secured: "Wp+ekE4zzczMAHdb8JKDoGmyfrwTT2MoCgfYKB7KSeXOFRrqojjTtYGTfyOqPZzp7aJoRVtRm2T77nxWzwJQ5IDdGVGt5MtKMEQAE+ovsL3OaBTBZ2fHvRAfTzgyIQkgp5FewWiW+0l+ovcKD9tUATCtu0ymUdVXfm4wNb1tHs4vd+uG52wQwEdWnFJ9d4tmZqoV4Eu9Fgtd4ezigmLXUe9SRwzJ2foHfTwweebCKQZ6AmWi1mZPx44Prok2MfC+C+zKrMUJRYpEc2yxf8tBbg==;VzkxZR8BJA0fd7eaKO0G0w=="
 ---

@@ -32,19 +32,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 13
-  - title: "Singapore BIGO Technology Integrates Artificial Intelligence Into Communication Apps for a Holistic and Immersive Experience for Users"
-    excerpt: "Leading technology company from Singapore BIGO Technology (BIGO), the holding company for popular new age communication platforms like Bigo Live (Live Streaming), Likee (Short-form Videos), and imo (Video Communication) has shared that they use Artificial Intelligence (AI) as a foundation to create a more engaging, world-class immersive ..."
-    publishedDateTime: 2019-12-09T15:06:00Z
-    sourceUrl: https://apnews.com/Business Wire/105e3daa67ea48ed8f824ed1b5bf4fcd
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
   - title: "TowerJazz and the Technion Developed a Breakthrough Analog Platform for Artificial Intelligence in Edge Devices"
     excerpt: "The technology enables development of ultra-low power Artificial Intelligence (AI) cores suitable for IoT edge devices and sensors such as fingerprint sensors, face and audio recognition applications among others. Compared with existing digitally based solutions, this solution enables several orders of magnitude lower power consumption and is ..."
     publishedDateTime: 2019-12-11T11:00:00Z
