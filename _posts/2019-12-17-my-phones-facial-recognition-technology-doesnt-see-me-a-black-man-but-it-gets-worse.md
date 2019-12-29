@@ -1584,19 +1584,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7947F2488B16ACD9DD185E4ADCC44197
         width: 700
         height: 393
-  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
-    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
-    publishedDateTime: 2019-12-09T09:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
-        width: 320
-        height: 180
   - title: "Massive errors found in facial recognition tech, especially in case of nonwhites: U.S. study"
     excerpt: "WASHINGTON – Facial recognition systems can produce wildly inaccurate results, especially for nonwhites, according to a U.S. government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates ..."
     publishedDateTime: 2019-12-19T23:43:00Z

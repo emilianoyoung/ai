@@ -23,21 +23,6 @@ images:
     height: 599
     title: "RBC invests in research into AI and machine learning in financial services"
 
-related:
-  - title: "Unitek.AI uses smart automation to target roadblocks in financial services"
-    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now 7 of the coolest science jobs in the world Thinking about a career in marketing? An analytical mind is helpful OneLogin to hire 30 people as it unveils Dublin EMEA HQ New Smithstown Light Engineering facility to bring 60 jobs to Shannon"
-    publishedDateTime: 2019-12-09T08:36:00Z
-    sourceUrl: https://www.siliconrepublic.com/start-ups/unitek-ai-startup-fintech-financial-services
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.1A552890CC0AA71EA2E1A659C593005D
-        width: 207
-        height: 155
-
-secured: "0SFNNDb9RhLiOq6ZcerwxgYmp3TCDKJMwQNeLgF26r9gs8QdajaH4fEHaPpzG0szNERiDbEFhJbqXGqA045uGkARU7p2PbeQDXMqGBCXm50hvabM+EcLm4VC4hvcROg9u7LdmP3oG+B65v1Gb3F0RqUqXO0kWDBj+Gw5/hIcnMTB5+RGuS3zrYVPsZZjfheyjDmKQmb1RRDhKhsoQzCU8KcOaleIrasSx7G3WjgpKtYnLkp9RmwMs01dNHpxJr0UXLpL3qj70xEgAZ8t9JC/mw==;3XkERBuSbx+6AqHPs3xrFA=="
+secured: "RzifsDHSP715B3qsKr1kSfq6Kim+Z9LrmROoGR+gBpMLalER1UBLwWAq22cwfQFjLyJW/T2bUBZNoIimr5TgMDJj9KD3uw6p8o/ZR7D6kybu+HBzzOAnZeJrwjKTr6vOui8aVND2A6No2MDCeKQFUAB1U95UNVGpwQOW4v0B+eKx68j63abfdQf0/OLXpcyBaW2Yf3RcIaCXSWzVBgzAGG5JzIyR45w7v6FCN0iqgHwC0VJb58zNCGu6miF9YJWFZOvq5Hk5u7qLiWnqGRRDPQ==;E9BViipNvIf15dlzT97OXw=="
 ---
 

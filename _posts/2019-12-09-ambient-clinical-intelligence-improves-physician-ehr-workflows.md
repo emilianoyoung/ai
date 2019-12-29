@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10C4D9ED2565B142390DF058811C07ED
         width: 600
         height: 315
-  - title: "Managing Germany’s Car Industry Crisis By Staying The Course On Gender Diversity"
-    excerpt: "According to Deloitte, there is a talent crisis in the global automotive industry at a time that requires solutions to complex issues facing the mobility sector, including vehicle connectivity and self-driving cars. Developing a competitive advantage in this environment requires talented professionals with diverse skills and experiences."
-    publishedDateTime: 2019-12-09T09:03:00Z
-    sourceUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/
-    ampUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.17D36FE546CC8118725B97C6A6EF85A9
-        width: 600
-        height: 315
   - title: "Jeff Bezos Gave an Amazon Employee Extraordinary Advice After His Epic Fail. It's a Lesson in Emotional Intelligence"
     excerpt: "Freed and co. then hired speech scientists and artificial-intelligence experts to help them create the new software. They designed it so it could understand a variety of accents. They didn't want to place too many limitations on the software, so they gave it the ability to do all sorts of tasks--from telling you the weather to answering ..."
     publishedDateTime: 2019-12-09T12:34:00Z

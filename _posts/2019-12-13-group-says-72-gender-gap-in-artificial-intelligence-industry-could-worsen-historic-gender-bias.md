@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/patriciagbarnes/2019/12/12/group-says-72-ge
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patriciagbarnes/2019/12/12/group-says-72-gender-gap-in-artificial-intelligence-industry-could-worsen-historic-gender-bias/amp/
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Group Says 72% Gender Gap In Artificial Intelligence Industry Could Worsen Historic Gender Bias"
 
 related:
-  - title: "Managing Germany’s Car Industry Crisis By Staying The Course On Gender Diversity"
-    excerpt: "According to Deloitte, there is a talent crisis in the global automotive industry at a time that requires solutions to complex issues facing the mobility sector, including vehicle connectivity and self-driving cars. Developing a competitive advantage in this environment requires talented professionals with diverse skills and experiences."
-    publishedDateTime: 2019-12-09T09:03:00Z
-    sourceUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/
-    ampUrl: https://www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carmenniethammer/2019/12/09/managing-germanys-car-industry-crisis-by-staying-the-course-on-gender-diversity/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.17D36FE546CC8118725B97C6A6EF85A9
-        width: 600
-        height: 315
   - title: "Ambient Clinical Intelligence Improves Physician EHR Workflows"
     excerpt: "Using an incremental approach to improve natural language processing, virtual scribes review the conversation and physically update the EHR. “Information is captured in the visit. That raw data is going through the natural language processing engine. That then goes to a human who’s not in Nebraska. That person then updates the chart with ..."
     publishedDateTime: 2019-12-09T14:34:00Z

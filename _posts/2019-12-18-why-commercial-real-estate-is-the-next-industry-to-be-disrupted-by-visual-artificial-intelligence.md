@@ -125,19 +125,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 36
-  - title: "Waterloo professor says artificial intelligence is a useful tool to help fight wildfires"
-    excerpt: "Mark Crowley of the University of Waterloo wants to deploy a completely new weapon in the ongoing battle to control wildfires: the cutting-edge power of artificial intelligence. Forest fires are extraordinarily complex. How they burn can depend on a huge number of factors: the landscape, the wind, the species and age of the trees — older ..."
-    publishedDateTime: 2019-12-09T08:13:00Z
-    sourceUrl: https://www.therecord.com/news-story/9766881-waterloo-professor-says-artificial-intelligence-is-a-useful-tool-to-help-fight-wildfires/
-    type: article
-    provider:
-      name: Waterloo Region Record
-      domain: therecord.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.EB89FF7217B4DBCB1D461E897CD79C90
-        width: 685
-        height: 416
   - title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
     excerpt: "We can expect innovation around the edges more than at the core, and a big focus on integrated payments,” Oglesby said. In the next year, FIS will be positioned to focus on AI and identity management technology to reduce account takeover and improve anti-money laundering, with both U.S. and global needs for the payments market, said Krista ..."
     publishedDateTime: 2019-12-20T05:34:00Z
