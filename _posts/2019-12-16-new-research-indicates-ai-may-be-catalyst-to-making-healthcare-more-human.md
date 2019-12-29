@@ -37,21 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
         width: 700
         height: 525
-  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
-    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
-    publishedDateTime: 2019-12-09T05:43:00Z
-    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
-    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
-    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
-        width: 700
-        height: 323
   - title: "2020 predictions for healthcare IT from six industry experts"
     excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
     publishedDateTime: 2019-12-19T10:30:00Z

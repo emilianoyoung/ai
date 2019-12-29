@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DABDF5F5F6259EAF71BFBA3D3B13A33B
         width: 600
         height: 315
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-09T05:29:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
-        width: 1199
-        height: 512
   - title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
     excerpt: "Working with robotics and drawings brings me back to the body — the mark-made-by-hand ... That being said, the 'artificial' of artificial intelligence tend to overlook the human element. In my drawings, the models I train require large datasets to be effective. In my case, those data sets are decades of my drawings. Is it uncomfortable ..."
     publishedDateTime: 2019-12-12T05:55:00Z

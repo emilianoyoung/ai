@@ -39,17 +39,41 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "Amazon Web Services on Tuesday announced SageMaker Studio, a fully-integrated development environment for machine learning. A web-based IDE, SageMaker Studio allows you to store and collect all things you need, whether it's code, notebooks or project ..."
-    publishedDateTime: 2019-12-03T18:11:00Z
-    sourceUrl: https://www.zdnet.com/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 84
+  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    publishedDateTime: 2019-12-04T20:48:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
+        width: 700
+        height: 335
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -90,6 +114,6 @@ related:
         width: 648
         height: 420
 
-secured: "KHBVUxhzZr2UMvSPW6G5QdwkM4bbBu+SAIdEzqPoug0CiW5CPvukFwb/xbtdBqYxRfLsr4MDLK3lYIeZxbgi75SFljhn7nPS34qb2gzJzb656yrc+uzSn271Z+uQnfmQk+7AxaLiK49x6VZ8NlNSYzYUWKciaf7EXHE8jtEgObBtEqIPwbrNA/hu0gB3GxquYiYTUdLOs7SJZ5R6zL1lxKhVFtDfnPYM4uN+rRRXRvqZy9PSw7fBjwBL/J16ylx4J65WGky1WF5EawIz/sgXGA==;TyWlCE2WvgwDV9PQLrYZyw=="
+secured: "DQ2vzivj3jSxbTskEXs9Z7WP2HaZVDOHqaGaJiEHzsz8bntNguHOHeL44tF2kPLW75m4e8m+xUiYU42udI5/E+rRsvYgXxy9FUHeiR45bA5rZAwccm+SuNTGRbG1pd0hlCdUTKwhZnWk4MapJaQcVmBzqvxWnyfiVtWzuUmSADwW65W1w8dCoUNIrMoHfKBqEPJ92MAT/Y/XEhES27K4zXLmvBQl9CGRghfh7vHMN1AZDAVHx8h0B2pZcPuT6Oi/X/7VrtaW3Qt1Mxpy1FiSng==;0cmBiaQtRefljojM1HgpFA=="
 ---
 

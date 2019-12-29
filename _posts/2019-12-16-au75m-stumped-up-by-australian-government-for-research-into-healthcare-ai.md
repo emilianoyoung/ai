@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
 type: article
 quality: 102
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
 
 related:
-  - title: "Opyl to use artificial intelligence to digitally transform Australia’s healthcare sector"
-    excerpt: "Opyl Limited launches as the newest player in global digital health Opyl Limited (ASX:OPL) has launched a new company name and brand, heralding its entry into the rapidly expanding global digital health and artificial intelligence (AI) market. Combining new technologies and healthcare expertise, Opyl’s key offerings include optimising ..."
-    publishedDateTime: 2019-12-09T05:43:00Z
-    sourceUrl: https://www.proactiveinvestors.com.au/companies/news/908698/opyl-to-use-artificial-intelligence-to-digitally-transform-australias-healthcare-sector-908698.html
-    ampUrl: https://www.proactiveinvestors.com.au/companies/amp/news/908698
-    cdnAmpUrl: https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/908698
-    type: article
-    provider:
-      name: Proactiveinvestors UK
-      domain: proactiveinvestors.com.au
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.19285021AFE8F1E70C7315092768542E
-        width: 700
-        height: 323
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-16T14:00:00Z

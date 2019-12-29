@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DABDF5F5F6259EAF71BFBA3D3B13A33B
         width: 600
         height: 315
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-09T05:29:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/09/the-10-best-examples-of-how-companies-use-artificial-intelligence-in-practice/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dedda7de961e100078f745e%2F0x0.jpg
-        width: 1199
-        height: 512
   - title: "Is Artificial Intelligence and Machine Learning really a strong market to invest in?"
     excerpt: "Dec 11, 2019 (AB Digital via COMTEX) -- An extensive analysis of the Global Artificial Intelligence and Machine Learning market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and a ..."
     publishedDateTime: 2019-12-11T17:22:00Z
