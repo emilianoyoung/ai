@@ -149,19 +149,6 @@ related:
       name: KMOV
       domain: kmov.com
     quality: 33
-  - title: "SpaceX Dragon spacecraft carried up 'mighty mice' and a new robot companion to the International Space Station"
-    excerpt: "Another part of the SpaceX Dragon cargo was the next generation of the Crew Interactive Mobile Companion, or CIMON-2. The companion is an artificial intelligence program housed in a round, soccer ball-sized robot with a digital face. CIMON-2 is designed as an autonomous companion that can sense astronauts' emotions, interact with them ..."
-    publishedDateTime: 2019-12-08T22:10:00Z
-    sourceUrl: https://www.insider.com/spacex-dragon-carried-mighty-mice-robot-companion-into-space-2019-12
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.218FC9AF027D39B98879638CB90E3138
-        width: 700
-        height: 350
 
 secured: "LIMu6+KYpbj97vLY29Y+Qz/4t2OK0O8ttsxLypvO1XC4hdJPaBXn3DvFZNDqywdk1rpdQKUODWYQ+Iogfp5oOnacCUIrdp26z8LlgMjM6yP/sgJythcRR0+LQCWRGfRxPdqW2YZFKYa9wouQCbjzQiElQmfC253IecPc0lQ/7QIcEjNHgupG+eCw322dP8G61b4YqDyxNihdjHsOGWQu6R/Y4UD8N9E2+19F8szl1cnBsGSAen3NNXGmdIwuWlnKVlzu15LyBDLBenqh0abTfg==;ZC+J/OPvrSbNQ2kKgwYq6g=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://thenextweb.com/podium/2019/12/27/heres-how-to-spot-legitimate-ai
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/27/heres-how-to-spot-legitimate-ai-from-marketing-fluff/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

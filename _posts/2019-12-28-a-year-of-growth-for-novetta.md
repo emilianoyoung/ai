@@ -5,7 +5,7 @@ excerpt: "Dec. 27, 2019 /PRNewswire/ -- Novetta, a leader in advanced analytics 
 publishedDateTime: 2019-12-28T00:16:00Z
 sourceUrl: https://finance.yahoo.com/news/growth-novetta-140000529.html
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "A Year Of Growth For Novetta"

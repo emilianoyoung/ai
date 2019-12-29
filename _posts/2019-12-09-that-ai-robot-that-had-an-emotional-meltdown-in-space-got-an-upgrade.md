@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T07:10:00Z
 sourceUrl: https://www.msn.com/en-us/news/technology/that-ai-robot-that-had-an-emotional-meltdown-in-space-got-an-upgrade/ar-BBXVP5p
 type: article
 quality: 137
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -148,19 +148,6 @@ related:
       name: KMOV
       domain: kmov.com
     quality: 33
-  - title: "SpaceX Dragon spacecraft carried up 'mighty mice' and a new robot companion to the International Space Station"
-    excerpt: "Another part of the SpaceX Dragon cargo was the next generation of the Crew Interactive Mobile Companion, or CIMON-2. The companion is an artificial intelligence program housed in a round, soccer ball-sized robot with a digital face. CIMON-2 is designed as an autonomous companion that can sense astronauts' emotions, interact with them ..."
-    publishedDateTime: 2019-12-08T22:10:00Z
-    sourceUrl: https://www.insider.com/spacex-dragon-carried-mighty-mice-robot-companion-into-space-2019-12
-    type: article
-    provider:
-      name: insider
-      domain: insider.com
-    quality: 19
-    images:
-      - url: https://www.bing.com/th?id=ON.218FC9AF027D39B98879638CB90E3138
-        width: 700
-        height: 350
 
 secured: "cy/HHihAgCZb/O8guT4aeMm2n7VjnJC3cwVlsySwcen793tqtmvo+0tWiTJRpp/ua8jiapDmCYxFvfsTkTqEh3iiul/8RJamNiK+CTpMpZ0l6M8Fup3Bf4DZeJ4ujMv+Mr5fQDdLX0wD+ID7N/bAh6i+drqSm11SSSV3k5CrLsOihp/pyTAcUypdfPv4RxC0HayVgjuaAMjbLIj3A6/4IoW+WQjPnyGCelCrf7WAZtwbploy0yopDat45Ehcnzhx2DTW3GoeC/AJju4faRgAY0F7Z3++EQ6qz0HbTPMw3Ag=;zc5m0M1oDjf1o0eAS1nQ9g=="
 ---
