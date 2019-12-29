@@ -108,21 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
         width: 700
         height: 466
-  - title: "Macron’s €1.5 billion plan to drag France into the age of artificial intelligence"
-    excerpt: "the French officials said that mass collection of personal data for marketing or political purposes was out of the question (France already outlaws political advertising of the type that’s at the center of the Facebook-Cambridge Analytica scandal). All data collection for AI research would have to be done in conformity with the EU’s ..."
-    publishedDateTime: 2019-12-09T21:02:00Z
-    sourceUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/
-    ampUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
-        width: 700
-        height: 366
   - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
     excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
     publishedDateTime: 2019-12-12T22:42:00Z

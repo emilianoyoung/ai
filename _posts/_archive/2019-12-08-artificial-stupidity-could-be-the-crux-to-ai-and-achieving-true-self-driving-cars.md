@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -103,19 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Air France Hopes To Reduce Delays With Self-Driving Luggage Carts"
-    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. The vehicle, known as the AT135 baggage tractor ..."
-    publishedDateTime: 2019-12-09T20:45:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/air-france-hopes-to-reduce-delays-with-self-driving-luggage-carts/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
-        width: 700
-        height: 393
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z
@@ -195,6 +182,6 @@ related:
         width: 700
         height: 445
 
-secured: "yhUYYN8c9Y/9ilHhOLHTE9Rv+9nCj8HQDV5dsMrUjm56dJYdUf0uJZ4ofmaI1Y+7rCIKmzt873c7X/aOJXqOPTugHimogQTTWZ55dNfF7KL0WM0a/WkP8dAFV1Rj3K4hZ+YKK3WumuJ4zWBt643u9NU4Kjy5wjHw5+HD+nbwhQdP5cpmqATocTgZsw5ZaOJvCijjpUa2yrl76ujwZ0sVkIVFQ7lv8BwbKAkTaKVC6ZY2oyg9IMLkYDi0jbyqJx1wsJ7CnDasRjlOAAgfijw7zg==;f0ejI9I7H07sz/N0d2BTgA=="
+secured: "6P3Wts62AfmTJA4Ni3rHkRQZkzPHpkp42aqIyQrziodzYf9CQXvb/r+TiHzhPTs+fOIlPO37q2A1maycV02HDrGHTh3mExkM6gr4D0m6pOZG6YJqlD1wnyIB2nRDOQuP3IFkcz28sTVdddD3Qjay002AS2xKQkr7y5x87OrzERyYyhUEfO4iGkLzZ6vAlTkrkRebQRyavv+vWWCqLUAzUhdZ3oqncAgCpHD9OvVDvMAKg/7pxhRrGa+nmvFKZb+cd9YvNGwNubeTOppJ5zEF6w==;Xq4WCW6MonHlpQYuTiMY6g=="
 ---
 

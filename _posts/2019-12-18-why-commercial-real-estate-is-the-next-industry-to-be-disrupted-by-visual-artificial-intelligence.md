@@ -103,21 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
         width: 700
         height: 466
-  - title: "Macron’s €1.5 billion plan to drag France into the age of artificial intelligence"
-    excerpt: "the French officials said that mass collection of personal data for marketing or political purposes was out of the question (France already outlaws political advertising of the type that’s at the center of the Facebook-Cambridge Analytica scandal). All data collection for AI research would have to be done in conformity with the EU’s ..."
-    publishedDateTime: 2019-12-09T21:02:00Z
-    sourceUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/
-    ampUrl: https://www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/macron-aims-to-drag-france-into-the-age-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.24A12D9AFA264C61C789C1F496B9D7F0
-        width: 700
-        height: 366
   - title: "Artificial Intelligence (AI): The Answer To Our Environmental Prayers?"
     excerpt: "Due to the variability in the observations the volunteers make, AI filters observations through collected historical data to improve accuracy. And now with over 500 million bird observations recorded through this global database, Microsoft’s Azure Cloud Computing Program is helping to allow calculations that used to take upwards of two to ..."
     publishedDateTime: 2019-12-11T04:00:00Z

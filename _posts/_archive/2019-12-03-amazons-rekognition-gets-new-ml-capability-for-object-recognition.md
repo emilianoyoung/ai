@@ -5,8 +5,8 @@ excerpt: "“Amazon claims that its system can be used to train an AI to detect 
 publishedDateTime: 2019-12-03T00:00:00Z
 sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
 type: article
-quality: 41
-heat: 41
+quality: 24
+heat: -1
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Computer Vision
 
 images:
   - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
@@ -39,6 +38,6 @@ related:
         width: 960
         height: 640
 
-secured: "aRJtzXazB5XIdKJV+VK5/fC5xPMA7mMqmXFmFklGgep4uHgzCIs8zUSu5fLdQmkn9LmdOUcI7+nE6jDOcWH3pZgIlsjf6FLZfMicbBQsYIQjiMvMVLlh/aT7DlsI2vBwHCr2WaAnjqVKXamztrR8FxIMCt025q5ttJrbLQvfqUQCsJGyRi3m1KT2N5AcWcZuNIURmHSn78vT8ttEi/G+59kNr7FDIy8ZP9gkzVvxWJVFXcLR2m+6sUrNSn5FYR26DfXKoqfcWUMlwEV3gSlHHw==;WdVmZXRDGzXgXwx10pXkhA=="
+secured: "E0roJk+UwB8U0iVUM72cA27vqAkY10dGnHACDFGiOx5lMNiPfWiFIe7BhpuyVkQRy0tPAguWnQ21ZlU2sriRF5wf/ukF+ydhqTqD+ONHkSVmmMjSfk93MdUrqTsPrQBadZV9je4Teesvrr9GrYN3RSttr3vfx7xVvvxawUKcGpROnfOHo1NnwOdWnEJlrUqdinvHKF6g3NsZlym+xN9oh1a1bj6BIBT8LyLQQ6X1CpRWIg/dFpXa0t97m870MOR2J6xk6Nv83Ys+6pMcCLY5iA==;FAcjxBKNWovv7szepT0RWQ=="
 ---
 

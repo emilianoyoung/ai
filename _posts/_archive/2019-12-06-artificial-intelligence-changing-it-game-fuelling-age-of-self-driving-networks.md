@@ -112,19 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Air France Hopes To Reduce Delays With Self-Driving Luggage Carts"
-    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. The vehicle, known as the AT135 baggage tractor ..."
-    publishedDateTime: 2019-12-09T20:45:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/air-france-hopes-to-reduce-delays-with-self-driving-luggage-carts/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
-        width: 700
-        height: 393
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z
@@ -191,6 +178,6 @@ related:
         width: 700
         height: 445
 
-secured: "Sjbo5DEowBeSR/BXRHQqTFR46vDlJCgc5GonY7yB87ahNm+f2wXKBIyMxRCcrItXcZiohh+6eQYUdk1Vg8CwlW8b8J5VBiLzvTYOVtRZ3gZfD3mebJCK7+yCENqPyPU7P8GPx1oaoYTRvzkhRTal/UGweEOxSjt4LsOEoa5SkQopZUx1Qjsofa3srQx4y75FEKTaTdrXpEAMewv7oq67Q+gxc7ulNpbj/V9+knYiwvg2N1Ch6FmMv+g8Ng5Pv+zkx/geaxb8vjC4Cn46daCzmw==;4qtDXJ/XHGTobWIDxPWtSQ=="
+secured: "v+mrSBv8O3xId2jdLTkqWd/Tn1EuuYgOaY5Phj6mOaqthKfKbKFwqJAgrtq8M3x7NN8npq0hGG+xHwMYRN+DnNWpcGVuInLgG6ZmG6h/RskF6L+3WNqjjTvrpRKfFvrVkUO1UmC8II/84QJgZujbApmb9bEDDPWgGYZfZeEwhFkqIF5EHZ1tDIV0Z/0hJkPR415pQ18cjK3o9EUber2VMg973TWdZ8mwFDuvymnA/diH7b5TayCIi4DBKEWb9cO1qVI7VAyBs0aWpXKVi9iNCA==;l90rX6mYqXETEW356DEsVg=="
 ---
 

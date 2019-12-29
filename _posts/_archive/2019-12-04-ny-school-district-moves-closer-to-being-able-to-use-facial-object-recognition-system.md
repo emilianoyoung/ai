@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -32,12 +32,12 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 41
+    quality: 24
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "CAA9KHl5EOiyeh15nu6ubp3T7Iy7DCgqid1m9sJNXzXz90zROEmXUHFJG8SMQeKRcbiR7Jn5NjhYAYt0WKRMigQ+HgdkS27Fn6kr9Y70sPIRWltqlYuiLxRJmRj0Jiyg4oRr1qqTq2bXuZbv3+b0VSYVl945A+pHSPfANB/vf/kyghRYnZOLJabBRZn5HZd57pinZo09yjjMvle1aUi569Ugbw7J8hzJ7dWczWBdG1f+4D7vw6w1GenZnF1TN0BeGuDlEVGliSEag5WizI60Mw==;ZtdyA+4sDJWGzznd3AIAXA=="
+secured: "yQZgNLkehn6bIXMGFbIyqixRmEO46K/lJPN+FEbjcPJNws5fkk1LmrzR/SB42lKlOTFvxIV5EK8CxeWemnAFxWDGjXWarZG/0WVTKdvy9dE6BvOBGkz9PdBHvgYYNrb1zIdZq/NPhvvHS4taxqLJ50jfbtAKaFl+LgFJnzcPkTrl1EhjtOAyB41lABrro1DPSRW1ZVhKKw/DsRR76XOrlEG+Quz9GblcgyLupMLPmwA7SedoZymjLxF6tcRmkVrtvL1qHJbX9zN650lrjb59dA==;FQyY7wCQHfHYNGtzT+oWyg=="
 ---
 

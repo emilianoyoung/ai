@@ -25,6 +25,6 @@ images:
     height: 683
     title: "Deep Learning works: OCSB students and educators recognized internationally"
 
-secured: "jAEkpkHs8yfpMU4Dwb1Z+4Q20gBYla3iIvKtNvpmBEvoc7Pyh5EAyDsfNd3soL7SCjVFSs/xAziUj8C6jqVAZk34V+pkQnf7FFolE/T38tIRra0+d+lWEzjuN0jxUrxVmdD1jp0+Fx295yljUOboAn1loh9td2q0kZJO4vNhVS7bvRF5NwT0/Nx+UC3l8KwZtysNJ5iW+oAPwakRyIYrueuBDzAx9/SBDiQDfz66y2yG8uoqbj2+lKNdQGUM1gCNaAWkLtEYX7Y1wZZpv5jN+A==;TLSrTkoa0vuqCSvHKZVeaQ=="
+secured: "MxQTh0qI4rARZ5vQy737q2tpnKjod8lblP7D3IFZX7KVtljvOjn8HunY90VQ70C/e3FHYFzXFj7gebbL1WarmzdI5t6QkRFVwODrUg+n2BZv7mbyaQlYsOdTtaGpg1i0gS66yIizpYyzKQqvJtNW4EGOQ5LdBLr9OV4deKVSl7pwUdY+sR9AfBwV1UE7fjeft21rHGYUKORwcUDmA1cvyO229whcick5DPmjJTG7GF0FLaRiuvmzoeUT6qhJm9WRkFJO6KCTtvx3LZVcZk1pHQ==;UzdWerzqO4UckCEbDtiJnA=="
 ---
 

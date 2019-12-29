@@ -54,21 +54,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
-    publishedDateTime: 2019-12-22T20:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    ampUrl: https://www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 172
-    images:
-      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
-        width: 700
-        height: 367
   - title: "75,000 people call on Congress to ban on facial recognition tech"
     excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
     publishedDateTime: 2019-12-16T16:30:00Z
@@ -623,6 +608,21 @@ related:
       - url: https://www.bing.com/th?id=ON.16191907FE4A7CE06EC149C843E3E897
         width: 700
         height: 377
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
+    publishedDateTime: 2019-12-22T21:34:00Z
+    sourceUrl: https://news.yahoo.com/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
+    ampUrl: https://news.yahoo.com/amphtml/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
+    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.5E1E035BBEAB0A857E021267DD70FAB6
+        width: 700
+        height: 437
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-22T18:03:00Z

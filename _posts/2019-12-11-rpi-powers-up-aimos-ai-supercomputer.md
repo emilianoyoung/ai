@@ -24,30 +24,19 @@ images:
     title: "RPI Powers Up ‘AiMOS’ AI Supercomputer"
 
 related:
-  - title: "Microsoft brings NVIDIA GPU-powered supercomputer to Azure"
-    excerpt: "At the SC19 supercomputing show in Denver, Microsoft and NVIDIA announced the new NDv2, the world’s largest GPU-accelerated cloud-based supercomputer on Azure. NDv2 VMs are designed specifically for most demanding distributed HPC, AI, and machine learning workloads. These VMs come with 8 NVIDIA Tesla V100 NVLink interconnected GPUs each with ..."
-    publishedDateTime: 2019-12-09T20:36:00Z
-    sourceUrl: https://mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercomputer-to-azure/
-    ampUrl: https://mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercomputer-to-azure/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-brings-nvidia-gpu-powered-supercomputer-to-azure/amp/
+  - title: "Supercomputer will help create the next generation of AI"
+    excerpt: "AiMOS, the 24th most powerful supercomputer worldwide, was recently unveiled at the Rensselaer Polytechnic Institute. Its main job? To find out how to build smarter hardware to support ever-more sophisticated applications of AI."
+    publishedDateTime: 2019-12-12T12:59:00Z
+    sourceUrl: https://www.zdnet.com/video/supercomputer-will-help-create-the-next-generation-of-ai/
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 91
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.FE7EBAE9366D37DB294FC5F53C95CD81
+      - url: https://www.bing.com/th?id=ON.4A3BE816A93F4ACA7CBBA96A426306E6
         width: 700
-        height: 426
-  - title: "OpenAI forms exclusive computing partnership with Microsoft to build new Azure AI supercomputing technologies"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2019-12-14T16:19:00Z
-    sourceUrl: https://www.bloomberg.com/press-releases/2019-07-22/openai-forms-exclusive-computing-partnership-with-microsoft-to-build-new-azure-ai-supercomputing-technologies-jyeeeo53
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 60
+        height: 525
 
 secured: "+hWyw1lfjQz6p6zCwwRHJkg52NE3I/0Mqgfws7URfBuGKaQjNluTnX3THaj8r+mmFMKJLBS6a1SdQurWv6SgadY0htio8IJ5+0D00mAKsX9S37jB4Rn1ayc+FxCw2ajsF7XJGX0FwhU6DdfZ3vfGPZd+p34G4i+KgxI3oHGkb4MWV/rjxUfsQ5f4EGrCV44+e3n9zNLufNpCx/Q/XBM84COIG6DCO/Mm5Rj9wODqNE1qRxZiG/OIDc8/jREVsPn+BKMxmEc+zozFa5SoxyaIrg==;Lt12icm9/dmQWimGXyRgHA=="
 ---
