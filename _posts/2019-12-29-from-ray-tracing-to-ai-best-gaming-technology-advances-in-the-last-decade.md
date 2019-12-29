@@ -3,9 +3,9 @@ category: news
 title: "From ray tracing to AI: best gaming technology advances in the last decade"
 excerpt: "Artificial Intelligence (or AI) is another technology which has been driven forward massively over the past ten years. And while a lot of that progress might involve endless mentions of phrases like ‘machine learning’, ‘training models’ and ‘inferencing’, which may well threaten to send you into a deep (learning) sleep, AI applies ..."
 publishedDateTime: 2019-12-29T18:00:00Z
-sourceUrl: https://www.techradar.com/sg/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
-ampUrl: https://www.techradar.com/sg/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+sourceUrl: https://www.techradar.com/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
 type: article
 quality: 85
 heat: 125
@@ -82,6 +82,6 @@ related:
         width: 700
         height: 393
 
-secured: "leFJl5ugEJoGN42ekyp+jiJHkdSpWIGk0HR8TX4Cf11GvQeWKCDt07BPXV/g7FItGjGqIQ42d/Gm+J/UAoa+PxbMbbDnDwVC++i9wmOL71OSVs2IeYtD56FPAOTVJlm8clEh1A8N5fxqFGDG8QO6IdHsEunDlyiM3qXhPtoPVXp4Y5KM/IPr6yfNJQy3XVgrQncqh5tlUTJncewr3/kZllLhIbPMK21ZRf11WyvC2o8phUfsKd+98Q/Lndhfz31wqPBbeCWrgNcXOySCh5SW1g==;CIcYcnuMrg9Dd97pIhtNWg=="
+secured: "AOiHiMYevCI9tyOv4kzvOTAw8Gq/E02Hem/YrBSN3ceK8NA4Ms8/wHCCMfM+OChclxwAtepHMV1vB8L2fbDpkLlBrsRfyZXsLQdI+NB8xj9H7dgjekTkjEu9CfuT1Xhda4gPf0kvv6+eAiUJk7Wgr4IumFsx/CyF/C1WJbAOOOGSmXppdKnXm5RYQ5LJTCPSTCS9HXNtq6ethTPKiC/OxX6zpdmRshw91IrjNaD0BC6prMFAJ6p6TavCjFPcuovG9ao3pytN6mDM0XwSii6Tdw==;dCxFp2wk6RT1+tHqaj7dkw=="
 ---
 

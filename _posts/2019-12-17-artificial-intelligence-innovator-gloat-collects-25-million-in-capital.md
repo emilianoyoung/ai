@@ -107,19 +107,6 @@ related:
       - url: https://www.bing.com/th?id=ON.28D4642B968C938715BC73BF767306D2
         width: 700
         height: 379
-  - title: "VA launches National Artificial Intelligence Institute to drive research and development"
-    excerpt: "The Department of Veterans Affairs (VA) wants to become a leader in artificial intelligence and launched a new national institute ... For its AI projects, the VA plans to leverage its integrated health care system and the healthcare data it has amassed, thanks to its Million Veteran Program. That program has collected 800,000 veterans ..."
-    publishedDateTime: 2019-12-09T18:20:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/va-launches-national-artificial-intelligence-institute-to-drive-research-and-development
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.A8E0A5DFAB2690AFF935ECAE7C3F2544
-        width: 700
-        height: 317
 
 secured: "i4ChaPXKSEpfz71dOM7SMaA2ZG5LsTdyzDN4TH+vIUECn/P6naz3J5pgqjzEdswnlOIvBZ/Ueq1SnOebyS44YVtdmuLQ0hvDunseFC+PRBGZFHw0ToRsrta9JEUUz3EwdloSFZQTRdxq/gZ5RZHRF1yylwHjz4xFCdOrgWYK/o9x2gqCWpxJc+wwsltLMszdr1wSV5HTgxYzSeFiQlibD47ryAqHfs++iQu6m8ymSlsjgaQIyQmxVKF7SjRbGkXdLBqHgYIcpXgzsAm3RAb3SA==;9PjZyFRmwVAu9hm2cypZ1w=="
 ---

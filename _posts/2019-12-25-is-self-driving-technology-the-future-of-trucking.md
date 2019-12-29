@@ -27,9 +27,9 @@ related:
   - title: "From ray tracing to AI: best gaming technology advances in the last decade"
     excerpt: "Artificial Intelligence (or AI) is another technology which has been driven forward massively over the past ten years. And while a lot of that progress might involve endless mentions of phrases like ‘machine learning’, ‘training models’ and ‘inferencing’, which may well threaten to send you into a deep (learning) sleep, AI applies ..."
     publishedDateTime: 2019-12-29T18:00:00Z
-    sourceUrl: https://www.techradar.com/sg/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
-    ampUrl: https://www.techradar.com/sg/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+    sourceUrl: https://www.techradar.com/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+    ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
     type: article
     provider:
       name: TechRadar

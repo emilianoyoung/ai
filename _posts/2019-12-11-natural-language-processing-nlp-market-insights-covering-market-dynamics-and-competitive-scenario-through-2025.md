@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Automated Material Handling Equipment Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
     excerpt: "With the appearance of technologies adore artificial intelligence, wireless technologies, and driverless vehicles, the automatic material handling equipment market has witnessed vital growth over the previous few years. The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for ..."
     publishedDateTime: 2019-12-11T10:00:00Z

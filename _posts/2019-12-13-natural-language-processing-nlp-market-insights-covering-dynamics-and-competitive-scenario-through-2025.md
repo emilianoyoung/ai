@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Natural Language Processing (NLP) Market Insights Covering Market Dynamics and Competitive Scenario through 2025"
     excerpt: "Dec 11, 2019 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
     publishedDateTime: 2019-12-11T06:33:00Z

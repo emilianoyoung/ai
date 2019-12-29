@@ -153,19 +153,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
-    publishedDateTime: 2019-12-09T18:36:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
-        width: 700
-        height: 393
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T12:27:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-trends-and-future-opportunities-2019-12-10
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vehicle Speech Recognition System Market Trends in 2019- What Industry Insiders Tell Us about the Future Forecast"
-    excerpt: "Dec 09, 2019 (Market Prediction via COMTEX) -- Ameco Research in its report titled, \"Vehicle Speech Recognition System Market Analysis 2019 - Projections Report 2026,\" offers comprehensive insights and detailed research on the global Vehicle Speech Recognition System market over the forecast period 2019 - 2026. The report covers the key factors ..."
-    publishedDateTime: 2019-12-09T18:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-trends-in-2019--what-industry-insiders-tell-us-about-the-future-forecast-2019-12-09
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

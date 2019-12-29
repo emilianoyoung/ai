@@ -151,19 +151,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
-    publishedDateTime: 2019-12-09T18:36:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
-        width: 700
-        height: 393
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z
@@ -204,6 +191,6 @@ related:
         width: 700
         height: 445
 
-secured: "MZPoxbzAqKHnlfyoNvCL6QcgQudhHAUhofE4Jb3NIO+3W3mOKO16X4BXvmnjw3jetzRB0glEhQWpDikvXEwt/X9PLfHGgsIiDtR8Ij3fPrkz5pcMR2FPp0vWglDzLQWKMvg2LGnd7jIcGC20h+1EoFHZG8FRqExfcRehPn+2JRdRv3TemWqrK+Ipy9veO6mqUH2hnURj0cEFCPVB4FReVnCvOdO71xL8aGIapwWgpSu50puGpmfkXqv2UQj2U5dtb7+eTzcOaVHUPs1zhakT9A==;EL4aTUf4bYSmxY5s3bHxDA=="
+secured: "bVwbKJPj21WXOZWcs27QYQNOSraAorPrxh+cyrHF4jSj5OOdFSStAa2GqQr72JVca+ze0PNleXdn0pJsER/nI7+GCiR/3kGEZPMlRtVhrPi3yuwBlYnf/ohpMDYJA/onJSmGbdm1AOOsjOZhpW3MU0E8V8UNZTZiZ5Z8m3v575GFRZ8EnR4Zh8wrjVchTx3jIjpOKEVuVvf3QC30whJVT1cxzWN3U6BjncnWtb4aEveaUnfTWjdEzdQOWcStgUuOLd78z4I0+0PkifQOXmo5Tg==;jo5/pRnhbYiuBFkYpdyQxw=="
 ---
 

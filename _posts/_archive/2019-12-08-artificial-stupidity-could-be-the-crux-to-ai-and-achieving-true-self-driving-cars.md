@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -155,19 +155,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
-    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
-    publishedDateTime: 2019-12-09T18:36:00Z
-    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
-        width: 700
-        height: 393
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z
@@ -208,6 +195,6 @@ related:
         width: 700
         height: 445
 
-secured: "Na6n/muZsDXyJ53DwRxBZwIRRfKDdNKFajJ6tey86Yz7MP6dRZcS/RVqcUy5jLZKbkcNnM6uETUJnodJkRbjVk+qkkmHjdxOBZs8fHz+6m+whAynBm4PDR0XFy+OiQV927+w4tw0THZ2NCKlGNlZA9nfooyhKZ3ex280REmP4XcCb++wTMzGM4sQMom1e1pYZ0y7sE1GFHcIqF57SSMLiifD+8mtvIZZD8uZ5txhQ4x5q/y6x4EgJkHn5rTR43DhiL5nSqbxyRaZh0TH5N/tvQ==;yYp5hP5KGFdquJ0KTiAOiA=="
+secured: "RKEdECGDh8UDiVPVfbyM6k609tnLnuQdLVY65jTTocy3uUcvL6I5geQKFPk+hqFCn40yQB7uNL+Jlnpz15X5VFOfbBPPpYZRG/Oj1lYP581sUamx7jD0+J6HFz0EhQxr9BAvlfUKkvggUT1K2ffsmweJvR34ddJJUzDsvxTSTseFkhbm68zR3RriGBDYHmmzvu6K0NIDWHycn6bMrVClSDCAjg/hcG5HeEoaWsHIqhs7L37gxMY/3DyUBQeqbesRx+WTTGvARKUpg/E7pCs1HA==;rp9BgbAkdQcpcSGm7G6/WA=="
 ---
 

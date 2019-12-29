@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Samsung, LG to show off latest AI tech, displays at CES"
-excerpt: "Major South Korean tech giants, including Samsung Electronics Co. and LG Electronics, are ready to boast their latest technologies in the field of artificial intelligence and displays at the upcoming US consumer electronics show,"
-publishedDateTime: 2019-12-29T13:56:07Z
-sourceUrl: https://www.msn.com/en-in/news/other/samsung-lg-to-show-off-latest-ai-tech-displays-at-ces/ar-BBYrcAn
+excerpt: "This year, South Korean tech giants are especially focusing efforts on promoting their AI solutions, with Samsung set to provide more details about its on-going project named NEON. \"NEON is not about Bixby, or anything you have seen before,\" Samsung Electronics earlier said through its NEON Twitter account. Bixby is an AI-based digital ..."
+publishedDateTime: 2019-12-29T19:56:00Z
+sourceUrl: https://news.webindia123.com/news/articles/Science/20191230/3481466.html
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: IANS on MSN.com
-  domain: msn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
 
-images:
-  - url: https://www.bing.com/th?id=ON.09F41D99AB64757066801A0D3A9A662A
-    width: 399
-    height: 275
-    title: "Samsung, LG to show off latest AI tech, displays at CES"
-
-secured: "iWjLMLRZBX/Y6tqKN8h0EeHYUfHYNRqwcpISWdwzNmUxD48iLm4HeRCwB6R9o06eOjSWnfl4mWNuDkrWENh2TxKkwi1yFSthi4cpucaVoSFH8P+d2H/Jny0onwFThFiO0zP4FOj/wR2GMXqgAWj9oKM/yYiW5MwAKeahmditsL77ciud4Mn2Nz+Ojoj/TXSglwySItDbxFEcu+TRoH8tSd5cEEfgFbgFtXPduKO4JNxeo2GCj/cbNwEjbMAosP1Hl0cH8osxPNFlBYd/Aw7U2w==;T92JLTMgCkjAR2HlIrgsCQ=="
+secured: "4qljUXvlbYZM2V+EJ21idk+43fZJV17YV9UvGBJJGi/bGl3FBWafMzibUz7v14idUu07hUBAQddmzB/ADZYdr4rMePak/UXVbSFqI9l3uFoozp+u/CD6L9hrvpcHoi8ndy4PKSq0lYt+Yd9wMlgyy2oy3NxIG5vgn9IdWBIs4mEunRhGm3hUsHqayns3Qgwv+ucJmku62Nw6KH0NRitG2tLec7aqy9ZFTikvN2PpSK9374wYAisYhgjkyUGyMoIT003LM+Goy1A2sxiCo347Pw==;/58Qf5xda7EwJIo7xuEF0Q=="
 ---
 

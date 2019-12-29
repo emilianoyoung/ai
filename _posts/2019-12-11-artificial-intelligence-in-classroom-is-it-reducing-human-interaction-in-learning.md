@@ -109,19 +109,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
-  - title: "VA launches National Artificial Intelligence Institute to drive research and development"
-    excerpt: "The Department of Veterans Affairs (VA) wants to become a leader in artificial intelligence and launched a new national institute ... For its AI projects, the VA plans to leverage its integrated health care system and the healthcare data it has amassed, thanks to its Million Veteran Program. That program has collected 800,000 veterans ..."
-    publishedDateTime: 2019-12-09T18:20:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/va-launches-national-artificial-intelligence-institute-to-drive-research-and-development
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.A8E0A5DFAB2690AFF935ECAE7C3F2544
-        width: 700
-        height: 317
 
 secured: "r/Sb2wC+LJyzeUrKX8ccliJPoqlq19G5Y5klNn8WlyHjV32AQ3l2IRkxGpJMPibmsaC+57tBAWfKueaXcPvmrS0sudb7cQJdIhWF/f+5kpkf+7YiQBIi0q16jyqZ3tR4oWWZAtRyXGxV7bpeH8l8Axu1OXq3a6ZMlLn28UCTFgbzfmRttTEiojklL8nZLvmQOrL1j455e0LUapzCxEcmo+y2qv25YMr5oh5uYkyWFJRTobquf74muG1CEr3L4dk3ijItvq6yOodP+HtSRGsTEg==;XaP+tqaw5sPruQ9wKgHwgA=="
 ---

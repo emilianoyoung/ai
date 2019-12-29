@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/ellis-launches-220-million-initiative
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/amp/
 type: article
 quality: 189
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -114,19 +114,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
-  - title: "VA launches National Artificial Intelligence Institute to drive research and development"
-    excerpt: "The Department of Veterans Affairs (VA) wants to become a leader in artificial intelligence and launched a new national institute ... For its AI projects, the VA plans to leverage its integrated health care system and the healthcare data it has amassed, thanks to its Million Veteran Program. That program has collected 800,000 veterans ..."
-    publishedDateTime: 2019-12-09T18:20:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/va-launches-national-artificial-intelligence-institute-to-drive-research-and-development
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.A8E0A5DFAB2690AFF935ECAE7C3F2544
-        width: 700
-        height: 317
 
 secured: "souMuCJrOBzZEV3GRY+RUIrnPYV95wtLDPFfF1KBguH99eb8gB56lXZEeY0mRW2nVHP3mgm8trZZoku4XMeDzLdTIIAwd2PGK/NFo6d74m0EQZTxo1Z5kYa9a+T9BLkWLtRPvaPvT0WAv7FBUjhVLcL1NjFgUKPJEP3/rHEKNOioYuJoiz5qj2s3TlwOrD5p04pBTUDbdmVO8TUb/WH8urCfHqqbXBjgCYsHjF7GJ2w+cCmTeo+2qnm3KtdDdeH79MpuLSrJiJiD6ikv71Sap5EWY1JyeFiu3vO1LKYsr7U=;Tcne7thSkOuxgFwgxeEzvg=="
 ---
