@@ -39,19 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fHospital-620x480.jpg
         width: 620
         height: 480
-  - title: "Trending News: New Machine-Learning Model Can Predict Response in Patients with Myelodysplastic Syndrome"
-    excerpt: "Investigators from the Cleveland Clinic developed a clinical artificial intelligence model to predict response and resistance to hypomethylating agents after 90 days of initiating therapy. After promising trial results, investigators believe that the model can be used to develop novel trial design as well as to decide whether a patient who was ..."
-    publishedDateTime: 2019-12-09T17:06:00Z
-    sourceUrl: https://www.pharmacytimes.com/news/trending-news-new-machine-learning-model-can-predict-response-in-patients-with-myelodysplastic-syndrome
-    type: article
-    provider:
-      name: Pharmacy Times
-      domain: pharmacytimes.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.2A0FA3DEB3C1D96B0D95B522F7E3F08F
-        width: 644
-        height: 303
 
 secured: "J+un8bcVedgaQgpQUA7Zq6pPeRsb/Ayj6krD7bmRYdz5RzRA1luKeERx5Bn8ze5JY848FwLkOqr6jXA/ze431qkTXtZg3HWVK+jJAaWPAEqGp8OuEgqsdEtKuVBQiEj2f/sg6ot5fy08zoThpOuxJY4TbktJeaaZibeBoqy6HPO8/hQPn9PrhXSunAspx4P15epzFyw4Yc0rSIaelFyWr1BejvbtP2Z1J/pQHJs3govm64NcV0diY1/PyX1WO5eHxpkRtui9z0rTf6+cloUBFQ==;M60MHdVPOc1M/fqyLpXPIg=="
 ---

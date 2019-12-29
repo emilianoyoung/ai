@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0DD971080DAADD0F0E70F2C401F7B5DC
         width: 700
         height: 450
-  - title: "Robots In Finance Could Wipe Out Some Of Its Highest-Paying Jobs"
-    excerpt: "Robots have replaced thousands of routine jobs on Wall Street. Now, they’re coming for higher-ups. That’s the contention of Marcos Lopez de Prado, a Cornell University professor and the former head of machine learning at AQR Capital Management LLC, who testified in Washington on Friday about the impact of artificial intelligence on capital ..."
-    publishedDateTime: 2019-12-09T17:39:00Z
-    sourceUrl: https://www.fa-mag.com/news/robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs-53131.html
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 19
 
 secured: "QMA9rxPlbprzyjDg3NWXpbL1JuTsdytkGA0xJuvJe+82Spi5Zjfc6ECK3ruwaoojA5UK6b7/7h/OVXZ8INYXr8na9I9lJNk8Ww8wy9XbK7/HkdInRSoq/B/b7bPAx/kF73Lqedq2Q6TwbW11545F5jaDeKtvwmFRxdsYAYxJikX/RaF3M/PbaEz3hAcduy3cucddXpMbkdLzhiac6o0EQj0hWH68acFS0cGa35TnimuzHvR4FaFPHxIFnWRMcK+LlRlsLhOPs1WgzNFn2QCtvw==;XAY+QXj+vN/tfTMhZQEbDA=="
 ---

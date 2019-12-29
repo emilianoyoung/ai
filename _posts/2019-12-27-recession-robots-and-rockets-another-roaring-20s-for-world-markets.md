@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YV0QQ
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YV0QQ
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
     images:
       - url: https://www.bing.com/th?id=ON.DD14232C64BD18E917B6B6070AC7FDC0
         width: 450
+        height: 337
+  - title: "Recession, robots, rockets: Will it be roaring ’20s again?"
+    excerpt: "A World Economic Forum survey in 2017 predicted a series of “technological tipping points\" for the coming decade, including 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a firm’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and ..."
+    publishedDateTime: 2019-12-29T18:08:00Z
+    sourceUrl: https://www.livemint.com/news/world/recession-robots-rockets-will-it-be-roaring-20s-again-11577637898048.html
+    ampUrl: https://www.livemint.com/news/world/recession-robots-rockets-will-it-be-roaring-20s-again/amp-11577637898048.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/recession-robots-rockets-will-it-be-roaring-20s-again/amp-11577637898048.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DB6C9CC8CE6D3582721018F11564E76B
+        width: 600
         height: 337
 
 secured: "NLlsjyFtSAD78/ndatvmw/YMq180fD4X+MLcoB2R2yQfowuW6Hpk2r8RI+uZGx0ycFTlPTclzWtKJ6wgu15D4DDO9k7fCQoOfQJ6mcikXuFyYlKkZCj9c9BiZYzKvwCghUsY7e7H8SgLI0bbvEAdomc9xy6nYSToFAoPi7i+uatT8WxFVI3xyN88Gf6jF7XmtGo48jpaY58pn694WQ88dsY3wbseLP6kRjGFodQtXhT1kH9Vsp+tBZCOlb3plylVoiRqVjARUZ7dQNk0qC9ECg==;etkr1I/Fl2NmzbCPlEHqRg=="

@@ -31,6 +31,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C07FA5D915CD76BA8BA1C779C2D3CF05
         width: 700
         height: 350
+  - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
+    excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
+    publishedDateTime: 2019-12-23T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-technology-market-2019-competitive-insights-and-outlook-ibm-corporation-imagga-technologies-amazon-web-services-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "gH7Zar2CLXTCGOdwUBX0Refd0EMtGSuOrXyTHE/i64JCzgYWZv/NA6Xd4IpCFsa5JRCMr1ECKEXJocaLcGXmmugRD24yXtqL6iqkf0L8ILXCB15W1Ciipndj/SmZG44S0WhopCPGc6pNXvBRoBvfq1anYFZcM0d3LTIM8GB2E2p/1QqAkdSwhLn7Gl1kxtPv4JcC0+AqMnaIGLCC59KR9NZPyizFCpsC+btPpgA79x5tC6HyndMJe62FGa/xkjGwcFX6e1+OLLIPeSx42ZBbyA==;TnWSf/jFlwDdwY5cZQB3YQ=="
 ---

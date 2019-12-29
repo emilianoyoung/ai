@@ -28,34 +28,28 @@ images:
     title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
 
 related:
-  - title: "Self Driving Truck Technology Market Evolving Technology and Growth Outlook 2019 to 2025"
-    excerpt: "The Self-Driving Truck Technology Market report provides a valuable source of insightful data for business strategists and competitive analysis of Self-Driving Truck Technology Market. It provides the Self-Driving Truck Technology industry overview with growth analysis and futuristic cost, revenue and many other aspects. The research analysts ..."
-    publishedDateTime: 2019-12-27T06:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-truck-technology-market-evolving-technology-and-growth-outlook-2019-to-2025-2019-12-27
+  - title: "Amazon is patenting hand-recognition technology, and it could be implemented in Amazon Go stores"
+    excerpt: "The technology would identify people's hands by analyzing characteristics like wrinkles, veins, and even bone."
+    publishedDateTime: 2019-12-27T13:20:00Z
+    sourceUrl: https://www.businessinsider.com/amazon-patent-identifying-people-by-their-hands-2019-12
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
-    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
-    publishedDateTime: 2019-12-26T23:10:00Z
-    sourceUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research
-    ampUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
+      - url: https://www.bing.com/th?id=ON.C07FA5D915CD76BA8BA1C779C2D3CF05
         width: 700
-        height: 466
+        height: 350
+  - title: "Voice Recognition Technology Overview: The Past, Present, and Future"
+    excerpt: "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. Global 'Voice Recognition Market' Research Report 2020-2029 is a vast research database spread across various pages with numerous tables, charts, and figures in it, which provides a complete data ..."
+    publishedDateTime: 2019-12-27T06:16:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 4
 
 secured: "ZnMNXBgY09cWq9ktDxsiedT/wGlMVzf2VWBkTonDbNVCoijzWlBaOQzl/IkWZ1MZHDZ2d5o8ZvrSNPYuImQLtJ54PZM+/0I9Fi9Vj7JNmLfFztmBrNnVv23+Ua6BMBh3Moz74Dk/wf4hcq3VwYRBceieaHRcJYfJB9jJ987hu2UP/cLj9x7cSq2GHqoS/FPv3p/tfgms9DAp/zUeoUWNNuv/3wR2YG2abn68TB4OpbIICcsZjIPAsi4Rx98kX945GWWq8UUZfiOojNNeOHbjJw==;OdfJ32Ouw5+KBu8aHmp1wg=="
 ---

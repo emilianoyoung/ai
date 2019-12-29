@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T16:20:00Z
 sourceUrl: https://insidehpc.com/2019/12/innoviz-to-accelerate-ai-for-autonomous-vehicles-with-wekaio/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,15 @@ images:
     title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
 
 related:
-  - title: "RoadSight aims to enhance autonomous vehicle night vision with AI"
-    excerpt: "I saw huge opportunities in non-medical areas as well, but the regulatory issues are different from the medical space. Cameras are having a great impact in everyday life, especially as computer vision becomes important to society with smartphones and autonomous and driver-assistance safety. How does BlinkAI measure the improvement over image ..."
-    publishedDateTime: 2019-12-09T17:56:00Z
-    sourceUrl: https://www.therobotreport.com/roadsight-blinkai-enhance-autonomous-vehicle-night-visioni-ai/
+  - title: "WekaFS Selected by Innoviz to Accelerate AI for Autonomous Vehicle Innovations"
+    excerpt: "\"Weka is being used by many AI companies to significanly reduce AI training Epochs. We can help companies shorten wall clock time by ensuring the GPU cluster is fully saturated with as much data as the application needs. Managing large amounts of data is ..."
+    publishedDateTime: 2019-12-11T15:15:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/11/9068168.htm
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.9C2202FD1628604BF67BA0B698DAC65E
-        width: 700
-        height: 341
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "Sv5jObLWXDz7pVJGPbzcb5tnaarglsrt37Zz8hKPKA2Yyl1w0A1HpDqQU/23o3ROccR9m7tjSxzGqX8f0l1U59sHM17dM4Upm/5XeN6nQ2xlJGuczxxfbSjQMvx2YxjovVQmDnM1x0aXx09HBrjT46t8pL4vilEqQDSFPvICZ/gUG9PwuXzgcb9V8oGp3Ryl8MSd00bLkOm6tu1vGlDEFAAzpNneBwnPDIuTHjS3N9CrVswEzlO4viilAiKNmTrilEPuDG9Yf1oIJ0CgOci+zQ==;SAY9UYwaGq1xq5Bmk80bsw=="
 ---

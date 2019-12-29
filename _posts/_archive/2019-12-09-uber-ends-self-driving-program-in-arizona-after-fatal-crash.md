@@ -8,7 +8,7 @@ ampUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-
 cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,21 @@ images:
     title: "Uber Ends Self-Driving Program in Arizona After Fatal Crash"
 
 related:
-  - title: "Aptiv’s self-driving vehicles en route to Hazelwood Green"
-    excerpt: "Today, Aptiv has safely tested its self-driving cars throughout Pittsburgh for over six years. “Aptiv is committed to advancing mobility with safer roads, reduced congestion, and better access to transportation,” said Karl Iagnemma, president of Aptiv Autonomous Mobility. “What started as a small team of PhDs and engineers has grown ..."
-    publishedDateTime: 2019-12-09T19:40:00Z
-    sourceUrl: https://www.automotiveworld.com/news-releases/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
+  - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
+    excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
+    publishedDateTime: 2019-12-10T11:44:00Z
+    sourceUrl: https://www.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
+    ampUrl: https://amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
     type: article
     provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.0FEA5044765B11AFDAE3E38D0A506AE3
+        width: 600
+        height: 450
 
 secured: "c6U8G/wYyRFTwzciDBnvDQmKUxmIWpohQtlx/0csN/9fFn66bRXodc4BsD0wt0+I2gvi4qughhbUIwVSk11G18rSV1GYTD9UY1L5al0VoxGNl+8Xi2pAJXEf59AVMTkqc8aIz89cBbvqyTl+M1zyc+CoIm0VqlmFPuOpXzShnvgFfkJcqqmFHc6MpjuLEMrKP79EoDWYArmhP0CmvDRrbFUd/l9LbzyJbrbqgcLvJqYyLltonf1ASDrKvhUoVlA67HDIL2Z5HGHs3Zs2VnCv7w==;OBMs0hs+ur4CoYdzHF58aQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T09:09:00Z
 sourceUrl: https://businesscomputingworld.co.uk/t/betsy-amy-vogt-cloud-based-voice-recognition-integration-advances-alexa-built-in-iot-devices/204341
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     title: "Betsy Amy-Vogt: Cloud-based voice-recognition integration advances Alexa built-in IoT devices"
 
 related:
-  - title: "Cloud-based voice-recognition integration advances Alexa built-in IoT devices"
-    excerpt: "Everything is becoming smarter. Advances in artificial intelligence and machine learning mean that once-futuristic devices are commonplace in modern homes. Voice-activated digital assistants, such as Amazon’s Alexa, help us do everything from navigate a foreign city to set a timer to boil eggs. And new Alexa built-in internet of things ..."
-    publishedDateTime: 2019-12-09T17:58:00Z
-    sourceUrl: https://siliconangle.com/2019/12/09/cloud-based-voice-recognition-integration-advances-alexa-built-iot-devices-reinvent/
+  - title: "Organic molecular crystal-based photosynaptic devices for an artificial visual-perception system"
+    excerpt: "Recreating the visual-perception properties using organic electronic devices is highly desired for visual prosthetics and artificial intelligence. Although the integration of organic light-sensing components with synaptic devices can realize the recognition and memory functions for perceived images, complicated problems in device integration ..."
+    publishedDateTime: 2019-12-12T23:09:00Z
+    sourceUrl: https://www.nature.com/articles/s41427-019-0182-2
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
+      name: Nature
+      domain: nature.com
+    quality: 9
     images:
-      - url: https://www.bing.com/th?id=ON.8E65AB26286AAD4D768F0ED5FE5E5BEF
-        width: 700
-        height: 466
+      - url: https://www.bing.com/th?id=ON.C0FDCA759F8CA35BB774CF3BA5603C09
+        width: 685
+        height: 505
 
 secured: "pY4fgvRmQzRjyMqJdI3Vd6MIt9IpjlLG4nfTg6eD0DZgM5SxnHnPuSB5PVpoO5lxv096ZQ3Ycq6lJH5tY/IqO5Sy/jwITd4PBBSoVWcXyh0I9g3PY0uu9jQlGxM2Dol9h3361wNKQv7rnfi2yeCS/g1Mk3FynmQ9nMgvO4yOcmtlSFaEYGx3rlJ7k3mv77FGDAeh3wzYHZwGxz9kd7na9/JcWZxawzcpfRezTKruvWnjHMIwk1afK1HdWPTT2QgWjwuvqNvKWaRyGYTlOIuP2A==;HkfzbqWHrCMjQg7d/0ZoAg=="
 ---

@@ -23,21 +23,6 @@ images:
     height: 393
     title: "14 Incredible Scientific Discoveries of the Decade"
 
-related:
-  - title: "Ten amazing scientific and technological breakthroughs of the 2010s"
-    excerpt: "Other companies such as Tesla, BMW, and Volkswagen all have driverless cars at various states of readiness ... playing music and controlling smart home devices (as well as telling the odd joke), advances in artificial intelligence mean that they will become ever more proactive and able to predict what we want before we ask."
-    publishedDateTime: 2019-12-29T12:11:00Z
-    sourceUrl: https://www.bbc.co.uk/bitesize/articles/z4bx7nb
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
-        width: 700
-        height: 393
-
 secured: "qWMJU4WUPvRziOLpmboL1Wz0WtmqQsCYpnmRPiIbNQ1vJv3Rz9hSXDkQUXFXcUZW+Zlt9pjnD9YbpP1E9s5hLoN8nWY6QlCm49q+GDhwBs+ToZFNlMPfd7fXdP7OwgiqsaFcnDRF5zjfkgW2KllTSH0aaXt4bGcIwb9GOgT7gb3VfBcbKi6AMtbOOSUt8vKclLZwSi3RN8sHD/EWGYpPexXItTlzMJ1RntWnKSR7slSMgttn9Vjo158ZVuPNF7euJIQuP1LgjtTkio1UJT1fGA==;35aDphjZWlgow4TppJ4NXw=="
 ---
 

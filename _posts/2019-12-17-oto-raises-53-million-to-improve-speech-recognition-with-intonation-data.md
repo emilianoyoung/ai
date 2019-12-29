@@ -88,21 +88,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
         width: 700
         height: 543
-  - title: "Watch experts discuss the future of construction at TC: Sessions Robotics+AI"
-    excerpt: "This March at TC Sessions: Robotics+AI, we’ll be bringing together a trio of companies that have the industry and investors buzzing. Noah Campbell-Ready is the founder and CEO of Built Robotics, a startup that has developed a heavy-duty autonomous bulldozer. The system has already been piloted for 7,500 hours, with a perfect safety record."
-    publishedDateTime: 2019-12-09T17:05:00Z
-    sourceUrl: https://techcrunch.com/2019/12/09/watch-experts-discuss-the-future-of-construction-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2019/12/09/watch-experts-discuss-the-future-of-construction-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/09/watch-experts-discuss-the-future-of-construction-at-tc-sessions-roboticsai/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.69C6ACB0B6BDCFC646A11AB238E4D51C
-        width: 700
-        height: 381
   - title: "Rovenso raises $2.3M in funding for safety, security robots"
     excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
     publishedDateTime: 2019-12-13T19:50:00Z

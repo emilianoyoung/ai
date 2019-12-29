@@ -23,6 +23,6 @@ images:
     height: 667
     title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
 
-secured: "V/trVsnEB5xqUCvdebJRQO0LEHuTpckfnz66zhLZ0s41v1uGGqfg82ABhzGatGBIDRJ3xArxPLmUXcXu2SgkJxF1njUDR/EgrKDLZEVG1bPQCEAc7dUGfVbmT8SAlJvU7v08eQ5w6i1Mc/eJlb6D/nJALbFpFaOSakX2XwHeV/gp9NncQ7eqsl4M5Hv61oXotxTMXg5CBPRWHn90TQmfyC6FzsaaVCy1gTbmAEPrs2wZTHV9l22VFWkfOmqngkB5jOw73hWrji1Bqa3YzdwSrQ==;jz+a7BQYKs+ZioJURvHQQw=="
+secured: "1OVCmit1JXoWh+yggYAnrlgANMTbifIRHj7AdD1fHW7m9W7dQkgOmETuLR1k94EjZSbvUC2pqoY209FdBHgn6XaJJ6GLR0URC7SdVwXc14ppDYvgHBJ/8oxhvhqycAuV4CxxP9mp451fvO+9dAsjc7bzJgBPBRkBHo4G5QCpsloODcCferAEuaXh0Hyl+7YM3cN/tLB1thWPCxJUy1FEfbha2uhTvhSMsX3bqGPOI3/PjuRXaoybiHs/peIPRsMouHUaq3zFvunimscUrjZP9w==;t7El/+PgpE8vA2Icq6dpfA=="
 ---
 

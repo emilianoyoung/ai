@@ -32,19 +32,6 @@ related:
       - url: https://www.bing.com/th?id=ON.97F40836DEAE5458B7C2A3E52920AFAB
         width: 700
         height: 350
-  - title: "Using artificial intelligence to improve chronic care"
-    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
-    publishedDateTime: 2019-12-12T15:49:00Z
-    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
-        width: 700
-        height: 447
   - title: "Deltec Bank, Bahamas says Artificial Intelligence will Change the Banking Sector"
     excerpt: "According to Deltec Bank, \"Digital assistants in the banking industry can help customers make better financial decisions.\" Artificial intelligence stands poised to change numerous industries with the way it handles data, but the banking sector might see the most transformative outcomes. Only one-third of financial institutions are using AI ..."
     publishedDateTime: 2019-12-10T01:30:00Z

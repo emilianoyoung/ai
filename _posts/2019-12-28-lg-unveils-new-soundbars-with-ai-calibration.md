@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.89E68F30897CE1457A79463A20A1045B
         width: 200
         height: 200
-  - title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
-    excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
-    publishedDateTime: 2019-12-27T02:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/26/lg-soundbar-ai-ces2020/
-    ampUrl: https://www.engadget.com/amp/2019/12/26/lg-soundbar-ai-ces2020/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/26/lg-soundbar-ai-ces2020/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.C634734E413E1FC6C5918A12BDA3CDD2
-        width: 700
-        height: 367
   - title: "LG’s new Dolby Atmos soundbars use A.I. for automatic room calibration"
     excerpt: "In advance of CES 2020, LG has released some of the details for its 2020 lineup of soundbars. The biggest new feature is called AI Room Calibration, a system that automatically adjusts the sonic properties of LG’s premium soundbar models to better match the acoustics of the room. “These advanced models are self-calibrating, able to ..."
     publishedDateTime: 2019-12-27T14:19:00Z
@@ -100,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.62484CD34FBC70F07098087388CDA119
         width: 700
         height: 361
+  - title: "LG's 2020 soundbars add 'AI Room calibration' to optimize their audio"
+    excerpt: "CES is right around the corner, and that means we'll once again meet a slew of new home theater equipment. LG is unveiling its 2020 soundbar lineup right now, and a new headline feature for this year is \"AI Room Calibration.\" Exactly what separates this tech from non-AI automatic calibration we've seen is unclear, but LG is openly committed to ..."
+    publishedDateTime: 2019-12-27T03:34:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/lgs-2020-soundbars-add-ai-room-calibration-to-optimize-their-audio/ar-BBYnrN7
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.C634734E413E1FC6C5918A12BDA3CDD2
+        width: 700
+        height: 367
 
 secured: "Klguiu3UQocc9D0WCLz6YaOoMA77Ge3k2tFweaqaYGs+7sjdm9l3EwJEbyZcRwQPxukaz+M/wB1qDDpEo7ikNF6VGtNnIMA6uhLCSJlITYEfKZHhtLoTfW4zp20KMm/SfFAUlwozwMAxWxHo2AWK6XHr4WWUgfuECgxSSJvREOgXoRD268ZkYdMxJp0SXixIKI/i3d2AvtWuDAfOXtX3K13/h2+I0Ezsms8CDN9OvubKxyFP3hqYMvmbIv2JTnj3Ewwwaq4quLBKthrtMsKKJQ==;C4CevFI8ew3gbWD8bOUeCQ=="
 ---

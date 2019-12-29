@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191212/New-machine-learning-app-
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191212/New-machine-learning-app-aims-to-prevent-severe-patient-falls.aspx
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42485F5DCAFDB9EA2561E9A162ECBBAB
         width: 675
         height: 685
-  - title: "Trending News: New Machine-Learning Model Can Predict Response in Patients with Myelodysplastic Syndrome"
-    excerpt: "Investigators from the Cleveland Clinic developed a clinical artificial intelligence model to predict response and resistance to hypomethylating agents after 90 days of initiating therapy. After promising trial results, investigators believe that the model can be used to develop novel trial design as well as to decide whether a patient who was ..."
-    publishedDateTime: 2019-12-09T17:06:00Z
-    sourceUrl: https://www.pharmacytimes.com/news/trending-news-new-machine-learning-model-can-predict-response-in-patients-with-myelodysplastic-syndrome
-    type: article
-    provider:
-      name: Pharmacy Times
-      domain: pharmacytimes.com
-    quality: 7
-    images:
-      - url: https://www.bing.com/th?id=ON.2A0FA3DEB3C1D96B0D95B522F7E3F08F
-        width: 644
-        height: 303
 
 secured: "/NoEDWdskeIHqLMvb9lsxmVv9p8z5qPBGRPtgnWDPNCB2ovLZvfyAppRnVdxvjqcP6gOqhrCTubnMozQeRPe9TL9ocJBo5uZzsW+OMuT26cra63h0ALZqIu57nsq3wQpdX2fULtE1+GFzB0TldvNpqgWuYwnpVGjJgdXOaRfRKiTC1US53DtB+kjRiMbi/+CMDQZdn1K2Uk+MWDtXq9Mkq5u4VV5kEm3/YI2RPdpWAiZs5WSdvmlOcUN8ZrHdeS1ddEiK1Td2vBttpXP/2SFnw==;uywwso8XzZS0ytrynl6sBw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 24
+    quality: 41
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "KMpYj7v5jaxXSYmGkMb3+91Uu3FKKo+B3Ya7rG/wsKNKLYrGvgV2uKfapb42i62mNc41ps8yv+xRlZHtRZGAk8X3ck1lN3thp+lokdrQk1ib+FF9VXArnC/KZ6IjWj82X87w/2n+Eqq7wVgk7dsFhBBCZYFtaxhm2KFuYT2e48adFP443RDNLWiduGYMXJY6R6zsxuuLBoE52DNSqDdy2sTJZqDsaR4bL7oH0+fODOcG+u26Fb6V+etk2ByEK9YWYVU4R493qMGTZS5P47YosQ==;ityWAExK97YPlArIbKVQjg=="
+secured: "MGpNQ5hhQhT2MU9CA7SDrosH/ID1/FkBvrtE2RzcCIRoI7VtlIjSmBKFDnnXKUvWXA6ZR8Fc/AKPy68HouFNpkxtSrg6zGznJZrgBRRLxw0P/d2jdsh7N8bRJwSESybJU+fnpglH8CraK+ibmaGBu6gcv0rFwF2JXrzi/y5ih9NEBteCeq5uDyRdmX3dM9whDfXGMZOeSWivrA0ne7CxzkOy5kIdm0Tw5fkKqePbjYzuaFU/KuqTqIfcGU0GtmoCAMe5kOlBcEmmLyt0mpjqXg==;yWtk7ljrdc6sQr8powOzPA=="
 ---
 

@@ -24,142 +24,73 @@ images:
     title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
 
 related:
-  - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
-    excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
-    publishedDateTime: 2019-12-09T17:24:00Z
-    sourceUrl: https://www.theverge.com/2019/12/9/21002911/mercedes-benz-bosch-self-driving-taxi-car-sclass-san-jose-autonomous
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/9/21002911/mercedes-benz-bosch-self-driving-taxi-car-sclass-san-jose-autonomous
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/9/21002911/mercedes-benz-bosch-self-driving-taxi-car-sclass-san-jose-autonomous
+  - title: "Cruise, GM-backed self-driving company, teases life ‘beyond the car’"
+    excerpt: "Cruise, the self-driving car company backed by General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads the autonomous vehicle ..."
+    publishedDateTime: 2019-12-11T19:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
     type: article
     provider:
       name: The Verge
       domain: theverge.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.715352E670B3EC10062201EB84EF4BD1
+      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
         width: 700
         height: 366
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "Ride-share giants Uber and Lyft may soon have some driverless competition. Continue Reading Below Mercedes-Benz has teamed up with German-based engineering firm Bosch to develop a new mobile ride-share app that uses automated Mercedes-Benz S-Class vehicles as transportation. A pilot project for the app just launched in San Jose, California ..."
-    publishedDateTime: 2019-12-09T22:02:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars
-    ampUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Ford Expands Self-Driving Business Footprint In Austin"
+    excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
+    publishedDateTime: 2019-12-11T20:05:00Z
+    sourceUrl: https://patch.com/texas/downtownaustin/ford-expands-self-driving-business-footprint-austin
+    ampUrl: https://patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.A4A47FF3B20716AE315012DA802D2D61
-        width: 700
-        height: 393
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+      - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
+        width: 656
+        height: 492
+  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
+    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
+    publishedDateTime: 2019-12-11T14:02:13Z
+    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
-        width: 700
-        height: 393
-  - title: "Air France Hopes To Reduce Delays With Self-Driving Luggage Carts"
-    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. The vehicle, known as the AT135 baggage tractor ..."
-    publishedDateTime: 2019-12-09T20:45:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/air-france-hopes-to-reduce-delays-with-self-driving-luggage-carts/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
-        width: 700
-        height: 393
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
-        width: 700
-        height: 410
-  - title: "Baidu and BMW To Launch First Self-Driving Car On Chinese Roads"
-    excerpt: "Chinese search giant – Baidu – and the Bavarians from BMW are joining powers to compete with Silicon Valley’s best and brightest. The two companies are working on a joint project to produce a self-driving car for the Chinese market. Baidu reports ..."
-    publishedDateTime: 2019-12-11T00:00:00Z
-    sourceUrl: https://www.bmwblog.com/2015/12/11/baidu-and-bmw-to-launch-first-self-driving-car-on-chinese-roads/
-    type: article
-    provider:
-      name: BMW BLOG
-      domain: bmwblog.com
-    quality: 39
-    images:
-      - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
-        width: 980
-        height: 551
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
-    publishedDateTime: 2019-12-10T00:09:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-09-mercedes-bosch-san-jose-self-driving-trials.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Reuters on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
+      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
         width: 700
-        height: 467
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
+        height: 367
+  - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
+    excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
+    publishedDateTime: 2019-12-11T19:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/cruise-gm-e2-80-99s-self-driving-division-teases-life-e2-80-98beyond-the-car-e2-80-99/ar-AAK1K4t
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: The Verge on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
         width: 700
-        height: 466
-  - title: "From a self-driving bus to a pocket HIV test, here are this year's Beazley Award winners"
-    excerpt: "Users can operate the pocket- sized device in three easy steps in privacy. A collaboration between minimalist Japanese lifestyle company Muji and Finnish autonomous driving company Sensible 4, Gacha is a “self-driving” bus that functions under all weather conditions. The gently rounded, square-shaped bus has no defined front or back and ..."
-    publishedDateTime: 2019-12-16T04:05:00Z
-    sourceUrl: https://www.thestar.com.my/lifestyle/living/2019/12/16/londons-design-museum-honours-six-inspiring-creations-with-the-beazley-award-for-improving-peoples-lives
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.7898594F811E58317026581915BE97BD
-        width: 700
-        height: 280
+        height: 366
 
 secured: "nu3E0Da28c9Oz6hzbpcC0tp2DgPHMqWJhiq97V6Df0v/HQVnRP3uEHEftbQlOiPW1EaC4fK3lChXP3PVv38cjgALTpFrp3dNDrk0RyHa57PsA6Lcej4JP+ChrW8knS5m5bn8zo5HwKDCVfcTTurLRHjKs4W5yd3UDn9tj8acpO42oBFushGkb3cXNxEkyAonTVCp3QDsRn4WGusAxsW/xBm9k7J0/vp1QqeVXKinECofhsF/FxO9kt3kOwiStqiX7Dj3uoYKvKGvFB2nYfcPDw==;puuCwj/wfI4pU1C35Ep3ag=="
 ---

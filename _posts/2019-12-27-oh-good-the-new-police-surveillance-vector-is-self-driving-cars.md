@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Is self-driving technology the future of trucking?"
-    excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
-    publishedDateTime: 2019-12-25T05:00:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-technology-future-trucking-050000353.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
-        width: 700
-        height: 393
   - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
     excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
     publishedDateTime: 2019-12-28T15:26:00Z
