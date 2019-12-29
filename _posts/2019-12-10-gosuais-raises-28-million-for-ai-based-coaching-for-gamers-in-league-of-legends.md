@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-ba
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/gosu-ais-raises-2-8-million-for-ai-based-coaching-for-gamers-in-league-of-legends/amp/
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 700
     height: 360
     title: "Gosu.ai’s raises $2.8 million for AI-based coaching for gamers in League of Legends"
-
-related:
-  - title: "Machine learning for next-best offers"
-    excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
-    publishedDateTime: 2019-12-11T12:34:00Z
-    sourceUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110
-    ampUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110/amp
-    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/machine-learning-for-next-best-offers-326110/amp
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.2F2F58CF9FD824C8AADB268976688168
-        width: 700
-        height: 466
 
 secured: "SBDKHjiFAA02ukgdXzs7gPaqzkwlh3xOi81VAOUnBt3UnipnzZO16BjMRBdEdL0RALvOsSlXBUQ3xmzBUXc/oJLoTz48+wX2ZQ/wIuPYGNlr1cR6UK++6MihpLvUPPQ4DgKakhPjbfd3nhhCkvDTybToVd9Dfk/V3zpNac1v5IwOMo6NpvLl9Dd4yzPh3UcvLFohNiCDU94i30cAkwsWi/ynJVnjciThR9f2jm9IuOgGzWK2tH4+fXFNBqY2m8w6+wOGJrKyzPksa5cLRWCZtg==;L3wt8HxzasOxf5hA4NFSTg=="
 ---

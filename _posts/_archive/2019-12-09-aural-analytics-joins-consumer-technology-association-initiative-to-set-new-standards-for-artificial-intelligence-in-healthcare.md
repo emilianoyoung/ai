@@ -1,31 +1,44 @@
 ---
 category: news
-title: "This Dubai-based startup helps financial institutions improve customer experience by blending AI with banking"
-excerpt: "They also highlighted the possible areas where AI and our solution could be applied. We then started co-creating POCs with our mentors, and they also guided us in expanding our solution from a domain and local requirement point of view,” Aditya says. He adds that the startup was selected by around 25 percent of FinTech hive sponsors for ..."
-publishedDateTime: 2019-12-10T00:27:00Z
-sourceUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy
-ampUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
-cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
+title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
+excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
+publishedDateTime: 2019-12-09T12:55:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191209005468/en/Aural-Analytics-Joins-Consumer-Technology-Association-Initiative
 type: article
-quality: 55
-heat: 105
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: Your Story
-  domain: yourstory.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-  - AI in Finance
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.97F40836DEAE5458B7C2A3E52920AFAB
+  - url: https://www.bing.com/th?id=ON.422446327D0DFEA9AA4A6F3244429449
     width: 700
-    height: 350
-    title: "This Dubai-based startup helps financial institutions improve customer experience by blending AI with banking"
+    height: 365
+    title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
 
 related:
+  - title: "This Dubai-based startup helps financial institutions improve customer experience by blending AI with banking"
+    excerpt: "They also highlighted the possible areas where AI and our solution could be applied. We then started co-creating POCs with our mentors, and they also guided us in expanding our solution from a domain and local requirement point of view,” Aditya says. He adds that the startup was selected by around 25 percent of FinTech hive sponsors for ..."
+    publishedDateTime: 2019-12-10T00:27:00Z
+    sourceUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy
+    ampUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.97F40836DEAE5458B7C2A3E52920AFAB
+        width: 700
+        height: 350
   - title: "VA Announces New National Artificial Intelligence Institute"
     excerpt: "In September 2019, the organization announced the launch of a new predictive analytics and artificial intelligence center in Palo Alto, California. The National Center for Collaborative Healthcare Innovation (NCCHI) was established to develop impactful healthcare solutions for veterans and their families. “The NCCHI is an important part of ..."
     publishedDateTime: 2019-12-09T15:11:00Z
@@ -63,19 +76,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
-    excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
-    publishedDateTime: 2019-12-09T12:55:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005468/en/Aural-Analytics-Joins-Consumer-Technology-Association-Initiative
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.422446327D0DFEA9AA4A6F3244429449
-        width: 700
-        height: 365
   - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
     excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
     publishedDateTime: 2019-12-10T05:19:00Z
@@ -86,6 +86,6 @@ related:
       domain: eurekalert.org
     quality: 22
 
-secured: "7KdmTwCAhrnjF3/yqHn8g07+n+mcYI2iUV19D228CcEcffv9kW4g2IwOZSxyz9Jiy7iRnV7GiqeGunyFZIr1gTF84/GRHEXosIkFQQtcjgk7MKQX4QGHJHKfhl+hd7aDJ1scVoBWrptoT72cw3ljlre27EnSFDL9R4MksMznl6xZ1gKJCcwrApQGBEOss4Iq0dQycPdHj303/t0pxOAQiQs14md4AaLvWiApC/dfQJd63cY34ZFobaY4VQg51P+X4UkchO7lE8GBcpE/hne4Ew==;XECqoeTzoB4awOI+VtdFfg=="
+secured: "cmO+Yp8tr3CyKQSJxoAHw4BTfKUdnpS8x0SWanyj6ppkrdNOAGAxoshvGe1bkGdk8KLkxebFeY2RTDZFtgqKS74nOHWnCNPgyWNilOH+HleEPLlc4lZYt9XXpYa7GruDQBzp3e6pDBy3EQ9BLOmmOGZagDBsMSTAcUtdWw+k/BL2CRH7KI4zA/KmR3xWQl8UXLdl882NwFRIBnoycJBnP+uAqAe4QD910/NSgHOGBTKWc9zD1kwpIQFHoAmKDkeO9ILVQL4e7JyRJN8X8uW0PQ==;OxNVRgBZoM2Vynh8qDYz5w=="
 ---
 

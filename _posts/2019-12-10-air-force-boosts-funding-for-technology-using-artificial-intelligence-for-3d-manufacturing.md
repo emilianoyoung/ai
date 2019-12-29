@@ -69,6 +69,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
+    excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
+    publishedDateTime: 2019-12-09T12:55:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191209005468/en/Aural-Analytics-Joins-Consumer-Technology-Association-Initiative
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.422446327D0DFEA9AA4A6F3244429449
+        width: 700
+        height: 365
 
 secured: "Kwp5VCbCkoSKJBjx5XpN4DllkYCo/QKpglKUFRkcLz7zZBj3ASdN/m/U9JehRq8xQADAAy+Lpg8Bdkpuj5RiTXWF9/nJIrSbK3Rrg98v0Yo5P8WgJu3CEW5hrqZf05NqhUI8EM8/fvENJEG3sS9Szt9u4/HljEhYC7cWmVUOof+hLSEBi4aQ5+05QMFxellEIY4h+fbcrHjR3I0HNjEi4GCQyEQ4K8a93m6LCiNCEjsYvEt9/3CF2Ejz2XTRe98ITaUkugnfDpjg+vWkaAKnmw==;UCvTc0md8ymynjGHLF5ykg=="
 ---

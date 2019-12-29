@@ -186,21 +186,6 @@ related:
       - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
         width: 620
         height: 372
-  - title: "AI is helping tackle one of the biggest unsolved problems in maths"
-    excerpt: "Artificial intelligence’s ability to sift through large amounts of data is helping us tackle one of the most difficult unsolved problems in mathematics. Yang-Hui He at the City, University of London in the UK and colleagues are using the help of machine learning to better understand the Birch and Swinnerton-Dyer conjecture, one of the seven ..."
-    publishedDateTime: 2019-12-09T11:51:00Z
-    sourceUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/
-    ampUrl: https://www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2226493-ai-is-helping-tackle-one-of-the-biggest-unsolved-problems-in-maths/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.99BAF6171FC373CB30872B6449038250
-        width: 700
-        height: 466
   - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
     excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
     publishedDateTime: 2019-12-13T14:45:00Z

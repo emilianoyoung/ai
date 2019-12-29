@@ -26,19 +26,6 @@ images:
     title: "Watching This AI-Powered LEGO Brick Sorter Is Extremely Satisfying"
 
 related:
-  - title: "‘Universal Lego Sorter’ Uses AI to Recognize Any Lego Brick"
-    excerpt: "Scientists around the world have used neural networks to train self-driving cars, diagnose disease, and search for exoplanets. Now, someone is finally leveraging this technology to do something useful: sorting Lego bricks. On YouTube, you can learn how one man created a Lego sorting machine using AI ... the Universal Lego Sorter can recognize ..."
-    publishedDateTime: 2019-12-09T11:30:00Z
-    sourceUrl: https://www.extremetech.com/extreme/303105-universal-lego-sorter-uses-ai-to-recognize-any-lego-brick
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 137
-    images:
-      - url: https://www.bing.com/th?id=ON.57D6CEAD4C8189C141DD258B4C34B2FC
-        width: 672
-        height: 371
   - title: "Watch this machine made out of Lego sort other Lego using AI"
     excerpt: "If I ever had to sort that collection by hand, it would probably take me the better part of the next 20 years — but perhaps I could use this AI-powered Lego sorting machine that’s made in large part out of more than 10,000 Lego bricks (via ExtremeTech). Dubbed the “Universal Lego Sorting Machine” by its creator, Daniel West, it’s a ..."
     publishedDateTime: 2019-12-12T00:10:00Z
@@ -69,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5D1FAAE55583DF13099B4BDF7B446C02
         width: 700
         height: 394
+  - title: "Machine learning for next-best offers"
+    excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
+    publishedDateTime: 2019-12-11T12:34:00Z
+    sourceUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110
+    ampUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/machine-learning-for-next-best-offers-326110/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.2F2F58CF9FD824C8AADB268976688168
+        width: 700
+        height: 466
 
 secured: "YFaNkdi89Q//11XPwwHun+GXwqq9U8KsU/j1GDMoItWwbg5BSWwqgK67etjp+aBWA/G8M2ixw2VycIhFAKCHvxBTh+Jv1A7YY+HLlA6oDxW+AJ2ceXDiuxlwNt3ZFneHBi+IeplEUcnBCsH8KOo+V5sChZDC//LJaszqpvyBuS5HmvKFS7iBTsVJzUS/FVVq9ahLYPMIzrffxzQxe1ntPR6m+0Y+h/XCVFSIz5ibfXBvkpqS1bDdt4oasashcNddIPFwdLUeDJCyM5qWwJx/FQ==;R/vkphivTnghSqGJGtZVdQ=="
 ---

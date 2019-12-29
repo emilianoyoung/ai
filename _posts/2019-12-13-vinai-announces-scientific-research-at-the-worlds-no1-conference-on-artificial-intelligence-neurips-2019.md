@@ -8,7 +8,7 @@ ampUrl: https://www.globalbankingandfinance.com/category/news/vinai-announces-sc
 cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/vinai-announces-scientific-research-at-the-worlds-no-1-conference-on-artificial-intelligence-neurips-2019/
 type: article
 quality: 55
-heat: 75
+heat: 65
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B8183EFFDFB28C532EFBDF235926E33E
         width: 700
         height: 393
-  - title: "Element AI at NEURIPS 2019 Conference in Vancouver--Seven Posted Papers, Three Workshops and Panel Sessions"
-    excerpt: "VANCOUVER, British Columbia, Dec. 9, 2019 /PRNewswire-PRWeb/ -- Element AI, a global developer of artificial intelligence-powered (AI) software services and products that help organizations operationalize AI, today announced its participation and sponsorship at the 2019 Neural Information ... diverse international network of academic fellows ..."
-    publishedDateTime: 2019-12-09T11:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/element-ai-at-neurips-2019-conference-in-vancouver-seven-posted-papers-three-workshops-and-panel-sessions-1028747141
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "AM7RYTJy606ODMADkd1zRawnjOpcLTpNFp92hXKudr+su8hsJSJGVngakTKJnny1/NlpQqTAZSJYBvRDntP+1dLfUlaoeehNsc7wy8LDO2OcdEc57UFHZkTRIJNm87tYBl/JIh9RUr3blB36eoigTe9i0SwpQIV6di35Z5rD+/Oe7fxd0zG5n23nMPCOgUGusuoTh6o3igYW2q2d0sdqOHHuY+YzqUve2rI4u3cpqknxq/gSmM+c65MWvBEVTQ67h7SDB73qYo55nBdCrpam/g==;n+kI6uEMB7EkYx+vuLY2wA=="
 ---

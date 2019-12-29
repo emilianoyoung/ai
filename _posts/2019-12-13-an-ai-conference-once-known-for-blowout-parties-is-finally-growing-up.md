@@ -38,15 +38,6 @@ related:
       - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
         width: 1000
         height: 667
-  - title: "Element AI at NEURIPS 2019 Conference in Vancouver--Seven Posted Papers, Three Workshops and Panel Sessions"
-    excerpt: "VANCOUVER, British Columbia, Dec. 9, 2019 /PRNewswire-PRWeb/ -- Element AI, a global developer of artificial intelligence-powered (AI) software services and products that help organizations operationalize AI, today announced its participation and sponsorship at the 2019 Neural Information ... diverse international network of academic fellows ..."
-    publishedDateTime: 2019-12-09T11:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/element-ai-at-neurips-2019-conference-in-vancouver-seven-posted-papers-three-workshops-and-panel-sessions-1028747141
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "RKFm48b0yqrrG7zk2GK3ZRG18LAEZsHoZLk9955TsniRFP/wX4DV/aCgdqESNZ2PML8/SO9nNt9usda6ihI9XXfpJ9/k+7v1wI/57NXUS4LkvQ0PSaRcBAChrxBnbS6CssTEwKkMbM9fBHSa3IpZ0qK9YVo1aHnt5k0olsyjAz+e0pFwbIzY4RedJt97+Z8A94IAOKh/znXz3f/hs5Mnc1pSvOtnJxMdVlCMMWWeP1vdM7ZRLPblKX6QK7SFRUS1psQ1ACuFTZLizsl0i2/qcQ==;LRK+MTtwhPcCuDHqQcwvFg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T06:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-advancement-and-business-outlook-2019-2019-12-11
 type: article
 quality: 71
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -226,15 +226,6 @@ related:
       - url: https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook
         width: 666
         height: 350
-  - title: "Enterprise Artificial Intelligence (AI) Market :Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
-    publishedDateTime: 2019-12-09T11:45:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36773/enterprise-artificial-intelligence-ai-market/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 0
 
 secured: "O6TMzeCcWdfR374VbVAivdF0+BnHezJvuH5ZGO+IhA3lv+2mQPMGi46PDD0HkheEKfiKw3tg4p5z3cwdWE0c7Joi3eUsQBGHzCXGONEFpyfONDBEAhnPeG7u00BFKgING/RLtOK5JMuovWqJjIUHGGYeHPXaQyMRMPWf3fyxXaRKuPQc67cOY05WphgJ0hISf0XxAv7ycRdPTwrn3Io7EVIKGEXbCXicG5+HjjWKTnAjoWzTzD7gerYb+Sx6aRnjQFxZ5UF4V6sQK5q+OvOdJQ==;9+dK2ysTu04GTQmZ9xR+rg=="
 ---

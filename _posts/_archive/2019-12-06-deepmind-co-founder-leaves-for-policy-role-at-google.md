@@ -48,19 +48,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind founder leaves to take up separate AI role with Google"
-    excerpt: "The co-founder of Deepmind, Google’s flagship artificial intelligence company, has left his post to take up another position within the multinational technology company. Mustafa Suleyman announced on Twitter he would be joining Google’s team looking at the opportunities and impacts of applied artificial intelligence. Suleyman was placed on ..."
-    publishedDateTime: 2019-12-09T11:05:00Z
-    sourceUrl: https://www.digitalhealth.net/2019/12/deepmind-founder-ai-google/
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2541BFC2B4CFB01AED5CEF39A2AA0A20
-        width: 555
-        height: 330
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -125,6 +112,6 @@ related:
       domain: theregister.co.uk
     quality: 37
 
-secured: "J89WvKPbsW4bWGdXywTb5/ZL6Q21PbxwG6f1W7x3MUqFeQFVqpeweXqZePsqdEsdAPuKrWSnNxoWfdANn3FFyaXvqmpGRYV06tpwdgZfL6C0JYNt2lSaFwMOtJMfySdEyS+8yt6lBea3uRDzToV71oYDzbPy2Xbgi4QyPAKiS6rkZa+kzt5/Pr8SbbDEEw4yuv3XrOkbv4Oe1/33zeKxgBL9bKB4kRmE6se9wL6mq4n4BadB39oj8Ex/L+MrBm1SOBoR/p8SbJNK7e+dZXaQjA==;8gILRVTJdOdX0vjMJe7xLw=="
+secured: "5qznUj7vkQ6tikJeGQBY6YCGGpvOPOkwHRznVUWWL6G2SM0uopnysHU9Vc3/WKyFTAb5qUYfBuHjudg74LIC2zHk4F3WcW0vXSgT1QsFqqhQGdcUeZrjSDyxVRRXg3QKEayh2tQk+ImdY5eDYAM+0RcpbrGJVGKVk018HVUFIC8eZQJ0ImSYXYhBlkLKqkfWrz4kyhxsCEuKctJXf6I2xgpTMz8GElBo8AYsr7JKCbDGAMpHjOpDotIc3UpjqkEBBkoBkuyYw5+sc9+BGdRFKA==;P8KVamSk9wsjUmCPY3ux7w=="
 ---
 

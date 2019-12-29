@@ -8,8 +8,8 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011792/lego-ai-univer
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011792/lego-ai-universal-sorting-machine
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: The Verge
@@ -29,19 +29,6 @@ images:
     title: "Watch this machine made out of Lego sort other Lego using AI"
 
 related:
-  - title: "‘Universal Lego Sorter’ Uses AI to Recognize Any Lego Brick"
-    excerpt: "Scientists around the world have used neural networks to train self-driving cars, diagnose disease, and search for exoplanets. Now, someone is finally leveraging this technology to do something useful: sorting Lego bricks. On YouTube, you can learn how one man created a Lego sorting machine using AI ... the Universal Lego Sorter can recognize ..."
-    publishedDateTime: 2019-12-09T11:30:00Z
-    sourceUrl: https://www.extremetech.com/extreme/303105-universal-lego-sorter-uses-ai-to-recognize-any-lego-brick
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 137
-    images:
-      - url: https://www.bing.com/th?id=ON.57D6CEAD4C8189C141DD258B4C34B2FC
-        width: 672
-        height: 371
   - title: "LEGO Sorting Machine Uses Neural Networks to Sort Any Piece"
     excerpt: "Neutral networks sort the individual pieces discharged by the “vibration feeder.” The most astounding part of the universal LEGO sorter is its use of artificial intelligence, specifically machine learning, and even more specifically, convolutional neural networks. West describes in more detail how the neural networks work in the video below ..."
     publishedDateTime: 2019-12-09T16:37:00Z
@@ -72,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.69A493453305D9CC79E11FC9D689C98E
         width: 480
         height: 241
+  - title: "Machine learning for next-best offers"
+    excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
+    publishedDateTime: 2019-12-11T12:34:00Z
+    sourceUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110
+    ampUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/machine-learning-for-next-best-offers-326110/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.2F2F58CF9FD824C8AADB268976688168
+        width: 700
+        height: 466
 
 secured: "zJ2oVxKf5QoF5DJQ11JKp7bj8uiia/uaH0enWLQU4D4vlCPb/aiA1WpqvJkkIqu8aCUDk82uWnh4qLBaLvZeyoC5MM11zizJKeMTH3QKG94SMSGAli252gCVOyx59EJRJG0OJYYaohRfvENpVDK1Zi3mYcJDcTSiqDi6y3bQqvuG4QOx37vQ0O6My78NuiP/WODgwSrAkop4k5Keammulr3rbFf7/cHQhaoBAfvv2v+vqi8+5gPAq3l2t57fETosvnj+hNcAIg3iaznaeWaBpw==;hIVipEWFOzCE1CECbFcTKA=="
 ---
